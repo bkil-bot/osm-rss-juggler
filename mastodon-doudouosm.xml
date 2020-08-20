@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>You can show your # OSMF membership (and a lot more other) with # badges on your # OSM profile on the wiki by adding the {{UserOSMFMember}} userbox to it: https:// wiki.openstreetmap.org/wiki/Wi ki_userboxes .</title>
+        <link>https://en.osm.town/@Doudouosm/104724061551588537</link>
+        <guid>https://en.osm.town/@Doudouosm/104724061551588537</guid>
+        <pubDate>Thu, 20 Aug 2020 22:26:05 +0000</pubDate>
+      </item><item>
         <title>You can now join the # OpenStreetMap Foundation # OSMF as a voting member under the new Active Contributor Program, provided you achieve significant contribution, like 42 days of mapping over the last year or some other forms of contribution to the community (like organizing events, building software, etc.). https://www. reddit.com/r/openstreetmap/com ments/id6m2y/join_the_openstreetmap_foundation_under_the_shiny/</title>
         <link>https://en.osm.town/@Doudouosm/104722343914561354</link>
         <guid>https://en.osm.town/@Doudouosm/104722343914561354</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/104581766539047272</link>
         <guid>https://en.osm.town/@Doudouosm/104581766539047272</guid>
         <pubDate>Sun, 26 Jul 2020 19:18:35 +0000</pubDate>
-      </item><item>
-        <title>“Providing data to # OpenStreetMap ”: a straightforward how-to guide for organisations that want to contribute their data to # OSM . The guide covers all the prerequisites, as well as explaining the different approaches for integrating data, and discussing which approach will be most suitable in each context. https:// blog.openstreetmap.org/2020/07 /22/providing-data-to-openstreetmap-a-new-guide-for-data-owners</title>
-        <link>https://en.osm.town/@Doudouosm/104562393607120021</link>
-        <guid>https://en.osm.town/@Doudouosm/104562393607120021</guid>
-        <pubDate>Thu, 23 Jul 2020 09:11:48 +0000</pubDate>
       </item>
   </channel>
 </rss>
