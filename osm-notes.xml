@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Somogysárd) / * 2020 March 28 16:40 iberti Created: mail box / via StreetComplete 18.0 / Attached photo(s): / https://westnordost.de/p/11135.jpg / * 2020 August 21 17:24 urbalazs Resolved: A kép alapján ez egy privát postaládának tűnik. Én nem tenném fel a térképre.</title>
+        <link>https://www.openstreetmap.org/note/2139165#c4947209</link>
+        <guid>https://www.openstreetmap.org/note/2139165#c4947209</guid>
+        <pubDate>Fri, 21 Aug 2020 17:24:22 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Somogysárd) / * 2020 March 28 16:39 iberti Created: pic-nic area / via StreetComplete 18.0 / Attached photo(s): / https://westnordost.de/p/11134.jpg / * 2020 August 21 17:23 urbalazs Resolved: Megoldva a bejelentő által.</title>
+        <link>https://www.openstreetmap.org/note/2139163#c4947208</link>
+        <guid>https://www.openstreetmap.org/note/2139163#c4947208</guid>
+        <pubDate>Fri, 21 Aug 2020 17:23:46 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Béke-Füredi lakótelep, Kaposvár) / * 2017 January 24 21:35 Sántha Imre Created: Humán erő gondnokság (OSM data version: 2016-12-14T16:41:03Z) #mapsme / * 2020 August 21 17:21 urbalazs Resolved: Elnézést, ez a térképjegyzet hiányos. Adjon részletes leírást arról a problémáról, amit jelenteni szeretne.</title>
+        <link>https://www.openstreetmap.org/note/862336#c4947204</link>
+        <guid>https://www.openstreetmap.org/note/862336#c4947204</guid>
+        <pubDate>Fri, 21 Aug 2020 17:21:59 +0000</pubDate>
+      </item><item>
         <title>closed note (near Lengyel) / * 2020 July 7 14:37 GBAB Created: Duzzasztógát / * 2020 August 21 17:17 urbalazs Resolved: Megoldva a bejelentő által.</title>
         <link>https://www.openstreetmap.org/note/2256530#c4947198</link>
         <guid>https://www.openstreetmap.org/note/2256530#c4947198</guid>
@@ -92,21 +107,6 @@
         <link>https://www.openstreetmap.org/note/2316018#c4945627</link>
         <guid>https://www.openstreetmap.org/note/2316018#c4945627</guid>
         <pubDate>Fri, 21 Aug 2020 07:28:22 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Belsőmajor, 18th district) / * 2015 March 1 10:43 nagy_balint Created: Bing shows, that there is no street. Please check Ózon utca there / * 2020 August 20 23:21 urbalazs Resolved: There is a street, but covered by trees. However, the street seems to be ended at the last building. I fixed it.</title>
-        <link>https://www.openstreetmap.org/note/325100#c4945128</link>
-        <guid>https://www.openstreetmap.org/note/325100#c4945128</guid>
-        <pubDate>Thu, 20 Aug 2020 23:21:45 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Belsőmajor, 18th district) / * 2015 March 1 10:44 nagy_balint Created: Bing shows that this is only a track. Please check Belsőmajor dűlő there and change tags if needed. / * 2020 August 20 23:21 urbalazs Resolved: Yes, this is definitely a track. I changed the type.</title>
-        <link>https://www.openstreetmap.org/note/325101#c4945127</link>
-        <guid>https://www.openstreetmap.org/note/325101#c4945127</guid>
-        <pubDate>Thu, 20 Aug 2020 23:21:45 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Szentlőrinc úti lakótelep, 23rd district) / * 2020 February 28 20:55 Created: Sósmocsár út / * 2020 August 20 21:55 urbalazs Resolved: 4 hónapja felkerült a térképre.</title>
-        <link>https://www.openstreetmap.org/note/2105467#c4945055</link>
-        <guid>https://www.openstreetmap.org/note/2105467#c4945055</guid>
-        <pubDate>Thu, 20 Aug 2020 21:55:19 +0000</pubDate>
       </item>
   </channel>
 </rss>
