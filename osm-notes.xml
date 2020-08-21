@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Lengyel) / * 2020 July 7 14:37 GBAB Created: Duzzasztógát / * 2020 August 21 17:17 urbalazs Resolved: Megoldva a bejelentő által.</title>
+        <link>https://www.openstreetmap.org/note/2256530#c4947198</link>
+        <guid>https://www.openstreetmap.org/note/2256530#c4947198</guid>
+        <pubDate>Fri, 21 Aug 2020 17:17:20 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Lengyel) / * 2020 July 7 14:37 GBAB Created: Cutline / * 2020 August 21 17:17 urbalazs Resolved: Megoldva a bejelentő által.</title>
+        <link>https://www.openstreetmap.org/note/2256531#c4947197</link>
+        <guid>https://www.openstreetmap.org/note/2256531#c4947197</guid>
+        <pubDate>Fri, 21 Aug 2020 17:17:12 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Lengyel) / * 2020 July 7 14:37 GBAB Created: barrier=gate / * 2020 August 21 17:16 urbalazs Resolved: Megoldva a bejelentő által.</title>
+        <link>https://www.openstreetmap.org/note/2256528#c4947196</link>
+        <guid>https://www.openstreetmap.org/note/2256528#c4947196</guid>
+        <pubDate>Fri, 21 Aug 2020 17:16:46 +0000</pubDate>
+      </item><item>
         <title>closed note (near Erzsébetváros, 7th district) / * 2020 August 18 15:15 zurco Created: Király utca 5 until Károly körút is not anymore accessible to cars. / They changed it to a dead end accessible only to bicycles. / https://photos.app.goo.gl/GUm8LdyNBZWrixiCA / * 2020 August 19 06:18 urbalazs Resolved: Fixed by the reporter. / * 2020 August 21 13:42 zurco Reactivated:  / * 2020 August 21 13:43 zurco Resolved: It still shows the street as accessible by car, but it&amp;#39;s closed/forbiden / * 2020 August 21 13:43 zurco Reactivated:  / * 2020 August 21 14:40 vasony Resolved: The map is correct, tagged as motor_vehicle=no / * 2020 August 21 14:45 vasony Reactivated:  / * 2020 August 21 14:46 vasony Resolved: sorry, motor_vehicle=private / means = &amp;quot;kivéve engedéllyel, kerékpár&amp;quot;</title>
         <link>https://www.openstreetmap.org/note/2312481#c4946887</link>
         <guid>https://www.openstreetmap.org/note/2312481#c4946887</guid>
@@ -92,21 +107,6 @@
         <link>https://www.openstreetmap.org/note/2105467#c4945055</link>
         <guid>https://www.openstreetmap.org/note/2105467#c4945055</guid>
         <pubDate>Thu, 20 Aug 2020 21:55:19 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Halmierdő, 18th district) / * 2020 February 11 21:48 boa05 Created: Unable to answer &amp;quot;How is this railway crossing protected?&amp;quot; for https://osm.org/node/262065906 via StreetComplete 17.0: / itt már nem megy vonat / * 2020 August 20 21:54 urbalazs Resolved: Teljesen le van aszfaltozva a kereszteződés, nincs közös ponton az út és a sín. Javítottam.</title>
-        <link>https://www.openstreetmap.org/note/2086642#c4945054</link>
-        <guid>https://www.openstreetmap.org/note/2086642#c4945054</guid>
-        <pubDate>Thu, 20 Aug 2020 21:54:19 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Soroksár, 23rd district) / * 2020 February 11 21:48 boa05 Created: Unable to answer &amp;quot;How is this railway crossing protected?&amp;quot; for https://osm.org/node/656267609 via StreetComplete 17.0: / itt már nem megy vonat / * 2020 August 20 21:54 urbalazs Resolved: Vonat már nem jár, de a sínek és az úttest még keresztezi egymást. Meghagyom az átkelőt.</title>
-        <link>https://www.openstreetmap.org/note/2086644#c4945053</link>
-        <guid>https://www.openstreetmap.org/note/2086644#c4945053</guid>
-        <pubDate>Thu, 20 Aug 2020 21:54:18 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Liget lakópark, Máriatelep, Gyömrő) / * 2020 August 7 22:17 drfotii Created: &amp;quot;viz1&amp;quot; / POI name: Záportározó / POI types: natural-water / OSM data version: 2020-07-14T11:22:37Z / #mapsme / * 2020 August 20 19:19 urbalazs Resolved: Elnézést, ez a térképjegyzet hiányos. Adjon részletes leírást arról a problémáról, amit jelenteni szeretne.</title>
-        <link>https://www.openstreetmap.org/note/2298105#c4944771</link>
-        <guid>https://www.openstreetmap.org/note/2298105#c4944771</guid>
-        <pubDate>Thu, 20 Aug 2020 19:19:58 +0000</pubDate>
       </item>
   </channel>
 </rss>
