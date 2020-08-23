@@ -2,6 +2,11 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      
+      <item>
+        <title>Hungary/Szerszámzat: OSM GIMMISN reference (Sun, 23 Aug 2020 21:20:42 GMT) -Vasony</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Szersz%C3%A1mzat&amp;diff=2025208&amp;oldid=2024694</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Szersz%C3%A1mzat&amp;diff=2025208&amp;oldid=2024694</guid>
+        <pubDate>Sun, 23 Aug 2020 21:20:42 GMT</pubDate>
+      </item>
   </channel>
 </rss>
