@@ -287,36 +287,6 @@
         <link>https://www.openstreetmap.org/note/99460#c4953828</link>
         <guid>https://www.openstreetmap.org/note/99460#c4953828</guid>
         <pubDate>Mon, 24 Aug 2020 08:10:18 +0000</pubDate>
-      </item><item>
-        <title>reactivated note (near Bozsok) / * 2020 August 24 07:58 fkv Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/99460#c4953786</link>
-        <guid>https://www.openstreetmap.org/note/99460#c4953786</guid>
-        <pubDate>Mon, 24 Aug 2020 07:58:12 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Bozsok) / * 2014 January 11 10:13 Created: Moved from OSB ID606293: / There are some caves NW Bozsog: Kalapos-köi-barlang, Holler-barlang, Tüzifas-barlang, Lena-fülke, Ladera-fülke, Arktik-fülke, Hegedüs-fülke, Antarktik-fülke, Limax-barlang, Csalanos-eresz, and Nyiladek-melletti-barlang. Can you find out actual positions and correct spelling? [fkv, 2011-08-16 22:14:18 CEST] / Some of the spellings: Kalapos-kői-barlang, Tűzifás-barlang (or Tüzifás, I&amp;#39;m unsure here, looks like both spelling is used), Hegedűs-fülke,  Csalános-eresz, Nyiladék-melletti-barlang. The others were correct. No idea about their positions though. However, it&amp;#39;s possible to find information such as: http://turistautak.hu/poi.php?id=16290 [NaTToMi, 2011-08-20 21:20:48 CEST] / There are also plenty of cave names and coordinates on http://geogr.elte.hu/nonkarstic/ . It would be great to import caves from either site. Has anybody asked for permission yet? [fkv, 2011-09-09 17:15:26 CEST] / turistautak is unlikely to give permission, but the ELTE guys might. I could not find any contact information on their site. Anybody else tried? [sz, 2012-10-04 12:11:08 CEST] / Contacted the &amp;quot;nonkarstic&amp;quot; team, still waiting for reply. [sz, 2012-10-11 11:45:31 CEST] / no answer yet? maybe the mail got lost? [fkv, 2013-02-05 23:15:13 CET] / They have not answered, but according to their page, the data can be digitally copied and distributed, so I think they would not be too cross if we imported it to OSM with proper attribution, but I am not a lawyer. [szszszsz, 2013-03-29 11:33:38 CET] / * 2014 July 6 10:47 nemethtamas Updated: A http://geogr.elte.hu/nonkarstic/ oldal koordinátái sajnos nem túl pontosak, helyenként több száz méteres eltérések vannak. / * 2014 October 1 21:42 fkv Updated: Inaccurate data is better than having no data at all. As soon as the caves are inside OSM, mappers (including me) will be going to improve data quality. I am still concerned about the lack of permission, though. Can anybode cite the statement on their website supposedly permitting digital redistribution? / * 2020 August 24 07:51 urbalazs Resolved: This is a very old note and it seems, there is no progress on this issue. However, this function is used to report map defects, but many missing objects is reported here. IMHO for reporting many missing map features you should open separate notes for each. Please put new notes to the places where the caves should be, separate note for each. Then it would be easier to fix the issues. I close this note for now.</title>
-        <link>https://www.openstreetmap.org/note/99460#c4953780</link>
-        <guid>https://www.openstreetmap.org/note/99460#c4953780</guid>
-        <pubDate>Mon, 24 Aug 2020 07:51:01 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Velem) / * 2019 February 9 22:51 Created: A Péterics forrás beomlott, tönkrement. Minimális szivárgás tapasztalható csak a környékén! / * 2020 August 24 07:43 urbalazs Resolved: Amíg van minimális szivárgása a forrásnak, addig nem törölném le.</title>
-        <link>https://www.openstreetmap.org/note/1676316#c4953764</link>
-        <guid>https://www.openstreetmap.org/note/1676316#c4953764</guid>
-        <pubDate>Mon, 24 Aug 2020 07:43:23 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Ungarmarkt előváros, Kőszeg) / * 2020 July 24 11:59 Created: Ennek a sporttelepnek a neve a térképen hibás. A hivatalos neve Lóránt Gyula Sporttelep. / * 2020 August 24 07:42 urbalazs Resolved: Kiavítottam a nevet: https://www.openstreetmap.org/changeset/89840293</title>
-        <link>https://www.openstreetmap.org/note/2277078#c4953761</link>
-        <guid>https://www.openstreetmap.org/note/2277078#c4953761</guid>
-        <pubDate>Mon, 24 Aug 2020 07:42:20 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Ungarmarkt előváros, Kőszeg) / * 2020 July 24 12:07 Created: Wrong name. The name of this sports field is &amp;quot;Lóránt Gyula Sporttelep.&amp;quot; / * 2020 August 24 07:42 urbalazs Resolved: Kiavítottam a nevet: https://www.openstreetmap.org/changeset/89840293</title>
-        <link>https://www.openstreetmap.org/note/2277081#c4953760</link>
-        <guid>https://www.openstreetmap.org/note/2277081#c4953760</guid>
-        <pubDate>Mon, 24 Aug 2020 07:42:20 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Szabóhegy, Kőszeg) / * 2019 August 13 12:58 GerdP Created: If I remember correctly this road is a oneway between nodes 309946874 and 309947583. I cycled there 2019-07-08. I am not sure where the oneway sign was, but I think near node 309947583 there was a sign 250 / * 2020 August 24 07:31 urbalazs Resolved: One way is set 4 months ago.</title>
-        <link>https://www.openstreetmap.org/note/1882812#c4953726</link>
-        <guid>https://www.openstreetmap.org/note/1882812#c4953726</guid>
-        <pubDate>Mon, 24 Aug 2020 07:31:54 +0000</pubDate>
       </item>
   </channel>
 </rss>
