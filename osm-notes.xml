@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Göncz Árpád városközpont, 13th district) / * 2020 August 27 09:47 Ferenc Vasóczki Created: teszt</title>
+        <link>https://www.openstreetmap.org/note/2324800#c4963376</link>
+        <guid>https://www.openstreetmap.org/note/2324800#c4963376</guid>
+        <pubDate>Thu, 27 Aug 2020 09:47:51 +0000</pubDate>
+      </item><item>
         <title>new note (near Belváros, 5th district) / * 2020 August 26 23:06 osmost Created: Unable to answer &amp;quot;What is the name of this place? (Cosmetics Store)&amp;quot; for https://osm.org/node/5101337621 via StreetComplete 22.2: / Kein Kosmetikladen erkennbar / Attached photo(s): / https://westnordost.de/p/18097.jpg</title>
         <link>https://www.openstreetmap.org/note/2324314#c4962436</link>
         <guid>https://www.openstreetmap.org/note/2324314#c4962436</guid>
@@ -217,16 +222,6 @@
         <link>https://www.openstreetmap.org/note/1464139#c4957924</link>
         <guid>https://www.openstreetmap.org/note/1464139#c4957924</guid>
         <pubDate>Tue, 25 Aug 2020 15:41:21 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Miklóskapu, Debrecen) / * 2017 August 1 11:20 Norbee97 Created: &amp;quot;már rég megszűnt megálló&amp;quot; / The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI name: Nagyállomás, toronyház / POI types: highway-bus_stop / OSM data version: 2017-06-09T16:24:09Z / #mapsme / * 2020 August 25 15:39 urbalazs Resolved: Megszüntettem.</title>
-        <link>https://www.openstreetmap.org/note/1087606#c4957920</link>
-        <guid>https://www.openstreetmap.org/note/1087606#c4957920</guid>
-        <pubDate>Tue, 25 Aug 2020 15:39:12 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Miklóskapu, Debrecen) / * 2017 August 1 11:11 Norbee97 Created: &amp;quot;már rég megszűnt megálló&amp;quot; / The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI name: Nagyállomás, toronyház / POI types: highway-bus_stop / OSM data version: 2017-06-09T16:24:09Z / #mapsme / * 2020 August 25 15:39 urbalazs Resolved: Duplikált jegyzet, vagy egy ugyanilyen jegyzet ugyanitt.</title>
-        <link>https://www.openstreetmap.org/note/1087596#c4957919</link>
-        <guid>https://www.openstreetmap.org/note/1087596#c4957919</guid>
-        <pubDate>Tue, 25 Aug 2020 15:39:12 +0000</pubDate>
       </item>
   </channel>
 </rss>
