@@ -2,6 +2,11 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      
+      <item>
+        <title>Hungary/Android: OsmAnd: nem működő letöltési linkek helyett hivatalos havi frissítés linkje (Fri, 28 Aug 2020 09:16:17 GMT) -Bkil</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Android&amp;diff=2026737&amp;oldid=1957453</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Android&amp;diff=2026737&amp;oldid=1957453</guid>
+        <pubDate>Fri, 28 Aug 2020 09:16:17 GMT</pubDate>
+      </item>
   </channel>
 </rss>
