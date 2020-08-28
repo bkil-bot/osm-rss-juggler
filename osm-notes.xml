@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Majorok, Mosonmagyaróvár) / * 2020 August 27 19:29 Created: MVJE 2020 Veterán nagyrendezvény / * 2020 August 28 07:07 urbalazs Resolved: Köszönjük a bejelentését, de ez a funkció a térkép hibáinak jelzésére szolgál. Rendezvényeket nem szoktunk jelölni a térképen.</title>
+        <link>https://www.openstreetmap.org/note/2325537#c4965867</link>
+        <guid>https://www.openstreetmap.org/note/2325537#c4965867</guid>
+        <pubDate>Fri, 28 Aug 2020 07:07:06 +0000</pubDate>
+      </item><item>
         <title>new note (near Majorok, Mosonmagyaróvár) / * 2020 August 27 19:29 Created: MVJE 2020 Veterán nagyrendezvény</title>
         <link>https://www.openstreetmap.org/note/2325537#c4964984</link>
         <guid>https://www.openstreetmap.org/note/2325537#c4964984</guid>
@@ -152,16 +157,6 @@
         <link>https://www.openstreetmap.org/note/2323146#c4959985</link>
         <guid>https://www.openstreetmap.org/note/2323146#c4959985</guid>
         <pubDate>Wed, 26 Aug 2020 09:04:01 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Gerőtelep, Záhony) / * 2017 June 2 13:04 KovácsAttila Created: &amp;quot;Személyszállitásra nincs megyitva&amp;quot; / POI name: Záhony-széles átrakó / POI types: railway-station / OSM data version: 2017-05-11T13:22:09Z / #mapsme / * 2020 August 26 07:26 urbalazs Resolved: Szerintem a térkép sem jelzi személyszállításra ezt a részt. Kicsit arrébb ott van az utasoknak szánt állomás.</title>
-        <link>https://www.openstreetmap.org/note/1016828#c4959656</link>
-        <guid>https://www.openstreetmap.org/note/1016828#c4959656</guid>
-        <pubDate>Wed, 26 Aug 2020 07:26:37 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Kertváros, Bicske) / * 2020 August 25 21:53 Created: onosm.org submitted note from a business: / name: Maja-Méh Kft. / phone: 06 22 350 697 / website: / twitter: undefined / hours: / category: / address: Hungary 2060 bicske, móricz zsigmond utca 25. / * 2020 August 26 06:51 vasony Resolved: Felvettem.</title>
-        <link>https://www.openstreetmap.org/note/2322719#c4959613</link>
-        <guid>https://www.openstreetmap.org/note/2322719#c4959613</guid>
-        <pubDate>Wed, 26 Aug 2020 06:51:17 +0000</pubDate>
       </item>
   </channel>
 </rss>
