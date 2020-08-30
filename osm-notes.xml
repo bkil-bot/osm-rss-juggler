@@ -2,16 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Notes (via bkil-bot)</title>
-      <item>
-        <title>new comment (near Erzsébetváros, 7th district) / * 2020 August 30 11:24 zurco Updated: They made a new traffic sign for this end of Király utca / https://photos.app.goo.gl/a2W9MtX3oypFRqJ87</title>
-        <link>https://www.openstreetmap.org/note/2312481#c4971270</link>
-        <guid>https://www.openstreetmap.org/note/2312481#c4971270</guid>
-        <pubDate>Sun, 30 Aug 2020 11:24:52 +0000</pubDate>
-      </item><item>
-        <title>reactivated note (near Erzsébetváros, 7th district) / * 2020 August 18 15:15 zurco Created: Király utca 5 until Károly körút is not anymore accessible to cars. / They changed it to a dead end accessible only to bicycles. / https://photos.app.goo.gl/GUm8LdyNBZWrixiCA / * 2020 August 19 06:18 urbalazs Resolved: Fixed by the reporter. / * 2020 August 21 13:42 zurco Reactivated:  / * 2020 August 21 13:43 zurco Resolved: It still shows the street as accessible by car, but it&amp;#39;s closed/forbiden / * 2020 August 21 13:43 zurco Reactivated:  / * 2020 August 21 14:40 vasony Resolved: The map is correct, tagged as motor_vehicle=no / * 2020 August 21 14:45 vasony Reactivated:  / * 2020 August 21 14:46 vasony Resolved: sorry, motor_vehicle=private / means = &amp;quot;kivéve engedéllyel, kerékpár&amp;quot; / * 2020 August 30 11:24 zurco Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/2312481#c4971268</link>
-        <guid>https://www.openstreetmap.org/note/2312481#c4971268</guid>
-        <pubDate>Sun, 30 Aug 2020 11:24:18 +0000</pubDate>
-      </item>
+      
   </channel>
 </rss>
