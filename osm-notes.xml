@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Balatonakarattya) / * 2020 September 1 10:34 grozsa11 Created: Az OsmAnd útvonaltervezője nekem nem tervez ezen a szakaszon átjutást. Valamiért kikerüli a zöld folt északi oldala felé. Tudja valaki, hogy miért? / * 2020 September 3 08:30 infeeeee Updated: Ha jól sejtem a zöld folt feletti útról csak balra lehet kanyarodni a Rákóczi útra? https://www.openstreetmap.org/way/288875548 / És jobbra az általad jelölt úton lehet kanyarodni? / Ha ez így van, akkor kanyarodási korlátozásokat kell beállítani a két csomóponton, az útvonaltervező hamarabb akar feljutni a nagyobb útra, ezért kerüli ki ezt az útvonalat, a másik út rövidebb.</title>
+        <link>https://www.openstreetmap.org/note/2331148#c4982039</link>
+        <guid>https://www.openstreetmap.org/note/2331148#c4982039</guid>
+        <pubDate>Thu, 03 Sep 2020 08:30:53 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Tópark, Biatorbágy) / * 2020 June 22 07:27 Gerasis Resita Created: De ce maps.me sau MapFactor Navigator nu fac trecerea directa de pe M0 pe M1? Ambele aplicatii fac iesire de pe autostrada M0 spre giratoriu si apoi reintrare pe M1. / * 2020 September 3 08:20 infeeeee Resolved: Please use english next time. / Translated with google translate: Why doesn&amp;#39;t maps.me or MapFactor Navigator make the direct switch from M0 to M1? Both applications exit the M0 motorway at the roundabout and then re-enter the M1. / It&amp;#39;s a problem with yor routing or navigation program, it seems, osm&amp;#39;s builtin algorithms use the direct connection. See this example: / https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&amp;amp;route=47.3643%2C19.0953%3B47.4971%2C18.7452</title>
+        <link>https://www.openstreetmap.org/note/2237888#c4982024</link>
+        <guid>https://www.openstreetmap.org/note/2237888#c4982024</guid>
+        <pubDate>Thu, 03 Sep 2020 08:20:47 +0000</pubDate>
+      </item><item>
         <title>new note (near Ipolytarnóc) / * 2020 September 3 08:14 ITineris Created: Ezek a szigetek miért nem jelennek meg ugyanúgy, mint a másik tavon? Ugyanazok a címkéik, és ugyanúgy belső tagjai a tó multipoligon kapcsolatának.</title>
         <link>https://www.openstreetmap.org/note/2333397#c4981968</link>
         <guid>https://www.openstreetmap.org/note/2333397#c4981968</guid>
