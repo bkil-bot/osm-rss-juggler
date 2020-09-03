@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Országút, 2nd district) / * 2020 September 3 09:56 urbalazs Updated: A Mapillary-n egy zárt, őrzött parkolót látok az udvarban.</title>
+        <link>https://www.openstreetmap.org/note/2123906#c4982404</link>
+        <guid>https://www.openstreetmap.org/note/2123906#c4982404</guid>
+        <pubDate>Thu, 03 Sep 2020 09:56:13 +0000</pubDate>
+      </item><item>
+        <title>reactivated note (near Országút, 2nd district) / * 2020 September 3 09:55 urbalazs Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/2123906#c4982402</link>
+        <guid>https://www.openstreetmap.org/note/2123906#c4982402</guid>
+        <pubDate>Thu, 03 Sep 2020 09:55:54 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Balatonakarattya) / * 2020 September 3 09:29 infeeeee Updated: Hát nem tisztán távolság alapján ad útvonalat, hanem feltételezi, hogy nagyobb úton gyorsabban lehet haladni, gondolom, nem ismerem a pontos súlyozásukat. Ha itt osmen átállítod gyalogosra, akkor általában a legrövidebb útvonalat adja ki. / Mondjuk ez a tervező meg nem kerüli meg a zöld foltot északról, szóval ha nincs tiltás, akkor ez egy útvonaltervező bug: https://maps.openrouteservice.org/directions?n1=47.026588&amp;amp;n2=18.13854&amp;amp;n3=17&amp;amp;a=47.028793,18.131824,47.025791,18.141561&amp;amp;b=0&amp;amp;c=0&amp;amp;k1=en-US&amp;amp;k2=km</title>
+        <link>https://www.openstreetmap.org/note/2331148#c4982287</link>
+        <guid>https://www.openstreetmap.org/note/2331148#c4982287</guid>
+        <pubDate>Thu, 03 Sep 2020 09:29:43 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Balatonakarattya) / * 2020 September 3 09:22 grozsa11 Updated: Ó, köszi, ezt nem tudtam, hogy a &amp;quot;hamarabb akar följutni a főútra&amp;quot; is egy rule... Na akkor ellenőrzöm, hogy a helyszínen szabad-e az ÉK-felé kiágazásból DK-re fordulni és ha nem akkor egyszerűen annak a berögzítésével fog megoldódni... / Ha azonban a helyszínen lehet az ÉK-re haladó kijáratról jobbra is fordulni, akkor az útvonaltervezésre lesz bízva, mit ajánl... / Köszi Infeee a segítséget!!</title>
+        <link>https://www.openstreetmap.org/note/2331148#c4982256</link>
+        <guid>https://www.openstreetmap.org/note/2331148#c4982256</guid>
+        <pubDate>Thu, 03 Sep 2020 09:22:05 +0000</pubDate>
+      </item><item>
         <title>new comment (near Balatonakarattya) / * 2020 September 1 10:34 grozsa11 Created: Az OsmAnd útvonaltervezője nekem nem tervez ezen a szakaszon átjutást. Valamiért kikerüli a zöld folt északi oldala felé. Tudja valaki, hogy miért? / * 2020 September 3 08:30 infeeeee Updated: Ha jól sejtem a zöld folt feletti útról csak balra lehet kanyarodni a Rákóczi útra? https://www.openstreetmap.org/way/288875548 / És jobbra az általad jelölt úton lehet kanyarodni? / Ha ez így van, akkor kanyarodási korlátozásokat kell beállítani a két csomóponton, az útvonaltervező hamarabb akar feljutni a nagyobb útra, ezért kerüli ki ezt az útvonalat, a másik út rövidebb.</title>
         <link>https://www.openstreetmap.org/note/2331148#c4982039</link>
         <guid>https://www.openstreetmap.org/note/2331148#c4982039</guid>
