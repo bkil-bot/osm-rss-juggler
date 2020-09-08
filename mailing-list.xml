@@ -3,6 +3,21 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] FSF.hu OSM szerverének hasznosítása: vektorcsempék: Szlovákiában a turistajelzésekben nem használatosak piktogramok, ezért a szlovák turistatérképeken csak a sima színezett kiemelés a szokványos (van még más hely Magyarországon kívül, ahol ennyi különböző alakjelzés lenne?). Az Opentopomapot (OTM) én is szeretem, használom is olyan térségekben, -Gergely Matefi</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/BsCPDWCUGCE/N_x5DAyfBwAJ</link>
+        <guid>https://groups.google.com/d/topic/openstreetmap-hungary/BsCPDWCUGCE</guid>
+        <pubDate>Tue, 08 Sep 2020 21:13:05 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] FSF.hu OSM szerverének hasznosítása: vektorcsempék: Szia! Ami a színezést illeti, én is pontosan erre gondoltam. Legjobb tudomásom szerint vektorcsempéket kiszolgálni nem nagy etwas, viszont a legyártásuk költséges, ezért valós idejű térképhez nem alkalmasak. Üdv, Balázs 2020.09.08. 22:33 -kor, ITineris OSM ezt írta: -Balázs Meskó</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/BsCPDWCUGCE/gZaGsKGdBwAJ</link>
+        <guid>https://groups.google.com/d/topic/openstreetmap-hungary/BsCPDWCUGCE</guid>
+        <pubDate>Tue, 08 Sep 2020 20:47:09 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] FSF.hu OSM szerverének hasznosítása: vektorcsempék: Szia! Azt hiszem, még senki nem említette a turistautak színezését. Engem az OsmAndban, a turistautak.hu-n, a freemap.sk-n és a WayMarked Trails-en is zavar, hogy &quot;fontosság&quot; szerint vannak színezve. Olyat szeretnék, ahol az OKT kék, a DDP piros, a Mária-út lila, a sárga kereszt sárga stb. -ITineris OSM</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/BsCPDWCUGCE/uCzHEeWcBwAJ</link>
+        <guid>https://groups.google.com/d/topic/openstreetmap-hungary/BsCPDWCUGCE</guid>
+        <pubDate>Tue, 08 Sep 2020 20:33:39 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] FSF.hu OSM szerverének hasznosítása: vektorcsempék: &quot; természetjárásra optimalizált megjelenéssel &quot; Azért bőven volna mit javítani rajta, de ez nyilván egyén függő. A 2 legnagyobb gondom vele, hogy a szintvonalak feliratai nem irányhelyesek, valamint a turistajelzések nem piktogramos megjelenésűek. Nekem jelenleg az opentopomap háttér és a Dömcsi -turistautsz...@gmail.com</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/BsCPDWCUGCE/bs-xz8aZBwAJ</link>
         <guid>https://groups.google.com/d/topic/openstreetmap-hungary/BsCPDWCUGCE</guid>
@@ -237,21 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/GM3pyJjrj4w/ieviN6FyAgAJ</link>
         <guid>https://groups.google.com/d/topic/openstreetmap-hungary/GM3pyJjrj4w</guid>
         <pubDate>Tue, 11 Aug 2020 07:16:16 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Re: 16. OSM születésnap - hol tartsuk meg és mikor?: Asztalfoglalás sikeres 7 főre. Holnap 18:00-kor buli! On Sat, Aug 8, 2020 at 2:26 AM Thomas Nagy wrote: &gt; Lehet jelentkezni a keddi svédasztalozásra: &gt; &gt; - https://www.meetup.com/OpenStreetMap-Hungary/events/272435625/ &gt; - https://gettogether.community/events/6761/2020-08 -Thomas Nagy</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/1CFMLKFTLwg/h01bJoVMAgAJ</link>
-        <guid>https://groups.google.com/d/topic/openstreetmap-hungary/1CFMLKFTLwg</guid>
-        <pubDate>Mon, 10 Aug 2020 19:37:53 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] traces kulcs: Igen, sok évvel ezelőtt a turistautak.hu importtal együtt jött át, és az importált út geometriai pontosságát jelzi. Ha valaki frissebb OSM adatok (pl pontosan kalibrált műholdkép, tracklogok) alapján pontosítja az útvonal geometriáját, akkor nyugodtan törölhető. /g On Mon, Aug 10, 2020 at 2:44 -Gergely Matefi</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/I3tf6XPyFsk/r56xgqU3AgAJ</link>
-        <guid>https://groups.google.com/d/topic/openstreetmap-hungary/I3tf6XPyFsk</guid>
-        <pubDate>Mon, 10 Aug 2020 13:15:23 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] traces kulcs: A tuhun anno volt egy manuálisan beállítandó tracks paraméter (kb 0/1/több értelmes értékekkel) azzal lehetett jelezni hány tracklog alapján lett berajozlva az út Talán ezt hozta át valaki? Sok értelmét egyébként nem látom.. On Mon, Aug 10, 2020 at 2:33 PM Babos, Gábor -izsolt</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/I3tf6XPyFsk/4a0KzfY1AgAJ</link>
-        <guid>https://groups.google.com/d/topic/openstreetmap-hungary/I3tf6XPyFsk</guid>
-        <pubDate>Mon, 10 Aug 2020 12:44:32 UTC</pubDate>
       </item>
   </channel>
 </rss>
