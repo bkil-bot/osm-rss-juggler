@@ -2,6 +2,11 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      
+      <item>
+        <title>Hungary/Szerszámzat: Parszerek: utcanév normalizáláshoz kisbetűs szavak (Wed, 09 Sep 2020 12:01:24 GMT) -Bkil</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Szersz%C3%A1mzat&amp;diff=2031130&amp;oldid=2030599</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Szersz%C3%A1mzat&amp;diff=2031130&amp;oldid=2030599</guid>
+        <pubDate>Wed, 09 Sep 2020 12:01:24 GMT</pubDate>
+      </item>
   </channel>
 </rss>
