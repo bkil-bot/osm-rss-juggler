@@ -3,6 +3,16 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>OSMtiledownloader: Sziasztok! Nincs meg valakinek a OSMtiledownloader nevű program, elég régen nem volt továbbfejlesztve, a lényeg a pgw-kel ellátott tile-ok lennének. https://wiki.openstreetmap.org/wiki/OSMtiledownloader#v0.3 Köszi! -Endre</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/k_HCH0HYlSc/ZHQ37Jk6AwAJ</link>
+        <guid>https://groups.google.com/d/topic/openstreetmap-hungary/k_HCH0HYlSc</guid>
+        <pubDate>Thu, 10 Sep 2020 18:54:18 UTC</pubDate>
+      </item><item>
+        <title>Re: QGIS: Köszönöm mindenkinek a segítséget! hungarian_user a következőt írta (2020. augusztus 18., kedd, 17:14:10 UTC+2): &gt; Ez mindig az adott céges (szoftver)környezettől függ. Nálunk például külön &gt; IT-osztály gondoskodik a szoftverek telepítéséről, és (elvileg) csak azokat &gt; a szoftvereket szabadna -Endre</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/zUL5IyALafI/b53io3I6AwAJ</link>
+        <guid>https://groups.google.com/d/topic/openstreetmap-hungary/zUL5IyALafI</guid>
+        <pubDate>Thu, 10 Sep 2020 18:51:29 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] FSF.hu OSM szerverének hasznosítása: vektorcsempék: A turistautak színezésével az a baj, hogy ha egy útvonalon 3 szín megy, akkor milyen legyen a színe. A PCD sokminden lehet, sajnos némelyik kimenet simán csinál PCD-t pl. egy &quot;Piros Ciklámen Delelőút&quot; -ból Ezért lenne jó egy saját csempeszerver, mert az testre lehetne szabni. Persze én nem értek -turistautsz...@gmail.com</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/BsCPDWCUGCE/Tvs5-tYSAwAJ</link>
         <guid>https://groups.google.com/d/topic/openstreetmap-hungary/BsCPDWCUGCE</guid>
@@ -242,16 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/GM3pyJjrj4w/IWFXo-N4AgAJ</link>
         <guid>https://groups.google.com/d/topic/openstreetmap-hungary/GM3pyJjrj4w</guid>
         <pubDate>Tue, 11 Aug 2020 09:10:58 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Kérés a szerbekhez a V.A.T. többnyelvűsítésére: On Tue, Aug 11, 2020 at 9:16 AM P. András wrote: &gt; Korábban írtam a Többnyelvűség beszélgetésbe, hogy jó lenne megkérni a szerb közösséget, hogy hátha hajlandóak valami változtatásra a Vajdaságban. Egy próbát megérne. [...] &gt; As adding all the 6 languages to the name -grin</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/GM3pyJjrj4w/Lopxj2h1AgAJ</link>
-        <guid>https://groups.google.com/d/topic/openstreetmap-hungary/GM3pyJjrj4w</guid>
-        <pubDate>Tue, 11 Aug 2020 08:07:10 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Kérés a szerbekhez a V.A.T. többnyelvűsítésére: Sziasztok! Lehet , hogy én nem értem a kérés lényegét, akkor bocsi: Azt kérnénk, hogy ne külön &quot;name:sr&quot; &quot;name:hu&quot; stb tagekkel legyenek a nevek megadva, hanem a hatályos hivatalos nyelv tagjében &quot;/&quot; jel után még egy nyelven? Gza Mentes a vírusoktól. www.avast.com P. András &lt;pribilins...@gmai -Rózsa Gza (Géza) István Özséb</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/GM3pyJjrj4w/zVwx0YZ0AgAJ</link>
-        <guid>https://groups.google.com/d/topic/openstreetmap-hungary/GM3pyJjrj4w</guid>
-        <pubDate>Tue, 11 Aug 2020 07:51:00 UTC</pubDate>
       </item>
   </channel>
 </rss>
