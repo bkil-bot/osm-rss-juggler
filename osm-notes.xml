@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Balassagyarmat) / * 2020 September 11 20:50 aceman444 Created: There are messed up stops at this bus stations. stop_position nodes with role &amp;#39;platform&amp;#39; in bus relations instead of nodes on the footways with public_transport=platform</title>
+        <link>https://www.openstreetmap.org/note/2344574#c5006685</link>
+        <guid>https://www.openstreetmap.org/note/2344574#c5006685</guid>
+        <pubDate>Fri, 11 Sep 2020 20:50:58 +0000</pubDate>
+      </item><item>
         <title>closed note (near Aranyod, Zalaszentgrót) / * 2020 September 11 13:21 ITineris Resolved: Berajzoltam, áthajtási szabályokkal együtt.</title>
         <link>https://www.openstreetmap.org/note/278444#c5005748</link>
         <guid>https://www.openstreetmap.org/note/278444#c5005748</guid>
@@ -62,11 +67,6 @@
         <link>https://www.openstreetmap.org/note/2340752#c4998618</link>
         <guid>https://www.openstreetmap.org/note/2340752#c4998618</guid>
         <pubDate>Wed, 09 Sep 2020 05:09:37 +0000</pubDate>
-      </item><item>
-        <title>new note (near Kübekháza) / * 2020 September 8 22:44 Amdounios Created: The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI has no name / POI types: landuse-farmland / OSM data version: 2020-08-03T21:05:25Z / #mapsme</title>
-        <link>https://www.openstreetmap.org/note/2340627#c4998295</link>
-        <guid>https://www.openstreetmap.org/note/2340627#c4998295</guid>
-        <pubDate>Tue, 08 Sep 2020 22:44:43 +0000</pubDate>
       </item>
   </channel>
 </rss>
