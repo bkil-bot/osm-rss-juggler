@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Odessza, Szeged) / * 2020 September 15 22:13 gabro00 Updated: Igen. Az angol wiki szerint a lanes címke csak motoros járművekre vonatkozik[1], a középső sáv pedig egy pirossal felfestett kerékpársáv[2], amit sajnos elég szerencsétlen módon keresztez a hídról jobbra lekanyarodó autós forgalom. / [1] &amp;quot;Count excludes cycle lanes and motorcycle lanes that do not permit a motor vehicle.&amp;quot; / [2] https://goo.gl/maps/mMpBJ3mzTk1DfaCi9</title>
+        <link>https://www.openstreetmap.org/note/2277015#c5017716</link>
+        <guid>https://www.openstreetmap.org/note/2277015#c5017716</guid>
+        <pubDate>Tue, 15 Sep 2020 22:13:14 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Odessza, Szeged) / * 2020 September 15 22:00 urbalazs Updated: Srácok, biztosan jó lesz a lanes=2? Minden egyéb, a sávokra vonatkozó címke 3 értéket tartalmaz. Ha lanes=3, akkor kell a lanes:forward és a lanes:backward is.</title>
+        <link>https://www.openstreetmap.org/note/2277015#c5017707</link>
+        <guid>https://www.openstreetmap.org/note/2277015#c5017707</guid>
+        <pubDate>Tue, 15 Sep 2020 22:00:34 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Kállay lakópark, Újszőreg, Szeged) / * 2020 September 15 21:55 urbalazs Resolved: Megnéztem a tervezést több kerékpártervezővel is, de nekem mindegyik egyenesen tervez, nem visz le az útról. A paraméterezésben sem látok semmilyen problémát. Lezárom ezt a jegyzetet, a probléma nem a térképpel van.</title>
+        <link>https://www.openstreetmap.org/note/2349713#c5017699</link>
+        <guid>https://www.openstreetmap.org/note/2349713#c5017699</guid>
+        <pubDate>Tue, 15 Sep 2020 21:55:50 +0000</pubDate>
+      </item><item>
         <title>new note (near Kállay lakópark, Újszőreg, Szeged) / * 2020 September 15 15:03 Heidrich Attila Created: Egy bringás navi Szőreg felé haladva itt felvisz a rampán és rögtön vissza is hoz, lehet ennek valami térképi eredetű oka? / Továbbá a szervízút bringautas tag-jei kicsit kuszák, kijavítanám, de a wiki is kusza pl a kerékpárút hálózatba illesztésével. / mi vajon a jelenleg javasolt megoldás erre?</title>
         <link>https://www.openstreetmap.org/note/2349713#c5016763</link>
         <guid>https://www.openstreetmap.org/note/2349713#c5016763</guid>
