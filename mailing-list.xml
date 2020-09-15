@@ -3,6 +3,16 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] FSF.hu OSM szerverének hasznosítása: vektorcsempék: Nézem a beszélgetést, nézem, de mindenről van szó csak épp a vektorcsempékről nem. Szóval, van valami up to date, működő, nem „írd meg magadnak hogy” jellegű vector tile leírás? Mert én a saját serveremen megcsinálnám, de nem jutok el odáig hogy megtaláljam a működő leírást, úgy server mint -grin</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/BsCPDWCUGCE/3kwMoxmqBAAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/BsCPDWCUGCE/3kwMoxmqBAAJ</guid>
+        <pubDate>Tue, 15 Sep 2020 11:08:47 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] FSF.hu OSM szerverének hasznosítása: vektorcsempék: Sziasztok! 2020. 09. 08. 14:56 keltezéssel, Thomas Nagy írta: &gt; se feledjük, hogy jelenleg vannak a közösségben (többen is?) akik &gt; fizetnek OSM-mel kapcsolatos szerverekért, és ezeket is be lehetne &gt; olvasztani. Köszönjük a felajánlást! Erre az egyre reagálnék, csak informálásképpen. Az -Feri Veres</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/BsCPDWCUGCE/gYgodZepBAAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/BsCPDWCUGCE/gYgodZepBAAJ</guid>
+        <pubDate>Tue, 15 Sep 2020 10:59:27 UTC</pubDate>
+      </item><item>
         <title>Módosításcsomag visszavonás. &quot;temp bike route Székesfehérvár&quot;: Sziasztok! Ki tudná törölni nekem valaki a https://www.openstreetmap.org/changeset/85819856 changeset-ben található 2db &quot;temp bike route&quot; vonalas objektumot? A kolléga (vaandor) egybegyűjtötte, vagy javította Székesfehérváron a kerékpáros route elemeket, ami dícséretes, csak feltöltött olyan, a -Máté Fehérvári</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/aXUbgZT8BGg/v_SWYbB5BAAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/aXUbgZT8BGg/v_SWYbB5BAAJ</guid>
@@ -242,16 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/GM3pyJjrj4w/RyOTgtqDAgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/GM3pyJjrj4w/RyOTgtqDAgAJ</guid>
         <pubDate>Tue, 11 Aug 2020 12:31:53 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Kérés a szerbekhez a V.A.T. többnyelvűsítésére: Adatbázis-szemlélet szerint nézve nekem az tűnik a leg-egzaktabbnak, ha külön vannak a nyelvi name-tagek. Az viszont tetszik, hogy ezen felül akár kérhetünk egy ilyen &quot;helyi többnyelvűségi szokás szerinti&quot; mezőt, Sajnos ugyanis ez az egész errefelé nem lesz soha &quot;nyugodt&quot;... a történelmet -Rózsa Gza (Géza) István Özséb</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/GM3pyJjrj4w/kacPpmKDAgAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/GM3pyJjrj4w/kacPpmKDAgAJ</guid>
-        <pubDate>Tue, 11 Aug 2020 12:23:18 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Kérés a szerbekhez a V.A.T. többnyelvűsítésére: On Tue, 11 Aug 2020, P. András wrote: &gt; Pontosan ugyanazért, amiért az Olaszországban élő dél-tiroliak is &gt; ragaszkodnak, hogy Bolzano nevében legyen kint a Bozen is. Ott is lehetne Nagy kulonbseg van egyebkent akozott, hogy a helyi kisebbseg ragaszkodik a ketnyelvu helysegnevtablakhoz, vagy -Kiss Gabor</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/GM3pyJjrj4w/FrvM3AKDAgAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/GM3pyJjrj4w/FrvM3AKDAgAJ</guid>
-        <pubDate>Tue, 11 Aug 2020 12:16:27 UTC</pubDate>
       </item>
   </channel>
 </rss>
