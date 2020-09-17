@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Sándortelep, Fonyód) / * 2020 September 17 12:11 STibor Resolved: </title>
+        <link>https://www.openstreetmap.org/note/2351997#c5021855</link>
+        <guid>https://www.openstreetmap.org/note/2351997#c5021855</guid>
+        <pubDate>Thu, 17 Sep 2020 12:11:27 +0000</pubDate>
+      </item><item>
+        <title>new note (near Sándortelep, Fonyód) / * 2020 September 17 12:11 STibor Created: Új épület</title>
+        <link>https://www.openstreetmap.org/note/2351997#c5021854</link>
+        <guid>https://www.openstreetmap.org/note/2351997#c5021854</guid>
+        <pubDate>Thu, 17 Sep 2020 12:11:13 +0000</pubDate>
+      </item><item>
         <title>new note (near Bugyberek, Mumor, Lenti) / * 2020 September 17 08:45 kemenymate Created: &amp;quot;Megszűnt&amp;quot; / The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI name: Autóbusz-pályaudvar Lenti (ideiglenes) / POI types: building amenity-bus_station / OSM data version: 2020-08-03T21:05:25Z / #mapsme</title>
         <link>https://www.openstreetmap.org/note/2351771#c5021340</link>
         <guid>https://www.openstreetmap.org/note/2351771#c5021340</guid>
@@ -137,26 +147,6 @@
         <link>https://www.openstreetmap.org/note/2348211#c5013802</link>
         <guid>https://www.openstreetmap.org/note/2348211#c5013802</guid>
         <pubDate>Mon, 14 Sep 2020 14:09:55 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Odessza, Szeged) / * 2020 September 14 09:52 gabro00 Updated: Igen láttam :) Viszont volt egy kis hiba, tizedesvesszőt használtál tizedespont helyett, ezt javítottam az elébb: https://www.openstreetmap.org/changeset/90851568 / Mi lett a szóköz nélküli nickeddel?</title>
-        <link>https://www.openstreetmap.org/note/2277015#c5013055</link>
-        <guid>https://www.openstreetmap.org/note/2277015#c5013055</guid>
-        <pubDate>Mon, 14 Sep 2020 09:52:48 +0000</pubDate>
-      </item><item>
-        <title>reactivated note (near Odessza, Szeged) / * 2020 September 14 09:51 gabro00 Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/2277015#c5013051</link>
-        <guid>https://www.openstreetmap.org/note/2277015#c5013051</guid>
-        <pubDate>Mon, 14 Sep 2020 09:51:18 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Odessza, Szeged) / * 2020 September 14 09:50 Heidrich Attila Resolved: még annyit, hogy nem az volt a megoldás, hogy az enyhe bal a hídról lehelé &amp;quot;egyenes&amp;quot;, vagy &amp;quot;enyhe bal&amp;quot;, hanem hogy a kerékpársáv érinthető járművel, vagyis a sávok &amp;quot;designated|yes|designated&amp;quot; ciméket kaptak a korábbi &amp;quot;yes|no|yes&amp;quot; helyett</title>
-        <link>https://www.openstreetmap.org/note/2277015#c5013048</link>
-        <guid>https://www.openstreetmap.org/note/2277015#c5013048</guid>
-        <pubDate>Mon, 14 Sep 2020 09:50:54 +0000</pubDate>
-      </item><item>
-        <title>reactivated note (near Odessza, Szeged) / * 2020 July 24 10:40 HeidrichAttila Created: Will someone who knows the place check the lanes here please? / Maybe it&amp;#39;s an application issue, but using Magicearth going E/S (turning right off the bridge) it shows here that I should turn slightly left. / Similar problem exists near &amp;quot;Védőnőképző&amp;quot; also  coming S down the other bridge at the traffic lights. Route goes straight, but app shows I must turn left. / * 2020 August 12 20:20 gabro00 Updated: KRESZ szerint egyenesen haladsz, nem váltasz sávot, igazad van. / (Az említett szakaszra egyébként te vetted fel ezeket a címkéket, gondolom az ortofotón és a valóságban is látható útburkolati jelek zavartak meg.) / Megpróbáltam KRESZ helyessé tenni, pár napig nyitva hagyom, ha megjavult, zárd le. / https://www.openstreetmap.org/changeset/89321214 / * 2020 August 13 10:40 gabro00 Resolved: Jó lesz ez szerintem :) / * 2020 August 17 13:50 HeidrichAttila Reactivated:  / * 2020 August 17 13:54 HeidrichAttila Resolved: tudom, hogy én vettem fel, és azóta sem találtam benne a hibát. ami azt illeti, most meg sem látom, hogy mit javítottál :) / nem egyenesen visz a jobb helyett, hanem konkrétan balra, amit nem tudom, hogy mi indokolhat... / bármi is ez, maradjon, ha lejön a frissítés a MagicEarth-be, tesztelem / * 2020 August 17 13:57 HeidrichAttila Reactivated:  / * 2020 August 17 13:58 HeidrichAttila Resolved: Ok, megvan az eltérés :) gondolom mostantól a bal helyett egyenest fog mutatni, holott nekem jobbra kell menni. na, majd megltjuk, még jelentkezem. ha marad az anomália, írok a navi gazdájának is. / * 2020 August 19 12:30 HeidrichAttila Reactivated:  / * 2020 August 19 12:30 HeidrichAttila Updated: végre sikerült elkapni vezetés közben a problémámat: https://photos.app.goo.gl/ZeHAiiGFHekRyEtK7 / * 2020 August 19 12:30 HeidrichAttila Resolved:  / * 2020 August 19 12:33 gabro00 Reactivated:  / * 2020 August 19 12:35 gabro00 Updated: Kösz a képernyőmentést. Nem ismerem a programot, de ott alul nem azt írja melyik sávban haladsz éppen? / * 2020 August 19 13:42 HeidrichAttila Updated: nem, azt hogy melyikben kell menni, hogy jó legyen nekem. / talán az a baj, hogy a középső (bringa) sáv tiltottnak van jelezve (access:yes|no|yes), a navi szerint nem lehet keresztezni, vagyis a jobb sáv így nem elérhető a köv csomópontig. / * 2020 August 19 13:46 HeidrichAttila Updated: vagy járhatóvá kell tenni, vagy még a jobbra menő sáv nyílásánál kell egy átlépési pont az egyetlen autós sávból a jobbra kanyarodóba. ha tényleg ez okozza... / * 2020 August 19 13:48 HeidrichAttila Updated: szívesen eljátszom vele :) / nem lenne rossz más navin is megnézni, aminek szintén van sávsegédje. / * 2020 August 19 13:52 gabro00 Updated: A Magic Earth fejlesztőjét kellene megkérdezni, mert szerintem ott lesz a hiba. Legalábbis OSM szinten nem tudom hogyan lehetne megmondani, hogy autóval keresztezhető a bringasáv, csak haladni nem lehet rajta. / Milyen gyakran frissül a program adatbázisa? / * 2020 August 19 14:00 HeidrichAttila Updated: a térkép  pár havonta, nem lesz hirtelen menet. / elküldöm nekik is a feladatot / e-szerint jók vagyunk, nem ír a wiki semmit a keresztezhetőségről, ha elég figyelmes voltam: https://wiki.openstreetmap.org/wiki/Lanes#Crossing_with_a_designated_lane_for_bicycles / * 2020 September 13 10:47 Heidrich Attila Resolved: Megoldódott, a jelenlegi sáv használat megadás helyes navigációt ad. / * 2020 September 14 09:48 Heidrich Attila Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/2277015#c5013039</link>
-        <guid>https://www.openstreetmap.org/note/2277015#c5013039</guid>
-        <pubDate>Mon, 14 Sep 2020 09:48:27 +0000</pubDate>
       </item>
   </channel>
 </rss>
