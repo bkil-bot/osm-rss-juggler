@@ -132,36 +132,6 @@
         <link>https://www.openstreetmap.org/note/2349713#c5017699</link>
         <guid>https://www.openstreetmap.org/note/2349713#c5017699</guid>
         <pubDate>Tue, 15 Sep 2020 21:55:50 +0000</pubDate>
-      </item><item>
-        <title>new note (near Kállay lakópark, Újszőreg, Szeged) / * 2020 September 15 15:03 Heidrich Attila Created: Egy bringás navi Szőreg felé haladva itt felvisz a rampán és rögtön vissza is hoz, lehet ennek valami térképi eredetű oka? / Továbbá a szervízút bringautas tag-jei kicsit kuszák, kijavítanám, de a wiki is kusza pl a kerékpárút hálózatba illesztésével. / mi vajon a jelenleg javasolt megoldás erre?</title>
-        <link>https://www.openstreetmap.org/note/2349713#c5016763</link>
-        <guid>https://www.openstreetmap.org/note/2349713#c5016763</guid>
-        <pubDate>Tue, 15 Sep 2020 15:03:38 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Odessza, Szeged) / * 2020 July 24 10:40 HeidrichAttila Created: Will someone who knows the place check the lanes here please? / Maybe it&amp;#39;s an application issue, but using Magicearth going E/S (turning right off the bridge) it shows here that I should turn slightly left. / Similar problem exists near &amp;quot;Védőnőképző&amp;quot; also  coming S down the other bridge at the traffic lights. Route goes straight, but app shows I must turn left. / * 2020 August 12 20:20 gabro00 Updated: KRESZ szerint egyenesen haladsz, nem váltasz sávot, igazad van. / (Az említett szakaszra egyébként te vetted fel ezeket a címkéket, gondolom az ortofotón és a valóságban is látható útburkolati jelek zavartak meg.) / Megpróbáltam KRESZ helyessé tenni, pár napig nyitva hagyom, ha megjavult, zárd le. / https://www.openstreetmap.org/changeset/89321214 / * 2020 August 13 10:40 gabro00 Resolved: Jó lesz ez szerintem :) / * 2020 August 17 13:50 HeidrichAttila Reactivated:  / * 2020 August 17 13:54 HeidrichAttila Resolved: tudom, hogy én vettem fel, és azóta sem találtam benne a hibát. ami azt illeti, most meg sem látom, hogy mit javítottál :) / nem egyenesen visz a jobb helyett, hanem konkrétan balra, amit nem tudom, hogy mi indokolhat... / bármi is ez, maradjon, ha lejön a frissítés a MagicEarth-be, tesztelem / * 2020 August 17 13:57 HeidrichAttila Reactivated:  / * 2020 August 17 13:58 HeidrichAttila Resolved: Ok, megvan az eltérés :) gondolom mostantól a bal helyett egyenest fog mutatni, holott nekem jobbra kell menni. na, majd megltjuk, még jelentkezem. ha marad az anomália, írok a navi gazdájának is. / * 2020 August 19 12:30 HeidrichAttila Reactivated:  / * 2020 August 19 12:30 HeidrichAttila Updated: végre sikerült elkapni vezetés közben a problémámat: https://photos.app.goo.gl/ZeHAiiGFHekRyEtK7 / * 2020 August 19 12:30 HeidrichAttila Resolved:  / * 2020 August 19 12:33 gabro00 Reactivated:  / * 2020 August 19 12:35 gabro00 Updated: Kösz a képernyőmentést. Nem ismerem a programot, de ott alul nem azt írja melyik sávban haladsz éppen? / * 2020 August 19 13:42 HeidrichAttila Updated: nem, azt hogy melyikben kell menni, hogy jó legyen nekem. / talán az a baj, hogy a középső (bringa) sáv tiltottnak van jelezve (access:yes|no|yes), a navi szerint nem lehet keresztezni, vagyis a jobb sáv így nem elérhető a köv csomópontig. / * 2020 August 19 13:46 HeidrichAttila Updated: vagy járhatóvá kell tenni, vagy még a jobbra menő sáv nyílásánál kell egy átlépési pont az egyetlen autós sávból a jobbra kanyarodóba. ha tényleg ez okozza... / * 2020 August 19 13:48 HeidrichAttila Updated: szívesen eljátszom vele :) / nem lenne rossz más navin is megnézni, aminek szintén van sávsegédje. / * 2020 August 19 13:52 gabro00 Updated: A Magic Earth fejlesztőjét kellene megkérdezni, mert szerintem ott lesz a hiba. Legalábbis OSM szinten nem tudom hogyan lehetne megmondani, hogy autóval keresztezhető a bringasáv, csak haladni nem lehet rajta. / Milyen gyakran frissül a program adatbázisa? / * 2020 August 19 14:00 HeidrichAttila Updated: a térkép  pár havonta, nem lesz hirtelen menet. / elküldöm nekik is a feladatot / e-szerint jók vagyunk, nem ír a wiki semmit a keresztezhetőségről, ha elég figyelmes voltam: https://wiki.openstreetmap.org/wiki/Lanes#Crossing_with_a_designated_lane_for_bicycles / * 2020 September 13 10:47 Heidrich Attila Resolved: Megoldódott, a jelenlegi sáv használat megadás helyes navigációt ad. / * 2020 September 14 09:48 Heidrich Attila Reactivated:  / * 2020 September 14 09:50 Heidrich Attila Resolved: még annyit, hogy nem az volt a megoldás, hogy az enyhe bal a hídról lehelé &amp;quot;egyenes&amp;quot;, vagy &amp;quot;enyhe bal&amp;quot;, hanem hogy a kerékpársáv érinthető járművel, vagyis a sávok &amp;quot;designated|yes|designated&amp;quot; ciméket kaptak a korábbi &amp;quot;yes|no|yes&amp;quot; helyett / * 2020 September 14 09:51 gabro00 Reactivated:  / * 2020 September 14 09:52 gabro00 Updated: Igen láttam :) Viszont volt egy kis hiba, tizedesvesszőt használtál tizedespont helyett, ezt javítottam az elébb: https://www.openstreetmap.org/changeset/90851568 / Mi lett a szóköz nélküli nickeddel? / * 2020 September 15 14:52 Heidrich Attila Updated: Remek, köszi! aligha vettem volna észre... használja bármi a sávok szélességét? Teherautós navi esetleg? / a nicket megette a google auth-ra való áttérés, vagy helyettesítette a rendszer a névvel, ami tán meg sem volt neki eddig.</title>
-        <link>https://www.openstreetmap.org/note/2277015#c5016737</link>
-        <guid>https://www.openstreetmap.org/note/2277015#c5016737</guid>
-        <pubDate>Tue, 15 Sep 2020 14:52:14 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Középső-Ferencváros, 9th district) / * 2020 September 15 11:44 Unique_3 Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2349337#c5016161</link>
-        <guid>https://www.openstreetmap.org/note/2349337#c5016161</guid>
-        <pubDate>Tue, 15 Sep 2020 11:44:29 +0000</pubDate>
-      </item><item>
-        <title>new note (near Középső-Ferencváros, 9th district) / * 2020 September 15 10:55 Unique_3 Created: Nincs bal kanyar</title>
-        <link>https://www.openstreetmap.org/note/2349337#c5016068</link>
-        <guid>https://www.openstreetmap.org/note/2349337#c5016068</guid>
-        <pubDate>Tue, 15 Sep 2020 10:55:08 +0000</pubDate>
-      </item><item>
-        <title>new note (near Bánhidai lakótelep, Tatabánya) / * 2020 September 15 07:33 Created: TZ Global Kft. új telephelye. Turul utca 15.</title>
-        <link>https://www.openstreetmap.org/note/2349099#c5015619</link>
-        <guid>https://www.openstreetmap.org/note/2349099#c5015619</guid>
-        <pubDate>Tue, 15 Sep 2020 07:33:28 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Diósjenő) / * 2020 September 14 22:01 urbalazs Resolved: A Csóványos már szerepel a térképen.</title>
-        <link>https://www.openstreetmap.org/note/2348629#c5014987</link>
-        <guid>https://www.openstreetmap.org/note/2348629#c5014987</guid>
-        <pubDate>Mon, 14 Sep 2020 22:01:03 +0000</pubDate>
       </item>
   </channel>
 </rss>
