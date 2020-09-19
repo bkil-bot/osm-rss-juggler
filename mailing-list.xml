@@ -3,6 +3,16 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] POI vadászat: Még ahogy nézem a címkéket, a name=&quot;Posta csekkautomata&quot; is kicsit koca-név kivéve ha rá van írva a készülékre ez a felirat, lehet, hogy a description-ben jobb helye lenne, de elismerem, hogy a térképen nehezebben látszik úgy. Kiegészítés az előző levélhez: B tervként csak a brand=* kicsit -Thomas Nagy</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/DJrsDhuXFyQ/c5LN-RJJBgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/DJrsDhuXFyQ/c5LN-RJJBgAJ</guid>
+        <pubDate>Sat, 19 Sep 2020 11:08:27 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] POI vadászat: A vending=cheques-re nem találtam taginfo előfordulást se wiki megemlítést. A &quot;cheque&quot; nem is pont ezt jelenti, lásd: payment=cheque. Egy 2019-es tagging témában előkerült, hogy ez inkább amolyan &quot;top-up&quot; automata (kicsit olyan mint az ATM) amivel külföldön fizetik be az energiaszámlát vagy -Thomas Nagy</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/DJrsDhuXFyQ/85GHiHlIBgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/DJrsDhuXFyQ/85GHiHlIBgAJ</guid>
+        <pubDate>Sat, 19 Sep 2020 10:57:28 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Re: Szeptember 28 Havi OSM Get Together: Akkor várunk mindenkit szeretettel szeptember 28 17:30-tól online a szokásos helyen! Jelentkezés: - https://gettogether.community/events/7312/2020-09-28-havi-osm - https://www.meetup.com/OpenStreetMap-Hungary/events/273304846 Terjesszétek a hírét: ne feledjétek a szabályt - mindenki hozzon még -Thomas Nagy</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/ZDriYPJVlvo/hCatvReEBQAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/ZDriYPJVlvo/hCatvReEBQAJ</guid>
@@ -242,16 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/GM3pyJjrj4w/Y1CL3peNAgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/GM3pyJjrj4w/Y1CL3peNAgAJ</guid>
         <pubDate>Tue, 11 Aug 2020 15:30:22 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Kérés a szerbekhez a V.A.T. többnyelvűsítésére: OFF: persze hogy igazad van, csak nem mentem bele részletesen, hogy mi lenne a vágyam. Arra az esetre gondoltam, amikor külföldön navigálok, és pl. a navi kiírja, hogy &quot;Akkó&quot; felé kell letérni, de a táblákon csak Acre, עכו meg عكا (vagy valami ilyesmi) szerepel :) 2020. augusztus 11., kedd -feket</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/GM3pyJjrj4w/wxe4Ik7JBAAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/GM3pyJjrj4w/wxe4Ik7JBAAJ</guid>
-        <pubDate>Tue, 11 Aug 2020 15:26:11 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Kérés a szerbekhez a V.A.T. többnyelvűsítésére: On Tue, Aug 11, 2020 at 1:38 PM P. András wrote: &gt; Alapesetben a name tagban az kéne, hogy legyen, ami a településtáblán szerepel. Ha azon két név van, akkor két névnek. Mutass egy fotót, az a legegyszerűbb, mert Magyarországon ilyen nincsen, emiatt (is) nem tudom -grin</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/GM3pyJjrj4w/80BtZwiKAgAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/GM3pyJjrj4w/80BtZwiKAgAJ</guid>
-        <pubDate>Tue, 11 Aug 2020 14:25:07 UTC</pubDate>
       </item>
   </channel>
 </rss>
