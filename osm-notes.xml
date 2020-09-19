@@ -2,46 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Notes (via bkil-bot)</title>
-      <item>
-        <title>closed note (near Tarján, Szeged) / * 2020 September 7 18:55 Created: This is a playground with swings and some fitness equipment. / * 2020 September 18 16:34 gabro00 Resolved: Fixed in https://www.openstreetmap.org/changeset/91122919</title>
-        <link>https://www.openstreetmap.org/note/2339282#c5025591</link>
-        <guid>https://www.openstreetmap.org/note/2339282#c5025591</guid>
-        <pubDate>Fri, 18 Sep 2020 16:34:44 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Újszeged, Szeged) / * 2019 October 19 10:20 Created: csapadékmérő / * 2019 October 19 13:19 gabro00 Updated: Elérhetők valahol publikusan az adatok, ki üzemelteti? / * 2020 September 18 16:28 gabro00 Resolved: Közel 1 éve nincs válasz.</title>
-        <link>https://www.openstreetmap.org/note/1966946#c5025582</link>
-        <guid>https://www.openstreetmap.org/note/1966946#c5025582</guid>
-        <pubDate>Fri, 18 Sep 2020 16:28:56 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Újszeged, Szeged) / * 2019 October 19 10:20 Created: csapadékmérő / * 2019 October 19 13:20 gabro00 Updated: Elérhetők valahol publikusan az adatok, ki üzemelteti? / * 2020 September 18 16:28 gabro00 Resolved: Közel 1 éve nincs válasz.</title>
-        <link>https://www.openstreetmap.org/note/1966947#c5025581</link>
-        <guid>https://www.openstreetmap.org/note/1966947#c5025581</guid>
-        <pubDate>Fri, 18 Sep 2020 16:28:52 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Kállay lakópark, Újszőreg, Szeged) / * 2019 October 18 08:30 Created: átemelő / * 2020 September 18 16:28 gabro00 Resolved: Közel 1 éve nincs válasz.</title>
-        <link>https://www.openstreetmap.org/note/1965855#c5025580</link>
-        <guid>https://www.openstreetmap.org/note/1965855#c5025580</guid>
-        <pubDate>Fri, 18 Sep 2020 16:28:46 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Marostő, Szeged) / * 2019 October 18 09:26 Created: átemelő / * 2019 November 2 09:49 gabro00 Updated: Úgy érted szivattyúház? / * 2020 September 18 16:28 gabro00 Resolved: Közel 1 éve nincs válasz.</title>
-        <link>https://www.openstreetmap.org/note/1965905#c5025579</link>
-        <guid>https://www.openstreetmap.org/note/1965905#c5025579</guid>
-        <pubDate>Fri, 18 Sep 2020 16:28:43 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Ásotthalom) / * 2019 August 27 19:35 Fox Den Created: Fox Den camping / * 2020 September 18 16:25 gabro00 Resolved: I can&amp;#39;t see a camping site around the note.</title>
-        <link>https://www.openstreetmap.org/note/1902758#c5025566</link>
-        <guid>https://www.openstreetmap.org/note/1902758#c5025566</guid>
-        <pubDate>Fri, 18 Sep 2020 16:25:40 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Kübekháza) / * 2020 September 8 22:44 Amdounios Created: The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI has no name / POI types: landuse-farmland / OSM data version: 2020-08-03T21:05:25Z / #mapsme / * 2020 September 18 16:23 gabro00 Resolved: This is a farmland, I don&amp;#39;t see any problem on the map.</title>
-        <link>https://www.openstreetmap.org/note/2340627#c5025558</link>
-        <guid>https://www.openstreetmap.org/note/2340627#c5025558</guid>
-        <pubDate>Fri, 18 Sep 2020 16:23:21 +0000</pubDate>
-      </item><item>
-        <title>new note (near Északi városrész, Szeged) / * 2020 September 18 16:21 gabro00 Created: Elkészült a rekortán futókör, fel kellene mérni / http://szegeder.hu/mar-futhato-a-verto-uj-rekortanja/</title>
-        <link>https://www.openstreetmap.org/note/2353957#c5025555</link>
-        <guid>https://www.openstreetmap.org/note/2353957#c5025555</guid>
-        <pubDate>Fri, 18 Sep 2020 16:21:48 +0000</pubDate>
-      </item>
+      
   </channel>
 </rss>
