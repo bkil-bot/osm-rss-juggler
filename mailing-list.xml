@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Import * EV töltőállomások: Sziasztok! Hátha érdekel egy pár töltőállomás EV-khez: https://github.com/KAMI911/osm-import-request/blob/master/hu_mobiliti/poi_address_merge_huemobichs.osm https://github.com/KAMI911/osm-import-request/blob/master/hu_mol_plugee/poi_address_merge_humolplchs.osm Örömmel várom a visszajelzéseke -Kálmán „KAMI” Szalai</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/dG23lZXqvfU/wwZOZrZECQAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/dG23lZXqvfU/wwZOZrZECQAJ</guid>
+        <pubDate>Mon, 28 Sep 2020 12:10:33 UTC</pubDate>
+      </item><item>
         <title>data2.openstreetmap.hu/hungary-latest.osm.pbf: Sziasztok! Ennek ki a gazdája? https://data2.openstreetmap.hu/hungary-latest.osm.pbf Van benne néhány (~15 db) fantom külföldi multipolygon, amit képtelen vagyok értelmesen kivágni belőle, jobb lenne már forrás oldalon. (nem, nincs Magyarországra eső eleme a relációnak) pl: https://www.openstree -Tamás Vásony</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/RyM2PFhRllA/ws7qhv60CAAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/RyM2PFhRllA/ws7qhv60CAAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/GM3pyJjrj4w/ohzMeFnBAgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/GM3pyJjrj4w/ohzMeFnBAgAJ</guid>
         <pubDate>Wed, 12 Aug 2020 07:18:49 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Kérés a szerbekhez a V.A.T. többnyelvűsítésére: On Tue, 11 Aug 2020, P. András wrote: &gt; https://wiki.openstreetmap.org/wiki/Multilingual_names &gt; &gt; Ez alapján tájékozódom :) Ne haragudj, de úgy nézem kimazsoláztad belőle, ami szívednek kedves. Ez a kötőjelezés korántsem általános. Mindazonáltal ha a szerbek megírnák a saját fejezetüket, az -Kiss Gabor</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/GM3pyJjrj4w/ismwOs23AgAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/GM3pyJjrj4w/ismwOs23AgAJ</guid>
-        <pubDate>Wed, 12 Aug 2020 04:23:50 UTC</pubDate>
       </item>
   </channel>
 </rss>
