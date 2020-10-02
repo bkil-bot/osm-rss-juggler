@@ -3,6 +3,31 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Terézváros, 6th district) / * 2020 October 2 14:44 qmi0 Created: Ez úgy tűnik, hogy bezárt :-(</title>
+        <link>https://www.openstreetmap.org/note/2371345#c5063226</link>
+        <guid>https://www.openstreetmap.org/note/2371345#c5063226</guid>
+        <pubDate>Fri, 02 Oct 2020 14:44:37 +0000</pubDate>
+      </item><item>
+        <title>new note (near Belváros külső, Sopron) / * 2020 October 1 21:50 Bognár Béla Created: Mozgáskorlátozottak Sopron Városi Egyesülete</title>
+        <link>https://www.openstreetmap.org/note/2370774#c5062119</link>
+        <guid>https://www.openstreetmap.org/note/2370774#c5062119</guid>
+        <pubDate>Thu, 01 Oct 2020 21:50:46 +0000</pubDate>
+      </item><item>
+        <title>new note (near Viriusztelep, Balatonszepezd) / * 2020 September 30 21:10 vasony Created: Talán ez a rész is maxpeed=50, meg kell nézni pontosan hol a határ</title>
+        <link>https://www.openstreetmap.org/note/2369486#c5059247</link>
+        <guid>https://www.openstreetmap.org/note/2369486#c5059247</guid>
+        <pubDate>Wed, 30 Sep 2020 21:10:16 +0000</pubDate>
+      </item><item>
+        <title>new note (near Nyárliget, Sarród) / * 2020 September 29 23:12 Mangobonbon Created: Here are shops mapped. But on sattelite it is just a field. Please check for accuracy on these.</title>
+        <link>https://www.openstreetmap.org/note/2368492#c5056998</link>
+        <guid>https://www.openstreetmap.org/note/2368492#c5056998</guid>
+        <pubDate>Tue, 29 Sep 2020 23:12:29 +0000</pubDate>
+      </item><item>
+        <title>new note (near Ócsa) / * 2020 September 29 15:58 Rerib Created: &amp;quot;Ócsa Bázis&amp;quot; / POI name: Ócsai gyakorló terület / POI types: landuse-military / OSM data version: 2020-08-22T02:23:14Z / #mapsme</title>
+        <link>https://www.openstreetmap.org/note/2368129#c5056268</link>
+        <guid>https://www.openstreetmap.org/note/2368129#c5056268</guid>
+        <pubDate>Tue, 29 Sep 2020 15:58:16 +0000</pubDate>
+      </item><item>
         <title>closed note (near Forráskút) / * 2019 September 15 07:41 gabro00 Created: Kerékpárút épül: https://csolyospalos.hu/fenntarthato-telepulesi-kozlekedesfejlesztes-csolyospaloson/ / Friss műholdképen már látszik az útvonal. / * 2019 December 15 14:54 gabro00 Updated: Egy felkerült szakasz https://www.openstreetmap.org/changeset/78430613 / * 2020 September 28 21:20 gabro00 Resolved: A módosítás alapján csak Forráskút határáig tart https://www.openstreetmap.org/changeset/91663692</title>
         <link>https://www.openstreetmap.org/note/1926727#c5054178</link>
         <guid>https://www.openstreetmap.org/note/1926727#c5054178</guid>
@@ -17,16 +42,6 @@
         <link>https://www.openstreetmap.org/note/2366276#c5052144</link>
         <guid>https://www.openstreetmap.org/note/2366276#c5052144</guid>
         <pubDate>Mon, 28 Sep 2020 08:57:01 +0000</pubDate>
-      </item><item>
-        <title>new note (near Belső-Ferencváros, 9th district) / * 2020 September 27 14:29 balping Created: Kávézó nem feltétlen a legjobb meghatározása a helynek.</title>
-        <link>https://www.openstreetmap.org/note/2365078#c5049243</link>
-        <guid>https://www.openstreetmap.org/note/2365078#c5049243</guid>
-        <pubDate>Sun, 27 Sep 2020 14:29:06 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Erzsébetfalva, 20th district) / * 2020 March 20 10:27 mqrelly Created: Recycling bins / via StreetComplete 18.0 / Attached photo(s): / https://westnordost.de/p/10944.jpg / * 2020 September 27 13:56 balping Resolved: Hozzáadva / https://www.openstreetmap.org/changeset/91584653</title>
-        <link>https://www.openstreetmap.org/note/2125445#c5049103</link>
-        <guid>https://www.openstreetmap.org/note/2125445#c5049103</guid>
-        <pubDate>Sun, 27 Sep 2020 13:56:08 +0000</pubDate>
       </item>
   </channel>
 </rss>
