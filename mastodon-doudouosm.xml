@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>#BuDongSan is a #OpenStreetMap-based realtor tycoon game (BuDongSan is the Korean word for real estate). Notice it’s still in prototype phase. - https://mrvdh.github.com/budongsan - https://github.com/MRVDH/budongsan #FOSS #realestate #game</title>
+        <link>https://en.osm.town/@Doudouosm/104977271918424874</link>
+        <guid>https://en.osm.town/@Doudouosm/104977271918424874</guid>
+        <pubDate>Sun, 04 Oct 2020 15:40:48 +0000</pubDate>
+      </item><item>
         <title>#OpenStreetMap Salt Lake City has a series of #Meetup events coming with @mvexel: https://www.meetup.com/OpenStreetMap-Utah/. Being online events, you can join from anywhere.</title>
         <link>https://en.osm.town/@Doudouosm/104976847651458608</link>
         <guid>https://en.osm.town/@Doudouosm/104976847651458608</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/104678408681925541</link>
         <guid>https://en.osm.town/@Doudouosm/104678408681925541</guid>
         <pubDate>Wed, 12 Aug 2020 20:55:57 +0000</pubDate>
-      </item><item>
-        <title>#OpenStreetMap US has a 28-min Mappy Hour video presenting #MapRoulette: https://www.youtube.com/watch?v=utuxHoRXDDQ.</title>
-        <link>https://en.osm.town/@Doudouosm/104669676349401181</link>
-        <guid>https://en.osm.town/@Doudouosm/104669676349401181</guid>
-        <pubDate>Tue, 11 Aug 2020 07:55:12 +0000</pubDate>
       </item>
   </channel>
 </rss>
