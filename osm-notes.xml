@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Ady lakótelep, Várpalota) / * 2020 July 27 18:30 Created: itt van egy biciklisút. nemrég készült, a vasútig vezet. / * 2020 October 6 17:21 unacceptium Resolved: javítottam</title>
+        <link>https://www.openstreetmap.org/note/2281631#c5075052</link>
+        <guid>https://www.openstreetmap.org/note/2281631#c5075052</guid>
+        <pubDate>Tue, 06 Oct 2020 17:21:16 +0000</pubDate>
+      </item><item>
         <title>closed note (near Ady lakótelep, Várpalota) / * 2020 July 27 18:32 Created: ezt az utcarészt lezárták, és félig felszedték. itt átmenni nem, legfeljebb parkolni lehet. / * 2020 October 6 17:17 unacceptium Resolved: </title>
         <link>https://www.openstreetmap.org/note/2281634#c5075039</link>
         <guid>https://www.openstreetmap.org/note/2281634#c5075039</guid>
@@ -132,11 +137,6 @@
         <link>https://www.openstreetmap.org/note/2323520#c5070438</link>
         <guid>https://www.openstreetmap.org/note/2323520#c5070438</guid>
         <pubDate>Mon, 05 Oct 2020 07:19:58 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Országbíró utcai lakótelep, Angyalföld, 13th district) / * 2020 February 19 15:13 utvonalfelmeresek Created: Unable to answer &amp;quot;What is the name of this road?&amp;quot; for https://osm.org/way/252283903 via StreetComplete 17.3: / kanyarodó sáv / * 2020 February 23 14:21 meskobalazs Updated: Ez az egész kereszteződés elég kacifántos, be kellene járni. / * 2020 March 10 13:33 CsJ_HUN Updated: Teve utca / * 2020 April 13 20:19 ITineris Updated: Az ilyen átvezető utakra, kanyarodó sávokra noname=yes címkét kellene rakni név helyett. / * 2020 October 5 07:18 ITineris Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2095471#c5070433</link>
-        <guid>https://www.openstreetmap.org/note/2095471#c5070433</guid>
-        <pubDate>Mon, 05 Oct 2020 07:18:29 +0000</pubDate>
       </item>
   </channel>
 </rss>
