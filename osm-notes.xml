@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Odessza, Szeged) / * 2020 October 10 15:22 gabro00 Created: A jelölő alatt kerékpárutat hoztak létre a járda helyén. Ez a nyár végén el is készült, viszont nem tudom honnan meddig tart, csak az biztos, hogy már javításra szorul, mert elkezdett repedezni. Lásd élőben vagy itt: https://www.facebook.com/mkszeged/posts/3515120548550238 / Magyar építőipar 💪</title>
+        <link>https://www.openstreetmap.org/note/2381023#c5085110</link>
+        <guid>https://www.openstreetmap.org/note/2381023#c5085110</guid>
+        <pubDate>Sat, 10 Oct 2020 15:22:27 +0000</pubDate>
+      </item><item>
         <title>closed note (near Imrehegy) / * 2020 August 15 10:07 Created: Add gym / * 2020 October 10 15:16 gabro00 Resolved: Pokemon GO-s cuccnak tűnik, nem idevaló dolog.</title>
         <link>https://www.openstreetmap.org/note/2308218#c5085076</link>
         <guid>https://www.openstreetmap.org/note/2308218#c5085076</guid>
@@ -312,26 +317,6 @@
         <link>https://www.openstreetmap.org/note/2164225#c5080727</link>
         <guid>https://www.openstreetmap.org/note/2164225#c5080727</guid>
         <pubDate>Thu, 08 Oct 2020 18:15:11 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Vasúton túli rész, Szigethalom) / * 2020 March 6 06:18 bLazev Created: Végleg bezárt / via StreetComplete 17.0 / * 2020 October 8 18:11 Géczi Roland Levente Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2112057#c5080716</link>
-        <guid>https://www.openstreetmap.org/note/2112057#c5080716</guid>
-        <pubDate>Thu, 08 Oct 2020 18:11:27 +0000</pubDate>
-      </item><item>
-        <title>new note (near Krisztinaváros, 1st district) / * 2020 October 8 10:48 Mateusz Konieczny Created: https://www.openstreetmap.org/way/126749275 - interpolation addresses (5 to 1) mismatch address nodes</title>
-        <link>https://www.openstreetmap.org/note/2378396#c5079599</link>
-        <guid>https://www.openstreetmap.org/note/2378396#c5079599</guid>
-        <pubDate>Thu, 08 Oct 2020 10:48:32 +0000</pubDate>
-      </item><item>
-        <title>new note (near Városmajor, Krisztinaváros, 12th district) / * 2020 October 8 10:46 Mateusz Konieczny Created: the same address is mapped twice: / https://www.openstreetmap.org/node/1702081870 https://www.openstreetmap.org/node/1702081904</title>
-        <link>https://www.openstreetmap.org/note/2378392#c5079594</link>
-        <guid>https://www.openstreetmap.org/note/2378392#c5079594</guid>
-        <pubDate>Thu, 08 Oct 2020 10:46:08 +0000</pubDate>
-      </item><item>
-        <title>new note (near Újlak, 3rd district) / * 2020 October 8 10:45 Mateusz Konieczny Created: the same address is mapped twice: / https://www.openstreetmap.org/node/1504269312 / https://www.openstreetmap.org/node/1504269398</title>
-        <link>https://www.openstreetmap.org/note/2378391#c5079592</link>
-        <guid>https://www.openstreetmap.org/note/2378391#c5079592</guid>
-        <pubDate>Thu, 08 Oct 2020 10:45:16 +0000</pubDate>
       </item>
   </channel>
 </rss>
