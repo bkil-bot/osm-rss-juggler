@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Ófalu, Budakalász) / * 2020 October 11 15:27 bkil Resolved: Rendben, visszanyitottam https://www.openstreetmap.org/node/4285006662/history#map=18/47.62023/19.04268</title>
+        <link>https://www.openstreetmap.org/note/2382148#c5087462</link>
+        <guid>https://www.openstreetmap.org/note/2382148#c5087462</guid>
+        <pubDate>Sun, 11 Oct 2020 15:27:02 +0000</pubDate>
+      </item><item>
         <title>new note (near Ófalu, Budakalász) / * 2020 October 11 14:39 sd_ciastko Created: vízcsap / via StreetComplete 23.0</title>
         <link>https://www.openstreetmap.org/note/2382148#c5087347</link>
         <guid>https://www.openstreetmap.org/note/2382148#c5087347</guid>
@@ -107,16 +112,6 @@
         <link>https://www.openstreetmap.org/note/2380403#c5083882</link>
         <guid>https://www.openstreetmap.org/note/2380403#c5083882</guid>
         <pubDate>Sat, 10 Oct 2020 03:16:21 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Perekac, Dombóvár) / * 2017 September 14 08:10 Gellért Ferenc Created: &amp;quot;Egyre több étrend kiegészítőt forgalmazó üzlet van. Nem találtam kategóriát, ahova jó szívvel besorolnám őket. Köszönöm!&amp;quot; / POI has no name / POI types: leisure-fitness_station internet_access-wlan / OSM data version: 2017-08-17T15:51:02Z / #mapsme / * 2018 September 14 20:25 mgpx Updated: Az OSM Wiki kétféle kategóriát is ismer, ami ennek megfelel: shop=health_food ill. shop=nutrition_supplements . Mivel nem túl elterjedtek, vélhetően a Maps.me még nem ismeri ezeket / * 2018 September 14 21:15 Updated: Köszöm! / * 2018 November 2 21:31 urbalazs Resolved: Úgy látom, ez megoldva. / * 2018 November 7 13:26 Bence Mélykúti Reactivated:  / * 2018 November 7 13:26 Bence Mélykúti Updated: Szerintem ezt elhamarkodottan zárta le. A pont (https://www.openstreetmap.org/node/5104701523) a létrehozásától a mai napig leisure=fitness_station-ként van benn (https://wiki.openstreetmap.org/wiki/Tag:leisure%3Dfitness_station), ami szabadtéri edzőgépeket jelent, holott a jegyzet étrendkiegészítő-üzletről beszél, aminek wifi-je is van. A pontot a jegyzet írója hozta létre, és láthatóan nem változott a pont a kérdésre adott választól. / Ha valaki arra jár, kérem, ellenőrizze, létezik-e az üzlet (nem találom interneten), és javítsa ezt a pontot: https://www.openstreetmap.org/node/5104701523. Értelemszerűen, ha tényleg van fitness_station a téren, akkor húzza oda ezt a pontot. Köszönöm. / * 2020 October 8 19:31 Géczi Roland Levente Resolved:  / * 2020 October 8 21:11 Bence Mélykúti Reactivated:  / * 2020 October 8 21:13 Bence Mélykúti Updated: Szerintem a kérdés másodszorra is megoldás nélkül maradt. / Van ez a pont a Benei Music hangszerbolt mellett az épületen belül: / https://www.openstreetmap.org/node/5104701523 / Ez most / -étrendkiegészítő üzlet, / -szabadtéri edzőgép, / -vagy egyik sem, és törölni kellene? / * 2020 October 8 21:14 Géczi Roland Levente Updated: Gondoltam, hogy megoldódott a dolog, mert már nem láttam az említett helyet a térképen. De ezek szerint nem. / * 2020 October 8 21:19 Géczi Roland Levente Updated: A legbiztosabb, ha töröljük. Ha meg lesz olyan szerkesztő, aki pontosan tudja, hogy mi van ott, akkor majd remélhetőleg feltünteti. / * 2020 October 9 10:03 Bence Mélykúti Updated: Azért legbiztosabbnak én nem nevezném! Ahogy nézem, egész Dombóvár belvárosában nehéz olyan üzletet találni, amely ne lenne legalább három éves. Láthatóan nem nagyon frissíti senki helyben a POI-kat. / Amíg itt van ez a jegyzet, kicsit nagyobb esélye van, hogy valamelyik szerkesztőnk körülnéz Dombóvár belvárosában.</title>
-        <link>https://www.openstreetmap.org/note/1139154#c5081963</link>
-        <guid>https://www.openstreetmap.org/note/1139154#c5081963</guid>
-        <pubDate>Fri, 09 Oct 2020 10:03:03 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Nagyszentjános) / * 2017 September 12 07:42 Created: MÁV Nagyszentjános 120/25 kV-os alállomás / * 2020 October 9 06:21 vampire303 Resolved: szerkesztve</title>
-        <link>https://www.openstreetmap.org/note/1136481#c5081536</link>
-        <guid>https://www.openstreetmap.org/note/1136481#c5081536</guid>
-        <pubDate>Fri, 09 Oct 2020 06:21:40 +0000</pubDate>
       </item>
   </channel>
 </rss>
