@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] POI vadászat: Igen, ez az elnevezés hihetőbben hangzik. Habár 100 éve elég elterjedt volt, ez a papírcsekkes perverzió elég hungarikum mostanában. Talán Angliában lehetne szétnézni, ott mindenre van automata. Apropó, találtam a Kökiben maszk és kézfertőtlenítő automatát - mondjuk maszk nélkül be se lehet -Thomas Nagy</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/DJrsDhuXFyQ/NBi5JlhVBwAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/DJrsDhuXFyQ/NBi5JlhVBwAJ</guid>
+        <pubDate>Tue, 13 Oct 2020 21:46:18 UTC</pubDate>
+      </item><item>
         <title>Re: Import * EV töltőállomások: Sziasztok, Az e-mobi töltők importálási kérését itt találjátok: https://github.com/KAMI911/osm-import-request/tree/master/hu_emobi Megnéznétek, hogy a Rácz fürdőnél lévő e-mobi töltő, Mobiliti igazából? Tudom a Mobiliti megvette az e-mobi-t, de kérdés, hogy mi van az eszközön. Az import alapján -KAMI911 KAMI911</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/dG23lZXqvfU/VOk9-wVPBwAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/dG23lZXqvfU/VOk9-wVPBwAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/N01zkWbHQvc/mdVw4xksBwAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/N01zkWbHQvc/mdVw4xksBwAJ</guid>
         <pubDate>Wed, 19 Aug 2020 11:08:55 UTC</pubDate>
-      </item><item>
-        <title>Re: QGIS: Ez mindig az adott céges (szoftver)környezettől függ. Nálunk például külön IT-osztály gondoskodik a szoftverek telepítéséről, és (elvileg) csak azokat a szoftvereket szabadna használni, amit ők telepítettek. Ha ez, amiről szó van, egy összetettebb program, akkor lehetséges, hogy előzetesen még -hungarian_user</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/zUL5IyALafI/arEsVufqBgAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/zUL5IyALafI/arEsVufqBgAJ</guid>
-        <pubDate>Tue, 18 Aug 2020 15:14:10 UTC</pubDate>
       </item>
   </channel>
 </rss>
