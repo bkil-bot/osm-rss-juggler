@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Térképen láthatatlan tornyok: Szeretném felhívni a figyelmet, hogy sem az OSMAnd, sem a Mapnik nem jeleníti meg azt a bázisállomás antennát amiről hiányzik a man_made=mast + tower:type=communication. Emiatt redundánsan vettem fel néhányat illetve csak feltöltéskor vagy azután vettem észre ha más miatt ellenőriztem a -Thomas Nagy</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/8pVpREHRyBI/y0kNAVtMBwAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/8pVpREHRyBI/y0kNAVtMBwAJ</guid>
+        <pubDate>Tue, 13 Oct 2020 19:01:34 UTC</pubDate>
+      </item><item>
         <title>Re: Szombat 10:00 Irhás árok - Budaörs feletti 11km, lehet csatlakozni: Erről jól lekéstem, il. azóta most volt csak időm ránézni erre a csatornára, mert 10.-én egyszerre 2 rendezvényen is voltam, amiből az egyiket én is rendeztem :) A másik meg a kéktúra ünnep volt, ami szintén jól sikerült, mi a Pilisszentlászló - Dobogókő szakaszra mentünk, erről a turista -turistautsz...@gmail.com</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/ePLixxYxu9A/G6_hnXc1BwAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/ePLixxYxu9A/G6_hnXc1BwAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/zUL5IyALafI/bdyxy-voBgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/zUL5IyALafI/bdyxy-voBgAJ</guid>
         <pubDate>Tue, 18 Aug 2020 14:37:50 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] QGIS: Sziasztok / Szervusz Endre! Ne a forrás típusát (nyílt/zárt) nézd, hanem a license leírást. Mivel a Miklós levele alapján GNU-GPL-nek tűnik, ezért a használat alap típusának (futtatás) nincs akadálya semmilyen környezetben (magán és céges korlátozás nélkül), de ha eladandó termék fejlesztéshez -Gabor Liptak</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/zUL5IyALafI/j11OxBTmBgAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/zUL5IyALafI/j11OxBTmBgAJ</guid>
-        <pubDate>Tue, 18 Aug 2020 13:45:48 UTC</pubDate>
       </item>
   </channel>
 </rss>
