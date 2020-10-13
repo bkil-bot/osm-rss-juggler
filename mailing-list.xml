@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: Import * EV töltőállomások: Sziasztok, Az e-mobi töltők importálási kérését itt találjátok: https://github.com/KAMI911/osm-import-request/tree/master/hu_emobi Megnéznétek, hogy a Rácz fürdőnél lévő e-mobi töltő, Mobiliti igazából? Tudom a Mobiliti megvette az e-mobi-t, de kérdés, hogy mi van az eszközön. Az import alapján -KAMI911 KAMI911</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/dG23lZXqvfU/VOk9-wVPBwAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/dG23lZXqvfU/VOk9-wVPBwAJ</guid>
+        <pubDate>Tue, 13 Oct 2020 19:50:28 UTC</pubDate>
+      </item><item>
         <title>Térképen láthatatlan tornyok: Szeretném felhívni a figyelmet, hogy sem az OSMAnd, sem a Mapnik nem jeleníti meg azt a bázisállomás antennát amiről hiányzik a man_made=mast + tower:type=communication. Emiatt redundánsan vettem fel néhányat illetve csak feltöltéskor vagy azután vettem észre ha más miatt ellenőriztem a -Thomas Nagy</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/8pVpREHRyBI/y0kNAVtMBwAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/8pVpREHRyBI/y0kNAVtMBwAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/zUL5IyALafI/arEsVufqBgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/zUL5IyALafI/arEsVufqBgAJ</guid>
         <pubDate>Tue, 18 Aug 2020 15:14:10 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] QGIS: hátha: http://blog.qgis.org/2016/04/23/promoting-and-using-qgis-for-the-enterprise/ Amúgy lesz egy &quot;9. Nyílt forráskódú térinformatikai munkaértekezlet&quot; is 2020. november 27. (péntek) http://www.agt.bme.hu/gis/workshop9/ és van egy LinkedIn -es OSGeo magyar csoport is ( az előző linkben van az -Imre Samu</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/zUL5IyALafI/bdyxy-voBgAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/zUL5IyALafI/bdyxy-voBgAJ</guid>
-        <pubDate>Tue, 18 Aug 2020 14:37:50 UTC</pubDate>
       </item>
   </channel>
 </rss>
