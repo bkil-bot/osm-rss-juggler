@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Encs) / * 2020 October 13 16:02 urbalazs Resolved: Spam</title>
+        <link>https://www.openstreetmap.org/note/2383977#c5092958</link>
+        <guid>https://www.openstreetmap.org/note/2383977#c5092958</guid>
+        <pubDate>Tue, 13 Oct 2020 16:02:04 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Haraszt, Gödöllő) / * 2020 October 13 16:01 urbalazs Resolved: Elnézést, ez a térképjegyzet hiányos. Adjon részletes leírást arról a problémáról, amit jelenteni szeretne.</title>
+        <link>https://www.openstreetmap.org/note/2384322#c5092956</link>
+        <guid>https://www.openstreetmap.org/note/2384322#c5092956</guid>
+        <pubDate>Tue, 13 Oct 2020 16:01:31 +0000</pubDate>
+      </item><item>
         <title>new note (near Haraszt, Gödöllő) / * 2020 October 13 13:19 Created: 2</title>
         <link>https://www.openstreetmap.org/note/2384322#c5092520</link>
         <guid>https://www.openstreetmap.org/note/2384322#c5092520</guid>
@@ -97,11 +107,6 @@
         <link>https://www.openstreetmap.org/note/2382450#c5087834</link>
         <guid>https://www.openstreetmap.org/note/2382450#c5087834</guid>
         <pubDate>Sun, 11 Oct 2020 17:58:21 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Ófalu, Budakalász) / * 2020 October 11 15:27 bkil Resolved: Rendben, visszanyitottam https://www.openstreetmap.org/node/4285006662/history#map=18/47.62023/19.04268</title>
-        <link>https://www.openstreetmap.org/note/2382148#c5087462</link>
-        <guid>https://www.openstreetmap.org/note/2382148#c5087462</guid>
-        <pubDate>Sun, 11 Oct 2020 15:27:02 +0000</pubDate>
       </item>
   </channel>
 </rss>
