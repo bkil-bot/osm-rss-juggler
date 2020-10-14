@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Moson, Mosonmagyaróvár) / * 2018 March 13 14:24 istefanos Created: Seems to have another use (truck weight control) / * 2018 October 24 21:37 urbalazs Resolved: Sorry, but this map note is incomplete. Please provide detailed information on the issue you would like to report. / * 2018 October 29 21:20 istefanos Reactivated:  / * 2018 October 29 21:20 istefanos Updated: nem úgy néz ki, mint ha pihenöhely lenne: https://www.mapillary.com/map/im/Z3bPk5ZkZpKJgGaZFbFwjQ / * 2020 January 4 17:31 ITineris Updated: Szerintem azon a táblán elég nagyban látszik, hogy *teherautós* pihenőhely. De számomra a padok és a wc is kimerítik ezt a fogalmat. / Igen, ez egyben tengelysúlymérő állomás is. Címkézve is van itt egy POI amenity=weighbridge-ként. Felraktam még rá egy enforcement=maxweight-et. / * 2020 October 14 20:51 istefanos Resolved: Bezárom.</title>
+        <link>https://www.openstreetmap.org/note/1326335#c5095856</link>
+        <guid>https://www.openstreetmap.org/note/1326335#c5095856</guid>
+        <pubDate>Wed, 14 Oct 2020 20:51:44 +0000</pubDate>
+      </item><item>
         <title>new note (near Szigliget) / * 2020 October 14 19:42 Zengői Attila Created: &amp;quot;kocogó futókör rekortán&amp;quot; / POI has no name / POI types: leisure-fitness_station / OSM data version: 2020-08-22T02:23:14Z / #mapsme</title>
         <link>https://www.openstreetmap.org/note/2385688#c5095666</link>
         <guid>https://www.openstreetmap.org/note/2385688#c5095666</guid>
