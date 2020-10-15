@@ -3,6 +3,21 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] (Teher)autós mizériák #2: időszakos &quot;villany&quot;táblák: Szia! Értem a problémád, de attól ez még VJT, és mivel nem tudod, hogy mikor kapcsolják ki-be, így nem tudsz mást tenni, mint hogy a tábla tényét rögzíted. Ráadásul mióta nem egy fix ki-be kapcsolható tábla van, hanem kvázi egy monitor, elvileg bármikor, bármi megjelenhet rajta. (Persze -Kádár Iván</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/6Tpu9qYe1ds/EuyvfW5MAQAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/6Tpu9qYe1ds/EuyvfW5MAQAJ</guid>
+        <pubDate>Thu, 15 Oct 2020 14:36:52 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Teherautós mizériák #1: Behajtási övezetek: On Thu, 15 Oct 2020 at 14:49, ITineris OSM wrote: &gt; Ráadásul a korlátozott behajtási övezetek hivatalosan forgalomcsillapítási &gt; eszközök, &gt; Nem, hivatalosan is pénzbehajtási eszközök: a települési úthálózat &quot;rongálásáért&quot; cserébe fizetett helyreállítási hozzájárulás. Bárki -Samat</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/lX9tibQu7Lc/nq0JAC5MAQAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/lX9tibQu7Lc/nq0JAC5MAQAJ</guid>
+        <pubDate>Thu, 15 Oct 2020 14:32:15 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] (Teher)autós mizériák #2: időszakos &quot;villany&quot;táblák: Szia! Nagyon nem erre gondolok. Nem az a lényeg, hogy néha kiírják, hogy &quot;Torlódás&quot;, vagy &quot;Építési munkák 5 km múlva&quot;. 1. A ki-be kapcsolt tábla az utána jövő way-ek címkézésére van hatással. Tehát néha maxspeed:hgv=50, néha pedig nem. És vagy van kanyarodási korlátozás/kötelező haladási irány, -ITineris OSM</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/6Tpu9qYe1ds/gGrADW1LAQAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/6Tpu9qYe1ds/gGrADW1LAQAJ</guid>
+        <pubDate>Thu, 15 Oct 2020 14:18:27 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] (Teher)autós mizériák #2: időszakos &quot;villany&quot;táblák: Sziasztok! VJT - Változtatható Jelzésképű Tábla VMS - Variable Message Sign És van traffic_sign=variable_message tag rá: https://wiki.openstreetmap.org/wiki/Key:traffic_sign Üdv, Iván ITineris OSM ezt írta (időpont: 2020. okt. 15., Cs, 15:02): &gt; Sziasztok! &gt; &gt; A sok -Kádár Iván</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/6Tpu9qYe1ds/z6E6NEhKAQAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/6Tpu9qYe1ds/z6E6NEhKAQAJ</guid>
@@ -237,21 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/ZDriYPJVlvo/dNCXvXesAwAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/ZDriYPJVlvo/dNCXvXesAwAJ</guid>
         <pubDate>Sat, 12 Sep 2020 05:40:55 UTC</pubDate>
-      </item><item>
-        <title>Szeptember 28 Havi OSM Get Together: Mindenkinek jó az időpont? Már jelentkezett egy előadó, de szeretettel várunk további előadás felajánlásokat is az alkalomra! -Thomas Nagy</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/ZDriYPJVlvo/vVW9jaCPAwAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/ZDriYPJVlvo/vVW9jaCPAwAJ</guid>
-        <pubDate>Fri, 11 Sep 2020 20:52:24 UTC</pubDate>
-      </item><item>
-        <title>OSMtiledownloader: Sziasztok! Nincs meg valakinek a OSMtiledownloader nevű program, elég régen nem volt továbbfejlesztve, a lényeg a pgw-kel ellátott tile-ok lennének. https://wiki.openstreetmap.org/wiki/OSMtiledownloader#v0.3 Köszi! -Endre</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/k_HCH0HYlSc/ZHQ37Jk6AwAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/k_HCH0HYlSc/ZHQ37Jk6AwAJ</guid>
-        <pubDate>Thu, 10 Sep 2020 18:54:18 UTC</pubDate>
-      </item><item>
-        <title>Re: QGIS: Köszönöm mindenkinek a segítséget! hungarian_user a következőt írta (2020. augusztus 18., kedd, 17:14:10 UTC+2): &gt; Ez mindig az adott céges (szoftver)környezettől függ. Nálunk például külön &gt; IT-osztály gondoskodik a szoftverek telepítéséről, és (elvileg) csak azokat &gt; a szoftvereket szabadna -Endre</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/zUL5IyALafI/b53io3I6AwAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/zUL5IyALafI/b53io3I6AwAJ</guid>
-        <pubDate>Thu, 10 Sep 2020 18:51:29 UTC</pubDate>
       </item>
   </channel>
 </rss>
