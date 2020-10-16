@@ -3,6 +3,26 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Szombaton szavazás lesz a hallhatóságokkal kapcsolatban: A síró kisgyerek a legtöbb háztartásban nincs a kerítés mellé kikötve napi 23 órában és a legtöbb akinek nincs valami krónikus betegsége nem sír stabilan minden alkalommal ahogy egy bizonyos sugárnál közelebb kerülünk hozzá. A legtöbb tüdőbeteg köhögése nem hallható napi 23 órában közterületrő -Thomas Nagy</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/6rDyNTPw6aA/k2ifGF2TAQAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/6rDyNTPw6aA/k2ifGF2TAQAJ</guid>
+        <pubDate>Fri, 16 Oct 2020 12:16:42 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Szombaton szavazás lesz a hallhatóságokkal kapcsolatban: Az angol szálon pont az irányban érvelek, hogy a &quot;kutyásság&quot; sokkal állandóbb tulajdonság mint akár az útburkolat, gyalogátkelő vagy parkolóhelyek száma (azt is évente festik), több évig stabil és verifikálható, ezért a térképnek akár a része is lehetne: https://lists.openstreetmap.org/pipermail -Thomas Nagy</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/6rDyNTPw6aA/SfLcAeOSAQAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/6rDyNTPw6aA/SfLcAeOSAQAJ</guid>
+        <pubDate>Fri, 16 Oct 2020 12:07:59 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Szombaton szavazás lesz a hallhatóságokkal kapcsolatban: Én a kutyákat nem térképezném, (ahogyan azt sem, hogy egy házban mennyi ember lakik), élőlény, nem állandó entitás, nem térképre való. A harangokat külön kategorizálnám, mert azokról egyébként is elég sok adat elérhető (mikor öntötték, ki, hol, mennyi a súlya, milyen alaphagja van, stb.). Eze -Máté Fehérvári</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/6rDyNTPw6aA/Dk_PfE-SAQAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/6rDyNTPw6aA/Dk_PfE-SAQAJ</guid>
+        <pubDate>Fri, 16 Oct 2020 11:57:25 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Szombaton szavazás lesz a hallhatóságokkal kapcsolatban: Jogos felvetés! Mert ezzel akkor már a síró gyerek, és a köhögő tüdőbetegek is megjelenhetnének az adatbázisban. Ráadásul ez elég ideiglenes dolog is, mert mire felvennénk egy ugató kutyát, lehet pár hét múlva meg elköltöznek. Az ilyen nem fixen telepített dolgokat térképezni kb. olyan, mint a -turistautsz...@gmail.com</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/6rDyNTPw6aA/dt-cnkGSAQAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/6rDyNTPw6aA/dt-cnkGSAQAJ</guid>
+        <pubDate>Fri, 16 Oct 2020 11:56:26 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Szombaton szavazás lesz a hallhatóságokkal kapcsolatban: Nos, tolhatunk még a szavazáson egy hetet ha van még ötletetek. Amúgy azt feldobhatjuk kapcsolódó, de nem blokkoló kérdésként, hogy szerintetek térképetikailag rendben van-e ha térképezzük azt, hogy egy portán hány hallható vagy látható kutya van. On Thu, Oct 15, 2020 at 2:48 PM Thomas Nagy -Thomas Nagy</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/6rDyNTPw6aA/sgDumWGPAQAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/6rDyNTPw6aA/sgDumWGPAQAJ</guid>
@@ -232,26 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/BsCPDWCUGCE/3kwMoxmqBAAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/BsCPDWCUGCE/3kwMoxmqBAAJ</guid>
         <pubDate>Tue, 15 Sep 2020 11:08:47 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] FSF.hu OSM szerverének hasznosítása: vektorcsempék: Sziasztok! 2020. 09. 08. 14:56 keltezéssel, Thomas Nagy írta: &gt; se feledjük, hogy jelenleg vannak a közösségben (többen is?) akik &gt; fizetnek OSM-mel kapcsolatos szerverekért, és ezeket is be lehetne &gt; olvasztani. Köszönjük a felajánlást! Erre az egyre reagálnék, csak informálásképpen. Az -Feri Veres</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/BsCPDWCUGCE/gYgodZepBAAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/BsCPDWCUGCE/gYgodZepBAAJ</guid>
-        <pubDate>Tue, 15 Sep 2020 10:59:27 UTC</pubDate>
-      </item><item>
-        <title>Módosításcsomag visszavonás. &quot;temp bike route Székesfehérvár&quot;: Sziasztok! Ki tudná törölni nekem valaki a https://www.openstreetmap.org/changeset/85819856 changeset-ben található 2db &quot;temp bike route&quot; vonalas objektumot? A kolléga (vaandor) egybegyűjtötte, vagy javította Székesfehérváron a kerékpáros route elemeket, ami dícséretes, csak feltöltött olyan, a -Máté Fehérvári</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/aXUbgZT8BGg/v_SWYbB5BAAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/aXUbgZT8BGg/v_SWYbB5BAAJ</guid>
-        <pubDate>Mon, 14 Sep 2020 20:21:38 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Re: Szeptember 28 Havi OSM Get Together: Az eddigi előadóknak (Ottwiz) az megfelel amit írtam, tehát hétfő vagy péntek az írt időpontban vagy azután. Véleményem szerint ha 18:30-kor kezdjük az előadásokat, akkor elég későn fejeznénk be (vacsora elmarad?). A személyes találkozók is 5-től voltak és arra is mindenki ideért - úgy gondolnám -Thomas Nagy</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/ZDriYPJVlvo/12YpUjxlBAAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/ZDriYPJVlvo/12YpUjxlBAAJ</guid>
-        <pubDate>Mon, 14 Sep 2020 14:06:49 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Re: Szeptember 28 Havi OSM Get Together: Az előadónak mi a jó? Mert az azért fontos szempont :) Nekem speciel a 17 óra is jó lenne, de ha úgy is onlány lesz a dolog, akkor nem gond ha később kezdünk. Én kezdetnek egy 18:00-as gyülekezőt tartok reálisnak, az aktuális dolgokról csevegéssel, majd 18:30-tól mehetne az előadás élesben. De -turistautsz...@gmail.com</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/ZDriYPJVlvo/P2wDe1_dAwAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/ZDriYPJVlvo/P2wDe1_dAwAJ</guid>
-        <pubDate>Sat, 12 Sep 2020 20:37:07 UTC</pubDate>
       </item>
   </channel>
 </rss>
