@@ -132,31 +132,6 @@
         <link>https://www.openstreetmap.org/note/2129122#c5105637</link>
         <guid>https://www.openstreetmap.org/note/2129122#c5105637</guid>
         <pubDate>Sun, 18 Oct 2020 14:44:00 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Csererdő, Veszprém) / * 2019 May 6 19:50 Created: The building is divided into several sections. The  easternmost section uses these addresses: / - Gépraktár utca 1. / - Csererdő lakótelep 1. / * 2020 October 18 14:42 ITineris Resolved: A Gépraktár utca 1-et felvittem.</title>
-        <link>https://www.openstreetmap.org/note/1769625#c5105635</link>
-        <guid>https://www.openstreetmap.org/note/1769625#c5105635</guid>
-        <pubDate>Sun, 18 Oct 2020 14:42:01 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Csererdő, Veszprém) / * 2020 March 25 00:23 Created: Correct address is &amp;quot;Gépraktár utca 1.&amp;quot; / * 2020 October 18 14:34 ITineris Resolved: Added.</title>
-        <link>https://www.openstreetmap.org/note/2129117#c5105609</link>
-        <guid>https://www.openstreetmap.org/note/2129117#c5105609</guid>
-        <pubDate>Sun, 18 Oct 2020 14:34:37 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Diós, Siófok) / * 2018 July 28 21:32 wakarii Created: Burkolat fedi jól járható a Csaba utca / * 2018 August 23 09:08 vaandor Updated: Most már burkolt utcaként van jelölve. Új kérdés, hogy ez a köztes szakasz Csaba vagy Hét vezér utcaként van kitáblázva? / * 2018 August 23 09:57 wakarii Updated:  Más térképek szerint Hét vezér, de utazom még idén erre felé és akkor megnézem, hogy a táblákon mi van kint. / * 2020 October 18 14:31 ITineris Resolved: Azért én compacted-nek címkéztem, mert ugyan stabilizált, de nem olyan sima aszfalt, mint a Botond utca. / A kérdéses szakasz Hét vezér az utcatábla szerint.</title>
-        <link>https://www.openstreetmap.org/note/1470103#c5105596</link>
-        <guid>https://www.openstreetmap.org/note/1470103#c5105596</guid>
-        <pubDate>Sun, 18 Oct 2020 14:31:34 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Gáspártelep, Balatonakarattya) / * 2020 July 31 14:25 Created: Hangulat Étterem és Büfé / * 2020 October 18 14:20 ITineris Resolved: Felvittem.</title>
-        <link>https://www.openstreetmap.org/note/2287656#c5105581</link>
-        <guid>https://www.openstreetmap.org/note/2287656#c5105581</guid>
-        <pubDate>Sun, 18 Oct 2020 14:20:59 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Balatonakarattya) / * 2020 September 1 10:34 grozsa11 Created: Az OsmAnd útvonaltervezője nekem nem tervez ezen a szakaszon átjutást. Valamiért kikerüli a zöld folt északi oldala felé. Tudja valaki, hogy miért? / * 2020 September 3 08:30 infeeeee Updated: Ha jól sejtem a zöld folt feletti útról csak balra lehet kanyarodni a Rákóczi útra? https://www.openstreetmap.org/way/288875548 / És jobbra az általad jelölt úton lehet kanyarodni? / Ha ez így van, akkor kanyarodási korlátozásokat kell beállítani a két csomóponton, az útvonaltervező hamarabb akar feljutni a nagyobb útra, ezért kerüli ki ezt az útvonalat, a másik út rövidebb. / * 2020 September 3 09:22 grozsa11 Updated: Ó, köszi, ezt nem tudtam, hogy a &amp;quot;hamarabb akar följutni a főútra&amp;quot; is egy rule... Na akkor ellenőrzöm, hogy a helyszínen szabad-e az ÉK-felé kiágazásból DK-re fordulni és ha nem akkor egyszerűen annak a berögzítésével fog megoldódni... / Ha azonban a helyszínen lehet az ÉK-re haladó kijáratról jobbra is fordulni, akkor az útvonaltervezésre lesz bízva, mit ajánl... / Köszi Infeee a segítséget!! / * 2020 September 3 09:29 infeeeee Updated: Hát nem tisztán távolság alapján ad útvonalat, hanem feltételezi, hogy nagyobb úton gyorsabban lehet haladni, gondolom, nem ismerem a pontos súlyozásukat. Ha itt osmen átállítod gyalogosra, akkor általában a legrövidebb útvonalat adja ki. / Mondjuk ez a tervező meg nem kerüli meg a zöld foltot északról, szóval ha nincs tiltás, akkor ez egy útvonaltervező bug: https://maps.openrouteservice.org/directions?n1=47.026588&amp;amp;n2=18.13854&amp;amp;n3=17&amp;amp;a=47.028793,18.131824,47.025791,18.141561&amp;amp;b=0&amp;amp;c=0&amp;amp;k1=en-US&amp;amp;k2=km / * 2020 September 3 10:51 grozsa11 Updated: Ez viszont egy igen kényelmes útvonaltervező, köszi! / Mondjuk ahová klikkentek vele, újabb anomáliákkal találkozom: Pl az alábbi Bajcsy-Zs_e utat nem kerültem még soha ki az ajánlott kerülőjén... nem is értem, miért kerüli ennyire el... https://maps.openrouteservice.org/directions?n1=47.036047&amp;amp;n2=18.107368&amp;amp;n3=17&amp;amp;a=47.035546,18.108065,47.035788,18.10401&amp;amp;b=0&amp;amp;c=0&amp;amp;k1=en-US&amp;amp;k2=km / * 2020 September 3 11:04 infeeeee Updated: Ez se térkép hiba, hanem tervező, ha átállítom legrövidebb útvonalra ajánlottról, akkor megtalálja az egyenes utat szépen. Valós térkép hibákat ezen az oldalon jobban meg lehet találni, mint tervezőkkel: https://tools.geofabrik.de/osmi/?view=routing&amp;amp;lon=18.15816&amp;amp;lat=47.00199&amp;amp;zoom=14 / * 2020 October 18 14:19 ITineris Updated: Akkor ez a térképjegyzet lezárható?</title>
-        <link>https://www.openstreetmap.org/note/2331148#c5105576</link>
-        <guid>https://www.openstreetmap.org/note/2331148#c5105576</guid>
-        <pubDate>Sun, 18 Oct 2020 14:19:13 +0000</pubDate>
       </item>
   </channel>
 </rss>
