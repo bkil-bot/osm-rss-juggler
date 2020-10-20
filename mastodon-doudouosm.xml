@@ -3,6 +3,16 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>An extensive #tutorial on how to draw buildings quickly in #JOSM: https://www.openstreetmap.org/user/IpswichMapper/diary/394485. Maybe too quickly, if you judge by the comments to the post. Anyway, the article is full of #tips and techniques to better use JOSM. #openStreetMap</title>
+        <link>https://en.osm.town/@Doudouosm/105069312384252819</link>
+        <guid>https://en.osm.town/@Doudouosm/105069312384252819</guid>
+        <pubDate>Tue, 20 Oct 2020 21:47:54 +0000</pubDate>
+      </item><item>
+        <title>“OpenStreetMap find” is a simple command line #CLI tool to explore #OpenStreetMap data: github.com/codesoap/osmf (MIT License). The tool short name “osmf” can unfortunately be confused with “OpenStreetMap Foundation”, but that’s a minor issue probably.</title>
+        <link>https://en.osm.town/@Doudouosm/105069223212107321</link>
+        <guid>https://en.osm.town/@Doudouosm/105069223212107321</guid>
+        <pubDate>Tue, 20 Oct 2020 21:25:14 +0000</pubDate>
+      </item><item>
         <title>Would there be ways to convince La Ligue Cardiologique Belge / De Belgische Cardiologische Liga to release their #AED data and use #OpenStreetMap as base map in their app ? https://www.liguecardioliga.be/reanim/</title>
         <link>https://en.osm.town/@Doudouosm/105057503779543144</link>
         <guid>https://en.osm.town/@Doudouosm/105057503779543144</guid>
@@ -92,16 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/104724061551588537</link>
         <guid>https://en.osm.town/@Doudouosm/104724061551588537</guid>
         <pubDate>Thu, 20 Aug 2020 22:26:05 +0000</pubDate>
-      </item><item>
-        <title>You can now join the #OpenStreetMap Foundation #OSMF as a voting member under the new Active Contributor Program, provided you achieve significant contribution, like 42 days of mapping over the last year or some other forms of contribution to the community (like organizing events, building software, etc.). https://www.reddit.com/r/openstreetmap/comments/id6m2y/join_the_openstreetmap_foundation_under_the_shiny/</title>
-        <link>https://en.osm.town/@Doudouosm/104722343914561354</link>
-        <guid>https://en.osm.town/@Doudouosm/104722343914561354</guid>
-        <pubDate>Thu, 20 Aug 2020 15:09:16 +0000</pubDate>
-      </item><item>
-        <title>@dajbelshaw Is Open Badges worth investigating in 2020 ? Seems it faded a bit, no ? https://en.wikipedia.org/wiki/Mozilla_Open_Badges #OpenBadges</title>
-        <link>https://en.osm.town/@Doudouosm/104718498362203788</link>
-        <guid>https://en.osm.town/@Doudouosm/104718498362203788</guid>
-        <pubDate>Wed, 19 Aug 2020 22:51:17 +0000</pubDate>
       </item>
   </channel>
 </rss>
