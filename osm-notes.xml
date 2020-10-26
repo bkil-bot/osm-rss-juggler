@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Lőportárdűlő, Angyalföld, 13th district) / * 2020 October 23 07:09 kogutowicz-mano Created: A Váci úton a metró kéregvasút technológiával épült. Ennélfogva pontosan az úttest alatt van az alagút. Teljes hosszában pontosítandó. Igyekszem mihamarabb megcsinálni. / * 2020 October 26 06:57 kogutowicz-mano Resolved: Kész</title>
+        <link>https://www.openstreetmap.org/note/2395965#c5125323</link>
+        <guid>https://www.openstreetmap.org/note/2395965#c5125323</guid>
+        <pubDate>Mon, 26 Oct 2020 06:57:56 +0000</pubDate>
+      </item><item>
         <title>new comment (near Belváros, Szeged) / * 2018 November 18 10:03 gabro00 Created: Itt miért vannak felosztva a sávok? / * 2018 November 23 14:36 jlevente Updated: osszevonhatoak siman, nem latom hasznat a felosztasnak / * 2019 October 30 07:36 ITineris Updated: Lehetne. Gondolom, a bazi sok :forward/:backward címkézni valótól, és a kismillió kapcsolattól (troli/busz vonalak) retten el mindenki. / * 2019 October 30 07:46 gabro00 Updated: Kitűnően látod a helyzetet :) Az egyszerűbbeket megcsináltuk, de akad még 1-2. / * 2020 January 19 12:32 gabro00 Updated: Viszont arra tökéletes a szakasz, hogy olyan térképeken is felismerhető legyen az OSM, ahol egyszerűen csak átvették az adatokat forrásmegjelölés nélkül :) Láttam már ilyet. / * 2020 October 25 21:02 gabro00 Updated: Üdv mindenkinek! / Jó hírt hoztam. Írtam egy szkriptet, ami a nyers XML-ben felcseréli az kapcsolatokat alkotó útazonosítókat, így nem kell kézzel piszmogni. / Az utat majd újra kell címkézni, de legalább a kapcsolatok (remélem) jók. A forward/backward nem kell, enélkül is jó. / Nézzétek meg jó-e https://www.openstreetmap.org/changeset/93028948</title>
         <link>https://www.openstreetmap.org/note/1593090#c5124795</link>
         <guid>https://www.openstreetmap.org/note/1593090#c5124795</guid>
@@ -172,11 +177,6 @@
         <link>https://www.openstreetmap.org/note/2395877#c5116909</link>
         <guid>https://www.openstreetmap.org/note/2395877#c5116909</guid>
         <pubDate>Fri, 23 Oct 2020 04:14:49 +0000</pubDate>
-      </item><item>
-        <title>new note (near Újpesti lakótelep, Újpest, 4th district) / * 2020 October 22 10:43 Created: Valldy Állatorvosi rendelő</title>
-        <link>https://www.openstreetmap.org/note/2395177#c5115433</link>
-        <guid>https://www.openstreetmap.org/note/2395177#c5115433</guid>
-        <pubDate>Thu, 22 Oct 2020 10:43:03 +0000</pubDate>
       </item>
   </channel>
 </rss>
