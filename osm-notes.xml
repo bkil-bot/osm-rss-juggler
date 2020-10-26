@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Tiszaszentimre) / * 2020 October 26 21:06 Created: tiszató</title>
+        <link>https://www.openstreetmap.org/note/2401032#c5127926</link>
+        <guid>https://www.openstreetmap.org/note/2401032#c5127926</guid>
+        <pubDate>Mon, 26 Oct 2020 21:06:24 +0000</pubDate>
+      </item><item>
         <title>new comment (near Belváros, Szeged) / * 2020 October 26 17:38 gabro00 Updated: Jaaa, hogy először nekem kell importálnom a dev szerverre, amit aztán egy második módosításcsomaggal cibálhatok és nézhetem mit csinál... Ilyesmi eszembe se jutott, köszi! / Valahol mintha olvastam volna, hogy pár óránként törlődik az adatbázis, de nem tudom hol. Nem tetszik, sok a macera :c (Meg jó lett a javítás :)</title>
         <link>https://www.openstreetmap.org/note/1593090#c5127234</link>
         <guid>https://www.openstreetmap.org/note/1593090#c5127234</guid>
@@ -227,11 +232,6 @@
         <link>https://www.openstreetmap.org/note/2398590#c5122891</link>
         <guid>https://www.openstreetmap.org/note/2398590#c5122891</guid>
         <pubDate>Sun, 25 Oct 2020 11:20:29 +0000</pubDate>
-      </item><item>
-        <title>new note (near Révfalu, Győr) / * 2020 October 25 09:37 Created: Research Center of Vehicle Industry - Járműipari Kutatóközpont JKK</title>
-        <link>https://www.openstreetmap.org/note/2398488#c5122613</link>
-        <guid>https://www.openstreetmap.org/note/2398488#c5122613</guid>
-        <pubDate>Sun, 25 Oct 2020 09:37:52 +0000</pubDate>
       </item>
   </channel>
 </rss>
