@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Dunaszentmiklós) / * 2020 October 18 08:28 vampire303 Created: Kerítéssel lezárt út szakasz. / * 2020 October 27 22:05 mgpx Updated: A kerítéseket már jelzi a térkép. Emlékeim szerint az utat nyugatról határoló kerítés kiakasztható (átjárható), ezért kapuként jelöltem.</title>
+        <link>https://www.openstreetmap.org/note/2389986#c5130749</link>
+        <guid>https://www.openstreetmap.org/note/2389986#c5130749</guid>
+        <pubDate>Tue, 27 Oct 2020 22:05:31 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Ipolytarnóc) / * 2020 September 3 08:14 ITineris Created: Ezek a szigetek miért nem jelennek meg ugyanúgy, mint a másik tavon? Ugyanazok a címkéik, és ugyanúgy belső tagjai a tó multipoligon kapcsolatának. / * 2020 October 27 22:00 mgpx Resolved: Ennek az volt a magyarázata, hogy a tavat ábrázoló natural=water típusú multipolygon körvonalán is szerepelt egy natural=water címke, tehát egymással átfedésben egy szimpla, és egy multipolygon is jelölte a tavat. A szimpla poligon pedig valamiért eltakarta a szigeteket.</title>
+        <link>https://www.openstreetmap.org/note/2333397#c5130740</link>
+        <guid>https://www.openstreetmap.org/note/2333397#c5130740</guid>
+        <pubDate>Tue, 27 Oct 2020 22:00:33 +0000</pubDate>
+      </item><item>
         <title>new note (near Vörösmarty-lakótelep, Pomáz) / * 2020 October 27 13:01 sd_ciastko Created: kerítés,magánút / via StreetComplete 24.1 / Attached photo(s): / https://westnordost.de/p/21267.jpg</title>
         <link>https://www.openstreetmap.org/note/2401546#c5129697</link>
         <guid>https://www.openstreetmap.org/note/2401546#c5129697</guid>
@@ -207,21 +217,6 @@
         <link>https://www.openstreetmap.org/note/2399586#c5124623</link>
         <guid>https://www.openstreetmap.org/note/2399586#c5124623</guid>
         <pubDate>Sun, 25 Oct 2020 20:16:45 +0000</pubDate>
-      </item><item>
-        <title>new note (near Szabadbattyán) / * 2020 October 25 16:19 sd_ciastko Created: Unable to answer &amp;quot;What surface does this piece of road have?&amp;quot; for https://osm.org/way/475739435 via StreetComplete 24.1: / nincs úr</title>
-        <link>https://www.openstreetmap.org/note/2398995#c5123679</link>
-        <guid>https://www.openstreetmap.org/note/2398995#c5123679</guid>
-        <pubDate>Sun, 25 Oct 2020 16:19:58 +0000</pubDate>
-      </item><item>
-        <title>new note (near Szabadbattyán) / * 2020 October 25 16:19 sd_ciastko Created: aszfaltozott,autóval járható. / via StreetComplete 24.1 / Attached photo(s): / https://westnordost.de/p/21104.jpg</title>
-        <link>https://www.openstreetmap.org/note/2398994#c5123678</link>
-        <guid>https://www.openstreetmap.org/note/2398994#c5123678</guid>
-        <pubDate>Sun, 25 Oct 2020 16:19:58 +0000</pubDate>
-      </item><item>
-        <title>new note (near Szabadbattyán) / * 2020 October 25 16:03 sd_ciastko Created: magánút / via StreetComplete 24.1 / Attached photo(s): / https://westnordost.de/p/21096.jpg</title>
-        <link>https://www.openstreetmap.org/note/2398964#c5123639</link>
-        <guid>https://www.openstreetmap.org/note/2398964#c5123639</guid>
-        <pubDate>Sun, 25 Oct 2020 16:03:04 +0000</pubDate>
       </item>
   </channel>
 </rss>
