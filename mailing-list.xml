@@ -3,6 +3,16 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Eltévedt túrázók mobiltelefonnal - ez hogy lehetséges?: Amennyire tudom, az ÉletMentő nem ELS-t használ, hanem egy &quot;sima&quot; SMS-t küld a koordinátákkal, illetve szükség esetén a panasszal (&quot;Nem tudok beszélni&quot; ikon, ekkor először ki kell választani a panaszt egy menüből majd SMS-ben kommunikál az operátor a bejelentővel). https://www.mentok.hu/ha-baj-v -Bihari Kristóf</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/aPEfLmEU3ew/u_UOq-UnBgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/aPEfLmEU3ew/u_UOq-UnBgAJ</guid>
+        <pubDate>Wed, 28 Oct 2020 11:07:59 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Eltévedt túrázók mobiltelefonnal - ez hogy lehetséges?: Az &quot;Android Emergency Location Service (ELS)&quot; protokoll elméletileg automatikusan elküldi a koordinátákat is - és talán a magyar segélyszervezetek tudják fogadni is ... persze a pontosság sok mindentől függ .. https://crisisresponse.google/emergencylocationservice/how-it-works/ Today, ELS -Imre Samu</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/aPEfLmEU3ew/a3od6lQmBgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/aPEfLmEU3ew/a3od6lQmBgAJ</guid>
+        <pubDate>Wed, 28 Oct 2020 10:39:18 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Eltévedt túrázók mobiltelefonnal - ez hogy lehetséges?: Vagy (offline) térkép nem volt a telefonon, de esetleg az OMSZ &quot;ÉletMentő&quot; app-ja igen, ami küld koordinátákat a hívásnál. (Ez egyébként hogyan működhet, ha mondjuk nincs 3/4G csak 2G van?) Imre Samu ezt írta (időpont: 2020. okt. 27., K, 23:18): &gt; &gt; Eltévedt túrázók mobiltele -Máté Fehérvári</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/aPEfLmEU3ew/6pGPvrIhBgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/aPEfLmEU3ew/6pGPvrIhBgAJ</guid>
@@ -242,16 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/ePLixxYxu9A/S2Nge6DFBQAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/ePLixxYxu9A/S2Nge6DFBQAJ</guid>
         <pubDate>Thu, 08 Oct 2020 19:41:24 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Mit szólnátok ha szerdánként 19-től világkörüli útra mennénk (OSM hour)?: Jogos felvetés, én is néha előveszek 1-1 települést ami épp a látókörömbe kerül. Ami a külföldi helyszíneket illeti, ott inkább csak nézelődök, hogy milyen szokások vannak arrafelé, de azt nagyon ritkán, inkább csak ha valamit keresek, hogy oldják meg máshol. Aztán itthon persze lehet egész más a -turistautsz...@gmail.com</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/Fo84Eb8DcPg/HRyNmYyQAwAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/Fo84Eb8DcPg/HRyNmYyQAwAJ</guid>
-        <pubDate>Mon, 05 Oct 2020 20:23:24 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Mit szólnátok ha szerdánként 19-től világkörüli útra mennénk (OSM hour)?: Csináltuk Magyarországon is régebben, de az érdeklődés túl alacsonynak bizonyult, illetve nem volt elég önként jelentkező témavezető és nem éreztük igazságosnak, hogy egyetlen ember vállára nehezedik az egész teher. Sokkal fenntarthatóbb lenne ha több vezető egyéniség is részt venne és heti -Thomas Nagy</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/Fo84Eb8DcPg/04vqfNuDAwAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/Fo84Eb8DcPg/04vqfNuDAwAJ</guid>
-        <pubDate>Mon, 05 Oct 2020 16:30:49 UTC</pubDate>
       </item>
   </channel>
 </rss>
