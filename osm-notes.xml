@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>reactivated note (near Újlipótváros, 13th district) / * 2020 October 29 15:22 Kit Mosoda Laundry Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/2403873#c5134985</link>
+        <guid>https://www.openstreetmap.org/note/2403873#c5134985</guid>
+        <pubDate>Thu, 29 Oct 2020 15:22:50 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Újlipótváros, 13th district) / * 2020 October 29 15:22 Kit Mosoda Laundry Resolved: si</title>
+        <link>https://www.openstreetmap.org/note/2403873#c5134983</link>
+        <guid>https://www.openstreetmap.org/note/2403873#c5134983</guid>
+        <pubDate>Thu, 29 Oct 2020 15:22:28 +0000</pubDate>
+      </item><item>
+        <title>new note (near Újlipótváros, 13th district) / * 2020 October 29 15:22 Kit Mosoda Laundry Created: Kit Mosoda Laundry</title>
+        <link>https://www.openstreetmap.org/note/2403873#c5134981</link>
+        <guid>https://www.openstreetmap.org/note/2403873#c5134981</guid>
+        <pubDate>Thu, 29 Oct 2020 15:22:01 +0000</pubDate>
+      </item><item>
         <title>new note (near Taktaharkány) / * 2020 October 29 10:51 Created: Itt található a Taktaharkányi sporttelep.</title>
         <link>https://www.openstreetmap.org/note/2403587#c5134332</link>
         <guid>https://www.openstreetmap.org/note/2403587#c5134332</guid>
@@ -162,16 +177,6 @@
         <link>https://www.openstreetmap.org/note/1593090#c5126307</link>
         <guid>https://www.openstreetmap.org/note/1593090#c5126307</guid>
         <pubDate>Mon, 26 Oct 2020 12:55:39 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Belváros, Szeged) / * 2018 November 18 10:03 gabro00 Created: Itt miért vannak felosztva a sávok? / * 2018 November 23 14:36 jlevente Updated: osszevonhatoak siman, nem latom hasznat a felosztasnak / * 2019 October 30 07:36 ITineris Updated: Lehetne. Gondolom, a bazi sok :forward/:backward címkézni valótól, és a kismillió kapcsolattól (troli/busz vonalak) retten el mindenki. / * 2019 October 30 07:46 gabro00 Updated: Kitűnően látod a helyzetet :) Az egyszerűbbeket megcsináltuk, de akad még 1-2. / * 2020 January 19 12:32 gabro00 Updated: Viszont arra tökéletes a szakasz, hogy olyan térképeken is felismerhető legyen az OSM, ahol egyszerűen csak átvették az adatokat forrásmegjelölés nélkül :) Láttam már ilyet. / * 2020 October 25 21:02 gabro00 Updated: Üdv mindenkinek! / Jó hírt hoztam. Írtam egy szkriptet, ami a nyers XML-ben felcseréli az kapcsolatokat alkotó útazonosítókat, így nem kell kézzel piszmogni. / Az utat majd újra kell címkézni, de legalább a kapcsolatok (remélem) jók. A forward/backward nem kell, enélkül is jó. / Nézzétek meg jó-e https://www.openstreetmap.org/changeset/93028948 / * 2020 October 26 12:09 jlevente Updated: kiraly! A Sandbox modrol tudsz? A / https://api06.dev.openstreetmap.org nyugodtan tudsz tesztelni mindent, az se baj, ha kitorlod a fel varost. Kell egy uj account a dev serveren, meg JOSM-ban atallitani az API endpointot https://api06.dev.openstreetmap.org/api -ra</title>
-        <link>https://www.openstreetmap.org/note/1593090#c5126186</link>
-        <guid>https://www.openstreetmap.org/note/1593090#c5126186</guid>
-        <pubDate>Mon, 26 Oct 2020 12:09:01 +0000</pubDate>
-      </item><item>
-        <title>new note (near Aranyhegy, Esztergom) / * 2020 October 26 12:00 Pan Perníček Created: #Mapy.cz user reports: Szent János kút doesn&amp;#39;t exist.</title>
-        <link>https://www.openstreetmap.org/note/2400233#c5126163</link>
-        <guid>https://www.openstreetmap.org/note/2400233#c5126163</guid>
-        <pubDate>Mon, 26 Oct 2020 12:00:37 +0000</pubDate>
       </item>
   </channel>
 </rss>
