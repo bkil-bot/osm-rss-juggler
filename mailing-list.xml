@@ -3,6 +3,16 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] POI vadászat: On Fri, 30 Oct 2020, KAMI911 KAMI911 wrote: &gt; Akkor hogyan legyen, ki mit preferálna? Az operátornak nem a névben a helye. Van arra külön attribútum. Kiss Gábor -Kiss Gabor</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/DJrsDhuXFyQ/fsHmCF1EAAAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/DJrsDhuXFyQ/fsHmCF1EAAAJ</guid>
+        <pubDate>Sat, 31 Oct 2020 06:12:56 UTC</pubDate>
+      </item><item>
+        <title>PicLayer térképek Androidra?: Sziasztok! Van valakinek ötlete, hogy a JOSM-hoz használt PicLayer pluginnal kalibrált térképeket milyen Androidos programmal lehetne bitmap térképként használni háttérként? -turistautsz...@gmail.com</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/HNspkx-Sq8k/601pN8xBAAAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/HNspkx-Sq8k/601pN8xBAAAJ</guid>
+        <pubDate>Sat, 31 Oct 2020 05:25:55 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] POI vadászat: Sziasztok, Akkor hogyan legyen, ki mit preferálna? Üdvözlettel / Best Regards: Kálmán (KAMI) Szalai Thomas Nagy ezt írta (időpont: 2020. okt. 15., Cs, 14:52): &gt; ATM-nél a Mapnik az automata jel alá írja az operatort, hogy OTP vagy &gt; UniCredit. Ha ez így működik vending_mach -KAMI911 KAMI911</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/DJrsDhuXFyQ/igAlBR4sAAAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/DJrsDhuXFyQ/igAlBR4sAAAJ</guid>
@@ -242,16 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/dG23lZXqvfU/VOk9-wVPBwAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/dG23lZXqvfU/VOk9-wVPBwAJ</guid>
         <pubDate>Tue, 13 Oct 2020 19:50:28 UTC</pubDate>
-      </item><item>
-        <title>Térképen láthatatlan tornyok: Szeretném felhívni a figyelmet, hogy sem az OSMAnd, sem a Mapnik nem jeleníti meg azt a bázisállomás antennát amiről hiányzik a man_made=mast + tower:type=communication. Emiatt redundánsan vettem fel néhányat illetve csak feltöltéskor vagy azután vettem észre ha más miatt ellenőriztem a -Thomas Nagy</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/8pVpREHRyBI/y0kNAVtMBwAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/8pVpREHRyBI/y0kNAVtMBwAJ</guid>
-        <pubDate>Tue, 13 Oct 2020 19:01:34 UTC</pubDate>
-      </item><item>
-        <title>Re: Szombat 10:00 Irhás árok - Budaörs feletti 11km, lehet csatlakozni: Erről jól lekéstem, il. azóta most volt csak időm ránézni erre a csatornára, mert 10.-én egyszerre 2 rendezvényen is voltam, amiből az egyiket én is rendeztem :) A másik meg a kéktúra ünnep volt, ami szintén jól sikerült, mi a Pilisszentlászló - Dobogókő szakaszra mentünk, erről a turista -turistautsz...@gmail.com</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/ePLixxYxu9A/G6_hnXc1BwAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/ePLixxYxu9A/G6_hnXc1BwAJ</guid>
-        <pubDate>Tue, 13 Oct 2020 12:02:09 UTC</pubDate>
       </item>
   </channel>
 </rss>
