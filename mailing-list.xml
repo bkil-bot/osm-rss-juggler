@@ -3,6 +3,21 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Letűnt korok emlékezete (Was: LittlePebble - hegycsúcsok): Vasútvonalakra: Helyes. razed-re szoktam én is átrakni ezeket. Rettentő zavaró, ha az AKTUÁLISAT mutató térképen (pl OsmAnd) ott vannak. Viszont én csak olyat bántottam, amit meg tudtam saját szememmel nézni (így igen keveset és azt se teljes hosszban). Máskülönben nem tudhatom, hogy ott -Feri Veres</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/KlIjXeNMWIY/7dmxey3rAAAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/KlIjXeNMWIY/7dmxey3rAAAJ</guid>
+        <pubDate>Mon, 02 Nov 2020 09:09:50 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Letűnt korok emlékezete (Was: LittlePebble - hegycsúcsok): A felszámolt vasutak címkézése olyan tíz éve vitatott az OSM-en, lehet Wiki oldalakat találni pro és kontra érvekkel is. Az OpenRailwayMap rendereli a megszűnt vonalakat is, ha törlöd ezeket az OSM-ről, akkor ott látható adatvesztés történik. Jellemzően szerkesztőtől függ, ki mit fogad el még a -Gergely Matefi</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/KlIjXeNMWIY/CdaUFKbpAAAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/KlIjXeNMWIY/CdaUFKbpAAAJ</guid>
+        <pubDate>Mon, 02 Nov 2020 08:41:49 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] LittlePebble - hegycsúcsok: A kérdés, hogy milyen jogszerű forrás alapján lehet a mai &quot;rendes&quot; nevet megállapítani. Az még rendben van, hogy ahol a történelmi név eltér a mai térképeken használatostól, ott a nem-jogvédett történelmi térképről átvett elnevezés az old_name-be kerüljön. Viszont a mai név átvétele jogvédett -Gergely Matefi</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/KlIjXeNMWIY/ADeLSgTpAAAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/KlIjXeNMWIY/ADeLSgTpAAAJ</guid>
+        <pubDate>Mon, 02 Nov 2020 08:30:14 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Letűnt korok emlékezete (Was: LittlePebble - hegycsúcsok): És a Valcum-Sopiane ókori út? Címkézése szerint &quot;ruins&quot;, de a felszínen sehol sem látható. Ennek megfelelően a nyomvonala is kérdéses. Az OSMI mindig visít, hogy túl nagy a távolság a pontjai között. Ákos Sent: Monday, November 02, 2020 at 6:57 AM From: &quot;Kiss Gabor&quot; -ITineris OSM</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/KlIjXeNMWIY/mbZ20hvlAAAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/KlIjXeNMWIY/mbZ20hvlAAAJ</guid>
@@ -237,21 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/6Tpu9qYe1ds/mYF9-UNHAQAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/6Tpu9qYe1ds/mYF9-UNHAQAJ</guid>
         <pubDate>Thu, 15 Oct 2020 13:02:13 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] POI vadászat: ATM-nél a Mapnik az automata jel alá írja az operatort, hogy OTP vagy UniCredit. Ha ez így működik vending_machine esetén is, én nem erőltetném egyáltalán, hogy legyen neki name=*. Mert egyrészt ha van name akkor tipikusan azt szokta kiírni nem a brand/operatort, másrészt pedig ha a szívünkre -Thomas Nagy</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/DJrsDhuXFyQ/DDGOZLdGAQAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/DJrsDhuXFyQ/DDGOZLdGAQAJ</guid>
-        <pubDate>Thu, 15 Oct 2020 12:52:09 UTC</pubDate>
-      </item><item>
-        <title>Teherautós mizériák #1: Behajtási övezetek: Sziasztok! Az egyik problémám, hogy miként címkéződjenek a (pl. budapesti) korlátozott behajtási övezetek. Magukat a poligonokat már felvittem. Kérdések: 1. Milyen címkéket kapjon maga az övezet? Mint azt már megvitattuk, a maxweight a piros körbe írt &quot;7,5 t&quot;, és ez a jármű pillanatnyi -ITineris OSM</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/lX9tibQu7Lc/Aa3VE41GAQAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/lX9tibQu7Lc/Aa3VE41GAQAJ</guid>
-        <pubDate>Thu, 15 Oct 2020 12:49:07 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Szombaton szavazás lesz a hallhatóságokkal kapcsolatban: Ha gondoljátok ma-holnap 19:00 körül BBB-n is beszélgethetünk egyet róla: https://bbb.grin.hu/b/osm-276-9x9 Igen, én is pontosan így foglaltam volna össze. A napi egyszeri csengetés kevés segítség navigációhoz, de a harangokat itt már megemlítem és egy jövőbeli &quot;hangtérkép&quot; ugyanúgy illusztráln -Thomas Nagy</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/6rDyNTPw6aA/oVwgeolGAQAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/6rDyNTPw6aA/oVwgeolGAQAJ</guid>
-        <pubDate>Thu, 15 Oct 2020 12:48:52 UTC</pubDate>
       </item>
   </channel>
 </rss>
