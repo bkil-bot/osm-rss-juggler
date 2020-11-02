@@ -3,6 +3,21 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Letűnt korok emlékezete (Was: LittlePebble - hegycsúcsok): Annyi értelme van, hogy egy vasútvonal eléggé konkrét objektum volt elég konkrét elhelyezkedéssel (ellentétben a többi említettel), így régebbi térképeken is szerepelhet. Egyrészt a razed/demolished prefixszel megőrizve jelezhető, hogy igen, tudunk róla, hogy ott volt, de elavult forrás alapján -ITineris OSM</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/KlIjXeNMWIY/TbwLHoD4AAAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/KlIjXeNMWIY/TbwLHoD4AAAJ</guid>
+        <pubDate>Mon, 02 Nov 2020 13:13:59 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Letűnt korok emlékezete (Was: LittlePebble - hegycsúcsok): Engem nem zavar, ha más ilyennel foglalkozik. JOSM-ban beállítasz egy szűrőt rá, és már nyomát sem látod többet. Hagyományos renderelők szintén nem jelenítik meg, tehát ott sem zavar, az adatbázisban meg elfér. 2020.11.02. 13:35 keltezéssel, Kiss Gabor írta: &gt; On Mon, 2 Nov 2020, Tamás Németh -Tamás Németh</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/KlIjXeNMWIY/mgovlqX3AAAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/KlIjXeNMWIY/mgovlqX3AAAJ</guid>
+        <pubDate>Mon, 02 Nov 2020 12:58:20 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Letűnt korok emlékezete (Was: LittlePebble - hegycsúcsok): On Mon, 2 Nov 2020, Tamás Németh wrote: &gt; Én nem törölném, hanem a /razed/ prefixet használnám &gt; https://wiki.openstreetmap.org/wiki/Lifecycle_prefix Akkor is, ha már nem maradt belőle semmi? Mi értelme olyasmit térképezni, ami nem létezik, és a leghalványabb nyoma sincs egykori létezésének. -Kiss Gabor</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/KlIjXeNMWIY/BwHluGv2AAAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/KlIjXeNMWIY/BwHluGv2AAAJ</guid>
+        <pubDate>Mon, 02 Nov 2020 12:35:52 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Bükki erdőpoligon: On Mon, Nov 2, 2020 at 10:22 AM Feri Veres wrote: &gt; &gt; A nagy terület elvágásakor keletkező felesleges elválasztóvonal: &gt; szerintem elfogadható kompromisszum arra, hogy kezelhető méretű &gt; elemekkel dolgozzunk! Remélhetőleg található olyan hely, ahol viszonylag &gt; rövid szakaszon -Gergely Matefi</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/LL9S_rKClWQ/AmpJPZrtAAAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/LL9S_rKClWQ/AmpJPZrtAAAJ</guid>
@@ -33,7 +48,7 @@
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/KlIjXeNMWIY/mbZ20hvlAAAJ</guid>
         <pubDate>Mon, 02 Nov 2020 07:18:37 UTC</pubDate>
       </item><item>
-        <title>Re: [osm-hu] Letűnt korok emlékezete (Was: LittlePebble - hegycsúcsok): Én nem törölném, hanem a razed prefixet használnám https://wiki.openstreetmap.org/wiki/Lifecycle_prefix 2020.11.02. 6:57 keltezéssel, Kiss Gabor írta: Holott elég világosan fogalmaz a wiki, hogy ezt nem kellene. Sőt annyira népszerű a téma, hogy egy külön magyarázó oldal is van ezzel kapcsolatba -Tamás Németh</title>
+        <title>Re: [osm-hu] Letűnt korok emlékezete (Was: LittlePebble - hegycsúcsok): Én nem törölném, hanem a razed prefixet használnám https://wiki.openstreetmap.org/wiki/Lifecycle_prefix 2020.11.02. 6:57 keltezéssel, Kiss Gabor írta: Holott elég világosan fogalmaz a wiki, hogy ezt nem kellene. Sőt annyira népszerű a téma, hogy egy külön magyarázó oldal is van ezzel kapcsolatba -heyjo...@gmail.com</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/KlIjXeNMWIY/bJo39sbhAAAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/KlIjXeNMWIY/bJo39sbhAAAJ</guid>
         <pubDate>Mon, 02 Nov 2020 06:17:34 UTC</pubDate>
@@ -237,21 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/6Tpu9qYe1ds/cxEWvmdaAQAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/6Tpu9qYe1ds/cxEWvmdaAQAJ</guid>
         <pubDate>Thu, 15 Oct 2020 18:52:57 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] (Teher)autós mizériák #2: időszakos &quot;villany&quot;táblák: Szia! Értem a problémád, de attól ez még VJT, és mivel nem tudod, hogy mikor kapcsolják ki-be, így nem tudsz mást tenni, mint hogy a tábla tényét rögzíted. Ráadásul mióta nem egy fix ki-be kapcsolható tábla van, hanem kvázi egy monitor, elvileg bármikor, bármi megjelenhet rajta. (Persze -Kádár Iván</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/6Tpu9qYe1ds/EuyvfW5MAQAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/6Tpu9qYe1ds/EuyvfW5MAQAJ</guid>
-        <pubDate>Thu, 15 Oct 2020 14:36:52 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Teherautós mizériák #1: Behajtási övezetek: On Thu, 15 Oct 2020 at 14:49, ITineris OSM wrote: &gt; Ráadásul a korlátozott behajtási övezetek hivatalosan forgalomcsillapítási &gt; eszközök, &gt; Nem, hivatalosan is pénzbehajtási eszközök: a települési úthálózat &quot;rongálásáért&quot; cserébe fizetett helyreállítási hozzájárulás. Bárki -Samat</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/lX9tibQu7Lc/nq0JAC5MAQAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/lX9tibQu7Lc/nq0JAC5MAQAJ</guid>
-        <pubDate>Thu, 15 Oct 2020 14:32:15 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] (Teher)autós mizériák #2: időszakos &quot;villany&quot;táblák: Szia! Nagyon nem erre gondolok. Nem az a lényeg, hogy néha kiírják, hogy &quot;Torlódás&quot;, vagy &quot;Építési munkák 5 km múlva&quot;. 1. A ki-be kapcsolt tábla az utána jövő way-ek címkézésére van hatással. Tehát néha maxspeed:hgv=50, néha pedig nem. És vagy van kanyarodási korlátozás/kötelező haladási irány, -ITineris OSM</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/6Tpu9qYe1ds/gGrADW1LAQAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/6Tpu9qYe1ds/gGrADW1LAQAJ</guid>
-        <pubDate>Thu, 15 Oct 2020 14:18:27 UTC</pubDate>
       </item>
   </channel>
 </rss>
