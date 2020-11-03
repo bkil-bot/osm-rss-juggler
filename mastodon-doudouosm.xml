@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>OSM In Realtime is a visualization of the changes made to #OpenStreetMap in near real-time. Great way to realize how lively the OSM community is. https://jwestman.gitlab.io/osm-in-realtime/</title>
+        <link>https://en.osm.town/@Doudouosm/105146649502590168</link>
+        <guid>https://en.osm.town/@Doudouosm/105146649502590168</guid>
+        <pubDate>Tue, 03 Nov 2020 13:35:45 +0000</pubDate>
+      </item><item>
         <title>OSM Apps is a searchable web catalog of all apps and services identified in the #OpenStreetMap wiki: https://osm-apps.zottelig.ch. I knew there were many, but I never thought that many... 😀 #OSMApps</title>
         <link>https://en.osm.town/@Doudouosm/105141835914416401</link>
         <guid>https://en.osm.town/@Doudouosm/105141835914416401</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/104805671345297125</link>
         <guid>https://en.osm.town/@Doudouosm/104805671345297125</guid>
         <pubDate>Fri, 04 Sep 2020 08:20:31 +0000</pubDate>
-      </item><item>
-        <title>#FOSDEM 2021 will take place on Saturday 6 and Sunday 7 February 2021 as an online event: https://fosdem.org/2021/news/2020-09-01-dates-fosdem-2021/. FOSDEM is the two-day event organised by volunteers to promote the widespread use of #free and open source software #FOSS, taking place in the city of #Brussels, #Belgium. #FOSDEM21</title>
-        <link>https://en.osm.town/@Doudouosm/104796390388179057</link>
-        <guid>https://en.osm.town/@Doudouosm/104796390388179057</guid>
-        <pubDate>Wed, 02 Sep 2020 17:00:15 +0000</pubDate>
       </item>
   </channel>
 </rss>
