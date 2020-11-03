@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Ritics, Nagykozár) / * 2020 November 3 18:44 bkil Resolved: Köszönjük szépen a bejelentést. Az intézkedést megkezdtük.</title>
+        <link>https://www.openstreetmap.org/note/2409236#c5148163</link>
+        <guid>https://www.openstreetmap.org/note/2409236#c5148163</guid>
+        <pubDate>Tue, 03 Nov 2020 18:44:12 +0000</pubDate>
+      </item><item>
         <title>new note (near Ritics, Nagykozár) / * 2020 November 3 16:41 Created: asdfasf</title>
         <link>https://www.openstreetmap.org/note/2409236#c5147870</link>
         <guid>https://www.openstreetmap.org/note/2409236#c5147870</guid>
@@ -217,11 +222,6 @@
         <link>https://www.openstreetmap.org/note/2381763#c5141591</link>
         <guid>https://www.openstreetmap.org/note/2381763#c5141591</guid>
         <pubDate>Sun, 01 Nov 2020 13:02:47 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Belváros, Szeged) / * 2018 November 18 10:03 gabro00 Created: Itt miért vannak felosztva a sávok? / * 2018 November 23 14:36 jlevente Updated: osszevonhatoak siman, nem latom hasznat a felosztasnak / * 2019 October 30 07:36 ITineris Updated: Lehetne. Gondolom, a bazi sok :forward/:backward címkézni valótól, és a kismillió kapcsolattól (troli/busz vonalak) retten el mindenki. / * 2019 October 30 07:46 gabro00 Updated: Kitűnően látod a helyzetet :) Az egyszerűbbeket megcsináltuk, de akad még 1-2. / * 2020 January 19 12:32 gabro00 Updated: Viszont arra tökéletes a szakasz, hogy olyan térképeken is felismerhető legyen az OSM, ahol egyszerűen csak átvették az adatokat forrásmegjelölés nélkül :) Láttam már ilyet. / * 2020 October 25 21:02 gabro00 Updated: Üdv mindenkinek! / Jó hírt hoztam. Írtam egy szkriptet, ami a nyers XML-ben felcseréli az kapcsolatokat alkotó útazonosítókat, így nem kell kézzel piszmogni. / Az utat majd újra kell címkézni, de legalább a kapcsolatok (remélem) jók. A forward/backward nem kell, enélkül is jó. / Nézzétek meg jó-e https://www.openstreetmap.org/changeset/93028948 / * 2020 October 26 12:09 jlevente Updated: kiraly! A Sandbox modrol tudsz? A / https://api06.dev.openstreetmap.org nyugodtan tudsz tesztelni mindent, az se baj, ha kitorlod a fel varost. Kell egy uj account a dev serveren, meg JOSM-ban atallitani az API endpointot https://api06.dev.openstreetmap.org/api -ra / * 2020 October 26 12:55 gabro00 Updated: Köszi, próbáltam, de valamiért nem ment. Mintha azt írnák, hogy a db üres, tehát csak feltölteni lehet, módosítani nem :/ / Komolyan érdekelne, mert ki akartam próbálni és visszadobta a JOSM, hogy valami referencia nem létezik. / * 2020 October 26 16:59 gabro00 Updated: Na most gép előtt vagyok, erre gondoltam: / &amp;quot;These sandboxes are installed as instances of The Rails Port OpenStreetMap rails app which also includes a copy of the openstreetmap.org website and things like user profiles and diary entries, but the database is mostly empty (just populated with some test data).&amp;quot; - / https://wiki.openstreetmap.org/wiki/Sandbox_for_editing / * 2020 October 26 17:11 jlevente Updated: masold at Szeged egy reszet JOSM-ben. Letoltod, kicsereled az endpointot aztan feltoltod oda. Ha nem megy, csak ird at az ID-ket negativra, aztan a szerver elintezi feltolteskent / * 2020 October 26 17:38 gabro00 Updated: Jaaa, hogy először nekem kell importálnom a dev szerverre, amit aztán egy második módosításcsomaggal cibálhatok és nézhetem mit csinál... Ilyesmi eszembe se jutott, köszi! / Valahol mintha olvastam volna, hogy pár óránként törlődik az adatbázis, de nem tudom hol. Nem tetszik, sok a macera :c (Meg jó lett a javítás :) / * 2020 November 1 11:40 gabro00 Resolved: Úgy látom nincs több teendő.</title>
-        <link>https://www.openstreetmap.org/note/1593090#c5141398</link>
-        <guid>https://www.openstreetmap.org/note/1593090#c5141398</guid>
-        <pubDate>Sun, 01 Nov 2020 11:40:54 +0000</pubDate>
       </item>
   </channel>
 </rss>
