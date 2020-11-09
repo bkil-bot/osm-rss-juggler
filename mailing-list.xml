@@ -3,6 +3,16 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Előadásfelvételek licencelése: Sziasztok! Nálam sincs ilyen. Tamás Miklos Vajna ezt írta (időpont: 2020. nov. 9., Hét 11:14): &gt; Sziasztok! &gt; &gt; On Mon, Nov 09, 2020 at 11:00:00AM +0100, Thomas Nagy &gt; wrote: &gt; &gt; @ÚrBalázs @MeskóBalázs @KAMI @Vasony @Miklós @OláhTamás @Sándor és más &gt; &gt; -Tamás Vásony</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/OxDeK8ZwWeU/1XIp1gG7AgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/OxDeK8ZwWeU/1XIp1gG7AgAJ</guid>
+        <pubDate>Mon, 09 Nov 2020 10:51:08 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Barack a névben: Szerintem egyértelműen az előbbi. Minden toolset tudja kezelni a Unicode (vagy UTF-8-ban kódolt) karaktereket! A teszt barack tűnhet hülyeségnek, de az EU-csillagos túraútvonal valós. Az itthoni kerékpáros útvonalakra is jó lehetne a fákon látható bringás szimbólumot használni. Nem tudom, a Szent -ITineris OSM</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/OnqdTd5N3iM/r2lRGLG6AgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/OnqdTd5N3iM/r2lRGLG6AgAJ</guid>
+        <pubDate>Mon, 09 Nov 2020 10:45:21 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Barack a névben: Értem (azt hiszem). Kicsit átfogalmazom a kérdésünket: Felkészítsük az adatfeldolgozást az ilyen karakterek fogadására (valami átkódoló rutinnal), vagy egyszerűen töröljük ezeket, vagy ne foglalkozzunk ezekkel, mert csak tesztről van szó? Köszönöm. Szem 2020.11.09. 11:05 keltezéssel, ITineris -Szem</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/OnqdTd5N3iM/IWQKOgK5AgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/OnqdTd5N3iM/IWQKOgK5AgAJ</guid>
@@ -242,16 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/aPEfLmEU3ew/u_UOq-UnBgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/aPEfLmEU3ew/u_UOq-UnBgAJ</guid>
         <pubDate>Wed, 28 Oct 2020 11:07:59 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Eltévedt túrázók mobiltelefonnal - ez hogy lehetséges?: Az &quot;Android Emergency Location Service (ELS)&quot; protokoll elméletileg automatikusan elküldi a koordinátákat is - és talán a magyar segélyszervezetek tudják fogadni is ... persze a pontosság sok mindentől függ .. https://crisisresponse.google/emergencylocationservice/how-it-works/ Today, ELS -Imre Samu</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/aPEfLmEU3ew/a3od6lQmBgAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/aPEfLmEU3ew/a3od6lQmBgAJ</guid>
-        <pubDate>Wed, 28 Oct 2020 10:39:18 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Eltévedt túrázók mobiltelefonnal - ez hogy lehetséges?: Vagy (offline) térkép nem volt a telefonon, de esetleg az OMSZ &quot;ÉletMentő&quot; app-ja igen, ami küld koordinátákat a hívásnál. (Ez egyébként hogyan működhet, ha mondjuk nincs 3/4G csak 2G van?) Imre Samu ezt írta (időpont: 2020. okt. 27., K, 23:18): &gt; &gt; Eltévedt túrázók mobiltele -Máté Fehérvári</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/aPEfLmEU3ew/6pGPvrIhBgAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/aPEfLmEU3ew/6pGPvrIhBgAJ</guid>
-        <pubDate>Wed, 28 Oct 2020 09:14:23 UTC</pubDate>
       </item>
   </channel>
 </rss>
