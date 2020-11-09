@@ -3,6 +3,31 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Barack a névben: Értem (azt hiszem). Kicsit átfogalmazom a kérdésünket: Felkészítsük az adatfeldolgozást az ilyen karakterek fogadására (valami átkódoló rutinnal), vagy egyszerűen töröljük ezeket, vagy ne foglalkozzunk ezekkel, mert csak tesztről van szó? Köszönöm. Szem 2020.11.09. 11:05 keltezéssel, ITineris -Szem</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/OnqdTd5N3iM/IWQKOgK5AgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/OnqdTd5N3iM/IWQKOgK5AgAJ</guid>
+        <pubDate>Mon, 09 Nov 2020 10:14:31 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Előadásfelvételek licencelése: Sziasztok! On Mon, Nov 09, 2020 at 11:00:00AM +0100, Thomas Nagy wrote: &gt; @ÚrBalázs @MeskóBalázs @KAMI @Vasony @Miklós @OláhTamás @Sándor és más &gt; előadók/hardver donorok: mintha lett volna jó pár alkalom 1-2 éve &gt; amikor azzal kísérleteztünk, hogy az adott gépen rögzítettük -Miklos Vajna</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/OxDeK8ZwWeU/WWqRpvy4AgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/OxDeK8ZwWeU/WWqRpvy4AgAJ</guid>
+        <pubDate>Mon, 09 Nov 2020 10:14:07 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Barack a névben: Gondolom, épp ez a teszt lényege. Mint ahogy a turistautaknál is valaki megpróbálkozott már csillagot (★, U2605) beletenni az E4-es európai túraútvonalba. Aztán lett nagy reklamáció, hogy a térképen 8 darab téglalap jelent meg helyette. Sajnos a különböző térkép-gyártó eszközök jó része még -ITineris OSM</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/OnqdTd5N3iM/DvTxA364AgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/OnqdTd5N3iM/DvTxA364AgAJ</guid>
+        <pubDate>Mon, 09 Nov 2020 10:05:03 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Előadásfelvételek licencelése: @ÚrBalázs @MeskóBalázs @KAMI @Vasony @Miklós @OláhTamás @Sándor és más előadók/hardver donorok: mintha lett volna jó pár alkalom 1-2 éve amikor azzal kísérleteztünk, hogy az adott gépen rögzítettük a képernyőképet + a belső mikrofont vagy a diktafont. Ezeknek utána tudna mindenki nézni, hogy -Thomas Nagy</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/OxDeK8ZwWeU/MO2fo0q4AgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/OxDeK8ZwWeU/MO2fo0q4AgAJ</guid>
+        <pubDate>Mon, 09 Nov 2020 10:01:22 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Barack a névben: unicode karakter https://www.compart.com/en/unicode/U+1F351 a nem utf-es kimenetek nem fogják szeretni 2020.11.08. 19:01 keltezéssel, Szem írta: &gt; Sziasztok! &gt; &gt; A kerékpáros térkép készítéskor bukkant elő ez a probléma: &gt; https://www.openstreetmap.org/way/340612933 &gt; Látom, hogy ez valami -Tamás Németh</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/OnqdTd5N3iM/jfWLhD63AgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/OnqdTd5N3iM/jfWLhD63AgAJ</guid>
+        <pubDate>Mon, 09 Nov 2020 09:42:11 UTC</pubDate>
+      </item><item>
         <title>Barack a névben: Sziasztok! A kerékpáros térkép készítéskor bukkant elő ez a probléma: https://www.openstreetmap.org/way/340612933 Látom, hogy ez valami teszt. Tudja valaki, hogy mit jelent ez a név, illetve elfogadott (lesz) ez megoldás, és csak a térkép generálási folyat nem ismeri? Köszönöm, Szem -Szem</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/OnqdTd5N3iM/iXLaiuyDAgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/OnqdTd5N3iM/iXLaiuyDAgAJ</guid>
@@ -83,7 +108,7 @@
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/KlIjXeNMWIY/TbwLHoD4AAAJ</guid>
         <pubDate>Mon, 02 Nov 2020 13:13:59 UTC</pubDate>
       </item><item>
-        <title>Re: [osm-hu] Letűnt korok emlékezete (Was: LittlePebble - hegycsúcsok): Engem nem zavar, ha más ilyennel foglalkozik. JOSM-ban beállítasz egy szűrőt rá, és már nyomát sem látod többet. Hagyományos renderelők szintén nem jelenítik meg, tehát ott sem zavar, az adatbázisban meg elfér. 2020.11.02. 13:35 keltezéssel, Kiss Gabor írta: &gt; On Mon, 2 Nov 2020, Tamás Németh -Tamás Németh</title>
+        <title>Re: [osm-hu] Letűnt korok emlékezete (Was: LittlePebble - hegycsúcsok): Engem nem zavar, ha más ilyennel foglalkozik. JOSM-ban beállítasz egy szűrőt rá, és már nyomát sem látod többet. Hagyományos renderelők szintén nem jelenítik meg, tehát ott sem zavar, az adatbázisban meg elfér. 2020.11.02. 13:35 keltezéssel, Kiss Gabor írta: &gt; On Mon, 2 Nov 2020, Tamás Németh -heyjo...@gmail.com</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/KlIjXeNMWIY/mgovlqX3AAAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/KlIjXeNMWIY/mgovlqX3AAAJ</guid>
         <pubDate>Mon, 02 Nov 2020 12:58:20 UTC</pubDate>
@@ -227,31 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/aPEfLmEU3ew/6pGPvrIhBgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/aPEfLmEU3ew/6pGPvrIhBgAJ</guid>
         <pubDate>Wed, 28 Oct 2020 09:14:23 UTC</pubDate>
-      </item><item>
-        <title>Vácegres rendezési terv: A honlapjukon már csak újabb, szöveges információk érhetők el (a hész és a trt össze van vonva és csak a hész adattartalom található benne), de szerintem ha valaki küldene egy adatigénylést ezekre a 2005-ös dokumentumokra (vagy magára a rendezési tervre) abban benne lenne: Terv.bef./ jóváhagyá -Thomas Nagy</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/dgS3SqBHVKw/gr04GWsaBgAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/dgS3SqBHVKw/gr04GWsaBgAJ</guid>
-        <pubDate>Wed, 28 Oct 2020 07:00:59 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Eltévedt túrázók mobiltelefonnal - ez hogy lehetséges?: Ilyenkor ősszel az egyre korábbi sötétedés is belejátszik, amit ha nem kalkulálsz be, akkor az elég váratlan és stresszes lehet .. ( saját tapasztalat alapján általánosítva ) De amúgy : - a mentális okok ( hiába van jó (térképes)adat és kütyü - ha stresszesen rosszul értelmezzük ) - térképes -Imre Samu</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/aPEfLmEU3ew/eYF0mOP9BQAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/aPEfLmEU3ew/eYF0mOP9BQAJ</guid>
-        <pubDate>Tue, 27 Oct 2020 22:18:10 UTC</pubDate>
-      </item><item>
-        <title>Eltévedt túrázók mobiltelefonnal - ez hogy lehetséges?: https://rtl.hu/rtlklub/hirek/ket-kisfiuval-tevedt-el-az-anya-a-pilisben https://telex.hu/belfold/2020/10/25/eltevedt-turazokat-egy-not-es-ket-kisgyereket-mentettek-meg-a-specialis-mentok -Thomas Nagy</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/aPEfLmEU3ew/apLLmjrcBQAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/aPEfLmEU3ew/apLLmjrcBQAJ</guid>
-        <pubDate>Tue, 27 Oct 2020 12:01:21 UTC</pubDate>
-      </item><item>
-        <title>Országjáró sétarepülés Boeing 737-800-as repülőgéppel: Bocsi, hogy így a lehetőség után hirdetem meg, de hátha lesz még legközelebb is: https://telex.hu/belfold/2020/10/13/ferihegy-setarepules-sehova-kerozin https://setarepules.aeropark.hu/ -Thomas Nagy</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/NNqVVt8hOw8/ZVJHz7auBQAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/NNqVVt8hOw8/ZVJHz7auBQAJ</guid>
-        <pubDate>Mon, 26 Oct 2020 22:07:17 UTC</pubDate>
-      </item><item>
-        <title>Re: Október havi GTO (get together OSM): ortofotó évjárataink, wifis-diktafonos térképezés, partik: Nem szóltatok, hogy rossz volt a Meetup jelentkezési link, itt van helyesen: https://www.meetup.com/OpenStreetMap-Hungary/events/274180192 https://wiki.openstreetmap.org/wiki/Hungary/Tal%C3%A1lkoz%C3%B3k/2020-10-26-havi-osm On Mon, Oct 26, 2020 at 2:48 AM Thomas Nagy wrote: -Thomas Nagy</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/kBkOBQlcVz4/ILvgPQiIBQAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/kBkOBQlcVz4/ILvgPQiIBQAJ</guid>
-        <pubDate>Mon, 26 Oct 2020 10:18:26 UTC</pubDate>
       </item>
   </channel>
 </rss>
