@@ -3,6 +3,16 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: Rovásírásos táblák, Was: [osm-hu] Barack a névben: Továbbá milyen célból is gyűjtenénk ezeket a rovásos település táblákat? Ha az az információ érdekes, hogy melyik településen raktak ki ilyen táblát, azt a település pontra is rá lehet tenni valami rovas_board=yes szerű címkével. Mondjuk erről pont van lista a Wikipédián [1]. A tábla tartalma sem -Báthory Péter</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/OnqdTd5N3iM/054u48oDAwAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/OnqdTd5N3iM/054u48oDAwAJ</guid>
+        <pubDate>Tue, 10 Nov 2020 09:04:56 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Barack a névben: Egyébként írt valaki a usernek, hogy mikor tervezi eltünteni a unicode gyümölcsét? Kerek egy hónapja van kint, ha tesztelni akart vele valamit, ezt már megtehette. Ha senki, akkor rákérdezek. BP ITineris OSM ezt írta (időpont: 2020. nov. 9., H, 11:45): &gt; Szerintem egyértelműe -Báthory Péter</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/OnqdTd5N3iM/bn79zR4CAwAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/OnqdTd5N3iM/bn79zR4CAwAJ</guid>
+        <pubDate>Tue, 10 Nov 2020 08:34:18 UTC</pubDate>
+      </item><item>
         <title>Re: Rovásírásos táblák, Was: [osm-hu] Barack a névben: On Tue, Nov 10, 2020 at 8:15 AM ITineris OSM wrote: &gt; Én több okból is eltanácsolnálak az általad leírt gyakorlattól. Szerintem: Támogatom. &gt; - A &quot;name&quot; mezőbe a település hivatalos nevét tesszük, a hivatalos (elsődleges) nyelven. A rovásírás ennek nem része. Sőt, ez a -grin</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/OnqdTd5N3iM/7OnewOX_AgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/OnqdTd5N3iM/7OnewOX_AgAJ</guid>
@@ -242,16 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/LL9S_rKClWQ/pwk-TFJgAAAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/LL9S_rKClWQ/pwk-TFJgAAAJ</guid>
         <pubDate>Sat, 31 Oct 2020 14:45:17 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] POI vadászat: Szia kissg, Kiss Gabor ezt írta (időpont: 2020. okt. 31., Szo 7:24): &gt; On Sat, 31 Oct 2020, KAMI911 KAMI911 wrote: &gt; &gt; &gt; Példát légyszíves írj az érintett attribútumokra. Köszönöm! &gt; &gt; &gt; &gt; Az operátornak nem a névben a helye. Van arra külön attribútum. &gt; &gt; operator=* :-) &gt; -KAMI911 KAMI911</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/DJrsDhuXFyQ/2s1ENdpFAAAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/DJrsDhuXFyQ/2s1ENdpFAAAJ</guid>
-        <pubDate>Sat, 31 Oct 2020 06:40:13 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] POI vadászat: On Sat, 31 Oct 2020, KAMI911 KAMI911 wrote: &gt; Példát légyszíves írj az érintett attribútumokra. Köszönöm! &gt; &gt; Az operátornak nem a névben a helye. Van arra külön attribútum. operator=* :-) https://wiki.openstreetmap.org/wiki/Tag:amenity=atm https://wiki.openstreetmap.org/wiki/Key:operator -Kiss Gabor</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/DJrsDhuXFyQ/r7DL_vtEAAAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/DJrsDhuXFyQ/r7DL_vtEAAAJ</guid>
-        <pubDate>Sat, 31 Oct 2020 06:24:19 UTC</pubDate>
       </item>
   </channel>
 </rss>
