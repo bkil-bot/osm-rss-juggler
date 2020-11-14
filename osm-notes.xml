@@ -2,6 +2,11 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Notes (via bkil-bot)</title>
-      
+      <item>
+        <title>closed note (near Tiszaszentimre) / * 2020 October 26 21:06 Created: tiszató / * 2020 November 14 18:55 feket Resolved: Ez itt nem az.</title>
+        <link>https://www.openstreetmap.org/note/2401032#c5180103</link>
+        <guid>https://www.openstreetmap.org/note/2401032#c5180103</guid>
+        <pubDate>Sat, 14 Nov 2020 18:55:48 +0000</pubDate>
+      </item>
   </channel>
 </rss>
