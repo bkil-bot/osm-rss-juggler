@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Terézváros, 6th district) / * 2020 October 2 14:44 qmi0 Created: Ez úgy tűnik, hogy bezárt :-( / * 2020 November 23 13:10 feket Resolved: Bezártam a trafikot.</title>
+        <link>https://www.openstreetmap.org/note/2371345#c5209823</link>
+        <guid>https://www.openstreetmap.org/note/2371345#c5209823</guid>
+        <pubDate>Mon, 23 Nov 2020 13:10:44 +0000</pubDate>
+      </item><item>
         <title>new note (near Vizafogó, 13th district) / * 2020 November 23 07:32 Kaszás Iván Created: Marina kút</title>
         <link>https://www.openstreetmap.org/note/2437643#c5208915</link>
         <guid>https://www.openstreetmap.org/note/2437643#c5208915</guid>
@@ -212,11 +217,6 @@
         <link>https://www.openstreetmap.org/note/2429357#c5190771</link>
         <guid>https://www.openstreetmap.org/note/2429357#c5190771</guid>
         <pubDate>Tue, 17 Nov 2020 16:34:08 +0000</pubDate>
-      </item><item>
-        <title>new note (near Pilismarót) / * 2020 November 17 09:02 Richárd Kiss Created: A barlanghoz gyalogút 2020. novemberében nem vezet a közeli földútról. Az aljnövényzet miatt csapadékos esőben szinte járhatatlan terep.</title>
-        <link>https://www.openstreetmap.org/note/2428663#c5189249</link>
-        <guid>https://www.openstreetmap.org/note/2428663#c5189249</guid>
-        <pubDate>Tue, 17 Nov 2020 09:02:45 +0000</pubDate>
       </item>
   </channel>
 </rss>
