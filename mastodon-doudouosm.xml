@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>#OpenStreetCam becomes #KartaView, following the OSM Foundation’s discouraging of names like OpenStreetSomething: https://blog.improveosm.org/en/2020/11/hello-kartaview/ #OpenStreetMap</title>
+        <link>https://en.osm.town/@Doudouosm/105266944336768305</link>
+        <guid>https://en.osm.town/@Doudouosm/105266944336768305</guid>
+        <pubDate>Tue, 24 Nov 2020 19:28:18 +0000</pubDate>
+      </item><item>
         <title>A 12-minute video tutorial to install #Wireguard and #NextCloud on a #Raspberry Pi with #Docker and #IOTstack: https://invidious.site/watch?v=7Pe-Cv0tnLs</title>
         <link>https://en.osm.town/@Doudouosm/105254989093642486</link>
         <guid>https://en.osm.town/@Doudouosm/105254989093642486</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/104886516677088185</link>
         <guid>https://en.osm.town/@Doudouosm/104886516677088185</guid>
         <pubDate>Fri, 18 Sep 2020 15:00:33 +0000</pubDate>
-      </item><item>
-        <title>The Best Privacy-Friendly Alternatives to Google Maps: https://www.wired.co.uk/article/google-maps-alternatives-privacy. Of course, #OpenStreetMap is listed.</title>
-        <link>https://en.osm.town/@Doudouosm/104854030775606592</link>
-        <guid>https://en.osm.town/@Doudouosm/104854030775606592</guid>
-        <pubDate>Sat, 12 Sep 2020 21:18:58 +0000</pubDate>
       </item>
   </channel>
 </rss>
