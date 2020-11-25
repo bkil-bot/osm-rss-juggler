@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Összefirkált Duna: ... ez szuper! ... de valahogyan jelezni kellene, hogy ez csak a lefelé menő vonalra igaz. A fölfelé menők nem cifrázák... úgyhogy erre rá kellene tenni, hogy egyirányú, lefelé (dél felé) menő ... Gza Kiss Gabor ezt írta (időpont: 2020. nov. 25., Sze, 7:57): &gt; Ez halál -Rózsa Gza (Géza) István Özséb</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/w92dgvR_KG8/zQNWsmK4BwAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/w92dgvR_KG8/zQNWsmK4BwAJ</guid>
+        <pubDate>Wed, 25 Nov 2020 08:44:13 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Összefirkált Duna: Lehet, hogy azért nem látni, mert disused:route. Nem követem, hogy ezek télen járnak-e, illetve a járványhelyzet miatt leálltak-e, de ha amúgy létező fogalom a D11, akkor inkább opening_hours=off-fal (vagy opening_hours:covid19=off) kellene ezt jelezni. Üdv: Ákos Sent: Wednesday, November -ITineris OSM</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/w92dgvR_KG8/d84PnFGzBwAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/w92dgvR_KG8/d84PnFGzBwAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/OnqdTd5N3iM/-ziMkN3-AgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/OnqdTd5N3iM/-ziMkN3-AgAJ</guid>
         <pubDate>Tue, 10 Nov 2020 07:34:39 UTC</pubDate>
-      </item><item>
-        <title>Rovásírásos táblák, Was: [osm-hu] Barack a névben: Szia! Én több okból is eltanácsolnálak az általad leírt gyakorlattól. Szerintem: - A &quot;name&quot; mezőbe a település hivatalos nevét tesszük, a hivatalos (elsődleges) nyelven. A rovásírás ennek nem része. - Innentől kezdve hitvilág szerint lehet szubjektívkedni: A települések döntő részének sohasem -ITineris OSM</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/OnqdTd5N3iM/6qStUNj9AgAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/OnqdTd5N3iM/6qStUNj9AgAJ</guid>
-        <pubDate>Tue, 10 Nov 2020 07:15:57 UTC</pubDate>
       </item>
   </channel>
 </rss>
