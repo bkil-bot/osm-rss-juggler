@@ -3,6 +3,16 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Re: Nagymaros-Visegrád Duna közműalagút: A Live menüpontban kell bekapcsolni a frissítést. -- Iván turistautsz...@gmail.com ezt írta (időpont: 2020. nov. 27., Pén 9:11): &gt; Nekem is fdroidos az osmand és hiába frissítettem most, még is nov1.-i &gt; állapot van benne. &gt; Nem volt itt valami Grin féle trükk, -Kádár Iván</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/bgi3M9_Dpjg/CkPQBOJTCAAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/bgi3M9_Dpjg/CkPQBOJTCAAJ</guid>
+        <pubDate>Fri, 27 Nov 2020 08:13:44 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Re: Nagymaros-Visegrád Duna közműalagút: Nekem is fdroidos az osmand és hiába frissítettem most, még is nov1.-i állapot van benne. Nem volt itt valami Grin féle trükk, amivel napi frissítést lehetett csinálni? vmi...@vmiklos.hu a következőt írta (2020. november 26., csütörtök, 23:00:55 UTC+1): &gt; Illetve az fdroidrol telepített -turistautsz...@gmail.com</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/bgi3M9_Dpjg/DgUEycBTCAAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/bgi3M9_Dpjg/DgUEycBTCAAJ</guid>
+        <pubDate>Fri, 27 Nov 2020 08:11:22 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Re: Nagymaros-Visegrád Duna közműalagút: Szerintem a /dirty még mindig működik a mapnik térképeken. Megnyitod a böngésző fejlesztői ablakát, ott a hálózati fülön kikeresed a téged érdeklő csempe url-t. Megnyitod egy böngészőfülben, majd mögé írod a dirty flag-et: https://tile.openstreetmap.org/18/144873/91368.png/dirty https://wiki.o -Tamás Németh</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/bgi3M9_Dpjg/EA0bvD9PCAAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/bgi3M9_Dpjg/EA0bvD9PCAAJ</guid>
@@ -242,16 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/OnqdTd5N3iM/5ZBTx9QWAwAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/OnqdTd5N3iM/5ZBTx9QWAwAJ</guid>
         <pubDate>Tue, 10 Nov 2020 14:53:49 UTC</pubDate>
-      </item><item>
-        <title>Re: Rovásírásos táblák, Was: [osm-hu] Barack a névben: fel lehetne vinni Unicode-ként, és akkor tényleg pontosan úgy néz ki, mint a múlt századi kőkereszten, örülhetünk magunknak. 𝔗𝔢𝔩𝔧𝔢𝔰𝔢𝔫 𝔧𝔬 𝔬𝔱𝔩𝔢𝔱. 𝕽𝕬𝕯𝕴𝕶𝕬𝕷𝕴𝕾! ;-) -grin</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/OnqdTd5N3iM/Hldv6dENAwAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/OnqdTd5N3iM/Hldv6dENAwAJ</guid>
-        <pubDate>Tue, 10 Nov 2020 12:08:42 UTC</pubDate>
-      </item><item>
-        <title>OpenStreetMap.hu tile szerver HTTPS cert hiba: Kaptunk egy iD hibabejelentést, miszerint Chrome-on nem nyílnak meg az OpenStreetMap.hu-s háttérképek mint például a Balaton. A következő olvasható a konzolban: &gt; Mixed Content: The page at ' https://www.openstreetmap.org/id#background=eufar-balaton&amp;map=19.00/46.88851/17.89203' was loaded over -Thomas Nagy</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/pJu8uo63jjQ/xMGkZ0YNAwAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/pJu8uo63jjQ/xMGkZ0YNAwAJ</guid>
-        <pubDate>Tue, 10 Nov 2020 11:58:43 UTC</pubDate>
       </item>
   </channel>
 </rss>
