@@ -2,6 +2,11 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      
+      <item>
+        <title>Hungary/Importálás:  (Sat, 05 Dec 2020 19:04:16 GMT) -KAMI911</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Import%C3%A1l%C3%A1s&amp;diff=2068897&amp;oldid=2059515</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Import%C3%A1l%C3%A1s&amp;diff=2068897</guid>
+        <pubDate>Sat, 05 Dec 2020 19:04:16 GMT</pubDate>
+      </item>
   </channel>
 </rss>
