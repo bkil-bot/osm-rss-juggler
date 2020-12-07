@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>git (via bkil-bot)</title>
+      <item>
+        <title>Zsolt Beringer: Madarász Ernő és Borválicz Ferenc közreműködésével.</title>
+        <link>https://gitlab.com/bkil/humor/-/commit/fdbbfba9dac672248b5a6ca1c09a3410a5049467</link>
+        <guid>https://gitlab.com/bkil/humor/-/commit/fdbbfba9dac672248b5a6ca1c09a3410a5049467</guid>
+        <pubDate>2020-12-07T18:39:03+00:00</pubDate>
+      </item><item>
+        <title>bkil: cc0/en-wordplay/bkil: speaking two languages but start mixing them</title>
+        <link>https://gitlab.com/bkil/humor/-/commit/b813269688b05235f26fa7bc717e0bb3c535c4e1</link>
+        <guid>https://gitlab.com/bkil/humor/-/commit/b813269688b05235f26fa7bc717e0bb3c535c4e1</guid>
+        <pubDate>2020-12-07T19:38:53+01:00</pubDate>
+      </item><item>
+        <title>bkil: cc0/szovicc/bkil: néhány korábbi saját munka</title>
+        <link>https://gitlab.com/bkil/humor/-/commit/69148a1d1f863eb11bfcd6e96279870794bf19d3</link>
+        <guid>https://gitlab.com/bkil/humor/-/commit/69148a1d1f863eb11bfcd6e96279870794bf19d3</guid>
+        <pubDate>2020-12-07T19:28:01+01:00</pubDate>
+      </item><item>
+        <title>bkil: README: közreműködés</title>
+        <link>https://gitlab.com/bkil/humor/-/commit/1f40d4403165d4df26481e28b185bd521ae9ef32</link>
+        <guid>https://gitlab.com/bkil/humor/-/commit/1f40d4403165d4df26481e28b185bd521ae9ef32</guid>
+        <pubDate>2020-12-07T19:22:49+01:00</pubDate>
+      </item><item>
+        <title>bkil: LICENSE: add</title>
+        <link>https://gitlab.com/bkil/humor/-/commit/bb13a54d1aab7ffa7c431c8feca283ef74ac442c</link>
+        <guid>https://gitlab.com/bkil/humor/-/commit/bb13a54d1aab7ffa7c431c8feca283ef74ac442c</guid>
+        <pubDate>2020-12-07T19:19:43+01:00</pubDate>
+      </item><item>
+        <title>Thomas Nagy: Initial commit</title>
+        <link>https://gitlab.com/bkil/humor/-/commit/509da298658621f9357092c5e6a38b9ebe1a9836</link>
+        <guid>https://gitlab.com/bkil/humor/-/commit/509da298658621f9357092c5e6a38b9ebe1a9836</guid>
+        <pubDate>2020-12-07T18:14:20+00:00</pubDate>
+      </item>
+  </channel>
+</rss>
