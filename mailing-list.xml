@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Re: Tanúsítvány: Visszatérve az eredeti felvetésre, pontosan mi a probléma? Én úgy látom, a tile.openstreetmap.hu szolgáltatásai csak http-n érhetőek el, https-en nem. Nincs itt semmi self signed tanúsítvány, egyszerűen a webszerveren nincs beállítva a https kapcsolatok kiszolgálása. Ezt nem nevezném hibának, de -Báthory Péter</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/x0PE82YgbSA/fD3E66JWAwAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/x0PE82YgbSA/fD3E66JWAwAJ</guid>
+        <pubDate>Sun, 13 Dec 2020 22:40:09 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Re: Tanúsítvány: On Sun, 13 Dec 2020, Peter Gervai wrote: &gt; &gt; Ha kell én is tudok segíteni. &gt; &gt; Na ez érdekesen hangzik! Hogy tudsz te ezen segíteni? Betörsz a serverre? &gt; ps: az admin tudja megoldani, nem gondolom, hogy ebben BÁRKI tudna segíteni. Ha mondjuk nem tudja mi a teendő, de valaki elmagyarázza -Kiss Gabor</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/x0PE82YgbSA/o8uISDZPAwAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/x0PE82YgbSA/o8uISDZPAwAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/3wp7E0qc2AQ/U0fJjp5dBQAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/3wp7E0qc2AQ/U0fJjp5dBQAJ</guid>
         <pubDate>Tue, 17 Nov 2020 14:04:15 UTC</pubDate>
-      </item><item>
-        <title>Re: Kutyasétáltatás kerek körzetének kijelölése: Valaki más is meglátta benne az üzleti lehetőséget. Egy másik OSM alapú kutyakörző: https://kutyuli.com/ András -AndreasTUHU</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/3wp7E0qc2AQ/Yz6q0albBQAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/3wp7E0qc2AQ/Yz6q0albBQAJ</guid>
-        <pubDate>Tue, 17 Nov 2020 13:28:25 UTC</pubDate>
       </item>
   </channel>
 </rss>
