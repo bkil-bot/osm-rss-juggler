@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Sashegy, Veszprém) / * 2020 December 11 08:49 wertol Created: Ez nem az Euronics üzlete, ez csak az irodaházuk. Hibás ezt üzletként jelölni! / * 2020 December 13 16:47 vasony Resolved: Köszi a jelzést, javítottam.</title>
+        <link>https://www.openstreetmap.org/note/2458918#c5260775</link>
+        <guid>https://www.openstreetmap.org/note/2458918#c5260775</guid>
+        <pubDate>Sun, 13 Dec 2020 16:47:12 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Kertváros, Tapolca) / * 2020 December 8 12:47 Created: Bárdos Lajos Általános Iskola / * 2020 December 13 16:40 vasony Resolved: Az iskola már szerepel a térképen.</title>
+        <link>https://www.openstreetmap.org/note/2456099#c5260756</link>
+        <guid>https://www.openstreetmap.org/note/2456099#c5260756</guid>
+        <pubDate>Sun, 13 Dec 2020 16:40:05 +0000</pubDate>
+      </item><item>
         <title>closed note (near Meggyespuszta, Szentkirályszabadja) / * 2019 September 4 09:58 timotimor Created: &amp;quot;No viewpoint&amp;quot; / The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI name: kráter Meggyespuszta / POI types: wheelchair-limited tourism-viewpoint / OSM data version: 2019-07-27T07:02:33Z / #mapsme / * 2019 September 29 11:04 wertol Updated: Voltam a helyszínen. A &amp;quot;kilátás&amp;quot; csak egy nem túl érdekes szántóra van, amely a krátermélyedésben található. Bár nem olyan látványos és egyértelmű ez a kráter, mint amilyeneket más egyéb országokban látni lehet, de azért szerintem megmaradhat ez a kilátópont, mert innen tényleg jól lehet látni, hogy van egy bemélyedés a földben. / * 2020 December 13 08:55 wertol Resolved: </title>
         <link>https://www.openstreetmap.org/note/1912716#c5259788</link>
         <guid>https://www.openstreetmap.org/note/1912716#c5259788</guid>
@@ -47,11 +57,6 @@
         <link>https://www.openstreetmap.org/note/2458662#c5254627</link>
         <guid>https://www.openstreetmap.org/note/2458662#c5254627</guid>
         <pubDate>Thu, 10 Dec 2020 21:11:03 +0000</pubDate>
-      </item><item>
-        <title>new note (near Óbuda, 3rd district) / * 2020 December 9 18:20 sd_ciastko Created: Unable to answer &amp;quot;Are these opening hours for Relay still correct?&amp;quot; for https://osm.org/node/3209524645 via StreetComplete 27.1: / Újságos megszűnt. BKK ügyfélközpot van az épületben. Az minden nap 7-19-ig van nyitva.</title>
-        <link>https://www.openstreetmap.org/note/2457491#c5251901</link>
-        <guid>https://www.openstreetmap.org/note/2457491#c5251901</guid>
-        <pubDate>Wed, 09 Dec 2020 18:20:55 +0000</pubDate>
       </item>
   </channel>
 </rss>
