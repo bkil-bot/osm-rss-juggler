@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Re: Tanúsítvány: On Sun, 13 Dec 2020, Péter Báthory wrote: &gt; Visszatérve az eredeti felvetésre, pontosan mi a probléma? &gt; Én úgy látom, a tile.openstreetmap.hu szolgáltatásai csak http-n érhetőek &gt; el, https-en nem. Nincs itt semmi self signed tanúsítvány, egyszerűen a Amikor szóltam, akkor igenis válaszolt -Kiss Gabor</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/x0PE82YgbSA/GnOATPRqAwAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/x0PE82YgbSA/GnOATPRqAwAJ</guid>
+        <pubDate>Mon, 14 Dec 2020 04:52:29 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Re: Tanúsítvány: Visszatérve az eredeti felvetésre, pontosan mi a probléma? Én úgy látom, a tile.openstreetmap.hu szolgáltatásai csak http-n érhetőek el, https-en nem. Nincs itt semmi self signed tanúsítvány, egyszerűen a webszerveren nincs beállítva a https kapcsolatok kiszolgálása. Ezt nem nevezném hibának, de -Báthory Péter</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/x0PE82YgbSA/fD3E66JWAwAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/x0PE82YgbSA/fD3E66JWAwAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/dG23lZXqvfU/d_X67XdfBQAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/dG23lZXqvfU/d_X67XdfBQAJ</guid>
         <pubDate>Tue, 17 Nov 2020 14:38:09 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Re: Kutyasétáltatás kerek körzetének kijelölése: kutyakörző: &gt; https://kutyuli.com/ Most már olyan kellene, hogy a rendőrök aktuális pozícióját is mutassa kékkel, a tekeseket meg fekete halálfejekkel. g -grin</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/3wp7E0qc2AQ/U0fJjp5dBQAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/3wp7E0qc2AQ/U0fJjp5dBQAJ</guid>
-        <pubDate>Tue, 17 Nov 2020 14:04:15 UTC</pubDate>
       </item>
   </channel>
 </rss>
