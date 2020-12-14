@@ -3,6 +3,16 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Re: Tanúsítvány: el, https-en nem. Nincs itt semmi self signed tanúsítvány, egyszerűen a webszerveren nincs beállítva a https kapcsolatok kiszolgálása. Ezt nem nevezném hibának, de ha van igény a biztonságra, meg lehet kérni az illetékes kollégát, hogy szánjon rá időt. Én azt látom hogy a dreamhoston van és -grin</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/x0PE82YgbSA/1ifFPtF1AwAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/x0PE82YgbSA/1ifFPtF1AwAJ</guid>
+        <pubDate>Mon, 14 Dec 2020 08:11:33 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Re: Tanúsítvány: serverre? &gt; &gt; ps: az admin tudja megoldani, nem gondolom, hogy ebben BÁRKI tudna segíteni. &gt; Ha mondjuk nem tudja mi a teendő, de valaki elmagyarázza neki, Ez egy erősen sértő komment volt, véleményem szerint, és ezen a smiley sem segít. Ha igényled, elmagyarázom hogy miért. -- byte-byte, -grin</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/x0PE82YgbSA/HJ20enJ1AwAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/x0PE82YgbSA/HJ20enJ1AwAJ</guid>
+        <pubDate>Mon, 14 Dec 2020 08:04:46 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Re: Tanúsítvány: On Sun, 13 Dec 2020, Péter Báthory wrote: &gt; Visszatérve az eredeti felvetésre, pontosan mi a probléma? &gt; Én úgy látom, a tile.openstreetmap.hu szolgáltatásai csak http-n érhetőek &gt; el, https-en nem. Nincs itt semmi self signed tanúsítvány, egyszerűen a Amikor szóltam, akkor igenis válaszolt -Kiss Gabor</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/x0PE82YgbSA/GnOATPRqAwAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/x0PE82YgbSA/GnOATPRqAwAJ</guid>
@@ -242,16 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/3wp7E0qc2AQ/G6LUd4KdBQAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/3wp7E0qc2AQ/G6LUd4KdBQAJ</guid>
         <pubDate>Wed, 18 Nov 2020 09:35:03 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Re: Kutyasétáltatás kerek körzetének kijelölése: Valami Pac-Man jellegű játék? Jelenleg aknakeresőre hasonlít, ha rossz helyre böksz vége a sétának :) András grin a következőt írta (2020. november 17., kedd, 15:04:15 UTC+1): &gt; On Tue, Nov 17, 2020 at 2:28 PM AndreasTUHU wrote: &gt; &gt; Valaki más is meglátta benne az üzleti -AndreasTUHU</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/3wp7E0qc2AQ/Fh7NWzqWBQAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/3wp7E0qc2AQ/Fh7NWzqWBQAJ</guid>
-        <pubDate>Wed, 18 Nov 2020 07:21:37 UTC</pubDate>
-      </item><item>
-        <title>Re: Import * EV töltőállomások: Szia Ha hibát találtam az importban azt hogyan kéne javítani? Erről az állomásról van szó: https://www.openstreetmap.org/node/8099990310 Mellette a kerítésen kívül van az állomás, amit én kézzel felvettem még korábban. Az elhelyezkedése ott van ahol én vettem fel, nem bent a kertben. Ilyenkor -gye...@gmail.com</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/dG23lZXqvfU/d_X67XdfBQAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/dG23lZXqvfU/d_X67XdfBQAJ</guid>
-        <pubDate>Tue, 17 Nov 2020 14:38:09 UTC</pubDate>
       </item>
   </channel>
 </rss>
