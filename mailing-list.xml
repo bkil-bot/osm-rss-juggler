@@ -3,6 +3,16 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Re: Érdekes körforgalom Budán: nyugat felé haladva van a Horthy-villa. Ezt úgy 1-2 éve felújították és a Zugligeti iskola felső tagozata költözött ide. Hogyan címkéznétek az iskolát, hogy megtartsuk a Horthy-villa nevet is? Megtartsuk? Mindenképp. building=school name=Zugligeti Általános Iskola felső tagozat old_name=Horthy- -ITineris OSM</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/5M3pIym6qOQ/Md5WzkAPAgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/5M3pIym6qOQ/Md5WzkAPAgAJ</guid>
+        <pubDate>Fri, 18 Dec 2020 17:17:50 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Re: Érdekes körforgalom Budán: Egy kicsit még tovább vinném a témát, mert a közelben van még javítani való, de ennek nem nyitnék külön témát. A körforgalomból a Béla király úton nyugat felé haladva van a Horthy-villa. Ezt úgy 1-2 éve felújították és a Zugligeti iskola felső tagozata költözött ide. Hogyan címkéznétek az -AndreasTUHU</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/5M3pIym6qOQ/v_Ew1zkMAgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/5M3pIym6qOQ/v_Ew1zkMAgAJ</guid>
+        <pubDate>Fri, 18 Dec 2020 16:22:22 UTC</pubDate>
+      </item><item>
         <title>Re: OpenMaps sorsa kérdéses: Sziasztok! Én a Locus render témát (hogy a turista utak, jelzésekkel megjelenjenek) és térképeket is (Locus-hoz) az openmaps.eu-ról szoktam letölteni. A jövőben erre nem lesz lehetőség? Túrázáshoz a Locus a legjobb eszköz (legalábbis számomra). Szarvas András a következőt írta (2020. december -kalorobi</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/LMsyYmjuLOA/vtfZSCoCAgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/LMsyYmjuLOA/vtfZSCoCAgAJ</guid>
@@ -242,16 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/bgi3M9_Dpjg/DgUEycBTCAAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/bgi3M9_Dpjg/DgUEycBTCAAJ</guid>
         <pubDate>Fri, 27 Nov 2020 08:11:22 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Re: Nagymaros-Visegrád Duna közműalagút: Szerintem a /dirty még mindig működik a mapnik térképeken. Megnyitod a böngésző fejlesztői ablakát, ott a hálózati fülön kikeresed a téged érdeklő csempe url-t. Megnyitod egy böngészőfülben, majd mögé írod a dirty flag-et: https://tile.openstreetmap.org/18/144873/91368.png/dirty https://wiki.o -Tamás Németh</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/bgi3M9_Dpjg/EA0bvD9PCAAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/bgi3M9_Dpjg/EA0bvD9PCAAJ</guid>
-        <pubDate>Fri, 27 Nov 2020 06:48:49 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Re: Nagymaros-Visegrád Duna közműalagút: On Thu, 26 Nov 2020, turistautsz...@gmail.com wrote: &gt; Kell keresni olyan objektumot, ami ugyan úgy van cimkézve és ott meg lehet &gt; nézni. &gt; Amúgy pedig nem a megjelenítőnek kell dolgozni, hanem rendesen fel kell &gt; cimkézni az objektumot, és ha nem úgy jelenik meg, ahogy annak kellene, &gt; -Kiss Gabor</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/bgi3M9_Dpjg/MtBgAulICAAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/bgi3M9_Dpjg/MtBgAulICAAJ</guid>
-        <pubDate>Fri, 27 Nov 2020 04:52:40 UTC</pubDate>
       </item>
   </channel>
 </rss>
