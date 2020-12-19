@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>F9P + Android + ??? // RTK fun: Szia Mindenki! Szóval én is egy boldog uBlox F9P tulajdonos lettem, és tényleg minimális erőfeszítéssel össze lehetett lőni az androidos Lefebure klienssel, ami ad mock GPS pozíciót a többi androidos cuccnak, és így szépen használható. A gondom az, hogy ez a kliens erősen fapados, olyan -grin</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/jOjZOXM36sU/Xaivc45dAgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/jOjZOXM36sU/Xaivc45dAgAJ</guid>
+        <pubDate>Sat, 19 Dec 2020 17:12:46 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Re: Érdekes körforgalom Budán: nyugat felé haladva van a Horthy-villa. Ezt úgy 1-2 éve felújították és a Zugligeti iskola felső tagozata költözött ide. Hogyan címkéznétek az iskolát, hogy megtartsuk a Horthy-villa nevet is? Megtartsuk? Mindenképp. building=school name=Zugligeti Általános Iskola felső tagozat old_name=Horthy- -ITineris OSM</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/5M3pIym6qOQ/Md5WzkAPAgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/5M3pIym6qOQ/Md5WzkAPAgAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/bgi3M9_Dpjg/CkPQBOJTCAAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/bgi3M9_Dpjg/CkPQBOJTCAAJ</guid>
         <pubDate>Fri, 27 Nov 2020 08:13:44 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Re: Nagymaros-Visegrád Duna közműalagút: Nekem is fdroidos az osmand és hiába frissítettem most, még is nov1.-i állapot van benne. Nem volt itt valami Grin féle trükk, amivel napi frissítést lehetett csinálni? vmi...@vmiklos.hu a következőt írta (2020. november 26., csütörtök, 23:00:55 UTC+1): &gt; Illetve az fdroidrol telepített -turistautsz...@gmail.com</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/bgi3M9_Dpjg/DgUEycBTCAAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/bgi3M9_Dpjg/DgUEycBTCAAJ</guid>
-        <pubDate>Fri, 27 Nov 2020 08:11:22 UTC</pubDate>
       </item>
   </channel>
 </rss>
