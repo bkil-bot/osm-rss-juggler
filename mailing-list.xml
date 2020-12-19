@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] F9P + Android + ??? // RTK fun: Szia! Azt hiszem, anno a konklúzió az volt, hogy a legjobb a terepi visszajelzés, mert utólag szomorú látni, ha épp a lényeges részeken nem volt RTK fix. Vagy térerő hiányában miatt nem tud RTK korrekciót letölteni, és ez is csak utólag derül ki. A legbosszantóbb nekem az, amikor a Lefebure-ben -ITineris OSM</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/jOjZOXM36sU/pls1i_RhAgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/jOjZOXM36sU/pls1i_RhAgAJ</guid>
+        <pubDate>Sat, 19 Dec 2020 18:33:22 UTC</pubDate>
+      </item><item>
         <title>F9P + Android + ??? // RTK fun: Szia Mindenki! Szóval én is egy boldog uBlox F9P tulajdonos lettem, és tényleg minimális erőfeszítéssel össze lehetett lőni az androidos Lefebure klienssel, ami ad mock GPS pozíciót a többi androidos cuccnak, és így szépen használható. A gondom az, hogy ez a kliens erősen fapados, olyan -grin</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/jOjZOXM36sU/Xaivc45dAgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/jOjZOXM36sU/Xaivc45dAgAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/bgi3M9_Dpjg/Cq2H0UFWCAAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/bgi3M9_Dpjg/Cq2H0UFWCAAJ</guid>
         <pubDate>Fri, 27 Nov 2020 08:57:15 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Re: Nagymaros-Visegrád Duna közműalagút: A Live menüpontban kell bekapcsolni a frissítést. -- Iván turistautsz...@gmail.com ezt írta (időpont: 2020. nov. 27., Pén 9:11): &gt; Nekem is fdroidos az osmand és hiába frissítettem most, még is nov1.-i &gt; állapot van benne. &gt; Nem volt itt valami Grin féle trükk, -Kádár Iván</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/bgi3M9_Dpjg/CkPQBOJTCAAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/bgi3M9_Dpjg/CkPQBOJTCAAJ</guid>
-        <pubDate>Fri, 27 Nov 2020 08:13:44 UTC</pubDate>
       </item>
   </channel>
 </rss>
