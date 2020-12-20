@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>Do you know all street names in your area like the back of your hand ? Test your knowledge with the aptly-named game “Back of your Hand”: https://backofyourhand.com. It’s powered by #OpenStreetMap data, so you can use it as a quality-assurance tool.</title>
+        <link>https://en.osm.town/@Doudouosm/105412987883742723</link>
+        <guid>https://en.osm.town/@Doudouosm/105412987883742723</guid>
+        <pubDate>Sun, 20 Dec 2020 14:29:06 +0000</pubDate>
+      </item><item>
         <title>Mapping public transport features in #OpenStreetMap is admittedly a complex subject. Here is #OsmAnd’s “Guidelines on how to build or correct public transport routes”: https://osmand.net/blog/guideline-pt</title>
         <link>https://en.osm.town/@Doudouosm/105409180358116509</link>
         <guid>https://en.osm.town/@Doudouosm/105409180358116509</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/104976847651458608</link>
         <guid>https://en.osm.town/@Doudouosm/104976847651458608</guid>
         <pubDate>Sun, 04 Oct 2020 13:52:54 +0000</pubDate>
-      </item><item>
-        <title>“Chronicles of mapping a Canadian village” in #OpenStreetMap: https://www.openstreetmap.org/user/Creator13/diary/394298. If you like to map towns, this article is a good read.</title>
-        <link>https://en.osm.town/@Doudouosm/104969833152243235</link>
-        <guid>https://en.osm.town/@Doudouosm/104969833152243235</guid>
-        <pubDate>Sat, 03 Oct 2020 08:09:02 +0000</pubDate>
       </item>
   </channel>
 </rss>
