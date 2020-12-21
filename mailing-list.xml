@@ -3,6 +3,21 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: Tervezett turistautak az OSM-ben.: Köszi a tippet, ezt fogom alkalmazni, aztán meglátom, hogy válik be. Dömcsi a következőt írta (2020. december 21., hétfő, 11:56:25 UTC+1): &gt; &gt; Nagyon egyszerű,ne route=hiking legyen akkor nem jelenik meg. &gt; A Mária utaknál a route=planned_hike van használva,a térképen nem jelenik &gt; meg de -turistautsz...@gmail.com</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/y083fh8x4iE/_wUDEtnpAgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/y083fh8x4iE/_wUDEtnpAgAJ</guid>
+        <pubDate>Mon, 21 Dec 2020 12:03:38 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Tervezett turistautak az OSM-ben.: &quot; legyen kint a terepen felfestve, aztán majd akkor kerüljön fel a térképre &quot; Ebben teljesen egyetértünk! Én is csak olyan megoldást keresek, ami nem látszik, de az OSM adatbázinak része, tehát linkelhető, és ha elkészül a festés, akár egy mozdulattal élesíthető. mate.fe...@gmail.com a következőt -turistautsz...@gmail.com</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/y083fh8x4iE/A9XxYMjpAgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/y083fh8x4iE/A9XxYMjpAgAJ</guid>
+        <pubDate>Mon, 21 Dec 2020 12:02:26 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Tervezett turistautak az OSM-ben.: Maximálisan egyetértek Máté javaslataival, mind az OSM szempontjából, mind a festéseket illetőleg. Az ojjektumok életútját alapvetően a fő címke prefixelésével (proposed, construction, disused, abandon, demolished) a legjobb intézni. Én magam úgy intézném – és az épülő gyorsforgalmi úthálózat -ITineris OSM</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/y083fh8x4iE/8QyIR_rnAgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/y083fh8x4iE/8QyIR_rnAgAJ</guid>
+        <pubDate>Mon, 21 Dec 2020 11:29:21 UTC</pubDate>
+      </item><item>
         <title>Re: Tervezett turistautak az OSM-ben.: Nagyon egyszerű,ne route=hiking legyen akkor nem jelenik meg. A Mária utaknál a route=planned_hike van használva,a térképen nem jelenik meg de hivatkozni lehet rá: https://turistautak.openstreetmap.hu/turut-4758820 turistautsz...@gmail.com a következőt írta (2020. december 21., hétfő, 10:56:49 -Dömcsi</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/y083fh8x4iE/VE6b6i3mAgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/y083fh8x4iE/VE6b6i3mAgAJ</guid>
@@ -237,21 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/I36UQd3qwyU/fsBXDh3cBAAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/I36UQd3qwyU/fsBXDh3cBAAJ</guid>
         <pubDate>Mon, 07 Dec 2020 23:25:28 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] kozossegi / kapcsolattarto email: Akkor lehet rosszul értettem, és nem belga hanem más az az OSMF, mert angol szövegre váltott az #osm:grin.hu, a lényeg akkor is ugyan az marad. grin a következőt írta (2020. december 1., kedd, 15:06:11 UTC+1): &gt; On Tuesday, December 1, 2020 at 7:42:55 AM UTC+1 turistautsz...@gmail.com &gt; wrote: &gt; -turistautsz...@gmail.com</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/IWaCHpeFhpg/UhJ29y-YCAAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/IWaCHpeFhpg/UhJ29y-YCAAJ</guid>
-        <pubDate>Tue, 01 Dec 2020 16:06:54 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] kozossegi / kapcsolattarto email: On Tuesday, December 1, 2020 at 7:42:55 AM UTC+1 turistautsz...@gmail.com wrote: &gt; Azért az elgondolkodtató, hogy egy magyar ember miért pont a belgáknak ír! &gt; Senki nem írt a belgáknak. g -grin</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/IWaCHpeFhpg/AxZXYpmRCAAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/IWaCHpeFhpg/AxZXYpmRCAAJ</guid>
-        <pubDate>Tue, 01 Dec 2020 14:06:11 UTC</pubDate>
-      </item><item>
-        <title>Re: Érdekes körforgalom Budán: Szia! Szerintem jó megoldás lehet, amit írsz, legalábbis van rá példa: https://www.openstreetmap.org/relation/11528691#map=18/52.62804/-2.48198 (Anglia, ezért no_left_turn) Az útvonaltervező szépen körbe is viszi őket: http://map.project-osrm.org/?z=18&amp;center=52.627578%2C-2.481784&amp;loc=52.627857%2C-2 -Peressényi Róbert</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/5M3pIym6qOQ/vSp5JweRCAAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/5M3pIym6qOQ/vSp5JweRCAAJ</guid>
-        <pubDate>Tue, 01 Dec 2020 13:55:43 UTC</pubDate>
       </item>
   </channel>
 </rss>
