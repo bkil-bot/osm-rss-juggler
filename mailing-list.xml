@@ -3,6 +3,16 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: Tervezett turistautak az OSM-ben.: Nagyon egyszerű,ne route=hiking legyen akkor nem jelenik meg. A Mária utaknál a route=planned_hike van használva,a térképen nem jelenik meg de hivatkozni lehet rá: https://turistautak.openstreetmap.hu/turut-4758820 turistautsz...@gmail.com a következőt írta (2020. december 21., hétfő, 10:56:49 -Dömcsi</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/y083fh8x4iE/VE6b6i3mAgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/y083fh8x4iE/VE6b6i3mAgAJ</guid>
+        <pubDate>Mon, 21 Dec 2020 10:56:25 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Tervezett turistautak az OSM-ben.: Ami jó lehet: proposed:route = hiking, (ha jól gondolom) az nem jelenik meg egyik kimeneten sem, ami megfelel a valóságnak, hiszen még nincs felfestve/terepen kijelölve. Esetleg minden úgy, mint a rendes turistautaknál, csak a name-be be kellene írni, hogy (tervezett). Félő, hogy ha erre -Máté Fehérvári</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/y083fh8x4iE/m70lOG_kAgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/y083fh8x4iE/m70lOG_kAgAJ</guid>
+        <pubDate>Mon, 21 Dec 2020 10:24:26 UTC</pubDate>
+      </item><item>
         <title>Tervezett turistautak az OSM-ben.: Egy példa tervezett jelzésre: Jelenlegi Címkék: name KQ (Ferenc-forráshoz) network lwn proposed:jel kq proposed:osmc:symbol blue:white:blue_dot ref Kq route hiking type route Tudom, hogy nem a kimeneteknek térképezünk, de jelenleg így mutat ez a példa: https://hiking.w -turistautsz...@gmail.com</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/y083fh8x4iE/eDqdXO3iAgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/y083fh8x4iE/eDqdXO3iAgAJ</guid>
@@ -242,16 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/5M3pIym6qOQ/vSp5JweRCAAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/5M3pIym6qOQ/vSp5JweRCAAJ</guid>
         <pubDate>Tue, 01 Dec 2020 13:55:43 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] kozossegi / kapcsolattarto email: Azért az elgondolkodtató, hogy egy magyar ember miért pont a belgáknak ír! Bár ahogy elnézem a .hu kezdőlapot én sem klikkelnék egy facebook-os címre. Lehetne mindjárt a főlapon inkább egy kapcsolat menüpont, úgy talán jobb lenne. A belgáknál a kapcsolati listában, amúgy szerintem nagyon helyesen, -turistautsz...@gmail.com</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/IWaCHpeFhpg/cbIjD2l5CAAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/IWaCHpeFhpg/cbIjD2l5CAAJ</guid>
-        <pubDate>Tue, 01 Dec 2020 06:42:55 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] kozossegi / kapcsolattarto email: Szia, On Mon, Nov 30, 2020 at 6:43 PM Feri Veres wrote: &gt; 2020. 11. 30. 15:58 keltezéssel, Peter Gervai írta: &gt; &gt; On Mon, Nov 30, 2020 at 3:06 PM Erdődy Sándor wrote: &gt; &gt;&gt; &gt; &gt;&gt; Van egy in...@openstreetmap.hu cím. &gt; &gt;&gt; Elvben Veres Feri olvasgatja. &gt; -grin</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/IWaCHpeFhpg/XBlERwFrCQAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/IWaCHpeFhpg/XBlERwFrCQAJ</guid>
-        <pubDate>Mon, 30 Nov 2020 21:28:43 UTC</pubDate>
       </item>
   </channel>
 </rss>
