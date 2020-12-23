@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>With #MapComplete, you can create your own contribution theme to easily add data to #OpenStreetMap. It’s a crossover of #StreetComplete and #MapContrib: as easy to use as StreetComplete, but focused on a single subject (e.g. nature, bicycle infrastructure, ...). - Video: https://www.youtube.com/watch?v=nVbFrNVPxPw - Project: https://github.com/pietervdvn/MapComplete - Wiki: https://wiki.openstreetmap.org/wiki/MapComplete</title>
+        <link>https://en.osm.town/@Doudouosm/105428565956985777</link>
+        <guid>https://en.osm.town/@Doudouosm/105428565956985777</guid>
+        <pubDate>Wed, 23 Dec 2020 08:30:49 +0000</pubDate>
+      </item><item>
         <title>Do you know all street names in your area like the back of your hand ? Test your knowledge with the aptly-named game “Back of your Hand”: https://backofyourhand.com. It’s powered by #OpenStreetMap data, so you can use it as a quality-assurance tool.</title>
         <link>https://en.osm.town/@Doudouosm/105412987883742723</link>
         <guid>https://en.osm.town/@Doudouosm/105412987883742723</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/104977271918424874</link>
         <guid>https://en.osm.town/@Doudouosm/104977271918424874</guid>
         <pubDate>Sun, 04 Oct 2020 15:40:48 +0000</pubDate>
-      </item><item>
-        <title>#OpenStreetMap Salt Lake City has a series of #Meetup events coming with @mvexel: https://www.meetup.com/OpenStreetMap-Utah/. Being online events, you can join from anywhere.</title>
-        <link>https://en.osm.town/@Doudouosm/104976847651458608</link>
-        <guid>https://en.osm.town/@Doudouosm/104976847651458608</guid>
-        <pubDate>Sun, 04 Oct 2020 13:52:54 +0000</pubDate>
       </item>
   </channel>
 </rss>
