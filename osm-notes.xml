@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Víziváros, Esztergom) / * 2020 December 27 12:28 bkil Updated: Köszönjük a kérdést. Ennyi leírásból nem világos a felületkiképzés egyenletessége, de a surface=paving_stones, surface=rock és esetleg a surface=concrete:plates is elég közel van hozzá: / https://wiki.openstreetmap.org/wiki/Key:surface / Illetve taginfoban találtam egy ilyet: surface=crushed_limestone és gravel=crushed_limestone. / Ha fontos feltüntetni a kőnél precízebben az anyagot, esetleg material=limestone is szóba jöhet emellé (a surface=* csak a járhatóság, egyenletesség és időjárás szempontjából veszi figyelembe). / További kérdéseket szeretettel várunk a nyitott csevegőszobánkban is: / https://matrix.to/#/#osm:grin.hu?via=grin.hu&amp;amp;via=matrix.org&amp;amp;via=vmiklos.hu</title>
+        <link>https://www.openstreetmap.org/note/2474364#c5292885</link>
+        <guid>https://www.openstreetmap.org/note/2474364#c5292885</guid>
+        <pubDate>Sun, 27 Dec 2020 12:28:34 +0000</pubDate>
+      </item><item>
         <title>new note (near Víziváros, Esztergom) / * 2020 December 27 11:45 sd_ciastko Created: Unable to answer &amp;quot;What surface do these steps have here?&amp;quot; for https://osm.org/way/550271180 via StreetComplete 28.0: / Mészkő lapokból van a lépcső. Ezt mivel kéne jelölni?</title>
         <link>https://www.openstreetmap.org/note/2474364#c5292704</link>
         <guid>https://www.openstreetmap.org/note/2474364#c5292704</guid>
@@ -212,16 +217,6 @@
         <link>https://www.openstreetmap.org/note/2470874#c5284751</link>
         <guid>https://www.openstreetmap.org/note/2470874#c5284751</guid>
         <pubDate>Wed, 23 Dec 2020 14:37:12 +0000</pubDate>
-      </item><item>
-        <title>new note (near Ószőlő, Szarvas) / * 2020 December 23 12:40 Created: Bércesi Brhlik gyerekek innen jártak iskolába.Középhalmi , Dauda Mihály Igazgatósága alatt.</title>
-        <link>https://www.openstreetmap.org/note/2470748#c5284417</link>
-        <guid>https://www.openstreetmap.org/note/2470748#c5284417</guid>
-        <pubDate>Wed, 23 Dec 2020 12:40:28 +0000</pubDate>
-      </item><item>
-        <title>new note (near Taván, Budakalász) / * 2020 December 23 11:02 sd_ciastko Created: Unable to answer &amp;quot;What is the house number of this building?&amp;quot; for https://osm.org/way/582633085 via StreetComplete 27.2: / Nem önálló épület.</title>
-        <link>https://www.openstreetmap.org/note/2470668#c5284228</link>
-        <guid>https://www.openstreetmap.org/note/2470668#c5284228</guid>
-        <pubDate>Wed, 23 Dec 2020 11:02:01 +0000</pubDate>
       </item>
   </channel>
 </rss>
