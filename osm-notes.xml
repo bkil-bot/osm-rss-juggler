@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Csákvár) / * 2020 December 27 16:54 Balikó Sándor Created: Új utcanév: Gubai V. dűlő.</title>
+        <link>https://www.openstreetmap.org/note/2474902#c5293756</link>
+        <guid>https://www.openstreetmap.org/note/2474902#c5293756</guid>
+        <pubDate>Sun, 27 Dec 2020 16:54:55 +0000</pubDate>
+      </item><item>
+        <title>new note (near Csákberény) / * 2020 December 27 16:48 Balikó Sándor Created: Nagyon-nagyon nehezen járható útvonal, az út már csak nyomokban van meg. Kidőlt fák végig, gyalogosan is nehezen járható.</title>
+        <link>https://www.openstreetmap.org/note/2474896#c5293741</link>
+        <guid>https://www.openstreetmap.org/note/2474896#c5293741</guid>
+        <pubDate>Sun, 27 Dec 2020 16:48:15 +0000</pubDate>
+      </item><item>
         <title>new comment (near Víziváros, Esztergom) / * 2020 December 27 12:28 bkil Updated: Köszönjük a kérdést. Ennyi leírásból nem világos a felületkiképzés egyenletessége, de a surface=paving_stones, surface=rock és esetleg a surface=concrete:plates is elég közel van hozzá: / https://wiki.openstreetmap.org/wiki/Key:surface / Illetve taginfoban találtam egy ilyet: surface=crushed_limestone és gravel=crushed_limestone. / Ha fontos feltüntetni a kőnél precízebben az anyagot, esetleg material=limestone is szóba jöhet emellé (a surface=* csak a járhatóság, egyenletesség és időjárás szempontjából veszi figyelembe). / További kérdéseket szeretettel várunk a nyitott csevegőszobánkban is: / https://matrix.to/#/#osm:grin.hu?via=grin.hu&amp;amp;via=matrix.org&amp;amp;via=vmiklos.hu</title>
         <link>https://www.openstreetmap.org/note/2474364#c5292885</link>
         <guid>https://www.openstreetmap.org/note/2474364#c5292885</guid>
@@ -207,16 +217,6 @@
         <link>https://www.openstreetmap.org/note/2471847#c5286887</link>
         <guid>https://www.openstreetmap.org/note/2471847#c5286887</guid>
         <pubDate>Thu, 24 Dec 2020 13:43:28 +0000</pubDate>
-      </item><item>
-        <title>new note (near Budatétény, 22nd district) / * 2020 December 23 15:11 nubiai Created: A jelzett pad megszűnt, újépítésű ház kerítése miatt / via StreetComplete 27.2 / Attached photo(s): / https://westnordost.de/p/25080.jpg</title>
-        <link>https://www.openstreetmap.org/note/2470905#c5284836</link>
-        <guid>https://www.openstreetmap.org/note/2470905#c5284836</guid>
-        <pubDate>Wed, 23 Dec 2020 15:11:37 +0000</pubDate>
-      </item><item>
-        <title>new note (near Baross Gábor-telep, 22nd district) / * 2020 December 23 14:37 nubiai Created: Megszűnt ez a buszmegálló. BKK futár szerint sincs. / via StreetComplete 27.2</title>
-        <link>https://www.openstreetmap.org/note/2470874#c5284751</link>
-        <guid>https://www.openstreetmap.org/note/2470874#c5284751</guid>
-        <pubDate>Wed, 23 Dec 2020 14:37:12 +0000</pubDate>
       </item>
   </channel>
 </rss>
