@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Ófalu, Budakalász) / * 2020 December 28 20:44 sd_ciastko Resolved: Felvittem őket</title>
+        <link>https://www.openstreetmap.org/note/2475318#c5297276</link>
+        <guid>https://www.openstreetmap.org/note/2475318#c5297276</guid>
+        <pubDate>Mon, 28 Dec 2020 20:44:59 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Prekobrdo, Budakalász) / * 2020 December 28 20:21 sd_ciastko Resolved: Javítottam.</title>
+        <link>https://www.openstreetmap.org/note/2475301#c5297214</link>
+        <guid>https://www.openstreetmap.org/note/2475301#c5297214</guid>
+        <pubDate>Mon, 28 Dec 2020 20:21:05 +0000</pubDate>
+      </item><item>
         <title>closed note (near Prekobrdo, Budakalász) / * 2020 October 24 12:38 sd_ciastko Created: Unable to answer &amp;quot;What specific surface does the road Dolinai utca have here?&amp;quot; for https://osm.org/way/755533375 via StreetComplete 24.1: / nem tudom a helyes megnevezését. / Attached photo(s): / https://westnordost.de/p/20944.jpg / https://westnordost.de/p/20945.jpg / * 2020 November 21 15:30 vasony Updated: sajnos már nem látszanak a képek. / * 2020 December 28 20:07 sd_ciastko Resolved: Az élet (téli eső) megoldotta.</title>
         <link>https://www.openstreetmap.org/note/2397708#c5297181</link>
         <guid>https://www.openstreetmap.org/note/2397708#c5297181</guid>
@@ -157,16 +167,6 @@
         <link>https://www.openstreetmap.org/note/2444347#c5290402</link>
         <guid>https://www.openstreetmap.org/note/2444347#c5290402</guid>
         <pubDate>Sat, 26 Dec 2020 10:44:27 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Vörösmarty-lakótelep, Pomáz) / * 2020 November 28 07:10 sd_ciastko Created: Unable to answer &amp;quot;What is the house number of this building?&amp;quot; for https://osm.org/way/192115323 via StreetComplete 26.2: / garázs(sor) / * 2020 December 26 10:42 Narvik2 Resolved: Köszönjük a jelzést, javítottam.</title>
-        <link>https://www.openstreetmap.org/note/2444320#c5290397</link>
-        <guid>https://www.openstreetmap.org/note/2444320#c5290397</guid>
-        <pubDate>Sat, 26 Dec 2020 10:42:48 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Taván, Budakalász) / * 2020 December 22 07:18 sd_ciastko Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/663910445 via StreetComplete 27.2: / minek jelölnétek? családi ház,benne rendelő / Attached photo(s): / https://westnordost.de/p/24994.jpg / https://westnordost.de/p/24995.jpg / * 2020 December 26 10:41 Narvik2 Resolved: Felvettem az orvosi rendelőt, az épület maradhat szerintem building=yes</title>
-        <link>https://www.openstreetmap.org/note/2469597#c5290391</link>
-        <guid>https://www.openstreetmap.org/note/2469597#c5290391</guid>
-        <pubDate>Sat, 26 Dec 2020 10:41:30 +0000</pubDate>
       </item>
   </channel>
 </rss>
