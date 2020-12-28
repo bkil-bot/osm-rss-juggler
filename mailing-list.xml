@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Szarmata sáncrendszer a Kárpát-medencében: Szia! Kicsit fura a projekt. Szemlátomást sok munkát fektettek bele a Szent István Egyetemről. De miért nem kérdeztek meg senkit a közösségből, hogyan lenne a legjobb? Pontszerűnek én csak a ténylegesen pontszerű objektumokat venném fel, mint pl. a rekonstruált őrtornyot. Tourist attraction-n -ITineris OSM</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/0FhhpDUKHgo/BZ1W0KoOBQAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/0FhhpDUKHgo/BZ1W0KoOBQAJ</guid>
+        <pubDate>Mon, 28 Dec 2020 11:40:51 UTC</pubDate>
+      </item><item>
         <title>Szarmata sáncrendszer a Kárpát-medencében: Sziasztok! Először is áldott karácsonyt mindannyiótoknak! Rábukkantam egy ilyen gyönyörűségre: mi legyen vele? A pöttyökön túl megvan maga az árokrendszer is a föld alatt. (A teljes műalkotás itt csodálható meg: úgy tűnik, hogy az árkokat jelző vonalakon kb. 320 – látszólag ötletszerűen -Babos, Gábor</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/0FhhpDUKHgo/G1ybJZYIBQAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/0FhhpDUKHgo/G1ybJZYIBQAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/x0PE82YgbSA/GnOATPRqAwAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/x0PE82YgbSA/GnOATPRqAwAJ</guid>
         <pubDate>Mon, 14 Dec 2020 04:52:29 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Re: Tanúsítvány: Visszatérve az eredeti felvetésre, pontosan mi a probléma? Én úgy látom, a tile.openstreetmap.hu szolgáltatásai csak http-n érhetőek el, https-en nem. Nincs itt semmi self signed tanúsítvány, egyszerűen a webszerveren nincs beállítva a https kapcsolatok kiszolgálása. Ezt nem nevezném hibának, de -Báthory Péter</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/x0PE82YgbSA/fD3E66JWAwAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/x0PE82YgbSA/fD3E66JWAwAJ</guid>
-        <pubDate>Sun, 13 Dec 2020 22:40:09 UTC</pubDate>
       </item>
   </channel>
 </rss>
