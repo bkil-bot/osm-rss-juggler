@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>RTK vs. telefon: Szia, Érdekességként - akit érdekel: a csatolt GPX-ben kétféle nyom van: 1. a sűrűbbek az F9P (RTK) GPS-ével készültek, vegyesen DGPS és RTKfloat módban (nincs bnne igazán sok valódi RTK) 2. a ritkábbak egy két csatornás (L1+L5) telefonnal (Xiaomi Mi9) Mind gyalogosan. grin -grin</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/io7MymZoeA8/B-Q_rGceBQAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/io7MymZoeA8/B-Q_rGceBQAJ</guid>
+        <pubDate>Mon, 28 Dec 2020 16:29:14 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Szarmata sáncrendszer a Kárpát-medencében: Sok évvel ezelőtt részt vettem egy ilyen projektben (nem ebben). Az előzetes távérzékelési adatok alapján részben talajradarozás, részben talajfeltárás is történt, ahol a felszínen nem látni már. Samat On Mon, 28 Dec 2020 at 12:40, ITineris OSM wrote: &gt; Szia! &gt; &gt; Kicsit -Samat</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/0FhhpDUKHgo/FEq-HikTBQAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/0FhhpDUKHgo/FEq-HikTBQAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/x0PE82YgbSA/pk403RV2AwAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/x0PE82YgbSA/pk403RV2AwAJ</guid>
         <pubDate>Mon, 14 Dec 2020 08:16:28 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Re: Tanúsítvány: el, https-en nem. Nincs itt semmi self signed tanúsítvány, egyszerűen a webszerveren nincs beállítva a https kapcsolatok kiszolgálása. Ezt nem nevezném hibának, de ha van igény a biztonságra, meg lehet kérni az illetékes kollégát, hogy szánjon rá időt. Én azt látom hogy a dreamhoston van és -grin</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/x0PE82YgbSA/1ifFPtF1AwAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/x0PE82YgbSA/1ifFPtF1AwAJ</guid>
-        <pubDate>Mon, 14 Dec 2020 08:11:33 UTC</pubDate>
       </item>
   </channel>
 </rss>
