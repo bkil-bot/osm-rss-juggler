@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Baross Gábor-telep, 22nd district) / * 2020 December 29 12:22 nubiai Created: Ez a zsákutca már le van zárva. / via StreetComplete 28.0 / Attached photo(s): / https://westnordost.de/p/25620.jpg / https://westnordost.de/p/25621.jpg</title>
+        <link>https://www.openstreetmap.org/note/2477090#c5298786</link>
+        <guid>https://www.openstreetmap.org/note/2477090#c5298786</guid>
+        <pubDate>Tue, 29 Dec 2020 12:22:56 +0000</pubDate>
+      </item><item>
         <title>closed note (near Ófalu, Budakalász) / * 2020 December 28 20:44 sd_ciastko Resolved: Felvittem őket</title>
         <link>https://www.openstreetmap.org/note/2475318#c5297276</link>
         <guid>https://www.openstreetmap.org/note/2475318#c5297276</guid>
@@ -77,16 +82,6 @@
         <link>https://www.openstreetmap.org/note/2474896#c5293741</link>
         <guid>https://www.openstreetmap.org/note/2474896#c5293741</guid>
         <pubDate>Sun, 27 Dec 2020 16:48:15 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Víziváros, Esztergom) / * 2020 December 27 12:28 bkil Updated: Köszönjük a kérdést. Ennyi leírásból nem világos a felületkiképzés egyenletessége, de a surface=paving_stones, surface=rock és esetleg a surface=concrete:plates is elég közel van hozzá: / https://wiki.openstreetmap.org/wiki/Key:surface / Illetve taginfoban találtam egy ilyet: surface=crushed_limestone és gravel=crushed_limestone. / Ha fontos feltüntetni a kőnél precízebben az anyagot, esetleg material=limestone is szóba jöhet emellé (a surface=* csak a járhatóság, egyenletesség és időjárás szempontjából veszi figyelembe). / További kérdéseket szeretettel várunk a nyitott csevegőszobánkban is: / https://matrix.to/#/#osm:grin.hu?via=grin.hu&amp;amp;via=matrix.org&amp;amp;via=vmiklos.hu</title>
-        <link>https://www.openstreetmap.org/note/2474364#c5292885</link>
-        <guid>https://www.openstreetmap.org/note/2474364#c5292885</guid>
-        <pubDate>Sun, 27 Dec 2020 12:28:34 +0000</pubDate>
-      </item><item>
-        <title>new note (near Víziváros, Esztergom) / * 2020 December 27 11:45 sd_ciastko Created: Unable to answer &amp;quot;What surface do these steps have here?&amp;quot; for https://osm.org/way/550271180 via StreetComplete 28.0: / Mészkő lapokból van a lépcső. Ezt mivel kéne jelölni?</title>
-        <link>https://www.openstreetmap.org/note/2474364#c5292704</link>
-        <guid>https://www.openstreetmap.org/note/2474364#c5292704</guid>
-        <pubDate>Sun, 27 Dec 2020 11:45:43 +0000</pubDate>
       </item>
   </channel>
 </rss>
