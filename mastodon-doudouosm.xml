@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>#Amazon launches Amazon Location Service, powered by #Esri, #HERE, and #OpenStreetMap: https://aws.amazon.com/blogs/aws/amazon-location-add-maps-and-location-awareness-to-your-applications/. It’s “in preview” and “priced at a fraction of common alternatives”.</title>
+        <link>https://en.osm.town/@Doudouosm/105468782482461699</link>
+        <guid>https://en.osm.town/@Doudouosm/105468782482461699</guid>
+        <pubDate>Wed, 30 Dec 2020 10:58:24 +0000</pubDate>
+      </item><item>
         <title>With #MapComplete, you can create your own contribution theme to easily add data to #OpenStreetMap. It’s a crossover of #StreetComplete and #MapContrib: as easy to use as StreetComplete, but focused on a single subject (e.g. nature, bicycle infrastructure, ...). - Video: https://www.youtube.com/watch?v=nVbFrNVPxPw - Project: https://github.com/pietervdvn/MapComplete - Wiki: https://wiki.openstreetmap.org/wiki/MapComplete</title>
         <link>https://en.osm.town/@Doudouosm/105428565956985777</link>
         <guid>https://en.osm.town/@Doudouosm/105428565956985777</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/105017191199917188</link>
         <guid>https://en.osm.town/@Doudouosm/105017191199917188</guid>
         <pubDate>Sun, 11 Oct 2020 16:52:48 +0000</pubDate>
-      </item><item>
-        <title>#BuDongSan is a #OpenStreetMap-based realtor tycoon game (BuDongSan is the Korean word for real estate). Notice it’s still in prototype phase. - https://mrvdh.github.com/budongsan - https://github.com/MRVDH/budongsan #FOSS #realestate #game</title>
-        <link>https://en.osm.town/@Doudouosm/104977271918424874</link>
-        <guid>https://en.osm.town/@Doudouosm/104977271918424874</guid>
-        <pubDate>Sun, 04 Oct 2020 15:40:48 +0000</pubDate>
       </item>
   </channel>
 </rss>
