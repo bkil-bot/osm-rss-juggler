@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Geodéziai mérőtornyok: Szia! A járvány első körében bezárva épp raktam egy kört rendbe. Szándékaim szerint már fent van az összes, megfelelő címkézéssel. A rövid válasz: [out:json][timeout:25]; {{geocodeArea:hungary}}-&gt;.searchArea; ( way [&quot;man_made&quot;=&quot;tower&quot;] [&quot;tower:type&quot;=&quot;observation&quot;] [&quot;structure&quot;=&quot;tube&quot;] -ITineris OSM</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/fvlnSRTJIxU/qzGgDRFeBgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/fvlnSRTJIxU/qzGgDRFeBgAJ</guid>
+        <pubDate>Fri, 01 Jan 2021 18:07:07 UTC</pubDate>
+      </item><item>
         <title>Geodéziai mérőtornyok: Próbáltam rákeresni az OSM-ben a geodéziai mérőtornyokra. Első körben kerestem a hozzá való címkézést. Ezt találtam: man_made=survey_point. De nem tudtam tovább szűkíteni a tornyokra. Overpass turbo-ban egy egyszerű lekérdezés kiadta a man_made= survey_point-okat Néhányat megnéztem, nincsenek -Sándor Erdődy</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/fvlnSRTJIxU/adPtapRUBgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/fvlnSRTJIxU/adPtapRUBgAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/LMsyYmjuLOA/FcwZQzj2AQAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/LMsyYmjuLOA/FcwZQzj2AQAJ</guid>
         <pubDate>Fri, 18 Dec 2020 09:39:05 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] OpenMaps helyettesítők: lehet hogy nem ment ki a kérdésem tegnap, megismétlem ha nem probléma mert érdekelne a válasz: Kedves András De most úgy értesültem, hogy ez forrás is meg fog szűnni. &gt; Ez valami belső infó ami még nem publikus, vagy esetleg valami félreértés? Nem látok erre utaló jeleket a weblapjukon Remélem -izsolt</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/LMsyYmjuLOA/F0PBaEL1AQAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/LMsyYmjuLOA/F0PBaEL1AQAJ</guid>
-        <pubDate>Fri, 18 Dec 2020 09:21:29 UTC</pubDate>
       </item>
   </channel>
 </rss>
