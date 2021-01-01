@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Geodéziai mérőtornyok: Próbáltam rákeresni az OSM-ben a geodéziai mérőtornyokra. Első körben kerestem a hozzá való címkézést. Ezt találtam: man_made=survey_point. De nem tudtam tovább szűkíteni a tornyokra. Overpass turbo-ban egy egyszerű lekérdezés kiadta a man_made= survey_point-okat Néhányat megnéztem, nincsenek -Sándor Erdődy</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/fvlnSRTJIxU/adPtapRUBgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/fvlnSRTJIxU/adPtapRUBgAJ</guid>
+        <pubDate>Fri, 01 Jan 2021 15:13:16 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] kutya chip olvasók: Igen a cimkézésre irányult elsősorban a kérdésem, mert a szabályokat itt sem tartotta be mindenki, szegény kutyák nem győzték a hasuk alá behúzni a farkukat... ITineris OSM a következőt írta (2020. december 31., csütörtök, 15:47:40 UTC+1): &gt; Szakmai fórumként számomra inkább a címkézés a -turistautsz...@gmail.com</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/sJGK3z72AFg/1unCccktBgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/sJGK3z72AFg/1unCccktBgAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/LMsyYmjuLOA/F0PBaEL1AQAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/LMsyYmjuLOA/F0PBaEL1AQAJ</guid>
         <pubDate>Fri, 18 Dec 2020 09:21:29 UTC</pubDate>
-      </item><item>
-        <title>OpenMaps helyettesítők: Kedves Gergely és Tamás! Köszönöm az ötleteket, hogy mivel lehet helyettesíteni az OpenMaps-ot. Eddig bizony én nem tudtam egyik térképről sem, pedig mind a kettő gyakorlatilag adja azokat a pluszokat, amelyeket eddig csak az OpenMaps-on láttunk: Freemap Slovakia Heyjoe túratervező Az persze -Szarvas András</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/LMsyYmjuLOA/nVSTOzPuAQAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/LMsyYmjuLOA/nVSTOzPuAQAJ</guid>
-        <pubDate>Fri, 18 Dec 2020 07:12:08 UTC</pubDate>
       </item>
   </channel>
 </rss>
