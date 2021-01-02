@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Alsópálfalva, Salgótarján) / * 2021 January 2 23:06 Created: otthon</title>
+        <link>https://www.openstreetmap.org/note/2483059#c5311608</link>
+        <guid>https://www.openstreetmap.org/note/2483059#c5311608</guid>
+        <pubDate>Sat, 02 Jan 2021 23:06:16 +0000</pubDate>
+      </item><item>
         <title>new note (near Belváros, Nyíregyháza) / * 2021 January 2 20:24 Created: A Malom utca és a Színház utca egyirányúsága teljes hosszában megfordult, előbbi a Bessenyei tér felől, utóbbi a Bessenyei tér felé lett egyirányú.</title>
         <link>https://www.openstreetmap.org/note/2482890#c5311297</link>
         <guid>https://www.openstreetmap.org/note/2482890#c5311297</guid>
@@ -212,11 +217,6 @@
         <link>https://www.openstreetmap.org/note/2427000#c5308221</link>
         <guid>https://www.openstreetmap.org/note/2427000#c5308221</guid>
         <pubDate>Fri, 01 Jan 2021 19:08:13 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Író utcák, Székesfehérvár) / * 2020 December 17 10:16 demehem Created: This is address 13/B on Katona József street. / * 2021 January 1 19:06 vasony Resolved: Done. Next time feel free to modify the map yourself.</title>
-        <link>https://www.openstreetmap.org/note/2464689#c5308217</link>
-        <guid>https://www.openstreetmap.org/note/2464689#c5308217</guid>
-        <pubDate>Fri, 01 Jan 2021 19:06:50 +0000</pubDate>
       </item>
   </channel>
 </rss>
