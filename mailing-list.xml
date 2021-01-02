@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Re: Maperitive kezdő 01 - volt: Térkép színezése saját célra: Maperitive szintvonalakat akarom kicsit kipofozni. Az első képen a maperitive által generált, a másodikon a heyjoe túratervező egy részlete látható. Látszik, hogy az utóbbin 10m-es szintköz van és lekerekített. Hogy lehet ilyen szintvonalat előállítani? (az árnyalás is érdekel) [image: kép.png] -kalorobi</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/qKGTWcJZRTA/iTQZXmKoBgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/qKGTWcJZRTA/iTQZXmKoBgAJ</guid>
+        <pubDate>Sat, 02 Jan 2021 16:48:58 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Geodéziai mérőtornyok: Szia! A járvány első körében bezárva épp raktam egy kört rendbe. Szándékaim szerint már fent van az összes, megfelelő címkézéssel. A rövid válasz: [out:json][timeout:25]; {{geocodeArea:hungary}}-&gt;.searchArea; ( way [&quot;man_made&quot;=&quot;tower&quot;] [&quot;tower:type&quot;=&quot;observation&quot;] [&quot;structure&quot;=&quot;tube&quot;] -ITineris OSM</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/fvlnSRTJIxU/qzGgDRFeBgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/fvlnSRTJIxU/qzGgDRFeBgAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/LMsyYmjuLOA/_GEqK2f5AQAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/LMsyYmjuLOA/_GEqK2f5AQAJ</guid>
         <pubDate>Fri, 18 Dec 2020 10:37:26 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] OpenMaps helyettesítők: Esetleg a főoldalon megjelenő Végelszámolás című hírből következtetett erre? (Asztali böngészővel kell keresni, mobil nézetben megtalálhatatlan.) Az a bejegyzés kifejezetten kiemeli, hogy „A weblap és a térképszolgáltatások továbbra is működnek, más keretek között igyekszünk biztosítani a -Báthory Péter</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/LMsyYmjuLOA/FcwZQzj2AQAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/LMsyYmjuLOA/FcwZQzj2AQAJ</guid>
-        <pubDate>Fri, 18 Dec 2020 09:39:05 UTC</pubDate>
       </item>
   </channel>
 </rss>
