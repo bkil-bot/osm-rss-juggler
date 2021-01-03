@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Megyei matrica térképek: BÚÉK! https://www.autopalyamatrica.hu/megyei-matrica/veszprem-megye Itt nem kéne, hogy szerepeljen az openstreetmap hivatkozás? Üdv: Gábor -Gabor Liptak</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/xJLVXYPm4MU/pfXGKkj6BgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/xJLVXYPm4MU/pfXGKkj6BgAJ</guid>
+        <pubDate>Sun, 03 Jan 2021 17:49:48 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Re: Maperitive kezdő 01 - volt: Térkép színezése saját célra: Megtaláltam a megoldást: HGT fájl letöltése innen: https://e4ftl01.cr.usgs.gov/MEASURES/SRTMGL1.003/2000.02.11/SRTMGL1_page_3.html kicsomagolni a: .../Maperitive/Cache/Rasters/STRM1 mappába. majd a Maperitive beállítások set-dem-source name=SRTM1 generate-contours interval=10 [image: image.png] -kalorobi</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/qKGTWcJZRTA/YOsNrgv2BgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/qKGTWcJZRTA/YOsNrgv2BgAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/5M3pIym6qOQ/Md5WzkAPAgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/5M3pIym6qOQ/Md5WzkAPAgAJ</guid>
         <pubDate>Fri, 18 Dec 2020 17:17:50 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Re: Érdekes körforgalom Budán: Egy kicsit még tovább vinném a témát, mert a közelben van még javítani való, de ennek nem nyitnék külön témát. A körforgalomból a Béla király úton nyugat felé haladva van a Horthy-villa. Ezt úgy 1-2 éve felújították és a Zugligeti iskola felső tagozata költözött ide. Hogyan címkéznétek az -AndreasTUHU</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/5M3pIym6qOQ/v_Ew1zkMAgAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/5M3pIym6qOQ/v_Ew1zkMAgAJ</guid>
-        <pubDate>Fri, 18 Dec 2020 16:22:22 UTC</pubDate>
       </item>
   </channel>
 </rss>
