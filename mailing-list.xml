@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Re: Maperitive kezdő 01 - volt: Térkép színezése saját célra: Megtaláltam a megoldást: HGT fájl letöltése innen: https://e4ftl01.cr.usgs.gov/MEASURES/SRTMGL1.003/2000.02.11/SRTMGL1_page_3.html kicsomagolni a: .../Maperitive/Cache/Rasters/STRM1 mappába. majd a Maperitive beállítások set-dem-source name=SRTM1 generate-contours interval=10 [image: image.png] -kalorobi</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/qKGTWcJZRTA/YOsNrgv2BgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/qKGTWcJZRTA/YOsNrgv2BgAJ</guid>
+        <pubDate>Sun, 03 Jan 2021 16:32:09 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Re: Maperitive kezdő 01 - volt: Térkép színezése saját célra: Nem tudom heyjoe melyik domborzatmodellből generálja és milyen paraméterekkel, de van itt még 2 minta (opentopomap ill.mapy.cz), amin a szintvonalak felirata is helyes irányban van, ha sikerülne azt is megvalósítani az lenne az igazi királyság :) [image: k1.jpg][image: k2.jpg] kalorobi a -turistautsz...@gmail.com</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/qKGTWcJZRTA/C3nUP4usBgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/qKGTWcJZRTA/C3nUP4usBgAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/5M3pIym6qOQ/v_Ew1zkMAgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/5M3pIym6qOQ/v_Ew1zkMAgAJ</guid>
         <pubDate>Fri, 18 Dec 2020 16:22:22 UTC</pubDate>
-      </item><item>
-        <title>Re: OpenMaps sorsa kérdéses: Sziasztok! Én a Locus render témát (hogy a turista utak, jelzésekkel megjelenjenek) és térképeket is (Locus-hoz) az openmaps.eu-ról szoktam letölteni. A jövőben erre nem lesz lehetőség? Túrázáshoz a Locus a legjobb eszköz (legalábbis számomra). Szarvas András a következőt írta (2020. december -kalorobi</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/LMsyYmjuLOA/vtfZSCoCAgAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/LMsyYmjuLOA/vtfZSCoCAgAJ</guid>
-        <pubDate>Fri, 18 Dec 2020 13:18:00 UTC</pubDate>
       </item>
   </channel>
 </rss>
