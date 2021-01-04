@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] source:website:date=* kulcsok cseréje: lehet, hogy a pontot nem szeretni a &quot;kulcsban&quot; ? ha most : &quot;source:www.cib.hu:date&quot; Ezt nem lehetne &quot;kompatibilisre&quot; átalakítani ? pl https://taginfo.openstreetmap.org/keys/source%3Ageometry%3Adate - [ source:geometry:date ] -ből rengeteg van .. pl. source:HU:cib:date source:HU:import:cib:d -Imre Samu</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/ZBHsDWYn43I/hP8Ea3JOBwAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/ZBHsDWYn43I/hP8Ea3JOBwAJ</guid>
+        <pubDate>Mon, 04 Jan 2021 19:32:07 UTC</pubDate>
+      </item><item>
         <title>source:website:date=* kulcsok cseréje: Sziasztok! KAMI importjaival bekerült POI-k source:website:date=* kulcsot kapnak. Itt egy példa: https://www.openstreetmap.org/node/1866146821/history (előzményeket is nézzétek meg). A probléma az, hogy gyakorlatilag minden létező ellenőrző hibásnak jelzi. A Wiki szerint (https://wiki.openst -Úr Balázs</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/ZBHsDWYn43I/XkmLLeBJBwAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/ZBHsDWYn43I/XkmLLeBJBwAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/5M3pIym6qOQ/XP-XraeuAgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/5M3pIym6qOQ/XP-XraeuAgAJ</guid>
         <pubDate>Sun, 20 Dec 2020 17:58:55 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] F9P + Android + ??? // RTK fun: Megoldásom nincs, Csak kerestem, hátha jól jön: https://github.com/OneStopTransport/api-ntrip-java-client https://www.use-snip.com/kb/knowledge-base/where-do-i-get-a-free-ntrip-client/ Peter Gervai ezt írta (időpont: 2020. dec. 20., Vas 11:33): &gt; On Sat, Dec 19, 2020 at 7:33 -KAMI911 KAMI911</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/jOjZOXM36sU/VN4txGiXAgAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/jOjZOXM36sU/VN4txGiXAgAJ</guid>
-        <pubDate>Sun, 20 Dec 2020 10:52:55 UTC</pubDate>
       </item>
   </channel>
 </rss>
