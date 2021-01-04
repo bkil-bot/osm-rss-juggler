@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>source:website:date=* kulcsok cseréje: Sziasztok! KAMI importjaival bekerült POI-k source:website:date=* kulcsot kapnak. Itt egy példa: https://www.openstreetmap.org/node/1866146821/history (előzményeket is nézzétek meg). A probléma az, hogy gyakorlatilag minden létező ellenőrző hibásnak jelzi. A Wiki szerint (https://wiki.openst -Úr Balázs</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/ZBHsDWYn43I/XkmLLeBJBwAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/ZBHsDWYn43I/XkmLLeBJBwAJ</guid>
+        <pubDate>Mon, 04 Jan 2021 18:08:21 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] kutya chip olvasók: Érthetne még valaki ezen fizetéstől függetlenül belépőkártyás ajtókat, könyvtárat, automatát, metró beléptetőkaput vagy ilyesmit is. A világon manapság körbevesznek a chipkártyák, és ezek csak egy része rádiós, azon belül egy része RFID, azon belül egy része kapcsolódik állatokhoz, azon belül -Thomas Nagy</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/sJGK3z72AFg/VFz94ts-BwAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/sJGK3z72AFg/VFz94ts-BwAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/jOjZOXM36sU/VN4txGiXAgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/jOjZOXM36sU/VN4txGiXAgAJ</guid>
         <pubDate>Sun, 20 Dec 2020 10:52:55 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Re: Érdekes körforgalom Budán: old_name, alt_name hasznos tagek, az osm keresője is megtalálja őket. A fentihez hasonló esetekben egyébként az iskola területe gyakran tágabb, mint maga az épület. Ha itt is ez a helyzet, akkor az is megoldás lehet, ha az amenity=school az iskola nevével egy külön objektumra kerül. (Megjegyzem -kdano</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/5M3pIym6qOQ/p_nCyAKXAgAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/5M3pIym6qOQ/p_nCyAKXAgAJ</guid>
-        <pubDate>Sun, 20 Dec 2020 10:45:38 UTC</pubDate>
       </item>
   </channel>
 </rss>
