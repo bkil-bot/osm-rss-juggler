@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Taván, Budakalász) / * 2021 January 5 12:49 vasony-qa Created: Kert utca vagy Domb utca ez a rész?</title>
+        <link>https://www.openstreetmap.org/note/2486114#c5318825</link>
+        <guid>https://www.openstreetmap.org/note/2486114#c5318825</guid>
+        <pubDate>Tue, 05 Jan 2021 12:49:18 +0000</pubDate>
+      </item><item>
         <title>new note (near Sárpentele, Sárszentmihály) / * 2021 January 5 11:26 vasony-qa Created: Biztos Sárpentele utca? Nem tűnik valószínűnek a településrész névvel egyező utca.</title>
         <link>https://www.openstreetmap.org/note/2486014#c5318620</link>
         <guid>https://www.openstreetmap.org/note/2486014#c5318620</guid>
@@ -157,36 +162,6 @@
         <link>https://www.openstreetmap.org/note/2483725#c5312910</link>
         <guid>https://www.openstreetmap.org/note/2483725#c5312910</guid>
         <pubDate>Sun, 03 Jan 2021 13:41:38 +0000</pubDate>
-      </item><item>
-        <title>new note (near Vörösmarty-lakótelep, Pomáz) / * 2021 January 3 06:50 sd_ciastko Created: Unable to answer &amp;quot;What is the house number of this building?&amp;quot; for https://osm.org/way/192124463 via StreetComplete 28.0: / Garázs</title>
-        <link>https://www.openstreetmap.org/note/2483298#c5312014</link>
-        <guid>https://www.openstreetmap.org/note/2483298#c5312014</guid>
-        <pubDate>Sun, 03 Jan 2021 06:50:17 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Kertváros, Tiszaújváros) / * 2020 November 13 20:07 Created: 1 / * 2021 January 2 23:39 urbalazs Resolved: Elnézést, ez a térképjegyzet hiányos. Adjon részletes leírást arról a problémáról, amit jelenteni szeretne.</title>
-        <link>https://www.openstreetmap.org/note/2423082#c5311695</link>
-        <guid>https://www.openstreetmap.org/note/2423082#c5311695</guid>
-        <pubDate>Sat, 02 Jan 2021 23:39:48 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Nagytétény, 22nd district) / * 2020 November 27 11:11 Created: Barosstelep / * 2021 January 2 23:38 urbalazs Resolved: A megállóhely már szerepel a térképen.</title>
-        <link>https://www.openstreetmap.org/note/2443005#c5311677</link>
-        <guid>https://www.openstreetmap.org/note/2443005#c5311677</guid>
-        <pubDate>Sat, 02 Jan 2021 23:38:40 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Ószőlő, Szarvas) / * 2020 December 23 12:40 Created: Bércesi Brhlik gyerekek innen jártak iskolába.Középhalmi , Dauda Mihály Igazgatósága alatt. / * 2021 January 2 23:36 urbalazs Resolved: Köszönjük a kiegészítést, de a térképen csak a terepen is látható dolgokat tudjuk feltüntetni.</title>
-        <link>https://www.openstreetmap.org/note/2470748#c5311667</link>
-        <guid>https://www.openstreetmap.org/note/2470748#c5311667</guid>
-        <pubDate>Sat, 02 Jan 2021 23:36:09 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Alsópálfalva, Salgótarján) / * 2021 January 2 23:33 urbalazs Resolved: Ez a funkció a térkép hibáinak jelzésére szolgál. Magánjellegű információk tárolásához nem használható.</title>
-        <link>https://www.openstreetmap.org/note/2483059#c5311662</link>
-        <guid>https://www.openstreetmap.org/note/2483059#c5311662</guid>
-        <pubDate>Sat, 02 Jan 2021 23:33:08 +0000</pubDate>
-      </item><item>
-        <title>new note (near Alsópálfalva, Salgótarján) / * 2021 January 2 23:06 Created: otthon</title>
-        <link>https://www.openstreetmap.org/note/2483059#c5311608</link>
-        <guid>https://www.openstreetmap.org/note/2483059#c5311608</guid>
-        <pubDate>Sat, 02 Jan 2021 23:06:16 +0000</pubDate>
       </item>
   </channel>
 </rss>
