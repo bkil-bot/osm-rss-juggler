@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: OsmAnd képernyő olvasóval: Sziasztok! Az OsmAnd magyar fordítása (legalábbis Androidra) teljes, úgyhogy alighanem valahol a forráskódban kellene bogarászni… Gábor turistautsz...@gmail.com a következőt írta (2020. november 20., péntek, 14:42:00 UTC+1): &gt; &gt; Találtam 2 cimkézetlen gombot az OsmAnd-ban. &gt; Biztos van több is, -gabor...@gmail.com</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/ip1G4aODv2w/1E_rwP3VBwAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/ip1G4aODv2w/1E_rwP3VBwAJ</guid>
+        <pubDate>Wed, 06 Jan 2021 12:56:00 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] source:website:date=* kulcsok cseréje: Szerintem ez túlbonyolítás, és a source és source:date kulcsokat támogatom. source:HU:import:cib:date nekem semmivel sem jobb megoldás, mint a source:date és a source külön. Szerintem nem praktikus ha a kulcsban akarunk információt tárolni, és nem az értékben, és itt nincs is szükség rá, mert egy -Tamás Vásony</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/ZBHsDWYn43I/h9ySjGVTBwAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/ZBHsDWYn43I/h9ySjGVTBwAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/y083fh8x4iE/m70lOG_kAgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/y083fh8x4iE/m70lOG_kAgAJ</guid>
         <pubDate>Mon, 21 Dec 2020 10:24:26 UTC</pubDate>
-      </item><item>
-        <title>Tervezett turistautak az OSM-ben.: Egy példa tervezett jelzésre: Jelenlegi Címkék: name KQ (Ferenc-forráshoz) network lwn proposed:jel kq proposed:osmc:symbol blue:white:blue_dot ref Kq route hiking type route Tudom, hogy nem a kimeneteknek térképezünk, de jelenleg így mutat ez a példa: https://hiking.w -turistautsz...@gmail.com</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/y083fh8x4iE/eDqdXO3iAgAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/y083fh8x4iE/eDqdXO3iAgAJ</guid>
-        <pubDate>Mon, 21 Dec 2020 09:56:49 UTC</pubDate>
       </item>
   </channel>
 </rss>
