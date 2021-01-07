@@ -3,6 +3,21 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] levlista archívum: Úgy tűnik, hogy hivatalos megoldás nincs. Ezt találtam: https://github.com/icy/google-group-crawler Feri Veres ezt írta (időpont: 2021. jan. 7., Cs, 15:27): &gt; Sziasztok &gt; &gt; Az előbbi levlista archívum linkem alapján jutott eszembe: vajon, ha &gt; valami okból egyszer ez a lista -Kádár Iván</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/CtGiwweTVx4/Fz76oI9nBwAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/CtGiwweTVx4/Fz76oI9nBwAJ</guid>
+        <pubDate>Thu, 07 Jan 2021 14:43:54 UTC</pubDate>
+      </item><item>
+        <title>levlista archívum: Sziasztok Az előbbi levlista archívum linkem alapján jutott eszembe: vajon, ha valami okból egyszer ez a lista törlődne, akkor, ez a visszakeresés teljesen lehetetlenné válna? Tudnánk valahogy archiválni az eddigi levelezést és egy mirrort készíteni? Pl hasonló mint a szokásos majordomo -Feri Veres</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/CtGiwweTVx4/gM4lO6ZmBwAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/CtGiwweTVx4/gM4lO6ZmBwAJ</guid>
+        <pubDate>Thu, 07 Jan 2021 14:27:11 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] source:website:date=* kulcsok cseréje: támogatom. Azt kéne még visszakeresni, hogy miért lett ilyen. Emlékszem, hogy ez megbeszélés eredménye volt. Sajnos ide https://wiki.openstreetmap.org/wiki/Hungary/Import%C3%A1l%C3%A1s/POI_adatok nem írtuk fel. Attól persze még lehet most másik megoldást választani. De megbízhatóbb az -Feri Veres</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/ZBHsDWYn43I/fMGH-y9mBwAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/ZBHsDWYn43I/fMGH-y9mBwAJ</guid>
+        <pubDate>Thu, 07 Jan 2021 14:18:44 UTC</pubDate>
+      </item><item>
         <title>Re: OsmAnd képernyő olvasóval: Sziasztok! Az OsmAnd magyar fordítása (legalábbis Androidra) teljes, úgyhogy alighanem valahol a forráskódban kellene bogarászni… Gábor turistautsz...@gmail.com a következőt írta (2020. november 20., péntek, 14:42:00 UTC+1): &gt; &gt; Találtam 2 cimkézetlen gombot az OsmAnd-ban. &gt; Biztos van több is, -gabor...@gmail.com</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/ip1G4aODv2w/1E_rwP3VBwAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/ip1G4aODv2w/1E_rwP3VBwAJ</guid>
@@ -237,21 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/y083fh8x4iE/A9XxYMjpAgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/y083fh8x4iE/A9XxYMjpAgAJ</guid>
         <pubDate>Mon, 21 Dec 2020 12:02:26 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Tervezett turistautak az OSM-ben.: Maximálisan egyetértek Máté javaslataival, mind az OSM szempontjából, mind a festéseket illetőleg. Az ojjektumok életútját alapvetően a fő címke prefixelésével (proposed, construction, disused, abandon, demolished) a legjobb intézni. Én magam úgy intézném – és az épülő gyorsforgalmi úthálózat -ITineris OSM</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/y083fh8x4iE/8QyIR_rnAgAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/y083fh8x4iE/8QyIR_rnAgAJ</guid>
-        <pubDate>Mon, 21 Dec 2020 11:29:21 UTC</pubDate>
-      </item><item>
-        <title>Re: Tervezett turistautak az OSM-ben.: Nagyon egyszerű,ne route=hiking legyen akkor nem jelenik meg. A Mária utaknál a route=planned_hike van használva,a térképen nem jelenik meg de hivatkozni lehet rá: https://turistautak.openstreetmap.hu/turut-4758820 turistautsz...@gmail.com a következőt írta (2020. december 21., hétfő, 10:56:49 -Dömcsi</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/y083fh8x4iE/VE6b6i3mAgAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/y083fh8x4iE/VE6b6i3mAgAJ</guid>
-        <pubDate>Mon, 21 Dec 2020 10:56:25 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Tervezett turistautak az OSM-ben.: Ami jó lehet: proposed:route = hiking, (ha jól gondolom) az nem jelenik meg egyik kimeneten sem, ami megfelel a valóságnak, hiszen még nincs felfestve/terepen kijelölve. Esetleg minden úgy, mint a rendes turistautaknál, csak a name-be be kellene írni, hogy (tervezett). Félő, hogy ha erre -Máté Fehérvári</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/y083fh8x4iE/m70lOG_kAgAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/y083fh8x4iE/m70lOG_kAgAJ</guid>
-        <pubDate>Mon, 21 Dec 2020 10:24:26 UTC</pubDate>
       </item>
   </channel>
 </rss>
