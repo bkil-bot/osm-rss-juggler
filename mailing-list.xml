@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] source:website:date=* kulcsok cseréje: Ha annyira ragaszkodunk az ededeti source tartalomhoz, akkor akár mögé is írhatjuk pontosvesszővel, és akkor mindenki boldog. Az előző import frissítésénél, meg az a rész ki lenne cserélve. De át is lehet mozgatni a source:geometry mezőbe az eredeti tartalmat, ez fedi az &quot;Amiket én rajzoltam be -Tamás Vásony</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/ZBHsDWYn43I/I-CGgHQMCAAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/ZBHsDWYn43I/I-CGgHQMCAAJ</guid>
+        <pubDate>Sat, 09 Jan 2021 17:05:36 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Re: térképszerkesztések azonnali megjelenítése OSMand-on: És megjött az idei első: https://youtu.be/OfTUvUeg-fA https://tube.grin.hu/videos/watch/8315ab0a-2cdd-4e05-948a-15f1aba24b05 hungarian_user a következőt írta (2020. december 29., kedd, 5:11:33 UTC+1): &gt; Köszönjük a videót! &gt; &gt; turistautsz...@gmail.com a következőt írta (2020. december 28., -turistautsz...@gmail.com</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/rsu_Q2z7HRw/c-c_H5l2BwAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/rsu_Q2z7HRw/c-c_H5l2BwAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/t6Des_ljEiY/VoURKBsuAwAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/t6Des_ljEiY/VoURKBsuAwAJ</guid>
         <pubDate>Tue, 22 Dec 2020 08:54:29 UTC</pubDate>
-      </item><item>
-        <title>Re: Tervezett turistautak az OSM-ben.: Köszi a tippet, ezt fogom alkalmazni, aztán meglátom, hogy válik be. Dömcsi a következőt írta (2020. december 21., hétfő, 11:56:25 UTC+1): &gt; &gt; Nagyon egyszerű,ne route=hiking legyen akkor nem jelenik meg. &gt; A Mária utaknál a route=planned_hike van használva,a térképen nem jelenik &gt; meg de -turistautsz...@gmail.com</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/y083fh8x4iE/_wUDEtnpAgAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/y083fh8x4iE/_wUDEtnpAgAJ</guid>
-        <pubDate>Mon, 21 Dec 2020 12:03:38 UTC</pubDate>
       </item>
   </channel>
 </rss>
