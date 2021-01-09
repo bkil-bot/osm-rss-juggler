@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>git (via bkil-bot)</title>
+      <item>
+        <title>bkil: README.md: clarify terms of use</title>
+        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/11fd3aa8c3510bdae358a46525d82af64c8983ea</link>
+        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/11fd3aa8c3510bdae358a46525d82af64c8983ea</guid>
+        <pubDate>2020-12-16T23:37:04+01:00</pubDate>
+      </item><item>
+        <title>bkil: Satoraljaujhely: add</title>
+        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/d041135c374eb3369835e9d647afb3e098d44fca</link>
+        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/d041135c374eb3369835e9d647afb3e098d44fca</guid>
+        <pubDate>2020-07-27T00:26:26+02:00</pubDate>
+      </item><item>
+        <title>bkil: Etyek: add</title>
+        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/811ece859f0827e3018fcc64f2489765ecf47e3a</link>
+        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/811ece859f0827e3018fcc64f2489765ecf47e3a</guid>
+        <pubDate>2020-07-27T00:26:13+02:00</pubDate>
+      </item><item>
+        <title>bkil: Elek: add</title>
+        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/74e85e67bc99be1051f8102d9289dc634b251126</link>
+        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/74e85e67bc99be1051f8102d9289dc634b251126</guid>
+        <pubDate>2020-07-27T00:26:06+02:00</pubDate>
+      </item><item>
+        <title>bkil: Berekfurdo: add</title>
+        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/4adac470ab157d1f0cf0d13153651ac7a3e6ff9d</link>
+        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/4adac470ab157d1f0cf0d13153651ac7a3e6ff9d</guid>
+        <pubDate>2020-07-27T00:25:59+02:00</pubDate>
+      </item><item>
+        <title>bkil: Biatorágy: add</title>
+        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/1eb4edf3e66f7c2839a4de016cf6742498de7078</link>
+        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/1eb4edf3e66f7c2839a4de016cf6742498de7078</guid>
+        <pubDate>2020-07-26T23:27:18+02:00</pubDate>
+      </item><item>
+        <title>Balázs Úr: Fehérgyarmat hozzáadása</title>
+        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/c75c293c884abba675794352fe2952e3c7618ccd</link>
+        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/c75c293c884abba675794352fe2952e3c7618ccd</guid>
+        <pubDate>2020-07-02T00:56:13+02:00</pubDate>
+      </item><item>
+        <title>Balázs Úr: Balatonszemes hozzáadása</title>
+        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/cca95a9a64fbaa41f34b59a5c13a03b2e8e59fd1</link>
+        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/cca95a9a64fbaa41f34b59a5c13a03b2e8e59fd1</guid>
+        <pubDate>2020-07-02T00:22:22+02:00</pubDate>
+      </item><item>
+        <title>Balázs Úr: Várgesztes hozzáadása</title>
+        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/29c427f098d80c8b15e95b4a30d81cf782dfd694</link>
+        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/29c427f098d80c8b15e95b4a30d81cf782dfd694</guid>
+        <pubDate>2020-06-22T01:33:29+02:00</pubDate>
+      </item><item>
+        <title>Balázs Úr: Magyarázószöveg javítása</title>
+        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/34df1e505160d57af46c96e31c9cac21f614acb0</link>
+        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/34df1e505160d57af46c96e31c9cac21f614acb0</guid>
+        <pubDate>2020-06-20T01:28:04+02:00</pubDate>
+      </item><item>
+        <title>Balázs Úr: Papkeszi hozzáadása</title>
+        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/2de1e49b31eb4872e7257a75022dbb22b13f0473</link>
+        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/2de1e49b31eb4872e7257a75022dbb22b13f0473</guid>
+        <pubDate>2020-06-20T01:24:46+02:00</pubDate>
+      </item><item>
+        <title>Balázs Úr: Vilonya hozzáadása</title>
+        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/4471a6dbe5a7c3df082eed32d0b320788c632bdf</link>
+        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/4471a6dbe5a7c3df082eed32d0b320788c632bdf</guid>
+        <pubDate>2020-06-19T21:24:21+02:00</pubDate>
+      </item><item>
+        <title>Balázs Úr: Letöltendő fájlméretek és előállítandó képek méretének hozzáadása</title>
+        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/7ef74068d5a7bac74354ae71a2b8ac46749759bb</link>
+        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/7ef74068d5a7bac74354ae71a2b8ac46749759bb</guid>
+        <pubDate>2020-06-18T22:21:09+02:00</pubDate>
+      </item><item>
+        <title>Balázs Úr: Git klónozási parancs javítása</title>
+        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/68c78bbb6af982d9682d597513dd6b89c76d91c9</link>
+        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/68c78bbb6af982d9682d597513dd6b89c76d91c9</guid>
+        <pubDate>2020-06-15T00:58:44+02:00</pubDate>
+      </item><item>
+        <title>Balázs Úr: Németkér hozzáadása</title>
+        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/11221a77e4ed1e72c3f171323dc076373d47c6b3</link>
+        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/11221a77e4ed1e72c3f171323dc076373d47c6b3</guid>
+        <pubDate>2020-06-15T00:55:38+02:00</pubDate>
+      </item><item>
+        <title>Balázs Úr: Budapest XXII. kerület hozzáadása</title>
+        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/b63ab0dee20c1a459e6abe98761029256abc7be4</link>
+        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/b63ab0dee20c1a459e6abe98761029256abc7be4</guid>
+        <pubDate>2020-06-15T00:15:50+02:00</pubDate>
+      </item><item>
+        <title>Balázs Úr: Használati leírás és licenc hozzáadása</title>
+        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/30ca8fe6dcbac49595b69572168cbeb94cc3919b</link>
+        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/30ca8fe6dcbac49595b69572168cbeb94cc3919b</guid>
+        <pubDate>2020-06-15T00:15:15+02:00</pubDate>
+      </item>
+  </channel>
+</rss>
