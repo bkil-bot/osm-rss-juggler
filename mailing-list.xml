@@ -3,6 +3,16 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Re: Érdekes körforgalom Budán: Szia, Ezt elfelejtettem elküldeni. Mellékelem. Igazából úgy lenne a tuti, ha minden GPS értéknél benne lenne a pontosság is. A GPS logger tud ilyet? Vagy hogyan lehet leválogatni a megfelelő pontosságú pontokat? Másik kérdés, hogy valami boundingboxo(ka)t, amiknek az adatait nem szeretném -KAMI911 KAMI911</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/5M3pIym6qOQ/zVB9twFICAAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/5M3pIym6qOQ/zVB9twFICAAJ</guid>
+        <pubDate>Sun, 10 Jan 2021 11:16:53 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] source:website:date=* kulcsok cseréje: igaz. Általában nincs source, tehát nem mögé kerül, hanem az lesz az értéke. Legalábbis én csak kivételes esetekben rakok objektumonként source-t. És nem csak geometriát viszek fel, hanem nyitvatartást, kerekesszékes járhatóságot, címet, amit megtalálok. Így az import például kiegészíti a -Feri Veres</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/ZBHsDWYn43I/73Ogi3tHCAAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/ZBHsDWYn43I/73Ogi3tHCAAJ</guid>
+        <pubDate>Sun, 10 Jan 2021 11:07:18 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] levlista archívum: Köszi Iván, ez profi. Letöltötte, frissíteni is tudja. Némi konverzió kellett neki hogy a MHonArc megegye. Akkor ha nincs senkinek jobb ötlete és ellenvetése a https://www.openstreetmap.hu/ alatt egy alkönyvtárba feltölteném. 6000 HTML fájl most, meg egy index page. Nevek vannak benne, email -Feri Veres</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/CtGiwweTVx4/hfPgGV5ECAAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/CtGiwweTVx4/hfPgGV5ECAAJ</guid>
@@ -242,16 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/rsu_Q2z7HRw/j1XxM25xBAAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/rsu_Q2z7HRw/j1XxM25xBAAJ</guid>
         <pubDate>Sat, 26 Dec 2020 11:39:27 UTC</pubDate>
-      </item><item>
-        <title>térképszerkesztések azonnali megjelenítése OSMand-on: Sziasztok! Bocs, de egy gyors rövid kérdésem van: Hogyan tudom kvázi azonnal láthatóvá tenni az OSM-and appomon azokat a módosulásokat, amiklet az openstreetmap.org-on pl tegnap módosítottam/szerkesztettem, ha nincsen megvéve prémium előfizetésem az OSM-And-ra? Köszönettel: Gza -Rózsa Gza (Géza) István Özséb</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/rsu_Q2z7HRw/X94P4bdsBAAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/rsu_Q2z7HRw/X94P4bdsBAAJ</guid>
-        <pubDate>Sat, 26 Dec 2020 10:13:06 UTC</pubDate>
-      </item><item>
-        <title>Re: oktató videók: Ide is beteszem, hátha érdekel valakit OsmAnd oktató videó kezdőknek. Útvonal felmérése és fotódokumentálása OsmAnd használatával: https://youtu.be/QOI36TGmbUY https://tube.grin.hu/videos/watch/98eeb647-d4e1-4932-ab3f-6649240506da turistautsz...@gmail.com a következőt írta (2020. május 19., kedd, -turistautsz...@gmail.com</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/rsu_Q2z7HRw/ErOfhvhHBAAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/rsu_Q2z7HRw/ErOfhvhHBAAJ</guid>
-        <pubDate>Fri, 25 Dec 2020 22:59:42 UTC</pubDate>
       </item>
   </channel>
 </rss>
