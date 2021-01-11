@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Name tulajdonság villamosvonalakon: Sziasztok! Jó az, hogy a budapesti villamosvonalakon van name=* címke? A JOSM szól érte, hogy nem kellene, és a wiki sem említi: https://wiki.openstreetmap.org/wiki/Tag:railway%3Dtram Ha jól tudom, pont erre vannak a relációk. A Name régen került a vonalakra, és egy részük már nem aktuális, -Úr Balázs</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/onGE6tuPCAAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/onGE6tuPCAAJ</guid>
+        <pubDate>Mon, 11 Jan 2021 09:13:37 UTC</pubDate>
+      </item><item>
         <title>Re: Track log pontosság, szerkesztés; Was: [osm-hu] Re: Érdekes körforgalom Budán: Szia! Nem tudom, ezt a .gpx-et miből és mivel csináltad. A Lefebure által mentett NMEA-kat tartalmazó .txt-ben ott van a pontosság. Ha ezt betöltöd JOSM-be, és onnan mentesz GPX-et, abban is szépen ott a tag, illetve a , , (még ha a JOSM csak a HDOP-ot is tudja kezelni -ITineris OSM</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/5M3pIym6qOQ/Gdn3_UCLCAAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/5M3pIym6qOQ/Gdn3_UCLCAAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/rsu_Q2z7HRw/gsDMMF15BAAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/rsu_Q2z7HRw/gsDMMF15BAAJ</guid>
         <pubDate>Sat, 26 Dec 2020 14:04:50 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] térképszerkesztések azonnali megjelenítése OSMand-on: Vagy ha ingyenes, akkor: http://vilya.grin.hu/map/ KAMI911 KAMI911 ezt írta (időpont: 2020. dec. 26., Szo 12:47): &gt; &gt; https://osmand.net/features/subscription &gt; &gt; &gt; &gt; Rózsa Gza (Géza) István Özséb ezt írta (időpont: &gt; 2020. dec. 26., Szo 11:13): &gt; &gt;&gt; -KAMI911 KAMI911</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/rsu_Q2z7HRw/yLvVMDF5BAAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/rsu_Q2z7HRw/yLvVMDF5BAAJ</guid>
-        <pubDate>Sat, 26 Dec 2020 14:01:41 UTC</pubDate>
       </item>
   </channel>
 </rss>
