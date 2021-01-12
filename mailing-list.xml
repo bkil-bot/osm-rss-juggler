@@ -3,6 +3,16 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Name tulajdonság villamosvonalakon: Az animal_feed-et tudod taggelni de a cinke az cinkes. :-) g -grin</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/G0A8tZICCQAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/G0A8tZICCQAJ</guid>
+        <pubDate>Tue, 12 Jan 2021 20:15:46 UTC</pubDate>
+      </item><item>
+        <title>OsmAnd custom rendering: zoom level: Szervusztok! OsmAnd-ban próbálkozom saját rendering XML összeállításával, hogy bizonyos POI-k megjelenítési (zoom) szintjét megváltoztassam a gyári beállításokhoz képest. Azt tapasztalom, hogy a beállítások rendben érvényre jutnak, ha az OSM-ben az adott POI pontként (node) van ábrázolva. Ha -Gergely Matefi</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/Wn9_5VXBZ3k/soTFCTQBCQAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/Wn9_5VXBZ3k/soTFCTQBCQAJ</guid>
+        <pubDate>Tue, 12 Jan 2021 19:50:40 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Name tulajdonság villamosvonalakon: On Mon, 11 Jan 2021, Kiss Gabor wrote: &gt; Egyetertek addig, hogy a nev attol nev, hogy egyedi. &gt; Emellett vannak meg mas szempontok is. Pl. hogy igaz legyen. :-) &gt; Hogy altalanosan ismert legyen, ne csak egy ember fejeben letezzen. &gt; Es ilyen aprosagok. És akkor ma belefutottam egy olyanba, -Kiss Gabor</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/54x6eQz-CAAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/54x6eQz-CAAJ</guid>
@@ -242,16 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/rsu_Q2z7HRw/898iUV0xBQAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/rsu_Q2z7HRw/898iUV0xBQAJ</guid>
         <pubDate>Mon, 28 Dec 2020 22:16:41 UTC</pubDate>
-      </item><item>
-        <title>Re: RTK vs. telefon: Érdekes ez két külön időpontban végzett mérés ha jól látom! Én megy egy Garmin64sx és egy Samsung tablet csiganyálát hasonlítottam össze tegnap, mindkettő az oldaltáskámban volt: https://www.openstreetmap.org/user/utvonalfelmeresek/traces/3538655 https://www.openstreetmap.org/user/utvonalfelmerese -turistautsz...@gmail.com</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/io7MymZoeA8/Wn6h-ckvBQAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/io7MymZoeA8/Wn6h-ckvBQAJ</guid>
-        <pubDate>Mon, 28 Dec 2020 21:47:49 UTC</pubDate>
-      </item><item>
-        <title>RTK vs. telefon: Szia, Érdekességként - akit érdekel: a csatolt GPX-ben kétféle nyom van: 1. a sűrűbbek az F9P (RTK) GPS-ével készültek, vegyesen DGPS és RTKfloat módban (nincs bnne igazán sok valódi RTK) 2. a ritkábbak egy két csatornás (L1+L5) telefonnal (Xiaomi Mi9) Mind gyalogosan. grin -grin</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/io7MymZoeA8/B-Q_rGceBQAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/io7MymZoeA8/B-Q_rGceBQAJ</guid>
-        <pubDate>Mon, 28 Dec 2020 16:29:14 UTC</pubDate>
       </item>
   </channel>
 </rss>
