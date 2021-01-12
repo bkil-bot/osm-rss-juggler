@@ -3,6 +3,16 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] A name:hu tartalma az ország határain kívül: Szia! Ez megfelel a globális OSM szintű ajánlásnak, mely szerint a nevek írásmódja egyezzék meg az aktuális, a helyszínen is használatos formával. Az OSM alapú navigációt használók számára ez a leghasznosabb forma, hiszen ők is a jelenkori elnevezések szerint fognak keresni vagy navigálni. Üdv, -Gergely Matefi</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/653SpGrxw9A/qiRDac7zCAAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/653SpGrxw9A/qiRDac7zCAAJ</guid>
+        <pubDate>Tue, 12 Jan 2021 15:45:10 UTC</pubDate>
+      </item><item>
+        <title>A name:hu tartalma az ország határain kívül: Sziasztok! Érdemes lenne megvitatni, hogy pontosan milyen magyar név kerüljön a name:hu-ba, mivel úgy láttam ez sok helyen problémát okoz és a mai napig nem egységes. Felvettem a kapcsolatot a szlovák OSM közösséggel és volt az egyöntetű kérésük, hogy a saját hivtalos magyar neveik szerepeljene -P. András</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/653SpGrxw9A/c_iklX3yCAAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/653SpGrxw9A/c_iklX3yCAAJ</guid>
+        <pubDate>Tue, 12 Jan 2021 15:21:04 UTC</pubDate>
+      </item><item>
         <title>openstreetmap.hu új POI kapcsolgató: Sziasztok! Felraktam egy új verziót a weblapból. A legfőbb változás a POI kereső sokkal szebb és jobb lett. Más javítások is. Főként technikai dolgok, JS/CSS betöltések, build, vendor verziók frissítése, ES6-ra átírások. Köszi Fodor Ferinek a fejlesztésekért! https://www.openstreetmap.hu/ -Feri Veres</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/mJ7qmRHoBv4/9UGrevSlCAAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/mJ7qmRHoBv4/9UGrevSlCAAJ</guid>
@@ -242,16 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/0FhhpDUKHgo/J7_3T70RBQAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/0FhhpDUKHgo/J7_3T70RBQAJ</guid>
         <pubDate>Mon, 28 Dec 2020 12:37:09 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Szarmata sáncrendszer a Kárpát-medencében: Szia! Kicsit fura a projekt. Szemlátomást sok munkát fektettek bele a Szent István Egyetemről. De miért nem kérdeztek meg senkit a közösségből, hogyan lenne a legjobb? Pontszerűnek én csak a ténylegesen pontszerű objektumokat venném fel, mint pl. a rekonstruált őrtornyot. Tourist attraction-n -ITineris OSM</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/0FhhpDUKHgo/BZ1W0KoOBQAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/0FhhpDUKHgo/BZ1W0KoOBQAJ</guid>
-        <pubDate>Mon, 28 Dec 2020 11:40:51 UTC</pubDate>
-      </item><item>
-        <title>Szarmata sáncrendszer a Kárpát-medencében: Sziasztok! Először is áldott karácsonyt mindannyiótoknak! Rábukkantam egy ilyen gyönyörűségre: mi legyen vele? A pöttyökön túl megvan maga az árokrendszer is a föld alatt. (A teljes műalkotás itt csodálható meg: úgy tűnik, hogy az árkokat jelző vonalakon kb. 320 – látszólag ötletszerűen -Babos, Gábor</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/0FhhpDUKHgo/G1ybJZYIBQAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/0FhhpDUKHgo/G1ybJZYIBQAJ</guid>
-        <pubDate>Mon, 28 Dec 2020 09:49:25 UTC</pubDate>
       </item>
   </channel>
 </rss>
