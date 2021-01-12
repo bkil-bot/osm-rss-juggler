@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>#FOSDEM 2021 (online event this year) is approaching (Sat-Sun, Feb 6-7) and has, among a much broader agenda, talks on geo-related data, free and open source geospatial software and its ecosystem. Check the talk abstracts at https://fosdem.org/2021/schedule/track/geospatial/. #GIS #OpenStreetMap</title>
+        <link>https://en.osm.town/@Doudouosm/105539738100390749</link>
+        <guid>https://en.osm.town/@Doudouosm/105539738100390749</guid>
+        <pubDate>Mon, 11 Jan 2021 23:43:21 +0000</pubDate>
+      </item><item>
         <title>Let&amp;apos;s meet Jorisbo, Mapper of the Month #MotM from OpenStreetMap Belgium: https://openstreetmap.be/en/motm/2021/01/11/jorisbo.html</title>
         <link>https://en.osm.town/@Doudouosm/105536750739091164</link>
         <guid>https://en.osm.town/@Doudouosm/105536750739091164</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/105073747112777586</link>
         <guid>https://en.osm.town/@Doudouosm/105073747112777586</guid>
         <pubDate>Wed, 21 Oct 2020 16:35:43 +0000</pubDate>
-      </item><item>
-        <title>An extensive #tutorial on how to draw buildings quickly in #JOSM: https://www.openstreetmap.org/user/IpswichMapper/diary/394485. Maybe too quickly, if you judge by the comments to the post. Anyway, the article is full of #tips and techniques to better use JOSM. #openStreetMap</title>
-        <link>https://en.osm.town/@Doudouosm/105069312384252819</link>
-        <guid>https://en.osm.town/@Doudouosm/105069312384252819</guid>
-        <pubDate>Tue, 20 Oct 2020 21:47:54 +0000</pubDate>
       </item>
   </channel>
 </rss>
