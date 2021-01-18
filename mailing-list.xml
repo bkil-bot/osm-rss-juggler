@@ -3,6 +3,16 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Visszavonás: Módosításcsomag: 97675486: Ez hogy történt? Úr Balázs ezt írta (időpont: 2021. jan. 18., Hét 19:52): &gt; Sziasztok! &gt; &gt; Úgy döntöttem, hogy nem várok, és visszavontam a módosításcsomagot: &gt; https://www.openstreetmap.org/changeset/97715816 &gt; &gt; Az eredeti módosításcsomag több mint 2000 kapcsolatot -KAMI911 KAMI911</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/P0x62oJbDgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/P0x62oJbDgAJ</guid>
+        <pubDate>Mon, 18 Jan 2021 19:17:52 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Visszavonás: Módosításcsomag: 97675486: Sziasztok! Úgy döntöttem, hogy nem várok, és visszavontam a módosításcsomagot: https://www.openstreetmap.org/changeset/97715816 Az eredeti módosításcsomag több mint 2000 kapcsolatot érintett, és más szerkesztő is panaszkodott rá. Ráadásul páran elkezdték kézzel javítgatni a hibákat. Most csak -Úr Balázs</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/fwQ3LRtaDgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/fwQ3LRtaDgAJ</guid>
+        <pubDate>Mon, 18 Jan 2021 18:52:07 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Visszavonás: Módosításcsomag: 97675486: Van egy Reverter bővítmény a JOSM-hoz. Azzal bárki bármelyik módosításcsomagot vissza tudja vonni. Akár in és visszavonhatnám, de nem akarok egyeztetés nélkül belenyúlni más munkájába. -- Balázs -Úr Balázs</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/EvOyxK5WDgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/EvOyxK5WDgAJ</guid>
@@ -242,16 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/xJLVXYPm4MU/pfXGKkj6BgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/xJLVXYPm4MU/pfXGKkj6BgAJ</guid>
         <pubDate>Sun, 03 Jan 2021 17:49:48 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Re: Maperitive kezdő 01 - volt: Térkép színezése saját célra: Megtaláltam a megoldást: HGT fájl letöltése innen: https://e4ftl01.cr.usgs.gov/MEASURES/SRTMGL1.003/2000.02.11/SRTMGL1_page_3.html kicsomagolni a: .../Maperitive/Cache/Rasters/STRM1 mappába. majd a Maperitive beállítások set-dem-source name=SRTM1 generate-contours interval=10 [image: image.png] -kalorobi</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/qKGTWcJZRTA/YOsNrgv2BgAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/qKGTWcJZRTA/YOsNrgv2BgAJ</guid>
-        <pubDate>Sun, 03 Jan 2021 16:32:09 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Re: Maperitive kezdő 01 - volt: Térkép színezése saját célra: Nem tudom heyjoe melyik domborzatmodellből generálja és milyen paraméterekkel, de van itt még 2 minta (opentopomap ill.mapy.cz), amin a szintvonalak felirata is helyes irányban van, ha sikerülne azt is megvalósítani az lenne az igazi királyság :) [image: k1.jpg][image: k2.jpg] kalorobi a -turistautsz...@gmail.com</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/qKGTWcJZRTA/C3nUP4usBgAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/qKGTWcJZRTA/C3nUP4usBgAJ</guid>
-        <pubDate>Sat, 02 Jan 2021 18:05:14 UTC</pubDate>
       </item>
   </channel>
 </rss>
