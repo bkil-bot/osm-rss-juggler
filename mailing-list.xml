@@ -3,6 +3,21 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Visszavonás: Módosításcsomag: 97675486: Van egy Reverter bővítmény a JOSM-hoz. Azzal bárki bármelyik módosításcsomagot vissza tudja vonni. Akár in és visszavonhatnám, de nem akarok egyeztetés nélkül belenyúlni más munkájába. -- Balázs -Úr Balázs</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/EvOyxK5WDgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/EvOyxK5WDgAJ</guid>
+        <pubDate>Mon, 18 Jan 2021 17:49:23 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Visszavonás: Módosításcsomag: 97675486: On Mon, 18 Jan 2021, Úr Balázs wrote: &gt; Ez a módosításcsomagod rengeteg hibát okozott, és vissza kellene vonni: &gt; https://www.openstreetmap.org/changeset/97675486 Csak hogy tanuljak: technikailag hogy tortenik az ilyesmi? Valakinek kozvetlen hozzaferese van a Git repohoz? Vagy bizonyos -Kiss Gabor</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/-0rGYpBWDgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/-0rGYpBWDgAJ</guid>
+        <pubDate>Mon, 18 Jan 2021 17:47:12 UTC</pubDate>
+      </item><item>
+        <title>Visszavonás: Módosításcsomag: 97675486: Szia ITineris! Ez a módosításcsomagod rengeteg hibát okozott, és vissza kellene vonni: https://www.openstreetmap.org/changeset/97675486 Rengeteg új hiba lett az OSMInspectorban tegnap óta. Hetek óta ezeket javítgatom, és most nagyon sok elromlott újra. Itt van például ez: https://www.openstre -Úr Balázs</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/osO-EBBVDgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/osO-EBBVDgAJ</guid>
+        <pubDate>Mon, 18 Jan 2021 17:19:42 UTC</pubDate>
+      </item><item>
         <title>Kérdőív: OSMF 2021 Survey (több nyelven); aki tudja töltse ki - feb14-ig!: Az OSMF ( OSM Alapítvány/Foundation ) jelenlegi elnöke ( Allan Mustard ) a segítségeteket kéri, hogy merre tovább .. A válaszokat 2021 Február 14-ig várják. Sajnos magyarul nem, de angolul, németül, franciául, oroszul, és más nyelveken elérhető a kérdőív. A linken a felület egy e-mail-t kér, -Imre Samu</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/bF3SmwFBnZc/pLyLE0YhDgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/bF3SmwFBnZc/pLyLE0YhDgAJ</guid>
@@ -237,21 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/qKGTWcJZRTA/C3nUP4usBgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/qKGTWcJZRTA/C3nUP4usBgAJ</guid>
         <pubDate>Sat, 02 Jan 2021 18:05:14 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Re: Maperitive kezdő 01 - volt: Térkép színezése saját célra: Maperitive szintvonalakat akarom kicsit kipofozni. Az első képen a maperitive által generált, a másodikon a heyjoe túratervező egy részlete látható. Látszik, hogy az utóbbin 10m-es szintköz van és lekerekített. Hogy lehet ilyen szintvonalat előállítani? (az árnyalás is érdekel) [image: kép.png] -kalorobi</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/qKGTWcJZRTA/iTQZXmKoBgAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/qKGTWcJZRTA/iTQZXmKoBgAJ</guid>
-        <pubDate>Sat, 02 Jan 2021 16:48:58 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Geodéziai mérőtornyok: Szia! A járvány első körében bezárva épp raktam egy kört rendbe. Szándékaim szerint már fent van az összes, megfelelő címkézéssel. A rövid válasz: [out:json][timeout:25]; {{geocodeArea:hungary}}-&gt;.searchArea; ( way [&quot;man_made&quot;=&quot;tower&quot;] [&quot;tower:type&quot;=&quot;observation&quot;] [&quot;structure&quot;=&quot;tube&quot;] -ITineris OSM</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/fvlnSRTJIxU/qzGgDRFeBgAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/fvlnSRTJIxU/qzGgDRFeBgAJ</guid>
-        <pubDate>Fri, 01 Jan 2021 18:07:07 UTC</pubDate>
-      </item><item>
-        <title>Geodéziai mérőtornyok: Próbáltam rákeresni az OSM-ben a geodéziai mérőtornyokra. Első körben kerestem a hozzá való címkézést. Ezt találtam: man_made=survey_point. De nem tudtam tovább szűkíteni a tornyokra. Overpass turbo-ban egy egyszerű lekérdezés kiadta a man_made= survey_point-okat Néhányat megnéztem, nincsenek -Sándor Erdődy</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/fvlnSRTJIxU/adPtapRUBgAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/fvlnSRTJIxU/adPtapRUBgAJ</guid>
-        <pubDate>Fri, 01 Jan 2021 15:13:16 UTC</pubDate>
       </item>
   </channel>
 </rss>
