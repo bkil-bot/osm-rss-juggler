@@ -2,11 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      <item>
-        <title>Hungary/Vasút: removed Category:Train routes; added Category:Train routes in Hungary using HotCat (Sun, 17 Jan 2021 16:29:05 GMT) -Kjon</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Vas%C3%BAt&amp;diff=2092879&amp;oldid=1957708</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Vas%C3%BAt&amp;diff=2092879</guid>
-        <pubDate>Sun, 17 Jan 2021 16:29:05 GMT</pubDate>
-      </item>
+      
   </channel>
 </rss>
