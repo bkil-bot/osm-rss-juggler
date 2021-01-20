@@ -3,6 +3,16 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Tömegközlekedési útvonalak javítása: Én voltam :) Mostanra Buda elég jól néz ki. A fekete vonalak a rosszak még, de írtom őket kegyetlen módon. https://tools.geofabrik.de/osmi/?view=pubtrans_routes&amp;lon=19.07117&amp;lat=47.46890&amp;zoom=12&amp;overlays=ptv2_routes_invalid,ptv2_error_,ptv2_error_ways,ptv2_error_nodes A HÉV-ekkel viszont nem -Úr Balázs</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/ErCpNoP0DgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/ErCpNoP0DgAJ</guid>
+        <pubDate>Wed, 20 Jan 2021 18:01:39 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Visszavonás: Módosításcsomag: 97675486: teszi? Mintha a JOSM pont ilyen figyelmeztetést adna. Böngészőből sosem szerkesztettem, ott nem tudom, mi a helyzet. Üdv: Balázs -Úr Balázs</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/OCoa9y70DgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/OCoa9y70DgAJ</guid>
+        <pubDate>Wed, 20 Jan 2021 17:55:37 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Visszavonás: Módosításcsomag: 97675486: Szia! Nem, ebben az esetben egészen másról volt szó. Hardcore kapcsolat-szerkesztőnek tartom magam, de hétfőn valamit nagyon félrecsináltam. Ehhez majd még igyekszem információkat begyűjteni, a jövőre nézve, okulásként. A lényegen nem változtat, az már csak hab volt a tortán, hogy a JOSM-ban -ITineris OSM</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/cHJuyvDxDgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/cHJuyvDxDgAJ</guid>
@@ -242,16 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/ZBHsDWYn43I/XkmLLeBJBwAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/ZBHsDWYn43I/XkmLLeBJBwAJ</guid>
         <pubDate>Mon, 04 Jan 2021 18:08:21 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] kutya chip olvasók: Érthetne még valaki ezen fizetéstől függetlenül belépőkártyás ajtókat, könyvtárat, automatát, metró beléptetőkaput vagy ilyesmit is. A világon manapság körbevesznek a chipkártyák, és ezek csak egy része rádiós, azon belül egy része RFID, azon belül egy része kapcsolódik állatokhoz, azon belül -Thomas Nagy</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/sJGK3z72AFg/VFz94ts-BwAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/sJGK3z72AFg/VFz94ts-BwAJ</guid>
-        <pubDate>Mon, 04 Jan 2021 14:46:28 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] kutya chip olvasók: A fizetésre ott a payment nevtér, hogy lehetne összekeverni? Thomas Nagy ezt írta (időpont: 2021. jan. 4., Hét 15:19): &gt; Osmoid elkezdte használni rá a chip_scanner=yes címkét, de ennek az a &gt; baja, hogy nem derül ki róla, hogy kutyacsipek szkennelésére szolgál - &gt; lehetne -KAMI911 KAMI911</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/sJGK3z72AFg/HS5nh-s9BwAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/sJGK3z72AFg/HS5nh-s9BwAJ</guid>
-        <pubDate>Mon, 04 Jan 2021 14:29:16 UTC</pubDate>
       </item>
   </channel>
 </rss>
