@@ -3,6 +3,16 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Tömegközlekedési útvonalak javítása: Köszi. :) A HÉVekkel az a probléma, hogy a Mávhoz kerültek. ;-) Az OSMI-nak konkrétan a route type nem tetszik (route=light_rail). Az OSM Wiki szerint pedig ez jó így. Lehet, hogy az OSMI fejlesztőinek kellene jelezni, hogy ez egy téves riasztás. Hasonlóan pl. a highway=toll_gantry miatti -ITineris OSM</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/1i6d5P32DgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/1i6d5P32DgAJ</guid>
+        <pubDate>Wed, 20 Jan 2021 18:47:04 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Tömegközlekedési útvonalak javítása: On Wed, 20 Jan 2021, Úr Balázs wrote: &gt; A HÉV-ekkel viszont nem tudom, mi a probléma. valakinek van ötlete? Lepukkant a járműpark? :) Kiss Gábor -Kiss Gabor</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/EmSnPL72DgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/EmSnPL72DgAJ</guid>
+        <pubDate>Wed, 20 Jan 2021 18:42:31 UTC</pubDate>
+      </item><item>
         <title>Tömegközlekedési útvonalak javítása: Én voltam :) Mostanra Buda elég jól néz ki. A fekete vonalak a rosszak még, de írtom őket kegyetlen módon. https://tools.geofabrik.de/osmi/?view=pubtrans_routes&amp;lon=19.07117&amp;lat=47.46890&amp;zoom=12&amp;overlays=ptv2_routes_invalid,ptv2_error_,ptv2_error_ways,ptv2_error_nodes A HÉV-ekkel viszont nem -Úr Balázs</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/ErCpNoP0DgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/ErCpNoP0DgAJ</guid>
@@ -242,16 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/ZBHsDWYn43I/h9ySjGVTBwAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/ZBHsDWYn43I/h9ySjGVTBwAJ</guid>
         <pubDate>Mon, 04 Jan 2021 21:02:50 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] source:website:date=* kulcsok cseréje: lehet, hogy a pontot nem szeretni a &quot;kulcsban&quot; ? ha most : &quot;source:www.cib.hu:date&quot; Ezt nem lehetne &quot;kompatibilisre&quot; átalakítani ? pl https://taginfo.openstreetmap.org/keys/source%3Ageometry%3Adate - [ source:geometry:date ] -ből rengeteg van .. pl. source:HU:cib:date source:HU:import:cib:d -Imre Samu</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/ZBHsDWYn43I/hP8Ea3JOBwAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/ZBHsDWYn43I/hP8Ea3JOBwAJ</guid>
-        <pubDate>Mon, 04 Jan 2021 19:32:07 UTC</pubDate>
-      </item><item>
-        <title>source:website:date=* kulcsok cseréje: Sziasztok! KAMI importjaival bekerült POI-k source:website:date=* kulcsot kapnak. Itt egy példa: https://www.openstreetmap.org/node/1866146821/history (előzményeket is nézzétek meg). A probléma az, hogy gyakorlatilag minden létező ellenőrző hibásnak jelzi. A Wiki szerint (https://wiki.openst -Úr Balázs</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/ZBHsDWYn43I/XkmLLeBJBwAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/ZBHsDWYn43I/XkmLLeBJBwAJ</guid>
-        <pubDate>Mon, 04 Jan 2021 18:08:21 UTC</pubDate>
       </item>
   </channel>
 </rss>
