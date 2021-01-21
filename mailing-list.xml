@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: Februári találkozó: Érdekes adatbázis, vajon felhasználható OSM szerkesztésre? Bár érdekes, hogy a fkm táblákat a sodorvonalba teszi, pedig ott csak az elméleti pont van, a táblákat a partra szokták tenni. a fókuszcsoportra hogy gondoltál? A tűzcsapoknak is van fókuszcsoportja? akadálymetességgel kapcsolatos előadás -turistautsz...@gmail.com</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/rpOguJE-DwAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/rpOguJE-DwAJ</guid>
+        <pubDate>Thu, 21 Jan 2021 16:38:45 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Name: &gt;Megírod a módosítást és küldesz egy pull requestet a kódhoz. Ha jól értem akkor arra gondolsz, hogy konkrétan az &quot;inscription&quot; és &quot;description&quot; mezőt beleírnám a lekérdezés kódjába és az így megmódosított kódot megkérem, hogy tegyék a helyére... De sajnos fogalmam sincsen hogy hol van ez és -Rózsa Gza (Géza) István Özséb</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/BEBDo_Q8DwAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/BEBDo_Q8DwAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/5M3pIym6qOQ/zVB9twFICAAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/5M3pIym6qOQ/zVB9twFICAAJ</guid>
         <pubDate>Sun, 10 Jan 2021 11:16:53 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] source:website:date=* kulcsok cseréje: igaz. Általában nincs source, tehát nem mögé kerül, hanem az lesz az értéke. Legalábbis én csak kivételes esetekben rakok objektumonként source-t. És nem csak geometriát viszek fel, hanem nyitvatartást, kerekesszékes járhatóságot, címet, amit megtalálok. Így az import például kiegészíti a -Feri Veres</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/ZBHsDWYn43I/73Ogi3tHCAAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/ZBHsDWYn43I/73Ogi3tHCAAJ</guid>
-        <pubDate>Sun, 10 Jan 2021 11:07:18 UTC</pubDate>
       </item>
   </channel>
 </rss>
