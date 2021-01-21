@@ -3,6 +3,16 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Visszavonás: Módosításcsomag: 97675486: Bocs, Ákos, igazán nem szándékoztam megkérdőjelezni. Ebből a szempontból talán egy új kérdésként kellett volna fölvessem, de nagyon ide tartozónak véltem. &gt; Mintha a JOSM pont ilyen figyelmeztetést adna. Böngészőből sosem &gt; szerkesztettem, ott nem tudom, mi a helyzet. Hát szerintem éppen a -Rózsa Gza (Géza) István Özséb</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/0toFiyQoDwAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/0toFiyQoDwAJ</guid>
+        <pubDate>Thu, 21 Jan 2021 09:47:46 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Tömegközlekedési útvonalak javítása: Ezt már jelezte valaki, de elutasították. Mindenesetre jeleztem én is, hátha megfontolják. https://github.com/geofabrik/osmi_pubtrans3/issues/2#issuecomment-764487642 &gt; Mint ahogy már jó ideje vannak akkus trolik, így felsővezeték &gt; nélkül is tudnak közlekedni. Nyitottam erre is egy issue-t. -Úr Balázs</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/v15MebcnDwAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/v15MebcnDwAJ</guid>
+        <pubDate>Thu, 21 Jan 2021 09:39:58 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Tömegközlekedési útvonalak javítása: Köszi. :) A HÉVekkel az a probléma, hogy a Mávhoz kerültek. ;-) Az OSMI-nak konkrétan a route type nem tetszik (route=light_rail). Az OSM Wiki szerint pedig ez jó így. Lehet, hogy az OSMI fejlesztőinek kellene jelezni, hogy ez egy téves riasztás. Hasonlóan pl. a highway=toll_gantry miatti -ITineris OSM</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/1i6d5P32DgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/1i6d5P32DgAJ</guid>
@@ -242,16 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/ZBHsDWYn43I/fMGH-y9mBwAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/ZBHsDWYn43I/fMGH-y9mBwAJ</guid>
         <pubDate>Thu, 07 Jan 2021 14:18:44 UTC</pubDate>
-      </item><item>
-        <title>Re: OsmAnd képernyő olvasóval: Sziasztok! Az OsmAnd magyar fordítása (legalábbis Androidra) teljes, úgyhogy alighanem valahol a forráskódban kellene bogarászni… Gábor turistautsz...@gmail.com a következőt írta (2020. november 20., péntek, 14:42:00 UTC+1): &gt; &gt; Találtam 2 cimkézetlen gombot az OsmAnd-ban. &gt; Biztos van több is, -gabor...@gmail.com</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/ip1G4aODv2w/1E_rwP3VBwAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/ip1G4aODv2w/1E_rwP3VBwAJ</guid>
-        <pubDate>Wed, 06 Jan 2021 12:56:00 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] source:website:date=* kulcsok cseréje: Szerintem ez túlbonyolítás, és a source és source:date kulcsokat támogatom. source:HU:import:cib:date nekem semmivel sem jobb megoldás, mint a source:date és a source külön. Szerintem nem praktikus ha a kulcsban akarunk információt tárolni, és nem az értékben, és itt nincs is szükség rá, mert egy -Tamás Vásony</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/ZBHsDWYn43I/h9ySjGVTBwAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/ZBHsDWYn43I/h9ySjGVTBwAJ</guid>
-        <pubDate>Mon, 04 Jan 2021 21:02:50 UTC</pubDate>
       </item>
   </channel>
 </rss>
