@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: Számozott közutak, Was: Re: [osm-hu] Februári találkozó: Igen, én is ezeket szoktam használni. Viszont ideje lenne már összerakni egy Wiki oldalt az ilyen jó kis forrásoknak (bocs, ha már van). Ilyen például az OKIR (Országos Környezetvédelmi Információs Rendszer), amin számunkra érdekes POI-tippeket jelentenek a víznyelők, kunhalmok, földvárak, -ITineris OSM</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/QZGTTXt_DwAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/QZGTTXt_DwAJ</guid>
+        <pubDate>Fri, 22 Jan 2021 12:28:17 UTC</pubDate>
+      </item><item>
         <title>Re: Számozott közutak, Was: Re: [osm-hu] Februári találkozó: Útszámok ellenőrzéshez kis segítség: 4 év után frissült a KIRA: http://kira.gov.hu/kira/ Illetve a NAP portál is kezd egész használható lenni, és kiadja magából WFS-en/WMS-en keresztül a friss közúthálózatot: https://naphub.kozut.hu/geoserver/nhp_21616037/wfs_21616037/ows?service=wfs&amp;version=1.0.0 -Kádár Iván</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/IFGVO3J-DwAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/IFGVO3J-DwAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/QOYQobikCAAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/QOYQobikCAAJ</guid>
         <pubDate>Mon, 11 Jan 2021 15:35:55 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Name tulajdonság villamosvonalakon: On Mon, 11 Jan 2021, turistautsz...@gmail.com wrote: &gt; A kereshetőségre azért nem árt figyelni! &gt; Persze tudom, hogy nem kimenetnek térképezünk, de ha bármi egyediséget &gt; képvisel a név, ami tájékozódási pont lehet, akkor jó ha kereshető. Egyetertek addig, hogy a nev attol nev, hogy egyedi. -Kiss Gabor</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/oHh5zjBiCwAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/oHh5zjBiCwAJ</guid>
-        <pubDate>Mon, 11 Jan 2021 15:00:47 UTC</pubDate>
       </item>
   </channel>
 </rss>
