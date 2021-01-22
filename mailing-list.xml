@@ -3,6 +3,16 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Februári találkozó: Itt van egy elég jó térkép, de persze nem használható fel rajzoláshoz: https://danubeportal.com/home/bridges/16420/sk Itt szépen látszanak a metszetek. De ha lenna egy olyan adat a wikipédiában, hogy a Komárom vasúti híd a 1770.4-es folyamkm-nél van, akkor mindjárt lehetne rá hivatkozni, hiszen -turistautsz...@gmail.com</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/yA6rEg-DDwAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/yA6rEg-DDwAJ</guid>
+        <pubDate>Fri, 22 Jan 2021 13:33:50 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Februári találkozó: Jut eszembe az autóutak km táblái is az út mellett vannak, és az is az útra vonatkozik, csak ez esetben a távolság nem olyan nagy, mint egy széles folyó esetén. Az eredeti felvetés az OSM hour-on a Szigetközzel indult most, azon a környéken pedig jelenleg nem sok folyam km érték van felvéve. Jó -turistautsz...@gmail.com</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/zoH--kyCDwAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/zoH--kyCDwAJ</guid>
+        <pubDate>Fri, 22 Jan 2021 13:19:57 UTC</pubDate>
+      </item><item>
         <title>Re: Számozott közutak, Was: Re: [osm-hu] Februári találkozó: Igen, én is ezeket szoktam használni. Viszont ideje lenne már összerakni egy Wiki oldalt az ilyen jó kis forrásoknak (bocs, ha már van). Ilyen például az OKIR (Országos Környezetvédelmi Információs Rendszer), amin számunkra érdekes POI-tippeket jelentenek a víznyelők, kunhalmok, földvárak, -ITineris OSM</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/QZGTTXt_DwAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/QZGTTXt_DwAJ</guid>
@@ -242,16 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/653SpGrxw9A/c_iklX3yCAAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/653SpGrxw9A/c_iklX3yCAAJ</guid>
         <pubDate>Tue, 12 Jan 2021 15:21:04 UTC</pubDate>
-      </item><item>
-        <title>openstreetmap.hu új POI kapcsolgató: Sziasztok! Felraktam egy új verziót a weblapból. A legfőbb változás a POI kereső sokkal szebb és jobb lett. Más javítások is. Főként technikai dolgok, JS/CSS betöltések, build, vendor verziók frissítése, ES6-ra átírások. Köszi Fodor Ferinek a fejlesztésekért! https://www.openstreetmap.hu/ -Feri Veres</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/mJ7qmRHoBv4/9UGrevSlCAAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/mJ7qmRHoBv4/9UGrevSlCAAJ</guid>
-        <pubDate>Mon, 11 Jan 2021 15:58:32 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Name tulajdonság villamosvonalakon: Most ilyen van a sínpárra téve, hogy name=18, 19, 47, 48, 49 Ez egyáltalán nem kereshető. A viszonylatok relációjában lévő név (azaz name=47 =&gt; Deák Ferenc tér M) viszont sokkal bőbeszédűbb és hasznos. Ez természetesen marad a relációban. Eddig csak megerősítést kaptam, szóval ha időm engedi, -Úr Balázs</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/QOYQobikCAAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/QOYQobikCAAJ</guid>
-        <pubDate>Mon, 11 Jan 2021 15:35:55 UTC</pubDate>
       </item>
   </channel>
 </rss>
