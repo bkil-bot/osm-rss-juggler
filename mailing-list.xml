@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: Overpass: Helló! a.) Hogyan lehet az Overpass Turbon olyan lekérdezést csinálni, ami &gt; visszaadja azokat a (valamilyen feltételnek megfelelő) pontokat, amik NEM &gt; részei egy vonalnak sem? (Pl. az OSMI sír azokért a bus_stop-okért, amik &gt; nincsenek highway-re húzva. &gt; https://overpass-turbo.eu/s/12JD -dgtezai</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/Pry5NKnOC68/XH27nOp4AAAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/Pry5NKnOC68/XH27nOp4AAAJ</guid>
+        <pubDate>Sun, 24 Jan 2021 12:55:43 UTC</pubDate>
+      </item><item>
         <title>Re: Duna folyamkilométerek, Was: Re: [osm-hu] Februári találkozó: A Wikipédia sok hídról tartalmaz saját szócikket, az fkm adatokat először azokba kezdtem beírni. Az angol listából a következők hiányoztak (a listát nem bővítettem): Mária Valéria-híd, Vámosszabadi-híd, Monostori-híd. Azt hiszem, mindegyiknek volt szócikke, így oda be tudtam írni (vagy be fogom -hungarian_user</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/bL6P86nODwAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/bL6P86nODwAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/_4XmqUkfDQAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/_4XmqUkfDQAJ</guid>
         <pubDate>Thu, 14 Jan 2021 18:43:00 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Name: On Thu, 14 Jan 2021, Rózsa Gza (Géza) István Özséb wrote: &gt; Ilyenmódon tehát szerintem sokezer tábla &quot;name&quot; tagját ki kellene üríteni &gt; és a feliratát áttenni &quot;inscription&quot;-be. &gt; Ugye jól gondolom a fentieket? +1 Illetve az emlektablak eseteben talan megengedheto, hogy a name maradjon Gipsz -Kiss Gabor</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/EjmJjiEbDQAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/EjmJjiEbDQAJ</guid>
-        <pubDate>Thu, 14 Jan 2021 17:26:50 UTC</pubDate>
       </item>
   </channel>
 </rss>
