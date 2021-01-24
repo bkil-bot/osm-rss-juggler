@@ -3,6 +3,16 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Overpass: Köszi, de közben gabro00-tól kaptam egy megoldást, ami alapján össze tudtam hozni a másik lekérdezést is. Az ő verziója kevésbé kacsintgató smiley-s; ott még nagyjából tudom követni, melyik eredményhalmazzal mi történik. Lehet, hogy overpassos szempontból nem annyira &quot;szép&quot;, már amennyire ez -ITineris OSM</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/Pry5NKnOC68/19OMHZd8AAAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/Pry5NKnOC68/19OMHZd8AAAJ</guid>
+        <pubDate>Sun, 24 Jan 2021 14:03:02 UTC</pubDate>
+      </item><item>
+        <title>Re: Overpass: Ez talán jobb: https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_API_by_Example#Find_all_bus_stops_which_are_not_included_in_a_relation ITineris OSM a következőt írta (2021. január 23., szombat, 13:06:59 UTC+1): &gt; Sziasztok! &gt; &gt; a.) Hogyan lehet az Overpass Turbon olyan lekérdezést -dgtezai</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/Pry5NKnOC68/v9Pll_J6AAAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/Pry5NKnOC68/v9Pll_J6AAAJ</guid>
+        <pubDate>Sun, 24 Jan 2021 13:32:56 UTC</pubDate>
+      </item><item>
         <title>Re: Overpass: Helló! a.) Hogyan lehet az Overpass Turbon olyan lekérdezést csinálni, ami &gt; visszaadja azokat a (valamilyen feltételnek megfelelő) pontokat, amik NEM &gt; részei egy vonalnak sem? (Pl. az OSMI sír azokért a bus_stop-okért, amik &gt; nincsenek highway-re húzva. &gt; https://overpass-turbo.eu/s/12JD -dgtezai</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/Pry5NKnOC68/XH27nOp4AAAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/Pry5NKnOC68/XH27nOp4AAAJ</guid>
@@ -242,16 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/j0GJlOQlDQAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/j0GJlOQlDQAJ</guid>
         <pubDate>Thu, 14 Jan 2021 20:44:03 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Name: On Thu, 14 Jan 2021, Kiss Gabor wrote: Fokozom. Van négy ojjektum az országban, aminek a neve &quot;fa&quot;. https://www.openstreetmap.org/search?query=fa%2C%20magyarorsz%C3%A1g#map=19/45.95963/17.46442 Persze megértem, nyilván a helyiek így hívják. Különösen a 2696709606-os objektumot az erdő -Kiss Gabor</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/vVz9f70fDQAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/vVz9f70fDQAJ</guid>
-        <pubDate>Thu, 14 Jan 2021 18:51:18 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Name (was: Name tulajdonság villamosvonalakon): Én a &quot;destination=Étterem&quot; címkét tenném fel arra az útra, amerre a tábla mutat. https://wiki.openstreetmap.org/wiki/Key:destination Maga a tábla pedig &quot;information=guidepost&quot; lenne. https://wiki.openstreetmap.org/wiki/Key:information -- Balázs -Úr Balázs</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/_4XmqUkfDQAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/_4XmqUkfDQAJ</guid>
-        <pubDate>Thu, 14 Jan 2021 18:43:00 UTC</pubDate>
       </item>
   </channel>
 </rss>
