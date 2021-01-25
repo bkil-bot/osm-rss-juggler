@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Februári találkozó: On Mon, 25 Jan 2021, Úr Balázs wrote: &gt; A magyarországi buszútvonalak listája eléggé szegényes az &gt; OpenStreetMapon. Többször is kaptunk már ígéretet arra, hogy a budapesti &gt; tömegközlekedéshez hasonlóan importálva lesznek a megállók és az &gt; útvonalak. Ha jól emlékszem, erre lassan 10 éve -Kiss Gabor</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/KteCFpHdAAAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/KteCFpHdAAAJ</guid>
+        <pubDate>Mon, 25 Jan 2021 19:40:09 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Februári találkozó: Én jelentkeznék egy előadással (másolható szöveg a wikibe, hírekbe, miegyhova): Előadó: Úr Balázs Cím: Buszútvonalak hozzáadása szakszerűen Rövid összefoglaló: A magyarországi buszútvonalak listája eléggé szegényes az OpenStreetMapon. Többször is kaptunk már ígéretet arra, hogy a budapesti -Úr Balázs</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/F49XghDcAAAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/F49XghDcAAAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/EvOyxK5WDgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/EvOyxK5WDgAJ</guid>
         <pubDate>Mon, 18 Jan 2021 17:49:23 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Visszavonás: Módosításcsomag: 97675486: On Mon, 18 Jan 2021, Úr Balázs wrote: &gt; Ez a módosításcsomagod rengeteg hibát okozott, és vissza kellene vonni: &gt; https://www.openstreetmap.org/changeset/97675486 Csak hogy tanuljak: technikailag hogy tortenik az ilyesmi? Valakinek kozvetlen hozzaferese van a Git repohoz? Vagy bizonyos -Kiss Gabor</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/-0rGYpBWDgAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/-0rGYpBWDgAJ</guid>
-        <pubDate>Mon, 18 Jan 2021 17:47:12 UTC</pubDate>
       </item>
   </channel>
 </rss>

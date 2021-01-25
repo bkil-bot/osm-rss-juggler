@@ -2,6 +2,21 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      
+      <item>
+        <title>Hungary/Találkozók/2021-02-22-busz: bejelentés szövegének frissítése, GetTogether link (Mon, 25 Jan 2021 19:49:47 GMT) -Bkil</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Tal%C3%A1lkoz%C3%B3k/2021-02-22-busz&amp;diff=2098997&amp;oldid=2098994</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Tal%C3%A1lkoz%C3%B3k/2021-02-22-busz&amp;diff=2098997</guid>
+        <pubDate>Mon, 25 Jan 2021 19:49:47 GMT</pubDate>
+      </item><item>
+        <title>Hungary/Találkozók/2021-02-22-busz: genesis (Mon, 25 Jan 2021 19:37:30 GMT) -Bkil</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Tal%C3%A1lkoz%C3%B3k/2021-02-22-busz&amp;diff=2098994&amp;oldid=0</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Tal%C3%A1lkoz%C3%B3k/2021-02-22-busz&amp;diff=2098994</guid>
+        <pubDate>Mon, 25 Jan 2021 19:37:30 GMT</pubDate>
+      </item><item>
+        <title>Hungary/Találkozók: feb 22 (még változhat) Buszútvonalak hozzáadása szakszerűen (Mon, 25 Jan 2021 19:41:11 GMT) -Bkil</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Tal%C3%A1lkoz%C3%B3k&amp;diff=2098996&amp;oldid=2094248</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Tal%C3%A1lkoz%C3%B3k&amp;diff=2098996</guid>
+        <pubDate>Mon, 25 Jan 2021 19:41:11 GMT</pubDate>
+      </item>
   </channel>
 </rss>
