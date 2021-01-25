@@ -3,6 +3,16 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Hangos utastájékoztató: Kis csomópontokban még elmegy a dolog, de ahol több 100méterre is lehet a kijelző, esélyed sincs megtalálni, merre keressed, ha nincs a pontos helye a térképen! Úr Balázs a következőt írta (2021. január 25., hétfő, 16:59:18 UTC+1): &gt; 2021. 01. 25. 15:53 keltezéssel, turistautsz...@gmail.com -turistautsz...@gmail.com</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/qdbqWP-npto/_DhWi07SAAAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/qdbqWP-npto/_DhWi07SAAAJ</guid>
+        <pubDate>Mon, 25 Jan 2021 16:13:49 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Hangos utastájékoztató: Ahogy a wiki is írja, a &quot;passenger_information_display=yes&quot; címkét kell rátenni a buszmegálló és a villamosmegálló POI-ra is. Én nem jelölném a kijelző pontos helyét. Hasonló eset az esőbeálló, az is a megállók &quot;shelter=yes&quot; paramétere, és nem rajzolunk külön esőbeálló POI-t a megállóba. Régen -Úr Balázs</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/qdbqWP-npto/HVSW-oPRAAAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/qdbqWP-npto/HVSW-oPRAAAJ</guid>
+        <pubDate>Mon, 25 Jan 2021 15:59:18 UTC</pubDate>
+      </item><item>
         <title>Hangos utastájékoztató: https://wiki.openstreetmap.org/wiki/Key:passenger_information_display Mi a teendő akkor ha a bkk futár információs táblája a a busz és villamos megálló között van valahol elhelyezve. Vagy ilyenkor kellene valami kapcsolatot csinálni az adott közlekedési csomópont megállóiból? Valamint a hangos -turistautsz...@gmail.com</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/qdbqWP-npto/vOthaunNAAAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/qdbqWP-npto/vOthaunNAAAJ</guid>
@@ -242,16 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/bF3SmwFBnZc/pLyLE0YhDgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/bF3SmwFBnZc/pLyLE0YhDgAJ</guid>
         <pubDate>Mon, 18 Jan 2021 01:30:39 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Name: On Thu, 14 Jan 2021, Rózsa Gza (Géza) István Özséb wrote: &gt; kifejezést, vagy na pontosan ez lenne a megjelenítők dolga, hogy a többi &gt; tag-ból ezt kiolvassa ha akarja? Az lenne. De valaki szerette volna kényszeríteni a default webes renderert, hogy a tegye ki az adott feliratot a képre. És -Kiss Gabor</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/a7OP2ixDDQAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/a7OP2ixDDQAJ</guid>
-        <pubDate>Fri, 15 Jan 2021 05:40:39 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Name: :) Határeset .. nem dől össze emiatt a világ .. Kezdőknél a beszokási időszakban szerintem nem érdemes szólni ilyen apróság miatt. Emlékszem - lelkes kezdő koromban - kint a terepen ... nem tudtam fejből, hogy egy-egy számomra új POI-t, hogy kell címkézni. Emiatt .. leszúrtam egy pontot és adtam -Imre Samu</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/Dmo2GYMqDQAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/Dmo2GYMqDQAJ</guid>
-        <pubDate>Thu, 14 Jan 2021 22:08:42 UTC</pubDate>
       </item>
   </channel>
 </rss>
