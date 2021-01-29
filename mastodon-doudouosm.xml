@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>Video “How to create a toolbar preset in #JOSM, so you can apply your own tags in one click”: https://peertube.openstreetmap.fr/videos/watch/cb6275ba-204e-49e8-88ed-e8e56de6d2bb Summary: Click “Presets” menu &amp;gt; “Create Presets”, then right-click the toolbar and customize it to add the preset as a button. #OpenStreetMap #tips</title>
+        <link>https://en.osm.town/@Doudouosm/105636011178671640</link>
+        <guid>https://en.osm.town/@Doudouosm/105636011178671640</guid>
+        <pubDate>Thu, 28 Jan 2021 23:46:52 +0000</pubDate>
+      </item><item>
         <title>Tips for working on #MapRoulette tasks in your preferred area: - Nearby Tasks - Virtual Challenges Read more: https://blog.maproulette.org/2021/01/25/tips-for-solving-tasks-in-a-small-area/ #OpenStreetMap #tips</title>
         <link>https://en.osm.town/@Doudouosm/105628673757603050</link>
         <guid>https://en.osm.town/@Doudouosm/105628673757603050</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/105254989093642486</link>
         <guid>https://en.osm.town/@Doudouosm/105254989093642486</guid>
         <pubDate>Sun, 22 Nov 2020 16:47:56 +0000</pubDate>
-      </item><item>
-        <title>Nice idea. #Plogging is a combination of jogging with picking up litter (Swedish verb plocka upp (pick up) + jogga (jog)). And there is even an app for that. #WePlog https://play.google.com/store/apps/details?id=com.nebulae.weplog&amp;amp;hl=en&amp;amp;gl=US Powered by #OpenStreetMap as base map. It’s not without reminding #OpenLitterMap https://openlittermap.com, but this one is more about observation, whereas plogging is really taking action.</title>
-        <link>https://en.osm.town/@Doudouosm/105216840278996384</link>
-        <guid>https://en.osm.town/@Doudouosm/105216840278996384</guid>
-        <pubDate>Sun, 15 Nov 2020 23:06:11 +0000</pubDate>
       </item>
   </channel>
 </rss>
