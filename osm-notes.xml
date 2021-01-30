@@ -3,6 +3,31 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Krisztinaváros, 1st district) / * 2021 January 30 19:47 vasony Updated: A kép innen készült, és felfelé néz / https://www.openstreetmap.org/node/4651923029</title>
+        <link>https://www.openstreetmap.org/note/2396968#c5398440</link>
+        <guid>https://www.openstreetmap.org/note/2396968#c5398440</guid>
+        <pubDate>Sat, 30 Jan 2021 19:47:47 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Krisztinaváros, 1st district) / * 2021 January 30 19:38 vasony Updated: Az a fehér fal ami a képen van, lehetne tájékozódási pont, lehet hogy a felső szakaszról van szó.</title>
+        <link>https://www.openstreetmap.org/note/2396968#c5398406</link>
+        <guid>https://www.openstreetmap.org/note/2396968#c5398406</guid>
+        <pubDate>Sat, 30 Jan 2021 19:38:27 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Petneházyrét, 2nd district) / * 2021 January 30 19:37 kogutowicz-mano Resolved: A name= tag leírásában nem szerepel olyan követelmény, hogy egy utca nevét meg kell találnod a budapesti utcanévjegyzékben. Szóval a Petneházy köz teljesen illeszkedett volna az OpenStreepMap szellemiségébe. De legyen kedved szerint! Nem ragaszkodom a névhez. Csak rávilágítottam a gondolatmenetedben fellelhető hibákra.</title>
+        <link>https://www.openstreetmap.org/note/2505656#c5398404</link>
+        <guid>https://www.openstreetmap.org/note/2505656#c5398404</guid>
+        <pubDate>Sat, 30 Jan 2021 19:37:33 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Víziváros, 1st district) / * 2021 January 30 19:33 vasony Resolved: Vettem fel rá feladatot maguknak.</title>
+        <link>https://www.openstreetmap.org/note/2499602#c5398379</link>
+        <guid>https://www.openstreetmap.org/note/2499602#c5398379</guid>
+        <pubDate>Sat, 30 Jan 2021 19:33:34 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Petneházyrét, 2nd district) / * 2021 January 30 19:19 vasony Updated: A friss fejleménynek nyoma kellene legyen a határozatokban, de ennek nincs. Jelenlegi helyzet Budapesten rém egyszerű, mivel létezik egy hivatalos utcanév jegyzék. Ha abba nincs, és a helyszínen sincs enne semmilyen nyoma, akkor a többi csak lépcsőházi okoskodás.</title>
+        <link>https://www.openstreetmap.org/note/2505656#c5398344</link>
+        <guid>https://www.openstreetmap.org/note/2505656#c5398344</guid>
+        <pubDate>Sat, 30 Jan 2021 19:19:17 +0000</pubDate>
+      </item><item>
         <title>new note (near Újpest, 4th district) / * 2021 January 30 16:51 StinyGoat Created: Unable to answer &amp;quot;What are the opening hours of Vegyesbolt, lottózó (Convenience Store)?&amp;quot; for https://osm.org/node/2939324418 via StreetComplete 29.0: / It&amp;#39;s a beauty corner now / Attached photo(s): / https://westnordost.de/p/28192.jpg</title>
         <link>https://www.openstreetmap.org/note/2518600#c5397917</link>
         <guid>https://www.openstreetmap.org/note/2518600#c5397917</guid>
@@ -257,26 +282,6 @@
         <link>https://www.openstreetmap.org/note/2516573#c5393488</link>
         <guid>https://www.openstreetmap.org/note/2516573#c5393488</guid>
         <pubDate>Fri, 29 Jan 2021 11:27:17 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Petneházyrét, 2nd district) / * 2021 January 28 20:49 vasony Resolved: szép kiadvány én is veszek egyet, de sajnos ez nem hivatalos. miután már megszüntettem az utcát, ezt lezárom. írok az önkormányzatnak párhuzamosan.</title>
-        <link>https://www.openstreetmap.org/note/2505656#c5392045</link>
-        <guid>https://www.openstreetmap.org/note/2505656#c5392045</guid>
-        <pubDate>Thu, 28 Jan 2021 20:49:24 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Víziváros, 1st district) / * 2021 January 28 20:30 vasony Resolved: igen látom, akkor minden értek, törlöm.</title>
-        <link>https://www.openstreetmap.org/note/2504173#c5392024</link>
-        <guid>https://www.openstreetmap.org/note/2504173#c5392024</guid>
-        <pubDate>Thu, 28 Jan 2021 20:30:57 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Víziváros, 1st district) / * 2021 January 28 20:26 kogutowicz-mano Updated: zsolt.d a te embered. :-) / Én csak a lépcsőt szüntettem meg.</title>
-        <link>https://www.openstreetmap.org/note/2504173#c5392016</link>
-        <guid>https://www.openstreetmap.org/note/2504173#c5392016</guid>
-        <pubDate>Thu, 28 Jan 2021 20:26:18 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Petneházyrét, 2nd district) / * 2021 January 28 20:22 kogutowicz-mano Updated: 2013: / https://varosvedo.hu/termek/budapesti-utcanevek-a-z/</title>
-        <link>https://www.openstreetmap.org/note/2505656#c5392011</link>
-        <guid>https://www.openstreetmap.org/note/2505656#c5392011</guid>
-        <pubDate>Thu, 28 Jan 2021 20:22:44 +0000</pubDate>
       </item>
   </channel>
 </rss>
