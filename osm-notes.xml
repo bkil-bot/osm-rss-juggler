@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Újlipótváros, 13th district) / * 2021 January 28 09:57 Barnabah Created: Pállai Zsolt / * 2021 January 28 18:19 kogutowicz-mano Updated: Mi is itt a teendő? / * 2021 January 30 01:29 urbalazs Resolved: Ez a funkció a térkép hibáinak jelzésére szolgál. Magánjellegű információk tárolásához nem használható.</title>
+        <link>https://www.openstreetmap.org/note/2515493#c5395516</link>
+        <guid>https://www.openstreetmap.org/note/2515493#c5395516</guid>
+        <pubDate>Sat, 30 Jan 2021 01:29:16 +0000</pubDate>
+      </item><item>
         <title>closed note (near Szarvashegy, Szentendre) / * 2020 November 29 11:38 Created: tölgy bonsai / * 2021 January 30 01:16 urbalazs Resolved: Szerintem nem tudunk minden fát egyesével megrajzolni.</title>
         <link>https://www.openstreetmap.org/note/2446396#c5395505</link>
         <guid>https://www.openstreetmap.org/note/2446396#c5395505</guid>
@@ -277,11 +282,6 @@
         <link>https://www.openstreetmap.org/note/2515493#c5390417</link>
         <guid>https://www.openstreetmap.org/note/2515493#c5390417</guid>
         <pubDate>Thu, 28 Jan 2021 09:57:21 +0000</pubDate>
-      </item><item>
-        <title>new note (near Újpest, 4th district) / * 2021 January 28 08:17 Created: Ha beírom a címet, hogy 1045 Budapest Istvántelki út 54, rossz helyre teszi le az alakzatot. (Odahúztam most a helyes helyre.) / Sajnos az utca elnevezés sem jó. Nem tavasz utcának kellene odaírva lenni, hanem Istvántelki út.</title>
-        <link>https://www.openstreetmap.org/note/2515373#c5390165</link>
-        <guid>https://www.openstreetmap.org/note/2515373#c5390165</guid>
-        <pubDate>Thu, 28 Jan 2021 08:17:50 +0000</pubDate>
       </item>
   </channel>
 </rss>
