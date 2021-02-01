@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>98-as busz útvonal: Sziasztok! Van itt valaki, aki a BKK-s útvonalakkal hivatalból foglalkozik, importál, karbantart? OSMI-s hibajavítás kapcsán futottam bele, hogy a 98-as busznál a háromból az egyik kapcsolat duplikáltnak tűnik, de egy közbülső megállóval, mint végállomás névvel. A másik kettő kapcsolat -ITineris OSM</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/A6g5bHiaQ_g/WZ__H_QRAgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/A6g5bHiaQ_g/WZ__H_QRAgAJ</guid>
+        <pubDate>Mon, 01 Feb 2021 09:35:16 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] POI és épület: +1 Kami leírására (hogy több &quot;szavazat&quot; legyen, ha közvélemény... De szerintem ez a helyes megoldás is egyben.) Érdekes helyek (POI-k) 4 féle ábrázolási lehetősége https://www.osmtippek.hu/josm/erdekes-helyek-abrazolasai/ (6 éve írtam, lehet, hogy már van benne pontatlanság ;-) A &quot;C&quot;-t a cikk -Feri Veres</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/AGASP6Nh574/1ygkpEbPAQAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/AGASP6Nh574/1ygkpEbPAQAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/EmSnPL72DgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/EmSnPL72DgAJ</guid>
         <pubDate>Wed, 20 Jan 2021 18:42:31 UTC</pubDate>
-      </item><item>
-        <title>Tömegközlekedési útvonalak javítása: Én voltam :) Mostanra Buda elég jól néz ki. A fekete vonalak a rosszak még, de írtom őket kegyetlen módon. https://tools.geofabrik.de/osmi/?view=pubtrans_routes&amp;lon=19.07117&amp;lat=47.46890&amp;zoom=12&amp;overlays=ptv2_routes_invalid,ptv2_error_,ptv2_error_ways,ptv2_error_nodes A HÉV-ekkel viszont nem -Úr Balázs</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/ErCpNoP0DgAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/ErCpNoP0DgAJ</guid>
-        <pubDate>Wed, 20 Jan 2021 18:01:39 UTC</pubDate>
       </item>
   </channel>
 </rss>

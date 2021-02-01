@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Krisztinaváros, 1st district) / * 2021 January 30 08:41 H4k1 Created: A járda itt tovább folytatódik. / via StreetComplete 29.1 / * 2021 February 1 10:37 infeeeee Resolved: Megrajzoltam a folytatását a Krisztina térig: https://www.openstreetmap.org/changeset/98503049</title>
+        <link>https://www.openstreetmap.org/note/2517479#c5403755</link>
+        <guid>https://www.openstreetmap.org/note/2517479#c5403755</guid>
+        <pubDate>Mon, 01 Feb 2021 10:37:18 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Lágymányos, 11th district) / * 2021 January 14 16:46 The Cloud Created: Valahogy jelölni kellene, hogy ez fast food és ivós hely is egyszerre. / * 2021 February 1 10:32 infeeeee Resolved: Szerintem a mostani címkéknél nem lehet pontosabban ezt: / amenity=pub =&amp;gt; tehát kocsma, ivós hely. / food=yes és lunch=yes =&amp;gt; lehet enni illetve ebédelni. / fast_food=yes ezt most hozzáadtam: https://www.openstreetmap.org/changeset/98502414 / Szóval szerintem a jelenlegi jelölés megfelelő, azzal nem tudunk mit kezdeni, hogy a megjelenítők nem tudnak mit kezdeni ezzel, elég ritka ez a kombináció. / Illetve ha az evés fontosabb mint az ivás, akkor meg lehetne fordítani, és mint gyorsétterem, amenity=fast_food de nem találok címkét amivel jelölni lehetne, hogy ivós hely is. Facebook oladlukon &amp;quot;beer garden&amp;quot;-ként vannak meghatározva, de az openstreetmapen ez mást jelent: https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dbiergarten</title>
+        <link>https://www.openstreetmap.org/note/2497989#c5403745</link>
+        <guid>https://www.openstreetmap.org/note/2497989#c5403745</guid>
+        <pubDate>Mon, 01 Feb 2021 10:32:32 +0000</pubDate>
+      </item><item>
+        <title>new note (near Dél-Keleti Gazdasági Terület, Győrikapu, Sopron) / * 2021 February 1 09:31 Mamutinka Created: Forwarding anonymous report from #Mapy.cz user, please verify: GySEV Cargo Logisztikai központ.</title>
+        <link>https://www.openstreetmap.org/note/2520739#c5403588</link>
+        <guid>https://www.openstreetmap.org/note/2520739#c5403588</guid>
+        <pubDate>Mon, 01 Feb 2021 09:31:44 +0000</pubDate>
+      </item><item>
         <title>new note (near Erzsébetváros, 7th district) / * 2021 February 1 03:33 Created: 1074 Budapest, VII. ker. Dohány u. 29.</title>
         <link>https://www.openstreetmap.org/note/2520338#c5402929</link>
         <guid>https://www.openstreetmap.org/note/2520338#c5402929</guid>
@@ -197,36 +212,6 @@
         <link>https://www.openstreetmap.org/note/2502023#c5394965</link>
         <guid>https://www.openstreetmap.org/note/2502023#c5394965</guid>
         <pubDate>Fri, 29 Jan 2021 19:38:38 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Ófalu, Törökbálint) / * 2021 January 29 19:38 grin Resolved: 100%.</title>
-        <link>https://www.openstreetmap.org/note/2482346#c5394964</link>
-        <guid>https://www.openstreetmap.org/note/2482346#c5394964</guid>
-        <pubDate>Fri, 29 Jan 2021 19:38:38 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Ófalu, Törökbálint) / * 2021 January 2 12:05 grin Created: Bridge, path / * 2021 January 29 19:38 grin Resolved: ok</title>
-        <link>https://www.openstreetmap.org/note/2482345#c5394963</link>
-        <guid>https://www.openstreetmap.org/note/2482345#c5394963</guid>
-        <pubDate>Fri, 29 Jan 2021 19:38:38 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Bányatelep, Pilisvörösvár) / * 2019 September 16 14:52 Created: A small stream is crossing the road, which does&amp;#39;t have bridge over it, so passing this point with car is not possible. / * 2021 January 29 19:38 grin Resolved: ok, road closed ;-)</title>
-        <link>https://www.openstreetmap.org/note/1928328#c5394962</link>
-        <guid>https://www.openstreetmap.org/note/1928328#c5394962</guid>
-        <pubDate>Fri, 29 Jan 2021 19:38:38 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Barackos, Alvég, Budakeszi) / * 2021 January 2 12:05 grin Created: gate locked / * 2021 January 28 18:35 kogutowicz-mano Updated: Akkor miért nem szerkeszted meg az objektumot? / * 2021 January 29 19:38 grin Resolved: Mi volt az értelme ennek a kommentnek? (Semmi.) / Done.</title>
-        <link>https://www.openstreetmap.org/note/2482340#c5394961</link>
-        <guid>https://www.openstreetmap.org/note/2482340#c5394961</guid>
-        <pubDate>Fri, 29 Jan 2021 19:38:37 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Páty) / * 2019 July 21 09:38 Created: szikla / * 2021 January 29 19:38 grin Resolved: fent van (cliff)</title>
-        <link>https://www.openstreetmap.org/note/1851119#c5394960</link>
-        <guid>https://www.openstreetmap.org/note/1851119#c5394960</guid>
-        <pubDate>Fri, 29 Jan 2021 19:38:37 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Vincellér, Érd) / * 2020 September 6 21:14 grin Created: palota épült / * 2021 January 29 19:38 grin Resolved: extended</title>
-        <link>https://www.openstreetmap.org/note/2338133#c5394959</link>
-        <guid>https://www.openstreetmap.org/note/2338133#c5394959</guid>
-        <pubDate>Fri, 29 Jan 2021 19:38:37 +0000</pubDate>
       </item>
   </channel>
 </rss>
