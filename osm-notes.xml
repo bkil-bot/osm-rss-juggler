@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Alsórákos, 14th district) / * 2021 January 30 14:19 infeeeee Created: Ez egy épület / via StreetComplete 29.0 / * 2021 February 1 19:55 infeeeee Resolved: </title>
+        <link>https://www.openstreetmap.org/note/2518169#c5405279</link>
+        <guid>https://www.openstreetmap.org/note/2518169#c5405279</guid>
+        <pubDate>Mon, 01 Feb 2021 19:55:29 +0000</pubDate>
+      </item><item>
         <title>closed note (near Krisztinaváros, 1st district) / * 2021 January 30 08:41 H4k1 Created: A járda itt tovább folytatódik. / via StreetComplete 29.1 / * 2021 February 1 10:37 infeeeee Resolved: Megrajzoltam a folytatását a Krisztina térig: https://www.openstreetmap.org/changeset/98503049</title>
         <link>https://www.openstreetmap.org/note/2517479#c5403755</link>
         <guid>https://www.openstreetmap.org/note/2517479#c5403755</guid>
@@ -127,26 +132,6 @@
         <link>https://www.openstreetmap.org/note/2515493#c5395516</link>
         <guid>https://www.openstreetmap.org/note/2515493#c5395516</guid>
         <pubDate>Sat, 30 Jan 2021 01:29:16 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Szarvashegy, Szentendre) / * 2020 November 29 11:38 Created: tölgy bonsai / * 2021 January 30 01:16 urbalazs Resolved: Szerintem nem tudunk minden fát egyesével megrajzolni.</title>
-        <link>https://www.openstreetmap.org/note/2446396#c5395505</link>
-        <guid>https://www.openstreetmap.org/note/2446396#c5395505</guid>
-        <pubDate>Sat, 30 Jan 2021 01:16:58 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Kelebia) / * 2020 December 7 19:40 Created: E347 / * 2021 January 30 01:15 urbalazs Resolved: Elnézést, ez a térképjegyzet hiányos. Adjon részletes leírást arról a problémáról, amit jelenteni szeretne.</title>
-        <link>https://www.openstreetmap.org/note/2455495#c5395504</link>
-        <guid>https://www.openstreetmap.org/note/2455495#c5395504</guid>
-        <pubDate>Sat, 30 Jan 2021 01:15:33 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Kelebia) / * 2020 December 7 19:45 Created: E367 / * 2021 January 30 01:15 urbalazs Resolved: Elnézést, ez a térképjegyzet hiányos. Adjon részletes leírást arról a problémáról, amit jelenteni szeretne.</title>
-        <link>https://www.openstreetmap.org/note/2455504#c5395503</link>
-        <guid>https://www.openstreetmap.org/note/2455504#c5395503</guid>
-        <pubDate>Sat, 30 Jan 2021 01:15:13 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Csanakhegy, Győr) / * 2020 December 14 21:35 Created: Hegy utca / * 2021 January 30 01:14 urbalazs Resolved: A térképen is ez van.</title>
-        <link>https://www.openstreetmap.org/note/2462403#c5395502</link>
-        <guid>https://www.openstreetmap.org/note/2462403#c5395502</guid>
-        <pubDate>Sat, 30 Jan 2021 01:14:19 +0000</pubDate>
       </item>
   </channel>
 </rss>
