@@ -248,10 +248,10 @@
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/v15MebcnDwAJ</guid>
         <pubDate>Thu, 21 Jan 2021 09:39:58 UTC</pubDate>
       </item><item>
-        <title>Re: [osm-hu] Tömegközlekedési útvonalak javítása: On Wed, 20 Jan 2021, Úr Balázs wrote: &gt; A HÉV-ekkel viszont nem tudom, mi a probléma. valakinek van ötlete? Lepukkant a járműpark? :) Kiss Gábor -Kiss Gabor</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/EmSnPL72DgAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/EmSnPL72DgAJ</guid>
-        <pubDate>Wed, 20 Jan 2021 18:42:31 UTC</pubDate>
+        <title>Re: [osm-hu] Tömegközlekedési útvonalak javítása: Köszi. :) A HÉVekkel az a probléma, hogy a Mávhoz kerültek. ;-) Az OSMI-nak konkrétan a route type nem tetszik (route=light_rail). Az OSM Wiki szerint pedig ez jó így. Lehet, hogy az OSMI fejlesztőinek kellene jelezni, hogy ez egy téves riasztás. Hasonlóan pl. a highway=toll_gantry miatti -ITineris OSM</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/1i6d5P32DgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/-J_DTM_n5hY/1i6d5P32DgAJ</guid>
+        <pubDate>Wed, 20 Jan 2021 18:47:04 UTC</pubDate>
       </item>
   </channel>
 </rss>
