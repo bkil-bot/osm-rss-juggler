@@ -3,6 +3,16 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Buszmegállók, járdák, utak tönkretétele (Fazu rajzolásai): Szia! Én a changeset-hez írtam neki. Ma a 28, 37, 62-es villamosokat túrta szét. (Off-topic: Nem lehetne az iD készítőinek írni, hogy javítsák ki ezt a hibát? De legalább a GUI-n tiltsák le, amit nem tudnak kezelni?) A többiben is teljesen igazad van. Üdv: Ákos Sent: Friday, February -ITineris OSM</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/FAj9plhfAwAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/FAj9plhfAwAJ</guid>
+        <pubDate>Fri, 05 Feb 2021 15:24:44 UTC</pubDate>
+      </item><item>
+        <title>Buszmegállók, járdák, utak tönkretétele (Fazu rajzolásai): Sziasztok! Írtam privátban Fazunak, de „sajnos” nagyon aktív, és folytatja, amiről korábban már beszéltünk. Ezért ide is megírom, hátha ezt hamarabb olvassa. 1. Ne rajzolj járdát, ha nincs elválasztva az úttól. Használd helyette a sidewalk=* kulcsot az útra. 2. Ne igazítsd az utakat Bingre, -Úr Balázs</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/LHAVXNZYAwAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/LHAVXNZYAwAJ</guid>
+        <pubDate>Fri, 05 Feb 2021 13:25:28 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Februári találkozó: Köszönjük a felajánlást, téged is beírtalak. Ha gondolod írhatsz pár szót arról, hogy milyen témákat érintesz. És valaki más esetleg a vizes témát még volna kedve megemlíteni (vagy mást)? Lassan meg kellene hirdetni az eseményt. On Fri, Feb 5, 2021 at 12:40 AM turistautsz...@gmail.com &lt; -Thomas Nagy</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/TcnKrGdXAwAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/TcnKrGdXAwAJ</guid>
@@ -242,16 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/rMfVZCg7DwAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/rMfVZCg7DwAJ</guid>
         <pubDate>Thu, 21 Jan 2021 15:36:14 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Name: Óh! Ez nagyszerű megoldás lenne :- )) Köszi! Gza Úr Balázs ezt írta (időpont: 2021. jan. 21., Cs, 14:45): &gt; 2021. 01. 21. 14:26 keltezéssel, Rózsa Gza (Géza) István Özséb írta: &gt; &gt; az openstreetmap.org lapon a &quot;keresés&quot; nem keres az inscription mezőkben &gt; &gt; Nyitottam -Rózsa Gza (Géza) István Özséb</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/x61rfnk3DwAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/x61rfnk3DwAJ</guid>
-        <pubDate>Thu, 21 Jan 2021 14:28:44 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Name: Nyitottam rá egy funkciókérést: https://github.com/osm-search/Nominatim/issues/2148 Üdv: Balázs -Úr Balázs</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/0JNKJh81DwAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/0JNKJh81DwAJ</guid>
-        <pubDate>Thu, 21 Jan 2021 13:45:37 UTC</pubDate>
       </item>
   </channel>
 </rss>
