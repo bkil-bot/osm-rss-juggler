@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Buszmegállók, járdák, utak tönkretétele (Fazu rajzolásai): szét. &gt; (Off-topic: Nem lehetne az iD készítőinek írni, hogy javítsák ki ezt a &gt; hibát? De legalább a GUI-n tiltsák le, amit nem tudnak kezelni?) &gt; &gt; A többiben is teljesen igazad van. Visszavontam a mai módosításcsomagjait. Igazából az elmúlt 16 napot is vissza kellene vonni. Többet árt, -Úr Balázs</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/-Mt4BidpAwAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/-Mt4BidpAwAJ</guid>
+        <pubDate>Fri, 05 Feb 2021 18:24:27 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Buszmegállók, járdák, utak tönkretétele (Fazu rajzolásai): Szia! Én a changeset-hez írtam neki. Ma a 28, 37, 62-es villamosokat túrta szét. (Off-topic: Nem lehetne az iD készítőinek írni, hogy javítsák ki ezt a hibát? De legalább a GUI-n tiltsák le, amit nem tudnak kezelni?) A többiben is teljesen igazad van. Üdv: Ákos Sent: Friday, February -ITineris OSM</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/FAj9plhfAwAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/FAj9plhfAwAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/BEBDo_Q8DwAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/BEBDo_Q8DwAJ</guid>
         <pubDate>Thu, 21 Jan 2021 16:09:11 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Name: On Thu, 21 Jan 2021, Rózsa Gza (Géza) István Özséb wrote: &gt; Szerintetek van rá esély és ha igen, akkor mi lehetne a módja, hogy az &gt; &quot;inscription&quot; mező tartalmát is bele vegyük a keresési mezőkbe az &gt; openstreetmap.org &quot;keresés&quot; funkciójakor? Megírod a módosítást és küldesz egy pull requestet -Kiss Gabor</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/rMfVZCg7DwAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/rMfVZCg7DwAJ</guid>
-        <pubDate>Thu, 21 Jan 2021 15:36:14 UTC</pubDate>
       </item>
   </channel>
 </rss>
