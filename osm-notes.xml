@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Alvég, Törökszentmiklós) / * 2020 April 8 08:22 att Created: ideiglenes körforgalom lett kialakítva itt / * 2021 February 7 18:54 ITineris Updated: A &amp;quot;kör&amp;quot;forgalmat berajzoltam. Azóta változott valami a környék forgalmi rendjében?</title>
+        <link>https://www.openstreetmap.org/note/2152018#c5421842</link>
+        <guid>https://www.openstreetmap.org/note/2152018#c5421842</guid>
+        <pubDate>Sun, 07 Feb 2021 18:54:12 +0000</pubDate>
+      </item><item>
+        <title>new note (near Nagyrábé) / * 2021 February 7 18:29 Created: megszünt</title>
+        <link>https://www.openstreetmap.org/note/2529359#c5421787</link>
+        <guid>https://www.openstreetmap.org/note/2529359#c5421787</guid>
+        <pubDate>Sun, 07 Feb 2021 18:29:08 +0000</pubDate>
+      </item><item>
+        <title>new note (near Nagyrábé) / * 2021 February 7 18:28 Created: bezárt</title>
+        <link>https://www.openstreetmap.org/note/2529358#c5421786</link>
+        <guid>https://www.openstreetmap.org/note/2529358#c5421786</guid>
+        <pubDate>Sun, 07 Feb 2021 18:28:49 +0000</pubDate>
+      </item><item>
         <title>new note (near Nagyrábé) / * 2021 February 7 18:16 Created: Bezárt</title>
         <link>https://www.openstreetmap.org/note/2529343#c5421750</link>
         <guid>https://www.openstreetmap.org/note/2529343#c5421750</guid>
@@ -197,26 +212,6 @@
         <link>https://www.openstreetmap.org/note/2505201#c5418390</link>
         <guid>https://www.openstreetmap.org/note/2505201#c5418390</guid>
         <pubDate>Sat, 06 Feb 2021 14:34:05 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Csutimonostor, Esztergom) / * 2020 December 26 20:37 Süti Created: Az utcát átszámozták. A helyes új szám a 18. / via StreetComplete 28.0 / * 2020 December 26 22:02 bkil Updated: Helló! Köszönjük a megjegyzést. Ilyenkor javaslom, hogy vigyük fel a régi házszámot az old_addr:housenumber=14 címkével, és vigyük fel az újat az addr:housenumber=18 címkével. / https://taginfo.openstreetmap.org/keys/old_addr%3Ahousenumber / Ha további segítségre volna szükséged, szeretettel várunk a nyitott csevegőszobánkba: https://matrix.to/#/#osm:grin.hu?via=grin.hu&amp;amp;via=matrix.org&amp;amp;via=vmiklos.hu / * 2021 January 17 18:23 ITineris Updated: Szerintem egy mobilos StreetComplete-felhasználó nem fog címkézni. / * 2021 January 17 19:40 bkil Updated: Ki tudja. Hátha megjön a kedve hozzá és meglátogatja a weboldalt vagy felrak egy szerkesztőt is. Mindig nyitottak kell legyünk a fejlődésre. / * 2021 February 6 14:22 vasony Resolved: Nem jött meg, de legalább tudom, hogy 14 volt ebből.</title>
-        <link>https://www.openstreetmap.org/note/2473937#c5418334</link>
-        <guid>https://www.openstreetmap.org/note/2473937#c5418334</guid>
-        <pubDate>Sat, 06 Feb 2021 14:22:20 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Béke városrész, Dunaújváros) / * 2021 January 16 17:52 The Cloud Created: Ez most már nem csak Decathlon, csak nem tudom hogyan kell idetenni a teljes Euronics áruházat, téglalapokkal. / * 2021 February 6 14:13 vasony Updated: Ha 1 épületen belül van a Decathlon és az Euronics, akkor pont jó így ahogy van.</title>
-        <link>https://www.openstreetmap.org/note/2500371#c5418273</link>
-        <guid>https://www.openstreetmap.org/note/2500371#c5418273</guid>
-        <pubDate>Sat, 06 Feb 2021 14:13:49 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Szenttamás, Esztergom) / * 2021 January 15 06:26 Süti Created: Unable to answer &amp;quot;What is the name of this place? (School Grounds)&amp;quot; for https://osm.org/way/395121162 via StreetComplete 29.1: / Ez két iskola. Jobbra a Dobó Katalin Gimnázium. Balra a József Attila általános iskola. / * 2021 February 6 14:08 vasony Resolved: A térképen most is 2 iskolaként szerepel, nem az épületeken van, a név, hanem a befoglaló vonalakon, ez így jó.</title>
-        <link>https://www.openstreetmap.org/note/2498444#c5418257</link>
-        <guid>https://www.openstreetmap.org/note/2498444#c5418257</guid>
-        <pubDate>Sat, 06 Feb 2021 14:08:50 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Palin, Nagykanizsa) / * 2021 January 14 07:43 Created: Sándor Anett NettiNails Körömszalon / * 2021 February 6 14:03 vasony Resolved: Köszönjük a jelentést. A térképet javítottam.</title>
-        <link>https://www.openstreetmap.org/note/2497443#c5418249</link>
-        <guid>https://www.openstreetmap.org/note/2497443#c5418249</guid>
-        <pubDate>Sat, 06 Feb 2021 14:03:05 +0000</pubDate>
       </item>
   </channel>
 </rss>
