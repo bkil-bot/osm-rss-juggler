@@ -3,6 +3,21 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Buszmegállók, járdák, utak tönkretétele (Fazu rajzolásai): Jó látni az együttműködést, szuper! JOSM-ot érdemes lehet megpróbálni, nem értem mi baja van vele sokaknak. Nagyon jó program. Többen csináltak oktatóvideót, grin-tube-on található, meg régebben én is írtam pár ötletet www.osmtippek.hu címen. https://tube.grin.hu/search?search=JOSM&amp;searchTarge -Feri Veres</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/PU-r5dHVBAAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/PU-r5dHVBAAJ</guid>
+        <pubDate>Wed, 10 Feb 2021 09:47:03 UTC</pubDate>
+      </item><item>
+        <title>Re: FOMI csempek (Was: Buszmegállók, járdák, utak tönkretétele (Fazu rajzolásai)): On Wed, 10 Feb 2021, Tamás Bede-Fazekas wrote: &gt; A FŐMI otthophotoból sem a 2005-ös, sem a 2007-2010 nem jön be, csak a nagy &gt; feketeség - ezt már Balázs is kiszúrta és utánanéz. Uj Firefoxot hasznalsz. Ami ha nem tiltod meg neki, akkor is elobb https-sel probalkozik, ha http volt az -Kiss Gabor</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/TGSIsmnUBAAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/TGSIsmnUBAAJ</guid>
+        <pubDate>Wed, 10 Feb 2021 09:21:16 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Buszmegállók, járdák, utak tönkretétele (Fazu rajzolásai): Szia! Az iD-vel az a gond, hogy egybefüggőnek láthatsz egy kapcsolatot (kékkel villogtatja), ami terület kontúrok esetén elegendő. Útvonalak (pl. tömegközlekedés) esetén viszont fontos a tagok sorrendje is (a menetiránynak megfelelően), ezt az iD viszont nem kezeli; a tagok sorrendjét itt nem -ITineris OSM</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/Z8Ncx0_UBAAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/Z8Ncx0_UBAAJ</guid>
+        <pubDate>Wed, 10 Feb 2021 09:19:24 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Buszmegállók, járdák, utak tönkretétele (Fazu rajzolásai): Sziasztok! Nagyon elszomorít, ha széttúrtam útvonalakat. Igaz, ID-ben bár, de amihez hozzányúltam, ott visszaellenőriztem a módosításokat, hogy ne legyen szakadás, folyamatosak legyenek az útvonalak. Ha mégis, úgy kár volt a felesleges, sőt úgy tűnik, káros munkáért. Természetesen, ha úgy -Tamás Bede-Fazekas</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/cGhYWaLSBAAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/cGhYWaLSBAAJ</guid>
@@ -237,21 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/xQrIpYeaDwAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/xQrIpYeaDwAJ</guid>
         <pubDate>Fri, 22 Jan 2021 20:43:57 UTC</pubDate>
-      </item><item>
-        <title>Re: Duna folyamkilométerek, Was: Re: [osm-hu] Februári találkozó: Tudom ezt használtam is, de jellemzően csak a Budapesti hidak vannak megadva. A SeeMyENC meg nem tudom mennyire szabad forrás? ITineris OSM a következőt írta (2021. január 22., péntek, 16:23:23 UTC+1): &gt; &gt; De ha lenna egy olyan adat a wikipédiában, hogy a Komárom vasúti híd a &gt; 1770.4-es -turistautsz...@gmail.com</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/OYS6QGuZDwAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/OYS6QGuZDwAJ</guid>
-        <pubDate>Fri, 22 Jan 2021 20:23:35 UTC</pubDate>
-      </item><item>
-        <title>Re: Számozott közutak, Was: Re: [osm-hu] Februári találkozó: On Fri, 22 Jan 2021, ITineris OSM wrote: &gt; Városokon belül viszont teljes a káosz: ki mit tart lényegesnek, tipikusan a &gt; renderelés szempontjából. Nincsen definit kategorizálás főútvonal-tábla, &gt; sebességhatár, sávok száma, tömegközlekedés függvényében. Vagy mondjuk ami a Amikor belefutotta -Kiss Gabor</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/qsFbXeCTDwAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/qsFbXeCTDwAJ</guid>
-        <pubDate>Fri, 22 Jan 2021 18:42:01 UTC</pubDate>
-      </item><item>
-        <title>Duna folyamkilométerek, Was: Re: [osm-hu] Februári találkozó: onnan a 1770-es folymkm elméleti pontja már 100 méteres pontossággal megadható. Szerintem ez elég jó kiindulási alap: https://en.wikipedia.org/wiki/List_of_crossings_of_the_Danube#Hungary Ákos -ITineris OSM</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/kWBdbQmJDwAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/kWBdbQmJDwAJ</guid>
-        <pubDate>Fri, 22 Jan 2021 15:23:23 UTC</pubDate>
       </item>
   </channel>
 </rss>
