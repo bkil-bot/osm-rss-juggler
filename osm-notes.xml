@@ -2,6 +2,16 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Notes (via bkil-bot)</title>
-      
+      <item>
+        <title>new note (near Búrtelep, Székesfehérvár) / * 2021 February 13 19:57 Garai Márk Created: &amp;quot;Emlékmű&amp;quot; / POI has no name / POI types: historic-wayside_cross / OSM data version: 2021-02-01T11:34:17Z / #mapsme</title>
+        <link>https://www.openstreetmap.org/note/2537319#c5438002</link>
+        <guid>https://www.openstreetmap.org/note/2537319#c5438002</guid>
+        <pubDate>Sat, 13 Feb 2021 19:57:26 +0000</pubDate>
+      </item><item>
+        <title>new note (near Búrtelep, Székesfehérvár) / * 2021 February 13 19:35 Garai Márk Created: &amp;quot;Már nem létezik&amp;quot; / The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI name: Színpad / POI types: amenity-theatre / OSM data version: 2021-02-01T11:34:17Z / #mapsme</title>
+        <link>https://www.openstreetmap.org/note/2537306#c5437975</link>
+        <guid>https://www.openstreetmap.org/note/2537306#c5437975</guid>
+        <pubDate>Sat, 13 Feb 2021 19:35:56 +0000</pubDate>
+      </item>
   </channel>
 </rss>
