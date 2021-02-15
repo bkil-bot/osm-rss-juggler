@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>Soon, the 100,000,000th changeset will be published in #OpenStreetMap. The counter tool (https://jwestman.gitlab.io/osm-in-realtime/) shows the progression in real time. And #WeeklyOSM (http://weeklyosm.eu/archives/14269) is offering an interview and a present to the contributor lucky to hit the milestone.</title>
+        <link>https://en.osm.town/@Doudouosm/105734775837102457</link>
+        <guid>https://en.osm.town/@Doudouosm/105734775837102457</guid>
+        <pubDate>Mon, 15 Feb 2021 10:24:01 +0000</pubDate>
+      </item><item>
         <title>The #OpenStreetMap Belgium Mapper of the Month #MotM series continues. This month, let’s meet lhennen: https://openstreetmap.be/en/motm/2021/02/03/lhennen.html.</title>
         <link>https://en.osm.town/@Doudouosm/105669326213799129</link>
         <guid>https://en.osm.town/@Doudouosm/105669326213799129</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/105396909536559917</link>
         <guid>https://en.osm.town/@Doudouosm/105396909536559917</guid>
         <pubDate>Thu, 17 Dec 2020 18:20:10 +0000</pubDate>
-      </item><item>
-        <title>The last issue of the #OpenStreetMap Mapper of the Month #MotM of this calendar year is available and features @vucod: https://openstreetmap.be/en/motm/2020/12/15/vucod.html.</title>
-        <link>https://en.osm.town/@Doudouosm/105386481487574737</link>
-        <guid>https://en.osm.town/@Doudouosm/105386481487574737</guid>
-        <pubDate>Tue, 15 Dec 2020 22:08:11 +0000</pubDate>
       </item>
   </channel>
 </rss>
