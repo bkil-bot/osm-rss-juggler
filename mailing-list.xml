@@ -3,6 +3,21 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: Kérdőív: OSMF 2021 Survey (több nyelven); aki tudja töltse ki - feb14-ig!: Közzétették a kérdőív eredményeit: https://wiki.osmfoundation.org/wiki/2021_Survey_Results Imre Samu a következőt írta (2021. január 18., hétfő, 2:30:39 UTC+1): &gt; Az OSMF ( OSM Alapítvány/Foundation ) jelenlegi elnöke ( Allan Mustard ) &gt; a segítségeteket kéri, hogy merre tovább .. &gt; A -Benjámin</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/bF3SmwFBnZc/CrYsQjIgBAAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/bF3SmwFBnZc/CrYsQjIgBAAJ</guid>
+        <pubDate>Mon, 22 Feb 2021 10:13:32 UTC</pubDate>
+      </item><item>
+        <title>Re: történelmi vármegye határok?: Történelmi múltról szóló információ csak akkor való OSM-be, ha van valamilyen a helyszínen jelenleg is látható nyoma. Pl. egy máig létező régi határkőnél a description-ben egy-két mondatban le lehet írni a hozzá kapcsolódó egykori határokat, de már csak régi térképeken, levéltárakban létező -Benjámin</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/8Wvw5w0gBAAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/8Wvw5w0gBAAJ</guid>
+        <pubDate>Mon, 22 Feb 2021 10:10:56 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] történelmi vármegye határok?: Van egy boundary=historic: https://wiki.openstreetmap.org/wiki/Tag:boundary=historic A leírása szerint arra használható, hogy közigazgatási változások után egy értelmes ideig meg lehessen őrizni a korábbi állapotot, praktikus okokból. De ez a wikioldal is felhívja a figyelmet, hogy történelmi -Báthory Péter</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/kmJPMRYfBAAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/kmJPMRYfBAAJ</guid>
+        <pubDate>Mon, 22 Feb 2021 09:53:11 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] történelmi vármegye határok?: Az OSM alapvetően észlelési adatbázis, a metodológiánk a jelenleg is megfigyelhető tereptárgyakra biztosítja az egyértelmű és ellenőrizhető feltérképezést. A történeti objektumok kívül esnek az OSM hatókörén, a mi metodológiánk alkalmatlan azok rögzítésére. Én inkább az OpenHistoryMap-et -Gergely Matefi</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/tKNd1xYcBAAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/tKNd1xYcBAAJ</guid>
@@ -237,21 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/qdbqWP-npto/_DhWi07SAAAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/qdbqWP-npto/_DhWi07SAAAJ</guid>
         <pubDate>Mon, 25 Jan 2021 16:13:49 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Hangos utastájékoztató: Ahogy a wiki is írja, a &quot;passenger_information_display=yes&quot; címkét kell rátenni a buszmegálló és a villamosmegálló POI-ra is. Én nem jelölném a kijelző pontos helyét. Hasonló eset az esőbeálló, az is a megállók &quot;shelter=yes&quot; paramétere, és nem rajzolunk külön esőbeálló POI-t a megállóba. Régen -Úr Balázs</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/qdbqWP-npto/HVSW-oPRAAAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/qdbqWP-npto/HVSW-oPRAAAJ</guid>
-        <pubDate>Mon, 25 Jan 2021 15:59:18 UTC</pubDate>
-      </item><item>
-        <title>Hangos utastájékoztató: https://wiki.openstreetmap.org/wiki/Key:passenger_information_display Mi a teendő akkor ha a bkk futár információs táblája a a busz és villamos megálló között van valahol elhelyezve. Vagy ilyenkor kellene valami kapcsolatot csinálni az adott közlekedési csomópont megállóiból? Valamint a hangos -turistautsz...@gmail.com</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/qdbqWP-npto/vOthaunNAAAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/qdbqWP-npto/vOthaunNAAAJ</guid>
-        <pubDate>Mon, 25 Jan 2021 14:53:16 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Overpass: Köszi, de közben gabro00-tól kaptam egy megoldást, ami alapján össze tudtam hozni a másik lekérdezést is. Az ő verziója kevésbé kacsintgató smiley-s; ott még nagyjából tudom követni, melyik eredményhalmazzal mi történik. Lehet, hogy overpassos szempontból nem annyira &quot;szép&quot;, már amennyire ez -ITineris OSM</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/Pry5NKnOC68/19OMHZd8AAAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/Pry5NKnOC68/19OMHZd8AAAJ</guid>
-        <pubDate>Sun, 24 Jan 2021 14:03:02 UTC</pubDate>
       </item>
   </channel>
 </rss>
