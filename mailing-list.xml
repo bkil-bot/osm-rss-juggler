@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>történelmi vármegye határok?: Sziasztok! Az OSM térképen (ha jól tudom) a történelmi múltról szóló információk is megférnek, de ha jól látom, akkor a történelmi vármegyéink határai nincsenek határvonallal följelölve rá. Kérdésem az, hogy fölvehetőek-e (megfelelő történelmi címkézéssel), vagy volt-e ebből már hatalmi vita, -Rózsa Gza (Géza) István Özséb</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/Jk9gWIkZBAAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/Jk9gWIkZBAAJ</guid>
+        <pubDate>Mon, 22 Feb 2021 08:11:29 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Februári találkozó: Ami még kapcsolódik a buszozáshoz: https://wiki.openstreetmap.org/wiki/Key:passenger%20information%20display?uselang=hu Ezt mindjárt kapcsolva egy kis akadálymentesítési előadással: https://www.vgyke.com/hir/eligazodva-a-varosban/ Ha sikerül egy kis időt szorítanom rá, akár még valami is lehet -turistautsz...@gmail.com</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/f49ap_ZAAwAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/f49ap_ZAAwAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/bL6P86nODwAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/bL6P86nODwAJ</guid>
         <pubDate>Sat, 23 Jan 2021 12:39:19 UTC</pubDate>
-      </item><item>
-        <title>Overpass: Sziasztok! a.) Hogyan lehet az Overpass Turbon olyan lekérdezést csinálni, ami visszaadja azokat a (valamilyen feltételnek megfelelő) pontokat, amik NEM részei egy vonalnak sem? (Pl. az OSMI sír azokért a bus_stop-okért, amik nincsenek highway-re húzva.) b.) Olyan vonalakat, amik NEM -ITineris OSM</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/Pry5NKnOC68/t4XhP-bMDwAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/Pry5NKnOC68/t4XhP-bMDwAJ</guid>
-        <pubDate>Sat, 23 Jan 2021 12:06:59 UTC</pubDate>
       </item>
   </channel>
 </rss>
