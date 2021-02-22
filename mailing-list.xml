@@ -3,6 +3,21 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] történelmi vármegye határok?: Az OSM alapvetően észlelési adatbázis, a metodológiánk a jelenleg is megfigyelhető tereptárgyakra biztosítja az egyértelmű és ellenőrizhető feltérképezést. A történeti objektumok kívül esnek az OSM hatókörén, a mi metodológiánk alkalmatlan azok rögzítésére. Én inkább az OpenHistoryMap-et -Gergely Matefi</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/tKNd1xYcBAAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/tKNd1xYcBAAJ</guid>
+        <pubDate>Mon, 22 Feb 2021 08:58:16 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] történelmi vármegye határok?: On Mon, 22 Feb 2021, Rózsa Gza (Géza) István Özséb wrote: &gt; Az OSM térképen (ha jól tudom) a történelmi múltról szóló információk is &gt; megférnek, de ha jól látom, akkor a történelmi vármegyéink határai Nem gondolnam. Az aktualis allapotot kell terkepezni. Lasd https://www.openstreetmap.org/we -Kiss Gabor</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/az8vPLwbBAAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/az8vPLwbBAAJ</guid>
+        <pubDate>Mon, 22 Feb 2021 08:51:47 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] történelmi vármegye határok?: Szia! Nekem első körben olyan praktikus kérdésem lenne, hogy mikori állapot alapján tervezel térképezni? Mert a vármegye-határok is változtak szépen az évszázadok során. Csak a XX. században többször is (1921, 1923, 1939, 1940, 1941, 1947). És mennyire pontos forrásból dolgoznál? &quot;Kb. ott -ITineris OSM</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/u6OZOXkaBAAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/u6OZOXkaBAAJ</guid>
+        <pubDate>Mon, 22 Feb 2021 08:28:39 UTC</pubDate>
+      </item><item>
         <title>történelmi vármegye határok?: Sziasztok! Az OSM térképen (ha jól tudom) a történelmi múltról szóló információk is megférnek, de ha jól látom, akkor a történelmi vármegyéink határai nincsenek határvonallal följelölve rá. Kérdésem az, hogy fölvehetőek-e (megfelelő történelmi címkézéssel), vagy volt-e ebből már hatalmi vita, -Rózsa Gza (Géza) István Özséb</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/Jk9gWIkZBAAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/Jk9gWIkZBAAJ</guid>
@@ -237,21 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/Pry5NKnOC68/19OMHZd8AAAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/Pry5NKnOC68/19OMHZd8AAAJ</guid>
         <pubDate>Sun, 24 Jan 2021 14:03:02 UTC</pubDate>
-      </item><item>
-        <title>Re: Overpass: Ez talán jobb: https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_API_by_Example#Find_all_bus_stops_which_are_not_included_in_a_relation ITineris OSM a következőt írta (2021. január 23., szombat, 13:06:59 UTC+1): &gt; Sziasztok! &gt; &gt; a.) Hogyan lehet az Overpass Turbon olyan lekérdezést -dgtezai</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/Pry5NKnOC68/v9Pll_J6AAAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/Pry5NKnOC68/v9Pll_J6AAAJ</guid>
-        <pubDate>Sun, 24 Jan 2021 13:32:56 UTC</pubDate>
-      </item><item>
-        <title>Re: Overpass: Helló! a.) Hogyan lehet az Overpass Turbon olyan lekérdezést csinálni, ami &gt; visszaadja azokat a (valamilyen feltételnek megfelelő) pontokat, amik NEM &gt; részei egy vonalnak sem? (Pl. az OSMI sír azokért a bus_stop-okért, amik &gt; nincsenek highway-re húzva. &gt; https://overpass-turbo.eu/s/12JD -dgtezai</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/Pry5NKnOC68/XH27nOp4AAAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/Pry5NKnOC68/XH27nOp4AAAJ</guid>
-        <pubDate>Sun, 24 Jan 2021 12:55:43 UTC</pubDate>
-      </item><item>
-        <title>Re: Duna folyamkilométerek, Was: Re: [osm-hu] Februári találkozó: A Wikipédia sok hídról tartalmaz saját szócikket, az fkm adatokat először azokba kezdtem beírni. Az angol listából a következők hiányoztak (a listát nem bővítettem): Mária Valéria-híd, Vámosszabadi-híd, Monostori-híd. Azt hiszem, mindegyiknek volt szócikke, így oda be tudtam írni (vagy be fogom -hungarian_user</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/bL6P86nODwAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/bL6P86nODwAJ</guid>
-        <pubDate>Sat, 23 Jan 2021 12:39:19 UTC</pubDate>
       </item>
   </channel>
 </rss>
