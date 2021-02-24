@@ -2,6 +2,16 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Notes (via bkil-bot)</title>
-      
+      <item>
+        <title>closed note (near Taván, Budakalász) / * 2021 February 24 19:50 vasony Resolved: OK, akkor a Kert utcára átírtam, a házszámok jó támpont ha nincs tábla.</title>
+        <link>https://www.openstreetmap.org/note/2486114#c5470018</link>
+        <guid>https://www.openstreetmap.org/note/2486114#c5470018</guid>
+        <pubDate>Wed, 24 Feb 2021 19:50:33 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Taván, Budakalász) / * 2021 February 24 19:50 vasony Resolved: concrete:plates bár az nagyobb, de erre nincs megfelelő cimke. / lehetne még csak sima concrete</title>
+        <link>https://www.openstreetmap.org/note/2551860#c5470017</link>
+        <guid>https://www.openstreetmap.org/note/2551860#c5470017</guid>
+        <pubDate>Wed, 24 Feb 2021 19:50:32 +0000</pubDate>
+      </item>
   </channel>
 </rss>
