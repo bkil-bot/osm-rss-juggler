@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] History: Sziasztok! ID-val sajnos nincs megoldás, én nem állnék neki finomítani az épületeket vele. JOSM-ben viszont az utilsplugin2 része egy replace geometry funkció. Ezzel meg lehet tenni, hogy az ember &quot;félrehúzza&quot; átmenetileg a rossz alakú házat, majd bemásolja helyére az egyforma házformát, és a -Tamás Vásony</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/mlrfGSCOSRo/k0AHMA-3AQAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/mlrfGSCOSRo/k0AHMA-3AQAJ</guid>
+        <pubDate>Sat, 27 Feb 2021 16:16:26 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] History: Nem értem, hogy mit értesz az &quot;építsük be a falba&quot; alatt. Én úgy szoktam inkább rajzolni, hogy az épület building=yes, és egy külön POI a virágüzlet, amit az épület körvonalán belül helyezek el. Ha pontosítani akarsz épületeket, akkor se töröld, ha &quot;macerás&quot;. Alapvető elv, hogy ne törölj semmit, -Máté Fehérvári</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/mlrfGSCOSRo/AwrGKDOyAQAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/mlrfGSCOSRo/AwrGKDOyAQAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/A6g5bHiaQ_g/WZ__H_QRAgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/A6g5bHiaQ_g/WZ__H_QRAgAJ</guid>
         <pubDate>Mon, 01 Feb 2021 09:35:16 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] POI és épület: +1 Kami leírására (hogy több &quot;szavazat&quot; legyen, ha közvélemény... De szerintem ez a helyes megoldás is egyben.) Érdekes helyek (POI-k) 4 féle ábrázolási lehetősége https://www.osmtippek.hu/josm/erdekes-helyek-abrazolasai/ (6 éve írtam, lehet, hogy már van benne pontatlanság ;-) A &quot;C&quot;-t a cikk -Feri Veres</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/AGASP6Nh574/1ygkpEbPAQAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/AGASP6Nh574/1ygkpEbPAQAJ</guid>
-        <pubDate>Sun, 31 Jan 2021 13:13:23 UTC</pubDate>
       </item>
   </channel>
 </rss>
