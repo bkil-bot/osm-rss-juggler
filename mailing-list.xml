@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] History: Nem értem, hogy mit értesz az &quot;építsük be a falba&quot; alatt. Én úgy szoktam inkább rajzolni, hogy az épület building=yes, és egy külön POI a virágüzlet, amit az épület körvonalán belül helyezek el. Ha pontosítani akarsz épületeket, akkor se töröld, ha &quot;macerás&quot;. Alapvető elv, hogy ne törölj semmit, -Máté Fehérvári</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/mlrfGSCOSRo/AwrGKDOyAQAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/mlrfGSCOSRo/AwrGKDOyAQAJ</guid>
+        <pubDate>Sat, 27 Feb 2021 14:47:23 UTC</pubDate>
+      </item><item>
         <title>History: (Nem, most nem a letűnt idők hajdanvolt objektumairól lesz szó. :) Olvastam itt valakitől egy tanácsot, hogy ha egy épület és egy POI duplikálva hordozza ugyanazt a funkciót (pl. virágüzlet), akkor ne csak úgy simán töröljük ki a pontot, hanem építsük be a falba, és akkor megmarad az élettörtén -Kiss Gabor (Bitman)</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/mlrfGSCOSRo/NAAwhXirAQAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/mlrfGSCOSRo/NAAwhXirAQAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/AGASP6Nh574/1ygkpEbPAQAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/AGASP6Nh574/1ygkpEbPAQAJ</guid>
         <pubDate>Sun, 31 Jan 2021 13:13:23 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] POI és épület: Szia, C biztos nem. A ha általános az épület inkább, és a POI csak egy része. B ha a POI az épület fő funkciója. Üdvözlettel, Kami Kiss Gabor ezt írta (időpont: 2021. jan. 30., Szo 6:20): &gt; Kis közvéleménykutatás: &gt; &gt; Ki mit preferál? &gt; a) általános épület, benne a -KAMI911 KAMI911</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/AGASP6Nh574/n2wFHdd7AQAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/AGASP6Nh574/n2wFHdd7AQAJ</guid>
-        <pubDate>Sat, 30 Jan 2021 11:44:24 UTC</pubDate>
       </item>
   </channel>
 </rss>
