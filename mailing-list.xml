@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Várfalak jelölése: Sziasztok, szeretném kérni a véleményeteket a várfalak egységes jelöléséhez. Konkrét szerkesztéseknél láttam a barrier=city_wall használatát. A Wiki szerint ez a címke városokat és településeket védő falakhoz alkalmazandó. Szűkebb értelmezésben egy vár nem település, de tágabb értelmezésben ott -Gergely Matefi</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/mYw8SHm4NuU/ALyQS7FFAgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/mYw8SHm4NuU/ALyQS7FFAgAJ</guid>
+        <pubDate>Mon, 01 Mar 2021 11:50:14 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] History: Sziasztok! ID-val sajnos nincs megoldás, én nem állnék neki finomítani az épületeket vele. JOSM-ben viszont az utilsplugin2 része egy replace geometry funkció. Ezzel meg lehet tenni, hogy az ember &quot;félrehúzza&quot; átmenetileg a rossz alakú házat, majd bemásolja helyére az egyforma házformát, és a -Tamás Vásony</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/mlrfGSCOSRo/k0AHMA-3AQAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/mlrfGSCOSRo/k0AHMA-3AQAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/n2wII_xwAgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/n2wII_xwAgAJ</guid>
         <pubDate>Tue, 02 Feb 2021 14:36:44 UTC</pubDate>
-      </item><item>
-        <title>98-as busz útvonal: Sziasztok! Van itt valaki, aki a BKK-s útvonalakkal hivatalból foglalkozik, importál, karbantart? OSMI-s hibajavítás kapcsán futottam bele, hogy a 98-as busznál a háromból az egyik kapcsolat duplikáltnak tűnik, de egy közbülső megállóval, mint végállomás névvel. A másik kettő kapcsolat -ITineris OSM</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/A6g5bHiaQ_g/WZ__H_QRAgAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/A6g5bHiaQ_g/WZ__H_QRAgAJ</guid>
-        <pubDate>Mon, 01 Feb 2021 09:35:16 UTC</pubDate>
       </item>
   </channel>
 </rss>
