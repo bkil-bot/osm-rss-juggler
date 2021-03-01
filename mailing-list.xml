@@ -3,6 +3,16 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] History: Annyiban nem szeretem ezt a tanácsot, hogy félek sokakat a &quot;hagy a csudába, majd lesz rá jobb lehetőség&quot; (meg a hagyd a csudába, majd importáljuk ha adnak adatokat) halogatásra biztat, mikor egyáltalán nem biztos, hogy lesz jobb képanyag vagy lesz adatforrás. Illetve, ha lesz is, nem tudni -Feri Veres</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/mlrfGSCOSRo/CLtSdsZaAgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/mlrfGSCOSRo/CLtSdsZaAgAJ</guid>
+        <pubDate>Mon, 01 Mar 2021 18:16:34 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] History: Korábban én is ezt a módszert követtem és javasoltam, de volt, hogy galibát okozott. Amikor a PONT objektumhoz közöttem külső adatbázist, és az meg nyugodtan használta tovább. Hasonló az OSMHU &quot;place&quot; nód keresője (utcanév kiegészítő), ugyanis a városok saját adatait leíró &quot;place&quot; pontokból is -Feri Veres</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/mlrfGSCOSRo/fzSaRflZAgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/mlrfGSCOSRo/fzSaRflZAgAJ</guid>
+        <pubDate>Mon, 01 Mar 2021 18:01:53 UTC</pubDate>
+      </item><item>
         <title>Ökoszisztéma: Nyitottam ezt az új threadet, hogy a várfalakat kevésbé érintő módszertani kérdéseket is a megfelelő helyen lehessen megvitatni. Balázzsal egyet értek, a Wiki nem szentírás. Szerkesztők tetszőleges csoportja definiálhat új jelölési szótárakat, amelyeket szabadon dokumentálhat a Wikin. Egy OSM -Gergely Matefi</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/BB-2U1SjZ7M/jRsh9-NSAgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/BB-2U1SjZ7M/jRsh9-NSAgAJ</guid>
@@ -242,16 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/OwORwpryAwAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/OwORwpryAwAJ</guid>
         <pubDate>Sun, 07 Feb 2021 12:23:17 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Buszmegállók, járdák, utak tönkretétele (Fazu rajzolásai): szét. &gt; (Off-topic: Nem lehetne az iD készítőinek írni, hogy javítsák ki ezt a &gt; hibát? De legalább a GUI-n tiltsák le, amit nem tudnak kezelni?) &gt; &gt; A többiben is teljesen igazad van. Visszavontam a mai módosításcsomagjait. Igazából az elmúlt 16 napot is vissza kellene vonni. Többet árt, -Úr Balázs</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/-Mt4BidpAwAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/-Mt4BidpAwAJ</guid>
-        <pubDate>Fri, 05 Feb 2021 18:24:27 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Buszmegállók, járdák, utak tönkretétele (Fazu rajzolásai): Szia! Én a changeset-hez írtam neki. Ma a 28, 37, 62-es villamosokat túrta szét. (Off-topic: Nem lehetne az iD készítőinek írni, hogy javítsák ki ezt a hibát? De legalább a GUI-n tiltsák le, amit nem tudnak kezelni?) A többiben is teljesen igazad van. Üdv: Ákos Sent: Friday, February -ITineris OSM</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/FAj9plhfAwAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/FAj9plhfAwAJ</guid>
-        <pubDate>Fri, 05 Feb 2021 15:24:44 UTC</pubDate>
       </item>
   </channel>
 </rss>
