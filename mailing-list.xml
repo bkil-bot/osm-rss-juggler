@@ -3,6 +3,21 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Várfalak jelölése: Sziasztok, pont a Salgó váránál bukott ki a probléma, ahova az elmúlt 24 órában D. Zsolt és én is beleszerkesztettünk. Úgyhogy annál csak olyan térképkimeneteket érdemes nézni, amelyek közel valós időben frissülnek Valaki esetleg nézte már, más országokban mi az elterjedt gyakorlat? Felvidéki -Gergely Matefi</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/mYw8SHm4NuU/KLqzqAZNAgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/mYw8SHm4NuU/KLqzqAZNAgAJ</guid>
+        <pubDate>Mon, 01 Mar 2021 14:04:37 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Várfalak jelölése: uppsz... tehát a megjelenítők visszaütnek a téképrajzolásokra... :- ( Tudja valaki kérni ezeket? Van lista a legnépszerűbb megjelenítőkről és azoknak a kérési mechanizmusáról? Gza 'Balázs Meskó' via openstreetmap-hungary ezt írta (időpont: 2021. márc. 1., H, -Rózsa Gza (Géza) István Özséb</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/mYw8SHm4NuU/kMXL_1FMAgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/mYw8SHm4NuU/kMXL_1FMAgAJ</guid>
+        <pubDate>Mon, 01 Mar 2021 13:51:40 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Várfalak jelölése: Sziasztok! Ebbe már én is belefutottam, és a wiki alapján a várak esetén én is logikusabbnak találnám a barrier=wall + wall=castle_wall címkézést (erre egyébként találtam is példát, Salgó várát érdemes megnézni). Viszont amiért „hibásan” címkézték ezeket az nagy valószínűséggel az, hogy nem -Balázs Meskó</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/mYw8SHm4NuU/Ljm1H_JLAgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/mYw8SHm4NuU/Ljm1H_JLAgAJ</guid>
+        <pubDate>Mon, 01 Mar 2021 13:44:49 UTC</pubDate>
+      </item><item>
         <title>Várfalak jelölése: Sziasztok, szeretném kérni a véleményeteket a várfalak egységes jelöléséhez. Konkrét szerkesztéseknél láttam a barrier=city_wall használatát. A Wiki szerint ez a címke városokat és településeket védő falakhoz alkalmazandó. Szűkebb értelmezésben egy vár nem település, de tágabb értelmezésben ott -Gergely Matefi</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/mYw8SHm4NuU/ALyQS7FFAgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/mYw8SHm4NuU/ALyQS7FFAgAJ</guid>
@@ -237,21 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/8RQwzdQwa1E/Ly-g2ti8AgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/8RQwzdQwa1E/Ly-g2ti8AgAJ</guid>
         <pubDate>Wed, 03 Feb 2021 13:46:55 UTC</pubDate>
-      </item><item>
-        <title>Dróntörvény: Sziasztok! Tegnap megjelent a Magyar Közlönyben a drónhasználatra vonatkozó új szabályozás. A drónosoknak érdemes elolvasni: https://magyarkozlony.hu/dokumentumok/1b15172ac0f1bcafcb061a4644597b4aef0a50fb/megtekintes A legter.hu oldalon megjelent egy összegző cikk: https://legter.hu/blog/dron- -Úr Balázs</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/8RQwzdQwa1E/NNDoI9W1AgAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/8RQwzdQwa1E/NNDoI9W1AgAJ</guid>
-        <pubDate>Wed, 03 Feb 2021 11:38:22 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Februári találkozó: Én addig befejezem a következő videómat, ami bemutatja, hogyan használhatjuk túrázás folyamán a buszjáratokat, amikor befejeznénk a túrát. Már ha marad a 22.-i időpont. Thomas Nagy a következőt írta (2021. február 2., kedd, 15:36:44 UTC+1): &gt; Köszönjük a buszos előadás felajánlást, már meg is -turistautsz...@gmail.com</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/7FDOxUSnAgAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/7FDOxUSnAgAJ</guid>
-        <pubDate>Wed, 03 Feb 2021 07:11:30 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Februári találkozó: Köszönjük a buszos előadás felajánlást, már meg is ágyaztam neki a wikiben. A második előadással kapcsolatban esetleg akár a szálban résztvevők vagy az eddig hozzá nem szólók közül volna valakinek kedve összefoglalni az említetteket (vagy más kapcsolódó témát) egy kiselőadásban a többiek -Thomas Nagy</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/n2wII_xwAgAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/1lv9HwG5zys/n2wII_xwAgAJ</guid>
-        <pubDate>Tue, 02 Feb 2021 14:36:44 UTC</pubDate>
       </item>
   </channel>
 </rss>
