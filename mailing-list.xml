@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] History: On Sat, Feb 27, 2021 at 1:44 PM Kiss Gabor (Bitman) wrote: &gt; Olvastam itt valakitől egy tanácsot, hogy ha egy épület és egy POI &gt; duplikálva hordozza ugyanazt a funkciót (pl. virágüzlet), &gt; akkor ne csak úgy simán töröljük ki a pontot, hanem építsük be &gt; a falba, és akkor -grin</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/mlrfGSCOSRo/2ZiBqZ9jAgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/mlrfGSCOSRo/2ZiBqZ9jAgAJ</guid>
+        <pubDate>Mon, 01 Mar 2021 20:58:43 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] History: Annyiban nem szeretem ezt a tanácsot, hogy félek sokakat a &quot;hagy a csudába, majd lesz rá jobb lehetőség&quot; (meg a hagyd a csudába, majd importáljuk ha adnak adatokat) halogatásra biztat, mikor egyáltalán nem biztos, hogy lesz jobb képanyag vagy lesz adatforrás. Illetve, ha lesz is, nem tudni -Feri Veres</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/mlrfGSCOSRo/CLtSdsZaAgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/mlrfGSCOSRo/CLtSdsZaAgAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/TcOtHmfzAwAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/TcOtHmfzAwAJ</guid>
         <pubDate>Sun, 07 Feb 2021 12:37:55 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Buszmegállók, járdák, utak tönkretétele (Fazu rajzolásai): Sziasztok! Fazu visszaírt nekem, hogy tudomásul vette a visszavonást, és megértette, amit kértem tőle. Ma ismét aktív, most éppen 30-as táblákat tesz az utakra: maxspeed=30 traffic_sign:direction=forward traffic_sign=maxspeed Van erre valami szükség? A sebességhatárt az út vonalára kell -Úr Balázs</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/OwORwpryAwAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/OwORwpryAwAJ</guid>
-        <pubDate>Sun, 07 Feb 2021 12:23:17 UTC</pubDate>
       </item>
   </channel>
 </rss>
