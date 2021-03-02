@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] History: Én kifejezetten támogatom ezeket a life-cycle prefixeket (bezárt üzlet, lebontott épület, átépített út stb.). Jó esetben a lelkes, ámde elavult forrásból dolgozó térképésznek feltűnik az ott levő előző objektum, és nem veszi fel újra. Leginkább házaknál találkoztam ilyennel, hogy valaki műholdképr -ITineris OSM</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/mlrfGSCOSRo/V7OfV1SAAgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/mlrfGSCOSRo/V7OfV1SAAgAJ</guid>
+        <pubDate>Tue, 02 Mar 2021 05:44:45 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] History: ha egy POI ( bolt ) bezár ( pl. gazdasági okok miatt ) és látszik a helye .. akkor lehet &quot;disused:&quot; prefixet is adni neki https://taginfo.openstreetmap.org/search?q=disused%3A ( vagy más esetben &quot;abandoned: -et. ) és akkor ha valami újra nyílik - ugyanitt .. akkor elég csak updatelni a POI-t -Imre Samu</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/mlrfGSCOSRo/QLBcszdvAgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/mlrfGSCOSRo/QLBcszdvAgAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/fwnDcYVHwAU/94UHtl5dBAAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/fwnDcYVHwAU/94UHtl5dBAAJ</guid>
         <pubDate>Mon, 08 Feb 2021 20:59:47 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Buszmegállók, járdák, utak tönkretétele (Fazu rajzolásai): lenne &gt; &gt; ideje kérdezni és wikit olvasni. &gt; &gt; Itt divat az ilyesmi??? :-( Nem. g -grin</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/7KQ5mNHzAwAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/7KQ5mNHzAwAJ</guid>
-        <pubDate>Sun, 07 Feb 2021 12:45:32 UTC</pubDate>
       </item>
   </channel>
 </rss>
