@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] History: ha egy POI ( bolt ) bezár ( pl. gazdasági okok miatt ) és látszik a helye .. akkor lehet &quot;disused:&quot; prefixet is adni neki https://taginfo.openstreetmap.org/search?q=disused%3A ( vagy más esetben &quot;abandoned: -et. ) és akkor ha valami újra nyílik - ugyanitt .. akkor elég csak updatelni a POI-t -Imre Samu</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/mlrfGSCOSRo/QLBcszdvAgAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/mlrfGSCOSRo/QLBcszdvAgAJ</guid>
+        <pubDate>Tue, 02 Mar 2021 00:31:10 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] History: On Sat, Feb 27, 2021 at 1:44 PM Kiss Gabor (Bitman) wrote: &gt; Olvastam itt valakitől egy tanácsot, hogy ha egy épület és egy POI &gt; duplikálva hordozza ugyanazt a funkciót (pl. virágüzlet), &gt; akkor ne csak úgy simán töröljük ki a pontot, hanem építsük be &gt; a falba, és akkor -grin</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/mlrfGSCOSRo/2ZiBqZ9jAgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/mlrfGSCOSRo/2ZiBqZ9jAgAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/7KQ5mNHzAwAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/7KQ5mNHzAwAJ</guid>
         <pubDate>Sun, 07 Feb 2021 12:45:32 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Buszmegállók, járdák, utak tönkretétele (Fazu rajzolásai): On Sun, 7 Feb 2021, Úr Balázs wrote: &gt; Nem lehetne adni neki egy néhány napos ban-t pihenésképpen? Közben lenne &gt; ideje kérdezni és wikit olvasni. Itt divat az ilyesmi??? :-( Kiss Gábor -Kiss Gabor</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/TcOtHmfzAwAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/TcOtHmfzAwAJ</guid>
-        <pubDate>Sun, 07 Feb 2021 12:37:55 UTC</pubDate>
       </item>
   </channel>
 </rss>
