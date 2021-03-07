@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Re: F9P + Android + ??? // RTK fun: A Lefebure app az Androidon a külső tárhely (external storage) alatt hoz létre egy NTRIP nevű directoryt, és itt tárolja az NMEA logokat. Nálam Android 9-en ez a /storage/emulated/0/NTRIP alatt látszik. Amennyire tudom, Android 10-től kezdődően a Google erősen megszigorította az appok külső -Gergely Matefi</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/jOjZOXM36sU/oI8ZrwI8AQAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/jOjZOXM36sU/oI8ZrwI8AQAJ</guid>
+        <pubDate>Sun, 07 Mar 2021 20:14:03 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Re: F9P + Android + ??? // RTK fun: Az antenna alapja: https://en.m.wikipedia.org/wiki/Ground_plane Bármi ami elektromos szempontból vezető. A mágneses tulajdonság meg jól jön, hogy az antenna rátapadjon. Ferenc Pozsonyi ezt írta (időpont: 2021. márc. 7., Vas 15:04): &gt; Sziasztok, &gt; egy kérdésem lenne -KAMI911 KAMI911</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/jOjZOXM36sU/dWZt9RQxAQAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/jOjZOXM36sU/dWZt9RQxAQAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/nDP4gZQIBQAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/nDP4gZQIBQAJ</guid>
         <pubDate>Thu, 11 Feb 2021 01:17:15 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Buszmegállók, járdák, utak tönkretétele (Fazu rajzolásai): Jó látni az együttműködést, szuper! JOSM-ot érdemes lehet megpróbálni, nem értem mi baja van vele sokaknak. Nagyon jó program. Többen csináltak oktatóvideót, grin-tube-on található, meg régebben én is írtam pár ötletet www.osmtippek.hu címen. https://tube.grin.hu/search?search=JOSM&amp;searchTarge -Feri Veres</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/PU-r5dHVBAAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/hgkKYahpCLg/PU-r5dHVBAAJ</guid>
-        <pubDate>Wed, 10 Feb 2021 09:47:03 UTC</pubDate>
       </item>
   </channel>
 </rss>
