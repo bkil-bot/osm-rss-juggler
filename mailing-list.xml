@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Magyarország: (Mindenkit kérek, hogy politikai véleménynyilvánítás helyett maradjunk meg szigorúan a térképészetnél! Köszönöm.) Van a 249399347-es pont, ami az ország középpontját jelzi, és kisebb nagyításoknál innen jön a felirat is. Beletartozik az ország határát jelző 21335-ös kapcsolatba, mint &quot;label&quot;. -ITineris OSM</title>
+        <link>https://groups.google.com/d/msg/openstreetmap-hungary/jOjZOXM36sU/gNXYxBg9AQAJ</link>
+        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/jOjZOXM36sU/gNXYxBg9AQAJ</guid>
+        <pubDate>Sun, 07 Mar 2021 20:33:58 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Re: F9P + Android + ??? // RTK fun: A Lefebure app az Androidon a külső tárhely (external storage) alatt hoz létre egy NTRIP nevű directoryt, és itt tárolja az NMEA logokat. Nálam Android 9-en ez a /storage/emulated/0/NTRIP alatt látszik. Amennyire tudom, Android 10-től kezdődően a Google erősen megszigorította az appok külső -Gergely Matefi</title>
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/jOjZOXM36sU/oI8ZrwI8AQAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/jOjZOXM36sU/oI8ZrwI8AQAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/d/msg/openstreetmap-hungary/bO0ToUpmIY8/Mk-5RYQrBgAJ</link>
         <guid>https://groups.google.com/d/msg/openstreetmap-hungary/bO0ToUpmIY8/Mk-5RYQrBgAJ</guid>
         <pubDate>Sun, 14 Feb 2021 18:08:43 UTC</pubDate>
-      </item><item>
-        <title>Re: Name tulajdonság villamosvonalakon: Sziasztok! Én egy ideje szélmalomharcot folytatok az ország teljes területén itt-ott ötletszerűen vasúti pályákra dobott name= kulcsok ellen. Törölni szoktam, mert plusz információt nem hordoz, helyette a vasútvonal számával szoktam ellátni ezeket (kapcsolat már van ezzel a névvel, vagy -d.le...@gmail.com</title>
-        <link>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/nDP4gZQIBQAJ</link>
-        <guid>https://groups.google.com/d/msg/openstreetmap-hungary/IRm-evZHT3g/nDP4gZQIBQAJ</guid>
-        <pubDate>Thu, 11 Feb 2021 01:17:15 UTC</pubDate>
       </item>
   </channel>
 </rss>
