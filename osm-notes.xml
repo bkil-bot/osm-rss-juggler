@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Újhegy, Balatonalmádi) / * 2020 February 15 19:12 Created: Balatonalmádi, Tisza utca hiányzik itt a térképről. / * 2020 February 25 15:53 gabro00 Updated: Felvettem, de nem látszik jól az utca vége. Csatlakozik az Erkel F. utcába? / https://www.openstreetmap.org/changeset/81462585 / * 2021 March 9 21:16 vasony Updated: elképzelhető, hogy a Bartók Béla utcánál is van egy része a Tisza utcának, azt is meg kell nézni.</title>
+        <link>https://www.openstreetmap.org/note/2091133#c5509274</link>
+        <guid>https://www.openstreetmap.org/note/2091133#c5509274</guid>
+        <pubDate>Tue, 09 Mar 2021 21:16:19 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Vörösberény, Balatonalmádi) / * 2021 March 7 21:17 vasony Created: Dugovics Titusz utca vagy Dugonics utca? / * 2021 March 9 20:59 vasony Resolved: Dugonics</title>
+        <link>https://www.openstreetmap.org/note/2569715#c5509230</link>
+        <guid>https://www.openstreetmap.org/note/2569715#c5509230</guid>
+        <pubDate>Tue, 09 Mar 2021 20:59:33 +0000</pubDate>
+      </item><item>
         <title>new note (near Rajcsúr, Örkény) / * 2021 March 9 10:37 vasony-qa Created: Piac tér vagy Piactér utca?</title>
         <link>https://www.openstreetmap.org/note/2571613#c5507590</link>
         <guid>https://www.openstreetmap.org/note/2571613#c5507590</guid>
@@ -117,36 +127,6 @@
         <link>https://www.openstreetmap.org/note/2569716#c5503596</link>
         <guid>https://www.openstreetmap.org/note/2569716#c5503596</guid>
         <pubDate>Sun, 07 Mar 2021 21:17:46 +0000</pubDate>
-      </item><item>
-        <title>new note (near Vörösberény, Balatonalmádi) / * 2021 March 7 21:17 vasony Created: Dugovics Titusz utca vagy Dugonics utca?</title>
-        <link>https://www.openstreetmap.org/note/2569715#c5503595</link>
-        <guid>https://www.openstreetmap.org/note/2569715#c5503595</guid>
-        <pubDate>Sun, 07 Mar 2021 21:17:45 +0000</pubDate>
-      </item><item>
-        <title>new note (near Öreghegy, Balatonalmádi) / * 2021 March 7 21:17 vasony Created: Nem Iker sétány? És kicsit délebre. Ellenőrizendő, hogy itt van-e út.</title>
-        <link>https://www.openstreetmap.org/note/2569714#c5503594</link>
-        <guid>https://www.openstreetmap.org/note/2569714#c5503594</guid>
-        <pubDate>Sun, 07 Mar 2021 21:17:45 +0000</pubDate>
-      </item><item>
-        <title>new note (near Szent István-telep, Budakalász) / * 2021 March 7 19:58 sd_ciastko Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/664709527 via StreetComplete 30.1: / Passz... Főleg, hogy mellette van egy másik 37/A / Attached photo(s): / https://westnordost.de/p/32424.jpg / https://westnordost.de/p/32425.jpg</title>
-        <link>https://www.openstreetmap.org/note/2569637#c5503343</link>
-        <guid>https://www.openstreetmap.org/note/2569637#c5503343</guid>
-        <pubDate>Sun, 07 Mar 2021 19:58:02 +0000</pubDate>
-      </item><item>
-        <title>new note (near Pestújhely, 15th district) / * 2021 March 7 17:07 vasony Created: Kaktusz-kert ellenőrizendő! Ez inkább valakinek a privát kertje mint egy park.</title>
-        <link>https://www.openstreetmap.org/note/2569436#c5502836</link>
-        <guid>https://www.openstreetmap.org/note/2569436#c5502836</guid>
-        <pubDate>Sun, 07 Mar 2021 17:07:59 +0000</pubDate>
-      </item><item>
-        <title>new note (near Gazdagrét, 11th district) / * 2021 March 7 15:50 Created: Home Concept üzlet</title>
-        <link>https://www.openstreetmap.org/note/2569309#c5502623</link>
-        <guid>https://www.openstreetmap.org/note/2569309#c5502623</guid>
-        <pubDate>Sun, 07 Mar 2021 15:50:47 +0000</pubDate>
-      </item><item>
-        <title>new note (near Alsórákos, 14th district) / * 2021 March 7 15:27 kogutowicz-mano Created: &amp;quot;Rózsavölgyi tér&amp;quot; utcatáblák jelentek meg a környéken. Meglehet egy csomó utcanevet és címet meg kell változtatni.</title>
-        <link>https://www.openstreetmap.org/note/2569246#c5502534</link>
-        <guid>https://www.openstreetmap.org/note/2569246#c5502534</guid>
-        <pubDate>Sun, 07 Mar 2021 15:27:41 +0000</pubDate>
       </item>
   </channel>
 </rss>
