@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>The #OpenStreetMap Belgium Mapper of the Month #MotM series goes international this month to interview Gustavo Soares from Brazil: https://openstreetmap.be/en/motm/2021/03/09/gustavo-soares.html</title>
+        <link>https://en.osm.town/@Doudouosm/105859900666204616</link>
+        <guid>https://en.osm.town/@Doudouosm/105859900666204616</guid>
+        <pubDate>Tue, 09 Mar 2021 12:44:54 +0000</pubDate>
+      </item><item>
         <title>#OSMQueries is a website with a collection of #Overpass API query tutorials. You’ll learn: * basics of the #OpenStreetMap data model * to extract nodes, ways and relations using different methods * to filter data to extract just the features of interest * to write spatial queries to find features within specific areas or within proximity * to output data as CSV and JSON https://blog.ldodds.com/2021/03/06/osm-queries/</title>
         <link>https://en.osm.town/@Doudouosm/105848735843468272</link>
         <guid>https://en.osm.town/@Doudouosm/105848735843468272</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/105412987883742723</link>
         <guid>https://en.osm.town/@Doudouosm/105412987883742723</guid>
         <pubDate>Sun, 20 Dec 2020 14:29:06 +0000</pubDate>
-      </item><item>
-        <title>Mapping public transport features in #OpenStreetMap is admittedly a complex subject. Here is #OsmAnd’s “Guidelines on how to build or correct public transport routes”: https://osmand.net/blog/guideline-pt</title>
-        <link>https://en.osm.town/@Doudouosm/105409180358116509</link>
-        <guid>https://en.osm.town/@Doudouosm/105409180358116509</guid>
-        <pubDate>Sat, 19 Dec 2020 22:20:48 +0000</pubDate>
       </item>
   </channel>
 </rss>
