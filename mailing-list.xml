@@ -3,6 +3,16 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Road Network Improvements in Hungary: A wiki oldaluk nem túl informatív, az eddigi &quot;road improvements&quot; tevékenységük elég édeskevés, főleg Magyarországra. &gt;&gt; Bolt smoothened GPS traces (internal and non-downloadable file) Vagyis nem teszik be a közös(ségbe) a track-eiket. Ez azért is baj, mert utánuk jön valaki, aki nem látja a -Máté Fehérvári</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/XvwSFjjmTpc/m/WmYa_CArAQAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/XvwSFjjmTpc/m/WmYa_CArAQAJ</guid>
+        <pubDate>Thu, 11 Mar 2021 17:07:43 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Road Network Improvements in Hungary: A &quot;local mapping guidelines&quot;-eink javarészt magyar nyelven érhetőek el. Ez jó lesz nekik? Egy kicsit vakarom a fejem, Magyarország mitől került fel a harmadik világbeli listájukra. A mi úthálózatunk lefedettsége szerintem eléggé jónak mondható. Naprakészségben is ott vagyunk, ami az útépítéseke -ITineris OSM</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/XvwSFjjmTpc/m/MTZUBu8oAQAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/XvwSFjjmTpc/m/MTZUBu8oAQAJ</guid>
+        <pubDate>Thu, 11 Mar 2021 16:27:29 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Road Network Improvements in Hungary: On Thu, 11 Mar 2021, 'Murad Vardzelyan' via openstreetmap-hungary wrote: &gt; We are going to start improving the road network in Hungary. Project &gt; details can be found here: &gt; https://wiki.openstreetmap.org/wiki/Organised_Editing/Activites/Bolt. We &gt; would like to get familiar with local mapping -Kiss Gabor</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/XvwSFjjmTpc/m/HvqeHqgmAQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/XvwSFjjmTpc/m/HvqeHqgmAQAJ</guid>
@@ -242,16 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/bF3SmwFBnZc/m/CrYsQjIgBAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/bF3SmwFBnZc/m/CrYsQjIgBAAJ</guid>
         <pubDate>Mon, 22 Feb 2021 10:13:32 UTC</pubDate>
-      </item><item>
-        <title>Re: történelmi vármegye határok?: Történelmi múltról szóló információ csak akkor való OSM-be, ha van valamilyen a helyszínen jelenleg is látható nyoma. Pl. egy máig létező régi határkőnél a description-ben egy-két mondatban le lehet írni a hozzá kapcsolódó egykori határokat, de már csak régi térképeken, levéltárakban létező -Benjámin</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/hgkKYahpCLg/m/8Wvw5w0gBAAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/hgkKYahpCLg/m/8Wvw5w0gBAAJ</guid>
-        <pubDate>Mon, 22 Feb 2021 10:10:56 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] történelmi vármegye határok?: Van egy boundary=historic: https://wiki.openstreetmap.org/wiki/Tag:boundary=historic A leírása szerint arra használható, hogy közigazgatási változások után egy értelmes ideig meg lehessen őrizni a korábbi állapotot, praktikus okokból. De ez a wikioldal is felhívja a figyelmet, hogy történelmi -Báthory Péter</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/hgkKYahpCLg/m/kmJPMRYfBAAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/hgkKYahpCLg/m/kmJPMRYfBAAJ</guid>
-        <pubDate>Mon, 22 Feb 2021 09:53:11 UTC</pubDate>
       </item>
   </channel>
 </rss>
