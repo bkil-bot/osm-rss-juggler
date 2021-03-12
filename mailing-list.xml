@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Road Network Improvements in Hungary: Re coverage: As of yet, Bolt is only available in Budapest (+agglomeration) and Debrecen (+agglomeration), so the first results will probably be from these areas. Re how tracks are collected: Bolt drivers are only required to have an Android phone (almost any make and model will do), a data -Bihari Kristóf</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/XvwSFjjmTpc/m/WK2bv25CAQAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/XvwSFjjmTpc/m/WK2bv25CAQAJ</guid>
+        <pubDate>Fri, 12 Mar 2021 00:14:46 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Road Network Improvements in Hungary: Dear Murad, Could you please clarify a little bit, what kind of activities (improvements) do you plan and based on which source data? If you would like to change the road network based on GPS tracks collected by mobile phones, they have likely lower accuracy than most of the road network in OSM -Samat</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/XvwSFjjmTpc/m/rJjaFNY2AQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/XvwSFjjmTpc/m/rJjaFNY2AQAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/mlrfGSCOSRo/m/AwrGKDOyAQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/mlrfGSCOSRo/m/AwrGKDOyAQAJ</guid>
         <pubDate>Sat, 27 Feb 2021 14:47:23 UTC</pubDate>
-      </item><item>
-        <title>History: (Nem, most nem a letűnt idők hajdanvolt objektumairól lesz szó. :) Olvastam itt valakitől egy tanácsot, hogy ha egy épület és egy POI duplikálva hordozza ugyanazt a funkciót (pl. virágüzlet), akkor ne csak úgy simán töröljük ki a pontot, hanem építsük be a falba, és akkor megmarad az élettörtén -Kiss Gabor (Bitman)</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/mlrfGSCOSRo/m/NAAwhXirAQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/mlrfGSCOSRo/m/NAAwhXirAQAJ</guid>
-        <pubDate>Sat, 27 Feb 2021 12:44:05 UTC</pubDate>
       </item>
   </channel>
 </rss>
