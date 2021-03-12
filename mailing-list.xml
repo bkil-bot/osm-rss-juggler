@@ -3,6 +3,16 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Road Network Improvements in Hungary: Thanks for the detailed response, Peter. The team will be notified on all the problem points you mentioned. We are going to translate the wiki to get familiar with the way you map roads in Hungary and in case of questions, we will reach out to you (For this, please decide which channel is the -Murad Vardzelyan</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/XvwSFjjmTpc/m/Be-GkqJrAQAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/XvwSFjjmTpc/m/Be-GkqJrAQAJ</guid>
+        <pubDate>Fri, 12 Mar 2021 12:49:49 UTC</pubDate>
+      </item><item>
+        <title>Re: Bolt contributions; changeset comments: Hey Peter, Thanks for bringing this up. We have started the process of complying with OSM community requirements starting 2021 (based on the feedback from OSM community). That's also the reason we contacted you beforehand for this particular project. This comment would be addressed accordingly -Murad Vardzelyan</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/OC8NCdNMeDE/m/qY1Sr3pqAQAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/OC8NCdNMeDE/m/qY1Sr3pqAQAJ</guid>
+        <pubDate>Fri, 12 Mar 2021 12:28:38 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] kla25 turistaút-átnevezései: Az önálló néven futó túraútvonalak (OKT, DDK, KDP, DDP) nevét célszerű lenn az MTSZ (pl. kektura.hu) által használt elnevezésekhez igazítani. A name=&quot;&quot;K, OKT&quot; szerintem tévedés, itt a name=&quot;OKT&quot; kellene, hogy maradjon. Jól látom, hogy ez egy új Relation, pedig van &quot;Országos Kéktúra&quot; is?! Ez így -Máté Fehérvári</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/DQI8y2RQGpw/m/pzirYkNoAQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/DQI8y2RQGpw/m/pzirYkNoAQAJ</guid>
@@ -242,16 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/mlrfGSCOSRo/m/CLtSdsZaAgAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/mlrfGSCOSRo/m/CLtSdsZaAgAJ</guid>
         <pubDate>Mon, 01 Mar 2021 18:16:34 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] History: Korábban én is ezt a módszert követtem és javasoltam, de volt, hogy galibát okozott. Amikor a PONT objektumhoz közöttem külső adatbázist, és az meg nyugodtan használta tovább. Hasonló az OSMHU &quot;place&quot; nód keresője (utcanév kiegészítő), ugyanis a városok saját adatait leíró &quot;place&quot; pontokból is -Feri Veres</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/mlrfGSCOSRo/m/fzSaRflZAgAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/mlrfGSCOSRo/m/fzSaRflZAgAJ</guid>
-        <pubDate>Mon, 01 Mar 2021 18:01:53 UTC</pubDate>
-      </item><item>
-        <title>Ökoszisztéma: Nyitottam ezt az új threadet, hogy a várfalakat kevésbé érintő módszertani kérdéseket is a megfelelő helyen lehessen megvitatni. Balázzsal egyet értek, a Wiki nem szentírás. Szerkesztők tetszőleges csoportja definiálhat új jelölési szótárakat, amelyeket szabadon dokumentálhat a Wikin. Egy OSM -Gergely Matefi</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/BB-2U1SjZ7M/m/jRsh9-NSAgAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/BB-2U1SjZ7M/m/jRsh9-NSAgAJ</guid>
-        <pubDate>Mon, 01 Mar 2021 15:52:05 UTC</pubDate>
       </item>
   </channel>
 </rss>
