@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] kla25 turistaút-átnevezései: Az önálló néven futó túraútvonalak (OKT, DDK, KDP, DDP) nevét célszerű lenn az MTSZ (pl. kektura.hu) által használt elnevezésekhez igazítani. A name=&quot;&quot;K, OKT&quot; szerintem tévedés, itt a name=&quot;OKT&quot; kellene, hogy maradjon. Jól látom, hogy ez egy új Relation, pedig van &quot;Országos Kéktúra&quot; is?! Ez így -Máté Fehérvári</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/DQI8y2RQGpw/m/pzirYkNoAQAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/DQI8y2RQGpw/m/pzirYkNoAQAJ</guid>
+        <pubDate>Fri, 12 Mar 2021 11:48:01 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] kla25 turistaút-átnevezései: Szia! Én az Osmose által jelzett problémákért írtam kla25-nek (pl. lemaradt nyitó-csukó zárójelek). Ezeknek a nagy részét javította. A konkrét felvetéshez: Ha a megjelenítőnek térképezik valaki, akkor szerintem az érdemi információ az adott szakasz neve, és nem a túramozgalom teljes megnevezé -ITineris OSM</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/DQI8y2RQGpw/m/5X5X8KhkAQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/DQI8y2RQGpw/m/5X5X8KhkAQAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/BB-2U1SjZ7M/m/jRsh9-NSAgAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/BB-2U1SjZ7M/m/jRsh9-NSAgAJ</guid>
         <pubDate>Mon, 01 Mar 2021 15:52:05 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Várfalak jelölése: On Mon, 1 Mar 2021, Meskó Balázs wrote: &gt; Alapvetően igazad van, de a wiki nem szentírás. Jelen esetben van egy wiki, &gt; ami mond valamit, illetve van a térképi adatbázis, amiben már szerepelnek &gt; adatok (egyébként egy nagyságrenddel több barrier=city_wall van, mint &gt; wall=castle_wall, igaz -Kiss Gabor (Bitman)</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/mYw8SHm4NuU/m/q78YYnBRAgAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/mYw8SHm4NuU/m/q78YYnBRAgAJ</guid>
-        <pubDate>Mon, 01 Mar 2021 15:25:29 UTC</pubDate>
       </item>
   </channel>
 </rss>
