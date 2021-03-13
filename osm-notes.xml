@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Taván, Budakalász) / * 2021 March 13 20:15 sd_ciastko Updated: Megtanultam. De akkor már visszakérdezek: miért 09:00-t írtál?</title>
+        <link>https://www.openstreetmap.org/note/2560597#c5520971</link>
+        <guid>https://www.openstreetmap.org/note/2560597#c5520971</guid>
+        <pubDate>Sat, 13 Mar 2021 20:15:45 +0000</pubDate>
+      </item><item>
+        <title>reactivated note (near Taván, Budakalász) / * 2021 March 1 05:37 sd_ciastko Created: Unable to answer &amp;quot;What are the collection times of this postbox?&amp;quot; for https://osm.org/node/4406000089 via StreetComplete 30.1: / Intervallum van megadva. Hogy jelöljük? / Attached photo(s): / https://westnordost.de/p/31585.jpg / * 2021 March 11 09:21 vasony Resolved: collection_times=Mo-Fr 09:00-17:00 / * 2021 March 13 20:14 sd_ciastko Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/2560597#c5520967</link>
+        <guid>https://www.openstreetmap.org/note/2560597#c5520967</guid>
+        <pubDate>Sat, 13 Mar 2021 20:14:17 +0000</pubDate>
+      </item><item>
         <title>new note (near Újpest, 4th district) / * 2021 March 13 14:39 ottwiz Created: Van az utca néven fixme, hogy meg kéne nézni az utca nevét.</title>
         <link>https://www.openstreetmap.org/note/2577639#c5520307</link>
         <guid>https://www.openstreetmap.org/note/2577639#c5520307</guid>
@@ -238,7 +248,7 @@
         <guid>https://www.openstreetmap.org/note/2551869#c5513686</guid>
         <pubDate>Thu, 11 Mar 2021 08:17:38 +0000</pubDate>
       </item><item>
-        <title>closed note (near Író utcák, Székesfehérvár) / * 2021 February 23 13:04 Garai Márk Created: &amp;quot;Egy kicsit máshol van, de már módosította &amp;quot; / The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI name: OMV / POI types: wheelchair-yes amenity-fuel / OSM data version: 2021-02-01T11:34:17Z / #mapsme / * 2021 March 11 08:13 vasony Resolved: A duplázódást megszüntettem.</title>
+        <title>closed note (near Íróutcák, Székesfehérvár) / * 2021 February 23 13:04 Garai Márk Created: &amp;quot;Egy kicsit máshol van, de már módosította &amp;quot; / The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI name: OMV / POI types: wheelchair-yes amenity-fuel / OSM data version: 2021-02-01T11:34:17Z / #mapsme / * 2021 March 11 08:13 vasony Resolved: A duplázódást megszüntettem.</title>
         <link>https://www.openstreetmap.org/note/2550343#c5513673</link>
         <guid>https://www.openstreetmap.org/note/2550343#c5513673</guid>
         <pubDate>Thu, 11 Mar 2021 08:13:41 +0000</pubDate>
@@ -262,21 +272,6 @@
         <link>https://www.openstreetmap.org/note/2548637#c5513664</link>
         <guid>https://www.openstreetmap.org/note/2548637#c5513664</guid>
         <pubDate>Thu, 11 Mar 2021 08:09:18 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Zalahaláp) / * 2021 February 21 18:29 TANK TV Created: &amp;quot;Itt egy több, mint 200 éves mamutfenyő állt, amit egy betegség miatt ki kellett vágni. / Here stood a more than 200-year-old mammoth pine that had to be cut down because of a disease.&amp;quot; / POI name: Óriás mamutfenyő / POI types: historic-memorial / OSM data version: 2021-02-01T11:34:17Z / #mapsme / * 2021 March 11 08:07 vasony Resolved: Felrajzolva a bejelentő által.</title>
-        <link>https://www.openstreetmap.org/note/2548016#c5513660</link>
-        <guid>https://www.openstreetmap.org/note/2548016#c5513660</guid>
-        <pubDate>Thu, 11 Mar 2021 08:07:04 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Prekobrdo, Budakalász) / * 2021 February 21 14:12 jétégé Created: Unable to answer &amp;quot;What surface does this path have here?&amp;quot; for https://osm.org/way/172176068 via StreetComplete 30.1: / Ez egy gázló plussz kövek a patakban, amin az lehet lépdelni. / * 2021 March 11 08:05 vasony Resolved: A gázló rajta volt, pontosítottam. / Most a 2 földút közti kis ösvényt megszüntettem és ha jó értem nem lehet átmenni járművel, ezt jelöltem rajta.</title>
-        <link>https://www.openstreetmap.org/note/2547575#c5513656</link>
-        <guid>https://www.openstreetmap.org/note/2547575#c5513656</guid>
-        <pubDate>Thu, 11 Mar 2021 08:05:30 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Újpest, 4th district) / * 2021 March 2 08:34 StinyGoat Created: Unable to answer &amp;quot;Is this playground publicly accessible?&amp;quot; for https://osm.org/node/2030499642 via StreetComplete 30.1: / It&amp;#39;s just a field, it&amp;#39;s not a playground. / * 2021 March 11 06:19 ottwiz Resolved: Bing műholdképen jól látszik, hogy ott csak fű van, semmiféle homok vagy játszótér.. (Esri clarity-n is ugyanez a helyzet van)</title>
-        <link>https://www.openstreetmap.org/note/2562287#c5513384</link>
-        <guid>https://www.openstreetmap.org/note/2562287#c5513384</guid>
-        <pubDate>Thu, 11 Mar 2021 06:19:35 +0000</pubDate>
       </item>
   </channel>
 </rss>
