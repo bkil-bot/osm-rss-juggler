@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Újpest, 4th district) / * 2021 March 13 14:39 ottwiz Created: Van az utca néven fixme, hogy meg kéne nézni az utca nevét.</title>
+        <link>https://www.openstreetmap.org/note/2577639#c5520307</link>
+        <guid>https://www.openstreetmap.org/note/2577639#c5520307</guid>
+        <pubDate>Sat, 13 Mar 2021 14:39:14 +0000</pubDate>
+      </item><item>
         <title>closed note (near Móraváros, Szeged) / * 2021 March 13 12:05 ITineris Resolved: Az ominózus útvonal kapcsolat nevében *már* benne van a &amp;quot;terelt&amp;quot;, így azt hagytam is itt. / Az OSMI szempontjából az a megoldás, hogy trolley_wire=no kerül fel a terelés útvonalára, amiből majd tudni fogja, hogy nem tévedésből megy itt az útvonal, hanem akkus a troli. (Mint Bp. belvárosában is vannak ilyenek.)</title>
         <link>https://www.openstreetmap.org/note/2543233#c5519939</link>
         <guid>https://www.openstreetmap.org/note/2543233#c5519939</guid>
@@ -282,11 +287,6 @@
         <link>https://www.openstreetmap.org/note/2048404#c5512798</link>
         <guid>https://www.openstreetmap.org/note/2048404#c5512798</guid>
         <pubDate>Wed, 10 Mar 2021 20:57:06 +0000</pubDate>
-      </item><item>
-        <title>reactivated note (near Újpest, 4th district) / * 2021 March 10 20:56 ottwiz Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/2048404#c5512795</link>
-        <guid>https://www.openstreetmap.org/note/2048404#c5512795</guid>
-        <pubDate>Wed, 10 Mar 2021 20:56:08 +0000</pubDate>
       </item>
   </channel>
 </rss>
