@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>#OpenStreetCam plugin becomes #KartaView and integrates new visualisation feature, including 360° images, in #JOSM: https://blog.improveosm.org/en/2021/03/openstreetcam-plugin-becomes-kartaview-and-integrates-new-visualisation-feature/. #OpenStreetMap (Via #WeeklyOSM: https://weeklyosm.eu/archives/14363)</title>
+        <link>https://en.osm.town/@Doudouosm/105887925428210480</link>
+        <guid>https://en.osm.town/@Doudouosm/105887925428210480</guid>
+        <pubDate>Sun, 14 Mar 2021 11:31:58 +0000</pubDate>
+      </item><item>
         <title>The #OpenStreetMap Belgium Mapper of the Month #MotM series goes international this month to interview Gustavo Soares from Brazil: https://openstreetmap.be/en/motm/2021/03/09/gustavo-soares.html</title>
         <link>https://en.osm.town/@Doudouosm/105859900666204616</link>
         <guid>https://en.osm.town/@Doudouosm/105859900666204616</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/105428565956985777</link>
         <guid>https://en.osm.town/@Doudouosm/105428565956985777</guid>
         <pubDate>Wed, 23 Dec 2020 08:30:49 +0000</pubDate>
-      </item><item>
-        <title>Do you know all street names in your area like the back of your hand ? Test your knowledge with the aptly-named game “Back of your Hand”: https://backofyourhand.com. It’s powered by #OpenStreetMap data, so you can use it as a quality-assurance tool.</title>
-        <link>https://en.osm.town/@Doudouosm/105412987883742723</link>
-        <guid>https://en.osm.town/@Doudouosm/105412987883742723</guid>
-        <pubDate>Sun, 20 Dec 2020 14:29:06 +0000</pubDate>
       </item>
   </channel>
 </rss>

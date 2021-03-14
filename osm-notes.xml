@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Tárnokliget, Tárnok) / * 2021 March 14 11:38 bkil Resolved: This function should be used to report OpenStreetMap map errors. It is not a private bookmark storage solution.</title>
+        <link>https://www.openstreetmap.org/note/2578288#c5522431</link>
+        <guid>https://www.openstreetmap.org/note/2578288#c5522431</guid>
+        <pubDate>Sun, 14 Mar 2021 11:38:49 +0000</pubDate>
+      </item><item>
         <title>new note (near Hűvösvölgy, 2nd district) / * 2021 March 14 09:03 sugarbotond Created: Szerintem itt nincs semmilyen út.</title>
         <link>https://www.openstreetmap.org/note/2578440#c5522006</link>
         <guid>https://www.openstreetmap.org/note/2578440#c5522006</guid>
@@ -187,41 +192,6 @@
         <link>https://www.openstreetmap.org/note/2564439#c5513881</link>
         <guid>https://www.openstreetmap.org/note/2564439#c5513881</guid>
         <pubDate>Thu, 11 Mar 2021 09:40:26 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Újlak, 3rd district) / * 2021 March 3 12:34 Created: Rajt / * 2021 March 11 09:38 vasony Resolved: Ez a funkció a térkép hibáinak jelzésére szolgál. Magánjellegű információk tárolásához nem használható.</title>
-        <link>https://www.openstreetmap.org/note/2564318#c5513874</link>
-        <guid>https://www.openstreetmap.org/note/2564318#c5513874</guid>
-        <pubDate>Thu, 11 Mar 2021 09:38:53 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Avasalja, Miskolc) / * 2021 March 3 08:47 Műhelyszoba Önmagamért Created: MŰHELYSZOBA ÖNMAGAMÉRT / Spirituális és Life Coaching / onmagamert.hu / * 2021 March 11 09:38 vasony Resolved: Dupla</title>
-        <link>https://www.openstreetmap.org/note/2563802#c5513873</link>
-        <guid>https://www.openstreetmap.org/note/2563802#c5513873</guid>
-        <pubDate>Thu, 11 Mar 2021 09:38:30 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Halesztanya, Szada) / * 2021 March 1 07:53 Szentmarjay Tibor Created: Ez Szőlő utca, nem Vasút utca / via StreetComplete 31.0-beta1 / * 2021 March 11 09:30 vasony Resolved: Köszönjük a jelentést. A térképet javítottam.</title>
-        <link>https://www.openstreetmap.org/note/2560717#c5513860</link>
-        <guid>https://www.openstreetmap.org/note/2560717#c5513860</guid>
-        <pubDate>Thu, 11 Mar 2021 09:30:36 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Szent István-telep, Budakalász) / * 2021 March 1 05:48 sd_ciastko Created: Sz16 / via StreetComplete 30.1 / * 2021 March 11 09:24 vasony Resolved: javítva</title>
-        <link>https://www.openstreetmap.org/note/2560611#c5513848</link>
-        <guid>https://www.openstreetmap.org/note/2560611#c5513848</guid>
-        <pubDate>Thu, 11 Mar 2021 09:24:21 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Taván, Budakalász) / * 2021 March 1 05:37 sd_ciastko Created: Unable to answer &amp;quot;What are the collection times of this postbox?&amp;quot; for https://osm.org/node/4406000089 via StreetComplete 30.1: / Intervallum van megadva. Hogy jelöljük? / Attached photo(s): / https://westnordost.de/p/31585.jpg / * 2021 March 11 09:21 vasony Resolved: collection_times=Mo-Fr 09:00-17:00</title>
-        <link>https://www.openstreetmap.org/note/2560597#c5513844</link>
-        <guid>https://www.openstreetmap.org/note/2560597#c5513844</guid>
-        <pubDate>Thu, 11 Mar 2021 09:21:54 +0000</pubDate>
-      </item><item>
-        <title>new note (near Cholnokyváros, Veszprém) / * 2021 March 11 09:16 vasony Created: https://www.veszprem.hu/hirdetmenyek/koezerdek/7613-egyiranyusitas / Felül kell vizsgálni a többi utca egyirányúságát is a környéken</title>
-        <link>https://www.openstreetmap.org/note/2574560#c5513821</link>
-        <guid>https://www.openstreetmap.org/note/2574560#c5513821</guid>
-        <pubDate>Thu, 11 Mar 2021 09:16:16 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Cholnokyváros, Veszprém) / * 2021 February 28 22:34 Created: Egyirányú a Balaton utca irányába / * 2021 March 11 09:13 vasony Resolved: Javítva.</title>
-        <link>https://www.openstreetmap.org/note/2560347#c5513819</link>
-        <guid>https://www.openstreetmap.org/note/2560347#c5513819</guid>
-        <pubDate>Thu, 11 Mar 2021 09:13:32 +0000</pubDate>
       </item>
   </channel>
 </rss>
