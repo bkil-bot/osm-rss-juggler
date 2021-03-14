@@ -3,6 +3,16 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>Of course, it’s not unexpected that a map of sea #beacons makes continent outlines visible (it’s what they’re for, after all). What is fascinating is there is enough #OpenStreetMap data to make a map so accurately detailed. And a colorful and visually pleasing result. http://beacons.schmirler.de/en/world.html#map=5/45.4930870127121/1.2637796167170645&amp;amp;layers=OS9&amp;amp;details=18 #beaconmap (Via #WeeklyOSM: weeklyosm.eu/archives/14363)</title>
+        <link>https://en.osm.town/@Doudouosm/105889030204725909</link>
+        <guid>https://en.osm.town/@Doudouosm/105889030204725909</guid>
+        <pubDate>Sun, 14 Mar 2021 16:12:56 +0000</pubDate>
+      </item><item>
+        <title>You won’t have to fly to Buenos Aires to attend this year’s #FOSS4G event (Free and Open Source Software for #Geospatial), as it will take place online from 27 September to 2 October 2021: https://2021.foss4g.org. (Via #WeeklyOSM: https://weeklyosm.eu/archives/14363)</title>
+        <link>https://en.osm.town/@Doudouosm/105888826227880581</link>
+        <guid>https://en.osm.town/@Doudouosm/105888826227880581</guid>
+        <pubDate>Sun, 14 Mar 2021 15:21:03 +0000</pubDate>
+      </item><item>
         <title>#OpenStreetCam plugin becomes #KartaView and integrates new visualisation feature, including 360° images, in #JOSM: https://blog.improveosm.org/en/2021/03/openstreetcam-plugin-becomes-kartaview-and-integrates-new-visualisation-feature/. #OpenStreetMap (Via #WeeklyOSM: https://weeklyosm.eu/archives/14363)</title>
         <link>https://en.osm.town/@Doudouosm/105887925428210480</link>
         <guid>https://en.osm.town/@Doudouosm/105887925428210480</guid>
@@ -92,16 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/105470918056134940</link>
         <guid>https://en.osm.town/@Doudouosm/105470918056134940</guid>
         <pubDate>Wed, 30 Dec 2020 20:01:30 +0000</pubDate>
-      </item><item>
-        <title>#Amazon launches Amazon Location Service, powered by #Esri, #HERE, and #OpenStreetMap: https://aws.amazon.com/blogs/aws/amazon-location-add-maps-and-location-awareness-to-your-applications/. It’s “in preview” and “priced at a fraction of common alternatives”.</title>
-        <link>https://en.osm.town/@Doudouosm/105468782482461699</link>
-        <guid>https://en.osm.town/@Doudouosm/105468782482461699</guid>
-        <pubDate>Wed, 30 Dec 2020 10:58:24 +0000</pubDate>
-      </item><item>
-        <title>With #MapComplete, you can create your own contribution theme to easily add data to #OpenStreetMap. It’s a crossover of #StreetComplete and #MapContrib: as easy to use as StreetComplete, but focused on a single subject (e.g. nature, bicycle infrastructure, ...). - Video: https://www.youtube.com/watch?v=nVbFrNVPxPw - Project: https://github.com/pietervdvn/MapComplete - Wiki: https://wiki.openstreetmap.org/wiki/MapComplete</title>
-        <link>https://en.osm.town/@Doudouosm/105428565956985777</link>
-        <guid>https://en.osm.town/@Doudouosm/105428565956985777</guid>
-        <pubDate>Wed, 23 Dec 2020 08:30:49 +0000</pubDate>
       </item>
   </channel>
 </rss>
