@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Hűvösvölgy, 2nd district) / * 2021 March 14 09:03 sugarbotond Created: Szerintem itt nincs semmilyen út.</title>
+        <link>https://www.openstreetmap.org/note/2578440#c5522006</link>
+        <guid>https://www.openstreetmap.org/note/2578440#c5522006</guid>
+        <pubDate>Sun, 14 Mar 2021 09:03:51 +0000</pubDate>
+      </item><item>
         <title>new note (near Belváros, Pécs) / * 2021 March 14 08:14 szelenyit Created: &amp;quot;Megszünt (Closed)&amp;quot; / The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI has no name / POI types: shop-greengrocer / OSM data version: 2021-02-01T11:34:17Z / #mapsme</title>
         <link>https://www.openstreetmap.org/note/2578401#c5521927</link>
         <guid>https://www.openstreetmap.org/note/2578401#c5521927</guid>
@@ -247,11 +252,6 @@
         <link>https://www.openstreetmap.org/note/2552162#c5513694</link>
         <guid>https://www.openstreetmap.org/note/2552162#c5513694</guid>
         <pubDate>Thu, 11 Mar 2021 08:21:05 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Újpest, 4th district) / * 2021 February 25 13:42 vasony-qa Created: Vagy a 2-8-as interpoláció vagy 8-as házszám nem jó / * 2021 March 11 08:20 ottwiz Resolved: StinyGoat volt a környéken ma, csak ő mivel nem tudja annyira használni a JOSM-et én vittem fel a módosítást ott. Fényképes bizonyítékkal mutatta, hogy a Klapka György- Nagysándor József sarkán ott van a Szent László tér 8 (panelház), így feldaraboltam szegmensre.</title>
-        <link>https://www.openstreetmap.org/note/2554798#c5513693</link>
-        <guid>https://www.openstreetmap.org/note/2554798#c5513693</guid>
-        <pubDate>Thu, 11 Mar 2021 08:20:30 +0000</pubDate>
       </item>
   </channel>
 </rss>
