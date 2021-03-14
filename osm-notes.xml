@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Belváros, Pécs) / * 2021 March 14 08:14 szelenyit Created: &amp;quot;Megszünt (Closed)&amp;quot; / The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI has no name / POI types: shop-greengrocer / OSM data version: 2021-02-01T11:34:17Z / #mapsme</title>
+        <link>https://www.openstreetmap.org/note/2578401#c5521927</link>
+        <guid>https://www.openstreetmap.org/note/2578401#c5521927</guid>
+        <pubDate>Sun, 14 Mar 2021 08:14:34 +0000</pubDate>
+      </item><item>
         <title>new note (near Tárnokliget, Tárnok) / * 2021 March 14 04:41 Laslo Urban Created: Tarnok.</title>
         <link>https://www.openstreetmap.org/note/2578288#c5521612</link>
         <guid>https://www.openstreetmap.org/note/2578288#c5521612</guid>
@@ -247,21 +252,6 @@
         <link>https://www.openstreetmap.org/note/2554798#c5513693</link>
         <guid>https://www.openstreetmap.org/note/2554798#c5513693</guid>
         <pubDate>Thu, 11 Mar 2021 08:20:30 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Taván, Budakalász) / * 2021 February 24 06:02 sd_ciastko Created: Unable to answer &amp;quot;What is the house number of this building?&amp;quot; for https://osm.org/way/878551700 via StreetComplete 30.0: / Mi a helyes forma? / Attached photo(s): / https://westnordost.de/p/30780.jpg / https://westnordost.de/p/30781.jpg / * 2021 March 11 08:17 vasony Resolved: addr:housenumber=&amp;quot;8/d&amp;quot; / addr:unit=A</title>
-        <link>https://www.openstreetmap.org/note/2551869#c5513686</link>
-        <guid>https://www.openstreetmap.org/note/2551869#c5513686</guid>
-        <pubDate>Thu, 11 Mar 2021 08:17:38 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Íróutcák, Székesfehérvár) / * 2021 February 23 13:04 Garai Márk Created: &amp;quot;Egy kicsit máshol van, de már módosította &amp;quot; / The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI name: OMV / POI types: wheelchair-yes amenity-fuel / OSM data version: 2021-02-01T11:34:17Z / #mapsme / * 2021 March 11 08:13 vasony Resolved: A duplázódást megszüntettem.</title>
-        <link>https://www.openstreetmap.org/note/2550343#c5513673</link>
-        <guid>https://www.openstreetmap.org/note/2550343#c5513673</guid>
-        <pubDate>Thu, 11 Mar 2021 08:13:41 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Újpest, 4th district) / * 2021 February 23 08:24 StinyGoat Created: Unable to answer &amp;quot;What kind of crossing is this?&amp;quot; for https://osm.org/node/1509445439 via StreetComplete 30.0: / There&amp;#39;s no visible crossing here. / * 2021 March 11 08:12 vasony Resolved: Törölve.</title>
-        <link>https://www.openstreetmap.org/note/2550049#c5513669</link>
-        <guid>https://www.openstreetmap.org/note/2550049#c5513669</guid>
-        <pubDate>Thu, 11 Mar 2021 08:12:14 +0000</pubDate>
       </item>
   </channel>
 </rss>
