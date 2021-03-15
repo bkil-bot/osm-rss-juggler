@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Lupasziget, Budakalász) / * 2021 January 9 18:55 Created: The OSM map is correct. What Locus is showing is bad. The bike path handed over last year is also true on the OSM map. The red path is mine. I don not have pedal boat 😀 / * 2021 March 15 17:11 Narvik2 Resolved: Amennyiben az OSM térkép helyes és a Locus hibás, akkor az OSM szerkesztők helyett a Locus fejlesztőinek jelezd a hibát.</title>
+        <link>https://www.openstreetmap.org/note/2491553#c5526688</link>
+        <guid>https://www.openstreetmap.org/note/2491553#c5526688</guid>
+        <pubDate>Mon, 15 Mar 2021 17:11:16 +0000</pubDate>
+      </item><item>
+        <title>new note (near Káposztásmegyer, 4th district) / * 2021 March 15 16:24 vasony Created: Felülvizsgálandók ezek az objektumok: Játszótér, Szalonnázó, Cinkék-etetőhelye stb.</title>
+        <link>https://www.openstreetmap.org/note/2580368#c5526575</link>
+        <guid>https://www.openstreetmap.org/note/2580368#c5526575</guid>
+        <pubDate>Mon, 15 Mar 2021 16:24:46 +0000</pubDate>
+      </item><item>
         <title>new note (near Videoton Ipari Park, Szabadságpuszta, Veszprém) / * 2021 March 15 16:14 Máté Jakab Created: &amp;quot;ValeoSiemens eAutomotive&amp;quot; / POI has no name / POI types: building / OSM data version: 2021-02-01T11:34:17Z / #mapsme</title>
         <link>https://www.openstreetmap.org/note/2580349#c5526533</link>
         <guid>https://www.openstreetmap.org/note/2580349#c5526533</guid>
@@ -117,31 +127,6 @@
         <link>https://www.openstreetmap.org/note/2577639#c5520307</link>
         <guid>https://www.openstreetmap.org/note/2577639#c5520307</guid>
         <pubDate>Sat, 13 Mar 2021 14:39:14 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Móraváros, Szeged) / * 2021 March 13 12:05 ITineris Resolved: Az ominózus útvonal kapcsolat nevében *már* benne van a &amp;quot;terelt&amp;quot;, így azt hagytam is itt. / Az OSMI szempontjából az a megoldás, hogy trolley_wire=no kerül fel a terelés útvonalára, amiből majd tudni fogja, hogy nem tévedésből megy itt az útvonal, hanem akkus a troli. (Mint Bp. belvárosában is vannak ilyenek.)</title>
-        <link>https://www.openstreetmap.org/note/2543233#c5519939</link>
-        <guid>https://www.openstreetmap.org/note/2543233#c5519939</guid>
-        <pubDate>Sat, 13 Mar 2021 12:05:09 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Móraváros, Szeged) / * 2021 March 13 11:53 gabro00 Updated: Na várj, itt Szegeden a terelt útvonalak is rajta vannak (talán disused prefixszel), amiket így elő lehet rántani, ha újra bevezetik a korlátozásokat. Kérdezd meg a Attilát törölhető-e a kapcsolat vagy elég a disused prefix, ő tartja karban az egész szegedi hálózatot, mások nem is szokták szerkeszteni, csak ha körforgalom probléma van.</title>
-        <link>https://www.openstreetmap.org/note/2543233#c5519921</link>
-        <guid>https://www.openstreetmap.org/note/2543233#c5519921</guid>
-        <pubDate>Sat, 13 Mar 2021 11:53:27 +0000</pubDate>
-      </item><item>
-        <title>reactivated note (near Móraváros, Szeged) / * 2021 March 13 11:50 gabro00 Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/2543233#c5519918</link>
-        <guid>https://www.openstreetmap.org/note/2543233#c5519918</guid>
-        <pubDate>Sat, 13 Mar 2021 11:50:34 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Móraváros, Szeged) / * 2021 March 13 11:46 ITineris Resolved: Én is úgy gondolom, hogy a 7-eshez hasonlóan a Bakay Nándoron megy be a kocsiszínhez, de így a távolból mégsem akartam kérdés nélkül áttúrni. / Akkor javítom a troli útvonalát.</title>
-        <link>https://www.openstreetmap.org/note/2543233#c5519907</link>
-        <guid>https://www.openstreetmap.org/note/2543233#c5519907</guid>
-        <pubDate>Sat, 13 Mar 2021 11:46:29 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Móraváros, Szeged) / * 2021 February 18 07:39 ITineris Created: a.) A 7A troli a kocsiszín felé valóban kimegy itt a Kálvária térhez, vagy az csak valami ideiglenes terelés volt a Cédrus Liget építkezése miatt? / b.) Csináltak felsővezetéket a Boros - Kálvária sgt. - Vásárhelyi útvonalon? Tavaly nyáron a Kálvária sugárúton még biztosan nem volt. / * 2021 March 13 11:13 gabro00 Updated: a, Ideiglenes lehetett, már csak azért is, mert itt alszanak https://www.openstreetmap.org/relation/10602980 / b, Elég valószínűtlen. / Az újabb szegedi (piros) trolik néhány kilométert önjáró módban (akkumulátorról, felsővezeték nélkül) is képesek közlekedni. Itt is valami ilyesmi lehetett, bár bizton nem tudom állítani. A naprakész menetrend egyébként itt található https://szkt.hu/route/7a-trolibusz</title>
-        <link>https://www.openstreetmap.org/note/2543233#c5519811</link>
-        <guid>https://www.openstreetmap.org/note/2543233#c5519811</guid>
-        <pubDate>Sat, 13 Mar 2021 11:13:25 +0000</pubDate>
       </item>
   </channel>
 </rss>
