@@ -3,6 +3,16 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Kerékpárutak (path vs cycleway): Sziasztok! A képeket kivétel nélkül én készítettem, de nekem nincs jogom feltölteni képet(!), ezért ment András nevén. A licenszeket ennek megfelelően lehetne beállítani. Szem 2021.03.16. 10:46 keltezéssel, AndreasTUHU írta: Szia Szem/sziasztok! Mateusz Konieczny kiszúrta, hogy a Kerékpárút -Szem</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/_-7kPMFN_oQ/m/tEYbqpucAgAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/_-7kPMFN_oQ/m/tEYbqpucAgAJ</guid>
+        <pubDate>Tue, 16 Mar 2021 09:58:30 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Kerékpárutak (path vs cycleway): Szia Szem/sziasztok! Mateusz Konieczny kiszúrta, hogy a Kerékpárút példák oldalon szereplő képeknek nincs beállítva a licensze, ezért jelezte hogy hamarosan törli őket. https://wiki.openstreetmap.org/wiki/User:Mateusz_Konieczny https://wiki.openstreetmap.org/wiki/User_talk:AndreasTUHU#Source.2C_l -AndreasTUHU</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/_-7kPMFN_oQ/m/srmdPPGbAgAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/_-7kPMFN_oQ/m/srmdPPGbAgAJ</guid>
+        <pubDate>Tue, 16 Mar 2021 09:46:18 UTC</pubDate>
+      </item><item>
         <title>Re: kla25 turistaút-átnevezései: Látom van bőven változtatás: https://www.openstreetmap.org/user/kla25/history#map=8/47.316/19.212 Az nem baj, ha egységesítve lesz, de valóban kívánatos, hogy beszéljük meg a részleteket! pl. ne legyen a névben illegális karakter. A hosszú saját néven futó nagyobb utak esetében legyen e rövidítés -turistautsz...@gmail.com</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/DQI8y2RQGpw/m/MP-l6-K-AQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/DQI8y2RQGpw/m/MP-l6-K-AQAJ</guid>
@@ -242,16 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/2O_0BINBhKA/m/31EoGJfjAAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/2O_0BINBhKA/m/31EoGJfjAAAJ</guid>
         <pubDate>Sat, 06 Mar 2021 17:13:44 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] History: Én kifejezetten támogatom ezeket a life-cycle prefixeket (bezárt üzlet, lebontott épület, átépített út stb.). Jó esetben a lelkes, ámde elavult forrásból dolgozó térképésznek feltűnik az ott levő előző objektum, és nem veszi fel újra. Leginkább házaknál találkoztam ilyennel, hogy valaki műholdképr -ITineris OSM</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/mlrfGSCOSRo/m/V7OfV1SAAgAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/mlrfGSCOSRo/m/V7OfV1SAAgAJ</guid>
-        <pubDate>Tue, 02 Mar 2021 05:44:45 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] History: ha egy POI ( bolt ) bezár ( pl. gazdasági okok miatt ) és látszik a helye .. akkor lehet &quot;disused:&quot; prefixet is adni neki https://taginfo.openstreetmap.org/search?q=disused%3A ( vagy más esetben &quot;abandoned: -et. ) és akkor ha valami újra nyílik - ugyanitt .. akkor elég csak updatelni a POI-t -Imre Samu</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/mlrfGSCOSRo/m/QLBcszdvAgAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/mlrfGSCOSRo/m/QLBcszdvAgAJ</guid>
-        <pubDate>Tue, 02 Mar 2021 00:31:10 UTC</pubDate>
       </item>
   </channel>
 </rss>
