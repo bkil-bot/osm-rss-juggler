@@ -3,6 +3,21 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Kerékpárutak (path vs cycleway): Igen, bocs, external linknél nem pipe, hanem szóköz kell: == Licensing == Author: [https://www.openstreetmap.org/user/Szem Szem] {{CC-BY-SA-4.0}} 2021. 03. 17. 20:42 keltezéssel, AndreasTUHU írta: &gt; Nekem így hozzáfűzi a linkhez a &quot;|Szem&quot; sztringet is. &gt; &gt; ivan....@gmail.com a következőt -Kádár Iván</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/_-7kPMFN_oQ/m/0Jm40WgMAwAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/_-7kPMFN_oQ/m/0Jm40WgMAwAJ</guid>
+        <pubDate>Wed, 17 Mar 2021 20:07:16 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Kerékpárutak (path vs cycleway): Nekem így hozzáfűzi a linkhez a &quot;|Szem&quot; sztringet is. ivan....@gmail.com a következőt írta (2021. március 17., szerda, 20:21:06 UTC+1): &gt; Így kéne működnie: &gt; &gt; == Licensing == &gt; Author: [https://www.openstreetmap.org/user/Szem|Szem] &gt; {{CC-BY-SA-4.0}} &gt; &gt; -AndreasTUHU</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/_-7kPMFN_oQ/m/YGwkDg4LAwAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/_-7kPMFN_oQ/m/YGwkDg4LAwAJ</guid>
+        <pubDate>Wed, 17 Mar 2021 19:42:28 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Kerékpárutak (path vs cycleway): Így kéne működnie: == Licensing == Author: [https://www.openstreetmap.org/user/Szem|Szem] {{CC-BY-SA-4.0}} 2021. 03. 17. 18:53 keltezéssel, AndreasTUHU írta: &gt; Ezt pontosan hogyan kell linkelni ebben a User template-ben (vagy hogy &gt; hívják :)? &gt; Ha bármelyik &quot;Szem&quot; sztringet helyettesítem, -Kádár Iván</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/_-7kPMFN_oQ/m/SMmeruMJAwAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/_-7kPMFN_oQ/m/SMmeruMJAwAJ</guid>
+        <pubDate>Wed, 17 Mar 2021 19:21:06 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Kerékpárutak (path vs cycleway): Ezt pontosan hogyan kell linkelni ebben a User template-ben (vagy hogy hívják :)? Ha bármelyik &quot;Szem&quot; sztringet helyettesítem, akkor nem lesz jó a végeredmény. Vagy egy plusz különálló linket tegyek be? Pl így? == Licensing == Author: [[User:Szem|Szem]][[https://www.openstreetmap.org/user/Szem]] -AndreasTUHU</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/_-7kPMFN_oQ/m/DMimzSEFAwAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/_-7kPMFN_oQ/m/DMimzSEFAwAJ</guid>
@@ -237,21 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/jOjZOXM36sU/m/Ot5IIKolAQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/jOjZOXM36sU/m/Ot5IIKolAQAJ</guid>
         <pubDate>Sun, 07 Mar 2021 13:24:34 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Re: F9P + Android + ??? // RTK fun: Szia, köszönöm a gyors segítséget! Minden kérdésedre igen a válasz, mindent úgy próbáltam, ahogy írod. Hétvégén az euref-ip regisztráció sztem szünetel, remélem holnap lesz megoldás. A Lefebure NTRIP appnak minden jogosultságot megadtam, amit kért, és lehetett. Alább a telepítés leírása. A -Pozsonyi Ferenc (Jeladó)</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/jOjZOXM36sU/m/otAgSS8kAQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/jOjZOXM36sU/m/otAgSS8kAQAJ</guid>
-        <pubDate>Sun, 07 Mar 2021 12:57:27 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Re: F9P + Android + ??? // RTK fun: Szia, On Sun, Mar 7, 2021 at 9:06 AM Pozsonyi Ferenc (Jeladó) wrote: &gt; nekem is megérkezett végre az F9P. Elég nehezen sikerült Windows alatt bekapcsolni a BT-t, mert sehogy sem akart települni a driver a leírás szerint. Ha valakit érdekel, szívesen leírom a megoldást. -grin</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/jOjZOXM36sU/m/7wSaieQjAQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/jOjZOXM36sU/m/7wSaieQjAQAJ</guid>
-        <pubDate>Sun, 07 Mar 2021 12:52:06 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Re: Márciusi találkozó: Rákospalota 100%-ig térképezése, egyebek: Illetve majd megtanulod, hogy a 100% egy szubjektív fogalom aminek jelentését a szerződések megírásakor a jogászok golfban döntik el! On Sun, Mar 7, 2021 at 12:24 AM Budaörsi wrote: &gt; &gt; Marketinges túlzás, majd ha dolgozol cégnél látsz majd czifrább dolgokat is salesesekt -Thomas Nagy</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/2O_0BINBhKA/m/tV0a-g8hAQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/2O_0BINBhKA/m/tV0a-g8hAQAJ</guid>
-        <pubDate>Sun, 07 Mar 2021 12:00:14 UTC</pubDate>
       </item>
   </channel>
 </rss>
