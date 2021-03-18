@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Épület rajzolás és módosítás - Kispest: Szia! Úgy látom, hogy ott alapvető problémák is vannak. A kérdéses épületeket nyugodtan töröld, és rajzold meg egy épületnek, a FÖMI 2007-2010 ortofotóról látható tagolással. Kérlek, hogy a környéken a panelházakat négyszögesítsd majd (JOSM-ben a Q gomb). A címeket én POI-ként helyezném el a -Máté Fehérvári</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/Ms585RkLBQAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/Ms585RkLBQAJ</guid>
+        <pubDate>Thu, 18 Mar 2021 15:47:33 UTC</pubDate>
+      </item><item>
         <title>Épület rajzolás és módosítás - Kispest: Sziasztok! Kispest lakótelep városépítés történetével foglalkozok, kutakodásaimat közzé is teszem a honlapomon: https://hermanp.github.io/hu/post/. A probléma: Szeretném ábrázolni a panel lakóépületeket térképen, interaktívan. Ehhez szükségem van az épületek körvonalaira, amit az angol -Péter Herman</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/FwA35MoIBQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/FwA35MoIBQAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/jOjZOXM36sU/m/gNXYxBg9AQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/jOjZOXM36sU/m/gNXYxBg9AQAJ</guid>
         <pubDate>Sun, 07 Mar 2021 20:33:58 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Re: F9P + Android + ??? // RTK fun: A Lefebure app az Androidon a külső tárhely (external storage) alatt hoz létre egy NTRIP nevű directoryt, és itt tárolja az NMEA logokat. Nálam Android 9-en ez a /storage/emulated/0/NTRIP alatt látszik. Amennyire tudom, Android 10-től kezdődően a Google erősen megszigorította az appok külső -Gergely Matefi</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/jOjZOXM36sU/m/oI8ZrwI8AQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/jOjZOXM36sU/m/oI8ZrwI8AQAJ</guid>
-        <pubDate>Sun, 07 Mar 2021 20:14:03 UTC</pubDate>
       </item>
   </channel>
 </rss>
