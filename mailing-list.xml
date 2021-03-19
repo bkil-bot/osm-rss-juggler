@@ -3,12 +3,42 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Épület rajzolás és módosítás - Kispest: On Fri, 19 Mar 2021, Máté Fehérvári wrote: &gt; Érdekes az a 4 és 5 szintes csatlakozó épület. Nem tudom, mi lehetett &gt; mögötte a logika, hogy nem az egyikből, vagy a másikból építették Epitomuveszet. &gt; kizárólag. Talán a gépészet, kazánház, háztömb fűtés, vagy villamos &gt; trafóház elhelyezése? -Kiss Gabor</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/WXQTuKBHBQAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/WXQTuKBHBQAJ</guid>
+        <pubDate>Fri, 19 Mar 2021 10:16:43 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Épület rajzolás és módosítás - Kispest: Sziasztok! Először is örülök, hogy hasznára válik a projektedned az OSM adat, különösen így, ha emiatt hozzá is rajzolsz. :) Épület magasságokkal a XIII. kerület egy kis részén foglalkoztam itt meg lehet nézni a látványos eredményt: https://demo.f4map.com/#lat=47.5262287&amp;lon=19.0589625&amp;zoom=18 -Feri Veres</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/zB-SunJHBQAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/zB-SunJHBQAJ</guid>
+        <pubDate>Fri, 19 Mar 2021 10:13:25 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Épület rajzolás és módosítás - Kispest: Én is egyben rajzolom, ami egyben épült. Vulgárisan megfogalmazva akkor rakom fel külön épületként, ha akár láthatóan tűzfallal épültek (ikerház, sorház), akár láthatóan külön tetőszerkezet van. Egy panel szalagház nálam nem ilyen, azaz egy épület. (Sőt, még olyat is láttam, hogy anno a folyosók -ITineris OSM</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/dOSA5ZhFBQAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/dOSA5ZhFBQAJ</guid>
+        <pubDate>Fri, 19 Mar 2021 09:39:30 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Épület rajzolás és módosítás - Kispest: Érdekes az a 4 és 5 szintes csatlakozó épület. Nem tudom, mi lehetett mögötte a logika, hogy nem az egyikből, vagy a másikból építették kizárólag. Talán a gépészet, kazánház, háztömb fűtés, vagy villamos trafóház elhelyezése? Herman Péter ezt írta (időpont: 2021. márc. 19., -Máté Fehérvári</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/eUdTbgFFBQAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/eUdTbgFFBQAJ</guid>
+        <pubDate>Fri, 19 Mar 2021 09:28:40 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Épület rajzolás és módosítás - Kispest: Én egy egybeépített (panel) háztömböt egyben rajzolnák, egy körvonallal. Nyilván minden lépcsőháznak más a házszáma, de ezeket POI-ba tenném fel. Ha a magasságuk (szintjeik száma) eltér, akkor az épületrészeket külön rajzolnám. Szerintem ez ritka panelnél. Van a building:part=yes, ennek a -Máté Fehérvári</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/A835BapEBQAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/A835BapEBQAJ</guid>
+        <pubDate>Fri, 19 Mar 2021 09:22:24 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Épület rajzolás és módosítás - Kispest: Az előbbi példámnál maradva (1191 Budapest Vak Bottyán u. 60, Google Maps-en jól látható), ebben az esetben nem tartom célszerűnek az épületrészenkénti rajzolást. Ez például egy H-O típusú házgyári épület, ami (tapasztalat alapján, mivel eddig még nem láthattam a típustervet) úgy van kialakítva, -Herman Péter</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/qPoYXqFEBQAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/qPoYXqFEBQAJ</guid>
+        <pubDate>Fri, 19 Mar 2021 09:21:47 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Épület rajzolás és módosítás - Kispest: Amikor egy (akár házgyári elemekből épült) háztömb több önálló (saját lépcsőház, saját házszám, akár más magasság) rendelkezik, akkor ugye jó az, ha ezek külön épületrészként vannak körberajzolva, amik értelemszerűen összeérnek (közös pontokkal egybeépítve)? Jobb, mintha egy körvonallal -Rózsa Gza (Géza) István Özséb</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/kz0c2bBDBQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/kz0c2bBDBQAJ</guid>
         <pubDate>Fri, 19 Mar 2021 09:04:34 UTC</pubDate>
       </item><item>
-        <title>Re: [osm-hu] Épület rajzolás és módosítás - Kispest: Sziasztok! Az 1191 Budapest Vak Bottyán u. 60-nál látható, hogy a társasháznak van 4 és 5 szintes része is. Olvastam a Key:building:part wikit és az alábbiak alapján (kiemelés tőlem): Where a building has been split into parts, the whole building way should &gt; still have the tags building:levels -Herman Péter</title>
+        <title>Re: [osm-hu] Épület rajzolás és módosítás - Kispest: Sziasztok! Az 1191 Budapest Vak Bottyán u. 60-nál látható, hogy a társasháznak van 4 és 5 szintes része is. Olvastam a Key:building:part wikit és az alábbiak alapján (kiemelés tőlem): Where a building has been split into parts, the whole building way should &gt; still have the tags building:levels -Péter Herman</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/VzPjmbdCBQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/VzPjmbdCBQAJ</guid>
         <pubDate>Fri, 19 Mar 2021 08:46:43 UTC</pubDate>
@@ -222,36 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/XvwSFjjmTpc/m/n_GBe2QjAQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/XvwSFjjmTpc/m/n_GBe2QjAQAJ</guid>
         <pubDate>Thu, 11 Mar 2021 14:45:57 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Re: F9P + Android + ??? // RTK fun: Szia, a FB nálam csak Read-Only üzemben működik, de ide feltettem a képeket: https://photos.app.goo.gl/XerLLUjuzgRTScew7 Kösz: Jeladó Gergely Matefi ezt írta (időpont: 2021. márc. 8., H, 10:44): &gt; Az FB csoportunkba kirakhatnád, ott egyszerűbb fotókat megosztani :-) &gt; &gt; Én -Pozsonyi Ferenc (Jeladó)</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/jOjZOXM36sU/m/2qeY7Z62AQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/jOjZOXM36sU/m/2qeY7Z62AQAJ</guid>
-        <pubDate>Tue, 09 Mar 2021 09:40:55 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Magyarország: On Sun, Mar 7, 2021 at 9:33 PM ITineris OSM wrote: &gt; Van a 249399347-es pont, ami az ország középpontját jelzi, és kisebb nagyításoknál innen jön a felirat is. Beletartozik az ország határát jelző 21335-ös kapcsolatba, mint &quot;label&quot;. &gt; Igen ám, de a pont címkéi között van egy -grin</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/jOjZOXM36sU/m/WvZacy-EAQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/jOjZOXM36sU/m/WvZacy-EAQAJ</guid>
-        <pubDate>Mon, 08 Mar 2021 18:16:41 UTC</pubDate>
-      </item><item>
-        <title>OFF topic: Kinek mennyi a VPS kihasználtsága: Úgy tudom, hogy több jelenlévőnek van hobbi VPS-e. Ki a szolgáltató, és adott hardveren mennyi az overselling? Itt van pár tipp ahogy lehet becsülni: https://gitlab.com/bkil/freedom-fighters/-/blob/master/hu/iaas-testing.md#kihaszn%C3%A1lts%C3%A1gi-becsl%C3%A9s -Thomas Nagy</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/4WYefW4I-U8/m/bk079tdvAQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/4WYefW4I-U8/m/bk079tdvAQAJ</guid>
-        <pubDate>Mon, 08 Mar 2021 12:03:55 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Re: F9P + Android + ??? // RTK fun: On Mon, 8 Mar 2021, Gergely Matefi wrote: &gt; Korábbi tapasztalataim (az M8T-vel) azt mutatják, hogy a csatlakozók a &gt; szoktak a gyenge pontok lenni, ha az ember hátizsákban cipeli. Ha egy &gt; kábelt csak a csatlakozó (USB, jack, antenna) tartja, az &gt; előbb-utóbb kontakt hibás lesz, és a mérőrendsz -Kiss Gabor</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/jOjZOXM36sU/m/ouvbLIRqAQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/jOjZOXM36sU/m/ouvbLIRqAQAJ</guid>
-        <pubDate>Mon, 08 Mar 2021 10:26:17 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Re: F9P + Android + ??? // RTK fun: Az FB csoportunkba kirakhatnád, ott egyszerűbb fotókat megosztani :-) Én a NYÁK mechanikai védelmére egy PP4SW-MUA dobozt vettem: https://kontel.hu/spd/172644/PP4SW-MUA-DOBOZ-121X56X31MM Ebbe a NYÁK már pont nem csúszik bele, kb. 1.5 mm hiányzik a szélességből. Viszont a doboz falait megfelelően -Gergely Matefi</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/jOjZOXM36sU/m/MM-qWDloAQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/jOjZOXM36sU/m/MM-qWDloAQAJ</guid>
-        <pubDate>Mon, 08 Mar 2021 09:44:17 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Re: F9P + Android + ??? // RTK fun: Szia, köszönöm, akkor kacsaszalaggal ráragasztok a lyukra egy kerek acél lemezt a telefon mágneses tartó készletemből. Ettől megmarad majd középen is a lemezen az antenna, és nem akar oldalra ugrani. Ha valakit érdekel a vízhatlan konyhai doboz és a kajakra erősíthető antenna árbóc megoldásom, -Pozsonyi Ferenc (Jeladó)</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/jOjZOXM36sU/m/QvzeWe1kAQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/jOjZOXM36sU/m/QvzeWe1kAQAJ</guid>
-        <pubDate>Mon, 08 Mar 2021 08:43:52 UTC</pubDate>
       </item>
   </channel>
 </rss>
