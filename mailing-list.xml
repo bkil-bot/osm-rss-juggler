@@ -3,6 +3,16 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Épület rajzolás és módosítás - Kispest: Amikor egy (akár házgyári elemekből épült) háztömb több önálló (saját lépcsőház, saját házszám, akár más magasság) rendelkezik, akkor ugye jó az, ha ezek külön épületrészként vannak körberajzolva, amik értelemszerűen összeérnek (közös pontokkal egybeépítve)? Jobb, mintha egy körvonallal -Rózsa Gza (Géza) István Özséb</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/kz0c2bBDBQAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/kz0c2bBDBQAJ</guid>
+        <pubDate>Fri, 19 Mar 2021 09:04:34 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Épület rajzolás és módosítás - Kispest: Sziasztok! Az 1191 Budapest Vak Bottyán u. 60-nál látható, hogy a társasháznak van 4 és 5 szintes része is. Olvastam a Key:building:part wikit és az alábbiak alapján (kiemelés tőlem): Where a building has been split into parts, the whole building way should &gt; still have the tags building:levels -Herman Péter</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/VzPjmbdCBQAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/VzPjmbdCBQAJ</guid>
+        <pubDate>Fri, 19 Mar 2021 08:46:43 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Épület rajzolás és módosítás - Kispest: Szia! Úgy látom, hogy ott alapvető problémák is vannak. A kérdéses épületeket nyugodtan töröld, és rajzold meg egy épületnek, a FÖMI 2007-2010 ortofotóról látható tagolással. Kérlek, hogy a környéken a panelházakat négyszögesítsd majd (JOSM-ben a Q gomb). A címeket én POI-ként helyezném el a -Máté Fehérvári</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/Ms585RkLBQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/Ms585RkLBQAJ</guid>
@@ -242,16 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/jOjZOXM36sU/m/QvzeWe1kAQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/jOjZOXM36sU/m/QvzeWe1kAQAJ</guid>
         <pubDate>Mon, 08 Mar 2021 08:43:52 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Magyarország: On Sun, 7 Mar 2021, ITineris OSM wrote: &gt; Kérdés: Szerintetek törölhetőek az immáron idejétmúlt official_name-ek? &gt; (Illetve összefésülném a pont és kapcsolat name-jeit is.) Vagy legyen &gt; belőlük valami old_name:*:-2011-12-31 ? old_name. Erre van kitalálva. És akkor kereshető marad. Kiss -Kiss Gabor</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/jOjZOXM36sU/m/d0SrJhJYAQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/jOjZOXM36sU/m/d0SrJhJYAQAJ</guid>
-        <pubDate>Mon, 08 Mar 2021 04:48:16 UTC</pubDate>
-      </item><item>
-        <title>Magyarország: (Mindenkit kérek, hogy politikai véleménynyilvánítás helyett maradjunk meg szigorúan a térképészetnél! Köszönöm.) Van a 249399347-es pont, ami az ország középpontját jelzi, és kisebb nagyításoknál innen jön a felirat is. Beletartozik az ország határát jelző 21335-ös kapcsolatba, mint &quot;label&quot;. -ITineris OSM</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/jOjZOXM36sU/m/gNXYxBg9AQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/jOjZOXM36sU/m/gNXYxBg9AQAJ</guid>
-        <pubDate>Sun, 07 Mar 2021 20:33:58 UTC</pubDate>
       </item>
   </channel>
 </rss>
