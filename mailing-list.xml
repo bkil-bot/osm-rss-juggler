@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Felesleges járdák (Fazu rajzolásai): Pontosan, ez lenne a követendő. Inkább a sidewalk=* paramétert kellene használni a különálló járda helyett. Itt találsz bőven információt róla: https://wiki.openstreetmap.org/wiki/Key:sidewalk Azért is fontos ez, mert hiába húzol be külön vonallal járdát, ha a járda az úttól nincs elválasztva, -Úr Balázs</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/DPMLqCZiYi4/m/K_1c5_amBQAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/DPMLqCZiYi4/m/K_1c5_amBQAJ</guid>
+        <pubDate>Sat, 20 Mar 2021 15:23:47 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Felesleges járdák (Fazu rajzolásai): A StreetComplete nevű app-ban kattintásokkal lehet különféle tulajdonságokat megadni (pl. milyen típusú ez a ház? mi az útfelület anyaga? ez milyen típusú tűzcsap? és hasonlók). Ezek között van olyan is, hogy &quot;van-e járda ebben az utcában?&quot; Az app megjeleníti az utca két oldalát külön, és meg -hungarian_user</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/DPMLqCZiYi4/m/B6t52A2FBQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/DPMLqCZiYi4/m/B6t52A2FBQAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/XvwSFjjmTpc/m/c8f5vJIwAQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/XvwSFjjmTpc/m/c8f5vJIwAQAJ</guid>
         <pubDate>Thu, 11 Mar 2021 18:47:29 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Road Network Improvements in Hungary: On Thu, Mar 11, 2021 at 6:07 PM Máté Fehérvári wrote: &gt; &gt;&gt; Bolt smoothened GPS traces (internal and non-downloadable file) &gt; Vagyis nem teszik be a közös(ségbe) a track-eiket. Ez azért is baj, mert utánuk jön valaki, aki nem látja a track folyamot, és jól áthúzza az utat -grin</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/XvwSFjjmTpc/m/mOK98cEuAQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/XvwSFjjmTpc/m/mOK98cEuAQAJ</guid>
-        <pubDate>Thu, 11 Mar 2021 18:14:13 UTC</pubDate>
       </item>
   </channel>
 </rss>
