@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Rózsadomb, 2nd district) / * 2021 March 20 17:31 Mateusz Konieczny Created: tree names should be in species:hu, not in name tag</title>
+        <link>https://www.openstreetmap.org/note/2587145#c5540298</link>
+        <guid>https://www.openstreetmap.org/note/2587145#c5540298</guid>
+        <pubDate>Sat, 20 Mar 2021 17:31:46 +0000</pubDate>
+      </item><item>
         <title>new note (near Budakalász) / * 2021 March 20 13:36 jétégé Created: Unable to answer &amp;quot;What surface does this path have here?&amp;quot; for https://osm.org/way/292708706 via StreetComplete 31.0: / Nem láttam az útnak nyomát.</title>
         <link>https://www.openstreetmap.org/note/2586746#c5539511</link>
         <guid>https://www.openstreetmap.org/note/2586746#c5539511</guid>
@@ -177,11 +182,6 @@
         <link>https://www.openstreetmap.org/note/2581982#c5530095</link>
         <guid>https://www.openstreetmap.org/note/2581982#c5530095</guid>
         <pubDate>Tue, 16 Mar 2021 23:04:23 +0000</pubDate>
-      </item><item>
-        <title>new note (near Virágvölgyi Lakópark, Szigetszentmárton) / * 2021 March 16 21:58 GGyuri Created: &amp;quot;Nem tűzcsap hanem ivóvíz kút.&amp;quot; / POI name: tűzoltócsap / POI types: emergency-fire_hydrant / OSM data version: 2019-03-28T14:13:02Z / #mapsme</title>
-        <link>https://www.openstreetmap.org/note/2581959#c5530019</link>
-        <guid>https://www.openstreetmap.org/note/2581959#c5530019</guid>
-        <pubDate>Tue, 16 Mar 2021 21:58:42 +0000</pubDate>
       </item>
   </channel>
 </rss>
