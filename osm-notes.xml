@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Taván, Budakalász) / * 2021 March 1 05:37 sd_ciastko Created: Unable to answer &amp;quot;What are the collection times of this postbox?&amp;quot; for https://osm.org/node/4406000089 via StreetComplete 30.1: / Intervallum van megadva. Hogy jelöljük? / Attached photo(s): / https://westnordost.de/p/31585.jpg / * 2021 March 11 09:21 vasony Resolved: collection_times=Mo-Fr 09:00-17:00 / * 2021 March 13 20:14 sd_ciastko Reactivated:  / * 2021 March 13 20:15 sd_ciastko Updated: Megtanultam. De akkor már visszakérdezek: miért 09:00-t írtál? / * 2021 March 14 16:04 vasony Updated: Benéztem azért :) javítsd ki nyugodtan 10-re / * 2021 March 20 05:53 sd_ciastko Resolved: Javítottam.</title>
+        <link>https://www.openstreetmap.org/note/2560597#c5538695</link>
+        <guid>https://www.openstreetmap.org/note/2560597#c5538695</guid>
+        <pubDate>Sat, 20 Mar 2021 05:53:44 +0000</pubDate>
+      </item><item>
         <title>new comment (near Vadvirágos tanya, Mórahalom) / * 2020 November 21 09:57 gabro00 Created: Új kerékpárút épül Mórahalom és Kissor közt, átadás után felmérendő / http://www.morahalom.hu/elkezdodott_a_morahalom_es_kissor_kozotti_kerekparut_epitese / * 2021 March 19 22:29 gabro00 Updated: https://www.openstreetmap.org/changeset/101357800</title>
         <link>https://www.openstreetmap.org/note/2434699#c5538343</link>
         <guid>https://www.openstreetmap.org/note/2434699#c5538343</guid>
@@ -167,16 +172,6 @@
         <link>https://www.openstreetmap.org/note/2581315#c5528614</link>
         <guid>https://www.openstreetmap.org/note/2581315#c5528614</guid>
         <pubDate>Tue, 16 Mar 2021 12:15:46 +0000</pubDate>
-      </item><item>
-        <title>new note (near Kápolnásnyék) / * 2021 March 16 11:39 vasony-qa Created: Rózsa utca címe a x5gym-nek, viszont a határvonal és az utcanevek is felülvizsgálatra szorulnak, mert az osm szeirnt jeleneleg a Rózsa utca teljes egészében Velencéhez tartozik.</title>
-        <link>https://www.openstreetmap.org/note/2581283#c5528529</link>
-        <guid>https://www.openstreetmap.org/note/2581283#c5528529</guid>
-        <pubDate>Tue, 16 Mar 2021 11:39:43 +0000</pubDate>
-      </item><item>
-        <title>new note (near Ófalu, Tárnok) / * 2021 March 16 11:24 vasony-qa Created: Melyik utca a Pacsirtamező utca?</title>
-        <link>https://www.openstreetmap.org/note/2581259#c5528474</link>
-        <guid>https://www.openstreetmap.org/note/2581259#c5528474</guid>
-        <pubDate>Tue, 16 Mar 2021 11:24:54 +0000</pubDate>
       </item>
   </channel>
 </rss>
