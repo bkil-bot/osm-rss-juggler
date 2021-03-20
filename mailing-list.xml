@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Felesleges járdák (Fazu rajzolásai): Kapcsolódó: https://www.openstreetmap.org/user/Hungerburg/diary/395540 Ez alapján nem vagyok biztos benne, hogy &quot;rossz&quot; a külön járda, bár én is csak különleges esetekben rajzolok külön vonalat. Mivel a blogbejegyzés szerint óriási regionális eltérések vannak, esetleg kitalálhatnánk, hogy -Feri Veres</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/DPMLqCZiYi4/m/eBb5z_mqBQAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/DPMLqCZiYi4/m/eBb5z_mqBQAJ</guid>
+        <pubDate>Sat, 20 Mar 2021 16:37:17 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Felesleges járdák (Fazu rajzolásai): Pontosan, ez lenne a követendő. Inkább a sidewalk=* paramétert kellene használni a különálló járda helyett. Itt találsz bőven információt róla: https://wiki.openstreetmap.org/wiki/Key:sidewalk Azért is fontos ez, mert hiába húzol be külön vonallal járdát, ha a járda az úttól nincs elválasztva, -Úr Balázs</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/DPMLqCZiYi4/m/K_1c5_amBQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/DPMLqCZiYi4/m/K_1c5_amBQAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/XvwSFjjmTpc/m/wiGr7MgwAQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/XvwSFjjmTpc/m/wiGr7MgwAQAJ</guid>
         <pubDate>Thu, 11 Mar 2021 18:51:22 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Road Network Improvements in Hungary: Does the Bolt Team have the official licence from Bolt Technology OÜ of the data used (but not disclosed)? If tracks are not disclosed, how can OSM prove that their usage are legal? Does Bolt Technology OÜ have the licence of using (gathering and storing) tracks (even anonymized) of their -Máté Fehérvári</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/XvwSFjjmTpc/m/c8f5vJIwAQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/XvwSFjjmTpc/m/c8f5vJIwAQAJ</guid>
-        <pubDate>Thu, 11 Mar 2021 18:47:29 UTC</pubDate>
       </item>
   </channel>
 </rss>
