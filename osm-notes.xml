@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Drágakert, Túrkeve) / * 2020 May 13 10:21 Created: Ez már Penny Market. / * 2021 March 22 12:03 Géczi Roland Levente Resolved: </title>
+        <link>https://www.openstreetmap.org/note/2191330#c5545476</link>
+        <guid>https://www.openstreetmap.org/note/2191330#c5545476</guid>
+        <pubDate>Mon, 22 Mar 2021 12:03:30 +0000</pubDate>
+      </item><item>
         <title>closed note (near Virágvölgyi Lakópark, Szigetszentmárton) / * 2021 March 22 11:03 Géczi Roland Levente Resolved: Habár a POI-n drinking_water érték van alkalmazva. Lehet azóta már javítva lett. Mindenesetre én is javítottam.</title>
         <link>https://www.openstreetmap.org/note/2581959#c5545244</link>
         <guid>https://www.openstreetmap.org/note/2581959#c5545244</guid>
@@ -232,21 +237,6 @@
         <link>https://www.openstreetmap.org/note/2575760#c5538045</link>
         <guid>https://www.openstreetmap.org/note/2575760#c5538045</guid>
         <pubDate>Fri, 19 Mar 2021 19:29:58 +0000</pubDate>
-      </item><item>
-        <title>reactivated note (near Újpalota, 15th district) / * 2021 March 19 19:29 kogutowicz-mano Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/2575760#c5538044</link>
-        <guid>https://www.openstreetmap.org/note/2575760#c5538044</guid>
-        <pubDate>Fri, 19 Mar 2021 19:29:45 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Újpalota, 15th district) / * 2021 March 12 08:43 Created: BIMmensor Kft. / * 2021 March 19 19:29 kogutowicz-mano Resolved: Pont mint a 2580321-es jegyzet.</title>
-        <link>https://www.openstreetmap.org/note/2575760#c5538043</link>
-        <guid>https://www.openstreetmap.org/note/2575760#c5538043</guid>
-        <pubDate>Fri, 19 Mar 2021 19:29:20 +0000</pubDate>
-      </item><item>
-        <title>new note (near Ligetváros, Erzsébetváros, 7th district) / * 2021 March 19 19:25 kogutowicz-mano Created: Bontás folyamatban. / https://24.hu/kultura/2021/03/19/varosligeti-fasor-bajza-utca-magyar-epiteszeti-muzeum-muemlekvedelmi-dokumentacios-kozpont-bontas-szanatorium-mma-magyar-muveszeti-akademia/</title>
-        <link>https://www.openstreetmap.org/note/2586013#c5538039</link>
-        <guid>https://www.openstreetmap.org/note/2586013#c5538039</guid>
-        <pubDate>Fri, 19 Mar 2021 19:25:35 +0000</pubDate>
       </item>
   </channel>
 </rss>
