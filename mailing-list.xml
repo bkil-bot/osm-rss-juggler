@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Re: Márciusi találkozó: Rákospalota 100%-ig térképezése, egyebek: Már csak 1 hét van az eseményig, így ideális volna holnapig meghirdetni. Ki az aki úgy döntött, hogy beáldozza magát a közjó érdekében? On Sun, Mar 7, 2021 at 1:00 PM Thomas Nagy wrote: &gt; &gt; Illetve majd megtanulod, hogy a 100% egy szubjektív fogalom aminek &gt; jelentését a -Thomas Nagy</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/2O_0BINBhKA/m/DyBzvxIjBQAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/2O_0BINBhKA/m/DyBzvxIjBQAJ</guid>
+        <pubDate>Mon, 22 Mar 2021 05:13:55 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Road Network Improvements in Hungary: Dear Bolt users (namely Bolt003 in changeset #101318523), Please don't split/insert ways using the iD editor that have public transport route relations on them. iD is buggy in this respect and messes up the order of relation members. With the above change, bus lines going on Jászberényi út -ITineris OSM</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/XvwSFjjmTpc/m/7rl5dNG4BQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/XvwSFjjmTpc/m/7rl5dNG4BQAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/OC8NCdNMeDE/m/yRegWw9dAQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/OC8NCdNMeDE/m/yRegWw9dAQAJ</guid>
         <pubDate>Fri, 12 Mar 2021 08:22:43 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Road Network Improvements in Hungary: Nowadays I'm surveying Budapest 15th district by searching for house numbers / addresses, and to be honest, I put some missing roads to the map, and aligned some if needed, but I'd say most of the roads are aligned in the district but i don't want to see any kind of vandalism that can't be seen -Attila</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/XvwSFjjmTpc/m/hIBHqSRLAQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/XvwSFjjmTpc/m/hIBHqSRLAQAJ</guid>
-        <pubDate>Fri, 12 Mar 2021 02:54:23 UTC</pubDate>
       </item>
   </channel>
 </rss>
