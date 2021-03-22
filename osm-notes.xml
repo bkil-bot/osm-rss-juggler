@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Prekobrdo, Budakalász) / * 2021 March 22 18:32 jétégé Resolved: </title>
+        <link>https://www.openstreetmap.org/note/2589850#c5546714</link>
+        <guid>https://www.openstreetmap.org/note/2589850#c5546714</guid>
+        <pubDate>Mon, 22 Mar 2021 18:32:39 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Madár utcák, Budakalász) / * 2021 March 21 12:39 jétégé Created: Az út  nyugati végét nem találtam meg. / via StreetComplete 31.0 / * 2021 March 22 18:31 jétégé Resolved: </title>
+        <link>https://www.openstreetmap.org/note/2587875#c5546711</link>
+        <guid>https://www.openstreetmap.org/note/2587875#c5546711</guid>
+        <pubDate>Mon, 22 Mar 2021 18:31:31 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Prekobrdo, Budakalász) / * 2021 March 22 18:27 jétégé Resolved: Út törölve.</title>
+        <link>https://www.openstreetmap.org/note/2589840#c5546700</link>
+        <guid>https://www.openstreetmap.org/note/2589840#c5546700</guid>
+        <pubDate>Mon, 22 Mar 2021 18:27:34 +0000</pubDate>
+      </item><item>
         <title>closed note (near Újpest, 4th district) / * 2021 March 22 17:45 ozmium Resolved: Ah so. Igen, szervízút, név nélkül és térköves. / https://i.imgur.com/9FUehFA.jpg / https://i.imgur.com/5somlLZ.jpg</title>
         <link>https://www.openstreetmap.org/note/2580621#c5546618</link>
         <guid>https://www.openstreetmap.org/note/2580621#c5546618</guid>
@@ -192,26 +207,6 @@
         <link>https://www.openstreetmap.org/note/2587757#c5541954</link>
         <guid>https://www.openstreetmap.org/note/2587757#c5541954</guid>
         <pubDate>Sun, 21 Mar 2021 10:58:06 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Prekobrdo, Budakalász) / * 2021 March 20 19:15 jétégé Updated: Nem teljesen pontos.  Vannak a kövek, azok gyalog nagyjából mindig járhatók.  Aztán van maga a gázló, ami mondjuk a patak medre.  Ez az időjárástól és a jármű terep-járóságától függően időszakosan járható.  Lovon szinte mindig.</title>
-        <link>https://www.openstreetmap.org/note/2547575#c5540680</link>
-        <guid>https://www.openstreetmap.org/note/2547575#c5540680</guid>
-        <pubDate>Sat, 20 Mar 2021 19:15:52 +0000</pubDate>
-      </item><item>
-        <title>reactivated note (near Prekobrdo, Budakalász) / * 2021 February 21 14:12 jétégé Created: Unable to answer &amp;quot;What surface does this path have here?&amp;quot; for https://osm.org/way/172176068 via StreetComplete 30.1: / Ez egy gázló plussz kövek a patakban, amin az lehet lépdelni. / * 2021 March 11 08:05 vasony Resolved: A gázló rajta volt, pontosítottam. / Most a 2 földút közti kis ösvényt megszüntettem és ha jó értem nem lehet átmenni járművel, ezt jelöltem rajta. / * 2021 March 20 19:12 jétégé Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/2547575#c5540676</link>
-        <guid>https://www.openstreetmap.org/note/2547575#c5540676</guid>
-        <pubDate>Sat, 20 Mar 2021 19:12:26 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Budakalász) / * 2021 February 28 16:03 jétégé Created: Erre nincs út. / via StreetComplete 30.1 / * 2021 March 20 19:01 jétégé Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2559426#c5540664</link>
-        <guid>https://www.openstreetmap.org/note/2559426#c5540664</guid>
-        <pubDate>Sat, 20 Mar 2021 19:01:04 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Budakalász) / * 2021 March 20 19:00 jétégé Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2586746#c5540659</link>
-        <guid>https://www.openstreetmap.org/note/2586746#c5540659</guid>
-        <pubDate>Sat, 20 Mar 2021 19:00:01 +0000</pubDate>
       </item>
   </channel>
 </rss>
