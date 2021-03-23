@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: 2021-03-24 19:00 OSM Hour: tűzcsapozás és járdázás közösen: El nem tudom képzelni, hogy otthonról hogyan lehet &quot;tűzcsapozni&quot;? Mit akar ez jelenteni? Én a tűzcsapoknak csak azt a tulajdonságát tudom felvinni OSM-be (StreetComplete programmal), hogy megyek az utcán, és a program rákérdez, hogy a térképen már fent lévő tűzcsap az milyen típusú, hogyan néz -hungarian_user</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/hxz-xNwjNS4/m/AGIV0_KHBQAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/hxz-xNwjNS4/m/AGIV0_KHBQAJ</guid>
+        <pubDate>Tue, 23 Mar 2021 12:02:29 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Buszmegállók, járdák, utak tönkretétele (Fazu rajzolásai): Szia! A Thököly út szerintem pont jó példa. Én sem tartom ideálisnak ezt a sokszöges megoldást, ráadásul ott van jó példának a Thököly út – Amerikai utca kereszteződése. Szerintem általában az a jobb (szebb) megoldás. Üdv Balázs 2021. 03. 23. 11:51 keltezéssel, Rózsa Gza (Géza) István Özséb -Meskó Balázs</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/hgkKYahpCLg/m/FbI3ln6FBQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/hgkKYahpCLg/m/FbI3ln6FBQAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/OC8NCdNMeDE/m/qY1Sr3pqAQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/OC8NCdNMeDE/m/qY1Sr3pqAQAJ</guid>
         <pubDate>Fri, 12 Mar 2021 12:28:38 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] kla25 turistaút-átnevezései: Az önálló néven futó túraútvonalak (OKT, DDK, KDP, DDP) nevét célszerű lenn az MTSZ (pl. kektura.hu) által használt elnevezésekhez igazítani. A name=&quot;&quot;K, OKT&quot; szerintem tévedés, itt a name=&quot;OKT&quot; kellene, hogy maradjon. Jól látom, hogy ez egy új Relation, pedig van &quot;Országos Kéktúra&quot; is?! Ez így -Máté Fehérvári</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/DQI8y2RQGpw/m/pzirYkNoAQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/DQI8y2RQGpw/m/pzirYkNoAQAJ</guid>
-        <pubDate>Fri, 12 Mar 2021 11:48:01 UTC</pubDate>
       </item>
   </channel>
 </rss>
