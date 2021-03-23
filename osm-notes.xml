@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Víziváros, Esztergom) / * 2020 December 27 11:45 sd_ciastko Created: Unable to answer &amp;quot;What surface do these steps have here?&amp;quot; for https://osm.org/way/550271180 via StreetComplete 28.0: / Mészkő lapokból van a lépcső. Ezt mivel kéne jelölni? / * 2020 December 27 12:28 bkil Updated: Köszönjük a kérdést. Ennyi leírásból nem világos a felületkiképzés egyenletessége, de a surface=paving_stones, surface=rock és esetleg a surface=concrete:plates is elég közel van hozzá: / https://wiki.openstreetmap.org/wiki/Key:surface / Illetve taginfoban találtam egy ilyet: surface=crushed_limestone és gravel=crushed_limestone. / Ha fontos feltüntetni a kőnél precízebben az anyagot, esetleg material=limestone is szóba jöhet emellé (a surface=* csak a járhatóság, egyenletesség és időjárás szempontjából veszi figyelembe). / További kérdéseket szeretettel várunk a nyitott csevegőszobánkban is: / https://matrix.to/#/#osm:grin.hu?via=grin.hu&amp;amp;via=matrix.org&amp;amp;via=vmiklos.hu / * 2021 March 23 20:03 sd_ciastko Resolved: Köszi! Beírtam.</title>
+        <link>https://www.openstreetmap.org/note/2474364#c5549906</link>
+        <guid>https://www.openstreetmap.org/note/2474364#c5549906</guid>
+        <pubDate>Tue, 23 Mar 2021 20:03:37 +0000</pubDate>
+      </item><item>
         <title>new note (near Mindszentpuszta, Oroszlány) / * 2021 March 23 17:13 Sahov Created: &amp;quot;Országos Kéktúra pecsételőhely (Mindszentpusza)&amp;quot; / POI has no name / POI types: highway-track-grade2 / OSM data version: 2021-02-01T11:34:17Z / #mapsme</title>
         <link>https://www.openstreetmap.org/note/2591182#c5549389</link>
         <guid>https://www.openstreetmap.org/note/2591182#c5549389</guid>
