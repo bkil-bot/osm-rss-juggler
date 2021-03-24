@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Szomolya) / * 2021 March 24 16:39 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: Viewtower right name is &amp;#39;Nagyvölgy-tető kilátó&amp;#39;. / https://www.openstreetmap.org/node/4966152221</title>
+        <link>https://www.openstreetmap.org/note/2592768#c5552359</link>
+        <guid>https://www.openstreetmap.org/note/2592768#c5552359</guid>
+        <pubDate>Wed, 24 Mar 2021 16:39:16 +0000</pubDate>
+      </item><item>
         <title>closed note (near Víziváros, Esztergom) / * 2020 December 27 11:45 sd_ciastko Created: Unable to answer &amp;quot;What surface do these steps have here?&amp;quot; for https://osm.org/way/550271180 via StreetComplete 28.0: / Mészkő lapokból van a lépcső. Ezt mivel kéne jelölni? / * 2020 December 27 12:28 bkil Updated: Köszönjük a kérdést. Ennyi leírásból nem világos a felületkiképzés egyenletessége, de a surface=paving_stones, surface=rock és esetleg a surface=concrete:plates is elég közel van hozzá: / https://wiki.openstreetmap.org/wiki/Key:surface / Illetve taginfoban találtam egy ilyet: surface=crushed_limestone és gravel=crushed_limestone. / Ha fontos feltüntetni a kőnél precízebben az anyagot, esetleg material=limestone is szóba jöhet emellé (a surface=* csak a járhatóság, egyenletesség és időjárás szempontjából veszi figyelembe). / További kérdéseket szeretettel várunk a nyitott csevegőszobánkban is: / https://matrix.to/#/#osm:grin.hu?via=grin.hu&amp;amp;via=matrix.org&amp;amp;via=vmiklos.hu / * 2021 March 23 20:03 sd_ciastko Resolved: Köszi! Beírtam.</title>
         <link>https://www.openstreetmap.org/note/2474364#c5549906</link>
         <guid>https://www.openstreetmap.org/note/2474364#c5549906</guid>
@@ -172,16 +177,6 @@
         <link>https://www.openstreetmap.org/note/2339236#c5543255</link>
         <guid>https://www.openstreetmap.org/note/2339236#c5543255</guid>
         <pubDate>Sun, 21 Mar 2021 19:01:36 +0000</pubDate>
-      </item><item>
-        <title>reactivated note (near Újpest, 4th district) / * 2021 March 21 18:00 ozmium Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/2580621#c5543126</link>
-        <guid>https://www.openstreetmap.org/note/2580621#c5543126</guid>
-        <pubDate>Sun, 21 Mar 2021 18:00:48 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Újpest, 4th district) / * 2021 March 21 17:50 ozmium Resolved: Hivatalosan itt nincs is út, hanem a Latabár Kálmán része ez a terület. Viszont a rendezési terv szerint az élület mögé bekanyarodik a Bárdos Artúr, s csak előtte van a Latabár.</title>
-        <link>https://www.openstreetmap.org/note/2580621#c5543098</link>
-        <guid>https://www.openstreetmap.org/note/2580621#c5543098</guid>
-        <pubDate>Sun, 21 Mar 2021 17:50:58 +0000</pubDate>
       </item>
   </channel>
 </rss>
