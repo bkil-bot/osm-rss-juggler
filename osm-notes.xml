@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Csonkás, Veresegyház) / * 2021 March 25 13:08 vasony-qa Created: Szent Erzsébet utca vagy körút?</title>
+        <link>https://www.openstreetmap.org/note/2593942#c5554894</link>
+        <guid>https://www.openstreetmap.org/note/2593942#c5554894</guid>
+        <pubDate>Thu, 25 Mar 2021 13:08:57 +0000</pubDate>
+      </item><item>
+        <title>new note (near Bábolna) / * 2021 March 25 12:57 vasony-qa Created: Melyik az Ipar utca?</title>
+        <link>https://www.openstreetmap.org/note/2593936#c5554873</link>
+        <guid>https://www.openstreetmap.org/note/2593936#c5554873</guid>
+        <pubDate>Thu, 25 Mar 2021 12:57:15 +0000</pubDate>
+      </item><item>
+        <title>new note (near Újhegy, Tata) / * 2021 March 25 12:51 vasony-qa Created: Keverednek a Patak köz és Erzsébet királyné tér házszámai, tisztázni kell a házszámokat és az utcaneveket a környéken.</title>
+        <link>https://www.openstreetmap.org/note/2593930#c5554863</link>
+        <guid>https://www.openstreetmap.org/note/2593930#c5554863</guid>
+        <pubDate>Thu, 25 Mar 2021 12:51:59 +0000</pubDate>
+      </item><item>
+        <title>new note (near Paletta lakópark, Gál István-lakótelep, Tatabánya) / * 2021 March 25 12:22 vasony-qa Created: Ez itt a Béke út, vagy Béke utca?</title>
+        <link>https://www.openstreetmap.org/note/2593900#c5554805</link>
+        <guid>https://www.openstreetmap.org/note/2593900#c5554805</guid>
+        <pubDate>Thu, 25 Mar 2021 12:22:43 +0000</pubDate>
+      </item><item>
         <title>new note (near Paradicsomkert, Tatabánya) / * 2021 March 25 12:17 vasony-qa Created: Ez itt a Bárdos László utca? Mert a mellette lévő épület erre van számozva.</title>
         <link>https://www.openstreetmap.org/note/2593893#c5554798</link>
         <guid>https://www.openstreetmap.org/note/2593893#c5554798</guid>
@@ -127,36 +147,6 @@
         <link>https://www.openstreetmap.org/note/2588135#c5544937</link>
         <guid>https://www.openstreetmap.org/note/2588135#c5544937</guid>
         <pubDate>Mon, 22 Mar 2021 08:52:54 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Majláth, Miskolc) / * 2021 March 21 15:30 meskobalazs Created: ikerház 41 43 / via StreetComplete 31.0 / * 2021 March 22 08:52 meskobalazs Resolved: Javítva.</title>
-        <link>https://www.openstreetmap.org/note/2588141#c5544936</link>
-        <guid>https://www.openstreetmap.org/note/2588141#c5544936</guid>
-        <pubDate>Mon, 22 Mar 2021 08:52:50 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Majláth, Miskolc) / * 2021 March 21 15:30 meskobalazs Created: ikerház 37 39 / via StreetComplete 31.0 / * 2021 March 22 08:52 meskobalazs Resolved: Javítva.</title>
-        <link>https://www.openstreetmap.org/note/2588140#c5544933</link>
-        <guid>https://www.openstreetmap.org/note/2588140#c5544933</guid>
-        <pubDate>Mon, 22 Mar 2021 08:52:48 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Majláth, Miskolc) / * 2021 March 21 15:28 meskobalazs Created: ikerház, 27, 29 / via StreetComplete 31.0 / * 2021 March 22 08:52 meskobalazs Resolved: Javítva.</title>
-        <link>https://www.openstreetmap.org/note/2588134#c5544932</link>
-        <guid>https://www.openstreetmap.org/note/2588134#c5544932</guid>
-        <pubDate>Mon, 22 Mar 2021 08:52:44 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Majláth, Miskolc) / * 2021 March 21 15:26 meskobalazs Created: Ikerház 24/A és 24/B / via StreetComplete 31.0 / * 2021 March 22 08:52 meskobalazs Resolved: Javítva.</title>
-        <link>https://www.openstreetmap.org/note/2588131#c5544930</link>
-        <guid>https://www.openstreetmap.org/note/2588131#c5544930</guid>
-        <pubDate>Mon, 22 Mar 2021 08:52:41 +0000</pubDate>
-      </item><item>
-        <title>new note (near Lovas) / * 2021 March 22 08:30 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: There is no track.</title>
-        <link>https://www.openstreetmap.org/note/2588985#c5544821</link>
-        <guid>https://www.openstreetmap.org/note/2588985#c5544821</guid>
-        <pubDate>Mon, 22 Mar 2021 08:30:01 +0000</pubDate>
-      </item><item>
-        <title>new note (near Lovas) / * 2021 March 22 08:27 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: There are stairs here.</title>
-        <link>https://www.openstreetmap.org/note/2588983#c5544817</link>
-        <guid>https://www.openstreetmap.org/note/2588983#c5544817</guid>
-        <pubDate>Mon, 22 Mar 2021 08:27:54 +0000</pubDate>
       </item>
   </channel>
 </rss>
