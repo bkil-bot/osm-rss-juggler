@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>give_way + direction?: Sziasztok! Tegnapi online találkozón vetettem fel, hogy a give_way elsőbbségadás meg Stop táblákra felesleges a direction megadása. Ez a page is azt írja, hogy csak akkor kell, ha annyira rossz helyen van, hogy egy program nem TUDNÁ kitalálni: https://wiki.openstreetmap.org/wiki/Tag:highway%3 -Feri Veres</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/cM-LYMvo-QA/m/6kXbPendBgAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/cM-LYMvo-QA/m/6kXbPendBgAJ</guid>
+        <pubDate>Thu, 25 Mar 2021 09:15:15 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Re: Többnyelvűség: Pöpec! A vektorcsempék előnye, hogy a történelmileg többnyelvű településeknél nincsen félreértés az elnevezések kapcsán, mert ki-ki válogathat nyelvtudása, vagy szimpátiája, vagy kedvenc sör/csoki/fagylalt-márkája alapján. Benjámin a következőt írta (2021. március 24., szerda, 11:59:08 UTC+1): -Budaörsi</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/pzVFiMEfbtY/m/y-LvOF7PBgAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/pzVFiMEfbtY/m/y-LvOF7PBgAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/_-7kPMFN_oQ/m/0Jm40WgMAwAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/_-7kPMFN_oQ/m/0Jm40WgMAwAJ</guid>
         <pubDate>Wed, 17 Mar 2021 20:07:16 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Kerékpárutak (path vs cycleway): Nekem így hozzáfűzi a linkhez a &quot;|Szem&quot; sztringet is. ivan....@gmail.com a következőt írta (2021. március 17., szerda, 20:21:06 UTC+1): &gt; Így kéne működnie: &gt; &gt; == Licensing == &gt; Author: [https://www.openstreetmap.org/user/Szem|Szem] &gt; {{CC-BY-SA-4.0}} &gt; &gt; -AndreasTUHU</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/_-7kPMFN_oQ/m/YGwkDg4LAwAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/_-7kPMFN_oQ/m/YGwkDg4LAwAJ</guid>
-        <pubDate>Wed, 17 Mar 2021 19:42:28 UTC</pubDate>
       </item>
   </channel>
 </rss>
