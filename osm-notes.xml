@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Szonditelep, Miskolc) / * 2021 March 25 09:49 Created: Hőkamera, új betongyámos oszlopra helyezve</title>
+        <link>https://www.openstreetmap.org/note/2593733#c5554464</link>
+        <guid>https://www.openstreetmap.org/note/2593733#c5554464</guid>
+        <pubDate>Thu, 25 Mar 2021 09:49:28 +0000</pubDate>
+      </item><item>
         <title>new note (near Szomolya) / * 2021 March 24 16:39 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: Viewtower right name is &amp;#39;Nagyvölgy-tető kilátó&amp;#39;. / https://www.openstreetmap.org/node/4966152221</title>
         <link>https://www.openstreetmap.org/note/2592768#c5552359</link>
         <guid>https://www.openstreetmap.org/note/2592768#c5552359</guid>
@@ -152,16 +157,6 @@
         <link>https://www.openstreetmap.org/note/2588881#c5544594</link>
         <guid>https://www.openstreetmap.org/note/2588881#c5544594</guid>
         <pubDate>Mon, 22 Mar 2021 07:21:04 +0000</pubDate>
-      </item><item>
-        <title>new note (near Rákospalota Öregfalu, Rákospalota, 15th district) / * 2021 March 22 05:32 kogutowicz-mano Created: Itt valahogy végzetesen összekuszálódott valami az adatbázisban. Egy lehetséges bizonyítás: / - Indítsd le az iD editort! / - Kattintás nélkül(!) tologasd a pointert a környékbeli objektumok illetve az építési telek felett! Utóbbinál a bal oldali panelben az előző objektum adatai jelennek meg. / - Mikor ezt már meguntad, kattints az építkezés határára! Az editor lényegében ledermed. Egyéb parajelenségek is fellépnek, de azt most nem tudom részletezni. / Szerintem érdemes lenne apránként visszavonni az óvoda objektum szerkesztéseit míg helyre nem jön, aztán rendesen kidolgozni.</title>
-        <link>https://www.openstreetmap.org/note/2588831#c5544363</link>
-        <guid>https://www.openstreetmap.org/note/2588831#c5544363</guid>
-        <pubDate>Mon, 22 Mar 2021 05:32:52 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Nagyszénászug, Budakeszi) / * 2021 March 21 23:09 BáthoryPéter Resolved: Helyre húztam.</title>
-        <link>https://www.openstreetmap.org/note/2587773#c5543881</link>
-        <guid>https://www.openstreetmap.org/note/2587773#c5543881</guid>
-        <pubDate>Sun, 21 Mar 2021 23:09:02 +0000</pubDate>
       </item>
   </channel>
 </rss>
