@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Re: give_way + direction?: &quot;The 'heuristic fallback' distance evaluation also correctly catches untagged stops on side roads if they are closer (and &lt;50m) to the start than to the end of a routing segment, indicating they might be for oncoming traffic.&quot; &quot;Add Directional Analysis for STOP Sign #2885&quot; https://github.com/ -Feri Veres</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/cM-LYMvo-QA/m/RER2GpQlBwAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/cM-LYMvo-QA/m/RER2GpQlBwAJ</guid>
+        <pubDate>Fri, 26 Mar 2021 07:08:34 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] give_way + direction?: &gt; én is, mióta a lakóhelyem környékén fölvettem a wazéba is meg az OSM-be is a meglévő (de addig térképen nem jelzett) 20-as táblákat, azóta kb negyedére csökkent az át-egérutazók száma... Szerintem is jó dolog. Van módunk hozzájárulni, hogy a valóságban is értelme legyen egy csillapított -ITineris OSM</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/cM-LYMvo-QA/m/dA3t8P_pBgAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/cM-LYMvo-QA/m/dA3t8P_pBgAJ</guid>
@@ -148,7 +153,7 @@
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/1m7s5NOwBQAJ</guid>
         <pubDate>Sat, 20 Mar 2021 18:24:31 UTC</pubDate>
       </item><item>
-        <title>Re: [osm-hu] Épület rajzolás és módosítás - Kispest: Köszönöm szépen a javaslatokat! Igyekszem megfogadni őket! Az OSM felhasználása számításokhoz pedig érdekesnek ígérkezik! :) Olvasom, hogy az épületeket is megjelenítő réteget időbe telik generálnia az OSM szerverének, 1 nap után sem jelenik meg egyelőre. Ehhez szokjak hozzá? Újabb kérdés, -Péter Herman</title>
+        <title>Re: [osm-hu] Épület rajzolás és módosítás - Kispest: Köszönöm szépen a javaslatokat! Igyekszem megfogadni őket! Az OSM felhasználása számításokhoz pedig érdekesnek ígérkezik! :) Olvasom, hogy az épületeket is megjelenítő réteget időbe telik generálnia az OSM szerverének, 1 nap után sem jelenik meg egyelőre. Ehhez szokjak hozzá? Újabb kérdés, -Herman Péter</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/Q9cyOHKvBQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/Q9cyOHKvBQAJ</guid>
         <pubDate>Sat, 20 Mar 2021 17:59:12 UTC</pubDate>
@@ -228,7 +233,7 @@
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/A835BapEBQAJ</guid>
         <pubDate>Fri, 19 Mar 2021 09:22:24 UTC</pubDate>
       </item><item>
-        <title>Re: [osm-hu] Épület rajzolás és módosítás - Kispest: Az előbbi példámnál maradva (1191 Budapest Vak Bottyán u. 60, Google Maps-en jól látható), ebben az esetben nem tartom célszerűnek az épületrészenkénti rajzolást. Ez például egy H-O típusú házgyári épület, ami (tapasztalat alapján, mivel eddig még nem láthattam a típustervet) úgy van kialakítva, -Péter Herman</title>
+        <title>Re: [osm-hu] Épület rajzolás és módosítás - Kispest: Az előbbi példámnál maradva (1191 Budapest Vak Bottyán u. 60, Google Maps-en jól látható), ebben az esetben nem tartom célszerűnek az épületrészenkénti rajzolást. Ez például egy H-O típusú házgyári épület, ami (tapasztalat alapján, mivel eddig még nem láthattam a típustervet) úgy van kialakítva, -Herman Péter</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/qPoYXqFEBQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/qPoYXqFEBQAJ</guid>
         <pubDate>Fri, 19 Mar 2021 09:21:47 UTC</pubDate>
@@ -238,7 +243,7 @@
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/kz0c2bBDBQAJ</guid>
         <pubDate>Fri, 19 Mar 2021 09:04:34 UTC</pubDate>
       </item><item>
-        <title>Re: [osm-hu] Épület rajzolás és módosítás - Kispest: Sziasztok! Az 1191 Budapest Vak Bottyán u. 60-nál látható, hogy a társasháznak van 4 és 5 szintes része is. Olvastam a Key:building:part wikit és az alábbiak alapján (kiemelés tőlem): Where a building has been split into parts, the whole building way should &gt; still have the tags building:levels -Péter Herman</title>
+        <title>Re: [osm-hu] Épület rajzolás és módosítás - Kispest: Sziasztok! Az 1191 Budapest Vak Bottyán u. 60-nál látható, hogy a társasháznak van 4 és 5 szintes része is. Olvastam a Key:building:part wikit és az alábbiak alapján (kiemelés tőlem): Where a building has been split into parts, the whole building way should &gt; still have the tags building:levels -Herman Péter</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/VzPjmbdCBQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/VzPjmbdCBQAJ</guid>
         <pubDate>Fri, 19 Mar 2021 08:46:43 UTC</pubDate>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/Ms585RkLBQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/Ms585RkLBQAJ</guid>
         <pubDate>Thu, 18 Mar 2021 15:47:33 UTC</pubDate>
-      </item><item>
-        <title>Épület rajzolás és módosítás - Kispest: Sziasztok! Kispest lakótelep városépítés történetével foglalkozok, kutakodásaimat közzé is teszem a honlapomon: https://hermanp.github.io/hu/post/. A probléma: Szeretném ábrázolni a panel lakóépületeket térképen, interaktívan. Ehhez szükségem van az épületek körvonalaira, amit az angol -Péter Herman</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/FwA35MoIBQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/FwA35MoIBQAJ</guid>
-        <pubDate>Thu, 18 Mar 2021 15:05:15 UTC</pubDate>
       </item>
   </channel>
 </rss>
