@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Re: give_way + direction?: Igazából csak azt tudom mondani, amit a többiek: kevésbé sűrű helyeken nem feltétlenül kell; ám egy körforgalmakkal és parkolókihajtókkal tarkított (pl. budaörsi-budakeszi falurésznél) nagyon hasznos tud lenni, mert ott azért nagy a jobbkezes és táblás kereszteződések sűrűsége. És nem csak az -Budaörsi</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/cM-LYMvo-QA/m/xuRk_sg5BwAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/cM-LYMvo-QA/m/xuRk_sg5BwAJ</guid>
+        <pubDate>Fri, 26 Mar 2021 13:18:52 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Re: give_way + direction?: &quot;The 'heuristic fallback' distance evaluation also correctly catches untagged stops on side roads if they are closer (and &lt;50m) to the start than to the end of a routing segment, indicating they might be for oncoming traffic.&quot; &quot;Add Directional Analysis for STOP Sign #2885&quot; https://github.com/ -Feri Veres</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/cM-LYMvo-QA/m/RER2GpQlBwAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/cM-LYMvo-QA/m/RER2GpQlBwAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/VzPjmbdCBQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/VzPjmbdCBQAJ</guid>
         <pubDate>Fri, 19 Mar 2021 08:46:43 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Épület rajzolás és módosítás - Kispest: Szia! Úgy látom, hogy ott alapvető problémák is vannak. A kérdéses épületeket nyugodtan töröld, és rajzold meg egy épületnek, a FÖMI 2007-2010 ortofotóról látható tagolással. Kérlek, hogy a környéken a panelházakat négyszögesítsd majd (JOSM-ben a Q gomb). A címeket én POI-ként helyezném el a -Máté Fehérvári</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/Ms585RkLBQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/Ms585RkLBQAJ</guid>
-        <pubDate>Thu, 18 Mar 2021 15:47:33 UTC</pubDate>
       </item>
   </channel>
 </rss>
