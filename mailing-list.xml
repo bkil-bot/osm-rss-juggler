@@ -3,6 +3,16 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: OpenCellID: Sziasztok! Ez a projekt él még? JOSM-ben nekem nem töltődnek le a cella adatok, pedig pár éve még meg tudtam nézni. Cellavadász térképen sem jelennek meg a mérések, viszont azt látom, hogy a tornyok száma változik, tehát van akinél működik, és tud címkézni. kolesar...@gmail.com a következőt -dcf77</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/y7NoqAwj4IY/m/nuNBBmPUBwAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/y7NoqAwj4IY/m/nuNBBmPUBwAJ</guid>
+        <pubDate>Sun, 28 Mar 2021 12:31:58 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] 2021-03-24 19:00 OSM Hour: tűzcsapozás és járdázás közösen: Sziasztok! Az előadás alatt azt írtam a kommentek közé, hogy &quot;TZ = tolózár (ha jól emlékszem)&quot;. Rosszul emlékeztem. A &quot;Z&quot; valóban zárat jelent, és ezek általában tolózárak, de itt a &quot;T&quot; egyértelműen a tűzcsapra utal, ahogy az el is hangzott valakitől szóban vagy írásban. A táblák megjelenését -dcf77</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/hxz-xNwjNS4/m/XOGcC5zTBwAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/hxz-xNwjNS4/m/XOGcC5zTBwAJ</guid>
+        <pubDate>Sun, 28 Mar 2021 12:17:44 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Re: Márciusi találkozó: Rákospalota 100%-ig térképezése, egyebek: Lehet jelentkezni a hétfői eseményre: https://gettogether.community/events/10178/2021-03-29-Rakospalota https://www.meetup.com/OpenStreetMap-Hungary/events/277122552 On Mon, Mar 22, 2021 at 6:13 AM Thomas Nagy wrote: &gt; &gt; Már csak 1 hét van az eseményig, így ideális volna -Thomas Nagy</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/2O_0BINBhKA/m/tbwEbu1uBwAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/2O_0BINBhKA/m/tbwEbu1uBwAJ</guid>
@@ -242,16 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/eUdTbgFFBQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/eUdTbgFFBQAJ</guid>
         <pubDate>Fri, 19 Mar 2021 09:28:40 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Épület rajzolás és módosítás - Kispest: Én egy egybeépített (panel) háztömböt egyben rajzolnák, egy körvonallal. Nyilván minden lépcsőháznak más a házszáma, de ezeket POI-ba tenném fel. Ha a magasságuk (szintjeik száma) eltér, akkor az épületrészeket külön rajzolnám. Szerintem ez ritka panelnél. Van a building:part=yes, ennek a -Máté Fehérvári</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/A835BapEBQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/A835BapEBQAJ</guid>
-        <pubDate>Fri, 19 Mar 2021 09:22:24 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Épület rajzolás és módosítás - Kispest: Az előbbi példámnál maradva (1191 Budapest Vak Bottyán u. 60, Google Maps-en jól látható), ebben az esetben nem tartom célszerűnek az épületrészenkénti rajzolást. Ez például egy H-O típusú házgyári épület, ami (tapasztalat alapján, mivel eddig még nem láthattam a típustervet) úgy van kialakítva, -Herman Péter</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/qPoYXqFEBQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/qPoYXqFEBQAJ</guid>
-        <pubDate>Fri, 19 Mar 2021 09:21:47 UTC</pubDate>
       </item>
   </channel>
 </rss>
