@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Terézváros, 6th district) / * 2021 March 29 09:01 qmi0 Created: A kávézó már megszűnt</title>
+        <link>https://www.openstreetmap.org/note/2598907#c5565034</link>
+        <guid>https://www.openstreetmap.org/note/2598907#c5565034</guid>
+        <pubDate>Mon, 29 Mar 2021 09:01:04 +0000</pubDate>
+      </item><item>
         <title>new comment (near Vörösberény, Balatonalmádi) / * 2021 March 29 07:32 vasony Updated: Erre a szakaszra gondolok: / https://www.openstreetmap.org/way/914581132</title>
         <link>https://www.openstreetmap.org/note/2570056#c5564772</link>
         <guid>https://www.openstreetmap.org/note/2570056#c5564772</guid>
@@ -227,11 +232,6 @@
         <link>https://www.openstreetmap.org/note/2596437#c5559914</link>
         <guid>https://www.openstreetmap.org/note/2596437#c5559914</guid>
         <pubDate>Sat, 27 Mar 2021 13:16:37 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Alsóregmec) / * 2021 March 27 13:15 vreka Resolved: Fedor tanya</title>
-        <link>https://www.openstreetmap.org/note/2596437#c5559909</link>
-        <guid>https://www.openstreetmap.org/note/2596437#c5559909</guid>
-        <pubDate>Sat, 27 Mar 2021 13:15:43 +0000</pubDate>
       </item>
   </channel>
 </rss>
