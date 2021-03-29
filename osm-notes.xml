@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Újtelek, Bernecebaráti) / * 2021 March 23 11:11 vasony-qa Created: Szokoly utca vagy Szokolyi utca? / * 2021 March 28 23:49 balint36 Resolved: A KIRA nyilvántartása szerint Szokolyi utca.</title>
+        <link>https://www.openstreetmap.org/note/2590733#c5564282</link>
+        <guid>https://www.openstreetmap.org/note/2590733#c5564282</guid>
+        <pubDate>Sun, 28 Mar 2021 23:49:37 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Nyírjes, Balassagyarmat) / * 2020 September 11 20:50 aceman444 Created: There are messed up stops at this bus stations. stop_position nodes with role &amp;#39;platform&amp;#39; in bus relations instead of nodes on the footways with public_transport=platform / * 2021 March 28 23:45 balint36 Resolved: </title>
+        <link>https://www.openstreetmap.org/note/2344574#c5564278</link>
+        <guid>https://www.openstreetmap.org/note/2344574#c5564278</guid>
+        <pubDate>Sun, 28 Mar 2021 23:45:15 +0000</pubDate>
+      </item><item>
         <title>closed note (near Vörösberény, Balatonalmádi) / * 2021 March 28 20:44 vasony Resolved: köszi!</title>
         <link>https://www.openstreetmap.org/note/2572546#c5564054</link>
         <guid>https://www.openstreetmap.org/note/2572546#c5564054</guid>
@@ -212,16 +222,6 @@
         <link>https://www.openstreetmap.org/note/2596055#c5559208</link>
         <guid>https://www.openstreetmap.org/note/2596055#c5559208</guid>
         <pubDate>Sat, 27 Mar 2021 08:18:01 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Pózva, Zalaegerszeg) / * 2021 March 26 12:05 Created: fdgrege / * 2021 March 27 03:29 mavl Resolved: This note does not contain a useful information for OpenStreetMap.</title>
-        <link>https://www.openstreetmap.org/note/2595150#c5558998</link>
-        <guid>https://www.openstreetmap.org/note/2595150#c5558998</guid>
-        <pubDate>Sat, 27 Mar 2021 03:29:41 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Mátraszőlős) / * 2021 March 26 23:41 Lóri Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2595892#c5558859</link>
-        <guid>https://www.openstreetmap.org/note/2595892#c5558859</guid>
-        <pubDate>Fri, 26 Mar 2021 23:41:48 +0000</pubDate>
       </item>
   </channel>
 </rss>
