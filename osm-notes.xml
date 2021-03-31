@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Kiscsömöte, Lukácsháza) / * 2021 March 31 13:16 vasony-qa Created: Melyik közterület a Kiscsömötei út?</title>
+        <link>https://www.openstreetmap.org/note/2602187#c5571967</link>
+        <guid>https://www.openstreetmap.org/note/2602187#c5571967</guid>
+        <pubDate>Wed, 31 Mar 2021 13:16:11 +0000</pubDate>
+      </item><item>
+        <title>new note (near Alsófalu, Hosszúpereszteg) / * 2021 March 31 13:15 vasony-qa Created: Melyik közterület a Széchenyi utca?</title>
+        <link>https://www.openstreetmap.org/note/2602183#c5571960</link>
+        <guid>https://www.openstreetmap.org/note/2602183#c5571960</guid>
+        <pubDate>Wed, 31 Mar 2021 13:15:00 +0000</pubDate>
+      </item><item>
+        <title>new note (near Pápakovácsi) / * 2021 March 31 13:12 vasony-qa Created: Melyik közterület a Fő utca?</title>
+        <link>https://www.openstreetmap.org/note/2602179#c5571954</link>
+        <guid>https://www.openstreetmap.org/note/2602179#c5571954</guid>
+        <pubDate>Wed, 31 Mar 2021 13:12:45 +0000</pubDate>
+      </item><item>
+        <title>new note (near Szabolcsbáka) / * 2021 March 31 13:06 vasony-qa Created: Vagy a posta címe rossz, vagy ez itt Nem Kossuth utca</title>
+        <link>https://www.openstreetmap.org/note/2602168#c5571938</link>
+        <guid>https://www.openstreetmap.org/note/2602168#c5571938</guid>
+        <pubDate>Wed, 31 Mar 2021 13:06:22 +0000</pubDate>
+      </item><item>
         <title>new note (near Vizslapart, Kökény) / * 2021 March 31 11:02 vasony-qa Created: Mi van az utcatáblán? Petőfi utca vagy Petőfi Sándor út?</title>
         <link>https://www.openstreetmap.org/note/2601945#c5571552</link>
         <guid>https://www.openstreetmap.org/note/2601945#c5571552</guid>
@@ -202,26 +222,6 @@
         <link>https://www.openstreetmap.org/note/2570056#c5564619</link>
         <guid>https://www.openstreetmap.org/note/2570056#c5564619</guid>
         <pubDate>Mon, 29 Mar 2021 05:37:50 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Újtelek, Bernecebaráti) / * 2021 March 23 11:11 vasony-qa Created: Szokoly utca vagy Szokolyi utca? / * 2021 March 28 23:49 balint36 Resolved: A KIRA nyilvántartása szerint Szokolyi utca.</title>
-        <link>https://www.openstreetmap.org/note/2590733#c5564282</link>
-        <guid>https://www.openstreetmap.org/note/2590733#c5564282</guid>
-        <pubDate>Sun, 28 Mar 2021 23:49:37 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Nyírjes, Balassagyarmat) / * 2020 September 11 20:50 aceman444 Created: There are messed up stops at this bus stations. stop_position nodes with role &amp;#39;platform&amp;#39; in bus relations instead of nodes on the footways with public_transport=platform / * 2021 March 28 23:45 balint36 Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2344574#c5564278</link>
-        <guid>https://www.openstreetmap.org/note/2344574#c5564278</guid>
-        <pubDate>Sun, 28 Mar 2021 23:45:15 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Vörösberény, Balatonalmádi) / * 2021 March 28 20:44 vasony Resolved: köszi!</title>
-        <link>https://www.openstreetmap.org/note/2572546#c5564054</link>
-        <guid>https://www.openstreetmap.org/note/2572546#c5564054</guid>
-        <pubDate>Sun, 28 Mar 2021 20:44:09 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Vörösberény, Balatonalmádi) / * 2021 March 28 20:43 vasony Resolved: Köszi!</title>
-        <link>https://www.openstreetmap.org/note/2572528#c5564053</link>
-        <guid>https://www.openstreetmap.org/note/2572528#c5564053</guid>
-        <pubDate>Sun, 28 Mar 2021 20:43:14 +0000</pubDate>
       </item>
   </channel>
 </rss>
