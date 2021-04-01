@@ -3,6 +3,36 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Terézváros, 6th district) / * 2021 April 1 18:44 vasony Updated: Meg egy hirdetőoszlop!</title>
+        <link>https://www.openstreetmap.org/note/2603919#c5575817</link>
+        <guid>https://www.openstreetmap.org/note/2603919#c5575817</guid>
+        <pubDate>Thu, 01 Apr 2021 18:44:59 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Szulla, Ráckeve) / * 2021 April 1 18:43 vasony Resolved: Ez a funkció a térkép hibáinak jelzésére szolgál. Magánjellegű információk tárolásához nem használható. / This function is used to report map errros. Please do not submit private information.</title>
+        <link>https://www.openstreetmap.org/note/2603914#c5575813</link>
+        <guid>https://www.openstreetmap.org/note/2603914#c5575813</guid>
+        <pubDate>Thu, 01 Apr 2021 18:43:17 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Kállayliget, Marostő, Szeged) / * 2021 March 29 07:18 gabro00 Created: Új utcanév van kilátásban / https://szeged.hu/hirek/41240/egy-kivalo-gyermekorvosrol-neveznek-el-utcat-ujszegeden / * 2021 April 1 18:24 vasony Updated: Beírom ide a nevet a cikkből, hogy meglegyen: / &amp;quot;A testület javaslata alapján kapná Altorjay István nevét az utca. &amp;quot; / Úgy tűnik, akkor a Petri Gábor semmiképp nem jó ezen.</title>
+        <link>https://www.openstreetmap.org/note/2598750#c5575793</link>
+        <guid>https://www.openstreetmap.org/note/2598750#c5575793</guid>
+        <pubDate>Thu, 01 Apr 2021 18:24:42 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Ipari park, Győr) / * 2021 March 29 06:57 StarWish Created: Unable to answer &amp;quot;Is OTP still here? (ATM)&amp;quot; for https://osm.org/node/3473605688 via StreetComplete 31.1: / Unicredit lett / Attached photo(s): / https://westnordost.de/p/34742.jpg / * 2021 April 1 18:21 vasony Resolved: Javítva.</title>
+        <link>https://www.openstreetmap.org/note/2598736#c5575789</link>
+        <guid>https://www.openstreetmap.org/note/2598736#c5575789</guid>
+        <pubDate>Thu, 01 Apr 2021 18:21:42 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Lupasziget, Budakalász) / * 2021 April 1 18:19 vasony Updated: Erről lenen szó? / https://www.openstreetmap.org/way/303946657</title>
+        <link>https://www.openstreetmap.org/note/2597771#c5575787</link>
+        <guid>https://www.openstreetmap.org/note/2597771#c5575787</guid>
+        <pubDate>Thu, 01 Apr 2021 18:19:05 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Lupasziget, Budakalász) / * 2021 March 28 11:51 mtoth Created: there is not water (river), but land, as you can see on the OSM map / * 2021 April 1 18:17 vasony Updated: nem látok itt folyót, mi a konkrét probléma amit javítani a térképen? / (i can see no river here, please provide more detailed information on the issue you would like to report.)</title>
+        <link>https://www.openstreetmap.org/note/2597771#c5575785</link>
+        <guid>https://www.openstreetmap.org/note/2597771#c5575785</guid>
+        <pubDate>Thu, 01 Apr 2021 18:17:50 +0000</pubDate>
+      </item><item>
         <title>new comment (near Mésztelep, Tatabánya) / * 2021 March 28 08:32 vasony Created: közlekedési lámpa / * 2021 April 1 18:14 vasony Updated: Felvettem, arra nem emlékszem, hogy a kanyarodósávokra is vonatkozik-e. / Meg kell nézni még egyszer.</title>
         <link>https://www.openstreetmap.org/note/2597337#c5575782</link>
         <guid>https://www.openstreetmap.org/note/2597337#c5575782</guid>
@@ -372,16 +402,6 @@
         <link>https://www.openstreetmap.org/note/2602444#c5572346</link>
         <guid>https://www.openstreetmap.org/note/2602444#c5572346</guid>
         <pubDate>Wed, 31 Mar 2021 14:46:08 +0000</pubDate>
-      </item><item>
-        <title>new note (near Káloz) / * 2021 March 31 14:46 vasony-qa Created: Melyi közterület a Sörház tér?</title>
-        <link>https://www.openstreetmap.org/note/2602443#c5572345</link>
-        <guid>https://www.openstreetmap.org/note/2602443#c5572345</guid>
-        <pubDate>Wed, 31 Mar 2021 14:46:07 +0000</pubDate>
-      </item><item>
-        <title>new note (near Kaposszentbenedek, Bárdudvarnok) / * 2021 March 31 14:14 vasony-qa Created: Bárd utca vagy lakótelep? Mert posta Bárd utcára hivatkozik</title>
-        <link>https://www.openstreetmap.org/note/2602392#c5572226</link>
-        <guid>https://www.openstreetmap.org/note/2602392#c5572226</guid>
-        <pubDate>Wed, 31 Mar 2021 14:14:44 +0000</pubDate>
       </item>
   </channel>
 </rss>
