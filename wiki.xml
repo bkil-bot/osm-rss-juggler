@@ -3,15 +3,20 @@
   <channel>
     <title>Wiki (via bkil-bot)</title>
       <item>
-        <title>Hungary/Találkozók/Szervezés: frissítés a Kommunikáció oldal alapján, linkek, magyarázatok -Bkil</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Tal%C3%A1lkoz%C3%B3k/Szervez%C3%A9s&amp;diff=2135081&amp;oldid=2089283</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Tal%C3%A1lkoz%C3%B3k/Szervez%C3%A9s&amp;diff=2135081</guid>
-        <pubDate>Thu, 01 Apr 2021 14:27:35 GMT</pubDate>
+        <title>Hungary/Találkozók/Szervezés: Előkészületek: PWA/SPA commons link -Bkil</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Tal%C3%A1lkoz%C3%B3k/Szervez%C3%A9s&amp;diff=2135116&amp;oldid=2089283</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Tal%C3%A1lkoz%C3%B3k/Szervez%C3%A9s&amp;diff=2135116</guid>
+        <pubDate>Thu, 01 Apr 2021 15:40:01 GMT</pubDate>
       </item><item>
         <title>Hungary/Találkozók/2021-04-26-gimmisn-szuletesnap: genesis -Bkil</title>
         <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Tal%C3%A1lkoz%C3%B3k/2021-04-26-gimmisn-szuletesnap&amp;diff=2135076&amp;oldid=0</link>
         <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Tal%C3%A1lkoz%C3%B3k/2021-04-26-gimmisn-szuletesnap&amp;diff=2135076</guid>
         <pubDate>Thu, 01 Apr 2021 13:58:53 GMT</pubDate>
+      </item><item>
+        <title>Hungary/Akadálymentes térképezés: Kerekesszékkes jelölési útmtuatók -Utvonalfelmeresek</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Akad%C3%A1lymentes_t%C3%A9rk%C3%A9pez%C3%A9s&amp;diff=2135115&amp;oldid=2135088</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Akad%C3%A1lymentes_t%C3%A9rk%C3%A9pez%C3%A9s&amp;diff=2135115</guid>
+        <pubDate>Thu, 01 Apr 2021 15:39:22 GMT</pubDate>
       </item><item>
         <title>Hungary/Kapcsolat: ics, rss -Bkil</title>
         <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Kapcsolat&amp;diff=2135096&amp;oldid=2133990</link>
@@ -27,11 +32,6 @@
         <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Akad%C3%A1lymentes_t%C3%A9rk%C3%A9pez%C3%A9s&amp;diff=2135088&amp;oldid=1957446</link>
         <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Akad%C3%A1lymentes_t%C3%A9rk%C3%A9pez%C3%A9s&amp;diff=2135088</guid>
         <pubDate>Thu, 01 Apr 2021 14:37:20 GMT</pubDate>
-      </item><item>
-        <title>Hungary/Kommunikáció: Jelenlegi tagjaink: bkil -Bkil</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Kommunik%C3%A1ci%C3%B3&amp;diff=2135084&amp;oldid=2135082</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Kommunik%C3%A1ci%C3%B3&amp;diff=2135084</guid>
-        <pubDate>Thu, 01 Apr 2021 14:29:36 GMT</pubDate>
       </item>
   </channel>
 </rss>
