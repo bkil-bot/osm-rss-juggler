@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Kiskundorozsma, Szeged) / * 2021 April 3 09:23 gabro00 Created: Új lehetséges közterületnevek Kiskundorozsma mellett Tápén és Szeged belterületén / https://szeged.hu/hirek/41410/viragos-kozok-lehetnek-dorozsmai-helyrajzi-szamos-utakbol</title>
+        <link>https://www.openstreetmap.org/note/2606151#c5580358</link>
+        <guid>https://www.openstreetmap.org/note/2606151#c5580358</guid>
+        <pubDate>Sat, 03 Apr 2021 09:23:01 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Északi városrész, Szeged) / * 2021 April 3 09:19 Beroesz Updated: A nyomvonalat szerintem láthatóvá tettem, kijelentkezve most nálam látszik. Az északi oldalon a járdát a futókör belső oldalán kell vezetni. A nyugati oldalon a járda a futókör belső oldalán megy. A Vérdomb keleti oldalán a futókör a járdától a tó felé eső oldalon megy.</title>
+        <link>https://www.openstreetmap.org/note/2353957#c5580348</link>
+        <guid>https://www.openstreetmap.org/note/2353957#c5580348</guid>
+        <pubDate>Sat, 03 Apr 2021 09:19:37 +0000</pubDate>
+      </item><item>
         <title>new comment (near Északi városrész, Szeged) / * 2021 April 3 08:54 gabro00 Updated: Igen. A jegyzet megnyitása óta nekem is lett telefonos trackem a futókörről, de itthon beszerkesztéskor vettem észre, hogy valószínűleg a gyalogút nyomvonalához is hozzányúlhattak, mert néhány helyen a futókör GPS trackje teljesen fedi a jelenlegi ösvényt. / Szóval külön kellene erről is meg arról is :/ Ez a terepen nekem sem tűnt fel.</title>
         <link>https://www.openstreetmap.org/note/2353957#c5580269</link>
         <guid>https://www.openstreetmap.org/note/2353957#c5580269</guid>
@@ -297,16 +307,6 @@
         <link>https://www.openstreetmap.org/note/2603327#c5574201</link>
         <guid>https://www.openstreetmap.org/note/2603327#c5574201</guid>
         <pubDate>Thu, 01 Apr 2021 09:29:57 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Derékhegy, Zalaszántó) / * 2021 April 1 09:29 Kriszta7678 Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2603326#c5574199</link>
-        <guid>https://www.openstreetmap.org/note/2603326#c5574199</guid>
-        <pubDate>Thu, 01 Apr 2021 09:29:25 +0000</pubDate>
-      </item><item>
-        <title>new note (near Derékhegy, Zalaszántó) / * 2021 April 1 09:29 Kriszta7678 Created: 9.fészek</title>
-        <link>https://www.openstreetmap.org/note/2603326#c5574198</link>
-        <guid>https://www.openstreetmap.org/note/2603326#c5574198</guid>
-        <pubDate>Thu, 01 Apr 2021 09:29:23 +0000</pubDate>
       </item>
   </channel>
 </rss>
