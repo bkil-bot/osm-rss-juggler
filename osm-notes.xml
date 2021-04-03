@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Csepel-Erdőalja, 21st district) / * 2021 April 3 06:55 kogutowicz-mano Created: Gyanús név. Gyanítom nem jó a POI típusa (sem), hanem ez egy shop=fishing / vagy shop=seafood.</title>
+        <link>https://www.openstreetmap.org/note/2605989#c5580013</link>
+        <guid>https://www.openstreetmap.org/note/2605989#c5580013</guid>
+        <pubDate>Sat, 03 Apr 2021 06:55:56 +0000</pubDate>
+      </item><item>
         <title>new note (near Videoton Ipari Park, Szabadságpuszta, Veszprém) / * 2021 April 2 20:02 Máté Jakab Created: &amp;quot;This is a factory called Valeo Siemens&amp;quot; / POI has no name / POI types: building / OSM data version: 2021-02-01T11:34:17Z / #mapsme</title>
         <link>https://www.openstreetmap.org/note/2605603#c5579225</link>
         <guid>https://www.openstreetmap.org/note/2605603#c5579225</guid>
@@ -322,11 +327,6 @@
         <link>https://www.openstreetmap.org/note/2603320#c5574178</link>
         <guid>https://www.openstreetmap.org/note/2603320#c5574178</guid>
         <pubDate>Thu, 01 Apr 2021 09:24:08 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Cserhátmajor, Zalaszántó) / * 2021 April 1 09:23 Kriszta7678 Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2603319#c5574176</link>
-        <guid>https://www.openstreetmap.org/note/2603319#c5574176</guid>
-        <pubDate>Thu, 01 Apr 2021 09:23:26 +0000</pubDate>
       </item>
   </channel>
 </rss>
