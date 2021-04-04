@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Nagyvázsony) / * 2019 December 16 10:26 Created: A kék tanösvény jelzés itt nem egyenes megy, hanem elvezet az M1 nyelőhöz, majd vissza az Öreg-köves víznyelőhöz. / * 2020 September 6 09:54 mgpx Updated: Első lépésként fel kelleme mérni a kék tanösvény nyomvonalát, egyelőre még nincs meg nálunk / * 2021 April 4 19:51 mgpx Resolved: Időközben javításra került</title>
+        <link>https://www.openstreetmap.org/note/2028030#c5585878</link>
+        <guid>https://www.openstreetmap.org/note/2028030#c5585878</guid>
+        <pubDate>Sun, 04 Apr 2021 19:51:34 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Aranyoshegy, Nagymaros) / * 2021 March 6 14:50 Created: A lépcső tetején nem megy tovább az ösveny az erdő fele, itt egy kapu van amely hely ház és udvarához vezet ami magán tulajdon! / * 2021 April 4 19:46 mgpx Resolved: Köszönjük a jelzést, javítva</title>
+        <link>https://www.openstreetmap.org/note/2567810#c5585865</link>
+        <guid>https://www.openstreetmap.org/note/2567810#c5585865</guid>
+        <pubDate>Sun, 04 Apr 2021 19:46:39 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Tatár-árok, Salgótarján) / * 2021 January 26 13:54 Mamutinka Created: Forwarding anonymous report from #Mapy.cz user, please verify: This camping is canceled. / * 2021 April 4 19:41 mgpx Resolved: Thanks, fixed</title>
+        <link>https://www.openstreetmap.org/note/2513171#c5585862</link>
+        <guid>https://www.openstreetmap.org/note/2513171#c5585862</guid>
+        <pubDate>Sun, 04 Apr 2021 19:41:54 +0000</pubDate>
+      </item><item>
         <title>closed note (near Újlipótváros, 13th district) / * 2020 October 29 15:22 Kit Mosoda Laundry Created: Kit Mosoda Laundry / * 2020 October 29 15:22 Kit Mosoda Laundry Resolved: si / * 2020 October 29 15:22 Kit Mosoda Laundry Reactivated:  / * 2021 January 28 18:18 kogutowicz-mano Resolved: Pompás! / * 2021 January 30 14:51 feket Reactivated:  / * 2021 January 30 14:56 feket Updated: Nem került még fel a mosoda a térképre. Megnézem, hogy létezik-e. / * 2021 April 4 16:29 feket Resolved: Nem találtam meg a jelölt helyen.</title>
         <link>https://www.openstreetmap.org/note/2403873#c5585407</link>
         <guid>https://www.openstreetmap.org/note/2403873#c5585407</guid>
@@ -167,21 +182,6 @@
         <link>https://www.openstreetmap.org/note/2604720#c5577225</link>
         <guid>https://www.openstreetmap.org/note/2604720#c5577225</guid>
         <pubDate>Fri, 02 Apr 2021 10:34:55 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Terézváros, 6th district) / * 2021 April 1 18:44 vasony Updated: Meg egy hirdetőoszlop!</title>
-        <link>https://www.openstreetmap.org/note/2603919#c5575817</link>
-        <guid>https://www.openstreetmap.org/note/2603919#c5575817</guid>
-        <pubDate>Thu, 01 Apr 2021 18:44:59 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Szulla, Ráckeve) / * 2021 April 1 18:43 vasony Resolved: Ez a funkció a térkép hibáinak jelzésére szolgál. Magánjellegű információk tárolásához nem használható. / This function is used to report map errros. Please do not submit private information.</title>
-        <link>https://www.openstreetmap.org/note/2603914#c5575813</link>
-        <guid>https://www.openstreetmap.org/note/2603914#c5575813</guid>
-        <pubDate>Thu, 01 Apr 2021 18:43:17 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Kállayliget, Marostő, Szeged) / * 2021 March 29 07:18 gabro00 Created: Új utcanév van kilátásban / https://szeged.hu/hirek/41240/egy-kivalo-gyermekorvosrol-neveznek-el-utcat-ujszegeden / * 2021 April 1 18:24 vasony Updated: Beírom ide a nevet a cikkből, hogy meglegyen: / &amp;quot;A testület javaslata alapján kapná Altorjay István nevét az utca. &amp;quot; / Úgy tűnik, akkor a Petri Gábor semmiképp nem jó ezen.</title>
-        <link>https://www.openstreetmap.org/note/2598750#c5575793</link>
-        <guid>https://www.openstreetmap.org/note/2598750#c5575793</guid>
-        <pubDate>Thu, 01 Apr 2021 18:24:42 +0000</pubDate>
       </item>
   </channel>
 </rss>
