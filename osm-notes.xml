@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Lupasziget, Budakalász) / * 2021 April 4 09:02 mtoth Updated: A küldött üzenetedre válaszoltam</title>
+        <link>https://www.openstreetmap.org/note/2597771#c5583921</link>
+        <guid>https://www.openstreetmap.org/note/2597771#c5583921</guid>
+        <pubDate>Sun, 04 Apr 2021 09:02:15 +0000</pubDate>
+      </item><item>
         <title>new comment (near Lupasziget, Budakalász) / * 2021 April 4 07:50 vasony Updated: Privát: pl. itt a nevemre kattintva &amp;quot;send message&amp;quot;. Küldtem üzeneten.</title>
         <link>https://www.openstreetmap.org/note/2597771#c5583771</link>
         <guid>https://www.openstreetmap.org/note/2597771#c5583771</guid>
@@ -227,21 +232,6 @@
         <link>https://www.openstreetmap.org/note/2583777#c5575685</link>
         <guid>https://www.openstreetmap.org/note/2583777#c5575685</guid>
         <pubDate>Thu, 01 Apr 2021 17:12:08 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Rákospalota Öregfalu, Rákospalota, 15th district) / * 2021 March 22 05:32 kogutowicz-mano Created: Itt valahogy végzetesen összekuszálódott valami az adatbázisban. Egy lehetséges bizonyítás: / - Indítsd le az iD editort! / - Kattintás nélkül(!) tologasd a pointert a környékbeli objektumok illetve az építési telek felett! Utóbbinál a bal oldali panelben az előző objektum adatai jelennek meg. / - Mikor ezt már meguntad, kattints az építkezés határára! Az editor lényegében ledermed. Egyéb parajelenségek is fellépnek, de azt most nem tudom részletezni. / Szerintem érdemes lenne apránként visszavonni az óvoda objektum szerkesztéseit míg helyre nem jön, aztán rendesen kidolgozni. / * 2021 April 1 17:01 vasony Resolved: &amp;quot;Ez a funkció a térkép hibáinak jelzésére szolgál&amp;quot; / Átnéztem az objektumokat, én nem láttam javítani valót, én nem nyúlnék hozzá: / Itt lehet bejelenteni az iD hibáit: / https://github.com/openstreetmap/iD/issues/new</title>
-        <link>https://www.openstreetmap.org/note/2588831#c5575667</link>
-        <guid>https://www.openstreetmap.org/note/2588831#c5575667</guid>
-        <pubDate>Thu, 01 Apr 2021 17:01:53 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Buják) / * 2021 March 21 15:24 IEniko Created: &amp;quot;Kereszt&amp;quot; / POI has no name / POI types: historic-wayside_cross / OSM data version: 2021-02-01T11:34:17Z / #mapsme / * 2021 April 1 16:52 vasony Resolved: Kereszt már szerepel a térképen. / Ez a funkció a térkép hibáinak jelzésére szolgál. Magánjellegű információk tárolásához nem használható.</title>
-        <link>https://www.openstreetmap.org/note/2588125#c5575648</link>
-        <guid>https://www.openstreetmap.org/note/2588125#c5575648</guid>
-        <pubDate>Thu, 01 Apr 2021 16:52:50 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Zalahaláp) / * 2021 April 1 16:51 vasony Resolved: Javítva, az út az épülettől délre van (alatta)</title>
-        <link>https://www.openstreetmap.org/note/2588017#c5575636</link>
-        <guid>https://www.openstreetmap.org/note/2588017#c5575636</guid>
-        <pubDate>Thu, 01 Apr 2021 16:51:05 +0000</pubDate>
       </item>
   </channel>
 </rss>
