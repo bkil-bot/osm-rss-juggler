@@ -3,6 +3,21 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Budapest XII. kerület ortofotó: A következő változtatásban az szerepel, hogy &quot;Ez a lehetőség sajnos megszűnt&quot;. Ha a hozzájárulást nem vonták vissza, hanem csak az átjáró romlott el, azt még meg lehetne javítani vagy le lehetne cserélni. Úgy látom kint van azóta a honlapon a 2020-as is. https://wiki.openstreetmap.org/w/index.ph -Thomas Nagy</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/KRjYVxO4xVs/m/udfB1Y-PCgAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/KRjYVxO4xVs/m/udfB1Y-PCgAJ</guid>
+        <pubDate>Tue, 06 Apr 2021 10:04:29 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Törlések fokozottan védett természeti területeken: Tényleg valós a probléma. Eddig alig látogatott helyek akkora terhelésnek vannak kitéve, hogy a DINPI több helyen lezáráson gondolkodik. A sziklagyepnek mondhatod, hogy a járvány miatt mégiscsak ki kell mozdulni valahová, ha letapossák és lemossa az eső, akkor ott többé nem lesz. Ugyanezek a -ITineris OSM</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/bz0LY29WKNQ/m/W6zCDSmPCgAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/bz0LY29WKNQ/m/W6zCDSmPCgAJ</guid>
+        <pubDate>Tue, 06 Apr 2021 09:57:08 UTC</pubDate>
+      </item><item>
+        <title>Törlések fokozottan védett természeti területeken: Szervusztok! Feltűnt, hogy egy szerkesztő a fokozottan védettnek vélt (*) természeti területeken szisztematikusan törölgetni kezdett turisztikai szempontból érdekes pontokat. Kilátópontokat, túramozgalmak igazolópontjait, ösvényeket stb - olyasmiket, amelyek jelzett turistautakon nem közelíthető -Gergely Matefi</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/bz0LY29WKNQ/m/zy0x-EyOCgAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/bz0LY29WKNQ/m/zy0x-EyOCgAJ</guid>
+        <pubDate>Tue, 06 Apr 2021 09:41:22 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Két magyar reptér neve: bizonyos adatait nyilvántartja, &gt; és ott a fenti (kék színű) megnevezések szerepelnek. érdekes, hogy Zalaegerszegen jelenleg már 2 repülőtérnek is van engedélye .. a második a &quot;Zalaegerszeg Kórház&quot; ( legalábbis a légügyi hatóság előző évi listájában szerepel ) vagyis jó lenne, ha nem tévesztenék -Imre Samu</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/nbkh1JHy3Tw/m/tuhrDN5WCgAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/nbkh1JHy3Tw/m/tuhrDN5WCgAJ</guid>
@@ -237,21 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/PRnxBfguBQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/PRnxBfguBQAJ</guid>
         <pubDate>Mon, 22 Mar 2021 08:51:54 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Road Network Improvements in Hungary: Hey Akos, Thank you for your feedback! The mapper is already notified about that. Regards, Murad On Sun, Mar 21, 2021 at 12:50 AM ITineris OSM wrote: &gt; Dear Bolt users (namely Bolt003 in changeset #101318523), &gt; &gt; Please don't split/insert ways using the iD editor that have -Murad Vardzelyan</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/XvwSFjjmTpc/m/kCzeXssmBQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/XvwSFjjmTpc/m/kCzeXssmBQAJ</guid>
-        <pubDate>Mon, 22 Mar 2021 06:22:06 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Re: Márciusi találkozó: Rákospalota 100%-ig térképezése, egyebek: Már csak 1 hét van az eseményig, így ideális volna holnapig meghirdetni. Ki az aki úgy döntött, hogy beáldozza magát a közjó érdekében? On Sun, Mar 7, 2021 at 1:00 PM Thomas Nagy wrote: &gt; &gt; Illetve majd megtanulod, hogy a 100% egy szubjektív fogalom aminek &gt; jelentését a -Thomas Nagy</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/2O_0BINBhKA/m/DyBzvxIjBQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/2O_0BINBhKA/m/DyBzvxIjBQAJ</guid>
-        <pubDate>Mon, 22 Mar 2021 05:13:55 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Road Network Improvements in Hungary: Dear Bolt users (namely Bolt003 in changeset #101318523), Please don't split/insert ways using the iD editor that have public transport route relations on them. iD is buggy in this respect and messes up the order of relation members. With the above change, bus lines going on Jászberényi út -ITineris OSM</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/XvwSFjjmTpc/m/7rl5dNG4BQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/XvwSFjjmTpc/m/7rl5dNG4BQAJ</guid>
-        <pubDate>Sat, 20 Mar 2021 20:50:57 UTC</pubDate>
       </item>
   </channel>
 </rss>
