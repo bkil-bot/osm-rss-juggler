@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Csillaghegy, 3rd district) / * 2021 April 6 16:30 Created: Itt hiba van. Hiányzik az utca.  A Csermák Antal utca kifut egészen a Határ útig. / There is a map error here. Street is missing. Csermák Antal utca connects into Határ út.</title>
+        <link>https://www.openstreetmap.org/note/2611472#c5591204</link>
+        <guid>https://www.openstreetmap.org/note/2611472#c5591204</guid>
+        <pubDate>Tue, 06 Apr 2021 16:30:53 +0000</pubDate>
+      </item><item>
         <title>new note (near Havanna-lakótelep, 18th district) / * 2021 April 6 15:51 Created: Street Workout park</title>
         <link>https://www.openstreetmap.org/note/2611430#c5591033</link>
         <guid>https://www.openstreetmap.org/note/2611430#c5591033</guid>
@@ -262,11 +267,6 @@
         <link>https://www.openstreetmap.org/note/2597771#c5583921</link>
         <guid>https://www.openstreetmap.org/note/2597771#c5583921</guid>
         <pubDate>Sun, 04 Apr 2021 09:02:15 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Lupasziget, Budakalász) / * 2021 April 4 07:50 vasony Updated: Privát: pl. itt a nevemre kattintva &amp;quot;send message&amp;quot;. Küldtem üzeneten.</title>
-        <link>https://www.openstreetmap.org/note/2597771#c5583771</link>
-        <guid>https://www.openstreetmap.org/note/2597771#c5583771</guid>
-        <pubDate>Sun, 04 Apr 2021 07:50:04 +0000</pubDate>
       </item>
   </channel>
 </rss>
