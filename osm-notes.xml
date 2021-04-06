@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Senkár tanya, Lábatlan) / * 2021 April 6 09:03 Matyjace Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;Reciczky bánya, Old quarry&amp;quot;</title>
+        <link>https://www.openstreetmap.org/note/2610773#c5589694</link>
+        <guid>https://www.openstreetmap.org/note/2610773#c5589694</guid>
+        <pubDate>Tue, 06 Apr 2021 09:03:33 +0000</pubDate>
+      </item><item>
         <title>closed note (near Ófalu, Budakalász) / * 2021 April 4 14:32 sd_ciastko Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/587035074 via StreetComplete 31.1: / Golgota 15 családi ház,1+1 emelet / * 2021 April 5 16:07 sd_ciastko Resolved: Javítottm a címet, attribútumokat beírtam.</title>
         <link>https://www.openstreetmap.org/note/2608643#c5588016</link>
         <guid>https://www.openstreetmap.org/note/2608643#c5588016</guid>
@@ -222,11 +227,6 @@
         <link>https://www.openstreetmap.org/note/2604720#c5580637</link>
         <guid>https://www.openstreetmap.org/note/2604720#c5580637</guid>
         <pubDate>Sat, 03 Apr 2021 10:48:15 +0000</pubDate>
-      </item><item>
-        <title>new note (near Kiskundorozsma, Szeged) / * 2021 April 3 09:23 gabro00 Created: Új lehetséges közterületnevek Kiskundorozsma mellett Tápén és Szeged belterületén / https://szeged.hu/hirek/41410/viragos-kozok-lehetnek-dorozsmai-helyrajzi-szamos-utakbol</title>
-        <link>https://www.openstreetmap.org/note/2606151#c5580358</link>
-        <guid>https://www.openstreetmap.org/note/2606151#c5580358</guid>
-        <pubDate>Sat, 03 Apr 2021 09:23:01 +0000</pubDate>
       </item>
   </channel>
 </rss>
