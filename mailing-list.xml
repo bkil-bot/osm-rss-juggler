@@ -3,6 +3,21 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Törlések fokozottan védett természeti területeken: On Tue, Apr 6, 2021 at 2:35 PM Gergely Matefi wrote: &gt; Idealizált világban éltek :-) &gt; Az elmúlt időszakban több foteltérképésznél is láttam, hogy nekiálltak &quot;kijavítani&quot; az abandoned:amenity=XYZ típusú címkéket : vagy törölték a névteret, vagy felvittek mellé egy új -grin</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/bz0LY29WKNQ/m/uJ-xKWWZCgAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/bz0LY29WKNQ/m/uJ-xKWWZCgAJ</guid>
+        <pubDate>Tue, 06 Apr 2021 13:04:41 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Törlések fokozottan védett természeti területeken: On Tue, Apr 6, 2021 at 11:57 AM ITineris OSM wrote: &gt; Tényleg valós a probléma. Eddig alig látogatott helyek akkora terhelésnek vannak kitéve, hogy a DINPI több helyen lezáráson gondolkodik. A sziklagyepnek mondhatod, hogy a járvány miatt mégiscsak ki kell mozdulni valahová, -grin</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/bz0LY29WKNQ/m/RyBnQdOXCgAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/bz0LY29WKNQ/m/RyBnQdOXCgAJ</guid>
+        <pubDate>Tue, 06 Apr 2021 12:35:55 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Törlések fokozottan védett természeti területeken: Idealizált világban éltek :-) Az elmúlt időszakban több foteltérképésznél is láttam, hogy nekiálltak &quot;kijavítani&quot; az abandoned:amenity=XYZ típusú címkéket : vagy törölték a névteret, vagy felvittek mellé egy új &quot;amenity=XYZ&quot; címkét is. Hiszen azt olvasták a Wikiben, hogy prefix nélkül kell -Gergely Matefi</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/bz0LY29WKNQ/m/0HJxb9KXCgAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/bz0LY29WKNQ/m/0HJxb9KXCgAJ</guid>
+        <pubDate>Tue, 06 Apr 2021 12:35:51 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Törlések fokozottan védett természeti területeken: Jó ötlet. Ezzel azt is megoldod, hogy nem térképezik vissza, mert aki visszatenné az látni fogja a probléma gyökerét. Üdv, Feri -Feri Veres</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/bz0LY29WKNQ/m/ZMRxog6VCgAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/bz0LY29WKNQ/m/ZMRxog6VCgAJ</guid>
@@ -237,21 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/hgkKYahpCLg/m/CU_i_BeEBQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/hgkKYahpCLg/m/CU_i_BeEBQAJ</guid>
         <pubDate>Tue, 23 Mar 2021 10:51:50 UTC</pubDate>
-      </item><item>
-        <title>2021-03-24 19:00 OSM Hour: tűzcsapozás és járdázás közösen: https://gettogether.community/events/10447/2021-03-24-tuzcsap-jarda -Thomas Nagy</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/hxz-xNwjNS4/m/7jBcwnp3BQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/hxz-xNwjNS4/m/7jBcwnp3BQAJ</guid>
-        <pubDate>Tue, 23 Mar 2021 07:00:41 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Épület rajzolás és módosítás - Kispest: A 9. ábrán a bölcsőde feletti szürkített részt kell nézni? Ilyen részletességgel műholdról érthető, hogy nem fogod tudni berajzolni, különösen, ha az épület &quot;dőlése&quot; takarja a cikkcakkos részt. Nézd meg Diósdot, hogy milyen orthofotónk van, vagy azokat a területeket amiket pár OSM-es szerkesztő -Feri Veres</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/m3B7vm4yBQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/m3B7vm4yBQAJ</guid>
-        <pubDate>Mon, 22 Mar 2021 09:55:23 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Épület rajzolás és módosítás - Kispest: Teraszos: https://wiki.openstreetmap.org/wiki/Simple_3D_Buildings (A konkrét teraszos panelra) szerintem: az alaprajzra: building=yes, building:levels=3. A 4. szinthez: building:part=yes, building:levels=4, building:min_level=3. Az 5.,6. szinthez: building:part=yes, building:levels=6, building:mi -Máté Fehérvári</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/6D9BqGIwBQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/stqBFupw1l0/m/6D9BqGIwBQAJ</guid>
-        <pubDate>Mon, 22 Mar 2021 09:17:51 UTC</pubDate>
       </item>
   </channel>
 </rss>
