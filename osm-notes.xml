@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Népsziget, 13th district) / * 2021 April 7 10:02 Kocsis Attila Kálmán Created: &amp;quot;Ámon Merci bontó&amp;quot; / POI has no name / POI types: landuse-industrial / OSM data version: 2021-02-01T11:34:17Z / #mapsme</title>
+        <link>https://www.openstreetmap.org/note/2612137#c5592817</link>
+        <guid>https://www.openstreetmap.org/note/2612137#c5592817</guid>
+        <pubDate>Wed, 07 Apr 2021 10:02:36 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Északi városrész, Szeged) / * 2021 April 7 09:46 gabro00 Resolved: Jó link / https://www.openstreetmap.org/changeset/102433706</title>
+        <link>https://www.openstreetmap.org/note/2353957#c5592761</link>
+        <guid>https://www.openstreetmap.org/note/2353957#c5592761</guid>
+        <pubDate>Wed, 07 Apr 2021 09:46:20 +0000</pubDate>
+      </item><item>
+        <title>reactivated note (near Északi városrész, Szeged) / * 2020 September 18 16:21 gabro00 Created: Elkészült a rekortán futókör, fel kellene mérni / http://szegeder.hu/mar-futhato-a-verto-uj-rekortanja/ / * 2021 April 3 08:40 Beroesz Updated: A Vérkört feltöltöttem a nyomvonalak közé: / https://www.openstreetmap.org/user/Beroesz/traces/3621747 / * 2021 April 3 08:42 gabro00 Updated: Azt írja nem található nyomvonal / * 2021 April 3 08:48 Beroesz Updated: Ahogy elnézem a szomszédos ösvényeket is igazítani kell majd, mert a pálya építésekor azok nyomvonala is megváltozott. / * 2021 April 3 08:54 gabro00 Updated: Igen. A jegyzet megnyitása óta nekem is lett telefonos trackem a futókörről, de itthon beszerkesztéskor vettem észre, hogy valószínűleg a gyalogút nyomvonalához is hozzányúlhattak, mert néhány helyen a futókör GPS trackje teljesen fedi a jelenlegi ösvényt. / Szóval külön kellene erről is meg arról is :/ Ez a terepen nekem sem tűnt fel. / * 2021 April 3 09:19 Beroesz Updated: A nyomvonalat szerintem láthatóvá tettem, kijelentkezve most nálam látszik. Az északi oldalon a járdát a futókör belső oldalán kell vezetni. A nyugati oldalon a járda a futókör belső oldalán megy. A Vérdomb keleti oldalán a futókör a járdától a tó felé eső oldalon megy. / * 2021 April 6 21:46 gabro00 Resolved: Köszi, szerintem kész. A nyomvonalad és a saját jegyzeteim illetve trackjeim alapján pontosítottam. / A futókör 999,71m lett (hivatalosan 1000m-es), készítettem hozzá route kapcsolatot, mert a kis hurkot a délnyugati részén is meg kell kerülni, hogy kijöjjön. / https://www.openstreetmap.org/changeset/102426590 / * 2021 April 7 09:46 gabro00 Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/2353957#c5592758</link>
+        <guid>https://www.openstreetmap.org/note/2353957#c5592758</guid>
+        <pubDate>Wed, 07 Apr 2021 09:46:05 +0000</pubDate>
+      </item><item>
         <title>closed note (near Budakeszierdő, 12th district) / * 2021 March 14 14:58 Created: Diagnosztikai Intézet / * 2021 April 6 23:25 infeeeee Resolved: Hozzáadva: https://www.openstreetmap.org/changeset/102435755</title>
         <link>https://www.openstreetmap.org/note/2578863#c5592076</link>
         <guid>https://www.openstreetmap.org/note/2578863#c5592076</guid>
@@ -272,16 +287,6 @@
         <link>https://www.openstreetmap.org/note/2403873#c5585407</link>
         <guid>https://www.openstreetmap.org/note/2403873#c5585407</guid>
         <pubDate>Sun, 04 Apr 2021 16:29:27 +0000</pubDate>
-      </item><item>
-        <title>new note (near Ófalu, Budakalász) / * 2021 April 4 14:32 sd_ciastko Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/587035074 via StreetComplete 31.1: / Golgota 15 családi ház,1+1 emelet</title>
-        <link>https://www.openstreetmap.org/note/2608643#c5585018</link>
-        <guid>https://www.openstreetmap.org/note/2608643#c5585018</guid>
-        <pubDate>Sun, 04 Apr 2021 14:32:22 +0000</pubDate>
-      </item><item>
-        <title>new note (near Diósgyőri-lakótelep, Diósgyőr, Miskolc) / * 2021 April 4 13:13 meskobalazs Created: külön épületek / via StreetComplete 31.1 / Attached photo(s): / https://westnordost.de/p/35866.jpg</title>
-        <link>https://www.openstreetmap.org/note/2608440#c5584695</link>
-        <guid>https://www.openstreetmap.org/note/2608440#c5584695</guid>
-        <pubDate>Sun, 04 Apr 2021 13:13:11 +0000</pubDate>
       </item>
   </channel>
 </rss>
