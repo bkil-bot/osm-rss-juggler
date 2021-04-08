@@ -3,6 +3,21 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Középiskolák a térképre: Szia! Mivel nem közvetlenül importáljuk be az adatokat, szerintem zöld a lámpa. Technikailag valószínűleg egy posta (dm, Tesco stb.) importhoz hasonló projektet lehet belőle csinálni: a cím alapján összefésülni a meglevő iskolákkal, majd cím alapján georeferálva keresni a közeli iskolák között, -ITineris OSM</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/GQ4yDcR2uAA/m/J3DkSBE9BwAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/GQ4yDcR2uAA/m/J3DkSBE9BwAJ</guid>
+        <pubDate>Thu, 08 Apr 2021 14:02:10 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Középiskolák a térképre: On Thu, 8 Apr 2021, Babos, Gábor wrote: &gt; - Mit szól ehhez az állam? Ezek persze elvileg nyilvános közadatok, de a &gt; valóságban a kormány nem mindig lelkesedik a közadatok további &gt; felhasználása iránt. Ki tudja? Nyugalom! Alighanem semmit. A laktanyak sem erdekelnek senkit. Kiss -Kiss Gabor</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/GQ4yDcR2uAA/m/71Is9_k7BwAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/GQ4yDcR2uAA/m/71Is9_k7BwAJ</guid>
+        <pubDate>Thu, 08 Apr 2021 13:42:10 UTC</pubDate>
+      </item><item>
+        <title>Középiskolák a térképre: Sziasztok! A Köznevelési Információs Rendszer oldaláról kishazánk összes középiskolája letölthető egyetlen excel-táblázatban. Nem tudnánk-e ezzel kezdeni valamit? Például valahogy föltenni őket az Osmose-ra, mint a franciák a saját iskolanyilvántartásukat? A készítők lelkesen állnak rendelkezésün -Babos, Gábor</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/GQ4yDcR2uAA/m/zSaAAag6BwAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/GQ4yDcR2uAA/m/zSaAAag6BwAJ</guid>
+        <pubDate>Thu, 08 Apr 2021 13:17:59 UTC</pubDate>
+      </item><item>
         <title>Gondatlan károkozás (Fuzu rajzolásai): Sziasztok! Szia Fazu! Ezt a levelet elküldtem Fazunak privátban is, de hátha itt előbb olvassa. Lehet hozzászólni, ha a többieknek van más javaslata, vagy valamivel nem értenek egyet velem. Általánosságban arra kérlek, hogy ne igazíts semmit a Bing alapján, illetve ne használd az ID szerkeszt -Úr Balázs</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/0jKQiA_Aahg/m/WRZs6dHzCgAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/0jKQiA_Aahg/m/WRZs6dHzCgAJ</guid>
@@ -237,21 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/pzVFiMEfbtY/m/5hyXcRLTBQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/pzVFiMEfbtY/m/5hyXcRLTBQAJ</guid>
         <pubDate>Wed, 24 Mar 2021 10:59:08 UTC</pubDate>
-      </item><item>
-        <title>Re: Alaptérkép: Remélem, sikerül engedélyt szerezni, nagyon jó lenne ekkora területről ilyen jó felbontású ortofotó. Endre a következőt írta (2021. március 23., kedd, 20:11:05 UTC+1): &gt; Sziasztok! &gt; &gt; Megpróbálja valaki az alábbi alapanyag https://envimap.hu/map &gt; felhasználását OSM-hez megkérni? &gt; &gt; Nemrég -Benjámin</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/9CnGk95gMmY/m/NrfJdZ6oBQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/9CnGk95gMmY/m/NrfJdZ6oBQAJ</guid>
-        <pubDate>Tue, 23 Mar 2021 22:01:10 UTC</pubDate>
-      </item><item>
-        <title>Alaptérkép: Sziasztok! Megpróbálja valaki az alábbi alapanyag https://envimap.hu/map felhasználását OSM-hez megkérni? Nemrég találtam. Üdv! Endre -Endre</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/9CnGk95gMmY/m/96dLPVafBQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/9CnGk95gMmY/m/96dLPVafBQAJ</guid>
-        <pubDate>Tue, 23 Mar 2021 19:11:05 UTC</pubDate>
-      </item><item>
-        <title>tuzcsap: Mindenki welcome to ellenőriz és korrigál, mert részben a lista alapján próbáltam összeszedni: https://wiki.openstreetmap.org/wiki/Hungary/Jel%C3%B6l%C3%A9si_p%C3%A9ld%C3%A1k/T%C5%B1zcsap Egyelőre nincs behuzalozva a Hungary topicba sehova. g -grin</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/l5Mh-CwyauE/m/Dw52Vq2PBQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/l5Mh-CwyauE/m/Dw52Vq2PBQAJ</guid>
-        <pubDate>Tue, 23 Mar 2021 14:24:06 UTC</pubDate>
       </item>
   </channel>
 </rss>
