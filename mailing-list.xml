@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Re: kla25 turistaút-átnevezései: elnevezéssel rendelkezik ill. (B) amikor névtelen de jelzett útról van szó. &gt; &gt; (A) eset, közismert névvel rendelkező utak, pl. Rákóczi-út, Palóc Piros Vándorút &gt; 1: Használjunk-e a megnevezésben rövidítést? -&gt; vitatott nem. &gt; 2: Szerepeljen-e a megnevezésben a jelzéskód? -&gt; vitatott nem -grin</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/DQI8y2RQGpw/m/Ww9__bkFCwAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/DQI8y2RQGpw/m/Ww9__bkFCwAJ</guid>
+        <pubDate>Wed, 14 Apr 2021 20:58:49 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Re: kla25 turistaút-átnevezései: (A) eset, közismert névvel rendelkező utak, pl. Rákóczi-út, Palóc Piros Vándorút 1: Használjunk-e a megnevezésben rövidítést? -&gt; igen 2: Szerepeljen-e a megnevezésben a jelzéskód? -&gt; igen, végülis lehet &quot;K, RPDDK 64.&quot;. Így egységesebb az adatbázisban a megnevezés. 3: Szerepeljen-e a megnevezésbe -Máté Fehérvári</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/DQI8y2RQGpw/m/kIWdBoz-CgAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/DQI8y2RQGpw/m/kIWdBoz-CgAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/cM-LYMvo-QA/m/_OebZDLmBgAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/cM-LYMvo-QA/m/_OebZDLmBgAJ</guid>
         <pubDate>Thu, 25 Mar 2021 11:47:06 UTC</pubDate>
-      </item><item>
-        <title>give_way + direction?: Sziasztok! Tegnapi online találkozón vetettem fel, hogy a give_way elsőbbségadás meg Stop táblákra felesleges a direction megadása. Ez a page is azt írja, hogy csak akkor kell, ha annyira rossz helyen van, hogy egy program nem TUDNÁ kitalálni: https://wiki.openstreetmap.org/wiki/Tag:highway%3 -Feri Veres</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/cM-LYMvo-QA/m/6kXbPendBgAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/cM-LYMvo-QA/m/6kXbPendBgAJ</guid>
-        <pubDate>Thu, 25 Mar 2021 09:15:15 UTC</pubDate>
       </item>
   </channel>
 </rss>
