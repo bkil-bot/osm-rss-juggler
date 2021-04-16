@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Re: kla25 turistaút-átnevezései: A Garmin kimenetemnél a három nagy kéktúrát a nevük alapján azonosítom, és jelzem másképpen, az átnevezésnek köszönhetően persze írhattam át a scriptet, de ami csak pár perces munka, de nem szeretném hogy ez egy rendszeresen változó dolog lenne. Nem is értem, miért kérdés, a mozgalom neve -Tamás Németh</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/DQI8y2RQGpw/m/44ZWcjxyCwAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/DQI8y2RQGpw/m/44ZWcjxyCwAJ</guid>
+        <pubDate>Fri, 16 Apr 2021 06:07:16 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Re: kla25 turistaút-átnevezései: Inline válaszban az én szavazataim, amik nagyjából megegyeznek a témaindítóban vázolt benyomásaimmal. Összességében nagyon fontosnak tartom, hogy ne csak a konkrét &quot;mobilon turistatérképet használó emberek&quot; felhasználói csoportra gondoljunk, hanem az OSM &quot;name&quot; tag jelentésére és egyéb felhaszná -András</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/DQI8y2RQGpw/m/OcI4R3dVCwAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/DQI8y2RQGpw/m/OcI4R3dVCwAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/cM-LYMvo-QA/m/dA3t8P_pBgAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/cM-LYMvo-QA/m/dA3t8P_pBgAJ</guid>
         <pubDate>Thu, 25 Mar 2021 12:56:47 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] give_way + direction?: én is, mióta a lakóhelyem környékén fölvettem a wazéba is meg az OSM-be is a meglévő (de addig térképen nem jelzett) 20-as táblákat, azóta kb negyedére csökkent az át-egérutazók száma... &gt; Útvonaltervezéshez az útszakaszok hossza tárolva van a térképben, &gt; de a give_way tábla és a vonal két -Rózsa Gza (Géza) István Özséb</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/cM-LYMvo-QA/m/JWhi3GzpBgAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/cM-LYMvo-QA/m/JWhi3GzpBgAJ</guid>
-        <pubDate>Thu, 25 Mar 2021 12:46:15 UTC</pubDate>
       </item>
   </channel>
 </rss>
