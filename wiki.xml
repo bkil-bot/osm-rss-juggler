@@ -2,6 +2,11 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      
+      <item>
+        <title>Hungary/Találkozók/Előadás ötletek: Videó igények -Utvonalfelmeresek</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Tal%C3%A1lkoz%C3%B3k/El%C5%91ad%C3%A1s_%C3%B6tletek&amp;diff=2145068&amp;oldid=2144316</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Tal%C3%A1lkoz%C3%B3k/El%C5%91ad%C3%A1s_%C3%B6tletek&amp;diff=2145068</guid>
+        <pubDate>Thu, 22 Apr 2021 21:49:08 GMT</pubDate>
+      </item>
   </channel>
 </rss>
