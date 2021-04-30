@@ -3,6 +3,16 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>Interesting read about road categorization in #OpenStreetMap vs. official planning documents, and the application of OpenStreetMap’s Ground Truth rule: - https://www.openstreetmap.org/user/Tim%20Couwelier/diary - https://wiki.openstreetmap.org/wiki/Good_practice#Map_what.27s_on_the_ground</title>
+        <link>https://en.osm.town/@Doudouosm/106152011521518261</link>
+        <guid>https://en.osm.town/@Doudouosm/106152011521518261</guid>
+        <pubDate>Fri, 30 Apr 2021 02:52:32 +0000</pubDate>
+      </item><item>
+        <title>#Session messenger app audit report is published: https://getsession.org/session-code-audit/. The major takeaway, they say, is Session’s cryptographically sound and a few issues were raised, most of which have already been patched, and couple of low impact issues remain, but they were mostly related to deliberate design choices.</title>
+        <link>https://en.osm.town/@Doudouosm/106151982840431481</link>
+        <guid>https://en.osm.town/@Doudouosm/106151982840431481</guid>
+        <pubDate>Fri, 30 Apr 2021 02:45:14 +0000</pubDate>
+      </item><item>
         <title>The #OpenStreetMap Foundation #OSMF now offers a file management and collaborative writing platform based on #Nextcloud: https://www.openstreetmap.org/user/xamanu/diary/396501.</title>
         <link>https://en.osm.town/@Doudouosm/106139329170160948</link>
         <guid>https://en.osm.town/@Doudouosm/106139329170160948</guid>
@@ -92,16 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/105571274199316759</link>
         <guid>https://en.osm.town/@Doudouosm/105571274199316759</guid>
         <pubDate>Sun, 17 Jan 2021 13:23:24 +0000</pubDate>
-      </item><item>
-        <title>Are you looking forward to next #OpenStreetMap State of the Map #SotM ? #OSMF is calling for help to organize it: https://lists.openstreetmap.org/pipermail/talk/2021-January/085938.html.</title>
-        <link>https://en.osm.town/@Doudouosm/105565546558864399</link>
-        <guid>https://en.osm.town/@Doudouosm/105565546558864399</guid>
-        <pubDate>Sat, 16 Jan 2021 13:06:47 +0000</pubDate>
-      </item><item>
-        <title>#FOSDEM 2021 (online event this year) is approaching (Sat-Sun, Feb 6-7) and has, among a much broader agenda, talks on geo-related data, free and open source geospatial software and its ecosystem. Check the talk abstracts at https://fosdem.org/2021/schedule/track/geospatial/. #GIS #OpenStreetMap</title>
-        <link>https://en.osm.town/@Doudouosm/105539738100390749</link>
-        <guid>https://en.osm.town/@Doudouosm/105539738100390749</guid>
-        <pubDate>Mon, 11 Jan 2021 23:43:21 +0000</pubDate>
       </item>
   </channel>
 </rss>
