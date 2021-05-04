@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Vizafogó, 13th district) / * 2021 May 3 13:58 grozsa11 Created: 7 lépcsőfok megy föl az útról. Az út túloldalán valami parkolóútszerű,  lekerítve,  murvás. / via StreetComplete 31.3 / * 2021 May 4 06:59 grozsa11 Resolved: fölrajzolva</title>
+        <link>https://www.openstreetmap.org/note/2651351#c5676756</link>
+        <guid>https://www.openstreetmap.org/note/2651351#c5676756</guid>
+        <pubDate>Tue, 04 May 2021 06:59:29 +0000</pubDate>
+      </item><item>
         <title>closed note (near Kiskovácsi, Pomáz) / * 2021 April 20 10:33 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: Y-cave is here. https://hu.wikipedia.org/wiki/Y-%C3%A1g%C3%BA-barlang / * 2021 May 4 05:58 grozsa11 Resolved: Thanks a lot. Now corrected the Y-cave entrance.</title>
         <link>https://www.openstreetmap.org/note/2630949#c5676597</link>
         <guid>https://www.openstreetmap.org/note/2630949#c5676597</guid>
@@ -247,11 +252,6 @@
         <link>https://www.openstreetmap.org/note/2121869#c5665359</link>
         <guid>https://www.openstreetmap.org/note/2121869#c5665359</guid>
         <pubDate>Sat, 01 May 2021 04:46:16 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Angyalföld, 13th district) / * 2021 April 30 19:49 grozsa11 Updated: A streetcomplete használatával javítgattam a térképet és ő kérdezett rá,  hogy ez milyen jellegű épület. Iskola,  korhaz,  üzlet stb. De nem találtam a streetcomplete.ben megfelelő választ rá.</title>
-        <link>https://www.openstreetmap.org/note/2645810#c5664643</link>
-        <guid>https://www.openstreetmap.org/note/2645810#c5664643</guid>
-        <pubDate>Fri, 30 Apr 2021 19:49:15 +0000</pubDate>
       </item>
   </channel>
 </rss>
