@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Balatonőszöd) / * 2021 May 5 13:12 vasony-qa Created: Melyik közterület a Szabadság tér?</title>
+        <link>https://www.openstreetmap.org/note/2655574#c5681295</link>
+        <guid>https://www.openstreetmap.org/note/2655574#c5681295</guid>
+        <pubDate>Wed, 05 May 2021 13:12:56 +0000</pubDate>
+      </item><item>
         <title>new note (near Dóchegy, Homokbödöge) / * 2021 May 5 11:34 vasony-qa Created: Melyik a Kossuth Lajos utca?</title>
         <link>https://www.openstreetmap.org/note/2655379#c5681013</link>
         <guid>https://www.openstreetmap.org/note/2655379#c5681013</guid>
@@ -287,11 +292,6 @@
         <link>https://www.openstreetmap.org/note/2646742#c5674605</link>
         <guid>https://www.openstreetmap.org/note/2646742#c5674605</guid>
         <pubDate>Mon, 03 May 2021 17:43:47 +0000</pubDate>
-      </item><item>
-        <title>new note (near Békásmegyer, 3rd district) / * 2021 May 3 14:42 grozsa11 Created: Unable to answer &amp;quot;What surface does this path have here?&amp;quot; for https://osm.org/way/47088032 via StreetComplete 31.3: / anyaga gumipadlo. Mint a busznak.</title>
-        <link>https://www.openstreetmap.org/note/2651392#c5673787</link>
-        <guid>https://www.openstreetmap.org/note/2651392#c5673787</guid>
-        <pubDate>Mon, 03 May 2021 14:42:58 +0000</pubDate>
       </item>
   </channel>
 </rss>
