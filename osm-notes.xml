@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Belváros, Vác) / * 2021 May 5 05:29 Bálint Resolved: Fixed</title>
+        <link>https://www.openstreetmap.org/note/2316018#c5680160</link>
+        <guid>https://www.openstreetmap.org/note/2316018#c5680160</guid>
+        <pubDate>Wed, 05 May 2021 05:29:45 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Belváros, Vác) / * 2020 August 21 07:28 Pan Perníček Created: #Mapy.cz user reports: Coop doesn&amp;#39;t exist, now it is &amp;quot;Tibi Bolt&amp;quot;. / * 2021 May 5 05:29 Bálint Updated: Fixed</title>
+        <link>https://www.openstreetmap.org/note/2316018#c5680159</link>
+        <guid>https://www.openstreetmap.org/note/2316018#c5680159</guid>
+        <pubDate>Wed, 05 May 2021 05:29:44 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Belváros, Vác) / * 2020 November 11 01:14 Godot77 Created: &amp;quot;It closed down, Lipóti pékség has expanded and took over its premises.&amp;quot; / The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI name: Napfény Travel / POI types: wheelchair-limited shop-travel_agency / OSM data version: 2020-09-19T23:20:21Z / #mapsme / * 2021 May 5 05:28 Bálint Resolved: Fixed</title>
+        <link>https://www.openstreetmap.org/note/2418797#c5680157</link>
+        <guid>https://www.openstreetmap.org/note/2418797#c5680157</guid>
+        <pubDate>Wed, 05 May 2021 05:28:29 +0000</pubDate>
+      </item><item>
         <title>new comment (near Paletta lakópark, Gál István-lakótelep, Tatabánya) / * 2021 May 4 17:18 gabro00 Updated: Tapasztalom sajnos, le is lőttem az országos közterületnév osm&amp;lt;-&amp;gt;posta matchert, mert katasztrófa az adatbázisuk.</title>
         <link>https://www.openstreetmap.org/note/2593900#c5679160</link>
         <guid>https://www.openstreetmap.org/note/2593900#c5679160</guid>
@@ -277,21 +292,6 @@
         <link>https://www.openstreetmap.org/note/2645827#c5673157</link>
         <guid>https://www.openstreetmap.org/note/2645827#c5673157</guid>
         <pubDate>Mon, 03 May 2021 12:24:48 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Óbuda, 3rd district) / * 2021 May 3 12:21 grozsa11 Resolved: Javítva, megrajzolva a másik út is.</title>
-        <link>https://www.openstreetmap.org/note/2650389#c5673137</link>
-        <guid>https://www.openstreetmap.org/note/2650389#c5673137</guid>
-        <pubDate>Mon, 03 May 2021 12:21:26 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Óbuda, 3rd district) / * 2021 May 3 12:21 grozsa11 Resolved: javítva: törölve az OEVK vonalról az átkelő pont</title>
-        <link>https://www.openstreetmap.org/note/2650399#c5673134</link>
-        <guid>https://www.openstreetmap.org/note/2650399#c5673134</guid>
-        <pubDate>Mon, 03 May 2021 12:21:13 +0000</pubDate>
-      </item><item>
-        <title>new note (near Sarvaly, Sümeg) / * 2021 May 3 10:38 Created: Fedett eső beálló</title>
-        <link>https://www.openstreetmap.org/note/2650695#c5672709</link>
-        <guid>https://www.openstreetmap.org/note/2650695#c5672709</guid>
-        <pubDate>Mon, 03 May 2021 10:38:14 +0000</pubDate>
       </item>
   </channel>
 </rss>
