@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Kossuthváros, Kiskunfélegyháza) / * 2021 May 6 06:12 Created: A szakasz a kitérőktől a bejárati jelzőig villamosítva van.</title>
+        <link>https://www.openstreetmap.org/note/2656838#c5683516</link>
+        <guid>https://www.openstreetmap.org/note/2656838#c5683516</guid>
+        <pubDate>Thu, 06 May 2021 06:12:51 +0000</pubDate>
+      </item><item>
         <title>new note (near Albertkázmérpuszta, Várbalog) / * 2021 May 5 15:12 vasony-qa Created: Pontosan melyik közterület a Futrinka utca,</title>
         <link>https://www.openstreetmap.org/note/2655983#c5681807</link>
         <guid>https://www.openstreetmap.org/note/2655983#c5681807</guid>
@@ -292,16 +297,6 @@
         <link>https://www.openstreetmap.org/note/2651351#c5676756</link>
         <guid>https://www.openstreetmap.org/note/2651351#c5676756</guid>
         <pubDate>Tue, 04 May 2021 06:59:29 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Kiskovácsi, Pomáz) / * 2021 April 20 10:33 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: Y-cave is here. https://hu.wikipedia.org/wiki/Y-%C3%A1g%C3%BA-barlang / * 2021 May 4 05:58 grozsa11 Resolved: Thanks a lot. Now corrected the Y-cave entrance.</title>
-        <link>https://www.openstreetmap.org/note/2630949#c5676597</link>
-        <guid>https://www.openstreetmap.org/note/2630949#c5676597</guid>
-        <pubDate>Tue, 04 May 2021 05:58:40 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Ófalu, Budakalász) / * 2021 April 21 07:48 Created: Hiányzó házszám: 3-5/B / * 2021 May 4 05:53 grozsa11 Resolved: Fölvéve.</title>
-        <link>https://www.openstreetmap.org/note/2632014#c5676584</link>
-        <guid>https://www.openstreetmap.org/note/2632014#c5676584</guid>
-        <pubDate>Tue, 04 May 2021 05:53:11 +0000</pubDate>
       </item>
   </channel>
 </rss>
