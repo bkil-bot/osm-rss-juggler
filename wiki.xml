@@ -2,16 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      <item>
-        <title>Hungary/Importálás: Információforrás ötletek: apozitivenergiasport.hu/bevaltohelyek Üzletek címe, neve, brand, hegyvidekkartya.hu/elfogadohelyek Név, cím, típus, telefonszámok, email cím, honlap, szabad szavas description -Bkil</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Import%C3%A1l%C3%A1s&amp;diff=2150600&amp;oldid=2068897</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Import%C3%A1l%C3%A1s&amp;diff=2150600</guid>
-        <pubDate>Fri, 07 May 2021 21:06:56 GMT</pubDate>
-      </item><item>
-        <title>Hungary/Szerszámzat: POI matcher: Hungary/Importálás/POI_adatok -Bkil</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Szersz%C3%A1mzat&amp;diff=2150591&amp;oldid=2142930</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Szersz%C3%A1mzat&amp;diff=2150591</guid>
-        <pubDate>Fri, 07 May 2021 20:52:09 GMT</pubDate>
-      </item>
+      
   </channel>
 </rss>
