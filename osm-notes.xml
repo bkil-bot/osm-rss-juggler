@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Kertvárosias lakóterület, Budaörs) / * 2021 May 8 19:06 vasony Created: Innen a Budapesti útig biztos 40 km/h a sebességkorlátozás, kérdés a másik irány.</title>
+        <link>https://www.openstreetmap.org/note/2661052#c5691775</link>
+        <guid>https://www.openstreetmap.org/note/2661052#c5691775</guid>
+        <pubDate>Sat, 08 May 2021 19:06:23 +0000</pubDate>
+      </item><item>
         <title>closed note (near Taván, Budakalász) / * 2021 March 8 10:11 vasony-qa Created: Melyik közterület a Szent István tér? / * 2021 May 8 12:35 sd_ciastko Resolved: Utánanéztem, a parkra jelöltem.</title>
         <link>https://www.openstreetmap.org/note/2570288#c5690752</link>
         <guid>https://www.openstreetmap.org/note/2570288#c5690752</guid>
@@ -277,21 +282,6 @@
         <link>https://www.openstreetmap.org/note/2654465#c5678863</link>
         <guid>https://www.openstreetmap.org/note/2654465#c5678863</guid>
         <pubDate>Tue, 04 May 2021 15:07:25 +0000</pubDate>
-      </item><item>
-        <title>new note (near Alsómocsolád) / * 2021 May 4 15:05 vasony-qa Created: Ez az Alsómocsoládi út?</title>
-        <link>https://www.openstreetmap.org/note/2654462#c5678858</link>
-        <guid>https://www.openstreetmap.org/note/2654462#c5678858</guid>
-        <pubDate>Tue, 04 May 2021 15:05:54 +0000</pubDate>
-      </item><item>
-        <title>new note (near Tevel) / * 2021 May 4 15:03 vasony-qa Created: Melyik közterület a Kápolna utca?</title>
-        <link>https://www.openstreetmap.org/note/2654457#c5678849</link>
-        <guid>https://www.openstreetmap.org/note/2654457#c5678849</guid>
-        <pubDate>Tue, 04 May 2021 15:03:10 +0000</pubDate>
-      </item><item>
-        <title>new note (near Zsidó városrész, Bajcsy-Ráday, Makó) / * 2021 May 4 15:01 vasony-qa Created: Melyik közterület a Vorhard rabbi tér?</title>
-        <link>https://www.openstreetmap.org/note/2654453#c5678844</link>
-        <guid>https://www.openstreetmap.org/note/2654453#c5678844</guid>
-        <pubDate>Tue, 04 May 2021 15:01:40 +0000</pubDate>
       </item>
   </channel>
 </rss>
