@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Rákhegy, Kincsesbánya) / * 2021 May 9 14:12 Kaaliyuga Created: closed gate</title>
+        <link>https://www.openstreetmap.org/note/2662112#c5693735</link>
+        <guid>https://www.openstreetmap.org/note/2662112#c5693735</guid>
+        <pubDate>Sun, 09 May 2021 14:12:02 +0000</pubDate>
+      </item><item>
         <title>closed note (near Pilismarót) / * 2021 May 8 22:34 bkil Resolved: Innen nem tűnik annak.</title>
         <link>https://www.openstreetmap.org/note/2661182#c5692219</link>
         <guid>https://www.openstreetmap.org/note/2661182#c5692219</guid>
@@ -232,21 +237,6 @@
         <link>https://www.openstreetmap.org/note/2655081#c5680426</link>
         <guid>https://www.openstreetmap.org/note/2655081#c5680426</guid>
         <pubDate>Wed, 05 May 2021 07:22:49 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Belváros, Vác) / * 2021 May 5 05:29 Bálint Resolved: Fixed</title>
-        <link>https://www.openstreetmap.org/note/2316018#c5680160</link>
-        <guid>https://www.openstreetmap.org/note/2316018#c5680160</guid>
-        <pubDate>Wed, 05 May 2021 05:29:45 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Belváros, Vác) / * 2020 August 21 07:28 Pan Perníček Created: #Mapy.cz user reports: Coop doesn&amp;#39;t exist, now it is &amp;quot;Tibi Bolt&amp;quot;. / * 2021 May 5 05:29 Bálint Updated: Fixed</title>
-        <link>https://www.openstreetmap.org/note/2316018#c5680159</link>
-        <guid>https://www.openstreetmap.org/note/2316018#c5680159</guid>
-        <pubDate>Wed, 05 May 2021 05:29:44 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Belváros, Vác) / * 2020 November 11 01:14 Godot77 Created: &amp;quot;It closed down, Lipóti pékség has expanded and took over its premises.&amp;quot; / The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI name: Napfény Travel / POI types: wheelchair-limited shop-travel_agency / OSM data version: 2020-09-19T23:20:21Z / #mapsme / * 2021 May 5 05:28 Bálint Resolved: Fixed</title>
-        <link>https://www.openstreetmap.org/note/2418797#c5680157</link>
-        <guid>https://www.openstreetmap.org/note/2418797#c5680157</guid>
-        <pubDate>Wed, 05 May 2021 05:28:29 +0000</pubDate>
       </item>
   </channel>
 </rss>
