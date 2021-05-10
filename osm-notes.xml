@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Újlak, 3rd district) / * 2021 April 27 14:44 kogutowicz-mano Created: Hamarosan Solt Ottilia tér lesz. / https://telex.hu/belfold/2021/04/27/orsi-gergely-szabo-magda-psota-iren-kozterulet / * 2021 May 10 08:53 infeeeee Resolved: Szerepel már a térképen: https://www.openstreetmap.org/changeset/103712586</title>
+        <link>https://www.openstreetmap.org/note/2640637#c5695801</link>
+        <guid>https://www.openstreetmap.org/note/2640637#c5695801</guid>
+        <pubDate>Mon, 10 May 2021 08:53:33 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Országút, 2nd district) / * 2021 April 27 14:27 kogutowicz-mano Created: Hamarosan Szabó Magda sétány. / https://telex.hu/belfold/2021/04/27/orsi-gergely-szabo-magda-psota-iren-kozterulet / * 2021 May 10 08:52 infeeeee Resolved: Ez is szerepel már a térképen: https://www.openstreetmap.org/changeset/103711886</title>
+        <link>https://www.openstreetmap.org/note/2640611#c5695800</link>
+        <guid>https://www.openstreetmap.org/note/2640611#c5695800</guid>
+        <pubDate>Mon, 10 May 2021 08:52:36 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Víziváros, 1st district) / * 2021 April 27 14:34 kogutowicz-mano Created: Hamarosan Psota Irén utca. / https://telex.hu/belfold/2021/04/27/orsi-gergely-szabo-magda-psota-iren-kozterulet / * 2021 May 10 08:51 infeeeee Resolved: Nem ez az utca, hanem a tömb másik oladlán, és Bálint szerkesztő már ezt is felvitte: https://www.openstreetmap.org/changeset/103711982</title>
+        <link>https://www.openstreetmap.org/note/2640621#c5695796</link>
+        <guid>https://www.openstreetmap.org/note/2640621#c5695796</guid>
+        <pubDate>Mon, 10 May 2021 08:51:11 +0000</pubDate>
+      </item><item>
+        <title>new note (near Ófalu, Budakalász) / * 2021 May 10 08:27 vasony-qa Created: Itt van egy 1/a nem hiányzik innen egy utca? Mert ez biztos nem Fenyves utca.</title>
+        <link>https://www.openstreetmap.org/note/2662964#c5695709</link>
+        <guid>https://www.openstreetmap.org/note/2662964#c5695709</guid>
+        <pubDate>Mon, 10 May 2021 08:27:02 +0000</pubDate>
+      </item><item>
         <title>new note (near Országút, 2nd district) / * 2021 May 10 06:36 grozsa11 Created: Unable to answer &amp;quot;What surface does this path have here?&amp;quot; for https://osm.org/way/845450674 via StreetComplete 31.3: / Burkolata kéregháncs. Van ilyen a wikiben?</title>
         <link>https://www.openstreetmap.org/note/2662845#c5695452</link>
         <guid>https://www.openstreetmap.org/note/2662845#c5695452</guid>
@@ -227,26 +247,6 @@
         <link>https://www.openstreetmap.org/note/2655343#c5680939</link>
         <guid>https://www.openstreetmap.org/note/2655343#c5680939</guid>
         <pubDate>Wed, 05 May 2021 11:09:55 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Stengertanya, Nagyesztergár) / * 2021 January 5 09:33 vasony-qa Created: Valószínű az Erdei Ferenc utca neve megváltozott Kossuth Lajos utcára, ellenőrizendő / * 2021 May 5 11:00 vasony-qa Resolved: dupla</title>
-        <link>https://www.openstreetmap.org/note/2485879#c5680919</link>
-        <guid>https://www.openstreetmap.org/note/2485879#c5680919</guid>
-        <pubDate>Wed, 05 May 2021 11:00:05 +0000</pubDate>
-      </item><item>
-        <title>new note (near Szepezdfürdő, Balatonszepezd) / * 2021 May 5 10:58 vasony-qa Created: Melyik a Csuki tér? Én csak Csuki utcát látok a térképen.</title>
-        <link>https://www.openstreetmap.org/note/2655332#c5680915</link>
-        <guid>https://www.openstreetmap.org/note/2655332#c5680915</guid>
-        <pubDate>Wed, 05 May 2021 10:58:27 +0000</pubDate>
-      </item><item>
-        <title>new note (near Balatonarács, Balatonfüred) / * 2021 May 5 10:55 vasony-qa Created: Melyik a Kouvola utca?</title>
-        <link>https://www.openstreetmap.org/note/2655330#c5680911</link>
-        <guid>https://www.openstreetmap.org/note/2655330#c5680911</guid>
-        <pubDate>Wed, 05 May 2021 10:55:47 +0000</pubDate>
-      </item><item>
-        <title>new note (near Csererdő, Veszprém) / * 2021 May 5 10:50 vasony-qa Created: Melyik a Gépraktár utca?</title>
-        <link>https://www.openstreetmap.org/note/2655327#c5680907</link>
-        <guid>https://www.openstreetmap.org/note/2655327#c5680907</guid>
-        <pubDate>Wed, 05 May 2021 10:50:42 +0000</pubDate>
       </item>
   </channel>
 </rss>
