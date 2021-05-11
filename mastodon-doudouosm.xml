@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>An explanation of the #OSM-Carto road rendering system and its issues and limitations: http://blog.imagico.de/navigating-the-maze-part-1/. #OpenStreetMap #OSMCarto</title>
+        <link>https://en.osm.town/@Doudouosm/106218339455828463</link>
+        <guid>https://en.osm.town/@Doudouosm/106218339455828463</guid>
+        <pubDate>Tue, 11 May 2021 20:00:36 +0000</pubDate>
+      </item><item>
         <title>The #Indoor Mapping Landscape in 2021: https://geoawesomeness.com/the-indoor-mapping-landscape-2021-mappedin/. Getting lost indoors might become just as rare as getting lost outdoors. That’s the promise at least, as indoor mapping use cases are popping up regularly as more businesses are realizing the benefits of indoor maps. Is indoor mapping only a business use case? #OpenStreetMap</title>
         <link>https://en.osm.town/@Doudouosm/106217789920058964</link>
         <guid>https://en.osm.town/@Doudouosm/106217789920058964</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/105636011178671640</link>
         <guid>https://en.osm.town/@Doudouosm/105636011178671640</guid>
         <pubDate>Thu, 28 Jan 2021 23:46:52 +0000</pubDate>
-      </item><item>
-        <title>Tips for working on #MapRoulette tasks in your preferred area: - Nearby Tasks - Virtual Challenges Read more: https://blog.maproulette.org/2021/01/25/tips-for-solving-tasks-in-a-small-area/ #OpenStreetMap #tips</title>
-        <link>https://en.osm.town/@Doudouosm/105628673757603050</link>
-        <guid>https://en.osm.town/@Doudouosm/105628673757603050</guid>
-        <pubDate>Wed, 27 Jan 2021 16:40:51 +0000</pubDate>
       </item>
   </channel>
 </rss>
