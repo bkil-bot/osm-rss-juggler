@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Lipótváros, 5th district) / * 2021 May 11 08:00 grozsa11 Updated: ...elég sokat próbálok építeni az OSM-en és úgy érzem, hogy néha az nem egészen jól képeződik le, hogy egyrészt minden vonal (járdák külön megrajzolva) pontosan futnak (mikrotérképezés) és másrészről az útvonalak, főutak nyomvonala is próbál fölkerülni a térképre...  Aztán jövök a StreetComplete-tel és nem tudom, hogy most pl egy ilyen csomópont közepében mit kezdjek azzal a kérdéssel, hogy van-e lámpa a kereszteződésben a gyalogosoknak...  Hát a négy átkelő körben van, de akkor itt középen már nem kellene... Szóval kicsit úgy érzem, hogy a túl pontos fölrajzolásokat akkor azonban rettenetesen pontosan végig kellene javítgatni, hogy melyik vonalkapcsolati pont pontosan mit takar. / Na ezen már csak az nehezít, ha a kereszteződés két utcájába befutnak a járdák is külön fölrajzolva, másik két irányból meg &amp;quot;csak&amp;quot; az utak középvonala... és közben zebrák és egyebek jelezve... jelzendően...</title>
+        <link>https://www.openstreetmap.org/note/2651109#c5698180</link>
+        <guid>https://www.openstreetmap.org/note/2651109#c5698180</guid>
+        <pubDate>Tue, 11 May 2021 08:00:19 +0000</pubDate>
+      </item><item>
         <title>closed note (near Adyváros, Győr) / * 2016 May 30 10:28 vidg Created: Megszunt be van zarva. / * 2021 May 11 05:48 NightH Resolved: </title>
         <link>https://www.openstreetmap.org/note/577701#c5697883</link>
         <guid>https://www.openstreetmap.org/note/577701#c5697883</guid>
@@ -267,21 +272,6 @@
         <link>https://www.openstreetmap.org/note/2657893#c5685567</link>
         <guid>https://www.openstreetmap.org/note/2657893#c5685567</guid>
         <pubDate>Thu, 06 May 2021 18:38:50 +0000</pubDate>
-      </item><item>
-        <title>new note (near Ipartelep, Siófok) / * 2021 May 6 06:21 Created: A vasútvonal Siófoktól idáig villamosított.</title>
-        <link>https://www.openstreetmap.org/note/2656851#c5683645</link>
-        <guid>https://www.openstreetmap.org/note/2656851#c5683645</guid>
-        <pubDate>Thu, 06 May 2021 06:21:44 +0000</pubDate>
-      </item><item>
-        <title>new note (near Balatonkeresztúr) / * 2021 May 6 06:17 Created: A vasútvonal és az itt nem jelölt iparvágány is Balatonberény állomástól a Balaton utca vonaláig villamosítva van.</title>
-        <link>https://www.openstreetmap.org/note/2656845#c5683598</link>
-        <guid>https://www.openstreetmap.org/note/2656845#c5683598</guid>
-        <pubDate>Thu, 06 May 2021 06:17:45 +0000</pubDate>
-      </item><item>
-        <title>new note (near Kossuthváros, Kiskunfélegyháza) / * 2021 May 6 06:12 Created: A szakasz a kitérőktől a bejárati jelzőig villamosítva van.</title>
-        <link>https://www.openstreetmap.org/note/2656838#c5683516</link>
-        <guid>https://www.openstreetmap.org/note/2656838#c5683516</guid>
-        <pubDate>Thu, 06 May 2021 06:12:51 +0000</pubDate>
       </item>
   </channel>
 </rss>
