@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Madár utcák, Budakalász) / * 2021 May 7 07:12 grozsa11 Created: Szalonka köz merőlegesen / via StreetComplete 31.3 / * 2021 May 12 09:35 grozsa11 Resolved: megoldva</title>
+        <link>https://www.openstreetmap.org/note/2658451#c5701394</link>
+        <guid>https://www.openstreetmap.org/note/2658451#c5701394</guid>
+        <pubDate>Wed, 12 May 2021 09:35:45 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Berdódűlő, Madár utcák, Budakalász) / * 2021 May 7 07:17 grozsa11 Created: Ösvény betonhíd túloldalon lépcső / via StreetComplete 31.3 / * 2021 May 12 09:35 grozsa11 Resolved: fölvéve, lezárva</title>
+        <link>https://www.openstreetmap.org/note/2658456#c5701392</link>
+        <guid>https://www.openstreetmap.org/note/2658456#c5701392</guid>
+        <pubDate>Wed, 12 May 2021 09:35:11 +0000</pubDate>
+      </item><item>
         <title>closed note (near Csillaghegy, 3rd district) / * 2021 April 6 16:30 Created: Itt hiba van. Hiányzik az utca.  A Csermák Antal utca kifut egészen a Határ útig. / There is a map error here. Street is missing. Csermák Antal utca connects into Határ út. / * 2021 May 12 07:36 grozsa11 Resolved: Már valaki javíthatta, mert a megjegyzésben említett rendben van</title>
         <link>https://www.openstreetmap.org/note/2611472#c5700926</link>
         <guid>https://www.openstreetmap.org/note/2611472#c5700926</guid>
@@ -232,11 +242,6 @@
         <link>https://www.openstreetmap.org/note/2661052#c5691775</link>
         <guid>https://www.openstreetmap.org/note/2661052#c5691775</guid>
         <pubDate>Sat, 08 May 2021 19:06:23 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Taván, Budakalász) / * 2021 March 8 10:11 vasony-qa Created: Melyik közterület a Szent István tér? / * 2021 May 8 12:35 sd_ciastko Resolved: Utánanéztem, a parkra jelöltem.</title>
-        <link>https://www.openstreetmap.org/note/2570288#c5690752</link>
-        <guid>https://www.openstreetmap.org/note/2570288#c5690752</guid>
-        <pubDate>Sat, 08 May 2021 12:35:08 +0000</pubDate>
       </item>
   </channel>
 </rss>
