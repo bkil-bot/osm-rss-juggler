@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Angyalföld, 13th district) / * 2021 April 30 12:57 grozsa11 Created: BudapestFőváros Levéltára...na ez milyen jellegű épület. Talán valami múzeumfélének jelölhetnénk.... / via StreetComplete 31.3 / * 2021 April 30 14:50 kogutowicz-mano Updated: Mi a gond a hivatallal? / * 2021 April 30 19:49 grozsa11 Updated: A streetcomplete használatával javítgattam a térképet és ő kérdezett rá,  hogy ez milyen jellegű épület. Iskola,  korhaz,  üzlet stb. De nem találtam a streetcomplete.ben megfelelő választ rá. / * 2021 May 13 14:07 grozsa11 Resolved: beállítottam könyvtárnak (StreetComplete-ben az nincsen, de itt OSM-ben van lehetőség rá)</title>
+        <link>https://www.openstreetmap.org/note/2645810#c5704753</link>
+        <guid>https://www.openstreetmap.org/note/2645810#c5704753</guid>
+        <pubDate>Thu, 13 May 2021 14:07:11 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Víziváros, 1st district) / * 2021 January 16 06:38 vasony Created: Magyar asszonyok bástyája valahol itt kellene legyen. / * 2021 May 13 14:01 grozsa11 Resolved: ...a bástya fönt a falon. Pótoltam látnivalóként.</title>
+        <link>https://www.openstreetmap.org/note/2499633#c5704739</link>
+        <guid>https://www.openstreetmap.org/note/2499633#c5704739</guid>
+        <pubDate>Thu, 13 May 2021 14:01:52 +0000</pubDate>
+      </item><item>
         <title>closed note (near Lipótváros, 5th district) / * 2021 May 13 07:43 grozsa11 Resolved: javítva</title>
         <link>https://www.openstreetmap.org/note/2666740#c5703969</link>
         <guid>https://www.openstreetmap.org/note/2666740#c5703969</guid>
@@ -232,16 +242,6 @@
         <link>https://www.openstreetmap.org/note/2663303#c5696359</link>
         <guid>https://www.openstreetmap.org/note/2663303#c5696359</guid>
         <pubDate>Mon, 10 May 2021 13:15:37 +0000</pubDate>
-      </item><item>
-        <title>new note (near Belváros, Szeged) / * 2021 May 10 13:15 Created: Épület lebontva</title>
-        <link>https://www.openstreetmap.org/note/2663301#c5696357</link>
-        <guid>https://www.openstreetmap.org/note/2663301#c5696357</guid>
-        <pubDate>Mon, 10 May 2021 13:15:06 +0000</pubDate>
-      </item><item>
-        <title>new note (near Belváros, Szeged) / * 2021 May 10 13:13 Created: Épület elbontva</title>
-        <link>https://www.openstreetmap.org/note/2663299#c5696354</link>
-        <guid>https://www.openstreetmap.org/note/2663299#c5696354</guid>
-        <pubDate>Mon, 10 May 2021 13:13:52 +0000</pubDate>
       </item>
   </channel>
 </rss>
