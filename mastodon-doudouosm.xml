@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>#OpenStreetMap mappers use different approaches to model various types of intersections. The more the number of roads intersect, the more complex the intersection becomes. In this guide, #Mapbox is presenting different cases of intersections with their best practices and recommendations to follow during mapping: https://labs.mapbox.com/mapping/mapping-for-navigation/modeling-intersections-for-map-navigation/. While you are there, be sure to check the other guides they have.</title>
+        <link>https://en.osm.town/@Doudouosm/106227114390740452</link>
+        <guid>https://en.osm.town/@Doudouosm/106227114390740452</guid>
+        <pubDate>Thu, 13 May 2021 09:12:11 +0000</pubDate>
+      </item><item>
         <title>An explanation of the #OSM-Carto road rendering system and its issues and limitations: http://blog.imagico.de/navigating-the-maze-part-1/. #OpenStreetMap #OSMCarto</title>
         <link>https://en.osm.town/@Doudouosm/106218339455828463</link>
         <guid>https://en.osm.town/@Doudouosm/106218339455828463</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/105641143386428512</link>
         <guid>https://en.osm.town/@Doudouosm/105641143386428512</guid>
         <pubDate>Fri, 29 Jan 2021 21:32:03 +0000</pubDate>
-      </item><item>
-        <title>Video “How to create a toolbar preset in #JOSM, so you can apply your own tags in one click”: https://peertube.openstreetmap.fr/videos/watch/cb6275ba-204e-49e8-88ed-e8e56de6d2bb Summary: Click “Presets” menu &amp;gt; “Create Presets”, then right-click the toolbar and customize it to add the preset as a button. #OpenStreetMap #tips</title>
-        <link>https://en.osm.town/@Doudouosm/105636011178671640</link>
-        <guid>https://en.osm.town/@Doudouosm/105636011178671640</guid>
-        <pubDate>Thu, 28 Jan 2021 23:46:52 +0000</pubDate>
       </item>
   </channel>
 </rss>
