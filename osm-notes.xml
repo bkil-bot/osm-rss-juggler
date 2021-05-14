@@ -3,6 +3,46 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Belváros, Pécs) / * 2019 August 16 07:36 tolnaiz Created: &amp;quot;its closed&amp;quot; / The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI name: Palacsintaöntöde / POI types: internet_access amenity-restaurant / OSM data version: 2019-06-21T10:47:15Z / #mapsme / * 2021 May 14 15:13 bkil Resolved: Megadtam az oldalát és töröltem</title>
+        <link>https://www.openstreetmap.org/note/1886519#c5707789</link>
+        <guid>https://www.openstreetmap.org/note/1886519#c5707789</guid>
+        <pubDate>Fri, 14 May 2021 15:13:11 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Dobosvölgy, Pécsvárad) / * 2021 February 6 14:40 deryalex96 Created: Háromsziget Horgásztó / * 2021 May 14 15:13 bkil Resolved: Köszönjük, felvettem az alsó tóra.</title>
+        <link>https://www.openstreetmap.org/note/2527851#c5707788</link>
+        <guid>https://www.openstreetmap.org/note/2527851#c5707788</guid>
+        <pubDate>Fri, 14 May 2021 15:13:11 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Mecsekoldal, Pécs) / * 2021 January 5 10:19 Created: 41/A / * 2021 May 14 15:13 bkil Resolved: Felvettem.</title>
+        <link>https://www.openstreetmap.org/note/2485941#c5707787</link>
+        <guid>https://www.openstreetmap.org/note/2485941#c5707787</guid>
+        <pubDate>Fri, 14 May 2021 15:13:11 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Alsópakony, Ócsa) / * 2020 September 29 15:58 Rerib Created: &amp;quot;Ócsa Bázis&amp;quot; / POI name: Ócsai gyakorló terület / POI types: landuse-military / OSM data version: 2020-08-22T02:23:14Z / #mapsme / * 2021 May 14 15:13 bkil Resolved: Már fent van a térképen</title>
+        <link>https://www.openstreetmap.org/note/2368129#c5707786</link>
+        <guid>https://www.openstreetmap.org/note/2368129#c5707786</guid>
+        <pubDate>Fri, 14 May 2021 15:13:10 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Ispitaalja, Pécs) / * 2021 February 3 14:15 Created: Nemzeti dohánybolt van itt / * 2021 May 14 15:13 bkil Resolved: Felvettem</title>
+        <link>https://www.openstreetmap.org/note/2523730#c5707785</link>
+        <guid>https://www.openstreetmap.org/note/2523730#c5707785</guid>
+        <pubDate>Fri, 14 May 2021 15:13:10 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Basamalom, Pécs) / * 2019 March 8 21:10 Havasi Ferenc Created: Ideiglenesen bezárt / * 2021 May 14 15:13 bkil Resolved: Az azóta lefutott importer szerint újra üzemel</title>
+        <link>https://www.openstreetmap.org/note/1704187#c5707784</link>
+        <guid>https://www.openstreetmap.org/note/1704187#c5707784</guid>
+        <pubDate>Fri, 14 May 2021 15:13:10 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Schlauch-villatelep, Siklósi városrész, Pécs) / * 2017 December 21 14:58 Gyimesi András Created: Szabadság Apartman Pécs / 7623, Pécs / Szabadság utca 13 / Kiadó szálláshely / * 2021 May 14 15:13 bkil Resolved: Felvettem</title>
+        <link>https://www.openstreetmap.org/note/1245200#c5707783</link>
+        <guid>https://www.openstreetmap.org/note/1245200#c5707783</guid>
+        <pubDate>Fri, 14 May 2021 15:13:09 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Belváros, Szolnok) / * 2020 July 15 08:37 Created: Bieco Shop / * 2021 May 14 14:38 bkil Resolved: Már fent van Szántó körúton a helyén https://www.openstreetmap.org/node/8150152692#map=18/47.18408/20.18587</title>
+        <link>https://www.openstreetmap.org/note/2266329#c5707719</link>
+        <guid>https://www.openstreetmap.org/note/2266329#c5707719</guid>
+        <pubDate>Fri, 14 May 2021 14:38:44 +0000</pubDate>
+      </item><item>
         <title>new note (near Újváros, Szekszárd) / * 2021 May 13 17:17 Created: Gyakorló Gyakroló helyett</title>
         <link>https://www.openstreetmap.org/note/2667498#c5705274</link>
         <guid>https://www.openstreetmap.org/note/2667498#c5705274</guid>
@@ -182,16 +222,6 @@
         <link>https://www.openstreetmap.org/note/2664410#c5698647</link>
         <guid>https://www.openstreetmap.org/note/2664410#c5698647</guid>
         <pubDate>Tue, 11 May 2021 11:08:01 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Lipótváros, 5th district) / * 2021 May 11 08:00 grozsa11 Updated: ...elég sokat próbálok építeni az OSM-en és úgy érzem, hogy néha az nem egészen jól képeződik le, hogy egyrészt minden vonal (járdák külön megrajzolva) pontosan futnak (mikrotérképezés) és másrészről az útvonalak, főutak nyomvonala is próbál fölkerülni a térképre...  Aztán jövök a StreetComplete-tel és nem tudom, hogy most pl egy ilyen csomópont közepében mit kezdjek azzal a kérdéssel, hogy van-e lámpa a kereszteződésben a gyalogosoknak...  Hát a négy átkelő körben van, de akkor itt középen már nem kellene... Szóval kicsit úgy érzem, hogy a túl pontos fölrajzolásokat akkor azonban rettenetesen pontosan végig kellene javítgatni, hogy melyik vonalkapcsolati pont pontosan mit takar. / Na ezen már csak az nehezít, ha a kereszteződés két utcájába befutnak a járdák is külön fölrajzolva, másik két irányból meg &amp;quot;csak&amp;quot; az utak középvonala... és közben zebrák és egyebek jelezve... jelzendően...</title>
-        <link>https://www.openstreetmap.org/note/2651109#c5698180</link>
-        <guid>https://www.openstreetmap.org/note/2651109#c5698180</guid>
-        <pubDate>Tue, 11 May 2021 08:00:19 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Adyváros, Győr) / * 2016 May 30 10:28 vidg Created: Megszunt be van zarva. / * 2021 May 11 05:48 NightH Resolved: </title>
-        <link>https://www.openstreetmap.org/note/577701#c5697883</link>
-        <guid>https://www.openstreetmap.org/note/577701#c5697883</guid>
-        <pubDate>Tue, 11 May 2021 05:48:36 +0000</pubDate>
       </item>
   </channel>
 </rss>
