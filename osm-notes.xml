@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Basamalom, Pécs) / * 2021 May 15 18:27 Spush Updated: A posta honlapja szerint a hét minden napján zárva van.</title>
+        <link>https://www.openstreetmap.org/note/1704187#c5711205</link>
+        <guid>https://www.openstreetmap.org/note/1704187#c5711205</guid>
+        <pubDate>Sat, 15 May 2021 18:27:56 +0000</pubDate>
+      </item><item>
+        <title>reactivated note (near Basamalom, Pécs) / * 2019 March 8 21:10 Havasi Ferenc Created: Ideiglenesen bezárt / * 2021 May 14 15:13 bkil Resolved: Az azóta lefutott importer szerint újra üzemel / * 2021 May 15 18:27 Spush Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/1704187#c5711198</link>
+        <guid>https://www.openstreetmap.org/note/1704187#c5711198</guid>
+        <pubDate>Sat, 15 May 2021 18:27:27 +0000</pubDate>
+      </item><item>
         <title>closed note (near Baktói kiskertek, Szeged) / * 2021 May 6 18:42 Created: A kerékpárút itt, a mellékút előtt keresztezi a 4519 sz. utat (Sándorfalvi út). / * 2021 May 15 11:49 gabro00 Resolved: Jogos, javítottam. / https://www.openstreetmap.org/changeset/104727547</title>
         <link>https://www.openstreetmap.org/note/2657895#c5709742</link>
         <guid>https://www.openstreetmap.org/note/2657895#c5709742</guid>
@@ -187,31 +197,6 @@
         <link>https://www.openstreetmap.org/note/2663303#c5702083</link>
         <guid>https://www.openstreetmap.org/note/2663303#c5702083</guid>
         <pubDate>Wed, 12 May 2021 13:23:45 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Madár utcák, Budakalász) / * 2021 May 7 07:12 grozsa11 Created: Zsákutca,  nyitott.magánút / via StreetComplete 31.3 / * 2021 May 12 11:34 grozsa11 Resolved: javítva</title>
-        <link>https://www.openstreetmap.org/note/2658452#c5701699</link>
-        <guid>https://www.openstreetmap.org/note/2658452#c5701699</guid>
-        <pubDate>Wed, 12 May 2021 11:34:38 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Madár utcák, Budakalász) / * 2021 May 7 07:12 grozsa11 Created: Szalonka köz merőlegesen / via StreetComplete 31.3 / * 2021 May 12 09:35 grozsa11 Resolved: megoldva</title>
-        <link>https://www.openstreetmap.org/note/2658451#c5701394</link>
-        <guid>https://www.openstreetmap.org/note/2658451#c5701394</guid>
-        <pubDate>Wed, 12 May 2021 09:35:45 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Berdódűlő, Madár utcák, Budakalász) / * 2021 May 7 07:17 grozsa11 Created: Ösvény betonhíd túloldalon lépcső / via StreetComplete 31.3 / * 2021 May 12 09:35 grozsa11 Resolved: fölvéve, lezárva</title>
-        <link>https://www.openstreetmap.org/note/2658456#c5701392</link>
-        <guid>https://www.openstreetmap.org/note/2658456#c5701392</guid>
-        <pubDate>Wed, 12 May 2021 09:35:11 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Csillaghegy, 3rd district) / * 2021 April 6 16:30 Created: Itt hiba van. Hiányzik az utca.  A Csermák Antal utca kifut egészen a Határ útig. / There is a map error here. Street is missing. Csermák Antal utca connects into Határ út. / * 2021 May 12 07:36 grozsa11 Resolved: Már valaki javíthatta, mert a megjegyzésben említett rendben van</title>
-        <link>https://www.openstreetmap.org/note/2611472#c5700926</link>
-        <guid>https://www.openstreetmap.org/note/2611472#c5700926</guid>
-        <pubDate>Wed, 12 May 2021 07:36:10 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Magyaróvár, Mosonmagyaróvár) / * 2019 February 17 12:37 MarsupilamiEater Created: Itt az Ady Endre utca észak, a Bástya utca pedig dél felé egyirányúnak tűnik a kettő között lévő parkoló és a Városkapu tér közötti részen. Valakinek ellenőrizni kéne hogy tényleg így van-e. / * 2021 May 12 07:20 NightH Resolved: </title>
-        <link>https://www.openstreetmap.org/note/1683952#c5700896</link>
-        <guid>https://www.openstreetmap.org/note/1683952#c5700896</guid>
-        <pubDate>Wed, 12 May 2021 07:20:28 +0000</pubDate>
       </item>
   </channel>
 </rss>
