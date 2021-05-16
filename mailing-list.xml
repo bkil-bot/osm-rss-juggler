@@ -3,6 +3,21 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] MÁV vasútállomások: személyszállítás: Szia! Tök jó lenne, ha ez megoldódna. Ahogy az OSMI kapcsolati ellenőrzőjével néztem, sok vasúti útvonal nincs rendben. És igen, nem csak a szüneteltetett, hanem a már rég megszűnt vasútvonalak megállói is fent vannak még. Pl. node #500911097 Erre aztán az ellenőrzések is sírnak. (A &quot;railway:nam -ITineris OSM</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/KVtTN5c3ieg/m/CBeJiBHoBAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/KVtTN5c3ieg/m/CBeJiBHoBAAJ</guid>
+        <pubDate>Sun, 16 May 2021 17:00:12 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] MÁV vasútállomások: személyszállítás: Szia! Örülök, hogy van, aki foglalkozna ezzel. Én nagyon sok állomást javítottam, de belefáradtam, mert annyi rossz volt. Ez lenne az elvárt állapot: https://wiki.openstreetmap.org/wiki/Railway_stations A legtöbb hiba abból ered, hogy a megállóhelyeknél nincs külön railway=halt|station, -Úr Balázs</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/KVtTN5c3ieg/m/oDAPpfjnBAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/KVtTN5c3ieg/m/oDAPpfjnBAAJ</guid>
+        <pubDate>Sun, 16 May 2021 16:58:25 UTC</pubDate>
+      </item><item>
+        <title>MÁV vasútállomások: személyszállítás: Sziasztok! Kerékpáros túráimhoz kigyűjtöttem a vasútállomásokat (&quot;railway&quot;=&quot;station&quot;, &quot;railway&quot;=&quot;halt&quot;). Viszont nem mindenhol van tényleges utasforgalom. Utánanéztem, ezeknek az állomásoknak &quot;train=yes&quot; taggel kellene rendelkezniük, de ez nem konzisztens. https://wiki.openstreetmap.org/wiki/Pu -Gabor Kuti</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/KVtTN5c3ieg/m/1oxg7mXnBAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/KVtTN5c3ieg/m/1oxg7mXnBAAJ</guid>
+        <pubDate>Sun, 16 May 2021 16:47:55 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Mapillary (képek geotaggelése és irányba állítása): Szia! Köszönöm, ez működik! Ez alapján gondoltam készítek egy rövid leírást, másoknak is, akiknek a kamerájukban nincs GPS, de más berendezéssel készítenek track-et az útról és szeretnék helyesen feltölteni a képeket a Mapillary-ba. 1. A képekbe a GPS koordináták beírása Ehhez talán a legjobb -Szem</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/4b5x98XQBAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/4b5x98XQBAAJ</guid>
@@ -237,21 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/z5c4x39QAgAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/z5c4x39QAgAJ</guid>
         <pubDate>Wed, 28 Apr 2021 07:50:50 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Mapillary: Szia Szem! Igen a te esetedben valóban nem jó, de én Gza bejegyzésére válaszoltam, neki lehet nincs felszabdalva a képsorozata. Üdv, Tamás Szem a következőt írta (2021. április 28., szerda, 9:26:08 UTC+2): &gt; Köszönöm a videót, de úgy látszik nem értetted a kiinduló problémát :( A &gt; felöltött -turistautsz...@gmail.com</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/mWPaTC1QAgAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/mWPaTC1QAgAJ</guid>
-        <pubDate>Wed, 28 Apr 2021 07:44:56 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Mapillary: Összeírom nagyjából (nincs Windows a gépemen) mindjárt hogyan csinálnám. Szem ezt írta (időpont: 2021. ápr. 28., Sze 9:26): &gt; Köszönöm a videót, de úgy látszik nem értetted a kiinduló problémát :( A &gt; felöltött képek kb. mindegyike külön, egyetlen képből álló szekvenicát &gt; -KAMI911 KAMI911</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/cg6opTpPAgAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/cg6opTpPAgAJ</guid>
-        <pubDate>Wed, 28 Apr 2021 07:27:34 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Mapillary: Köszönöm a videót, de úgy látszik nem értetted a kiinduló problémát :( A felöltött képek kb. mindegyike külön, egyetlen képből álló szekvenicát alkot, ezért nem lehet normalizálni ezzel a módszerrel... ) Windows rendszerem van. Köszi! Szem 2021.04.28. 00:40 keltezéssel, turistautsz...@gmail.com -Szem</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/2wBR3iZPAgAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/2wBR3iZPAgAJ</guid>
-        <pubDate>Wed, 28 Apr 2021 07:26:08 UTC</pubDate>
       </item>
   </channel>
 </rss>
