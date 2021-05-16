@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Ásotthalom) / * 2018 September 16 22:39 gabro00 Created: Az ivókutak alapján ez a terület az &amp;quot;Ásotthalmi erdei pihenő&amp;quot;. Aki jártas errefelé, rajzolja be a területet és az ide vezető utakat. / * 2021 May 16 13:35 gabro00 Resolved: Felvettem nagyjából https://www.openstreetmap.org/changeset/104769447</title>
+        <link>https://www.openstreetmap.org/note/1529539#c5713243</link>
+        <guid>https://www.openstreetmap.org/note/1529539#c5713243</guid>
+        <pubDate>Sun, 16 May 2021 13:35:25 +0000</pubDate>
+      </item><item>
         <title>closed note (near Sziksós, Szeged) / * 2021 March 18 15:07 gabro00 Created: Itt van út? Maxaron nem úgy tűnik. / * 2021 May 16 12:32 gabro00 Resolved: Igen, van.</title>
         <link>https://www.openstreetmap.org/note/2583945#c5713031</link>
         <guid>https://www.openstreetmap.org/note/2583945#c5713031</guid>
@@ -207,16 +212,6 @@
         <link>https://www.openstreetmap.org/note/2666707#c5703871</link>
         <guid>https://www.openstreetmap.org/note/2666707#c5703871</guid>
         <pubDate>Thu, 13 May 2021 06:37:28 +0000</pubDate>
-      </item><item>
-        <title>new note (near Lipótváros, 5th district) / * 2021 May 13 06:04 grozsa11 Created: A két fasort az ut es a bicikliut koze kell tenni / via StreetComplete 31.3</title>
-        <link>https://www.openstreetmap.org/note/2666740#c5703799</link>
-        <guid>https://www.openstreetmap.org/note/2666740#c5703799</guid>
-        <pubDate>Thu, 13 May 2021 06:04:52 +0000</pubDate>
-      </item><item>
-        <title>new note (near Szent István-telep, Budakalász) / * 2021 May 13 04:24 sd_ciastko Created: Unable to answer &amp;quot;What is the house number of this building?&amp;quot; for https://osm.org/way/664718284 via StreetComplete 31.3: / garázs</title>
-        <link>https://www.openstreetmap.org/note/2666707#c5703737</link>
-        <guid>https://www.openstreetmap.org/note/2666707#c5703737</guid>
-        <pubDate>Thu, 13 May 2021 04:24:29 +0000</pubDate>
       </item>
   </channel>
 </rss>
