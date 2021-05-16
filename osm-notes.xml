@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Kállayliget, Marostő, Szeged) / * 2021 March 29 07:18 gabro00 Created: Új utcanév van kilátásban / https://szeged.hu/hirek/41240/egy-kivalo-gyermekorvosrol-neveznek-el-utcat-ujszegeden / * 2021 April 1 18:24 vasony Updated: Beírom ide a nevet a cikkből, hogy meglegyen: / &amp;quot;A testület javaslata alapján kapná Altorjay István nevét az utca. &amp;quot; / Úgy tűnik, akkor a Petri Gábor semmiképp nem jó ezen. / * 2021 April 2 18:46 gabro00 Updated: Nemrég került fel, elvileg helyi bejárás alapján, de szerintem interpolált a szerkesztő. Próbáltam felvenni a kapcsolatot, de nem reagált: https://www.openstreetmap.org/changeset/99017835 / * 2021 May 16 09:32 gabro00 Updated: Kijött a határozat: https://eservices.szeged.eu/eku/services/letoltes_service.php?json=1&amp;amp;dokumentumID=605367</title>
+        <link>https://www.openstreetmap.org/note/2598750#c5712518</link>
+        <guid>https://www.openstreetmap.org/note/2598750#c5712518</guid>
+        <pubDate>Sun, 16 May 2021 09:32:53 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Kiskundorozsma, Szeged) / * 2021 April 3 09:23 gabro00 Created: Új lehetséges közterületnevek Kiskundorozsma mellett Tápén és Szeged belterületén / https://szeged.hu/hirek/41410/viragos-kozok-lehetnek-dorozsmai-helyrajzi-szamos-utakbol / * 2021 May 16 09:32 gabro00 Updated: Kijött a határozat: https://eservices.szeged.eu/eku/services/letoltes_service.php?json=1&amp;amp;dokumentumID=605367</title>
+        <link>https://www.openstreetmap.org/note/2606151#c5712517</link>
+        <guid>https://www.openstreetmap.org/note/2606151#c5712517</guid>
+        <pubDate>Sun, 16 May 2021 09:32:31 +0000</pubDate>
+      </item><item>
         <title>new note (near Zákányszék) / * 2021 May 16 09:15 gabro00 Created: Új közterületnevek 2017-től / Zákányszék 697 hrsz.: Szögihegyi utca, / Zákányszék 698 hrsz.: Zabosfa utca. / http://zakanyszek.hu/files/2017/testuleti_anyagok/2017-12-21-rendk%C3%ADv%C3%BCli.pdf</title>
         <link>https://www.openstreetmap.org/note/2670699#c5712472</link>
         <guid>https://www.openstreetmap.org/note/2670699#c5712472</guid>
@@ -202,11 +212,6 @@
         <link>https://www.openstreetmap.org/note/2666707#c5703737</link>
         <guid>https://www.openstreetmap.org/note/2666707#c5703737</guid>
         <pubDate>Thu, 13 May 2021 04:24:29 +0000</pubDate>
-      </item><item>
-        <title>new note (near Felsőtárkány) / * 2021 May 12 18:02 Created: Átjáró bg</title>
-        <link>https://www.openstreetmap.org/note/2666322#c5702773</link>
-        <guid>https://www.openstreetmap.org/note/2666322#c5702773</guid>
-        <pubDate>Wed, 12 May 2021 18:02:24 +0000</pubDate>
       </item>
   </channel>
 </rss>
