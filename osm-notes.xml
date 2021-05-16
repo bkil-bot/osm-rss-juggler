@@ -3,6 +3,31 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Kállayliget, Marostő, Szeged) / * 2021 May 16 19:55 gabro00 Updated: Nem ismerik a digitális aláírást :) / Engem nem zavar, így hitelesebbnek hat, viszont egy karakterfelismerést dobhatnának rá, hogy másolható (és keresőmotorral indexelhető) legyen. Egyszer megcsináltam 2015-től az _összes_ KCR átnevezés kereshető PDF-be, de valamiért kidobtam...</title>
+        <link>https://www.openstreetmap.org/note/2598750#c5714550</link>
+        <guid>https://www.openstreetmap.org/note/2598750#c5714550</guid>
+        <pubDate>Sun, 16 May 2021 19:55:06 +0000</pubDate>
+      </item><item>
+        <title>new note (near Rákoscsaba-Újtelep, 17th district) / * 2021 May 16 19:37 vasony Created: Mi szerepel az utcatáblán Kis-Káros-híd utca, vagy Kis Károshíd utca vagy egyéb?</title>
+        <link>https://www.openstreetmap.org/note/2671588#c5714517</link>
+        <guid>https://www.openstreetmap.org/note/2671588#c5714517</guid>
+        <pubDate>Sun, 16 May 2021 19:37:36 +0000</pubDate>
+      </item><item>
+        <title>new note (near Külső-Ferencváros, 9th district) / * 2021 May 16 19:35 FairyCircles Created: Adott egy majd 1 ha méretű terület egy pár gondos kéz és odaadó szakmai és emberi támogatás - már második szezonjába vág bele a BMM Seeds4Hope programja Balassa Betti kertész vezetésével önkéntesek és szállólakók kétkezi munkájával, hogy a városi élelmiszer-önellátás problematikájára egy működő választ adjon. Ehhez társulnak idén a gombáfonalak, elsősorban pár, kinti termesztésben már jól ismert faj, hogy komplexebbé, körkörösebbé és gazdagabbá tegyék a kertet.</title>
+        <link>https://www.openstreetmap.org/note/2671586#c5714512</link>
+        <guid>https://www.openstreetmap.org/note/2671586#c5714512</guid>
+        <pubDate>Sun, 16 May 2021 19:35:16 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Újlipótváros, 13th district) / * 2021 May 16 19:29 bkil Updated: Azután szoktunk lezárni egy térképjegyzetet miután az felkerült az OpenStreetMapra. Amennyiben sikerült validálni a jegyzetben foglalt objektum létezését, kérjük egy pont felvitelét a pozíciójára a megfelelő címkézéssel (office=... + contact:website=... + ref:vatin:hu + shop/amenity/stb ha van ilyen funkciója esetleg).</title>
+        <link>https://www.openstreetmap.org/note/2670524#c5714497</link>
+        <guid>https://www.openstreetmap.org/note/2670524#c5714497</guid>
+        <pubDate>Sun, 16 May 2021 19:29:38 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Újlipótváros, 13th district) / * 2021 May 16 19:19 Zsolt Jonas Updated: Mert hogy ott van az iroda, ezért kattintottam a Comment &amp;amp; Resolve-ra, de sorry, ha rosszul tettem.</title>
+        <link>https://www.openstreetmap.org/note/2670524#c5714461</link>
+        <guid>https://www.openstreetmap.org/note/2670524#c5714461</guid>
+        <pubDate>Sun, 16 May 2021 19:19:44 +0000</pubDate>
+      </item><item>
         <title>closed note (near Vörösmarty-lakótelep, Pomáz) / * 2021 May 16 18:34 sd_ciastko Resolved: Javítva.</title>
         <link>https://www.openstreetmap.org/note/2671417#c5714383</link>
         <guid>https://www.openstreetmap.org/note/2671417#c5714383</guid>
@@ -237,16 +262,6 @@
         <link>https://www.openstreetmap.org/note/2667365#c5704924</link>
         <guid>https://www.openstreetmap.org/note/2667365#c5704924</guid>
         <pubDate>Thu, 13 May 2021 15:23:13 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Angyalföld, 13th district) / * 2021 April 30 12:57 grozsa11 Created: BudapestFőváros Levéltára...na ez milyen jellegű épület. Talán valami múzeumfélének jelölhetnénk.... / via StreetComplete 31.3 / * 2021 April 30 14:50 kogutowicz-mano Updated: Mi a gond a hivatallal? / * 2021 April 30 19:49 grozsa11 Updated: A streetcomplete használatával javítgattam a térképet és ő kérdezett rá,  hogy ez milyen jellegű épület. Iskola,  korhaz,  üzlet stb. De nem találtam a streetcomplete.ben megfelelő választ rá. / * 2021 May 13 14:07 grozsa11 Resolved: beállítottam könyvtárnak (StreetComplete-ben az nincsen, de itt OSM-ben van lehetőség rá)</title>
-        <link>https://www.openstreetmap.org/note/2645810#c5704753</link>
-        <guid>https://www.openstreetmap.org/note/2645810#c5704753</guid>
-        <pubDate>Thu, 13 May 2021 14:07:11 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Víziváros, 1st district) / * 2021 January 16 06:38 vasony Created: Magyar asszonyok bástyája valahol itt kellene legyen. / * 2021 May 13 14:01 grozsa11 Resolved: ...a bástya fönt a falon. Pótoltam látnivalóként.</title>
-        <link>https://www.openstreetmap.org/note/2499633#c5704739</link>
-        <guid>https://www.openstreetmap.org/note/2499633#c5704739</guid>
-        <pubDate>Thu, 13 May 2021 14:01:52 +0000</pubDate>
       </item>
   </channel>
 </rss>

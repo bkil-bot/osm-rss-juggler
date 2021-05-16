@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] MÁV vasútállomások: személyszállítás: Köszönöm a gyors választ! Talán legjobb lenne úgy kezdenem, hogy leszedem a VPE-ről az összes állomást a vonalakkal együtt. Máshonnan megtalálom a bezárt vonalak számait ez alapján mehet a &quot;train=yes&quot; tag (vagy annak törlése). &gt; Ez lenne az elvárt állapot Nem terveztem ilyen mélyen belemenni, -Gabor Kuti</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/KVtTN5c3ieg/m/I9DV4avyBAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/KVtTN5c3ieg/m/I9DV4avyBAAJ</guid>
+        <pubDate>Sun, 16 May 2021 20:14:30 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Mapillary (képek geotaggelése és irányba állítása): Na de neked 1 percre vannak egymástól a képek, akkor jelentkezni fog (tapasztalatom szerint) az a hiba, amit írtam, hogy a kanyar előtti kép nem a sarok irányába, hanem a kanyar utáni képre mutat. (Értsd: levágja a kanyart.) Nem? Nem figyeltem, hogy van Windowsra, ez jó hír. :) A geotaggelést -Feri Veres</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/2WYRLCLpBAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/2WYRLCLpBAAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/7Zxaxu5T0q8/m/-H8kQEVUAgAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/7Zxaxu5T0q8/m/-H8kQEVUAgAJ</guid>
         <pubDate>Wed, 28 Apr 2021 08:59:57 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Megyei autópálya matricák, útdíjak: Köszönöm a felvetéseket. A megyei matricák simább ügynek tűnnek; számomra elfogadható a toll:zone címkézés is. Ha nincs ellenvetés, akkor ezeket rakom fel. A poligonos megyei zónákat azért vetném el, mert nagyon nagy poligonokat kellene berajzolni, amik semmi máshoz nem kapcsolódnak. &gt;&gt; 2. -ITineris OSM</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/7Zxaxu5T0q8/m/194M2jtTAgAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/7Zxaxu5T0q8/m/194M2jtTAgAJ</guid>
-        <pubDate>Wed, 28 Apr 2021 08:40:57 UTC</pubDate>
       </item>
   </channel>
 </rss>
