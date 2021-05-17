@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Ófalu, Budakalász) / * 2021 May 7 07:35 grozsa11 Created: 105 lépcső karfa és kerekesfeljáró nélkül / via StreetComplete 31.3 / * 2021 May 17 09:53 grozsa11 Resolved: átvezetve</title>
+        <link>https://www.openstreetmap.org/note/2658469#c5716183</link>
+        <guid>https://www.openstreetmap.org/note/2658469#c5716183</guid>
+        <pubDate>Mon, 17 May 2021 09:53:34 +0000</pubDate>
+      </item><item>
         <title>new comment (near Kállayliget, Marostő, Szeged) / * 2021 May 16 19:55 gabro00 Updated: Nem ismerik a digitális aláírást :) / Engem nem zavar, így hitelesebbnek hat, viszont egy karakterfelismerést dobhatnának rá, hogy másolható (és keresőmotorral indexelhető) legyen. Egyszer megcsináltam 2015-től az _összes_ KCR átnevezés kereshető PDF-be, de valamiért kidobtam...</title>
         <link>https://www.openstreetmap.org/note/2598750#c5714550</link>
         <guid>https://www.openstreetmap.org/note/2598750#c5714550</guid>
@@ -247,11 +252,6 @@
         <link>https://www.openstreetmap.org/note/2667376#c5704940</link>
         <guid>https://www.openstreetmap.org/note/2667376#c5704940</guid>
         <pubDate>Thu, 13 May 2021 15:35:24 +0000</pubDate>
-      </item><item>
-        <title>new note (near Rózsakerti lakótelep, Bükköspart, Szentendre) / * 2021 May 13 15:34 Created: This is the name of the upper ferry. They have been swapped.</title>
-        <link>https://www.openstreetmap.org/note/2667375#c5704939</link>
-        <guid>https://www.openstreetmap.org/note/2667375#c5704939</guid>
-        <pubDate>Thu, 13 May 2021 15:34:46 +0000</pubDate>
       </item>
   </channel>
 </rss>
