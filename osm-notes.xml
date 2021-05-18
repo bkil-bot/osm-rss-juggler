@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Józsa, Debrecen) / * 2021 May 18 15:50 gabro00 Created: A jelölő alatt rendet kellene rakni.</title>
+        <link>https://www.openstreetmap.org/note/2674099#c5720253</link>
+        <guid>https://www.openstreetmap.org/note/2674099#c5720253</guid>
+        <pubDate>Tue, 18 May 2021 15:50:13 +0000</pubDate>
+      </item><item>
         <title>closed note (near Beloiannisz) / * 2021 May 17 19:11 Zsolt Beringer Created: Újra kéne járni helyszíni bejárás keretében, hogy Rákóczi út vagy utca. Ugyanis sok netes forrás utcaként hivatkozik a közterületre. Elképzelhető hogy átminősítés történt az utóbbi időben. / * 2021 May 18 12:06 Zsolt Beringer Resolved: Átnevezve.</title>
         <link>https://www.openstreetmap.org/note/2673005#c5719461</link>
         <guid>https://www.openstreetmap.org/note/2673005#c5719461</guid>
@@ -192,21 +197,6 @@
         <link>https://www.openstreetmap.org/note/2667496#c5711751</link>
         <guid>https://www.openstreetmap.org/note/2667496#c5711751</guid>
         <pubDate>Sat, 15 May 2021 23:12:39 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Újváros, Szekszárd) / * 2021 May 13 17:17 Created: Gyakorló Gyakroló helyett / * 2021 May 15 23:12 Spush Resolved: Köszi, javítottam. (104751381)</title>
-        <link>https://www.openstreetmap.org/note/2667498#c5711750</link>
-        <guid>https://www.openstreetmap.org/note/2667498#c5711750</guid>
-        <pubDate>Sat, 15 May 2021 23:12:23 +0000</pubDate>
-      </item><item>
-        <title>new note (near Mersevát) / * 2021 May 15 21:02 Created: Ez a postahivatal évekkel ezelőtt bezárt, jelenleg mobilposta látja el a települést. (Hétköznap délelőttönként kb. fél óráig parkol a közösségi ház mellett.)</title>
-        <link>https://www.openstreetmap.org/note/2670373#c5711566</link>
-        <guid>https://www.openstreetmap.org/note/2670373#c5711566</guid>
-        <pubDate>Sat, 15 May 2021 21:02:42 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Basamalom, Pécs) / * 2021 May 15 18:27 Spush Updated: A posta honlapja szerint a hét minden napján zárva van.</title>
-        <link>https://www.openstreetmap.org/note/1704187#c5711205</link>
-        <guid>https://www.openstreetmap.org/note/1704187#c5711205</guid>
-        <pubDate>Sat, 15 May 2021 18:27:56 +0000</pubDate>
       </item>
   </channel>
 </rss>
