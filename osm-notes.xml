@@ -3,6 +3,31 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Vörösberény, Balatonalmádi) / * 2021 March 9 21:36 vasony Created: Vörösmarty Mihály utca vagy Vörösmarty utca? / * 2021 May 20 20:15 vasony Resolved: Vörösmarty Mihály utca van a táblán</title>
+        <link>https://www.openstreetmap.org/note/2572544#c5727739</link>
+        <guid>https://www.openstreetmap.org/note/2572544#c5727739</guid>
+        <pubDate>Thu, 20 May 2021 20:15:35 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Budatava, Balatonalmádi) / * 2021 March 9 21:36 vasony Created: Építő út vagy Építő utca? / * 2021 May 20 20:12 vasony Resolved: Építő utca az utcatáblán ezt használom. / Építő út a 8-as számú házon van csak.</title>
+        <link>https://www.openstreetmap.org/note/2572530#c5727730</link>
+        <guid>https://www.openstreetmap.org/note/2572530#c5727730</guid>
+        <pubDate>Thu, 20 May 2021 20:12:45 +0000</pubDate>
+      </item><item>
+        <title>new note (near Budatava, Balatonalmádi) / * 2021 May 20 20:12 vasony Created: Itt épült egy út, újra felmérendő</title>
+        <link>https://www.openstreetmap.org/note/2677998#c5727729</link>
+        <guid>https://www.openstreetmap.org/note/2677998#c5727729</guid>
+        <pubDate>Thu, 20 May 2021 20:12:45 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Újhegy, Balatonalmádi) / * 2021 May 20 19:47 vasony Resolved: Másik note-ba mozgattam a Bartókos problémát. / Ez a rész kész, főútról egyértelműen látszott a Tisza utca tábla</title>
+        <link>https://www.openstreetmap.org/note/2091133#c5727623</link>
+        <guid>https://www.openstreetmap.org/note/2091133#c5727623</guid>
+        <pubDate>Thu, 20 May 2021 19:47:29 +0000</pubDate>
+      </item><item>
+        <title>new note (near Újhegy, Balatonalmádi) / * 2021 May 20 19:45 vasony Created: https://www.openstreetmap.org/note/2091133 / Ez is Tisza utca?</title>
+        <link>https://www.openstreetmap.org/note/2677969#c5727620</link>
+        <guid>https://www.openstreetmap.org/note/2677969#c5727620</guid>
+        <pubDate>Thu, 20 May 2021 19:45:38 +0000</pubDate>
+      </item><item>
         <title>new note (near Doboz) / * 2021 May 20 16:58 Created: 46.730179, 21.243193 / Doboz, Lehel utca 37.</title>
         <link>https://www.openstreetmap.org/note/2677746#c5727065</link>
         <guid>https://www.openstreetmap.org/note/2677746#c5727065</guid>
@@ -132,46 +157,6 @@
         <link>https://www.openstreetmap.org/note/2674099#c5720253</link>
         <guid>https://www.openstreetmap.org/note/2674099#c5720253</guid>
         <pubDate>Tue, 18 May 2021 15:50:13 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Beloiannisz) / * 2021 May 17 19:11 Zsolt Beringer Created: Újra kéne járni helyszíni bejárás keretében, hogy Rákóczi út vagy utca. Ugyanis sok netes forrás utcaként hivatkozik a közterületre. Elképzelhető hogy átminősítés történt az utóbbi időben. / * 2021 May 18 12:06 Zsolt Beringer Resolved: Átnevezve.</title>
-        <link>https://www.openstreetmap.org/note/2673005#c5719461</link>
-        <guid>https://www.openstreetmap.org/note/2673005#c5719461</guid>
-        <pubDate>Tue, 18 May 2021 12:06:44 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Ófalu, Budakalász) / * 2021 May 7 07:35 grozsa11 Created: 6 lépcsőfok / via StreetComplete 31.3 / * 2021 May 18 07:10 sd_ciastko Resolved: Javítottam.</title>
-        <link>https://www.openstreetmap.org/note/2658471#c5718649</link>
-        <guid>https://www.openstreetmap.org/note/2658471#c5718649</guid>
-        <pubDate>Tue, 18 May 2021 07:10:27 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Berdódűlő, Madár utcák, Budakalász) / * 2021 May 7 07:35 grozsa11 Created: E két ház talán nincs is? / via StreetComplete 31.3 / * 2021 May 18 07:06 sd_ciastko Resolved: Jogos, újabb légifelvételeken már látszik, hogy el lettek bontva. Töröltem őket.</title>
-        <link>https://www.openstreetmap.org/note/2658467#c5718642</link>
-        <guid>https://www.openstreetmap.org/note/2658467#c5718642</guid>
-        <pubDate>Tue, 18 May 2021 07:06:26 +0000</pubDate>
-      </item><item>
-        <title>new note (near Kisizsák, Izsák) / * 2021 May 18 06:08 Created: Izsák-Kisizsák</title>
-        <link>https://www.openstreetmap.org/note/2673319#c5718545</link>
-        <guid>https://www.openstreetmap.org/note/2673319#c5718545</guid>
-        <pubDate>Tue, 18 May 2021 06:08:16 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Belváros, Hódmezővásárhely) / * 2020 December 1 20:35 Created: A tramtrain teljes nyomvonalát fel kellene mérni, hogy pontosan merre megy az úttestekhez képest. A Kaszap utca és a Kálvin János tér között az Andrássy utat rakták odébb, a Kálvin tértől a vasútállomásik pedig a Bajcsyt. Épültek új körforgalmak is. / * 2020 December 1 21:02 ITineris Updated: Én voltam. / * 2021 April 28 15:25 gabro00 Updated: Már egész jól néz ki. / * 2021 May 17 22:37 gabro00 Updated: Van még ezzel teendő? / * 2021 May 18 05:29 ITineris Updated: Helyükre húztam a körforgalmakat, megcsináltam a ki-behajtókat, ahol kellett. Felraktam a zebrákat, és az elsőbbségadás kötelező táblákat, a Bethlen István utca torkolatában pedig a kanyarodási szabályokat. / A Kálvin János téren turbó a körforgalom. Kellene hozzá egy kis helyismeret kibogozni, és felrajzolni. / Különben már elég jól állunk.</title>
-        <link>https://www.openstreetmap.org/note/2449185#c5718501</link>
-        <guid>https://www.openstreetmap.org/note/2449185#c5718501</guid>
-        <pubDate>Tue, 18 May 2021 05:29:14 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Belváros, Hódmezővásárhely) / * 2020 December 1 20:35 Created: A tramtrain teljes nyomvonalát fel kellene mérni, hogy pontosan merre megy az úttestekhez képest. A Kaszap utca és a Kálvin János tér között az Andrássy utat rakták odébb, a Kálvin tértől a vasútállomásik pedig a Bajcsyt. Épültek új körforgalmak is. / * 2020 December 1 21:02 ITineris Updated: Én voltam. / * 2021 April 28 15:25 gabro00 Updated: Már egész jól néz ki. / * 2021 May 17 22:37 gabro00 Updated: Van még ezzel teendő?</title>
-        <link>https://www.openstreetmap.org/note/2449185#c5718224</link>
-        <guid>https://www.openstreetmap.org/note/2449185#c5718224</guid>
-        <pubDate>Mon, 17 May 2021 22:37:56 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Selymes, Soltvadkert) / * 2021 May 4 14:42 vasony-qa Created: Melyik közterület a Halasi utca, amire a benzinkút számozva van? / * 2021 May 17 22:33 gabro00 Updated: A környező települések névadása alapján azt mondanám, hogy a Bocskai folytatása. Vagy az is lehet a 5405. számú úttól már Halasi utca, csak hibás a térkép.</title>
-        <link>https://www.openstreetmap.org/note/2654427#c5718219</link>
-        <guid>https://www.openstreetmap.org/note/2654427#c5718219</guid>
-        <pubDate>Mon, 17 May 2021 22:33:01 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Kiskundorozsma, Szeged) / * 2021 April 3 09:23 gabro00 Created: Új lehetséges közterületnevek Kiskundorozsma mellett Tápén és Szeged belterületén / https://szeged.hu/hirek/41410/viragos-kozok-lehetnek-dorozsmai-helyrajzi-szamos-utakbol / * 2021 May 16 09:32 gabro00 Updated: Kijött a határozat: https://eservices.szeged.eu/eku/services/letoltes_service.php?json=1&amp;amp;dokumentumID=605367 / * 2021 May 17 22:20 gabro00 Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2606151#c5718195</link>
-        <guid>https://www.openstreetmap.org/note/2606151#c5718195</guid>
-        <pubDate>Mon, 17 May 2021 22:20:54 +0000</pubDate>
       </item>
   </channel>
 </rss>
