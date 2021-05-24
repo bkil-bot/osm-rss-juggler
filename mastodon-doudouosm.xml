@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>“On the Representativeness of OpenStreetMap for the Evaluation of Country Tourism Competitiveness”: https://www.mdpi.com/2220-9964/10/5/301/htm. The study of #OpenStreetMap and World Economic Forum #WEF tourism data on eight parameters indicative of the tourism development in 130 countries shows #OSM data provide a fairly accurate picture of official tourism statistics for most variables.</title>
+        <link>https://en.osm.town/@Doudouosm/106292157371439013</link>
+        <guid>https://en.osm.town/@Doudouosm/106292157371439013</guid>
+        <pubDate>Mon, 24 May 2021 20:53:28 +0000</pubDate>
+      </item><item>
         <title>#OpenStreetMap Foundation #OSMF draft strategic plan outline is available to consult (and probably open to comment as well, but I didn’t see where): https://wiki.osmfoundation.org/wiki/DRAFT_Strategic_Plan_Outline. The approach is to set high-level directions across all the efforts and structures of the Foundation.</title>
         <link>https://en.osm.town/@Doudouosm/106286627874047356</link>
         <guid>https://en.osm.town/@Doudouosm/106286627874047356</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/105816514730320512</link>
         <guid>https://en.osm.town/@Doudouosm/105816514730320512</guid>
         <pubDate>Mon, 01 Mar 2021 20:51:17 +0000</pubDate>
-      </item><item>
-        <title>Soon, the 100,000,000th changeset will be published in #OpenStreetMap. The counter tool (https://jwestman.gitlab.io/osm-in-realtime/) shows the progression in real time. And #WeeklyOSM (http://weeklyosm.eu/archives/14269) is offering an interview and a present to the contributor lucky to hit the milestone.</title>
-        <link>https://en.osm.town/@Doudouosm/105734775837102457</link>
-        <guid>https://en.osm.town/@Doudouosm/105734775837102457</guid>
-        <pubDate>Mon, 15 Feb 2021 10:24:01 +0000</pubDate>
       </item>
   </channel>
 </rss>
