@@ -3,6 +3,11 @@
   <channel>
     <title>git (via bkil-bot)</title>
       <item>
+        <title>bkil: Kapolnasnyek: add calibration</title>
+        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/cf873ef5ce583b386de64a3aff9717e1ab9fc50e</link>
+        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/cf873ef5ce583b386de64a3aff9717e1ab9fc50e</guid>
+        <pubDate>2021-05-25T22:30:09+02:00</pubDate>
+      </item><item>
         <title>bkil: Kapolnasnyek/README.md: add</title>
         <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/207debc9900c5d8ba5392e39a32dbfaf0859c88d</link>
         <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/207debc9900c5d8ba5392e39a32dbfaf0859c88d</guid>
