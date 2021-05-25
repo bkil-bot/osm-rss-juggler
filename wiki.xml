@@ -2,6 +2,11 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      
+      <item>
+        <title>Hungary/2021-05-25: Eredmény: nyilvántartások, fotógalériák, 360-fokos panorámák, drónfelvételek, HÉSZ, térképek, kiadványok -Bkil</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/2021-05-25&amp;diff=2158090&amp;oldid=2155156</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/2021-05-25&amp;diff=2158090</guid>
+        <pubDate>Tue, 25 May 2021 12:03:24 GMT</pubDate>
+      </item>
   </channel>
 </rss>
