@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near József Attila-lakótelep, Belváros külső, Sopron) / * 2021 May 25 10:46 lzzygrphy Created: Unable to answer &amp;quot;What is the name of this pedestrian street?&amp;quot; for https://osm.org/way/204892544 via StreetComplete 31.3: / ez egy aluljáró, ami a peronokat köti össze</title>
+        <link>https://www.openstreetmap.org/note/2684235#c5742036</link>
+        <guid>https://www.openstreetmap.org/note/2684235#c5742036</guid>
+        <pubDate>Tue, 25 May 2021 10:46:58 +0000</pubDate>
+      </item><item>
         <title>new note (near Nagyzugló, Budapest, Central Hungary, 1148, Hungary) / * 2021 May 25 05:47 Created: Állítólag megszünt a Vitalpharma gyógyszertár. Ellenőrizendő.</title>
         <link>https://www.openstreetmap.org/note/2683773#c5741027</link>
         <guid>https://www.openstreetmap.org/note/2683773#c5741027</guid>
@@ -137,21 +142,6 @@
         <link>https://www.openstreetmap.org/note/2678512#c5729381</link>
         <guid>https://www.openstreetmap.org/note/2678512#c5729381</guid>
         <pubDate>Fri, 21 May 2021 09:55:56 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Göncz Árpád városközpont, 13th district) / * 2021 May 20 12:34 grozsa11 Created: A híd és az alatta menő DérynéközÁrboc utca vonalát válasszuk el egymástól,  hiszen ezek nem futnal össze egy pontba: viszont gyalogosan útvonalat tervez rá és a Dériné közből fölmegy itt a hídra. / via StreetComplete 31.3 / * 2021 May 21 07:59 grozsa11 Resolved: javítottam. Kivettem a közös pontot.</title>
-        <link>https://www.openstreetmap.org/note/2677274#c5729098</link>
-        <guid>https://www.openstreetmap.org/note/2677274#c5729098</guid>
-        <pubDate>Fri, 21 May 2021 07:59:27 +0000</pubDate>
-      </item><item>
-        <title>new note (near Doboz) / * 2021 May 20 22:24 bkil Created: Is there a monument here? Hinted at by the aerials.</title>
-        <link>https://www.openstreetmap.org/note/2678105#c5728309</link>
-        <guid>https://www.openstreetmap.org/note/2678105#c5728309</guid>
-        <pubDate>Thu, 20 May 2021 22:24:31 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Vörösberény, Balatonalmádi) / * 2021 March 9 21:36 vasony Created: Vörösmarty Mihály utca vagy Vörösmarty utca? / * 2021 May 20 20:15 vasony Resolved: Vörösmarty Mihály utca van a táblán</title>
-        <link>https://www.openstreetmap.org/note/2572544#c5727739</link>
-        <guid>https://www.openstreetmap.org/note/2572544#c5727739</guid>
-        <pubDate>Thu, 20 May 2021 20:15:35 +0000</pubDate>
       </item>
   </channel>
 </rss>
