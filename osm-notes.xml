@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Gellérthegy, 11th district) / * 2021 May 28 08:51 petermarton Created: Note</title>
+        <link>https://www.openstreetmap.org/note/2688359#c5750734</link>
+        <guid>https://www.openstreetmap.org/note/2688359#c5750734</guid>
+        <pubDate>Fri, 28 May 2021 08:51:33 +0000</pubDate>
+      </item><item>
         <title>closed note (near Kócsújfalu, Tiszafüred) / * 2021 May 27 17:39 bkil Resolved: </title>
         <link>https://www.openstreetmap.org/note/2687641#c5749196</link>
         <guid>https://www.openstreetmap.org/note/2687641#c5749196</guid>
@@ -217,11 +222,6 @@
         <link>https://www.openstreetmap.org/note/2684331#c5742230</link>
         <guid>https://www.openstreetmap.org/note/2684331#c5742230</guid>
         <pubDate>Tue, 25 May 2021 11:47:31 +0000</pubDate>
-      </item><item>
-        <title>new note (near József Attila-lakótelep, Belváros külső, Sopron) / * 2021 May 25 10:46 lzzygrphy Created: Unable to answer &amp;quot;What is the name of this pedestrian street?&amp;quot; for https://osm.org/way/204892544 via StreetComplete 31.3: / ez egy aluljáró, ami a peronokat köti össze</title>
-        <link>https://www.openstreetmap.org/note/2684235#c5742036</link>
-        <guid>https://www.openstreetmap.org/note/2684235#c5742036</guid>
-        <pubDate>Tue, 25 May 2021 10:46:58 +0000</pubDate>
       </item>
   </channel>
 </rss>
