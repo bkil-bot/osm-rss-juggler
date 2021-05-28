@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Angyalföld, 13th district) / * 2021 May 28 13:45 grozsa11 Created: Ez a kis szakasz nincs is külön szervizutkent / via StreetComplete 32.0</title>
+        <link>https://www.openstreetmap.org/note/2688788#c5751530</link>
+        <guid>https://www.openstreetmap.org/note/2688788#c5751530</guid>
+        <pubDate>Fri, 28 May 2021 13:45:12 +0000</pubDate>
+      </item><item>
         <title>closed note (near Angyalföld, 13th district) / * 2021 May 28 12:09 petermarton Resolved: </title>
         <link>https://www.openstreetmap.org/note/2688629#c5751275</link>
         <guid>https://www.openstreetmap.org/note/2688629#c5751275</guid>
@@ -242,16 +247,6 @@
         <link>https://www.openstreetmap.org/note/2685167#c5744002</link>
         <guid>https://www.openstreetmap.org/note/2685167#c5744002</guid>
         <pubDate>Wed, 26 May 2021 00:25:54 +0000</pubDate>
-      </item><item>
-        <title>new note (near Kápolnásnyék) / * 2021 May 26 00:25 bkil Created: Szabad a behajtás?</title>
-        <link>https://www.openstreetmap.org/note/2685166#c5744001</link>
-        <guid>https://www.openstreetmap.org/note/2685166#c5744001</guid>
-        <pubDate>Wed, 26 May 2021 00:25:54 +0000</pubDate>
-      </item><item>
-        <title>new note (near Czuczorsziget, Szigetszentmiklós) / * 2021 May 25 22:36 Derek008 Created: &amp;quot;Tűzcsap&amp;quot; / POI has no name / POI types: emergency-fire_hydrant / OSM data version: 2021-05-11T18:00:52Z / #mapsme</title>
-        <link>https://www.openstreetmap.org/note/2685111#c5743897</link>
-        <guid>https://www.openstreetmap.org/note/2685111#c5743897</guid>
-        <pubDate>Tue, 25 May 2021 22:36:00 +0000</pubDate>
       </item>
   </channel>
 </rss>
