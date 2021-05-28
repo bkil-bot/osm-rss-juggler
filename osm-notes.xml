@@ -3,6 +3,41 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Angyalföld, 13th district) / * 2021 May 28 12:17 Created: test</title>
+        <link>https://www.openstreetmap.org/note/2688639#c5751301</link>
+        <guid>https://www.openstreetmap.org/note/2688639#c5751301</guid>
+        <pubDate>Fri, 28 May 2021 12:17:35 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Angyalföld, 13th district) / * 2021 May 28 12:09 petermarton Resolved: </title>
+        <link>https://www.openstreetmap.org/note/2688629#c5751275</link>
+        <guid>https://www.openstreetmap.org/note/2688629#c5751275</guid>
+        <pubDate>Fri, 28 May 2021 12:09:58 +0000</pubDate>
+      </item><item>
+        <title>new note (near Angyalföld, 13th district) / * 2021 May 28 12:09 petermarton Created: oi</title>
+        <link>https://www.openstreetmap.org/note/2688629#c5751273</link>
+        <guid>https://www.openstreetmap.org/note/2688629#c5751273</guid>
+        <pubDate>Fri, 28 May 2021 12:09:52 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Angyalföld, 13th district) / * 2021 May 28 12:01 petermarton Resolved: </title>
+        <link>https://www.openstreetmap.org/note/2688616#c5751246</link>
+        <guid>https://www.openstreetmap.org/note/2688616#c5751246</guid>
+        <pubDate>Fri, 28 May 2021 12:01:51 +0000</pubDate>
+      </item><item>
+        <title>new note (near Angyalföld, 13th district) / * 2021 May 28 12:01 petermarton Created: e</title>
+        <link>https://www.openstreetmap.org/note/2688616#c5751244</link>
+        <guid>https://www.openstreetmap.org/note/2688616#c5751244</guid>
+        <pubDate>Fri, 28 May 2021 12:01:46 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Angyalföld, 13th district) / * 2021 May 28 11:29 petermarton Resolved: </title>
+        <link>https://www.openstreetmap.org/note/2688560#c5751152</link>
+        <guid>https://www.openstreetmap.org/note/2688560#c5751152</guid>
+        <pubDate>Fri, 28 May 2021 11:29:47 +0000</pubDate>
+      </item><item>
+        <title>new note (near Angyalföld, 13th district) / * 2021 May 28 11:29 Created: test</title>
+        <link>https://www.openstreetmap.org/note/2688560#c5751149</link>
+        <guid>https://www.openstreetmap.org/note/2688560#c5751149</guid>
+        <pubDate>Fri, 28 May 2021 11:29:32 +0000</pubDate>
+      </item><item>
         <title>closed note (near Angyalföld, 13th district) / * 2021 May 28 10:33 petermarton Resolved: </title>
         <link>https://www.openstreetmap.org/note/2688486#c5750994</link>
         <guid>https://www.openstreetmap.org/note/2688486#c5750994</guid>
@@ -222,21 +257,6 @@
         <link>https://www.openstreetmap.org/note/2685111#c5743897</link>
         <guid>https://www.openstreetmap.org/note/2685111#c5743897</guid>
         <pubDate>Tue, 25 May 2021 22:36:00 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Vörösberény, Balatonalmádi) / * 2021 March 9 21:36 vasony Created: Madách Imre tér vagy Madách tér? / Madách Imre utca vagy Madách utca? / * 2021 May 25 16:16 vasony Resolved: Madách Imre tér nincs táblázva, az egyik házon Madách I. tér 5/2. Az utca elején a tábla Madách Imre utca</title>
-        <link>https://www.openstreetmap.org/note/2572529#c5743035</link>
-        <guid>https://www.openstreetmap.org/note/2572529#c5743035</guid>
-        <pubDate>Tue, 25 May 2021 16:16:23 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Vörösberény, Balatonalmádi) / * 2021 March 9 21:21 vasony Created: Bartók Béla utca vagy út? / * 2021 May 25 16:15 vasony Resolved: táblák vegyesen: / - kék-sárga: Bartók Béla út / - fekete-fehér: Bartók Béla utca</title>
-        <link>https://www.openstreetmap.org/note/2572503#c5743030</link>
-        <guid>https://www.openstreetmap.org/note/2572503#c5743030</guid>
-        <pubDate>Tue, 25 May 2021 16:15:15 +0000</pubDate>
-      </item><item>
-        <title>new note (near Angyalföld, 13th district) / * 2021 May 25 15:53 grozsa11 Created: Tévesen írtam rá véletlenül h privát parkolo. Valojaban szimpla fizetős: h-p 6:30-20:30,  minden megkezdett óra 250 Ft. Javítandó erre / via StreetComplete 32.0</title>
-        <link>https://www.openstreetmap.org/note/2684714#c5742953</link>
-        <guid>https://www.openstreetmap.org/note/2684714#c5742953</guid>
-        <pubDate>Tue, 25 May 2021 15:53:08 +0000</pubDate>
       </item>
   </channel>
 </rss>
