@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>An 8 min. video about “What is new on #OSMCha?” A Mapping USA (Spring 2021) presentation by Wille Marcel. #OpenStreetMap https://www.youtube.com/watch?v=VO1dnOEKgKM</title>
+        <link>https://en.osm.town/@Doudouosm/106314050824874324</link>
+        <guid>https://en.osm.town/@Doudouosm/106314050824874324</guid>
+        <pubDate>Fri, 28 May 2021 17:41:15 +0000</pubDate>
+      </item><item>
         <title>Another good read via #MDPI: “The Impact of Community Happenings in #OpenStreetMap” (https://www.mdpi.com/2220-9964/10/3/164). Effects on mappers who participated in field and remote mapping happenings: newcomers in remote mapping event tended to create lower quality but high quantity new data in places foreign to their home region; newcomers in field mapping happenings updated and enhanced existing local data with high accuracy. Advanced mappers stayed largely unaffected by happenings.</title>
         <link>https://en.osm.town/@Doudouosm/106297407698512315</link>
         <guid>https://en.osm.town/@Doudouosm/106297407698512315</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/105859900666204616</link>
         <guid>https://en.osm.town/@Doudouosm/105859900666204616</guid>
         <pubDate>Tue, 09 Mar 2021 12:44:54 +0000</pubDate>
-      </item><item>
-        <title>#OSMQueries is a website with a collection of #Overpass API query tutorials. You’ll learn: * basics of the #OpenStreetMap data model * to extract nodes, ways and relations using different methods * to filter data to extract just the features of interest * to write spatial queries to find features within specific areas or within proximity * to output data as CSV and JSON https://blog.ldodds.com/2021/03/06/osm-queries/</title>
-        <link>https://en.osm.town/@Doudouosm/105848735843468272</link>
-        <guid>https://en.osm.town/@Doudouosm/105848735843468272</guid>
-        <pubDate>Sun, 07 Mar 2021 13:25:32 +0000</pubDate>
       </item>
   </channel>
 </rss>
