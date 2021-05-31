@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Szépvölgy, 2nd district) / * 2021 May 31 11:22 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: 	This parking lot does not exist anymore, it is closed. / https://www.openstreetmap.org/way/263993447</title>
+        <link>https://www.openstreetmap.org/note/2692851#c5759620</link>
+        <guid>https://www.openstreetmap.org/note/2692851#c5759620</guid>
+        <pubDate>Mon, 31 May 2021 11:22:47 +0000</pubDate>
+      </item><item>
         <title>closed note (near Budafok, 22nd district) / * 2021 May 31 05:57 GtvRb Resolved: </title>
         <link>https://www.openstreetmap.org/note/2692403#c5758546</link>
         <guid>https://www.openstreetmap.org/note/2692403#c5758546</guid>
@@ -82,11 +87,6 @@
         <link>https://www.openstreetmap.org/note/2572537#c5752950</link>
         <guid>https://www.openstreetmap.org/note/2572537#c5752950</guid>
         <pubDate>Sat, 29 May 2021 05:27:01 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Vörösberény, Balatonalmádi) / * 2021 March 8 07:00 vasony Created: Tücsök utca vagy Tücsök köz? / * 2021 May 28 15:16 vasony Updated: Tücsök köz / * 2021 May 29 05:16 vasony Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2570068#c5752944</link>
-        <guid>https://www.openstreetmap.org/note/2570068#c5752944</guid>
-        <pubDate>Sat, 29 May 2021 05:16:28 +0000</pubDate>
       </item>
   </channel>
 </rss>
