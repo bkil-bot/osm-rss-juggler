@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Re: F9P + Android + ??? // RTK fun: Sziasztok! Igen, a u-center teljesen jól működik, másodpercenként szállítja az adatokat, kiírja, kirajzolja, ahogy kell. Ugyanakkor pl. RTK-állomásra itt sem tudok rákapcsolódni, hiába írok be mindent felhasználónévvel, jelszóval. A PuTTY-ot igyekeztem a lehet legszabályosabban beállítgatni az -Babos, Gábor</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/jOjZOXM36sU/m/c8gh8yjLAAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/jOjZOXM36sU/m/c8gh8yjLAAAJ</guid>
+        <pubDate>Mon, 31 May 2021 14:14:04 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Re: F9P + Android + ??? // RTK fun: Szia! A uBlox-féle u-centerrel próbálkoztál már? A PuTTy szerintem nem &quot;folyamatban van&quot;, hanem egyszerűen terminálként nincs kiírandó fogadott adata. Ennek oka lehet rosszul beállított keretezés (stop bitek száma, paritás) is. Az is lehet, hogy nem az adat porton, hanem az ODIN-t vezérlő -ITineris OSM</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/jOjZOXM36sU/m/1IQCKHqQAAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/jOjZOXM36sU/m/1IQCKHqQAAAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/NiVR8th-nRU/m/TgmXzo0FBAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/NiVR8th-nRU/m/TgmXzo0FBAAJ</guid>
         <pubDate>Mon, 03 May 2021 21:19:57 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Megyei autópálya matricák, útdíjak: On Mon, 3 May 2021, Gabor Liptak wrote: &gt; javaslatot és az jónak tűnik, de:) Honnan fogja tudni a navigáció, hogy pl. &gt; a Pest és Heves megyébe tartozó szakaszon elég az egyik matrica? Nyilvan a programmal kozolni kell valahogy, hogy e pillanatban milyen ervenyes matricaid vannak. (Zona+lejar -Kiss Gabor</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/7Zxaxu5T0q8/m/aRvQxHTuAwAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/7Zxaxu5T0q8/m/aRvQxHTuAwAJ</guid>
-        <pubDate>Mon, 03 May 2021 14:16:41 UTC</pubDate>
       </item>
   </channel>
 </rss>
