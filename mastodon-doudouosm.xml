@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>#LG opens open-source licence compliance tool source: https://www.theregister.com/2021/06/04/lg_open_sources_fosslight/. Known as #FOSSlight, the suite helps users to ensure they are using code as permitted by its licence, looks out for known vulnerabilities in free and open-source software (#FOSS) so that developers address those holes, and can also check FOSS libraries and projects offered by third parties.</title>
+        <link>https://en.osm.town/@Doudouosm/106353620815793445</link>
+        <guid>https://en.osm.town/@Doudouosm/106353620815793445</guid>
+        <pubDate>Fri, 04 Jun 2021 17:24:26 +0000</pubDate>
+      </item><item>
         <title>The #OpenStreetMap Mapper of the month #MotM stops in Ivory Coast this month to let us get to know Racky: https://openstreetmap.be/en/motm/2021/06/01/racky.html</title>
         <link>https://en.osm.town/@Doudouosm/106337527402284461</link>
         <guid>https://en.osm.town/@Doudouosm/106337527402284461</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/105889030204725909</link>
         <guid>https://en.osm.town/@Doudouosm/105889030204725909</guid>
         <pubDate>Sun, 14 Mar 2021 16:12:56 +0000</pubDate>
-      </item><item>
-        <title>You won’t have to fly to Buenos Aires to attend this year’s #FOSS4G event (Free and Open Source Software for #Geospatial), as it will take place online from 27 September to 2 October 2021: https://2021.foss4g.org. (Via #WeeklyOSM: https://weeklyosm.eu/archives/14363)</title>
-        <link>https://en.osm.town/@Doudouosm/105888826227880581</link>
-        <guid>https://en.osm.town/@Doudouosm/105888826227880581</guid>
-        <pubDate>Sun, 14 Mar 2021 15:21:03 +0000</pubDate>
       </item>
   </channel>
 </rss>
