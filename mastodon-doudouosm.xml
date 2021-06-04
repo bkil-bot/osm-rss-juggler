@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>#Lyft Mapping study shows crucial #OpenStreetMap road attributes are fresh and high quality in 30 North American cities, as compared to groundtruth: https://eng.lyft.com/how-lyft-discovered-openstreetmap-is-the-freshest-map-for-rideshare-a7a41bf92ec</title>
+        <link>https://en.osm.town/@Doudouosm/106354092732091115</link>
+        <guid>https://en.osm.town/@Doudouosm/106354092732091115</guid>
+        <pubDate>Fri, 04 Jun 2021 19:24:26 +0000</pubDate>
+      </item><item>
         <title>#LG opens open-source licence compliance tool source: https://www.theregister.com/2021/06/04/lg_open_sources_fosslight/. Known as #FOSSlight, the suite helps users to ensure they are using code as permitted by its licence, looks out for known vulnerabilities in free and open-source software (#FOSS) so that developers address those holes, and can also check FOSS libraries and projects offered by third parties.</title>
         <link>https://en.osm.town/@Doudouosm/106353620815793445</link>
         <guid>https://en.osm.town/@Doudouosm/106353620815793445</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/105907136303299995</link>
         <guid>https://en.osm.town/@Doudouosm/105907136303299995</guid>
         <pubDate>Wed, 17 Mar 2021 20:57:33 +0000</pubDate>
-      </item><item>
-        <title>Of course, it’s not unexpected that a map of sea #beacons makes continent outlines visible (it’s what they’re for, after all). What is fascinating is there is enough #OpenStreetMap data to make a map so accurately detailed. And a colorful and visually pleasing result. http://beacons.schmirler.de/en/world.html#map=5/45.4930870127121/1.2637796167170645&amp;amp;layers=OS9&amp;amp;details=18 #beaconmap (Via #WeeklyOSM: weeklyosm.eu/archives/14363)</title>
-        <link>https://en.osm.town/@Doudouosm/105889030204725909</link>
-        <guid>https://en.osm.town/@Doudouosm/105889030204725909</guid>
-        <pubDate>Sun, 14 Mar 2021 16:12:56 +0000</pubDate>
       </item>
   </channel>
 </rss>
