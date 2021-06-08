@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Szerda este: OSM Hour - OSM, mint utcatérkép (online, interaktív): Részletek hamarosan. Tervezet: navigációs felhasználási esetek, Nominatim, OSMAnd, Utca behajtási irány információkkal, ... -Thomas Nagy</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/qEZI1T1b33Y/m/Nv0e8D49AgAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/qEZI1T1b33Y/m/Nv0e8D49AgAJ</guid>
+        <pubDate>Tue, 08 Jun 2021 09:46:48 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Mapillary (képek geotaggelése és irányba állítása): A szombat este feltöltött képeim mára megjelentek: https://www.mapillary.com/app/?lat=48.103910693900346&amp;lng=20.782094285714283&amp;z=18.052312321544516&amp;dateFrom=2021-05-01&amp;pKey=pQygquMpDzFAXDHmWE1QDz&amp;focus=photo Remélem most már nem lesz fennakadás. Feri Veres a következőt írta (2021. június 2., -turistautsz...@gmail.com</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/ADo56r7yAQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/ADo56r7yAQAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/7jixkOeTHxM/m/LjzXc7_MAgAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/7jixkOeTHxM/m/LjzXc7_MAgAJ</guid>
         <pubDate>Wed, 12 May 2021 12:30:35 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Mapillary: Sziasztok! Jó hír is meg rossz is, Szem kérdésére. Az én problémámra is megoldást adott a Mapillary script: azaz tudok kép irányokat interpolálni anélkül, hogy fent a GUI csinálná meg, így saját felhasználásra is megvan az irány adat (pl KartaView). Tehát, Mapillary tools: https://github.com/m -Feri Veres</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/m1mmCAG7AgAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/m1mmCAG7AgAJ</guid>
-        <pubDate>Wed, 12 May 2021 07:05:25 UTC</pubDate>
       </item>
   </channel>
 </rss>
