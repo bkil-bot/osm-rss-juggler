@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Németvölgy, 12th district) / * 2021 June 11 06:36 Pan Perníček Created: #Mapy.cz - Seems like this &amp;#39;rest area&amp;#39; is not mapped according the definition: https://wiki.openstreetmap.org/wiki/Tag:highway%3Drest_area / https://www.openstreetmap.org/way/427473425</title>
+        <link>https://www.openstreetmap.org/note/2708301#c5793252</link>
+        <guid>https://www.openstreetmap.org/note/2708301#c5793252</guid>
+        <pubDate>Fri, 11 Jun 2021 06:36:10 +0000</pubDate>
+      </item><item>
         <title>new note (near Köveskútpuszta, Felsőörs) / * 2021 June 10 22:53 Created: Biztos, hogy van itt egy ivóvizes csap?</title>
         <link>https://www.openstreetmap.org/note/2708116#c5792924</link>
         <guid>https://www.openstreetmap.org/note/2708116#c5792924</guid>
@@ -117,11 +122,6 @@
         <link>https://www.openstreetmap.org/note/2703418#c5784126</link>
         <guid>https://www.openstreetmap.org/note/2703418#c5784126</guid>
         <pubDate>Mon, 07 Jun 2021 20:19:06 +0000</pubDate>
-      </item><item>
-        <title>new note (near Krisztinaváros, 1st district) / * 2021 June 7 18:19 infeeeee Created: Unable to answer &amp;quot;Is 1385 (Parking Ticket Vending Machine) still here?&amp;quot; for https://osm.org/node/3777729145 via StreetComplete 32.0: / automata: ref: 3011, H-P 8-18</title>
-        <link>https://www.openstreetmap.org/note/2703418#c5783713</link>
-        <guid>https://www.openstreetmap.org/note/2703418#c5783713</guid>
-        <pubDate>Mon, 07 Jun 2021 18:19:23 +0000</pubDate>
       </item>
   </channel>
 </rss>
