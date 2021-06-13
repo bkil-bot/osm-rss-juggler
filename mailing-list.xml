@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: Kezdő kérdések: A 2. kérdéshez kaptam ezt a linket. Ehhez annyit fűznék hozzá, hogy a nekem a JOSM az &quot;amenity&quot; kulcshoz fel sem kínál &quot;feeding_place&quot; értéket. De lenne egy 3. kérdésem is. Adott egy ilyen helyzet. A farmot szeretném berajzolni. Hogyan kell ezt helyesen? Lehet/kell közös node-okat felvenni az -Károly Kiss</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/Af153vmrAwAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/Af153vmrAwAJ</guid>
+        <pubDate>Sun, 13 Jun 2021 19:27:47 UTC</pubDate>
+      </item><item>
         <title>Kezdő kérdések: Sziasztok! Lenne két kérdésem, később feltehetően több is :) 1. Amennyire tudom, területet jelölő poligonnal nem lehet útnak közös pontja. Hogyan kell JOSM-ban berajzolni egy olyan erdőt, amelyet korábban már berajzolt utak határolnak? Adná magát, hogy az utak node-jait felhasználva -Károly Kiss</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/27_dJfWhAwAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/27_dJfWhAwAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/N9qqvN4ZBQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/N9qqvN4ZBQAJ</guid>
         <pubDate>Mon, 17 May 2021 08:12:49 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Mapillary (képek geotaggelése és irányba állítása): 2021.05.16. 19:19 keltezéssel, Feri Veres írta: Na de neked 1 percre vannak egymástól a képek, akkor jelentkezni fog (tapasztalatom szerint) az a hiba, amit írtam, hogy a kanyar előtti kép nem a sarok irányába, hanem a kanyar utáni képre mutat. (Értsd: levágja a kanyart.) Nem? De ez valóban -Szem</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/1oEYdCsXBQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/1oEYdCsXBQAJ</guid>
-        <pubDate>Mon, 17 May 2021 07:23:20 UTC</pubDate>
       </item>
   </channel>
 </rss>
