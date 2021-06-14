@@ -3,6 +3,16 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Kezdő kérdések: Szia Károly és üdv a szerkesztők körében! On 2021. 06. 13. 18:24, Károly Kiss wrote: 1. Amennyire tudom, területet jelölő poligonnal nem lehet útnak közös pontja. Hogyan kell JOSM-ban berajzolni egy olyan erdőt, amelyet korábban már berajzolt utak határolnak? Adná magát, hogy az utak -Feri Veres</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/3m0A1JXUAwAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/3m0A1JXUAwAJ</guid>
+        <pubDate>Mon, 14 Jun 2021 07:51:57 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Re: Kezdő kérdések: Erősen javaslom, hogy területnek (rét, erdő, stb.) ne legyen közös pontja úttal, vagy fizikai objektummal. Vagy húzd át rajta, vagy vezesd a területet a másik oldalon. Sok terület még régi CLC importból jött, ezek vagy egybeesnek a műholdról látható terület határokkal, vagy nem. Az utakat -Máté Fehérvári</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/wsKZvqDTAwAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/wsKZvqDTAwAJ</guid>
+        <pubDate>Mon, 14 Jun 2021 07:34:24 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Re: Kezdő kérdések: On Sun, 13 Jun 2021, Károly Kiss wrote: &gt; De lenne egy 3. kérdésem is. Adott egy ilyen helyzet. A farmot szeretném &gt; berajzolni. Hogyan kell ezt helyesen? Lehet/kell közös node-okat felvenni &gt; az erdőpoligonnal? És persze él a korábbi kérdés, hogyan kell elhelyezni az &gt; úthoz képest, hogy jó -Kiss Gabor</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/DeJBRtjFAwAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/DeJBRtjFAwAJ</guid>
@@ -242,16 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/Q8E4kT7s3w8/m/_FqwAYw0BQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/Q8E4kT7s3w8/m/_FqwAYw0BQAJ</guid>
         <pubDate>Thu, 20 May 2021 01:15:24 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Mapillary (képek geotaggelése és irányba állítása): Ötletnek jó, köszi! Majd keresgélek, mert a régi Android 4.1 is nagy akadály. (Úgy látom ez is 7.0-ás.) (Van újabb mobilom, de elrontják a képeket a zötykölődéstől...Xiaomi Mi A1 volt a hullámozó homályos villanyoszlop amit küldtem. Korábban a Lenovo A6000 még kocsiból is ugyanolyat csinált. -Feri Veres</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/MOk7VDweBQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/MOk7VDweBQAJ</guid>
-        <pubDate>Mon, 17 May 2021 09:32:49 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Mapillary (képek geotaggelése és irányba állítása): Akkor valami ilyesmi? https://f-droid.org/packages/fr.twentynine.keepon/ Feri Veres ezt írta (időpont: 2021. máj. 17., H, 10:12):Köszi, igen, azt láttam, de nincs miről tölteni a bringán. Az LG360 a lényege a projektemnek, a &quot;sík&quot; rögzítés csak extra lenne. Ha nem sikerül, -Báthory Péter</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/gkylqLMaBQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/gkylqLMaBQAJ</guid>
-        <pubDate>Mon, 17 May 2021 08:28:03 UTC</pubDate>
       </item>
   </channel>
 </rss>
