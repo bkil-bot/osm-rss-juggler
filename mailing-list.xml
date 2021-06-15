@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Kezdő kérdések - Multipoligon területhatárok: Az erdőt sikerült rendben multipoligonra alakítani, viszont a határolói hibásak. Most a tanya külső határolója [1] van megadva az erdőnél, ehelyett a tanya és az erdő közös határolóvonala [2] kellene. Nyisd meg az erdő multipoligon ablakát, és töröld a Tagok listájából a tanya külső vonalát (az -Gergely Matefi</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/mXn0dH1TBAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/mXn0dH1TBAAJ</guid>
+        <pubDate>Tue, 15 Jun 2021 22:37:30 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Kezdő kérdések - Multipoligon területhatárok: &quot;Az 1-es vonalon lerakod a 2 új pontot, eddig oké. Következő lépésként kijelölöd ezt a vonalat és rajta a két pontot (Shift-tel vagy Ctrl-lal kattintva lehet több elemet kijelölni, hasonlóan a fájlkezelőkhöz. Shift csak hozzáad, CTRL az kapcsolgat (kijelöl, nem jelöl ki). Tehát amikor épp ki van -Károly Kiss</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/lKnaBo5OBAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/lKnaBo5OBAAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/fq3YKilqSI0/m/7tcInGsNAQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/fq3YKilqSI0/m/7tcInGsNAQAJ</guid>
         <pubDate>Tue, 01 Jun 2021 10:28:18 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Fagyizás és üdítőzés végre személyesen!: Ha van kedved és jelzed, 16:00-tól is ráérek és mérhetünk előtte együtt egy gyors felmérésre, vagy mehetünk fagyizás után-közben is. Fel tudok ajánlani a célra mérőszalagot és decibel mérőt és egy JOSM-os laptopot amin lehet nézni mi hiányzik és mi van már meg (ugyanerre jó egy Vespucci is -Thomas Nagy</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/fq3YKilqSI0/m/QaoMZy8LAQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/fq3YKilqSI0/m/QaoMZy8LAQAJ</guid>
-        <pubDate>Tue, 01 Jun 2021 09:47:20 UTC</pubDate>
       </item>
   </channel>
 </rss>
