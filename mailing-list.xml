@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] iD presets - fordítási ötleteket várok: Mindegyik le volt már fordítva. Némelyik pontosan így, a többit most módosítottam. pudle...@gmail.com a következőt írta (2021. június 15., kedd, 19:11:04 UTC+2): &gt; Üdv! &gt; &gt; Ha még aktuális, akkor kerb/szegély fordítási javaslataim: &gt; &gt; &gt; kerb=flush - (egy)szintben (lévő) &gt; &gt; kerb=lowered - -hungarian_user</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/XA--MtjbOgk/m/Hs4GpK5tBAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/XA--MtjbOgk/m/Hs4GpK5tBAAJ</guid>
+        <pubDate>Wed, 16 Jun 2021 06:37:29 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Kezdő kérdések - Multipoligon területhatárok: Az erdőt sikerült rendben multipoligonra alakítani, viszont a határolói hibásak. Most a tanya külső határolója [1] van megadva az erdőnél, ehelyett a tanya és az erdő közös határolóvonala [2] kellene. Nyisd meg az erdő multipoligon ablakát, és töröld a Tagok listájából a tanya külső vonalát (az -Gergely Matefi</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/mXn0dH1TBAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/mXn0dH1TBAAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/fq3YKilqSI0/m/QAEnvsYXAQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/fq3YKilqSI0/m/QAEnvsYXAQAJ</guid>
         <pubDate>Tue, 01 Jun 2021 13:38:04 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Fagyizás és üdítőzés végre személyesen!: Szia! Akadálymentesség térképezéséhez az általad felsorolt oldalak vannak, szerintem több nem nagyon kell. A POI-k (étterem, mozi, múzeum, hivatal, wc, parkoló, stb.) wheelchair=yes/no jelölése a legfontosabb. Ezután az útvonalakon, járdán található akadályok (highway:steps, barrier=kerb), a -Máté Fehérvári</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/fq3YKilqSI0/m/7tcInGsNAQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/fq3YKilqSI0/m/7tcInGsNAQAJ</guid>
-        <pubDate>Tue, 01 Jun 2021 10:28:18 UTC</pubDate>
       </item>
   </channel>
 </rss>
