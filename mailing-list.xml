@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Kezdő kérdések - Multipoligon területhatárok: Hát ez így elég nagy kavarás. Kezeld teljesen külön a felület (multi)poligonokat, és a különböző adminisztratív egységeket jelző (multi)poligonokat (pl. megyehatár, természetvédelmi terület határa) és az épületkontúrokat. Felületpoligon például a szántóföld (farmland), rét (meadow), erdő -Gergely Matefi</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/Hc4JZ_myAgAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/Hc4JZ_myAgAJ</guid>
+        <pubDate>Fri, 18 Jun 2021 10:26:47 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Kezdő kérdések - Multipoligon területhatárok: Hú... nekem ehhez egy értelmező kérdésem lenne: Most a célunk itt az, hogy az 1 jelű természetvédelmi területnek (TVT) NEM része a 3-mal jelzett rész? Tehát szeretnénk kilyukasztani az 1-et? ... mert amúgy szerintem az 1-nek nem kell semmi más, csak körbekeríteni vele a TVT területét, nem? Gza -Rózsa Gza (Géza) István Özséb</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/0_k74xKuAgAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/0_k74xKuAgAJ</guid>
@@ -242,11 +247,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/CW9dB9P2K8k/m/8yva80_sAgAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/CW9dB9P2K8k/m/8yva80_sAgAJ</guid>
         <pubDate>Thu, 10 Jun 2021 15:14:55 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Mapillary (fennakadások Mapillaryéknél): Igen, valószínűleg azért kért jelszót, mert eddig nem volt meg az FB-nek a jelszó a hash miatt, de miután megváltoztatod már meglesz ez is nekik a többi személyes adattal együtt, illetve ez is egyfajta &quot;aláírásnak&quot;, kifejezett beleegyezésnek számít náluk amivel megerősíted az ÁSZF változásokat. -Thomas Nagy</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/0e6-zSzsAgAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/0e6-zSzsAgAJ</guid>
-        <pubDate>Thu, 10 Jun 2021 15:12:24 UTC</pubDate>
       </item><item>
         <title>Re: [osm-hu] levlista feliratkozás?: 2021. 06. 10. 14:18 keltezéssel, Thomas Nagy írta: Ha jól olvasom, megváltozott az ÁSZF, így már nem lehet Google fiók nélkül csatlakozni: Join a group without a Gmail address If you don't have a Gmail address, you can still join groups. You need to associate your email address with a Google -Feri Veres</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/CW9dB9P2K8k/m/lCG8_xLsAgAJ</link>
