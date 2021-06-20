@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>State of the Map #SotM 2021 (July 9th – 11th, 2021) is the annual event for all mappers and #OpenStreetMap users and will be held online again. Free of charge. Only order a ticket if you are sure to participate. https://2021.stateofthemap.org</title>
+        <link>https://en.osm.town/@Doudouosm/106442195654265881</link>
+        <guid>https://en.osm.town/@Doudouosm/106442195654265881</guid>
+        <pubDate>Sun, 20 Jun 2021 08:50:10 +0000</pubDate>
+      </item><item>
         <title>The “Street Art Cities Community” started in 2016 as a small attempt to create an online map to help out street art hunters hunt more effectively in their cities. It now features 33,424 artworks in 855 cities in 92 countries across the world. https://streetartcities.com/map #map #streetart #map #art Which artwork is your favorite one?</title>
         <link>https://en.osm.town/@Doudouosm/106433769065623558</link>
         <guid>https://en.osm.town/@Doudouosm/106433769065623558</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/106152011521518261</link>
         <guid>https://en.osm.town/@Doudouosm/106152011521518261</guid>
         <pubDate>Fri, 30 Apr 2021 02:52:32 +0000</pubDate>
-      </item><item>
-        <title>#Session messenger app audit report is published: https://getsession.org/session-code-audit/. The major takeaway, they say, is Session’s cryptographically sound and a few issues were raised, most of which have already been patched, and couple of low impact issues remain, but they were mostly related to deliberate design choices.</title>
-        <link>https://en.osm.town/@Doudouosm/106151982840431481</link>
-        <guid>https://en.osm.town/@Doudouosm/106151982840431481</guid>
-        <pubDate>Fri, 30 Apr 2021 02:45:14 +0000</pubDate>
       </item>
   </channel>
 </rss>
