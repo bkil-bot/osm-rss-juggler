@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Rétszilas, Sárbogárd) / * 2021 June 21 18:11 kogutowicz-mano Created: Felrajzoltam a vágányokat, de meg kellett bontanom azokat a kapcsolatokat, melyek a szárnyvonalakat érintették. Egy vasúti szakértő el tudná rendezni őket?</title>
+        <link>https://www.openstreetmap.org/note/2722911#c5822812</link>
+        <guid>https://www.openstreetmap.org/note/2722911#c5822812</guid>
+        <pubDate>Mon, 21 Jun 2021 18:11:27 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Sárbogárd) / * 2020 May 26 05:51 kogutowicz-mano Created: Rétszilas állomástól délre az elágazásig két vágány van, nem egy. / * 2021 June 21 18:09 kogutowicz-mano Resolved: Vágányhálózat felrajzolva</title>
+        <link>https://www.openstreetmap.org/note/2206593#c5822775</link>
+        <guid>https://www.openstreetmap.org/note/2206593#c5822775</guid>
+        <pubDate>Mon, 21 Jun 2021 18:09:48 +0000</pubDate>
+      </item><item>
         <title>new comment (near Tamáshegy, Balatonfüred) / * 2021 March 17 14:00 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: Parking is here. / * 2021 June 21 14:58 vampire303 Updated: Parking yes</title>
         <link>https://www.openstreetmap.org/note/2582634#c5822268</link>
         <guid>https://www.openstreetmap.org/note/2582634#c5822268</guid>
@@ -122,46 +132,6 @@
         <link>https://www.openstreetmap.org/note/2718463#c5813812</link>
         <guid>https://www.openstreetmap.org/note/2718463#c5813812</guid>
         <pubDate>Fri, 18 Jun 2021 14:42:21 +0000</pubDate>
-      </item><item>
-        <title>reactivated note (near Rákhegy, Kincsesbánya) / * 2021 June 18 14:40 Kaaliyuga Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/2662112#c5813809</link>
-        <guid>https://www.openstreetmap.org/note/2662112#c5813809</guid>
-        <pubDate>Fri, 18 Jun 2021 14:40:54 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Rákhegy, Kincsesbánya) / * 2021 May 9 14:12 Kaaliyuga Created: closed gate / * 2021 June 18 14:40 Kaaliyuga Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2662112#c5813808</link>
-        <guid>https://www.openstreetmap.org/note/2662112#c5813808</guid>
-        <pubDate>Fri, 18 Jun 2021 14:40:50 +0000</pubDate>
-      </item><item>
-        <title>new note (near Budafok, 22nd district) / * 2021 June 18 14:31 bkil Created: Van errefelé párakapu? https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dmist_spraying_cooler</title>
-        <link>https://www.openstreetmap.org/note/2718453#c5813793</link>
-        <guid>https://www.openstreetmap.org/note/2718453#c5813793</guid>
-        <pubDate>Fri, 18 Jun 2021 14:31:11 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Hird, Pécs) / * 2021 June 18 06:58 kartonage Resolved: Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks.</title>
-        <link>https://www.openstreetmap.org/note/2718006#c5812920</link>
-        <guid>https://www.openstreetmap.org/note/2718006#c5812920</guid>
-        <pubDate>Fri, 18 Jun 2021 06:58:02 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Hird, Pécs) / * 2021 June 18 06:58 kartonage Resolved: Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks.</title>
-        <link>https://www.openstreetmap.org/note/2718003#c5812919</link>
-        <guid>https://www.openstreetmap.org/note/2718003#c5812919</guid>
-        <pubDate>Fri, 18 Jun 2021 06:58:00 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Hird, Pécs) / * 2021 June 18 06:57 kartonage Resolved: Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks.</title>
-        <link>https://www.openstreetmap.org/note/2718002#c5812918</link>
-        <guid>https://www.openstreetmap.org/note/2718002#c5812918</guid>
-        <pubDate>Fri, 18 Jun 2021 06:57:59 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Hird, Pécs) / * 2021 June 18 06:57 kartonage Resolved: Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks.</title>
-        <link>https://www.openstreetmap.org/note/2718000#c5812917</link>
-        <guid>https://www.openstreetmap.org/note/2718000#c5812917</guid>
-        <pubDate>Fri, 18 Jun 2021 06:57:57 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Hird, Pécs) / * 2021 June 18 06:57 kartonage Resolved: Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks.</title>
-        <link>https://www.openstreetmap.org/note/2717998#c5812916</link>
-        <guid>https://www.openstreetmap.org/note/2717998#c5812916</guid>
-        <pubDate>Fri, 18 Jun 2021 06:57:56 +0000</pubDate>
       </item>
   </channel>
 </rss>
