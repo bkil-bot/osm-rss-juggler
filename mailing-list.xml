@@ -3,6 +3,16 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Római kori utak megint Was: Re: Tervezett autópályák régi nyomvonalai +: Attól hogy véletlen idekeveredett a másik téma még kitárgyalható lenne. Ott volt a római út ID-je, sajnos nem volt hivatkozás: https://www.openstreetmap.org/way/556857821#map=13/47.4275/19.0322 Van több is? Ha 3-4 van, máris ne vesztegessük az egész kérdésre az időnket. Korábbi levelekben -Feri Veres</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/moyS1PPRVLc/m/S2mTAWEkDAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/moyS1PPRVLc/m/S2mTAWEkDAAJ</guid>
+        <pubDate>Thu, 24 Jun 2021 15:42:22 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Re: Kezdő kérdések - Aluljáró - feluljáró: Vagy a felső egy híd és bridge + layer = 1, vagy az alsó alagút (tunnel) és layer = -1. (A másik mindkét esetben maradhat layer nélkül.) Pl: https://www.openstreetmap.org/way/25924109#map=18/47.64147/19.51391 (bridge=yes, layer=1) https://www.openstreetmap.org/way/156974362#map=17/47.49778/19 -Feri Veres</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/ta6VxwIjDAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/ta6VxwIjDAAJ</guid>
+        <pubDate>Thu, 24 Jun 2021 15:17:18 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Re: Tervezett autópályák régi nyomvonalai: On Thu, 24 Jun 2021, Peter Gervai wrote: &gt; A te véleményedet ismerem, jeleztem már régebben, hogy ismerem mint &gt; ahogy azt is hogy markánsan nem értek vele egyet. Most megint &gt; szeretnéd újra az egészet végig vitatkozni? Szeretnem hallani vegre az erveidet. (Marmint nem azt, hogy te mindenkin -Kiss Gabor</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/moyS1PPRVLc/m/eeNrQkUgDAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/moyS1PPRVLc/m/eeNrQkUgDAAJ</guid>
@@ -242,16 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/lKnaBo5OBAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/lKnaBo5OBAAJ</guid>
         <pubDate>Tue, 15 Jun 2021 21:07:05 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] iD presets - fordítási ötleteket várok: Kösz a tippeket, majd ránézek, hogy aktuális-e még (az az igazság, hogy egy jó ideje nem néztem rá). pudle...@gmail.com a következőt írta (2021. június 15., kedd, 19:11:04 UTC+2): &gt; Üdv! &gt; &gt; Ha még aktuális, akkor kerb/szegély fordítási javaslataim: &gt; &gt; &gt; kerb=flush - (egy)szintben (lévő) &gt; &gt; -hungarian_user</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/XA--MtjbOgk/m/HmF4EdpJBAAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/XA--MtjbOgk/m/HmF4EdpJBAAJ</guid>
-        <pubDate>Tue, 15 Jun 2021 19:40:54 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] iD presets - fordítási ötleteket várok: Üdv! Ha még aktuális, akkor kerb/szegély fordítási javaslataim: &gt; kerb=flush - (egy)szintben (lévő) &gt; kerb=lowered - süllyesztett &gt; ezt már máshol is láttam a levelezésben &gt; kerb=raised - emelt &gt; kerb=rolled - legömbölyített járda?- ívelt PÉva / pudleinere Báthory Péter a következőt írta -Éva Pudleiner</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/XA--MtjbOgk/m/eyWP-KxBBAAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/XA--MtjbOgk/m/eyWP-KxBBAAJ</guid>
-        <pubDate>Tue, 15 Jun 2021 17:11:04 UTC</pubDate>
       </item>
   </channel>
 </rss>
