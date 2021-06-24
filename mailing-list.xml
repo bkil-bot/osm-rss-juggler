@@ -3,6 +3,16 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Re: Kezdő kérdések - Aluljáró - feluljáró: Egy alsóbb rendű út átmegy az M44 alatt. Hogy lehet ezt visszaadni a JOSM-mal? Azt sejtem, hogy a kérdéses kereszteződő útszakaszokat el kell látni layer=1 illetve layer=-1 értékekkel. De gondolom ezt együtt kell még valamivel használni pl. bridge=yes, de ez nem híd. Mit kell ez esetben -Károly Kiss</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/aawcty4cDAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/aawcty4cDAAJ</guid>
+        <pubDate>Thu, 24 Jun 2021 13:12:11 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Re: Tervezett autópályák régi nyomvonalai: felszínen is látható Csörsz-árokra!). A „fiktív” azt jelzi, hogy sosem létezett. Azokra persze. Ami nem fiktív arra viszont nem, pl. Eszterházy Bricska-út... és ott a környéken van római is. &gt; Mint ahogy a tervezett autópályákat is törölném, ha a NIF oldalán nem szerepelnek élő, legalább -grin</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/moyS1PPRVLc/m/slqB6T8bDAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/moyS1PPRVLc/m/slqB6T8bDAAJ</guid>
+        <pubDate>Thu, 24 Jun 2021 12:55:05 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Re: Kezdő kérdések - Sorompó, az út node-jaként: Rendben. Köszönöm. Kiss Karcsi Kiss Gabor a következőt írta (2021. június 24., csütörtök, 10:37:34 UTC+2): &gt; On Thu, 24 Jun 2021, Károly Kiss wrote: &gt; &gt; Persze. &gt; Az egy &quot;akadaly&quot; (barrier). Az uton a helye. &gt; -Károly Kiss</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/PDdL9D4QDAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/PDdL9D4QDAAJ</guid>
@@ -242,16 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/jvsfjG0wBAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/jvsfjG0wBAAJ</guid>
         <pubDate>Tue, 15 Jun 2021 11:54:59 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Kezdő kérdések: Csak gondolkodom .... Esetleg az a gond, hogy a pirossal jelölt szakasz két végpontjában kettőnél több él csatlakozik, ezért esetleg ez nem is érvényes multipoligon? A belső szakaszt az indokolja, hogy az érintkező poligonok másként vannak felcímkézve. Néztem a Wikin a példákat, de nem láttam -Károly Kiss</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/ffDLz9YvBAAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/ffDLz9YvBAAJ</guid>
-        <pubDate>Tue, 15 Jun 2021 11:44:12 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Kezdő kérdések: Remélem így kell használni ezt a csoportot. Amíg belefér a cím alá valami, addig nem kezd az ember új témát. Újra kérnék egy kis segítséget! Szeretnék a végére járni ennek a multipoligon ügynek Gondolom, azért nem ördögtől való és problémákon keresztül érti meg az ember. Adott volt az 1-gyel -Károly Kiss</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/p3JRnCEvBAAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/p3JRnCEvBAAJ</guid>
-        <pubDate>Tue, 15 Jun 2021 11:31:14 UTC</pubDate>
       </item>
   </channel>
 </rss>
