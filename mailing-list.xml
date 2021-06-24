@@ -3,6 +3,16 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Re: Kezdő kérdések - Aluljáró - feluljáró: Azt tudtam, hogy a layer fejezi ezt ki, azt is, hogy darabolással csak egy szakaszát kell jelölni vele, azt viszont nem tudtam, hogy elegendő az egyiket jelölni. Valamint azt bogarásztam ki egy fordító segítségével, hogy mindig együtt kell használni valamivel, önmagában a layer nem áll. Ezek -Károly Kiss</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/XpYaFDwvDAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/XpYaFDwvDAAJ</guid>
+        <pubDate>Thu, 24 Jun 2021 19:01:19 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Törlések fokozottan védett természeti területeken: Sziasztok, két kiegészítő gondolat: 1) A hetekben a kezembe akadt a Cartographia Bükk turistatérképe. A fokozottan védett területeknek nemcsak a teljes úthálózata, de még az olyan &quot;Szép kilátás&quot; pontok is szerepelnek rajta, amelyek látogatása kifejezetten tilos (pl Pes-kő, Vörös-kő). A profi -Gergely Matefi</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/bz0LY29WKNQ/m/LjsfCTcuDAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/bz0LY29WKNQ/m/LjsfCTcuDAAJ</guid>
+        <pubDate>Thu, 24 Jun 2021 18:42:37 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Törlések fokozottan védett természeti területeken: Sziasztok! Ma visszaraktam két törölt pontot. Két hete már rákérdeztem hogy miért kellett ezeket törölni, de nem kaptam választ. Ma a szerkesztő reagált a visszaállításra, changeset comment-ben: https://www.openstreetmap.org/changeset/92302686 (A tanösvény állomás jelzett turistaúton van, az -Zoltan Szalay</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/bz0LY29WKNQ/m/sEGuGaEoDAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/bz0LY29WKNQ/m/sEGuGaEoDAAJ</guid>
@@ -242,16 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/QPXzpSVzBAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/QPXzpSVzBAAJ</guid>
         <pubDate>Wed, 16 Jun 2021 08:17:37 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] iD presets - fordítási ötleteket várok: Mindegyik le volt már fordítva. Némelyik pontosan így, a többit most módosítottam. pudle...@gmail.com a következőt írta (2021. június 15., kedd, 19:11:04 UTC+2): &gt; Üdv! &gt; &gt; Ha még aktuális, akkor kerb/szegély fordítási javaslataim: &gt; &gt; &gt; kerb=flush - (egy)szintben (lévő) &gt; &gt; kerb=lowered - -hungarian_user</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/XA--MtjbOgk/m/Hs4GpK5tBAAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/XA--MtjbOgk/m/Hs4GpK5tBAAJ</guid>
-        <pubDate>Wed, 16 Jun 2021 06:37:29 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Kezdő kérdések - Multipoligon területhatárok: Az erdőt sikerült rendben multipoligonra alakítani, viszont a határolói hibásak. Most a tanya külső határolója [1] van megadva az erdőnél, ehelyett a tanya és az erdő közös határolóvonala [2] kellene. Nyisd meg az erdő multipoligon ablakát, és töröld a Tagok listájából a tanya külső vonalát (az -Gergely Matefi</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/mXn0dH1TBAAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/mXn0dH1TBAAJ</guid>
-        <pubDate>Tue, 15 Jun 2021 22:37:30 UTC</pubDate>
       </item>
   </channel>
 </rss>
