@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>A 30-page “Assessment and Visualization of OSM Consistency for European Cities” (Athens, Berlin, Paris, Utrecht, Vienna, and Zurich): https://www.mdpi.com/2220-9964/10/6/361. The study evaluates the consistency based on the topological relationships between geographic features while considering semantics. One of the findings regarding POIs that must be inside buildings is an average position error was estimated at four meters. #OpenStreetMap #mdpi</title>
+        <link>https://en.osm.town/@Doudouosm/106470107722473201</link>
+        <guid>https://en.osm.town/@Doudouosm/106470107722473201</guid>
+        <pubDate>Fri, 25 Jun 2021 07:08:35 +0000</pubDate>
+      </item><item>
         <title>State of the Map #SotM 2021 (July 9th – 11th, 2021) is the annual event for all mappers and #OpenStreetMap users and will be held online again. Free of charge. Only order a ticket if you are sure to participate. https://2021.stateofthemap.org</title>
         <link>https://en.osm.town/@Doudouosm/106442195654265881</link>
         <guid>https://en.osm.town/@Doudouosm/106442195654265881</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/106164303350977105</link>
         <guid>https://en.osm.town/@Doudouosm/106164303350977105</guid>
         <pubDate>Sun, 02 May 2021 06:58:30 +0000</pubDate>
-      </item><item>
-        <title>Interesting read about road categorization in #OpenStreetMap vs. official planning documents, and the application of OpenStreetMap’s Ground Truth rule: - https://www.openstreetmap.org/user/Tim%20Couwelier/diary - https://wiki.openstreetmap.org/wiki/Good_practice#Map_what.27s_on_the_ground</title>
-        <link>https://en.osm.town/@Doudouosm/106152011521518261</link>
-        <guid>https://en.osm.town/@Doudouosm/106152011521518261</guid>
-        <pubDate>Fri, 30 Apr 2021 02:52:32 +0000</pubDate>
       </item>
   </channel>
 </rss>
