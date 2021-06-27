@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Budafok, 22nd district) / * 2021 June 18 14:50 bkil Created: Van errefelé ivókút? https://budafokteteny.hu/hir/hosegriado-2021-06 / * 2021 June 24 23:49 urbalazs Resolved: Igen, lásd: https://www.openstreetmap.org/node/6819486939 / * 2021 June 26 18:36 bkil Reactivated:  / * 2021 June 26 18:38 bkil Updated: Ha a frissebb forrás szerint, a honlapon azt írják, hogy itt lehet inni, de mégsem akkor azt háromféleképpen lehet kezelni. Vagy tényleg kijavult ez a pár hét alatt (ha valaki éppen errefelé jár), vagy ki kell vetetni a honlapon a listából, vagy  ha nem is tudnak a hibáról, be kell jelenteni a jarokelo.hu vagy más oldalon. / * 2021 June 27 23:02 urbalazs Resolved: Megnéztem, működik az ivókút. Kicsit felturbóztam a játszóteret, ha már ott voltam: https://www.openstreetmap.org/changeset/107053276</title>
+        <link>https://www.openstreetmap.org/note/2718477#c5840107</link>
+        <guid>https://www.openstreetmap.org/note/2718477#c5840107</guid>
+        <pubDate>Sun, 27 Jun 2021 23:02:36 +0000</pubDate>
+      </item><item>
         <title>new note (near Szendreytelep, Keszthely) / * 2021 June 27 21:45 vasony Created: Mi a pontos név? / Szendrey telep, Szendrey major, Szendreytelepi út</title>
         <link>https://www.openstreetmap.org/note/2731612#c5840006</link>
         <guid>https://www.openstreetmap.org/note/2731612#c5840006</guid>
@@ -102,21 +107,6 @@
         <link>https://www.openstreetmap.org/note/2728799#c5834833</link>
         <guid>https://www.openstreetmap.org/note/2728799#c5834833</guid>
         <pubDate>Sat, 26 Jun 2021 04:48:36 +0000</pubDate>
-      </item><item>
-        <title>new note (near Szalkisziget, Dunaújváros) / * 2021 June 26 04:48 utvonalfelmeresek Created: wc van</title>
-        <link>https://www.openstreetmap.org/note/2728798#c5834832</link>
-        <guid>https://www.openstreetmap.org/note/2728798#c5834832</guid>
-        <pubDate>Sat, 26 Jun 2021 04:48:28 +0000</pubDate>
-      </item><item>
-        <title>new note (near Bisse) / * 2021 June 26 04:48 utvonalfelmeresek Created: Sellyei erdészet</title>
-        <link>https://www.openstreetmap.org/note/2728797#c5834831</link>
-        <guid>https://www.openstreetmap.org/note/2728797#c5834831</guid>
-        <pubDate>Sat, 26 Jun 2021 04:48:20 +0000</pubDate>
-      </item><item>
-        <title>new note (near Alsócéce, Hernádcéce) / * 2021 June 26 04:48 utvonalfelmeresek Created: étterem zárva</title>
-        <link>https://www.openstreetmap.org/note/2728796#c5834830</link>
-        <guid>https://www.openstreetmap.org/note/2728796#c5834830</guid>
-        <pubDate>Sat, 26 Jun 2021 04:48:04 +0000</pubDate>
       </item>
   </channel>
 </rss>
