@@ -3,6 +3,16 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Kezdő kérdések - kapu: On Mon, Jun 28, 2021 at 3:10 PM Gergely Matefi wrote: &gt; A természetjárók közül sokan használnak még Garmin GPS-t, amelynek adatformátuma/útvonaltervezője nem ismeri az OSM access= és barrier= típusú jelöléseit, ezért tartósan akadályoztatott utakon én igyekszem a Garmin -grin</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/OqKpjUtZDQAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/OqKpjUtZDQAJ</guid>
+        <pubDate>Mon, 28 Jun 2021 14:03:20 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Kezdő kérdések - kapu: On Mon, Jun 28, 2021 at 2:40 PM Károly Kiss wrote: &gt; Ami a konkrét kérdést illeti, sajnos nem ismerem a pontos körülményeket. Amikor az én rajzomat felküldtem, akkor dobta ki ezt a validátor. Csak az ID-ket tudtam megadni. A lehetséges megoldásokat köszönöm. Akkor a -grin</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/ZFYBgTVZDQAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/ZFYBgTVZDQAJ</guid>
+        <pubDate>Mon, 28 Jun 2021 14:01:45 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Kezdő kérdések - kapu: +1, hogy a jelöléseknek a tényleges terepi állapotot kell tükrözniük. Az esetek döntő többségében a kerítés és az út metszéspontján kapu van, és akkor azt kell megfelelően címkézni. Ugyanakkor néha valóban az a terepi helyzet, hogy az utat a kerítés kettévágja, és nincs áthaladási lehetőség. -Gergely Matefi</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/RE-Ju2xWDQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/RE-Ju2xWDQAJ</guid>
@@ -242,16 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/moyS1PPRVLc/m/FnMr3grgCwAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/moyS1PPRVLc/m/FnMr3grgCwAJ</guid>
         <pubDate>Wed, 23 Jun 2021 18:50:05 UTC</pubDate>
-      </item><item>
-        <title>Re: Tervezett autópályák régi nyomvonalai: Szia! Elvileg nem a kimeneteknek rajzolunk, tehát ha az OsmAnd megjeleníti, akkor annak a beállítását kell módosítani, hogy ne jelenjen meg. Turistaút tervezésekor nagyon is jól jön, hogy az ember tudja, merre fognak vezetni az autópályák! Üdv, Oláh Tamás gabor...@gmail.com a következőt írta -turistautsz...@gmail.com</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/moyS1PPRVLc/m/YTlJD5HeCwAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/moyS1PPRVLc/m/YTlJD5HeCwAJ</guid>
-        <pubDate>Wed, 23 Jun 2021 18:23:03 UTC</pubDate>
-      </item><item>
-        <title>Tervezett autópályák régi nyomvonalai: Sziasztok! Van néhány régi autópálya-nyomvonal a térképen. 2013 nyarán készültek, és mára enyhén szólva elavultak, pl. az autópályák egy része elkészült (egy egészen más nyomvonalon). Az M9 nyugati szakasz, kb. párhuzamos vonalak egymástól pár méternyire (talán a két útpályát lennének hivatotta -Babos, Gábor</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/moyS1PPRVLc/m/mnSV793bCwAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/moyS1PPRVLc/m/mnSV793bCwAJ</guid>
-        <pubDate>Wed, 23 Jun 2021 17:33:35 UTC</pubDate>
       </item>
   </channel>
 </rss>
