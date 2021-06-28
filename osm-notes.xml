@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Sáregres) / * 2017 January 5 16:18 Zsolnai Tamás Created: K3 kijárati jelző (OSM data version: 2016-11-23T15:14:03Z) #mapsme / * 2018 June 7 12:30 Zsolnai Tamás Resolved:  / * 2018 June 7 12:30 Zsolnai Tamás Reactivated:  / * 2021 June 28 07:59 kogutowicz-mano Updated: Ott jöttem el reggel, láttam, hogy van egy fényjelző. Milyen további teendő van vele?</title>
+        <link>https://www.openstreetmap.org/note/842264#c5840929</link>
+        <guid>https://www.openstreetmap.org/note/842264#c5840929</guid>
+        <pubDate>Mon, 28 Jun 2021 07:59:13 +0000</pubDate>
+      </item><item>
+        <title>new note (near Neszmély) / * 2021 June 28 07:26 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;#39;Zúgó + beszállóhely&amp;#39; is here.</title>
+        <link>https://www.openstreetmap.org/note/2732011#c5840813</link>
+        <guid>https://www.openstreetmap.org/note/2732011#c5840813</guid>
+        <pubDate>Mon, 28 Jun 2021 07:26:40 +0000</pubDate>
+      </item><item>
         <title>closed note (near Budafok, 22nd district) / * 2021 June 18 14:50 bkil Created: Van errefelé ivókút? https://budafokteteny.hu/hir/hosegriado-2021-06 / * 2021 June 24 23:49 urbalazs Resolved: Igen, lásd: https://www.openstreetmap.org/node/6819486939 / * 2021 June 26 18:36 bkil Reactivated:  / * 2021 June 26 18:38 bkil Updated: Ha a frissebb forrás szerint, a honlapon azt írják, hogy itt lehet inni, de mégsem akkor azt háromféleképpen lehet kezelni. Vagy tényleg kijavult ez a pár hét alatt (ha valaki éppen errefelé jár), vagy ki kell vetetni a honlapon a listából, vagy  ha nem is tudnak a hibáról, be kell jelenteni a jarokelo.hu vagy más oldalon. / * 2021 June 27 23:02 urbalazs Resolved: Megnéztem, működik az ivókút. Kicsit felturbóztam a játszóteret, ha már ott voltam: https://www.openstreetmap.org/changeset/107053276</title>
         <link>https://www.openstreetmap.org/note/2718477#c5840107</link>
         <guid>https://www.openstreetmap.org/note/2718477#c5840107</guid>
@@ -77,16 +87,6 @@
         <link>https://www.openstreetmap.org/note/2729250#c5835659</link>
         <guid>https://www.openstreetmap.org/note/2729250#c5835659</guid>
         <pubDate>Sat, 26 Jun 2021 12:28:12 +0000</pubDate>
-      </item><item>
-        <title>new note (near Szögliget) / * 2021 June 26 11:31 Johanna707 Created: 29 lépcső, nyugat felé fel. Utána murvás út le. / via StreetComplete 32.2</title>
-        <link>https://www.openstreetmap.org/note/2729176#c5835499</link>
-        <guid>https://www.openstreetmap.org/note/2729176#c5835499</guid>
-        <pubDate>Sat, 26 Jun 2021 11:31:01 +0000</pubDate>
-      </item><item>
-        <title>new note (near Szögliget) / * 2021 June 26 11:25 Johanna707 Created: Unable to answer &amp;quot;Is 10. Lakatos-forrás (Information Board) still here?&amp;quot; for https://osm.org/node/3342283687 via StreetComplete 32.2: / Borz-lyuk forrás a neve.</title>
-        <link>https://www.openstreetmap.org/note/2729173#c5835494</link>
-        <guid>https://www.openstreetmap.org/note/2729173#c5835494</guid>
-        <pubDate>Sat, 26 Jun 2021 11:25:26 +0000</pubDate>
       </item>
   </channel>
 </rss>
