@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>Make a community presentation at an #OpenStreetMap Foundation #OSMF Board Meeting. Are you part of a local chapter, or a local community, putting together an organized project, or developing software? The board would love to hear from you. https://www.openstreetmap.org/user/mikelmaron/diary/397063</title>
+        <link>https://en.osm.town/@Doudouosm/106490076113144176</link>
+        <guid>https://en.osm.town/@Doudouosm/106490076113144176</guid>
+        <pubDate>Mon, 28 Jun 2021 19:46:48 +0000</pubDate>
+      </item><item>
         <title>A 30-page “Assessment and Visualization of OSM Consistency for European Cities” (Athens, Berlin, Paris, Utrecht, Vienna, and Zurich): https://www.mdpi.com/2220-9964/10/6/361. The study evaluates the consistency based on the topological relationships between geographic features while considering semantics. One of the findings regarding POIs that must be inside buildings is an average position error was estimated at four meters. #OpenStreetMap #mdpi</title>
         <link>https://en.osm.town/@Doudouosm/106470107722473201</link>
         <guid>https://en.osm.town/@Doudouosm/106470107722473201</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/106217789920058964</link>
         <guid>https://en.osm.town/@Doudouosm/106217789920058964</guid>
         <pubDate>Tue, 11 May 2021 17:40:51 +0000</pubDate>
-      </item><item>
-        <title>#OpenStreetMap Belgium’s Mapper of the Month #MotM series meets Besfort Guri from Kosovo this time: https://openstreetmap.be/en/motm/2021/05/01/besfort-guri.html</title>
-        <link>https://en.osm.town/@Doudouosm/106164303350977105</link>
-        <guid>https://en.osm.town/@Doudouosm/106164303350977105</guid>
-        <pubDate>Sun, 02 May 2021 06:58:30 +0000</pubDate>
       </item>
   </channel>
 </rss>
