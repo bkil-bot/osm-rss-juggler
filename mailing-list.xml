@@ -3,6 +3,26 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Kezdő kérdések - kapu: On Mon, Jun 28, 2021 at 4:03 PM Peter Gervai wrote: &gt; On Mon, Jun 28, 2021 at 3:10 PM Gergely Matefi &gt; wrote: &gt; &gt; &gt; A természetjárók közül sokan használnak még Garmin GPS-t, amelynek &gt; adatformátuma/útvonaltervezője nem ismeri az OSM access= és barrier= -Gergely Matefi</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/YhFKFRVdDQAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/YhFKFRVdDQAJ</guid>
+        <pubDate>Mon, 28 Jun 2021 15:12:44 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Kezdő kérdések - kapu: On Mon, Jun 28, 2021 at 4:28 PM Feri Veres wrote: &gt; A Mapillary szerint nehéz ide bárhova is kerítést elképzelni: &gt; (legalábbis az elérhető 2019-es képek szerint) &gt; &gt; https://www.mapillary.com/app/?lat=46.86941&amp;lng=20.273086666667&amp;z=17&amp;pKey=158925626184217&amp;focus=photo -grin</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/qBtNw95bDQAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/qBtNw95bDQAJ</guid>
+        <pubDate>Mon, 28 Jun 2021 14:50:31 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Kezdő kérdések - kapu: &gt; A Mapillary szerint nehéz ide bárhova is kerítést elképzelni: &gt; (legalábbis az elérhető 2019-es képek szerint) &gt; &gt; https://www.mapillary.com/app/?lat=46.86941&amp;lng=20.273086666667&amp;z=17&amp;pKey=158925626184217&amp;focus=photo&amp;x=0.5240851997931457&amp;y=0.5924590592926754&amp;zoom=0 &gt; Van kerítés, de nem -Feri Veres</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/S-QcURRbDQAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/S-QcURRbDQAJ</guid>
+        <pubDate>Mon, 28 Jun 2021 14:36:00 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Kezdő kérdések - kapu: Elvileg feltöltéskor csak az általad is módosított elemeket ellenőrzi, kézi lefuttatáskor pedig az összes letöltött rajzi elemet. Ha a sajátjaidra lefut, már az is nagyon jó. (Ott csak olyat töltök fel, amit tuti nem tudok megoldani, pl nem tudom a felrajzolt utca nevét.) A Mapillary szerint -Feri Veres</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/fS0OA6laDQAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/fS0OA6laDQAJ</guid>
+        <pubDate>Mon, 28 Jun 2021 14:28:20 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Kezdő kérdések - kapu: On Mon, Jun 28, 2021 at 3:10 PM Gergely Matefi wrote: &gt; A természetjárók közül sokan használnak még Garmin GPS-t, amelynek adatformátuma/útvonaltervezője nem ismeri az OSM access= és barrier= típusú jelöléseit, ezért tartósan akadályoztatott utakon én igyekszem a Garmin -grin</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/OqKpjUtZDQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/OqKpjUtZDQAJ</guid>
@@ -232,26 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/3xaLmzINDAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/3xaLmzINDAAJ</guid>
         <pubDate>Thu, 24 Jun 2021 08:37:34 UTC</pubDate>
-      </item><item>
-        <title>Re: Kezdő kérdések - Sorompó, az út node-jaként: Sziasztok! Ahogy a tárgyban is szerepel, annyi lenne a kérdésem, ha úton (földutakon, gáton) sorompót jelöltek, akkor a sorompó node-jának illeszkednie kell-e az út vonalára? Kiss Karcsi -Károly Kiss</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/kfLMaVIMDAAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/kfLMaVIMDAAJ</guid>
-        <pubDate>Thu, 24 Jun 2021 08:21:32 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Re: Tervezett autópályák régi nyomvonalai: Ha szavazás van, részemről halál a fiktív római utakra (de nem a felszínen is látható Csörsz-árokra!). Mint ahogy a tervezett autópályákat is törölném, ha a NIF oldalán nem szerepelnek élő, legalább részletes tervezés alatt álló projektként. Valamikor volt vitám valakivel, aki ragaszkodott az M0 -ITineris OSM</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/moyS1PPRVLc/m/JYt8vZzkCwAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/moyS1PPRVLc/m/JYt8vZzkCwAJ</guid>
-        <pubDate>Wed, 23 Jun 2021 20:13:50 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Re: Tervezett autópályák régi nyomvonalai: On Wed, 23 Jun 2021, turistautsz...@gmail.com wrote: &gt; Elvileg nem a kimeneteknek rajzolunk, tehát ha az OsmAnd megjeleníti, akkor &gt; annak a beállítását kell módosítani, hogy ne jelenjen meg. Ez csak másodlagos panasz volt. Ne menjünk el a lényeg mellett! Pontatlan, elavult, nem létező. &gt; -Kiss Gabor</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/moyS1PPRVLc/m/9Jma1T7gCwAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/moyS1PPRVLc/m/9Jma1T7gCwAJ</guid>
-        <pubDate>Wed, 23 Jun 2021 18:53:49 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Re: Tervezett autópályák régi nyomvonalai: Szerintem amelyik megvalósult, de más nyomvonalon, az kerüljön törlésre. Annak utána kellene járni (kormányzati anyagokban, közbeszerzési kiírásokban), hogy pl. az M9-es tervei élnek-e még, vagy törölték. Utóbbi esetben törölhető az OSM-ről. turistautsz...@gmail.com -Máté Fehérvári</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/moyS1PPRVLc/m/FnMr3grgCwAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/moyS1PPRVLc/m/FnMr3grgCwAJ</guid>
-        <pubDate>Wed, 23 Jun 2021 18:50:05 UTC</pubDate>
       </item>
   </channel>
 </rss>
