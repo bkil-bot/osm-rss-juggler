@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Kezdő kérdések - kapu: wrote: &gt;&gt; Inkább a térkép-konvertert kellene javítani hogy az access=private;no &gt;&gt; utakat bele se tegye és a block helyén szakítsa meg az utat.... &gt;&gt; &gt; Ennek analízise elég messzire vezetne, mert pl. egy vadvédelmi kerítés jellemzően nem jogi tilalom, hanem fizikai akadály: a vadaktól védi a -grin</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/uyt_SaelAgAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/uyt_SaelAgAJ</guid>
+        <pubDate>Mon, 28 Jun 2021 21:42:24 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Kezdő kérdések - kapu: On Mon, Jun 28, 2021 at 4:03 PM Peter Gervai wrote: &gt; On Mon, Jun 28, 2021 at 3:10 PM Gergely Matefi &gt; wrote: &gt; &gt; &gt; A természetjárók közül sokan használnak még Garmin GPS-t, amelynek &gt; adatformátuma/útvonaltervezője nem ismeri az OSM access= és barrier= -Gergely Matefi</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/YhFKFRVdDQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/YhFKFRVdDQAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/PDdL9D4QDAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/PDdL9D4QDAAJ</guid>
         <pubDate>Thu, 24 Jun 2021 09:33:26 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Re: Kezdő kérdések - Sorompó, az út node-jaként: On Thu, 24 Jun 2021, Károly Kiss wrote: &gt; Ahogy a tárgyban is szerepel, annyi lenne a kérdésem, ha úton (földutakon, &gt; gáton) sorompót jelöltek, akkor a sorompó node-jának illeszkednie kell-e az &gt; út vonalára? Persze. Az egy &quot;akadaly&quot; (barrier). Az uton a helye. Gabor -Kiss Gabor</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/3xaLmzINDAAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/3xaLmzINDAAJ</guid>
-        <pubDate>Thu, 24 Jun 2021 08:37:34 UTC</pubDate>
       </item>
   </channel>
 </rss>
