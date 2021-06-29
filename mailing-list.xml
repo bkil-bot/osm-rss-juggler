@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Kezdő kérdések - kapu: On Tue, Jun 29, 2021 at 11:25 AM turistautsz...@gmail.com wrote: &gt; Ami biztosnak tűnik egy létra nélküli kerítés esetében, &gt; amely egy létező közutat keresztez: &gt; &gt; wheelchair=no &gt; horse=no &gt; motor_vehicle=no &gt; ... &gt; &gt; A többi kulcs pl.: &gt; foot=yes &gt; bicycle=l -grin</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/3YLB6p9nAAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/3YLB6p9nAAAJ</guid>
+        <pubDate>Tue, 29 Jun 2021 13:22:37 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Kezdő kérdések - kapu: On Tue, Jun 29, 2021 at 12:44 AM Gergely Matefi wrote: &gt; On Mon, Jun 28, 2021 at 11:42 PM Peter Gervai wrote: &gt;&gt; &gt; Ennek analízise elég messzire vezetne, mert pl. egy vadvédelmi kerítés jellemzően nem jogi tilalom, hanem fizikai akadály: a vadaktól védi -grin</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/5dHil1dnAAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/5dHil1dnAAAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/moyS1PPRVLc/m/S2mTAWEkDAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/moyS1PPRVLc/m/S2mTAWEkDAAJ</guid>
         <pubDate>Thu, 24 Jun 2021 15:42:22 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Re: Kezdő kérdések - Aluljáró - feluljáró: Vagy a felső egy híd és bridge + layer = 1, vagy az alsó alagút (tunnel) és layer = -1. (A másik mindkét esetben maradhat layer nélkül.) Pl: https://www.openstreetmap.org/way/25924109#map=18/47.64147/19.51391 (bridge=yes, layer=1) https://www.openstreetmap.org/way/156974362#map=17/47.49778/19 -Feri Veres</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/ta6VxwIjDAAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/ta6VxwIjDAAJ</guid>
-        <pubDate>Thu, 24 Jun 2021 15:17:18 UTC</pubDate>
       </item>
   </channel>
 </rss>
