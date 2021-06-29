@@ -3,6 +3,16 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Kezdő kérdések - kapu: On Mon, 28 Jun 2021, turistautsz...@gmail.com wrote: &gt; &quot;olyan OSM jelölési megoldások alkalmazására, amelyeket az elterjedt &gt; kimenetek helyesen kezelnek, pl a navigátor nem visz át ott, ahol nem &gt; lehet. Szerintem minél többet használ egy szerkesztő publikus kimeneteket, &gt; annál érzékenyebb -Kiss Gabor</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/WRp2I9xNAAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/WRp2I9xNAAAJ</guid>
+        <pubDate>Tue, 29 Jun 2021 05:30:28 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Kezdő kérdések - kapu: &quot;olyan OSM jelölési megoldások alkalmazására, amelyeket az elterjedt kimenetek helyesen kezelnek, pl a navigátor nem visz át ott, ahol nem lehet. Szerintem minél többet használ egy szerkesztő publikus kimeneteket, annál érzékenyebb lesz a kimenetek problémáira, az OSM adatbázis használhatósági -turistautsz...@gmail.com</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/CbasqC9NAAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/CbasqC9NAAAJ</guid>
+        <pubDate>Tue, 29 Jun 2021 05:18:08 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Kezdő kérdések - kapu: On Mon, Jun 28, 2021 at 11:42 PM Peter Gervai wrote: &gt; &gt; Ennek analízise elég messzire vezetne, mert pl. egy vadvédelmi kerítés &gt; jellemzően nem jogi tilalom, hanem fizikai akadály: a vadaktól védi a &gt; területet, nem az emberektől, utóbbiak gyakran jogszerűen lehetnek bent &gt; -Gergely Matefi</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/8Zd3CQ2pAgAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/8Zd3CQ2pAgAJ</guid>
@@ -242,16 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/moyS1PPRVLc/m/l83cbkkdDAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/moyS1PPRVLc/m/l83cbkkdDAAJ</guid>
         <pubDate>Thu, 24 Jun 2021 13:32:24 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Re: Kezdő kérdések - Aluljáró - feluljáró: Egy alsóbb rendű út átmegy az M44 alatt. Hogy lehet ezt visszaadni a JOSM-mal? Azt sejtem, hogy a kérdéses kereszteződő útszakaszokat el kell látni layer=1 illetve layer=-1 értékekkel. De gondolom ezt együtt kell még valamivel használni pl. bridge=yes, de ez nem híd. Mit kell ez esetben -Károly Kiss</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/aawcty4cDAAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/_Gr34ea_ooY/m/aawcty4cDAAJ</guid>
-        <pubDate>Thu, 24 Jun 2021 13:12:11 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Re: Tervezett autópályák régi nyomvonalai: felszínen is látható Csörsz-árokra!). A „fiktív” azt jelzi, hogy sosem létezett. Azokra persze. Ami nem fiktív arra viszont nem, pl. Eszterházy Bricska-út... és ott a környéken van római is. &gt; Mint ahogy a tervezett autópályákat is törölném, ha a NIF oldalán nem szerepelnek élő, legalább -grin</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/moyS1PPRVLc/m/slqB6T8bDAAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/moyS1PPRVLc/m/slqB6T8bDAAJ</guid>
-        <pubDate>Thu, 24 Jun 2021 12:55:05 UTC</pubDate>
       </item>
   </channel>
 </rss>
