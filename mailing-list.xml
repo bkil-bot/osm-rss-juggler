@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Kezdő kérdések - howtok: On Tue, 29 Jun 2021, Vid Gabor wrote: Ha senki nem szólt bele eddig, akkor én locsogok. :-) &gt; Ahogy én gondolom: &gt; Berajzolom a hőközpont területét (zárt polygon) teszek rá egy &gt; landuse=indutrial cimkét, a vonalra egy barrier=fence címkét, Eddig tetszik. :-) &gt; illetve egy &gt; access=privat -Kiss Gabor</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/Qoaesf6sOgQ/m/xD51hVGYAAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/Qoaesf6sOgQ/m/xD51hVGYAAAJ</guid>
+        <pubDate>Wed, 30 Jun 2021 04:14:56 UTC</pubDate>
+      </item><item>
         <title>Kezdő kérdések - howtok: Sziasztok! Egy hosszabb inaktívitás után úgy néz ki megint lesz időm 1x 1x OSM-ezni. Egy pár éve elvesztettem a fonalat (azót csak a listát követem szorgalmasan). Régen ha jól emlékszem volt, vagy legalább ötlet szinten egy howto gyűjtemény (magyar nyelven, bár az angol sem akadály), arra, hogy -Vid Gabor</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/Qoaesf6sOgQ/m/aGVQh-l9AAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/Qoaesf6sOgQ/m/aGVQh-l9AAAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/bz0LY29WKNQ/m/LjsfCTcuDAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/bz0LY29WKNQ/m/LjsfCTcuDAAJ</guid>
         <pubDate>Thu, 24 Jun 2021 18:42:37 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Törlések fokozottan védett természeti területeken: Sziasztok! Ma visszaraktam két törölt pontot. Két hete már rákérdeztem hogy miért kellett ezeket törölni, de nem kaptam választ. Ma a szerkesztő reagált a visszaállításra, changeset comment-ben: https://www.openstreetmap.org/changeset/92302686 (A tanösvény állomás jelzett turistaúton van, az -Zoltan Szalay</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/bz0LY29WKNQ/m/sEGuGaEoDAAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/bz0LY29WKNQ/m/sEGuGaEoDAAJ</guid>
-        <pubDate>Thu, 24 Jun 2021 17:00:16 UTC</pubDate>
       </item>
   </channel>
 </rss>
