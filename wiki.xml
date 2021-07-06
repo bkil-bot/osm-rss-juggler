@@ -2,6 +2,21 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      
+      <item>
+        <title>Hungary/2021-07-06: hangpróba/2 -Bkil</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/2021-07-06&amp;diff=2171719&amp;oldid=2171714</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/2021-07-06&amp;diff=2171719</guid>
+        <pubDate>Tue, 06 Jul 2021 14:27:23 GMT</pubDate>
+      </item><item>
+        <title>Hungary/2021-07-06: genesis -Bkil</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/2021-07-06&amp;diff=2171714&amp;oldid=0</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/2021-07-06&amp;diff=2171714</guid>
+        <pubDate>Tue, 06 Jul 2021 14:11:07 GMT</pubDate>
+      </item><item>
+        <title>Hungary/Találkozók: OSM Fonó: Berekfürdőn fotónézés, térképjegyzet átnézés, új felvitel (online) -Bkil</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Tal%C3%A1lkoz%C3%B3k&amp;diff=2171716&amp;oldid=2169418</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Tal%C3%A1lkoz%C3%B3k&amp;diff=2171716</guid>
+        <pubDate>Tue, 06 Jul 2021 14:18:19 GMT</pubDate>
+      </item>
   </channel>
 </rss>
