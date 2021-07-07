@@ -3,6 +3,16 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Földúlt a földút (Was: Hibás adattörlés): lakóhelyeket (permanent residence) említi, hogy az oda vezető utak nem track-ek, viszont a szerintem sem a nyaralók, sem a présházak nem számítanak állandó lakóhelynek. Ellenben a Wiki azt konkrétan említi, hogy pl. a gyümölcsösökbe vezető utakra helyes a &quot;track&quot; használata. Itt jön a neheze: -Gergely Matefi</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/75pQgnUREAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/75pQgnUREAAJ</guid>
+        <pubDate>Wed, 07 Jul 2021 13:52:45 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Offset Database JOSM plugin Was: OSM Fonó: Berekfürdőn fotónézés,....: On Tue, 6 Jul 2021, Feri Veres wrote: &gt; Ennek a vonalnak a belsejében van. A Fömi 2005 precízen rajta van a &gt; körberajzolt objektumon. &gt; &gt; https://www.openstreetmap.org/way/838521557 Az letezik, hogy maskepp latszik az iD-ban/ben, mint a JOSM-ban/ben? Az iD-vel nezve a FOMI 2010 illik hozza -Kiss Gabor</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/xOvvrFGbzEY/m/1xUx4aAQEAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/xOvvrFGbzEY/m/1xUx4aAQEAAJ</guid>
+        <pubDate>Wed, 07 Jul 2021 13:37:31 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Offset Database JOSM plugin Was: OSM Fonó: Berekfürdőn fotónézés,....: Igen, ezt közösen rajzoltuk egy eseményen, kapkodva, az alapján ahogy egy helyszíni önkéntesünk diktálta, de nem nagyon látszott a felvételen. Igazából ez csak valamiféle példa lett volna, nem a legjobb választás pontos kalibrációra. Csinálhatnánk egy játékos eseményt amin közösen gyakoroljuk -Thomas Nagy</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/xOvvrFGbzEY/m/ujPzmlsOEAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/xOvvrFGbzEY/m/ujPzmlsOEAAJ</guid>
@@ -242,16 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/qBtNw95bDQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/qBtNw95bDQAJ</guid>
         <pubDate>Mon, 28 Jun 2021 14:50:31 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Kezdő kérdések - kapu: &gt; A Mapillary szerint nehéz ide bárhova is kerítést elképzelni: &gt; (legalábbis az elérhető 2019-es képek szerint) &gt; &gt; https://www.mapillary.com/app/?lat=46.86941&amp;lng=20.273086666667&amp;z=17&amp;pKey=158925626184217&amp;focus=photo&amp;x=0.5240851997931457&amp;y=0.5924590592926754&amp;zoom=0 &gt; Van kerítés, de nem -Feri Veres</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/S-QcURRbDQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/S-QcURRbDQAJ</guid>
-        <pubDate>Mon, 28 Jun 2021 14:36:00 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Kezdő kérdések - kapu: Elvileg feltöltéskor csak az általad is módosított elemeket ellenőrzi, kézi lefuttatáskor pedig az összes letöltött rajzi elemet. Ha a sajátjaidra lefut, már az is nagyon jó. (Ott csak olyat töltök fel, amit tuti nem tudok megoldani, pl nem tudom a felrajzolt utca nevét.) A Mapillary szerint -Feri Veres</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/fS0OA6laDQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/fS0OA6laDQAJ</guid>
-        <pubDate>Mon, 28 Jun 2021 14:28:20 UTC</pubDate>
       </item>
   </channel>
 </rss>
