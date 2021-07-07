@@ -3,6 +3,21 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Földúlt a földút: On Wed, 7 Jul 2021, Feri Veres wrote: &gt; Aki track-re tette az 5 éve nem piszkálgatja a térképet, így talán felesleges &gt; is írnom neki. 72 szerkesztés. A minap jutott eszembe, hogy olyan ez a térképszerkesztés, mint a hangyák nyüzsgése. :-) Nem ugyanabba az irányba rángatja mindegyik a -Kiss Gabor</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/2eGbeBcmEAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/2eGbeBcmEAAJ</guid>
+        <pubDate>Wed, 07 Jul 2021 20:10:50 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Földúlt a földút (Was: Hibás adattörlés): Gábor, Csepelt nem ismerem, az általad hivatkozott konkrét területről nem tudok véleményt formálni és nem is arról írtam. Általánosságban, OSM szempontból az út osztályozásánál az a döntő kritérium, hogy azt mire használják. Amennyiben az utat elsődlegesen művelt területek elérésére használják -Gergely Matefi</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/tJj5DJ8kEAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/tJj5DJ8kEAAJ</guid>
+        <pubDate>Wed, 07 Jul 2021 19:43:54 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Földúlt a földút: &gt; Már többször nekikezdtem, hogy valahogy rendbe szedem a smoothness &gt; leírást (csak rengeteg fénykép kellene minden egyes burkolathoz és &gt; értékhez), mert ott legalább ekkora káosz van. Több általam pontosan &gt; megadott bad, very_bad Van egy jó földutas oldal ilyesmikkel. De biztos ismered: -Feri Veres</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/6dz_mEUkEAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/6dz_mEUkEAAJ</guid>
+        <pubDate>Wed, 07 Jul 2021 19:37:29 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Földúlt a földút: On Wed, 7 Jul 2021, ITineris OSM wrote: &gt; A kezdőket nem tartja vissza a mostani (szerintem hülye) név: az iD-ben &gt; elkezdi begépelni, hogy &quot;földú...&quot;, és máris csak ez az egyetlen találat. &gt; Megnyomja, örül. Igen. De én azt kérdeztem, van-e ami jobban visszatartja őket. &gt; És mi a véleménye -Kiss Gabor</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/0FdI4L8cEAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/0FdI4L8cEAAJ</guid>
@@ -237,21 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/Qoaesf6sOgQ/m/aGVQh-l9AAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/Qoaesf6sOgQ/m/aGVQh-l9AAAJ</guid>
         <pubDate>Tue, 29 Jun 2021 20:11:03 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Kezdő kérdések - kapu: On Tue, Jun 29, 2021 at 11:25 AM turistautsz...@gmail.com wrote: &gt; Ami biztosnak tűnik egy létra nélküli kerítés esetében, &gt; amely egy létező közutat keresztez: &gt; &gt; wheelchair=no &gt; horse=no &gt; motor_vehicle=no &gt; ... &gt; &gt; A többi kulcs pl.: &gt; foot=yes &gt; bicycle=l -grin</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/3YLB6p9nAAAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/3YLB6p9nAAAJ</guid>
-        <pubDate>Tue, 29 Jun 2021 13:22:37 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Kezdő kérdések - kapu: On Tue, Jun 29, 2021 at 12:44 AM Gergely Matefi wrote: &gt; On Mon, Jun 28, 2021 at 11:42 PM Peter Gervai wrote: &gt;&gt; &gt; Ennek analízise elég messzire vezetne, mert pl. egy vadvédelmi kerítés jellemzően nem jogi tilalom, hanem fizikai akadály: a vadaktól védi -grin</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/5dHil1dnAAAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/5dHil1dnAAAJ</guid>
-        <pubDate>Tue, 29 Jun 2021 13:17:26 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Kezdő kérdések - kapu: Ami biztosnak tűnik egy létra nélküli kerítés esetében, amely egy létező közutat keresztez: wheelchair=no horse=no motor_vehicle=no ... A többi kulcs pl.: foot=yes bicycle=limited Üdv, T gergely...@gmail.com a következőt írta (2021. június 29., kedd, 10:00:01 UTC+2): &gt; Mielőtt Gábor eltéríti -turistautsz...@gmail.com</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/uyXgsKlaAAAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/uyXgsKlaAAAJ</guid>
-        <pubDate>Tue, 29 Jun 2021 09:25:06 UTC</pubDate>
       </item>
   </channel>
 </rss>
