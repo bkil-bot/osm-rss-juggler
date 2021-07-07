@@ -3,6 +3,26 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Földúlt a földút (Was: Hibás adattörlés): Lehet, hogy segítene, ha frappánsabb magyar megnevezést találnánk az iD-be. Beleértve a címke melletti (i) gombra feljövő rövid magyarázatot is. Nem gondolom, hogy egyszerű feladat, de azért megpróbálkozhatnánk &quot;AZ&quot; openstreetmap (.org) renderelési stylesheet-be elérni a burkolatlan utak -ITineris OSM</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/IhQnGEUVEAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/IhQnGEUVEAAJ</guid>
+        <pubDate>Wed, 07 Jul 2021 15:02:33 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Földúlt a földút (Was: Hibás adattörlés): On Wed, 7 Jul 2021, Szem wrote: &gt; Ez egy régóta fennálló probléma, (az én személyes vélemény alapján) sajnos a &gt; szerkesztők egy jelentős többsége se nem olvas levlistát, se wikit, csak úgy &gt; dolgozik, hogy az jól nézzen ki az általa használt térképen (akár az is lehet, &gt; hogy a topicot -Kiss Gabor</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/NQbpvEMUEAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/NQbpvEMUEAAJ</guid>
+        <pubDate>Wed, 07 Jul 2021 14:44:09 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Földúlt a földút (Was: Hibás adattörlés): On Wed, 7 Jul 2021, Gergely Matefi wrote: &gt; &gt; No de sebaj, a How to decide fejezetbol alatta kiderul, hogy a nyaralok, &gt; &gt; preshazak, hobbikertek kozt halado ut nem track. &gt; &gt; Plane ha meg neve is van! &gt; &gt; Mondjuk pledaul Csepelen a Soshegy nevu resz van igy tevesen &gt; &gt; trackekkel telitve. &gt; -Kiss Gabor</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/BKk_MvcTEAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/BKk_MvcTEAAJ</guid>
+        <pubDate>Wed, 07 Jul 2021 14:38:40 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Földúlt a földút (Was: Hibás adattörlés): Ez egy régóta fennálló probléma, (az én személyes vélemény alapján) sajnos a szerkesztők egy jelentős többsége se nem olvas levlistát, se wikit, csak úgy dolgozik, hogy az jól nézzen ki az általa használt térképen (akár az is lehet, hogy a topicot kiváltó adattörlés is ezért történt, mert ez -Szem</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/afIlWBYTEAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/afIlWBYTEAAJ</guid>
+        <pubDate>Wed, 07 Jul 2021 14:22:34 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Földúlt a földút (Was: Hibás adattörlés): lakóhelyeket (permanent residence) említi, hogy az oda vezető utak nem track-ek, viszont a szerintem sem a nyaralók, sem a présházak nem számítanak állandó lakóhelynek. Ellenben a Wiki azt konkrétan említi, hogy pl. a gyümölcsösökbe vezető utakra helyes a &quot;track&quot; használata. Itt jön a neheze: -Gergely Matefi</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/75pQgnUREAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/75pQgnUREAAJ</guid>
@@ -232,26 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/CbasqC9NAAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/CbasqC9NAAAJ</guid>
         <pubDate>Tue, 29 Jun 2021 05:18:08 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Kezdő kérdések - kapu: On Mon, Jun 28, 2021 at 11:42 PM Peter Gervai wrote: &gt; &gt; Ennek analízise elég messzire vezetne, mert pl. egy vadvédelmi kerítés &gt; jellemzően nem jogi tilalom, hanem fizikai akadály: a vadaktól védi a &gt; területet, nem az emberektől, utóbbiak gyakran jogszerűen lehetnek bent &gt; -Gergely Matefi</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/8Zd3CQ2pAgAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/8Zd3CQ2pAgAJ</guid>
-        <pubDate>Mon, 28 Jun 2021 22:44:40 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Kezdő kérdések - kapu: wrote: &gt;&gt; Inkább a térkép-konvertert kellene javítani hogy az access=private;no &gt;&gt; utakat bele se tegye és a block helyén szakítsa meg az utat.... &gt;&gt; &gt; Ennek analízise elég messzire vezetne, mert pl. egy vadvédelmi kerítés jellemzően nem jogi tilalom, hanem fizikai akadály: a vadaktól védi a -grin</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/uyt_SaelAgAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/uyt_SaelAgAJ</guid>
-        <pubDate>Mon, 28 Jun 2021 21:42:24 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Kezdő kérdések - kapu: On Mon, Jun 28, 2021 at 4:03 PM Peter Gervai wrote: &gt; On Mon, Jun 28, 2021 at 3:10 PM Gergely Matefi &gt; wrote: &gt; &gt; &gt; A természetjárók közül sokan használnak még Garmin GPS-t, amelynek &gt; adatformátuma/útvonaltervezője nem ismeri az OSM access= és barrier= -Gergely Matefi</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/YhFKFRVdDQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/YhFKFRVdDQAJ</guid>
-        <pubDate>Mon, 28 Jun 2021 15:12:44 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Kezdő kérdések - kapu: On Mon, Jun 28, 2021 at 4:28 PM Feri Veres wrote: &gt; A Mapillary szerint nehéz ide bárhova is kerítést elképzelni: &gt; (legalábbis az elérhető 2019-es képek szerint) &gt; &gt; https://www.mapillary.com/app/?lat=46.86941&amp;lng=20.273086666667&amp;z=17&amp;pKey=158925626184217&amp;focus=photo -grin</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/qBtNw95bDQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/qBtNw95bDQAJ</guid>
-        <pubDate>Mon, 28 Jun 2021 14:50:31 UTC</pubDate>
       </item>
   </channel>
 </rss>
