@@ -3,6 +3,26 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Offset Database JOSM plugin Was: OSM Fonó: Berekfürdőn fotónézés,....: Igen, ezt közösen rajzoltuk egy eseményen, kapkodva, az alapján ahogy egy helyszíni önkéntesünk diktálta, de nem nagyon látszott a felvételen. Igazából ez csak valamiféle példa lett volna, nem a legjobb választás pontos kalibrációra. Csinálhatnánk egy játékos eseményt amin közösen gyakoroljuk -Thomas Nagy</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/xOvvrFGbzEY/m/ujPzmlsOEAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/xOvvrFGbzEY/m/ujPzmlsOEAAJ</guid>
+        <pubDate>Wed, 07 Jul 2021 12:55:55 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Földúlt a földút (Was: Hibás adattörlés): Ezekről meg tudod győzni azokat, akik hivatalos másodrendű főutakat rongálnak el folyamatosan highway=track-nek, mert a terepen földútnak látszanak, és zavarja őket, hogy a térképet nézve a jelenlegi rendereléssel jó ötletnek tűnik arrafelé rövidíteni? (Az útvonaltervezők rendesen figyelembe -ITineris OSM</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/jb19OHwNEAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/jb19OHwNEAAJ</guid>
+        <pubDate>Wed, 07 Jul 2021 12:39:55 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Földúlt a földút (Was: Hibás adattörlés): On Wed, 7 Jul 2021, ITineris OSM wrote: &gt; Maga az OSM Wiki nem írja elő ilyen keményen a lakott területen kívüliséget. Fene tudja. &quot;The tag highway=track is used for minor land access roads that are not considered part of the general-purpose road network&quot; (https://wiki.openstreetmap.org/wiki -Kiss Gabor</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/HfuojSQNEAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/HfuojSQNEAAJ</guid>
+        <pubDate>Wed, 07 Jul 2021 12:33:39 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Offset Database JOSM plugin Was: OSM Fonó: Berekfürdőn fotónézés,....: igazításához jó. Sőt, legjobb ha van mindkettő, mert a lementett számértékkel pontosan és gyorsan igazítható, a körberajzolt objektummal meg ellenőrizhető, képanyag frissítés után frissíthető. A legjobb, ha van sok, a légifotókon/műholdképeken jól azonosítható (felszíni) tereptárgy, minél -ITineris OSM</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/xOvvrFGbzEY/m/e44hl3oMEAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/xOvvrFGbzEY/m/e44hl3oMEAAJ</guid>
+        <pubDate>Wed, 07 Jul 2021 12:21:29 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Földúlt a földút (Was: Hibás adattörlés): Mert az iD-ben ez az elég béna magyar fordítás van a highway=track-re. Sőt, erdészeti útból is van aszfaltozott, tehát ebből az irányból sem stimmel a dolog. Maga az OSM Wiki nem írja elő ilyen keményen a lakott területen kívüliséget. Tipikus példa, amikor a faluban az (egyetlen) főutcára -ITineris OSM</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/CiDor4kLEAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/CiDor4kLEAAJ</guid>
@@ -232,26 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/fS0OA6laDQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/fS0OA6laDQAJ</guid>
         <pubDate>Mon, 28 Jun 2021 14:28:20 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Kezdő kérdések - kapu: On Mon, Jun 28, 2021 at 3:10 PM Gergely Matefi wrote: &gt; A természetjárók közül sokan használnak még Garmin GPS-t, amelynek adatformátuma/útvonaltervezője nem ismeri az OSM access= és barrier= típusú jelöléseit, ezért tartósan akadályoztatott utakon én igyekszem a Garmin -grin</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/OqKpjUtZDQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/OqKpjUtZDQAJ</guid>
-        <pubDate>Mon, 28 Jun 2021 14:03:20 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Kezdő kérdések - kapu: On Mon, Jun 28, 2021 at 2:40 PM Károly Kiss wrote: &gt; Ami a konkrét kérdést illeti, sajnos nem ismerem a pontos körülményeket. Amikor az én rajzomat felküldtem, akkor dobta ki ezt a validátor. Csak az ID-ket tudtam megadni. A lehetséges megoldásokat köszönöm. Akkor a -grin</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/ZFYBgTVZDQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/ZFYBgTVZDQAJ</guid>
-        <pubDate>Mon, 28 Jun 2021 14:01:45 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Kezdő kérdések - kapu: +1, hogy a jelöléseknek a tényleges terepi állapotot kell tükrözniük. Az esetek döntő többségében a kerítés és az út metszéspontján kapu van, és akkor azt kell megfelelően címkézni. Ugyanakkor néha valóban az a terepi helyzet, hogy az utat a kerítés kettévágja, és nincs áthaladási lehetőség. -Gergely Matefi</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/RE-Ju2xWDQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/RE-Ju2xWDQAJ</guid>
-        <pubDate>Mon, 28 Jun 2021 13:10:43 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Kezdő kérdések - kapu: Azért kérdezek, nem is keveset, hogy olyat ne csináljak olyat, amit nem lehet, vagy nem javallt. Ami a TUHU-n szokásban volt, természetesen nem akarom erőltetni. Túl sok mindenre egyébként sem emlékszem már. Ami a konkrét kérdést illeti, sajnos nem ismerem a pontos körülményeket. Amikor az én -Károly Kiss</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/itU1TctUDQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/itU1TctUDQAJ</guid>
-        <pubDate>Mon, 28 Jun 2021 12:40:51 UTC</pubDate>
       </item>
   </channel>
 </rss>
