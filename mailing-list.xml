@@ -3,6 +3,26 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Földúlt a földút (Was: Hibás adattörlés): Mert az iD-ben ez az elég béna magyar fordítás van a highway=track-re. Sőt, erdészeti útból is van aszfaltozott, tehát ebből az irányból sem stimmel a dolog. Maga az OSM Wiki nem írja elő ilyen keményen a lakott területen kívüliséget. Tipikus példa, amikor a faluban az (egyetlen) főutcára -ITineris OSM</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/CiDor4kLEAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/CiDor4kLEAAJ</guid>
+        <pubDate>Wed, 07 Jul 2021 12:04:14 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Földúlt a földút: On Wed, 7 Jul 2021, Szem wrote: &gt; Ez sajnos sok helyen előfordul, (talán azért - gondolom én), mert sok &gt; kimeneten a track a földút és az utca az burkolt (tőlünk nyugatra sok helyen &gt; tényleg így is van) és így jobban látszik a különbség. &quot;Latszik&quot;? Valaki az renderelot akarja megeroszakoln -Kiss Gabor</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/eUy9MKQKEAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/eUy9MKQKEAAJ</guid>
+        <pubDate>Wed, 07 Jul 2021 11:47:48 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Földúlt a földút (Was: Hibás adattörlés): Ez sajnos sok helyen előfordul, (talán azért - gondolom én), mert sok kimeneten a track a földút és az utca az burkolt (tőlünk nyugatra sok helyen tényleg így is van) és így jobban látszik a különbség. Ugyanez a gond, hogy egy út egyes szakaszait egyszer track-nek aztán meg unclassified-nak -Szem</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/CfWKgnAJEAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/CfWKgnAJEAAJ</guid>
+        <pubDate>Wed, 07 Jul 2021 11:25:47 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Hibás adattörlés: Köszi! Kíváncsi vagyok lesz-e reakció. Szem 2021.07.07. 10:41 keltezéssel, Feri Veres írta: &gt; &gt; &gt; 2021. 07. 06. 16:07 keltezéssel, Szem írta: &gt;&gt; Üdv, &gt;&gt; Az érintett szakaszok: &gt;&gt; https://www.openstreetmap.org/way/700720321 &gt;&gt; https://www.openstreetmap.org/way/61834741 &gt;&gt; Amúgy az -Szem</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/HOfIJF8JEAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/HOfIJF8JEAAJ</guid>
+        <pubDate>Wed, 07 Jul 2021 11:24:32 UTC</pubDate>
+      </item><item>
         <title>Földúlt a földút (Was: Hibás adattörlés): On Wed, 7 Jul 2021, Feri Veres wrote: &gt; Megnéztem ID-ben, &quot;gravel&quot; mint választható opció van, nem túl magyaros, de &gt; észrevehető. És valóban a kommentbe is azt írta, hogy &quot;utca típusainak &gt; rendezése&quot;, szóval valahogy direkt a felülettel foglalkozott. Rákérdeztem Errol jut eszembe: Lattam -Kiss Gabor</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/DQHuUNkAEAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/DQHuUNkAEAAJ</guid>
@@ -232,26 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/itU1TctUDQAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/itU1TctUDQAJ</guid>
         <pubDate>Mon, 28 Jun 2021 12:40:51 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Kezdő kérdések - kapu: On Mon, Jun 28, 2021 at 12:23 PM Károly Kiss wrote: &gt; Csak anno a TUHU-n ezt így kérték, mert így volt esztétikus. Bár tényleg &gt; nem valós. &gt; Ezzel a szokással óvatosan bánj: a TuHu sok mindenben filozófiailag is eltért az OSM-től, és ezek főleg ilyen apróságok, mint az -grin</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/m9w-6ctPDQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/m9w-6ctPDQAJ</guid>
-        <pubDate>Mon, 28 Jun 2021 11:09:15 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Mapillary (képek geotaggelése és irányba állítása): Valami olyan egyszerű feltöltési lehetőségre, mint a faék :) Egyszer elkezdted a laptopomon beállítani, de nem is értél a végére, és az nem is igazán jó megoldás, ha csak egy gépemről működik. Én 3-4 gépen is szoktam dolgozgatni, és bonyolult lenne mindegyikre pythont telepíteni. Viszont ha lenne -turistautsz...@gmail.com</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/rgfGLq1NDQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/rgfGLq1NDQAJ</guid>
-        <pubDate>Mon, 28 Jun 2021 10:30:25 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Kezdő kérdések - kapu: A problémát az okozhatta, hogy a landuse vonala metszette az utat ... szerintem, mert azt sárgította be a hibakereső. Valahogy így, mint a képen, de most nekem sem jelez hibát. Amit írtál a címkék összefésüléséről, az tetszik. Jobban néz ki :) ha még működik is. Szembeállításként az út-erdő közös -Károly Kiss</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/iOF6CEtNDQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/2dBBZRXBkXk/m/iOF6CEtNDQAJ</guid>
-        <pubDate>Mon, 28 Jun 2021 10:23:23 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Római kori utak megint Was: Re: Tervezett autópályák régi nyomvonalai +: On Mon, Jun 28, 2021 at 8:46 AM Feri Veres wrote: &gt; Van ami egyben abandoned:highway is szóval gondolom még ott van csak gazos.. vagy nincs? :-)) Én sok ilyet felvettem, volt ami tényleg abandoned:highway (mert pl. mindkét végét megszüntették, csak egy darab aszfalt megy -grin</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/moyS1PPRVLc/m/xl2nR6VMDQAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/moyS1PPRVLc/m/xl2nR6VMDQAJ</guid>
-        <pubDate>Mon, 28 Jun 2021 10:11:31 UTC</pubDate>
       </item>
   </channel>
 </rss>
