@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>Create a #Lego #Map using #QGIS or #ArcGIS: https://www.gislounge.com/how-to-use-gis-to-make-a-lego-map/ #GIS #Tutorial</title>
+        <link>https://en.osm.town/@Doudouosm/106547106620377462</link>
+        <guid>https://en.osm.town/@Doudouosm/106547106620377462</guid>
+        <pubDate>Thu, 08 Jul 2021 21:30:25 +0000</pubDate>
+      </item><item>
         <title>After a series of encounters around the globe, #OpenStreetMap Belgium’s Mapper of the Month #MotM is back home to interview Pieter, alias s8evq: https://openstreetmap.be/en/motm/2021/07/01/s8evq.html.</title>
         <link>https://en.osm.town/@Doudouosm/106506231239502645</link>
         <guid>https://en.osm.town/@Doudouosm/106506231239502645</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/106227114390740452</link>
         <guid>https://en.osm.town/@Doudouosm/106227114390740452</guid>
         <pubDate>Thu, 13 May 2021 09:12:11 +0000</pubDate>
-      </item><item>
-        <title>An explanation of the #OSM-Carto road rendering system and its issues and limitations: http://blog.imagico.de/navigating-the-maze-part-1/. #OpenStreetMap #OSMCarto</title>
-        <link>https://en.osm.town/@Doudouosm/106218339455828463</link>
-        <guid>https://en.osm.town/@Doudouosm/106218339455828463</guid>
-        <pubDate>Tue, 11 May 2021 20:00:36 +0000</pubDate>
       </item>
   </channel>
 </rss>
