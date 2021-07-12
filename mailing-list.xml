@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Mapillary (képek geotaggelése és irányba állítása): Sajnos a mapillary megváltoztatta egy hónapja az egész rendszerét, azóta én is küzdök. A régi regisztrációmmal nem működött egyáltalán, mert a citromail.hu -s címet nem fogadta el. Most regisztráltam gmailos címmel is, de egyelőre Upload failed hibaüzenetet kapok... Ha sikerül rájönni, majd -turistautsz...@gmail.com</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/zoDJ6qFrAAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/zoDJ6qFrAAAJ</guid>
+        <pubDate>Mon, 12 Jul 2021 19:51:55 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Mapillary (képek geotaggelése és irányba állítása): Nos ... megpróbáltam. Nem tűnt ördögtől valónak, miután megnéztem a vidókat, illetve amiket még találtam. JOSM-ban sikerült a képek fejlécébe beírni a megfelelő koordinátákat. A videó alapján úgy gondoltam, a Mapillary-ba fel kell tölteni, majd a légifotó alapján egy körülbeli szög megadásával -Károly Kiss</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/O4J6KeloAAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/O4J6KeloAAAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/xOvvrFGbzEY/m/1tcS-NHGDwAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/xOvvrFGbzEY/m/1tcS-NHGDwAJ</guid>
         <pubDate>Tue, 06 Jul 2021 15:04:58 UTC</pubDate>
-      </item><item>
-        <title>OSM Fonó: Berekfürdőn fotónézés, térképjegyzet átnézés, új felvitel (online): Ma este (is), de lesz még a héten: https://wiki.osm.org/wiki/Hungary/2021-07-06 -Thomas Nagy</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/xOvvrFGbzEY/m/nTN-ey7EDwAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/xOvvrFGbzEY/m/nTN-ey7EDwAJ</guid>
-        <pubDate>Tue, 06 Jul 2021 14:16:37 UTC</pubDate>
       </item>
   </channel>
 </rss>
