@@ -3,6 +3,16 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Mapillary (képek geotaggelése és irányba állítása): Az utca része a telek, a telken van a ház, a házon van a házszám - lefotózta a házszámot, és ezáltal gyarapítja az utcaképet! Hol itt a probléma? Amúgy algoritmikusan le tudták volna implementálni jobban is a sorozatkép-összerakást vagy akár címkézési lehetőséget biztosítani erre. Az oldalirányú -Thomas Nagy</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/x_GGkXZ1AAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/x_GGkXZ1AAAJ</guid>
+        <pubDate>Mon, 12 Jul 2021 22:52:04 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Horgászbolt nevű horgászbolt és társai?: On Mon, Jul 12, 2021 at 10:24 PM Feri Veres wrote: &gt; Ha a bolton az van kiírva, hogy &quot;Horgászbolt&quot; akkor sem írjuk rá ezt a &gt; name=* értékbe? Itt elegyedtem beszélgetésbe erről: &gt; &gt; https://www.openstreetmap.org/changeset/107856981 Eh, nem tudom ez ki a manó ;-) de már -grin</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/SwXftYAbzVQ/m/o2St1OV0AAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/SwXftYAbzVQ/m/o2St1OV0AAAJ</guid>
+        <pubDate>Mon, 12 Jul 2021 22:41:42 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Mapillary (képek geotaggelése és irányba állítása): Mapillary-nál? &gt; kissk Erre tökéletes a Mapillary meg a KartaView. Nagyon érdekes helyeket lehet nézegetni így, hogy csak ott a helyen van pár kép. Pl Japánban, Kínában nagy hegyeken nézegettem ilyeneket. De nézném a repteret is. Küldd el valami fájlmegosztással, feltöltöm mapillary_tools-sal -Feri Veres</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/nAnNOuluAAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/nAnNOuluAAAJ</guid>
@@ -242,16 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/HOfIJF8JEAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/HOfIJF8JEAAJ</guid>
         <pubDate>Wed, 07 Jul 2021 11:24:32 UTC</pubDate>
-      </item><item>
-        <title>Földúlt a földút (Was: Hibás adattörlés): On Wed, 7 Jul 2021, Feri Veres wrote: &gt; Megnéztem ID-ben, &quot;gravel&quot; mint választható opció van, nem túl magyaros, de &gt; észrevehető. És valóban a kommentbe is azt írta, hogy &quot;utca típusainak &gt; rendezése&quot;, szóval valahogy direkt a felülettel foglalkozott. Rákérdeztem Errol jut eszembe: Lattam -Kiss Gabor</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/DQHuUNkAEAAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/DQHuUNkAEAAJ</guid>
-        <pubDate>Wed, 07 Jul 2021 08:48:21 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Hibás adattörlés: Megnéztem ID-ben, &quot;gravel&quot; mint választható opció van, nem túl magyaros, de észrevehető. És valóban a kommentbe is azt írta, hogy &quot;utca típusainak rendezése&quot;, szóval valahogy direkt a felülettel foglalkozott. Rákérdeztem changeset.ben, hátha az jobban átmegy. https://www.openstreetmap.org/chan -Feri Veres</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/Fs7WYX8AEAAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/Fs7WYX8AEAAJ</guid>
-        <pubDate>Wed, 07 Jul 2021 08:41:55 UTC</pubDate>
       </item>
   </channel>
 </rss>
