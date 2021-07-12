@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Öreghegy, Balatonalmádi) / * 2021 June 6 06:20 vasony Created: Itt tényleg van utca? / * 2021 July 11 15:59 vasony Updated: van, lépcső es ösvény / * 2021 July 12 20:29 vasony Resolved: javítva</title>
+        <link>https://www.openstreetmap.org/note/2700855#c5882503</link>
+        <guid>https://www.openstreetmap.org/note/2700855#c5882503</guid>
+        <pubDate>Mon, 12 Jul 2021 20:29:44 +0000</pubDate>
+      </item><item>
         <title>new note (near Budajenő) / * 2021 July 12 17:08 grin Created: compacted</title>
         <link>https://www.openstreetmap.org/note/2752296#c5882084</link>
         <guid>https://www.openstreetmap.org/note/2752296#c5882084</guid>
@@ -156,11 +161,6 @@
         <title>closed note (near Berekfürdő) / * 2021 July 9 19:08 ottwiz Resolved: Fent van OSM-en már</title>
         <link>https://www.openstreetmap.org/note/2747998#c5873496</link>
         <guid>https://www.openstreetmap.org/note/2747998#c5873496</guid>
-        <pubDate>Fri, 09 Jul 2021 19:08:36 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Berekfürdő) / * 2021 July 9 19:08 ottwiz Resolved: Done</title>
-        <link>https://www.openstreetmap.org/note/2747993#c5873495</link>
-        <guid>https://www.openstreetmap.org/note/2747993#c5873495</guid>
         <pubDate>Fri, 09 Jul 2021 19:08:36 +0000</pubDate>
       </item>
   </channel>
