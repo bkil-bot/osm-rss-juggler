@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Mapillary (képek geotaggelése és irányba állítása): Nos ... megpróbáltam. Nem tűnt ördögtől valónak, miután megnéztem a vidókat, illetve amiket még találtam. JOSM-ban sikerült a képek fejlécébe beírni a megfelelő koordinátákat. A videó alapján úgy gondoltam, a Mapillary-ba fel kell tölteni, majd a légifotó alapján egy körülbeli szög megadásával -Károly Kiss</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/O4J6KeloAAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/tmDegvEnIuc/m/O4J6KeloAAAJ</guid>
+        <pubDate>Mon, 12 Jul 2021 19:02:02 UTC</pubDate>
+      </item><item>
         <title>Re: [osm-hu] Földúlt a földút: Talán valamelyik ügyesebb programozó meg tudja csinálni, hogy kigyűjti a surface smoothness párosításokat az OSM-ből, és keres hozzá Mapillary képeket. És ennek jogilag sincs akadálya ha jól sejtem. T Szem a következőt írta (2021. július 8., csütörtök, 14:31:24 UTC+2): &gt; Hűha! Lehet, hogy ezzel -turistautsz...@gmail.com</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/wvLJNZF_AgAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/wvLJNZF_AgAJ</guid>
@@ -63,7 +68,7 @@
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/37ccj0yqGfM/m/_GrIWWhSEAAJ</guid>
         <pubDate>Thu, 08 Jul 2021 09:42:57 UTC</pubDate>
       </item><item>
-        <title>Re: [osm-hu] Földúlt a földút: Rendben, vettem. kissk Szem a következőt írta (2021. július 8., csütörtök, 9:43:51 UTC+2): &gt; Nem, nem, nem tök jó, hanem ROSSZ! (legalábbis smoothness szempontjából) &gt; Pont ezt írtam, hogy sokan nem értik, hogy nincs excellent földút, köves &gt; út stb, mert ezek ABSZOLÚT értékek. &gt; Nézzétek meg -Károly Kiss</title>
+        <title>Re: [osm-hu] Földúlt a földút: Rendben, vettem. kissk Szem a következőt írta (2021. július 8., csütörtök, 9:43:51 UTC+2): &gt; Nem, nem, nem tök jó, hanem ROSSZ! (legalábbis smoothness szempontjából) &gt; Pont ezt írtam, hogy sokan nem értik, hogy nincs excellent földút, köves &gt; út stb, mert ezek ABSZOLÚT értékek. &gt; Nézzétek meg -kiss.ka...@gmail.com</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/t937NyVSEAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/t937NyVSEAAJ</guid>
         <pubDate>Thu, 08 Jul 2021 09:38:08 UTC</pubDate>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/xOvvrFGbzEY/m/nTN-ey7EDwAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/xOvvrFGbzEY/m/nTN-ey7EDwAJ</guid>
         <pubDate>Tue, 06 Jul 2021 14:16:37 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Hibás adattörlés: Üdv, Az érintett szakaszok: https://www.openstreetmap.org/way/700720321 https://www.openstreetmap.org/way/61834741 Amúgy az aszfaltos szakaszokon a burkolat megnevezés nem törölte ki. Szem 2021.07.06. 15:38 keltezéssel, Feri Veres írta: 2021. 07. 06. 15:15 keltezéssel, Péter Báthory írta: Feri -Szem</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/_B8Tsq7DDwAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/_B8Tsq7DDwAJ</guid>
-        <pubDate>Tue, 06 Jul 2021 14:07:28 UTC</pubDate>
       </item>
   </channel>
 </rss>
