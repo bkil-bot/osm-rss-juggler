@@ -3,6 +3,11 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
+        <title>Re: [osm-hu] Via ferrata: megnéztem az osztrákokat, csak értenek hozzá a SAC scale-t használják, illetve a névből lehet következtetni, hogy ha valamilyen steig.. akkor drótos lesz https://wiki.openstreetmap.org/wiki/Key:sac_scale On Tue, Jul 13, 2021 at 10:06 AM ITineris OSM wrote: &gt; Sziasztok! &gt; -izsolt</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/oCHrBYDDFZ8/m/OtVbq_OUAAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/oCHrBYDDFZ8/m/OtVbq_OUAAAJ</guid>
+        <pubDate>Tue, 13 Jul 2021 08:29:06 UTC</pubDate>
+      </item><item>
         <title>Via ferrata: Sziasztok! Csesznek körül mértem fel és raktam rendbe via ferrata utakat, de van egy kis gondom. Tudom, hogy nem a renderelőnek térképezünk, de a jelentős információvesztés miatt érdemesnek tartom a kérdés felvetését. Korábban ösvényként voltak felvéve ezek, surface=dirt, smoothness=horrible -ITineris OSM</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/oCHrBYDDFZ8/m/WDkt6r2TAAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/oCHrBYDDFZ8/m/WDkt6r2TAAAJ</guid>
@@ -247,11 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/xOvvrFGbzEY/m/e44hl3oMEAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/xOvvrFGbzEY/m/e44hl3oMEAAJ</guid>
         <pubDate>Wed, 07 Jul 2021 12:21:29 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Földúlt a földút (Was: Hibás adattörlés): Mert az iD-ben ez az elég béna magyar fordítás van a highway=track-re. Sőt, erdészeti útból is van aszfaltozott, tehát ebből az irányból sem stimmel a dolog. Maga az OSM Wiki nem írja elő ilyen keményen a lakott területen kívüliséget. Tipikus példa, amikor a faluban az (egyetlen) főutcára -ITineris OSM</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/CiDor4kLEAAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/CiDor4kLEAAJ</guid>
-        <pubDate>Wed, 07 Jul 2021 12:04:14 UTC</pubDate>
       </item>
   </channel>
 </rss>
