@@ -3,7 +3,17 @@
   <channel>
     <title>Mailing list (via bkil-bot)</title>
       <item>
-        <title>Nem létező kerékpárút: Úgy meglepődtem! Kicsit pontosítok a településemen, amikor láttam, hogy a két éve épített kerékpártutat (1., 2.) valaki meghosszabbította Dévaványáig. Ráadásul paving_stones burkolattal. Sajnos ez egész biztosan nem létezik. Dévaványa belterületén indul a kerékpárút. De jó lenne, ha össze is -Károly Kiss</title>
+        <title>Re: [osm-hu] Re: Nem létező kerékpárút: Valahol már olvastam róla, de már nem tudom, hol. Ha olyan kerékpárút van, amit leválasztottak az úttestből, akkor az hogyan jelölik? Highway = cycleway, segregated = yes? E nem létező kerékpárutat is így jelölték, de így sem létezik. Van-e egyéb elvárás? Pl. az úttest mellett közvetlenül, annak -grin</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/-a_31WW8jsc/m/uybmq9z9BAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/-a_31WW8jsc/m/uybmq9z9BAAJ</guid>
+        <pubDate>Sun, 18 Jul 2021 17:55:58 UTC</pubDate>
+      </item><item>
+        <title>Re: Nem létező kerékpárút: Hogy valami értelme is legyen ennek a megjegyzésnek, lenne egy kérdésem. Valahol már olvastam róla, de már nem tudom, hol. Ha olyan kerékpárút van, amit leválasztottak az úttestből, akkor az hogyan jelölik? Highway = cycleway, segregated = yes? E nem létező kerékpárutat is így jelölték, de így -Károly Kiss</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/-a_31WW8jsc/m/CsbHpfj7BAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/-a_31WW8jsc/m/CsbHpfj7BAAJ</guid>
+        <pubDate>Sun, 18 Jul 2021 17:21:19 UTC</pubDate>
+      </item><item>
+        <title>Nem létező kerékpárút: Úgy meglepődtem! Kicsit pontosítok a településemen, amikor láttam, hogy a két éve épített kerékpártutat (1., 2.) valaki meghosszabbította Dévaványáig. Ráadásul paving_stones burkolattal. Sajnos ez egész biztosan nem létezik. Dévaványa belterületén indul a kerékpárút. De jó lenne, ha össze is -kiss.ka...@gmail.com</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/-a_31WW8jsc/m/VjDYOjPzBAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/-a_31WW8jsc/m/VjDYOjPzBAAJ</guid>
         <pubDate>Sun, 18 Jul 2021 14:40:35 UTC</pubDate>
@@ -242,16 +252,6 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/BKk_MvcTEAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/BKk_MvcTEAAJ</guid>
         <pubDate>Wed, 07 Jul 2021 14:38:40 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Földúlt a földút (Was: Hibás adattörlés): Ez egy régóta fennálló probléma, (az én személyes vélemény alapján) sajnos a szerkesztők egy jelentős többsége se nem olvas levlistát, se wikit, csak úgy dolgozik, hogy az jól nézzen ki az általa használt térképen (akár az is lehet, hogy a topicot kiváltó adattörlés is ezért történt, mert ez -Szem</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/afIlWBYTEAAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/afIlWBYTEAAJ</guid>
-        <pubDate>Wed, 07 Jul 2021 14:22:34 UTC</pubDate>
-      </item><item>
-        <title>Re: [osm-hu] Földúlt a földút (Was: Hibás adattörlés): lakóhelyeket (permanent residence) említi, hogy az oda vezető utak nem track-ek, viszont a szerintem sem a nyaralók, sem a présházak nem számítanak állandó lakóhelynek. Ellenben a Wiki azt konkrétan említi, hogy pl. a gyümölcsösökbe vezető utakra helyes a &quot;track&quot; használata. Itt jön a neheze: -Gergely Matefi</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/75pQgnUREAAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/75pQgnUREAAJ</guid>
-        <pubDate>Wed, 07 Jul 2021 13:52:45 UTC</pubDate>
       </item>
   </channel>
 </rss>
