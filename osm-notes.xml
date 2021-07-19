@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Borsod, Edelény) / * 2021 July 19 20:24 bkil Resolved: Látszólag már fent van a térképen.</title>
+        <link>https://www.openstreetmap.org/note/2761854#c5901776</link>
+        <guid>https://www.openstreetmap.org/note/2761854#c5901776</guid>
+        <pubDate>Mon, 19 Jul 2021 20:24:14 +0000</pubDate>
+      </item><item>
         <title>new note (near Borsod, Edelény) / * 2021 July 19 19:34 Kis Sándor Created: Tanuszoda</title>
         <link>https://www.openstreetmap.org/note/2761854#c5901685</link>
         <guid>https://www.openstreetmap.org/note/2761854#c5901685</guid>
@@ -272,11 +277,6 @@
         <link>https://www.openstreetmap.org/note/2597771#c5897953</link>
         <guid>https://www.openstreetmap.org/note/2597771#c5897953</guid>
         <pubDate>Sun, 18 Jul 2021 16:09:11 +0000</pubDate>
-      </item><item>
-        <title>reactivated note (near Lupasziget, Budakalász) / * 2021 July 18 16:07 mtoth Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/2597771#c5897948</link>
-        <guid>https://www.openstreetmap.org/note/2597771#c5897948</guid>
-        <pubDate>Sun, 18 Jul 2021 16:07:43 +0000</pubDate>
       </item>
   </channel>
 </rss>
