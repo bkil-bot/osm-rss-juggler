@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Máriafalva, Gyula) / * 2021 July 19 16:18 ottwiz Resolved: Amúgy akartam azt használni, de nem akaródzott hálózatra kapcsolni, valszeg akkor nem volt jó. De am megvan. Corner_Etterem az SSID</title>
+        <link>https://www.openstreetmap.org/note/2758460#c5901137</link>
+        <guid>https://www.openstreetmap.org/note/2758460#c5901137</guid>
+        <pubDate>Mon, 19 Jul 2021 16:18:55 +0000</pubDate>
+      </item><item>
+        <title>new note (near Házhely, Kapuvár) / * 2021 July 19 15:59 vasony-qa Created: Mi szerepel az utcatáblán: Gyümölcs utca vagy Gyümölcsös utca?</title>
+        <link>https://www.openstreetmap.org/note/2761605#c5901094</link>
+        <guid>https://www.openstreetmap.org/note/2761605#c5901094</guid>
+        <pubDate>Mon, 19 Jul 2021 15:59:38 +0000</pubDate>
+      </item><item>
         <title>new comment (near Máriafalva, Gyula) / * 2021 July 19 12:22 bkil Updated: A jelszót nem muszáj feltölteni, de azt viszont hasznos, hogy van-e ott wifi, az ingyenes-e a publikumnak és mi annak a neve (függetlenül az ingyenességtől - ellenőrzési szempontból)</title>
         <link>https://www.openstreetmap.org/note/2758460#c5900419</link>
         <guid>https://www.openstreetmap.org/note/2758460#c5900419</guid>
@@ -262,11 +272,6 @@
         <link>https://www.openstreetmap.org/note/2759313#c5896806</link>
         <guid>https://www.openstreetmap.org/note/2759313#c5896806</guid>
         <pubDate>Sun, 18 Jul 2021 09:51:53 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Lipótváros, 5th district) / * 2021 July 18 09:51 ottwiz Updated: As far as i&amp;#39;m concerned, Széchenyi Lánchíd is closed because it&amp;#39;s getting renovated. There are some articles about it. / https://hungarytoday.hu/chain-bridge-renovation-closed-pedestrians-cars/</title>
-        <link>https://www.openstreetmap.org/note/2759313#c5896804</link>
-        <guid>https://www.openstreetmap.org/note/2759313#c5896804</guid>
-        <pubDate>Sun, 18 Jul 2021 09:51:15 +0000</pubDate>
       </item>
   </channel>
 </rss>
