@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Szentgál) / * 2021 July 21 16:06 GBAB Created: barrier=swing_gate</title>
+        <link>https://www.openstreetmap.org/note/2764359#c5907183</link>
+        <guid>https://www.openstreetmap.org/note/2764359#c5907183</guid>
+        <pubDate>Wed, 21 Jul 2021 16:06:28 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Fürdőtelep, Zalakaros) / * 2021 July 21 15:23 maxa67 Resolved: </title>
+        <link>https://www.openstreetmap.org/note/2764285#c5907035</link>
+        <guid>https://www.openstreetmap.org/note/2764285#c5907035</guid>
+        <pubDate>Wed, 21 Jul 2021 15:23:26 +0000</pubDate>
+      </item><item>
+        <title>new note (near Fürdőtelep, Zalakaros) / * 2021 July 21 15:23 maxa67 Created: existiert nicht mehr, dauerhaft geschlossen</title>
+        <link>https://www.openstreetmap.org/note/2764285#c5907034</link>
+        <guid>https://www.openstreetmap.org/note/2764285#c5907034</guid>
+        <pubDate>Wed, 21 Jul 2021 15:23:20 +0000</pubDate>
+      </item><item>
         <title>closed note (near Meződ) / * 2021 July 18 05:24 kogutowicz-mano Created: Ez volna itt a Meződi Csárda néven ismert objektum, amiről tegnap beszélt egy ismerősöm, és amit már a Csendőrségi Lapokban is megemlítettek 106 éve? :-) (VIII. évf. 44. szám, 1914. november 1.) / Ellenőrizendő. / * 2021 July 21 14:16 kogutowicz-mano Resolved: Stimmel.</title>
         <link>https://www.openstreetmap.org/note/2759259#c5906743</link>
         <guid>https://www.openstreetmap.org/note/2759259#c5906743</guid>
@@ -77,16 +92,6 @@
         <link>https://www.openstreetmap.org/note/2761122#c5900190</link>
         <guid>https://www.openstreetmap.org/note/2761122#c5900190</guid>
         <pubDate>Mon, 19 Jul 2021 10:37:46 +0000</pubDate>
-      </item><item>
-        <title>new note (near Jósaváros, Nyíregyháza) / * 2021 July 19 08:33 vasony-qa Created: Kiss Lajos utca 34 dupla, két épületben is szerepel</title>
-        <link>https://www.openstreetmap.org/note/2760980#c5899826</link>
-        <guid>https://www.openstreetmap.org/note/2760980#c5899826</guid>
-        <pubDate>Mon, 19 Jul 2021 08:33:17 +0000</pubDate>
-      </item><item>
-        <title>new note (near Ballagitó, Klebelsbergtelep, Szeged) / * 2021 July 19 08:30 vasony-qa Created: Melyik közterület a Palics köz?</title>
-        <link>https://www.openstreetmap.org/note/2760971#c5899815</link>
-        <guid>https://www.openstreetmap.org/note/2760971#c5899815</guid>
-        <pubDate>Mon, 19 Jul 2021 08:30:17 +0000</pubDate>
       </item>
   </channel>
 </rss>
