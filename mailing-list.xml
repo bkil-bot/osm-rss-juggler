@@ -8,11 +8,6 @@
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/5XBpAgWDuxw/m/_oa7AduqAAAJ</guid>
         <pubDate>Wed, 21 Jul 2021 05:12:33 UTC</pubDate>
       </item><item>
-        <title>Kezdő kérdések - terület és POI: A kérdésem az lenne, hogy mikor kell, kell-e egyáltalán POI-t is hozzáadni olyan térképelemhez, ami területtel is jelölhető. Pl. vízművet, szennyvíztisztítót többször láttam már térképen, előbbit már én is rajzoltam egyszer. Berajzolom területtel, name = Vízmű (persze van még emellett néhány -Károly Kiss</title>
-        <link>https://groups.google.com/g/openstreetmap-hungary/c/5XBpAgWDuxw/m/BFuc3VSVAAAJ</link>
-        <guid>https://groups.google.com/g/openstreetmap-hungary/c/5XBpAgWDuxw/m/BFuc3VSVAAAJ</guid>
-        <pubDate>Tue, 20 Jul 2021 22:38:07 UTC</pubDate>
-      </item><item>
         <title>Re: [osm-hu] Re: személy telefonszámok térképezése?: Now i'm going to give in my 5 cents, azaz &quot;most beadom az 5 centesem / elmondom a magamét is&quot;: Én amikor térképezek, én csak olyan adatot szoktam felvenni az internetre, amit ÉN az utcán látok, és az egy hasznos POI (pl. üzlet, ahol eladnak vmit) https://www.openstreetmap.org/way/484816619 a -Attila Kun</title>
         <link>https://groups.google.com/g/openstreetmap-hungary/c/Mmt3xSfwRJ4/m/nxWvEemJAAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/Mmt3xSfwRJ4/m/nxWvEemJAAAJ</guid>
@@ -252,6 +247,11 @@
         <link>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/n41MNglYEAAJ</link>
         <guid>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/n41MNglYEAAJ</guid>
         <pubDate>Thu, 08 Jul 2021 11:26:04 UTC</pubDate>
+      </item><item>
+        <title>Re: [osm-hu] Földúlt a földút: Ilyen éppen lehet pl. így highway=track + surface=asphalt + smoothness=excellent :))) Az egészből talán a táblázat a lényeg. &gt;&gt; Nézzétek meg ezt: https://szembiketeam.imgbb.com/ (remélem nem rontottan el sehol :) &gt; A wiki próbálja leírni a smoothness értékek szubjektív feltételrendszerét: &gt; -Szem</title>
+        <link>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/l368LcVWEAAJ</link>
+        <guid>https://groups.google.com/g/openstreetmap-hungary/c/VEFFs-UUu4Q/m/l368LcVWEAAJ</guid>
+        <pubDate>Thu, 08 Jul 2021 11:02:53 UTC</pubDate>
       </item>
   </channel>
 </rss>
