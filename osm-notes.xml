@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Palotanegyed, 8th district) / * 2021 July 30 16:19 Created: 大学</title>
+        <link>https://www.openstreetmap.org/note/2778229#c5936156</link>
+        <guid>https://www.openstreetmap.org/note/2778229#c5936156</guid>
+        <pubDate>Fri, 30 Jul 2021 16:19:19 +0000</pubDate>
+      </item><item>
         <title>new note (near Lipótmező, 2nd district) / * 2021 July 30 13:59 sugarbotond Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/611647233 via StreetComplete 33.1: / őrtorony</title>
         <link>https://www.openstreetmap.org/note/2778025#c5935748</link>
         <guid>https://www.openstreetmap.org/note/2778025#c5935748</guid>
@@ -182,16 +187,6 @@
         <link>https://www.openstreetmap.org/note/2772138#c5924951</link>
         <guid>https://www.openstreetmap.org/note/2772138#c5924951</guid>
         <pubDate>Tue, 27 Jul 2021 05:21:43 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Balatonőszöd) / * 2021 April 6 11:53 vasony-qa Created: Vagy a cím rossz, vagy hiányzik a térképről a Szabadság tér / * 2021 July 26 23:44 urbalazs Resolved: A Szabadság tér 1. házszám szépen ki van táblázva, de maga a Szabadság tér egyáltalán nincs. Sőt, elvileg kellene lennie egy Szabadság tér 2-nek is, de azt nem találtam. A nyugatra lévő utca egyértelműen Szabadság utca, a 7-es főútnak pedig nincs neve ezen a szakaszon. A településrendezési terven van Szabadság tér, de a helyszínen az inkább parkoló mintsem elnevezett utca, és tábla se jelzi.</title>
-        <link>https://www.openstreetmap.org/note/2611107#c5924698</link>
-        <guid>https://www.openstreetmap.org/note/2611107#c5924698</guid>
-        <pubDate>Mon, 26 Jul 2021 23:44:37 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Balatonőszöd) / * 2020 July 8 05:28 vasony Created: Berek köz? / * 2021 July 26 23:40 urbalazs Resolved: Nagy itt a káosz! A helyszínen Dűlő utca van kitáblázva, de a helyik szerint Dűlő köz, a településrendezési terven Bereg köz (G-vel), a https://balatonoszod.hu/images/telepulesrendezesi/5_2018_(V30)_onkormanyzati_rendelet.pdf 1. mellékletében pedig Berek Köz (K-val). Most átírtam Berek közre, mert ez tűnik logikusnak, mivel a Dűlő köz az észak-nyugatra lévő párhuzamos utca, és ahhoz házszám is tartozik.</title>
-        <link>https://www.openstreetmap.org/note/2257279#c5924693</link>
-        <guid>https://www.openstreetmap.org/note/2257279#c5924693</guid>
-        <pubDate>Mon, 26 Jul 2021 23:40:19 +0000</pubDate>
       </item>
   </channel>
 </rss>
