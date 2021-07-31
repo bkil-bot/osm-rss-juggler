@@ -2,11 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      <item>
-        <title>Hungary/20210809: Santiago Buffet -Bkil</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20210809&amp;diff=2181309&amp;oldid=2181220</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20210809&amp;diff=2181309</guid>
-        <pubDate>Fri, 30 Jul 2021 16:53:03 GMT</pubDate>
-      </item>
+      
   </channel>
 </rss>
