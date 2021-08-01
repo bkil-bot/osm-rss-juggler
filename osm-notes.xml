@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Zugliget, 12th district) / * 2021 August 1 10:03 vasony Created: Disznófő út még létezik, ez van kiírva?</title>
+        <link>https://www.openstreetmap.org/note/2780337#c5940901</link>
+        <guid>https://www.openstreetmap.org/note/2780337#c5940901</guid>
+        <pubDate>Sun, 01 Aug 2021 10:03:46 +0000</pubDate>
+      </item><item>
+        <title>new note (near Széchenyihegy, 12th district) / * 2021 August 1 09:57 vasony Created: Gálszécs út még létezik, van tábla? Vagy ez csak egy szervizút?</title>
+        <link>https://www.openstreetmap.org/note/2780329#c5940881</link>
+        <guid>https://www.openstreetmap.org/note/2780329#c5940881</guid>
+        <pubDate>Sun, 01 Aug 2021 09:57:42 +0000</pubDate>
+      </item><item>
         <title>closed note (near Karikavölgy, Balatonföldvár) / * 2021 July 31 15:35 utvonalfelmeresek Created: casa suzanna / * 2021 August 1 05:56 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/108962477</title>
         <link>https://www.openstreetmap.org/note/2779512#c5940386</link>
         <guid>https://www.openstreetmap.org/note/2779512#c5940386</guid>
@@ -182,31 +192,6 @@
         <link>https://www.openstreetmap.org/note/2753045#c5933808</link>
         <guid>https://www.openstreetmap.org/note/2753045#c5933808</guid>
         <pubDate>Thu, 29 Jul 2021 20:26:44 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Fővég, Veresegyház) / * 2021 May 11 05:27 Ádám Weisz Created: &amp;quot;Elektromos E-on töltő.&amp;quot; / POI has no name / POI types: amenity-charging_station / OSM data version: 2021-02-25T13:11:37Z / #mapsme / * 2021 July 29 19:52 kempelen Updated: Szia! Ezeknek az elektromos töltőknek a helye pontos? Mapillaryn nézve nincs ott parkolóhely. De majd járok arra és pontosíthatom ha szükséges.</title>
-        <link>https://www.openstreetmap.org/note/2664067#c5933737</link>
-        <guid>https://www.openstreetmap.org/note/2664067#c5933737</guid>
-        <pubDate>Thu, 29 Jul 2021 19:52:32 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Csonkás, Veresegyház) / * 2021 March 25 13:08 vasony-qa Created: Szent Erzsébet utca vagy körút? / * 2021 July 29 19:42 kempelen Resolved: Köszi a Q/A-t. A táblák szerint körút, javítottam. Majd rakok fel mapillary-t is.</title>
-        <link>https://www.openstreetmap.org/note/2593942#c5933718</link>
-        <guid>https://www.openstreetmap.org/note/2593942#c5933718</guid>
-        <pubDate>Thu, 29 Jul 2021 19:42:45 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Csonkás, Veresegyház) / * 2020 July 15 18:33 vasony Created: Lovász tér van itt valahol? / * 2020 October 17 19:55 ITineris Updated: Igen, az a kis park az. / * 2020 October 18 05:31 vasony Updated: Fel tudod rajzolni? / Kellene itt lennie egy étteremnek is / * 2020 October 18 07:48 ITineris Updated: Az éttermet felvittem. / A parkon át ki lehet jutni gyalog az Előd vezér utcára, de ezt pontosan fel kellene mérni. Van tavacska is, kedvelt esküvői helyszín. / * 2021 July 29 19:39 kempelen Resolved: Sziasztok! Köszi a Q/A-t! Berajzoltam, már az étterem parkolójának elején és ez a tábla szerepel. Majd lesz mapillary kép is ha feldolgoztam. Meg később pontosíthatom, de egy lakos is azt mondta &amp;quot;ez az egész itt&amp;quot; a Lovász tér, mutatva a parkoló környékére. ;-)</title>
-        <link>https://www.openstreetmap.org/note/2267059#c5933700</link>
-        <guid>https://www.openstreetmap.org/note/2267059#c5933700</guid>
-        <pubDate>Thu, 29 Jul 2021 19:39:58 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Őrhalmiszőlők, Székesfehérvár) / * 2021 July 29 19:03 kogutowicz-mano Resolved: Kész</title>
-        <link>https://www.openstreetmap.org/note/2775969#c5933598</link>
-        <guid>https://www.openstreetmap.org/note/2775969#c5933598</guid>
-        <pubDate>Thu, 29 Jul 2021 19:03:27 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Ivacsok, Veresegyház) / * 2021 July 29 13:54 ITineris Resolved: Megcsináltam mindent.</title>
-        <link>https://www.openstreetmap.org/note/2529108#c5932599</link>
-        <guid>https://www.openstreetmap.org/note/2529108#c5932599</guid>
-        <pubDate>Thu, 29 Jul 2021 13:54:26 +0000</pubDate>
       </item>
   </channel>
 </rss>
