@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Budafok, 22nd district) / * 2021 August 5 14:44 vtibi Resolved: felvettem a javasolt paraméterekkel, le van csavarozva, így valószínű fix helye van</title>
+        <link>https://www.openstreetmap.org/note/2718453#c5956127</link>
+        <guid>https://www.openstreetmap.org/note/2718453#c5956127</guid>
+        <pubDate>Thu, 05 Aug 2021 14:44:28 +0000</pubDate>
+      </item><item>
         <title>new comment (near Budafok, 22nd district) / * 2021 June 18 14:31 bkil Created: Van errefelé párakapu? https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dmist_spraying_cooler / * 2021 July 31 21:59 urbalazs Updated: Van párakapu, de nem üzemel. A Kossuth Lajos utca augusztus végéig le van zárva gázvezetékcsere miatt, a Mária Terézia utcára van terelve minden forgalom.. Nyár végé pedig beszedik, gondolom. Mi legyen vele? Én nem jelölném. / * 2021 July 31 22:33 bkil Updated: Attól függ. Az utóbbi években is itt szerelték fel? Számítható, hogy a rekonstrukció miatt esetleg máshol szerelik fel legközelebb? Lehet rátenni olyat, hogy seasonal=yes, illetve opening_hours=Jun-Aug / * 2021 August 5 13:12 vtibi Updated: Van, gps alapján pontosítva</title>
         <link>https://www.openstreetmap.org/note/2718453#c5955837</link>
         <guid>https://www.openstreetmap.org/note/2718453#c5955837</guid>
@@ -247,31 +252,6 @@
         <link>https://www.openstreetmap.org/note/2784148#c5948400</link>
         <guid>https://www.openstreetmap.org/note/2784148#c5948400</guid>
         <pubDate>Tue, 03 Aug 2021 08:15:16 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Karikavölgy, Balatonföldvár) / * 2021 July 31 16:46 utvonalfelmeresek Created: ivócsap / via StreetComplete 33.1 / Attached photo(s): / https://westnordost.de/p/52106.jpg / * 2021 August 3 08:04 utvonalfelmeresek Resolved: Pontosítva</title>
-        <link>https://www.openstreetmap.org/note/2779593#c5948371</link>
-        <guid>https://www.openstreetmap.org/note/2779593#c5948371</guid>
-        <pubDate>Tue, 03 Aug 2021 08:04:49 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Karikavölgy, Balatonföldvár) / * 2021 July 31 15:44 utvonalfelmeresek Created: pad / * 2021 August 3 07:58 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/65957119</title>
-        <link>https://www.openstreetmap.org/note/2779532#c5948359</link>
-        <guid>https://www.openstreetmap.org/note/2779532#c5948359</guid>
-        <pubDate>Tue, 03 Aug 2021 07:58:52 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Karikavölgy, Balatonföldvár) / * 2021 August 2 07:58 utvonalfelmeresek Created: kuka / via StreetComplete 33.1 / * 2021 August 3 07:57 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/109051119</title>
-        <link>https://www.openstreetmap.org/note/2782276#c5948355</link>
-        <guid>https://www.openstreetmap.org/note/2782276#c5948355</guid>
-        <pubDate>Tue, 03 Aug 2021 07:57:48 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Karikavölgy, Balatonföldvár) / * 2021 August 2 07:57 utvonalfelmeresek Created: 11 / via StreetComplete 33.1 / Attached photo(s): / https://westnordost.de/p/52341.jpg / * 2021 August 3 07:57 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/109051119</title>
-        <link>https://www.openstreetmap.org/note/2782275#c5948354</link>
-        <guid>https://www.openstreetmap.org/note/2782275#c5948354</guid>
-        <pubDate>Tue, 03 Aug 2021 07:57:04 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Karikavölgy, Balatonföldvár) / * 2021 August 2 07:51 utvonalfelmeresek Created: durcy villa / via StreetComplete 33.1 / * 2021 August 3 07:56 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/109074909</title>
-        <link>https://www.openstreetmap.org/note/2782264#c5948353</link>
-        <guid>https://www.openstreetmap.org/note/2782264#c5948353</guid>
-        <pubDate>Tue, 03 Aug 2021 07:56:31 +0000</pubDate>
       </item>
   </channel>
 </rss>
