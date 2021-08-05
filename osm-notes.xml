@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Budafok, 22nd district) / * 2021 June 18 14:31 bkil Created: Van errefelé párakapu? https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dmist_spraying_cooler / * 2021 July 31 21:59 urbalazs Updated: Van párakapu, de nem üzemel. A Kossuth Lajos utca augusztus végéig le van zárva gázvezetékcsere miatt, a Mária Terézia utcára van terelve minden forgalom.. Nyár végé pedig beszedik, gondolom. Mi legyen vele? Én nem jelölném. / * 2021 July 31 22:33 bkil Updated: Attól függ. Az utóbbi években is itt szerelték fel? Számítható, hogy a rekonstrukció miatt esetleg máshol szerelik fel legközelebb? Lehet rátenni olyat, hogy seasonal=yes, illetve opening_hours=Jun-Aug / * 2021 August 5 13:12 vtibi Updated: Van, gps alapján pontosítva</title>
+        <link>https://www.openstreetmap.org/note/2718453#c5955837</link>
+        <guid>https://www.openstreetmap.org/note/2718453#c5955837</guid>
+        <pubDate>Thu, 05 Aug 2021 13:12:35 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Budafok, 22nd district) / * 2021 June 18 15:02 bkil Created: Van errefelé ivókút? https://budafokteteny.hu/hir/hosegriado-2021-06 / * 2021 August 5 13:04 vtibi Updated: van és működik</title>
+        <link>https://www.openstreetmap.org/note/2718501#c5955824</link>
+        <guid>https://www.openstreetmap.org/note/2718501#c5955824</guid>
+        <pubDate>Thu, 05 Aug 2021 13:04:08 +0000</pubDate>
+      </item><item>
         <title>new note (near Hársakalja, 2nd district) / * 2021 August 5 11:18 sugarbotond Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/749059786 via StreetComplete 33.2: / rendészeti központ</title>
         <link>https://www.openstreetmap.org/note/2787457#c5955476</link>
         <guid>https://www.openstreetmap.org/note/2787457#c5955476</guid>
@@ -287,26 +297,6 @@
         <link>https://www.openstreetmap.org/note/2783432#c5948313</link>
         <guid>https://www.openstreetmap.org/note/2783432#c5948313</guid>
         <pubDate>Tue, 03 Aug 2021 07:35:40 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Belváros, Vác) / * 2021 July 15 18:30 Created: Itt van egy fizetős WC. Az épület hátulja felől közelíthető meg. / * 2021 August 3 07:33 kempelen Resolved: Köszönjük, felvettem. / https://www.openstreetmap.org/node/8976443050</title>
-        <link>https://www.openstreetmap.org/note/2756282#c5948308</link>
-        <guid>https://www.openstreetmap.org/note/2756282#c5948308</guid>
-        <pubDate>Tue, 03 Aug 2021 07:33:19 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Belváros, Vác) / * 2021 July 15 18:24 Created: Csoda Gyros / https://www.csodagyros.hu/ / 2600 Vác, Galcsek utca 5. / +36 70 541 1393 / Hétfő - Szombat: 9.00 - 20:00 / Vasárnap: 10.00 - 20:00 / csodagyros@gmail.com / https://www.facebook.com/csodagyros / * 2021 August 3 07:32 kempelen Resolved: Köszönjük, felvettem: / https://www.openstreetmap.org/node/8976443051</title>
-        <link>https://www.openstreetmap.org/note/2756281#c5948306</link>
-        <guid>https://www.openstreetmap.org/note/2756281#c5948306</guid>
-        <pubDate>Tue, 03 Aug 2021 07:32:52 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Földváry Károly-lakótelep, Alsóváros, Vác) / * 2021 July 15 17:43 Created: számítástechnikai szaküzlet és szerviz / https://www.prcomp.hu/ / Damjanich János utca 1 / info@prcomp.hu / 06 30 / 430 62 88 / H-P: 09-18 Sz: 09-12 / * 2021 August 3 07:22 kempelen Resolved: Köszönjük a beküldést, felvettem: / https://www.openstreetmap.org/node/8976366311</title>
-        <link>https://www.openstreetmap.org/note/2756240#c5948285</link>
-        <guid>https://www.openstreetmap.org/note/2756240#c5948285</guid>
-        <pubDate>Tue, 03 Aug 2021 07:22:12 +0000</pubDate>
-      </item><item>
-        <title>new note (near Kápolna) / * 2021 August 2 21:51 gabro00 Created: Kápolnán és környékén (Kál és Feldebrő közt) rengeteg új kerékpárutat látni az országút mellett, műholdképeken elvétve látszanak.</title>
-        <link>https://www.openstreetmap.org/note/2783432#c5947134</link>
-        <guid>https://www.openstreetmap.org/note/2783432#c5947134</guid>
-        <pubDate>Mon, 02 Aug 2021 21:51:40 +0000</pubDate>
       </item>
   </channel>
 </rss>
