@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Tardos) / * 2021 August 8 19:10 Created: Siklóernyős starthely</title>
+        <link>https://www.openstreetmap.org/note/2792760#c5966791</link>
+        <guid>https://www.openstreetmap.org/note/2792760#c5966791</guid>
+        <pubDate>Sun, 08 Aug 2021 19:10:02 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Szentmihály, Szeged) / * 2020 December 5 16:40 gabro00 Created: A területhasználatott itt javítani kellene, akadályozza a szerkesztést / * 2020 December 5 17:12 gabro00 Updated: Javítás első része / https://www.openstreetmap.org/changeset/95341715 / * 2021 August 8 18:26 gabro00 Resolved: Majd egyszer megjavul.</title>
+        <link>https://www.openstreetmap.org/note/2453181#c5966610</link>
+        <guid>https://www.openstreetmap.org/note/2453181#c5966610</guid>
+        <pubDate>Sun, 08 Aug 2021 18:26:48 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Marostői kiskertek, Szeged) / * 2018 September 6 18:25 jlevente Created: Ez itt biztos egy forras? Gondolom nem sokan jartok erre, de ha megis, akkor meg tudnatok nezni? / (https://www.openstreetmap.org/node/3437116573#map=18/46.23797/20.20941&amp;amp;layers=N) / * 2018 September 8 13:38 gabro00 Updated: Berajzoltam pár utat, hogy könnyebben el lehessen jutni akár útvonaltervezővel is. / * 2021 August 8 18:25 gabro00 Resolved: Gémes/ásott kút maradványnak néz ki, átírtam.</title>
+        <link>https://www.openstreetmap.org/note/1517157#c5966606</link>
+        <guid>https://www.openstreetmap.org/note/1517157#c5966606</guid>
+        <pubDate>Sun, 08 Aug 2021 18:25:43 +0000</pubDate>
+      </item><item>
         <title>closed note (near Marostői kiskertek, Szeged) / * 2019 February 26 10:31 gabro00 Created: Itt fut közel 3km-en keresztül pár méterre egymástól két szinte azonos vonalvezetésű határ, a Szeged-Szőreg közigazgatási és Csongrád megyei 1/2 választókerületi. Nem lehetne ezeket összevonni? / * 2021 August 8 18:00 gabro00 Resolved: Összevontam, de van még teendő. Pl. valamelyik határvonal a Maros fosodorvonalban fut, mégis van egy párhuzamos vonal a határnak, ami kb. felesleges duplikáció és nehezíti a szerkesztést is. / https://www.openstreetmap.org/changeset/109357191</title>
         <link>https://www.openstreetmap.org/note/1692967#c5966539</link>
         <guid>https://www.openstreetmap.org/note/1692967#c5966539</guid>
@@ -292,16 +307,6 @@
         <link>https://www.openstreetmap.org/note/2789913#c5960354</link>
         <guid>https://www.openstreetmap.org/note/2789913#c5960354</guid>
         <pubDate>Fri, 06 Aug 2021 19:12:38 +0000</pubDate>
-      </item><item>
-        <title>new note (near Nagygomba, Marcali) / * 2021 August 6 18:43 munichbiker Created: Unable to answer &amp;quot;Does the bus stop Marcali, posta have a shelter?&amp;quot; for https://osm.org/node/3727782537 via StreetComplete 33.2: / Ez már nincs itt.</title>
-        <link>https://www.openstreetmap.org/note/2789914#c5960269</link>
-        <guid>https://www.openstreetmap.org/note/2789914#c5960269</guid>
-        <pubDate>Fri, 06 Aug 2021 18:43:39 +0000</pubDate>
-      </item><item>
-        <title>new note (near Nagygomba, Marcali) / * 2021 August 6 18:43 munichbiker Created: Unable to answer &amp;quot;What is the speed limit for Park utca here?&amp;quot; for https://osm.org/way/145337829 via StreetComplete 33.2: / Nem utca, a gyalogosoknak vmi út.</title>
-        <link>https://www.openstreetmap.org/note/2789913#c5960268</link>
-        <guid>https://www.openstreetmap.org/note/2789913#c5960268</guid>
-        <pubDate>Fri, 06 Aug 2021 18:43:39 +0000</pubDate>
       </item>
   </channel>
 </rss>
