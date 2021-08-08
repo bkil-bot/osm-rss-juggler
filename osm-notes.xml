@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Lipótváros, 5th district) / * 2021 May 3 13:19 grozsa11 Created: Ez az átkelő ide a kereszteződés közepébe nem is kellene vlsznüleg ,  hiszen a három zebra jelölve van külön... Vagy ez valami autós csomópont? / via StreetComplete 31.3 / * 2021 May 11 01:34 Kenyér Utolso Csoro Resolved:  / * 2021 May 11 01:34 Kenyér Utolso Csoro Reactivated:  / * 2021 May 11 08:00 grozsa11 Updated: ...elég sokat próbálok építeni az OSM-en és úgy érzem, hogy néha az nem egészen jól képeződik le, hogy egyrészt minden vonal (járdák külön megrajzolva) pontosan futnak (mikrotérképezés) és másrészről az útvonalak, főutak nyomvonala is próbál fölkerülni a térképre...  Aztán jövök a StreetComplete-tel és nem tudom, hogy most pl egy ilyen csomópont közepében mit kezdjek azzal a kérdéssel, hogy van-e lámpa a kereszteződésben a gyalogosoknak...  Hát a négy átkelő körben van, de akkor itt középen már nem kellene... Szóval kicsit úgy érzem, hogy a túl pontos fölrajzolásokat akkor azonban rettenetesen pontosan végig kellene javítgatni, hogy melyik vonalkapcsolati pont pontosan mit takar. / Na ezen már csak az nehezít, ha a kereszteződés két utcájába befutnak a járdák is külön fölrajzolva, másik két irányból meg &amp;quot;csak&amp;quot; az utak középvonala... és közben zebrák és egyebek jelezve... jelzendően... / * 2021 August 8 20:07 vasony Resolved: Valóban, ide már nem kell a zebra, csak a 3 külön csomópontra. Itt csak az autós lámpa van. / Attól hogy gyalogátkelőt teszünk a zebrához, még nem feltétlenül kell egy vonalnak áthaladni rajta, tehát a micromapping kimaradhat. / https://wiki.openstreetmap.org/wiki/File:Traffic_signals_1_1_pedestrian_separate.png</title>
+        <link>https://www.openstreetmap.org/note/2651109#c5966943</link>
+        <guid>https://www.openstreetmap.org/note/2651109#c5966943</guid>
+        <pubDate>Sun, 08 Aug 2021 20:07:11 +0000</pubDate>
+      </item><item>
         <title>new note (near Tardos) / * 2021 August 8 19:10 Created: Siklóernyős starthely</title>
         <link>https://www.openstreetmap.org/note/2792760#c5966791</link>
         <guid>https://www.openstreetmap.org/note/2792760#c5966791</guid>
@@ -302,11 +307,6 @@
         <link>https://www.openstreetmap.org/note/2789555#c5961171</link>
         <guid>https://www.openstreetmap.org/note/2789555#c5961171</guid>
         <pubDate>Sat, 07 Aug 2021 04:34:16 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Nagygomba, Marcali) / * 2021 August 6 19:12 munichbiker Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2789913#c5960354</link>
-        <guid>https://www.openstreetmap.org/note/2789913#c5960354</guid>
-        <pubDate>Fri, 06 Aug 2021 19:12:38 +0000</pubDate>
       </item>
   </channel>
 </rss>
