@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Rákospalota Öregfalu, Rákospalota, 15th district) / * 2021 August 9 07:31 ottwiz Updated: Az udvarát is még csak proposed:landuse-sal jelzem, mert még ugye nem lehet ott a gyerekeknek játszania, akik majd oda fognak járni.</title>
+        <link>https://www.openstreetmap.org/note/2793253#c5968025</link>
+        <guid>https://www.openstreetmap.org/note/2793253#c5968025</guid>
+        <pubDate>Mon, 09 Aug 2021 07:31:02 +0000</pubDate>
+      </item><item>
+        <title>new note (near Rákospalota Öregfalu, Rákospalota, 15th district) / * 2021 August 9 07:31 ottwiz Created: Az ovi még nincsen kész, így minden bejárata access=private lett. Majd ha teljesen kész az ovi (2021-09-15), akkor a Kismező utca felőli bejáratot access=* jelzéssel illene ellátni.</title>
+        <link>https://www.openstreetmap.org/note/2793253#c5968024</link>
+        <guid>https://www.openstreetmap.org/note/2793253#c5968024</guid>
+        <pubDate>Mon, 09 Aug 2021 07:31:02 +0000</pubDate>
+      </item><item>
         <title>closed note (near Erzsébetváros, 7th district) / * 2021 April 1 15:11 meskobalazs Created: Unable to answer &amp;quot;Is Euronet still here? (ATM)&amp;quot; for https://osm.org/node/5196842884 via StreetComplete 31.1: / A Spar épületén belül található. / * 2021 August 9 06:55 vasony Resolved: Helyére húztam</title>
         <link>https://www.openstreetmap.org/note/2603842#c5967948</link>
         <guid>https://www.openstreetmap.org/note/2603842#c5967948</guid>
@@ -317,11 +327,6 @@
         <link>https://www.openstreetmap.org/note/2791509#c5964347</link>
         <guid>https://www.openstreetmap.org/note/2791509#c5964347</guid>
         <pubDate>Sun, 08 Aug 2021 05:35:03 +0000</pubDate>
-      </item><item>
-        <title>new note (near Újvári, Gyula) / * 2021 August 8 05:11 sd_ciastko Created: Unable to answer &amp;quot;What is the house number of this building?&amp;quot; for https://osm.org/way/969817681 via StreetComplete 33.1: / I1 / T138</title>
-        <link>https://www.openstreetmap.org/note/2791499#c5964330</link>
-        <guid>https://www.openstreetmap.org/note/2791499#c5964330</guid>
-        <pubDate>Sun, 08 Aug 2021 05:11:34 +0000</pubDate>
       </item>
   </channel>
 </rss>
