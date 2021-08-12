@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Bakonygyepes, Ajka) / * 2021 August 12 11:13 Created: Az útkereszteződésben közlekedési lámpák kerültek kihelyezésre 2021.07. hó folyamán.</title>
+        <link>https://www.openstreetmap.org/note/2799260#c5980717</link>
+        <guid>https://www.openstreetmap.org/note/2799260#c5980717</guid>
+        <pubDate>Thu, 12 Aug 2021 11:13:35 +0000</pubDate>
+      </item><item>
+        <title>new note (near Fülöp Kecskefarm, Pomáz) / * 2021 August 12 10:49 toroki Created: Semmilyen rom nincs a megjelölt helyen. Kérem törölni.</title>
+        <link>https://www.openstreetmap.org/note/2799212#c5980549</link>
+        <guid>https://www.openstreetmap.org/note/2799212#c5980549</guid>
+        <pubDate>Thu, 12 Aug 2021 10:49:16 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Gellérthegy, 11th district) / * 2021 August 11 12:30 infeeeee Created: Unable to answer &amp;quot;How many levels does this building have?&amp;quot; for https://osm.org/way/252077025 via StreetComplete 33.2: / Lebontották / * 2021 August 12 10:30 infeeeee Resolved: </title>
+        <link>https://www.openstreetmap.org/note/2797117#c5980316</link>
+        <guid>https://www.openstreetmap.org/note/2797117#c5980316</guid>
+        <pubDate>Thu, 12 Aug 2021 10:30:56 +0000</pubDate>
+      </item><item>
         <title>new comment (near Újváros, Gyula) / * 2021 August 10 20:32 vasony Created: Erkel tér vagy Erkel Ferenc tér? / * 2021 August 12 09:16 sd_ciastko Updated: 1. / Attached photo(s): / https://westnordost.de/p/54071.jpg / https://westnordost.de/p/54072.jpg / https://westnordost.de/p/54073.jpg / https://westnordost.de/p/54074.jpg</title>
         <link>https://www.openstreetmap.org/note/2796277#c5980043</link>
         <guid>https://www.openstreetmap.org/note/2796277#c5980043</guid>
@@ -317,21 +332,6 @@
         <link>https://www.openstreetmap.org/note/2767106#c5972764</link>
         <guid>https://www.openstreetmap.org/note/2767106#c5972764</guid>
         <pubDate>Tue, 10 Aug 2021 13:38:48 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Martinkertváros, Miskolc) / * 2021 July 22 10:25 Created: MK MASIN MISKOLC MARTIN KERTVÁROSI UTÁNFUTÓ KÖLCSÖNZŐ / * 2021 August 10 13:36 vasony Resolved: FELVETTEM</title>
-        <link>https://www.openstreetmap.org/note/2765470#c5972744</link>
-        <guid>https://www.openstreetmap.org/note/2765470#c5972744</guid>
-        <pubDate>Tue, 10 Aug 2021 13:36:29 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Delta telep, Zánka) / * 2021 July 21 11:49 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: The address Zánka Újhegyi 21 should be there. / Seat of Bicskei tábor. / * 2021 August 10 13:32 vasony Resolved: address added</title>
-        <link>https://www.openstreetmap.org/note/2763917#c5972726</link>
-        <guid>https://www.openstreetmap.org/note/2763917#c5972726</guid>
-        <pubDate>Tue, 10 Aug 2021 13:32:21 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Mogyorósdomb, Sümeg) / * 2021 July 20 14:32 NotSoda Created: Unable to answer &amp;quot;What is the name of this pedestrian street?&amp;quot; for https://osm.org/way/166803401 via StreetComplete 33.1: / a road into a castle / * 2021 August 10 13:31 vasony Resolved: meanwhile the road type changed, no name necessary for footway</title>
-        <link>https://www.openstreetmap.org/note/2762756#c5972718</link>
-        <guid>https://www.openstreetmap.org/note/2762756#c5972718</guid>
-        <pubDate>Tue, 10 Aug 2021 13:31:14 +0000</pubDate>
       </item>
   </channel>
 </rss>
