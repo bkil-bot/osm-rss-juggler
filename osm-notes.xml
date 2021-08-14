@@ -3,6 +3,46 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Balatonszőlős) / * 2021 August 14 16:45 vasony Resolved: valószínű az egész faluban</title>
+        <link>https://www.openstreetmap.org/note/2802894#c5988674</link>
+        <guid>https://www.openstreetmap.org/note/2802894#c5988674</guid>
+        <pubDate>Sat, 14 Aug 2021 16:45:29 +0000</pubDate>
+      </item><item>
+        <title>new note (near Turuloldal, Tatabánya) / * 2021 August 14 16:44 vtibi Created: crossing</title>
+        <link>https://www.openstreetmap.org/note/2803396#c5988668</link>
+        <guid>https://www.openstreetmap.org/note/2803396#c5988668</guid>
+        <pubDate>Sat, 14 Aug 2021 16:44:01 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Vászoly) / * 2021 August 14 16:41 vasony Resolved: átraktam construction-re</title>
+        <link>https://www.openstreetmap.org/note/2802852#c5988660</link>
+        <guid>https://www.openstreetmap.org/note/2802852#c5988660</guid>
+        <pubDate>Sat, 14 Aug 2021 16:41:34 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Balatonszőlős) / * 2021 August 14 16:39 vasony Resolved: már így szerepel</title>
+        <link>https://www.openstreetmap.org/note/2802706#c5988656</link>
+        <guid>https://www.openstreetmap.org/note/2802706#c5988656</guid>
+        <pubDate>Sat, 14 Aug 2021 16:39:43 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Fürdőtelep, Balatonfüred) / * 2021 August 14 16:38 vasony Resolved: nyári nyitvatartás nem volt megfelelő, javítottam</title>
+        <link>https://www.openstreetmap.org/note/2802688#c5988654</link>
+        <guid>https://www.openstreetmap.org/note/2802688#c5988654</guid>
+        <pubDate>Sat, 14 Aug 2021 16:38:55 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Sejce, Vác) / * 2021 August 13 21:41 Created: This road is not found / * 2021 August 14 16:33 vasony Resolved: deleted, verified on imagery</title>
+        <link>https://www.openstreetmap.org/note/2802224#c5988636</link>
+        <guid>https://www.openstreetmap.org/note/2802224#c5988636</guid>
+        <pubDate>Sat, 14 Aug 2021 16:33:46 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Soroksár, 23rd district) / * 2021 August 13 10:05 Created: Erzsébet utca 35. / * 2021 August 14 16:27 vasony Updated: nem valószínű a 35, viszont ez a szakasz akkor nem Szabóky Rezső utca, felmérendő</title>
+        <link>https://www.openstreetmap.org/note/2801330#c5988595</link>
+        <guid>https://www.openstreetmap.org/note/2801330#c5988595</guid>
+        <pubDate>Sat, 14 Aug 2021 16:27:05 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Krisztinaváros, 1st district) / * 2021 August 12 16:52 grozsa11 Created: Unable to answer &amp;quot;Does this crosswalk have tactile pavings on both sides?&amp;quot; for https://osm.org/node/7679556671 via StreetComplete 33.2: / Itt nincsen zebra. Ez csak egy sarok / * 2021 August 14 16:22 vasony Resolved: unmarked, jó így, ez csak annyit sejtet, hogy vmi van, pl. le van süllyesztve, de nincs zebra</title>
+        <link>https://www.openstreetmap.org/note/2800212#c5988576</link>
+        <guid>https://www.openstreetmap.org/note/2800212#c5988576</guid>
+        <pubDate>Sat, 14 Aug 2021 16:22:08 +0000</pubDate>
+      </item><item>
         <title>closed note (near Belváros, Győr) / * 2021 August 12 12:06 JE_English Created: &amp;quot;Ez nem Amenity, Ez egy Nyelviskola&amp;quot; / POI name: Hatos És Társa Nyelviskola / POI types: amenity / OSM data version: 2021-07-29T10:41:28Z / #organicmaps / * 2021 August 14 16:19 vasony Resolved: A jelölés helyes: / https://wiki.openstreetmap.org/wiki/Tag:amenity=language_school</title>
         <link>https://www.openstreetmap.org/note/2799410#c5988567</link>
         <guid>https://www.openstreetmap.org/note/2799410#c5988567</guid>
@@ -382,11 +422,6 @@
         <link>https://www.openstreetmap.org/note/2714123#c5983750</link>
         <guid>https://www.openstreetmap.org/note/2714123#c5983750</guid>
         <pubDate>Fri, 13 Aug 2021 05:07:46 +0000</pubDate>
-      </item><item>
-        <title>new note (near Krisztinaváros, 1st district) / * 2021 August 12 16:52 grozsa11 Created: Unable to answer &amp;quot;Does this crosswalk have tactile pavings on both sides?&amp;quot; for https://osm.org/node/7679556671 via StreetComplete 33.2: / Itt nincsen zebra. Ez csak egy sarok</title>
-        <link>https://www.openstreetmap.org/note/2800212#c5982318</link>
-        <guid>https://www.openstreetmap.org/note/2800212#c5982318</guid>
-        <pubDate>Thu, 12 Aug 2021 16:52:04 +0000</pubDate>
       </item>
   </channel>
 </rss>
