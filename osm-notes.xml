@@ -3,6 +3,31 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Ófalu, Balatonfüred) / * 2021 August 14 09:17 Created: fix geometry</title>
+        <link>https://www.openstreetmap.org/note/2802700#c5987276</link>
+        <guid>https://www.openstreetmap.org/note/2802700#c5987276</guid>
+        <pubDate>Sat, 14 Aug 2021 09:17:25 +0000</pubDate>
+      </item><item>
+        <title>new note (near Fürdőtelep, Balatonfüred) / * 2021 August 14 09:09 Created: Nyitvatartás hibás, ellenőrizni</title>
+        <link>https://www.openstreetmap.org/note/2802688#c5987256</link>
+        <guid>https://www.openstreetmap.org/note/2802688#c5987256</guid>
+        <pubDate>Sat, 14 Aug 2021 09:09:37 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Odessza, Szeged) / * 2021 August 14 08:58 gabro00 Resolved: Már fent van a térképen / https://www.openstreetmap.org/node/3644647487</title>
+        <link>https://www.openstreetmap.org/note/2802461#c5987224</link>
+        <guid>https://www.openstreetmap.org/note/2802461#c5987224</guid>
+        <pubDate>Sat, 14 Aug 2021 08:58:06 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Belváros, Szeged) / * 2021 January 12 08:08 Created: A parkot teljesen felújították, az ösvények más helyre kerültek, új kerékpártárolók, játékok, információs táblák, stb... / * 2021 January 12 18:33 gabro00 Updated: Igen. GPS nyomvonal/friss ortofotó alapján könnyebb lenne a dolog. / * 2021 August 14 08:53 GBAB Resolved: </title>
+        <link>https://www.openstreetmap.org/note/2494770#c5987201</link>
+        <guid>https://www.openstreetmap.org/note/2494770#c5987201</guid>
+        <pubDate>Sat, 14 Aug 2021 08:53:46 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Belváros, Szeged) / * 2021 August 14 08:49 gabro00 Updated: A régi honlapjukon már fodrászati/kozmetikai jellegű bejegyzések vannak / https://bocitejivoszeged.hu/</title>
+        <link>https://www.openstreetmap.org/note/2802583#c5987188</link>
+        <guid>https://www.openstreetmap.org/note/2802583#c5987188</guid>
+        <pubDate>Sat, 14 Aug 2021 08:49:38 +0000</pubDate>
+      </item><item>
         <title>new note (near Belváros, Szeged) / * 2021 August 14 08:02 GBAB Created: Itt valami önkiszolgálóétterem-féleség készül (2021-08)</title>
         <link>https://www.openstreetmap.org/note/2802584#c5987077</link>
         <guid>https://www.openstreetmap.org/note/2802584#c5987077</guid>
@@ -282,31 +307,6 @@
         <link>https://www.openstreetmap.org/note/2796495#c5975103</link>
         <guid>https://www.openstreetmap.org/note/2796495#c5975103</guid>
         <pubDate>Wed, 11 Aug 2021 04:42:00 +0000</pubDate>
-      </item><item>
-        <title>new note (near Szanazug, Gyula) / * 2021 August 11 04:39 vasony Created: Fenyő út vagy utca?</title>
-        <link>https://www.openstreetmap.org/note/2796493#c5975099</link>
-        <guid>https://www.openstreetmap.org/note/2796493#c5975099</guid>
-        <pubDate>Wed, 11 Aug 2021 04:39:39 +0000</pubDate>
-      </item><item>
-        <title>new note (near Szilvás, Paradicsom, Gyula) / * 2021 August 11 04:39 vasony Created: Új élet utca vagy Újélet utca szerpel a táblán?</title>
-        <link>https://www.openstreetmap.org/note/2796492#c5975098</link>
-        <guid>https://www.openstreetmap.org/note/2796492#c5975098</guid>
-        <pubDate>Wed, 11 Aug 2021 04:39:39 +0000</pubDate>
-      </item><item>
-        <title>new note (near Szanazug, Gyula) / * 2021 August 11 04:39 vasony Created: Rigó út vagy utca?</title>
-        <link>https://www.openstreetmap.org/note/2796491#c5975097</link>
-        <guid>https://www.openstreetmap.org/note/2796491#c5975097</guid>
-        <pubDate>Wed, 11 Aug 2021 04:39:39 +0000</pubDate>
-      </item><item>
-        <title>new note (near Szanazug, Gyula) / * 2021 August 11 04:39 vasony Created: Erdő sor vagy Erdő sor út?</title>
-        <link>https://www.openstreetmap.org/note/2796490#c5975096</link>
-        <guid>https://www.openstreetmap.org/note/2796490#c5975096</guid>
-        <pubDate>Wed, 11 Aug 2021 04:39:38 +0000</pubDate>
-      </item><item>
-        <title>new note (near Nagyrománváros, Gyula) / * 2021 August 11 04:39 vasony Created: Újülés utca vagy Újűlés utca szerepel az utcatáblán?</title>
-        <link>https://www.openstreetmap.org/note/2796489#c5975095</link>
-        <guid>https://www.openstreetmap.org/note/2796489#c5975095</guid>
-        <pubDate>Wed, 11 Aug 2021 04:39:38 +0000</pubDate>
       </item>
   </channel>
 </rss>
