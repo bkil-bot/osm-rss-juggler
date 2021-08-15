@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Balatonarács, Balatonfüred) / * 2021 August 15 15:59 Created: Medence javítása (delete PoI, draw Pool shape and tag it as Pool)</title>
+        <link>https://www.openstreetmap.org/note/2804692#c5991533</link>
+        <guid>https://www.openstreetmap.org/note/2804692#c5991533</guid>
+        <pubDate>Sun, 15 Aug 2021 15:59:25 +0000</pubDate>
+      </item><item>
+        <title>new note (near Balatonarács, Balatonfüred) / * 2021 August 15 15:59 Created: Futballpálya</title>
+        <link>https://www.openstreetmap.org/note/2804690#c5991531</link>
+        <guid>https://www.openstreetmap.org/note/2804690#c5991531</guid>
+        <pubDate>Sun, 15 Aug 2021 15:59:17 +0000</pubDate>
+      </item><item>
         <title>new comment (near Karikavölgy, Balatonföldvár) / * 2021 May 5 11:33 vasony-qa Created: Mi van az utcatáblán? Most háromféleképp van a POI és az utcanév alapján. / Balatonszentgyörgyi út, Balatonszentgyörgyi utca, Szentgyörgyi út? / * 2021 August 15 15:18 kogutowicz-mano Updated: Mind a kereszteződésben álló turisztikai térképen, mind az első utcanévtáblán Balatonszentgyörgyi út áll. Át is írom a térképen ennek megfelelően.</title>
         <link>https://www.openstreetmap.org/note/2655378#c5991366</link>
         <guid>https://www.openstreetmap.org/note/2655378#c5991366</guid>
@@ -377,16 +387,6 @@
         <link>https://www.openstreetmap.org/note/2802894#c5987727</link>
         <guid>https://www.openstreetmap.org/note/2802894#c5987727</guid>
         <pubDate>Sat, 14 Aug 2021 11:50:36 +0000</pubDate>
-      </item><item>
-        <title>new note (near Vászoly) / * 2021 August 14 11:06 pseudotypo Created: Unable to answer &amp;quot;What is the house number of this building?&amp;quot; for https://osm.org/way/279228641 via StreetComplete 33.2: / Újjáépítés zajlik itt / Attached photo(s): / https://westnordost.de/p/54501.jpg</title>
-        <link>https://www.openstreetmap.org/note/2802852#c5987567</link>
-        <guid>https://www.openstreetmap.org/note/2802852#c5987567</guid>
-        <pubDate>Sat, 14 Aug 2021 11:06:11 +0000</pubDate>
-      </item><item>
-        <title>new note (near Balatonszőlős) / * 2021 August 14 09:21 Created: innentől 40es tábla</title>
-        <link>https://www.openstreetmap.org/note/2802706#c5987283</link>
-        <guid>https://www.openstreetmap.org/note/2802706#c5987283</guid>
-        <pubDate>Sat, 14 Aug 2021 09:21:26 +0000</pubDate>
       </item>
   </channel>
 </rss>
