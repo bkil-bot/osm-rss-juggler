@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Fürdőtelep, Balatonfüred) / * 2021 August 15 20:02 pseudotypo Resolved: Hibás PoI</title>
+        <link>https://www.openstreetmap.org/note/2804048#c5992184</link>
+        <guid>https://www.openstreetmap.org/note/2804048#c5992184</guid>
+        <pubDate>Sun, 15 Aug 2021 20:02:16 +0000</pubDate>
+      </item><item>
+        <title>new note (near Fürdőtelep, Balatonfüred) / * 2021 August 15 20:00 Created: Tisztázni kell a büféket</title>
+        <link>https://www.openstreetmap.org/note/2805027#c5992179</link>
+        <guid>https://www.openstreetmap.org/note/2805027#c5992179</guid>
+        <pubDate>Sun, 15 Aug 2021 20:00:44 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Balatonarács, Balatonfüred) / * 2021 August 15 19:44 pseudotypo Updated: *Kosárlabda pálya, nem Futballpálya bocsi</title>
+        <link>https://www.openstreetmap.org/note/2804690#c5992127</link>
+        <guid>https://www.openstreetmap.org/note/2804690#c5992127</guid>
+        <pubDate>Sun, 15 Aug 2021 19:44:38 +0000</pubDate>
+      </item><item>
         <title>closed note (near Turuloldal, Tatabánya) / * 2021 August 14 16:44 vtibi Created: crossing / * 2021 August 15 19:03 vtibi Resolved: done</title>
         <link>https://www.openstreetmap.org/note/2803396#c5991977</link>
         <guid>https://www.openstreetmap.org/note/2803396#c5991977</guid>
@@ -377,21 +392,6 @@
         <link>https://www.openstreetmap.org/note/2803091#c5988059</link>
         <guid>https://www.openstreetmap.org/note/2803091#c5988059</guid>
         <pubDate>Sat, 14 Aug 2021 13:57:30 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Balatonarács, Balatonfüred) / * 2021 May 5 10:55 vasony-qa Created: Melyik a Kouvola utca? / * 2021 August 13 18:23 pseudotypo Updated: ez itt már a kanyar után az. kérek valakit javítani. / * 2021 August 14 12:30 vasony Resolved: javítottam, köszönöm.</title>
-        <link>https://www.openstreetmap.org/note/2655330#c5987827</link>
-        <guid>https://www.openstreetmap.org/note/2655330#c5987827</guid>
-        <pubDate>Sat, 14 Aug 2021 12:30:49 +0000</pubDate>
-      </item><item>
-        <title>new note (near Kiserdőtelep, Óvár, Tihany) / * 2021 August 14 11:51 Created: Felújítás zajlik</title>
-        <link>https://www.openstreetmap.org/note/2802896#c5987730</link>
-        <guid>https://www.openstreetmap.org/note/2802896#c5987730</guid>
-        <pubDate>Sat, 14 Aug 2021 11:51:29 +0000</pubDate>
-      </item><item>
-        <title>new note (near Balatonszőlős) / * 2021 August 14 11:50 Created: 40es tábla</title>
-        <link>https://www.openstreetmap.org/note/2802894#c5987727</link>
-        <guid>https://www.openstreetmap.org/note/2802894#c5987727</guid>
-        <pubDate>Sat, 14 Aug 2021 11:50:36 +0000</pubDate>
       </item>
   </channel>
 </rss>
