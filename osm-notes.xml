@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Alsóváros, Balatonfüred) / * 2021 August 14 18:25 Created: I get an error when I try edit this POI. / * 2021 August 15 04:48 kartonage Resolved: Not reproducible. Provide more details or contact the service prodiver you were using.</title>
+        <link>https://www.openstreetmap.org/note/2803516#c5989776</link>
+        <guid>https://www.openstreetmap.org/note/2803516#c5989776</guid>
+        <pubDate>Sun, 15 Aug 2021 04:48:41 +0000</pubDate>
+      </item><item>
         <title>new note (near Kozármajor, Söpte) / * 2021 August 14 21:14 Created: Permanently out of service</title>
         <link>https://www.openstreetmap.org/note/2803719#c5989312</link>
         <guid>https://www.openstreetmap.org/note/2803719#c5989312</guid>
@@ -367,11 +372,6 @@
         <link>https://www.openstreetmap.org/note/2802224#c5986280</link>
         <guid>https://www.openstreetmap.org/note/2802224#c5986280</guid>
         <pubDate>Fri, 13 Aug 2021 21:41:48 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Balatonarács, Balatonfüred) / * 2021 May 5 10:55 vasony-qa Created: Melyik a Kouvola utca? / * 2021 August 13 18:23 pseudotypo Updated: ez itt már a kanyar után az. kérek valakit javítani.</title>
-        <link>https://www.openstreetmap.org/note/2655330#c5985859</link>
-        <guid>https://www.openstreetmap.org/note/2655330#c5985859</guid>
-        <pubDate>Fri, 13 Aug 2021 18:23:54 +0000</pubDate>
       </item>
   </channel>
 </rss>
