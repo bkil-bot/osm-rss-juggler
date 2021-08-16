@@ -3,6 +3,31 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Alsóváros, Balatonfüred) / * 2021 August 15 09:04 pseudotypo Created: Problémás POI (Hotel Füred) / * 2021 August 16 15:18 pseudotypo Resolved: Added another POI to replace the original.</title>
+        <link>https://www.openstreetmap.org/note/2804053#c5994724</link>
+        <guid>https://www.openstreetmap.org/note/2804053#c5994724</guid>
+        <pubDate>Mon, 16 Aug 2021 15:18:00 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Belváros, Balatonfüred) / * 2021 August 15 09:07 pseudotypo Created: Itt van egy szobor. (Feltehetőleg Lóczy Lajos, de ez jelenleg még bizonytalan infó.) / * 2021 August 16 15:15 pseudotypo Resolved: </title>
+        <link>https://www.openstreetmap.org/note/2804057#c5994718</link>
+        <guid>https://www.openstreetmap.org/note/2804057#c5994718</guid>
+        <pubDate>Mon, 16 Aug 2021 15:15:43 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Tamáshegy, Balatonfüred) / * 2021 March 17 14:00 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: Parking is here. / * 2021 June 21 14:58 vampire303 Updated: Parking yes / * 2021 August 16 15:13 pseudotypo Resolved: Added parking</title>
+        <link>https://www.openstreetmap.org/note/2582634#c5994712</link>
+        <guid>https://www.openstreetmap.org/note/2582634#c5994712</guid>
+        <pubDate>Mon, 16 Aug 2021 15:13:36 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Balatonarács, Balatonfüred) / * 2021 August 15 15:59 Created: Medence javítása (delete PoI, draw Pool shape and tag it as Pool) / * 2021 August 16 15:11 pseudotypo Resolved: </title>
+        <link>https://www.openstreetmap.org/note/2804692#c5994708</link>
+        <guid>https://www.openstreetmap.org/note/2804692#c5994708</guid>
+        <pubDate>Mon, 16 Aug 2021 15:11:48 +0000</pubDate>
+      </item><item>
+        <title>new note (near Felsőgyenes, Gyenesdiás) / * 2021 August 16 14:57 Created: Gate. private.</title>
+        <link>https://www.openstreetmap.org/note/2806129#c5994676</link>
+        <guid>https://www.openstreetmap.org/note/2806129#c5994676</guid>
+        <pubDate>Mon, 16 Aug 2021 14:57:53 +0000</pubDate>
+      </item><item>
         <title>new note (near Kisperbál lakópark, Perbál) / * 2021 August 16 13:05 Varga Bendegúz Created: Ezen a területen PEPITA (Perbáli Piac és Találkozóhely) néven új épület, parkoló és közösségi terület épült.</title>
         <link>https://www.openstreetmap.org/note/2805995#c5994357</link>
         <guid>https://www.openstreetmap.org/note/2805995#c5994357</guid>
@@ -147,11 +172,6 @@
         <link>https://www.openstreetmap.org/note/2803516#c5988938</link>
         <guid>https://www.openstreetmap.org/note/2803516#c5988938</guid>
         <pubDate>Sat, 14 Aug 2021 18:25:03 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Balatonszőlős) / * 2021 August 14 16:45 vasony Resolved: valószínű az egész faluban</title>
-        <link>https://www.openstreetmap.org/note/2802894#c5988674</link>
-        <guid>https://www.openstreetmap.org/note/2802894#c5988674</guid>
-        <pubDate>Sat, 14 Aug 2021 16:45:29 +0000</pubDate>
       </item><item>
         <title>new note (near Turuloldal, Tatabánya) / * 2021 August 14 16:44 vtibi Created: crossing</title>
         <link>https://www.openstreetmap.org/note/2803396#c5988668</link>
@@ -307,36 +327,6 @@
         <link>https://www.openstreetmap.org/note/2803213#c5988341</link>
         <guid>https://www.openstreetmap.org/note/2803213#c5988341</guid>
         <pubDate>Sat, 14 Aug 2021 14:55:00 +0000</pubDate>
-      </item><item>
-        <title>new note (near Belváros, Eger) / * 2021 August 14 14:54 vasony Created: Maczki Valér utca vagy Macki Valér utca szerepel az utcatáblán?</title>
-        <link>https://www.openstreetmap.org/note/2803212#c5988340</link>
-        <guid>https://www.openstreetmap.org/note/2803212#c5988340</guid>
-        <pubDate>Sat, 14 Aug 2021 14:54:59 +0000</pubDate>
-      </item><item>
-        <title>new note (near Belváros, Eger) / * 2021 August 14 14:54 vasony Created: Foglár utca vagy Foglár György utca szerepelt az utcatáblán?</title>
-        <link>https://www.openstreetmap.org/note/2803211#c5988339</link>
-        <guid>https://www.openstreetmap.org/note/2803211#c5988339</guid>
-        <pubDate>Sat, 14 Aug 2021 14:54:59 +0000</pubDate>
-      </item><item>
-        <title>new note (near Cifrahóstya, Eger) / * 2021 August 14 14:54 vasony Created: Szervita utca vagy Servita utca szerepel az utcatáblán?</title>
-        <link>https://www.openstreetmap.org/note/2803210#c5988338</link>
-        <guid>https://www.openstreetmap.org/note/2803210#c5988338</guid>
-        <pubDate>Sat, 14 Aug 2021 14:54:59 +0000</pubDate>
-      </item><item>
-        <title>new note (near Károlyváros, Eger) / * 2021 August 14 14:54 vasony Created: Hatvanas ezred utca vagy Hatvanasezred utca szerepel az utcatáblán?</title>
-        <link>https://www.openstreetmap.org/note/2803209#c5988337</link>
-        <guid>https://www.openstreetmap.org/note/2803209#c5988337</guid>
-        <pubDate>Sat, 14 Aug 2021 14:54:58 +0000</pubDate>
-      </item><item>
-        <title>new note (near 30 km/h övezet, Tihamér, Eger) / * 2021 August 14 14:54 vasony Created: Az utcatáblán Csákósor utca vagy Csákó sor utca?</title>
-        <link>https://www.openstreetmap.org/note/2803208#c5988336</link>
-        <guid>https://www.openstreetmap.org/note/2803208#c5988336</guid>
-        <pubDate>Sat, 14 Aug 2021 14:54:58 +0000</pubDate>
-      </item><item>
-        <title>new note (near Lajosváros, Eger) / * 2021 August 14 14:54 vasony Created: Pápay Sámuel utca vagy Pápai Sámuel utca szerepel az utcatáblán?</title>
-        <link>https://www.openstreetmap.org/note/2803207#c5988335</link>
-        <guid>https://www.openstreetmap.org/note/2803207#c5988335</guid>
-        <pubDate>Sat, 14 Aug 2021 14:54:58 +0000</pubDate>
       </item>
   </channel>
 </rss>
