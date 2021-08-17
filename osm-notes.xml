@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Alsóváros, Balatonfüred) / * 2021 August 15 09:04 pseudotypo Created: Problémás POI (Hotel Füred) / * 2021 August 16 15:18 pseudotypo Resolved: Added another POI to replace the original. / * 2021 August 16 20:07 pseudotypo Reactivated:  / * 2021 August 16 20:08 pseudotypo Updated: This needs fixing. OSMAnd can&amp;#39;t open and edit the original POI. The second is already alright, that I made. / * 2021 August 17 11:37 pseudotypo Resolved: it works now as expected.</title>
+        <link>https://www.openstreetmap.org/note/2804053#c5997134</link>
+        <guid>https://www.openstreetmap.org/note/2804053#c5997134</guid>
+        <pubDate>Tue, 17 Aug 2021 11:37:45 +0000</pubDate>
+      </item><item>
         <title>new note (near Corvin negyed, 8th district) / * 2021 August 17 06:34 Hungarian_user Created: Unable to answer &amp;quot;This shop has been vacant. What&amp;#39;s here now?&amp;quot; for https://osm.org/node/4661147424 via StreetComplete 33.2: / építkezés folyik</title>
         <link>https://www.openstreetmap.org/note/2806823#c5996289</link>
         <guid>https://www.openstreetmap.org/note/2806823#c5996289</guid>
@@ -232,16 +237,6 @@
         <link>https://www.openstreetmap.org/note/2802706#c5988656</link>
         <guid>https://www.openstreetmap.org/note/2802706#c5988656</guid>
         <pubDate>Sat, 14 Aug 2021 16:39:43 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Fürdőtelep, Balatonfüred) / * 2021 August 14 16:38 vasony Resolved: nyári nyitvatartás nem volt megfelelő, javítottam</title>
-        <link>https://www.openstreetmap.org/note/2802688#c5988654</link>
-        <guid>https://www.openstreetmap.org/note/2802688#c5988654</guid>
-        <pubDate>Sat, 14 Aug 2021 16:38:55 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Sejce, Vác) / * 2021 August 13 21:41 Created: This road is not found / * 2021 August 14 16:33 vasony Resolved: deleted, verified on imagery</title>
-        <link>https://www.openstreetmap.org/note/2802224#c5988636</link>
-        <guid>https://www.openstreetmap.org/note/2802224#c5988636</guid>
-        <pubDate>Sat, 14 Aug 2021 16:33:46 +0000</pubDate>
       </item>
   </channel>
 </rss>
