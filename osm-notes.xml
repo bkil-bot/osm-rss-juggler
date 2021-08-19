@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Belváros, Szeged) / * 2018 November 28 21:26 gabro00 Created: Ahogy nézegettem a táblákat, a belvárosban korlátozott teherforgalmú zónákat alakítottak ki, vagyis nem igazán hajthatnak be tehergépjárművek. Ezt ellenőrizni, majd jelölni kellene. / * 2020 April 22 14:50 gabro00 Updated: &amp;quot;Az autópálya átadása után a városi közgyűlés döntése értelmében két korlátozott forgalmú övezetet alakítottak ki a belvárosban. A szegedi oldalon a nagykörúton belülre, az újszegedi oldalon pedig a Temesvári körút és a Tisza közötti területre nem hajthattak be a 7 és fél tonna megengedett össztömeg fölötti teherautók az autópálya átadását követően. A Tisza Lajos körút és a Tisza közötti területen pedig 3 és fél tonna fölötti össztömeg-korlátozást vezettek be.&amp;quot; / https://szeged.hu/hirek/34292/idoutazas-jarvany-idejen-kilenc-eve-adtak-at-az-m43-as-autopalyat-es-mondhatott-bucsut-szeged-napi-tobb-ezer-kamionnak / * 2021 February 18 07:24 ITineris Updated: (Behajthatnak, csak fizetniük kell érte.) / * 2021 August 8 17:28 gabro00 Updated: Ezt hogy kell vagy kell-e egyáltalán jelölni? / * 2021 August 13 11:02 ITineris Updated: Még nincs rá elfogadott címkézés. Budapesten berajzoltam zone:maxweightrating-eket, de tudtommal nem kezeli még egyik navigáció sem. / * 2021 August 19 13:06 gabro00 Updated: Áh látom, érdekes. A határvonal még beletartozik?</title>
+        <link>https://www.openstreetmap.org/note/1603188#c6004661</link>
+        <guid>https://www.openstreetmap.org/note/1603188#c6004661</guid>
+        <pubDate>Thu, 19 Aug 2021 13:06:23 +0000</pubDate>
+      </item><item>
+        <title>new note (near Diós, Pécs) / * 2021 August 19 12:25 pseudotypo Created: megújul</title>
+        <link>https://www.openstreetmap.org/note/2810735#c6004439</link>
+        <guid>https://www.openstreetmap.org/note/2810735#c6004439</guid>
+        <pubDate>Thu, 19 Aug 2021 12:25:35 +0000</pubDate>
+      </item><item>
         <title>new note (near Karikavölgy, Balatonföldvár) / * 2021 August 19 09:45 Created: Kozmetika. (Este berajzolom.)</title>
         <link>https://www.openstreetmap.org/note/2810491#c6004008</link>
         <guid>https://www.openstreetmap.org/note/2810491#c6004008</guid>
@@ -157,16 +167,6 @@
         <link>https://www.openstreetmap.org/note/1863608#c5995288</link>
         <guid>https://www.openstreetmap.org/note/1863608#c5995288</guid>
         <pubDate>Mon, 16 Aug 2021 18:45:21 +0000</pubDate>
-      </item><item>
-        <title>new note (near Cserhát-lakótelep, Belváros, Veszprém) / * 2021 August 16 17:38 sugarbotond Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/192288011 via StreetComplete 33.2: / nem létezik, parkoló</title>
-        <link>https://www.openstreetmap.org/note/2806333#c5995123</link>
-        <guid>https://www.openstreetmap.org/note/2806333#c5995123</guid>
-        <pubDate>Mon, 16 Aug 2021 17:38:51 +0000</pubDate>
-      </item><item>
-        <title>new note (near Budafok, 22nd district) / * 2021 August 16 16:21 vtibi Created: was demolished and is being rebuilt</title>
-        <link>https://www.openstreetmap.org/note/2806259#c5994933</link>
-        <guid>https://www.openstreetmap.org/note/2806259#c5994933</guid>
-        <pubDate>Mon, 16 Aug 2021 16:21:00 +0000</pubDate>
       </item>
   </channel>
 </rss>
