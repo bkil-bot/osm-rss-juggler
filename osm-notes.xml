@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Józsa, Debrecen) / * 2021 May 18 15:50 gabro00 Created: A jelölő alatt rendet kellene rakni. / * 2021 September 7 12:58 gabro00 Resolved: https://www.openstreetmap.org/changeset/110859946</title>
+        <link>https://www.openstreetmap.org/note/2674099#c6065422</link>
+        <guid>https://www.openstreetmap.org/note/2674099#c6065422</guid>
+        <pubDate>Tue, 07 Sep 2021 12:58:14 +0000</pubDate>
+      </item><item>
+        <title>new note (near Gödöllői Üzleti Park, Alvég, Gödöllő) / * 2021 September 7 12:46 Created: Moór János utca</title>
+        <link>https://www.openstreetmap.org/note/2840211#c6065394</link>
+        <guid>https://www.openstreetmap.org/note/2840211#c6065394</guid>
+        <pubDate>Tue, 07 Sep 2021 12:46:53 +0000</pubDate>
+      </item><item>
         <title>new note (near Schweitzertanya, Bonyhád) / * 2021 September 7 11:41 Petymag Created: Ti-To Fröccsterasz / via StreetComplete 34.0 / Attached photo(s): / https://westnordost.de/p/59041.jpg</title>
         <link>https://www.openstreetmap.org/note/2840146#c6065265</link>
         <guid>https://www.openstreetmap.org/note/2840146#c6065265</guid>
@@ -212,31 +222,6 @@
         <link>https://www.openstreetmap.org/note/2837040#c6058634</link>
         <guid>https://www.openstreetmap.org/note/2837040#c6058634</guid>
         <pubDate>Sun, 05 Sep 2021 10:23:15 +0000</pubDate>
-      </item><item>
-        <title>new note (near Pasarét, 2nd district) / * 2021 September 5 10:00 sugarbotond Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/494218187 via StreetComplete 34.0: / el van bontva</title>
-        <link>https://www.openstreetmap.org/note/2836983#c6058560</link>
-        <guid>https://www.openstreetmap.org/note/2836983#c6058560</guid>
-        <pubDate>Sun, 05 Sep 2021 10:00:22 +0000</pubDate>
-      </item><item>
-        <title>new note (near Omszk park környéke, Budakalász) / * 2021 September 5 09:46 sd_ciastko Created: 6 / via StreetComplete 33.2</title>
-        <link>https://www.openstreetmap.org/note/2836958#c6058521</link>
-        <guid>https://www.openstreetmap.org/note/2836958#c6058521</guid>
-        <pubDate>Sun, 05 Sep 2021 09:46:35 +0000</pubDate>
-      </item><item>
-        <title>new note (near Omszk park környéke, Budakalász) / * 2021 September 5 09:46 sd_ciastko Created: 6/B / via StreetComplete 33.2</title>
-        <link>https://www.openstreetmap.org/note/2836957#c6058520</link>
-        <guid>https://www.openstreetmap.org/note/2836957#c6058520</guid>
-        <pubDate>Sun, 05 Sep 2021 09:46:22 +0000</pubDate>
-      </item><item>
-        <title>new note (near Szent István-telep, Budakalász) / * 2021 September 5 09:30 sd_ciastko Created: 64/A / mellette:64 / via StreetComplete 33.2</title>
-        <link>https://www.openstreetmap.org/note/2836925#c6058486</link>
-        <guid>https://www.openstreetmap.org/note/2836925#c6058486</guid>
-        <pubDate>Sun, 05 Sep 2021 09:30:34 +0000</pubDate>
-      </item><item>
-        <title>new note (near Szent István-telep, Budakalász) / * 2021 September 5 09:19 sd_ciastko Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/663609145 via StreetComplete 33.2: / house 50</title>
-        <link>https://www.openstreetmap.org/note/2836909#c6058466</link>
-        <guid>https://www.openstreetmap.org/note/2836909#c6058466</guid>
-        <pubDate>Sun, 05 Sep 2021 09:19:30 +0000</pubDate>
       </item>
   </channel>
 </rss>
