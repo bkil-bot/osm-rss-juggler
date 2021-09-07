@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Wireless News (via bkil-bot)</title>
+      <item>
+        <title>Re: SSID Statistics per country: Often requested, but still not implemented - we'll add your vote to the feature queue! -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2777&amp;p=10909#p10909</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2777&amp;p=10909#p10909</guid>
+        <pubDate>2021-06-06T01:40:46</pubDate>
+      </item><item>
+        <title>SSID Statistics per country: Hey what's the simple way to get the most popular SSID's in a specific country? like https://wigle.net/stats#ssidstats but for a specific country. TNX! -ssdir</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2777&amp;p=10584#p10584</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2777&amp;p=10584#p10584</guid>
+        <pubDate>2020-06-14T14:51:18</pubDate>
+      </item><item>
+        <title>Re: SSID a9f1bdf1dab1nvt4f4f59: doing a google search of a9f1bdf1dab1nvt4f4f59 shows others trying to solve the same question. as m86 suggests, this is most likely a Wifi enabled NEC projector -afterm4th</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=1826&amp;p=10509#p10509</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=1826&amp;p=10509#p10509</guid>
+        <pubDate>2020-03-06T11:08:14</pubDate>
+      </item><item>
+        <title>Re: Detecting Gas Pump Skimmers by Bluetooth signature (Bluetana / SkimPlus): I would expect that the Wigle app could be modified to provide an alert when a specific ID is found but the problem is that Wigle can then be used for hunting. -ecramp</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2706&amp;p=10436#p10436</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2706&amp;p=10436#p10436</guid>
+        <pubDate>2019-12-23T17:43:50</pubDate>
+      </item><item>
+        <title>Re: Detecting Gas Pump Skimmers by Bluetooth signature (Bluetana / SkimPlus): this is an *awesome* use of the project - how can we support this?? -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2706&amp;p=10298#p10298</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2706&amp;p=10298#p10298</guid>
+        <pubDate>2019-08-19T17:16:51</pubDate>
+      </item><item>
+        <title>Detecting Gas Pump Skimmers by Bluetooth signature (Bluetana / SkimPlus): Hello, take a look at this: https://thehackernews.com/2019/08/credi ... ector.html They use a sequence of steps to see if a bluetooth device is a skimmer inside a ATM / Gas pump. Bluetana paper: http://cseweb.ucsd.edu/~schulman/docs/s ... uetana.pdf Basically they see if the MAC prefix (Section 3.1 on the paper above) of the bluetooth device is fitting a list of known skimmers, then if the name is default. As WiGLE also scans bluetooth, it should be possible to filter out such &quot;strange&quot; devices? (Actually, im wondering why they did not mention WiGLE in their paper) EDIT: some sample searches: HC-05 devices in the US (10 results!) https://api.wigle.net/api/v2/bluetooth/ ... country=US HC-06 devices in the US (2 results) https://api.wigle.net/api/v2/bluetooth/ ... country=US All the results match the given &quot;capabilities&quot; = &quot;Uncategorized&quot; by Bluetana, but the current WiGLE Api does not have a option to give this a search parameter So if this 12 Results would be seen on a map, and they are located at a gas station = win ? -d2k2</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2706&amp;p=10293#p10293</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2706&amp;p=10293#p10293</guid>
+        <pubDate>2019-08-18T08:12:50</pubDate>
+      </item><item>
+        <title>Re: SWardriving. Wireless Wi-Fi Wardriving: Yes obviously..it can sort the database...So no need to worry about it MyBKExperience -robert52</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2252&amp;p=10245#p10245</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2252&amp;p=10245#p10245</guid>
+        <pubDate>2019-07-10T07:37:14</pubDate>
+      </item><item>
+        <title>Re: A Different Approach: Very sorry but I don't get the meaning of what OP is asking. Can you explain it better please ? I suppose nobody (almost) answered because the question was not clear. Explain and we'll try. ciao -mpeg4ever</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2587&amp;p=10165#p10165</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2587&amp;p=10165#p10165</guid>
+        <pubDate>2019-05-28T21:37:26</pubDate>
+      </item><item>
+        <title>Re: Wifi Blocking Wallpaper: It can only attenuate a portion. Any good antenna will compensate!And you have the signals coming from below and upper floor. Can travel three floors easily. Plus the windows. What are they doing this for ? Just buy a professional jammer and all is gone. Or they have electomagnetic-illness ? Do we know the real purpose of this wallpaper ? Ciao -mpeg4ever</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=1762&amp;p=10164#p10164</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=1762&amp;p=10164#p10164</guid>
+        <pubDate>2019-05-27T07:48:46</pubDate>
+      </item><item>
+        <title>Re: Wifi Blocking Wallpaper: thanks bro -profeffe</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=1762&amp;p=9927#p9927</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=1762&amp;p=9927#p9927</guid>
+        <pubDate>2019-02-17T22:08:55</pubDate>
+      </item><item>
+        <title>Re: A Different Approach: not sure if I understand your methodology yet, but I will warn you that MAC addresses in probe requests are often (and intentionally) unreliable: https://source.android.com/devices/tech ... domization https://www.theregister.co.uk/2017/03/ ... omization/ https://securityintelligence.com/news/m ... clobbered/ -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2587&amp;p=9819#p9819</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2587&amp;p=9819#p9819</guid>
+        <pubDate>2018-11-26T00:49:07</pubDate>
+      </item><item>
+        <title>A Different Approach: Utilizing War-driving logs and Mac Addresses to Identify Possible Threats or Stalkers So I'm having a little bit of a problem connecting the last part of what I thought was a good idea to a successful set up that can help show on screen results and warnings if I wanted to track possible &quot;tails&quot; throughout the day by &quot;recognizing/being notified&quot; when duplicate mobile wireless-probes are scanned and logged... Let me explain this another way... I currently use a wardriving application to log all access points in my area. I'm the only one doing that in this town so far. While doing so I realized I was also getting the Mac address of the devices I was picking up as well. A few months prior to this I had explored the idea of using wireless probe requests from nearby cellphones to find out how far certain mac addresses were coming from my house whenever I was not home by using probemon. But I hit a few snags whenever my mind couldn't wrap-around a way to not only just log these but to connect the ideas completely and keep individual track of the Mac addresses that I had felt were becoming a problem to begin with. War-driving app gives me live scans of the area. I want to be able to lock in a mac Address from a mobile wifi probe and if it shows up again at another destination, I can decide at that point to what extent it's relevance is based on the situation. I want to track someone if they are tracking me... I'm making it harder than it should be, I'm sure of it. Any ideas as to what I could try? I can go in to more depth with my process or train of thought if anyone actually is interested. I might just have to get with someone that knows how to create something that combines these things all together. Anyway, thanks in advance for any help, ~Brierblood -Brierblood</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2587&amp;p=9816#p9816</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2587&amp;p=9816#p9816</guid>
+        <pubDate>2018-11-25T07:26:31</pubDate>
+      </item><item>
+        <title>Re: Creating maps?: I also would like to know about this how to create maps. Thanks OP for the explanation. -Jamshed8</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2506&amp;p=9747#p9747</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2506&amp;p=9747#p9747</guid>
+        <pubDate>2018-10-23T11:31:25</pubDate>
+      </item><item>
+        <title>Re: Creating maps?: Hi cordova85 - thanks for your interest! JiGLE is deprecated, and we haven't updated it in quite a while, since the Android client, KML export (click the transaction ID for any upload on your uploads page to download a google-earth compatible file), and web maps interface have all largely obviated the need for a desktop client. The original mappacks were generated using our own custom mapping engine, which has also been decommissioned with the exception of the density plot tiles on the web maps. If you want to generate mappacks, you can choose between vector and raster formats. The raster representation is easy - they have three different resolutions to assist with maintaining map quality through zooming. The vector representations are balanced binary trees per the format you can see in the source code. Honestly, it's much easier to use web-based rendering for the data now, and we don't recommend trying to use JiGLE anymore. -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2506&amp;p=9501#p9501</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2506&amp;p=9501#p9501</guid>
+        <pubDate>2018-01-11T06:52:05</pubDate>
+      </item><item>
+        <title>Creating maps?: How can I create maps? No maps for Norway around... do the maps use any standard format? The .mappack files are ok to &quot;decode&quot; but how are those .png files made? Can I find .png files like these for any country? What's up with the three different .png files for i.e. Chichago, what's the need for 3, and what's the difference between them? Where is this Rigle where I can submit request for maps to be made? -cordova85</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2506&amp;p=9500#p9500</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2506&amp;p=9500#p9500</guid>
+        <pubDate>2018-01-11T03:11:27</pubDate>
+      </item>
+  </channel>
+</rss>

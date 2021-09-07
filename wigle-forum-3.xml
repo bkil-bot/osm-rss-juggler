@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Net Hugging Hardware and Software (via bkil-bot)</title>
+      <item>
+        <title>Re: Best Android for WigleWifi: I recommend the Samsung S5. I use one as my personal phone. Stock Android supports VOLTE, custom roms don't. You might not be able to make calls with it past 2022. It's had continuous LineageOS support for about half a decade. Street value $50-$100, cheap OEM batteries, has all the radios. The only model you should get in North America is the SM-G900T. All of them have unlocked bootloaders and it generally has the most useful 4G bands. &quot;A&quot; model is locked and &quot;V&quot; model is 50/50 depending on whether the phone came with exploitable hardware. -SkywardLark</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2881&amp;p=10992#p10992</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2881&amp;p=10992#p10992</guid>
+        <pubDate>2021-08-28T02:16:13</pubDate>
+      </item><item>
+        <title>Re: Best Android for WigleWifi: My little Samsung Core Prime will run 8+ hours as long as it doesn't get too warm. It is slow to GPS lock, but not more than 2 minutes usually. My S7 Edge easily runs for 4-5 hours on battery, have to keep the screen off on that one for better life. It'll get a GPS lock in my basement office in less than 10 seconds, very quick! -pejacoby</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2881&amp;p=10985#p10985</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2881&amp;p=10985#p10985</guid>
+        <pubDate>2021-08-21T16:41:12</pubDate>
+      </item><item>
+        <title>Re: Best Android for WigleWifi: generally its pretty battery friendly - most &quot;new&quot; phones I have can use it for hours on end, and the pixel 5 can run it all day. Have you changed the settings to scan as quickly as possible? -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2881&amp;p=10984#p10984</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2881&amp;p=10984#p10984</guid>
+        <pubDate>2021-08-21T16:14:14</pubDate>
+      </item><item>
+        <title>Re: Best Android for WigleWifi: I have a Motorola Droid 2 that I was using just for Wigle (no cell service), but lately it won't get a GPS lock. Are there any recommendations for low cost Android phones that could be picked up on eBay that work great with Wigle. I'm looking for something that doesn't take a year to get GPS lock and has serious battery life. Also if you had one of the CDMA/GSM world phones would that detect both towers? I'm looking for something as well.. But it seems whatever I use it drains the battery really quick. Is this normal or not? -showline</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2881&amp;p=10983#p10983</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2881&amp;p=10983#p10983</guid>
+        <pubDate>2021-08-21T13:42:38</pubDate>
+      </item><item>
+        <title>Re: Wigle mobile rig for scanning odd Frequencies: Indeed, the wifi standard before 2012, allowed 802.11g to use so called &quot;quarter- and half-clocked channels&quot; (5MHz and 10MHz respectively). They carry multiple advantages, including improved noise immunity (delay spread due to up to 4x the symbol length), higher allowed transmit power (up to 2x due to power spectral density regulations) and less problems with exposed nodes and neighboring BSS's. Many good chipsets and drivers still support it even for 802.11n, including Atheros on OpenWrt (they have their own debug patches to enable it). Too bad scanning, channel steering, channel raster allocation and neighbor coexistence would have been such a pain so they simply gave the whole thing up. I agree that it is quite useful for P2P links or to penetrate foliage. Using such modes are not complying to the standard according to 802.11 (except for emergency response at certain frequencies), but they should still be legal according to the various ISM regulations in most countries. I am using a Mikrotik outdoor antenna and radio from home and it can be set up to look at 5 MHz steps which can see in between the standard channels. There are usually WiFi links on 5 GHz band people have set on non standard frequencies, presumably to avoid detection and minimise interference from other devices. I dont think its just my area that it occurs either, i have seen others. -kurz</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2860&amp;p=10982#p10982</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2860&amp;p=10982#p10982</guid>
+        <pubDate>2021-08-19T11:59:28</pubDate>
+      </item><item>
+        <title>Re: Best Android for WigleWifi: Pixel 4as aren't too bad, but if you want a real budget pick, and older Pixel used on ebay might be a good purchase! -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2881&amp;p=10972#p10972</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2881&amp;p=10972#p10972</guid>
+        <pubDate>2021-08-08T16:26:34</pubDate>
+      </item><item>
+        <title>Best Android for WigleWifi: I have a Motorola Droid 2 that I was using just for Wigle (no cell service), but lately it won't get a GPS lock. Are there any recommendations for low cost Android phones that could be picked up on eBay that work great with Wigle. I'm looking for somet https://9apps.ooo/ hing that doesn't take a year to get GPS lock and has serious battery life. Also if you had one of the CDMA/GSM world phones would that detect both towers? https://9apps.ooo/ -mikipetri74</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2881&amp;p=10971#p10971</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2881&amp;p=10971#p10971</guid>
+        <pubDate>2021-08-07T10:55:40</pubDate>
+      </item><item>
+        <title>Re: portable home-made war-driving gear: @arshasa no the gps does not depend on the system clock time. From what I have understood, but it may differ from device to device, may be ? I had problem with u-blox 7 based mouse usb gps, and I had to use A-gps, and finally sometimes not working so I bought on ebay a new one with ublox-8 chip called BN-808. It's cheap but it took a long time to come from china. Now, with that new gps, no more worries, and it has a fix in a minute (or less) without even needing a-gps. @SkywardLark I have forked a github project to get A-GPS data in linux with a simple python script: it's there https://github.com/solsticedhiver/ublox-agps yes. solsTicedhiver that's me too And the wooden box was too heavy to carry so now I am using a mask box, the one very popular now during covid times. -zebul666</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2751&amp;p=10970#p10970</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2751&amp;p=10970#p10970</guid>
+        <pubDate>2021-08-06T19:57:41</pubDate>
+      </item><item>
+        <title>Re: portable home-made war-driving gear: The main issue is the gps taking a long time for a first fix on cold boot. Could take 10 minutes with a clear sky.Your VK-172 seems like it has a u-blox (7?) chipset. You can warm start the GPS by getting assist data from the internet, it's saved in storage. The company offers a Windows-only software called &quot;U-Center&quot; for GPS management. 1. Get a token here: https://www.u-blox.com/en/assistnow-ser ... quest-form 2. Plug your GPS into a computer and start U-Center 3. Receiver &amp;gt; Connection &amp;gt; Select ComX (your GPS) 4. Tools &amp;gt; AssistNow Online &amp;gt; AssistNow Online, GPS Only (u-blox 5 - 7) Put the token you got in &quot;Server Token.&quot; Most of the fields are self-explanatory. Click &quot;Download &amp;amp; Transfer Now&quot; when you're done. Now you can unplug your GPS and put it back into your rig. -SkywardLark</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2751&amp;p=10964#p10964</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2751&amp;p=10964#p10964</guid>
+        <pubDate>2021-08-03T22:51:26</pubDate>
+      </item><item>
+        <title>Re: portable home-made war-driving gear: nice - I did that with my pi w zero rig! The thing I'm not clear on is whether GPS fix time is chicken/egg with the clock -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2751&amp;p=10963#p10963</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2751&amp;p=10963#p10963</guid>
+        <pubDate>2021-08-03T16:17:07</pubDate>
+      </item><item>
+        <title>Re: portable home-made war-driving gear: @arkasha you could update the system clock from the gps one it has a fix. So you don't need a RTC clock. I failed to set it up with ntpd so I am using chrony instead. It is jsut a simple line to add to the config file -zebul666</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2751&amp;p=10962#p10962</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2751&amp;p=10962#p10962</guid>
+        <pubDate>2021-08-03T15:43:41</pubDate>
+      </item><item>
+        <title>Re: portable home-made war-driving gear: godspeed and good hunting! -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2751&amp;p=10960#p10960</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2751&amp;p=10960#p10960</guid>
+        <pubDate>2021-08-03T01:42:51</pubDate>
+      </item><item>
+        <title>Re: portable home-made war-driving gear: no concrete answers (building a similar rig myself right now, so I'll post here as I learn things), but: 1. if you're ntp sync'd when you start, I would think that should be fine. I was specifically worried about GPS accuracy, which is what led me to add a hardware clock module. I probably over-thought things, but at least before COVID I was a frequent traveler, and desire to just be able to boot-and-go was a design constraint. In this vein, do you know the number of networks vs. networks-with-location in your run database? (I believe but have not verified that the kismet WiGLE export script only exports nets with location) 2. I've noticed the internal wireless is flaky, too, but maybe there's a driver fix? I'm using a pair of Pandas radios on my rig, will report back. -arkTo follow up on this, for anyone reading, the on-board pi4 wifi with nexmon drivers is useless. It will just stall out and never recover, always. Got the recommended alfa radio plugged in today, and it flies, works flawlessly. Now I just need to get out of this damn home office so I can get back to the WWWD competition -RSakai</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2751&amp;p=10959#p10959</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2751&amp;p=10959#p10959</guid>
+        <pubDate>2021-08-02T22:58:05</pubDate>
+      </item><item>
+        <title>Re: portable home-made war-driving gear: I remember writing a janky script to do time syncs with my VK-162 GPS too. I wrote a WiFi suggestion in another thread, I'll quote it. For radio, get stuff from the MediaTek MT76 driver family. The most common chipset is the MT7612U. Trust me, own at least one of them. You can pick up a generic MT7612U adapter for about $15: https://smile.amazon.com/dp/B086L3D3NB/ If you want something brand name the Alfa AWUS036ACM is about $40. Realtek solutions can be enticing when you look at the price but it's not worth it. The drivers available often behave in mysterious ways.Note: Some Terow AC1200M adapters will have automation issues in Windows because it presents a fake CD drive with drivers. You need to eject the fake drive (or blacklist it somehow) before Windows can use the adapter for WiFi. This isn't an issue in Linux distros like Kali. Didn't have a choice when I purchased mine but I think you need &quot;1200M No CD Driver.&quot; The Alfa seems slightly higher quality but for the price of one Alfa you can buy 2-3 Terows. The Terow is &amp;lt;$15 with a business account. There shouldn't be a huge difference in performance since they're the same chipset. If there is, it's probably in the antennas which are swappable anyways. -SkywardLark</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2751&amp;p=10954#p10954</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2751&amp;p=10954#p10954</guid>
+        <pubDate>2021-07-29T01:28:44</pubDate>
+      </item><item>
+        <title>Re: portable home-made war-driving gear: no concrete answers (building a similar rig myself right now, so I'll post here as I learn things), but: 1. if you're ntp sync'd when you start, I would think that should be fine. I was specifically worried about GPS accuracy, which is what led me to add a hardware clock module. I probably over-thought things, but at least before COVID I was a frequent traveler, and desire to just be able to boot-and-go was a design constraint. In this vein, do you know the number of networks vs. networks-with-location in your run database? (I believe but have not verified that the kismet WiGLE export script only exports nets with location) 2. I've noticed the internal wireless is flaky, too, but maybe there's a driver fix? I'm using a pair of Pandas radios on my rig, will report back. -ark -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2751&amp;p=10952#p10952</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2751&amp;p=10952#p10952</guid>
+        <pubDate>2021-07-27T22:20:00</pubDate>
+      </item>
+  </channel>
+</rss>

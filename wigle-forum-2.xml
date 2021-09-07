@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>WiGLE News (via bkil-bot)</title>
+      <item>
+        <title>Re: Vs 2.59 Distances on maps: There are a lot of different ways folks use the application, but we've been focusing on making that view more self-contained for drivers and pedestrians who want to use the app from the Map screen - adding distance travelled means not having to switch to the dashboard. This change is intended to work in conjunction with the show-route functionality when making sure an area has been covered successfully. -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2813&amp;p=10700#p10700</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2813&amp;p=10700#p10700</guid>
+        <pubDate>2020-11-27T21:36:33</pubDate>
+      </item><item>
+        <title>Re: Vs 2.59 Distances on maps: Thanks -Citro1</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2813&amp;p=10699#p10699</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2813&amp;p=10699#p10699</guid>
+        <pubDate>2020-11-27T20:50:23</pubDate>
+      </item><item>
+        <title>Re: Vs 2.59 Distances on maps: that distance travelled since the application has been launched, not distance to any particular network! Cheers, -Ark -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2813&amp;p=10698#p10698</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2813&amp;p=10698#p10698</guid>
+        <pubDate>2020-11-25T17:27:28</pubDate>
+      </item><item>
+        <title>Vs 2.59 Distances on maps: Hello, What distance to which network is meant? For example, my map says 9.9ft -Citro1</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2813&amp;p=10697#p10697</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2813&amp;p=10697#p10697</guid>
+        <pubDate>2020-11-25T15:42:56</pubDate>
+      </item><item>
+        <title>Re: Golang API wrapper v0.1.0 WiGoLE: awesome! can't wait to see what people build with it! cheers! -ark -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2764&amp;p=10539#p10539</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2764&amp;p=10539#p10539</guid>
+        <pubDate>2020-04-07T00:02:40</pubDate>
+      </item><item>
+        <title>Golang API wrapper v0.1.0 WiGoLE: I've created a wrapper for the API in Golang for anyone interested in using the API programmatically. Currently, everything should be implemented properly except for /api/v2/file/*. Check it out here: https://gitlab.com/MicahParks/wigole See the examples here: https://gitlab.com/MicahParks/wigole/-/ ... r/examples -botsarehots</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2764&amp;p=10538#p10538</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2764&amp;p=10538#p10538</guid>
+        <pubDate>2020-04-05T17:28:11</pubDate>
+      </item><item>
+        <title>Re: Settings? We've heard of them.: aw, thanks! no stress, but we're happy to post if you have time. the problem is that the bounds for the image map will change in each language. honestly, if you have spare time, please help fix our translations in WiGLE Wireless for Android - there's a lot of Google translate in there! thanks! -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2746&amp;p=10478#p10478</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2746&amp;p=10478#p10478</guid>
+        <pubDate>2020-01-31T20:08:16</pubDate>
+      </item><item>
+        <title>Re: Settings? We've heard of them.: I'll see what I can do for Russian and French, although I don't promise a full translation, as that's something that will either take time or a full time job. -OliVDB</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2746&amp;p=10476#p10476</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2746&amp;p=10476#p10476</guid>
+        <pubDate>2020-01-31T19:21:19</pubDate>
+      </item><item>
+        <title>Re: Settings? We've heard of them.: her you go: https://wigle.net/wiwi_settings - the main settings panel annotated. Now, to translate it into the 31 other languages we support... anyone got free time? -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2746&amp;p=10456#p10456</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2746&amp;p=10456#p10456</guid>
+        <pubDate>2020-01-08T17:45:05</pubDate>
+      </item><item>
+        <title>Re: Android Pie and WiGLE - news articles about scan-throttling: I have a preference for Motorola phones: Cheap. Here's a page describing which Moto phones will be getting Android Pie. What with the scan-throttling behavior of Pie, I figure I'm going to have to collect a group of Android wardriving-capable phones which are guaranteed NOT to &quot;upgrade&quot; to Pie. I just bought a used Moto G5 Plus, and will run it today. I want to get at least one more phone, since I have learned that when running two phones simultaneously, I tend to get an additional 50% more Wifis. I also intend to post the WiFi scan rate of each phone I try. Jim Bell https://forums.lenovo.com/t5/Moto-E5-Mo ... -p/4174913 ------------------------------------------------------------- &quot;Motorola lists all devices receiving Android Pie 9 &quot;‎08-15-2018 12:16 PM Article at AndroidPolice about Android Pie 9.0 and Motorola commitment to updates (pay attention to the last paragraph). After reading, go to the site and check the comment section to see the reaction of users &quot;EDIT: Now we discovered Motorola's schedule: updates after 1 year just to top devices. Medium or low end devices have support only for 12 months, or no support at all (support I mean receiving a new version of Android, not only just security patches). In regarding to the E5, a phone released only a few months, you all will be delighted to discover you won't receive a single update at all... _________________________________ &quot; While Android Pie rolls out to phones from Google and Essential, most OEMs haven't announced which devices will receive the update. HTC revealed a few days ago which of its phones are being updated, and now it's Motorola's turn. &quot;Motorola's long-term software support has deteriorated quite a bit over the past few years, so it shouldn't come as a surprise that the list of Moto phones receiving Android Pie is short. In fact, only eight phones will get the update: moto z3 moto z3 play moto z2 force edition moto z2 play moto x4 moto g6 plus moto g6 moto g6 play &quot;The list notably doesn't include any Moto E phones, even the E5 line that launched a few months ago. The entire Moto G5 family is also missing, even the G5S and G5S Plus - which launched one year ago. Source: Motorola -32894156</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2549&amp;p=10455#p10455</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2549&amp;p=10455#p10455</guid>
+        <pubDate>2020-01-07T21:25:41</pubDate>
+      </item><item>
+        <title>Re: Settings? We've heard of them.: if you're an english speaker, these two crazy folks did a talk about us at def con a few years ago - it details a lot of stuff about the app: https://www.youtube.com/watch?v=fSsTgazmHCw -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2746&amp;p=10453#p10453</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2746&amp;p=10453#p10453</guid>
+        <pubDate>2020-01-05T01:16:08</pubDate>
+      </item><item>
+        <title>Re: Settings? We've heard of them.: that's a good point! the app has grown organically over the years - and it continues to change with each release (including the settings page). Even as a maintainer, sometimes I see the settings page in other languages and go through some cognitive dissonance. does anyone know of a good, dynamic documentation system for mobile apps? we are a small team, and we maintain WiGLE in our free time as a hobby - this means that maintaining docs and tutorials in our already limited time would decrease the number of bugfixes and enhancements we'd have time to work on. -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2746&amp;p=10452#p10452</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2746&amp;p=10452#p10452</guid>
+        <pubDate>2020-01-05T01:13:51</pubDate>
+      </item><item>
+        <title>Settings? We've heard of them.: Looking at the Google Play Android page I saw &quot;Thanks for your interest! While the app is a bit of an expert tool, maybe the forums at https://wigle.net can provide some insight! Feel free to reach out with questions there or in email&quot; so here I am (LOL) just to see if there is anything here and after looking around, I think a new user would just be lost. I play with the various options in the app settings page from time to time but a lot of them have very little information for users that describes their functions so new users have their hands tied behind their backs; just what does &quot;Display routes for execution&quot; do? I think it might be useful to have an app settings help page option here that describes the settings and features in detail with information about how they work and why you might want to turn them on. Otherwise all you can do is turn it on or off and drive around the block and see if you can figure out what happened. It's not too difficult for me , but it's a hassle for a first time user who might just give up in confusion. I've been training &quot;new users&quot; in computers for 40 years now and I think that new users these days have much less patience and higher expectations than users 10 or more years ago. -ecramp</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2746&amp;p=10451#p10451</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2746&amp;p=10451#p10451</guid>
+        <pubDate>2020-01-04T14:35:46</pubDate>
+      </item><item>
+        <title>Re: Android Pie and WiGLE - news articles about scan-throttling: This is from my quote above: &quot;Android Pie is still fresh on everyone’s mind and we’re only starting to experience some of the changes that Google has made with its latest update. Android has always been criticized for having poor battery life compared to other mobile operating systems, but this was a double-edged sword. Sure, Android used more battery life than others, but it allowed for a lot more unique and diverse applications to be exclusive to the platform. Google has done a lot to help improve the overall battery life usage on Android, but this latest change to WiFi scanning is interfering with a number of network applications.&quot; This claim, the one by Google, is foolish. When I am wardriving, I am almost always connecting my phone(s) to a Turbocharger plugin in the cigarette lighter, so power consumption is essentially irrelevant. -32894156</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2549&amp;p=10433#p10433</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2549&amp;p=10433#p10433</guid>
+        <pubDate>2019-12-23T00:56:08</pubDate>
+      </item><item>
+        <title>Re: Android Pie and WiGLE - news articles about scan-throttling: I thought I posted this elsewhere, but I cannot find it: https://www.xda-developers.com/android- ... ling-apps/ &quot;[Update: Toggle coming in Q Beta 5] Android Pie’s throttling of Wi-Fi scans is crippling some network tools Update 2 (5/29/19 @ 9:04 AM ET): A Google employee says a new developer option for toggling WiFi scanning throttling will be available starting with Android Q Beta 5. Update 1 (5/28/19 @ 01:18 AM ET): Google has confirmed that the changes to foreground Wi-Fi scanning will stay in Android Q. &quot;Android Pie is still fresh on everyone’s mind and we’re only starting to experience some of the changes that Google has made with its latest update. Android has always been criticized for having poor battery life compared to other mobile operating systems, but this was a double-edged sword. Sure, Android used more battery life than others, but it allowed for a lot more unique and diverse applications to be exclusive to the platform. Google has done a lot to help improve the overall battery life usage on Android, but this latest change to WiFi scanning is interfering with a number of network applications. &quot;So, with the introduction of Android Pie, Google has put a limitation on the frequency that an application can use the platform’s WiFi Scanning feature. Google has responded to the report in their issue tracker and confirmed this latest update to Android limits this functionality for both foreground applications as well as all background applications. For foreground applications, the feature is limited to 4 scans every 2 minutes while applications in the background are restricted to only 1 scan every 30 minutes. &quot;On the surface of it all, this seems like a decent way to alleviate some unneeded battery usage, but there are some circumstances where this has had a negative effect. For instance, popular network applications such as WiFi Analyzer and WiGLE (a Wardriving app) need more frequent access to the WiFi scanning than your standard application. This change has essentially made these types of applications useless as it reduces their scan rate by at least 30x even though they are active applications meant to be used in the foreground. &quot;As you can see, these outlier circumstances have had a negative effect on some popular networking applications. Google has been active in this issue tracker thread and even went as far as to explain how the throttling is determined. As of right now, there hasn’t been a solution provided by Google themselves, but they have gone ahead and deferred this issue “for consideration” in a future Android release. &quot;Update 1: Still in Android Q According to a comment on the Google Issue Tracker (via AndroidPolice), Wi-Fi throttling is here to stay. However, Android Q allows users to turn off throttling on a local device with the following ADB command: &quot;adb shell settings put global wifi_scan_throttle_enabled 0 Despite what the comment says, sending this command does not require root access. &quot;Update 2: Toggle coming in Q Beta 5 A Google employee posted a comment in the Google Issue Tracker thread saying a toggle is coming soon. Starting with Android Q Beta 5, which is scheduled for Q3 2019, there will be a toggle to turn scan throttling off in the developer options. You won’t need to use the ADB command mentioned in the previous article update. &quot; Discuss This Story TagsAndroid 9 PieAndroid PieAndroid QGooglewifi Want more posts like this delivered to your inbox? Enter your email to be subscribed to our newsletter. Email Address -32894156</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2549&amp;p=10432#p10432</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2549&amp;p=10432#p10432</guid>
+        <pubDate>2019-12-23T00:46:25</pubDate>
+      </item>
+  </channel>
+</rss>
