@@ -2,6 +2,16 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      
+      <item>
+        <title>Hungary/Szerszámzat: Fejlesztési igények: telefonszám, adószám -Vasony</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Szersz%C3%A1mzat&amp;diff=2197102&amp;oldid=2197094</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Szersz%C3%A1mzat&amp;diff=2197102</guid>
+        <pubDate>Fri, 10 Sep 2021 19:17:02 GMT</pubDate>
+      </item><item>
+        <title>Hungary/Szerszámzat: Fejlesztési igények: Hibajegy öregedés, Hozzászólásban említett fotók mentése szabad utcaképbe -Bkil</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Szersz%C3%A1mzat&amp;diff=2197094&amp;oldid=2150591</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Szersz%C3%A1mzat&amp;diff=2197094</guid>
+        <pubDate>Fri, 10 Sep 2021 19:04:52 GMT</pubDate>
+      </item>
   </channel>
 </rss>
