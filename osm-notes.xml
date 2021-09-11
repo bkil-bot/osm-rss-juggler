@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Bátor) / * 2021 September 11 18:38 bkil Resolved: </title>
+        <link>https://www.openstreetmap.org/note/2847046#c6078341</link>
+        <guid>https://www.openstreetmap.org/note/2847046#c6078341</guid>
+        <pubDate>Sat, 11 Sep 2021 18:38:26 +0000</pubDate>
+      </item><item>
         <title>new note (near Bátor) / * 2021 September 11 16:50 Created: lgglglgjhlggjlh</title>
         <link>https://www.openstreetmap.org/note/2847046#c6078077</link>
         <guid>https://www.openstreetmap.org/note/2847046#c6078077</guid>
@@ -152,16 +157,6 @@
         <link>https://www.openstreetmap.org/note/2823560#c6067282</link>
         <guid>https://www.openstreetmap.org/note/2823560#c6067282</guid>
         <pubDate>Wed, 08 Sep 2021 07:00:03 +0000</pubDate>
-      </item><item>
-        <title>closed note (near City Park, 14th district) / * 2021 August 27 15:07 aTrooper Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/364790816 via StreetComplete 33.2: / kein Gebäude / * 2021 September 8 06:49 ITineris Resolved: Removed.</title>
-        <link>https://www.openstreetmap.org/note/2823295#c6067245</link>
-        <guid>https://www.openstreetmap.org/note/2823295#c6067245</guid>
-        <pubDate>Wed, 08 Sep 2021 06:49:46 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Cordia Thermal 1 lakópark, 14th district) / * 2021 August 29 07:46 Created: Building C / * 2021 September 8 06:45 ITineris Resolved: Az OSM adatbázisában már szerepelnek az épületek (addr:building).</title>
-        <link>https://www.openstreetmap.org/note/2825807#c6067240</link>
-        <guid>https://www.openstreetmap.org/note/2825807#c6067240</guid>
-        <pubDate>Wed, 08 Sep 2021 06:45:03 +0000</pubDate>
       </item>
   </channel>
 </rss>
