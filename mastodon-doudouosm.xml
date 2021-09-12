@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>Tips for mapping individual parking spaces in #OpenStreetMap with #JOSM: https://www.openstreetmap.org/user/Lejun/diary/397549 Via #WeeklyOSM: https://weeklyosm.eu</title>
+        <link>https://en.osm.town/@Doudouosm/106918036405179685</link>
+        <guid>https://en.osm.town/@Doudouosm/106918036405179685</guid>
+        <pubDate>Sun, 12 Sep 2021 09:42:44 +0000</pubDate>
+      </item><item>
         <title>#MapRoulette introduces Challenge Health Measures by archiving stale challenges and capping the number of tasks per challenge: https://blog.maproulette.org/2021/09/01/introducing-challenge-health-measures/. #OpenStreetMap</title>
         <link>https://en.osm.town/@Doudouosm/106863947107950258</link>
         <guid>https://en.osm.town/@Doudouosm/106863947107950258</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/106314050824874324</link>
         <guid>https://en.osm.town/@Doudouosm/106314050824874324</guid>
         <pubDate>Fri, 28 May 2021 17:41:15 +0000</pubDate>
-      </item><item>
-        <title>Another good read via #MDPI: “The Impact of Community Happenings in #OpenStreetMap” (https://www.mdpi.com/2220-9964/10/3/164). Effects on mappers who participated in field and remote mapping happenings: newcomers in remote mapping event tended to create lower quality but high quantity new data in places foreign to their home region; newcomers in field mapping happenings updated and enhanced existing local data with high accuracy. Advanced mappers stayed largely unaffected by happenings.</title>
-        <link>https://en.osm.town/@Doudouosm/106297407698512315</link>
-        <guid>https://en.osm.town/@Doudouosm/106297407698512315</guid>
-        <pubDate>Tue, 25 May 2021 19:08:41 +0000</pubDate>
       </item>
   </channel>
 </rss>
