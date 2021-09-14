@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>DIY Box Reflector - sick gainz!: This is not my original idea, it's my practical implementation of the Ez-10 corner reflector. It makes omnis directional like a dish would but it's less picky about conditions. You can make this thing in 15 minutes, it costs nothing and it folds for storage. I got a 10 dBm signal difference to a faraway access point. Materials: Your favorite USB wifi adapter + USB extension cable I recommend a Terow ROW02CD (MediaTek MT7612U) with CD driver https://smile.amazon.com/dp/B086L6TR6G/ Boxcutter Rectangular box, as big as you can feasibly make and use recommended: used USPS 1095 sized box approx: 15&quot; (L) x 12&quot; (W) x 3-1/8&quot;(H) Shipping Tape Aluminum Foil Warning: Exceeding EIRP limits is generally illegal 1. Make two cuts into your box to chop off one of the short sides. Your box should now open like a trifold. 2. Cut off the folding flaps from the top of the box. Save them. 3. You will make slots and thread a cardboard flap through for structural support. Cut slots near the top of the box. 4. As neatly as you can, grab your reel of aluminum foil. Tape aluminum foil on the two inside walls of the box. 5. Take off your antennas if they are removable. Make a hole and jam your adapter through. Hook the antennas back up. Hook the adapter to the USB extension cable. 6. Thread flap through slots 7. If you have a two antenna adapter, deploy them in a V shape. You may hang the top antenna off the flap for support. Adjustments: -Connect to the AP and run &quot;watch -n0 iwconfig&quot; in Linux. Steer your antenna towards the AP. Stop steering when bit rate, link quality and signal level look good. -Indoors = Signals will bounce. If you do not have direct line of sight sometimes pointing slightly away from the AP works better. -Beamforming may affect results -Making the walls bigger will improve gain with diminishing returns -My reflector is probably incomplete since I don't have any foil in the middle. I don't know if putting it that close to the adapter causes interference, will test later. References: http://www.freeantennas.com/projects/Ez-10/ https://en.wikipedia.org/wiki/Corner_reflector_antenna -SkywardLark</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2893&amp;p=11034#p11034</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2893&amp;p=11034#p11034</guid>
+        <pubDate>2021-09-14T03:50:10</pubDate>
+      </item><item>
         <title>Re: Best Android for WigleWifi: I recommend the Samsung S5. I use one as my personal phone. Stock Android supports VOLTE, custom roms don't. You might not be able to make calls with it past 2022. It's had continuous LineageOS support for about half a decade. Street value $50-$100, cheap OEM batteries, has all the radios. The only model you should get in North America is the SM-G900T. All of them have unlocked bootloaders and it generally has the most useful 4G bands. &quot;A&quot; model is locked and &quot;V&quot; model is 50/50 depending on whether the phone came with exploitable hardware. -SkywardLark</title>
         <link>https://wigle.net/phpbb/viewtopic.php?t=2881&amp;p=10992#p10992</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2881&amp;p=10992#p10992</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?t=2751&amp;p=10954#p10954</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2751&amp;p=10954#p10954</guid>
         <pubDate>2021-07-29T01:28:44</pubDate>
-      </item><item>
-        <title>Re: portable home-made war-driving gear: no concrete answers (building a similar rig myself right now, so I'll post here as I learn things), but: 1. if you're ntp sync'd when you start, I would think that should be fine. I was specifically worried about GPS accuracy, which is what led me to add a hardware clock module. I probably over-thought things, but at least before COVID I was a frequent traveler, and desire to just be able to boot-and-go was a design constraint. In this vein, do you know the number of networks vs. networks-with-location in your run database? (I believe but have not verified that the kismet WiGLE export script only exports nets with location) 2. I've noticed the internal wireless is flaky, too, but maybe there's a driver fix? I'm using a pair of Pandas radios on my rig, will report back. -ark -arkasha</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?t=2751&amp;p=10952#p10952</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?t=2751&amp;p=10952#p10952</guid>
-        <pubDate>2021-07-27T22:20:00</pubDate>
       </item>
   </channel>
 </rss>
