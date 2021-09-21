@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Kovácstanya, Győr) / * 2021 September 21 16:46 Created: Hali</title>
+        <link>https://www.openstreetmap.org/note/2863059#c6113770</link>
+        <guid>https://www.openstreetmap.org/note/2863059#c6113770</guid>
+        <pubDate>Tue, 21 Sep 2021 16:46:29 +0000</pubDate>
+      </item><item>
         <title>new note (near Gubacsipuszta, 20th district) / * 2021 September 21 12:37 Hungarian_user Created: Unable to answer &amp;quot;What kind of crossing is this?&amp;quot; for https://osm.org/node/8946107293 via StreetComplete 34.2: / nem zebra</title>
         <link>https://www.openstreetmap.org/note/2862699#c6113158</link>
         <guid>https://www.openstreetmap.org/note/2862699#c6113158</guid>
@@ -192,26 +197,6 @@
         <link>https://www.openstreetmap.org/note/2859273#c6103663</link>
         <guid>https://www.openstreetmap.org/note/2859273#c6103663</guid>
         <pubDate>Sun, 19 Sep 2021 09:30:25 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Rákospalota Öregfalu, Rákospalota, 15th district) / * 2021 September 19 09:30 ottwiz Resolved: felvettem</title>
-        <link>https://www.openstreetmap.org/note/2859280#c6103662</link>
-        <guid>https://www.openstreetmap.org/note/2859280#c6103662</guid>
-        <pubDate>Sun, 19 Sep 2021 09:30:24 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Rákospalota Öregfalu, Rákospalota, 15th district) / * 2021 August 9 07:31 ottwiz Created: Az ovi még nincsen kész, így minden bejárata access=private lett. Majd ha teljesen kész az ovi (2021-09-15), akkor a Kismező utca felőli bejáratot access=* jelzéssel illene ellátni. / * 2021 August 9 07:31 ottwiz Updated: Az udvarát is még csak proposed:landuse-sal jelzem, mert még ugye nem lehet ott a gyerekeknek játszania, akik majd oda fognak járni. / * 2021 September 19 09:30 ottwiz Resolved: Oké, megcsináltam.</title>
-        <link>https://www.openstreetmap.org/note/2793253#c6103661</link>
-        <guid>https://www.openstreetmap.org/note/2793253#c6103661</guid>
-        <pubDate>Sun, 19 Sep 2021 09:30:16 +0000</pubDate>
-      </item><item>
-        <title>new note (near Rákospalota Öregfalu, Rákospalota, 15th district) / * 2021 September 19 08:16 ottwiz Created: 1912ben épült (rajta van a szám) / via StreetComplete 34.1</title>
-        <link>https://www.openstreetmap.org/note/2859313#c6103445</link>
-        <guid>https://www.openstreetmap.org/note/2859313#c6103445</guid>
-        <pubDate>Sun, 19 Sep 2021 08:16:55 +0000</pubDate>
-      </item><item>
-        <title>new note (near Rákospalota, 15th district) / * 2021 September 19 08:02 ottwiz Created: vegyesbolt bódéja / via StreetComplete 34.1 / Attached photo(s): / https://westnordost.de/p/60922.jpg</title>
-        <link>https://www.openstreetmap.org/note/2859308#c6103433</link>
-        <guid>https://www.openstreetmap.org/note/2859308#c6103433</guid>
-        <pubDate>Sun, 19 Sep 2021 08:02:52 +0000</pubDate>
       </item>
   </channel>
 </rss>
