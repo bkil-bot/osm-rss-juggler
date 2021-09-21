@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>Tutorial: Adding places of worship to OpenStreetMap. https://www.youtube.com/watch?v=7lVuKtNgrkY Using Field Papers and the #iD Editor, this tutorial shows #OpenStreetMap beginners how to edit the database and add churches, mosques, synagogues, temples, and other places of worship, into the map database used by maps and apps around the world.</title>
+        <link>https://en.osm.town/@Doudouosm/106970990883526613</link>
+        <guid>https://en.osm.town/@Doudouosm/106970990883526613</guid>
+        <pubDate>Tue, 21 Sep 2021 18:09:45 +0000</pubDate>
+      </item><item>
         <title>#MapRoulette: What It Is And How To Use. Learn in just less than 4 minutes, how to perform microtasks to improve data quality in #OpenStreetMap. https://www.youthmappers.org/post/maproulette-what-it-is-and-how-to-use</title>
         <link>https://en.osm.town/@Doudouosm/106939585999256465</link>
         <guid>https://en.osm.town/@Doudouosm/106939585999256465</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/106354092732091115</link>
         <guid>https://en.osm.town/@Doudouosm/106354092732091115</guid>
         <pubDate>Fri, 04 Jun 2021 19:24:26 +0000</pubDate>
-      </item><item>
-        <title>#LG opens open-source licence compliance tool source: https://www.theregister.com/2021/06/04/lg_open_sources_fosslight/. Known as #FOSSlight, the suite helps users to ensure they are using code as permitted by its licence, looks out for known vulnerabilities in free and open-source software (#FOSS) so that developers address those holes, and can also check FOSS libraries and projects offered by third parties.</title>
-        <link>https://en.osm.town/@Doudouosm/106353620815793445</link>
-        <guid>https://en.osm.town/@Doudouosm/106353620815793445</guid>
-        <pubDate>Fri, 04 Jun 2021 17:24:26 +0000</pubDate>
       </item>
   </channel>
 </rss>

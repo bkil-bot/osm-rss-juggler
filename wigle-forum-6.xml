@@ -3,6 +3,11 @@
   <channel>
     <title>WiGLE Frontpage (via bkil-bot)</title>
       <item>
+        <title>Re: Pixel update RQ3A.210905.001 breaks GPS: I downloaded the latest Wigle update and the problem appears to be fixed - thank you! -ecramp</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2894&amp;p=11065#p11065</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2894&amp;p=11065#p11065</guid>
+        <pubDate>2021-09-21T17:54:42</pubDate>
+      </item><item>
         <title>Re: Pixel update RQ3A.210905.001 breaks GPS: Of course I came here after I installed the update and ran into the issue. ☹️ I also found that I had to turn off the Wi-Fi scan throttling developer option again after the update. I'm happy to try gathering debug data of that would help. -scarhill</title>
         <link>https://wigle.net/phpbb/viewtopic.php?t=2894&amp;p=11064#p11064</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2894&amp;p=11064#p11064</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?t=2879&amp;p=10957#p10957</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2879&amp;p=10957#p10957</guid>
         <pubDate>2021-07-31T17:05:42</pubDate>
-      </item><item>
-        <title>Re: On _nomap and _optout: bobzilla wrote: &amp;gt; For a false sense of security Google and Microsoft allow you to opt out of &amp;gt; including your network in their geolocation systems. WiGLE automatically &amp;gt; hides networks (currently 16,644) with these _nomap and/or _optout tags in &amp;gt; the ssid. Note that unless you turn of your beacon your network is still &amp;gt; blasting the presence of your network to anyone within radio distance. And &amp;gt; even with beacons off your network can be noticed just via traffic flowing &amp;gt; on it. As always, obscurity isn't security, encrypt all the things. &amp;gt; https://gbapps.net/gbwhatsapp-apk/ &amp;gt; https://support.google.com/nexus/answer/1725632 &amp;gt; &amp;gt; http://www.windowsphone.com/en-us/how-t ... i-fi-sense Apple and Microsoft do the same, I think the keyword for opt-out is different for each -showline</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?t=2330&amp;p=10956#p10956</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?t=2330&amp;p=10956#p10956</guid>
-        <pubDate>2021-07-31T11:32:30</pubDate>
       </item>
   </channel>
 </rss>
