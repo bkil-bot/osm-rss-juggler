@@ -3,6 +3,11 @@
   <channel>
     <title>WiGLE Frontpage (via bkil-bot)</title>
       <item>
+        <title>Re: Pixel update RQ3A.210905.001 breaks GPS: Of course I came here after I installed the update and ran into the issue. ☹️ I also found that I had to turn off the Wi-Fi scan throttling developer option again after the update. I'm happy to try gathering debug data of that would help. -scarhill</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2894&amp;p=11064#p11064</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2894&amp;p=11064#p11064</guid>
+        <pubDate>2021-09-21T00:07:22</pubDate>
+      </item><item>
         <title>Pixel update RQ3A.210905.001 breaks GPS: GPS no longer updates when the device is locked after upgrading Pixel devices to RQ3A.210905.001. (Android 11 September). Beware, upgrades will render your devices unusable for stumbling. We are researching options. -arkasha</title>
         <link>https://wigle.net/phpbb/viewtopic.php?t=2894&amp;p=11048#p11048</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2894&amp;p=11048#p11048</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?t=2330&amp;p=10956#p10956</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2330&amp;p=10956#p10956</guid>
         <pubDate>2021-07-31T11:32:30</pubDate>
-      </item><item>
-        <title>Re: It's gonna be a Wireless S#!tshow!: Great show guys, thank you for announcing it here. :) -ccie4526</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?t=2877&amp;p=10943#p10943</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?t=2877&amp;p=10943#p10943</guid>
-        <pubDate>2021-07-14T04:09:56</pubDate>
       </item>
   </channel>
 </rss>
