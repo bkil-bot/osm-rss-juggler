@@ -2,11 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      <item>
-        <title>Hungary/Szerszámzat: Fejlesztési igények: iD és a relációk elrontása, WMS dinamikus réteg megjelenítése -Bkil</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Szersz%C3%A1mzat&amp;diff=2200605&amp;oldid=2197402</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Szersz%C3%A1mzat&amp;diff=2200605</guid>
-        <pubDate>Tue, 21 Sep 2021 00:12:12 GMT</pubDate>
-      </item>
+      
   </channel>
 </rss>
