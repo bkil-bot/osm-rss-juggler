@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Torbágy, Torbágyi városközpont, Biatorbágy) / * 2021 September 29 20:55 vasony Created: A főút Dózsa György út, ez meg itt Dózsa György utca. Ez így elég valószínűtlen, ellenőrizendő!</title>
+        <link>https://www.openstreetmap.org/note/2874375#c6137559</link>
+        <guid>https://www.openstreetmap.org/note/2874375#c6137559</guid>
+        <pubDate>Wed, 29 Sep 2021 20:55:58 +0000</pubDate>
+      </item><item>
         <title>new comment (near Alkotmány úti lakótelep, Sárvár) / * 2021 September 29 18:47 SoloTraveller Updated: There is a web site describing the construction project: https://krisztinalakopark.hu/</title>
         <link>https://www.openstreetmap.org/note/2873857#c6137229</link>
         <guid>https://www.openstreetmap.org/note/2873857#c6137229</guid>
@@ -142,11 +147,6 @@
         <link>https://www.openstreetmap.org/note/2870016#c6127940</link>
         <guid>https://www.openstreetmap.org/note/2870016#c6127940</guid>
         <pubDate>Sun, 26 Sep 2021 14:40:41 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Terézváros, 6th district) / * 2021 September 25 19:39 Created: Liszt Museum is in wrong place. This is the correct address. / * 2021 September 26 13:10 feket Resolved: It is here.</title>
-        <link>https://www.openstreetmap.org/note/2869080#c6127683</link>
-        <guid>https://www.openstreetmap.org/note/2869080#c6127683</guid>
-        <pubDate>Sun, 26 Sep 2021 13:10:32 +0000</pubDate>
       </item>
   </channel>
 </rss>
