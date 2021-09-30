@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Újladány, Körösladány) / * 2021 September 5 19:33 vasony-qa Created: Wenckheim Béla út vagy utca szerepel az utcatáblán? / * 2021 September 27 17:50 Kiss_Karoly Updated: utca / * 2021 September 30 19:51 vasony Resolved: Kösz, akkor átírom az osm-en is.</title>
+        <link>https://www.openstreetmap.org/note/2837989#c6140325</link>
+        <guid>https://www.openstreetmap.org/note/2837989#c6140325</guid>
+        <pubDate>Thu, 30 Sep 2021 19:51:38 +0000</pubDate>
+      </item><item>
+        <title>new note (near Alsómocsolád) / * 2021 September 30 19:48 vasony Created: Ez itt az Alsómocsoládi út?</title>
+        <link>https://www.openstreetmap.org/note/2875609#c6140317</link>
+        <guid>https://www.openstreetmap.org/note/2875609#c6140317</guid>
+        <pubDate>Thu, 30 Sep 2021 19:48:36 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Alsómocsolád) / * 2021 September 30 19:46 vasony Resolved: Jaj... rossz helyre tettem a koordinátát, nem ez a kérdéses.</title>
+        <link>https://www.openstreetmap.org/note/2654462#c6140315</link>
+        <guid>https://www.openstreetmap.org/note/2654462#c6140315</guid>
+        <pubDate>Thu, 30 Sep 2021 19:46:51 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Alsómocsolád) / * 2021 May 4 15:05 vasony-qa Created: Ez az Alsómocsoládi út? / * 2021 September 28 10:47 kogutowicz-mano Updated: Öööö... hogy érted? 65174-es út. / * 2021 September 30 19:45 vasony Updated: Külterület, nincs neve?</title>
+        <link>https://www.openstreetmap.org/note/2654462#c6140307</link>
+        <guid>https://www.openstreetmap.org/note/2654462#c6140307</guid>
+        <pubDate>Thu, 30 Sep 2021 19:45:18 +0000</pubDate>
+      </item><item>
         <title>new note (near Középső-Ferencváros, 9th district) / * 2021 September 30 12:36 VolaricsI Created: Unable to answer &amp;quot;This shop has been vacant. What&amp;#39;s here now?&amp;quot; for https://osm.org/node/2130948219 via StreetComplete 35.0: / nincs</title>
         <link>https://www.openstreetmap.org/note/2875020#c6139095</link>
         <guid>https://www.openstreetmap.org/note/2875020#c6139095</guid>
@@ -142,21 +162,6 @@
         <link>https://www.openstreetmap.org/note/2871263#c6130710</link>
         <guid>https://www.openstreetmap.org/note/2871263#c6130710</guid>
         <pubDate>Mon, 27 Sep 2021 12:51:12 +0000</pubDate>
-      </item><item>
-        <title>reactivated note (near Felsőváros, Kiskunhalas) / * 2021 September 27 08:28 neoarted Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/2870997#c6130066</link>
-        <guid>https://www.openstreetmap.org/note/2870997#c6130066</guid>
-        <pubDate>Mon, 27 Sep 2021 08:28:13 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Felsőváros, Kiskunhalas) / * 2021 September 27 08:22 neoarted Resolved: Misztrál Dolgozói Hotel Kiskunhalas</title>
-        <link>https://www.openstreetmap.org/note/2870997#c6130058</link>
-        <guid>https://www.openstreetmap.org/note/2870997#c6130058</guid>
-        <pubDate>Mon, 27 Sep 2021 08:22:15 +0000</pubDate>
-      </item><item>
-        <title>new note (near Felsőváros, Kiskunhalas) / * 2021 September 27 08:21 neoarted Created: Misztrál Dolgozói Hotel Kiskunhalas</title>
-        <link>https://www.openstreetmap.org/note/2870997#c6130057</link>
-        <guid>https://www.openstreetmap.org/note/2870997#c6130057</guid>
-        <pubDate>Mon, 27 Sep 2021 08:21:44 +0000</pubDate>
       </item>
   </channel>
 </rss>
