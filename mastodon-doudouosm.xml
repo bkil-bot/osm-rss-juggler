@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>#OpenStreetMap Belgium’s Mapper of the Month #MotM series puts @drobaux in the spotlight. https://openstreetmap.be/en/motm/2021/10/02/donat-robaux.html</title>
+        <link>https://en.osm.town/@Doudouosm/107033928287688519</link>
+        <guid>https://en.osm.town/@Doudouosm/107033928287688519</guid>
+        <pubDate>Sat, 02 Oct 2021 20:55:34 +0000</pubDate>
+      </item><item>
         <title>Tutorial: Adding places of worship to OpenStreetMap. https://www.youtube.com/watch?v=7lVuKtNgrkY Using Field Papers and the #iD Editor, this tutorial shows #OpenStreetMap beginners how to edit the database and add churches, mosques, synagogues, temples, and other places of worship, into the map database used by maps and apps around the world.</title>
         <link>https://en.osm.town/@Doudouosm/106970990883526613</link>
         <guid>https://en.osm.town/@Doudouosm/106970990883526613</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/106412633461078395</link>
         <guid>https://en.osm.town/@Doudouosm/106412633461078395</guid>
         <pubDate>Tue, 15 Jun 2021 03:32:07 +0000</pubDate>
-      </item><item>
-        <title>#Lyft Mapping study shows crucial #OpenStreetMap road attributes are fresh and high quality in 30 North American cities, as compared to groundtruth: https://eng.lyft.com/how-lyft-discovered-openstreetmap-is-the-freshest-map-for-rideshare-a7a41bf92ec</title>
-        <link>https://en.osm.town/@Doudouosm/106354092732091115</link>
-        <guid>https://en.osm.town/@Doudouosm/106354092732091115</guid>
-        <pubDate>Fri, 04 Jun 2021 19:24:26 +0000</pubDate>
       </item>
   </channel>
 </rss>
