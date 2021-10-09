@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Ámánd, Pannonhalma) / * 2021 October 9 11:27 OSM KAMI Created: Ideiglenes kordonnal lezárva</title>
+        <link>https://www.openstreetmap.org/note/2887316#c6164907</link>
+        <guid>https://www.openstreetmap.org/note/2887316#c6164907</guid>
+        <pubDate>Sat, 09 Oct 2021 11:27:48 +0000</pubDate>
+      </item><item>
+        <title>new note (near Ámánd, Pannonhalma) / * 2021 October 9 11:27 OSM KAMI Created: Ez meg nem egyirányú</title>
+        <link>https://www.openstreetmap.org/note/2887315#c6164906</link>
+        <guid>https://www.openstreetmap.org/note/2887315#c6164906</guid>
+        <pubDate>Sat, 09 Oct 2021 11:27:47 +0000</pubDate>
+      </item><item>
         <title>closed note (near Terézváros, 6th district) / * 2021 October 9 10:22 vasony Resolved: </title>
         <link>https://www.openstreetmap.org/note/2551877#c6164667</link>
         <guid>https://www.openstreetmap.org/note/2551877#c6164667</guid>
@@ -102,61 +112,6 @@
         <link>https://www.openstreetmap.org/note/2884601#c6159067</link>
         <guid>https://www.openstreetmap.org/note/2884601#c6159067</guid>
         <pubDate>Thu, 07 Oct 2021 12:28:38 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Homok, Tiszaföldvár) / * 2021 October 6 17:36 bkil Resolved: Ez a funkció térképhibák bejelentésére szolgál. Szeretettel várjuk hogyha bármi javítandó, illetve akár annak javításában is szívesen segítünk. Üdv!</title>
-        <link>https://www.openstreetmap.org/note/2883739#c6157259</link>
-        <guid>https://www.openstreetmap.org/note/2883739#c6157259</guid>
-        <pubDate>Wed, 06 Oct 2021 17:36:03 +0000</pubDate>
-      </item><item>
-        <title>reactivated note (near Homok, Tiszaföldvár) / * 2021 October 6 17:02 Sandor Sandor Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/2883739#c6157176</link>
-        <guid>https://www.openstreetmap.org/note/2883739#c6157176</guid>
-        <pubDate>Wed, 06 Oct 2021 17:02:53 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Homok, Tiszaföldvár) / * 2021 October 6 17:02 Sandor Sandor Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2883739#c6157175</link>
-        <guid>https://www.openstreetmap.org/note/2883739#c6157175</guid>
-        <pubDate>Wed, 06 Oct 2021 17:02:49 +0000</pubDate>
-      </item><item>
-        <title>new note (near Homok, Tiszaföldvár) / * 2021 October 6 17:02 Sandor Sandor Created: Szuper</title>
-        <link>https://www.openstreetmap.org/note/2883739#c6157171</link>
-        <guid>https://www.openstreetmap.org/note/2883739#c6157171</guid>
-        <pubDate>Wed, 06 Oct 2021 17:02:24 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Franciahögy lakópark, Északi városrész, Szeged) / * 2021 October 6 14:48 gabro00 Resolved: Felvettem https://www.openstreetmap.org/changeset/112173709</title>
-        <link>https://www.openstreetmap.org/note/2883558#c6156894</link>
-        <guid>https://www.openstreetmap.org/note/2883558#c6156894</guid>
-        <pubDate>Wed, 06 Oct 2021 14:48:39 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Komárom) / * 2021 October 6 14:42 Ábrahám Máté Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2883538#c6156879</link>
-        <guid>https://www.openstreetmap.org/note/2883538#c6156879</guid>
-        <pubDate>Wed, 06 Oct 2021 14:42:33 +0000</pubDate>
-      </item><item>
-        <title>reactivated note (near Komárom) / * 2021 October 6 14:42 Ábrahám Máté Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/2883538#c6156878</link>
-        <guid>https://www.openstreetmap.org/note/2883538#c6156878</guid>
-        <pubDate>Wed, 06 Oct 2021 14:42:31 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Komárom) / * 2021 October 6 14:42 Ábrahám Máté Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2883538#c6156876</link>
-        <guid>https://www.openstreetmap.org/note/2883538#c6156876</guid>
-        <pubDate>Wed, 06 Oct 2021 14:42:26 +0000</pubDate>
-      </item><item>
-        <title>new note (near Felsőjózsa, Debrecen) / * 2021 October 6 14:27 kogutowicz-mano Created: Ez egy nagyon érdekes távvezeték. A markertől keletre kétáramkörös, a jelnél elágazik kétfelé. Az egyikük nyugati vége Sajószögeden van a 220 kV-os részen, a másiké Debrecen Józsa alállomáson, a 132 kV-osok közt. Eddig nem lenne baj, a jeltől keletre menő szakasz éppenséggel lehetne kétfeszültségű. Na de a végén (Debrecen MAVIR) mindkét áramkör a 220 kV-os sínekre csatlakozik. Itt valami el van rontva...</title>
-        <link>https://www.openstreetmap.org/note/2883565#c6156832</link>
-        <guid>https://www.openstreetmap.org/note/2883565#c6156832</guid>
-        <pubDate>Wed, 06 Oct 2021 14:27:04 +0000</pubDate>
-      </item><item>
-        <title>new note (near Franciahögy lakópark, Északi városrész, Szeged) / * 2021 October 6 14:21 GBAB Created: Survey new buulding using recent imagery</title>
-        <link>https://www.openstreetmap.org/note/2883558#c6156792</link>
-        <guid>https://www.openstreetmap.org/note/2883558#c6156792</guid>
-        <pubDate>Wed, 06 Oct 2021 14:21:41 +0000</pubDate>
-      </item><item>
-        <title>new note (near Komárom) / * 2021 October 6 14:09 Created: onosm.org submitted note from a business: / name: Crazy House Szabadulószoba / phone: +36702507146 / website: https://crazyhouse.hu/ / twitter: / facebook: https://www.facebook.com/crazyhouse.escaperoom / email: info@crazyhouse.hu / hours: / category: Active Life / address: 2900 Komárom, Arany János utca 27.</title>
-        <link>https://www.openstreetmap.org/note/2883538#c6156745</link>
-        <guid>https://www.openstreetmap.org/note/2883538#c6156745</guid>
-        <pubDate>Wed, 06 Oct 2021 14:09:32 +0000</pubDate>
       </item>
   </channel>
 </rss>
