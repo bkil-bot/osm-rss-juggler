@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Felsőtárkány) / * 2021 October 15 08:51 MartorCZ Updated: https://wiki.openstreetmap.org/wiki/Key:smoothness</title>
+        <link>https://www.openstreetmap.org/note/2896059#c6183477</link>
+        <guid>https://www.openstreetmap.org/note/2896059#c6183477</guid>
+        <pubDate>Fri, 15 Oct 2021 08:51:35 +0000</pubDate>
+      </item><item>
+        <title>new note (near Felsőtárkány) / * 2021 October 15 08:37 MartorCZ Created: please fix the smoothness = impassable tag as appropriate. I think you can walk this way. Thanks</title>
+        <link>https://www.openstreetmap.org/note/2896059#c6183455</link>
+        <guid>https://www.openstreetmap.org/note/2896059#c6183455</guid>
+        <pubDate>Fri, 15 Oct 2021 08:37:43 +0000</pubDate>
+      </item><item>
         <title>new note (near Belváros, Győr) / * 2021 October 14 14:17 JE_English Created: Unable to answer &amp;quot;What are the opening hours of Centrum Áruház (Mall)?&amp;quot; for https://osm.org/node/3499272895 via StreetComplete 35.2: / most KFC van</title>
         <link>https://www.openstreetmap.org/note/2895098#c6181315</link>
         <guid>https://www.openstreetmap.org/note/2895098#c6181315</guid>
@@ -112,11 +122,6 @@
         <link>https://www.openstreetmap.org/note/2891682#c6174122</link>
         <guid>https://www.openstreetmap.org/note/2891682#c6174122</guid>
         <pubDate>Tue, 12 Oct 2021 10:07:58 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Királyhegyes) / * 2021 October 11 18:20 ottwiz Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2890892#c6172407</link>
-        <guid>https://www.openstreetmap.org/note/2890892#c6172407</guid>
-        <pubDate>Mon, 11 Oct 2021 18:20:38 +0000</pubDate>
       </item>
   </channel>
 </rss>
