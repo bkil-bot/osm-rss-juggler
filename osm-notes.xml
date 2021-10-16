@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Tarpa) / * 2021 September 16 07:39 Matyjace Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;Moritz path does not exist here&amp;quot; / * 2021 October 16 09:15 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/112568268</title>
+        <link>https://www.openstreetmap.org/note/2854685#c6186487</link>
+        <guid>https://www.openstreetmap.org/note/2854685#c6186487</guid>
+        <pubDate>Sat, 16 Oct 2021 09:15:51 +0000</pubDate>
+      </item><item>
         <title>new note (near VOLÁN telep, Kaposvár) / * 2021 October 16 08:04 Created: Is this section finished? In Google Maps it seems finished.</title>
         <link>https://www.openstreetmap.org/note/2897260#c6186343</link>
         <guid>https://www.openstreetmap.org/note/2897260#c6186343</guid>
@@ -142,11 +147,6 @@
         <link>https://www.openstreetmap.org/note/2893318#c6177195</link>
         <guid>https://www.openstreetmap.org/note/2893318#c6177195</guid>
         <pubDate>Wed, 13 Oct 2021 09:12:58 +0000</pubDate>
-      </item><item>
-        <title>new note (near Vízvár) / * 2021 October 13 06:53 Mateusz Konieczny Created: https://www.openstreetmap.org/node/3468119973 - imported at wrong location / Is it safe to drag it onto building? Or is it going to only mask data quality issue?</title>
-        <link>https://www.openstreetmap.org/note/2892996#c6176686</link>
-        <guid>https://www.openstreetmap.org/note/2892996#c6176686</guid>
-        <pubDate>Wed, 13 Oct 2021 06:53:15 +0000</pubDate>
       </item>
   </channel>
 </rss>
