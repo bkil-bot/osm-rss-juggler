@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Angyalföld, 13th district) / * 2021 October 18 14:15 vasony-qa Created: Lehel utca 4-ből 2 van. 4/c is létezol. hol a többi betűjel? Ellenőrizendő!</title>
+        <link>https://www.openstreetmap.org/note/2900961#c6194369</link>
+        <guid>https://www.openstreetmap.org/note/2900961#c6194369</guid>
+        <pubDate>Mon, 18 Oct 2021 14:15:46 +0000</pubDate>
+      </item><item>
+        <title>new note (near Középső-Ferencváros, 9th district) / * 2021 October 18 14:01 vasony-qa Created: Sok a Tűzoltó utca 33, ellenőrizendő!</title>
+        <link>https://www.openstreetmap.org/note/2900951#c6194333</link>
+        <guid>https://www.openstreetmap.org/note/2900951#c6194333</guid>
+        <pubDate>Mon, 18 Oct 2021 14:01:26 +0000</pubDate>
+      </item><item>
+        <title>new note (near Középső-Ferencváros, 9th district) / * 2021 October 18 13:58 vasony-qa Created: Szerintem el vannak csúszva a házszámok, ellenőrizendő!</title>
+        <link>https://www.openstreetmap.org/note/2900943#c6194321</link>
+        <guid>https://www.openstreetmap.org/note/2900943#c6194321</guid>
+        <pubDate>Mon, 18 Oct 2021 13:58:06 +0000</pubDate>
+      </item><item>
+        <title>new note (near Középső-Ferencváros, 9th district) / * 2021 October 18 13:53 vasony-qa Created: Épület, lépcsőház? Kicsit sok az azonos házszám itt.</title>
+        <link>https://www.openstreetmap.org/note/2900937#c6194306</link>
+        <guid>https://www.openstreetmap.org/note/2900937#c6194306</guid>
+        <pubDate>Mon, 18 Oct 2021 13:53:27 +0000</pubDate>
+      </item><item>
         <title>new note (near Szentimreváros, 11th district) / * 2021 October 18 11:21 infeeeee Created: Unable to answer &amp;quot;Are these opening hours for Start utazás (Travel Agency) still correct?&amp;quot; for https://osm.org/node/7264017535 via StreetComplete 36.0: / szomszéd fodrász lett ez is</title>
         <link>https://www.openstreetmap.org/note/2900636#c6193559</link>
         <guid>https://www.openstreetmap.org/note/2900636#c6193559</guid>
@@ -147,36 +167,6 @@
         <link>https://www.openstreetmap.org/note/2897260#c6186343</link>
         <guid>https://www.openstreetmap.org/note/2897260#c6186343</guid>
         <pubDate>Sat, 16 Oct 2021 08:04:31 +0000</pubDate>
-      </item><item>
-        <title>new note (near Mátyásföld, 16th district) / * 2021 October 16 03:56 Created: Pause nyelviskola</title>
-        <link>https://www.openstreetmap.org/note/2897130#c6186019</link>
-        <guid>https://www.openstreetmap.org/note/2897130#c6186019</guid>
-        <pubDate>Sat, 16 Oct 2021 03:56:09 +0000</pubDate>
-      </item><item>
-        <title>new note (near Mátyásföld, 16th district) / * 2021 October 16 03:52 Created: Liget ABC élelmiszerbolt megszűnt, sérült gyerekeket foglakoztató szolgáltatás működik itt</title>
-        <link>https://www.openstreetmap.org/note/2897127#c6186010</link>
-        <guid>https://www.openstreetmap.org/note/2897127#c6186010</guid>
-        <pubDate>Sat, 16 Oct 2021 03:52:17 +0000</pubDate>
-      </item><item>
-        <title>new note (near Mátyásföld, 16th district) / * 2021 October 16 03:50 Created: Nincsenek hajléktalanok, lezárt épület</title>
-        <link>https://www.openstreetmap.org/note/2897126#c6186006</link>
-        <guid>https://www.openstreetmap.org/note/2897126#c6186006</guid>
-        <pubDate>Sat, 16 Oct 2021 03:50:09 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Horváth-oldal, Ádánd) / * 2021 October 15 21:33 feket Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2533748#c6185698</link>
-        <guid>https://www.openstreetmap.org/note/2533748#c6185698</guid>
-        <pubDate>Fri, 15 Oct 2021 21:33:22 +0000</pubDate>
-      </item><item>
-        <title>reactivated note (near Horváth-oldal, Ádánd) / * 2021 October 15 21:31 feket Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/2533748#c6185695</link>
-        <guid>https://www.openstreetmap.org/note/2533748#c6185695</guid>
-        <pubDate>Fri, 15 Oct 2021 21:31:51 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Horváth-oldal, Ádánd) / * 2021 February 10 22:03 Created: Itt körforgalom épült. / * 2021 October 15 21:17 feket Resolved: Köszönjük! Berajzoltam. (changset nr.:112560173)</title>
-        <link>https://www.openstreetmap.org/note/2533748#c6185679</link>
-        <guid>https://www.openstreetmap.org/note/2533748#c6185679</guid>
-        <pubDate>Fri, 15 Oct 2021 21:17:05 +0000</pubDate>
       </item>
   </channel>
 </rss>
