@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: BLE scanning rig: There's a lot to learn about when this sort of thing is seen. It might be helpful to setup an environment (maybe out in the countryside) where you know exactly how many devices are in range ... but then what's the range? Your phone may simply have a greater range/better sensitivity. Good Luck - the testing environment will need to be socially distanced ... LOL. -ecramp</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2895&amp;p=11082#p11082</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2895&amp;p=11082#p11082</guid>
+        <pubDate>2021-10-19T18:11:05</pubDate>
+      </item><item>
         <title>BLE scanning rig: I'm trying to use a Cyprus Bluetooth board in my setup and although it seems to work, it only reports about half the number of Bluetooth devices compared to the Wigle app. I was wondering if this is due to the window and interval sizes in my code - being a newbie I don't have much idea what these should be set to. The default in the example code I'm using is '96' for the scan interval and '48' for the scan window (which I think is times 0.625ms, so 60ms and 30ms respectively). Does anyone know if these are a good starting point? (I'm not concerned about battery life at this point). Many thanks. -sd4664</title>
         <link>https://wigle.net/phpbb/viewtopic.php?t=2895&amp;p=11063#p11063</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2895&amp;p=11063#p11063</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?t=2751&amp;p=10960#p10960</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2751&amp;p=10960#p10960</guid>
         <pubDate>2021-08-03T01:42:51</pubDate>
-      </item><item>
-        <title>Re: portable home-made war-driving gear: no concrete answers (building a similar rig myself right now, so I'll post here as I learn things), but: 1. if you're ntp sync'd when you start, I would think that should be fine. I was specifically worried about GPS accuracy, which is what led me to add a hardware clock module. I probably over-thought things, but at least before COVID I was a frequent traveler, and desire to just be able to boot-and-go was a design constraint. In this vein, do you know the number of networks vs. networks-with-location in your run database? (I believe but have not verified that the kismet WiGLE export script only exports nets with location) 2. I've noticed the internal wireless is flaky, too, but maybe there's a driver fix? I'm using a pair of Pandas radios on my rig, will report back. -arkTo follow up on this, for anyone reading, the on-board pi4 wifi with nexmon drivers is useless. It will just stall out and never recover, always. Got the recommended alfa radio plugged in today, and it flies, works flawlessly. Now I just need to get out of this damn home office so I can get back to the WWWD competition -RSakai</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?t=2751&amp;p=10959#p10959</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?t=2751&amp;p=10959#p10959</guid>
-        <pubDate>2021-08-02T22:58:05</pubDate>
       </item>
   </channel>
 </rss>
