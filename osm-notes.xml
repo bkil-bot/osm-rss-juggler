@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Budafok, 22nd district) / * 2021 October 19 13:50 Created: volt Hunyadi János laktanya / * 2021 October 20 06:01 urbalazs Resolved: Már szerepel a térképen.</title>
+        <link>https://www.openstreetmap.org/note/2902149#c6198579</link>
+        <guid>https://www.openstreetmap.org/note/2902149#c6198579</guid>
+        <pubDate>Wed, 20 Oct 2021 06:01:53 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Sasad, 11th district) / * 2021 October 19 07:13 vasony-qa Created: Ellenőrizendő! / https://ujbuda.hu/ujbuda/lassits-uj-fekvorendorok-sasad-sashegyen / * 2021 October 20 05:58 vasony Updated: van, bump</title>
+        <link>https://www.openstreetmap.org/note/2901626#c6198578</link>
+        <guid>https://www.openstreetmap.org/note/2901626#c6198578</guid>
+        <pubDate>Wed, 20 Oct 2021 05:58:39 +0000</pubDate>
+      </item><item>
+        <title>new note (near Adyliget, 2nd district) / * 2021 October 20 05:41 Created: Adyligeti közösségi hely</title>
+        <link>https://www.openstreetmap.org/note/2902748#c6198555</link>
+        <guid>https://www.openstreetmap.org/note/2902748#c6198555</guid>
+        <pubDate>Wed, 20 Oct 2021 05:41:25 +0000</pubDate>
+      </item><item>
         <title>new note (near Tetemvár, Miskolc) / * 2021 October 19 19:49 MetalRat Created: Unable to answer &amp;quot;What type of shop is Mister Minit?&amp;quot; for https://osm.org/node/4314958009 via StreetComplete 36.0: / Kulcsmásoló, mosoda, cipő- és ruhajavító</title>
         <link>https://www.openstreetmap.org/note/2902531#c6197990</link>
         <guid>https://www.openstreetmap.org/note/2902531#c6197990</guid>
@@ -392,21 +407,6 @@
         <link>https://www.openstreetmap.org/note/2901666#c6196201</link>
         <guid>https://www.openstreetmap.org/note/2901666#c6196201</guid>
         <pubDate>Tue, 19 Oct 2021 08:24:10 +0000</pubDate>
-      </item><item>
-        <title>new note (near Sasad, 11th district) / * 2021 October 19 07:13 vasony-qa Created: Ellenőrizendő! / https://ujbuda.hu/ujbuda/lassits-uj-fekvorendorok-sasad-sashegyen</title>
-        <link>https://www.openstreetmap.org/note/2901627#c6196080</link>
-        <guid>https://www.openstreetmap.org/note/2901627#c6196080</guid>
-        <pubDate>Tue, 19 Oct 2021 07:13:31 +0000</pubDate>
-      </item><item>
-        <title>new note (near Sasad, 11th district) / * 2021 October 19 07:13 vasony-qa Created: Ellenőrizendő! / https://ujbuda.hu/ujbuda/lassits-uj-fekvorendorok-sasad-sashegyen</title>
-        <link>https://www.openstreetmap.org/note/2901626#c6196079</link>
-        <guid>https://www.openstreetmap.org/note/2901626#c6196079</guid>
-        <pubDate>Tue, 19 Oct 2021 07:13:31 +0000</pubDate>
-      </item><item>
-        <title>new note (near Sasad, 11th district) / * 2021 October 19 07:13 vasony-qa Created: Ellenőrizendő! / https://ujbuda.hu/ujbuda/lassits-uj-fekvorendorok-sasad-sashegyen</title>
-        <link>https://www.openstreetmap.org/note/2901625#c6196078</link>
-        <guid>https://www.openstreetmap.org/note/2901625#c6196078</guid>
-        <pubDate>Tue, 19 Oct 2021 07:13:30 +0000</pubDate>
       </item>
   </channel>
 </rss>
