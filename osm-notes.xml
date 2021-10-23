@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Szentendre) / * 2021 October 23 18:56 meskobalazs Resolved: Ezek szerint már valaki javította, csak elavult volt az OsmAnd :)</title>
+        <link>https://www.openstreetmap.org/note/2906532#c6208525</link>
+        <guid>https://www.openstreetmap.org/note/2906532#c6208525</guid>
+        <pubDate>Sat, 23 Oct 2021 18:56:24 +0000</pubDate>
+      </item><item>
         <title>closed note (near Terézváros, 6th district) / * 2021 October 23 18:15 infeeeee Resolved: Ha jól látom Hungarian_user törölte, így a jegyzet lezárható: https://www.openstreetmap.org/changeset/112866543 / Amúgy ilyen megszűnt üzleteknél szokták használni a disused: előtagot: https://wiki.openstreetmap.org/wiki/Key:disused: Tehát elég lett volna a amenity=fast_food címkét átírni disused:amenity=fast_food-ra. Az ilyeneknél kérdezi meg a streetcomplete, hogy ez az üzlet még mindig üres. Nem baj ez, jó így is, majd legközelebb!</title>
         <link>https://www.openstreetmap.org/note/2576045#c6208417</link>
         <guid>https://www.openstreetmap.org/note/2576045#c6208417</guid>
