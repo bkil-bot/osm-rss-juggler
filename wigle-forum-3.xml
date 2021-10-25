@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: DIY Box Reflector - sick gainz!: Made a v3 for another adapter, an old 802.11b/g AWUS036H. I had a feeling old faithful would get good results. Single antenna design so no need to mount inside reflector. I eyeballed where everything should've been. Alfa w/ only 9dBi antenna, AP nearby in unknown location:Same setup but with the reflector steered vaguely in the right direction:Alfa w/ 9dBi + reflector AP a few meters away, same room. No before photo but signal was between -10 and -20 dBmReflector: USPS 1095 almost entirely clad in foil with only a tiny gap near the top for slots/flaps AWUS036H: TX Power: Antenna: Ridiculously tall 2.4 GHz tuned dipole, probably rated 7-9 dBi. I don't remember where I got this. Stats: Kismet -SkywardLark</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2893&amp;p=11086#p11086</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2893&amp;p=11086#p11086</guid>
+        <pubDate>2021-10-25T00:20:16</pubDate>
+      </item><item>
         <title>Re: DIY Box Reflector - sick gainz!: My WiFi router sits to one side of my house, on an outside wall, leaking signal into the neighbors lot. Curious how putting one of these behind the router, or each of the four antenna, would boost my signal in the farther areas of the house. Next Amazon box I receive might just have to launch a few experiments... -pejacoby</title>
         <link>https://wigle.net/phpbb/viewtopic.php?t=2893&amp;p=11085#p11085</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2893&amp;p=11085#p11085</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?t=2751&amp;p=10964#p10964</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2751&amp;p=10964#p10964</guid>
         <pubDate>2021-08-03T22:51:26</pubDate>
-      </item><item>
-        <title>Re: portable home-made war-driving gear: nice - I did that with my pi w zero rig! The thing I'm not clear on is whether GPS fix time is chicken/egg with the clock -arkasha</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?t=2751&amp;p=10963#p10963</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?t=2751&amp;p=10963#p10963</guid>
-        <pubDate>2021-08-03T16:17:07</pubDate>
       </item>
   </channel>
 </rss>
