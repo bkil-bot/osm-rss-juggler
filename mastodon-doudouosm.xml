@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>The #OpenStreetMap Local Chapters and Communities Working Group #LCCWG invites their 2021 Congress online on November 6 where local leaders and members come together to share stories and learn from each other. https://wiki.osmfoundation.org/wiki/Local_Chapters_and_Communities_Working_Group</title>
+        <link>https://en.osm.town/@Doudouosm/107164209451151135</link>
+        <guid>https://en.osm.town/@Doudouosm/107164209451151135</guid>
+        <pubDate>Mon, 25 Oct 2021 21:07:47 +0000</pubDate>
+      </item><item>
         <title>What does it mean for a #map to be high quality? According to #TomTom: 1. It must look great (display quality) 2. It must have great routing (data quality) 3. It must be searchable for what you want (geocoding quality) https://www.tomtom.com/blog/maps/the-battle-for-quality-maps/ #OpenStreetMap</title>
         <link>https://en.osm.town/@Doudouosm/107163540191166404</link>
         <guid>https://en.osm.town/@Doudouosm/107163540191166404</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/106490076113144176</link>
         <guid>https://en.osm.town/@Doudouosm/106490076113144176</guid>
         <pubDate>Mon, 28 Jun 2021 19:46:48 +0000</pubDate>
-      </item><item>
-        <title>A 30-page “Assessment and Visualization of OSM Consistency for European Cities” (Athens, Berlin, Paris, Utrecht, Vienna, and Zurich): https://www.mdpi.com/2220-9964/10/6/361. The study evaluates the consistency based on the topological relationships between geographic features while considering semantics. One of the findings regarding POIs that must be inside buildings is an average position error was estimated at four meters. #OpenStreetMap #mdpi</title>
-        <link>https://en.osm.town/@Doudouosm/106470107722473201</link>
-        <guid>https://en.osm.town/@Doudouosm/106470107722473201</guid>
-        <pubDate>Fri, 25 Jun 2021 07:08:35 +0000</pubDate>
       </item>
   </channel>
 </rss>
