@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Balatonfőkajár) / * 2021 October 25 12:52 Johanna707 Created: Lucó-kút / kerekeskút vödör nélkül / via StreetComplete 36.1</title>
+        <link>https://www.openstreetmap.org/note/2909763#c6213600</link>
+        <guid>https://www.openstreetmap.org/note/2909763#c6213600</guid>
+        <pubDate>Mon, 25 Oct 2021 12:52:51 +0000</pubDate>
+      </item><item>
         <title>new note (near Páty) / * 2021 October 25 09:15 MartorCZ Created: Hello, there is tag on motorway smoothness=bad https://wiki.openstreetmap.org/wiki/Key:smoothness Is it true or is it a mistake? It&amp;#39;s hard to believe that there is so much bad surface on this type of road.</title>
         <link>https://www.openstreetmap.org/note/2909394#c6212925</link>
         <guid>https://www.openstreetmap.org/note/2909394#c6212925</guid>
@@ -172,46 +177,6 @@
         <link>https://www.openstreetmap.org/note/2905588#c6208854</link>
         <guid>https://www.openstreetmap.org/note/2905588#c6208854</guid>
         <pubDate>Sat, 23 Oct 2021 21:02:43 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Középső-Ferencváros, 9th district) / * 2021 October 23 21:02 feket Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2905584#c6208852</link>
-        <guid>https://www.openstreetmap.org/note/2905584#c6208852</guid>
-        <pubDate>Sat, 23 Oct 2021 21:02:34 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Középső-Ferencváros, 9th district) / * 2021 October 23 21:02 feket Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2905583#c6208850</link>
-        <guid>https://www.openstreetmap.org/note/2905583#c6208850</guid>
-        <pubDate>Sat, 23 Oct 2021 21:02:25 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Középső-Ferencváros, 9th district) / * 2021 October 23 21:02 feket Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2900937#c6208847</link>
-        <guid>https://www.openstreetmap.org/note/2900937#c6208847</guid>
-        <pubDate>Sat, 23 Oct 2021 21:02:17 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Középső-Ferencváros, 9th district) / * 2021 October 23 21:02 feket Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2905581#c6208845</link>
-        <guid>https://www.openstreetmap.org/note/2905581#c6208845</guid>
-        <pubDate>Sat, 23 Oct 2021 21:02:01 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Középső-Ferencváros, 9th district) / * 2021 October 23 21:01 feket Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2905580#c6208844</link>
-        <guid>https://www.openstreetmap.org/note/2905580#c6208844</guid>
-        <pubDate>Sat, 23 Oct 2021 21:01:55 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Szentendre) / * 2021 October 23 18:56 meskobalazs Resolved: Ezek szerint már valaki javította, csak elavult volt az OsmAnd :)</title>
-        <link>https://www.openstreetmap.org/note/2906532#c6208525</link>
-        <guid>https://www.openstreetmap.org/note/2906532#c6208525</guid>
-        <pubDate>Sat, 23 Oct 2021 18:56:24 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Terézváros, 6th district) / * 2021 October 23 18:15 infeeeee Resolved: Ha jól látom Hungarian_user törölte, így a jegyzet lezárható: https://www.openstreetmap.org/changeset/112866543 / Amúgy ilyen megszűnt üzleteknél szokták használni a disused: előtagot: https://wiki.openstreetmap.org/wiki/Key:disused: Tehát elég lett volna a amenity=fast_food címkét átírni disused:amenity=fast_food-ra. Az ilyeneknél kérdezi meg a streetcomplete, hogy ez az üzlet még mindig üres. Nem baj ez, jó így is, majd legközelebb!</title>
-        <link>https://www.openstreetmap.org/note/2576045#c6208417</link>
-        <guid>https://www.openstreetmap.org/note/2576045#c6208417</guid>
-        <pubDate>Sat, 23 Oct 2021 18:15:32 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Középső-Ferencváros, 9th district) / * 2021 October 18 13:58 vasony-qa Created: Szerintem el vannak csúszva a házszámok, ellenőrizendő! / * 2021 October 23 17:32 VolaricsI Updated: A 26 még 24; 28 --- 26; 28-as szam nincs;  30--30; 32,34,36,38: jó; / Attached photo(s): / https://westnordost.de/p/66511.jpg</title>
-        <link>https://www.openstreetmap.org/note/2900943#c6208325</link>
-        <guid>https://www.openstreetmap.org/note/2900943#c6208325</guid>
-        <pubDate>Sat, 23 Oct 2021 17:32:47 +0000</pubDate>
       </item>
   </channel>
 </rss>
