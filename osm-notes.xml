@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Felsőtárkány) / * 2021 October 15 08:37 MartorCZ Created: please fix the smoothness = impassable tag as appropriate. I think you can walk this way. Thanks / * 2021 October 15 08:51 MartorCZ Updated: https://wiki.openstreetmap.org/wiki/Key:smoothness / * 2021 October 25 20:38 mgpx Updated: Smoothness is defined from the perspective of wheeled vehicles (and not from perspective of pedestrians). This is a rocky path, and 4-wheeled vehicles are definitely unable to pass it. What is then the problem with &amp;quot;impassable&amp;quot; tag ? / * 2021 October 26 06:08 MartorCZ Resolved: Ok, thank for your explanation.</title>
+        <link>https://www.openstreetmap.org/note/2896059#c6215522</link>
+        <guid>https://www.openstreetmap.org/note/2896059#c6215522</guid>
+        <pubDate>Tue, 26 Oct 2021 06:08:45 +0000</pubDate>
+      </item><item>
         <title>closed note (near Csévharaszt) / * 2021 October 24 13:15 utvonalfelmeresek Created: vegyesbolt / * 2021 October 25 21:06 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/112958786</title>
         <link>https://www.openstreetmap.org/note/2908065#c6215007</link>
         <guid>https://www.openstreetmap.org/note/2908065#c6215007</guid>
@@ -222,16 +227,6 @@
         <link>https://www.openstreetmap.org/note/2908189#c6210504</link>
         <guid>https://www.openstreetmap.org/note/2908189#c6210504</guid>
         <pubDate>Sun, 24 Oct 2021 14:12:14 +0000</pubDate>
-      </item><item>
-        <title>new note (near Csévharaszt) / * 2021 October 24 13:15 utvonalfelmeresek Created: vegyesbolt</title>
-        <link>https://www.openstreetmap.org/note/2908065#c6210332</link>
-        <guid>https://www.openstreetmap.org/note/2908065#c6210332</guid>
-        <pubDate>Sun, 24 Oct 2021 13:15:19 +0000</pubDate>
-      </item><item>
-        <title>new note (near Csévharaszt) / * 2021 October 24 13:12 utvonalfelmeresek Created: Nincs semmilyen söröző</title>
-        <link>https://www.openstreetmap.org/note/2908056#c6210322</link>
-        <guid>https://www.openstreetmap.org/note/2908056#c6210322</guid>
-        <pubDate>Sun, 24 Oct 2021 13:12:53 +0000</pubDate>
       </item>
   </channel>
 </rss>
