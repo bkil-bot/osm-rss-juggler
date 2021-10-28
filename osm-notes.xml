@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Kiszugló, 14th district) / * 2021 October 7 17:20 Created: Beépítve! :( / * 2021 October 28 20:19 ITineris Resolved: Felvittem, ami most látszik. Ha majd elkészült, pontosítom.</title>
+        <link>https://www.openstreetmap.org/note/2885134#c6222808</link>
+        <guid>https://www.openstreetmap.org/note/2885134#c6222808</guid>
+        <pubDate>Thu, 28 Oct 2021 20:19:47 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Németvölgy, 12th district) / * 2021 June 11 06:36 Pan Perníček Created: #Mapy.cz - Seems like this &amp;#39;rest area&amp;#39; is not mapped according the definition: https://wiki.openstreetmap.org/wiki/Tag:highway%3Drest_area / https://www.openstreetmap.org/way/427473425 / * 2021 October 28 20:10 ITineris Resolved: Removed.</title>
+        <link>https://www.openstreetmap.org/note/2708301#c6222795</link>
+        <guid>https://www.openstreetmap.org/note/2708301#c6222795</guid>
+        <pubDate>Thu, 28 Oct 2021 20:10:27 +0000</pubDate>
+      </item><item>
+        <title>new note (near Szentimreváros, 11th district) / * 2021 October 28 20:04 infeeeee Created: Ortofotó alapján itt van valami a két épület között, talán híd?</title>
+        <link>https://www.openstreetmap.org/note/2914030#c6222785</link>
+        <guid>https://www.openstreetmap.org/note/2914030#c6222785</guid>
+        <pubDate>Thu, 28 Oct 2021 20:04:21 +0000</pubDate>
+      </item><item>
         <title>new note (near Dombrád) / * 2021 October 28 19:10 Created: Dohánybolt, étterem, parkoló</title>
         <link>https://www.openstreetmap.org/note/2913993#c6222649</link>
         <guid>https://www.openstreetmap.org/note/2913993#c6222649</guid>
@@ -342,21 +357,6 @@
         <link>https://www.openstreetmap.org/note/2912031#c6219145</link>
         <guid>https://www.openstreetmap.org/note/2912031#c6219145</guid>
         <pubDate>Wed, 27 Oct 2021 13:07:11 +0000</pubDate>
-      </item><item>
-        <title>new note (near Svábhegy, 12th district) / * 2021 October 27 09:11 Created: 90 férőhely</title>
-        <link>https://www.openstreetmap.org/note/2912031#c6218574</link>
-        <guid>https://www.openstreetmap.org/note/2912031#c6218574</guid>
-        <pubDate>Wed, 27 Oct 2021 09:11:58 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Óbuda, 3rd district) / * 2021 May 7 13:20 grozsa11 Created: A három kis boltépület elbontva. Mögöttük a ház szélén eddig kijárt ösvény lezárva. / via StreetComplete 31.3 / * 2021 October 27 09:06 sugarbotond Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2659316#c6218563</link>
-        <guid>https://www.openstreetmap.org/note/2659316#c6218563</guid>
-        <pubDate>Wed, 27 Oct 2021 09:06:52 +0000</pubDate>
-      </item><item>
-        <title>new note (near Farkaskútvölgy, Felsőtold) / * 2021 October 27 08:08 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: Correct name od observation tower is &amp;#39;Isten Tenyere Kilátó&amp;#39; / https://www.openstreetmap.org/node/8434415450</title>
-        <link>https://www.openstreetmap.org/note/2911965#c6218420</link>
-        <guid>https://www.openstreetmap.org/note/2911965#c6218420</guid>
-        <pubDate>Wed, 27 Oct 2021 08:08:43 +0000</pubDate>
       </item>
   </channel>
 </rss>
