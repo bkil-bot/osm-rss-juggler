@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Kelenföld, 11th district) / * 2021 October 28 12:20 Created: A Kondorfa utca nyugati oldalán parkolók találhatóak.</title>
+        <link>https://www.openstreetmap.org/note/2913355#c6221418</link>
+        <guid>https://www.openstreetmap.org/note/2913355#c6221418</guid>
+        <pubDate>Thu, 28 Oct 2021 12:20:04 +0000</pubDate>
+      </item><item>
         <title>new note (near Kelenföld, 11th district) / * 2021 October 28 12:19 Created: A Galvani utca, kollégiummal szembeni oldalán parkolók találhatóak.</title>
         <link>https://www.openstreetmap.org/note/2913352#c6221415</link>
         <guid>https://www.openstreetmap.org/note/2913352#c6221415</guid>
@@ -262,16 +267,6 @@
         <link>https://www.openstreetmap.org/note/2911099#c6216510</link>
         <guid>https://www.openstreetmap.org/note/2911099#c6216510</guid>
         <pubDate>Tue, 26 Oct 2021 14:08:24 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Felsőtárkány) / * 2021 October 15 08:37 MartorCZ Created: please fix the smoothness = impassable tag as appropriate. I think you can walk this way. Thanks / * 2021 October 15 08:51 MartorCZ Updated: https://wiki.openstreetmap.org/wiki/Key:smoothness / * 2021 October 25 20:38 mgpx Updated: Smoothness is defined from the perspective of wheeled vehicles (and not from perspective of pedestrians). This is a rocky path, and 4-wheeled vehicles are definitely unable to pass it. What is then the problem with &amp;quot;impassable&amp;quot; tag ? / * 2021 October 26 06:08 MartorCZ Resolved: Ok, thank for your explanation.</title>
-        <link>https://www.openstreetmap.org/note/2896059#c6215522</link>
-        <guid>https://www.openstreetmap.org/note/2896059#c6215522</guid>
-        <pubDate>Tue, 26 Oct 2021 06:08:45 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Csévharaszt) / * 2021 October 24 13:15 utvonalfelmeresek Created: vegyesbolt / * 2021 October 25 21:06 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/112958786</title>
-        <link>https://www.openstreetmap.org/note/2908065#c6215007</link>
-        <guid>https://www.openstreetmap.org/note/2908065#c6215007</guid>
-        <pubDate>Mon, 25 Oct 2021 21:06:01 +0000</pubDate>
       </item>
   </channel>
 </rss>
