@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Károlyváros, Eger) / * 2021 August 14 14:55 vasony Created: Koháry István út vagy Koháry István utca szerepel az utcatáblán? / * 2021 October 29 11:19 wpeti Resolved: Az utcanévtábla alapján Koháry István utca a hivatalos elnevezés.</title>
+        <link>https://www.openstreetmap.org/note/2803224#c6223889</link>
+        <guid>https://www.openstreetmap.org/note/2803224#c6223889</guid>
+        <pubDate>Fri, 29 Oct 2021 11:19:58 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Csákó, Eger) / * 2021 August 14 14:55 vasony Created: Ipolyi utca vagy Ipolyi Arnold utca szerepel az utcatáblán? / * 2021 October 29 10:36 wpeti Resolved: Az utcanévtábla szerint Ipolyi Arnold utca a hivatalos elnevezés.</title>
+        <link>https://www.openstreetmap.org/note/2803214#c6223767</link>
+        <guid>https://www.openstreetmap.org/note/2803214#c6223767</guid>
+        <pubDate>Fri, 29 Oct 2021 10:36:09 +0000</pubDate>
+      </item><item>
+        <title>closed note (near 30 km/h övezet, Tihamér, Eger) / * 2021 August 14 14:54 vasony Created: Az utcatáblán Csákósor utca vagy Csákó sor utca? / * 2021 October 29 10:35 wpeti Resolved: Az utcanévtábla szerint Csákósor utca a hivatalos elnevezés.</title>
+        <link>https://www.openstreetmap.org/note/2803208#c6223762</link>
+        <guid>https://www.openstreetmap.org/note/2803208#c6223762</guid>
+        <pubDate>Fri, 29 Oct 2021 10:35:13 +0000</pubDate>
+      </item><item>
         <title>new note (near Auguszta, Debrecen) / * 2021 October 29 02:26 Zsolt Beringer Created: OSInt alapján A, B valamint C épületeket feltételezek a házszámhoz.</title>
         <link>https://www.openstreetmap.org/note/2914196#c6223158</link>
         <guid>https://www.openstreetmap.org/note/2914196#c6223158</guid>
@@ -362,36 +377,6 @@
         <link>https://www.openstreetmap.org/note/2913274#c6221217</link>
         <guid>https://www.openstreetmap.org/note/2913274#c6221217</guid>
         <pubDate>Thu, 28 Oct 2021 11:02:03 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Békeszálló-telep, Miskolc) / * 2021 July 31 15:15 meskobalazs Created: Bukkanó / via StreetComplete 33.1 / Attached photo(s): / https://westnordost.de/p/52093.jpg / * 2021 October 27 19:02 MetalRat Updated: Az inkább fekvő rendőr</title>
-        <link>https://www.openstreetmap.org/note/2779482#c6219994</link>
-        <guid>https://www.openstreetmap.org/note/2779482#c6219994</guid>
-        <pubDate>Wed, 27 Oct 2021 19:02:07 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Avasalja, Miskolc) / * 2021 August 24 13:49 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: Tesco doesn&amp;#39;t exist here anymore. / https://www.openstreetmap.org/node/1332575876 / * 2021 October 27 19:02 MetalRat Updated: igen, a Tesco megszűnt</title>
-        <link>https://www.openstreetmap.org/note/2818904#c6219993</link>
-        <guid>https://www.openstreetmap.org/note/2818904#c6219993</guid>
-        <pubDate>Wed, 27 Oct 2021 19:02:06 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Sánc, Eger) / * 2021 October 27 16:39 vasony Resolved: köszi ezt is, javítottam.</title>
-        <link>https://www.openstreetmap.org/note/2803094#c6219673</link>
-        <guid>https://www.openstreetmap.org/note/2803094#c6219673</guid>
-        <pubDate>Wed, 27 Oct 2021 16:39:59 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Kelenföld, 11th district) / * 2021 October 19 13:47 Created: honvédségi raktár / * 2021 October 27 15:49 infeeeee Resolved: Felvittem: https://www.openstreetmap.org/changeset/113044018</title>
-        <link>https://www.openstreetmap.org/note/2902137#c6219549</link>
-        <guid>https://www.openstreetmap.org/note/2902137#c6219549</guid>
-        <pubDate>Wed, 27 Oct 2021 15:49:20 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Cifrahóstya, Eger) / * 2021 August 14 14:54 vasony Created: nem maradt le az utca utótag a Dézsmaházról? / * 2021 October 27 14:11 wpeti Resolved: Az utcanévtábla szerint Dézsmaház utca a hivatalos elnevezés.</title>
-        <link>https://www.openstreetmap.org/note/2803205#c6219311</link>
-        <guid>https://www.openstreetmap.org/note/2803205#c6219311</guid>
-        <pubDate>Wed, 27 Oct 2021 14:11:07 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Károlyváros, Eger) / * 2021 August 14 14:54 vasony Created: Hatvanas ezred utca vagy Hatvanasezred utca szerepel az utcatáblán? / * 2021 October 27 14:04 wpeti Resolved: Az utcanévtábla szerint Hatvanasezred utca a hivatalos elnevezés.</title>
-        <link>https://www.openstreetmap.org/note/2803209#c6219292</link>
-        <guid>https://www.openstreetmap.org/note/2803209#c6219292</guid>
-        <pubDate>Wed, 27 Oct 2021 14:04:16 +0000</pubDate>
       </item>
   </channel>
 </rss>
