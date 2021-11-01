@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Károlyváros, Eger) / * 2021 August 14 14:55 vasony Created: Vörösmarty Mihály út vagy Vörösmarty Mihály utca szerepel az utcatáblán? / * 2021 November 1 21:11 vasony Resolved: Időközben javítva: Vörösmarty Mihály utca</title>
+        <link>https://www.openstreetmap.org/note/2803226#c6234685</link>
+        <guid>https://www.openstreetmap.org/note/2803226#c6234685</guid>
+        <pubDate>Mon, 01 Nov 2021 21:11:44 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Cifrahóstya, Eger) / * 2021 August 14 14:54 vasony Created: Szervita utca vagy Servita utca szerepel az utcatáblán? / * 2021 November 1 21:09 vasony Resolved: Időközben Servita utcára javítva</title>
+        <link>https://www.openstreetmap.org/note/2803210#c6234679</link>
+        <guid>https://www.openstreetmap.org/note/2803210#c6234679</guid>
+        <pubDate>Mon, 01 Nov 2021 21:09:48 +0000</pubDate>
+      </item><item>
         <title>new note (near Nagysziget, Cikolasziget, Dunasziget) / * 2021 November 1 14:10 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: There&amp;#39;s a memorial of H. A. Lajos.</title>
         <link>https://www.openstreetmap.org/note/2918778#c6233273</link>
         <guid>https://www.openstreetmap.org/note/2918778#c6233273</guid>
@@ -177,21 +187,6 @@
         <link>https://www.openstreetmap.org/note/2915010#c6224689</link>
         <guid>https://www.openstreetmap.org/note/2915010#c6224689</guid>
         <pubDate>Fri, 29 Oct 2021 15:56:07 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Károlyváros, Eger) / * 2021 August 14 14:55 vasony Created: Koháry István út vagy Koháry István utca szerepel az utcatáblán? / * 2021 October 29 11:19 wpeti Resolved: Az utcanévtábla alapján Koháry István utca a hivatalos elnevezés.</title>
-        <link>https://www.openstreetmap.org/note/2803224#c6223889</link>
-        <guid>https://www.openstreetmap.org/note/2803224#c6223889</guid>
-        <pubDate>Fri, 29 Oct 2021 11:19:58 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Csákó, Eger) / * 2021 August 14 14:55 vasony Created: Ipolyi utca vagy Ipolyi Arnold utca szerepel az utcatáblán? / * 2021 October 29 10:36 wpeti Resolved: Az utcanévtábla szerint Ipolyi Arnold utca a hivatalos elnevezés.</title>
-        <link>https://www.openstreetmap.org/note/2803214#c6223767</link>
-        <guid>https://www.openstreetmap.org/note/2803214#c6223767</guid>
-        <pubDate>Fri, 29 Oct 2021 10:36:09 +0000</pubDate>
-      </item><item>
-        <title>closed note (near 30 km/h övezet, Tihamér, Eger) / * 2021 August 14 14:54 vasony Created: Az utcatáblán Csákósor utca vagy Csákó sor utca? / * 2021 October 29 10:35 wpeti Resolved: Az utcanévtábla szerint Csákósor utca a hivatalos elnevezés.</title>
-        <link>https://www.openstreetmap.org/note/2803208#c6223762</link>
-        <guid>https://www.openstreetmap.org/note/2803208#c6223762</guid>
-        <pubDate>Fri, 29 Oct 2021 10:35:13 +0000</pubDate>
       </item>
   </channel>
 </rss>
