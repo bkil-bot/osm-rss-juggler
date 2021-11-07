@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Dunakeszi) / * 2021 September 2 13:08 Kaaliyuga Created: Csokiház megszűnt / * 2021 November 7 16:10 feket Resolved: </title>
+        <link>https://www.openstreetmap.org/note/2832585#c6250778</link>
+        <guid>https://www.openstreetmap.org/note/2832585#c6250778</guid>
+        <pubDate>Sun, 07 Nov 2021 16:10:03 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Csömör) / * 2021 September 8 11:16 Datguymarkus Created: Unable to answer &amp;quot;What is the weight limit here?&amp;quot; for https://osm.org/way/922810940 via StreetComplete 34.0: / Nincs teherlimit. / Attached photo(s): / https://westnordost.de/p/59162.jpg / * 2021 November 7 15:28 feket Resolved: hgv=no címkét hozzáadtam. (changset nr.: 113484362)</title>
+        <link>https://www.openstreetmap.org/note/2841363#c6250582</link>
+        <guid>https://www.openstreetmap.org/note/2841363#c6250582</guid>
+        <pubDate>Sun, 07 Nov 2021 15:28:21 +0000</pubDate>
+      </item><item>
         <title>new note (near Szépilona, 2nd district) / * 2021 November 7 11:58 Created: Hiányzó járdák a Hűvösvölgyi út bal oldalán.</title>
         <link>https://www.openstreetmap.org/note/2926131#c6249905</link>
         <guid>https://www.openstreetmap.org/note/2926131#c6249905</guid>
@@ -187,31 +197,6 @@
         <link>https://www.openstreetmap.org/note/2867586#c6242229</link>
         <guid>https://www.openstreetmap.org/note/2867586#c6242229</guid>
         <pubDate>Thu, 04 Nov 2021 19:53:57 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Újlipótváros, 13th district) / * 2021 July 1 16:36 meskobalazs Created: Unable to answer &amp;quot;What are the opening hours of Muri Turi (Secondhand Clothing Store)?&amp;quot; for https://osm.org/node/1641031888 via StreetComplete 32.1: / Karcsusitunk.hu masszázs / * 2021 November 4 19:31 meskobalazs Resolved: Felvettem.</title>
-        <link>https://www.openstreetmap.org/note/2736942#c6242178</link>
-        <guid>https://www.openstreetmap.org/note/2736942#c6242178</guid>
-        <pubDate>Thu, 04 Nov 2021 19:31:42 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Újlipótváros, 13th district) / * 2021 July 6 09:51 meskobalazs Created: Kerékpártároló / via StreetComplete 32.2 / Attached photo(s): / https://westnordost.de/p/48077.jpg / * 2021 November 4 19:25 meskobalazs Resolved: Felvettem.</title>
-        <link>https://www.openstreetmap.org/note/2743034#c6242155</link>
-        <guid>https://www.openstreetmap.org/note/2743034#c6242155</guid>
-        <pubDate>Thu, 04 Nov 2021 19:25:34 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Újlipótváros, 13th district) / * 2021 July 6 10:30 meskobalazs Created: Unable to answer &amp;quot;What are the opening hours of Szelet Pizza (Fast Food)?&amp;quot; for https://osm.org/node/4505322262 via StreetComplete 32.2: / Ez valójában a sarkon van. / * 2021 November 4 19:25 meskobalazs Resolved: Odébb tettem.</title>
-        <link>https://www.openstreetmap.org/note/2743111#c6242154</link>
-        <guid>https://www.openstreetmap.org/note/2743111#c6242154</guid>
-        <pubDate>Thu, 04 Nov 2021 19:25:28 +0000</pubDate>
-      </item><item>
-        <title>new note (near Budatétény, 22nd district) / * 2021 November 4 15:23 nubiai Created: Ezen a telken már egy újépítésű ház áll. / via StreetComplete 37.0 / Attached photo(s): / https://westnordost.de/p/68075.jpg</title>
-        <link>https://www.openstreetmap.org/note/2922324#c6241539</link>
-        <guid>https://www.openstreetmap.org/note/2922324#c6241539</guid>
-        <pubDate>Thu, 04 Nov 2021 15:23:42 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Tiszakürt) / * 2021 September 9 05:39 Sagit_BY Created: дорогу в карте переделали но доступ не открыли / google translate / a térképen az út megváltozott, de a hozzáférést nem nyitották meg / * 2021 November 3 19:05 Laci Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2842758#c6239676</link>
-        <guid>https://www.openstreetmap.org/note/2842758#c6239676</guid>
-        <pubDate>Wed, 03 Nov 2021 19:05:39 +0000</pubDate>
       </item>
   </channel>
 </rss>
