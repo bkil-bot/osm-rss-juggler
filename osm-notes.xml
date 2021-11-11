@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Búrtelep, Székesfehérvár) / * 2021 October 8 10:48 Created: Eltűntek az épületek. / * 2021 November 11 11:15 feket Updated: building=yes címkét raktam az épületekre. Nem vagyok biztos benne, hogy az épület tényleg kórház vagy csak rendelőintézet, esetleg más. Aki helyismerettel rendelkezik, ellenőrizhetné.</title>
+        <link>https://www.openstreetmap.org/note/2885923#c6261967</link>
+        <guid>https://www.openstreetmap.org/note/2885923#c6261967</guid>
+        <pubDate>Thu, 11 Nov 2021 11:15:25 +0000</pubDate>
+      </item><item>
         <title>closed note (near Középső-Ferencváros, 9th district) / * 2021 October 18 14:01 vasony-qa Created: Sok a Tűzoltó utca 33, ellenőrizendő! / * 2021 October 23 17:32 VolaricsI Updated: 35-33/a van a tömbön 33/c és be van falazva a bejárat / * 2021 October 24 08:58 vasony Updated: A most két db 33-asból melyik a 33/c, ahol a jegyzet van? / * 2021 October 24 09:43 VolaricsI Updated: igen / * 2021 November 10 20:20 feket Resolved: Javítva. changset Nr.: 113624869</title>
         <link>https://www.openstreetmap.org/note/2900951#c6260833</link>
         <guid>https://www.openstreetmap.org/note/2900951#c6260833</guid>
@@ -37,31 +42,6 @@
         <link>https://www.openstreetmap.org/note/2795676#c6257635</link>
         <guid>https://www.openstreetmap.org/note/2795676#c6257635</guid>
         <pubDate>Tue, 09 Nov 2021 17:35:32 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Víziváros, 1st district) / * 2021 September 23 06:01 grozsa11 Created: Unable to answer &amp;quot;What type of recycling facility is this?&amp;quot; for https://osm.org/node/3508768193 via StreetComplete 34.1: / Nincsen itt szelektiv kuka. / * 2021 November 9 14:10 VolaricsI Updated: nincs itt</title>
-        <link>https://www.openstreetmap.org/note/2865187#c6256922</link>
-        <guid>https://www.openstreetmap.org/note/2865187#c6256922</guid>
-        <pubDate>Tue, 09 Nov 2021 14:10:28 +0000</pubDate>
-      </item><item>
-        <title>new note (near Spanyolrét, 11th district) / * 2021 November 9 10:55 vasony Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/451578032 via StreetComplete 37.0: / lebontva / Attached photo(s): / https://westnordost.de/p/68772.jpg</title>
-        <link>https://www.openstreetmap.org/note/2929093#c6256470</link>
-        <guid>https://www.openstreetmap.org/note/2929093#c6256470</guid>
-        <pubDate>Tue, 09 Nov 2021 10:55:40 +0000</pubDate>
-      </item><item>
-        <title>new note (near Spanyolrét, 11th district) / * 2021 November 9 10:53 vasony Created: Privát behajtó / via StreetComplete 37.0</title>
-        <link>https://www.openstreetmap.org/note/2929088#c6256465</link>
-        <guid>https://www.openstreetmap.org/note/2929088#c6256465</guid>
-        <pubDate>Tue, 09 Nov 2021 10:53:33 +0000</pubDate>
-      </item><item>
-        <title>new note (near Spanyolrét, 11th district) / * 2021 November 9 10:51 vasony Created: Unable to answer &amp;quot;What surface does this piece of road have?&amp;quot; for https://osm.org/way/549919137 via StreetComplete 37.0: / privat, fű</title>
-        <link>https://www.openstreetmap.org/note/2929084#c6256459</link>
-        <guid>https://www.openstreetmap.org/note/2929084#c6256459</guid>
-        <pubDate>Tue, 09 Nov 2021 10:51:44 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Spanyolrét, 11th district) / * 2021 September 6 19:10 vasony Created: Van itt ilyen? Vidéki Pecsenyés Büfé, Rupphegyi út 8. / * 2021 November 9 10:46 vasony Updated: építkezés az egész,  semmilyen büfé nincs</title>
-        <link>https://www.openstreetmap.org/note/2839452#c6256439</link>
-        <guid>https://www.openstreetmap.org/note/2839452#c6256439</guid>
-        <pubDate>Tue, 09 Nov 2021 10:46:14 +0000</pubDate>
       </item>
   </channel>
 </rss>
