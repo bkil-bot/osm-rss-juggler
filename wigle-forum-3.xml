@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: GPS accuracy: these issues happen because of several reasons: 1. the long lines sound like GPS issues - these are (unfortunately) common in older devices. 2. points are trilaterated - the centers of the signal are estimated according to an algorithm. Bad GPS coordinates can contribute to points being located in odd spots, as can other users observing them in conflicting places. The short version of how to fix it: 1. observe the points from multiple places and at multiple times, and they'll snap to the right locations 2. if you discover a particular device has GPS problems, you might consider replacing it. this can be diagnosed by turning on &quot;display routes&quot; in the WiGLE WiFi Android app, or mapping your results before uploading with other packages! Cheers -a -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2904&amp;p=11100#p11100</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2904&amp;p=11100#p11100</guid>
+        <pubDate>2021-11-14T21:28:36</pubDate>
+      </item><item>
         <title>GPS accuracy: Hello, when I watch the map with only my data, I can see that there are little dots in place I never went. Also some strings of points in linear alignment in odd places. Also I have data points in the middle of a ponds. Do you know if there is something that can be made to fix that and filter odd data ? -FredR</title>
         <link>https://wigle.net/phpbb/viewtopic.php?t=2904&amp;p=11099#p11099</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2904&amp;p=11099#p11099</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?t=2881&amp;p=10971#p10971</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2881&amp;p=10971#p10971</guid>
         <pubDate>2021-08-07T10:55:40</pubDate>
-      </item><item>
-        <title>Re: portable home-made war-driving gear: @arshasa no the gps does not depend on the system clock time. From what I have understood, but it may differ from device to device, may be ? I had problem with u-blox 7 based mouse usb gps, and I had to use A-gps, and finally sometimes not working so I bought on ebay a new one with ublox-8 chip called BN-808. It's cheap but it took a long time to come from china. Now, with that new gps, no more worries, and it has a fix in a minute (or less) without even needing a-gps. @SkywardLark I have forked a github project to get A-GPS data in linux with a simple python script: it's there https://github.com/solsticedhiver/ublox-agps yes. solsTicedhiver that's me too And the wooden box was too heavy to carry so now I am using a mask box, the one very popular now during covid times. -zebul666</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?t=2751&amp;p=10970#p10970</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?t=2751&amp;p=10970#p10970</guid>
-        <pubDate>2021-08-06T19:57:41</pubDate>
       </item>
   </channel>
 </rss>
