@@ -3,11 +3,6 @@
   <channel>
     <title>WiGLE Frontpage (via bkil-bot)</title>
       <item>
-        <title>Re: On _nomap and _optout: kurz wrote: &amp;gt; Hm. I wish we had a button for reporting spam. 🙊 Hmm. most forums give the report functionality. This forum doesn't have it. But it also turned off bbcodes which restricts them from hiding their links using codes. For instance, i can't hide https://gbplusapps.com/ this link. See? -Nariya</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?t=2330&amp;p=11104#p11104</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?t=2330&amp;p=11104#p11104</guid>
-        <pubDate>2021-11-16T04:21:22</pubDate>
-      </item><item>
         <title>Search Outage: WiGLE had a partial search subsystem outage earlier today - apologies for the interruption in service. We have restored service and are analyzing the cause. -arkasha</title>
         <link>https://wigle.net/phpbb/viewtopic.php?t=2902&amp;p=11097#p11097</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2902&amp;p=11097#p11097</guid>
@@ -77,6 +72,11 @@
         <link>https://wigle.net/phpbb/viewtopic.php?t=2888&amp;p=11006#p11006</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2888&amp;p=11006#p11006</guid>
         <pubDate>2021-09-07T16:04:53</pubDate>
+      </item><item>
+        <title>Re: WiGLE on Motorola DROID: Woodster wrote: &amp;gt; I'm using WiGLEWiFi for Android on my Motorola DROID. Sometimes it works &amp;gt; great and other times it seems not to pick up any networks between my start &amp;gt; and finish points. Any ideas? other WiFi's might have been in place for longer than yours, and have been mapped by someone before you arrive ? -showline</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=1404&amp;p=11002#p11002</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=1404&amp;p=11002#p11002</guid>
+        <pubDate>2021-09-01T10:36:21</pubDate>
       </item>
   </channel>
 </rss>
