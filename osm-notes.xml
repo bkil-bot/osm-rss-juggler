@@ -3,6 +3,86 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Dombrád) / * 2021 October 28 12:06 Created: Világháborús emlékmű. / * 2021 November 21 12:17 vasony Resolved: felvittem, pontosítandó</title>
+        <link>https://www.openstreetmap.org/note/2913336#c6290219</link>
+        <guid>https://www.openstreetmap.org/note/2913336#c6290219</guid>
+        <pubDate>Sun, 21 Nov 2021 12:17:07 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Dombrád) / * 2021 October 28 12:04 Created: Nincs vasúti átkelő, mert nem ér ki idáig a vasúti sínek, az úz előtt végetérnek. / * 2021 November 21 12:16 vasony Resolved: </title>
+        <link>https://www.openstreetmap.org/note/2913334#c6290216</link>
+        <guid>https://www.openstreetmap.org/note/2913334#c6290216</guid>
+        <pubDate>Sun, 21 Nov 2021 12:16:24 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Dombrád) / * 2021 October 28 12:04 Created: Stimmel a használaton kívüli jelző, de idáig nem ér ki. A Kölcsey utca városháza felőli oldaláig érnek csak a sínpárok. / * 2021 November 21 12:16 vasony Resolved: visszzaágtam</title>
+        <link>https://www.openstreetmap.org/note/2913332#c6290214</link>
+        <guid>https://www.openstreetmap.org/note/2913332#c6290214</guid>
+        <pubDate>Sun, 21 Nov 2021 12:16:06 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Anarcs) / * 2021 October 28 11:58 Created: A templom neve stimmel, de jelezni kellene, hogy görögkatolikus templom. / * 2021 November 21 12:15 vasony Resolved: denomination=greek_catholic már rajta van</title>
+        <link>https://www.openstreetmap.org/note/2913322#c6290208</link>
+        <guid>https://www.openstreetmap.org/note/2913322#c6290208</guid>
+        <pubDate>Sun, 21 Nov 2021 12:15:07 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Kisvárda) / * 2021 October 28 11:54 Created: Tesco-kra jellemző üzletsor a parkoló felőli oldalon van. Van ott Benu, virágbolt, pénzváltó(Exclusive Change), FirstPhone telefonos üzlet, játékbolt. / * 2021 November 21 12:14 vasony Resolved: Felvettem ezeket fixme-vel</title>
+        <link>https://www.openstreetmap.org/note/2913320#c6290202</link>
+        <guid>https://www.openstreetmap.org/note/2913320#c6290202</guid>
+        <pubDate>Sun, 21 Nov 2021 12:14:05 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Kisvárda) / * 2021 October 28 11:05 Created: Pár éve átadott szobor hiányzik. / * 2021 October 28 22:22 grin Updated: felvettem, de nem tudom, mit abrazol, ki a szobrasz... / * 2021 November 21 12:11 vasony Updated: talán ez: / https://www.kozterkep.hu/25943/kisvardai-janos-szobra</title>
+        <link>https://www.openstreetmap.org/note/2913278#c6290182</link>
+        <guid>https://www.openstreetmap.org/note/2913278#c6290182</guid>
+        <pubDate>Sun, 21 Nov 2021 12:11:00 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Tiszolczytelep, Pomáz) / * 2021 October 27 13:57 grozsa11 Created: 27A / via StreetComplete 36.1 / * 2021 November 21 12:01 vasony Resolved: Javítva</title>
+        <link>https://www.openstreetmap.org/note/2912347#c6290151</link>
+        <guid>https://www.openstreetmap.org/note/2912347#c6290151</guid>
+        <pubDate>Sun, 21 Nov 2021 12:01:44 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Belváros, 5th district) / * 2021 October 27 13:38 Created: V1 / * 2021 November 21 11:57 vasony Resolved: Elnézést, ez a térképjegyzet hiányos. Adjon részletes leírást arról a problémáról, amit jelenteni szeretne.</title>
+        <link>https://www.openstreetmap.org/note/2912311#c6290141</link>
+        <guid>https://www.openstreetmap.org/note/2912311#c6290141</guid>
+        <pubDate>Sun, 21 Nov 2021 11:57:52 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Erzsébettelep, 18th district) / * 2021 October 27 05:59 Created: volt Kőolajipari Gépgyár / * 2021 November 21 11:43 vasony Resolved: old_name megadva</title>
+        <link>https://www.openstreetmap.org/note/2911860#c6290096</link>
+        <guid>https://www.openstreetmap.org/note/2911860#c6290096</guid>
+        <pubDate>Sun, 21 Nov 2021 11:43:33 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Újhegy, 10th district) / * 2021 October 27 05:59 Created: volt Egyesült Villamosgépgyár (EVIG) / * 2021 November 21 11:42 vasony Resolved: old_name megadva</title>
+        <link>https://www.openstreetmap.org/note/2911859#c6290092</link>
+        <guid>https://www.openstreetmap.org/note/2911859#c6290092</guid>
+        <pubDate>Sun, 21 Nov 2021 11:42:47 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Újhegy, 10th district) / * 2021 October 27 05:57 Created: volt Pestszentlőrinci Egyesült Vegyiművek / * 2021 November 21 11:41 vasony Resolved: Megszűnt, elbontották.</title>
+        <link>https://www.openstreetmap.org/note/2911857#c6290081</link>
+        <guid>https://www.openstreetmap.org/note/2911857#c6290081</guid>
+        <pubDate>Sun, 21 Nov 2021 11:41:00 +0000</pubDate>
+      </item><item>
+        <title>reactivated note (near Nagytarcsa) / * 2021 November 21 11:40 Atilla Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/2908843#c6290078</link>
+        <guid>https://www.openstreetmap.org/note/2908843#c6290078</guid>
+        <pubDate>Sun, 21 Nov 2021 11:40:00 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Óhegy, 10th district) / * 2021 October 27 05:56 Created: volt Magyar Radiátorgyár Rt. / * 2021 November 21 11:38 vasony Resolved: old_name megadva</title>
+        <link>https://www.openstreetmap.org/note/2911856#c6290073</link>
+        <guid>https://www.openstreetmap.org/note/2911856#c6290073</guid>
+        <pubDate>Sun, 21 Nov 2021 11:38:38 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Óhegy, 10th district) / * 2021 October 27 05:56 Created: volt Magyar Kerámia Gyár Rt. / * 2021 November 21 11:37 vasony Resolved: A jelölő helyén egy üres placc van. ebben a formában nem jelölhető</title>
+        <link>https://www.openstreetmap.org/note/2911854#c6290069</link>
+        <guid>https://www.openstreetmap.org/note/2911854#c6290069</guid>
+        <pubDate>Sun, 21 Nov 2021 11:37:42 +0000</pubDate>
+      </item><item>
+        <title>new note (near Zugliget, 12th district) / * 2021 November 21 11:36 Created: Szilassy út van kitáblázva (nem Disznófő)</title>
+        <link>https://www.openstreetmap.org/note/2943256#c6290065</link>
+        <guid>https://www.openstreetmap.org/note/2943256#c6290065</guid>
+        <pubDate>Sun, 21 Nov 2021 11:36:45 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Kúttó, 10th district) / * 2021 October 27 05:55 Created: Xellia Gyógyszervegyészeti Kft. / * 2021 November 21 11:30 vasony Resolved: Felvittem.</title>
+        <link>https://www.openstreetmap.org/note/2911852#c6290044</link>
+        <guid>https://www.openstreetmap.org/note/2911852#c6290044</guid>
+        <pubDate>Sun, 21 Nov 2021 11:30:54 +0000</pubDate>
+      </item><item>
         <title>closed note (near Erzsébettelep, 18th district) / * 2021 October 27 06:00 Created: volt Lőrinci Fonó / * 2021 November 21 11:19 vasony Resolved: épület és old_name felvive</title>
         <link>https://www.openstreetmap.org/note/2911861#c6289997</link>
         <guid>https://www.openstreetmap.org/note/2911861#c6289997</guid>
@@ -302,46 +382,6 @@
         <link>https://www.openstreetmap.org/note/2724140#c6288499</link>
         <guid>https://www.openstreetmap.org/note/2724140#c6288499</guid>
         <pubDate>Sat, 20 Nov 2021 19:12:56 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Törökőr, 14th district) / * 2021 June 21 18:11 meskobalazs Created: Az épület utca felől bal fele 24 / via StreetComplete 32.1 / * 2021 November 20 19:12 meskobalazs Resolved: Felvettem.</title>
-        <link>https://www.openstreetmap.org/note/2722910#c6288498</link>
-        <guid>https://www.openstreetmap.org/note/2722910#c6288498</guid>
-        <pubDate>Sat, 20 Nov 2021 19:12:55 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Törökőr, 14th district) / * 2021 March 26 16:01 meskobalazs Created: Unable to answer &amp;quot;What are the opening hours of Takarékszövetkezet (Bank)?&amp;quot; for https://osm.org/node/1704172391 via StreetComplete 31.0: / GeopTeam Kft. / * 2021 November 20 19:12 meskobalazs Resolved: Töröltem.</title>
-        <link>https://www.openstreetmap.org/note/2595443#c6288497</link>
-        <guid>https://www.openstreetmap.org/note/2595443#c6288497</guid>
-        <pubDate>Sat, 20 Nov 2021 19:12:55 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Törökőr, 14th district) / * 2021 June 21 17:34 meskobalazs Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/275675389 via StreetComplete 32.1: / Tippre valami fészer volt, ami már nem létezik, törölném. / * 2021 November 20 19:12 meskobalazs Resolved: Töröltem.</title>
-        <link>https://www.openstreetmap.org/note/2722851#c6288496</link>
-        <guid>https://www.openstreetmap.org/note/2722851#c6288496</guid>
-        <pubDate>Sat, 20 Nov 2021 19:12:55 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Törökőr, 14th district) / * 2021 June 21 17:31 meskobalazs Created: Lépcső + rámpa / via StreetComplete 32.1 / Attached photo(s): / https://westnordost.de/p/46170.jpg / * 2021 November 20 19:06 meskobalazs Resolved: Felvettem.</title>
-        <link>https://www.openstreetmap.org/note/2722846#c6288480</link>
-        <guid>https://www.openstreetmap.org/note/2722846#c6288480</guid>
-        <pubDate>Sat, 20 Nov 2021 19:06:55 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Törökőr, 14th district) / * 2021 June 21 17:26 meskobalazs Created: Lépcső / via StreetComplete 32.1 / Attached photo(s): / https://westnordost.de/p/46168.jpg / * 2021 November 20 19:06 meskobalazs Resolved: Felvettem.</title>
-        <link>https://www.openstreetmap.org/note/2722834#c6288479</link>
-        <guid>https://www.openstreetmap.org/note/2722834#c6288479</guid>
-        <pubDate>Sat, 20 Nov 2021 19:06:54 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Törökőr, 14th district) / * 2021 June 21 17:30 meskobalazs Created: Lepcső + útmenti parkoló / via StreetComplete 32.1 / Attached photo(s): / https://westnordost.de/p/46169.jpg / * 2021 November 20 19:06 meskobalazs Resolved: Felvettem.</title>
-        <link>https://www.openstreetmap.org/note/2722843#c6288478</link>
-        <guid>https://www.openstreetmap.org/note/2722843#c6288478</guid>
-        <pubDate>Sat, 20 Nov 2021 19:06:54 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Törökőr, 14th district) / * 2021 June 21 17:57 meskobalazs Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/275675388 via StreetComplete 32.1: / Zuglói Szociális Szolgáltató Központ, Gondozási csoport Őszirózsa Idősek Klubja tel.: +3613832989 / * 2021 November 20 18:52 meskobalazs Resolved: Hozzáadtam az információt</title>
-        <link>https://www.openstreetmap.org/note/2722892#c6288385</link>
-        <guid>https://www.openstreetmap.org/note/2722892#c6288385</guid>
-        <pubDate>Sat, 20 Nov 2021 18:52:49 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Törökőr, 14th district) / * 2021 June 21 17:53 meskobalazs Created: Lépcső, fém cölöp x3 / via StreetComplete 32.1 / Attached photo(s): / https://westnordost.de/p/46172.jpg / * 2021 November 20 18:47 meskobalazs Resolved: Felvettem.</title>
-        <link>https://www.openstreetmap.org/note/2722887#c6288360</link>
-        <guid>https://www.openstreetmap.org/note/2722887#c6288360</guid>
-        <pubDate>Sat, 20 Nov 2021 18:47:05 +0000</pubDate>
       </item>
   </channel>
 </rss>
