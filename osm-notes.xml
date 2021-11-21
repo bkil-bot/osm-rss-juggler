@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Bakonynána) / * 2021 October 23 13:40 Johanna707 Created: A posta ez a hátsó épület. 8 lépcsőfok, korláttal. / via StreetComplete 36.1 / * 2021 November 21 07:45 vasony Resolved: Felvittem a lépcsőt, felrajzoltam a postát és átmozgattam rá a postát</title>
+        <link>https://www.openstreetmap.org/note/2906823#c6289379</link>
+        <guid>https://www.openstreetmap.org/note/2906823#c6289379</guid>
+        <pubDate>Sun, 21 Nov 2021 07:45:59 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Bakonynána) / * 2021 October 23 13:27 Johanna707 Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/405997416 via StreetComplete 36.1: / közösségi tér, önkormányzati foglalkoztató / * 2021 November 21 07:33 vasony Resolved: https://wiki.openstreetmap.org/wiki/Tag:building%3Dcivic</title>
+        <link>https://www.openstreetmap.org/note/2906807#c6289372</link>
+        <guid>https://www.openstreetmap.org/note/2906807#c6289372</guid>
+        <pubDate>Sun, 21 Nov 2021 07:33:54 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Bakonynána) / * 2021 October 23 11:39 Johanna707 Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/325849506 via StreetComplete 36.1: / Római fürdő Apartmanház. Nem találtam a besorolását😒 / * 2021 November 21 07:29 vasony Resolved: tourism=guest_house, felvittem</title>
+        <link>https://www.openstreetmap.org/note/2906648#c6289356</link>
+        <guid>https://www.openstreetmap.org/note/2906648#c6289356</guid>
+        <pubDate>Sun, 21 Nov 2021 07:29:30 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Bakonynána) / * 2021 October 23 11:18 Johanna707 Created: Unable to answer &amp;quot;What is the name of this road?&amp;quot; for https://osm.org/way/209213324 via StreetComplete 36.1: / Duplumnak tűnik. / * 2021 October 25 20:57 mgpx Updated: Ez egy közforgalom számára megnyitott erdészeti magánút, tudtommal se neve, se száma nincs / * 2021 November 21 07:25 vasony Resolved: Itt nincs mit javítani, lezárom.</title>
+        <link>https://www.openstreetmap.org/note/2906616#c6289353</link>
+        <guid>https://www.openstreetmap.org/note/2906616#c6289353</guid>
+        <pubDate>Sun, 21 Nov 2021 07:25:33 +0000</pubDate>
+      </item><item>
         <title>closed note (near Komárom) / * 2021 October 21 20:50 Created: onosm.org submitted note from a business: / name: Crazy House Szabadulószoba / phone: +36702507146 / website: https://crazyhouse.hu / twitter: / facebook: https://facebook.com/crazyhouse.escaperoom / email: info@crazyhouse.hu / hours: / category: Family Practice / address: 2900 Komárom arany János utca 27. / * 2021 November 21 07:16 vasony Resolved: Köszönjük a jelentést. A térképet javítottam.</title>
         <link>https://www.openstreetmap.org/note/2905071#c6289343</link>
         <guid>https://www.openstreetmap.org/note/2905071#c6289343</guid>
@@ -257,21 +277,6 @@
         <link>https://www.openstreetmap.org/note/2894327#c6288148</link>
         <guid>https://www.openstreetmap.org/note/2894327#c6288148</guid>
         <pubDate>Sat, 20 Nov 2021 17:52:59 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Ámánd, Pannonhalma) / * 2021 October 9 11:27 OSM KAMI Created: Ez meg nem egyirányú / * 2021 November 20 17:46 vasony Updated: Kicsit zavart érzek az erőben, épp te módosítottad egyirányúra</title>
-        <link>https://www.openstreetmap.org/note/2887315#c6288131</link>
-        <guid>https://www.openstreetmap.org/note/2887315#c6288131</guid>
-        <pubDate>Sat, 20 Nov 2021 17:46:07 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Kókatanya, Sárospatak) / * 2021 October 7 17:54 Saskiagruender Created: &amp;quot;Parkplatz&amp;quot; / POI has no name / POI types: highway-rest_area / OSM data version: 2021-02-01T11:34:17Z / #mapsme / * 2021 November 20 17:32 vasony Resolved: Fixed</title>
-        <link>https://www.openstreetmap.org/note/2885199#c6288088</link>
-        <guid>https://www.openstreetmap.org/note/2885199#c6288088</guid>
-        <pubDate>Sat, 20 Nov 2021 17:32:52 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Víziváros, 1st district) / * 2021 October 7 17:23 Created: Kapás utca 6-12. &amp;quot;B&amp;quot; lépcsőház / * 2021 November 20 17:15 vasony Resolved: Bejáratot hozzáadtam</title>
-        <link>https://www.openstreetmap.org/note/2885140#c6288012</link>
-        <guid>https://www.openstreetmap.org/note/2885140#c6288012</guid>
-        <pubDate>Sat, 20 Nov 2021 17:15:05 +0000</pubDate>
       </item>
   </channel>
 </rss>
