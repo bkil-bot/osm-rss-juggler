@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Kertváros, Pécs) / * 2016 October 25 19:33 falu Created: Ez itt már nem a Hauni, hanem talán a Flextroics / * 2021 November 27 18:17 Spush Resolved: Már átnevezték.</title>
+        <link>https://www.openstreetmap.org/note/761027#c6309377</link>
+        <guid>https://www.openstreetmap.org/note/761027#c6309377</guid>
+        <pubDate>Sat, 27 Nov 2021 18:17:36 +0000</pubDate>
+      </item><item>
         <title>closed note (near Mecseknádasd) / * 2021 September 15 10:27 Created: Ófalui elágazó, nem Óbányai bekanyarodó / * 2021 November 27 16:17 Spush Resolved: Javítva.</title>
         <link>https://www.openstreetmap.org/note/2853299#c6309016</link>
         <guid>https://www.openstreetmap.org/note/2853299#c6309016</guid>
@@ -197,16 +202,6 @@
         <link>https://www.openstreetmap.org/note/2949081#c6304003</link>
         <guid>https://www.openstreetmap.org/note/2949081#c6304003</guid>
         <pubDate>Thu, 25 Nov 2021 18:31:06 +0000</pubDate>
-      </item><item>
-        <title>new note (near Újváros-lakótelep, Mohács) / * 2021 November 25 18:07 vasony-qa Created: Ez a Pick Márk út?</title>
-        <link>https://www.openstreetmap.org/note/2948986#c6303886</link>
-        <guid>https://www.openstreetmap.org/note/2948986#c6303886</guid>
-        <pubDate>Thu, 25 Nov 2021 18:07:35 +0000</pubDate>
-      </item><item>
-        <title>new note (near Bábonyibérc, Miskolc) / * 2021 November 25 18:01 vasony-qa Created: Bábonyibérc újtelep itt van valahol?</title>
-        <link>https://www.openstreetmap.org/note/2948984#c6303877</link>
-        <guid>https://www.openstreetmap.org/note/2948984#c6303877</guid>
-        <pubDate>Thu, 25 Nov 2021 18:01:38 +0000</pubDate>
       </item>
   </channel>
 </rss>
