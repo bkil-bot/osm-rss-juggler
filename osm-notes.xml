@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Szadai Ipari Park, Szada) / * 2021 November 29 14:15 bkil Resolved: Az a funkció térképhibák bejelentésére szolgál. Állunk rendelkezésre amennyiben szerkesztési segítségre volna szükség.</title>
+        <link>https://www.openstreetmap.org/note/2953383#c6314426</link>
+        <guid>https://www.openstreetmap.org/note/2953383#c6314426</guid>
+        <pubDate>Mon, 29 Nov 2021 14:15:43 +0000</pubDate>
+      </item><item>
         <title>new note (near Margaret Island, Budapest, Central Hungary, 1007, Hungary) / * 2021 November 29 11:55 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: Fountain is out of order - reconstruction. / https://www.openstreetmap.org/way/180740489</title>
         <link>https://www.openstreetmap.org/note/2953508#c6314128</link>
         <guid>https://www.openstreetmap.org/note/2953508#c6314128</guid>
@@ -87,16 +92,6 @@
         <link>https://www.openstreetmap.org/note/2950348#c6306788</link>
         <guid>https://www.openstreetmap.org/note/2950348#c6306788</guid>
         <pubDate>Fri, 26 Nov 2021 19:57:29 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Mátraháza, Gyöngyös) / * 2021 October 20 08:45 OSM KAMI Created: Negyevszakvendeghaz / * 2021 October 20 09:16 OSM KAMI Updated: Hegyihotel / * 2021 November 21 07:06 vasony Updated: Most akkor melyik? / * 2021 November 26 10:33 OSM KAMI Resolved:  Telekom üdülő már Hegyihotel lett. Javítva az adatok.</title>
-        <link>https://www.openstreetmap.org/note/2902966#c6305482</link>
-        <guid>https://www.openstreetmap.org/note/2902966#c6305482</guid>
-        <pubDate>Fri, 26 Nov 2021 10:33:46 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Ámánd, Pannonhalma) / * 2021 October 9 11:27 OSM KAMI Created: Ez meg nem egyirányú / * 2021 November 20 17:46 vasony Updated: Kicsit zavart érzek az erőben, épp te módosítottad egyirányúra / * 2021 November 26 10:24 OSM KAMI Resolved: Nincs zavar, csak azt akartam jelezni, hogy az a kis szakasz kétirányú, míg a balra induló útrész pedig egy. Felszerkesztettem. Lezárom.</title>
-        <link>https://www.openstreetmap.org/note/2887315#c6305453</link>
-        <guid>https://www.openstreetmap.org/note/2887315#c6305453</guid>
-        <pubDate>Fri, 26 Nov 2021 10:24:48 +0000</pubDate>
       </item>
   </channel>
 </rss>
