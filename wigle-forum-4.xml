@@ -3,6 +3,11 @@
   <channel>
     <title>Wireless News (via bkil-bot)</title>
       <item>
+        <title>DCAS (Department of Citywide Administrative Services) Hacked?: 00:40:96:42:08:4D DCASMEZZ NoWEP (wide open) 40.71310425 -74.00485992 was hacked and database(s) comprimised. Undisclosed changes in the City Administrative database which held salaries, etc. Now the shockwave has rippled to all other agencies in NYC. DOI suggests all gov agencies review their security policies and guidlines immediately. This kind of stuff can be mostly prevented, or at least make it difficult enough so hackers go to the next easy target. This access point was located next to a window in the mezz. Easy target. The City agencies were not aware of the wwwd2 that was going on this week and the convention today (oct 31, 2002) at Citicorp bldg. But rest assured, they do now and all eyes are on it. -AidenMarkram</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2906&amp;p=11109#p11109</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2906&amp;p=11109#p11109</guid>
+        <pubDate>2021-11-30T12:07:07</pubDate>
+      </item><item>
         <title>Re: SSID Statistics per country: Often requested, but still not implemented - we'll add your vote to the feature queue! -arkasha</title>
         <link>https://wigle.net/phpbb/viewtopic.php?t=2777&amp;p=10909#p10909</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2777&amp;p=10909#p10909</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?t=2506&amp;p=9501#p9501</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2506&amp;p=9501#p9501</guid>
         <pubDate>2018-01-11T06:52:05</pubDate>
-      </item><item>
-        <title>Creating maps?: How can I create maps? No maps for Norway around... do the maps use any standard format? The .mappack files are ok to &quot;decode&quot; but how are those .png files made? Can I find .png files like these for any country? What's up with the three different .png files for i.e. Chichago, what's the need for 3, and what's the difference between them? Where is this Rigle where I can submit request for maps to be made? -cordova85</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?t=2506&amp;p=9500#p9500</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?t=2506&amp;p=9500#p9500</guid>
-        <pubDate>2018-01-11T03:11:27</pubDate>
       </item>
   </channel>
 </rss>
