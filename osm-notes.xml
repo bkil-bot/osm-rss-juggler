@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Erzsébetváros, 7th district) / * 2021 November 10 19:16 Created: Hier ist das Hotel Unio. / * 2021 December 1 21:36 vasony Resolved: added</title>
+        <link>https://www.openstreetmap.org/note/2930833#c6320607</link>
+        <guid>https://www.openstreetmap.org/note/2930833#c6320607</guid>
+        <pubDate>Wed, 01 Dec 2021 21:36:43 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Lágymányos, 11th district) / * 2021 November 8 12:45 Derisis13 Created: Unable to answer &amp;quot;This shop has been vacant. What’s here now?&amp;quot; for https://osm.org/node/268750330 via StreetComplete 37.0: / building is under destruction / lebontás alatt áll az épület / * 2021 December 1 21:31 vasony Resolved: időközben már be lett jelölve bontottra</title>
+        <link>https://www.openstreetmap.org/note/2927773#c6320603</link>
+        <guid>https://www.openstreetmap.org/note/2927773#c6320603</guid>
+        <pubDate>Wed, 01 Dec 2021 21:31:09 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Rigóhegy, Nagymaros) / * 2021 November 6 11:55 Johanna707 Created: Unable to answer &amp;quot;What is the material of this power or utility pole?&amp;quot; for https://osm.org/node/3764356732 via StreetComplete 37.0: / nincs oszlop, földkábel van / * 2021 December 1 21:27 vasony Resolved: A tetejét megszűntettem, az alja ellenőrizendő.</title>
+        <link>https://www.openstreetmap.org/note/2924630#c6320592</link>
+        <guid>https://www.openstreetmap.org/note/2924630#c6320592</guid>
+        <pubDate>Wed, 01 Dec 2021 21:27:04 +0000</pubDate>
+      </item><item>
         <title>closed note (near Svábhegy, Nagymaros) / * 2021 November 6 09:55 Johanna707 Created: Unable to answer &amp;quot;What is the topic of this information board?&amp;quot; for https://osm.org/node/5097042666 via StreetComplete 37.0: / gombák / * 2021 December 1 21:16 vasony Resolved: sajnos ilyen nincs vagy nature vagy plants, az előbbi tágabb így az lett</title>
         <link>https://www.openstreetmap.org/note/2924498#c6320584</link>
         <guid>https://www.openstreetmap.org/note/2924498#c6320584</guid>
@@ -267,11 +282,6 @@
         <link>https://www.openstreetmap.org/note/2953383#c6314426</link>
         <guid>https://www.openstreetmap.org/note/2953383#c6314426</guid>
         <pubDate>Mon, 29 Nov 2021 14:15:43 +0000</pubDate>
-      </item><item>
-        <title>new note (near Margaret Island, Budapest, Central Hungary, 1007, Hungary) / * 2021 November 29 11:55 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: Fountain is out of order - reconstruction. / https://www.openstreetmap.org/way/180740489</title>
-        <link>https://www.openstreetmap.org/note/2953508#c6314128</link>
-        <guid>https://www.openstreetmap.org/note/2953508#c6314128</guid>
-        <pubDate>Mon, 29 Nov 2021 11:55:14 +0000</pubDate>
       </item>
   </channel>
 </rss>
