@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>#OpenStreetMap Mapper of the Month #MotM goes to Russia this time to let us meet d1sr4n: https://openstreetmap.be/en/motm/2021/12/01/d1sr4n.html.</title>
+        <link>https://en.osm.town/@Doudouosm/107371944964445904</link>
+        <guid>https://en.osm.town/@Doudouosm/107371944964445904</guid>
+        <pubDate>Wed, 01 Dec 2021 13:37:39 +0000</pubDate>
+      </item><item>
         <title>A quick start guide to create a web map with the Python-based web framework Django using its module #GeoDjango, the PostgreSQL database with its spatial extension #PostGIS and #Leaflet, a JavaScript library for interactive maps. https://www.paulox.net/2021/07/19/maps-with-django-part-2-geodjango-postgis-and-leaflet/#maps-with-django-part-2-geodjango-postgis-and-leaflet</title>
         <link>https://en.osm.town/@Doudouosm/107305868908807369</link>
         <guid>https://en.osm.town/@Doudouosm/107305868908807369</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/106863947107950258</link>
         <guid>https://en.osm.town/@Doudouosm/106863947107950258</guid>
         <pubDate>Thu, 02 Sep 2021 20:27:07 +0000</pubDate>
-      </item><item>
-        <title>The #OpenStreetMap Belgium Mapper of the Month #MotM series visits Tanzania this month to let us meet Constantine Tumwine: https://openstreetmap.be/en/motm/2021/09/01/constantine-tumwine.html</title>
-        <link>https://en.osm.town/@Doudouosm/106858016426588448</link>
-        <guid>https://en.osm.town/@Doudouosm/106858016426588448</guid>
-        <pubDate>Wed, 01 Sep 2021 19:18:52 +0000</pubDate>
       </item>
   </channel>
 </rss>
