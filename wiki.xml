@@ -2,6 +2,11 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      
+      <item>
+        <title>Template:PlaceLang: Added missing catalan translation -Offsel</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Template:PlaceLang&amp;diff=2225271&amp;oldid=2190518</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Template:PlaceLang&amp;diff=2225271</guid>
+        <pubDate>Thu, 02 Dec 2021 17:51:22 GMT</pubDate>
+      </item>
   </channel>
 </rss>
