@@ -2,11 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      <item>
-        <title>Hungary/Kerékpárút: frissítés -Antissimo</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Ker%C3%A9kp%C3%A1r%C3%BAt&amp;diff=2224634&amp;oldid=2224623</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Ker%C3%A9kp%C3%A1r%C3%BAt&amp;diff=2224634</guid>
-        <pubDate>Wed, 01 Dec 2021 16:50:02 GMT</pubDate>
-      </item>
+      
   </channel>
 </rss>
