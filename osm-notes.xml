@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Istvánmező, 14th district) / * 2021 November 20 15:45 ITineris Created: Két külön bejárat, és 3/a + 3/b? / * 2021 December 2 21:45 vasony Updated: javítod? / * 2021 December 2 21:54 ITineris Updated: Ha arra járok, és meg tudom nézni. / Ami most Ilka utca 7., az régen 5-7 volt igazából. Nem bajlódtam vele, mert úgyis lebontják (ha még nem tették meg). Ezt is ellenőrizni kell majd. / * 2021 December 2 22:01 ITineris Updated: Egy friss Maxar szerint a Cserei utca 11-13-mal együtt lebontották az Ilka 5-7-et (alias Cserei 7). / * 2021 December 3 15:44 ITineris Resolved: Csak egy bejárat van. A /a és /b valószínűleg még a régi épületek lehettek.</title>
+        <link>https://www.openstreetmap.org/note/2942303#c6324448</link>
+        <guid>https://www.openstreetmap.org/note/2942303#c6324448</guid>
+        <pubDate>Fri, 03 Dec 2021 15:44:18 +0000</pubDate>
+      </item><item>
         <title>new note (near Sarród) / * 2021 December 3 12:32 efi99 Created: Hátsó u 1 vagy 2?</title>
         <link>https://www.openstreetmap.org/note/2957786#c6324073</link>
         <guid>https://www.openstreetmap.org/note/2957786#c6324073</guid>
@@ -322,11 +327,6 @@
         <link>https://www.openstreetmap.org/note/2924460#c6320578</link>
         <guid>https://www.openstreetmap.org/note/2924460#c6320578</guid>
         <pubDate>Wed, 01 Dec 2021 21:11:54 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Nagymaros) / * 2021 November 6 09:33 Johanna707 Created: Unable to answer &amp;quot;Is 3. Fizikai jellemzők (Information Board) still here?&amp;quot; for https://osm.org/node/5097042663 via StreetComplete 37.0: / Odébb van. / * 2021 December 1 21:11 vasony Resolved: átraktam.</title>
-        <link>https://www.openstreetmap.org/note/2924459#c6320577</link>
-        <guid>https://www.openstreetmap.org/note/2924459#c6320577</guid>
-        <pubDate>Wed, 01 Dec 2021 21:11:40 +0000</pubDate>
       </item>
   </channel>
 </rss>
