@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Belváros, 5th district) / * 2021 December 3 11:01 jury83 Resolved: </title>
+        <link>https://www.openstreetmap.org/note/2957694#c6323934</link>
+        <guid>https://www.openstreetmap.org/note/2957694#c6323934</guid>
+        <pubDate>Fri, 03 Dec 2021 11:01:11 +0000</pubDate>
+      </item><item>
+        <title>new note (near Belváros, 5th district) / * 2021 December 3 11:01 jury83 Created: Casa</title>
+        <link>https://www.openstreetmap.org/note/2957694#c6323933</link>
+        <guid>https://www.openstreetmap.org/note/2957694#c6323933</guid>
+        <pubDate>Fri, 03 Dec 2021 11:01:07 +0000</pubDate>
+      </item><item>
         <title>new note (near Baross-telep, Eszterháza, Fertőd) / * 2021 December 2 23:05 efi99 Created: utca,házszám?</title>
         <link>https://www.openstreetmap.org/note/2957342#c6323086</link>
         <guid>https://www.openstreetmap.org/note/2957342#c6323086</guid>
@@ -337,16 +347,6 @@
         <link>https://www.openstreetmap.org/note/2915984#c6320465</link>
         <guid>https://www.openstreetmap.org/note/2915984#c6320465</guid>
         <pubDate>Wed, 01 Dec 2021 20:26:39 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Aranyhegy, Sopron) / * 2021 October 30 11:21 Created: Diese Straße (8527) ist ab sofort keine Einbahn mehr, nachdem die Baustelle / im Oktober fertiggestellt wurde. / * 2021 December 1 20:25 vasony Resolved: already fixed</title>
-        <link>https://www.openstreetmap.org/note/2915922#c6320462</link>
-        <guid>https://www.openstreetmap.org/note/2915922#c6320462</guid>
-        <pubDate>Wed, 01 Dec 2021 20:25:54 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Komárom) / * 2021 October 29 20:30 Created: Gerincközpont Komárom / * 2021 December 1 20:19 vasony Resolved: felvittem.</title>
-        <link>https://www.openstreetmap.org/note/2915241#c6320443</link>
-        <guid>https://www.openstreetmap.org/note/2915241#c6320443</guid>
-        <pubDate>Wed, 01 Dec 2021 20:19:43 +0000</pubDate>
       </item>
   </channel>
 </rss>
