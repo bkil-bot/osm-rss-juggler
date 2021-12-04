@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Avas, Miskolc) / * 2021 December 4 13:57 vasony-qa Created: Ez a Szőlőskert sétány?</title>
+        <link>https://www.openstreetmap.org/note/2958993#c6326370</link>
+        <guid>https://www.openstreetmap.org/note/2958993#c6326370</guid>
+        <pubDate>Sat, 04 Dec 2021 13:57:37 +0000</pubDate>
+      </item><item>
         <title>new note (near Fertőszéplak) / * 2021 December 4 13:09 efi99 Created: ?</title>
         <link>https://www.openstreetmap.org/note/2958903#c6326256</link>
         <guid>https://www.openstreetmap.org/note/2958903#c6326256</guid>
@@ -377,16 +382,6 @@
         <link>https://www.openstreetmap.org/note/2936553#c6322751</link>
         <guid>https://www.openstreetmap.org/note/2936553#c6322751</guid>
         <pubDate>Thu, 02 Dec 2021 20:25:14 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Celldömölk) / * 2021 November 18 10:34 Created: Ezt a sarkot is ledózerolták, új iskolaépületet húztak fel. Az előtte lévő bozótosból egy teret alakítottak ki. / * 2021 December 2 20:20 vasony Updated: valamit alakítottam rajta</title>
-        <link>https://www.openstreetmap.org/note/2939655#c6322740</link>
-        <guid>https://www.openstreetmap.org/note/2939655#c6322740</guid>
-        <pubDate>Thu, 02 Dec 2021 20:20:46 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Alsócelldömölk, Celldömölk) / * 2021 November 18 10:13 Created: Ez itt egy park. / * 2021 December 2 20:19 vasony Resolved: park hozzáadva.</title>
-        <link>https://www.openstreetmap.org/note/2939628#c6322739</link>
-        <guid>https://www.openstreetmap.org/note/2939628#c6322739</guid>
-        <pubDate>Thu, 02 Dec 2021 20:19:55 +0000</pubDate>
       </item>
   </channel>
 </rss>
