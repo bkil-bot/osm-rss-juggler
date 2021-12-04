@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near József Attila-lakótelep, 9th district) / * 2021 December 4 16:57 infeeeee Resolved: A kanyarodó sáv eleje belóg a Gyáli úti felüljáró alá, csak a streetcomplete mindig az utca közepére rakja a kérdést, nem ott ahol a hiba pontosan található, ennyire nem okos. / Tekintve, hogy ugyanarról a felüljáróról van szó mint a szomszédos utcákban, ugyanaz a címke használható: maxheight=3.9 és maxheight:physical=4.69 hozzá is adtam: https://www.openstreetmap.org/changeset/114560688</title>
+        <link>https://www.openstreetmap.org/note/2959080#c6326784</link>
+        <guid>https://www.openstreetmap.org/note/2959080#c6326784</guid>
+        <pubDate>Sat, 04 Dec 2021 16:57:59 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Adyváros, Győr) / * 2015 January 26 19:55 nagy_balint Created: Relations (bus, route...) were not updated together with the roundabout... Needs to get checked. / * 2015 April 30 18:35 Péter Kovács Resolved:  / * 2015 April 30 18:36 Péter Kovács Reactivated:  / * 2021 December 4 16:50 Spush Resolved: Checked in 2017.</title>
+        <link>https://www.openstreetmap.org/note/307592#c6326770</link>
+        <guid>https://www.openstreetmap.org/note/307592#c6326770</guid>
+        <pubDate>Sat, 04 Dec 2021 16:50:15 +0000</pubDate>
+      </item><item>
         <title>closed note (near Ötvöskónyi) / * 2019 September 9 13:13 fukejs Created: Mapy.cz user reported: Szent Vendel Kilátó (Somogyszob) / * 2021 December 4 16:07 Spush Resolved: Kb 1,5 éve felkerült a térképre</title>
         <link>https://www.openstreetmap.org/note/1918750#c6326685</link>
         <guid>https://www.openstreetmap.org/note/1918750#c6326685</guid>
@@ -377,16 +387,6 @@
         <link>https://www.openstreetmap.org/note/2938602#c6322873</link>
         <guid>https://www.openstreetmap.org/note/2938602#c6322873</guid>
         <pubDate>Thu, 02 Dec 2021 21:25:25 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Felsőgöd, Göd) / * 2021 November 17 08:07 Created: Németh László művészetoktatás, Kisház / * 2021 December 2 21:24 vasony Resolved: A vasút közepén? nem. / Az iskola jelölve van, a zeneteremről nem találtam külön információt, hol kellene lennie.</title>
-        <link>https://www.openstreetmap.org/note/2938395#c6322872</link>
-        <guid>https://www.openstreetmap.org/note/2938395#c6322872</guid>
-        <pubDate>Thu, 02 Dec 2021 21:24:50 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Belváros, Nyíregyháza) / * 2021 November 16 12:25 Peter_Nyh1 Created: A Csodaszertár 2019 decemberével megszűnt, a helyén most a Murcos étterem található! / * 2021 December 2 21:19 vasony Resolved: javítva</title>
-        <link>https://www.openstreetmap.org/note/2937417#c6322858</link>
-        <guid>https://www.openstreetmap.org/note/2937417#c6322858</guid>
-        <pubDate>Thu, 02 Dec 2021 21:19:52 +0000</pubDate>
       </item>
   </channel>
 </rss>
