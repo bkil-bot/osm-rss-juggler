@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Angyalföld, 13th district) / * 2021 June 26 18:59 meskobalazs Created: Unable to answer &amp;quot;How many steps are here?&amp;quot; for https://osm.org/way/643745347 via StreetComplete 32.1: / Az egész aluljáró lépcsőként van címkézve (legalábbis a StreetComplete szerint) / * 2021 December 4 19:10 Spush Resolved: Már kijavították a lépcsőket.</title>
+        <link>https://www.openstreetmap.org/note/2729882#c6327000</link>
+        <guid>https://www.openstreetmap.org/note/2729882#c6327000</guid>
+        <pubDate>Sat, 04 Dec 2021 19:10:38 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Zirc) / * 2020 November 19 07:01 Dundó Created: &amp;quot;Bezárt a kocsma már évekkel ezelőtt.&amp;quot; / POI name: Hoperkó kisvendéglő / POI types: building wheelchair-no amenity-pub / OSM data version: 2020-09-19T23:20:21Z / #mapsme / * 2021 December 4 18:45 Spush Resolved: Töröltem.</title>
+        <link>https://www.openstreetmap.org/note/2431437#c6326961</link>
+        <guid>https://www.openstreetmap.org/note/2431437#c6326961</guid>
+        <pubDate>Sat, 04 Dec 2021 18:45:31 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Bakonyszombathely) / * 2021 June 9 09:38 Created: Az adott ponton körforgalom készül. Befejezése 2021 novemberében várható / * 2021 December 4 18:32 Spush Resolved: A körforgalom felkerült a térképre.</title>
+        <link>https://www.openstreetmap.org/note/2705514#c6326949</link>
+        <guid>https://www.openstreetmap.org/note/2705514#c6326949</guid>
+        <pubDate>Sat, 04 Dec 2021 18:32:58 +0000</pubDate>
+      </item><item>
         <title>closed note (near Ráró, Ásványráró) / * 2020 October 3 09:14 Created: onosm.org submitted note from a business: / name: Esztella Cukrászda / phone: 0670379025 / website: / twitter: undefined / hours: Hétfő: Zárva / Kedd-Péntek 10:00-19:00 / Szombat-Vasárnap 10:00-20:00 / category: ,Candy Stores,Coffee &amp;amp; Tea,Patisserie/Cake Shop,Ice Cream &amp;amp; Frozen Yogurt / address: / * 2021 December 4 17:46 Spush Resolved: https://www.openstreetmap.org/changeset/114561903</title>
         <link>https://www.openstreetmap.org/note/2372097#c6326867</link>
         <guid>https://www.openstreetmap.org/note/2372097#c6326867</guid>
@@ -372,21 +387,6 @@
         <link>https://www.openstreetmap.org/note/2940599#c6322911</link>
         <guid>https://www.openstreetmap.org/note/2940599#c6322911</guid>
         <pubDate>Thu, 02 Dec 2021 21:42:34 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Tűzberek vadászház, Gyömrő) / * 2021 November 18 11:11 Dancs Tamás Created: Magánút, nem átjátható. / * 2021 November 18 11:22 Dancs Tamás Resolved:  / * 2021 November 18 11:30 Dancs Tamás Reactivated:  / * 2021 December 2 21:37 vasony Resolved: privátra állítottam</title>
-        <link>https://www.openstreetmap.org/note/2939709#c6322895</link>
-        <guid>https://www.openstreetmap.org/note/2939709#c6322895</guid>
-        <pubDate>Thu, 02 Dec 2021 21:37:24 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Celldömölk) / * 2021 November 18 10:19 Created: Nem épületként jelölt iskolaépületek. / * 2021 December 2 21:35 vasony Resolved: javítva.</title>
-        <link>https://www.openstreetmap.org/note/2939632#c6322890</link>
-        <guid>https://www.openstreetmap.org/note/2939632#c6322890</guid>
-        <pubDate>Thu, 02 Dec 2021 21:35:50 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Csepel-Szabótelep, 21st district) / * 2021 November 18 08:54 Hungarian_user Created: Unable to answer &amp;quot;What is the name of this pedestrian street?&amp;quot; for https://osm.org/way/212039357 via StreetComplete 37.1: / lakóház hátulja / * 2021 December 2 21:29 vasony Resolved: noname=yes-t tettem a környéken ezekre, ha mégse jelölt gyalogos zóna, akkor javíts légy szíves</title>
-        <link>https://www.openstreetmap.org/note/2939530#c6322880</link>
-        <guid>https://www.openstreetmap.org/note/2939530#c6322880</guid>
-        <pubDate>Thu, 02 Dec 2021 21:29:17 +0000</pubDate>
       </item>
   </channel>
 </rss>
