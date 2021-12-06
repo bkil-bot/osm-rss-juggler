@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Farkastanya, Fertőszéplak) / * 2021 December 6 16:42 efi99 Created: ?</title>
+        <link>https://www.openstreetmap.org/note/2961489#c6332105</link>
+        <guid>https://www.openstreetmap.org/note/2961489#c6332105</guid>
+        <pubDate>Mon, 06 Dec 2021 16:42:01 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Eszterháza, Fertőd) / * 2021 December 3 21:53 vasony-qa Created: Az egész el van csúszva, helyére kell húzni. referencia: FÖMI 2007-2010 / * 2021 December 6 16:32 efi99 Updated: Célnak megfelel. A Bing térkép 10 évvel frissebb.</title>
+        <link>https://www.openstreetmap.org/note/2958276#c6332084</link>
+        <guid>https://www.openstreetmap.org/note/2958276#c6332084</guid>
+        <pubDate>Mon, 06 Dec 2021 16:32:10 +0000</pubDate>
+      </item><item>
         <title>closed note (near Becserpuszta, Dörgicse) / * 2021 December 3 12:23 utvonalfelmeresek Created: S+ két ága közül a nyugati megszűnt / * 2021 December 6 10:11 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/114530103</title>
         <link>https://www.openstreetmap.org/note/2957766#c6330957</link>
         <guid>https://www.openstreetmap.org/note/2957766#c6330957</guid>
@@ -167,36 +177,6 @@
         <link>https://www.openstreetmap.org/note/2959036#c6326444</link>
         <guid>https://www.openstreetmap.org/note/2959036#c6326444</guid>
         <pubDate>Sat, 04 Dec 2021 14:34:21 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Levendulás, Pécel) / * 2021 December 4 14:34 Szőllősy Blanka Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2959036#c6326442</link>
-        <guid>https://www.openstreetmap.org/note/2959036#c6326442</guid>
-        <pubDate>Sat, 04 Dec 2021 14:34:00 +0000</pubDate>
-      </item><item>
-        <title>new note (near Levendulás, Pécel) / * 2021 December 4 14:33 Szőllősy Blanka Created: Családi ház</title>
-        <link>https://www.openstreetmap.org/note/2959036#c6326441</link>
-        <guid>https://www.openstreetmap.org/note/2959036#c6326441</guid>
-        <pubDate>Sat, 04 Dec 2021 14:33:42 +0000</pubDate>
-      </item><item>
-        <title>new note (near Avas, Miskolc) / * 2021 December 4 13:57 vasony-qa Created: Ez a Szőlőskert sétány?</title>
-        <link>https://www.openstreetmap.org/note/2958993#c6326370</link>
-        <guid>https://www.openstreetmap.org/note/2958993#c6326370</guid>
-        <pubDate>Sat, 04 Dec 2021 13:57:37 +0000</pubDate>
-      </item><item>
-        <title>new note (near Fertőszéplak) / * 2021 December 4 13:09 efi99 Created: ?</title>
-        <link>https://www.openstreetmap.org/note/2958903#c6326256</link>
-        <guid>https://www.openstreetmap.org/note/2958903#c6326256</guid>
-        <pubDate>Sat, 04 Dec 2021 13:09:44 +0000</pubDate>
-      </item><item>
-        <title>new note (near Fertőszéplak) / * 2021 December 4 13:09 efi99 Created: ?</title>
-        <link>https://www.openstreetmap.org/note/2958902#c6326255</link>
-        <guid>https://www.openstreetmap.org/note/2958902#c6326255</guid>
-        <pubDate>Sat, 04 Dec 2021 13:09:37 +0000</pubDate>
-      </item><item>
-        <title>new note (near Fertőszéplak) / * 2021 December 4 13:08 efi99 Created: ?</title>
-        <link>https://www.openstreetmap.org/note/2958901#c6326254</link>
-        <guid>https://www.openstreetmap.org/note/2958901#c6326254</guid>
-        <pubDate>Sat, 04 Dec 2021 13:08:05 +0000</pubDate>
       </item>
   </channel>
 </rss>
