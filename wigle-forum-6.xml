@@ -3,6 +3,11 @@
   <channel>
     <title>WiGLE Frontpage (via bkil-bot)</title>
       <item>
+        <title>Reminder: Query Limits and responsible use: Hey, apparently folks need to hear this again: every WiGLE user has a daily query limit associated with their account. This keeps the service available for everyone without costing $ALL_THE_MONEY. If you deploy code that REALLY doesn't respect your daily limit, we'll disable your account. If you try and register multiple of accounts to circumvent the limit, bad things will also happen. Also, if you're trying to use WiGLE data for commercial purposes, maybe contact us and help support the project. hugs, the WiGLE team -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2910&amp;p=11118#p11118</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2910&amp;p=11118#p11118</guid>
+        <pubDate>2021-12-07T20:26:07</pubDate>
+      </item><item>
         <title>Re: 20 years ago...: ccie4526 wrote: &amp;gt; Does this mean we're starting to become old farts? ;-) Yes. Yea it does. -ashleedawg</title>
         <link>https://wigle.net/phpbb/viewtopic.php?t=2888&amp;p=11107#p11107</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2888&amp;p=11107#p11107</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?t=2888&amp;p=11007#p11007</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2888&amp;p=11007#p11007</guid>
         <pubDate>2021-09-07T16:13:40</pubDate>
-      </item><item>
-        <title>20 years ago...: ...bobzilla put the first WiGLE upload form online. An unlikely and remarkable series of events ensued and WiGLE.net has grown, evolved, and thrived for 20 years as of today. -arkasha</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?t=2888&amp;p=11006#p11006</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?t=2888&amp;p=11006#p11006</guid>
-        <pubDate>2021-09-07T16:04:53</pubDate>
       </item>
   </channel>
 </rss>
