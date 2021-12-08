@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: WiGLE WiFi for Android phone performance comparison: with a s20 now i am surprised by how much it finds, so i made a run with &quot;all the gear&quot; to compare it: about 1 hour driving, all devices behind the windscreen: S4 W: 5783 B: 711 C: 24 S7 W: 4897 B: 1890 C: 104 S20 W: 7420 B: 2684 C: 78 RPI W: 8809 B: 1352 C: 0 Samsung phones run Wigle 2.63 The RPI is this: https://www.designer2k2.at/de/mods/elek ... ving-setup So yes, the S20 is quite a beast for wifi and even more on bluetooth. Celltowers it’s a bit lower than the S7. Looking a bit deeper, how do the individual datasets match? Found by all: 2995 (this wifi´s where in all 4 devices) Found only by S4: 981 Found only by S7: 616 Found only by S20: 2195 Found only by RPI: 2662 The S20 is fetching quite a lot. So far the &quot;best&quot; wigle phone I’ve seen. -d2k2</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2498&amp;p=11121#p11121</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2498&amp;p=11121#p11121</guid>
+        <pubDate>2021-12-08T09:51:35</pubDate>
+      </item><item>
         <title>Re: GPS accuracy: mostly - we also do cluster detection - points should &quot;snap&quot; not drift in a perfect world. When you se things in weird places, it generally means: 1. they were reported there, improbable though it may be 2. they're PRECISELY POISED between two clusters, or have a very small number of observations. 3. they haven't been seen in a while and were last trilaterated before cluster detection was implemented. -arkasha</title>
         <link>https://wigle.net/phpbb/viewtopic.php?t=2904&amp;p=11120#p11120</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2904&amp;p=11120#p11120</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?t=2881&amp;p=10983#p10983</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2881&amp;p=10983#p10983</guid>
         <pubDate>2021-08-21T13:42:38</pubDate>
-      </item><item>
-        <title>Re: Wigle mobile rig for scanning odd Frequencies: Indeed, the wifi standard before 2012, allowed 802.11g to use so called &quot;quarter- and half-clocked channels&quot; (5MHz and 10MHz respectively). They carry multiple advantages, including improved noise immunity (delay spread due to up to 4x the symbol length), higher allowed transmit power (up to 2x due to power spectral density regulations) and less problems with exposed nodes and neighboring BSS's. Many good chipsets and drivers still support it even for 802.11n, including Atheros on OpenWrt (they have their own debug patches to enable it). Too bad scanning, channel steering, channel raster allocation and neighbor coexistence would have been such a pain so they simply gave the whole thing up. I agree that it is quite useful for P2P links or to penetrate foliage. Using such modes are not complying to the standard according to 802.11 (except for emergency response at certain frequencies), but they should still be legal according to the various ISM regulations in most countries. I am using a Mikrotik outdoor antenna and radio from home and it can be set up to look at 5 MHz steps which can see in between the standard channels. There are usually WiFi links on 5 GHz band people have set on non standard frequencies, presumably to avoid detection and minimise interference from other devices. I dont think its just my area that it occurs either, i have seen others. -kurz</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?t=2860&amp;p=10982#p10982</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?t=2860&amp;p=10982#p10982</guid>
-        <pubDate>2021-08-19T11:59:28</pubDate>
       </item>
   </channel>
 </rss>
