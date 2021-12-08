@@ -3,6 +3,16 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: GPS accuracy: mostly - we also do cluster detection - points should &quot;snap&quot; not drift in a perfect world. When you se things in weird places, it generally means: 1. they were reported there, improbable though it may be 2. they're PRECISELY POISED between two clusters, or have a very small number of observations. 3. they haven't been seen in a while and were last trilaterated before cluster detection was implemented. -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2904&amp;p=11120#p11120</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2904&amp;p=11120#p11120</guid>
+        <pubDate>2021-12-08T01:00:37</pubDate>
+      </item><item>
+        <title>Re: GPS accuracy: Another major factor that causes odd locations to appear on the map is also due to trilateration, but it isn't GPS accuracy that is to blame. I have several small clusters of points in countries that I have never been to! Usually in major cities. The explanation is simple. I discover a mobile hot-spot. It is recorded at my location. The tourist carrying the mobile then returns home and someone else logs the hot-spot. The point is now modified to be halfway(*) between the first and second sightings and could well be in a river or mid-ocean. Over time, as more data comes in, the point will shift closer to where the hot-spot actually spends most of its time. There will be an increasing amount of this as there is a huge growth of mobile hotspots, especially on public transport, cars and mobile phones. (*) Probably not exactly halfway as I believe trilateration also uses things like signal strength for improved accuracy. -TROMOS</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2904&amp;p=11119#p11119</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2904&amp;p=11119#p11119</guid>
+        <pubDate>2021-12-08T00:32:05</pubDate>
+      </item><item>
         <title>Re: GPS accuracy: these issues happen because of several reasons: 1. the long lines sound like GPS issues - these are (unfortunately) common in older devices. 2. points are trilaterated - the centers of the signal are estimated according to an algorithm. Bad GPS coordinates can contribute to points being located in odd spots, as can other users observing them in conflicting places. The short version of how to fix it: 1. observe the points from multiple places and at multiple times, and they'll snap to the right locations 2. if you discover a particular device has GPS problems, you might consider replacing it. this can be diagnosed by turning on &quot;display routes&quot; in the WiGLE WiFi Android app, or mapping your results before uploading with other packages! Cheers -a -arkasha</title>
         <link>https://wigle.net/phpbb/viewtopic.php?t=2904&amp;p=11100#p11100</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2904&amp;p=11100#p11100</guid>
@@ -67,16 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?t=2860&amp;p=10982#p10982</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2860&amp;p=10982#p10982</guid>
         <pubDate>2021-08-19T11:59:28</pubDate>
-      </item><item>
-        <title>Re: Best Android for WigleWifi: Pixel 4as aren't too bad, but if you want a real budget pick, and older Pixel used on ebay might be a good purchase! -arkasha</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?t=2881&amp;p=10972#p10972</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?t=2881&amp;p=10972#p10972</guid>
-        <pubDate>2021-08-08T16:26:34</pubDate>
-      </item><item>
-        <title>Best Android for WigleWifi: I have a Motorola Droid 2 that I was using just for Wigle (no cell service), but lately it won't get a GPS lock. Are there any recommendations for low cost Android phones that could be picked up on eBay that work great with Wigle. I'm looking for somet https://9apps.ooo/ hing that doesn't take a year to get GPS lock and has serious battery life. Also if you had one of the CDMA/GSM world phones would that detect both towers? https://9apps.ooo/ -mikipetri74</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?t=2881&amp;p=10971#p10971</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?t=2881&amp;p=10971#p10971</guid>
-        <pubDate>2021-08-07T10:55:40</pubDate>
       </item>
   </channel>
 </rss>
