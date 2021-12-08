@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: WiGLE WiFi for Android phone performance comparison: This insight is super-valuable! Side-by-side comparisons are really expensive/hard to do (same time, same route, more than 2-3 devices), but it would be great to get a ranking of the &quot;best&quot; net detecting phones. (maybe at a conference or public event where we can get people to travel the same route together?) We're careful not to embed any analytics/tracking stuff in the app so it would require community organization! -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2498&amp;p=11122#p11122</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2498&amp;p=11122#p11122</guid>
+        <pubDate>2021-12-08T15:12:30</pubDate>
+      </item><item>
         <title>Re: WiGLE WiFi for Android phone performance comparison: with a s20 now i am surprised by how much it finds, so i made a run with &quot;all the gear&quot; to compare it: about 1 hour driving, all devices behind the windscreen: S4 W: 5783 B: 711 C: 24 S7 W: 4897 B: 1890 C: 104 S20 W: 7420 B: 2684 C: 78 RPI W: 8809 B: 1352 C: 0 Samsung phones run Wigle 2.63 The RPI is this: https://www.designer2k2.at/de/mods/elek ... ving-setup So yes, the S20 is quite a beast for wifi and even more on bluetooth. Celltowers it’s a bit lower than the S7. Looking a bit deeper, how do the individual datasets match? Found by all: 2995 (this wifi´s where in all 4 devices) Found only by S4: 981 Found only by S7: 616 Found only by S20: 2195 Found only by RPI: 2662 The S20 is fetching quite a lot. So far the &quot;best&quot; wigle phone I’ve seen. -d2k2</title>
         <link>https://wigle.net/phpbb/viewtopic.php?t=2498&amp;p=11121#p11121</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2498&amp;p=11121#p11121</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?t=2881&amp;p=10984#p10984</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2881&amp;p=10984#p10984</guid>
         <pubDate>2021-08-21T16:14:14</pubDate>
-      </item><item>
-        <title>Re: Best Android for WigleWifi: I have a Motorola Droid 2 that I was using just for Wigle (no cell service), but lately it won't get a GPS lock. Are there any recommendations for low cost Android phones that could be picked up on eBay that work great with Wigle. I'm looking for something that doesn't take a year to get GPS lock and has serious battery life. Also if you had one of the CDMA/GSM world phones would that detect both towers? I'm looking for something as well.. But it seems whatever I use it drains the battery really quick. Is this normal or not? -showline</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?t=2881&amp;p=10983#p10983</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?t=2881&amp;p=10983#p10983</guid>
-        <pubDate>2021-08-21T13:42:38</pubDate>
       </item>
   </channel>
 </rss>
