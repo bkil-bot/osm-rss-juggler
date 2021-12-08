@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Kazár) / * 2021 September 5 19:43 vasony-qa Created: Diófa utca vagy út szerepel az utcatáblán? / * 2021 December 8 16:59 utvonalfelmeresek Updated: Diófa út 2 van a ház sarkán. / De a 24-es számnál még a Szálin út van :D</title>
+        <link>https://www.openstreetmap.org/note/2837993#c6337669</link>
+        <guid>https://www.openstreetmap.org/note/2837993#c6337669</guid>
+        <pubDate>Wed, 08 Dec 2021 16:59:29 +0000</pubDate>
+      </item><item>
         <title>closed note (near Németvölgy, 12th district) / * 2021 December 8 11:20 vasony Resolved: Javítva</title>
         <link>https://www.openstreetmap.org/note/2908595#c6336771</link>
         <guid>https://www.openstreetmap.org/note/2908595#c6336771</guid>
@@ -87,11 +92,6 @@
         <link>https://www.openstreetmap.org/note/2959791#c6332727</link>
         <guid>https://www.openstreetmap.org/note/2959791#c6332727</guid>
         <pubDate>Mon, 06 Dec 2021 20:11:29 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Eszterháza, Fertőd) / * 2021 December 6 17:47 efi99 Updated: Ööö, azt hiszem ehhez én botfülű vagyok. A Bing felületre húztam rá, a menüben a műholdkép eltolást nem piszkáltam, vagyis 0. Megjegyzem, a Bing saját térképdarabjai között is van az illesztéseknél helyenként törés.</title>
-        <link>https://www.openstreetmap.org/note/2958276#c6332327</link>
-        <guid>https://www.openstreetmap.org/note/2958276#c6332327</guid>
-        <pubDate>Mon, 06 Dec 2021 17:47:30 +0000</pubDate>
       </item>
   </channel>
 </rss>
