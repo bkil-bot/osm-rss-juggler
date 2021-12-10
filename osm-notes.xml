@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Eszterháza, Fertőd) / * 2021 December 3 21:53 vasony-qa Created: Az egész el van csúszva, helyére kell húzni. referencia: FÖMI 2007-2010 / * 2021 December 6 16:32 efi99 Updated: Célnak megfelel. A Bing térkép 10 évvel frissebb. / * 2021 December 6 17:40 bkil Updated: Ha esetleg megosztanád az imagery offset adatbázison keresztül, hogy milyen eltolást használsz, más ahhoz tudná igazítani a Binget szerkesztés előtt https://wiki.openstreetmap.org/wiki/Imagery_Offset_Database / * 2021 December 6 17:47 efi99 Updated: Ööö, azt hiszem ehhez én botfülű vagyok. A Bing felületre húztam rá, a menüben a műholdkép eltolást nem piszkáltam, vagyis 0. Megjegyzem, a Bing saját térképdarabjai között is van az illesztéseknél helyenként törés. / * 2021 December 6 20:39 vasony Resolved: Ez így van, pár házanként ellenőrizni kell. / Én azt javaslom, hogy új területnél rajzold rajzolj fel pár házat FÖMI-rők és arra tudod illeszteni a Binget adott részen,  utána már bátran mehetnek a házak / Mindenesetre a Q - épület négyszögesítés funkciót is használd ha lehet, a házak 95%-ka négszögletes. Úgy jobban néz ki ha nem krumplik vannak. / https://learnosm.org/en/hot-tips/tracing-rectangular-buildings/ / ezt a részt beigazítottam. / * 2021 December 6 20:43 efi99 Reactivated:  / * 2021 December 6 20:47 efi99 Updated: Sajnos későn szembesültem vele, hogy állítólag a FÖMI pontosabb. Mit jelent az &amp;quot;ez a rész&amp;quot;? Hogyan lehet egy területet egzaktul behatárolni, amelyiken minden objektumot el akarok húzni? Legalább 1500 épületet felvittem a környéken a házszámok miatt, ezt nyilván nem akarom egyesével polírozni. / * 2021 December 6 21:06 bkil Updated: A Bing és más felvételek előállítási módjából fakadóan akár épülettömbönként is változó eltolással lehetnek a szemed előtt (utak mentén egyesítik a jobbról illetve balról készült felvételeket, és még ráadásul cserélik is évről évre a fotókat alatta) Nincs jobb megoldás mint átgörgetni és ki/be kapcsolgatni egyiket a másik felett, hogy lásd az eltolást. / * 2021 December 6 21:21 vasony Resolved: azért írtam, hogy az újaknál ha lehet, a régieknél már így jártunk, majd apránként az ország egészével együtt. vagy lehet nekiállok / célszerűbb lenne nem itt folytatni, a note-ok nem erre valók. / pl: / https://riot.grin.hu/#/room/#osm:grin.hu / * 2021 December 9 12:00 efi99 Reactivated: Áthúzkodtam az egészet, de nem vagyok meggyőződve róla, hogy jobb. a GPS-nyomvonalak alapján a Binges utak is elég jó helyen voltak. / * 2021 December 10 08:53 vasony Resolved: </title>
+        <link>https://www.openstreetmap.org/note/2958276#c6341566</link>
+        <guid>https://www.openstreetmap.org/note/2958276#c6341566</guid>
+        <pubDate>Fri, 10 Dec 2021 08:53:14 +0000</pubDate>
+      </item><item>
         <title>new comment (near Északi városrész, Szeged) / * 2021 December 9 17:11 gabro00 Updated: Emlékezetből rajzoltam, majd pontosítom ha arra járok.</title>
         <link>https://www.openstreetmap.org/note/2965336#c6340183</link>
         <guid>https://www.openstreetmap.org/note/2965336#c6340183</guid>
@@ -127,16 +132,6 @@
         <link>https://www.openstreetmap.org/note/2963417#c6336205</link>
         <guid>https://www.openstreetmap.org/note/2963417#c6336205</guid>
         <pubDate>Wed, 08 Dec 2021 07:28:56 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Németvölgy, 12th district) / * 2021 October 24 16:57 bkil Created: Ettől északra 20 vagy 30km/h zóna? / * 2021 December 8 07:01 vasony Updated: 122-tol lefele nem 30-as zona. 20 km/h</title>
-        <link>https://www.openstreetmap.org/note/2908595#c6336142</link>
-        <guid>https://www.openstreetmap.org/note/2908595#c6336142</guid>
-        <pubDate>Wed, 08 Dec 2021 07:01:15 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Külső-Ferencváros, 9th district) / * 2021 November 23 09:54 Hungarian_user Created: Unable to answer &amp;quot;What are the opening hours of Fornetti (Bakery)?&amp;quot; for https://osm.org/node/3737050247 via StreetComplete 37.2: / megszűnt / * 2021 December 7 18:58 infeeeee Resolved: Törölve</title>
-        <link>https://www.openstreetmap.org/note/2945836#c6335014</link>
-        <guid>https://www.openstreetmap.org/note/2945836#c6335014</guid>
-        <pubDate>Tue, 07 Dec 2021 18:58:51 +0000</pubDate>
       </item>
   </channel>
 </rss>
