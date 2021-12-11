@@ -3,6 +3,31 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Kossuthváros, Kiskunfélegyháza) / * 2021 May 6 06:12 Created: A szakasz a kitérőktől a bejárati jelzőig villamosítva van. / * 2021 December 11 21:38 Beroesz Resolved: Igen, felrajzolva.</title>
+        <link>https://www.openstreetmap.org/note/2656838#c6346035</link>
+        <guid>https://www.openstreetmap.org/note/2656838#c6346035</guid>
+        <pubDate>Sat, 11 Dec 2021 21:38:57 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Petőfiszállás) / * 2021 February 2 12:45 pozsgai Created: jövőben megszűnő / * 2021 February 6 16:50 vasony Updated: mi szűnik meg a jövőben? az átjáró, az út, a vasút? / * 2021 May 4 16:47 gabro00 Updated: Mivel több hasonló jegyzet van, én az átjáróra tippelnék. / * 2021 December 11 21:36 Beroesz Updated: Szerintem a vasútvonal átépítésekor tervezik megszüntetni. Az átépítés tervezése jelenleg folyik. / https://nif.hu/projektek/2020/11/mav-szuk-keresztmetszet-kivaltas-kapcsan-az-kiskunfelegyhaza-szeged-rendezo-vasuti-vonalszakasz-kivitelezesehez-szukseges-engedelyezesi-tendertervek-es-tenderdokumentacio-elkeszitese/ / Az átjáró a kivitelezés megkezdéséig megmarad. Szerintem a feljegyzés pipával nyugtázható.</title>
+        <link>https://www.openstreetmap.org/note/2522310#c6346030</link>
+        <guid>https://www.openstreetmap.org/note/2522310#c6346030</guid>
+        <pubDate>Sat, 11 Dec 2021 21:36:16 +0000</pubDate>
+      </item><item>
+        <title>new note (near Kecskés István-telep, Szeged) / * 2021 December 11 21:29 Beroesz Created: A 136-os vasúti mellékvonal Szeged-Rendező és Röszke oh. között Röszke állomás kivételével karácsonyig teljes felbontásra kerül(t). Azonos nyomvonalon tavasszal kezd épülni az új vasúti fővonal. Át kellene állítani valami &amp;quot;épülő vasút&amp;quot; állapotba.</title>
+        <link>https://www.openstreetmap.org/note/2967899#c6346017</link>
+        <guid>https://www.openstreetmap.org/note/2967899#c6346017</guid>
+        <pubDate>Sat, 11 Dec 2021 21:29:13 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Makkosház, Szeged) / * 2021 December 11 21:24 gabro00 Resolved: https://www.openstreetmap.org/changeset/114831152</title>
+        <link>https://www.openstreetmap.org/note/2967895#c6346012</link>
+        <guid>https://www.openstreetmap.org/note/2967895#c6346012</guid>
+        <pubDate>Sat, 11 Dec 2021 21:24:42 +0000</pubDate>
+      </item><item>
+        <title>new note (near Makkosház, Szeged) / * 2021 December 11 21:21 Beroesz Created: Körbekerített kisjátszótér, jellemzően bölcsiseknek.</title>
+        <link>https://www.openstreetmap.org/note/2967895#c6346008</link>
+        <guid>https://www.openstreetmap.org/note/2967895#c6346008</guid>
+        <pubDate>Sat, 11 Dec 2021 21:21:18 +0000</pubDate>
+      </item><item>
         <title>closed note (near Újrókus, Szeged) / * 2021 December 8 07:28 Beroesz Created: Ez az ösvény itt már nem létezik. A Körtöltés két része között nincs átjárás, csak az útkereszteződésnél. A városi villamos felé kiágazó vágány sem itt kezdődik, hanem északkeletre a távvezetékek alatt. / * 2021 December 8 10:48 gabro00 Updated: Ha tudod, szerkeszd be, én a váltók miatt nem szeretném összekavarni. JOSM-ban elérhető a legfrissebb műholdkép, a Maxar Premium és ez valamiért nem ugyan az, mint az iD-ben, ott még egy régebbi csempét tölt be. / * 2021 December 11 21:19 Beroesz Resolved: Kész.</title>
         <link>https://www.openstreetmap.org/note/2963417#c6346006</link>
         <guid>https://www.openstreetmap.org/note/2963417#c6346006</guid>
@@ -162,11 +187,6 @@
         <link>https://www.openstreetmap.org/note/2381023#c6339738</link>
         <guid>https://www.openstreetmap.org/note/2381023#c6339738</guid>
         <pubDate>Thu, 09 Dec 2021 13:43:34 +0000</pubDate>
-      </item><item>
-        <title>reactivated note (near Eszterháza, Fertőd) / * 2021 December 3 21:53 vasony-qa Created: Az egész el van csúszva, helyére kell húzni. referencia: FÖMI 2007-2010 / * 2021 December 6 16:32 efi99 Updated: Célnak megfelel. A Bing térkép 10 évvel frissebb. / * 2021 December 6 17:40 bkil Updated: Ha esetleg megosztanád az imagery offset adatbázison keresztül, hogy milyen eltolást használsz, más ahhoz tudná igazítani a Binget szerkesztés előtt https://wiki.openstreetmap.org/wiki/Imagery_Offset_Database / * 2021 December 6 17:47 efi99 Updated: Ööö, azt hiszem ehhez én botfülű vagyok. A Bing felületre húztam rá, a menüben a műholdkép eltolást nem piszkáltam, vagyis 0. Megjegyzem, a Bing saját térképdarabjai között is van az illesztéseknél helyenként törés. / * 2021 December 6 20:39 vasony Resolved: Ez így van, pár házanként ellenőrizni kell. / Én azt javaslom, hogy új területnél rajzold rajzolj fel pár házat FÖMI-rők és arra tudod illeszteni a Binget adott részen,  utána már bátran mehetnek a házak / Mindenesetre a Q - épület négyszögesítés funkciót is használd ha lehet, a házak 95%-ka négszögletes. Úgy jobban néz ki ha nem krumplik vannak. / https://learnosm.org/en/hot-tips/tracing-rectangular-buildings/ / ezt a részt beigazítottam. / * 2021 December 6 20:43 efi99 Reactivated:  / * 2021 December 6 20:47 efi99 Updated: Sajnos későn szembesültem vele, hogy állítólag a FÖMI pontosabb. Mit jelent az &amp;quot;ez a rész&amp;quot;? Hogyan lehet egy területet egzaktul behatárolni, amelyiken minden objektumot el akarok húzni? Legalább 1500 épületet felvittem a környéken a házszámok miatt, ezt nyilván nem akarom egyesével polírozni. / * 2021 December 6 21:06 bkil Updated: A Bing és más felvételek előállítási módjából fakadóan akár épülettömbönként is változó eltolással lehetnek a szemed előtt (utak mentén egyesítik a jobbról illetve balról készült felvételeket, és még ráadásul cserélik is évről évre a fotókat alatta) Nincs jobb megoldás mint átgörgetni és ki/be kapcsolgatni egyiket a másik felett, hogy lásd az eltolást. / * 2021 December 6 21:21 vasony Resolved: azért írtam, hogy az újaknál ha lehet, a régieknél már így jártunk, majd apránként az ország egészével együtt. vagy lehet nekiállok / célszerűbb lenne nem itt folytatni, a note-ok nem erre valók. / pl: / https://riot.grin.hu/#/room/#osm:grin.hu / * 2021 December 9 12:00 efi99 Reactivated: Áthúzkodtam az egészet, de nem vagyok meggyőződve róla, hogy jobb. a GPS-nyomvonalak alapján a Binges utak is elég jó helyen voltak.</title>
-        <link>https://www.openstreetmap.org/note/2958276#c6339487</link>
-        <guid>https://www.openstreetmap.org/note/2958276#c6339487</guid>
-        <pubDate>Thu, 09 Dec 2021 12:00:23 +0000</pubDate>
       </item>
   </channel>
 </rss>
