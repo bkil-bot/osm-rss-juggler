@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: WiGLE WiFi for Android phone performance comparison: Very cool information. Is the S20 just a stock OS? I run an S7 Edge and an old Core Prime together all the time, and the stuff found by one but not the other is always an interesting thing. -pejacoby</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2498&amp;p=11126#p11126</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2498&amp;p=11126#p11126</guid>
+        <pubDate>2021-12-11T22:22:34</pubDate>
+      </item><item>
         <title>Re: WiGLE WiFi for Android phone performance comparison: yes arkasha this is tricky to do, as the devices idealy are in the same place. Even when the phone is closer to the A pillar or centered in the windscreen it gets different results kurz, the rpi(4) is running kali linux with kismet and 2 usb wifi dongles in monitoring mode (TP-Link Archer T9UH AC1900, ALFA AWUS036NEH). Another comparison, all the RSSI values in a histogram:Both RPI wifi dongles can be seen with the 2 RSSI lines. And it gets the strongest signals by far. The S4 seems to fetch most wifi´s with very low RSSI The script i used to generate the data from above and the plot: https://gist.github.com/designer2k2/417 ... 9b0895e039 -d2k2</title>
         <link>https://wigle.net/phpbb/viewtopic.php?t=2498&amp;p=11124#p11124</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2498&amp;p=11124#p11124</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?t=2893&amp;p=11034#p11034</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2893&amp;p=11034#p11034</guid>
         <pubDate>2021-09-14T03:50:10</pubDate>
-      </item><item>
-        <title>Re: Best Android for WigleWifi: I recommend the Samsung S5. I use one as my personal phone. Stock Android supports VOLTE, custom roms don't. You might not be able to make calls with it past 2022. It's had continuous LineageOS support for about half a decade. Street value $50-$100, cheap OEM batteries, has all the radios. The only model you should get in North America is the SM-G900T. All of them have unlocked bootloaders and it generally has the most useful 4G bands. &quot;A&quot; model is locked and &quot;V&quot; model is 50/50 depending on whether the phone came with exploitable hardware. -SkywardLark</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?t=2881&amp;p=10992#p10992</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?t=2881&amp;p=10992#p10992</guid>
-        <pubDate>2021-08-28T02:16:13</pubDate>
       </item>
   </channel>
 </rss>
