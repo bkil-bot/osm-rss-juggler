@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Makkosház, Szeged) / * 2021 December 13 12:44 Beroesz Created: Az óvoda és a Vértó közötti eddig kihasználatlan terület a Vértó park része lesz. Felmérendő:  gyalogutak és padok, közvilágítás. A park zöldjét is ki kellene húzni az óvoda kerítéséig</title>
+        <link>https://www.openstreetmap.org/note/2969490#c6349884</link>
+        <guid>https://www.openstreetmap.org/note/2969490#c6349884</guid>
+        <pubDate>Mon, 13 Dec 2021 12:44:20 +0000</pubDate>
+      </item><item>
         <title>new note (near Gubacsipuszta, 20th district) / * 2021 December 12 20:39 vasony Created: Deák Ferenc tér elvileg területrendezés miatt megszűnt. Van-e itt bármi utcatábla?</title>
         <link>https://www.openstreetmap.org/note/2968971#c6348542</link>
         <guid>https://www.openstreetmap.org/note/2968971#c6348542</guid>
@@ -207,16 +212,6 @@
         <link>https://www.openstreetmap.org/note/2966460#c6342445</link>
         <guid>https://www.openstreetmap.org/note/2966460#c6342445</guid>
         <pubDate>Fri, 10 Dec 2021 14:38:08 +0000</pubDate>
-      </item><item>
-        <title>new note (near Fertőszentmiklós) / * 2021 December 10 10:36 efi99 Created: 43?</title>
-        <link>https://www.openstreetmap.org/note/2966094#c6341758</link>
-        <guid>https://www.openstreetmap.org/note/2966094#c6341758</guid>
-        <pubDate>Fri, 10 Dec 2021 10:36:09 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Eszterháza, Fertőd) / * 2021 December 3 21:53 vasony-qa Created: Az egész el van csúszva, helyére kell húzni. referencia: FÖMI 2007-2010 / * 2021 December 6 16:32 efi99 Updated: Célnak megfelel. A Bing térkép 10 évvel frissebb. / * 2021 December 6 17:40 bkil Updated: Ha esetleg megosztanád az imagery offset adatbázison keresztül, hogy milyen eltolást használsz, más ahhoz tudná igazítani a Binget szerkesztés előtt https://wiki.openstreetmap.org/wiki/Imagery_Offset_Database / * 2021 December 6 17:47 efi99 Updated: Ööö, azt hiszem ehhez én botfülű vagyok. A Bing felületre húztam rá, a menüben a műholdkép eltolást nem piszkáltam, vagyis 0. Megjegyzem, a Bing saját térképdarabjai között is van az illesztéseknél helyenként törés. / * 2021 December 6 20:39 vasony Resolved: Ez így van, pár házanként ellenőrizni kell. / Én azt javaslom, hogy új területnél rajzold rajzolj fel pár házat FÖMI-rők és arra tudod illeszteni a Binget adott részen,  utána már bátran mehetnek a házak / Mindenesetre a Q - épület négyszögesítés funkciót is használd ha lehet, a házak 95%-ka négszögletes. Úgy jobban néz ki ha nem krumplik vannak. / https://learnosm.org/en/hot-tips/tracing-rectangular-buildings/ / ezt a részt beigazítottam. / * 2021 December 6 20:43 efi99 Reactivated:  / * 2021 December 6 20:47 efi99 Updated: Sajnos későn szembesültem vele, hogy állítólag a FÖMI pontosabb. Mit jelent az &amp;quot;ez a rész&amp;quot;? Hogyan lehet egy területet egzaktul behatárolni, amelyiken minden objektumot el akarok húzni? Legalább 1500 épületet felvittem a környéken a házszámok miatt, ezt nyilván nem akarom egyesével polírozni. / * 2021 December 6 21:06 bkil Updated: A Bing és más felvételek előállítási módjából fakadóan akár épülettömbönként is változó eltolással lehetnek a szemed előtt (utak mentén egyesítik a jobbról illetve balról készült felvételeket, és még ráadásul cserélik is évről évre a fotókat alatta) Nincs jobb megoldás mint átgörgetni és ki/be kapcsolgatni egyiket a másik felett, hogy lásd az eltolást. / * 2021 December 6 21:21 vasony Resolved: azért írtam, hogy az újaknál ha lehet, a régieknél már így jártunk, majd apránként az ország egészével együtt. vagy lehet nekiállok / célszerűbb lenne nem itt folytatni, a note-ok nem erre valók. / pl: / https://riot.grin.hu/#/room/#osm:grin.hu / * 2021 December 9 12:00 efi99 Reactivated: Áthúzkodtam az egészet, de nem vagyok meggyőződve róla, hogy jobb. a GPS-nyomvonalak alapján a Binges utak is elég jó helyen voltak. / * 2021 December 10 08:53 vasony Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2958276#c6341566</link>
-        <guid>https://www.openstreetmap.org/note/2958276#c6341566</guid>
-        <pubDate>Fri, 10 Dec 2021 08:53:14 +0000</pubDate>
       </item>
   </channel>
 </rss>
