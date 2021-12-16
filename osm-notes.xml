@@ -3,6 +3,31 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>reactivated note (near Csámpa, Paks) / * 2021 December 16 16:15 Spush Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/1888348#c6358817</link>
+        <guid>https://www.openstreetmap.org/note/1888348#c6358817</guid>
+        <pubDate>Thu, 16 Dec 2021 16:15:13 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Csámpa, Paks) / * 2021 December 16 16:15 Spush Resolved: Én két multipliygont fűztem egymásba. Az egyik ipari terület volt a szántóföldben (sziget) és azon belül volt a 3 különálló sziget ugyancsak multipolygonba fűzve. Kicsit túlbonyolítottam. :P</title>
+        <link>https://www.openstreetmap.org/note/1888348#c6358816</link>
+        <guid>https://www.openstreetmap.org/note/1888348#c6358816</guid>
+        <pubDate>Thu, 16 Dec 2021 16:15:05 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Csámpa, Paks) / * 2021 December 16 16:04 gabro00 Updated: Valami mégsem jó. A power=plant oldalon a solar plant példa ez: https://www.openstreetmap.org/relation/3501886. Ennél szépen rendereli a különálló táblákat, itt nem :/ / Azon kívül hogy itt egy tagból áll a multipoligon én nem látok lényeges különbséget. Bugos a renderer?</title>
+        <link>https://www.openstreetmap.org/note/1888348#c6358792</link>
+        <guid>https://www.openstreetmap.org/note/1888348#c6358792</guid>
+        <pubDate>Thu, 16 Dec 2021 16:04:53 +0000</pubDate>
+      </item><item>
+        <title>reactivated note (near Csámpa, Paks) / * 2021 December 16 16:02 gabro00 Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/1888348#c6358782</link>
+        <guid>https://www.openstreetmap.org/note/1888348#c6358782</guid>
+        <pubDate>Thu, 16 Dec 2021 16:02:37 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Csámpa, Paks) / * 2021 December 16 15:52 gabro00 Resolved: Tovább finomítottam/egyszerűsítettem, köszi a szerkesztést, jó lett :) / https://www.openstreetmap.org/changeset/115014678 / https://www.openstreetmap.org/changeset/115015191</title>
+        <link>https://www.openstreetmap.org/note/1888348#c6358750</link>
+        <guid>https://www.openstreetmap.org/note/1888348#c6358750</guid>
+        <pubDate>Thu, 16 Dec 2021 15:52:34 +0000</pubDate>
+      </item><item>
         <title>new note (near Angyalföld, 13th district) / * 2021 December 16 14:52 nubiai Created: Ez az egy háznak rajzolt épület két külön házat jelöl. Az &amp;quot;L&amp;quot; alak Kámfor utcával párhuzamos szára újonnan lett hozzáépítve a Násznagy utcai sorházakhoz. Az &amp;quot;L&amp;quot; alak Násznagy utcai szára a 118, a Kámfor utcai szára pedig a Násznagy utca 120. Az utóbbi kapuja is a Násznagy utca felé nyílik. / via StreetComplete 38.1 / Attached photo(s): / https://westnordost.de/p/72585.jpg</title>
         <link>https://www.openstreetmap.org/note/2973015#c6358569</link>
         <guid>https://www.openstreetmap.org/note/2973015#c6358569</guid>
@@ -182,16 +207,6 @@
         <link>https://www.openstreetmap.org/note/2935606#c6347748</link>
         <guid>https://www.openstreetmap.org/note/2935606#c6347748</guid>
         <pubDate>Sun, 12 Dec 2021 15:55:12 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Pösingermajor, 11th district) / * 2021 November 14 19:55 vasony Created: ellenőrizni, melyik a 16/b valójában / * 2021 December 12 11:44 vasony Updated: fordítva.  16/b elől, 16 hatul</title>
-        <link>https://www.openstreetmap.org/note/2935606#c6347059</link>
-        <guid>https://www.openstreetmap.org/note/2935606#c6347059</guid>
-        <pubDate>Sun, 12 Dec 2021 11:44:06 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Kossuthváros, Kiskunfélegyháza) / * 2021 May 6 06:12 Created: A szakasz a kitérőktől a bejárati jelzőig villamosítva van. / * 2021 December 11 21:38 Beroesz Resolved: Igen, felrajzolva.</title>
-        <link>https://www.openstreetmap.org/note/2656838#c6346035</link>
-        <guid>https://www.openstreetmap.org/note/2656838#c6346035</guid>
-        <pubDate>Sat, 11 Dec 2021 21:38:57 +0000</pubDate>
       </item>
   </channel>
 </rss>
