@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Tápiószecső) / * 2021 December 16 01:02 Spush Created: Itt napelempark létesült. Elérhető távérzékelési adat hiányában nem tudtam felrajzolni, de a linkben lévő video alapján itt lehet. / Forrás link: https://energy-hungary.hu/referencia/napelem-parkok/tapioszecso-napelem-rendszer-telepitese/</title>
+        <link>https://www.openstreetmap.org/note/2972371#c6357141</link>
+        <guid>https://www.openstreetmap.org/note/2972371#c6357141</guid>
+        <pubDate>Thu, 16 Dec 2021 01:02:00 +0000</pubDate>
+      </item><item>
         <title>new comment (near Erzsébetfalva, 20th district) / * 2021 April 11 12:31 Hungarian_user Created: Unable to answer &amp;quot;What kind of crossing is this?&amp;quot; for https://osm.org/node/8259901089 via StreetComplete 31.2: / itt nincs átkelő / * 2021 December 15 22:21 infeeeee Updated: Szerintem te ezeknél a kérdéseknél félreértetted, hogy mire gondol a Streetcomplete. A térképen jelölve van egy járda, és itt egy bekötőút a tűzoltóságra. A két út metszi egymást egy ponton, emiatt teszi fel a kérdést a streetcomplete, hogy hogyan találkozik a 2 út. A &amp;quot;nincs átkelő&amp;quot; az azt jelentené, hogy fizikailag lehetetlen gyalogosként átkelni a tűzoltóság bekötőútján. A streetcomplete által felajánlott válaszok közül itt az &amp;quot;Útburkolati jel nélküli&amp;quot; változat kellene (szerintem): azaz nincs semmilyen jelölése az átkelőnek, de át lehet kelni az úttesten.</title>
         <link>https://www.openstreetmap.org/note/2617991#c6356959</link>
         <guid>https://www.openstreetmap.org/note/2617991#c6356959</guid>
@@ -177,11 +182,6 @@
         <link>https://www.openstreetmap.org/note/2966460#c6345828</link>
         <guid>https://www.openstreetmap.org/note/2966460#c6345828</guid>
         <pubDate>Sat, 11 Dec 2021 19:49:35 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Budakeszierdő, 12th district) / * 2021 December 9 15:42 Created: Az elágazás kettős, jobb és bal felé visz az út, egyenesen a település felé nem. / * 2021 December 11 19:36 vasony Resolved: a délnyugati át leszedve</title>
-        <link>https://www.openstreetmap.org/note/2965281#c6345804</link>
-        <guid>https://www.openstreetmap.org/note/2965281#c6345804</guid>
-        <pubDate>Sat, 11 Dec 2021 19:36:44 +0000</pubDate>
       </item>
   </channel>
 </rss>
