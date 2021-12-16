@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Kecskés István-telep, Szeged) / * 2021 December 11 21:29 Beroesz Created: A 136-os vasúti mellékvonal Szeged-Rendező és Röszke oh. között Röszke állomás kivételével karácsonyig teljes felbontásra kerül(t). Azonos nyomvonalon tavasszal kezd épülni az új vasúti fővonal. Át kellene állítani valami &amp;quot;épülő vasút&amp;quot; állapotba. / * 2021 December 15 15:56 gabro00 Updated: A Röszke állomás kivételével mit jelent? A kitérők maradnak, de az egyenesen áthaladó vágányt felbontották? / Mindjárt felrakom így, aztán majd lehet még csiszolni, ha nem jó. / * 2021 December 15 16:13 gabro00 Updated: Fent is van https://www.openstreetmap.org/changeset/114970800 / * 2021 December 16 14:08 Beroesz Resolved: No, most már mindegy. / Bontásra kerül(t) minden vágány a nyílt vonalon. Az állomás minden vágányát meghagyták egyelőre február végéig, amikor azt is elbontják. / Az új nyíltvonali vágányok májustól épülnek, addig vizes meleget nem igénylő munkák mennek.</title>
+        <link>https://www.openstreetmap.org/note/2967899#c6358437</link>
+        <guid>https://www.openstreetmap.org/note/2967899#c6358437</guid>
+        <pubDate>Thu, 16 Dec 2021 14:08:03 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Csámpa, Paks) / * 2019 August 17 17:58 gabro00 Created: A naperőmű javításra szorul. Összevonni multipoligonba a területeket, ami az erőművet adja stb. / * 2019 November 6 18:10 kempelen Updated: Elég sok paramétere van a nagynak, vajon az mindre igaz, vagy az összesre vonatkozik? Pl polikristályok száma... :) / * 2019 November 7 09:35 gabro00 Updated: Jó kérdés, ezért nyitottam a jegyzetet. / * 2021 December 16 13:53 Spush Updated: Átszerkesztettem az erőművet. Kérlek nézetek rá, ha rendben van, akkor a jegyzet lezárható.</title>
+        <link>https://www.openstreetmap.org/note/1888348#c6358376</link>
+        <guid>https://www.openstreetmap.org/note/1888348#c6358376</guid>
+        <pubDate>Thu, 16 Dec 2021 13:53:06 +0000</pubDate>
+      </item><item>
         <title>new note (near Kelenföld, 11th district) / * 2021 December 16 11:33 vasony Created: új járda vasút felőli oldalon</title>
         <link>https://www.openstreetmap.org/note/2972797#c6358040</link>
         <guid>https://www.openstreetmap.org/note/2972797#c6358040</guid>
@@ -187,16 +197,6 @@
         <link>https://www.openstreetmap.org/note/2967899#c6346017</link>
         <guid>https://www.openstreetmap.org/note/2967899#c6346017</guid>
         <pubDate>Sat, 11 Dec 2021 21:29:13 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Makkosház, Szeged) / * 2021 December 11 21:24 gabro00 Resolved: https://www.openstreetmap.org/changeset/114831152</title>
-        <link>https://www.openstreetmap.org/note/2967895#c6346012</link>
-        <guid>https://www.openstreetmap.org/note/2967895#c6346012</guid>
-        <pubDate>Sat, 11 Dec 2021 21:24:42 +0000</pubDate>
-      </item><item>
-        <title>new note (near Makkosház, Szeged) / * 2021 December 11 21:21 Beroesz Created: Körbekerített kisjátszótér, jellemzően bölcsiseknek.</title>
-        <link>https://www.openstreetmap.org/note/2967895#c6346008</link>
-        <guid>https://www.openstreetmap.org/note/2967895#c6346008</guid>
-        <pubDate>Sat, 11 Dec 2021 21:21:18 +0000</pubDate>
       </item>
   </channel>
 </rss>
