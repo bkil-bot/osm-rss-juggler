@@ -2,16 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      <item>
-        <title>Hungary/Ortofotók: sok formazas -Grin</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Ortofot%C3%B3k&amp;diff=2230673&amp;oldid=2195865</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Ortofot%C3%B3k&amp;diff=2230673</guid>
-        <pubDate>Wed, 15 Dec 2021 09:04:21 GMT</pubDate>
-      </item><item>
-        <title>Hungary/Együttműködés: Kereskedelmi cégek: typo -Grin</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Egy%C3%BCttm%C5%B1k%C3%B6d%C3%A9s&amp;diff=2230664&amp;oldid=2230663</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Egy%C3%BCttm%C5%B1k%C3%B6d%C3%A9s&amp;diff=2230664</guid>
-        <pubDate>Wed, 15 Dec 2021 08:41:37 GMT</pubDate>
-      </item>
+      
   </channel>
 </rss>
