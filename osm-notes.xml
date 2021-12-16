@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Kelenföld, 11th district) / * 2021 December 16 11:33 vasony Created: új járda vasút felőli oldalon</title>
+        <link>https://www.openstreetmap.org/note/2972797#c6358040</link>
+        <guid>https://www.openstreetmap.org/note/2972797#c6358040</guid>
+        <pubDate>Thu, 16 Dec 2021 11:33:20 +0000</pubDate>
+      </item><item>
         <title>closed note (near Kissor, Ásotthalom) / * 2021 December 16 09:06 ryuqe787 Resolved: </title>
         <link>https://www.openstreetmap.org/note/2972533#c6357643</link>
         <guid>https://www.openstreetmap.org/note/2972533#c6357643</guid>
@@ -192,11 +197,6 @@
         <link>https://www.openstreetmap.org/note/2967895#c6346008</link>
         <guid>https://www.openstreetmap.org/note/2967895#c6346008</guid>
         <pubDate>Sat, 11 Dec 2021 21:21:18 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Újrókus, Szeged) / * 2021 December 8 07:28 Beroesz Created: Ez az ösvény itt már nem létezik. A Körtöltés két része között nincs átjárás, csak az útkereszteződésnél. A városi villamos felé kiágazó vágány sem itt kezdődik, hanem északkeletre a távvezetékek alatt. / * 2021 December 8 10:48 gabro00 Updated: Ha tudod, szerkeszd be, én a váltók miatt nem szeretném összekavarni. JOSM-ban elérhető a legfrissebb műholdkép, a Maxar Premium és ez valamiért nem ugyan az, mint az iD-ben, ott még egy régebbi csempét tölt be. / * 2021 December 11 21:19 Beroesz Resolved: Kész.</title>
-        <link>https://www.openstreetmap.org/note/2963417#c6346006</link>
-        <guid>https://www.openstreetmap.org/note/2963417#c6346006</guid>
-        <pubDate>Sat, 11 Dec 2021 21:19:13 +0000</pubDate>
       </item>
   </channel>
 </rss>
