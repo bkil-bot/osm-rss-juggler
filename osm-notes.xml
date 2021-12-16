@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Nyírjestanya, Miskolc) / * 2021 December 16 18:13 vasony Created: Ez a Tarna utca?</title>
+        <link>https://www.openstreetmap.org/note/2973175#c6359089</link>
+        <guid>https://www.openstreetmap.org/note/2973175#c6359089</guid>
+        <pubDate>Thu, 16 Dec 2021 18:13:07 +0000</pubDate>
+      </item><item>
+        <title>new note (near Avasalja, Miskolc) / * 2021 December 16 17:53 vasony Created: Ez a Nagyavas felső sor?</title>
+        <link>https://www.openstreetmap.org/note/2973171#c6359062</link>
+        <guid>https://www.openstreetmap.org/note/2973171#c6359062</guid>
+        <pubDate>Thu, 16 Dec 2021 17:53:57 +0000</pubDate>
+      </item><item>
         <title>closed note (near Csámpa, Paks) / * 2021 December 16 16:38 gabro00 Resolved: Az erőmű magával hordozza az ipari terület tulajdonságait is, ezért ezt nem szokás külön rárakni. A másik amit javítottam, hogy a határokra érdemes rakni az erőművet, ami itt a kerítés. Ezeket javítottam, a többi rendben volt. / Nem a renderernek térképezünk, csak fura hogy nem kezeli egységesen a multipoligonokat. Na mindegy, majd megjavul ez is, ha javítják.</title>
         <link>https://www.openstreetmap.org/note/1888348#c6358857</link>
         <guid>https://www.openstreetmap.org/note/1888348#c6358857</guid>
@@ -177,16 +187,6 @@
         <link>https://www.openstreetmap.org/note/2968724#c6347901</link>
         <guid>https://www.openstreetmap.org/note/2968724#c6347901</guid>
         <pubDate>Sun, 12 Dec 2021 16:39:36 +0000</pubDate>
-      </item><item>
-        <title>new note (near Kelenvölgy, 11th district) / * 2021 December 12 16:38 vasony Created: ujbuda.hu szerint itt épült egy új zebra</title>
-        <link>https://www.openstreetmap.org/note/2968723#c6347899</link>
-        <guid>https://www.openstreetmap.org/note/2968723#c6347899</guid>
-        <pubDate>Sun, 12 Dec 2021 16:38:38 +0000</pubDate>
-      </item><item>
-        <title>new note (near Kelenföld, 11th district) / * 2021 December 12 16:37 vasony Created: itt kéne lenni egy új zebrának</title>
-        <link>https://www.openstreetmap.org/note/2968719#c6347894</link>
-        <guid>https://www.openstreetmap.org/note/2968719#c6347894</guid>
-        <pubDate>Sun, 12 Dec 2021 16:37:39 +0000</pubDate>
       </item>
   </channel>
 </rss>
