@@ -3,6 +3,31 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Lágymányos, 11th district) / * 2021 November 20 07:48 vasony Created: új fajta tűzcsapok / * 2021 December 17 15:58 vasony-qa Resolved: Bohamet Armatura</title>
+        <link>https://www.openstreetmap.org/note/2941654#c6361545</link>
+        <guid>https://www.openstreetmap.org/note/2941654#c6361545</guid>
+        <pubDate>Fri, 17 Dec 2021 15:58:54 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Erzsébetfalva, 20th district) / * 2021 August 9 12:59 Hungarian_user Created: Unable to answer &amp;quot;What kind of crossing is this?&amp;quot; for https://osm.org/node/8897284644 via StreetComplete 33.2: / nincs zebra / * 2021 December 17 15:50 Hungarian_user Resolved: </title>
+        <link>https://www.openstreetmap.org/note/2793706#c6361531</link>
+        <guid>https://www.openstreetmap.org/note/2793706#c6361531</guid>
+        <pubDate>Fri, 17 Dec 2021 15:50:47 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Erzsébetfalva, 20th district) / * 2021 April 11 12:31 Hungarian_user Created: Unable to answer &amp;quot;What kind of crossing is this?&amp;quot; for https://osm.org/node/8259901089 via StreetComplete 31.2: / itt nincs átkelő / * 2021 December 15 22:21 infeeeee Updated: Szerintem te ezeknél a kérdéseknél félreértetted, hogy mire gondol a Streetcomplete. A térképen jelölve van egy járda, és itt egy bekötőút a tűzoltóságra. A két út metszi egymást egy ponton, emiatt teszi fel a kérdést a streetcomplete, hogy hogyan találkozik a 2 út. A &amp;quot;nincs átkelő&amp;quot; az azt jelentené, hogy fizikailag lehetetlen gyalogosként átkelni a tűzoltóság bekötőútján. A streetcomplete által felajánlott válaszok közül itt az &amp;quot;Útburkolati jel nélküli&amp;quot; változat kellene (szerintem): azaz nincs semmilyen jelölése az átkelőnek, de át lehet kelni az úttesten. / * 2021 December 17 15:50 Hungarian_user Resolved: Azt hiszem, neked van igazad. Eddig szűkebb értelemben használtam, tehát hogy zebrának építették. A SC erről nyilván nem tud, csak azt látja, hogy két út keresztezi egymást, ahogy írtad. / Ezentúl így csinálom. Kösz a magyarázatot hozzá!</title>
+        <link>https://www.openstreetmap.org/note/2617991#c6361530</link>
+        <guid>https://www.openstreetmap.org/note/2617991#c6361530</guid>
+        <pubDate>Fri, 17 Dec 2021 15:50:26 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Erzsébetfalva, 20th district) / * 2021 July 30 08:11 Hungarian_user Created: Unable to answer &amp;quot;What kind of crossing is this?&amp;quot; for https://osm.org/node/8261428854 via StreetComplete 33.1: / itt nincs gyalogátkelő / * 2021 December 17 15:46 Hungarian_user Resolved: </title>
+        <link>https://www.openstreetmap.org/note/2777573#c6361522</link>
+        <guid>https://www.openstreetmap.org/note/2777573#c6361522</guid>
+        <pubDate>Fri, 17 Dec 2021 15:46:57 +0000</pubDate>
+      </item><item>
+        <title>new note (near Sárpentele, Sárszentmihály) / * 2021 December 17 15:43 vasony-qa Created: Ez itt biztos Sárpentele utca?</title>
+        <link>https://www.openstreetmap.org/note/2974077#c6361514</link>
+        <guid>https://www.openstreetmap.org/note/2974077#c6361514</guid>
+        <pubDate>Fri, 17 Dec 2021 15:43:53 +0000</pubDate>
+      </item><item>
         <title>new note (near Ságvári-lakótelep, Tatabánya) / * 2021 December 17 15:05 vasony-qa Created: Ságvári Endre út neve megváltozott, az új házszámok újra felmérendők.</title>
         <link>https://www.openstreetmap.org/note/2974022#c6361384</link>
         <guid>https://www.openstreetmap.org/note/2974022#c6361384</guid>
@@ -182,11 +207,6 @@
         <link>https://www.openstreetmap.org/note/2969960#c6350809</link>
         <guid>https://www.openstreetmap.org/note/2969960#c6350809</guid>
         <pubDate>Mon, 13 Dec 2021 19:53:13 +0000</pubDate>
-      </item><item>
-        <title>new note (near Makkosház, Szeged) / * 2021 December 13 12:44 Beroesz Created: Az óvoda és a Vértó közötti eddig kihasználatlan terület a Vértó park része lesz. Felmérendő:  gyalogutak és padok, közvilágítás. A park zöldjét is ki kellene húzni az óvoda kerítéséig</title>
-        <link>https://www.openstreetmap.org/note/2969490#c6349884</link>
-        <guid>https://www.openstreetmap.org/note/2969490#c6349884</guid>
-        <pubDate>Mon, 13 Dec 2021 12:44:20 +0000</pubDate>
       </item>
   </channel>
 </rss>
