@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: WiGLE WiFi for Android phone performance comparison: i was looking at the Wigle app, and this scan time is jumping a bit around, so i took the data from above and looked into that: As every scan result gets the same timestamp, i used now only the unique timestamps. That gives a timestamp for every finished scan. And now plotting this unique timestamps:Basically, the higher the count, the more complete scans it made. The RPI is a bit different, as it reports at the time when it finds something, therefore gets a lot more timestamps. The chart above can also be shown as numbers: total time: 5060s unique S4 timestamps: 973, average intervall: 5.20s unique S7 timestamps: 1319, average intervall: 3.84s unique S20 timestamps: 1500, average intervall: 3.37s unique RPI timestamps: 2313, average intervall: 2.19s That fits quite well the numbers ive observed on the devices. but it does not directly match as the S4 is a bit slower than the S7, but still gets more wifi... -d2k2</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2498&amp;p=11129#p11129</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2498&amp;p=11129#p11129</guid>
+        <pubDate>2021-12-17T17:38:31</pubDate>
+      </item><item>
         <title>Re: WiGLE WiFi for Android phone performance comparison: Can you post your devices' scan speeds for comparison? My S5/SM-G900T can do a scan in about 3.9s with throttle off. It runs LineageOS 18.1. Internet says its chipset is a Broadcom BCM4354. I think I can explain some of OP's findings. Here are the wifi chipsets as far as I can research: S4 BCM4335 LG G3 BCM4339 S7 Edge BCM4359 Each mfg. probably uses a different antenna setup but maybe you can assume the newer chipsets are better. If you have root &quot;iw&quot; actually works on Android. You can use &quot;iw list&quot; to examine chipset capabilities. &quot;iw dev wlan0 get power_save&quot; and &quot;iw dev wlan0 set power_save off&quot; worked on my device but didn't affect scanning speed. It probably only affects station mode. The vendor's firmware files suggest my phone is meant to use country code &quot;GB&quot; ruleset. &quot;iw reg get&quot; shows &quot;00&quot; which usually means unset/most restrictive and I couldn't change it. -SkywardLark</title>
         <link>https://wigle.net/phpbb/viewtopic.php?t=2498&amp;p=11128#p11128</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2498&amp;p=11128#p11128</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?t=2893&amp;p=11084#p11084</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2893&amp;p=11084#p11084</guid>
         <pubDate>2021-10-23T12:38:02</pubDate>
-      </item><item>
-        <title>Re: BLE scanning rig: There's a lot to learn about when this sort of thing is seen. It might be helpful to setup an environment (maybe out in the countryside) where you know exactly how many devices are in range ... but then what's the range? Your phone may simply have a greater range/better sensitivity. Good Luck - the testing environment will need to be socially distanced ... LOL. -ecramp</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?t=2895&amp;p=11082#p11082</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?t=2895&amp;p=11082#p11082</guid>
-        <pubDate>2021-10-19T18:11:05</pubDate>
       </item>
   </channel>
 </rss>
