@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: WiGLE WiFi for Android phone performance comparison: The sleep when hopping between channels might not correlate well with the gain of the antenna, the noise within the LNA chain, the sensitivity of the radio, the selectivity of the tuner and its noise rejection characteristics. There is no substitute for predicting how well a given device will perform when scanning given a certain path &amp;amp; mobility choice - just count how many each of them gather. Retrace the exact same path multiple times (at least 3-5) while shuffling the position of the devices within the vehicle and then correlate between them to see repeatability. What might be also interesting to track is how much juice each of those consumes while scanning both in absolute terms (W, to predict heating) and in relative terms (% of battery/hour). By the way, could we perhaps have a button for reporting abuse on every forum? That fits quite well the numbers I've observed on the devices. but it does not directly match as the S4 is a bit slower than the S7, but still gets more wifi... -kurz</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2498&amp;p=11131#p11131</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2498&amp;p=11131#p11131</guid>
+        <pubDate>2021-12-17T19:07:54</pubDate>
+      </item><item>
         <title>Re: WiGLE WiFi for Android phone performance comparison: i was looking at the Wigle app, and this scan time is jumping a bit around, so i took the data from above and looked into that: As every scan result gets the same timestamp, i used now only the unique timestamps. That gives a timestamp for every finished scan. And now plotting this unique timestamps:Basically, the higher the count, the more complete scans it made. The RPI is a bit different, as it reports at the time when it finds something, therefore gets a lot more timestamps. The chart above can also be shown as numbers: total time: 5060s unique S4 timestamps: 973, average intervall: 5.20s unique S7 timestamps: 1319, average intervall: 3.84s unique S20 timestamps: 1500, average intervall: 3.37s unique RPI timestamps: 2313, average intervall: 2.19s That fits quite well the numbers ive observed on the devices. but it does not directly match as the S4 is a bit slower than the S7, but still gets more wifi... -d2k2</title>
         <link>https://wigle.net/phpbb/viewtopic.php?t=2498&amp;p=11129#p11129</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2498&amp;p=11129#p11129</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?t=2893&amp;p=11085#p11085</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2893&amp;p=11085#p11085</guid>
         <pubDate>2021-10-23T22:13:20</pubDate>
-      </item><item>
-        <title>Re: DIY Box Reflector - sick gainz!: I did some internet digging. I managed to find a real commercial product that uses the same trifold reflector idea along with dimensions and photos from a guy called SkootS It is called the Hawking Tech &quot;HAI15SC 2.4GHz Hi-Gain Wireless Corner Antenna.&quot; The claimed rating is 15 dBi. The product has a 5 dBi dipole encased in plastic and a trifold corner reflector made of aluminum. They probably assumed the reflector was 10 dBi and did funky math. Seems like retail price was around $30. Well now you know, if you don't mind a flimsy product you can just build it yourself. https://web.archive.org/web/20211023100 ... fi-ant.php (Scroll down to L. Hawking Tech., 15 dBi. They are using a free web host, I don't want to kill their website) https://www.hawkingtech.com/product/hai ... -specs_tab I've attached some of the photos because I think this is hilarious. -SkywardLark</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?t=2893&amp;p=11084#p11084</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?t=2893&amp;p=11084#p11084</guid>
-        <pubDate>2021-10-23T12:38:02</pubDate>
       </item>
   </channel>
 </rss>
