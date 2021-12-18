@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Intézményi Városközpont és lakótelep, Budaörs) / * 2021 December 18 19:47 vasony Created: Ezek itt biztos Víg utca házszámok? Mert az alsó szakaszon ez a páratlan oldal.</title>
+        <link>https://www.openstreetmap.org/note/2975523#c6364912</link>
+        <guid>https://www.openstreetmap.org/note/2975523#c6364912</guid>
+        <pubDate>Sat, 18 Dec 2021 19:47:33 +0000</pubDate>
+      </item><item>
         <title>closed note (near Hegyvidékek, Budaörs) / * 2021 December 18 18:56 vasony Resolved: ok</title>
         <link>https://www.openstreetmap.org/note/2975156#c6364794</link>
         <guid>https://www.openstreetmap.org/note/2975156#c6364794</guid>
@@ -247,16 +252,6 @@
         <link>https://www.openstreetmap.org/note/1888348#c6358817</link>
         <guid>https://www.openstreetmap.org/note/1888348#c6358817</guid>
         <pubDate>Thu, 16 Dec 2021 16:15:13 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Csámpa, Paks) / * 2021 December 16 16:15 Spush Resolved: Én két multipliygont fűztem egymásba. Az egyik ipari terület volt a szántóföldben (sziget) és azon belül volt a 3 különálló sziget ugyancsak multipolygonba fűzve. Kicsit túlbonyolítottam. :P</title>
-        <link>https://www.openstreetmap.org/note/1888348#c6358816</link>
-        <guid>https://www.openstreetmap.org/note/1888348#c6358816</guid>
-        <pubDate>Thu, 16 Dec 2021 16:15:05 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Csámpa, Paks) / * 2021 December 16 16:04 gabro00 Updated: Valami mégsem jó. A power=plant oldalon a solar plant példa ez: https://www.openstreetmap.org/relation/3501886. Ennél szépen rendereli a különálló táblákat, itt nem :/ / Azon kívül hogy itt egy tagból áll a multipoligon én nem látok lényeges különbséget. Bugos a renderer?</title>
-        <link>https://www.openstreetmap.org/note/1888348#c6358792</link>
-        <guid>https://www.openstreetmap.org/note/1888348#c6358792</guid>
-        <pubDate>Thu, 16 Dec 2021 16:04:53 +0000</pubDate>
       </item>
   </channel>
 </rss>
