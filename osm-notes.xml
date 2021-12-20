@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Bőcs) / * 2021 December 20 21:54 bkil Resolved: Ez a funkció nyilvános térképhibák bejelentésére szolgál. Szeretettel várjuk ha van bármilyen kérdés vagy probléma.</title>
+        <link>https://www.openstreetmap.org/note/2977977#c6370965</link>
+        <guid>https://www.openstreetmap.org/note/2977977#c6370965</guid>
+        <pubDate>Mon, 20 Dec 2021 21:54:25 +0000</pubDate>
+      </item><item>
         <title>new note (near Újpalota, 15th district) / * 2021 December 20 20:43 Created: DiBO önkiszolgáló autómosó</title>
         <link>https://www.openstreetmap.org/note/2977997#c6370856</link>
         <guid>https://www.openstreetmap.org/note/2977997#c6370856</guid>
@@ -157,11 +162,6 @@
         <link>https://www.openstreetmap.org/note/2975096#c6364379</link>
         <guid>https://www.openstreetmap.org/note/2975096#c6364379</guid>
         <pubDate>Sat, 18 Dec 2021 15:53:32 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Fertőendréd) / * 2021 December 18 15:53 efi99 Resolved: mégsem....</title>
-        <link>https://www.openstreetmap.org/note/2975096#c6364377</link>
-        <guid>https://www.openstreetmap.org/note/2975096#c6364377</guid>
-        <pubDate>Sat, 18 Dec 2021 15:53:27 +0000</pubDate>
       </item>
   </channel>
 </rss>
