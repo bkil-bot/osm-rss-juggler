@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Belváros, Kaposvár) / * 2022 January 3 21:27 Created: Belvárosi Áruház</title>
+        <link>https://www.openstreetmap.org/note/2995859#c6409855</link>
+        <guid>https://www.openstreetmap.org/note/2995859#c6409855</guid>
+        <pubDate>Mon, 03 Jan 2022 21:27:13 +0000</pubDate>
+      </item><item>
         <title>closed note (near Kazár) / * 2022 January 1 16:58 utvonalfelmeresek Created: gyaloghíd / * 2022 January 3 20:37 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/115684549</title>
         <link>https://www.openstreetmap.org/note/2992156#c6409762</link>
         <guid>https://www.openstreetmap.org/note/2992156#c6409762</guid>
@@ -127,11 +132,6 @@
         <link>https://www.openstreetmap.org/note/2990956#c6399938</link>
         <guid>https://www.openstreetmap.org/note/2990956#c6399938</guid>
         <pubDate>Fri, 31 Dec 2021 20:18:52 +0000</pubDate>
-      </item><item>
-        <title>new note (near Felsőlövérek, Sopron) / * 2021 December 31 14:31 mqrelly Created: bench / pad / via StreetComplete 33.2 / Attached photo(s): / https://westnordost.de/p/74457.jpg</title>
-        <link>https://www.openstreetmap.org/note/2990485#c6398888</link>
-        <guid>https://www.openstreetmap.org/note/2990485#c6398888</guid>
-        <pubDate>Fri, 31 Dec 2021 14:31:51 +0000</pubDate>
       </item>
   </channel>
 </rss>
