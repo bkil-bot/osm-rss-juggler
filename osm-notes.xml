@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Sukoró) / * 2022 January 3 05:11 batio Created: Zsuzsi grill büfé</title>
+        <link>https://www.openstreetmap.org/note/2994730#c6407410</link>
+        <guid>https://www.openstreetmap.org/note/2994730#c6407410</guid>
+        <pubDate>Mon, 03 Jan 2022 05:11:29 +0000</pubDate>
+      </item><item>
         <title>new note (near Losonci negyed, 8th district) / * 2022 January 2 13:13 Created: Szelektív sziget, üveg gyűjtő</title>
         <link>https://www.openstreetmap.org/note/2993219#c6404531</link>
         <guid>https://www.openstreetmap.org/note/2993219#c6404531</guid>
@@ -152,51 +157,6 @@
         <link>https://www.openstreetmap.org/note/2989092#c6396240</link>
         <guid>https://www.openstreetmap.org/note/2989092#c6396240</guid>
         <pubDate>Thu, 30 Dec 2021 15:56:36 +0000</pubDate>
-      </item><item>
-        <title>new note (near Csilléritelep, Kecskemét) / * 2021 December 30 10:39 GBAB Created: This area was reconstructed and should be thoroughly resurveyed.</title>
-        <link>https://www.openstreetmap.org/note/2988524#c6395161</link>
-        <guid>https://www.openstreetmap.org/note/2988524#c6395161</guid>
-        <pubDate>Thu, 30 Dec 2021 10:39:32 +0000</pubDate>
-      </item><item>
-        <title>new note (near Ajka) / * 2021 December 30 09:18 Menyhárt Máté Created: Unable to answer &amp;quot;How many levels above the basement does this building have?&amp;quot; for https://osm.org/way/172533012 via StreetComplete 38.2: / Földszint+3 emelet pince és tetőtér nélkül.</title>
-        <link>https://www.openstreetmap.org/note/2988445#c6394970</link>
-        <guid>https://www.openstreetmap.org/note/2988445#c6394970</guid>
-        <pubDate>Thu, 30 Dec 2021 09:18:12 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Belváros, Szeged) / * 2021 August 14 08:02 GBAB Created: Itt valami önkiszolgálóétterem-féleség készül (2021-08) / * 2021 December 30 08:17 fawkes2 Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2802584#c6394815</link>
-        <guid>https://www.openstreetmap.org/note/2802584#c6394815</guid>
-        <pubDate>Thu, 30 Dec 2021 08:17:39 +0000</pubDate>
-      </item><item>
-        <title>reactivated note (near Nagykanizsa, Északkeleti városrész, Nagykanizsa) / * 2021 December 29 23:40 kaktuszmalac Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/2374276#c6394124</link>
-        <guid>https://www.openstreetmap.org/note/2374276#c6394124</guid>
-        <pubDate>Wed, 29 Dec 2021 23:40:35 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Nagykanizsa, Északkeleti városrész, Nagykanizsa) / * 2020 October 5 03:52 Created: Lacika Férfi Fodrászat / * 2021 December 29 23:40 kaktuszmalac Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2374276#c6394122</link>
-        <guid>https://www.openstreetmap.org/note/2374276#c6394122</guid>
-        <pubDate>Wed, 29 Dec 2021 23:40:13 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Nagykanizsa, Északkeleti városrész, Nagykanizsa) / * 2020 October 5 03:53 Created: Nemzeti Dohánybolt / * 2021 December 29 23:16 kaktuszmalac Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2374278#c6394078</link>
-        <guid>https://www.openstreetmap.org/note/2374278#c6394078</guid>
-        <pubDate>Wed, 29 Dec 2021 23:16:21 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Balatonberény) / * 2021 July 27 12:13 Matyjace Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;There is a Spar shop.&amp;quot; / * 2021 December 29 23:15 kaktuszmalac Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2773213#c6394076</link>
-        <guid>https://www.openstreetmap.org/note/2773213#c6394076</guid>
-        <pubDate>Wed, 29 Dec 2021 23:15:44 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Budafok, 22nd district) / * 2021 September 4 17:32 Created: Tervezett Berta Lépcső / * 2021 December 29 19:55 urbalazs Resolved: Évek óta tervezett. Még egy kapavágás sem történt. Ha elkészül a lépcső, azonnal felviszem a térképre, de jelenleg nincs itt semmi látnivaló.</title>
-        <link>https://www.openstreetmap.org/note/2836166#c6393691</link>
-        <guid>https://www.openstreetmap.org/note/2836166#c6393691</guid>
-        <pubDate>Wed, 29 Dec 2021 19:55:39 +0000</pubDate>
-      </item><item>
-        <title>new note (near Sasad, 11th district) / * 2021 December 29 19:44 vasony Created: Ez a dohánybolt üzemel?</title>
-        <link>https://www.openstreetmap.org/note/2987955#c6393651</link>
-        <guid>https://www.openstreetmap.org/note/2987955#c6393651</guid>
-        <pubDate>Wed, 29 Dec 2021 19:44:50 +0000</pubDate>
       </item>
   </channel>
 </rss>
