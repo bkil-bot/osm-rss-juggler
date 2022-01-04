@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near ZalaZone tesztpálya, Zalaegerszeg) / * 2022 January 4 10:16 vasony Updated: A kérdés továbbra is adott, miután nem szerepel mint közterület, csak mint a pálya címe.</title>
+        <link>https://www.openstreetmap.org/note/2949663#c6411050</link>
+        <guid>https://www.openstreetmap.org/note/2949663#c6411050</guid>
+        <pubDate>Tue, 04 Jan 2022 10:16:31 +0000</pubDate>
+      </item><item>
+        <title>reactivated note (near ZalaZone tesztpálya, Zalaegerszeg) / * 2021 November 26 09:21 vasony-qa Created: Melyik terület a ZalaZONE tér ? / * 2022 January 3 23:02 Gergo23 Resolved:  / * 2022 January 4 10:15 vasony Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/2949663#c6411047</link>
+        <guid>https://www.openstreetmap.org/note/2949663#c6411047</guid>
+        <pubDate>Tue, 04 Jan 2022 10:15:54 +0000</pubDate>
+      </item><item>
         <title>new note (near Angyalföld, 13th district) / * 2022 January 4 04:42 kemenymate Created: &amp;quot;BUBI&amp;quot; / POI has no name / POI types: amenity-bicycle_rental / OSM data version: 2021-05-24T07:43:34Z / #mapsme</title>
         <link>https://www.openstreetmap.org/note/2996103#c6410495</link>
         <guid>https://www.openstreetmap.org/note/2996103#c6410495</guid>
@@ -132,21 +142,6 @@
         <link>https://www.openstreetmap.org/note/2991141#c6400310</link>
         <guid>https://www.openstreetmap.org/note/2991141#c6400310</guid>
         <pubDate>Sat, 01 Jan 2022 01:19:50 +0000</pubDate>
-      </item><item>
-        <title>new note (near Kács) / * 2022 January 1 00:43 Spush Created: Napelempark / forrás: https://pvnapenergia.hu/referencia/page/3/</title>
-        <link>https://www.openstreetmap.org/note/2991128#c6400293</link>
-        <guid>https://www.openstreetmap.org/note/2991128#c6400293</guid>
-        <pubDate>Sat, 01 Jan 2022 00:43:48 +0000</pubDate>
-      </item><item>
-        <title>new note (near Sajókeresztúr) / * 2022 January 1 00:32 Spush Created: Itt napelempark van a sínek helyén.</title>
-        <link>https://www.openstreetmap.org/note/2991127#c6400290</link>
-        <guid>https://www.openstreetmap.org/note/2991127#c6400290</guid>
-        <pubDate>Sat, 01 Jan 2022 00:32:06 +0000</pubDate>
-      </item><item>
-        <title>new note (near Mezőzombor) / * 2021 December 31 23:38 Spush Created: Napelemek / forrás: https://www.youtube.com/watch?v=4cH68AOcl4Q</title>
-        <link>https://www.openstreetmap.org/note/2991102#c6400257</link>
-        <guid>https://www.openstreetmap.org/note/2991102#c6400257</guid>
-        <pubDate>Fri, 31 Dec 2021 23:38:45 +0000</pubDate>
       </item>
   </channel>
 </rss>
