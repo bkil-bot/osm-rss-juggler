@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Sárberki lakótelep, Tatabánya) / * 2022 January 5 20:48 Created: A jelölő helye a Mártírok útja 81/b helyre mutat, a címkereső most rossz helyre teszi.</title>
+        <link>https://www.openstreetmap.org/note/2998395#c6415513</link>
+        <guid>https://www.openstreetmap.org/note/2998395#c6415513</guid>
+        <pubDate>Wed, 05 Jan 2022 20:48:44 +0000</pubDate>
+      </item><item>
         <title>closed note (near Északi városrész, Szeged) / * 2021 December 9 16:30 Beroesz Created: A KRESZ-park területe az ábrázolttól eltér. / * 2021 December 9 17:11 gabro00 Updated: Emlékezetből rajzoltam, majd pontosítom ha arra járok. / * 2022 January 5 20:17 gabro00 Resolved: Javítottam, egy fokkal jobb / https://www.openstreetmap.org/changeset/115801764</title>
         <link>https://www.openstreetmap.org/note/2965336#c6415384</link>
         <guid>https://www.openstreetmap.org/note/2965336#c6415384</guid>
@@ -152,11 +157,6 @@
         <link>https://www.openstreetmap.org/note/2469709#c6403812</link>
         <guid>https://www.openstreetmap.org/note/2469709#c6403812</guid>
         <pubDate>Sun, 02 Jan 2022 08:40:21 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Gönyű) / * 2020 July 2 08:10 vasony Created: Biztos van &amp;quot;Dunasor utca&amp;quot; és &amp;quot;Duna sor&amp;quot; is? / * 2022 January 2 08:21 NightH Resolved: Csak Duna sor van. A Dunasor utcával jelölt szakasz a rendezési terv alapján a Plaszkonka lejáró. Térképen is javítottam.</title>
-        <link>https://www.openstreetmap.org/note/2250251#c6403768</link>
-        <guid>https://www.openstreetmap.org/note/2250251#c6403768</guid>
-        <pubDate>Sun, 02 Jan 2022 08:21:44 +0000</pubDate>
       </item>
   </channel>
 </rss>
