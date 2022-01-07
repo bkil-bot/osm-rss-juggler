@@ -3,6 +3,16 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Redneck Warflying: LOVE IT! -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2912&amp;p=11145#p11145</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2912&amp;p=11145#p11145</guid>
+        <pubDate>2022-01-06T23:55:40</pubDate>
+      </item><item>
+        <title>Redneck Warflying: I know Warflying isn't anything new but this redneck implementation just worked out great. My old LG V30+ has always had pretty poor battery life but that made it an advantage in this case here. Weighing in at just 156 grams the Mavic Air 2 handled it great. The way it's mounted left the downward sensors functional and it can also get a unique camera perspective of the flight. -Johnnokomis</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2912&amp;p=11144#p11144</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2912&amp;p=11144#p11144</guid>
+        <pubDate>2022-01-06T23:54:05</pubDate>
+      </item><item>
         <title>Re: WiGLE WiFi for Android phone performance comparison: The sleep when hopping between channels might not correlate well with the gain of the antenna, the noise within the LNA chain, the sensitivity of the radio, the selectivity of the tuner and its noise rejection characteristics. There is no substitute for predicting how well a given device will perform when scanning given a certain path &amp;amp; mobility choice - just count how many each of them gather. Retrace the exact same path multiple times (at least 3-5) while shuffling the position of the devices within the vehicle and then correlate between them to see repeatability. What might be also interesting to track is how much juice each of those consumes while scanning both in absolute terms (W, to predict heating) and in relative terms (% of battery/hour). By the way, could we perhaps have a button for reporting abuse on every forum? That fits quite well the numbers I've observed on the devices. but it does not directly match as the S4 is a bit slower than the S7, but still gets more wifi... -kurz</title>
         <link>https://wigle.net/phpbb/viewtopic.php?t=2498&amp;p=11131#p11131</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2498&amp;p=11131#p11131</guid>
@@ -67,16 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?t=2904&amp;p=11099#p11099</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2904&amp;p=11099#p11099</guid>
         <pubDate>2021-11-14T15:10:44</pubDate>
-      </item><item>
-        <title>Re: DIY Box Reflector - sick gainz!: I think putting a small reflector behind each antenna would look the least ugly. It's also what the Ez-10 guide shows on the website. You might get away with taping foil to the wall if the router is next to it. Made a v3 for another adapter, an old 802.11b/g ALFA AWUS036H. I had a feeling old faithful would get good results. Single antenna design so no need to mount inside reflector. I eyeballed where everything should've been. You can probably ignore the min signal reading it's always bad when the adapter starts up. ~20dBm difference in software but this chipset is old so take these readings with a grain of salt. Alfa w/ only 9dBi antenna, AP nearby in unknown location: Latest Signal -58 dbm Min. Signal -71 dbm Max. Signal -48 dbm Alfa w/ 9 dBi antenna + reflector steered vaguely in the right direction: Latest Signal -38 dbm Min. Signal -74 dbm Max. Signal -30 dbm Alfa w/ 9dBi antenna + reflector perfectly steered. AP a few meters away, same room. No before photo but signal was between -10 and -20 dBmReflector: USPS 1095 almost entirely clad in foil with only a tiny gap near the top for slots/flaps AWUS036H: TX Power: Antenna: Ridiculously tall 2.4 GHz tuned dipole, probably rated 7-9 dBi. I don't remember where I got this. Stats: Kismet Research topics: -Apparently grounding the reflector can improve gain. For something this MacGyvered maybe you'd alligator clip the RP-SMA connector to a part of the reflector. If you're using a USB adapter that probably leads to ground. -How important is the thickness of the material? Would foiling the other side help? I noticed when you use this setup with the adapter in AP mode it's still possible to get a weak signal directly behind the reflector. I'm sure some of it is due to signal bounce but I'm not entirely convinced. I think some of the signal is wasted going through the single layer of foil. -SkywardLark</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?t=2893&amp;p=11086#p11086</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?t=2893&amp;p=11086#p11086</guid>
-        <pubDate>2021-10-25T00:20:16</pubDate>
-      </item><item>
-        <title>Re: DIY Box Reflector - sick gainz!: My WiFi router sits to one side of my house, on an outside wall, leaking signal into the neighbors lot. Curious how putting one of these behind the router, or each of the four antenna, would boost my signal in the farther areas of the house. Next Amazon box I receive might just have to launch a few experiments... -pejacoby</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?t=2893&amp;p=11085#p11085</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?t=2893&amp;p=11085#p11085</guid>
-        <pubDate>2021-10-23T22:13:20</pubDate>
       </item>
   </channel>
 </rss>
