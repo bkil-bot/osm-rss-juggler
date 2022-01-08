@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Rákospalota, 15th district) / * 2022 January 7 23:38 bkil Resolved: Teszt sikeres! Szeretettel várjuk amennyiben bármilyen térképhiba látszik vagy akár ha tudunk segíteni a szerkesztésben.</title>
+        <link>https://www.openstreetmap.org/note/3001301#c6421721</link>
+        <guid>https://www.openstreetmap.org/note/3001301#c6421721</guid>
+        <pubDate>Fri, 07 Jan 2022 23:38:53 +0000</pubDate>
+      </item><item>
         <title>new note (near Rákospalota, 15th district) / * 2022 January 7 22:53 Zsolt Vidovenyecz Created: teszt jegyzet</title>
         <link>https://www.openstreetmap.org/note/3001301#c6421621</link>
         <guid>https://www.openstreetmap.org/note/3001301#c6421621</guid>
@@ -187,11 +192,6 @@
         <link>https://www.openstreetmap.org/note/2983804#c6412148</link>
         <guid>https://www.openstreetmap.org/note/2983804#c6412148</guid>
         <pubDate>Tue, 04 Jan 2022 17:00:40 +0000</pubDate>
-      </item><item>
-        <title>new note (near Fertőszentmiklós) / * 2022 January 4 16:51 efi99 Created: Fertőszentmiklós és környéke: / GPS nyomvonalak alapján a FÖMI2010 +1,5m, +3,0m eltolással tűnik jónak.</title>
-        <link>https://www.openstreetmap.org/note/2996914#c6412126</link>
-        <guid>https://www.openstreetmap.org/note/2996914#c6412126</guid>
-        <pubDate>Tue, 04 Jan 2022 16:51:00 +0000</pubDate>
       </item>
   </channel>
 </rss>
