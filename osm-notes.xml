@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Röjtökmuzsaj) / * 2022 January 9 16:16 efi99 Resolved: 200</title>
+        <link>https://www.openstreetmap.org/note/3004069#c6427024</link>
+        <guid>https://www.openstreetmap.org/note/3004069#c6427024</guid>
+        <pubDate>Sun, 09 Jan 2022 16:16:51 +0000</pubDate>
+      </item><item>
+        <title>new note (near Röjtökmuzsaj) / * 2022 January 9 16:12 efi99 Created: ?</title>
+        <link>https://www.openstreetmap.org/note/3004069#c6427016</link>
+        <guid>https://www.openstreetmap.org/note/3004069#c6427016</guid>
+        <pubDate>Sun, 09 Jan 2022 16:12:27 +0000</pubDate>
+      </item><item>
         <title>closed note (near Sasad, 11th district) / * 2022 January 9 14:57 vasony Resolved: dohánybolt törölve</title>
         <link>https://www.openstreetmap.org/note/2987955#c6426716</link>
         <guid>https://www.openstreetmap.org/note/2987955#c6426716</guid>
@@ -132,36 +142,6 @@
         <link>https://www.openstreetmap.org/note/2955273#c6419886</link>
         <guid>https://www.openstreetmap.org/note/2955273#c6419886</guid>
         <pubDate>Fri, 07 Jan 2022 11:33:01 +0000</pubDate>
-      </item><item>
-        <title>new note (near Csillebérc, 12th district) / * 2022 January 7 08:55 vasony Created: Ez itt tényleg publikusan végigautózgató? / https://map.project-osrm.org/?z=17&amp;amp;center=47.487984%2C18.963979&amp;amp;loc=47.473707%2C18.991628&amp;amp;loc=47.486878%2C18.954399&amp;amp;hl=en&amp;amp;alt=0&amp;amp;srv=0</title>
-        <link>https://www.openstreetmap.org/note/3000304#c6419482</link>
-        <guid>https://www.openstreetmap.org/note/3000304#c6419482</guid>
-        <pubDate>Fri, 07 Jan 2022 08:55:03 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Gazdagrét, 11th district) / * 2021 December 29 10:51 urbalazs Created: Ez a dohánybolt működik még? / * 2021 December 29 15:36 vasony Updated: megszunt / * 2022 January 6 20:48 infeeeee Resolved: Ha jól látom ez törölve lett, a jegyzet megoldható</title>
-        <link>https://www.openstreetmap.org/note/2987118#c6418539</link>
-        <guid>https://www.openstreetmap.org/note/2987118#c6418539</guid>
-        <pubDate>Thu, 06 Jan 2022 20:48:24 +0000</pubDate>
-      </item><item>
-        <title>new note (near Ligettelek, 10th district) / * 2022 January 6 20:00 Created: Bocsánat, nem kéne itt templomot jelölni véletlenül? A query features nélkül is látszódnia kellene, hogy ez nem csak egy park...</title>
-        <link>https://www.openstreetmap.org/note/2999868#c6418401</link>
-        <guid>https://www.openstreetmap.org/note/2999868#c6418401</guid>
-        <pubDate>Thu, 06 Jan 2022 20:00:32 +0000</pubDate>
-      </item><item>
-        <title>new note (near Nemesvámos) / * 2022 January 6 19:22 Created: Ballon megvan. Szonda nincs.</title>
-        <link>https://www.openstreetmap.org/note/2999818#c6418295</link>
-        <guid>https://www.openstreetmap.org/note/2999818#c6418295</guid>
-        <pubDate>Thu, 06 Jan 2022 19:22:03 +0000</pubDate>
-      </item><item>
-        <title>new note (near Palotanegyed, 8th district) / * 2022 January 6 16:32 Created: T&amp;amp;T Magánrendelő</title>
-        <link>https://www.openstreetmap.org/note/2999582#c6417847</link>
-        <guid>https://www.openstreetmap.org/note/2999582#c6417847</guid>
-        <pubDate>Thu, 06 Jan 2022 16:32:55 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Fertőszéplak) / * 2022 January 6 16:14 efi99 Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2959467#c6417797</link>
-        <guid>https://www.openstreetmap.org/note/2959467#c6417797</guid>
-        <pubDate>Thu, 06 Jan 2022 16:14:59 +0000</pubDate>
       </item>
   </channel>
 </rss>
