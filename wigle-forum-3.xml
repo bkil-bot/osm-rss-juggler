@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Redneck Warflying: Red Bull, it gives you wings! Or quad-props, ya know, whichever.... -pejacoby</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2912&amp;p=11150#p11150</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2912&amp;p=11150#p11150</guid>
+        <pubDate>2022-01-11T01:44:14</pubDate>
+      </item><item>
         <title>Re: Redneck Warflying: thats cool -d2k2</title>
         <link>https://wigle.net/phpbb/viewtopic.php?t=2912&amp;p=11149#p11149</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2912&amp;p=11149#p11149</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?t=2904&amp;p=11119#p11119</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2904&amp;p=11119#p11119</guid>
         <pubDate>2021-12-08T00:32:05</pubDate>
-      </item><item>
-        <title>Re: GPS accuracy: these issues happen because of several reasons: 1. the long lines sound like GPS issues - these are (unfortunately) common in older devices. 2. points are trilaterated - the centers of the signal are estimated according to an algorithm. Bad GPS coordinates can contribute to points being located in odd spots, as can other users observing them in conflicting places. The short version of how to fix it: 1. observe the points from multiple places and at multiple times, and they'll snap to the right locations 2. if you discover a particular device has GPS problems, you might consider replacing it. this can be diagnosed by turning on &quot;display routes&quot; in the WiGLE WiFi Android app, or mapping your results before uploading with other packages! Cheers -a -arkasha</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?t=2904&amp;p=11100#p11100</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?t=2904&amp;p=11100#p11100</guid>
-        <pubDate>2021-11-14T21:28:36</pubDate>
       </item>
   </channel>
 </rss>
