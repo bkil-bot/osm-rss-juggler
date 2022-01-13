@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Borsosberény) / * 2021 April 1 06:02 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: Makkos kastély should be there. / https://www.openstreetmap.org/way/382285906 / * 2022 January 13 21:08 lackbrd Resolved: Checked and added different sources on these coordinates. I could track down and verify the location of it, so marked the user mentioned castle on the map. The building of the castle was already added.</title>
+        <link>https://www.openstreetmap.org/note/2603093#c6438871</link>
+        <guid>https://www.openstreetmap.org/note/2603093#c6438871</guid>
+        <pubDate>Thu, 13 Jan 2022 21:08:30 +0000</pubDate>
+      </item><item>
+        <title>new note (near Nagylapos, Gyomaendrőd) / * 2022 January 13 20:20 kogutowicz-mano Created: Sajtóhírek szerint végleg bezár 2022 január végén.</title>
+        <link>https://www.openstreetmap.org/note/3009475#c6438598</link>
+        <guid>https://www.openstreetmap.org/note/3009475#c6438598</guid>
+        <pubDate>Thu, 13 Jan 2022 20:20:31 +0000</pubDate>
+      </item><item>
         <title>new note (near Kelenföld, 11th district) / * 2022 January 13 13:09 Created: FŐTÁV magánparkoló épült.</title>
         <link>https://www.openstreetmap.org/note/3009042#c6437689</link>
         <guid>https://www.openstreetmap.org/note/3009042#c6437689</guid>
@@ -187,16 +197,6 @@
         <link>https://www.openstreetmap.org/note/3005036#c6429424</link>
         <guid>https://www.openstreetmap.org/note/3005036#c6429424</guid>
         <pubDate>Mon, 10 Jan 2022 12:17:05 +0000</pubDate>
-      </item><item>
-        <title>new note (near Penza-lakótelep, Békéscsaba) / * 2022 January 10 10:35 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: Pitch has got a name &amp;quot;Szan Sziró&amp;quot;. / https://www.openstreetmap.org/way/973970693</title>
-        <link>https://www.openstreetmap.org/note/3004913#c6429150</link>
-        <guid>https://www.openstreetmap.org/note/3004913#c6429150</guid>
-        <pubDate>Mon, 10 Jan 2022 10:35:46 +0000</pubDate>
-      </item><item>
-        <title>new note (near Póstelek, Békéscsaba) / * 2022 January 10 10:32 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: There&amp;#39;s a Parkplatz von Mókus csárda.</title>
-        <link>https://www.openstreetmap.org/note/3004909#c6429135</link>
-        <guid>https://www.openstreetmap.org/note/3004909#c6429135</guid>
-        <pubDate>Mon, 10 Jan 2022 10:32:55 +0000</pubDate>
       </item>
   </channel>
 </rss>
