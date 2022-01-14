@@ -3,11 +3,6 @@
   <channel>
     <title>WiGLE Frontpage (via bkil-bot)</title>
       <item>
-        <title>Re: On _nomap and _optout: showline wrote: &amp;gt; bobzilla wrote: &amp;gt; &amp;gt; For a false sense of security Google and Microsoft allow you to opt out of &amp;gt; &amp;gt; including your network in their geolocation systems. WiGLE automatically &amp;gt; &amp;gt; hides networks (currently 16,644) with these _nomap and/or _optout tags in &amp;gt; &amp;gt; the ssid. Note that unless you turn of your beacon your network is still &amp;gt; &amp;gt; blasting the presence of your network to anyone within radio distance. And &amp;gt; &amp;gt; even with beacons off your network can be noticed just via traffic flowing &amp;gt; &amp;gt; on it. As always, obscurity isn't security, encrypt all the things. &amp;gt; &amp;gt; https://gbplus.net/download-gbwhatsapp-apk/ &amp;gt; &amp;gt; https://support.google.com/nexus/answer/1725632 &amp;gt; &amp;gt; &amp;gt; &amp;gt; &amp;gt; http://www.windowsphone.com/en-us/how-t ... i-fi-sense &amp;gt; Apple and Microsoft do the same, I think the keyword for opt-out is different for &amp;gt; each Thanks for the useful links. Keep sharing more with us. -lordgoku</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?t=2330&amp;p=11153#p11153</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?t=2330&amp;p=11153#p11153</guid>
-        <pubDate>2022-01-13T08:46:46</pubDate>
-      </item><item>
         <title>Reminder: Query Limits and responsible use: Hey, apparently folks need to hear this again: every WiGLE user has a daily query limit associated with their account. This keeps the service available for everyone without costing $ALL_THE_MONEY. If you deploy code that REALLY doesn't respect your daily limit, we'll disable your account. If you try and register multiple of accounts to circumvent the limit, bad things will also happen. Also, if you're trying to use WiGLE data for commercial purposes, maybe contact us and help support the project. hugs, the WiGLE team -arkasha</title>
         <link>https://wigle.net/phpbb/viewtopic.php?t=2910&amp;p=11118#p11118</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2910&amp;p=11118#p11118</guid>
@@ -77,6 +72,11 @@
         <link>https://wigle.net/phpbb/viewtopic.php?t=2888&amp;p=11008#p11008</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2888&amp;p=11008#p11008</guid>
         <pubDate>2021-09-07T16:24:21</pubDate>
+      </item><item>
+        <title>Re: 20 years ago...: Happy birthday to all you collaborative wireless surveyors &amp;amp; researchers! 🎂 🥳 🎉 🍰 -kurz</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2888&amp;p=11007#p11007</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2888&amp;p=11007#p11007</guid>
+        <pubDate>2021-09-07T16:13:40</pubDate>
       </item>
   </channel>
 </rss>
