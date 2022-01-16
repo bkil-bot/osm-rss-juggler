@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Fürdőtelep, Harkány) / * 2021 December 5 08:19 vasony-qa Created: Van itt Mór tér, vagy hibás a cím? / * 2022 January 16 10:55 pseudotypo Updated: Van, de Jókai Mór tér.</title>
+        <link>https://www.openstreetmap.org/note/2959629#c6445877</link>
+        <guid>https://www.openstreetmap.org/note/2959629#c6445877</guid>
+        <pubDate>Sun, 16 Jan 2022 10:55:26 +0000</pubDate>
+      </item><item>
         <title>closed note (near Hegyvidékek, Budaörs) / * 2022 January 7 22:17 vasony Created: Itt volt egy ösvény bejárat, járható? / * 2022 January 16 07:00 vasony Resolved: járható, ez is Meredek utca</title>
         <link>https://www.openstreetmap.org/note/3001274#c6445420</link>
         <guid>https://www.openstreetmap.org/note/3001274#c6445420</guid>
@@ -147,11 +152,6 @@
         <link>https://www.openstreetmap.org/note/3005906#c6433521</link>
         <guid>https://www.openstreetmap.org/note/3005906#c6433521</guid>
         <pubDate>Tue, 11 Jan 2022 21:37:30 +0000</pubDate>
-      </item><item>
-        <title>new note (near Soltvadkert) / * 2022 January 11 13:53 vasony-qa Created: Mi szerepel az utcatáblán? / Dr. Grätzer István utca vagy Dr. Gratzer István utca?</title>
-        <link>https://www.openstreetmap.org/note/3006342#c6432407</link>
-        <guid>https://www.openstreetmap.org/note/3006342#c6432407</guid>
-        <pubDate>Tue, 11 Jan 2022 13:53:24 +0000</pubDate>
       </item>
   </channel>
 </rss>
