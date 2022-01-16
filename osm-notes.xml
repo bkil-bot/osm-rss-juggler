@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Hegyvidékek, Budaörs) / * 2022 January 7 22:17 vasony Created: Itt volt egy ösvény bejárat, járható? / * 2022 January 16 07:00 vasony Resolved: járható, ez is Meredek utca</title>
+        <link>https://www.openstreetmap.org/note/3001274#c6445420</link>
+        <guid>https://www.openstreetmap.org/note/3001274#c6445420</guid>
+        <pubDate>Sun, 16 Jan 2022 07:00:32 +0000</pubDate>
+      </item><item>
         <title>closed note (near Lovastanya, Törökbálint) / * 2022 January 15 19:31 grin Resolved: </title>
         <link>https://www.openstreetmap.org/note/3011985#c6444519</link>
         <guid>https://www.openstreetmap.org/note/3011985#c6444519</guid>
@@ -147,11 +152,6 @@
         <link>https://www.openstreetmap.org/note/3006342#c6432407</link>
         <guid>https://www.openstreetmap.org/note/3006342#c6432407</guid>
         <pubDate>Tue, 11 Jan 2022 13:53:24 +0000</pubDate>
-      </item><item>
-        <title>new note (near Belváros, Zalaegerszeg) / * 2022 January 11 13:49 vasony-qa Created: Békeligeti vagy Béke-ligeti utca ?</title>
-        <link>https://www.openstreetmap.org/note/3006338#c6432402</link>
-        <guid>https://www.openstreetmap.org/note/3006338#c6432402</guid>
-        <pubDate>Tue, 11 Jan 2022 13:49:47 +0000</pubDate>
       </item>
   </channel>
 </rss>
