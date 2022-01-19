@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Újlak, 3rd district) / * 2022 January 19 13:31 urbalazs Resolved: Ez a funkció a térkép hibáinak jelzésére szolgál. Magánjellegű információk tárolásához nem használható.</title>
+        <link>https://www.openstreetmap.org/note/3016655#c6454906</link>
+        <guid>https://www.openstreetmap.org/note/3016655#c6454906</guid>
+        <pubDate>Wed, 19 Jan 2022 13:31:59 +0000</pubDate>
+      </item><item>
         <title>new note (near Újlak, 3rd district) / * 2022 January 19 12:58 Created: munka</title>
         <link>https://www.openstreetmap.org/note/3016655#c6454840</link>
         <guid>https://www.openstreetmap.org/note/3016655#c6454840</guid>
@@ -177,21 +182,6 @@
         <link>https://www.openstreetmap.org/note/3011984#c6444395</link>
         <guid>https://www.openstreetmap.org/note/3011984#c6444395</guid>
         <pubDate>Sat, 15 Jan 2022 18:41:53 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Avas, Miskolc) / * 2021 December 4 13:57 vasony-qa Created: Ez a Szőlőskert sétány? / * 2022 January 15 10:55 vasony Resolved: dupla</title>
-        <link>https://www.openstreetmap.org/note/2958993#c6442884</link>
-        <guid>https://www.openstreetmap.org/note/2958993#c6442884</guid>
-        <pubDate>Sat, 15 Jan 2022 10:55:22 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Avas, Miskolc) / * 2022 January 15 10:55 vasony Resolved: köszi, az út túloldala is az gondolom, arra is rátettem a nevet.</title>
-        <link>https://www.openstreetmap.org/note/2314675#c6442883</link>
-        <guid>https://www.openstreetmap.org/note/2314675#c6442883</guid>
-        <pubDate>Sat, 15 Jan 2022 10:55:22 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Avas, Miskolc) / * 2020 August 20 05:52 vasony Created: Ez a Szőlőskert sétány? / * 2022 January 15 08:02 MetalRat Updated: igen</title>
-        <link>https://www.openstreetmap.org/note/2314675#c6442492</link>
-        <guid>https://www.openstreetmap.org/note/2314675#c6442492</guid>
-        <pubDate>Sat, 15 Jan 2022 08:02:03 +0000</pubDate>
       </item>
   </channel>
 </rss>
