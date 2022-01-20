@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Kelenföld, 11th district) / * 2022 January 20 18:22 Created: A Foxpost csomagautomata mellett telepítettek egy Alzás csomagautomatás is.</title>
+        <link>https://www.openstreetmap.org/note/3018193#c6457969</link>
+        <guid>https://www.openstreetmap.org/note/3018193#c6457969</guid>
+        <pubDate>Thu, 20 Jan 2022 18:22:19 +0000</pubDate>
+      </item><item>
         <title>new note (near Kelenföld, 11th district) / * 2022 January 20 17:56 Created: Innen északra és délre is hiányzik a járda.</title>
         <link>https://www.openstreetmap.org/note/3018162#c6457902</link>
         <guid>https://www.openstreetmap.org/note/3018162#c6457902</guid>
@@ -82,26 +87,6 @@
         <link>https://www.openstreetmap.org/note/3013907#c6452105</link>
         <guid>https://www.openstreetmap.org/note/3013907#c6452105</guid>
         <pubDate>Tue, 18 Jan 2022 12:48:17 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Ajka) / * 2021 December 30 09:18 Menyhárt Máté Created: Unable to answer &amp;quot;How many levels above the basement does this building have?&amp;quot; for https://osm.org/way/172533012 via StreetComplete 38.2: / Földszint+3 emelet pince és tetőtér nélkül. / * 2022 January 18 08:02 Zsolt Beringer Updated: Az OSM wikiben van egy nyúlfarknyi leírás, ami alapján könnyen ki lehet számolni a megfelelő értéket. / https://wiki.openstreetmap.org/wiki/Hu:Key:building:levels</title>
-        <link>https://www.openstreetmap.org/note/2988445#c6451503</link>
-        <guid>https://www.openstreetmap.org/note/2988445#c6451503</guid>
-        <pubDate>Tue, 18 Jan 2022 08:02:24 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Ajka) / * 2022 January 3 18:45 Menyhárt Máté Created: Unable to answer &amp;quot;What type of shop is Rózsa Tojás?&amp;quot; for https://osm.org/node/9315824393 via StreetComplete 38.2: / Ez egy tojásbolt. / * 2022 January 18 08:00 Zsolt Beringer Updated: Szia! / shop=food és / food=egg tagek javasoltak, ha érdekel a micromapping.</title>
-        <link>https://www.openstreetmap.org/note/2995694#c6451500</link>
-        <guid>https://www.openstreetmap.org/note/2995694#c6451500</guid>
-        <pubDate>Tue, 18 Jan 2022 08:00:55 +0000</pubDate>
-      </item><item>
-        <title>new note (near Agyagos, Agyagosszergény) / * 2022 January 17 21:23 efi99 Created: 10 ?</title>
-        <link>https://www.openstreetmap.org/note/3014662#c6450559</link>
-        <guid>https://www.openstreetmap.org/note/3014662#c6450559</guid>
-        <pubDate>Mon, 17 Jan 2022 21:23:48 +0000</pubDate>
-      </item><item>
-        <title>new note (near Agyagos, Agyagosszergény) / * 2022 January 17 21:23 efi99 Created: 11?</title>
-        <link>https://www.openstreetmap.org/note/3014661#c6450558</link>
-        <guid>https://www.openstreetmap.org/note/3014661#c6450558</guid>
-        <pubDate>Mon, 17 Jan 2022 21:23:41 +0000</pubDate>
       </item>
   </channel>
 </rss>
