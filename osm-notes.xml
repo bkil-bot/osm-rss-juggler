@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Rákospalota, 15th district) / * 2022 January 24 11:21 Created: A gyalogos hidat megnyitották, a gyalogos úttervezéshez használható. ** Footbridge reopened, should be considered in route calculations.</title>
+        <link>https://www.openstreetmap.org/note/3022154#c6467073</link>
+        <guid>https://www.openstreetmap.org/note/3022154#c6467073</guid>
+        <pubDate>Mon, 24 Jan 2022 11:21:21 +0000</pubDate>
+      </item><item>
         <title>closed note (near Nagytétény, 22nd district) / * 2021 October 18 21:09 vasony Created: Új utca: Lili major köz / * 2021 October 18 21:09 vasony Updated: https://service-einfoszab.budapest.hu/api/dvd/179479 / * 2022 January 23 21:01 vasony Resolved: ez közben felkerült</title>
         <link>https://www.openstreetmap.org/note/2901371#c6465882</link>
         <guid>https://www.openstreetmap.org/note/2901371#c6465882</guid>
@@ -237,11 +242,6 @@
         <link>https://www.openstreetmap.org/note/3018259#c6458164</link>
         <guid>https://www.openstreetmap.org/note/3018259#c6458164</guid>
         <pubDate>Thu, 20 Jan 2022 19:30:37 +0000</pubDate>
-      </item><item>
-        <title>new note (near Kapuvár) / * 2022 January 20 19:26 efi99 Created: 24?</title>
-        <link>https://www.openstreetmap.org/note/3018252#c6458156</link>
-        <guid>https://www.openstreetmap.org/note/3018252#c6458156</guid>
-        <pubDate>Thu, 20 Jan 2022 19:26:33 +0000</pubDate>
       </item>
   </channel>
 </rss>
