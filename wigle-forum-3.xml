@@ -3,6 +3,16 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Rasberry Pi: Woot, completely missed the overlay news, will check it out on the RPI Zero and report back, it was a real struggle to strip it down until now. -strasharo</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=1916&amp;p=11167#p11167</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=1916&amp;p=11167#p11167</guid>
+        <pubDate>2022-02-08T17:04:50</pubDate>
+      </item><item>
+        <title>Re: Rasberry Pi: Hello, yes, as the rpi3 died on me its now running with a rpi4: https://github.com/designer2k2/warpi I will soon check out the latest Kismet wardriving overlay, that should simplify it even further viewtopic.php?p=11155 -d2k2</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=1916&amp;p=11165#p11165</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=1916&amp;p=11165#p11165</guid>
+        <pubDate>2022-02-08T16:40:27</pubDate>
+      </item><item>
         <title>Re: Rasberry Pi: im running a headless rpi-setup: Raspberry Pi 3b with Kali 64 Bit OSRTC hatGPS module on UARTOLED screensome WLAN sticksrpi3b setup: and before that, my try with a rpi0w: full guide on how its made: https://www.designer2k2.at/de/mods/elek ... ving-setupHave you updated this setup? Wondering what you are using now. -toothpaste</title>
         <link>https://wigle.net/phpbb/viewtopic.php?t=1916&amp;p=11164#p11164</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=1916&amp;p=11164#p11164</guid>
@@ -67,16 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?t=2498&amp;p=11126#p11126</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2498&amp;p=11126#p11126</guid>
         <pubDate>2021-12-11T22:22:34</pubDate>
-      </item><item>
-        <title>Re: WiGLE WiFi for Android phone performance comparison: yes arkasha this is tricky to do, as the devices idealy are in the same place. Even when the phone is closer to the A pillar or centered in the windscreen it gets different results kurz, the rpi(4) is running kali linux with kismet and 2 usb wifi dongles in monitoring mode (TP-Link Archer T9UH AC1900, ALFA AWUS036NEH). Another comparison, all the RSSI values in a histogram:Both RPI wifi dongles can be seen with the 2 RSSI lines. And it gets the strongest signals by far. The S4 seems to fetch most wifi´s with very low RSSI The script i used to generate the data from above and the plot: https://gist.github.com/designer2k2/417 ... 9b0895e039 -d2k2</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?t=2498&amp;p=11124#p11124</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?t=2498&amp;p=11124#p11124</guid>
-        <pubDate>2021-12-08T19:12:16</pubDate>
-      </item><item>
-        <title>Re: WiGLE WiFi for Android phone performance comparison: Did you use any USB wifi dongle with an external antenna on the Raspberry or only the internal one? I think you could find even more in monitor mode, not sure whether the linked OS image contains it: https://github.com/seemoo-lab/nexmon The RPI is this: https://www.designer2k2.at/de/mods/elek ... ving-setup Found only by RPI: 2662 -kurz</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?t=2498&amp;p=11123#p11123</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?t=2498&amp;p=11123#p11123</guid>
-        <pubDate>2021-12-08T16:08:18</pubDate>
       </item>
   </channel>
 </rss>
