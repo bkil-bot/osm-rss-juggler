@@ -3,6 +3,21 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>Let’s meet a new #OpenStreetMap fellow. The OpenCage Blog interviews Abdoullah ibn Ismaïl, mapper in #Guinea: https://blog.opencagedata.com/post/openstreetmap-in-guinea.</title>
+        <link>https://en.osm.town/@Doudouosm/107780416944623180</link>
+        <guid>https://en.osm.town/@Doudouosm/107780416944623180</guid>
+        <pubDate>Fri, 11 Feb 2022 16:57:27 +0000</pubDate>
+      </item><item>
+        <title>Create a Wi-Fi Manager for your #ESP8266 #NodeMCU projects. This way, you can connect (and later change) the board to a Wi-Fi network without hard-coding network credentials (SSID and password) in the application code. https://randomnerdtutorials.com/esp8266-nodemcu-wi-fi-manager-asyncwebserver/ #IoT #Arduino</title>
+        <link>https://en.osm.town/@Doudouosm/107779562990681192</link>
+        <guid>https://en.osm.town/@Doudouosm/107779562990681192</guid>
+        <pubDate>Fri, 11 Feb 2022 13:20:16 +0000</pubDate>
+      </item><item>
+        <title>Looking for speakers / trainers for skillshare session on “Creating OSM Diary and Editing OSM Wiki”. Would you like to speak on either of those topic ? See how in this post: https://www.openstreetmap.org/user/arnalielsewhere/diary/398601 #OpenStreetMap #OSM #Wiki</title>
+        <link>https://en.osm.town/@Doudouosm/107776246365504594</link>
+        <guid>https://en.osm.town/@Doudouosm/107776246365504594</guid>
+        <pubDate>Thu, 10 Feb 2022 23:16:49 +0000</pubDate>
+      </item><item>
         <title>#OpenStreetMap Belgium’s Mapper of the Month #MotM flies (figuratively…) to Sudan to let use meet Mustafa Kamil: https://openstreetmap.be/en/motm/2022/02/01/mustafa-kamil.html.</title>
         <link>https://en.osm.town/@Doudouosm/107747051024866890</link>
         <guid>https://en.osm.town/@Doudouosm/107747051024866890</guid>
@@ -87,21 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/107033928287688519</link>
         <guid>https://en.osm.town/@Doudouosm/107033928287688519</guid>
         <pubDate>Sat, 02 Oct 2021 20:55:34 +0000</pubDate>
-      </item><item>
-        <title>Tutorial: Adding places of worship to OpenStreetMap. https://www.youtube.com/watch?v=7lVuKtNgrkY Using Field Papers and the #iD Editor, this tutorial shows #OpenStreetMap beginners how to edit the database and add churches, mosques, synagogues, temples, and other places of worship, into the map database used by maps and apps around the world.</title>
-        <link>https://en.osm.town/@Doudouosm/106970990883526613</link>
-        <guid>https://en.osm.town/@Doudouosm/106970990883526613</guid>
-        <pubDate>Tue, 21 Sep 2021 18:09:45 +0000</pubDate>
-      </item><item>
-        <title>#MapRoulette: What It Is And How To Use. Learn in just less than 4 minutes, how to perform microtasks to improve data quality in #OpenStreetMap. https://www.youthmappers.org/post/maproulette-what-it-is-and-how-to-use</title>
-        <link>https://en.osm.town/@Doudouosm/106939585999256465</link>
-        <guid>https://en.osm.town/@Doudouosm/106939585999256465</guid>
-        <pubDate>Thu, 16 Sep 2021 05:03:05 +0000</pubDate>
-      </item><item>
-        <title>“Mapping the World, the Belgian contribution” is the 38th #IMCoS International Symposium that will highlight the early Belgian contributions to the development of cartography worldwide in a three-day onsite event on 11–14 October 2021. Details: https://imcos2021brussels.org #mapping #cartography #Belgium</title>
-        <link>https://en.osm.town/@Doudouosm/106936492058112729</link>
-        <guid>https://en.osm.town/@Doudouosm/106936492058112729</guid>
-        <pubDate>Wed, 15 Sep 2021 15:56:15 +0000</pubDate>
       </item>
   </channel>
 </rss>
