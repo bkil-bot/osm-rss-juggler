@@ -3,6 +3,31 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Soroksár, 23rd district) / * 2022 February 13 15:14 Hungarian_user Created: az utca neve a helyszínen: / Középtemető utca / * 2022 February 14 22:54 infeeeee Resolved: Igen, ez van a térképen is.</title>
+        <link>https://www.openstreetmap.org/note/3050085#c6532702</link>
+        <guid>https://www.openstreetmap.org/note/3050085#c6532702</guid>
+        <pubDate>Mon, 14 Feb 2022 22:54:34 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Wekerletelep, 19th district) / * 2022 February 8 14:16 Hungarian_user Created: itt nincs tűzcsap, csak az utca túloldalán, de az már térképen van. / * 2022 February 14 22:49 infeeeee Updated: Ez itt elvileg egy földalatti tűzcsap, fire_hydrant:type=underground. Az is biztos nincs itt? Erről a pontról van szó: https://www.openstreetmap.org/node/2961610014</title>
+        <link>https://www.openstreetmap.org/note/3042142#c6532696</link>
+        <guid>https://www.openstreetmap.org/note/3042142#c6532696</guid>
+        <pubDate>Mon, 14 Feb 2022 22:49:45 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Kelenföld, 11th district) / * 2022 January 20 17:56 Created: Innen északra és délre is hiányzik a járda. / * 2022 February 14 22:41 infeeeee Resolved: Sok helyről hiányzik a járda... De erre a szakaszra megrajzoltam.</title>
+        <link>https://www.openstreetmap.org/note/3018162#c6532680</link>
+        <guid>https://www.openstreetmap.org/note/3018162#c6532680</guid>
+        <pubDate>Mon, 14 Feb 2022 22:41:18 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Budakeszi erdészet, Budakeszi) / * 2022 February 14 22:35 grin Resolved: „ez az út nincsen itten, la, a kerítés új, magas és barátságtalan”</title>
+        <link>https://www.openstreetmap.org/note/2984028#c6532632</link>
+        <guid>https://www.openstreetmap.org/note/2984028#c6532632</guid>
+        <pubDate>Mon, 14 Feb 2022 22:35:18 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Budakeszi erdészet, Budakeszi) / * 2022 February 14 22:22 grin Updated: Mire gondolt a helyesírásellenőrző! (A költő egy csinos, lengén öltözött hölgyre, de hogy jön ez ide?!) / Mindjárt fikszálom.</title>
+        <link>https://www.openstreetmap.org/note/2984028#c6532620</link>
+        <guid>https://www.openstreetmap.org/note/2984028#c6532620</guid>
+        <pubDate>Mon, 14 Feb 2022 22:22:40 +0000</pubDate>
+      </item><item>
         <title>new comment (near Törökőr, 14th district) / * 2022 January 1 09:15 CsaGo Created: A megadott adatok ehhez az üzlethez hibásak. Az üzlet működik, csak más helyre költözött, több mint 3 éve. A helyes cím: 1141 Budapest Ürmény utca 19/B. / * 2022 February 14 22:15 vasony Updated: van a helyén valami?</title>
         <link>https://www.openstreetmap.org/note/2991290#c6532603</link>
         <guid>https://www.openstreetmap.org/note/2991290#c6532603</guid>
@@ -237,31 +262,6 @@
         <link>https://www.openstreetmap.org/note/3050143#c6528221</link>
         <guid>https://www.openstreetmap.org/note/3050143#c6528221</guid>
         <pubDate>Sun, 13 Feb 2022 15:39:03 +0000</pubDate>
-      </item><item>
-        <title>new note (near Soroksár, 23rd district) / * 2022 February 13 15:32 Hungarian_user Created: utcatáblán Erzsébet utca, nem Szabóky Rezső.</title>
-        <link>https://www.openstreetmap.org/note/3050124#c6528186</link>
-        <guid>https://www.openstreetmap.org/note/3050124#c6528186</guid>
-        <pubDate>Sun, 13 Feb 2022 15:32:01 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Soroksár, 23rd district) / * 2021 August 13 10:05 Created: Erzsébet utca 35. / * 2021 August 14 16:27 vasony Updated: nem valószínű a 35, viszont ez a szakasz akkor nem Szabóky Rezső utca, felmérendő / * 2022 February 13 15:29 Hungarian_user Updated: Ludány utca 9 v 11.</title>
-        <link>https://www.openstreetmap.org/note/2801330#c6528176</link>
-        <guid>https://www.openstreetmap.org/note/2801330#c6528176</guid>
-        <pubDate>Sun, 13 Feb 2022 15:29:07 +0000</pubDate>
-      </item><item>
-        <title>new note (near Soroksár, 23rd district) / * 2022 February 13 15:14 Hungarian_user Created: az utca neve a helyszínen: / Középtemető utca</title>
-        <link>https://www.openstreetmap.org/note/3050085#c6528121</link>
-        <guid>https://www.openstreetmap.org/note/3050085#c6528121</guid>
-        <pubDate>Sun, 13 Feb 2022 15:14:01 +0000</pubDate>
-      </item><item>
-        <title>new note (near Soroksár, 23rd district) / * 2022 February 13 15:03 Hungarian_user Created: e-töltő OK, de a templom melletti utca felújítás alatt van.</title>
-        <link>https://www.openstreetmap.org/note/3050069#c6528085</link>
-        <guid>https://www.openstreetmap.org/note/3050069#c6528085</guid>
-        <pubDate>Sun, 13 Feb 2022 15:03:24 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Erzsébetváros, 7th district) / * 2022 February 12 20:27 yarbabin Created: &amp;quot;Топовое местечко&amp;quot; / OSM snapshot date: 2022-01-03T12:11:12Z / POI has no name / POI types: building-address / #organicmaps / * 2022 February 13 14:59 infeeeee Updated: What do you mean by this note? Can you translate it to English? According to online translators, you wrote &amp;#39;Top spot&amp;#39;.</title>
-        <link>https://www.openstreetmap.org/note/3049157#c6528070</link>
-        <guid>https://www.openstreetmap.org/note/3049157#c6528070</guid>
-        <pubDate>Sun, 13 Feb 2022 14:59:30 +0000</pubDate>
       </item>
   </channel>
 </rss>
