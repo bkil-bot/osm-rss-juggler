@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Jutasi úti lakótelep, Veszprém) / * 2021 December 20 22:48 Csizmadia Zsolt Created: Infra Beauty szalon új címe: 8200, Veszprém, Bartók Béla u. 23. / * 2021 December 21 01:29 OSM KAMI Updated: Valóban, / https://www.infrabeauty.hu/kapcsolat/ / Itt mi lett helyette? / * 2021 December 21 07:13 Csizmadia Zsolt Updated: Egyenlőre nincs új funkciója az ingatlannak. Üres. / Viszont az Infra Beauty szalon működik és új helyen üzemel. Tudsz segíteni, hogy az új címre kerüljön át a megjelenítése? / * 2021 December 21 07:25 wertol Resolved: Szia! / Átköltöztettem az üzletet a kért címre. / * 2021 December 21 11:48 Csizmadia Zsolt Reactivated:  / * 2021 December 21 11:49 Csizmadia Zsolt Updated: Sajnos még mindig a régi helyén jelöli az Instagram OpenStreetMap térképen. / Milyen megoldás tudtok erre? / Köszönöm! / * 2021 December 22 09:45 wertol Updated: Szia! Az openstreetmap.hu oldalon már mutatja a Bartók utcában, de még ott van a Haszkovón is. Az openstreetmap.org oldalon még a Haszkovóra mutatja, a Bartók utcában jelenleg (dec. 22-én 10:30 körül) még csak egy lila pontot mutat 17-es nagyítási szinten. A leterheltségtől függően beletelik pár napba, amíg a szerver feldolgozza a módosításokat és eltűnik a Haszkovóról az üzlet és már csak a Bartókon lesz látható minden nagyítási szinten. Ehhez még hozzájárulhat az is, hogy az Instagram OSM térképe nem biztos, hogy olyan sűrűn frissül, mint az &amp;quot;normál&amp;quot; openstreetmap.org vagy .hu. oldal. Lehet, hogy ők csak havonta 1-2 alakalommal frissítenek. Röviden: várni kell. / * 2022 February 14 21:19 vasony Resolved: megjelöltem /dirty-vel az érintett területet, most már az openstreetmap.org is jól mutatja</title>
+        <link>https://www.openstreetmap.org/note/2978057#c6532436</link>
+        <guid>https://www.openstreetmap.org/note/2978057#c6532436</guid>
+        <pubDate>Mon, 14 Feb 2022 21:19:35 +0000</pubDate>
+      </item><item>
         <title>new note (near Pereszteg) / * 2022 February 14 16:38 efi99 Created: Kis u 53?</title>
         <link>https://www.openstreetmap.org/note/3051495#c6531662</link>
         <guid>https://www.openstreetmap.org/note/3051495#c6531662</guid>
@@ -227,26 +232,6 @@
         <link>https://www.openstreetmap.org/note/3049449#c6526836</link>
         <guid>https://www.openstreetmap.org/note/3049449#c6526836</guid>
         <pubDate>Sun, 13 Feb 2022 08:43:49 +0000</pubDate>
-      </item><item>
-        <title>new note (near Kertvárosias lakóterület, Budaörs) / * 2022 February 13 08:43 vasony Created: 2 vagy 4?</title>
-        <link>https://www.openstreetmap.org/note/3049448#c6526835</link>
-        <guid>https://www.openstreetmap.org/note/3049448#c6526835</guid>
-        <pubDate>Sun, 13 Feb 2022 08:43:48 +0000</pubDate>
-      </item><item>
-        <title>new note (near Történelmi belváros, Budaörs) / * 2022 February 13 08:43 vasony Created: 21?</title>
-        <link>https://www.openstreetmap.org/note/3049447#c6526834</link>
-        <guid>https://www.openstreetmap.org/note/3049447#c6526834</guid>
-        <pubDate>Sun, 13 Feb 2022 08:43:48 +0000</pubDate>
-      </item><item>
-        <title>new note (near Történelmi belváros, Budaörs) / * 2022 February 13 08:43 vasony Created: 11/A ?</title>
-        <link>https://www.openstreetmap.org/note/3049446#c6526833</link>
-        <guid>https://www.openstreetmap.org/note/3049446#c6526833</guid>
-        <pubDate>Sun, 13 Feb 2022 08:43:48 +0000</pubDate>
-      </item><item>
-        <title>new note (near Kertvárosias lakóterület, Budaörs) / * 2022 February 13 08:43 vasony Created: 17, 19 ?</title>
-        <link>https://www.openstreetmap.org/note/3049445#c6526832</link>
-        <guid>https://www.openstreetmap.org/note/3049445#c6526832</guid>
-        <pubDate>Sun, 13 Feb 2022 08:43:47 +0000</pubDate>
       </item>
   </channel>
 </rss>
