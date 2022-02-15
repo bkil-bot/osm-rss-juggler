@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Krisztinaváros, 1st district) / * 2022 February 15 13:11 nagy_balint Created: Magyar Telekom már nem. / Viszont: / MNB, MNB szakkönyvtár és / BÉT</title>
+        <link>https://www.openstreetmap.org/note/3052478#c6534256</link>
+        <guid>https://www.openstreetmap.org/note/3052478#c6534256</guid>
+        <pubDate>Tue, 15 Feb 2022 13:11:31 +0000</pubDate>
+      </item><item>
         <title>new comment (near Jutasi úti lakótelep, Veszprém) / * 2022 February 15 11:13 wertol Updated: Érdekes egy hiba ez. / Ha rákeresek itt az .org oldalon az Infra Beauty névre, akkor nálam csak a Bartók Béla utcai címet adja ki, semmi mást. Valószínűleg az Instagram keresőmotorjában van némi késés, nem frissítik, csak több havonta egyszer. Ez nem az OSM hibája. Az OSM hibája az, hogy az alapértelmezett Mapnik térképet használva 18-as nagyítási szinten még mindig látható az üzlet a Haszkovón. A többi nagyítás szintről nálam már nem látható. Ilyennel még nem találkoztam. Ennél sok százszor nagyobb módosításokat szoktam csinálni itt, de pár órás, max pár napos késéssel, de láthatóak a javítások, kiegészítések. / Érdekes módon a .hu oldalon, ha átváltok OSM France stílusra, akkor ott már csak a Bartókon látható az üzlet...</title>
         <link>https://www.openstreetmap.org/note/2978057#c6533876</link>
         <guid>https://www.openstreetmap.org/note/2978057#c6533876</guid>
@@ -222,11 +227,6 @@
         <link>https://www.openstreetmap.org/note/3050568#c6529492</link>
         <guid>https://www.openstreetmap.org/note/3050568#c6529492</guid>
         <pubDate>Sun, 13 Feb 2022 22:53:44 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Újpalota, 15th district) / * 2021 December 20 20:41 Created: Lidl, megnyitva: 2021.12.16. / * 2022 February 13 21:41 vasony Resolved: időközben felkerült</title>
-        <link>https://www.openstreetmap.org/note/2977992#c6529332</link>
-        <guid>https://www.openstreetmap.org/note/2977992#c6529332</guid>
-        <pubDate>Sun, 13 Feb 2022 21:41:23 +0000</pubDate>
       </item>
   </channel>
 </rss>
