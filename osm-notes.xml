@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Jutasi úti lakótelep, Veszprém) / * 2022 February 15 07:18 Csizmadia Zsolt Updated: Sajnos ha rákeresel a térképen még mindig a régi helysn is jelöli a szalonunkat. Ezenkívül az Instagram automatikusan még mindig csak a régi helyet jelöli. / Köszi / Zsolti</title>
+        <link>https://www.openstreetmap.org/note/2978057#c6533217</link>
+        <guid>https://www.openstreetmap.org/note/2978057#c6533217</guid>
+        <pubDate>Tue, 15 Feb 2022 07:18:37 +0000</pubDate>
+      </item><item>
+        <title>reactivated note (near Jutasi úti lakótelep, Veszprém) / * 2021 December 20 22:48 Csizmadia Zsolt Created: Infra Beauty szalon új címe: 8200, Veszprém, Bartók Béla u. 23. / * 2021 December 21 01:29 OSM KAMI Updated: Valóban, / https://www.infrabeauty.hu/kapcsolat/ / Itt mi lett helyette? / * 2021 December 21 07:13 Csizmadia Zsolt Updated: Egyenlőre nincs új funkciója az ingatlannak. Üres. / Viszont az Infra Beauty szalon működik és új helyen üzemel. Tudsz segíteni, hogy az új címre kerüljön át a megjelenítése? / * 2021 December 21 07:25 wertol Resolved: Szia! / Átköltöztettem az üzletet a kért címre. / * 2021 December 21 11:48 Csizmadia Zsolt Reactivated:  / * 2021 December 21 11:49 Csizmadia Zsolt Updated: Sajnos még mindig a régi helyén jelöli az Instagram OpenStreetMap térképen. / Milyen megoldás tudtok erre? / Köszönöm! / * 2021 December 22 09:45 wertol Updated: Szia! Az openstreetmap.hu oldalon már mutatja a Bartók utcában, de még ott van a Haszkovón is. Az openstreetmap.org oldalon még a Haszkovóra mutatja, a Bartók utcában jelenleg (dec. 22-én 10:30 körül) még csak egy lila pontot mutat 17-es nagyítási szinten. A leterheltségtől függően beletelik pár napba, amíg a szerver feldolgozza a módosításokat és eltűnik a Haszkovóról az üzlet és már csak a Bartókon lesz látható minden nagyítási szinten. Ehhez még hozzájárulhat az is, hogy az Instagram OSM térképe nem biztos, hogy olyan sűrűn frissül, mint az &amp;quot;normál&amp;quot; openstreetmap.org vagy .hu. oldal. Lehet, hogy ők csak havonta 1-2 alakalommal frissítenek. Röviden: várni kell. / * 2022 February 14 21:19 vasony Resolved: megjelöltem /dirty-vel az érintett területet, most már az openstreetmap.org is jól mutatja / * 2022 February 15 07:17 Csizmadia Zsolt Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/2978057#c6533212</link>
+        <guid>https://www.openstreetmap.org/note/2978057#c6533212</guid>
+        <pubDate>Tue, 15 Feb 2022 07:17:26 +0000</pubDate>
+      </item><item>
         <title>new comment (near Wekerletelep, 19th district) / * 2022 February 8 14:16 Hungarian_user Created: itt nincs tűzcsap, csak az utca túloldalán, de az már térképen van. / * 2022 February 14 22:49 infeeeee Updated: Ez itt elvileg egy földalatti tűzcsap, fire_hydrant:type=underground. Az is biztos nincs itt? Erről a pontról van szó: https://www.openstreetmap.org/node/2961610014 / * 2022 February 15 05:03 Hungarian_user Updated: Ezt még 1x megnézem. Első alkalommal nem vizsgáltam át a területet annyira tüzetesen. Ha kvázi be van temetve földdel, akkor nem fogom megtalálni.</title>
         <link>https://www.openstreetmap.org/note/3042142#c6533013</link>
         <guid>https://www.openstreetmap.org/note/3042142#c6533013</guid>
@@ -247,21 +257,6 @@
         <link>https://www.openstreetmap.org/note/3050124#c6528418</link>
         <guid>https://www.openstreetmap.org/note/3050124#c6528418</guid>
         <pubDate>Sun, 13 Feb 2022 16:40:39 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Soroksár, 23rd district) / * 2022 February 13 16:38 Hungarian_user Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3050069#c6528409</link>
-        <guid>https://www.openstreetmap.org/note/3050069#c6528409</guid>
-        <pubDate>Sun, 13 Feb 2022 16:38:01 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Soroksár, 23rd district) / * 2022 February 13 16:37 Hungarian_user Resolved: átmozgatva a poi ide</title>
-        <link>https://www.openstreetmap.org/note/3050061#c6528407</link>
-        <guid>https://www.openstreetmap.org/note/3050061#c6528407</guid>
-        <pubDate>Sun, 13 Feb 2022 16:37:33 +0000</pubDate>
-      </item><item>
-        <title>new note (near Kertváros, Nyíregyháza) / * 2022 February 13 16:02 sugarbotond Created: Az atlétikai centrum nem így néz ki, fel kell mérni.</title>
-        <link>https://www.openstreetmap.org/note/3050180#c6528299</link>
-        <guid>https://www.openstreetmap.org/note/3050180#c6528299</guid>
-        <pubDate>Sun, 13 Feb 2022 16:02:02 +0000</pubDate>
       </item>
   </channel>
 </rss>
