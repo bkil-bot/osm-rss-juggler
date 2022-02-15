@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Wekerletelep, 19th district) / * 2022 February 8 14:16 Hungarian_user Created: itt nincs tűzcsap, csak az utca túloldalán, de az már térképen van. / * 2022 February 14 22:49 infeeeee Updated: Ez itt elvileg egy földalatti tűzcsap, fire_hydrant:type=underground. Az is biztos nincs itt? Erről a pontról van szó: https://www.openstreetmap.org/node/2961610014 / * 2022 February 15 05:03 Hungarian_user Updated: Ezt még 1x megnézem. Első alkalommal nem vizsgáltam át a területet annyira tüzetesen. Ha kvázi be van temetve földdel, akkor nem fogom megtalálni.</title>
+        <link>https://www.openstreetmap.org/note/3042142#c6533013</link>
+        <guid>https://www.openstreetmap.org/note/3042142#c6533013</guid>
+        <pubDate>Tue, 15 Feb 2022 05:03:15 +0000</pubDate>
+      </item><item>
         <title>closed note (near Soroksár, 23rd district) / * 2022 February 13 15:14 Hungarian_user Created: az utca neve a helyszínen: / Középtemető utca / * 2022 February 14 22:54 infeeeee Resolved: Igen, ez van a térképen is.</title>
         <link>https://www.openstreetmap.org/note/3050085#c6532702</link>
         <guid>https://www.openstreetmap.org/note/3050085#c6532702</guid>
@@ -257,11 +262,6 @@
         <link>https://www.openstreetmap.org/note/3050180#c6528299</link>
         <guid>https://www.openstreetmap.org/note/3050180#c6528299</guid>
         <pubDate>Sun, 13 Feb 2022 16:02:02 +0000</pubDate>
-      </item><item>
-        <title>new note (near Soroksár, 23rd district) / * 2022 February 13 15:39 Hungarian_user Created: a Kaláris utca ezen a végén 3 betonoszloppal le van zárva.</title>
-        <link>https://www.openstreetmap.org/note/3050143#c6528221</link>
-        <guid>https://www.openstreetmap.org/note/3050143#c6528221</guid>
-        <pubDate>Sun, 13 Feb 2022 15:39:03 +0000</pubDate>
       </item>
   </channel>
 </rss>
