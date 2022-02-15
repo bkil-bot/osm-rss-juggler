@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Jutasi úti lakótelep, Veszprém) / * 2022 February 15 11:13 wertol Updated: Érdekes egy hiba ez. / Ha rákeresek itt az .org oldalon az Infra Beauty névre, akkor nálam csak a Bartók Béla utcai címet adja ki, semmi mást. Valószínűleg az Instagram keresőmotorjában van némi késés, nem frissítik, csak több havonta egyszer. Ez nem az OSM hibája. Az OSM hibája az, hogy az alapértelmezett Mapnik térképet használva 18-as nagyítási szinten még mindig látható az üzlet a Haszkovón. A többi nagyítás szintről nálam már nem látható. Ilyennel még nem találkoztam. Ennél sok százszor nagyobb módosításokat szoktam csinálni itt, de pár órás, max pár napos késéssel, de láthatóak a javítások, kiegészítések. / Érdekes módon a .hu oldalon, ha átváltok OSM France stílusra, akkor ott már csak a Bartókon látható az üzlet...</title>
+        <link>https://www.openstreetmap.org/note/2978057#c6533876</link>
+        <guid>https://www.openstreetmap.org/note/2978057#c6533876</guid>
+        <pubDate>Tue, 15 Feb 2022 11:13:51 +0000</pubDate>
+      </item><item>
+        <title>new note (near Szentimreváros, 11th district) / * 2022 February 15 10:25 kogutowicz-mano Created: A park várhatóan Törőcsik Mari nevét fogja viselni. https://24.hu/kultura/2022/02/15/torocsik-mari-feneketlen-to-park-atnevezes-elnevezes/</title>
+        <link>https://www.openstreetmap.org/note/3052276#c6533693</link>
+        <guid>https://www.openstreetmap.org/note/3052276#c6533693</guid>
+        <pubDate>Tue, 15 Feb 2022 10:25:26 +0000</pubDate>
+      </item><item>
         <title>new comment (near Jutasi úti lakótelep, Veszprém) / * 2022 February 15 07:18 Csizmadia Zsolt Updated: Sajnos ha rákeresel a térképen még mindig a régi helysn is jelöli a szalonunkat. Ezenkívül az Instagram automatikusan még mindig csak a régi helyet jelöli. / Köszi / Zsolti</title>
         <link>https://www.openstreetmap.org/note/2978057#c6533217</link>
         <guid>https://www.openstreetmap.org/note/2978057#c6533217</guid>
@@ -217,41 +227,6 @@
         <link>https://www.openstreetmap.org/note/2977992#c6529332</link>
         <guid>https://www.openstreetmap.org/note/2977992#c6529332</guid>
         <pubDate>Sun, 13 Feb 2022 21:41:23 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Laposdűlő, 10th district) / * 2021 December 20 13:31 nubiai Created: Ez az épület már nincs itt. Google műholdas térképen is rajta van még, de az is ideje múlt már. / via StreetComplete 38.1 / Attached photo(s): / https://westnordost.de/p/73167.jpg / https://westnordost.de/p/73168.jpg / https://westnordost.de/p/73169.jpg / * 2022 February 13 21:34 vasony Resolved: Lebontottam, építkezésre tettem a terület egy részét</title>
-        <link>https://www.openstreetmap.org/note/2977410#c6529323</link>
-        <guid>https://www.openstreetmap.org/note/2977410#c6529323</guid>
-        <pubDate>Sun, 13 Feb 2022 21:34:49 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Homokkert, Debrecen) / * 2021 December 14 17:20 Created: Debreceni Zsidótemető / * 2022 February 13 21:12 vasony Resolved: Már szerepel a térképen</title>
-        <link>https://www.openstreetmap.org/note/2970907#c6529296</link>
-        <guid>https://www.openstreetmap.org/note/2970907#c6529296</guid>
-        <pubDate>Sun, 13 Feb 2022 21:12:54 +0000</pubDate>
-      </item><item>
-        <title>new note (near József Attila-lakótelep, 9th district) / * 2022 February 13 18:34 Created: Here are two new lifts to the / platforms of the metro station, / opened in late 2021.</title>
-        <link>https://www.openstreetmap.org/note/3050369#c6528791</link>
-        <guid>https://www.openstreetmap.org/note/3050369#c6528791</guid>
-        <pubDate>Sun, 13 Feb 2022 18:34:39 +0000</pubDate>
-      </item><item>
-        <title>new note (near József Attila-lakótelep, 9th district) / * 2022 February 13 18:30 Created: Here are two new lifts to the / platforms of the metro station, / opened in late 2021.</title>
-        <link>https://www.openstreetmap.org/note/3050368#c6528786</link>
-        <guid>https://www.openstreetmap.org/note/3050368#c6528786</guid>
-        <pubDate>Sun, 13 Feb 2022 18:30:20 +0000</pubDate>
-      </item><item>
-        <title>new note (near Eplény) / * 2022 February 13 18:24 Created: Szikla</title>
-        <link>https://www.openstreetmap.org/note/3050363#c6528775</link>
-        <guid>https://www.openstreetmap.org/note/3050363#c6528775</guid>
-        <pubDate>Sun, 13 Feb 2022 18:24:23 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Liliom lakókert, Béketelep, Szeged) / * 2022 January 12 10:46 gabro00 Created: Itt valahol épült fel az inkubátorház. / https://szeged.hu/cikk/a-szegedi-tudomany-most-lep-a-masodik-evszazadaba-inkubatorhazat-adtak-at-a-lezerkozpont-mellett / * 2022 February 13 18:24 gabro00 Resolved: https://www.openstreetmap.org/changeset/117364840</title>
-        <link>https://www.openstreetmap.org/note/3007668#c6528774</link>
-        <guid>https://www.openstreetmap.org/note/3007668#c6528774</guid>
-        <pubDate>Sun, 13 Feb 2022 18:24:18 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Soroksár, 23rd district) / * 2022 February 13 16:43 Hungarian_user Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3050143#c6528433</link>
-        <guid>https://www.openstreetmap.org/note/3050143#c6528433</guid>
-        <pubDate>Sun, 13 Feb 2022 16:43:45 +0000</pubDate>
       </item>
   </channel>
 </rss>
