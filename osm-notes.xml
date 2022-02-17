@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Jutasi úti lakótelep, Veszprém) / * 2021 December 20 22:48 Csizmadia Zsolt Created: Infra Beauty szalon új címe: 8200, Veszprém, Bartók Béla u. 23. / * 2021 December 21 01:29 OSM KAMI Updated: Valóban, / https://www.infrabeauty.hu/kapcsolat/ / Itt mi lett helyette? / * 2021 December 21 07:13 Csizmadia Zsolt Updated: Egyenlőre nincs új funkciója az ingatlannak. Üres. / Viszont az Infra Beauty szalon működik és új helyen üzemel. Tudsz segíteni, hogy az új címre kerüljön át a megjelenítése? / * 2021 December 21 07:25 wertol Resolved: Szia! / Átköltöztettem az üzletet a kért címre. / * 2021 December 21 11:48 Csizmadia Zsolt Reactivated:  / * 2021 December 21 11:49 Csizmadia Zsolt Updated: Sajnos még mindig a régi helyén jelöli az Instagram OpenStreetMap térképen. / Milyen megoldás tudtok erre? / Köszönöm! / * 2021 December 22 09:45 wertol Updated: Szia! Az openstreetmap.hu oldalon már mutatja a Bartók utcában, de még ott van a Haszkovón is. Az openstreetmap.org oldalon még a Haszkovóra mutatja, a Bartók utcában jelenleg (dec. 22-én 10:30 körül) még csak egy lila pontot mutat 17-es nagyítási szinten. A leterheltségtől függően beletelik pár napba, amíg a szerver feldolgozza a módosításokat és eltűnik a Haszkovóról az üzlet és már csak a Bartókon lesz látható minden nagyítási szinten. Ehhez még hozzájárulhat az is, hogy az Instagram OSM térképe nem biztos, hogy olyan sűrűn frissül, mint az &amp;quot;normál&amp;quot; openstreetmap.org vagy .hu. oldal. Lehet, hogy ők csak havonta 1-2 alakalommal frissítenek. Röviden: várni kell. / * 2022 February 14 21:19 vasony Resolved: megjelöltem /dirty-vel az érintett területet, most már az openstreetmap.org is jól mutatja / * 2022 February 15 07:17 Csizmadia Zsolt Reactivated:  / * 2022 February 15 07:18 Csizmadia Zsolt Updated: Sajnos ha rákeresel a térképen még mindig a régi helysn is jelöli a szalonunkat. Ezenkívül az Instagram automatikusan még mindig csak a régi helyet jelöli. / Köszi / Zsolti / * 2022 February 15 11:13 wertol Updated: Érdekes egy hiba ez. / Ha rákeresek itt az .org oldalon az Infra Beauty névre, akkor nálam csak a Bartók Béla utcai címet adja ki, semmi mást. Valószínűleg az Instagram keresőmotorjában van némi késés, nem frissítik, csak több havonta egyszer. Ez nem az OSM hibája. Az OSM hibája az, hogy az alapértelmezett Mapnik térképet használva 18-as nagyítási szinten még mindig látható az üzlet a Haszkovón. A többi nagyítás szintről nálam már nem látható. Ilyennel még nem találkoztam. Ennél sok százszor nagyobb módosításokat szoktam csinálni itt, de pár órás, max pár napos késéssel, de láthatóak a javítások, kiegészítések. / Érdekes módon a .hu oldalon, ha átváltok OSM France stílusra, akkor ott már csak a Bartókon látható az üzlet... / * 2022 February 17 08:00 vasony Resolved: 18-as zoom szintet is sikerült megjavítani / https://tile.openstreetmap.org/18/144118/92086.png / osm-ben nincs hiba, a térképjegyzetek erről szólnak. / Az instagram hiba nem az osm kompetenciája, itt további javítandó nincs.</title>
+        <link>https://www.openstreetmap.org/note/2978057#c6539983</link>
+        <guid>https://www.openstreetmap.org/note/2978057#c6539983</guid>
+        <pubDate>Thu, 17 Feb 2022 08:00:30 +0000</pubDate>
+      </item><item>
         <title>new note (near Érd) / * 2022 February 17 06:43 Created: Érd Con IXL</title>
         <link>https://www.openstreetmap.org/note/3054741#c6539829</link>
         <guid>https://www.openstreetmap.org/note/3054741#c6539829</guid>
@@ -222,16 +227,6 @@
         <link>https://www.openstreetmap.org/note/3053734#c6537662</link>
         <guid>https://www.openstreetmap.org/note/3053734#c6537662</guid>
         <pubDate>Wed, 16 Feb 2022 14:22:20 +0000</pubDate>
-      </item><item>
-        <title>new note (near Ásványhát, Szeged) / * 2022 February 16 14:10 gabro00 Created: Itt a hídon van minimális közlekedésre alkalmas járda?</title>
-        <link>https://www.openstreetmap.org/note/3053723#c6537635</link>
-        <guid>https://www.openstreetmap.org/note/3053723#c6537635</guid>
-        <pubDate>Wed, 16 Feb 2022 14:10:36 +0000</pubDate>
-      </item><item>
-        <title>new note (near Soroksár-Újtelep, 23rd district) / * 2022 February 16 14:03 Hungarian_user Created: az ivókút itt van és műkodik</title>
-        <link>https://www.openstreetmap.org/note/3053716#c6537601</link>
-        <guid>https://www.openstreetmap.org/note/3053716#c6537601</guid>
-        <pubDate>Wed, 16 Feb 2022 14:03:03 +0000</pubDate>
       </item>
   </channel>
 </rss>
