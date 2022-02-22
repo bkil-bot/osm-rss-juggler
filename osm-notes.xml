@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Süttör, Fertőd) / * 2022 February 22 11:10 efi99 Created: utca, házszám?</title>
+        <link>https://www.openstreetmap.org/note/3060928#c6554324</link>
+        <guid>https://www.openstreetmap.org/note/3060928#c6554324</guid>
+        <pubDate>Tue, 22 Feb 2022 11:10:15 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Óbuda, 3rd district) / * 2021 February 17 11:21 Created: shop not exist anymore / * 2022 February 22 10:34 ergepard Resolved: deleted shop from map</title>
+        <link>https://www.openstreetmap.org/note/2542101#c6554226</link>
+        <guid>https://www.openstreetmap.org/note/2542101#c6554226</guid>
+        <pubDate>Tue, 22 Feb 2022 10:34:42 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Óbuda, 3rd district) / * 2021 March 29 06:52 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: Szuper Diszkont is here. / * 2022 February 22 10:28 ergepard Resolved: Verified</title>
+        <link>https://www.openstreetmap.org/note/2598731#c6554208</link>
+        <guid>https://www.openstreetmap.org/note/2598731#c6554208</guid>
+        <pubDate>Tue, 22 Feb 2022 10:28:24 +0000</pubDate>
+      </item><item>
         <title>reactivated note (near Jászberény) / * 2022 February 22 10:18 Márton_85 Reactivated: </title>
         <link>https://www.openstreetmap.org/note/3060858#c6554174</link>
         <guid>https://www.openstreetmap.org/note/3060858#c6554174</guid>
@@ -317,21 +332,6 @@
         <link>https://www.openstreetmap.org/note/2792353#c6546807</link>
         <guid>https://www.openstreetmap.org/note/2792353#c6546807</guid>
         <pubDate>Sat, 19 Feb 2022 16:23:23 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Abaliget) / * 2021 August 6 14:50 utvonalfelmeresek Created: sorompó / via StreetComplete 33.2 / Attached photo(s): / https://westnordost.de/p/53025.jpg / * 2022 February 19 16:22 gabro00 Updated: Rá tudnál nézni a környékbeli jegyzetekre? Ez úgy látom felkerült, de van ami még nem és nekem nem sokat mond.</title>
-        <link>https://www.openstreetmap.org/note/2789594#c6546804</link>
-        <guid>https://www.openstreetmap.org/note/2789594#c6546804</guid>
-        <pubDate>Sat, 19 Feb 2022 16:22:03 +0000</pubDate>
-      </item><item>
-        <title>closed note (near II. körzet, Cserszegtomaj) / * 2022 February 19 16:14 gabro00 Resolved: Sorry, this is the correct changeset https://www.openstreetmap.org/changeset/117610431</title>
-        <link>https://www.openstreetmap.org/note/2788742#c6546789</link>
-        <guid>https://www.openstreetmap.org/note/2788742#c6546789</guid>
-        <pubDate>Sat, 19 Feb 2022 16:14:26 +0000</pubDate>
-      </item><item>
-        <title>reactivated note (near II. körzet, Cserszegtomaj) / * 2022 February 19 16:13 gabro00 Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/2788742#c6546788</link>
-        <guid>https://www.openstreetmap.org/note/2788742#c6546788</guid>
-        <pubDate>Sat, 19 Feb 2022 16:13:49 +0000</pubDate>
       </item>
   </channel>
 </rss>
