@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Has anyone run WiGLE inside the windows 11 android subsystem?: I think the subsystem is hiding the wifi SSIDs. Can't see anything. Or do I need to tweak settings in Windows for this to work? -blackbirdactual</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2922&amp;p=11186#p11186</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2922&amp;p=11186#p11186</guid>
+        <pubDate>2022-02-22T22:14:14</pubDate>
+      </item><item>
         <title>Re: Rasberry Pi: Kali is now running a kismet version high enough to have the wardriving mode, so i updated everything and gave it a go. Yes thats a big improvement and simple to use change is online here: https://github.com/designer2k2/warpi With this i think its worth to test it on a Zero again. Memory consumption was 450mb for kismet with 13k devices in the logfile. -d2k2</title>
         <link>https://wigle.net/phpbb/viewtopic.php?t=1916&amp;p=11183#p11183</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=1916&amp;p=11183#p11183</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?t=2498&amp;p=11128#p11128</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2498&amp;p=11128#p11128</guid>
         <pubDate>2021-12-15T02:22:35</pubDate>
-      </item><item>
-        <title>Re: WiGLE WiFi for Android phone performance comparison: the S20 runs stock Android 11 (One-Ui 3.1) Just developer mode active to turn off the wifi scan throttling. Only the S4 runs LineageOs to have a more current system on it -d2k2</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?t=2498&amp;p=11127#p11127</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?t=2498&amp;p=11127#p11127</guid>
-        <pubDate>2021-12-12T13:54:33</pubDate>
       </item>
   </channel>
 </rss>
