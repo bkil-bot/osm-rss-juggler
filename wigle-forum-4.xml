@@ -3,6 +3,11 @@
   <channel>
     <title>Wireless News (via bkil-bot)</title>
       <item>
+        <title>Looking up a city outside of the USA: Good Evening to whom this concerns, I normally don't have a problem typing in the name of a city, region or country when I want to look up something in the advanced search for the US. How would I look up a city in Canada, UK, Italy, Greece or Spain, depending on where anyone would want to look at for a specific place ? -rage19945@gmail.com</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2920&amp;p=11184#p11184</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2920&amp;p=11184#p11184</guid>
+        <pubDate>2022-02-22T06:07:04</pubDate>
+      </item><item>
         <title>Re: Detecting Gas Pump Skimmers by Bluetooth signature (Bluetana / SkimPlus): the wigle search links from the first post now bring up a lot more hits (47). The tricky part would now be to cross this with a database from gas stations Searching a bit around it does not look like there is one, but an alternative approach came up! The google maps api can be used to find the closest gas station to a given location. And assuming that gas station owners want to be found, google maps should be pretty up do date. So by searching the distance from the 47 potential skimmers to the closest gas station a list could be made. Then, lets say if the gas station is closer than a certain distance its worth to check it manually. -d2k2</title>
         <link>https://wigle.net/phpbb/viewtopic.php?t=2706&amp;p=11178#p11178</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2706&amp;p=11178#p11178</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?t=2587&amp;p=9819#p9819</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2587&amp;p=9819#p9819</guid>
         <pubDate>2018-11-26T00:49:07</pubDate>
-      </item><item>
-        <title>A Different Approach: Utilizing War-driving logs and Mac Addresses to Identify Possible Threats or Stalkers So I'm having a little bit of a problem connecting the last part of what I thought was a good idea to a successful set up that can help show on screen results and warnings if I wanted to track possible &quot;tails&quot; throughout the day by &quot;recognizing/being notified&quot; when duplicate mobile wireless-probes are scanned and logged... Let me explain this another way... I currently use a wardriving application to log all access points in my area. I'm the only one doing that in this town so far. While doing so I realized I was also getting the Mac address of the devices I was picking up as well. A few months prior to this I had explored the idea of using wireless probe requests from nearby cellphones to find out how far certain mac addresses were coming from my house whenever I was not home by using probemon. But I hit a few snags whenever my mind couldn't wrap-around a way to not only just log these but to connect the ideas completely and keep individual track of the Mac addresses that I had felt were becoming a problem to begin with. War-driving app gives me live scans of the area. I want to be able to lock in a mac Address from a mobile wifi probe and if it shows up again at another destination, I can decide at that point to what extent it's relevance is based on the situation. I want to track someone if they are tracking me... I'm making it harder than it should be, I'm sure of it. Any ideas as to what I could try? I can go in to more depth with my process or train of thought if anyone actually is interested. I might just have to get with someone that knows how to create something that combines these things all together. Anyway, thanks in advance for any help, ~Brierblood -Brierblood</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?t=2587&amp;p=9816#p9816</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?t=2587&amp;p=9816#p9816</guid>
-        <pubDate>2018-11-25T07:26:31</pubDate>
       </item>
   </channel>
 </rss>
