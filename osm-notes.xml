@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Nyúl) / * 2022 February 22 21:15 Created: Ich sitze in Berlin und nicht irgendwo in Ungarn. Fail / * 2022 February 23 07:31 kartonage Resolved: This is not related to OpenStreetMap. Contact your third party app provider (or the service that led you here). OpenStreetMap has no control over your location data nor is there any meaningful data to add to the map in this note.</title>
+        <link>https://www.openstreetmap.org/note/3061598#c6556492</link>
+        <guid>https://www.openstreetmap.org/note/3061598#c6556492</guid>
+        <pubDate>Wed, 23 Feb 2022 07:31:48 +0000</pubDate>
+      </item><item>
         <title>closed note (near Óbuda, 3rd district) / * 2021 May 3 07:34 grozsa11 Created: Unable to answer &amp;quot;Is this still here? (Waste Basket)&amp;quot; for https://osm.org/node/4675476021 via StreetComplete 31.3: / Nem találom / * 2022 February 22 21:38 ergepard Resolved: nincs mar ott, kitoroltem</title>
         <link>https://www.openstreetmap.org/note/2650382#c6555829</link>
         <guid>https://www.openstreetmap.org/note/2650382#c6555829</guid>
@@ -247,11 +252,6 @@
         <link>https://www.openstreetmap.org/note/2902183#c6550201</link>
         <guid>https://www.openstreetmap.org/note/2902183#c6550201</guid>
         <pubDate>Sun, 20 Feb 2022 20:48:34 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Újpest, 4th district) / * 2021 October 19 14:02 Created: korábbi nevén Vákuumtechnikai Gépgyár / * 2022 February 20 20:39 infeeeee Resolved: Hozzáadtam: / https://www.openstreetmap.org/changeset/117653978</title>
-        <link>https://www.openstreetmap.org/note/2902185#c6550186</link>
-        <guid>https://www.openstreetmap.org/note/2902185#c6550186</guid>
-        <pubDate>Sun, 20 Feb 2022 20:39:58 +0000</pubDate>
       </item>
   </channel>
 </rss>
