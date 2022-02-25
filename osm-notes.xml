@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Egyetemváros, Pécs) / * 2022 February 25 11:23 Created: PTE O-épület</title>
+        <link>https://www.openstreetmap.org/note/3064615#c6562630</link>
+        <guid>https://www.openstreetmap.org/note/3064615#c6562630</guid>
+        <pubDate>Fri, 25 Feb 2022 11:23:03 +0000</pubDate>
+      </item><item>
+        <title>new note (near Egyetemváros, Pécs) / * 2022 February 25 11:22 Created: PTE M-épület</title>
+        <link>https://www.openstreetmap.org/note/3064613#c6562628</link>
+        <guid>https://www.openstreetmap.org/note/3064613#c6562628</guid>
+        <pubDate>Fri, 25 Feb 2022 11:22:27 +0000</pubDate>
+      </item><item>
         <title>closed note (near Tiszapart, Rakamaz) / * 2021 May 22 05:53 junpet Created: There&amp;#39;s no bus stop here. / via StreetComplete 31.3 / * 2022 February 25 07:59 NightH Resolved: </title>
         <link>https://www.openstreetmap.org/note/2679533#c6562134</link>
         <guid>https://www.openstreetmap.org/note/2679533#c6562134</guid>
@@ -137,11 +147,6 @@
         <link>https://www.openstreetmap.org/note/3062517#c6557665</link>
         <guid>https://www.openstreetmap.org/note/3062517#c6557665</guid>
         <pubDate>Wed, 23 Feb 2022 14:12:38 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Nyúl) / * 2022 February 22 21:15 Created: Ich sitze in Berlin und nicht irgendwo in Ungarn. Fail / * 2022 February 23 07:31 kartonage Resolved: This is not related to OpenStreetMap. Contact your third party app provider (or the service that led you here). OpenStreetMap has no control over your location data nor is there any meaningful data to add to the map in this note.</title>
-        <link>https://www.openstreetmap.org/note/3061598#c6556492</link>
-        <guid>https://www.openstreetmap.org/note/3061598#c6556492</guid>
-        <pubDate>Wed, 23 Feb 2022 07:31:48 +0000</pubDate>
       </item>
   </channel>
 </rss>
