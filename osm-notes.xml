@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Alsóváros, Szeged) / * 2022 February 1 07:19 Matyjace Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;Pub is closed&amp;quot; / * 2022 February 28 12:44 gabro00 Resolved: Thanks! Removed in https://www.openstreetmap.org/changeset/117943468</title>
+        <link>https://www.openstreetmap.org/note/3032920#c6571483</link>
+        <guid>https://www.openstreetmap.org/note/3032920#c6571483</guid>
+        <pubDate>Mon, 28 Feb 2022 12:44:07 +0000</pubDate>
+      </item><item>
         <title>reactivated note (near József Attila-lakótelep, 9th district) / * 2022 February 27 14:05 Hungarian_user Created: Unable to answer &amp;quot;Does this crosswalk have tactile pavings on both sides?&amp;quot; for https://osm.org/node/1018969769 via StreetComplete 40.2: / Nem zebra / * 2022 February 27 20:18 infeeeee Resolved: Szia / Ezekről a jegyzeteidről már beszéltünk, hogy de, az egy jelöletlen gyalogátkelő a villamos síneken keresztül. / Nem is zebrát kérdezett a streetcomplete hanem gyalogosátkelőt. / Ettől függetlenül a pont hibás, mert railway=tram_crossing-nak kéne lennie, aminél ugyancsak vakvezető burkolat. Megcsinálva itt: https://www.openstreetmap.org/changeset/117920926 / * 2022 February 28 03:47 Hungarian_user Reactivated: Mi a különbség zebra és gyalogátkelő között? A &amp;quot;zebra&amp;quot; szót a rövidsége miatt szoktam írni. / A pontot nem én hoztam létre, úgyhogy nekem hiába írod, hogy &amp;quot;hibás&amp;quot;. SC-vel amúgy sem lehet létrehozni.</title>
         <link>https://www.openstreetmap.org/note/3067225#c6570427</link>
         <guid>https://www.openstreetmap.org/note/3067225#c6570427</guid>
@@ -162,36 +167,6 @@
         <link>https://www.openstreetmap.org/note/3065806#c6565921</link>
         <guid>https://www.openstreetmap.org/note/3065806#c6565921</guid>
         <pubDate>Sat, 26 Feb 2022 15:58:06 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Csepel-Gyártelep, 21st district) / * 2022 February 26 15:54 Hungarian_user Resolved: létrehoztam</title>
-        <link>https://www.openstreetmap.org/note/3065797#c6565906</link>
-        <guid>https://www.openstreetmap.org/note/3065797#c6565906</guid>
-        <pubDate>Sat, 26 Feb 2022 15:54:59 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Csepel-Gyártelep, 21st district) / * 2022 February 26 15:54 Hungarian_user Resolved: létrehoztam</title>
-        <link>https://www.openstreetmap.org/note/3065800#c6565905</link>
-        <guid>https://www.openstreetmap.org/note/3065800#c6565905</guid>
-        <pubDate>Sat, 26 Feb 2022 15:54:11 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Csepel-Gyártelep, 21st district) / * 2022 February 26 15:53 Hungarian_user Resolved: valahol itt van a bejárat</title>
-        <link>https://www.openstreetmap.org/note/3065801#c6565899</link>
-        <guid>https://www.openstreetmap.org/note/3065801#c6565899</guid>
-        <pubDate>Sat, 26 Feb 2022 15:53:31 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Csepel-Gyártelep, 21st district) / * 2022 February 26 15:53 Hungarian_user Resolved: létrehoztam</title>
-        <link>https://www.openstreetmap.org/note/3065796#c6565898</link>
-        <guid>https://www.openstreetmap.org/note/3065796#c6565898</guid>
-        <pubDate>Sat, 26 Feb 2022 15:53:01 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Csepel-Gyártelep, 21st district) / * 2022 February 26 15:51 Hungarian_user Resolved: létrehoztam</title>
-        <link>https://www.openstreetmap.org/note/3065794#c6565894</link>
-        <guid>https://www.openstreetmap.org/note/3065794#c6565894</guid>
-        <pubDate>Sat, 26 Feb 2022 15:51:21 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Csepel-Gyártelep, 21st district) / * 2022 February 26 15:50 Hungarian_user Resolved: létrehozva</title>
-        <link>https://www.openstreetmap.org/note/3065807#c6565892</link>
-        <guid>https://www.openstreetmap.org/note/3065807#c6565892</guid>
-        <pubDate>Sat, 26 Feb 2022 15:50:07 +0000</pubDate>
       </item>
   </channel>
 </rss>
