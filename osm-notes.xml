@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>reactivated note (near József Attila-lakótelep, 9th district) / * 2022 February 27 14:05 Hungarian_user Created: Unable to answer &amp;quot;Does this crosswalk have tactile pavings on both sides?&amp;quot; for https://osm.org/node/1018969769 via StreetComplete 40.2: / Nem zebra / * 2022 February 27 20:18 infeeeee Resolved: Szia / Ezekről a jegyzeteidről már beszéltünk, hogy de, az egy jelöletlen gyalogátkelő a villamos síneken keresztül. / Nem is zebrát kérdezett a streetcomplete hanem gyalogosátkelőt. / Ettől függetlenül a pont hibás, mert railway=tram_crossing-nak kéne lennie, aminél ugyancsak vakvezető burkolat. Megcsinálva itt: https://www.openstreetmap.org/changeset/117920926 / * 2022 February 28 03:47 Hungarian_user Reactivated: Mi a különbség zebra és gyalogátkelő között? A &amp;quot;zebra&amp;quot; szót a rövidsége miatt szoktam írni. / A pontot nem én hoztam létre, úgyhogy nekem hiába írod, hogy &amp;quot;hibás&amp;quot;. SC-vel amúgy sem lehet létrehozni.</title>
+        <link>https://www.openstreetmap.org/note/3067225#c6570427</link>
+        <guid>https://www.openstreetmap.org/note/3067225#c6570427</guid>
+        <pubDate>Mon, 28 Feb 2022 03:47:55 +0000</pubDate>
+      </item><item>
         <title>closed note (near Kisboz, Fertőboz) / * 2021 March 3 14:19 Created: Parkolási lehetőség / * 2021 March 11 09:40 vasony Updated: csak akkor jelölném ha szabályos itt parkolni, ellenőrizendő, műholdképen nem látok dedikált parkolót. / * 2022 February 27 21:50 efi99 Resolved: Nem parkoló, üres telek.</title>
         <link>https://www.openstreetmap.org/note/2564439#c6570051</link>
         <guid>https://www.openstreetmap.org/note/2564439#c6570051</guid>
@@ -187,11 +192,6 @@
         <link>https://www.openstreetmap.org/note/3065807#c6565892</link>
         <guid>https://www.openstreetmap.org/note/3065807#c6565892</guid>
         <pubDate>Sat, 26 Feb 2022 15:50:07 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Csepel-Gyártelep, 21st district) / * 2022 February 26 15:48 Hungarian_user Resolved: átírtam</title>
-        <link>https://www.openstreetmap.org/note/3065802#c6565890</link>
-        <guid>https://www.openstreetmap.org/note/3065802#c6565890</guid>
-        <pubDate>Sat, 26 Feb 2022 15:48:38 +0000</pubDate>
       </item>
   </channel>
 </rss>
