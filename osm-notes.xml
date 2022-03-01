@@ -3,6 +3,36 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Gellérthegy, 11th district) / * 2022 March 1 15:19 Created: also cafe there</title>
+        <link>https://www.openstreetmap.org/note/3069623#c6574794</link>
+        <guid>https://www.openstreetmap.org/note/3069623#c6574794</guid>
+        <pubDate>Tue, 01 Mar 2022 15:19:12 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Gyulafirátót, Veszprém) / * 2022 March 1 14:53 wertol Updated: Érdekes. Az streetview-t nézve az utca elején a kereszteződésben egyértelműen Kastélykert utca van kiírva a táblára, de a balra lévő 4-es házon, mintha csak sima Kastély lenne. A 7-es épület kerítésén és az utolsó épületek falán és kerítésén is csak Kastélyt látok. A kis murvás utca nevét nehezen lehet kiolvasni a tábláról, de a Kastély szó azért megvan, a maradék olvashatatlan rész lehet a kert szó talán... És akkor ezek szerint ez a kis utca lenne a Kastélykert, míg a betonozott hosszú utca meg a sima Kastély. Azt nem hinném, hogy a hosszú utca csak félig lenne Kastély, az első nagyobb kereszteződésig, majd onnan meg Kastélykert néven futna tovább. Ha így lenne, akkor a házszámozás is kezdődne elölről, de erre nem látok jelet, mert az utolsó ház balra, ahol a piros autó áll, az a 40-es házszámot viseli. Ha lesz időm, hétvégén majd lehet, hogy kimegyek arra, aztán megnézem, hogy mi az igazság.</title>
+        <link>https://www.openstreetmap.org/note/3052512#c6574766</link>
+        <guid>https://www.openstreetmap.org/note/3052512#c6574766</guid>
+        <pubDate>Tue, 01 Mar 2022 14:53:25 +0000</pubDate>
+      </item><item>
+        <title>new note (near Hidegség) / * 2022 March 1 14:49 efi99 Created: utca, házszám?</title>
+        <link>https://www.openstreetmap.org/note/3069599#c6574752</link>
+        <guid>https://www.openstreetmap.org/note/3069599#c6574752</guid>
+        <pubDate>Tue, 01 Mar 2022 14:49:57 +0000</pubDate>
+      </item><item>
+        <title>new note (near Hévíz) / * 2022 March 1 14:46 Matyjace Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;Closed&amp;quot;</title>
+        <link>https://www.openstreetmap.org/note/3069591#c6574742</link>
+        <guid>https://www.openstreetmap.org/note/3069591#c6574742</guid>
+        <pubDate>Tue, 01 Mar 2022 14:46:19 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Wekerletelep, 19th district) / * 2022 March 1 14:45 Hungarian_user Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3069448#c6574740</link>
+        <guid>https://www.openstreetmap.org/note/3069448#c6574740</guid>
+        <pubDate>Tue, 01 Mar 2022 14:45:54 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Wekerletelep, 19th district) / * 2022 February 8 14:16 Hungarian_user Created: itt nincs tűzcsap, csak az utca túloldalán, de az már térképen van. / * 2022 February 14 22:49 infeeeee Updated: Ez itt elvileg egy földalatti tűzcsap, fire_hydrant:type=underground. Az is biztos nincs itt? Erről a pontról van szó: https://www.openstreetmap.org/node/2961610014 / * 2022 February 15 05:03 Hungarian_user Updated: Ezt még 1x megnézem. Első alkalommal nem vizsgáltam át a területet annyira tüzetesen. Ha kvázi be van temetve földdel, akkor nem fogom megtalálni. / * 2022 March 1 14:45 Hungarian_user Resolved: Szabad szemmel nem látható, kerek vasfedél biztosan nincs. Egy szögletes, bordázott fedelet találtam, ami alatt vízcsap elzáró szerelvénye szokott lenni, de semmi felirat vagy jelzés nincs rajta.</title>
+        <link>https://www.openstreetmap.org/note/3042142#c6574739</link>
+        <guid>https://www.openstreetmap.org/note/3042142#c6574739</guid>
+        <pubDate>Tue, 01 Mar 2022 14:45:46 +0000</pubDate>
+      </item><item>
         <title>new note (near Wekerletelep, 19th district) / * 2022 March 1 13:11 Hungarian_user Created: talán itt lehet a tűzcsap, egy elzáró szerelvény van a földben</title>
         <link>https://www.openstreetmap.org/note/3069448#c6574489</link>
         <guid>https://www.openstreetmap.org/note/3069448#c6574489</guid>
@@ -107,41 +137,6 @@
         <link>https://www.openstreetmap.org/note/3032920#c6571483</link>
         <guid>https://www.openstreetmap.org/note/3032920#c6571483</guid>
         <pubDate>Mon, 28 Feb 2022 12:44:07 +0000</pubDate>
-      </item><item>
-        <title>reactivated note (near József Attila-lakótelep, 9th district) / * 2022 February 27 14:05 Hungarian_user Created: Unable to answer &amp;quot;Does this crosswalk have tactile pavings on both sides?&amp;quot; for https://osm.org/node/1018969769 via StreetComplete 40.2: / Nem zebra / * 2022 February 27 20:18 infeeeee Resolved: Szia / Ezekről a jegyzeteidről már beszéltünk, hogy de, az egy jelöletlen gyalogátkelő a villamos síneken keresztül. / Nem is zebrát kérdezett a streetcomplete hanem gyalogosátkelőt. / Ettől függetlenül a pont hibás, mert railway=tram_crossing-nak kéne lennie, aminél ugyancsak vakvezető burkolat. Megcsinálva itt: https://www.openstreetmap.org/changeset/117920926 / * 2022 February 28 03:47 Hungarian_user Reactivated: Mi a különbség zebra és gyalogátkelő között? A &amp;quot;zebra&amp;quot; szót a rövidsége miatt szoktam írni. / A pontot nem én hoztam létre, úgyhogy nekem hiába írod, hogy &amp;quot;hibás&amp;quot;. SC-vel amúgy sem lehet létrehozni.</title>
-        <link>https://www.openstreetmap.org/note/3067225#c6570427</link>
-        <guid>https://www.openstreetmap.org/note/3067225#c6570427</guid>
-        <pubDate>Mon, 28 Feb 2022 03:47:55 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Kisboz, Fertőboz) / * 2021 March 3 14:19 Created: Parkolási lehetőség / * 2021 March 11 09:40 vasony Updated: csak akkor jelölném ha szabályos itt parkolni, ellenőrizendő, műholdképen nem látok dedikált parkolót. / * 2022 February 27 21:50 efi99 Resolved: Nem parkoló, üres telek.</title>
-        <link>https://www.openstreetmap.org/note/2564439#c6570051</link>
-        <guid>https://www.openstreetmap.org/note/2564439#c6570051</guid>
-        <pubDate>Sun, 27 Feb 2022 21:50:34 +0000</pubDate>
-      </item><item>
-        <title>new note (near Fertőboz) / * 2022 February 27 21:49 efi99 Created: 61 b, c ?</title>
-        <link>https://www.openstreetmap.org/note/3067780#c6570049</link>
-        <guid>https://www.openstreetmap.org/note/3067780#c6570049</guid>
-        <pubDate>Sun, 27 Feb 2022 21:49:13 +0000</pubDate>
-      </item><item>
-        <title>closed note (near József Attila-lakótelep, 9th district) / * 2022 February 27 20:18 infeeeee Resolved: Szia / Ezekről a jegyzeteidről már beszéltünk, hogy de, az egy jelöletlen gyalogátkelő a villamos síneken keresztül. / Nem is zebrát kérdezett a streetcomplete hanem gyalogosátkelőt. / Ettől függetlenül a pont hibás, mert railway=tram_crossing-nak kéne lennie, aminél ugyancsak vakvezető burkolat. Megcsinálva itt: https://www.openstreetmap.org/changeset/117920926</title>
-        <link>https://www.openstreetmap.org/note/3067225#c6569904</link>
-        <guid>https://www.openstreetmap.org/note/3067225#c6569904</guid>
-        <pubDate>Sun, 27 Feb 2022 20:18:40 +0000</pubDate>
-      </item><item>
-        <title>closed note (near József Attila-lakótelep, 9th district) / * 2022 February 13 18:34 Created: Here are two new lifts to the / platforms of the metro station, / opened in late 2021. / * 2022 February 27 20:09 Hungarian_user Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3050369#c6569887</link>
-        <guid>https://www.openstreetmap.org/note/3050369#c6569887</guid>
-        <pubDate>Sun, 27 Feb 2022 20:09:00 +0000</pubDate>
-      </item><item>
-        <title>closed note (near József Attila-lakótelep, 9th district) / * 2022 February 27 20:08 Hungarian_user Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3067255#c6569886</link>
-        <guid>https://www.openstreetmap.org/note/3067255#c6569886</guid>
-        <pubDate>Sun, 27 Feb 2022 20:08:53 +0000</pubDate>
-      </item><item>
-        <title>closed note (near József Attila-lakótelep, 9th district) / * 2022 February 27 20:08 Hungarian_user Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3067254#c6569885</link>
-        <guid>https://www.openstreetmap.org/note/3067254#c6569885</guid>
-        <pubDate>Sun, 27 Feb 2022 20:08:49 +0000</pubDate>
       </item>
   </channel>
 </rss>
