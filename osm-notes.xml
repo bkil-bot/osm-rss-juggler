@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near József Attila-lakótelep, 9th district) / * 2022 February 27 14:05 Hungarian_user Created: Unable to answer &amp;quot;Does this crosswalk have tactile pavings on both sides?&amp;quot; for https://osm.org/node/1018969769 via StreetComplete 40.2: / Nem zebra / * 2022 February 27 20:18 infeeeee Resolved: Szia / Ezekről a jegyzeteidről már beszéltünk, hogy de, az egy jelöletlen gyalogátkelő a villamos síneken keresztül. / Nem is zebrát kérdezett a streetcomplete hanem gyalogosátkelőt. / Ettől függetlenül a pont hibás, mert railway=tram_crossing-nak kéne lennie, aminél ugyancsak vakvezető burkolat. Megcsinálva itt: https://www.openstreetmap.org/changeset/117920926 / * 2022 February 28 03:47 Hungarian_user Reactivated: Mi a különbség zebra és gyalogátkelő között? A &amp;quot;zebra&amp;quot; szót a rövidsége miatt szoktam írni. / A pontot nem én hoztam létre, úgyhogy nekem hiába írod, hogy &amp;quot;hibás&amp;quot;. SC-vel amúgy sem lehet létrehozni. / * 2022 March 6 17:50 infeeeee Resolved: Ha ugyanúgy használod, akkor nincs különbség, de akkor viszont de, ez egy zebra, azaz jelöletlen gyalogátkelő, nézd meg a képeket: https://wiki.openstreetmap.org/wiki/Tag:crossing%3Dunmarked / Van egy gyalogút és egy nem gyalogút. ami keresztezi egymást, az mindig gyalogátkelő, attól függetlenül, hogy látszik-e a valóságban. Vagy szerinted minek kellene itt lennie? / Ha kitörlöd az utat ami összeköti a két megállót, akkor a gyalogos útvonaltervezők körbe küldenek, mert azt hiszik, itt nem lehet átmenni, ami nem felel meg a valóságnak. Ha pontról leveszed a címkéket, akkor meg minden ellenőrző nyavalyogni fog, hogy ennek nincs értelme. / A címkézési problémát megoldottam, ez a jegyzet zárható.</title>
+        <link>https://www.openstreetmap.org/note/3067225#c6590833</link>
+        <guid>https://www.openstreetmap.org/note/3067225#c6590833</guid>
+        <pubDate>Sun, 06 Mar 2022 17:50:17 +0000</pubDate>
+      </item><item>
         <title>new note (near Pinnye) / * 2022 March 6 13:03 efi99 Created: 7?</title>
         <link>https://www.openstreetmap.org/note/3076582#c6589620</link>
         <guid>https://www.openstreetmap.org/note/3076582#c6589620</guid>
@@ -207,51 +212,6 @@
         <link>https://www.openstreetmap.org/note/3020490#c6584243</link>
         <guid>https://www.openstreetmap.org/note/3020490#c6584243</guid>
         <pubDate>Fri, 04 Mar 2022 17:04:59 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Házhely, Kapuvár) / * 2022 January 30 12:43 efi99 Created: 6? / * 2022 March 4 17:03 efi99 Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3030918#c6584238</link>
-        <guid>https://www.openstreetmap.org/note/3030918#c6584238</guid>
-        <pubDate>Fri, 04 Mar 2022 17:03:04 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Városközpont, Kapuvár) / * 2022 March 4 16:50 efi99 Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3027307#c6584199</link>
-        <guid>https://www.openstreetmap.org/note/3027307#c6584199</guid>
-        <pubDate>Fri, 04 Mar 2022 16:50:35 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Városközpont, Kapuvár) / * 2022 January 27 23:01 efi99 Created: Ez is 1 ? / * 2022 March 4 16:50 efi99 Updated: 1</title>
-        <link>https://www.openstreetmap.org/note/3027307#c6584195</link>
-        <guid>https://www.openstreetmap.org/note/3027307#c6584195</guid>
-        <pubDate>Fri, 04 Mar 2022 16:50:30 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Garta, Kapuvár) / * 2022 January 26 18:54 efi99 Created: Vagy 1/1 ? / * 2022 March 4 16:47 efi99 Resolved: 1/1</title>
-        <link>https://www.openstreetmap.org/note/3025599#c6584183</link>
-        <guid>https://www.openstreetmap.org/note/3025599#c6584183</guid>
-        <pubDate>Fri, 04 Mar 2022 16:47:38 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Garta, Kapuvár) / * 2022 January 26 18:54 efi99 Created: Vagy 1/2 ? / * 2022 March 4 16:47 efi99 Resolved: 1/2</title>
-        <link>https://www.openstreetmap.org/note/3025600#c6584181</link>
-        <guid>https://www.openstreetmap.org/note/3025600#c6584181</guid>
-        <pubDate>Fri, 04 Mar 2022 16:47:27 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Garta, Kapuvár) / * 2022 January 27 16:01 efi99 Created: Vagy 15 ? / * 2022 March 4 16:39 efi99 Resolved: 17</title>
-        <link>https://www.openstreetmap.org/note/3026886#c6584137</link>
-        <guid>https://www.openstreetmap.org/note/3026886#c6584137</guid>
-        <pubDate>Fri, 04 Mar 2022 16:39:26 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Garta, Kapuvár) / * 2022 January 27 16:01 efi99 Created: 15? / * 2022 March 4 16:36 efi99 Resolved: 15</title>
-        <link>https://www.openstreetmap.org/note/3026888#c6584115</link>
-        <guid>https://www.openstreetmap.org/note/3026888#c6584115</guid>
-        <pubDate>Fri, 04 Mar 2022 16:36:43 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Garta, Kapuvár) / * 2022 January 26 21:48 efi99 Created: 54/B ? / * 2022 March 4 16:31 efi99 Resolved: 54c</title>
-        <link>https://www.openstreetmap.org/note/3025734#c6584097</link>
-        <guid>https://www.openstreetmap.org/note/3025734#c6584097</guid>
-        <pubDate>Fri, 04 Mar 2022 16:31:39 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Garta, Kapuvár) / * 2022 January 26 21:47 efi99 Created: 54/A / * 2022 March 4 16:31 efi99 Resolved: 54b</title>
-        <link>https://www.openstreetmap.org/note/3025733#c6584094</link>
-        <guid>https://www.openstreetmap.org/note/3025733#c6584094</guid>
-        <pubDate>Fri, 04 Mar 2022 16:31:01 +0000</pubDate>
       </item>
   </channel>
 </rss>
