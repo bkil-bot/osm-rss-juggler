@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>Introducing #Imagico’s #TagDoc project. As an alternative to #OpenStreetMap Wiki, TagDoc wants to be a “centralized, authoritative system of attributes and rules, developed and imposed by some centralized bureaucracy” (sic), aiming to “document the de facto meaning of tags”. http://blog.imagico.de/introducing-the-tagdoc-project/</title>
+        <link>https://en.osm.town/@Doudouosm/107916918242840879</link>
+        <guid>https://en.osm.town/@Doudouosm/107916918242840879</guid>
+        <pubDate>Mon, 07 Mar 2022 19:31:31 +0000</pubDate>
+      </item><item>
         <title>Call for speakers and demos. On April 29th, #OpenKnowledge is organizing Open #Belgium 2022, the yearly conference (physical and online) about all things open. It also functions as a State of the Map Belgium, so count on a heavy #OpenStreetMap presence. https://2022.openbelgium.be</title>
         <link>https://en.osm.town/@Doudouosm/107916350735090532</link>
         <guid>https://en.osm.town/@Doudouosm/107916350735090532</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/107164209451151135</link>
         <guid>https://en.osm.town/@Doudouosm/107164209451151135</guid>
         <pubDate>Mon, 25 Oct 2021 21:07:47 +0000</pubDate>
-      </item><item>
-        <title>What does it mean for a #map to be high quality? According to #TomTom: 1. It must look great (display quality) 2. It must have great routing (data quality) 3. It must be searchable for what you want (geocoding quality) https://www.tomtom.com/blog/maps/the-battle-for-quality-maps/ #OpenStreetMap</title>
-        <link>https://en.osm.town/@Doudouosm/107163540191166404</link>
-        <guid>https://en.osm.town/@Doudouosm/107163540191166404</guid>
-        <pubDate>Mon, 25 Oct 2021 18:17:34 +0000</pubDate>
       </item>
   </channel>
 </rss>
