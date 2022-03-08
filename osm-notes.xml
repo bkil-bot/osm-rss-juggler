@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Erzsébetfalva, 20th district) / * 2022 March 8 07:10 Hungarian_user Created: Unable to answer &amp;quot;What is the name of this pedestrian street?&amp;quot; for https://osm.org/way/1029051430 via StreetComplete 41.1: / Szökőkút körüli gyalogút, nincs neve, nem utca.</title>
+        <link>https://www.openstreetmap.org/note/3078753#c6595371</link>
+        <guid>https://www.openstreetmap.org/note/3078753#c6595371</guid>
+        <pubDate>Tue, 08 Mar 2022 07:10:39 +0000</pubDate>
+      </item><item>
         <title>new note (near Déli intézményközpont, Veszprém) / * 2022 March 8 01:37 wertol Created: Ez a körforgalom szerintem legalább húsz méterrel el van csúszva a valósághoz képest, lényegében az épületeket súrolja. Jó lenne valami rendesen beigazított légifelvételhez igazítani. / Én ID alatt szerkesztek, így nehezen tudok ekkora dolgokat korrigálni...</title>
         <link>https://www.openstreetmap.org/note/3078649#c6595012</link>
         <guid>https://www.openstreetmap.org/note/3078649#c6595012</guid>
@@ -207,11 +212,6 @@
         <link>https://www.openstreetmap.org/note/3059269#c6586906</link>
         <guid>https://www.openstreetmap.org/note/3059269#c6586906</guid>
         <pubDate>Sat, 05 Mar 2022 14:42:31 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Csillebérc, 12th district) / * 2022 January 7 08:55 vasony Created: Ez itt tényleg publikusan végigautózgató? / https://map.project-osrm.org/?z=17&amp;amp;center=47.487984%2C18.963979&amp;amp;loc=47.473707%2C18.991628&amp;amp;loc=47.486878%2C18.954399&amp;amp;hl=en&amp;amp;alt=0&amp;amp;srv=0 / * 2022 March 5 14:17 vasony Updated: terepjáróval maximum</title>
-        <link>https://www.openstreetmap.org/note/3000304#c6586827</link>
-        <guid>https://www.openstreetmap.org/note/3000304#c6586827</guid>
-        <pubDate>Sat, 05 Mar 2022 14:17:27 +0000</pubDate>
       </item>
   </channel>
 </rss>
