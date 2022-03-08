@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Kispatak-lakópark, Vecsés) / * 2022 March 8 19:36 Created: Ni lokasi siapaaaaa</title>
+        <link>https://www.openstreetmap.org/note/3079633#c6597210</link>
+        <guid>https://www.openstreetmap.org/note/3079633#c6597210</guid>
+        <pubDate>Tue, 08 Mar 2022 19:36:01 +0000</pubDate>
+      </item><item>
         <title>new note (near Csapod) / * 2022 March 8 17:27 efi99 Created: házszám?</title>
         <link>https://www.openstreetmap.org/note/3079524#c6596919</link>
         <guid>https://www.openstreetmap.org/note/3079524#c6596919</guid>
@@ -202,21 +207,6 @@
         <link>https://www.openstreetmap.org/note/3077154#c6591022</link>
         <guid>https://www.openstreetmap.org/note/3077154#c6591022</guid>
         <pubDate>Sun, 06 Mar 2022 19:07:38 +0000</pubDate>
-      </item><item>
-        <title>new note (near Szarvaskő) / * 2022 March 6 19:07 Created: 2. gyűjtési pont</title>
-        <link>https://www.openstreetmap.org/note/3077153#c6591021</link>
-        <guid>https://www.openstreetmap.org/note/3077153#c6591021</guid>
-        <pubDate>Sun, 06 Mar 2022 19:07:08 +0000</pubDate>
-      </item><item>
-        <title>new note (near Szarvaskő) / * 2022 March 6 19:06 Created: 1.gyűjtési pont</title>
-        <link>https://www.openstreetmap.org/note/3077152#c6591019</link>
-        <guid>https://www.openstreetmap.org/note/3077152#c6591019</guid>
-        <pubDate>Sun, 06 Mar 2022 19:06:39 +0000</pubDate>
-      </item><item>
-        <title>closed note (near József Attila-lakótelep, 9th district) / * 2022 February 27 14:05 Hungarian_user Created: Unable to answer &amp;quot;Does this crosswalk have tactile pavings on both sides?&amp;quot; for https://osm.org/node/1018969769 via StreetComplete 40.2: / Nem zebra / * 2022 February 27 20:18 infeeeee Resolved: Szia / Ezekről a jegyzeteidről már beszéltünk, hogy de, az egy jelöletlen gyalogátkelő a villamos síneken keresztül. / Nem is zebrát kérdezett a streetcomplete hanem gyalogosátkelőt. / Ettől függetlenül a pont hibás, mert railway=tram_crossing-nak kéne lennie, aminél ugyancsak vakvezető burkolat. Megcsinálva itt: https://www.openstreetmap.org/changeset/117920926 / * 2022 February 28 03:47 Hungarian_user Reactivated: Mi a különbség zebra és gyalogátkelő között? A &amp;quot;zebra&amp;quot; szót a rövidsége miatt szoktam írni. / A pontot nem én hoztam létre, úgyhogy nekem hiába írod, hogy &amp;quot;hibás&amp;quot;. SC-vel amúgy sem lehet létrehozni. / * 2022 March 6 17:50 infeeeee Resolved: Ha ugyanúgy használod, akkor nincs különbség, de akkor viszont de, ez egy zebra, azaz jelöletlen gyalogátkelő, nézd meg a képeket: https://wiki.openstreetmap.org/wiki/Tag:crossing%3Dunmarked / Van egy gyalogút és egy nem gyalogút. ami keresztezi egymást, az mindig gyalogátkelő, attól függetlenül, hogy látszik-e a valóságban. Vagy szerinted minek kellene itt lennie? / Ha kitörlöd az utat ami összeköti a két megállót, akkor a gyalogos útvonaltervezők körbe küldenek, mert azt hiszik, itt nem lehet átmenni, ami nem felel meg a valóságnak. Ha pontról leveszed a címkéket, akkor meg minden ellenőrző nyavalyogni fog, hogy ennek nincs értelme. / A címkézési problémát megoldottam, ez a jegyzet zárható.</title>
-        <link>https://www.openstreetmap.org/note/3067225#c6590833</link>
-        <guid>https://www.openstreetmap.org/note/3067225#c6590833</guid>
-        <pubDate>Sun, 06 Mar 2022 17:50:17 +0000</pubDate>
       </item>
   </channel>
 </rss>
