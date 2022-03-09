@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Terézváros, 6th district) / * 2022 March 9 12:02 grozsa11 Created: A parkoloautomatát ki kell majd huzni az Aradi-Székelyb sarkára (ha ott csakugyan n tartalmaz még az osm egyet). A SzékelyB-től távolabbi járdára a székelyb középvonalába. / via StreetComplete 41.1</title>
+        <link>https://www.openstreetmap.org/note/3080324#c6598920</link>
+        <guid>https://www.openstreetmap.org/note/3080324#c6598920</guid>
+        <pubDate>Wed, 09 Mar 2022 12:02:17 +0000</pubDate>
+      </item><item>
+        <title>new note (near Terézváros, 6th district) / * 2022 March 9 11:58 grozsa11 Created: Unable to answer &amp;quot;Is 120 (Parking Ticket Vending Machine) still here?&amp;quot; for https://osm.org/node/4234981411 via StreetComplete 41.1: / Ez egy zárt bérház,  amiben nincsen értelme parkoloautomatának. Nyilván valahonnann idetévedt... És a ház előtti utcában sincsen egy automata sem.</title>
+        <link>https://www.openstreetmap.org/note/3080313#c6598904</link>
+        <guid>https://www.openstreetmap.org/note/3080313#c6598904</guid>
+        <pubDate>Wed, 09 Mar 2022 11:58:40 +0000</pubDate>
+      </item><item>
         <title>closed note (near Kúttó, 10th district) / * 2022 February 2 09:26 Matyjace Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;road already exist and you can use it&amp;quot; / * 2022 March 9 09:38 Hungarian_user Resolved: felrajzolva</title>
         <link>https://www.openstreetmap.org/note/3034542#c6598663</link>
         <guid>https://www.openstreetmap.org/note/3034542#c6598663</guid>
@@ -187,21 +197,6 @@
         <link>https://www.openstreetmap.org/note/2407503#c6591198</link>
         <guid>https://www.openstreetmap.org/note/2407503#c6591198</guid>
         <pubDate>Sun, 06 Mar 2022 20:28:21 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Szarvaskő) / * 2022 March 6 20:25 urbalazs Resolved: Ez a funkció a térkép hibáinak jelzésére szolgál. Magánjellegű információk tárolásához nem használható.</title>
-        <link>https://www.openstreetmap.org/note/3077158#c6591190</link>
-        <guid>https://www.openstreetmap.org/note/3077158#c6591190</guid>
-        <pubDate>Sun, 06 Mar 2022 20:25:18 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Szarvaskő) / * 2022 March 6 20:25 urbalazs Resolved: Ez a funkció a térkép hibáinak jelzésére szolgál. Magánjellegű információk tárolásához nem használható.</title>
-        <link>https://www.openstreetmap.org/note/3077156#c6591189</link>
-        <guid>https://www.openstreetmap.org/note/3077156#c6591189</guid>
-        <pubDate>Sun, 06 Mar 2022 20:25:11 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Szarvaskő) / * 2022 March 6 20:25 urbalazs Resolved: Ez a funkció a térkép hibáinak jelzésére szolgál. Magánjellegű információk tárolásához nem használható.</title>
-        <link>https://www.openstreetmap.org/note/3077155#c6591188</link>
-        <guid>https://www.openstreetmap.org/note/3077155#c6591188</guid>
-        <pubDate>Sun, 06 Mar 2022 20:25:05 +0000</pubDate>
       </item>
   </channel>
 </rss>
