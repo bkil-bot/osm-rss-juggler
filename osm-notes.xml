@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Városközpont, Kapuvár) / * 2022 January 28 15:25 efi99 Created: ? / * 2022 March 10 15:12 efi99 Resolved: Ady E 12</title>
+        <link>https://www.openstreetmap.org/note/3028177#c6603121</link>
+        <guid>https://www.openstreetmap.org/note/3028177#c6603121</guid>
+        <pubDate>Thu, 10 Mar 2022 15:12:06 +0000</pubDate>
+      </item><item>
         <title>new note (near Hidegség) / * 2022 March 10 10:11 efi99 Created: 5 v. 6 ?</title>
         <link>https://www.openstreetmap.org/note/3081910#c6601833</link>
         <guid>https://www.openstreetmap.org/note/3081910#c6601833</guid>
@@ -222,16 +227,6 @@
         <link>https://www.openstreetmap.org/note/3078386#c6594165</link>
         <guid>https://www.openstreetmap.org/note/3078386#c6594165</guid>
         <pubDate>Mon, 07 Mar 2022 17:09:12 +0000</pubDate>
-      </item><item>
-        <title>closed note (near City Park, 14th district) / * 2021 August 27 15:59 aTrooper Created: Unable to answer &amp;quot;What surface does this path have here?&amp;quot; for https://osm.org/way/923763497 via StreetComplete 33.2: / path does not exist / lawn / Attached photo(s): / https://westnordost.de/p/57080.jpg / * 2022 March 7 14:26 ITineris Resolved: Surveyed with RTK GNSS, took many photos, mapped.</title>
-        <link>https://www.openstreetmap.org/note/2823559#c6593632</link>
-        <guid>https://www.openstreetmap.org/note/2823559#c6593632</guid>
-        <pubDate>Mon, 07 Mar 2022 14:26:49 +0000</pubDate>
-      </item><item>
-        <title>closed note (near City Park, 14th district) / * 2021 August 27 15:59 aTrooper Created: Unable to answer &amp;quot;What surface does this path have here?&amp;quot; for https://osm.org/way/364790785 via StreetComplete 33.2: / path does not exist / lawn / * 2022 March 7 14:26 ITineris Resolved: Surveyed with RTK GNSS, took many photos, mapped.</title>
-        <link>https://www.openstreetmap.org/note/2823557#c6593631</link>
-        <guid>https://www.openstreetmap.org/note/2823557#c6593631</guid>
-        <pubDate>Mon, 07 Mar 2022 14:26:43 +0000</pubDate>
       </item>
   </channel>
 </rss>
