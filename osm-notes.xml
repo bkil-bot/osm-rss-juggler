@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Béke városrész, Dunaújváros) / * 2022 March 11 05:11 Arrabonfi Created: &amp;quot;Lobogó út&amp;quot; / OSM snapshot date: 2022-02-04T10:02:57Z / POI name: Lobogó utca / POI types: hwtag-lit psurface-paved_good hwtag-oneway highway-residential / #organicmaps</title>
+        <link>https://www.openstreetmap.org/note/3083283#c6604572</link>
+        <guid>https://www.openstreetmap.org/note/3083283#c6604572</guid>
+        <pubDate>Fri, 11 Mar 2022 05:11:00 +0000</pubDate>
+      </item><item>
+        <title>new note (near Béke városrész, Dunaújváros) / * 2022 March 11 05:11 Arrabonfi Created: &amp;quot;Lobogó út&amp;quot; / OSM snapshot date: 2022-02-04T10:02:57Z / POI name: Lobogó utca / POI types: psurface-paved_good highway-footway / #organicmaps</title>
+        <link>https://www.openstreetmap.org/note/3083282#c6604571</link>
+        <guid>https://www.openstreetmap.org/note/3083282#c6604571</guid>
+        <pubDate>Fri, 11 Mar 2022 05:11:00 +0000</pubDate>
+      </item><item>
         <title>new note (near Tőzeggyármajor, Fertőd) / * 2022 March 10 21:32 efi99 Created: házszám?</title>
         <link>https://www.openstreetmap.org/note/3083064#c6604131</link>
         <guid>https://www.openstreetmap.org/note/3083064#c6604131</guid>
@@ -272,11 +282,6 @@
         <link>https://www.openstreetmap.org/note/2823464#c6595554</link>
         <guid>https://www.openstreetmap.org/note/2823464#c6595554</guid>
         <pubDate>Tue, 08 Mar 2022 08:23:05 +0000</pubDate>
-      </item><item>
-        <title>new note (near Erzsébetfalva, 20th district) / * 2022 March 8 07:10 Hungarian_user Created: Unable to answer &amp;quot;What is the name of this pedestrian street?&amp;quot; for https://osm.org/way/1029051430 via StreetComplete 41.1: / Szökőkút körüli gyalogút, nincs neve, nem utca.</title>
-        <link>https://www.openstreetmap.org/note/3078753#c6595371</link>
-        <guid>https://www.openstreetmap.org/note/3078753#c6595371</guid>
-        <pubDate>Tue, 08 Mar 2022 07:10:39 +0000</pubDate>
       </item>
   </channel>
 </rss>
