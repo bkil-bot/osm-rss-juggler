@@ -3,6 +3,41 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Ágfalvaliget, Ágfalva) / * 2022 March 20 15:54 efi99 Created: házszám ?</title>
+        <link>https://www.openstreetmap.org/note/3095580#c6631809</link>
+        <guid>https://www.openstreetmap.org/note/3095580#c6631809</guid>
+        <pubDate>Sun, 20 Mar 2022 15:54:12 +0000</pubDate>
+      </item><item>
+        <title>new note (near Ágfalvaliget, Ágfalva) / * 2022 March 20 15:53 efi99 Created: Kert u 1/A ?</title>
+        <link>https://www.openstreetmap.org/note/3095578#c6631806</link>
+        <guid>https://www.openstreetmap.org/note/3095578#c6631806</guid>
+        <pubDate>Sun, 20 Mar 2022 15:53:25 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Lipótváros, 5th district) / * 2021 July 18 07:01 Mateusz Konieczny Created: https://www.openstreetmap.org/way/6064697/history - is it open or not? / It is right now mentioning being closed in description, marked as conbstruction finished but still with contruction tag... / Though I see access=no - is active construction (highway=construction construction=) complete and they put some finishing touches/inspecting while they keep it closed? / applies to all parts of the bridge / * 2021 July 18 09:51 ottwiz Updated: As far as i&amp;#39;m concerned, Széchenyi Lánchíd is closed because it&amp;#39;s getting renovated. There are some articles about it. / https://hungarytoday.hu/chain-bridge-renovation-closed-pedestrians-cars/ / * 2021 July 18 09:51 ottwiz Updated: Actually, it&amp;#39;s gonna stay closed for cars until 2022 and for pedestrian-bike traffic until 2023 / * 2021 July 19 05:11 Mateusz Konieczny Updated: I would set correct opening_date at https://www.openstreetmap.org/way/172699280#map=18/47.49901/19.04375&amp;amp;layers=N / https://wiki.openstreetmap.org/wiki/Key:opening%20date &amp;quot;An approximated date in the future when a construction will be finished&amp;quot; / Note that start_date=* is for what opening_date is used right now / * 2021 July 19 05:12 Mateusz Konieczny Updated: But start_date is also set so not sure how to resolve it... / * 2022 March 20 15:37 Hungarian_user Resolved: </title>
+        <link>https://www.openstreetmap.org/note/2759313#c6631779</link>
+        <guid>https://www.openstreetmap.org/note/2759313#c6631779</guid>
+        <pubDate>Sun, 20 Mar 2022 15:37:35 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Lipótváros, 5th district) / * 2022 March 20 15:33 Hungarian_user Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3095376#c6631773</link>
+        <guid>https://www.openstreetmap.org/note/3095376#c6631773</guid>
+        <pubDate>Sun, 20 Mar 2022 15:33:52 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Belváros, 5th district) / * 2022 March 20 15:25 Hungarian_user Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3033461#c6631741</link>
+        <guid>https://www.openstreetmap.org/note/3033461#c6631741</guid>
+        <pubDate>Sun, 20 Mar 2022 15:25:13 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Belváros, 5th district) / * 2022 February 20 15:03 Valdemartprg Created: Get Segway Budapest - segway tours agency / * 2022 February 20 15:04 Valdemartprg Resolved:  / * 2022 February 20 15:04 Valdemartprg Reactivated:  / * 2022 March 20 15:24 Hungarian_user Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3058956#c6631739</link>
+        <guid>https://www.openstreetmap.org/note/3058956#c6631739</guid>
+        <pubDate>Sun, 20 Mar 2022 15:24:24 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Belváros, 5th district) / * 2022 March 20 15:22 Hungarian_user Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3095348#c6631729</link>
+        <guid>https://www.openstreetmap.org/note/3095348#c6631729</guid>
+        <pubDate>Sun, 20 Mar 2022 15:22:03 +0000</pubDate>
+      </item><item>
         <title>new note (near Lipótváros, 5th district) / * 2022 March 20 14:08 Hungarian_user Created: Unable to answer &amp;quot;What is the name of this place? (Car Dealership)&amp;quot; for https://osm.org/node/6444626985 via StreetComplete 41.2: / Vicc</title>
         <link>https://www.openstreetmap.org/note/3095376#c6631497</link>
         <guid>https://www.openstreetmap.org/note/3095376#c6631497</guid>
