@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Ágfalva) / * 2022 March 24 17:16 efi99 Created: házszám?</title>
+        <link>https://www.openstreetmap.org/note/3101093#c6643870</link>
+        <guid>https://www.openstreetmap.org/note/3101093#c6643870</guid>
+        <pubDate>Thu, 24 Mar 2022 17:16:38 +0000</pubDate>
+      </item><item>
         <title>new comment (near City Park, 14th district) / * 2022 March 24 10:17 ITineris Updated: Én vagyok. Hülye iD.</title>
         <link>https://www.openstreetmap.org/note/3100557#c6642870</link>
         <guid>https://www.openstreetmap.org/note/3100557#c6642870</guid>
@@ -237,11 +242,6 @@
         <link>https://www.openstreetmap.org/note/1991560#c6635339</link>
         <guid>https://www.openstreetmap.org/note/1991560#c6635339</guid>
         <pubDate>Mon, 21 Mar 2022 19:47:19 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Palotanegyed, 8th district) / * 2022 February 8 13:16 grozsa11 Created: Elbontva ez a kis ház . Törölhető a térképről. / via StreetComplete 39.1 / * 2022 March 21 19:40 Hungarian_user Resolved: törölve - építési vagy felvonulási terület</title>
-        <link>https://www.openstreetmap.org/note/3042054#c6635309</link>
-        <guid>https://www.openstreetmap.org/note/3042054#c6635309</guid>
-        <pubDate>Mon, 21 Mar 2022 19:40:32 +0000</pubDate>
       </item>
   </channel>
 </rss>
