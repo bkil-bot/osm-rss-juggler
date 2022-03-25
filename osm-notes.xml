@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Nyárliget, Sarród) / * 2022 March 25 10:28 efi99 Created: házszám?</title>
+        <link>https://www.openstreetmap.org/note/3102456#c6646133</link>
+        <guid>https://www.openstreetmap.org/note/3102456#c6646133</guid>
+        <pubDate>Fri, 25 Mar 2022 10:28:05 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Fertőújlak, Sarród) / * 2022 January 7 20:47 efi99 Created: házszám? / * 2022 March 25 10:22 efi99 Resolved: Petőfi u 23/A része</title>
+        <link>https://www.openstreetmap.org/note/3001196#c6646123</link>
+        <guid>https://www.openstreetmap.org/note/3001196#c6646123</guid>
+        <pubDate>Fri, 25 Mar 2022 10:22:06 +0000</pubDate>
+      </item><item>
+        <title>new note (near Fertőújlak, Sarród) / * 2022 March 25 10:21 efi99 Created: 39?</title>
+        <link>https://www.openstreetmap.org/note/3102446#c6646122</link>
+        <guid>https://www.openstreetmap.org/note/3102446#c6646122</guid>
+        <pubDate>Fri, 25 Mar 2022 10:21:49 +0000</pubDate>
+      </item><item>
         <title>new note (near Szigetmonostor) / * 2022 March 25 08:38 sbelemey Created: Hi! / does this road pass here? it is not visible on satellites / #mapbox_linters_hungary</title>
         <link>https://www.openstreetmap.org/note/3102219#c6645783</link>
         <guid>https://www.openstreetmap.org/note/3102219#c6645783</guid>
@@ -237,16 +252,6 @@
         <link>https://www.openstreetmap.org/note/3097128#c6637173</link>
         <guid>https://www.openstreetmap.org/note/3097128#c6637173</guid>
         <pubDate>Tue, 22 Mar 2022 11:25:27 +0000</pubDate>
-      </item><item>
-        <title>new note (near Kiskundorozsma, Szeged) / * 2022 March 22 07:43 Beroesz Created: Itt valahol kerékpárút épült, fel kellene mérni. / https://hirado.hu/belfold/cikk/2022/03/22/elkeszult-a-szeged-bordany-kerekparut-hianyzo-szakasza</title>
-        <link>https://www.openstreetmap.org/note/3097644#c6636619</link>
-        <guid>https://www.openstreetmap.org/note/3097644#c6636619</guid>
-        <pubDate>Tue, 22 Mar 2022 07:43:12 +0000</pubDate>
-      </item><item>
-        <title>new note (near Zánka) / * 2022 March 22 07:10 Matyjace Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;there is not a Coop anymore.&amp;quot;</title>
-        <link>https://www.openstreetmap.org/note/3097615#c6636517</link>
-        <guid>https://www.openstreetmap.org/note/3097615#c6636517</guid>
-        <pubDate>Tue, 22 Mar 2022 07:10:02 +0000</pubDate>
       </item>
   </channel>
 </rss>
