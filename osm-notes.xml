@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Kispest, 19th district) / * 2022 March 19 13:59 Hungarian_user Created: 2db BKK-automata / * 2022 March 27 09:34 Hungarian_user Resolved: felrajzoltam</title>
+        <link>https://www.openstreetmap.org/note/3094131#c6652671</link>
+        <guid>https://www.openstreetmap.org/note/3094131#c6652671</guid>
+        <pubDate>Sun, 27 Mar 2022 09:34:59 +0000</pubDate>
+      </item><item>
         <title>closed note (near Ágfalva) / * 2022 March 24 17:16 efi99 Created: házszám? / * 2022 March 26 17:05 efi99 Resolved: 10</title>
         <link>https://www.openstreetmap.org/note/3101093#c6650433</link>
         <guid>https://www.openstreetmap.org/note/3101093#c6650433</guid>
@@ -237,11 +242,6 @@
         <link>https://www.openstreetmap.org/note/3094957#c6639382</link>
         <guid>https://www.openstreetmap.org/note/3094957#c6639382</guid>
         <pubDate>Wed, 23 Mar 2022 06:04:03 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Péterhegy, 11th district) / * 2022 March 19 17:57 utvonalfelmeresek Created: 39 / * 2022 March 23 05:24 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/118802353</title>
-        <link>https://www.openstreetmap.org/note/3094509#c6639362</link>
-        <guid>https://www.openstreetmap.org/note/3094509#c6639362</guid>
-        <pubDate>Wed, 23 Mar 2022 05:24:57 +0000</pubDate>
       </item>
   </channel>
 </rss>
