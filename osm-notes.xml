@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Zugliget, 12th district) / * 2022 March 28 18:44 Created: Invalid use of key &amp;quot;opening&amp;quot;. Please use &amp;quot;start_date&amp;quot; instead. / https://osm.org/node/5313127795</title>
+        <link>https://www.openstreetmap.org/note/3108761#c6657577</link>
+        <guid>https://www.openstreetmap.org/note/3108761#c6657577</guid>
+        <pubDate>Mon, 28 Mar 2022 18:44:18 +0000</pubDate>
+      </item><item>
         <title>new note (near Lövő) / * 2022 March 28 17:43 efi99 Created: 76/A</title>
         <link>https://www.openstreetmap.org/note/3108632#c6657364</link>
         <guid>https://www.openstreetmap.org/note/3108632#c6657364</guid>
@@ -212,11 +217,6 @@
         <link>https://www.openstreetmap.org/note/3001196#c6646123</link>
         <guid>https://www.openstreetmap.org/note/3001196#c6646123</guid>
         <pubDate>Fri, 25 Mar 2022 10:22:06 +0000</pubDate>
-      </item><item>
-        <title>new note (near Fertőújlak, Sarród) / * 2022 March 25 10:21 efi99 Created: 39?</title>
-        <link>https://www.openstreetmap.org/note/3102446#c6646122</link>
-        <guid>https://www.openstreetmap.org/note/3102446#c6646122</guid>
-        <pubDate>Fri, 25 Mar 2022 10:21:49 +0000</pubDate>
       </item>
   </channel>
 </rss>
