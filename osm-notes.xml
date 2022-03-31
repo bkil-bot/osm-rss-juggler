@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Kelenföld, 11th district) / * 2022 March 31 17:53 vasony Created: ez egy publikus játszótér?</title>
+        <link>https://www.openstreetmap.org/note/3114539#c6670429</link>
+        <guid>https://www.openstreetmap.org/note/3114539#c6670429</guid>
+        <pubDate>Thu, 31 Mar 2022 17:53:44 +0000</pubDate>
+      </item><item>
         <title>closed note (near Mánfa) / * 2022 March 31 17:07 kartonage Resolved: Feel free to provide meaningful information, otherwise this note does not contain anything to add to the map. Notes are publicly visible and meant for improvements and error corrections. Thanks.</title>
         <link>https://www.openstreetmap.org/note/3114496#c6670317</link>
         <guid>https://www.openstreetmap.org/note/3114496#c6670317</guid>
@@ -197,11 +202,6 @@
         <link>https://www.openstreetmap.org/note/3107830#c6655807</link>
         <guid>https://www.openstreetmap.org/note/3107830#c6655807</guid>
         <pubDate>Mon, 28 Mar 2022 09:02:06 +0000</pubDate>
-      </item><item>
-        <title>new note (near Zsórifürdő, Mezőkövesd) / * 2022 March 28 08:59 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: There&amp;#39;s a typo in the name. The right one should be &amp;#39;Zsóry Fürdő&amp;#39;. / https://www.openstreetmap.org/node/1144973374</title>
-        <link>https://www.openstreetmap.org/note/3107827#c6655803</link>
-        <guid>https://www.openstreetmap.org/note/3107827#c6655803</guid>
-        <pubDate>Mon, 28 Mar 2022 08:59:37 +0000</pubDate>
       </item>
   </channel>
 </rss>
