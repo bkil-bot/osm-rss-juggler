@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Kismet drone on Linksys WRT54GL?: I've just dusted off two Linksys WRT54GL, and noticed some older posts enthusiastic about their radio capabilities. However, for setting up Kismet on this hardware, I only found decade-old instructions and Kismet MIPS binaries from 2004... Has anybody recently set up a WRT54GL as a Kismet drone and could give me some pointers? Thanks. -qascnjzd</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2929&amp;p=11207#p11207</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2929&amp;p=11207#p11207</guid>
+        <pubDate>2022-04-05T21:33:14</pubDate>
+      </item><item>
         <title>Re: Has anyone run WiGLE inside the windows 11 android subsystem?: I was afraid of that. Thanks for responding. -blackbirdactual</title>
         <link>https://wigle.net/phpbb/viewtopic.php?t=2922&amp;p=11188#p11188</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2922&amp;p=11188#p11188</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?t=2912&amp;p=11144#p11144</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2912&amp;p=11144#p11144</guid>
         <pubDate>2022-01-06T23:54:05</pubDate>
-      </item><item>
-        <title>Re: WiGLE WiFi for Android phone performance comparison: The sleep when hopping between channels might not correlate well with the gain of the antenna, the noise within the LNA chain, the sensitivity of the radio, the selectivity of the tuner and its noise rejection characteristics. There is no substitute for predicting how well a given device will perform when scanning given a certain path &amp;amp; mobility choice - just count how many each of them gather. Retrace the exact same path multiple times (at least 3-5) while shuffling the position of the devices within the vehicle and then correlate between them to see repeatability. What might be also interesting to track is how much juice each of those consumes while scanning both in absolute terms (W, to predict heating) and in relative terms (% of battery/hour). By the way, could we perhaps have a button for reporting abuse on every forum? That fits quite well the numbers I've observed on the devices. but it does not directly match as the S4 is a bit slower than the S7, but still gets more wifi... -kurz</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?t=2498&amp;p=11131#p11131</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?t=2498&amp;p=11131#p11131</guid>
-        <pubDate>2021-12-17T19:07:54</pubDate>
       </item>
   </channel>
 </rss>
