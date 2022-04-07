@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>#Facebook is running a survey to better understand your use of and contribution to #Mapillary: https://www.facebook.com/survey/?oid=332522592184448 #OpenStreetMap</title>
+        <link>https://en.osm.town/@Doudouosm/108091528080070779</link>
+        <guid>https://en.osm.town/@Doudouosm/108091528080070779</guid>
+        <pubDate>Thu, 07 Apr 2022 15:37:06 +0000</pubDate>
+      </item><item>
         <title>Do you have your #OpenStreetMap business cards with you when going field mapping? They can be handy to hand out to people who ask &amp;apos;what are you doing?&amp;apos; when they spotted you wandering around. - https://wiki.openstreetmap.org/wiki/Business_card - https://www.openstreetmap.org/user/LySioS/diary/398913 (in French)</title>
         <link>https://en.osm.town/@Doudouosm/108057872259862614</link>
         <guid>https://en.osm.town/@Doudouosm/108057872259862614</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/107371944964445904</link>
         <guid>https://en.osm.town/@Doudouosm/107371944964445904</guid>
         <pubDate>Wed, 01 Dec 2021 13:37:39 +0000</pubDate>
-      </item><item>
-        <title>A quick start guide to create a web map with the Python-based web framework Django using its module #GeoDjango, the PostgreSQL database with its spatial extension #PostGIS and #Leaflet, a JavaScript library for interactive maps. https://www.paulox.net/2021/07/19/maps-with-django-part-2-geodjango-postgis-and-leaflet/#maps-with-django-part-2-geodjango-postgis-and-leaflet</title>
-        <link>https://en.osm.town/@Doudouosm/107305868908807369</link>
-        <guid>https://en.osm.town/@Doudouosm/107305868908807369</guid>
-        <pubDate>Fri, 19 Nov 2021 21:33:38 +0000</pubDate>
       </item>
   </channel>
 </rss>
