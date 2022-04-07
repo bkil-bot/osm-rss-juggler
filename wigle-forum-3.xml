@@ -3,7 +3,12 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
-        <title>Kismet drone on Linksys WRT54GL?: I've just dusted off two Linksys WRT54GL, and noticed some older posts enthusiastic about their radio capabilities. However, for setting up Kismet on this hardware, I only found decade-old instructions and Kismet MIPS binaries from 2004... Has anybody recently set up a WRT54GL as a Kismet drone and could give me some pointers? Thanks. -qascnjzd</title>
+        <title>Kismet drone on wireless router?: Update: I gave up on trying to get 20y old hardware running with 10y old software... However, I'm still looking for Kismet drone options with a price tag in the lower two digits, i.e. comparable to a Raspberry Pi plus wifi adapter. And while the Pi would definititely be an option, I'd naively assume that hardware specialized in radio communication might be more sensitive, e.g. a wireless router. Can anybody shed some light on whether this assumption is naive or actually true, possibly even with some hardware recommendation? Thanks. -qascnjzd</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2929&amp;p=11208#p11208</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2929&amp;p=11208#p11208</guid>
+        <pubDate>2022-04-07T21:44:09</pubDate>
+      </item><item>
+        <title>Kismet drone on wireless router? (e.g. Linksys WRT54GL): I've just dusted off two Linksys WRT54GL, and noticed some older posts enthusiastic about their radio capabilities. However, for setting up Kismet on this hardware, I only found decade-old instructions and Kismet MIPS binaries from 2004... Has anybody recently set up a WRT54GL as a Kismet drone and could give me some pointers? Thanks. -qascnjzd</title>
         <link>https://wigle.net/phpbb/viewtopic.php?t=2929&amp;p=11207#p11207</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2929&amp;p=11207#p11207</guid>
         <pubDate>2022-04-05T21:33:14</pubDate>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?t=2912&amp;p=11145#p11145</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2912&amp;p=11145#p11145</guid>
         <pubDate>2022-01-06T23:55:40</pubDate>
-      </item><item>
-        <title>Redneck Warflying: I know Warflying isn't anything new but this redneck implementation just worked out great. My old LG V30+ has always had pretty poor battery life but that made it an advantage in this case here. Weighing in at just 156 grams the Mavic Air 2 handled it great. The way it's mounted left the downward sensors functional and it can also get a unique camera perspective of the flight. -Johnnokomis</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?t=2912&amp;p=11144#p11144</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?t=2912&amp;p=11144#p11144</guid>
-        <pubDate>2022-01-06T23:54:05</pubDate>
       </item>
   </channel>
 </rss>
