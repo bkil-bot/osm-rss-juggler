@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Erzsébetfalva, 20th district) / * 2022 April 8 14:18 Hungarian_user Resolved: disused</title>
+        <link>https://www.openstreetmap.org/note/3124298#c6697911</link>
+        <guid>https://www.openstreetmap.org/note/3124298#c6697911</guid>
+        <pubDate>Fri, 08 Apr 2022 14:18:00 +0000</pubDate>
+      </item><item>
+        <title>new note (near Erzsébetfalva, 20th district) / * 2022 April 8 13:50 Hungarian_user Created: úgy néz ki a söröző bezárt</title>
+        <link>https://www.openstreetmap.org/note/3124298#c6697844</link>
+        <guid>https://www.openstreetmap.org/note/3124298#c6697844</guid>
+        <pubDate>Fri, 08 Apr 2022 13:50:32 +0000</pubDate>
+      </item><item>
         <title>new note (near Répáshuta) / * 2022 April 8 12:25 utvonalfelmeresek Created: Az étterem működik / via StreetComplete 42.0 / Attached photo(s): / https://westnordost.de/p/87601.jpg</title>
         <link>https://www.openstreetmap.org/note/3124201#c6697607</link>
         <guid>https://www.openstreetmap.org/note/3124201#c6697607</guid>
@@ -267,11 +277,6 @@
         <link>https://www.openstreetmap.org/note/3119336#c6689244</link>
         <guid>https://www.openstreetmap.org/note/3119336#c6689244</guid>
         <pubDate>Tue, 05 Apr 2022 10:08:05 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Rákospalota, 15th district) / * 2022 April 4 07:54 utvonalfelmeresek Created: vsb / * 2022 April 5 10:07 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/119336220</title>
-        <link>https://www.openstreetmap.org/note/3119364#c6689242</link>
-        <guid>https://www.openstreetmap.org/note/3119364#c6689242</guid>
-        <pubDate>Tue, 05 Apr 2022 10:07:48 +0000</pubDate>
       </item>
   </channel>
 </rss>
