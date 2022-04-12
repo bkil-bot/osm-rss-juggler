@@ -2,11 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      <item>
-        <title>Hungary/Gyalogos közlekedés: Gyalogos-átkelőhelyek jelölése: footway=crossing vonalka VÉGPONTJÁT nem kell highway=crossing-ként jelölni, hibás állítás törölve,hanem a közúttal való metszéspontját kell! (az le van írva) -Kempelen</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Gyalogos_k%C3%B6zleked%C3%A9s&amp;diff=2309937&amp;oldid=2309936</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Gyalogos_k%C3%B6zleked%C3%A9s&amp;diff=2309937</guid>
-        <pubDate>Mon, 11 Apr 2022 11:26:08 GMT</pubDate>
-      </item>
+      
   </channel>
 </rss>
