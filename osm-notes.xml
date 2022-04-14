@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Bottyánhegy, Szekszárd) / * 2022 April 1 18:45 vasony Created: Táncsics köz vagy Táncsics Mihály köz szerepel az utcatáblán? / * 2022 April 14 15:07 Spush Resolved: Táncsics köz van a táblán, az utcák nevét ez alapján átjavítottam.</title>
+        <link>https://www.openstreetmap.org/note/3115743#c6716632</link>
+        <guid>https://www.openstreetmap.org/note/3115743#c6716632</guid>
+        <pubDate>Thu, 14 Apr 2022 15:07:13 +0000</pubDate>
+      </item><item>
         <title>closed note (near Erzsébetfalva, 20th district) / * 2022 April 14 14:04 Hungarian_user Resolved: töröltem</title>
         <link>https://www.openstreetmap.org/note/3133410#c6716477</link>
         <guid>https://www.openstreetmap.org/note/3133410#c6716477</guid>
@@ -312,11 +317,6 @@
         <link>https://www.openstreetmap.org/note/3126492#c6702227</link>
         <guid>https://www.openstreetmap.org/note/3126492#c6702227</guid>
         <pubDate>Sat, 09 Apr 2022 20:47:56 +0000</pubDate>
-      </item><item>
-        <title>new note (near Szentmihálydomb, Sopron) / * 2022 April 9 20:22 efi99 Created: házszám?</title>
-        <link>https://www.openstreetmap.org/note/3126471#c6702169</link>
-        <guid>https://www.openstreetmap.org/note/3126471#c6702169</guid>
-        <pubDate>Sat, 09 Apr 2022 20:22:24 +0000</pubDate>
       </item>
   </channel>
 </rss>
