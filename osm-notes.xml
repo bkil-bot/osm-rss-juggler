@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Hosszúrét, 11th district) / * 2022 April 18 12:28 vasony Created: ez a piros itt mi?</title>
+        <link>https://www.openstreetmap.org/note/3139609#c6728327</link>
+        <guid>https://www.openstreetmap.org/note/3139609#c6728327</guid>
+        <pubDate>Mon, 18 Apr 2022 12:28:46 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Hosszúrét, 11th district) / * 2022 April 18 12:21 vasony Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3139315#c6728309</link>
+        <guid>https://www.openstreetmap.org/note/3139315#c6728309</guid>
+        <pubDate>Mon, 18 Apr 2022 12:21:46 +0000</pubDate>
+      </item><item>
         <title>closed note (near Sirályoldal, Hajdúnánás) / * 2021 December 24 23:50 Created: Napelemek / * 2022 April 18 10:11 nslxndr Resolved: Felvéve: https://www.openstreetmap.org/changeset/119847666</title>
         <link>https://www.openstreetmap.org/note/2982237#c6727964</link>
         <guid>https://www.openstreetmap.org/note/2982237#c6727964</guid>
@@ -242,21 +252,6 @@
         <link>https://www.openstreetmap.org/note/3129824#c6718622</link>
         <guid>https://www.openstreetmap.org/note/3129824#c6718622</guid>
         <pubDate>Fri, 15 Apr 2022 07:43:38 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Csillaghegy, 3rd district) / * 2022 April 12 06:40 utvonalfelmeresek Created: 35a cézár vízgépészet / * 2022 April 15 07:43 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/119739460</title>
-        <link>https://www.openstreetmap.org/note/3129838#c6718620</link>
-        <guid>https://www.openstreetmap.org/note/3129838#c6718620</guid>
-        <pubDate>Fri, 15 Apr 2022 07:43:07 +0000</pubDate>
-      </item><item>
-        <title>new note (near Egeredidomb, Sopron) / * 2022 April 14 20:37 efi99 Created: cím?</title>
-        <link>https://www.openstreetmap.org/note/3133965#c6717393</link>
-        <guid>https://www.openstreetmap.org/note/3133965#c6717393</guid>
-        <pubDate>Thu, 14 Apr 2022 20:37:29 +0000</pubDate>
-      </item><item>
-        <title>new note (near Egeredidomb, Sopron) / * 2022 April 14 20:31 efi99 Created: cím ?</title>
-        <link>https://www.openstreetmap.org/note/3133960#c6717382</link>
-        <guid>https://www.openstreetmap.org/note/3133960#c6717382</guid>
-        <pubDate>Thu, 14 Apr 2022 20:31:09 +0000</pubDate>
       </item>
   </channel>
 </rss>
