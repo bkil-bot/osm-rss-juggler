@@ -3,6 +3,31 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Ősz utca, Székesfehérvár) / * 2022 April 19 12:16 mr0ll Resolved: </title>
+        <link>https://www.openstreetmap.org/note/2537692#c6732643</link>
+        <guid>https://www.openstreetmap.org/note/2537692#c6732643</guid>
+        <pubDate>Tue, 19 Apr 2022 12:16:08 +0000</pubDate>
+      </item><item>
+        <title>reactivated note (near Ősz utca, Székesfehérvár) / * 2022 April 19 11:57 mr0ll Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/2537692#c6732573</link>
+        <guid>https://www.openstreetmap.org/note/2537692#c6732573</guid>
+        <pubDate>Tue, 19 Apr 2022 11:57:43 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Ősz utca, Székesfehérvár) / * 2021 February 14 06:42 Garai Márk Created: &amp;quot;Mégse!!! &amp;quot; / The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI name: Pénzváltó / POI types: amenity-bureau_de_change / OSM data version: 2021-02-01T11:34:17Z / #mapsme / * 2022 April 19 11:57 mr0ll Resolved: no exchange point</title>
+        <link>https://www.openstreetmap.org/note/2537692#c6732572</link>
+        <guid>https://www.openstreetmap.org/note/2537692#c6732572</guid>
+        <pubDate>Tue, 19 Apr 2022 11:57:37 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Ráchegy, Székesfehérvár) / * 2021 February 17 13:16 Garai Márk Created: &amp;quot;Nincs ilyen hely &amp;quot; / The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI has no name / POI types: leisure-swimming_pool / OSM data version: 2021-02-01T11:34:17Z / #mapsme / * 2022 April 19 11:55 mr0ll Resolved: it&amp;#39;s correct - no pool over there</title>
+        <link>https://www.openstreetmap.org/note/2542253#c6732564</link>
+        <guid>https://www.openstreetmap.org/note/2542253#c6732564</guid>
+        <pubDate>Tue, 19 Apr 2022 11:55:03 +0000</pubDate>
+      </item><item>
+        <title>new note (near Naphegy, Krisztinaváros, 1st district) / * 2022 April 19 11:51 infeeeee Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/250172109 via StreetComplete 42.0: / Volt zeneiskola</title>
+        <link>https://www.openstreetmap.org/note/3141797#c6732546</link>
+        <guid>https://www.openstreetmap.org/note/3141797#c6732546</guid>
+        <pubDate>Tue, 19 Apr 2022 11:51:42 +0000</pubDate>
+      </item><item>
         <title>new note (near Ibolya úti lakótelep, Sopronbánfalva, Sopron) / * 2022 April 19 10:27 efi99 Created: cím?</title>
         <link>https://www.openstreetmap.org/note/3141708#c6732286</link>
         <guid>https://www.openstreetmap.org/note/3141708#c6732286</guid>
@@ -202,16 +227,6 @@
         <link>https://www.openstreetmap.org/note/3137356#c6724300</link>
         <guid>https://www.openstreetmap.org/note/3137356#c6724300</guid>
         <pubDate>Sun, 17 Apr 2022 05:47:18 +0000</pubDate>
-      </item><item>
-        <title>new note (near Alsólövérek, Sopron) / * 2022 April 16 16:14 efi99 Created: cím jó ?</title>
-        <link>https://www.openstreetmap.org/note/3136869#c6723087</link>
-        <guid>https://www.openstreetmap.org/note/3136869#c6723087</guid>
-        <pubDate>Sat, 16 Apr 2022 16:14:10 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Kelenföld, 11th district) / * 2022 February 14 15:29 Created: This building does not exist anymore: / it was eliminated in late 2021. / * 2022 April 16 13:58 vasony Resolved: removed</title>
-        <link>https://www.openstreetmap.org/note/3051412#c6722652</link>
-        <guid>https://www.openstreetmap.org/note/3051412#c6722652</guid>
-        <pubDate>Sat, 16 Apr 2022 13:58:11 +0000</pubDate>
       </item>
   </channel>
 </rss>
