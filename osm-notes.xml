@@ -3,6 +3,36 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Gellérthegy, 11th district) / * 2022 March 1 15:19 Created: also cafe there / * 2022 April 22 13:19 infeeeee Resolved: added amenity=café</title>
+        <link>https://www.openstreetmap.org/note/3069623#c6744838</link>
+        <guid>https://www.openstreetmap.org/note/3069623#c6744838</guid>
+        <pubDate>Fri, 22 Apr 2022 13:19:52 +0000</pubDate>
+      </item><item>
+        <title>new note (near Gógánfa) / * 2022 April 22 13:18 Created: Gógánfa</title>
+        <link>https://www.openstreetmap.org/note/3147516#c6744833</link>
+        <guid>https://www.openstreetmap.org/note/3147516#c6744833</guid>
+        <pubDate>Fri, 22 Apr 2022 13:18:31 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Hőgyész) / * 2022 April 22 13:11 kogutowicz-mano Resolved: Kész</title>
+        <link>https://www.openstreetmap.org/note/3147241#c6744821</link>
+        <guid>https://www.openstreetmap.org/note/3147241#c6744821</guid>
+        <pubDate>Fri, 22 Apr 2022 13:11:49 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Hőgyész) / * 2022 April 22 13:03 kogutowicz-mano Resolved: Odébb, a Tátra utcában. Felrajzolva.</title>
+        <link>https://www.openstreetmap.org/note/3147249#c6744804</link>
+        <guid>https://www.openstreetmap.org/note/3147249#c6744804</guid>
+        <pubDate>Fri, 22 Apr 2022 13:03:48 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Döbrököz) / * 2022 April 22 12:34 kogutowicz-mano Updated: Legalábbis az országútról nézve. Oda kellene menni ellenőrizni a vezetékeket.</title>
+        <link>https://www.openstreetmap.org/note/3147298#c6744731</link>
+        <guid>https://www.openstreetmap.org/note/3147298#c6744731</guid>
+        <pubDate>Fri, 22 Apr 2022 12:34:54 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Szarvasd, Dombóvár) / * 2022 April 22 12:21 kogutowicz-mano Resolved: Igen. Berajzolva.</title>
+        <link>https://www.openstreetmap.org/note/3147301#c6744670</link>
+        <guid>https://www.openstreetmap.org/note/3147301#c6744670</guid>
+        <pubDate>Fri, 22 Apr 2022 12:21:05 +0000</pubDate>
+      </item><item>
         <title>new note (near Sopronbánfalva, Sopron) / * 2022 April 22 11:35 efi99 Created: cím helyes?</title>
         <link>https://www.openstreetmap.org/note/3147387#c6744523</link>
         <guid>https://www.openstreetmap.org/note/3147387#c6744523</guid>
@@ -327,41 +357,6 @@
         <link>https://www.openstreetmap.org/note/3145070#c6738334</link>
         <guid>https://www.openstreetmap.org/note/3145070#c6738334</guid>
         <pubDate>Wed, 20 Apr 2022 17:58:16 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Szérűskert, Paks) / * 2020 April 15 18:31 kogutowicz-mano Created: Ellenőrizni kellene mi is itt a valós helyzet. / Egyrészt nehezen tudom elképzelni, hogy két 132 kV-os távvezeték keresztezze egymást. Másrészt páratlan számú áramkör fut itt össze. Délnyugatról 2 kétáramkörös (6 kábeles) vezeték jön, délkeletről 2 egyáramkörös, északnyugatról 1 egyáramkörös. Ki kivel van összekapcsolva? Valamelyiknek nem jut pár, az egyik áramkör itt megszakad. / * 2022 April 20 17:36 kogutowicz-mano Resolved: A keresztezés valóban megvan. A délról jövő nyugatabbi távvezeték nyugati áramköre pedig itt megszakad.</title>
-        <link>https://www.openstreetmap.org/note/2160612#c6738215</link>
-        <guid>https://www.openstreetmap.org/note/2160612#c6738215</guid>
-        <pubDate>Wed, 20 Apr 2022 17:36:16 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Felsőrákos, 10th district) / * 2022 April 20 16:22 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/119962028</title>
-        <link>https://www.openstreetmap.org/note/3144261#c6737852</link>
-        <guid>https://www.openstreetmap.org/note/3144261#c6737852</guid>
-        <pubDate>Wed, 20 Apr 2022 16:22:58 +0000</pubDate>
-      </item><item>
-        <title>new note (near Tiszasziget) / * 2022 April 20 14:32 CopperOppositeKindred Created: Unable to answer &amp;quot;What are the opening hours here?&amp;quot; for https://osm.org/way/849187706 via StreetComplete 42.0: / Külön nyitvatartás és ügyfélfogadási rend / Attached photo(s): / https://westnordost.de/p/89937.jpg</title>
-        <link>https://www.openstreetmap.org/note/3144720#c6737447</link>
-        <guid>https://www.openstreetmap.org/note/3144720#c6737447</guid>
-        <pubDate>Wed, 20 Apr 2022 14:32:45 +0000</pubDate>
-      </item><item>
-        <title>new note (near Tiszasziget) / * 2022 April 20 14:32 CopperOppositeKindred Created: A ház nem hosszúkás alakú, belső részén keskenyebb / via StreetComplete 42.0</title>
-        <link>https://www.openstreetmap.org/note/3144719#c6737446</link>
-        <guid>https://www.openstreetmap.org/note/3144719#c6737446</guid>
-        <pubDate>Wed, 20 Apr 2022 14:32:45 +0000</pubDate>
-      </item><item>
-        <title>new note (near Tiszasziget) / * 2022 April 20 14:32 CopperOppositeKindred Created: A 2 épület összeér / via StreetComplete 42.0 / Attached photo(s): / https://westnordost.de/p/89936.jpg</title>
-        <link>https://www.openstreetmap.org/note/3144718#c6737445</link>
-        <guid>https://www.openstreetmap.org/note/3144718#c6737445</guid>
-        <pubDate>Wed, 20 Apr 2022 14:32:44 +0000</pubDate>
-      </item><item>
-        <title>new note (near Tiszasziget) / * 2022 April 20 14:32 CopperOppositeKindred Created: Ezen a helyen a 2 épület össze van kötve / via StreetComplete 42.0 / Attached photo(s): / https://westnordost.de/p/89935.jpg</title>
-        <link>https://www.openstreetmap.org/note/3144717#c6737443</link>
-        <guid>https://www.openstreetmap.org/note/3144717#c6737443</guid>
-        <pubDate>Wed, 20 Apr 2022 14:32:42 +0000</pubDate>
-      </item><item>
-        <title>new note (near Tiszasziget) / * 2022 April 20 14:32 CopperOppositeKindred Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/772645064 via StreetComplete 42.0: / Rendes háznak tűnik, 1-es házszám udvarához tartozik</title>
-        <link>https://www.openstreetmap.org/note/3144716#c6737441</link>
-        <guid>https://www.openstreetmap.org/note/3144716#c6737441</guid>
-        <pubDate>Wed, 20 Apr 2022 14:32:40 +0000</pubDate>
       </item>
   </channel>
 </rss>
