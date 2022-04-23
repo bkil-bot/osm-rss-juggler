@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Tiszasziget) / * 2022 April 23 12:43 CopperOppositeKindred Updated: ez valóban jobb ötlet így akkor. / esetleg akkor hozzá tudod adni leírásban az ügyfélfogadást? szerintem az is hasznos lenne</title>
+        <link>https://www.openstreetmap.org/note/3144720#c6747453</link>
+        <guid>https://www.openstreetmap.org/note/3144720#c6747453</guid>
+        <pubDate>Sat, 23 Apr 2022 12:43:02 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Újszentiván) / * 2022 April 23 12:26 gabro00 Resolved: Érdekes, köszi!</title>
+        <link>https://www.openstreetmap.org/note/3146703#c6747402</link>
+        <guid>https://www.openstreetmap.org/note/3146703#c6747402</guid>
+        <pubDate>Sat, 23 Apr 2022 12:26:14 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Újszentiván) / * 2022 April 23 12:24 gabro00 Updated: Ahogy te is írod, ez gyakorlatilag egy kocsibehajtó, csak nincs végigrajzolva a házig, mert minimális a hozzáadott értéke. / Ahhoz hogy kerékpárútnak címkézhessük, táblázni kellene, mint például itt: https://goo.gl/maps/kFwGmxKhZRoKapfu9 / Kocsibehajtókhoz igaz szokás a service=driveway címkézés, ilyenkor kicsit keskenyebb vonallal szokták renderelni az utat. Ezt pótoltam.</title>
+        <link>https://www.openstreetmap.org/note/3146709#c6747397</link>
+        <guid>https://www.openstreetmap.org/note/3146709#c6747397</guid>
+        <pubDate>Sat, 23 Apr 2022 12:24:10 +0000</pubDate>
+      </item><item>
         <title>new comment (near Délnyugat Lakópark, Újszentiván) / * 2022 April 23 12:17 gabro00 Updated: Előfordulhat. Én tudok ilyen helyet, ahol a szomszéd létesítmény üzemeltetője adja a kulcsot, de nincs kiírva, vagy ha ki volt, elfújta a szél a papírt.</title>
         <link>https://www.openstreetmap.org/note/3146697#c6747379</link>
         <guid>https://www.openstreetmap.org/note/3146697#c6747379</guid>
@@ -322,16 +337,6 @@
         <link>https://www.openstreetmap.org/note/3147696#c6745185</link>
         <guid>https://www.openstreetmap.org/note/3147696#c6745185</guid>
         <pubDate>Fri, 22 Apr 2022 15:12:23 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Gellérthegy, 11th district) / * 2022 March 1 15:19 Created: also cafe there / * 2022 April 22 13:19 infeeeee Resolved: added amenity=café</title>
-        <link>https://www.openstreetmap.org/note/3069623#c6744838</link>
-        <guid>https://www.openstreetmap.org/note/3069623#c6744838</guid>
-        <pubDate>Fri, 22 Apr 2022 13:19:52 +0000</pubDate>
-      </item><item>
-        <title>new note (near Gógánfa) / * 2022 April 22 13:18 Created: Gógánfa</title>
-        <link>https://www.openstreetmap.org/note/3147516#c6744833</link>
-        <guid>https://www.openstreetmap.org/note/3147516#c6744833</guid>
-        <pubDate>Fri, 22 Apr 2022 13:18:31 +0000</pubDate>
       </item>
   </channel>
 </rss>
