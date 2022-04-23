@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Rajka) / * 2022 April 23 05:16 vasony-qa Created: 2 db 17/b van, ellenőrizendő. Ha valós, akkor megadandó az épület jele</title>
+        <link>https://www.openstreetmap.org/note/3148259#c6746583</link>
+        <guid>https://www.openstreetmap.org/note/3148259#c6746583</guid>
+        <pubDate>Sat, 23 Apr 2022 05:16:09 +0000</pubDate>
+      </item><item>
+        <title>new note (near Landorhegy, Zalaegerszeg) / * 2022 April 23 05:10 vasony-qa Created: Ha ez itt az egyetem belős része, akkor körbe kéne rajzolni az egyetem területét, és az access-t megfelelően jelölni az utakra.</title>
+        <link>https://www.openstreetmap.org/note/3148256#c6746578</link>
+        <guid>https://www.openstreetmap.org/note/3148256#c6746578</guid>
+        <pubDate>Sat, 23 Apr 2022 05:10:09 +0000</pubDate>
+      </item><item>
+        <title>new note (near Torvaj Szőlőhegy, Torvaj) / * 2022 April 23 05:02 vasony-qa Created: Szőlőhegyi út vagy utca?</title>
+        <link>https://www.openstreetmap.org/note/3148252#c6746567</link>
+        <guid>https://www.openstreetmap.org/note/3148252#c6746567</guid>
+        <pubDate>Sat, 23 Apr 2022 05:02:16 +0000</pubDate>
+      </item><item>
+        <title>new note (near Torvaj Szőlőhegy, Torvaj) / * 2022 April 23 05:02 vasony-qa Created: 2 db 23-as házszám van fent, ellenőrizendő!</title>
+        <link>https://www.openstreetmap.org/note/3148251#c6746566</link>
+        <guid>https://www.openstreetmap.org/note/3148251#c6746566</guid>
+        <pubDate>Sat, 23 Apr 2022 05:02:16 +0000</pubDate>
+      </item><item>
         <title>new note (near Felsőtabán, Dunakeszi Déli Ipari Park, Dunakeszi) / * 2022 April 22 19:30 vasony-qa Created: Alsótabán vagy Alsótabán utca szerepel az utcatáblán?</title>
         <link>https://www.openstreetmap.org/note/3148050#c6746022</link>
         <guid>https://www.openstreetmap.org/note/3148050#c6746022</guid>
@@ -267,31 +287,6 @@
         <link>https://www.openstreetmap.org/note/3144715#c6742639</link>
         <guid>https://www.openstreetmap.org/note/3144715#c6742639</guid>
         <pubDate>Thu, 21 Apr 2022 20:32:35 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Délnyugat Lakópark, Újszentiván) / * 2022 April 20 14:32 CopperOppositeKindred Created: Unable to answer &amp;quot;Do the trees here have needles or leaves?&amp;quot; for https://osm.org/way/773158215 via StreetComplete 42.0: / A területen nincsenek fák / * 2022 April 21 20:32 gabro00 Resolved: Tegnap már levettem.</title>
-        <link>https://www.openstreetmap.org/note/3144712#c6742638</link>
-        <guid>https://www.openstreetmap.org/note/3144712#c6742638</guid>
-        <pubDate>Thu, 21 Apr 2022 20:32:23 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Szentimreváros, 11th district) / * 2022 February 15 10:25 kogutowicz-mano Created: A park várhatóan Törőcsik Mari nevét fogja viselni. https://24.hu/kultura/2022/02/15/torocsik-mari-feneketlen-to-park-atnevezes-elnevezes/ / * 2022 April 21 20:28 kogutowicz-mano Updated: Felavatva. / https://telex.hu/kult/2022/04/21/torocsik-mari-nevado-park-feneketlen-to</title>
-        <link>https://www.openstreetmap.org/note/3052276#c6742631</link>
-        <guid>https://www.openstreetmap.org/note/3052276#c6742631</guid>
-        <pubDate>Thu, 21 Apr 2022 20:28:46 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Erzsébetváros, 7th district) / * 2022 April 13 18:36 Created: Almássy téri közösségi komposztáló / * 2022 April 21 19:16 feket Resolved: rögzítettem. changset nr.: 120015792</title>
-        <link>https://www.openstreetmap.org/note/3132551#c6742454</link>
-        <guid>https://www.openstreetmap.org/note/3132551#c6742454</guid>
-        <pubDate>Thu, 21 Apr 2022 19:16:52 +0000</pubDate>
-      </item><item>
-        <title>new note (near Ibolya úti lakótelep, Sopronbánfalva, Sopron) / * 2022 April 21 18:56 efi99 Created: cím?</title>
-        <link>https://www.openstreetmap.org/note/3146525#c6742390</link>
-        <guid>https://www.openstreetmap.org/note/3146525#c6742390</guid>
-        <pubDate>Thu, 21 Apr 2022 18:56:02 +0000</pubDate>
-      </item><item>
-        <title>new note (near Ibolya úti lakótelep, Sopronbánfalva, Sopron) / * 2022 April 21 18:56 efi99 Created: cím?</title>
-        <link>https://www.openstreetmap.org/note/3146524#c6742389</link>
-        <guid>https://www.openstreetmap.org/note/3146524#c6742389</guid>
-        <pubDate>Thu, 21 Apr 2022 18:56:00 +0000</pubDate>
       </item>
   </channel>
 </rss>
