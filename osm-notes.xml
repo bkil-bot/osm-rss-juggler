@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Öskü) / * 2022 April 24 19:45 markzolee Created: Olasz erőd!</title>
+        <link>https://www.openstreetmap.org/note/3151001#c6751583</link>
+        <guid>https://www.openstreetmap.org/note/3151001#c6751583</guid>
+        <pubDate>Sun, 24 Apr 2022 19:45:55 +0000</pubDate>
+      </item><item>
+        <title>new note (near Öskü) / * 2022 April 24 19:45 markzolee Created: Egykori radar-állomás!</title>
+        <link>https://www.openstreetmap.org/note/3151000#c6751581</link>
+        <guid>https://www.openstreetmap.org/note/3151000#c6751581</guid>
+        <pubDate>Sun, 24 Apr 2022 19:45:45 +0000</pubDate>
+      </item><item>
         <title>closed note (near Újszentiván) / * 2022 April 21 22:07 CopperOppositeKindred Created: Unable to answer &amp;quot;What surface does this piece of road have?&amp;quot; for https://osm.org/way/954981016 via StreetComplete 42.0: / Magánház bejáró, nem közúti útszakasz, de az is néhány méterrel odébb / * 2022 April 23 08:02 gabro00 Resolved: Ezek az útszakaszok az útvonaltervezés miatt vannak itt, hogy aki kerékpárúton jön, annak kerülőút nélkül rá tudja tervezni a Jókai utcára az útját. / * 2022 April 23 11:56 CopperOppositeKindred Reactivated:  / * 2022 April 23 11:57 CopperOppositeKindred Updated: értem, köszi! / nem lenne viszont jobb kerékpárútként jelölni az ilyen szakaszokat? és akkor nem látszana ilyen furcsaság a térképen / ha van valami más oka is vagy van ilyen közös megegyezés hogy ilyeneket így szokás csinálni, akkor nem szóltam / * 2022 April 23 12:24 gabro00 Updated: Ahogy te is írod, ez gyakorlatilag egy kocsibehajtó, csak nincs végigrajzolva a házig, mert minimális a hozzáadott értéke. / Ahhoz hogy kerékpárútnak címkézhessük, táblázni kellene, mint például itt: https://goo.gl/maps/kFwGmxKhZRoKapfu9 / Kocsibehajtókhoz igaz szokás a service=driveway címkézés, ilyenkor kicsit keskenyebb vonallal szokták renderelni az utat. Ezt pótoltam. / * 2022 April 24 16:59 CopperOppositeKindred Resolved: oké, jó lesz, ilyen vékonyan igazából már nem olyan furcsa</title>
         <link>https://www.openstreetmap.org/note/3146709#c6751118</link>
         <guid>https://www.openstreetmap.org/note/3146709#c6751118</guid>
@@ -322,16 +332,6 @@
         <link>https://www.openstreetmap.org/note/3146698#c6746811</link>
         <guid>https://www.openstreetmap.org/note/3146698#c6746811</guid>
         <pubDate>Sat, 23 Apr 2022 08:02:15 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Újszentiván) / * 2022 April 21 22:07 CopperOppositeKindred Created: Unable to answer &amp;quot;How many levels above the basement does this building have?&amp;quot; for https://osm.org/way/628124046 via StreetComplete 42.0: / A házat elbontották / * 2022 April 21 22:51 CopperOppositeKindred Updated: de házszám a kapun ettől még van, és van egy kis ház látszólag ezen a telken, de kicsit bentebb és nagyon közel a 18-hoz. / * 2022 April 23 08:02 gabro00 Resolved: A házat levettem, a cím maradt.</title>
-        <link>https://www.openstreetmap.org/note/3146705#c6746810</link>
-        <guid>https://www.openstreetmap.org/note/3146705#c6746810</guid>
-        <pubDate>Sat, 23 Apr 2022 08:02:14 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Tiszasziget) / * 2022 April 20 14:32 CopperOppositeKindred Created: A 2 épület összeér / via StreetComplete 42.0 / Attached photo(s): / https://westnordost.de/p/89936.jpg / * 2022 April 23 08:02 gabro00 Resolved: Összeragasztottam.</title>
-        <link>https://www.openstreetmap.org/note/3144718#c6746809</link>
-        <guid>https://www.openstreetmap.org/note/3144718#c6746809</guid>
-        <pubDate>Sat, 23 Apr 2022 08:02:14 +0000</pubDate>
       </item>
   </channel>
 </rss>
