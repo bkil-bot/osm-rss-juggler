@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Gellérthegy, 11th district) / * 2022 April 25 20:18 Created: Probíhal rekonstrukce. Do roku 2023 zavřeno.</title>
+        <link>https://www.openstreetmap.org/note/3152426#c6754958</link>
+        <guid>https://www.openstreetmap.org/note/3152426#c6754958</guid>
+        <pubDate>Mon, 25 Apr 2022 20:18:18 +0000</pubDate>
+      </item><item>
         <title>closed note (near Ásványhát, Szeged) / * 2022 February 16 14:10 gabro00 Created: Itt a hídon van minimális közlekedésre alkalmas járda? / * 2022 April 25 16:17 gabro00 Resolved: Azt hiszem nincs.</title>
         <link>https://www.openstreetmap.org/note/3053723#c6754346</link>
         <guid>https://www.openstreetmap.org/note/3053723#c6754346</guid>
@@ -182,36 +187,6 @@
         <link>https://www.openstreetmap.org/note/3144720#c6747453</link>
         <guid>https://www.openstreetmap.org/note/3144720#c6747453</guid>
         <pubDate>Sat, 23 Apr 2022 12:43:02 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Újszentiván) / * 2022 April 23 12:26 gabro00 Resolved: Érdekes, köszi!</title>
-        <link>https://www.openstreetmap.org/note/3146703#c6747402</link>
-        <guid>https://www.openstreetmap.org/note/3146703#c6747402</guid>
-        <pubDate>Sat, 23 Apr 2022 12:26:14 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Újszentiván) / * 2022 April 23 12:24 gabro00 Updated: Ahogy te is írod, ez gyakorlatilag egy kocsibehajtó, csak nincs végigrajzolva a házig, mert minimális a hozzáadott értéke. / Ahhoz hogy kerékpárútnak címkézhessük, táblázni kellene, mint például itt: https://goo.gl/maps/kFwGmxKhZRoKapfu9 / Kocsibehajtókhoz igaz szokás a service=driveway címkézés, ilyenkor kicsit keskenyebb vonallal szokták renderelni az utat. Ezt pótoltam.</title>
-        <link>https://www.openstreetmap.org/note/3146709#c6747397</link>
-        <guid>https://www.openstreetmap.org/note/3146709#c6747397</guid>
-        <pubDate>Sat, 23 Apr 2022 12:24:10 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Délnyugat Lakópark, Újszentiván) / * 2022 April 23 12:17 gabro00 Updated: Előfordulhat. Én tudok ilyen helyet, ahol a szomszéd létesítmény üzemeltetője adja a kulcsot, de nincs kiírva, vagy ha ki volt, elfújta a szél a papírt.</title>
-        <link>https://www.openstreetmap.org/note/3146697#c6747379</link>
-        <guid>https://www.openstreetmap.org/note/3146697#c6747379</guid>
-        <pubDate>Sat, 23 Apr 2022 12:17:20 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Újszentiván) / * 2022 April 23 12:16 gabro00 Updated: Ha van erőforrásod rá, igen. / Mehet mapillary-ra vagy openstreetcamre (utóbbi talán KartaView lett).</title>
-        <link>https://www.openstreetmap.org/note/3146702#c6747374</link>
-        <guid>https://www.openstreetmap.org/note/3146702#c6747374</guid>
-        <pubDate>Sat, 23 Apr 2022 12:16:11 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Tiszasziget) / * 2022 April 23 12:14 gabro00 Updated: Nyaranta egyre több a hőségriadó, ilyenkor közzéteszik a klimatizált helyek listáját és a közintézmények, mint polgármesteri hivatalok általában köztük szoktak lenni. / Másik dolog, hogy éttermeknél is külön kezeljük a konyha és a hely nyitvatartását, nem véletlenül. / Tehát én tartom magam ahhoz, hogy a nyitvatartás legyen az adatbázisban is nyitvatartás és ne más. Esetleg leírásban meg lehet adni, hogy a kiírt időhöz képest miben különbözik az ügyfélfogadási idő.</title>
-        <link>https://www.openstreetmap.org/note/3144720#c6747366</link>
-        <guid>https://www.openstreetmap.org/note/3144720#c6747366</guid>
-        <pubDate>Sat, 23 Apr 2022 12:14:13 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Délnyugat Lakópark, Újszentiván) / * 2022 April 23 12:06 CopperOppositeKindred Updated: lehet, de nem láttam senkit a közelben. / lehet hogy a kávézó intézi ezt is</title>
-        <link>https://www.openstreetmap.org/note/3146697#c6747338</link>
-        <guid>https://www.openstreetmap.org/note/3146697#c6747338</guid>
-        <pubDate>Sat, 23 Apr 2022 12:06:18 +0000</pubDate>
       </item>
   </channel>
 </rss>
