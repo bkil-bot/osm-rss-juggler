@@ -3,6 +3,46 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Adyliget, 2nd district) / * 2021 October 20 05:41 Created: Adyligeti közösségi hely / * 2021 November 21 07:05 vasony Updated: Nem találtam rá hivatkozást, helyszínen meg kell nézni, hogy ez külön valami-e vagy csak a parkra gondol-e a kötlő? / * 2022 April 26 06:13 Zsolt Beringer Updated: Videó alapján a park felújítása lehetett a célja a térkép jegyzetnek. / https://masodikkerulet.hu/cimlap/elkezdodott-a-kozossegi-liget-epitese / https://masodikkerulet.hu/cimlap/folytatodik-a-kozossegi-liget-megvalositasa-0</title>
+        <link>https://www.openstreetmap.org/note/2902748#c6755615</link>
+        <guid>https://www.openstreetmap.org/note/2902748#c6755615</guid>
+        <pubDate>Tue, 26 Apr 2022 06:13:52 +0000</pubDate>
+      </item><item>
+        <title>new note (near Felsőpárt, Szentes) / * 2022 April 26 06:10 Created: 392+48</title>
+        <link>https://www.openstreetmap.org/note/3152671#c6755605</link>
+        <guid>https://www.openstreetmap.org/note/3152671#c6755605</guid>
+        <pubDate>Tue, 26 Apr 2022 06:10:55 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Virágvölgy, Budakeszi) / * 2022 January 6 14:50 Created: There is no CBA store nor OTP bank any longer in this spot, currently it is a DM (Drogerie Markt) store / * 2022 April 26 06:09 Zsolt Beringer Updated: Is the building still operational?</title>
+        <link>https://www.openstreetmap.org/note/2999418#c6755600</link>
+        <guid>https://www.openstreetmap.org/note/2999418#c6755600</guid>
+        <pubDate>Tue, 26 Apr 2022 06:09:32 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Sóstó, Siófok) / * 2018 August 5 11:50 wakarii Created: Itt kb. 20 éve van egy körhinta, céllövölde.. Vursli. Erre nem találtam Poi-t. / * 2021 April 2 16:15 kogutowicz-mano Updated: attraction=carousel / * 2022 April 26 06:05 Zsolt Beringer Updated: Az EUFAR Balaton ortofotó alapján én föntről nem látok itt körhintát. Az épületen belül van minden itt felsorolt funkció?</title>
+        <link>https://www.openstreetmap.org/note/1478258#c6755593</link>
+        <guid>https://www.openstreetmap.org/note/1478258#c6755593</guid>
+        <pubDate>Tue, 26 Apr 2022 06:05:40 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Balatonfüred) / * 2021 August 16 07:48 Created: Ez fizetős, illetve magánparkoló / * 2022 April 26 06:00 Zsolt Beringer Resolved: Ezért van rajta a `fee=yes` kulcs–érték pár.</title>
+        <link>https://www.openstreetmap.org/note/2805485#c6755583</link>
+        <guid>https://www.openstreetmap.org/note/2805485#c6755583</guid>
+        <pubDate>Tue, 26 Apr 2022 06:00:28 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Fürdőtelep, Balatonfüred) / * 2021 August 13 10:49 pseudotypo Created: itt van egy park sok paddal / * 2022 April 26 05:58 Zsolt Beringer Resolved: https://www.openstreetmap.org/changeset/109616849</title>
+        <link>https://www.openstreetmap.org/note/2801407#c6755580</link>
+        <guid>https://www.openstreetmap.org/note/2801407#c6755580</guid>
+        <pubDate>Tue, 26 Apr 2022 05:58:48 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Balatonarács, Balatonfüred) / * 2021 August 15 15:59 Created: Futballpálya / * 2021 August 15 19:44 pseudotypo Updated: *Kosárlabda pálya, nem Futballpálya bocsi / * 2022 April 26 05:47 Zsolt Beringer Resolved: https://www.openstreetmap.org/changeset/120193732</title>
+        <link>https://www.openstreetmap.org/note/2804690#c6755564</link>
+        <guid>https://www.openstreetmap.org/note/2804690#c6755564</guid>
+        <pubDate>Tue, 26 Apr 2022 05:47:45 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Sóstó, Siófok) / * 2022 January 23 11:34 vasony Created: Új név valószínű Jenő utca, forrás vagy felmérés szükséges. / * 2022 April 26 05:30 Zsolt Beringer Resolved: https://onkormanyzati.tv/siofok/2019_november_28 / 14.Közterületek elnevezése. / Jenő utca új nevet egyhangúlag fogadta el Siófok város képviselő testülete.</title>
+        <link>https://www.openstreetmap.org/note/3020873#c6755549</link>
+        <guid>https://www.openstreetmap.org/note/3020873#c6755549</guid>
+        <pubDate>Tue, 26 Apr 2022 05:30:45 +0000</pubDate>
+      </item><item>
         <title>new comment (near Almádi, Balatonalmádi) / * 2021 February 28 14:01 batio Created: csak tűzcsap / * 2022 April 26 05:18 Zsolt Beringer Updated: https://wiki.openstreetmap.org/wiki/Tag:emergency%3Dfire_hydrant#How_to_map</title>
         <link>https://www.openstreetmap.org/note/2559125#c6755539</link>
         <guid>https://www.openstreetmap.org/note/2559125#c6755539</guid>
@@ -217,41 +257,6 @@
         <link>https://www.openstreetmap.org/note/3149828#c6749603</link>
         <guid>https://www.openstreetmap.org/note/3149828#c6749603</guid>
         <pubDate>Sun, 24 Apr 2022 08:02:48 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Pistály, Törökbálint) / * 2022 April 18 18:49 vasony Created: itt van ház? / * 2022 April 24 05:33 vasony Resolved: nincs, ez egy murvás parkoló</title>
-        <link>https://www.openstreetmap.org/note/3140608#c6749181</link>
-        <guid>https://www.openstreetmap.org/note/3140608#c6749181</guid>
-        <pubDate>Sun, 24 Apr 2022 05:33:33 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Kápolnásnyék) / * 2022 April 24 00:12 Pintér Lívia Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3149613#c6748961</link>
-        <guid>https://www.openstreetmap.org/note/3149613#c6748961</guid>
-        <pubDate>Sun, 24 Apr 2022 00:12:01 +0000</pubDate>
-      </item><item>
-        <title>new note (near Kápolnásnyék) / * 2022 April 24 00:11 Pintér Lívia Created: Kókány Garage</title>
-        <link>https://www.openstreetmap.org/note/3149613#c6748960</link>
-        <guid>https://www.openstreetmap.org/note/3149613#c6748960</guid>
-        <pubDate>Sun, 24 Apr 2022 00:11:51 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Torvaj Szőlőhegy, Torvaj) / * 2022 April 23 19:25 Gaurdein Resolved: Tábla és iratok szerint Szőlőhegyi út. Köszönöm az észrevételt, javítva!</title>
-        <link>https://www.openstreetmap.org/note/3148252#c6748512</link>
-        <guid>https://www.openstreetmap.org/note/3148252#c6748512</guid>
-        <pubDate>Sat, 23 Apr 2022 19:25:19 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Tiszasziget) / * 2022 April 23 19:14 gabro00 Resolved: https://www.openstreetmap.org/changeset/120102421</title>
-        <link>https://www.openstreetmap.org/note/3144713#c6748481</link>
-        <guid>https://www.openstreetmap.org/note/3144713#c6748481</guid>
-        <pubDate>Sat, 23 Apr 2022 19:14:24 +0000</pubDate>
-      </item><item>
-        <title>new note (near Belváros, Pécs) / * 2022 April 23 17:12 utvonalfelmeresek Created: csak szemben van delikát</title>
-        <link>https://www.openstreetmap.org/note/3149235#c6748156</link>
-        <guid>https://www.openstreetmap.org/note/3149235#c6748156</guid>
-        <pubDate>Sat, 23 Apr 2022 17:12:55 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Erzsébetváros, 7th district) / * 2021 March 19 19:25 kogutowicz-mano Created: Bontás folyamatban. / https://24.hu/kultura/2021/03/19/varosligeti-fasor-bajza-utca-magyar-epiteszeti-muzeum-muemlekvedelmi-dokumentacios-kozpont-bontas-szanatorium-mma-magyar-muveszeti-akademia/ / * 2022 April 23 17:02 feket Resolved: Frissítettem felmérés alapján. changset nr.: 120098440</title>
-        <link>https://www.openstreetmap.org/note/2586013#c6748104</link>
-        <guid>https://www.openstreetmap.org/note/2586013#c6748104</guid>
-        <pubDate>Sat, 23 Apr 2022 17:02:15 +0000</pubDate>
       </item>
   </channel>
 </rss>
