@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Bécsidomb, Sopron) / * 2022 April 27 18:51 efi99 Created: cím?</title>
+        <link>https://www.openstreetmap.org/note/3154951#c6760451</link>
+        <guid>https://www.openstreetmap.org/note/3154951#c6760451</guid>
+        <pubDate>Wed, 27 Apr 2022 18:51:39 +0000</pubDate>
+      </item><item>
         <title>new note (near Ófalu, Nagykovácsi) / * 2022 April 27 18:15 Created: Ezen a részen több ösvény található</title>
         <link>https://www.openstreetmap.org/note/3154927#c6760379</link>
         <guid>https://www.openstreetmap.org/note/3154927#c6760379</guid>
@@ -242,21 +247,6 @@
         <link>https://www.openstreetmap.org/note/2999418#c6755600</link>
         <guid>https://www.openstreetmap.org/note/2999418#c6755600</guid>
         <pubDate>Tue, 26 Apr 2022 06:09:32 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Sóstó, Siófok) / * 2018 August 5 11:50 wakarii Created: Itt kb. 20 éve van egy körhinta, céllövölde.. Vursli. Erre nem találtam Poi-t. / * 2021 April 2 16:15 kogutowicz-mano Updated: attraction=carousel / * 2022 April 26 06:05 Zsolt Beringer Updated: Az EUFAR Balaton ortofotó alapján én föntről nem látok itt körhintát. Az épületen belül van minden itt felsorolt funkció?</title>
-        <link>https://www.openstreetmap.org/note/1478258#c6755593</link>
-        <guid>https://www.openstreetmap.org/note/1478258#c6755593</guid>
-        <pubDate>Tue, 26 Apr 2022 06:05:40 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Balatonfüred) / * 2021 August 16 07:48 Created: Ez fizetős, illetve magánparkoló / * 2022 April 26 06:00 Zsolt Beringer Resolved: Ezért van rajta a `fee=yes` kulcs–érték pár.</title>
-        <link>https://www.openstreetmap.org/note/2805485#c6755583</link>
-        <guid>https://www.openstreetmap.org/note/2805485#c6755583</guid>
-        <pubDate>Tue, 26 Apr 2022 06:00:28 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Fürdőtelep, Balatonfüred) / * 2021 August 13 10:49 pseudotypo Created: itt van egy park sok paddal / * 2022 April 26 05:58 Zsolt Beringer Resolved: https://www.openstreetmap.org/changeset/109616849</title>
-        <link>https://www.openstreetmap.org/note/2801407#c6755580</link>
-        <guid>https://www.openstreetmap.org/note/2801407#c6755580</guid>
-        <pubDate>Tue, 26 Apr 2022 05:58:48 +0000</pubDate>
       </item>
   </channel>
 </rss>
