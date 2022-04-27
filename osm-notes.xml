@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Gellérthegy, 11th district) / * 2022 April 25 20:52 brobear Created: The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI name: Szabadság-szobor / POI types: wheelchair-limited tourism-viewpoint / OSM data version: 2022-03-31T16:41:57Z / #mapsme / * 2022 April 26 21:13 infeeeee Resolved: I&amp;#39;m quite sure it&amp;#39;s still there. Literally visible from everywhere in Budapest / * 2022 April 26 21:15 brobear Reactivated:  / * 2022 April 26 21:16 brobear Resolved: Wrong location. Duplicate. Other entry shows correct location. Delete this one. / * 2022 April 26 21:16 brobear Reactivated:  / * 2022 April 26 21:17 brobear Updated: This duplicate is the wrong one. / * 2022 April 26 21:18 brobear Updated: Please remove / * 2022 April 27 21:39 infeeeee Resolved: You cannot remove a note from openstreetmap, you can only resolve it, it will desappear after a while. Simply do not reactivate it.</title>
+        <link>https://www.openstreetmap.org/note/3152453#c6760840</link>
+        <guid>https://www.openstreetmap.org/note/3152453#c6760840</guid>
+        <pubDate>Wed, 27 Apr 2022 21:39:03 +0000</pubDate>
+      </item><item>
         <title>new note (near Bécsidomb, Sopron) / * 2022 April 27 18:51 efi99 Created: cím?</title>
         <link>https://www.openstreetmap.org/note/3154951#c6760451</link>
         <guid>https://www.openstreetmap.org/note/3154951#c6760451</guid>
@@ -242,11 +247,6 @@
         <link>https://www.openstreetmap.org/note/3152671#c6755605</link>
         <guid>https://www.openstreetmap.org/note/3152671#c6755605</guid>
         <pubDate>Tue, 26 Apr 2022 06:10:55 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Virágvölgy, Budakeszi) / * 2022 January 6 14:50 Created: There is no CBA store nor OTP bank any longer in this spot, currently it is a DM (Drogerie Markt) store / * 2022 April 26 06:09 Zsolt Beringer Updated: Is the building still operational?</title>
-        <link>https://www.openstreetmap.org/note/2999418#c6755600</link>
-        <guid>https://www.openstreetmap.org/note/2999418#c6755600</guid>
-        <pubDate>Tue, 26 Apr 2022 06:09:32 +0000</pubDate>
       </item>
   </channel>
 </rss>
