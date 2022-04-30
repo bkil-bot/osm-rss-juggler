@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>Nice to see the Tour de Romandie cycling race using #OpenStreetMap to display the route and even live positions: https://www.tourderomandie.ch #tourderomandie</title>
+        <link>https://en.osm.town/@Doudouosm/108221252863669886</link>
+        <guid>https://en.osm.town/@Doudouosm/108221252863669886</guid>
+        <pubDate>Sat, 30 Apr 2022 13:27:49 +0000</pubDate>
+      </item><item>
         <title>A very nice introduction video to #OpenStreetMap by OSM US: https://yewtu.be/watch?v=UMhdo_o9NmU.</title>
         <link>https://en.osm.town/@Doudouosm/108220599106003505</link>
         <guid>https://en.osm.town/@Doudouosm/108220599106003505</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/107780416944623180</link>
         <guid>https://en.osm.town/@Doudouosm/107780416944623180</guid>
         <pubDate>Fri, 11 Feb 2022 16:57:27 +0000</pubDate>
-      </item><item>
-        <title>Create a Wi-Fi Manager for your #ESP8266 #NodeMCU projects. This way, you can connect (and later change) the board to a Wi-Fi network without hard-coding network credentials (SSID and password) in the application code. https://randomnerdtutorials.com/esp8266-nodemcu-wi-fi-manager-asyncwebserver/ #IoT #Arduino</title>
-        <link>https://en.osm.town/@Doudouosm/107779562990681192</link>
-        <guid>https://en.osm.town/@Doudouosm/107779562990681192</guid>
-        <pubDate>Fri, 11 Feb 2022 13:20:16 +0000</pubDate>
       </item>
   </channel>
 </rss>
