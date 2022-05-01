@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Belváros, 5th district) / * 2022 May 1 16:05 Created: Apartman</title>
+        <link>https://www.openstreetmap.org/note/3161103#c6773297</link>
+        <guid>https://www.openstreetmap.org/note/3161103#c6773297</guid>
+        <pubDate>Sun, 01 May 2022 16:05:48 +0000</pubDate>
+      </item><item>
+        <title>new note (near Krisztinaváros, 1st district) / * 2022 May 1 15:44 Created: Városmajori közösségi komposztáló</title>
+        <link>https://www.openstreetmap.org/note/3161051#c6773222</link>
+        <guid>https://www.openstreetmap.org/note/3161051#c6773222</guid>
+        <pubDate>Sun, 01 May 2022 15:44:55 +0000</pubDate>
+      </item><item>
         <title>closed note (near Fertőszergény, Agyagosszergény) / * 2022 January 17 20:36 efi99 Created: Itt van ház? / * 2022 May 1 14:00 efi99 Resolved: nincs</title>
         <link>https://www.openstreetmap.org/note/3014634#c6772941</link>
         <guid>https://www.openstreetmap.org/note/3014634#c6772941</guid>
@@ -267,16 +277,6 @@
         <link>https://www.openstreetmap.org/note/3156705#c6763962</link>
         <guid>https://www.openstreetmap.org/note/3156705#c6763962</guid>
         <pubDate>Thu, 28 Apr 2022 17:50:49 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Újszentiván) / * 2022 April 21 22:07 CopperOppositeKindred Created: A házszám 4/a / via StreetComplete 42.0 / * 2022 April 23 08:02 gabro00 Updated: Átírtam, de furcsa a 4 és 4/A egymás mellett, ilyet még nem láttam máshol. / * 2022 April 23 11:32 CopperOppositeKindred Updated: szeretnéd hogy küldjek képeket? / * 2022 April 23 12:16 gabro00 Updated: Ha van erőforrásod rá, igen. / Mehet mapillary-ra vagy openstreetcamre (utóbbi talán KartaView lett). / * 2022 April 23 13:26 CopperOppositeKindred Updated: Töltök fel majd akor. Lehet hogy még ma megyek arra. / Viszont ezekre nem szívesen tölteném fel, inkább Wikimedia Commons-ra, elvileg az osmand ezt is meg tudja jeleníteni, és úgy tűnik elfogadnak ilyen képeket is. / Hogy a mapillary-ra miért nem: https://github.com/osmandapp/OsmAnd/issues/9402 / Hogy a kartaview-ra miért nem: https://github.com/osmandapp/OsmAnd/issues/4942#issuecomment-698347259 / * 2022 April 23 13:34 gabro00 Updated: Jogos, egy ideje nem követem a kavarást ami megy körülöttük. Csak ötlet volt, oda töltsd fel, ahová jónak látod. / * 2022 April 28 12:35 CopperOppositeKindred Updated: Képek: / - 2 - https://commons.wikimedia.org/wiki/File:OSM_note_3146702_image_1.jpeg / - 4 - https://commons.wikimedia.org/wiki/File:OSM_note_3146702_-_image_2.jpeg / - 4/a - https://commons.wikimedia.org/wiki/File:OSM_note_3146702_image_3.jpeg</title>
-        <link>https://www.openstreetmap.org/note/3146702#c6762707</link>
-        <guid>https://www.openstreetmap.org/note/3146702#c6762707</guid>
-        <pubDate>Thu, 28 Apr 2022 12:35:53 +0000</pubDate>
-      </item><item>
-        <title>new note (near Istvánmező, 14th district) / * 2022 April 28 12:25 utvonalfelmeresek Created: vsb</title>
-        <link>https://www.openstreetmap.org/note/3155919#c6762686</link>
-        <guid>https://www.openstreetmap.org/note/3155919#c6762686</guid>
-        <pubDate>Thu, 28 Apr 2022 12:25:38 +0000</pubDate>
       </item>
   </channel>
 </rss>
