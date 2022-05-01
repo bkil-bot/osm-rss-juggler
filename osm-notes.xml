@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Gyermekváros, Zánka) / * 2022 May 1 05:17 utvonalfelmeresek Created: Változás a zöld sáv turistaút nyomvonalában</title>
+        <link>https://www.openstreetmap.org/note/3160233#c6771508</link>
+        <guid>https://www.openstreetmap.org/note/3160233#c6771508</guid>
+        <pubDate>Sun, 01 May 2022 05:17:12 +0000</pubDate>
+      </item><item>
         <title>closed note (near Sasad, 11th district) / * 2022 April 16 06:28 vasony Created: a kerítés helye nem jó, felmérendő / * 2022 April 30 19:19 vasony Resolved: felmérve</title>
         <link>https://www.openstreetmap.org/note/3135893#c6770697</link>
         <guid>https://www.openstreetmap.org/note/3135893#c6770697</guid>
@@ -237,31 +242,6 @@
         <link>https://www.openstreetmap.org/note/3154951#c6760451</link>
         <guid>https://www.openstreetmap.org/note/3154951#c6760451</guid>
         <pubDate>Wed, 27 Apr 2022 18:51:39 +0000</pubDate>
-      </item><item>
-        <title>new note (near Ófalu, Nagykovácsi) / * 2022 April 27 18:15 Created: Ezen a részen több ösvény található</title>
-        <link>https://www.openstreetmap.org/note/3154927#c6760379</link>
-        <guid>https://www.openstreetmap.org/note/3154927#c6760379</guid>
-        <pubDate>Wed, 27 Apr 2022 18:15:18 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Rákospalota Öregfalu, Rákospalota, 15th district) / * 2022 April 27 18:03 ottwiz Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3026811#c6760356</link>
-        <guid>https://www.openstreetmap.org/note/3026811#c6760356</guid>
-        <pubDate>Wed, 27 Apr 2022 18:03:24 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Rákospalota, 15th district) / * 2022 April 27 18:02 ottwiz Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3026810#c6760355</link>
-        <guid>https://www.openstreetmap.org/note/3026810#c6760355</guid>
-        <pubDate>Wed, 27 Apr 2022 18:02:41 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Rákospalota, 15th district) / * 2022 April 27 17:56 ottwiz Resolved: Leszedtem a térképről, rákeresni rátudsz cím alapján még, de már nem fog lerenderelődni.</title>
-        <link>https://www.openstreetmap.org/note/3026809#c6760339</link>
-        <guid>https://www.openstreetmap.org/note/3026809#c6760339</guid>
-        <pubDate>Wed, 27 Apr 2022 17:56:38 +0000</pubDate>
-      </item><item>
-        <title>new note (near Palotanegyed, 8th district) / * 2022 April 27 13:40 strawhat Created: The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI name: Magnetron stúdió / POI types: shop-electronics / OSM data version: 2022-03-31T16:41:57Z / #mapsme</title>
-        <link>https://www.openstreetmap.org/note/3154578#c6759698</link>
-        <guid>https://www.openstreetmap.org/note/3154578#c6759698</guid>
-        <pubDate>Wed, 27 Apr 2022 13:40:56 +0000</pubDate>
       </item>
   </channel>
 </rss>
