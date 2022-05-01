@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Rákosszentmihály, 16th district) / * 2022 April 20 13:59 goeroeg Created: Kis Tirol Restaurant, Batthyány utca 74 / via StreetComplete 39.0 / * 2022 May 1 10:00 ITineris Resolved: Added.</title>
+        <link>https://www.openstreetmap.org/note/3144582#c6772007</link>
+        <guid>https://www.openstreetmap.org/note/3144582#c6772007</guid>
+        <pubDate>Sun, 01 May 2022 10:00:17 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Újpalota, 15th district) / * 2021 June 23 20:20 bkil Created: Épült itt akadálymentes játszótér, van esetleg ivókút? https://xvmedia.hu/nagyobb-figyelmet-kapnak-jatszoterek/ / * 2021 July 18 20:59 ITineris Updated: Akadálymentes (sőt, kerekesszékkel is használható) játszótér igen. Csomó pad, csomó szemetes.  A 21-es épület felőli oldalon egy fosóka-fa. Viszont semmilyen vízforrás sem. / * 2021 July 18 21:06 bkil Updated: A fosóka termése sárga, piros, kék vagy bíborlevelű? (És finom-e :-&amp;gt;) / * 2021 July 18 21:09 ITineris Updated: Sárga. A levél színe éjszaka nem látszik. És nem fogyasztottam belőle. / * 2021 July 18 21:12 bkil Updated: Köszi. A sárga, piros és kék termésűnek is zöld a levele. A sárga a legfinomabb és most érik mindenhol tömegével. Ha cefrének vagy főzni (levesnek, mártásnak stb) kell akkor a hullottakat is érdemes összeseperni - azok biztos érettek így nem hajtanak meg. / * 2021 July 26 22:50 bkil Updated: Fotók esetleg készültek ami alapján jobban be lehetne lőni a területét illetve felvenni pontosan a wheelchair=yes elemeit? / https://wiki.openstreetmap.org/wiki/Proposed_features/Playground_Equipment https://wiki.openstreetmap.org/wiki/Key:playground / * 2021 July 27 05:16 ITineris Updated: Igen, de sötétben. Meg fel kellene rakni a kb. kontúrjait, hogy lehessen mihez viszonyítani. / * 2022 May 1 09:52 ITineris Resolved: Felmértem pontosan. Ivókút nincs.</title>
+        <link>https://www.openstreetmap.org/note/2725806#c6771989</link>
+        <guid>https://www.openstreetmap.org/note/2725806#c6771989</guid>
+        <pubDate>Sun, 01 May 2022 09:52:33 +0000</pubDate>
+      </item><item>
         <title>closed note (near Istvánmező, 14th district) / * 2022 March 24 08:17 ITineris Created: Jó lenne itt végignézni a házszámokat Stefánia út 71 - 81. között, hogy pontosan melyik épület (esetleg a tömb belsejében) melyik utca melyik szám. / * 2022 May 1 09:19 ITineris Resolved: Mindenkit megtaláltam.</title>
         <link>https://www.openstreetmap.org/note/3100452#c6771907</link>
         <guid>https://www.openstreetmap.org/note/3100452#c6771907</guid>
@@ -247,11 +257,6 @@
         <link>https://www.openstreetmap.org/note/3155919#c6762686</link>
         <guid>https://www.openstreetmap.org/note/3155919#c6762686</guid>
         <pubDate>Thu, 28 Apr 2022 12:25:38 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Szentimreváros, 11th district) / * 2022 February 15 10:25 kogutowicz-mano Created: A park várhatóan Törőcsik Mari nevét fogja viselni. https://24.hu/kultura/2022/02/15/torocsik-mari-feneketlen-to-park-atnevezes-elnevezes/ / * 2022 April 21 20:28 kogutowicz-mano Updated: Felavatva. / https://telex.hu/kult/2022/04/21/torocsik-mari-nevado-park-feneketlen-to / * 2022 April 25 20:53 infeeeee Updated: Valami hivatalos infó van erről? Önk. határozat, hogy pontosan hol a határa? Bármi, ami nem csak sajtóhír? Mert a korábbi nevén Placid Atya Park az eléggé pontosan meg van határozva, a parknál be is van linkelve a határozat, erről az újról meg nincs semmi hivatalos infó. / * 2022 April 26 04:10 kogutowicz-mano Updated: Momentán nincs. Valószínűségi alapon kell dolgoznunk. / Mindenki a Bocskai és Bartók Béla utat említi határként. Megnéztem az avatási videót. A tábla is a körcikkben áll, körülötte az ünnepélyes emberek. Ha majd lesz pontosabb adatunk, lehet tovább csiszolni a térképet. / * 2022 April 28 09:24 kogutowicz-mano Resolved: Kiderült, hogy tévedtem. Javítva.</title>
-        <link>https://www.openstreetmap.org/note/3052276#c6762214</link>
-        <guid>https://www.openstreetmap.org/note/3052276#c6762214</guid>
-        <pubDate>Thu, 28 Apr 2022 09:24:32 +0000</pubDate>
       </item>
   </channel>
 </rss>
