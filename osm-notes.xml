@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Közép-Európai Cserkészpark, Pomáz) / * 2022 May 1 08:01 utvonalfelmeresek Created: benőtt ösvény</title>
+        <link>https://www.openstreetmap.org/note/3160340#c6771723</link>
+        <guid>https://www.openstreetmap.org/note/3160340#c6771723</guid>
+        <pubDate>Sun, 01 May 2022 08:01:02 +0000</pubDate>
+      </item><item>
         <title>closed note (near City Park, 14th district) / * 2022 March 24 10:17 Created: Megnyitották, felmérhető. / * 2022 March 24 10:17 ITineris Updated: Én vagyok. Hülye iD. / * 2022 April 30 14:53 ITineris Updated: Felmértem, majd berajzolom. / * 2022 May 1 05:45 ITineris Resolved: Felvittem.</title>
         <link>https://www.openstreetmap.org/note/3100557#c6771555</link>
         <guid>https://www.openstreetmap.org/note/3100557#c6771555</guid>
@@ -237,11 +242,6 @@
         <link>https://www.openstreetmap.org/note/3052276#c6762214</link>
         <guid>https://www.openstreetmap.org/note/3052276#c6762214</guid>
         <pubDate>Thu, 28 Apr 2022 09:24:32 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Gellérthegy, 11th district) / * 2022 April 25 20:52 brobear Created: The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI name: Szabadság-szobor / POI types: wheelchair-limited tourism-viewpoint / OSM data version: 2022-03-31T16:41:57Z / #mapsme / * 2022 April 26 21:13 infeeeee Resolved: I&amp;#39;m quite sure it&amp;#39;s still there. Literally visible from everywhere in Budapest / * 2022 April 26 21:15 brobear Reactivated:  / * 2022 April 26 21:16 brobear Resolved: Wrong location. Duplicate. Other entry shows correct location. Delete this one. / * 2022 April 26 21:16 brobear Reactivated:  / * 2022 April 26 21:17 brobear Updated: This duplicate is the wrong one. / * 2022 April 26 21:18 brobear Updated: Please remove / * 2022 April 27 21:39 infeeeee Resolved: You cannot remove a note from openstreetmap, you can only resolve it, it will desappear after a while. Simply do not reactivate it.</title>
-        <link>https://www.openstreetmap.org/note/3152453#c6760840</link>
-        <guid>https://www.openstreetmap.org/note/3152453#c6760840</guid>
-        <pubDate>Wed, 27 Apr 2022 21:39:03 +0000</pubDate>
       </item>
   </channel>
 </rss>
