@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Pihenőkereszt lakópark, Győrikapu, Sopron) / * 2021 October 9 05:03 Laci Created: Exit number? / * 2022 May 2 16:46 efi99 Resolved: 84</title>
+        <link>https://www.openstreetmap.org/note/2886936#c6776288</link>
+        <guid>https://www.openstreetmap.org/note/2886936#c6776288</guid>
+        <pubDate>Mon, 02 May 2022 16:46:18 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Pihenőkereszt lakópark, Győrikapu, Sopron) / * 2022 April 3 20:57 efi99 Created: utca, hsz? / * 2022 May 2 16:42 efi99 Resolved: Potzmann 11</title>
+        <link>https://www.openstreetmap.org/note/3118957#c6776271</link>
+        <guid>https://www.openstreetmap.org/note/3118957#c6776271</guid>
+        <pubDate>Mon, 02 May 2022 16:42:05 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Pihenőkereszt lakópark, Győrikapu, Sopron) / * 2022 April 3 18:29 efi99 Created: utca hsz? / * 2022 May 2 16:38 efi99 Resolved: Töpler K 11 a-b</title>
+        <link>https://www.openstreetmap.org/note/3118857#c6776257</link>
+        <guid>https://www.openstreetmap.org/note/3118857#c6776257</guid>
+        <pubDate>Mon, 02 May 2022 16:38:37 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Pihenőkereszt lakópark, Győrikapu, Sopron) / * 2014 February 2 11:26 Created: Moved from OSB ID592968: / Marking it as residential was correct, but the street ends just before 8518. There are even some trees between, if I remember well. [NaTToMi, 2011-05-12 14:31:09 CEST] / * 2022 May 2 16:31 efi99 Resolved: ok</title>
+        <link>https://www.openstreetmap.org/note/111556#c6776235</link>
+        <guid>https://www.openstreetmap.org/note/111556#c6776235</guid>
+        <pubDate>Mon, 02 May 2022 16:31:54 +0000</pubDate>
+      </item><item>
         <title>closed note (near Hidegség) / * 2022 May 2 15:50 efi99 Resolved: 11 része</title>
         <link>https://www.openstreetmap.org/note/3161987#c6776082</link>
         <guid>https://www.openstreetmap.org/note/3161987#c6776082</guid>
@@ -232,31 +252,6 @@
         <link>https://www.openstreetmap.org/note/3066987#c6768003</link>
         <guid>https://www.openstreetmap.org/note/3066987#c6768003</guid>
         <pubDate>Fri, 29 Apr 2022 20:15:33 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Fertőszéplak) / * 2022 March 4 12:50 efi99 Created: 54? / * 2022 April 29 20:09 efi99 Resolved: 54</title>
-        <link>https://www.openstreetmap.org/note/3073811#c6767997</link>
-        <guid>https://www.openstreetmap.org/note/3073811#c6767997</guid>
-        <pubDate>Fri, 29 Apr 2022 20:09:07 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Hidegség) / * 2022 April 19 18:46 vasony-qa Created: Melyik a Temető utca, amire ez számozva van? / * 2022 April 29 20:06 efi99 Resolved: jogos, Széchenyi</title>
-        <link>https://www.openstreetmap.org/note/3142809#c6767993</link>
-        <guid>https://www.openstreetmap.org/note/3142809#c6767993</guid>
-        <pubDate>Fri, 29 Apr 2022 20:06:39 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Fertőboz) / * 2022 February 27 21:49 efi99 Created: 61 b, c ? / * 2022 April 29 20:03 efi99 Resolved: 61b</title>
-        <link>https://www.openstreetmap.org/note/3067780#c6767990</link>
-        <guid>https://www.openstreetmap.org/note/3067780#c6767990</guid>
-        <pubDate>Fri, 29 Apr 2022 20:03:37 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Kópháza) / * 2022 April 19 18:47 vasony-qa Created: Melyik a Pacsirta utca, amire ez számozva van? / * 2022 April 29 19:55 efi99 Resolved: Berajzoltam</title>
-        <link>https://www.openstreetmap.org/note/3142813#c6767985</link>
-        <guid>https://www.openstreetmap.org/note/3142813#c6767985</guid>
-        <pubDate>Fri, 29 Apr 2022 19:55:40 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Kópháza) / * 2022 March 15 16:01 efi99 Created: 19/B v 21/B ? / * 2022 April 29 19:49 efi99 Resolved: 21b</title>
-        <link>https://www.openstreetmap.org/note/3089347#c6767981</link>
-        <guid>https://www.openstreetmap.org/note/3089347#c6767981</guid>
-        <pubDate>Fri, 29 Apr 2022 19:49:19 +0000</pubDate>
       </item>
   </channel>
 </rss>
