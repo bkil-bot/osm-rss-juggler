@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Sopronbánfalva, Sopron) / * 2022 April 22 07:21 efi99 Created: cím? / * 2022 May 3 07:44 efi99 Resolved: nem lakóépület</title>
+        <link>https://www.openstreetmap.org/note/3146993#c6778082</link>
+        <guid>https://www.openstreetmap.org/note/3146993#c6778082</guid>
+        <pubDate>Tue, 03 May 2022 07:44:01 +0000</pubDate>
+      </item><item>
+        <title>new note (near Ibolya úti lakótelep, Sopronbánfalva, Sopron) / * 2022 May 3 07:21 efi99 Created: cím?</title>
+        <link>https://www.openstreetmap.org/note/3163104#c6777974</link>
+        <guid>https://www.openstreetmap.org/note/3163104#c6777974</guid>
+        <pubDate>Tue, 03 May 2022 07:21:30 +0000</pubDate>
+      </item><item>
         <title>closed note (near Ágfalva) / * 2022 March 20 17:51 efi99 Created: 39? / * 2022 May 2 22:20 efi99 Resolved: elbontva</title>
         <link>https://www.openstreetmap.org/note/3095743#c6777372</link>
         <guid>https://www.openstreetmap.org/note/3095743#c6777372</guid>
@@ -247,16 +257,6 @@
         <link>https://www.openstreetmap.org/note/3159917#c6770639</link>
         <guid>https://www.openstreetmap.org/note/3159917#c6770639</guid>
         <pubDate>Sat, 30 Apr 2022 18:46:45 +0000</pubDate>
-      </item><item>
-        <title>new comment (near City Park, 14th district) / * 2022 March 24 10:17 Created: Megnyitották, felmérhető. / * 2022 March 24 10:17 ITineris Updated: Én vagyok. Hülye iD. / * 2022 April 30 14:53 ITineris Updated: Felmértem, majd berajzolom.</title>
-        <link>https://www.openstreetmap.org/note/3100557#c6770138</link>
-        <guid>https://www.openstreetmap.org/note/3100557#c6770138</guid>
-        <pubDate>Sat, 30 Apr 2022 14:53:18 +0000</pubDate>
-      </item><item>
-        <title>new note (near City Park, 14th district) / * 2022 April 30 14:52 ITineris Created: A Ballont már többször felengedték. Meg kellene nézni, elbontották-e már a kerítést. Ha igen, felmérni az ösvényeket, padokat, szemeteseket, egyéb infrastruktúrát. / Esetleg a wc és a Sörkert is megnyitott már.</title>
-        <link>https://www.openstreetmap.org/note/3159632#c6770137</link>
-        <guid>https://www.openstreetmap.org/note/3159632#c6770137</guid>
-        <pubDate>Sat, 30 Apr 2022 14:52:59 +0000</pubDate>
       </item>
   </channel>
 </rss>
