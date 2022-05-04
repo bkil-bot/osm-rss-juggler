@@ -3,11 +3,6 @@
   <channel>
     <title>Wireless News (via bkil-bot)</title>
       <item>
-        <title>Re: Detecting Gas Pump Skimmers by Bluetooth signature (Bluetana / SkimPlus): &quot;The tricky part would now be to cross this with a database from gas stations &quot; The Signils ap&quot;p Devs have a database of known skimmers to check logged captures against. I was outside my building the other morning when someone with a null MAC, sll zeros, tried to pair with my Bluetooth signal. I had the Wigle WarWalking window open, closed it, started Signils, logged several unknowns and blocked them all. No attempts to pair with me since. It did tell me one was from a known skimmer but I'm too far from the nearest gas station for it to be installed on a pump. -Tom_Sawyer</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?t=2706&amp;p=11236#p11236</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?t=2706&amp;p=11236#p11236</guid>
-        <pubDate>2022-05-04T22:07:29</pubDate>
-      </item><item>
         <title>Re: Detecting Gas Pump Skimmers by Bluetooth signature (Bluetana / SkimPlus): This Android app will specifically scan for skimmers and give you the opportunity to block them. I hate to recommend the app. I paid for the upgrade, the app forgets about it as soon as you leave the page and the Dev has ignored all my attempts to resolve the issue. The app is called Signils Bluetooth Manager and here are some screenshots of it giving you the opportunity to block unrecognized devices. -Tom_Sawyer</title>
         <link>https://wigle.net/phpbb/viewtopic.php?t=2706&amp;p=11233#p11233</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2706&amp;p=11233#p11233</guid>
@@ -77,6 +72,11 @@
         <link>https://wigle.net/phpbb/viewtopic.php?t=1762&amp;p=9927#p9927</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=1762&amp;p=9927#p9927</guid>
         <pubDate>2019-02-17T22:08:55</pubDate>
+      </item><item>
+        <title>Re: A Different Approach: not sure if I understand your methodology yet, but I will warn you that MAC addresses in probe requests are often (and intentionally) unreliable: https://source.android.com/devices/tech ... domization https://www.theregister.co.uk/2017/03/ ... omization/ https://securityintelligence.com/news/m ... clobbered/ -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2587&amp;p=9819#p9819</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2587&amp;p=9819#p9819</guid>
+        <pubDate>2018-11-26T00:49:07</pubDate>
       </item>
   </channel>
 </rss>
