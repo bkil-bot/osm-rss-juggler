@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Sopronbánfalva, Sopron) / * 2022 May 4 11:11 efi99 Created: cím?</title>
+        <link>https://www.openstreetmap.org/note/3164753#c6781796</link>
+        <guid>https://www.openstreetmap.org/note/3164753#c6781796</guid>
+        <pubDate>Wed, 04 May 2022 11:11:58 +0000</pubDate>
+      </item><item>
         <title>closed note (near Gyermekváros, Zánka) / * 2022 May 1 05:17 utvonalfelmeresek Created: Változás a zöld sáv turistaút nyomvonalában / * 2022 May 4 09:53 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/120534618</title>
         <link>https://www.openstreetmap.org/note/3160233#c6781599</link>
         <guid>https://www.openstreetmap.org/note/3160233#c6781599</guid>
@@ -212,11 +217,6 @@
         <link>https://www.openstreetmap.org/note/3161717#c6774429</link>
         <guid>https://www.openstreetmap.org/note/3161717#c6774429</guid>
         <pubDate>Mon, 02 May 2022 05:09:06 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Belváros, 5th district) / * 2022 May 1 18:46 infeeeee Resolved: Public notes are not for saving personal location info.</title>
-        <link>https://www.openstreetmap.org/note/3161103#c6773670</link>
-        <guid>https://www.openstreetmap.org/note/3161103#c6773670</guid>
-        <pubDate>Sun, 01 May 2022 18:46:55 +0000</pubDate>
       </item>
   </channel>
 </rss>
