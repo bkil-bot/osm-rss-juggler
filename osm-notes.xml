@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Sopronbánfalva, Sopron) / * 2022 May 4 14:23 efi99 Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3164773#c6782434</link>
+        <guid>https://www.openstreetmap.org/note/3164773#c6782434</guid>
+        <pubDate>Wed, 04 May 2022 14:23:07 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Sopronbánfalva, Sopron) / * 2022 May 4 14:23 efi99 Updated: 22</title>
+        <link>https://www.openstreetmap.org/note/3164773#c6782433</link>
+        <guid>https://www.openstreetmap.org/note/3164773#c6782433</guid>
+        <pubDate>Wed, 04 May 2022 14:23:05 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Sopronbánfalva, Sopron) / * 2022 April 22 11:35 efi99 Created: cím helyes? / * 2022 May 4 14:20 efi99 Resolved: 14b</title>
+        <link>https://www.openstreetmap.org/note/3147387#c6782427</link>
+        <guid>https://www.openstreetmap.org/note/3147387#c6782427</guid>
+        <pubDate>Wed, 04 May 2022 14:20:35 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Sopronbánfalva, Sopron) / * 2022 May 4 14:20 efi99 Resolved: 8b</title>
+        <link>https://www.openstreetmap.org/note/3164753#c6782423</link>
+        <guid>https://www.openstreetmap.org/note/3164753#c6782423</guid>
+        <pubDate>Wed, 04 May 2022 14:20:05 +0000</pubDate>
+      </item><item>
         <title>new note (near Felsőlövérek, Sopron) / * 2022 May 4 12:21 efi99 Created: 16?</title>
         <link>https://www.openstreetmap.org/note/3164870#c6781996</link>
         <guid>https://www.openstreetmap.org/note/3164870#c6781996</guid>
@@ -167,56 +187,6 @@
         <link>https://www.openstreetmap.org/note/3146708#c6775607</link>
         <guid>https://www.openstreetmap.org/note/3146708#c6775607</guid>
         <pubDate>Mon, 02 May 2022 12:26:49 +0000</pubDate>
-      </item><item>
-        <title>new note (near Hidegség) / * 2022 May 2 10:01 efi99 Created: cím?</title>
-        <link>https://www.openstreetmap.org/note/3161987#c6775166</link>
-        <guid>https://www.openstreetmap.org/note/3161987#c6775166</guid>
-        <pubDate>Mon, 02 May 2022 10:01:02 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Pilisszentiván) / * 2022 May 2 09:18 vasony Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2955648#c6775064</link>
-        <guid>https://www.openstreetmap.org/note/2955648#c6775064</guid>
-        <pubDate>Mon, 02 May 2022 09:18:07 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Pilisszentiván) / * 2022 May 2 09:16 vasony Resolved: ok, kiszűröm</title>
-        <link>https://www.openstreetmap.org/note/2955661#c6775062</link>
-        <guid>https://www.openstreetmap.org/note/2955661#c6775062</guid>
-        <pubDate>Mon, 02 May 2022 09:16:43 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Pilisszentiván) / * 2022 May 2 09:13 vasony Resolved: Akkor lezárhatjuk ha nincs nyoma</title>
-        <link>https://www.openstreetmap.org/note/2955673#c6775058</link>
-        <guid>https://www.openstreetmap.org/note/2955673#c6775058</guid>
-        <pubDate>Mon, 02 May 2022 09:13:28 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Pilisszentiván) / * 2022 May 2 05:46 ITineris Updated: Megjegyzés: A Bányász utcától induló lépcsőnél van kint egy tábla, hogy felfelé van a Ságvári utca és a Régi temető. Ez után eredetileg volt még egy &amp;quot;u.&amp;quot; is, amit lefestettek fehérrel.</title>
-        <link>https://www.openstreetmap.org/note/2955673#c6774470</link>
-        <guid>https://www.openstreetmap.org/note/2955673#c6774470</guid>
-        <pubDate>Mon, 02 May 2022 05:46:53 +0000</pubDate>
-      </item><item>
-        <title>reactivated note (near Pilisszentiván) / * 2022 May 2 05:44 ITineris Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/2955673#c6774467</link>
-        <guid>https://www.openstreetmap.org/note/2955673#c6774467</guid>
-        <pubDate>Mon, 02 May 2022 05:44:48 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Erzsébet Ipari Park, Pilisszentiván) / * 2021 March 1 15:27 vasony-qa Created: Melyik a helyes? Erzsébetpark, Erzsébet park, Erzsébetpark utca / * 2022 May 2 05:44 ITineris Resolved: Nincsenek ilyen utcatáblák kint. / Ellenben az egész industrial területet hívják Erzsébet Ipari Parknak. / Az utcaneveket leszedtem, az addr:street-eket egységesítettem Erzsébet parknak (a szokásos közterület neveknek megfelelően).</title>
-        <link>https://www.openstreetmap.org/note/2561447#c6774466</link>
-        <guid>https://www.openstreetmap.org/note/2561447#c6774466</guid>
-        <pubDate>Mon, 02 May 2022 05:44:32 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Pilisszentiván) / * 2021 December 1 10:15 vasony Created: Ez az Éger utca? / * 2021 December 1 10:20 vasony Updated: vagy Károlyhegyi dűlő? / * 2022 May 2 05:29 ITineris Updated: Semmilyen tábla sincs kint. A házakon is csak hrsz.</title>
-        <link>https://www.openstreetmap.org/note/2955648#c6774442</link>
-        <guid>https://www.openstreetmap.org/note/2955648#c6774442</guid>
-        <pubDate>Mon, 02 May 2022 05:29:05 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Pilisszentiván) / * 2021 December 1 10:15 vasony Created: Ez a József Attila köz? / * 2022 May 2 05:28 ITineris Updated: Meglepő lenne, mert a végén is József Attila utca házszám van. (Felvittem.) / Az 56-ban lakót kérdeztem meg, ő nem tud J.A. közről.</title>
-        <link>https://www.openstreetmap.org/note/2955661#c6774441</link>
-        <guid>https://www.openstreetmap.org/note/2955661#c6774441</guid>
-        <pubDate>Mon, 02 May 2022 05:28:08 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Pilisszentiván) / * 2021 December 1 10:36 vasony Created: Öregtemető köz / * 2021 December 1 10:36 vasony Updated: Öregtemető köz itt van valahol? / * 2022 May 2 05:23 ITineris Resolved: Sem itt, sem a temető alatti lépcsőn nincs kint semmilyen felirat. Több helyit is megkérdeztem, ők sem tudnak róla. / Ha van ilyen hivatalos közterület, én erre szavaznék a kettő közül.</title>
-        <link>https://www.openstreetmap.org/note/2955673#c6774438</link>
-        <guid>https://www.openstreetmap.org/note/2955673#c6774438</guid>
-        <pubDate>Mon, 02 May 2022 05:23:12 +0000</pubDate>
       </item>
   </channel>
 </rss>
