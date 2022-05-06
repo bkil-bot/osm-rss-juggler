@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Kőfaragó téri lakótelep, Belváros, Sopron) / * 2022 May 6 08:41 efi99 Created: A mellette lévő óvoda is 16...</title>
+        <link>https://www.openstreetmap.org/note/3167421#c6787926</link>
+        <guid>https://www.openstreetmap.org/note/3167421#c6787926</guid>
+        <pubDate>Fri, 06 May 2022 08:41:55 +0000</pubDate>
+      </item><item>
         <title>new note (near Délnyugat Lakópark, Újszentiván) / * 2022 May 5 22:36 CopperOppositeKindred Created: ez a csatorna itt tényleg megszakad? ellenőrizzem le</title>
         <link>https://www.openstreetmap.org/note/3167118#c6787263</link>
         <guid>https://www.openstreetmap.org/note/3167118#c6787263</guid>
@@ -267,11 +272,6 @@
         <link>https://www.openstreetmap.org/note/3164753#c6781796</link>
         <guid>https://www.openstreetmap.org/note/3164753#c6781796</guid>
         <pubDate>Wed, 04 May 2022 11:11:58 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Gyermekváros, Zánka) / * 2022 May 1 05:17 utvonalfelmeresek Created: Változás a zöld sáv turistaút nyomvonalában / * 2022 May 4 09:53 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/120534618</title>
-        <link>https://www.openstreetmap.org/note/3160233#c6781599</link>
-        <guid>https://www.openstreetmap.org/note/3160233#c6781599</guid>
-        <pubDate>Wed, 04 May 2022 09:53:11 +0000</pubDate>
       </item>
   </channel>
 </rss>
