@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>And on a related note, talking of unexpected map viewers, I should also mention #MapSCII, which is a #Braille and ASCII world map renderer for your console, accessible via #telnet. Simply invoke “telnet mapscii.me”. Powered by #OpenStreetMap data.</title>
+        <link>https://en.osm.town/@Doudouosm/108279759565780419</link>
+        <guid>https://en.osm.town/@Doudouosm/108279759565780419</guid>
+        <pubDate>Tue, 10 May 2022 21:26:50 +0000</pubDate>
+      </item><item>
         <title>Retrospective interview with @pietervdvn on the partnership with Visit Flanders to augment #OpenStreetMap with points of interest for hikers and cyclists. https://blog.openstreetmap.org/2022/05/10/mapping-for-cyclists-and-hikers-flemish-tourism-organisations-join-forces-with-osm-belgium/ #pinjepunt</title>
         <link>https://en.osm.town/@Doudouosm/108279714492310297</link>
         <guid>https://en.osm.town/@Doudouosm/108279714492310297</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/107968323304292457</link>
         <guid>https://en.osm.town/@Doudouosm/107968323304292457</guid>
         <pubDate>Wed, 16 Mar 2022 21:24:30 +0000</pubDate>
-      </item><item>
-        <title>#RouteXL is a free webapp for road itinerary planning with optimization for multiple stops to save travel time and cost. Free to use for routes up to 20 stops. More stops come at a fee. Powered by #OpenStreetMap data. - Website: http://www.routexl.com - Demo video: https://yewtu.be/watch?v=ddKwv42XFxI</title>
-        <link>https://en.osm.town/@Doudouosm/107934468718570633</link>
-        <guid>https://en.osm.town/@Doudouosm/107934468718570633</guid>
-        <pubDate>Thu, 10 Mar 2022 21:54:50 +0000</pubDate>
       </item>
   </channel>
 </rss>
