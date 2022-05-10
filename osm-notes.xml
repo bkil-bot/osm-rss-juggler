@@ -3,6 +3,31 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Erzsébetváros, 7th district) / * 2022 May 5 19:50 kogutowicz-mano Created: A https://24.hu/kultura/2022/05/05/ismeretlen-budapest-kazinczy-utca-tancmuveszeti-foiskola-schmolka-kozma-szalami-hus-brklyn-kocka-epites-forestay-hotel-szalloda/ cikkben van egy önkormányzati térkép. Aszerint ez &amp;quot;Madách sétány&amp;quot;. / * 2022 May 10 11:03 infeeeee Updated: Az nem önkormányzati térkép, hanem az ÉTDR-ről letöltött helyszínrajz. Oda van írva alá kis betűkkel forrásként, hogy ÉTDR azaz &amp;quot;Építésügyi hatósági engedélyezési eljárásokat Támogató elektronikus Dokumentációs Rendszer&amp;quot;. / Engedélyezési terveket ide kell feltölteni a tervezőnek.</title>
+        <link>https://www.openstreetmap.org/note/3166956#c6800263</link>
+        <guid>https://www.openstreetmap.org/note/3166956#c6800263</guid>
+        <pubDate>Tue, 10 May 2022 11:03:33 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Újtelep, Csömör) / * 2022 May 10 10:56 infeeeee Updated: According to the official source, there is a bus stop here: / https://futar.bkk.hu/stop/BKK_008713</title>
+        <link>https://www.openstreetmap.org/note/2852775#c6800253</link>
+        <guid>https://www.openstreetmap.org/note/2852775#c6800253</guid>
+        <pubDate>Tue, 10 May 2022 10:56:09 +0000</pubDate>
+      </item><item>
+        <title>reactivated note (near Újtelep, Csömör) / * 2021 September 14 23:05 Datguymarkus Created: Unable to answer &amp;quot;Is the bus stop Csömör H lit?&amp;quot; for https://osm.org/node/2894342922 via StreetComplete 34.1: / Itt nincs buszmegálló / * 2022 May 7 16:58 Aued80 Resolved:  / * 2022 May 7 16:58 Aued80 Reactivated:  / * 2022 May 7 16:59 Aued80 Resolved: Yes, the HÉV stop is here, but the bus stop isn&amp;#39;t here! / * 2022 May 10 10:55 infeeeee Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/2852775#c6800250</link>
+        <guid>https://www.openstreetmap.org/note/2852775#c6800250</guid>
+        <pubDate>Tue, 10 May 2022 10:55:23 +0000</pubDate>
+      </item><item>
+        <title>new note (near Nagycenk) / * 2022 May 10 10:51 efi99 Created: Cím jó?</title>
+        <link>https://www.openstreetmap.org/note/3173353#c6800243</link>
+        <guid>https://www.openstreetmap.org/note/3173353#c6800243</guid>
+        <pubDate>Tue, 10 May 2022 10:51:34 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Erzsébetváros, 7th district) / * 2022 May 9 10:19 kogutowicz-mano Created: Itt miért nincs berajzolva a ház? / (A héten arra járok, megnézem.) / * 2022 May 10 10:48 infeeeee Updated: Meg van rajzolva: https://www.openstreetmap.org/way/258859925 / csak rajta van egy abandoned:building=public címke, ezért a Mapnik nem jeleníti meg.</title>
+        <link>https://www.openstreetmap.org/note/3171932#c6800238</link>
+        <guid>https://www.openstreetmap.org/note/3171932#c6800238</guid>
+        <pubDate>Tue, 10 May 2022 10:48:21 +0000</pubDate>
+      </item><item>
         <title>new note (near Nagycenk) / * 2022 May 10 09:39 efi99 Created: cím?</title>
         <link>https://www.openstreetmap.org/note/3173284#c6800091</link>
         <guid>https://www.openstreetmap.org/note/3173284#c6800091</guid>
@@ -257,31 +282,6 @@
         <link>https://www.openstreetmap.org/note/3169439#c6791940</link>
         <guid>https://www.openstreetmap.org/note/3169439#c6791940</guid>
         <pubDate>Sat, 07 May 2022 17:21:29 +0000</pubDate>
-      </item><item>
-        <title>new note (near Kalmár-tanya, Pákozd) / * 2022 May 7 17:21 grin Created: grin, töröld már le</title>
-        <link>https://www.openstreetmap.org/note/3169438#c6791938</link>
-        <guid>https://www.openstreetmap.org/note/3169438#c6791938</guid>
-        <pubDate>Sat, 07 May 2022 17:21:28 +0000</pubDate>
-      </item><item>
-        <title>new note (near Pákozd) / * 2022 May 7 17:21 grin Created: nincs, megette az építkezés</title>
-        <link>https://www.openstreetmap.org/note/3169437#c6791937</link>
-        <guid>https://www.openstreetmap.org/note/3169437#c6791937</guid>
-        <pubDate>Sat, 07 May 2022 17:21:27 +0000</pubDate>
-      </item><item>
-        <title>new note (near Hegyvidéki erdőterületek, Budaörs) / * 2022 May 7 17:21 grin Created: path</title>
-        <link>https://www.openstreetmap.org/note/3169436#c6791936</link>
-        <guid>https://www.openstreetmap.org/note/3169436#c6791936</guid>
-        <pubDate>Sat, 07 May 2022 17:21:27 +0000</pubDate>
-      </item><item>
-        <title>new note (near Pákozd) / * 2022 May 7 17:21 grin Created: stele</title>
-        <link>https://www.openstreetmap.org/note/3169435#c6791935</link>
-        <guid>https://www.openstreetmap.org/note/3169435#c6791935</guid>
-        <pubDate>Sat, 07 May 2022 17:21:26 +0000</pubDate>
-      </item><item>
-        <title>new note (near Pákozd) / * 2022 May 7 17:21 grin Created: hunting stand, 2m, nem fedett, rozoga</title>
-        <link>https://www.openstreetmap.org/note/3169434#c6791934</link>
-        <guid>https://www.openstreetmap.org/note/3169434#c6791934</guid>
-        <pubDate>Sat, 07 May 2022 17:21:25 +0000</pubDate>
       </item>
   </channel>
 </rss>
