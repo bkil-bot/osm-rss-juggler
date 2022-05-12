@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Siklósi városrész, Pécs) / * 2022 May 9 17:39 Spush Created: Ha ez a buszparkoló felszíni, akkor miért van rajta layer=-1?? / * 2022 May 12 10:17 Spush Resolved: Jav</title>
+        <link>https://www.openstreetmap.org/note/3172536#c6806532</link>
+        <guid>https://www.openstreetmap.org/note/3172536#c6806532</guid>
+        <pubDate>Thu, 12 May 2022 10:17:35 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Siklósi városrész, Pécs) / * 2022 May 9 17:40 Spush Created: Ez körforgalom?? Mert ha igen akkor junction=roundabout kellene rá, meg körré kellene formálni. / * 2022 May 12 10:17 Spush Resolved: Jav.</title>
+        <link>https://www.openstreetmap.org/note/3172537#c6806531</link>
+        <guid>https://www.openstreetmap.org/note/3172537#c6806531</guid>
+        <pubDate>Thu, 12 May 2022 10:17:29 +0000</pubDate>
+      </item><item>
         <title>new note (near Ipartelep, Mosonmagyaróvár) / * 2022 May 11 19:08 Drummerboy78 Created: Gymtronic</title>
         <link>https://www.openstreetmap.org/note/3175411#c6804846</link>
         <guid>https://www.openstreetmap.org/note/3175411#c6804846</guid>
@@ -297,26 +307,6 @@
         <link>https://www.openstreetmap.org/note/2718450#c6798820</link>
         <guid>https://www.openstreetmap.org/note/2718450#c6798820</guid>
         <pubDate>Mon, 09 May 2022 19:25:48 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Térvár, Tiszasziget) / * 2022 May 5 14:05 CopperOppositeKindred Created: A buszmegálló egy picit rossz helyen van / via StreetComplete 43.0 / Attached photo(s): / https://westnordost.de/p/92072.jpg / * 2022 May 9 18:27 gabro00 Resolved: https://www.openstreetmap.org/changeset/120761209</title>
-        <link>https://www.openstreetmap.org/note/3166481#c6798689</link>
-        <guid>https://www.openstreetmap.org/note/3166481#c6798689</guid>
-        <pubDate>Mon, 09 May 2022 18:27:08 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Ruzsa) / * 2022 April 24 22:58 Created: Ruzsa / * 2022 May 9 18:25 gabro00 Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3151128#c6798686</link>
-        <guid>https://www.openstreetmap.org/note/3151128#c6798686</guid>
-        <pubDate>Mon, 09 May 2022 18:25:31 +0000</pubDate>
-      </item><item>
-        <title>new note (near Siklósi városrész, Pécs) / * 2022 May 9 17:40 Spush Created: Ez körforgalom?? Mert ha igen akkor junction=roundabout kellene rá, meg körré kellene formálni.</title>
-        <link>https://www.openstreetmap.org/note/3172537#c6798611</link>
-        <guid>https://www.openstreetmap.org/note/3172537#c6798611</guid>
-        <pubDate>Mon, 09 May 2022 17:40:46 +0000</pubDate>
-      </item><item>
-        <title>new note (near Siklósi városrész, Pécs) / * 2022 May 9 17:39 Spush Created: Ha ez a buszparkoló felszíni, akkor miért van rajta layer=-1??</title>
-        <link>https://www.openstreetmap.org/note/3172536#c6798608</link>
-        <guid>https://www.openstreetmap.org/note/3172536#c6798608</guid>
-        <pubDate>Mon, 09 May 2022 17:39:11 +0000</pubDate>
       </item>
   </channel>
 </rss>
