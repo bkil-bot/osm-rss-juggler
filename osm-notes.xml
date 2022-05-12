@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Pereszteg) / * 2022 February 17 16:16 efi99 Created: nincs kitett házszám / * 2022 February 25 14:22 efi99 Updated: 116/A? / * 2022 May 12 19:30 efi99 Resolved: 116-tal azonos telken</title>
+        <link>https://www.openstreetmap.org/note/3055522#c6807917</link>
+        <guid>https://www.openstreetmap.org/note/3055522#c6807917</guid>
+        <pubDate>Thu, 12 May 2022 19:30:05 +0000</pubDate>
+      </item><item>
         <title>new note (near Csitkés, Nagycenk) / * 2022 May 12 16:58 efi99 Created: az utolsó 3 ház címe?</title>
         <link>https://www.openstreetmap.org/note/3176485#c6807494</link>
         <guid>https://www.openstreetmap.org/note/3176485#c6807494</guid>
@@ -307,16 +312,6 @@
         <link>https://www.openstreetmap.org/note/3173032#c6799684</link>
         <guid>https://www.openstreetmap.org/note/3173032#c6799684</guid>
         <pubDate>Tue, 10 May 2022 07:00:11 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Teskánd) / * 2022 May 9 23:43 LittlePebble Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3172809#c6799219</link>
-        <guid>https://www.openstreetmap.org/note/3172809#c6799219</guid>
-        <pubDate>Mon, 09 May 2022 23:43:05 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Teskánd) / * 2022 May 9 23:43 LittlePebble Updated: Valahogyan duplikálódott a jegyzet, amit nem értek hogyan, de a másikat lezárom.</title>
-        <link>https://www.openstreetmap.org/note/3172810#c6799218</link>
-        <guid>https://www.openstreetmap.org/note/3172810#c6799218</guid>
-        <pubDate>Mon, 09 May 2022 23:43:02 +0000</pubDate>
       </item>
   </channel>
 </rss>
