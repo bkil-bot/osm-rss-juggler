@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Martonvásár) / * 2021 June 30 08:58 Created: BOLT / * 2022 May 13 13:36 urbalazs Resolved: Ennyi információ kevés a térkép javításához. Névtelen bejelentőtől pedig nem várható válasz a pontosításra, ezért lezárom.</title>
+        <link>https://www.openstreetmap.org/note/2734665#c6809884</link>
+        <guid>https://www.openstreetmap.org/note/2734665#c6809884</guid>
+        <pubDate>Fri, 13 May 2022 13:36:52 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Martonvásár) / * 2019 July 16 09:26 Javra Created: the pub is not there anymore, it&amp;#39;s some kind of research institute now / via StreetComplete 12.2 / * 2022 May 13 13:36 urbalazs Resolved: There is no pub here anymore on the map. Maybe someone deleted it in the meantime.</title>
+        <link>https://www.openstreetmap.org/note/1845949#c6809882</link>
+        <guid>https://www.openstreetmap.org/note/1845949#c6809882</guid>
+        <pubDate>Fri, 13 May 2022 13:36:07 +0000</pubDate>
+      </item><item>
         <title>closed note (near Lipótváros, 5th district) / * 2021 July 29 08:59 Mateusz Konieczny Created: individual lanes mapped as separate carriageways (from looking at Bing imagery) / * 2022 May 13 13:20 urbalazs Resolved: There are many trafic islands there. The current map seams to be OK.</title>
         <link>https://www.openstreetmap.org/note/2776225#c6809853</link>
         <guid>https://www.openstreetmap.org/note/2776225#c6809853</guid>
@@ -242,21 +252,6 @@
         <link>https://www.openstreetmap.org/note/2796771#c6800344</link>
         <guid>https://www.openstreetmap.org/note/2796771#c6800344</guid>
         <pubDate>Tue, 10 May 2022 11:46:28 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Erzsébetváros, 7th district) / * 2022 May 10 11:45 kogutowicz-mano Resolved: Oh, megvan. Kösz!</title>
-        <link>https://www.openstreetmap.org/note/3171932#c6800342</link>
-        <guid>https://www.openstreetmap.org/note/3171932#c6800342</guid>
-        <pubDate>Tue, 10 May 2022 11:45:41 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Újtelep, Csömör) / * 2022 May 10 11:33 Datguymarkus Updated: I live here. I was there less than a week ago. There is no bus stop. Only a HÉV stop. A bus stop wouldn&amp;#39;t even make sense to be there, since the bus line goes along Szabadság út.</title>
-        <link>https://www.openstreetmap.org/note/2852775#c6800304</link>
-        <guid>https://www.openstreetmap.org/note/2852775#c6800304</guid>
-        <pubDate>Tue, 10 May 2022 11:33:50 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Erzsébetváros, 7th district) / * 2022 May 5 19:50 kogutowicz-mano Created: A https://24.hu/kultura/2022/05/05/ismeretlen-budapest-kazinczy-utca-tancmuveszeti-foiskola-schmolka-kozma-szalami-hus-brklyn-kocka-epites-forestay-hotel-szalloda/ cikkben van egy önkormányzati térkép. Aszerint ez &amp;quot;Madách sétány&amp;quot;. / * 2022 May 10 11:03 infeeeee Updated: Az nem önkormányzati térkép, hanem az ÉTDR-ről letöltött helyszínrajz. Oda van írva alá kis betűkkel forrásként, hogy ÉTDR azaz &amp;quot;Építésügyi hatósági engedélyezési eljárásokat Támogató elektronikus Dokumentációs Rendszer&amp;quot;. / Engedélyezési terveket ide kell feltölteni a tervezőnek.</title>
-        <link>https://www.openstreetmap.org/note/3166956#c6800263</link>
-        <guid>https://www.openstreetmap.org/note/3166956#c6800263</guid>
-        <pubDate>Tue, 10 May 2022 11:03:33 +0000</pubDate>
       </item>
   </channel>
 </rss>
