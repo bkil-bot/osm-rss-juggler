@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Sopronkövesd) / * 2022 May 13 11:21 efi99 Created: cím?</title>
+        <link>https://www.openstreetmap.org/note/3177452#c6809641</link>
+        <guid>https://www.openstreetmap.org/note/3177452#c6809641</guid>
+        <pubDate>Fri, 13 May 2022 11:21:05 +0000</pubDate>
+      </item><item>
         <title>new note (near Sopronkövesd) / * 2022 May 13 09:43 efi99 Created: cím jó?</title>
         <link>https://www.openstreetmap.org/note/3177338#c6809426</link>
         <guid>https://www.openstreetmap.org/note/3177338#c6809426</guid>
@@ -262,26 +267,6 @@
         <link>https://www.openstreetmap.org/note/3173353#c6800243</link>
         <guid>https://www.openstreetmap.org/note/3173353#c6800243</guid>
         <pubDate>Tue, 10 May 2022 10:51:34 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Erzsébetváros, 7th district) / * 2022 May 9 10:19 kogutowicz-mano Created: Itt miért nincs berajzolva a ház? / (A héten arra járok, megnézem.) / * 2022 May 10 10:48 infeeeee Updated: Meg van rajzolva: https://www.openstreetmap.org/way/258859925 / csak rajta van egy abandoned:building=public címke, ezért a Mapnik nem jeleníti meg.</title>
-        <link>https://www.openstreetmap.org/note/3171932#c6800238</link>
-        <guid>https://www.openstreetmap.org/note/3171932#c6800238</guid>
-        <pubDate>Tue, 10 May 2022 10:48:21 +0000</pubDate>
-      </item><item>
-        <title>new note (near Nagycenk) / * 2022 May 10 09:39 efi99 Created: cím?</title>
-        <link>https://www.openstreetmap.org/note/3173284#c6800091</link>
-        <guid>https://www.openstreetmap.org/note/3173284#c6800091</guid>
-        <pubDate>Tue, 10 May 2022 09:39:27 +0000</pubDate>
-      </item><item>
-        <title>new note (near Nagycenk) / * 2022 May 10 09:39 efi99 Created: cím?</title>
-        <link>https://www.openstreetmap.org/note/3173283#c6800090</link>
-        <guid>https://www.openstreetmap.org/note/3173283#c6800090</guid>
-        <pubDate>Tue, 10 May 2022 09:39:21 +0000</pubDate>
-      </item><item>
-        <title>new note (near Nagycenk) / * 2022 May 10 09:36 efi99 Created: van önálló száma?</title>
-        <link>https://www.openstreetmap.org/note/3173274#c6800076</link>
-        <guid>https://www.openstreetmap.org/note/3173274#c6800076</guid>
-        <pubDate>Tue, 10 May 2022 09:36:25 +0000</pubDate>
       </item>
   </channel>
 </rss>
