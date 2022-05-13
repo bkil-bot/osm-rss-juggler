@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Lipótváros, 5th district) / * 2021 July 29 08:59 Mateusz Konieczny Created: individual lanes mapped as separate carriageways (from looking at Bing imagery) / * 2022 May 13 13:20 urbalazs Resolved: There are many trafic islands there. The current map seams to be OK.</title>
+        <link>https://www.openstreetmap.org/note/2776225#c6809853</link>
+        <guid>https://www.openstreetmap.org/note/2776225#c6809853</guid>
+        <pubDate>Fri, 13 May 2022 13:20:36 +0000</pubDate>
+      </item><item>
         <title>new note (near Sopronkövesd) / * 2022 May 13 11:21 efi99 Created: cím?</title>
         <link>https://www.openstreetmap.org/note/3177452#c6809641</link>
         <guid>https://www.openstreetmap.org/note/3177452#c6809641</guid>
@@ -252,21 +257,6 @@
         <link>https://www.openstreetmap.org/note/3166956#c6800263</link>
         <guid>https://www.openstreetmap.org/note/3166956#c6800263</guid>
         <pubDate>Tue, 10 May 2022 11:03:33 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Újtelep, Csömör) / * 2022 May 10 10:56 infeeeee Updated: According to the official source, there is a bus stop here: / https://futar.bkk.hu/stop/BKK_008713</title>
-        <link>https://www.openstreetmap.org/note/2852775#c6800253</link>
-        <guid>https://www.openstreetmap.org/note/2852775#c6800253</guid>
-        <pubDate>Tue, 10 May 2022 10:56:09 +0000</pubDate>
-      </item><item>
-        <title>reactivated note (near Újtelep, Csömör) / * 2021 September 14 23:05 Datguymarkus Created: Unable to answer &amp;quot;Is the bus stop Csömör H lit?&amp;quot; for https://osm.org/node/2894342922 via StreetComplete 34.1: / Itt nincs buszmegálló / * 2022 May 7 16:58 Aued80 Resolved:  / * 2022 May 7 16:58 Aued80 Reactivated:  / * 2022 May 7 16:59 Aued80 Resolved: Yes, the HÉV stop is here, but the bus stop isn&amp;#39;t here! / * 2022 May 10 10:55 infeeeee Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/2852775#c6800250</link>
-        <guid>https://www.openstreetmap.org/note/2852775#c6800250</guid>
-        <pubDate>Tue, 10 May 2022 10:55:23 +0000</pubDate>
-      </item><item>
-        <title>new note (near Nagycenk) / * 2022 May 10 10:51 efi99 Created: Cím jó?</title>
-        <link>https://www.openstreetmap.org/note/3173353#c6800243</link>
-        <guid>https://www.openstreetmap.org/note/3173353#c6800243</guid>
-        <pubDate>Tue, 10 May 2022 10:51:34 +0000</pubDate>
       </item>
   </channel>
 </rss>
