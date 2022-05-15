@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Hűvösvölgy, 2nd district) / * 2022 May 15 11:25 infeeeee Resolved: Ez egy rendszám, vagy mi lehet? Kereséssel nincs rá találat.</title>
+        <link>https://www.openstreetmap.org/note/3180237#c6815401</link>
+        <guid>https://www.openstreetmap.org/note/3180237#c6815401</guid>
+        <pubDate>Sun, 15 May 2022 11:25:41 +0000</pubDate>
+      </item><item>
         <title>new note (near Hűvösvölgy, 2nd district) / * 2022 May 15 09:45 Created: xn26554</title>
         <link>https://www.openstreetmap.org/note/3180237#c6815210</link>
         <guid>https://www.openstreetmap.org/note/3180237#c6815210</guid>
@@ -152,16 +157,6 @@
         <link>https://www.openstreetmap.org/note/3174982#c6804004</link>
         <guid>https://www.openstreetmap.org/note/3174982#c6804004</guid>
         <pubDate>Wed, 11 May 2022 13:54:17 +0000</pubDate>
-      </item><item>
-        <title>new note (near Csala, Székesfehérvár) / * 2022 May 11 09:16 Created: Ez a magasles már nincs itt, tegnap láttuk és üres a fa</title>
-        <link>https://www.openstreetmap.org/note/3174669#c6803333</link>
-        <guid>https://www.openstreetmap.org/note/3174669#c6803333</guid>
-        <pubDate>Wed, 11 May 2022 09:16:11 +0000</pubDate>
-      </item><item>
-        <title>new note (near Gönc) / * 2022 May 11 08:36 Aleg_Surta_Mapbox Created: Could anyone from locals please check highway=service and highway=track here and update this area with proper tagging? / #mapbox_linters_hungary</title>
-        <link>https://www.openstreetmap.org/note/3174622#c6803214</link>
-        <guid>https://www.openstreetmap.org/note/3174622#c6803214</guid>
-        <pubDate>Wed, 11 May 2022 08:36:40 +0000</pubDate>
       </item>
   </channel>
 </rss>
