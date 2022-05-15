@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>#ESP32 WiFiMulti connects to the strongest Wi-Fi network from a list of networks. It will connect to the Wi-Fi network with the strongest signal, and if the connection is lost, it will connect to the next network on the list. https://randomnerdtutorials.com/esp32-wifimulti/ #IoT</title>
+        <link>https://en.osm.town/@Doudouosm/108307686418496671</link>
+        <guid>https://en.osm.town/@Doudouosm/108307686418496671</guid>
+        <pubDate>Sun, 15 May 2022 19:49:00 +0000</pubDate>
+      </item><item>
         <title>A 15 min. video #tutorial “How to map buildings with #JOSM”: https://odysee.com/@BFS-OSM/how-to-map-buildings-with-josm. Learn how to boost your productivity by choosing the suitable methods between mapping buildings freehand, by snapping buildings together, or with the extract or subtraction tool. #OpenStreetMap</title>
         <link>https://en.osm.town/@Doudouosm/108306778998857158</link>
         <guid>https://en.osm.town/@Doudouosm/108306778998857158</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/108091528080070779</link>
         <guid>https://en.osm.town/@Doudouosm/108091528080070779</guid>
         <pubDate>Thu, 07 Apr 2022 15:37:06 +0000</pubDate>
-      </item><item>
-        <title>Do you have your #OpenStreetMap business cards with you when going field mapping? They can be handy to hand out to people who ask &amp;#39;what are you doing?&amp;#39; when they spotted you wandering around. - https://wiki.openstreetmap.org/wiki/Business_card - https://www.openstreetmap.org/user/LySioS/diary/398913 (in French)</title>
-        <link>https://en.osm.town/@Doudouosm/108057872259862614</link>
-        <guid>https://en.osm.town/@Doudouosm/108057872259862614</guid>
-        <pubDate>Fri, 01 Apr 2022 16:57:59 +0000</pubDate>
       </item>
   </channel>
 </rss>
