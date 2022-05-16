@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Sóshegy, Szigetszentmiklós) / * 2022 May 16 04:18 vasony Created: Ez a Bíbic utca?</title>
+        <link>https://www.openstreetmap.org/note/3181302#c6817524</link>
+        <guid>https://www.openstreetmap.org/note/3181302#c6817524</guid>
+        <pubDate>Mon, 16 May 2022 04:18:28 +0000</pubDate>
+      </item><item>
         <title>new note (near Csapod) / * 2022 May 15 19:46 efi99 Created: cím?</title>
         <link>https://www.openstreetmap.org/note/3181138#c6816991</link>
         <guid>https://www.openstreetmap.org/note/3181138#c6816991</guid>
@@ -117,21 +122,6 @@
         <link>https://www.openstreetmap.org/note/2574984#c6810932</link>
         <guid>https://www.openstreetmap.org/note/2574984#c6810932</guid>
         <pubDate>Fri, 13 May 2022 20:56:05 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Kelenföld, 11th district) / * 2022 April 19 16:03 Created: Kapisztrán Szent János Kápolna / * 2022 May 13 15:40 vasony Resolved: Ez egy lakóház</title>
-        <link>https://www.openstreetmap.org/note/3142280#c6810184</link>
-        <guid>https://www.openstreetmap.org/note/3142280#c6810184</guid>
-        <pubDate>Fri, 13 May 2022 15:40:42 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Martonvásár) / * 2021 June 30 08:58 Created: BOLT / * 2022 May 13 13:36 urbalazs Resolved: Ennyi információ kevés a térkép javításához. Névtelen bejelentőtől pedig nem várható válasz a pontosításra, ezért lezárom.</title>
-        <link>https://www.openstreetmap.org/note/2734665#c6809884</link>
-        <guid>https://www.openstreetmap.org/note/2734665#c6809884</guid>
-        <pubDate>Fri, 13 May 2022 13:36:52 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Martonvásár) / * 2019 July 16 09:26 Javra Created: the pub is not there anymore, it&amp;#39;s some kind of research institute now / via StreetComplete 12.2 / * 2022 May 13 13:36 urbalazs Resolved: There is no pub here anymore on the map. Maybe someone deleted it in the meantime.</title>
-        <link>https://www.openstreetmap.org/note/1845949#c6809882</link>
-        <guid>https://www.openstreetmap.org/note/1845949#c6809882</guid>
-        <pubDate>Fri, 13 May 2022 13:36:07 +0000</pubDate>
       </item>
   </channel>
 </rss>
