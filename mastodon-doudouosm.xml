@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>With the success of #PinJePunt campaign that created a massive add of notes, #OpenStreetMap Belgium organizes a #mapathon to resolve notes on Wednesday, June 1, 2022 evening: https://www.meetup.com/OpenStreetMap-Belgium/events/282711587/.</title>
+        <link>https://en.osm.town/@Doudouosm/108330586214080414</link>
+        <guid>https://en.osm.town/@Doudouosm/108330586214080414</guid>
+        <pubDate>Thu, 19 May 2022 20:52:44 +0000</pubDate>
+      </item><item>
         <title>#ESP32 WiFiMulti connects to the strongest Wi-Fi network from a list of networks. It will connect to the Wi-Fi network with the strongest signal, and if the connection is lost, it will connect to the next network on the list. https://randomnerdtutorials.com/esp32-wifimulti/ #IoT</title>
         <link>https://en.osm.town/@Doudouosm/108307686418496671</link>
         <guid>https://en.osm.town/@Doudouosm/108307686418496671</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/108097361025101896</link>
         <guid>https://en.osm.town/@Doudouosm/108097361025101896</guid>
         <pubDate>Fri, 08 Apr 2022 16:20:30 +0000</pubDate>
-      </item><item>
-        <title>#Facebook is running a survey to better understand your use of and contribution to #Mapillary: https://www.facebook.com/survey/?oid=332522592184448 #OpenStreetMap</title>
-        <link>https://en.osm.town/@Doudouosm/108091528080070779</link>
-        <guid>https://en.osm.town/@Doudouosm/108091528080070779</guid>
-        <pubDate>Thu, 07 Apr 2022 15:37:06 +0000</pubDate>
       </item>
   </channel>
 </rss>
