@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Siklós) / * 2022 May 19 08:56 Guzsvány Máté Created: &amp;quot;Duplicate of already existing building near-by&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2022-04-15T21:38:03Z / POI has no name / POI types: amenity-school / #organicmaps</title>
+        <link>https://www.openstreetmap.org/note/3185485#c6827534</link>
+        <guid>https://www.openstreetmap.org/note/3185485#c6827534</guid>
+        <pubDate>Thu, 19 May 2022 08:56:04 +0000</pubDate>
+      </item><item>
         <title>new note (near Rákosszentmihály, 16th district) / * 2022 May 19 07:09 utvonalfelmeresek Created: vsb</title>
         <link>https://www.openstreetmap.org/note/3185397#c6827343</link>
         <guid>https://www.openstreetmap.org/note/3185397#c6827343</guid>
@@ -217,41 +222,6 @@
         <link>https://www.openstreetmap.org/note/3181369#c6817790</link>
         <guid>https://www.openstreetmap.org/note/3181369#c6817790</guid>
         <pubDate>Mon, 16 May 2022 06:46:07 +0000</pubDate>
-      </item><item>
-        <title>new note (near Bisse) / * 2022 May 16 06:18 Created: Nem lehet átmenni lefelé (kerítés)</title>
-        <link>https://www.openstreetmap.org/note/3181343#c6817746</link>
-        <guid>https://www.openstreetmap.org/note/3181343#c6817746</guid>
-        <pubDate>Mon, 16 May 2022 06:18:33 +0000</pubDate>
-      </item><item>
-        <title>new note (near Leshegy Ipari Park, Szigetszentmiklós) / * 2022 May 16 04:28 vasony Created: Itt van valahol a Bevásárló utca?</title>
-        <link>https://www.openstreetmap.org/note/3181305#c6817532</link>
-        <guid>https://www.openstreetmap.org/note/3181305#c6817532</guid>
-        <pubDate>Mon, 16 May 2022 04:28:19 +0000</pubDate>
-      </item><item>
-        <title>new note (near Sóshegy, Szigetszentmiklós) / * 2022 May 16 04:18 vasony Created: Ez a Bíbic utca?</title>
-        <link>https://www.openstreetmap.org/note/3181302#c6817524</link>
-        <guid>https://www.openstreetmap.org/note/3181302#c6817524</guid>
-        <pubDate>Mon, 16 May 2022 04:18:28 +0000</pubDate>
-      </item><item>
-        <title>new note (near Csapod) / * 2022 May 15 19:46 efi99 Created: cím?</title>
-        <link>https://www.openstreetmap.org/note/3181138#c6816991</link>
-        <guid>https://www.openstreetmap.org/note/3181138#c6816991</guid>
-        <pubDate>Sun, 15 May 2022 19:46:42 +0000</pubDate>
-      </item><item>
-        <title>new note (near Csapod) / * 2022 May 15 19:46 efi99 Created: cím?</title>
-        <link>https://www.openstreetmap.org/note/3181137#c6816990</link>
-        <guid>https://www.openstreetmap.org/note/3181137#c6816990</guid>
-        <pubDate>Sun, 15 May 2022 19:46:31 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Csapod) / * 2022 March 8 17:27 efi99 Created: házszám? / * 2022 May 15 19:39 efi99 Resolved: 20/F</title>
-        <link>https://www.openstreetmap.org/note/3079524#c6816980</link>
-        <guid>https://www.openstreetmap.org/note/3079524#c6816980</guid>
-        <pubDate>Sun, 15 May 2022 19:39:25 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Csapod) / * 2022 February 4 15:50 efi99 Created: 20/E ? / * 2022 February 4 15:58 efi99 Updated: cím ? / * 2022 May 15 19:38 efi99 Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3037301#c6816978</link>
-        <guid>https://www.openstreetmap.org/note/3037301#c6816978</guid>
-        <pubDate>Sun, 15 May 2022 19:38:50 +0000</pubDate>
       </item>
   </channel>
 </rss>
