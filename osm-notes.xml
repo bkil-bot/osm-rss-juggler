@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>reactivated note (near Fényesliget, Piliscsaba) / * 2022 May 20 09:49 aikiss Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/3186912#c6830664</link>
+        <guid>https://www.openstreetmap.org/note/3186912#c6830664</guid>
+        <pubDate>Fri, 20 May 2022 09:49:43 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Fényesliget, Piliscsaba) / * 2022 May 20 09:49 aikiss Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3186912#c6830663</link>
+        <guid>https://www.openstreetmap.org/note/3186912#c6830663</guid>
+        <pubDate>Fri, 20 May 2022 09:49:32 +0000</pubDate>
+      </item><item>
+        <title>new note (near Fényesliget, Piliscsaba) / * 2022 May 20 09:49 aikiss Created: sdaasasd</title>
+        <link>https://www.openstreetmap.org/note/3186912#c6830662</link>
+        <guid>https://www.openstreetmap.org/note/3186912#c6830662</guid>
+        <pubDate>Fri, 20 May 2022 09:49:27 +0000</pubDate>
+      </item><item>
         <title>closed note (near Fertőrákos) / * 2022 May 19 20:25 efi99 Resolved: 175/G</title>
         <link>https://www.openstreetmap.org/note/3186382#c6829354</link>
         <guid>https://www.openstreetmap.org/note/3186382#c6829354</guid>
@@ -107,66 +122,6 @@
         <link>https://www.openstreetmap.org/note/3166479#c6819901</link>
         <guid>https://www.openstreetmap.org/note/3166479#c6819901</guid>
         <pubDate>Mon, 16 May 2022 19:37:43 +0000</pubDate>
-      </item><item>
-        <title>new note (near Tiszasziget) / * 2022 May 16 15:46 Created: Unable to answer &amp;quot;What’s this pole made of?&amp;quot; for https://osm.org/node/7214563221 via StreetComplete 43.0: / Idáig sincsenek villanyoszlopok</title>
-        <link>https://www.openstreetmap.org/note/3182097#c6819251</link>
-        <guid>https://www.openstreetmap.org/note/3182097#c6819251</guid>
-        <pubDate>Mon, 16 May 2022 15:46:27 +0000</pubDate>
-      </item><item>
-        <title>new note (near Tiszasziget) / * 2022 May 16 15:46 Created: Útakadály / via StreetComplete 43.0 / Attached photo(s): / https://westnordost.de/p/93608.jpg</title>
-        <link>https://www.openstreetmap.org/note/3182096#c6819250</link>
-        <guid>https://www.openstreetmap.org/note/3182096#c6819250</guid>
-        <pubDate>Mon, 16 May 2022 15:46:26 +0000</pubDate>
-      </item><item>
-        <title>new note (near Délnyugat Lakópark, Újszentiván) / * 2022 May 16 15:46 Created: Unable to answer &amp;quot;What’s this pole made of?&amp;quot; for https://osm.org/node/7212603658 via StreetComplete 43.0: / Idáig nem létezik</title>
-        <link>https://www.openstreetmap.org/note/3182095#c6819249</link>
-        <guid>https://www.openstreetmap.org/note/3182095#c6819249</guid>
-        <pubDate>Mon, 16 May 2022 15:46:26 +0000</pubDate>
-      </item><item>
-        <title>new note (near Újszentiván) / * 2022 May 16 15:46 Created: Unable to answer &amp;quot;What surface does this piece of road have?&amp;quot; for https://osm.org/way/1012909116 via StreetComplete 43.0: / Szerintem ezt az utcát beszántották / Attached photo(s): / https://westnordost.de/p/93607.jpg</title>
-        <link>https://www.openstreetmap.org/note/3182094#c6819248</link>
-        <guid>https://www.openstreetmap.org/note/3182094#c6819248</guid>
-        <pubDate>Mon, 16 May 2022 15:46:25 +0000</pubDate>
-      </item><item>
-        <title>new note (near Tiszasziget) / * 2022 May 16 15:46 Created: Unable to answer &amp;quot;What surface does this piece of road have?&amp;quot; for https://osm.org/way/772754027 via StreetComplete 43.0: / Nem közút</title>
-        <link>https://www.openstreetmap.org/note/3182093#c6819247</link>
-        <guid>https://www.openstreetmap.org/note/3182093#c6819247</guid>
-        <pubDate>Mon, 16 May 2022 15:46:24 +0000</pubDate>
-      </item><item>
-        <title>new note (near Tiszasziget) / * 2022 May 16 15:46 Created: Unable to answer &amp;quot;Is this bicycle parking covered (protected from rain)?&amp;quot; for https://osm.org/way/426573333 via StreetComplete 43.0: / Elvesztette kerékpártároló jellegét / Attached photo(s): / https://westnordost.de/p/93606.jpg</title>
-        <link>https://www.openstreetmap.org/note/3182092#c6819246</link>
-        <guid>https://www.openstreetmap.org/note/3182092#c6819246</guid>
-        <pubDate>Mon, 16 May 2022 15:46:24 +0000</pubDate>
-      </item><item>
-        <title>new note (near Tiszasziget) / * 2022 May 16 15:46 Created: Több épületet is mezőgazdasági épületként jelöltem meg, ez így rendben lehet? / A felirat szerint ez egy (már nem működő) ipari terület / via StreetComplete 43.0 / Attached photo(s): / https://westnordost.de/p/93605.jpg</title>
-        <link>https://www.openstreetmap.org/note/3182091#c6819245</link>
-        <guid>https://www.openstreetmap.org/note/3182091#c6819245</guid>
-        <pubDate>Mon, 16 May 2022 15:46:23 +0000</pubDate>
-      </item><item>
-        <title>new note (near Tiszasziget) / * 2022 May 16 15:46 Created: Azért osztottam fel az utat, mert a kanyar felé a főútig az út rossz állapotú / via StreetComplete 43.0 / Attached photo(s): / https://westnordost.de/p/93602.jpg / https://westnordost.de/p/93603.jpg / https://westnordost.de/p/93604.jpg</title>
-        <link>https://www.openstreetmap.org/note/3182090#c6819244</link>
-        <guid>https://www.openstreetmap.org/note/3182090#c6819244</guid>
-        <pubDate>Mon, 16 May 2022 15:46:21 +0000</pubDate>
-      </item><item>
-        <title>new note (near Tiszasziget) / * 2022 May 16 15:46 Created: Unable to answer &amp;quot;How does this road cross the barrier here?&amp;quot; for https://osm.org/node/7214633354 via StreetComplete 43.0: / Itt nincs útakadály, a mélypontra vezető út felé viszont 2 is</title>
-        <link>https://www.openstreetmap.org/note/3182089#c6819243</link>
-        <guid>https://www.openstreetmap.org/note/3182089#c6819243</guid>
-        <pubDate>Mon, 16 May 2022 15:46:19 +0000</pubDate>
-      </item><item>
-        <title>new note (near Tiszasziget) / * 2022 May 16 15:46 Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/772754099 via StreetComplete 43.0: / A lakóház mellett kis épületet nem láttam</title>
-        <link>https://www.openstreetmap.org/note/3182088#c6819242</link>
-        <guid>https://www.openstreetmap.org/note/3182088#c6819242</guid>
-        <pubDate>Mon, 16 May 2022 15:46:19 +0000</pubDate>
-      </item><item>
-        <title>new note (near Tiszasziget) / * 2022 May 16 15:46 Created: Itt van egy lovarda, sarkait megmérem ha nem lesz itt senki / via StreetComplete 43.0</title>
-        <link>https://www.openstreetmap.org/note/3182087#c6819241</link>
-        <guid>https://www.openstreetmap.org/note/3182087#c6819241</guid>
-        <pubDate>Mon, 16 May 2022 15:46:19 +0000</pubDate>
-      </item><item>
-        <title>new note (near Tiszasziget) / * 2022 May 16 15:46 Created: Útirányjelző tábla a kerékpárút mellett / via StreetComplete 43.0 / Attached photo(s): / https://westnordost.de/p/93601.jpg</title>
-        <link>https://www.openstreetmap.org/note/3182086#c6819240</link>
-        <guid>https://www.openstreetmap.org/note/3182086#c6819240</guid>
-        <pubDate>Mon, 16 May 2022 15:46:18 +0000</pubDate>
       </item>
   </channel>
 </rss>
