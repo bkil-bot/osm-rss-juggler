@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Fertőrákos) / * 2022 May 21 14:45 efi99 Created: cím?</title>
+        <link>https://www.openstreetmap.org/note/3188806#c6834614</link>
+        <guid>https://www.openstreetmap.org/note/3188806#c6834614</guid>
+        <pubDate>Sat, 21 May 2022 14:45:33 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Gellérthegy, 11th district) / * 2022 May 21 14:23 infeeeee Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3180652#c6834577</link>
+        <guid>https://www.openstreetmap.org/note/3180652#c6834577</guid>
+        <pubDate>Sat, 21 May 2022 14:23:55 +0000</pubDate>
+      </item><item>
         <title>new comment (near Gellérthegy, 11th district) / * 2022 May 15 14:53 vasony Created: itt van épület? fentől nem úgy tűnik. / * 2022 May 21 12:30 infeeeee Updated: Lebontották, nincs ház, de még nincs építkezés sem</title>
         <link>https://www.openstreetmap.org/note/3180652#c6834312</link>
         <guid>https://www.openstreetmap.org/note/3180652#c6834312</guid>
@@ -152,16 +162,6 @@
         <link>https://www.openstreetmap.org/note/3184437#c6824504</link>
         <guid>https://www.openstreetmap.org/note/3184437#c6824504</guid>
         <pubDate>Wed, 18 May 2022 11:16:06 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Cserhát-lakótelep, Belváros, Veszprém) / * 2022 May 18 11:16 ronnydown Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3184437#c6824503</link>
-        <guid>https://www.openstreetmap.org/note/3184437#c6824503</guid>
-        <pubDate>Wed, 18 May 2022 11:16:04 +0000</pubDate>
-      </item><item>
-        <title>new note (near Cserhát-lakótelep, Belváros, Veszprém) / * 2022 May 18 11:15 ronnydown Created: 1</title>
-        <link>https://www.openstreetmap.org/note/3184437#c6824499</link>
-        <guid>https://www.openstreetmap.org/note/3184437#c6824499</guid>
-        <pubDate>Wed, 18 May 2022 11:15:34 +0000</pubDate>
       </item>
   </channel>
 </rss>
