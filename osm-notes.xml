@@ -3,6 +3,31 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Kelenföld, 11th district) / * 2022 April 19 16:03 Created: Kapisztrán Szent János Kápolna / * 2022 May 13 15:40 vasony Resolved: Ez egy lakóház / * 2022 May 15 16:19 feket Reactivated:  / * 2022 May 15 16:19 feket Updated: Nem felt3tlen kizáró ok: https://prohungariasacra.hu/2022/04/28/uj-kapolna-budapesten/ / * 2022 May 17 06:36 vasony Updated: Semmit nincs kiírva, nyoma sincs ennek a helyszínen. Még csengő sincs. / De vasárnap ezért nem jövök be dolgozni, hogy megnézzem :) / * 2022 May 23 19:41 bkil Updated: Be kell dobni egy OSM névjegykártyát a postaládába és várni a megkeresést!</title>
+        <link>https://www.openstreetmap.org/note/3142280#c6841778</link>
+        <guid>https://www.openstreetmap.org/note/3142280#c6841778</guid>
+        <pubDate>Mon, 23 May 2022 19:41:27 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Alsórákos, 14th district) / * 2022 May 23 19:38 bkil Updated: Ez nem csak sima hangjelző, ez távirányítású hangjelző illetve helyszíntől függően távirányítású átkelésigény-jelző gomb is egyben. Erre majd kell egy új jel is, de persze addig legyen a description-ben (vagy még inkább fixme) min ta többi helyen már fent van.</title>
+        <link>https://www.openstreetmap.org/note/3191307#c6841767</link>
+        <guid>https://www.openstreetmap.org/note/3191307#c6841767</guid>
+        <pubDate>Mon, 23 May 2022 19:38:15 +0000</pubDate>
+      </item><item>
+        <title>reactivated note (near Alsórákos, 14th district) / * 2022 May 23 19:35 kogutowicz-mano Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/3191307#c6841763</link>
+        <guid>https://www.openstreetmap.org/note/3191307#c6841763</guid>
+        <pubDate>Mon, 23 May 2022 19:35:14 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Alsórákos, 14th district) / * 2022 May 23 19:35 kogutowicz-mano Resolved: Ach! Hangjelző. :-) / Kösz!</title>
+        <link>https://www.openstreetmap.org/note/3191307#c6841762</link>
+        <guid>https://www.openstreetmap.org/note/3191307#c6841762</guid>
+        <pubDate>Mon, 23 May 2022 19:35:10 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Alsórákos, 14th district) / * 2022 May 23 19:23 bkil Updated: Szerintem ezeket magának írta és fel fogja vinni ahogy a többi VSB-PLUS hangjelző felolvasós utastájékoztató táblát is felvitte amikor ideje engedte: / https://osm.org/node/8495193513 https://vgyke.com/eligazodva-a-varosban/</title>
+        <link>https://www.openstreetmap.org/note/3191307#c6841746</link>
+        <guid>https://www.openstreetmap.org/note/3191307#c6841746</guid>
+        <pubDate>Mon, 23 May 2022 19:23:46 +0000</pubDate>
+      </item><item>
         <title>new comment (near Alsórákos, 14th district) / * 2022 May 23 17:30 kogutowicz-mano Updated: Mi az a vsb? :-)</title>
         <link>https://www.openstreetmap.org/note/3191307#c6841453</link>
         <guid>https://www.openstreetmap.org/note/3191307#c6841453</guid>
@@ -212,26 +237,6 @@
         <link>https://www.openstreetmap.org/note/3187732#c6832367</link>
         <guid>https://www.openstreetmap.org/note/3187732#c6832367</guid>
         <pubDate>Fri, 20 May 2022 19:39:28 +0000</pubDate>
-      </item><item>
-        <title>new note (near Fertőrákos) / * 2022 May 20 19:28 efi99 Created: cím?</title>
-        <link>https://www.openstreetmap.org/note/3187726#c6832348</link>
-        <guid>https://www.openstreetmap.org/note/3187726#c6832348</guid>
-        <pubDate>Fri, 20 May 2022 19:28:59 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Tab) / * 2022 May 15 19:25 HammerIldi Created: Tab 8660 József Attila utca 12 / * 2022 May 15 19:25 HammerIldi Resolved:  / * 2022 May 15 19:26 HammerIldi Reactivated:  / * 2022 May 15 19:26 HammerIldi Resolved:  / * 2022 May 15 19:26 HammerIldi Reactivated:  / * 2022 May 20 17:49 Gaurdein Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3181109#c6832171</link>
-        <guid>https://www.openstreetmap.org/note/3181109#c6832171</guid>
-        <pubDate>Fri, 20 May 2022 17:49:57 +0000</pubDate>
-      </item><item>
-        <title>new note (near Lágymányos, 11th district) / * 2022 May 20 14:03 utvonalfelmeresek Created: vsb</title>
-        <link>https://www.openstreetmap.org/note/3187248#c6831246</link>
-        <guid>https://www.openstreetmap.org/note/3187248#c6831246</guid>
-        <pubDate>Fri, 20 May 2022 14:03:21 +0000</pubDate>
-      </item><item>
-        <title>reactivated note (near Fényesliget, Piliscsaba) / * 2022 May 20 09:49 aikiss Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/3186912#c6830664</link>
-        <guid>https://www.openstreetmap.org/note/3186912#c6830664</guid>
-        <pubDate>Fri, 20 May 2022 09:49:43 +0000</pubDate>
       </item>
   </channel>
 </rss>
