@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>“The Streets of #Monaco” is a tutorial explaining how to extract Monaco&amp;#39;s road network data from #OpenStreetMap, import it into #PostgreSQL and render it out using a tile server. It also shows how the #Formula1 circuit can be highlighted using #QGIS, an open source geospatial desktop application. https://tech.marksblogg.com/streets-of-monaco-openstreetmap-postgis-qgis.html</title>
+        <link>https://en.osm.town/@Doudouosm/108361797212522348</link>
+        <guid>https://en.osm.town/@Doudouosm/108361797212522348</guid>
+        <pubDate>Wed, 25 May 2022 09:10:06 +0000</pubDate>
+      </item><item>
         <title>With the success of #PinJePunt campaign that created a massive add of notes, #OpenStreetMap Belgium organizes a #mapathon to resolve notes on Wednesday, June 1, 2022 evening: https://www.meetup.com/OpenStreetMap-Belgium/events/282711587/.</title>
         <link>https://en.osm.town/@Doudouosm/108330586214080414</link>
         <guid>https://en.osm.town/@Doudouosm/108330586214080414</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/108180475821417063</link>
         <guid>https://en.osm.town/@Doudouosm/108180475821417063</guid>
         <pubDate>Sat, 23 Apr 2022 08:37:41 +0000</pubDate>
-      </item><item>
-        <title>While some people at https://openbenches.org contribute to a map of 22,626 memorial #benches, an #AI at https://doesnotexist.openbenches.org use them to generate pictures of benches that don’t exist… 🤪</title>
-        <link>https://en.osm.town/@Doudouosm/108097361025101896</link>
-        <guid>https://en.osm.town/@Doudouosm/108097361025101896</guid>
-        <pubDate>Fri, 08 Apr 2022 16:20:30 +0000</pubDate>
       </item>
   </channel>
 </rss>
