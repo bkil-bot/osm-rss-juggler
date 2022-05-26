@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Klebelsbergtelep, Szeged) / * 2022 May 26 09:03 Herceg Árpád Created: Az Objektumok lekérdezésekor ezen a helyen két utat is mezőgazGasági útként és nem mezőgazDasági útként jelenít meg. Aki tud, segítsen ennek kijavításában. Köszönöm!</title>
+        <link>https://www.openstreetmap.org/note/3195541#c6849368</link>
+        <guid>https://www.openstreetmap.org/note/3195541#c6849368</guid>
+        <pubDate>Thu, 26 May 2022 09:03:19 +0000</pubDate>
+      </item><item>
         <title>new note (near Golgota, Fertőrákos) / * 2022 May 25 18:41 efi99 Created: Pozsonyi út 2,3,4,5 cím helyes?</title>
         <link>https://www.openstreetmap.org/note/3194954#c6848035</link>
         <guid>https://www.openstreetmap.org/note/3194954#c6848035</guid>
@@ -257,11 +262,6 @@
         <link>https://www.openstreetmap.org/note/3167118#c6838737</link>
         <guid>https://www.openstreetmap.org/note/3167118#c6838737</guid>
         <pubDate>Sun, 22 May 2022 20:58:04 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Kelenföld, 11th district) / * 2022 May 15 05:57 vasony Created: felújítva, felmérendő / * 2022 May 22 19:41 vasony Resolved: már felmérve</title>
-        <link>https://www.openstreetmap.org/note/3179972#c6838424</link>
-        <guid>https://www.openstreetmap.org/note/3179972#c6838424</guid>
-        <pubDate>Sun, 22 May 2022 19:41:06 +0000</pubDate>
       </item>
   </channel>
 </rss>
