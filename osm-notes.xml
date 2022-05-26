@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Klebelsbergtelep, Szeged) / * 2022 May 26 21:12 gabro00 Resolved: Ez a megjelenítőprogram fordításának a hibája. / A jegyzetek az adatforráshoz tartoznak (osm.org), ebben az adatbázisban pedig nincs ilyen string ezen a helyen.</title>
+        <link>https://www.openstreetmap.org/note/3195541#c6851677</link>
+        <guid>https://www.openstreetmap.org/note/3195541#c6851677</guid>
+        <pubDate>Thu, 26 May 2022 21:12:11 +0000</pubDate>
+      </item><item>
+        <title>new note (near Hársakalja, 2nd district) / * 2022 May 26 20:58 todor__ Created: &amp;quot;It is a duplicate&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2022-05-15T14:57:35Z / POI name: Pesti Pipi Hűvösvölgy / POI types: amenity-fast_food / #organicmaps</title>
+        <link>https://www.openstreetmap.org/note/3196618#c6851648</link>
+        <guid>https://www.openstreetmap.org/note/3196618#c6851648</guid>
+        <pubDate>Thu, 26 May 2022 20:58:01 +0000</pubDate>
+      </item><item>
         <title>new note (near Ipari terület, Makó) / * 2022 May 26 14:36 Gábor Pamuk Created: Körforgalom átadva/Roundabout opened. https://nif.hu/2022/05/megepult-mako-uj-korforgalmu-csomopontja/?fbclid=IwAR0l-rbOd0u13hz93aUw1AynphZbtZ7mXV6ye-iSDkES23YnTTrq5pr6hUY</title>
         <link>https://www.openstreetmap.org/note/3196026#c6850390</link>
         <guid>https://www.openstreetmap.org/note/3196026#c6850390</guid>
@@ -272,11 +282,6 @@
         <link>https://www.openstreetmap.org/note/3190943#c6839309</link>
         <guid>https://www.openstreetmap.org/note/3190943#c6839309</guid>
         <pubDate>Mon, 23 May 2022 05:20:56 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Délnyugat Lakópark, Újszentiván) / * 2022 May 5 22:36 CopperOppositeKindred Created: ez a csatorna itt tényleg megszakad? ellenőrizzem le / * 2022 May 22 20:58 gabro00 Updated: Mi lesz ezzel a sok jegyzettel?</title>
-        <link>https://www.openstreetmap.org/note/3167118#c6838737</link>
-        <guid>https://www.openstreetmap.org/note/3167118#c6838737</guid>
-        <pubDate>Sun, 22 May 2022 20:58:04 +0000</pubDate>
       </item>
   </channel>
 </rss>
