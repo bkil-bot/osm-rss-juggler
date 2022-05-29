@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Tómalom, Sopron) / * 2022 May 29 14:18 efi99 Created: cím jó?</title>
+        <link>https://www.openstreetmap.org/note/3201041#c6860550</link>
+        <guid>https://www.openstreetmap.org/note/3201041#c6860550</guid>
+        <pubDate>Sun, 29 May 2022 14:18:53 +0000</pubDate>
+      </item><item>
         <title>new note (near Újtelep, Tiszadada) / * 2022 May 28 09:33 Created: Az itt található buszmegállót nem lehet a jobb oldalon Tiszadada, a bal oldalon Tiszalök névvel ellátni. Mindkét oldali buszmegállónak a neve: Tiszadada, Vízmű utca</title>
         <link>https://www.openstreetmap.org/note/3199028#c6856033</link>
         <guid>https://www.openstreetmap.org/note/3199028#c6856033</guid>
@@ -172,61 +177,6 @@
         <link>https://www.openstreetmap.org/note/3192308#c6842457</link>
         <guid>https://www.openstreetmap.org/note/3192308#c6842457</guid>
         <pubDate>Tue, 24 May 2022 05:09:14 +0000</pubDate>
-      </item><item>
-        <title>new note (near Fertőrákos) / * 2022 May 23 21:33 efi99 Created: cím jó?</title>
-        <link>https://www.openstreetmap.org/note/3192083#c6842020</link>
-        <guid>https://www.openstreetmap.org/note/3192083#c6842020</guid>
-        <pubDate>Mon, 23 May 2022 21:33:50 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Fertőrákos) / * 2022 May 20 19:39 efi99 Created: cím? / * 2022 May 23 21:33 efi99 Updated: cím jó?</title>
-        <link>https://www.openstreetmap.org/note/3187732#c6842018</link>
-        <guid>https://www.openstreetmap.org/note/3187732#c6842018</guid>
-        <pubDate>Mon, 23 May 2022 21:33:08 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Fertőrákos) / * 2022 May 20 19:28 efi99 Created: cím? / * 2022 May 23 21:30 efi99 Updated: cím jó?</title>
-        <link>https://www.openstreetmap.org/note/3187726#c6842016</link>
-        <guid>https://www.openstreetmap.org/note/3187726#c6842016</guid>
-        <pubDate>Mon, 23 May 2022 21:30:38 +0000</pubDate>
-      </item><item>
-        <title>new note (near Golgota, Fertőrákos) / * 2022 May 23 21:14 efi99 Created: 14?</title>
-        <link>https://www.openstreetmap.org/note/3192070#c6841976</link>
-        <guid>https://www.openstreetmap.org/note/3192070#c6841976</guid>
-        <pubDate>Mon, 23 May 2022 21:14:34 +0000</pubDate>
-      </item><item>
-        <title>new note (near Golgota, Fertőrákos) / * 2022 May 23 21:10 efi99 Created: 12/A?</title>
-        <link>https://www.openstreetmap.org/note/3192065#c6841965</link>
-        <guid>https://www.openstreetmap.org/note/3192065#c6841965</guid>
-        <pubDate>Mon, 23 May 2022 21:10:54 +0000</pubDate>
-      </item><item>
-        <title>new note (near Golgota, Fertőrákos) / * 2022 May 23 21:08 efi99 Created: cím?</title>
-        <link>https://www.openstreetmap.org/note/3192064#c6841963</link>
-        <guid>https://www.openstreetmap.org/note/3192064#c6841963</guid>
-        <pubDate>Mon, 23 May 2022 21:08:02 +0000</pubDate>
-      </item><item>
-        <title>new note (near Bakonyjákó) / * 2022 May 23 20:56 Created: A forrás ki van apadva, az ide vezető ösvény elvadult, nehezen megközelìthető. A kör jelzés a forras felé a turista szovetseg altal at is lett huzva.</title>
-        <link>https://www.openstreetmap.org/note/3192058#c6841940</link>
-        <guid>https://www.openstreetmap.org/note/3192058#c6841940</guid>
-        <pubDate>Mon, 23 May 2022 20:56:00 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Kelenföld, 11th district) / * 2022 April 19 16:03 Created: Kapisztrán Szent János Kápolna / * 2022 May 13 15:40 vasony Resolved: Ez egy lakóház / * 2022 May 15 16:19 feket Reactivated:  / * 2022 May 15 16:19 feket Updated: Nem felt3tlen kizáró ok: https://prohungariasacra.hu/2022/04/28/uj-kapolna-budapesten/ / * 2022 May 17 06:36 vasony Updated: Semmit nincs kiírva, nyoma sincs ennek a helyszínen. Még csengő sincs. / De vasárnap ezért nem jövök be dolgozni, hogy megnézzem :) / * 2022 May 23 19:41 bkil Updated: Be kell dobni egy OSM névjegykártyát a postaládába és várni a megkeresést!</title>
-        <link>https://www.openstreetmap.org/note/3142280#c6841778</link>
-        <guid>https://www.openstreetmap.org/note/3142280#c6841778</guid>
-        <pubDate>Mon, 23 May 2022 19:41:27 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Alsórákos, 14th district) / * 2022 May 23 19:38 bkil Updated: Ez nem csak sima hangjelző, ez távirányítású hangjelző illetve helyszíntől függően távirányítású átkelésigény-jelző gomb is egyben. Erre majd kell egy új jel is, de persze addig legyen a description-ben (vagy még inkább fixme) min ta többi helyen már fent van.</title>
-        <link>https://www.openstreetmap.org/note/3191307#c6841767</link>
-        <guid>https://www.openstreetmap.org/note/3191307#c6841767</guid>
-        <pubDate>Mon, 23 May 2022 19:38:15 +0000</pubDate>
-      </item><item>
-        <title>reactivated note (near Alsórákos, 14th district) / * 2022 May 23 19:35 kogutowicz-mano Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/3191307#c6841763</link>
-        <guid>https://www.openstreetmap.org/note/3191307#c6841763</guid>
-        <pubDate>Mon, 23 May 2022 19:35:14 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Alsórákos, 14th district) / * 2022 May 23 19:35 kogutowicz-mano Resolved: Ach! Hangjelző. :-) / Kösz!</title>
-        <link>https://www.openstreetmap.org/note/3191307#c6841762</link>
-        <guid>https://www.openstreetmap.org/note/3191307#c6841762</guid>
-        <pubDate>Mon, 23 May 2022 19:35:10 +0000</pubDate>
       </item>
   </channel>
 </rss>
