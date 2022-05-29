@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Kelenföld, 11th district) / * 2022 March 31 17:53 vasony Created: ez egy publikus játszótér? / * 2022 May 29 20:23 vasony Resolved: igen</title>
+        <link>https://www.openstreetmap.org/note/3114539#c6861914</link>
+        <guid>https://www.openstreetmap.org/note/3114539#c6861914</guid>
+        <pubDate>Sun, 29 May 2022 20:23:38 +0000</pubDate>
+      </item><item>
         <title>closed note (near Hársakalja, 2nd district) / * 2022 May 26 20:58 todor__ Created: &amp;quot;It is a duplicate&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2022-05-15T14:57:35Z / POI name: Pesti Pipi Hűvösvölgy / POI types: amenity-fast_food / #organicmaps / * 2022 May 29 17:36 infeeeee Resolved: Merged to this: https://www.openstreetmap.org/node/3195811572</title>
         <link>https://www.openstreetmap.org/note/3196618#c6861148</link>
         <guid>https://www.openstreetmap.org/note/3196618#c6861148</guid>
@@ -197,11 +202,6 @@
         <link>https://www.openstreetmap.org/note/3194298#c6846783</link>
         <guid>https://www.openstreetmap.org/note/3194298#c6846783</guid>
         <pubDate>Wed, 25 May 2022 11:13:04 +0000</pubDate>
-      </item><item>
-        <title>new note (near City Park, 14th district) / * 2022 May 25 09:25 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: There&amp;#39;s an observation tower.</title>
-        <link>https://www.openstreetmap.org/note/3194138#c6846469</link>
-        <guid>https://www.openstreetmap.org/note/3194138#c6846469</guid>
-        <pubDate>Wed, 25 May 2022 09:25:55 +0000</pubDate>
       </item>
   </channel>
 </rss>
