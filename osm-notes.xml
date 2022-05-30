@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Délnyugat Lakópark, Újszentiván) / * 2022 May 5 22:36 CopperOppositeKindred Created: ez a csatorna itt tényleg megszakad? ellenőrizzem le / * 2022 May 22 20:58 gabro00 Updated: Mi lesz ezzel a sok jegyzettel? / * 2022 May 26 23:14 CopperOppositeKindred Updated: Tervezek arra járni, és megoldani. / Még nem dolgoztam ki hogyan tudnék úgy jegyzeteket felvenni magamnak, hogy másokat ne zavarjak vele. Szerinted hogyan lehetne ezt megoldani? / Ha már erről van szó: valamelyik nap megjelent egy rakás névtelen jegyzetet. Az is én voltam. Véletlenül feltöltöttem sokat amikor próbáltam kideríteni miért nem működik a StreetComplete, és egy hiba miatt névtelenül kerültek ki. A terv az volt hogy a megoldásaim feltöltése előtt még átválogatom a megjegyzéseket. / * 2022 May 30 18:22 gabro00 Updated: Ha OsmAndot használsz nagyon egyszerű: nem töltöd fel a szerverre. A StreetComplete nem tudott ilyet amikor próbáltam, de nem is ugyanarra való a két program. Az első egy teljesértékű térképalkalmazás, a másik pedig egy térképi adatok gazdagítását szolgáló eszköz.</title>
+        <link>https://www.openstreetmap.org/note/3167118#c6865239</link>
+        <guid>https://www.openstreetmap.org/note/3167118#c6865239</guid>
+        <pubDate>Mon, 30 May 2022 18:22:14 +0000</pubDate>
+      </item><item>
         <title>new note (near Lágymányos, 11th district) / * 2022 May 30 15:11 Created: Aqua</title>
         <link>https://www.openstreetmap.org/note/3202755#c6864519</link>
         <guid>https://www.openstreetmap.org/note/3202755#c6864519</guid>
@@ -182,11 +187,6 @@
         <link>https://www.openstreetmap.org/note/3196654#c6851743</link>
         <guid>https://www.openstreetmap.org/note/3196654#c6851743</guid>
         <pubDate>Thu, 26 May 2022 21:58:39 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Klebelsbergtelep, Szeged) / * 2022 May 26 21:12 gabro00 Resolved: Ez a megjelenítőprogram fordításának a hibája. / A jegyzetek az adatforráshoz tartoznak (osm.org), ebben az adatbázisban pedig nincs ilyen string ezen a helyen.</title>
-        <link>https://www.openstreetmap.org/note/3195541#c6851677</link>
-        <guid>https://www.openstreetmap.org/note/3195541#c6851677</guid>
-        <pubDate>Thu, 26 May 2022 21:12:11 +0000</pubDate>
       </item>
   </channel>
 </rss>
