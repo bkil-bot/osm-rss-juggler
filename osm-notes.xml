@@ -3,6 +3,41 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Tab) / * 2022 May 19 11:44 Gaurdein Created: Unable to answer &amp;quot;What are the opening hours here?&amp;quot; for https://osm.org/way/1057378575 via StreetComplete 43.2: / Kicsit komplikált nyitvatartás / Attached photo(s): / https://westnordost.de/p/94008.jpg / * 2022 June 1 22:02 urbalazs Resolved: Hozzáadtam a nyitva tartást. Nem olyan komplikált ez, van ennél sokkal trükkösebb is.</title>
+        <link>https://www.openstreetmap.org/note/3185696#c6871875</link>
+        <guid>https://www.openstreetmap.org/note/3185696#c6871875</guid>
+        <pubDate>Wed, 01 Jun 2022 22:02:52 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Sérsekszőlős) / * 2022 March 19 11:58 Gaurdein Created: Unable to answer &amp;quot;What is being cultivated here?&amp;quot; for https://osm.org/relation/11137671 via StreetComplete 41.2: / Homoktövis (Sea Buckthorn) / * 2022 June 1 22:02 urbalazs Resolved: Kiegészítettem.</title>
+        <link>https://www.openstreetmap.org/note/3093945#c6871872</link>
+        <guid>https://www.openstreetmap.org/note/3093945#c6871872</guid>
+        <pubDate>Wed, 01 Jun 2022 22:02:22 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Szólád) / * 2018 March 18 14:00 Created: Hier ist der aktuelle Friedhof von Szarszo / * 2022 June 1 21:46 urbalazs Resolved: This is not a cemetery.</title>
+        <link>https://www.openstreetmap.org/note/1331476#c6871858</link>
+        <guid>https://www.openstreetmap.org/note/1331476#c6871858</guid>
+        <pubDate>Wed, 01 Jun 2022 21:46:28 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Zamárdi) / * 2020 August 23 23:04 Created: onosm.org submitted note from a business: / name: Zenit Magánszálláshely / phone: +36709428540 / website: / twitter: undefined / hours: / category: ,Gästehaus / address: Aradi 48, 8621 Zamárdi / * 2022 June 1 21:22 urbalazs Resolved: Hozzáadtam a szálláshelyet.</title>
+        <link>https://www.openstreetmap.org/note/2319836#c6871776</link>
+        <guid>https://www.openstreetmap.org/note/2319836#c6871776</guid>
+        <pubDate>Wed, 01 Jun 2022 21:22:03 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Zamárdi) / * 2021 August 2 16:03 utvonalfelmeresek Created: hang van / * 2022 June 1 21:21 urbalazs Resolved: Beállítottam a hangjelzést.</title>
+        <link>https://www.openstreetmap.org/note/2783009#c6871772</link>
+        <guid>https://www.openstreetmap.org/note/2783009#c6871772</guid>
+        <pubDate>Wed, 01 Jun 2022 21:21:37 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Kőhegy, Zamárdi) / * 2021 August 2 16:02 utvonalfelmeresek Created: nyomógomb van / * 2022 June 1 21:21 urbalazs Resolved: Hozzáadtam a nyomógombot.</title>
+        <link>https://www.openstreetmap.org/note/2783007#c6871770</link>
+        <guid>https://www.openstreetmap.org/note/2783007#c6871770</guid>
+        <pubDate>Wed, 01 Jun 2022 21:21:19 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Kőhegy, Zamárdi) / * 2022 May 14 14:16 BERG Piknik Tábor Created: Berg VIP Piknik Tábor / * 2022 May 14 14:17 BERG Piknik Tábor Resolved:  / * 2022 May 14 14:19 BERG Piknik Tábor Reactivated:  / * 2022 June 1 21:21 urbalazs Resolved: Hozzáadva.</title>
+        <link>https://www.openstreetmap.org/note/3179076#c6871769</link>
+        <guid>https://www.openstreetmap.org/note/3179076#c6871769</guid>
+        <pubDate>Wed, 01 Jun 2022 21:21:07 +0000</pubDate>
+      </item><item>
         <title>closed note (near Szántód) / * 2020 August 21 11:03 toroki Created: Felnőtt az erdő, megszűnt a kilátás. / * 2022 June 1 21:20 urbalazs Resolved: Köszi, töröltem.</title>
         <link>https://www.openstreetmap.org/note/2316279#c6871768</link>
         <guid>https://www.openstreetmap.org/note/2316279#c6871768</guid>
@@ -267,16 +302,6 @@
         <link>https://www.openstreetmap.org/note/3203794#c6866738</link>
         <guid>https://www.openstreetmap.org/note/3203794#c6866738</guid>
         <pubDate>Tue, 31 May 2022 09:26:35 +0000</pubDate>
-      </item><item>
-        <title>new note (near Újpalota, 15th district) / * 2022 May 31 08:57 utvonalfelmeresek Created: vsb</title>
-        <link>https://www.openstreetmap.org/note/3203764#c6866645</link>
-        <guid>https://www.openstreetmap.org/note/3203764#c6866645</guid>
-        <pubDate>Tue, 31 May 2022 08:57:24 +0000</pubDate>
-      </item><item>
-        <title>new note (near Fürdőtelep, Szántód) / * 2022 May 31 06:57 Matyjace Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;The bicycle road between Rigó utca and Tihany utca from this year is next to Móricz Zsigmond utca, not on this path.&amp;quot;</title>
-        <link>https://www.openstreetmap.org/note/3203636#c6866370</link>
-        <guid>https://www.openstreetmap.org/note/3203636#c6866370</guid>
-        <pubDate>Tue, 31 May 2022 06:57:08 +0000</pubDate>
       </item>
   </channel>
 </rss>
