@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Szántód) / * 2020 August 21 11:03 toroki Created: Felnőtt az erdő, megszűnt a kilátás. / * 2022 June 1 21:20 urbalazs Resolved: Köszi, töröltem.</title>
+        <link>https://www.openstreetmap.org/note/2316279#c6871768</link>
+        <guid>https://www.openstreetmap.org/note/2316279#c6871768</guid>
+        <pubDate>Wed, 01 Jun 2022 21:20:54 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Balatonföldvár) / * 2021 July 31 11:18 utvonalfelmeresek Created: kiülős helyek 9x4 asztal 4x4 bent  + wc van / * 2022 June 1 21:20 urbalazs Resolved: Hozzáadtam a helyek számát a fagyizóhoz.</title>
+        <link>https://www.openstreetmap.org/note/2779106#c6871767</link>
+        <guid>https://www.openstreetmap.org/note/2779106#c6871767</guid>
+        <pubDate>Wed, 01 Jun 2022 21:20:42 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Szántódpuszta, Szántód) / * 2021 August 2 16:00 utvonalfelmeresek Created: hangjelzés / * 2022 June 1 21:04 urbalazs Resolved: Ezen a ponton egyik műholdképen sem látok gyalogátkelőt, és sok értelme nem is lenne, mert a másik oldalon nincs semmi.</title>
+        <link>https://www.openstreetmap.org/note/2783004#c6871593</link>
+        <guid>https://www.openstreetmap.org/note/2783004#c6871593</guid>
+        <pubDate>Wed, 01 Jun 2022 21:04:36 +0000</pubDate>
+      </item><item>
+        <title>new note (near Dutrade Zrt. budapesti Fióktelep, Liptáktelep, 18th district) / * 2022 June 1 20:44 vasony Created: Ez itt nem Hengermű utca?</title>
+        <link>https://www.openstreetmap.org/note/3205938#c6871529</link>
+        <guid>https://www.openstreetmap.org/note/3205938#c6871529</guid>
+        <pubDate>Wed, 01 Jun 2022 20:44:56 +0000</pubDate>
+      </item><item>
         <title>closed note (near Szigetszentmiklós) / * 2021 September 3 08:40 utvonalfelmeresek Created: szobor / * 2021 November 19 22:10 vasony Updated: artwork vagy historic? / * 2022 June 1 17:45 urbalazs Resolved: 9 hónapja nem jött válasz, lezárom. A szobor felkerült a térképre.</title>
         <link>https://www.openstreetmap.org/note/2833864#c6870846</link>
         <guid>https://www.openstreetmap.org/note/2833864#c6870846</guid>
@@ -257,11 +277,6 @@
         <link>https://www.openstreetmap.org/note/3203636#c6866370</link>
         <guid>https://www.openstreetmap.org/note/3203636#c6866370</guid>
         <pubDate>Tue, 31 May 2022 06:57:08 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Délnyugat Lakópark, Újszentiván) / * 2022 May 5 22:36 CopperOppositeKindred Created: ez a csatorna itt tényleg megszakad? ellenőrizzem le / * 2022 May 22 20:58 gabro00 Updated: Mi lesz ezzel a sok jegyzettel? / * 2022 May 26 23:14 CopperOppositeKindred Updated: Tervezek arra járni, és megoldani. / Még nem dolgoztam ki hogyan tudnék úgy jegyzeteket felvenni magamnak, hogy másokat ne zavarjak vele. Szerinted hogyan lehetne ezt megoldani? / Ha már erről van szó: valamelyik nap megjelent egy rakás névtelen jegyzetet. Az is én voltam. Véletlenül feltöltöttem sokat amikor próbáltam kideríteni miért nem működik a StreetComplete, és egy hiba miatt névtelenül kerültek ki. A terv az volt hogy a megoldásaim feltöltése előtt még átválogatom a megjegyzéseket. / * 2022 May 30 18:22 gabro00 Updated: Ha OsmAndot használsz nagyon egyszerű: nem töltöd fel a szerverre. A StreetComplete nem tudott ilyet amikor próbáltam, de nem is ugyanarra való a két program. Az első egy teljesértékű térképalkalmazás, a másik pedig egy térképi adatok gazdagítását szolgáló eszköz.</title>
-        <link>https://www.openstreetmap.org/note/3167118#c6865239</link>
-        <guid>https://www.openstreetmap.org/note/3167118#c6865239</guid>
-        <pubDate>Mon, 30 May 2022 18:22:14 +0000</pubDate>
       </item>
   </channel>
 </rss>
