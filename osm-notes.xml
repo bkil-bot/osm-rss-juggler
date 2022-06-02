@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Lágymányos, 11th district) / * 2022 May 5 04:17 vasony Created: utcak, padok pontosítandók / * 2022 June 2 18:47 vasony Resolved: felmérve</title>
+        <link>https://www.openstreetmap.org/note/3165854#c6874311</link>
+        <guid>https://www.openstreetmap.org/note/3165854#c6874311</guid>
+        <pubDate>Thu, 02 Jun 2022 18:47:44 +0000</pubDate>
+      </item><item>
         <title>closed note (near Búrtelep, Székesfehérvár) / * 2021 October 8 10:48 Created: Eltűntek az épületek. / * 2021 November 11 11:15 feket Updated: building=yes címkét raktam az épületekre. Nem vagyok biztos benne, hogy az épület tényleg kórház vagy csak rendelőintézet, esetleg más. Aki helyismerettel rendelkezik, ellenőrizhetné. / * 2022 June 2 15:47 urbalazs Resolved: Az épületek eltűnése megoldva.</title>
         <link>https://www.openstreetmap.org/note/2885923#c6873867</link>
         <guid>https://www.openstreetmap.org/note/2885923#c6873867</guid>
@@ -317,56 +322,6 @@
         <link>https://www.openstreetmap.org/note/2467995#c6870754</link>
         <guid>https://www.openstreetmap.org/note/2467995#c6870754</guid>
         <pubDate>Wed, 01 Jun 2022 17:15:02 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Siófok) / * 2021 February 10 22:05 Created: Hiányzó út / * 2022 June 1 17:12 urbalazs Resolved: Időközben felrajzolták.</title>
-        <link>https://www.openstreetmap.org/note/2533751#c6870750</link>
-        <guid>https://www.openstreetmap.org/note/2533751#c6870750</guid>
-        <pubDate>Wed, 01 Jun 2022 17:12:25 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Siófok) / * 2021 February 10 22:07 Created: Hiányzó út / * 2022 June 1 17:12 urbalazs Resolved: Időközben felrajzolták.</title>
-        <link>https://www.openstreetmap.org/note/2533753#c6870749</link>
-        <guid>https://www.openstreetmap.org/note/2533753#c6870749</guid>
-        <pubDate>Wed, 01 Jun 2022 17:12:20 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Belváros, Siófok) / * 2022 April 13 08:55 Gaurdein Created: Unable to answer &amp;quot;What’s the name of the bank for this ATM?&amp;quot; for https://osm.org/node/1880569589 via StreetComplete 42.0: / Duplicate / * 2022 June 1 17:12 urbalazs Resolved: Én két ATM-et láttam egymáshoz nagyon közel.</title>
-        <link>https://www.openstreetmap.org/note/3131773#c6870748</link>
-        <guid>https://www.openstreetmap.org/note/3131773#c6870748</guid>
-        <pubDate>Wed, 01 Jun 2022 17:12:06 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Siófok) / * 2020 May 19 08:59 Created: Hotel Doris / * 2022 June 1 17:11 urbalazs Resolved: Hozzáadtam.</title>
-        <link>https://www.openstreetmap.org/note/2198355#c6870746</link>
-        <guid>https://www.openstreetmap.org/note/2198355#c6870746</guid>
-        <pubDate>Wed, 01 Jun 2022 17:11:41 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Balatonszéplak, Siófok) / * 2020 May 13 19:08 Created: Széplak - Kitebeach / * 2022 June 1 16:29 urbalazs Resolved: A jelzett helyen nyaralóépületek vannak.</title>
-        <link>https://www.openstreetmap.org/note/2191954#c6870607</link>
-        <guid>https://www.openstreetmap.org/note/2191954#c6870607</guid>
-        <pubDate>Wed, 01 Jun 2022 16:29:21 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Gödrös, Tihany) / * 2021 February 3 06:38 Stanleyuen Created: Flea market in Tihany (OSM data version: 2016-10-10T15:13:03Z) #mapsme / * 2022 June 1 16:26 urbalazs Resolved: This looks like a temporary market. The imagery cannot confirm that there is a market. This is only a permanent picnic table.</title>
-        <link>https://www.openstreetmap.org/note/2523095#c6870602</link>
-        <guid>https://www.openstreetmap.org/note/2523095#c6870602</guid>
-        <pubDate>Wed, 01 Jun 2022 16:26:02 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Tihany) / * 2019 May 11 22:01 osmoid Created: Ezt a környéket átszabták. Egy épületet eltávolítottam, a kutat feltettem, mert azt jelentették, de valaki majd rajzolja át a többit is, aki járatosabb errefelé, plz. Köszi! / * 2022 June 1 16:21 urbalazs Resolved: Ez a jegyzet 3 éves, a környéken ennél újabb szerkesztések vannak. Ha van konkrét hibajelzés, hogy mi nem felel meg a valóságnak, akkor javítjuk. Ezt viszont most lezárom.</title>
-        <link>https://www.openstreetmap.org/note/1775773#c6870592</link>
-        <guid>https://www.openstreetmap.org/note/1775773#c6870592</guid>
-        <pubDate>Wed, 01 Jun 2022 16:21:03 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Tihany) / * 2021 August 14 11:51 Created: Felújítás zajlik / * 2022 June 1 16:14 urbalazs Resolved: Köszönjük az információt, de ezt nem tudjuk a térképen szerepeltetni.</title>
-        <link>https://www.openstreetmap.org/note/2802896#c6870573</link>
-        <guid>https://www.openstreetmap.org/note/2802896#c6870573</guid>
-        <pubDate>Wed, 01 Jun 2022 16:14:35 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Fürdőtelep, Szántód) / * 2022 May 31 06:57 Matyjace Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;The bicycle road between Rigó utca and Tihany utca from this year is next to Móricz Zsigmond utca, not on this path.&amp;quot; / * 2022 June 1 16:11 urbalazs Resolved: This is already fixed.</title>
-        <link>https://www.openstreetmap.org/note/3203636#c6870565</link>
-        <guid>https://www.openstreetmap.org/note/3203636#c6870565</guid>
-        <pubDate>Wed, 01 Jun 2022 16:11:42 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Albertfalva, 11th district) / * 2022 June 1 15:22 bkil Updated: https://www.ujbuda.hu/ujbuda/beindult-a-nyar-az-araszton</title>
-        <link>https://www.openstreetmap.org/note/3205182#c6870446</link>
-        <guid>https://www.openstreetmap.org/note/3205182#c6870446</guid>
-        <pubDate>Wed, 01 Jun 2022 15:22:17 +0000</pubDate>
       </item>
   </channel>
 </rss>
