@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Raspberry PI: I'm using this pi (Zero 2 W) and i use GPS2IP on Iphone as GPS. I connect all in WiFi and i use AWUS036NHA card in USB.And how is the Zero 2 W handling that, Im just going to use the internal wifi for now but think a 5g dongle would be better. Almost as easy to use a phone but I have a spare 2W abotu so might as well us it for something fun. -wpa3</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?t=2935&amp;p=11253#p11253</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?t=2935&amp;p=11253#p11253</guid>
+        <pubDate>2022-06-03T19:09:20</pubDate>
+      </item><item>
         <title>Re: WiGLE WiFi for Android phone performance comparison: Excellent info! I've been gauging performance of a few android phones over the past few years. A Galaxy Express 3, Note 3, Note 5, two S7's, S7 Edge, and now adding a Note 20 Ultra to the fleet. What would you happen to be running for scan interval settings on the androids? -Ninemeister</title>
         <link>https://wigle.net/phpbb/viewtopic.php?t=2498&amp;p=11250#p11250</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2498&amp;p=11250#p11250</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?t=2912&amp;p=11163#p11163</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?t=2912&amp;p=11163#p11163</guid>
         <pubDate>2022-02-05T15:41:23</pubDate>
-      </item><item>
-        <title>Re: DIY Box Reflector - sick gainz!: Reflector works alright for 5 GHz connections too. Not a huge difference in usability for this test since the test AP is easily reachable without it (~15m distance.) I used two mostly similar adapters so I wouldn't need to re-point the reflector afterwards. Terow AC1200M (no reflector) BSS -- associated freq: 5805 signal: -64 [-66, -64] dBm signal avg: -63 [-66, -63] dBm beacon signal avg: -62 dBm tx bitrate: 390.0 MBit/s VHT-MCS 4 80MHz short GI VHT-NSS 2 rx bitrate: 390.0 MBit/s VHT-MCS 4 80MHz short GI VHT-NSS 2 expected throughput: 61.980Mbps Hosted by...: 25.241 ms Download: 125.43 Mbit/s Upload: 96.17 Mbit/s PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data. 64 bytes from 1.1.1.1: icmp_seq=1 ttl=59 time=8.29 ms 64 bytes from 1.1.1.1: icmp_seq=2 ttl=59 time=9.76 ms 64 bytes from 1.1.1.1: icmp_seq=3 ttl=59 time=14.5 ms 64 bytes from 1.1.1.1: icmp_seq=4 ttl=59 time=6.95 ms 64 bytes from 1.1.1.1: icmp_seq=5 ttl=59 time=5.00 ms Alfa AWUS036ACM (reflector) BSS -- associated freq: 5805 signal: -57 [-61, -57] dBm signal avg: -56 [-59, -56] dBm beacon signal avg: -55 dBm tx bitrate: 780.0 MBit/s VHT-MCS 8 80MHz short GI VHT-NSS 2 rx bitrate: 585.0 MBit/s VHT-MCS 7 80MHz VHT-NSS 2 expected throughput: 68.389Mbps Hosted by...: 26.488 ms Download: 143.72 Mbit/s Upload: 131.18 Mbit/s PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data. 64 bytes from 1.1.1.1: icmp_seq=1 ttl=59 time=7.26 ms 64 bytes from 1.1.1.1: icmp_seq=2 ttl=59 time=8.50 ms 64 bytes from 1.1.1.1: icmp_seq=3 ttl=59 time=10.3 ms 64 bytes from 1.1.1.1: icmp_seq=4 ttl=59 time=9.73 ms 64 bytes from 1.1.1.1: icmp_seq=5 ttl=59 time=9.06 ms -SkywardLark</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?t=2893&amp;p=11162#p11162</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?t=2893&amp;p=11162#p11162</guid>
-        <pubDate>2022-02-04T22:57:44</pubDate>
       </item>
   </channel>
 </rss>
