@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Miklóstelep, Kecskemét) / * 2021 December 17 16:39 vasony-qa Created: Ez itt ellenőrizendő, mert NAIK kutatóintézetet Katona Zsigmond utca 5-be írja, ez egy másik? / * 2022 June 2 14:44 urbalazs Updated: Ez a jegyzet aktuális még? NAIK kutatóintézetet már nem látok itt. / * 2022 June 3 05:24 vasony Updated: FVM Szőlészeti és Borászati Kutató Intézete - ebből lett a NAIK.</title>
+        <link>https://www.openstreetmap.org/note/2974196#c6875008</link>
+        <guid>https://www.openstreetmap.org/note/2974196#c6875008</guid>
+        <pubDate>Fri, 03 Jun 2022 05:24:31 +0000</pubDate>
+      </item><item>
         <title>closed note (near Belváros, Székesfehérvár) / * 2021 December 11 06:21 Created: www.oldtownapartment.hu / * 2022 June 2 23:59 urbalazs Resolved: Hozzáadtam.</title>
         <link>https://www.openstreetmap.org/note/2967027#c6874754</link>
         <guid>https://www.openstreetmap.org/note/2967027#c6874754</guid>
@@ -287,21 +292,6 @@
         <link>https://www.openstreetmap.org/note/3205938#c6871529</link>
         <guid>https://www.openstreetmap.org/note/3205938#c6871529</guid>
         <pubDate>Wed, 01 Jun 2022 20:44:56 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Szigetszentmiklós) / * 2021 September 3 08:40 utvonalfelmeresek Created: szobor / * 2021 November 19 22:10 vasony Updated: artwork vagy historic? / * 2022 June 1 17:45 urbalazs Resolved: 9 hónapja nem jött válasz, lezárom. A szobor felkerült a térképre.</title>
-        <link>https://www.openstreetmap.org/note/2833864#c6870846</link>
-        <guid>https://www.openstreetmap.org/note/2833864#c6870846</guid>
-        <pubDate>Wed, 01 Jun 2022 17:45:14 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Nagytétény, 22nd district) / * 2022 May 2 13:23 Ironrat1 Created: &amp;quot;Not an apartman&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2022-04-15T21:38:03Z / POI has no name / POI types: tourism-apartment / #organicmaps / * 2022 June 1 17:43 urbalazs Resolved: This is the correct tag for buildings that has many individual flats.</title>
-        <link>https://www.openstreetmap.org/note/3162208#c6870837</link>
-        <guid>https://www.openstreetmap.org/note/3162208#c6870837</guid>
-        <pubDate>Wed, 01 Jun 2022 17:43:21 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Nagytétény, 22nd district) / * 2022 May 2 13:23 Ironrat1 Created: &amp;quot;Not an apartman&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2022-04-15T21:38:03Z / POI has no name / POI types: tourism-apartment / #organicmaps / * 2022 June 1 17:43 urbalazs Resolved: This is the correct tag for buildings that has many individual flats.</title>
-        <link>https://www.openstreetmap.org/note/3162209#c6870836</link>
-        <guid>https://www.openstreetmap.org/note/3162209#c6870836</guid>
-        <pubDate>Wed, 01 Jun 2022 17:43:12 +0000</pubDate>
       </item>
   </channel>
 </rss>
