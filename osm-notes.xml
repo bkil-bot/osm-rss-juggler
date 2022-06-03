@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Szőreg, Szeged) / * 2022 June 3 10:21 gabro00 Updated: Egyébként a helyes válasz 2, még akkor is, ha nem látszik, mert két autó (még busz is) kényelmesen elfér egymás mellett. / Az hogy látszik-e a festés, az másik kulcs: https://wiki.openstreetmap.org/wiki/Key:lane_markings</title>
+        <link>https://www.openstreetmap.org/note/3206740#c6875693</link>
+        <guid>https://www.openstreetmap.org/note/3206740#c6875693</guid>
+        <pubDate>Fri, 03 Jun 2022 10:21:15 +0000</pubDate>
+      </item><item>
         <title>closed note (near Újszőreg, Szeged) / * 2022 June 2 11:36 CopperOppositeKindred Created: Unable to answer &amp;quot;Is this still here?&amp;quot; for https://osm.org/node/3437115952 via StreetComplete 43.0: / 33, 35 között / * 2022 June 3 10:17 gabro00 Resolved: https://www.openstreetmap.org/changeset/121887096</title>
         <link>https://www.openstreetmap.org/note/3206742#c6875688</link>
         <guid>https://www.openstreetmap.org/note/3206742#c6875688</guid>
@@ -307,11 +312,6 @@
         <link>https://www.openstreetmap.org/note/2779106#c6871767</link>
         <guid>https://www.openstreetmap.org/note/2779106#c6871767</guid>
         <pubDate>Wed, 01 Jun 2022 21:20:42 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Szántódpuszta, Szántód) / * 2021 August 2 16:00 utvonalfelmeresek Created: hangjelzés / * 2022 June 1 21:04 urbalazs Resolved: Ezen a ponton egyik műholdképen sem látok gyalogátkelőt, és sok értelme nem is lenne, mert a másik oldalon nincs semmi.</title>
-        <link>https://www.openstreetmap.org/note/2783004#c6871593</link>
-        <guid>https://www.openstreetmap.org/note/2783004#c6871593</guid>
-        <pubDate>Wed, 01 Jun 2022 21:04:36 +0000</pubDate>
       </item>
   </channel>
 </rss>
