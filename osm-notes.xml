@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Pákozd) / * 2022 May 7 17:21 grin Created: hunting stand, 2m, nem fedett, rozoga / * 2022 June 2 14:34 urbalazs Updated: A közelben már felvettél egy olyat, amire illik ez a leírás is. Ugyanarról van szó, vagy kettő magasles van egymás mellett? / * 2022 June 3 14:00 grin Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3169434#c6876374</link>
+        <guid>https://www.openstreetmap.org/note/3169434#c6876374</guid>
+        <pubDate>Fri, 03 Jun 2022 14:00:35 +0000</pubDate>
+      </item><item>
+        <title>new note (near Tihany) / * 2022 June 3 13:34 Guzsvány Máté Created: Unable to answer &amp;quot;What are the opening hours here?&amp;quot; for https://osm.org/node/4940559134 via StreetComplete 44.0: / Nem létezik / Attached photo(s): / https://westnordost.de/p/96296.jpg</title>
+        <link>https://www.openstreetmap.org/note/3208064#c6876311</link>
+        <guid>https://www.openstreetmap.org/note/3208064#c6876311</guid>
+        <pubDate>Fri, 03 Jun 2022 13:34:30 +0000</pubDate>
+      </item><item>
         <title>reactivated note (near Szentmihály, Szeged) / * 2022 May 16 15:45 Created: Unable to answer &amp;quot;What’s the topic of this information board?&amp;quot; for https://osm.org/node/9169717559 via StreetComplete 43.0: / Ezt nem tudom eldönteni, melyik kategória / Attached photo(s): / https://westnordost.de/p/93587.jpg / * 2022 May 29 16:54 gabro00 Resolved: Üdvözlőtábla, semmi különös :) / * 2022 June 3 13:13 CopperOppositeKindred Reactivated: Ezt az egyet visszanyitom, hogy feltehessek egy kérdést ami az összes többi már lezárt megjegyzést is érinti (köszi egyébként): / Látom hogy most a képek nem elérhetőek. Amikor nézted ezeket a megjegyzéseket, akkor még elérhetők voltak? / Ha nem, akkor vissza fogok még erre jönni hogy kitöltsek néhány infót ami a képeken volt rajta (pl telefonfülke telefonszáma).</title>
         <link>https://www.openstreetmap.org/note/3182069#c6876275</link>
         <guid>https://www.openstreetmap.org/note/3182069#c6876275</guid>
@@ -297,16 +307,6 @@
         <link>https://www.openstreetmap.org/note/3093945#c6871872</link>
         <guid>https://www.openstreetmap.org/note/3093945#c6871872</guid>
         <pubDate>Wed, 01 Jun 2022 22:02:22 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Szólád) / * 2018 March 18 14:00 Created: Hier ist der aktuelle Friedhof von Szarszo / * 2022 June 1 21:46 urbalazs Resolved: This is not a cemetery.</title>
-        <link>https://www.openstreetmap.org/note/1331476#c6871858</link>
-        <guid>https://www.openstreetmap.org/note/1331476#c6871858</guid>
-        <pubDate>Wed, 01 Jun 2022 21:46:28 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Zamárdi) / * 2020 August 23 23:04 Created: onosm.org submitted note from a business: / name: Zenit Magánszálláshely / phone: +36709428540 / website: / twitter: undefined / hours: / category: ,Gästehaus / address: Aradi 48, 8621 Zamárdi / * 2022 June 1 21:22 urbalazs Resolved: Hozzáadtam a szálláshelyet.</title>
-        <link>https://www.openstreetmap.org/note/2319836#c6871776</link>
-        <guid>https://www.openstreetmap.org/note/2319836#c6871776</guid>
-        <pubDate>Wed, 01 Jun 2022 21:22:03 +0000</pubDate>
       </item>
   </channel>
 </rss>
