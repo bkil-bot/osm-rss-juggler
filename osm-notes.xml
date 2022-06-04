@@ -3,6 +3,31 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Víziváros, Székesfehérvár) / * 2021 March 18 07:59 Matyjace Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;This store has closed.&amp;quot; / * 2022 June 4 23:17 urbalazs Resolved: There is no store at the marked position. What is closed?</title>
+        <link>https://www.openstreetmap.org/note/2583435#c6881136</link>
+        <guid>https://www.openstreetmap.org/note/2583435#c6881136</guid>
+        <pubDate>Sat, 04 Jun 2022 23:17:44 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Ybl Miklós-lakótelep, Székesfehérvár) / * 2020 March 9 15:15 Created: Földhivatal / * 2022 June 4 23:17 urbalazs Resolved: Hozzáadtam a térképhez, de ez az utca végén van.</title>
+        <link>https://www.openstreetmap.org/note/2115433#c6881132</link>
+        <guid>https://www.openstreetmap.org/note/2115433#c6881132</guid>
+        <pubDate>Sat, 04 Jun 2022 23:17:08 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Videoton Ipari Park, Íróutcák, Székesfehérvár) / * 2017 February 28 20:07 Jimmy19830628 Created: Vtes Kft. (OSM data version: 2017-01-19T15:17:02Z) #mapsme / * 2022 June 4 23:16 urbalazs Resolved: Hozzáadtam a térképhez.</title>
+        <link>https://www.openstreetmap.org/note/909672#c6881130</link>
+        <guid>https://www.openstreetmap.org/note/909672#c6881130</guid>
+        <pubDate>Sat, 04 Jun 2022 23:16:50 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Fecskeparti lakótelep, Fecskepart, Székesfehérvár) / * 2022 April 15 20:07 Created: Mx mania motoros bolt / zámolyi ut 20022/31 hrsz / * 2022 June 4 23:16 urbalazs Resolved: Hozzáadtam a térképhez.</title>
+        <link>https://www.openstreetmap.org/note/3135481#c6881129</link>
+        <guid>https://www.openstreetmap.org/note/3135481#c6881129</guid>
+        <pubDate>Sat, 04 Jun 2022 23:16:39 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Iszkaszentgyörgy) / * 2021 September 17 05:10 Matyjace Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;Should be more to the south, where the building is placed.&amp;quot; / * 2022 June 4 23:16 urbalazs Resolved: Moved to the correct location.</title>
+        <link>https://www.openstreetmap.org/note/2856280#c6881128</link>
+        <guid>https://www.openstreetmap.org/note/2856280#c6881128</guid>
+        <pubDate>Sat, 04 Jun 2022 23:16:21 +0000</pubDate>
+      </item><item>
         <title>new note (near Liszó) / * 2022 June 4 16:05 DrescherJ Created: Földvár</title>
         <link>https://www.openstreetmap.org/note/3209724#c6879760</link>
         <guid>https://www.openstreetmap.org/note/3209724#c6879760</guid>
@@ -352,11 +377,6 @@
         <link>https://www.openstreetmap.org/note/2537681#c6874709</link>
         <guid>https://www.openstreetmap.org/note/2537681#c6874709</guid>
         <pubDate>Thu, 02 Jun 2022 22:31:34 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Búrtelep, Székesfehérvár) / * 2021 February 13 19:35 Garai Márk Created: &amp;quot;Már nem létezik&amp;quot; / The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI name: Színpad / POI types: amenity-theatre / OSM data version: 2021-02-01T11:34:17Z / #mapsme / * 2022 June 2 22:31 urbalazs Resolved: Valóban nem látszik a legújabb ortofotókon, de még csak nyoma sincs. Töröltem.</title>
-        <link>https://www.openstreetmap.org/note/2537306#c6874708</link>
-        <guid>https://www.openstreetmap.org/note/2537306#c6874708</guid>
-        <pubDate>Thu, 02 Jun 2022 22:31:22 +0000</pubDate>
       </item>
   </channel>
 </rss>
