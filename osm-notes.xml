@@ -3,6 +3,31 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Margaret Island, Budapest, Central Hungary, 1007, Hungary) / * 2021 May 24 09:57 meskobalazs Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/679081742 via StreetComplete 31.3: / Rendőrség / Attached photo(s): / https://westnordost.de/p/42421.jpg / * 2022 June 4 13:19 ToffeHoff Resolved: Updated building tag to police station</title>
+        <link>https://www.openstreetmap.org/note/2682712#c6879214</link>
+        <guid>https://www.openstreetmap.org/note/2682712#c6879214</guid>
+        <pubDate>Sat, 04 Jun 2022 13:19:11 +0000</pubDate>
+      </item><item>
+        <title>reactivated note (near Margaret Island, Budapest, Central Hungary, 1007, Hungary) / * 2022 June 4 13:19 ToffeHoff Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/2682711#c6879213</link>
+        <guid>https://www.openstreetmap.org/note/2682711#c6879213</guid>
+        <pubDate>Sat, 04 Jun 2022 13:19:00 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Margaret Island, Budapest, Central Hungary, 1007, Hungary) / * 2021 May 24 09:56 meskobalazs Created: Kerékpártároló, 5x2 kerékpárnak / via StreetComplete 31.3 / Attached photo(s): / https://westnordost.de/p/42420.jpg / * 2022 June 4 13:18 ToffeHoff Resolved: updated building tag to police station</title>
+        <link>https://www.openstreetmap.org/note/2682711#c6879212</link>
+        <guid>https://www.openstreetmap.org/note/2682711#c6879212</guid>
+        <pubDate>Sat, 04 Jun 2022 13:18:56 +0000</pubDate>
+      </item><item>
+        <title>new note (near Erzsébetfalva, 20th district) / * 2022 June 4 13:05 Hungarian_user Created: tűzcsap füvön</title>
+        <link>https://www.openstreetmap.org/note/3209471#c6879185</link>
+        <guid>https://www.openstreetmap.org/note/3209471#c6879185</guid>
+        <pubDate>Sat, 04 Jun 2022 13:05:56 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Szőreg, Szeged) / * 2022 June 2 11:36 CopperOppositeKindred Created: Unable to answer &amp;quot;How many lanes for cars does this road have?&amp;quot; for https://osm.org/way/750511583 via StreetComplete 43.0: / Van, de nagyon halvány, sok helyen nem látszik. Hogy direkt nem festik újra vagy csak nem fontos, azt nem tudom. Ilyenkor mi a helyes? / * 2022 June 3 10:10 gabro00 Updated: Nem foglalkoznak vele leginkább. / * 2022 June 3 10:21 gabro00 Updated: Egyébként a helyes válasz 2, még akkor is, ha nem látszik, mert két autó (még busz is) kényelmesen elfér egymás mellett. / Az hogy látszik-e a festés, az másik kulcs: https://wiki.openstreetmap.org/wiki/Key:lane_markings / * 2022 June 4 12:55 CopperOppositeKindred Updated: Az SC küldetés amire a megjegyzést írtam a lane_markings-t is módosítja a megadott válasz szerint. A sávok számának megadása előtt ki kell választani, hogy vannak jelölt sávok vagy nincsenek, esetleg eltér a két oldalon. / Szerinted ilyen esetben melyiket kellene inkább választani?</title>
+        <link>https://www.openstreetmap.org/note/3206740#c6879174</link>
+        <guid>https://www.openstreetmap.org/note/3206740#c6879174</guid>
+        <pubDate>Sat, 04 Jun 2022 12:55:31 +0000</pubDate>
+      </item><item>
         <title>new note (near Kiserdőtelep, Óvár, Tihany) / * 2022 June 4 12:00 Guzsvány Máté Created: &amp;quot;200 FT a belépő, fizetős&amp;quot; / OSM snapshot date: 2022-05-15T14:57:35Z / POI has no name / POI types: amenity-toilets / #organicmaps</title>
         <link>https://www.openstreetmap.org/note/3209358#c6878939</link>
         <guid>https://www.openstreetmap.org/note/3209358#c6878939</guid>
@@ -297,31 +322,6 @@
         <link>https://www.openstreetmap.org/note/2885923#c6873867</link>
         <guid>https://www.openstreetmap.org/note/2885923#c6873867</guid>
         <pubDate>Thu, 02 Jun 2022 15:47:17 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Miklóstelep, Kecskemét) / * 2021 December 17 16:39 vasony-qa Created: Ez itt ellenőrizendő, mert NAIK kutatóintézetet Katona Zsigmond utca 5-be írja, ez egy másik? / * 2022 June 2 14:44 urbalazs Updated: Ez a jegyzet aktuális még? NAIK kutatóintézetet már nem látok itt.</title>
-        <link>https://www.openstreetmap.org/note/2974196#c6873685</link>
-        <guid>https://www.openstreetmap.org/note/2974196#c6873685</guid>
-        <pubDate>Thu, 02 Jun 2022 14:44:21 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Déli ipartelep, Nyugati ipartelepek, Kecskemét) / * 2020 April 22 20:09 Created: Hiányzik egy épületrész (R&amp;amp;D) / Különálló épület / Érdekes, a gyártócsarnok bővítés meg látszik. / * 2022 June 2 14:42 urbalazs Resolved: 1 éve felkerült a térképre.</title>
-        <link>https://www.openstreetmap.org/note/2168651#c6873682</link>
-        <guid>https://www.openstreetmap.org/note/2168651#c6873682</guid>
-        <pubDate>Thu, 02 Jun 2022 14:42:56 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Déli ipartelep, Nyugati ipartelepek, Kecskemét) / * 2020 April 22 20:11 Created: Tüzivíz tároló hiányzik / * 2022 June 2 14:42 urbalazs Resolved: 1 éve felkerült a térképre.</title>
-        <link>https://www.openstreetmap.org/note/2168656#c6873681</link>
-        <guid>https://www.openstreetmap.org/note/2168656#c6873681</guid>
-        <pubDate>Thu, 02 Jun 2022 14:42:30 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Déli ipartelep, Nyugati ipartelepek, Kecskemét) / * 2020 April 22 20:11 Created: Szikkasztó -tó hiányzik / * 2022 June 2 14:42 urbalazs Resolved: 1 éve felkerült a térképre.</title>
-        <link>https://www.openstreetmap.org/note/2168655#c6873680</link>
-        <guid>https://www.openstreetmap.org/note/2168655#c6873680</guid>
-        <pubDate>Thu, 02 Jun 2022 14:42:09 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Olaszfalu) / * 2022 February 3 15:58 livi124 Created: Bakony Tűzifa / * 2022 February 3 15:58 livi124 Resolved:  / * 2022 February 3 15:58 livi124 Reactivated:  / * 2022 February 3 15:58 livi124 Resolved:  / * 2022 February 3 16:21 livi124 Reactivated:  / * 2022 June 2 14:38 urbalazs Resolved: Elnézést, ez a térképjegyzet hiányos. Adjon részletes leírást arról a problémáról, amit jelenteni szeretne.</title>
-        <link>https://www.openstreetmap.org/note/3036245#c6873675</link>
-        <guid>https://www.openstreetmap.org/note/3036245#c6873675</guid>
-        <pubDate>Thu, 02 Jun 2022 14:38:36 +0000</pubDate>
       </item>
   </channel>
 </rss>
