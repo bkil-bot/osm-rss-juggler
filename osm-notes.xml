@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Harka) / * 2022 June 5 17:03 efi99 Created: cím?</title>
+        <link>https://www.openstreetmap.org/note/3211517#c6883543</link>
+        <guid>https://www.openstreetmap.org/note/3211517#c6883543</guid>
+        <pubDate>Sun, 05 Jun 2022 17:03:55 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Kertváros, Tiszaújváros) / * 2022 June 5 16:26 kogutowicz-mano Updated: Vasony csak azt kérdezte, mi van az utcatáblán. De vannak egyéb forrásai is, pl. írni szokott az önkormányzatnak. Ráhagynám a lezárást, amikor jónak látja. / Amúgy ha én zártam volna le, át is írtam volna a közterület jellegét utcára.</title>
+        <link>https://www.openstreetmap.org/note/2836196#c6883447</link>
+        <guid>https://www.openstreetmap.org/note/2836196#c6883447</guid>
+        <pubDate>Sun, 05 Jun 2022 16:26:22 +0000</pubDate>
+      </item><item>
         <title>closed note (near Sóskútimajor, Biatorbágy) / * 2019 June 3 18:13 bafabry Created: Táblával jelzett ösvény indul a milleniumi emlékoszlophoz ÉNY-i irányban. / * 2022 June 5 13:28 urbalazs Resolved: 8 hónappal ezelőtt felkerült az ösvény a térképre.</title>
         <link>https://www.openstreetmap.org/note/1800816#c6882915</link>
         <guid>https://www.openstreetmap.org/note/1800816#c6882915</guid>
@@ -322,26 +332,6 @@
         <link>https://www.openstreetmap.org/note/3208683#c6877453</link>
         <guid>https://www.openstreetmap.org/note/3208683#c6877453</guid>
         <pubDate>Fri, 03 Jun 2022 21:41:38 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Vasút sor, Szilvás, Budaörs) / * 2021 September 23 15:29 Zsolt Beringer Created: Ha jól emlékszem ez a zöldséges télen nem szokott mindig nyitva lenni. / * 2022 January 15 19:31 grin Updated: Jól emlékszel, de nincs kiírva, hogy mikor nincs. / * 2022 March 12 15:01 vasony Updated: most biztos zárva van. téliesitve. / * 2022 June 3 17:26 urbalazs Resolved: Úgy látom, ez meg lett oldva.</title>
-        <link>https://www.openstreetmap.org/note/2865819#c6876882</link>
-        <guid>https://www.openstreetmap.org/note/2865819#c6876882</guid>
-        <pubDate>Fri, 03 Jun 2022 17:26:55 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Kertvárosias lakóterület, Budaörs) / * 2022 February 13 08:43 vasony Created: 17, 19 ? / * 2022 June 3 17:25 urbalazs Resolved: Szerintem ez meg lett oldva. Nyisd újra, ha hiányzik még valami.</title>
-        <link>https://www.openstreetmap.org/note/3049445#c6876874</link>
-        <guid>https://www.openstreetmap.org/note/3049445#c6876874</guid>
-        <pubDate>Fri, 03 Jun 2022 17:25:15 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Barátházamajor, Sóskút) / * 2022 May 7 17:21 grin Created: de 2 / * 2022 June 3 17:17 urbalazs Resolved: Levettem a fixme címkét az épületről.</title>
-        <link>https://www.openstreetmap.org/note/3169433#c6876848</link>
-        <guid>https://www.openstreetmap.org/note/3169433#c6876848</guid>
-        <pubDate>Fri, 03 Jun 2022 17:17:56 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Szőlőhegy, Telki) / * 2021 March 1 16:45 vasony-qa Created: Melyik közterület az Alsó Orgona utca? / * 2022 June 3 17:14 urbalazs Resolved: 9 hónapja változott Alsó Orgona utcára a dél-keletre lévő utca.</title>
-        <link>https://www.openstreetmap.org/note/2561701#c6876835</link>
-        <guid>https://www.openstreetmap.org/note/2561701#c6876835</guid>
-        <pubDate>Fri, 03 Jun 2022 17:14:50 +0000</pubDate>
       </item>
   </channel>
 </rss>
