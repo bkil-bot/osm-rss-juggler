@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Kertváros, Tiszaújváros) / * 2021 September 4 17:59 vasony-qa Created: Vörösmarty út vagy Vörösmarty Mihály út szerepel az utcatáblán? / * 2022 February 18 15:23 kogutowicz-mano Updated: &amp;quot;Vörösmarty u.&amp;quot; / * 2022 June 4 09:10 Hungarian_user Resolved:  / * 2022 June 5 10:16 kogutowicz-mano Reactivated:  / * 2022 June 5 10:17 kogutowicz-mano Updated: Tekintve, hogy az &amp;quot;u.&amp;quot; az &amp;quot;utca&amp;quot; rövidítése, a megoldás nem adekvát. Legalábbis további ellenőrzésre szorul. / * 2022 June 5 13:03 Hungarian_user Updated: Úgy tűnt, hogy ellenőrizted, megválaszoltad, csak elfelejtetted lezárni a jegyzetet. / * 2022 June 5 16:26 kogutowicz-mano Updated: Vasony csak azt kérdezte, mi van az utcatáblán. De vannak egyéb forrásai is, pl. írni szokott az önkormányzatnak. Ráhagynám a lezárást, amikor jónak látja. / Amúgy ha én zártam volna le, át is írtam volna a közterület jellegét utcára. / * 2022 June 6 14:48 vasony Resolved: Nos a hivatalos neve Vörösmarty Mihály út, szóval innentől kezdve akár mindegy is hogy Vörösmarty út vagy Vörösmarty utca van a térképen. Átírtam.</title>
+        <link>https://www.openstreetmap.org/note/2836196#c6887154</link>
+        <guid>https://www.openstreetmap.org/note/2836196#c6887154</guid>
+        <pubDate>Mon, 06 Jun 2022 14:48:21 +0000</pubDate>
+      </item><item>
         <title>new note (near Erzsébetfalva, 20th district) / * 2022 June 6 13:09 Hungarian_user Created: ha van itt tűzcsap, akkor föld alatti</title>
         <link>https://www.openstreetmap.org/note/3212838#c6886512</link>
         <guid>https://www.openstreetmap.org/note/3212838#c6886512</guid>
@@ -237,21 +242,6 @@
         <link>https://www.openstreetmap.org/note/3209270#c6878761</link>
         <guid>https://www.openstreetmap.org/note/3209270#c6878761</guid>
         <pubDate>Sat, 04 Jun 2022 11:14:32 +0000</pubDate>
-      </item><item>
-        <title>new note (near Óváros, Paks) / * 2022 June 4 11:00 redd Created: unmapped building, which is probably historic and touristic</title>
-        <link>https://www.openstreetmap.org/note/3209249#c6878727</link>
-        <guid>https://www.openstreetmap.org/note/3209249#c6878727</guid>
-        <pubDate>Sat, 04 Jun 2022 11:00:32 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Tiszasziget) / * 2022 May 16 15:46 Created: Unable to answer &amp;quot;How does this road cross the barrier here?&amp;quot; for https://osm.org/node/7214633354 via StreetComplete 43.0: / Itt nincs útakadály, a mélypontra vezető út felé viszont 2 is / * 2022 June 4 09:45 CopperOppositeKindred Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3182089#c6878552</link>
-        <guid>https://www.openstreetmap.org/note/3182089#c6878552</guid>
-        <pubDate>Sat, 04 Jun 2022 09:45:47 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Tiszasziget) / * 2022 May 16 15:46 Created: Azért osztottam fel az utat, mert a kanyar felé a főútig az út rossz állapotú / via StreetComplete 43.0 / Attached photo(s): / https://westnordost.de/p/93602.jpg / https://westnordost.de/p/93603.jpg / https://westnordost.de/p/93604.jpg / * 2022 June 4 09:45 CopperOppositeKindred Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3182090#c6878551</link>
-        <guid>https://www.openstreetmap.org/note/3182090#c6878551</guid>
-        <pubDate>Sat, 04 Jun 2022 09:45:43 +0000</pubDate>
       </item>
   </channel>
 </rss>
