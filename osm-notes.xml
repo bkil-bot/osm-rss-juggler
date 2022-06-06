@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Harka) / * 2022 June 6 20:01 efi99 Created: cím jó?</title>
+        <link>https://www.openstreetmap.org/note/3213645#c6888118</link>
+        <guid>https://www.openstreetmap.org/note/3213645#c6888118</guid>
+        <pubDate>Mon, 06 Jun 2022 20:01:03 +0000</pubDate>
+      </item><item>
         <title>new note (near Rajka) / * 2022 June 6 18:44 Nicolas Vial Created: when on the motorway in direction of Bratislava, osmand forces me to take exit in direction of parking area instead of staying on motorway.</title>
         <link>https://www.openstreetmap.org/note/3213560#c6887903</link>
         <guid>https://www.openstreetmap.org/note/3213560#c6887903</guid>
@@ -177,26 +182,6 @@
         <link>https://www.openstreetmap.org/note/3209722#c6879757</link>
         <guid>https://www.openstreetmap.org/note/3209722#c6879757</guid>
         <pubDate>Sat, 04 Jun 2022 16:03:39 +0000</pubDate>
-      </item><item>
-        <title>new note (near Somogycsicsó) / * 2022 June 4 16:03 DrescherJ Created: Vadászház</title>
-        <link>https://www.openstreetmap.org/note/3209721#c6879755</link>
-        <guid>https://www.openstreetmap.org/note/3209721#c6879755</guid>
-        <pubDate>Sat, 04 Jun 2022 16:03:08 +0000</pubDate>
-      </item><item>
-        <title>new note (near Szenta) / * 2022 June 4 16:02 DrescherJ Created: Erdei pihenő</title>
-        <link>https://www.openstreetmap.org/note/3209720#c6879753</link>
-        <guid>https://www.openstreetmap.org/note/3209720#c6879753</guid>
-        <pubDate>Sat, 04 Jun 2022 16:02:42 +0000</pubDate>
-      </item><item>
-        <title>new note (near Obornak, Eszteregnye) / * 2022 June 4 16:01 DrescherJ Created: Erdei pihenő</title>
-        <link>https://www.openstreetmap.org/note/3209718#c6879746</link>
-        <guid>https://www.openstreetmap.org/note/3209718#c6879746</guid>
-        <pubDate>Sat, 04 Jun 2022 16:01:37 +0000</pubDate>
-      </item><item>
-        <title>closed note (near City Park, 14th district) / * 2022 May 25 09:25 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: There&amp;#39;s an observation tower. / * 2022 June 4 14:08 ITineris Resolved: Added.</title>
-        <link>https://www.openstreetmap.org/note/3194138#c6879369</link>
-        <guid>https://www.openstreetmap.org/note/3194138#c6879369</guid>
-        <pubDate>Sat, 04 Jun 2022 14:08:56 +0000</pubDate>
       </item>
   </channel>
 </rss>
