@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Lágymányos, 11th district) / * 2022 June 6 15:38 utvonalfelmeresek Created: vsb</title>
+        <link>https://www.openstreetmap.org/note/3213269#c6887384</link>
+        <guid>https://www.openstreetmap.org/note/3213269#c6887384</guid>
+        <pubDate>Mon, 06 Jun 2022 15:38:34 +0000</pubDate>
+      </item><item>
         <title>closed note (near Kertváros, Tiszaújváros) / * 2021 September 4 17:59 vasony-qa Created: Vörösmarty út vagy Vörösmarty Mihály út szerepel az utcatáblán? / * 2022 February 18 15:23 kogutowicz-mano Updated: &amp;quot;Vörösmarty u.&amp;quot; / * 2022 June 4 09:10 Hungarian_user Resolved:  / * 2022 June 5 10:16 kogutowicz-mano Reactivated:  / * 2022 June 5 10:17 kogutowicz-mano Updated: Tekintve, hogy az &amp;quot;u.&amp;quot; az &amp;quot;utca&amp;quot; rövidítése, a megoldás nem adekvát. Legalábbis további ellenőrzésre szorul. / * 2022 June 5 13:03 Hungarian_user Updated: Úgy tűnt, hogy ellenőrizted, megválaszoltad, csak elfelejtetted lezárni a jegyzetet. / * 2022 June 5 16:26 kogutowicz-mano Updated: Vasony csak azt kérdezte, mi van az utcatáblán. De vannak egyéb forrásai is, pl. írni szokott az önkormányzatnak. Ráhagynám a lezárást, amikor jónak látja. / Amúgy ha én zártam volna le, át is írtam volna a közterület jellegét utcára. / * 2022 June 6 14:48 vasony Resolved: Nos a hivatalos neve Vörösmarty Mihály út, szóval innentől kezdve akár mindegy is hogy Vörösmarty út vagy Vörösmarty utca van a térképen. Átírtam.</title>
         <link>https://www.openstreetmap.org/note/2836196#c6887154</link>
         <guid>https://www.openstreetmap.org/note/2836196#c6887154</guid>
@@ -227,21 +232,6 @@
         <link>https://www.openstreetmap.org/note/3209358#c6878939</link>
         <guid>https://www.openstreetmap.org/note/3209358#c6878939</guid>
         <pubDate>Sat, 04 Jun 2022 12:00:27 +0000</pubDate>
-      </item><item>
-        <title>new note (near Tihany) / * 2022 June 4 12:00 Guzsvány Máté Created: &amp;quot;250 FT a belépő, fizetős&amp;quot; / OSM snapshot date: 2022-05-15T14:57:35Z / POI has no name / POI types: amenity-toilets / #organicmaps</title>
-        <link>https://www.openstreetmap.org/note/3209357#c6878938</link>
-        <guid>https://www.openstreetmap.org/note/3209357#c6878938</guid>
-        <pubDate>Sat, 04 Jun 2022 12:00:27 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Balatonarács, Balatonfüred) / * 2021 August 15 15:59 Created: Medence javítása (delete PoI, draw Pool shape and tag it as Pool) / * 2021 August 16 15:11 Guzsvány Máté Resolved:  / * 2021 August 16 20:10 Guzsvány Máté Reactivated:  / * 2021 August 16 20:10 Guzsvány Máté Updated: Fix size and geometry / * 2022 June 4 11:55 Guzsvány Máté Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2804692#c6878919</link>
-        <guid>https://www.openstreetmap.org/note/2804692#c6878919</guid>
-        <pubDate>Sat, 04 Jun 2022 11:55:43 +0000</pubDate>
-      </item><item>
-        <title>new note (near Lakótelep, Paks) / * 2022 June 4 11:14 redd Created: unmapped building</title>
-        <link>https://www.openstreetmap.org/note/3209270#c6878761</link>
-        <guid>https://www.openstreetmap.org/note/3209270#c6878761</guid>
-        <pubDate>Sat, 04 Jun 2022 11:14:32 +0000</pubDate>
       </item>
   </channel>
 </rss>
