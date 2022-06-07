@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Szőreg, Szeged) / * 2022 June 2 11:36 CopperOppositeKindred Created: Unable to answer &amp;quot;How many lanes for cars does this road have?&amp;quot; for https://osm.org/way/750511583 via StreetComplete 43.0: / Van, de nagyon halvány, sok helyen nem látszik. Hogy direkt nem festik újra vagy csak nem fontos, azt nem tudom. Ilyenkor mi a helyes? / * 2022 June 3 10:10 gabro00 Updated: Nem foglalkoznak vele leginkább. / * 2022 June 3 10:21 gabro00 Updated: Egyébként a helyes válasz 2, még akkor is, ha nem látszik, mert két autó (még busz is) kényelmesen elfér egymás mellett. / Az hogy látszik-e a festés, az másik kulcs: https://wiki.openstreetmap.org/wiki/Key:lane_markings / * 2022 June 4 12:55 CopperOppositeKindred Updated: Az SC küldetés amire a megjegyzést írtam a lane_markings-t is módosítja a megadott válasz szerint. A sávok számának megadása előtt ki kell választani, hogy vannak jelölt sávok vagy nincsenek, esetleg eltér a két oldalon. / Szerinted ilyen esetben melyiket kellene inkább választani? / * 2022 June 7 19:11 gabro00 Updated: Ha látszik, akkor vannak, egyébként nincsenek.</title>
+        <link>https://www.openstreetmap.org/note/3206740#c6891697</link>
+        <guid>https://www.openstreetmap.org/note/3206740#c6891697</guid>
+        <pubDate>Tue, 07 Jun 2022 19:11:21 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Szentmihály, Szeged) / * 2022 May 16 15:45 Created: Unable to answer &amp;quot;What’s the topic of this information board?&amp;quot; for https://osm.org/node/9169717559 via StreetComplete 43.0: / Ezt nem tudom eldönteni, melyik kategória / Attached photo(s): / https://westnordost.de/p/93587.jpg / * 2022 May 29 16:54 gabro00 Resolved: Üdvözlőtábla, semmi különös :) / * 2022 June 3 13:13 CopperOppositeKindred Reactivated: Ezt az egyet visszanyitom, hogy feltehessek egy kérdést ami az összes többi már lezárt megjegyzést is érinti (köszi egyébként): / Látom hogy most a képek nem elérhetőek. Amikor nézted ezeket a megjegyzéseket, akkor még elérhetők voltak? / Ha nem, akkor vissza fogok még erre jönni hogy kitöltsek néhány infót ami a képeken volt rajta (pl telefonfülke telefonszáma). / * 2022 June 7 18:58 gabro00 Resolved: Eleinte részben elérhetőek voltak úgy emlékszem, de annyi jegyzetet hoztál létre, hogy nem tudom már biztosan. / Az a biztos, ha magad szerkeszted fel ;)</title>
+        <link>https://www.openstreetmap.org/note/3182069#c6891668</link>
+        <guid>https://www.openstreetmap.org/note/3182069#c6891668</guid>
+        <pubDate>Tue, 07 Jun 2022 18:58:26 +0000</pubDate>
+      </item><item>
+        <title>new note (near Harka) / * 2022 June 7 18:37 efi99 Created: cím jó?</title>
+        <link>https://www.openstreetmap.org/note/3215023#c6891602</link>
+        <guid>https://www.openstreetmap.org/note/3215023#c6891602</guid>
+        <pubDate>Tue, 07 Jun 2022 18:37:51 +0000</pubDate>
+      </item><item>
         <title>new note (near Csepel-Gyártelep, 21st district) / * 2022 June 7 16:25 kogutowicz-mano Created: Az újabb műholdképek szerint a víztorony már nem létezik.</title>
         <link>https://www.openstreetmap.org/note/3214875#c6891293</link>
         <guid>https://www.openstreetmap.org/note/3214875#c6891293</guid>
@@ -127,21 +142,6 @@
         <link>https://www.openstreetmap.org/note/3212624#c6886020</link>
         <guid>https://www.openstreetmap.org/note/3212624#c6886020</guid>
         <pubDate>Mon, 06 Jun 2022 11:16:32 +0000</pubDate>
-      </item><item>
-        <title>new note (near Harka) / * 2022 June 5 17:03 efi99 Created: cím?</title>
-        <link>https://www.openstreetmap.org/note/3211517#c6883543</link>
-        <guid>https://www.openstreetmap.org/note/3211517#c6883543</guid>
-        <pubDate>Sun, 05 Jun 2022 17:03:55 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Kertváros, Tiszaújváros) / * 2022 June 5 16:26 kogutowicz-mano Updated: Vasony csak azt kérdezte, mi van az utcatáblán. De vannak egyéb forrásai is, pl. írni szokott az önkormányzatnak. Ráhagynám a lezárást, amikor jónak látja. / Amúgy ha én zártam volna le, át is írtam volna a közterület jellegét utcára.</title>
-        <link>https://www.openstreetmap.org/note/2836196#c6883447</link>
-        <guid>https://www.openstreetmap.org/note/2836196#c6883447</guid>
-        <pubDate>Sun, 05 Jun 2022 16:26:22 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Sóskútimajor, Biatorbágy) / * 2019 June 3 18:13 bafabry Created: Táblával jelzett ösvény indul a milleniumi emlékoszlophoz ÉNY-i irányban. / * 2022 June 5 13:28 urbalazs Resolved: 8 hónappal ezelőtt felkerült az ösvény a térképre.</title>
-        <link>https://www.openstreetmap.org/note/1800816#c6882915</link>
-        <guid>https://www.openstreetmap.org/note/1800816#c6882915</guid>
-        <pubDate>Sun, 05 Jun 2022 13:28:55 +0000</pubDate>
       </item>
   </channel>
 </rss>
