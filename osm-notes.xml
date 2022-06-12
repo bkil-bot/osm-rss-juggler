@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Palotanegyed, 8th district) / * 2022 June 12 20:47 Hagaskar Resolved: changed</title>
+        <link>https://www.openstreetmap.org/note/3220956#c6906221</link>
+        <guid>https://www.openstreetmap.org/note/3220956#c6906221</guid>
+        <pubDate>Sun, 12 Jun 2022 20:47:56 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Palotanegyed, 8th district) / * 2022 June 12 20:44 Hagaskar Resolved: set to disused</title>
+        <link>https://www.openstreetmap.org/note/3220954#c6906208</link>
+        <guid>https://www.openstreetmap.org/note/3220954#c6906208</guid>
+        <pubDate>Sun, 12 Jun 2022 20:44:11 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Palotanegyed, 8th district) / * 2022 June 12 20:43 Hagaskar Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3220953#c6906207</link>
+        <guid>https://www.openstreetmap.org/note/3220953#c6906207</guid>
+        <pubDate>Sun, 12 Jun 2022 20:43:09 +0000</pubDate>
+      </item><item>
+        <title>new note (near Domony) / * 2022 June 12 20:34 bkil Created: Fő út vagy Fő utca van kitáblázva?</title>
+        <link>https://www.openstreetmap.org/note/3221983#c6906193</link>
+        <guid>https://www.openstreetmap.org/note/3221983#c6906193</guid>
+        <pubDate>Sun, 12 Jun 2022 20:34:52 +0000</pubDate>
+      </item><item>
         <title>new note (near Várpalota) / * 2022 June 12 20:09 bkil Created: Árpád út vagy Árpád utca van a helyszínen kirakva?</title>
         <link>https://www.openstreetmap.org/note/3221965#c6906145</link>
         <guid>https://www.openstreetmap.org/note/3221965#c6906145</guid>
@@ -347,46 +367,6 @@
         <link>https://www.openstreetmap.org/note/3220207#c6902976</link>
         <guid>https://www.openstreetmap.org/note/3220207#c6902976</guid>
         <pubDate>Sat, 11 Jun 2022 16:54:54 +0000</pubDate>
-      </item><item>
-        <title>new note (near Belváros, Gyor) / * 2022 June 11 16:54 Created: Borsos Miklós ház</title>
-        <link>https://www.openstreetmap.org/note/3220204#c6902973</link>
-        <guid>https://www.openstreetmap.org/note/3220204#c6902973</guid>
-        <pubDate>Sat, 11 Jun 2022 16:54:20 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Hidegség) / * 2022 March 10 10:11 efi99 Created: 5 v. 6 ? / * 2022 June 11 15:50 efi99 Resolved: 6.</title>
-        <link>https://www.openstreetmap.org/note/3081910#c6902685</link>
-        <guid>https://www.openstreetmap.org/note/3081910#c6902685</guid>
-        <pubDate>Sat, 11 Jun 2022 15:50:44 +0000</pubDate>
-      </item><item>
-        <title>new note (near Újlak, 2nd district) / * 2022 June 11 15:41 utvonalfelmeresek Created: gesztenyeszív nyitvat sz 17ig / via StreetComplete 44.0 / Attached photo(s): / https://westnordost.de/p/97429.jpg</title>
-        <link>https://www.openstreetmap.org/note/3220045#c6902646</link>
-        <guid>https://www.openstreetmap.org/note/3220045#c6902646</guid>
-        <pubDate>Sat, 11 Jun 2022 15:41:19 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Süttör, Fertőd) / * 2022 May 27 07:51 Matyjace Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;This is a restaurant with a lookout tower&amp;quot; / * 2022 June 11 12:48 efi99 Resolved: https://www.facebook.com/kalandbirodalom/</title>
-        <link>https://www.openstreetmap.org/note/3197030#c6902244</link>
-        <guid>https://www.openstreetmap.org/note/3197030#c6902244</guid>
-        <pubDate>Sat, 11 Jun 2022 12:48:25 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Nagylapos, Eger) / * 2021 August 14 13:57 vasony Created: Ez egy valódi kutyafuttató, vagy csak egy park amit annak használnak? / * 2022 June 11 12:44 Dunyi Resolved: Ez egy valódi kutyafuttató.</title>
-        <link>https://www.openstreetmap.org/note/2803092#c6902235</link>
-        <guid>https://www.openstreetmap.org/note/2803092#c6902235</guid>
-        <pubDate>Sat, 11 Jun 2022 12:44:59 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Harka) / * 2014 February 2 09:45 Created: Moved from OSB ID592145: / misplaced stream [NaTToMi, 2011-05-07 20:46:59 CEST] / I would delete pretty all the streams in this area - do nearly all look completely random. Can you - NaTToMi - please contact SzPaula and ask for the data-source of this streams? (I guess he/she is hungarian). [imagic, 2011-07-28 16:38:53 CEST] / She were already asked on OSM-HU mailing list. She said she is a cartographer and some she had access to some kind of database which could be legally used. That was in the times prior to Bing imagery. She said it was better than nothing. Now we have some shapefiles: http://www.euvki.hu/pages/NetBrowser.aspx?dirID=41. Someone on the list said that he got permission to these datasets. [NaTToMi, 2011-07-29 10:16:04 CEST] / * 2022 June 11 12:41 efi99 Resolved: </title>
-        <link>https://www.openstreetmap.org/note/111514#c6902220</link>
-        <guid>https://www.openstreetmap.org/note/111514#c6902220</guid>
-        <pubDate>Sat, 11 Jun 2022 12:41:02 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Harka) / * 2022 June 6 20:01 efi99 Created: cím jó? / * 2022 June 11 12:32 efi99 Resolved: 8</title>
-        <link>https://www.openstreetmap.org/note/3213645#c6902195</link>
-        <guid>https://www.openstreetmap.org/note/3213645#c6902195</guid>
-        <pubDate>Sat, 11 Jun 2022 12:32:45 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Felsőváros, Szeged) / * 2022 June 9 16:30 fawkes2 Created: Unable to answer &amp;quot;What’s the surface here?&amp;quot; for https://osm.org/way/615515711 via StreetComplete 44.0: / Ez nincs már itt? / * 2022 June 11 12:26 gabro00 Resolved: https://www.openstreetmap.org/changeset/122247369</title>
-        <link>https://www.openstreetmap.org/note/3217384#c6902181</link>
-        <guid>https://www.openstreetmap.org/note/3217384#c6902181</guid>
-        <pubDate>Sat, 11 Jun 2022 12:26:50 +0000</pubDate>
       </item>
   </channel>
 </rss>
