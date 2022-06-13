@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Tihany) / * 2022 June 4 12:00 Guzsvány Máté Created: &amp;quot;250 FT a belépő, fizetős&amp;quot; / OSM snapshot date: 2022-05-15T14:57:35Z / POI has no name / POI types: amenity-toilets / #organicmaps / * 2022 June 13 21:34 urbalazs Resolved: Már be volt állítva fizetősre.</title>
+        <link>https://www.openstreetmap.org/note/3209357#c6910233</link>
+        <guid>https://www.openstreetmap.org/note/3209357#c6910233</guid>
+        <pubDate>Mon, 13 Jun 2022 21:34:15 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Tihany) / * 2022 June 3 13:34 Guzsvány Máté Created: Unable to answer &amp;quot;What are the opening hours here?&amp;quot; for https://osm.org/node/4940559134 via StreetComplete 44.0: / Nem létezik / Attached photo(s): / https://westnordost.de/p/96296.jpg / * 2022 June 13 21:34 urbalazs Resolved: Létezik az, csak kicsit más néven és az utca túloldalán. A helyére húztam.</title>
+        <link>https://www.openstreetmap.org/note/3208064#c6910232</link>
+        <guid>https://www.openstreetmap.org/note/3208064#c6910232</guid>
+        <pubDate>Mon, 13 Jun 2022 21:34:15 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Kiserdőtelep, Óvár, Tihany) / * 2022 June 4 12:00 Guzsvány Máté Created: &amp;quot;200 FT a belépő, fizetős&amp;quot; / OSM snapshot date: 2022-05-15T14:57:35Z / POI has no name / POI types: amenity-toilets / #organicmaps / * 2022 June 13 21:34 urbalazs Resolved: Beállítottam fizetősre.</title>
+        <link>https://www.openstreetmap.org/note/3209358#c6910231</link>
+        <guid>https://www.openstreetmap.org/note/3209358#c6910231</guid>
+        <pubDate>Mon, 13 Jun 2022 21:34:14 +0000</pubDate>
+      </item><item>
         <title>new note (near Fertőendréd) / * 2022 June 13 21:00 efi99 Created: cím jó?</title>
         <link>https://www.openstreetmap.org/note/3223492#c6910148</link>
         <guid>https://www.openstreetmap.org/note/3223492#c6910148</guid>
@@ -112,21 +127,6 @@
         <link>https://www.openstreetmap.org/note/3138153#c6909770</link>
         <guid>https://www.openstreetmap.org/note/3138153#c6909770</guid>
         <pubDate>Mon, 13 Jun 2022 18:44:04 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Kelenföld, 11th district) / * 2022 April 26 05:17 kolasau Created: Does this road exist here? / * 2022 June 13 06:57 urbalazs Resolved: There is no road at the marked position.</title>
-        <link>https://www.openstreetmap.org/note/3152641#c6907188</link>
-        <guid>https://www.openstreetmap.org/note/3152641#c6907188</guid>
-        <pubDate>Mon, 13 Jun 2022 06:57:28 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Gellérthegy, 11th district) / * 2022 April 22 08:15 Matyjace Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;Close because of reconstruction&amp;quot; / * 2022 June 13 06:55 urbalazs Resolved: It is closed but no demolished so there is nothing changed regarding to the building. I close this note for now.</title>
-        <link>https://www.openstreetmap.org/note/3147096#c6907183</link>
-        <guid>https://www.openstreetmap.org/note/3147096#c6907183</guid>
-        <pubDate>Mon, 13 Jun 2022 06:55:39 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Szentimreváros, 11th district) / * 2022 May 7 11:06 Created: Hotel Gellert is closed for renovation until early 2024. / * 2022 June 13 06:55 urbalazs Resolved: It is closed but no demolished so there is nothing changed regarding to the building. I close this note for now.</title>
-        <link>https://www.openstreetmap.org/note/3168966#c6907180</link>
-        <guid>https://www.openstreetmap.org/note/3168966#c6907180</guid>
-        <pubDate>Mon, 13 Jun 2022 06:55:05 +0000</pubDate>
       </item>
   </channel>
 </rss>
