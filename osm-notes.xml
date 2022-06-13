@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Budafok, 22nd district) / * 2021 August 16 16:21 vtibi Created: was demolished and is being rebuilt / * 2022 June 12 23:26 urbalazs Resolved: Az épület building=construction címkével van ellátva. Meg kell várni, amíg elérhető lesz egy műholdkép, amin látszik az új geometria (ha van változás). Ezt a jegyzetet most lezárom, nincs vele teendő jelenleg.</title>
+        <link>https://www.openstreetmap.org/note/2806259#c6906578</link>
+        <guid>https://www.openstreetmap.org/note/2806259#c6906578</guid>
+        <pubDate>Sun, 12 Jun 2022 23:26:40 +0000</pubDate>
+      </item><item>
         <title>closed note (near Palotanegyed, 8th district) / * 2022 June 12 20:47 Hagaskar Resolved: changed</title>
         <link>https://www.openstreetmap.org/note/3220956#c6906221</link>
         <guid>https://www.openstreetmap.org/note/3220956#c6906221</guid>
@@ -362,11 +367,6 @@
         <link>https://www.openstreetmap.org/note/3220208#c6902977</link>
         <guid>https://www.openstreetmap.org/note/3220208#c6902977</guid>
         <pubDate>Sat, 11 Jun 2022 16:55:28 +0000</pubDate>
-      </item><item>
-        <title>new note (near Belváros, Gyor) / * 2022 June 11 16:54 Created: Karmelita templom</title>
-        <link>https://www.openstreetmap.org/note/3220207#c6902976</link>
-        <guid>https://www.openstreetmap.org/note/3220207#c6902976</guid>
-        <pubDate>Sat, 11 Jun 2022 16:54:54 +0000</pubDate>
       </item>
   </channel>
 </rss>
