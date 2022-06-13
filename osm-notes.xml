@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Egyetemváros, Debrecen) / * 2022 June 13 18:52 Created: A térképen jelölt Reumatológia, Rehabilitációs tanszékek helyén időközben a Sürgősségi Klinika és a Gasztroenterológiai Klinika kapott helyet, és ebbe az épületbe került át a Felnőtt Háziorvosi Ügyelet is.</title>
+        <link>https://www.openstreetmap.org/note/3223343#c6909803</link>
+        <guid>https://www.openstreetmap.org/note/3223343#c6909803</guid>
+        <pubDate>Mon, 13 Jun 2022 18:52:50 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Siklós) / * 2022 May 19 08:56 Guzsvány Máté Created: &amp;quot;Duplicate of already existing building near-by&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2022-04-15T21:38:03Z / POI has no name / POI types: amenity-school / #organicmaps / * 2022 June 13 18:44 Guzsvány Máté Resolved: Fixed, javítva</title>
+        <link>https://www.openstreetmap.org/note/3185485#c6909772</link>
+        <guid>https://www.openstreetmap.org/note/3185485#c6909772</guid>
+        <pubDate>Mon, 13 Jun 2022 18:44:24 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Aranyospuszta, Siklós) / * 2022 April 17 15:24 Guzsvány Máté Created: Innentől jobbra Felszabadulás utca a kereszteződésig / * 2022 June 13 18:44 Guzsvány Máté Resolved: Nem egyértelmű</title>
+        <link>https://www.openstreetmap.org/note/3138153#c6909770</link>
+        <guid>https://www.openstreetmap.org/note/3138153#c6909770</guid>
+        <pubDate>Mon, 13 Jun 2022 18:44:04 +0000</pubDate>
+      </item><item>
         <title>closed note (near Kelenföld, 11th district) / * 2022 April 26 05:17 kolasau Created: Does this road exist here? / * 2022 June 13 06:57 urbalazs Resolved: There is no road at the marked position.</title>
         <link>https://www.openstreetmap.org/note/3152641#c6907188</link>
         <guid>https://www.openstreetmap.org/note/3152641#c6907188</guid>
@@ -22,36 +37,6 @@
         <link>https://www.openstreetmap.org/note/2806259#c6906578</link>
         <guid>https://www.openstreetmap.org/note/2806259#c6906578</guid>
         <pubDate>Sun, 12 Jun 2022 23:26:40 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Palotanegyed, 8th district) / * 2022 June 12 20:47 Hagaskar Resolved: changed</title>
-        <link>https://www.openstreetmap.org/note/3220956#c6906221</link>
-        <guid>https://www.openstreetmap.org/note/3220956#c6906221</guid>
-        <pubDate>Sun, 12 Jun 2022 20:47:56 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Palotanegyed, 8th district) / * 2022 June 12 20:44 Hagaskar Resolved: set to disused</title>
-        <link>https://www.openstreetmap.org/note/3220954#c6906208</link>
-        <guid>https://www.openstreetmap.org/note/3220954#c6906208</guid>
-        <pubDate>Sun, 12 Jun 2022 20:44:11 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Palotanegyed, 8th district) / * 2022 June 12 20:43 Hagaskar Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3220953#c6906207</link>
-        <guid>https://www.openstreetmap.org/note/3220953#c6906207</guid>
-        <pubDate>Sun, 12 Jun 2022 20:43:09 +0000</pubDate>
-      </item><item>
-        <title>new note (near Domony) / * 2022 June 12 20:34 bkil Created: Fő út vagy Fő utca van kitáblázva?</title>
-        <link>https://www.openstreetmap.org/note/3221983#c6906193</link>
-        <guid>https://www.openstreetmap.org/note/3221983#c6906193</guid>
-        <pubDate>Sun, 12 Jun 2022 20:34:52 +0000</pubDate>
-      </item><item>
-        <title>new note (near Várpalota) / * 2022 June 12 20:09 bkil Created: Árpád út vagy Árpád utca van a helyszínen kirakva?</title>
-        <link>https://www.openstreetmap.org/note/3221965#c6906145</link>
-        <guid>https://www.openstreetmap.org/note/3221965#c6906145</guid>
-        <pubDate>Sun, 12 Jun 2022 20:09:27 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Várpalota) / * 2022 June 12 20:09 bkil Resolved: Thank you, fixed in https://osm.org/changeset/122296742</title>
-        <link>https://www.openstreetmap.org/note/3221626#c6906144</link>
-        <guid>https://www.openstreetmap.org/note/3221626#c6906144</guid>
-        <pubDate>Sun, 12 Jun 2022 20:09:27 +0000</pubDate>
       </item>
   </channel>
 </rss>
