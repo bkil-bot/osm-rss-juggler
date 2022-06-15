@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Mezőtúr) / * 2019 December 18 13:54 gabro00 Created: Nem jól van megrajzolva a víz, mert hajós navigációra pl. alkalmatlan így. / A zsilip a szigettől északra van, a déli oldalon pedig a vízerőmű infrastruktúrája. / * 2022 June 14 07:32 kogutowicz-mano Updated: Az ábrán is pont így szerepel. Kell még ezzel csinálni valamit? / Amúgy a közelben leszek a hétvégén, talán meg tudom nézni, ami pontosításra szorul. Csak adj valami támpontot! / * 2022 June 14 18:58 gabro00 Updated: Igen, a Körös vonalát a zsilipen keresztül kellene megrajzolni. Ez az állapot a jegyzet létrehozása óta változatlan. / * 2022 June 14 19:41 kogutowicz-mano Updated: Ja, azt hittem a geográfiával van gond, amit csak helyszíni felméréssel  lehet orvosolni. / A folyót feldarabolni és újra összerakni én sem tudom jobban, mint bárki más. :-) / * 2022 June 15 12:44 kogutowicz-mano Updated: Harmadikra sikerült egyesíteni a víztestet... / No, így gondoltad?</title>
+        <link>https://www.openstreetmap.org/note/2030350#c6915702</link>
+        <guid>https://www.openstreetmap.org/note/2030350#c6915702</guid>
+        <pubDate>Wed, 15 Jun 2022 12:44:09 +0000</pubDate>
+      </item><item>
         <title>new note (near Újdombrád) / * 2022 June 15 12:13 Created: Tűzcsap, mellette (az úthoz közelebb) ivókút.</title>
         <link>https://www.openstreetmap.org/note/3225726#c6915576</link>
         <guid>https://www.openstreetmap.org/note/3225726#c6915576</guid>
@@ -127,16 +132,6 @@
         <link>https://www.openstreetmap.org/note/2708116#c6910358</link>
         <guid>https://www.openstreetmap.org/note/2708116#c6910358</guid>
         <pubDate>Mon, 13 Jun 2022 23:33:20 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Kövesd, Csopak) / * 2022 April 11 08:53 Matyjace Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;Luki foodbar was marked on a wrong place, and it does not work, it is on the other side of the road. It works as a pension.&amp;quot; / * 2022 June 13 23:33 urbalazs Resolved: Moved to the correct place and marked as disused.</title>
-        <link>https://www.openstreetmap.org/note/3128563#c6910357</link>
-        <guid>https://www.openstreetmap.org/note/3128563#c6910357</guid>
-        <pubDate>Mon, 13 Jun 2022 23:33:19 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Lovas) / * 2021 March 22 08:27 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: There are stairs here. / * 2022 June 13 23:33 urbalazs Resolved: Stairs added.</title>
-        <link>https://www.openstreetmap.org/note/2588983#c6910356</link>
-        <guid>https://www.openstreetmap.org/note/2588983#c6910356</guid>
-        <pubDate>Mon, 13 Jun 2022 23:33:19 +0000</pubDate>
       </item>
   </channel>
 </rss>
