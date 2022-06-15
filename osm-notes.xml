@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Újdombrád) / * 2022 June 15 16:10 Created: Buszmegálló.</title>
+        <link>https://www.openstreetmap.org/note/3226099#c6916329</link>
+        <guid>https://www.openstreetmap.org/note/3226099#c6916329</guid>
+        <pubDate>Wed, 15 Jun 2022 16:10:34 +0000</pubDate>
+      </item><item>
+        <title>new note (near Újdombrád) / * 2022 June 15 16:10 Created: Buszmegálló buszöbölben, esőbeállóval.</title>
+        <link>https://www.openstreetmap.org/note/3226098#c6916327</link>
+        <guid>https://www.openstreetmap.org/note/3226098#c6916327</guid>
+        <pubDate>Wed, 15 Jun 2022 16:10:18 +0000</pubDate>
+      </item><item>
+        <title>new note (near Újdombrád) / * 2022 June 15 16:10 Created: Buszmegálló</title>
+        <link>https://www.openstreetmap.org/note/3226097#c6916324</link>
+        <guid>https://www.openstreetmap.org/note/3226097#c6916324</guid>
+        <pubDate>Wed, 15 Jun 2022 16:10:02 +0000</pubDate>
+      </item><item>
         <title>new comment (near Mezőtúr) / * 2019 December 18 13:54 gabro00 Created: Nem jól van megrajzolva a víz, mert hajós navigációra pl. alkalmatlan így. / A zsilip a szigettől északra van, a déli oldalon pedig a vízerőmű infrastruktúrája. / * 2022 June 14 07:32 kogutowicz-mano Updated: Az ábrán is pont így szerepel. Kell még ezzel csinálni valamit? / Amúgy a közelben leszek a hétvégén, talán meg tudom nézni, ami pontosításra szorul. Csak adj valami támpontot! / * 2022 June 14 18:58 gabro00 Updated: Igen, a Körös vonalát a zsilipen keresztül kellene megrajzolni. Ez az állapot a jegyzet létrehozása óta változatlan. / * 2022 June 14 19:41 kogutowicz-mano Updated: Ja, azt hittem a geográfiával van gond, amit csak helyszíni felméréssel  lehet orvosolni. / A folyót feldarabolni és újra összerakni én sem tudom jobban, mint bárki más. :-) / * 2022 June 15 12:44 kogutowicz-mano Updated: Harmadikra sikerült egyesíteni a víztestet... / No, így gondoltad?</title>
         <link>https://www.openstreetmap.org/note/2030350#c6915702</link>
         <guid>https://www.openstreetmap.org/note/2030350#c6915702</guid>
@@ -112,21 +127,6 @@
         <link>https://www.openstreetmap.org/note/2805738#c6910362</link>
         <guid>https://www.openstreetmap.org/note/2805738#c6910362</guid>
         <pubDate>Mon, 13 Jun 2022 23:33:23 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Kövesd, Csopak) / * 2022 April 11 09:07 Matyjace Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;there works a little shop, especially food. It is open on Sunday as well.&amp;quot; / * 2022 June 13 23:33 urbalazs Resolved: There is an other shop in the next building. I close this note because the information is not enough to add something to the map.</title>
-        <link>https://www.openstreetmap.org/note/3128581#c6910361</link>
-        <guid>https://www.openstreetmap.org/note/3128581#c6910361</guid>
-        <pubDate>Mon, 13 Jun 2022 23:33:22 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Ófalu, Balatonfüred) / * 2021 August 14 09:17 Created: fix geometry / * 2022 June 13 23:33 urbalazs Resolved: Fixed.</title>
-        <link>https://www.openstreetmap.org/note/2802700#c6910360</link>
-        <guid>https://www.openstreetmap.org/note/2802700#c6910360</guid>
-        <pubDate>Mon, 13 Jun 2022 23:33:21 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Kövesd, Csopak) / * 2022 April 11 08:58 Matyjace Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;There is no pharmacy there, it closed. It is an office of the local civil guard&amp;quot; / * 2022 June 13 23:33 urbalazs Resolved: I closed the pharmacy.</title>
-        <link>https://www.openstreetmap.org/note/3128568#c6910359</link>
-        <guid>https://www.openstreetmap.org/note/3128568#c6910359</guid>
-        <pubDate>Mon, 13 Jun 2022 23:33:21 +0000</pubDate>
       </item>
   </channel>
 </rss>
