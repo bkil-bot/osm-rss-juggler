@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Kétérköz, Tiszatelek) / * 2022 June 15 16:28 Created: Hiányzó út?</title>
+        <link>https://www.openstreetmap.org/note/3226125#c6916389</link>
+        <guid>https://www.openstreetmap.org/note/3226125#c6916389</guid>
+        <pubDate>Wed, 15 Jun 2022 16:28:43 +0000</pubDate>
+      </item><item>
+        <title>new note (near Tiszatelek) / * 2022 June 15 16:24 Created: Buszmegálló, buszöböllel, esőbeállóval</title>
+        <link>https://www.openstreetmap.org/note/3226117#c6916375</link>
+        <guid>https://www.openstreetmap.org/note/3226117#c6916375</guid>
+        <pubDate>Wed, 15 Jun 2022 16:24:37 +0000</pubDate>
+      </item><item>
         <title>new note (near Újdombrád) / * 2022 June 15 16:10 Created: Buszmegálló.</title>
         <link>https://www.openstreetmap.org/note/3226099#c6916329</link>
         <guid>https://www.openstreetmap.org/note/3226099#c6916329</guid>
@@ -97,36 +107,6 @@
         <link>https://www.openstreetmap.org/note/2030350#c6911030</link>
         <guid>https://www.openstreetmap.org/note/2030350#c6911030</guid>
         <pubDate>Tue, 14 Jun 2022 07:32:44 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Kövesd, Csopak) / * 2022 April 11 09:05 Matyjace Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;there is a path leading to Paloznaki utca and there is also a parking place.&amp;quot; / * 2022 June 13 23:33 urbalazs Resolved: Path and parking place added.</title>
-        <link>https://www.openstreetmap.org/note/3128579#c6910367</link>
-        <guid>https://www.openstreetmap.org/note/3128579#c6910367</guid>
-        <pubDate>Mon, 13 Jun 2022 23:33:25 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Lovas) / * 2021 March 22 08:30 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: There is no track. / * 2022 June 13 23:33 urbalazs Resolved: Confirmed, I don&amp;#39;t see track on Maxar which is the newest imagery from the area.</title>
-        <link>https://www.openstreetmap.org/note/2588985#c6910366</link>
-        <guid>https://www.openstreetmap.org/note/2588985#c6910366</guid>
-        <pubDate>Mon, 13 Jun 2022 23:33:25 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Lakótelep, Belváros, Balatonfüred) / * 2021 May 7 04:39 kogutowicz-mano Created: Ez az épület tisztázásra szorul. Több tucat &amp;quot;beltéri ajtó&amp;quot; van belezsúfolva. Néhány jutott kívülre is. / * 2022 June 13 23:33 urbalazs Resolved: Valószínűleg a készítő véletlenül kijelölte az összes pontot, amire aztán indoor cimkét tett. A felesleget töröltem, a többi jól van, ahogy van. Indokolatlanul részletes, de hát nem tudom, mi volt vle a cél. Mivel gondot nem okoz, ott hagyom.</title>
-        <link>https://www.openstreetmap.org/note/2658281#c6910365</link>
-        <guid>https://www.openstreetmap.org/note/2658281#c6910365</guid>
-        <pubDate>Mon, 13 Jun 2022 23:33:24 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Belváros, Balatonfüred) / * 2021 August 10 11:05 Guzsvány Máté Created: Unable to answer &amp;quot;What is the name of this road?&amp;quot; for https://osm.org/way/607881111 via StreetComplete 33.2: / zsákutca, nincs neve tudtommal / Attached photo(s): / https://westnordost.de/p/53701.jpg / * 2022 June 13 23:33 urbalazs Resolved: Noname=yes beállítva.</title>
-        <link>https://www.openstreetmap.org/note/2795181#c6910364</link>
-        <guid>https://www.openstreetmap.org/note/2795181#c6910364</guid>
-        <pubDate>Mon, 13 Jun 2022 23:33:24 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Lakótelep, Belváros, Balatonfüred) / * 2021 January 12 09:40 Mamutinka Created: #Mapy.cz user reports: canceled / * 2022 June 13 23:33 urbalazs Resolved: Removed.</title>
-        <link>https://www.openstreetmap.org/note/2494839#c6910363</link>
-        <guid>https://www.openstreetmap.org/note/2494839#c6910363</guid>
-        <pubDate>Mon, 13 Jun 2022 23:33:23 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Balatonfüred) / * 2021 August 16 09:30 Guzsvány Máté Created: &amp;quot;Nincs itt parkoló&amp;quot; / The place has gone or never existed. This is an auto-generated note from Oragnic Maps application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI has no name / POI types: amenity-parking-fee amenity-parking-underground / OSM data version: 2021-07-29T10:41:28Z / #organicmaps / * 2022 June 13 23:33 urbalazs Resolved: Töröltem a parkolót. Régen az volt, de ma már épületek vannak a helyén.</title>
-        <link>https://www.openstreetmap.org/note/2805738#c6910362</link>
-        <guid>https://www.openstreetmap.org/note/2805738#c6910362</guid>
-        <pubDate>Mon, 13 Jun 2022 23:33:23 +0000</pubDate>
       </item>
   </channel>
 </rss>
