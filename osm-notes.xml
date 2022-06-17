@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Nagyerdő, Debrecen) / * 2022 May 7 18:19 Created: There’s a protected tree here. (ginko biloba) / Itt van egy vedett fá. (ginko biloba) / * 2022 June 17 20:16 &amp;#39;Lex Resolved: Added, verified by website https://mandadb.hu/tetel/39369/Pafranyfenyo and local knowledge</title>
+        <link>https://www.openstreetmap.org/note/3169549#c6924451</link>
+        <guid>https://www.openstreetmap.org/note/3169549#c6924451</guid>
+        <pubDate>Fri, 17 Jun 2022 20:16:32 +0000</pubDate>
+      </item><item>
+        <title>new note (near City Park, 14th district) / * 2022 June 17 20:05 Hagaskar Created: Basketball court</title>
+        <link>https://www.openstreetmap.org/note/3229482#c6924435</link>
+        <guid>https://www.openstreetmap.org/note/3229482#c6924435</guid>
+        <pubDate>Fri, 17 Jun 2022 20:05:56 +0000</pubDate>
+      </item><item>
+        <title>new note (near City Park, 14th district) / * 2022 June 17 20:05 Hagaskar Created: There are at least 10 benches here</title>
+        <link>https://www.openstreetmap.org/note/3229481#c6924434</link>
+        <guid>https://www.openstreetmap.org/note/3229481#c6924434</guid>
+        <pubDate>Fri, 17 Jun 2022 20:05:51 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Vandhátikertek, Békéscsaba) / * 2022 January 10 10:32 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: Basin has got a name &amp;#39;Nagyréti tó&amp;#39;. / https://www.openstreetmap.org/way/648259421 / * 2022 June 17 19:39 &amp;#39;Lex Resolved: Also verified by website: https://nagyretito.hu/kapcsolat which includes GPS coordinates, basin&amp;#39;s shape is also recognisable on website&amp;#39;s video. Name and website tag added.</title>
+        <link>https://www.openstreetmap.org/note/3004906#c6924372</link>
+        <guid>https://www.openstreetmap.org/note/3004906#c6924372</guid>
+        <pubDate>Fri, 17 Jun 2022 19:39:42 +0000</pubDate>
+      </item><item>
         <title>closed note (near Felsőjózsa, Debrecen) / * 2022 February 7 16:32 gabro00 Created: Címezés javítandó, pl. https://www.openstreetmap.org/way/320706121 / * 2022 June 17 18:07 &amp;#39;Lex Resolved: Javítva az egész utcában</title>
         <link>https://www.openstreetmap.org/note/3041055#c6924177</link>
         <guid>https://www.openstreetmap.org/note/3041055#c6924177</guid>
@@ -167,11 +187,6 @@
         <link>https://www.openstreetmap.org/note/3228013#c6920519</link>
         <guid>https://www.openstreetmap.org/note/3228013#c6920519</guid>
         <pubDate>Thu, 16 Jun 2022 19:09:14 +0000</pubDate>
-      </item><item>
-        <title>new note (near Erzsébetváros, 7th district) / * 2022 June 16 17:44 neztoo Created: &amp;quot;Not the right address. There is a brewery/pub and a spa. &amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2022-05-15T14:57:35Z / POI name: Deep Burger / POI types: cuisine-burger amenity-fast_food / #organicmaps</title>
-        <link>https://www.openstreetmap.org/note/3227863#c6920142</link>
-        <guid>https://www.openstreetmap.org/note/3227863#c6920142</guid>
-        <pubDate>Thu, 16 Jun 2022 17:44:11 +0000</pubDate>
       </item>
   </channel>
 </rss>
