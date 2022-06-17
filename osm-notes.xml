@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Lágymányos, 11th district) / * 2022 May 30 15:11 Created: Aqua / * 2022 June 17 09:51 infeeeee Resolved: Az aqua nem itt van, hanem egy tömbbel odébb, és szerepel a térképen: https://www.openstreetmap.org/node/3551139970</title>
+        <link>https://www.openstreetmap.org/note/3202755#c6922327</link>
+        <guid>https://www.openstreetmap.org/note/3202755#c6922327</guid>
+        <pubDate>Fri, 17 Jun 2022 09:51:46 +0000</pubDate>
+      </item><item>
         <title>closed note (near Lipótváros, 5th district) / * 2022 June 16 22:08 bkil Resolved: Ez a funkció térképhibák bejelentésére szolgál.</title>
         <link>https://www.openstreetmap.org/note/3228132#c6920991</link>
         <guid>https://www.openstreetmap.org/note/3228132#c6920991</guid>
@@ -92,41 +97,6 @@
         <link>https://www.openstreetmap.org/note/2714123#c6917843</link>
         <guid>https://www.openstreetmap.org/note/2714123#c6917843</guid>
         <pubDate>Thu, 16 Jun 2022 04:23:14 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Mezőtúr) / * 2022 June 15 22:32 gabro00 Updated: Nem egészen. Hétvégén ránézek, ha nem felejtem el.</title>
-        <link>https://www.openstreetmap.org/note/2030350#c6917576</link>
-        <guid>https://www.openstreetmap.org/note/2030350#c6917576</guid>
-        <pubDate>Wed, 15 Jun 2022 22:32:12 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Kondoros) / * 2022 June 15 20:38 Ironidasz Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3226620#c6917249</link>
-        <guid>https://www.openstreetmap.org/note/3226620#c6917249</guid>
-        <pubDate>Wed, 15 Jun 2022 20:38:47 +0000</pubDate>
-      </item><item>
-        <title>new note (near Kondoros) / * 2022 June 15 20:38 Ironidasz Created: Minden nap nyitva a múzeum 12 órától 20 óráig, tárlatvezetésre is van lehetőség, ahol az ott dolgozók érdekeségekkel várják az érdeklődőket. Fotózni, játszani is van lehetőség kicsik és nagyok számára egyaránt. A múzeum 2020-ban került bővítesre és felújításra.</title>
-        <link>https://www.openstreetmap.org/note/3226620#c6917247</link>
-        <guid>https://www.openstreetmap.org/note/3226620#c6917247</guid>
-        <pubDate>Wed, 15 Jun 2022 20:38:18 +0000</pubDate>
-      </item><item>
-        <title>reactivated note (near Kondoros) / * 2022 June 15 20:35 Ironidasz Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/3226610#c6917238</link>
-        <guid>https://www.openstreetmap.org/note/3226610#c6917238</guid>
-        <pubDate>Wed, 15 Jun 2022 20:35:04 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Kondoros) / * 2022 June 15 20:32 Ironidasz Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3226610#c6917231</link>
-        <guid>https://www.openstreetmap.org/note/3226610#c6917231</guid>
-        <pubDate>Wed, 15 Jun 2022 20:32:42 +0000</pubDate>
-      </item><item>
-        <title>new note (near Kondoros) / * 2022 June 15 20:32 Ironidasz Created: Ma is</title>
-        <link>https://www.openstreetmap.org/note/3226610#c6917229</link>
-        <guid>https://www.openstreetmap.org/note/3226610#c6917229</guid>
-        <pubDate>Wed, 15 Jun 2022 20:32:15 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Tolna) / * 2022 June 6 12:04 Created: A töltőállomás 2018 óta zárva van. / * 2022 June 15 20:00 Spush Resolved: Modified tag amenity --&amp;gt; disused:amenity</title>
-        <link>https://www.openstreetmap.org/note/3212740#c6917140</link>
-        <guid>https://www.openstreetmap.org/note/3212740#c6917140</guid>
-        <pubDate>Wed, 15 Jun 2022 20:00:52 +0000</pubDate>
       </item>
   </channel>
 </rss>
