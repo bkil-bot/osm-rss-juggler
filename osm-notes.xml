@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Kapuvár) / * 2022 January 21 13:54 efi99 Created: Google Streetview: 3 / * 2022 June 18 18:16 efi99 Resolved: 3</title>
+        <link>https://www.openstreetmap.org/note/3018960#c6926669</link>
+        <guid>https://www.openstreetmap.org/note/3018960#c6926669</guid>
+        <pubDate>Sat, 18 Jun 2022 18:16:17 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Kapuvár) / * 2022 January 20 19:26 efi99 Created: 24? / * 2022 June 18 18:15 efi99 Resolved: 24.</title>
+        <link>https://www.openstreetmap.org/note/3018252#c6926667</link>
+        <guid>https://www.openstreetmap.org/note/3018252#c6926667</guid>
+        <pubDate>Sat, 18 Jun 2022 18:15:28 +0000</pubDate>
+      </item><item>
         <title>closed note (near Mezőtúr) / * 2019 December 18 13:54 gabro00 Created: Nem jól van megrajzolva a víz, mert hajós navigációra pl. alkalmatlan így. / A zsilip a szigettől északra van, a déli oldalon pedig a vízerőmű infrastruktúrája. / * 2022 June 14 07:32 kogutowicz-mano Updated: Az ábrán is pont így szerepel. Kell még ezzel csinálni valamit? / Amúgy a közelben leszek a hétvégén, talán meg tudom nézni, ami pontosításra szorul. Csak adj valami támpontot! / * 2022 June 14 18:58 gabro00 Updated: Igen, a Körös vonalát a zsilipen keresztül kellene megrajzolni. Ez az állapot a jegyzet létrehozása óta változatlan. / * 2022 June 14 19:41 kogutowicz-mano Updated: Ja, azt hittem a geográfiával van gond, amit csak helyszíni felméréssel  lehet orvosolni. / A folyót feldarabolni és újra összerakni én sem tudom jobban, mint bárki más. :-) / * 2022 June 15 12:44 kogutowicz-mano Updated: Harmadikra sikerült egyesíteni a víztestet... / No, így gondoltad? / * 2022 June 15 22:32 gabro00 Updated: Nem egészen. Hétvégén ránézek, ha nem felejtem el. / * 2022 June 16 08:37 kogutowicz-mano Updated: Ó már értem. A waterway=river kellett neked. / * 2022 June 18 16:44 gabro00 Resolved: Igen, köszi.</title>
         <link>https://www.openstreetmap.org/note/2030350#c6926467</link>
         <guid>https://www.openstreetmap.org/note/2030350#c6926467</guid>
@@ -187,11 +197,6 @@
         <link>https://www.openstreetmap.org/note/3228946#c6922721</link>
         <guid>https://www.openstreetmap.org/note/3228946#c6922721</guid>
         <pubDate>Fri, 17 Jun 2022 12:26:06 +0000</pubDate>
-      </item><item>
-        <title>new note (near City Park, 14th district) / * 2022 June 17 12:20 neztoo Created: &amp;quot;4 picknick tables&amp;quot; / OSM snapshot date: 2022-05-15T14:57:35Z / POI has no name / POI types: amenity-bench / #organicmaps</title>
-        <link>https://www.openstreetmap.org/note/3228937#c6922704</link>
-        <guid>https://www.openstreetmap.org/note/3228937#c6922704</guid>
-        <pubDate>Fri, 17 Jun 2022 12:20:17 +0000</pubDate>
       </item>
   </channel>
 </rss>
