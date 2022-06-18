@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Vámospércs) / * 2022 April 1 09:33 Matyjace Created: Official name of this bus stop in bus timetable now: &amp;quot;Vámospércs, Kossuth utca&amp;quot;. The location is proper.&amp;quot; / * 2022 June 18 11:06 &amp;#39;Lex Resolved: Modified the name according to the note. It is verified by looking up the name in the list at https://www.volanbusz.hu/hu/menetrendek/megallohelyi-menetrendek/9 and the new name is used on https://menetrendek.hu/</title>
+        <link>https://www.openstreetmap.org/note/3115146#c6925537</link>
+        <guid>https://www.openstreetmap.org/note/3115146#c6925537</guid>
+        <pubDate>Sat, 18 Jun 2022 11:06:31 +0000</pubDate>
+      </item><item>
         <title>closed note (near Nádasház, Táska) / * 2021 December 30 21:51 vasony Created: Fő tér vagy Tanács tér? / * 2022 June 10 09:57 urbalazs Updated: A buszmegálló „Táska, Fő tér”, a Nemzeti Dohánybolt a saját keresője szerint „Fő tér 2.”, a Coop a saját keresője szerint szintén „Fő tér 2.”. Az önkormányzat honlapja már nem érhető el a taska.hu címen, de az internet archívumban a hivatal.taska@gmail.com e-mail-cím szerepel rajta. Írok nekik, hátha jön válasz. / * 2022 June 17 23:27 urbalazs Resolved: Táska Község Önkormányzat képviselő-testülete 47/2019 (VII.24.) számú határozata alapján 2019. július 25-től Fő tér.</title>
         <link>https://www.openstreetmap.org/note/2989569#c6924739</link>
         <guid>https://www.openstreetmap.org/note/2989569#c6924739</guid>
@@ -172,36 +177,6 @@
         <link>https://www.openstreetmap.org/note/3202755#c6922327</link>
         <guid>https://www.openstreetmap.org/note/3202755#c6922327</guid>
         <pubDate>Fri, 17 Jun 2022 09:51:46 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Lipótváros, 5th district) / * 2022 June 16 22:08 bkil Resolved: Ez a funkció térképhibák bejelentésére szolgál.</title>
-        <link>https://www.openstreetmap.org/note/3228132#c6920991</link>
-        <guid>https://www.openstreetmap.org/note/3228132#c6920991</guid>
-        <pubDate>Thu, 16 Jun 2022 22:08:44 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Lipótváros, 5th district) / * 2022 June 16 22:08 bkil Resolved: Ez a funkció térképhibák bejelentésére szolgál.</title>
-        <link>https://www.openstreetmap.org/note/3228133#c6920990</link>
-        <guid>https://www.openstreetmap.org/note/3228133#c6920990</guid>
-        <pubDate>Thu, 16 Jun 2022 22:08:39 +0000</pubDate>
-      </item><item>
-        <title>new note (near Lipótváros, 5th district) / * 2022 June 16 20:43 Created: 2</title>
-        <link>https://www.openstreetmap.org/note/3228133#c6920767</link>
-        <guid>https://www.openstreetmap.org/note/3228133#c6920767</guid>
-        <pubDate>Thu, 16 Jun 2022 20:43:37 +0000</pubDate>
-      </item><item>
-        <title>new note (near Lipótváros, 5th district) / * 2022 June 16 20:43 Created: 1</title>
-        <link>https://www.openstreetmap.org/note/3228132#c6920766</link>
-        <guid>https://www.openstreetmap.org/note/3228132#c6920766</guid>
-        <pubDate>Thu, 16 Jun 2022 20:43:23 +0000</pubDate>
-      </item><item>
-        <title>new note (near Albertirsa) / * 2022 June 16 19:32 Created: Tu jest prawidłowa lokalizacja stacji 750/400kV ALbertirsa na Węgrzech</title>
-        <link>https://www.openstreetmap.org/note/3228043#c6920582</link>
-        <guid>https://www.openstreetmap.org/note/3228043#c6920582</guid>
-        <pubDate>Thu, 16 Jun 2022 19:32:17 +0000</pubDate>
-      </item><item>
-        <title>new note (near Kerkafalva) / * 2022 June 16 19:09 Created: Táborhely</title>
-        <link>https://www.openstreetmap.org/note/3228013#c6920519</link>
-        <guid>https://www.openstreetmap.org/note/3228013#c6920519</guid>
-        <pubDate>Thu, 16 Jun 2022 19:09:14 +0000</pubDate>
       </item>
   </channel>
 </rss>
