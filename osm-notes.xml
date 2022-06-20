@@ -3,6 +3,41 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Somogysárd) / * 2020 March 28 17:02 iberti Created: Speed limit 30, Ménes utca / via StreetComplete 18.0 / Attached photo(s): / https://westnordost.de/p/11137.jpg / * 2022 June 20 15:11 urbalazs Resolved: Megoldva a bejelentő által.</title>
+        <link>https://www.openstreetmap.org/note/2139193#c6932844</link>
+        <guid>https://www.openstreetmap.org/note/2139193#c6932844</guid>
+        <pubDate>Mon, 20 Jun 2022 15:11:22 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Somogysárd) / * 2020 March 28 16:32 iberti Created: út sebesség jelző tábla / road speed sign / via StreetComplete 18.0 / Attached photo(s): / https://westnordost.de/p/11133.jpg / * 2022 June 20 15:10 urbalazs Resolved: Megoldva a bejelentő által.</title>
+        <link>https://www.openstreetmap.org/note/2139153#c6932842</link>
+        <guid>https://www.openstreetmap.org/note/2139153#c6932842</guid>
+        <pubDate>Mon, 20 Jun 2022 15:10:36 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Somogysárd) / * 2020 March 28 16:45 iberti Created: házikó / via StreetComplete 18.0 / Attached photo(s): / https://westnordost.de/p/11136.jpg / * 2022 June 20 15:09 urbalazs Resolved: Megoldva a bejelentő által.</title>
+        <link>https://www.openstreetmap.org/note/2139172#c6932836</link>
+        <guid>https://www.openstreetmap.org/note/2139172#c6932836</guid>
+        <pubDate>Mon, 20 Jun 2022 15:09:14 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Patosfa) / * 2021 January 4 15:08 Created: Kőkútút-nak van feltüntetve a település neve Kőkút helyett / * 2022 June 20 15:07 urbalazs Resolved: A település neve mindig is Kőkút volt. A jelölő helyén viszont nincs semmi, ezért lezárom.</title>
+        <link>https://www.openstreetmap.org/note/2485159#c6932832</link>
+        <guid>https://www.openstreetmap.org/note/2485159#c6932832</guid>
+        <pubDate>Mon, 20 Jun 2022 15:07:40 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Hetvehely) / * 2018 August 11 05:51 wakarii Created: &amp;quot;Itt nem sorompó van hanem egy behajtani tilos tábla. &amp;quot;kivéve engedéllyel&amp;quot; A sorompó kb. 100 méterrel feljebb van. Üdv wk&amp;quot; / POI has no name / POI types: barrier-lift_gate / OSM data version: 2018-05-26T22:39:02Z / #mapsme / * 2018 November 17 21:14 mgpx Updated: Köszi, látom, próbáltad beszerkeszteni is. A sorompót akkor feljebb raktam 100m-tel. Az úton az &amp;quot;access=no&amp;quot; jelzés viszont helytelen, mivel ez a gyalogos belépést is tiltja, ezt leszedtem. A gépjárművekre vonatkozó korlátozást a &amp;quot;motor_vehicle&amp;quot; címkével lehet helyette megadni. A jelenlegi &amp;quot;motor_vehicle=forestry&amp;quot; címke a korrekt jelölés arra, hogy gépjárművel behajtani tilos, kivéve erdészet. / * 2022 June 20 15:03 urbalazs Resolved: Ez 3 éve meg lett oldva.</title>
+        <link>https://www.openstreetmap.org/note/1485019#c6932828</link>
+        <guid>https://www.openstreetmap.org/note/1485019#c6932828</guid>
+        <pubDate>Mon, 20 Jun 2022 15:03:54 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Véménd) / * 2016 December 12 12:37 AdorHUN Created: Diósdi Építő Kft. (OSM data version: 2016-11-23T15:14:03Z) #mapsme / * 2022 June 20 14:59 urbalazs Resolved: A cégközlöny alapján ez a cég az elmúlt 5 évben több alkalommal is felszámolás alatt volt, de még mindig működik. Jelenleg azonban nincs Véménden telephelye, ezért lezárom ezt a jegyzetet.</title>
+        <link>https://www.openstreetmap.org/note/813790#c6932816</link>
+        <guid>https://www.openstreetmap.org/note/813790#c6932816</guid>
+        <pubDate>Mon, 20 Jun 2022 14:59:54 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Egyházbér, Bodolyabér) / * 2018 September 8 07:40 Pieter Vander Vennet Created: bridge, stream / * 2022 June 20 14:43 urbalazs Resolved: 2 éve már felkerült a térképre.</title>
+        <link>https://www.openstreetmap.org/note/1518903#c6932760</link>
+        <guid>https://www.openstreetmap.org/note/1518903#c6932760</guid>
+        <pubDate>Mon, 20 Jun 2022 14:43:12 +0000</pubDate>
+      </item><item>
         <title>closed note (near Kápolnapuszta, Zalakomár) / * 2021 February 8 12:53 Mamutinka Created: Forwarding anonymous report from #Mapy.cz user, please verify: This lookout tower doesn´t exist. / * 2022 June 20 12:53 urbalazs Resolved: I found a newer image on the internet taken in September of 2021 where the lookout tower was still there. I close this note for now without any action.</title>
         <link>https://www.openstreetmap.org/note/2530248#c6932207</link>
         <guid>https://www.openstreetmap.org/note/2530248#c6932207</guid>
@@ -307,26 +342,6 @@
         <link>https://www.openstreetmap.org/note/3231170#c6928060</link>
         <guid>https://www.openstreetmap.org/note/3231170#c6928060</guid>
         <pubDate>Sun, 19 Jun 2022 10:07:05 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Balatonmáriafürdő) / * 2020 July 5 15:49 Adam Németh Created: &amp;quot;Smartbench with Wifi and charging&amp;quot; / POI has no name / POI types: amenity-bench / OSM data version: 2020-06-07T12:42:57Z / #mapsme / * 2022 June 19 10:06 urbalazs Resolved: Information added.</title>
-        <link>https://www.openstreetmap.org/note/2254350#c6928053</link>
-        <guid>https://www.openstreetmap.org/note/2254350#c6928053</guid>
-        <pubDate>Sun, 19 Jun 2022 10:06:00 +0000</pubDate>
-      </item><item>
-        <title>new note (near Ács) / * 2022 June 19 10:01 Spush Created: Napelemek</title>
-        <link>https://www.openstreetmap.org/note/3231146#c6928027</link>
-        <guid>https://www.openstreetmap.org/note/3231146#c6928027</guid>
-        <pubDate>Sun, 19 Jun 2022 10:01:30 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Balatonkeresztúr) / * 2021 May 6 06:17 Created: A vasútvonal és az itt nem jelölt iparvágány is Balatonberény állomástól a Balaton utca vonaláig villamosítva van. / * 2022 June 19 09:37 urbalazs Resolved: Ez már így szerepel a térképen, időközben javítva lett.</title>
-        <link>https://www.openstreetmap.org/note/2656845#c6927936</link>
-        <guid>https://www.openstreetmap.org/note/2656845#c6927936</guid>
-        <pubDate>Sun, 19 Jun 2022 09:37:50 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Fürdőtelep, Fonyód) / * 2022 June 19 09:29 urbalazs Resolved: A Maxaron már látszik az átépített tér. Beállítottam a nevet arra.</title>
-        <link>https://www.openstreetmap.org/note/2595485#c6927918</link>
-        <guid>https://www.openstreetmap.org/note/2595485#c6927918</guid>
-        <pubDate>Sun, 19 Jun 2022 09:29:56 +0000</pubDate>
       </item>
   </channel>
 </rss>
