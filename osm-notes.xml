@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Széphalom, 2nd district) / * 2022 June 21 16:55 sugarbotond Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/557411188 via StreetComplete 44.1: / lebontva</title>
+        <link>https://www.openstreetmap.org/note/3235025#c6936570</link>
+        <guid>https://www.openstreetmap.org/note/3235025#c6936570</guid>
+        <pubDate>Tue, 21 Jun 2022 16:55:04 +0000</pubDate>
+      </item><item>
         <title>closed note (near Csepel-Szabótelep, 21st district) / * 2022 June 21 13:35 Hungarian_user Resolved: felrajzoltam</title>
         <link>https://www.openstreetmap.org/note/3234605#c6936002</link>
         <guid>https://www.openstreetmap.org/note/3234605#c6936002</guid>
@@ -392,11 +397,6 @@
         <link>https://www.openstreetmap.org/note/3202386#c6929605</link>
         <guid>https://www.openstreetmap.org/note/3202386#c6929605</guid>
         <pubDate>Sun, 19 Jun 2022 15:40:07 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Somberek) / * 2021 September 15 12:48 Matyjace Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;No paths there.&amp;quot; / * 2022 June 19 15:40 urbalazs Resolved: I do not see path or road in the latest imagery. Removed.</title>
-        <link>https://www.openstreetmap.org/note/2853499#c6929604</link>
-        <guid>https://www.openstreetmap.org/note/2853499#c6929604</guid>
-        <pubDate>Sun, 19 Jun 2022 15:40:06 +0000</pubDate>
       </item>
   </channel>
 </rss>
