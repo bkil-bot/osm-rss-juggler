@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Kristály lakópark, Alsónémedi) / * 2022 June 21 09:39 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: CBA no longer exists. / https://www.openstreetmap.org/node/3488444418</title>
+        <link>https://www.openstreetmap.org/note/3234221#c6935012</link>
+        <guid>https://www.openstreetmap.org/note/3234221#c6935012</guid>
+        <pubDate>Tue, 21 Jun 2022 09:39:53 +0000</pubDate>
+      </item><item>
         <title>closed note (near Máriaremete, 2nd district) / * 2022 June 12 14:05 Created: Otthon / * 2022 June 21 09:18 urbalazs Resolved: Ez a funkció a térkép hibáinak jelzésére szolgál. Magánjellegű információk tárolásához nem használható.</title>
         <link>https://www.openstreetmap.org/note/3221398#c6934942</link>
         <guid>https://www.openstreetmap.org/note/3221398#c6934942</guid>
@@ -402,11 +407,6 @@
         <link>https://www.openstreetmap.org/note/2427591#c6929213</link>
         <guid>https://www.openstreetmap.org/note/2427591#c6929213</guid>
         <pubDate>Sun, 19 Jun 2022 14:57:51 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Palotanegyed, 8th district) / * 2022 May 5 13:59 Created: This road is closed for car traffic until late 2022 or early 2023 for reconstruction. / * 2022 June 19 14:52 urbalazs Resolved: I close this note as the OpenStreetMap is not a live traffic database. The street is there so it should be mapped.</title>
-        <link>https://www.openstreetmap.org/note/3166456#c6929204</link>
-        <guid>https://www.openstreetmap.org/note/3166456#c6929204</guid>
-        <pubDate>Sun, 19 Jun 2022 14:52:57 +0000</pubDate>
       </item>
   </channel>
 </rss>
