@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Víziváros, Székesfehérvár) / * 2022 June 22 11:02 urbalazs Resolved: Ilyen átmeneti lezárásokat nem szoktunk jelölni. A nagy többségnek a térkép havonta frissül, és ha elfelejtjük visszaadni a forgalomnak az utat, akkor az ugyanúgy probléma lesz, mintha maradna a jelenlegi állapot. Ezt a jegyzetet most lezárom, szerintem nincs vele teendő.</title>
+        <link>https://www.openstreetmap.org/note/3235673#c6938745</link>
+        <guid>https://www.openstreetmap.org/note/3235673#c6938745</guid>
+        <pubDate>Wed, 22 Jun 2022 11:02:38 +0000</pubDate>
+      </item><item>
         <title>new note (near Délegyháza) / * 2022 June 22 09:20 bkil Created: Hol a VI.-tó, ez lenne az?</title>
         <link>https://www.openstreetmap.org/note/3235837#c6938538</link>
         <guid>https://www.openstreetmap.org/note/3235837#c6938538</guid>
@@ -362,11 +367,6 @@
         <link>https://www.openstreetmap.org/note/3209723#c6932173</link>
         <guid>https://www.openstreetmap.org/note/3209723#c6932173</guid>
         <pubDate>Mon, 20 Jun 2022 12:46:58 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Kőhegy, Zamárdi) / * 2022 June 19 22:32 BERG Piknik Tábor Created: Berg Piknik Nomad Tábor / * 2022 June 19 22:32 BERG Piknik Tábor Resolved: Berg Piknik / * 2022 June 19 22:33 BERG Piknik Tábor Reactivated:  / * 2022 June 20 06:35 urbalazs Resolved: Ez már szerepel a térképen.</title>
-        <link>https://www.openstreetmap.org/note/3232457#c6931245</link>
-        <guid>https://www.openstreetmap.org/note/3232457#c6931245</guid>
-        <pubDate>Mon, 20 Jun 2022 06:35:31 +0000</pubDate>
       </item>
   </channel>
 </rss>
