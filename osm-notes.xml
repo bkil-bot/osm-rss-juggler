@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Zamárdi Felső, Fürdőtelep, Zamárdi) / * 2022 June 22 19:16 vasony Created: Jegenye utca vagy Jegenye tér szerepel az utcatáblán?</title>
+        <link>https://www.openstreetmap.org/note/3236630#c6940120</link>
+        <guid>https://www.openstreetmap.org/note/3236630#c6940120</guid>
+        <pubDate>Wed, 22 Jun 2022 19:16:30 +0000</pubDate>
+      </item><item>
+        <title>new note (near Szabadifürdő, Siófok) / * 2022 June 22 19:09 vasony Created: Somló utca vagy Somlói utca szerepel az utcatáblán?</title>
+        <link>https://www.openstreetmap.org/note/3236622#c6940103</link>
+        <guid>https://www.openstreetmap.org/note/3236622#c6940103</guid>
+        <pubDate>Wed, 22 Jun 2022 19:09:45 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Szigetmonostor) / * 2022 March 25 08:38 sbelemey Created: Hi! / does this road pass here? it is not visible on satellites / #mapbox_linters_hungary / * 2022 June 22 18:21 zsolt d Resolved: Ah, köszönöm! Véletlen másolás volt valóban. Töröltem. / üdv / Zsolt</title>
+        <link>https://www.openstreetmap.org/note/3102219#c6939875</link>
+        <guid>https://www.openstreetmap.org/note/3102219#c6939875</guid>
+        <pubDate>Wed, 22 Jun 2022 18:21:25 +0000</pubDate>
+      </item><item>
         <title>new note (near Balatonföldvár) / * 2022 June 22 18:11 vasony Created: Radnóti utca vagy Radnóti Miklós utca szerepel az utcatáblán?</title>
         <link>https://www.openstreetmap.org/note/3236498#c6939850</link>
         <guid>https://www.openstreetmap.org/note/3236498#c6939850</guid>
@@ -427,16 +442,6 @@
         <link>https://www.openstreetmap.org/note/3226125#c6937802</link>
         <guid>https://www.openstreetmap.org/note/3226125#c6937802</guid>
         <pubDate>Wed, 22 Jun 2022 00:49:52 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Újdombrád) / * 2022 June 15 16:10 Created: Buszmegálló. / * 2022 June 22 00:49 urbalazs Resolved: Hozzáadtam.</title>
-        <link>https://www.openstreetmap.org/note/3226099#c6937801</link>
-        <guid>https://www.openstreetmap.org/note/3226099#c6937801</guid>
-        <pubDate>Wed, 22 Jun 2022 00:49:52 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Dombrád) / * 2022 June 14 09:55 Created: Privát élelmiszerbolt. / * 2022 June 22 00:49 urbalazs Resolved: A helyére húztam.</title>
-        <link>https://www.openstreetmap.org/note/3224032#c6937800</link>
-        <guid>https://www.openstreetmap.org/note/3224032#c6937800</guid>
-        <pubDate>Wed, 22 Jun 2022 00:49:51 +0000</pubDate>
       </item>
   </channel>
 </rss>
