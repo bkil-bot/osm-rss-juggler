@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Kákics) / * 2021 January 14 14:29 vasony Created: Valószínű a Ságvári utca neve megváltozott Kiss Géza utcára, nem találtam róla hivatalos dokumentumot, ellenőrizendő! / * 2022 June 22 23:35 urbalazs Resolved: Valóban megváltozott, az Önkormányzat is megerősítette. Javítottam.</title>
+        <link>https://www.openstreetmap.org/note/2497873#c6940569</link>
+        <guid>https://www.openstreetmap.org/note/2497873#c6940569</guid>
+        <pubDate>Wed, 22 Jun 2022 23:35:54 +0000</pubDate>
+      </item><item>
         <title>new note (near Zamárdi Felső, Fürdőtelep, Zamárdi) / * 2022 June 22 19:16 vasony Created: Jegenye utca vagy Jegenye tér szerepel az utcatáblán?</title>
         <link>https://www.openstreetmap.org/note/3236630#c6940120</link>
         <guid>https://www.openstreetmap.org/note/3236630#c6940120</guid>
@@ -392,11 +397,6 @@
         <link>https://www.openstreetmap.org/note/3236059#c6938991</link>
         <guid>https://www.openstreetmap.org/note/3236059#c6938991</guid>
         <pubDate>Wed, 22 Jun 2022 12:22:27 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Víziváros, Székesfehérvár) / * 2022 June 22 11:02 urbalazs Resolved: Ilyen átmeneti lezárásokat nem szoktunk jelölni. A nagy többségnek a térkép havonta frissül, és ha elfelejtjük visszaadni a forgalomnak az utat, akkor az ugyanúgy probléma lesz, mintha maradna a jelenlegi állapot. Ezt a jegyzetet most lezárom, szerintem nincs vele teendő.</title>
-        <link>https://www.openstreetmap.org/note/3235673#c6938745</link>
-        <guid>https://www.openstreetmap.org/note/3235673#c6938745</guid>
-        <pubDate>Wed, 22 Jun 2022 11:02:38 +0000</pubDate>
       </item>
   </channel>
 </rss>
