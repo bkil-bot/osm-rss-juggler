@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Karikavölgy, Balatonföldvár) / * 2022 June 22 17:52 vasony Created: Badacsony utca vagy Badacsonyi utca szerepel az utcatáblán? / * 2022 June 28 00:54 urbalazs Resolved: Az utcatáblán Badacsonyi utca van, javítottam az OSM-et.</title>
+        <link>https://www.openstreetmap.org/note/3236478#c6954301</link>
+        <guid>https://www.openstreetmap.org/note/3236478#c6954301</guid>
+        <pubDate>Tue, 28 Jun 2022 00:54:53 +0000</pubDate>
+      </item><item>
         <title>new note (near Sopronbánfalva, Sopron) / * 2022 June 27 16:33 efi99 Created: cím jó?</title>
         <link>https://www.openstreetmap.org/note/3242774#c6953354</link>
         <guid>https://www.openstreetmap.org/note/3242774#c6953354</guid>
@@ -222,16 +227,6 @@
         <link>https://www.openstreetmap.org/note/3239921#c6947489</link>
         <guid>https://www.openstreetmap.org/note/3239921#c6947489</guid>
         <pubDate>Sat, 25 Jun 2022 13:50:45 +0000</pubDate>
-      </item><item>
-        <title>new note (near Újhely, Siófok) / * 2022 June 25 09:27 Gaurdein Created: Unable to answer &amp;quot;What are the opening hours here?&amp;quot; for https://osm.org/node/2945306651 via StreetComplete 43.2: / THERMOWIN Nyílászáró és árnyékolástechnika</title>
-        <link>https://www.openstreetmap.org/note/3239669#c6946979</link>
-        <guid>https://www.openstreetmap.org/note/3239669#c6946979</guid>
-        <pubDate>Sat, 25 Jun 2022 09:27:13 +0000</pubDate>
-      </item><item>
-        <title>new note (near Újhely, Siófok) / * 2022 June 25 09:21 Gaurdein Created: Unable to answer &amp;quot;What’s the name of this street?&amp;quot; for https://osm.org/way/232478659 via StreetComplete 43.2: / Parkolóba vezető út (mindkét irányból)</title>
-        <link>https://www.openstreetmap.org/note/3239667#c6946975</link>
-        <guid>https://www.openstreetmap.org/note/3239667#c6946975</guid>
-        <pubDate>Sat, 25 Jun 2022 09:21:31 +0000</pubDate>
       </item>
   </channel>
 </rss>
