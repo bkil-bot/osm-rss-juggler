@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Baross Gábor-telep, 22nd district) / * 2020 December 23 14:37 nubiai Created: Megszűnt ez a buszmegálló. BKK futár szerint sincs. / via StreetComplete 27.2 / * 2022 June 28 19:51 urbalazs Resolved: Valóban, nyoma sincs a helyszínen. Töröltem.</title>
+        <link>https://www.openstreetmap.org/note/2470874#c6956846</link>
+        <guid>https://www.openstreetmap.org/note/2470874#c6956846</guid>
+        <pubDate>Tue, 28 Jun 2022 19:51:18 +0000</pubDate>
+      </item><item>
         <title>new note (near Füzes, Békésszentandrás) / * 2022 June 28 16:41 vasony-qa Created: meddig tart a Hősök tere?</title>
         <link>https://www.openstreetmap.org/note/3243953#c6956224</link>
         <guid>https://www.openstreetmap.org/note/3243953#c6956224</guid>
@@ -207,11 +212,6 @@
         <link>https://www.openstreetmap.org/note/3240398#c6948444</link>
         <guid>https://www.openstreetmap.org/note/3240398#c6948444</guid>
         <pubDate>Sat, 25 Jun 2022 21:47:34 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Rákospalota Kertváros, Rákospalota, 15th district) / * 2022 June 25 19:33 ottwiz Resolved: Felvettem</title>
-        <link>https://www.openstreetmap.org/note/3239921#c6948269</link>
-        <guid>https://www.openstreetmap.org/note/3239921#c6948269</guid>
-        <pubDate>Sat, 25 Jun 2022 19:33:22 +0000</pubDate>
       </item>
   </channel>
 </rss>
