@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Újszilvás) / * 2022 February 12 12:25 AndreasTUHU Created: &amp;quot;A büfé bezárt&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2022-01-03T12:11:12Z / POI name: Hamburger, Gyros, Melegszendvics / POI types: amenity-fast_food / #organicmaps / * 2022 June 28 23:26 bkil Resolved: Fixed in https://osm.org/changeset/122977784</title>
+        <link>https://www.openstreetmap.org/note/3048415#c6957430</link>
+        <guid>https://www.openstreetmap.org/note/3048415#c6957430</guid>
+        <pubDate>Tue, 28 Jun 2022 23:26:29 +0000</pubDate>
+      </item><item>
         <title>closed note (near Baross Gábor-telep, 22nd district) / * 2020 December 23 14:37 nubiai Created: Megszűnt ez a buszmegálló. BKK futár szerint sincs. / via StreetComplete 27.2 / * 2022 June 28 19:51 urbalazs Resolved: Valóban, nyoma sincs a helyszínen. Töröltem.</title>
         <link>https://www.openstreetmap.org/note/2470874#c6956846</link>
         <guid>https://www.openstreetmap.org/note/2470874#c6956846</guid>
@@ -202,16 +207,6 @@
         <link>https://www.openstreetmap.org/note/3240469#c6948571</link>
         <guid>https://www.openstreetmap.org/note/3240469#c6948571</guid>
         <pubDate>Sat, 25 Jun 2022 23:43:37 +0000</pubDate>
-      </item><item>
-        <title>new note (near Nevelek, Göd) / * 2022 June 25 23:43 bkil Created: Van itt étkezde?</title>
-        <link>https://www.openstreetmap.org/note/3240468#c6948570</link>
-        <guid>https://www.openstreetmap.org/note/3240468#c6948570</guid>
-        <pubDate>Sat, 25 Jun 2022 23:43:37 +0000</pubDate>
-      </item><item>
-        <title>new note (near Százados negyed, 8th district) / * 2022 June 25 21:47 Created: Hibás utcanév. Elvileg ez névtelen volt, de mostantól Vagon köz néven fut: / https://jozsefvaros.hu/otthon/hirdetotabla/hirek/2022/06/a-vagon-koz-nevet-kapja-egy-eddig-nevtelen-keruleti-kozter/</title>
-        <link>https://www.openstreetmap.org/note/3240398#c6948444</link>
-        <guid>https://www.openstreetmap.org/note/3240398#c6948444</guid>
-        <pubDate>Sat, 25 Jun 2022 21:47:34 +0000</pubDate>
       </item>
   </channel>
 </rss>
