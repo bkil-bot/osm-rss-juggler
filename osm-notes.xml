@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Aggtelek) / * 2022 June 30 20:32 bkil Resolved: Done https://osm.org/changeset/123060271</title>
+        <link>https://www.openstreetmap.org/note/3246686#c6962901</link>
+        <guid>https://www.openstreetmap.org/note/3246686#c6962901</guid>
+        <pubDate>Thu, 30 Jun 2022 20:32:25 +0000</pubDate>
+      </item><item>
         <title>new note (near Dinnyés, Gárdony) / * 2022 June 30 18:27 Arrabonfi Created: &amp;quot;2022.7.1-jétől bezárt, törölhető&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2022-05-15T14:57:35Z / POI name: Buci Pékség / POI types: building shop-bakery / #organicmaps</title>
         <link>https://www.openstreetmap.org/note/3246704#c6962629</link>
         <guid>https://www.openstreetmap.org/note/3246704#c6962629</guid>
@@ -162,16 +167,6 @@
         <link>https://www.openstreetmap.org/note/3236376#c6951394</link>
         <guid>https://www.openstreetmap.org/note/3236376#c6951394</guid>
         <pubDate>Mon, 27 Jun 2022 00:46:20 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Szántód) / * 2022 June 22 17:48 vasony Created: Vajda János utca vagy Vajda utca szerepel az utcatáblán? / * 2022 June 27 00:46 urbalazs Resolved: Az utcatáblán Vajda János utca szerepel, ahogy az OSM-en is. Nincs vele teendő.</title>
-        <link>https://www.openstreetmap.org/note/3236464#c6951393</link>
-        <guid>https://www.openstreetmap.org/note/3236464#c6951393</guid>
-        <pubDate>Mon, 27 Jun 2022 00:46:19 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Fürdőtelep, Zamárdi) / * 2022 June 22 17:04 vasony Created: Bercsényi Miklós utca vagy Bercsényi utca szerepel az utcatáblán? / * 2022 June 27 00:46 urbalazs Resolved: Bercsényi Miklós utca van kitáblázva, ahogy az OSM-en szerepel. Nincs vele teendő.</title>
-        <link>https://www.openstreetmap.org/note/3236417#c6951392</link>
-        <guid>https://www.openstreetmap.org/note/3236417#c6951392</guid>
-        <pubDate>Mon, 27 Jun 2022 00:46:19 +0000</pubDate>
       </item>
   </channel>
 </rss>
