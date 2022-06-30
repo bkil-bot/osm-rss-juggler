@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Aggtelek) / * 2022 June 30 18:11 zelenkaz Created: Hello Szomszéd pad HU/SK</title>
+        <link>https://www.openstreetmap.org/note/3246686#c6962592</link>
+        <guid>https://www.openstreetmap.org/note/3246686#c6962592</guid>
+        <pubDate>Thu, 30 Jun 2022 18:11:50 +0000</pubDate>
+      </item><item>
         <title>new note (near Hegykő) / * 2022 June 30 14:08 efi99 Created: cím?</title>
         <link>https://www.openstreetmap.org/note/3246443#c6961971</link>
         <guid>https://www.openstreetmap.org/note/3246443#c6961971</guid>
@@ -167,31 +172,6 @@
         <link>https://www.openstreetmap.org/note/3236370#c6951391</link>
         <guid>https://www.openstreetmap.org/note/3236370#c6951391</guid>
         <pubDate>Mon, 27 Jun 2022 00:46:18 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Zamárdi) / * 2022 June 22 17:09 vasony Created: Margittay utca vagy Margittai utca szerepel az utcatáblán? / * 2022 June 27 00:46 urbalazs Resolved: Az utcatáblán „Margittay R. utca” szerepel, tippre Margittay Rikárd utca lesz ez. Erre javítottam a nevet.</title>
-        <link>https://www.openstreetmap.org/note/3236431#c6951390</link>
-        <guid>https://www.openstreetmap.org/note/3236431#c6951390</guid>
-        <pubDate>Mon, 27 Jun 2022 00:46:17 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Szántód) / * 2022 June 22 17:48 vasony Created: Endrődi utca vagy Endrődi Sándor utca szerepel az utcatáblán? / * 2022 June 27 00:46 urbalazs Resolved: Az utcatáblán Endrődi Sándor utca szerepel, javítottam az OSM-et.</title>
-        <link>https://www.openstreetmap.org/note/3236465#c6951389</link>
-        <guid>https://www.openstreetmap.org/note/3236465#c6951389</guid>
-        <pubDate>Mon, 27 Jun 2022 00:46:17 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Ipartelep, Siófok) / * 2022 June 22 16:59 vasony Created: Turi István utca vagy Türr István utca szerepel az utcatáblán? / * 2022 June 27 00:46 urbalazs Resolved: Türr István utca, OSM-et javítottam.</title>
-        <link>https://www.openstreetmap.org/note/3236405#c6951388</link>
-        <guid>https://www.openstreetmap.org/note/3236405#c6951388</guid>
-        <pubDate>Mon, 27 Jun 2022 00:46:16 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Gagarin-lakótelep, Balatonvilágos) / * 2022 June 22 16:39 vasony Created: Erdei Ferenc vagy Erdei utca? / * 2022 June 27 00:46 urbalazs Resolved: Egyáltalán nincs utcatábla, viszont a polgármesteri hivatal előtt lévő térképen Erdei Ferenc utca van feltüntetve, továbbá a többi utcatábla alapján úgy tűnik, hogy vezetéknevet és keresztnevet is kiírnak. Ennél jobban más sem tudja megoldani ezt a jegyzetet, ezért lezárom. A térképen a helyes utcanév van.</title>
-        <link>https://www.openstreetmap.org/note/3236371#c6951387</link>
-        <guid>https://www.openstreetmap.org/note/3236371#c6951387</guid>
-        <pubDate>Mon, 27 Jun 2022 00:46:16 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Balatonvilágos) / * 2022 June 22 16:44 vasony Created: Rákóczi Ferenc utca vagy Rákóczi út? / * 2022 June 27 00:46 urbalazs Resolved: Sehol sem láttam utcatáblát, de a házszámtáblákon lévő utcanév szerint minden is: Rákóczi utca, Rákóczi út, Rákóczi Ferenc utca, Rákóczi Ferenc út. Lezárom ezt a jegyzetet, mert ezt nem lehet normálisan megoldani, hiába voltam ott.</title>
-        <link>https://www.openstreetmap.org/note/3236378#c6951386</link>
-        <guid>https://www.openstreetmap.org/note/3236378#c6951386</guid>
-        <pubDate>Mon, 27 Jun 2022 00:46:15 +0000</pubDate>
       </item>
   </channel>
 </rss>
