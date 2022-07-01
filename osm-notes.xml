@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Dunaújváros) / * 2022 July 1 15:20 urbalazs Resolved: Elnézést, ez a térképjegyzet hiányos. Adjon részletes leírást arról a problémáról, amit jelenteni szeretne.</title>
+        <link>https://www.openstreetmap.org/note/3247531#c6964869</link>
+        <guid>https://www.openstreetmap.org/note/3247531#c6964869</guid>
+        <pubDate>Fri, 01 Jul 2022 15:20:35 +0000</pubDate>
+      </item><item>
         <title>new note (near Tab) / * 2022 July 1 13:17 vasony-qa Created: ez nem Fő tér 1?</title>
         <link>https://www.openstreetmap.org/note/3247556#c6964632</link>
         <guid>https://www.openstreetmap.org/note/3247556#c6964632</guid>
@@ -197,11 +202,6 @@
         <link>https://www.openstreetmap.org/note/3242767#c6953333</link>
         <guid>https://www.openstreetmap.org/note/3242767#c6953333</guid>
         <pubDate>Mon, 27 Jun 2022 16:24:56 +0000</pubDate>
-      </item><item>
-        <title>new comment (near City Park, 14th district) / * 2022 May 26 10:30 Created: Átadták a múzeumot. A gyalogos részt fel kell mérni. / * 2022 June 27 15:50 ITineris Updated: Én voltam.</title>
-        <link>https://www.openstreetmap.org/note/3195644#c6953267</link>
-        <guid>https://www.openstreetmap.org/note/3195644#c6953267</guid>
-        <pubDate>Mon, 27 Jun 2022 15:50:52 +0000</pubDate>
       </item>
   </channel>
 </rss>
