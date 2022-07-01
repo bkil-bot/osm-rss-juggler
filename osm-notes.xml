@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Balatonföldvár) / * 2022 July 1 00:35 urbalazs Created: Báthori István utca vagy Báthory István utca? Érdemes végignézni minden utcasarkot, mert mintha mindkettőt láttam volna.</title>
+        <link>https://www.openstreetmap.org/note/3246991#c6963287</link>
+        <guid>https://www.openstreetmap.org/note/3246991#c6963287</guid>
+        <pubDate>Fri, 01 Jul 2022 00:35:31 +0000</pubDate>
+      </item><item>
         <title>closed note (near Aggtelek) / * 2022 June 30 20:32 bkil Resolved: Done https://osm.org/changeset/123060271</title>
         <link>https://www.openstreetmap.org/note/3246686#c6962901</link>
         <guid>https://www.openstreetmap.org/note/3246686#c6962901</guid>
@@ -157,16 +162,6 @@
         <link>https://www.openstreetmap.org/note/2836289#c6951396</link>
         <guid>https://www.openstreetmap.org/note/2836289#c6951396</guid>
         <pubDate>Mon, 27 Jun 2022 00:50:55 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Zamárdi Felső, Fürdőtelep, Zamárdi) / * 2022 June 22 17:06 vasony Created: Dessewffy Arisztid utca vagy Dessewffy utca szerepel az utcatáblán? / * 2022 June 27 00:46 urbalazs Resolved: Dessewffy Arisztid, ahogy a térképen szerepel. Nincs vele teendő.</title>
-        <link>https://www.openstreetmap.org/note/3236423#c6951395</link>
-        <guid>https://www.openstreetmap.org/note/3236423#c6951395</guid>
-        <pubDate>Mon, 27 Jun 2022 00:46:20 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Gagarin-lakótelep, Balatonvilágos) / * 2022 June 22 16:42 vasony Created: Kossuth Lajos utca vagy Kossuth utca? / * 2022 June 27 00:46 urbalazs Resolved: Az egyik olalon nincs tábla, a másik oldalon viszont Kossuth Lajos utca van. Jó így a térkép, nincs vele teendő.</title>
-        <link>https://www.openstreetmap.org/note/3236376#c6951394</link>
-        <guid>https://www.openstreetmap.org/note/3236376#c6951394</guid>
-        <pubDate>Mon, 27 Jun 2022 00:46:20 +0000</pubDate>
       </item>
   </channel>
 </rss>
