@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Csapás úti ipartelep, Keszthely) / * 2022 July 2 20:18 vasony Created: Itt Kéne legyen az Ipar utca 1. Van ennek nyoma?</title>
+        <link>https://www.openstreetmap.org/note/3249113#c6967807</link>
+        <guid>https://www.openstreetmap.org/note/3249113#c6967807</guid>
+        <pubDate>Sat, 02 Jul 2022 20:18:07 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Csapás úti ipartelep, Keszthely) / * 2022 July 1 20:58 vasony Created: Van-e már utca tábla? Egyes források szerint ez a Koponár utca. / * 2022 July 2 20:05 vasony Resolved: hát ez minden, csak nem rendes utca</title>
+        <link>https://www.openstreetmap.org/note/3248021#c6967755</link>
+        <guid>https://www.openstreetmap.org/note/3248021#c6967755</guid>
+        <pubDate>Sat, 02 Jul 2022 20:05:18 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Németvölgy, 12th district) / * 2022 May 16 14:37 kogutowicz-mano Created: Az épület elkezdett ledőlni, mielőtt lebonthatták volna. / https://telex.hu/belfold/2022/05/16/leomlott-ket-szint-egy-boszormenyi-uti-epuletbol / * 2022 July 2 19:29 urbalazs Resolved: A térképen építési terület van, és ez a valóságnak is megfelel.</title>
+        <link>https://www.openstreetmap.org/note/3181985#c6967679</link>
+        <guid>https://www.openstreetmap.org/note/3181985#c6967679</guid>
+        <pubDate>Sat, 02 Jul 2022 19:29:38 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Krisztinaváros, 1st district) / * 2021 December 29 19:44 vasony Created: Ez a dohánybolt üzemel? / * 2022 July 2 19:27 urbalazs Resolved: Igen, ma néztem meg.</title>
+        <link>https://www.openstreetmap.org/note/2987954#c6967676</link>
+        <guid>https://www.openstreetmap.org/note/2987954#c6967676</guid>
+        <pubDate>Sat, 02 Jul 2022 19:27:56 +0000</pubDate>
+      </item><item>
         <title>new note (near Harkány) / * 2022 July 2 15:39 Guzsvány Máté Created: A tourinform mellett nincsenek épületek</title>
         <link>https://www.openstreetmap.org/note/3248822#c6967200</link>
         <guid>https://www.openstreetmap.org/note/3248822#c6967200</guid>
@@ -247,16 +267,6 @@
         <link>https://www.openstreetmap.org/note/1490757#c6955956</link>
         <guid>https://www.openstreetmap.org/note/1490757#c6955956</guid>
         <pubDate>Tue, 28 Jun 2022 14:49:29 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Csapod) / * 2022 February 4 21:46 efi99 Created: 20? / * 2022 June 28 09:49 efi99 Resolved: 20/A</title>
-        <link>https://www.openstreetmap.org/note/3037647#c6955229</link>
-        <guid>https://www.openstreetmap.org/note/3037647#c6955229</guid>
-        <pubDate>Tue, 28 Jun 2022 09:49:04 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Csapod) / * 2022 February 7 21:59 efi99 Created: 131 v. 132 ? / * 2022 June 28 09:40 efi99 Resolved: 132</title>
-        <link>https://www.openstreetmap.org/note/3041431#c6955213</link>
-        <guid>https://www.openstreetmap.org/note/3041431#c6955213</guid>
-        <pubDate>Tue, 28 Jun 2022 09:40:27 +0000</pubDate>
       </item>
   </channel>
 </rss>
