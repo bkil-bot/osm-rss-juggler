@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Rákospalota, 15th district) / * 2022 July 2 07:49 Balázs Szulovszky Created: Ez a felüljáró lezárt, járhatatlan évek óta, valamilyen módon ezt jelölni kellene, hogy az útvonaltervező ne akarjon erre vinni senkit.</title>
+        <link>https://www.openstreetmap.org/note/3248280#c6966200</link>
+        <guid>https://www.openstreetmap.org/note/3248280#c6966200</guid>
+        <pubDate>Sat, 02 Jul 2022 07:49:19 +0000</pubDate>
+      </item><item>
+        <title>new note (near Újpest, 4th district) / * 2022 July 2 07:46 Balázs Szulovszky Created: Ezen az útszakaszon, amikor legutóbb arra jártam pár hónapja, még nem volt bicikliútnak nyoma sem.</title>
+        <link>https://www.openstreetmap.org/note/3248278#c6966196</link>
+        <guid>https://www.openstreetmap.org/note/3248278#c6966196</guid>
+        <pubDate>Sat, 02 Jul 2022 07:46:38 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Kertváros, Keszthely) / * 2022 July 1 20:55 vasony Created: ez itt az Akácfa utca? / * 2022 July 2 07:28 vasony Updated: igen. tábla nincs, de lakó megerősítette.</title>
+        <link>https://www.openstreetmap.org/note/3248020#c6966161</link>
+        <guid>https://www.openstreetmap.org/note/3248020#c6966161</guid>
+        <pubDate>Sat, 02 Jul 2022 07:28:20 +0000</pubDate>
+      </item><item>
         <title>new comment (near Kertváros, Keszthely) / * 2021 June 27 12:53 vasony Created: Diófa köz név helyben ellenőrizendő / * 2022 July 2 07:11 vasony Updated: ez egy behajtó a Tulipán utca 7-11 házakhoz</title>
         <link>https://www.openstreetmap.org/note/2730875#c6966137</link>
         <guid>https://www.openstreetmap.org/note/2730875#c6966137</guid>
@@ -217,11 +232,6 @@
         <link>https://www.openstreetmap.org/note/3041431#c6955213</link>
         <guid>https://www.openstreetmap.org/note/3041431#c6955213</guid>
         <pubDate>Tue, 28 Jun 2022 09:40:27 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Karikavölgy, Balatonföldvár) / * 2022 June 22 17:52 vasony Created: Badacsony utca vagy Badacsonyi utca szerepel az utcatáblán? / * 2022 June 28 00:54 urbalazs Resolved: Az utcatáblán Badacsonyi utca van, javítottam az OSM-et.</title>
-        <link>https://www.openstreetmap.org/note/3236478#c6954301</link>
-        <guid>https://www.openstreetmap.org/note/3236478#c6954301</guid>
-        <pubDate>Tue, 28 Jun 2022 00:54:53 +0000</pubDate>
       </item>
   </channel>
 </rss>
