@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Óbuda, 3rd district) / * 2022 July 3 07:17 Hungarian_user Created: Unable to answer &amp;quot;Does this street have a sidewalk?&amp;quot; for https://osm.org/way/990440490 via StreetComplete 44.1: / Gyalogátkelő, nem utca.</title>
+        <link>https://www.openstreetmap.org/note/3249513#c6968647</link>
+        <guid>https://www.openstreetmap.org/note/3249513#c6968647</guid>
+        <pubDate>Sun, 03 Jul 2022 07:17:02 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Újpalota, 15th district) / * 2021 June 23 20:02 bkil Created: Van errefelé játszótér? Van ott ivókút? https://www.bpxv.hu/hirek/megujulnak-jatszotereink / * 2022 July 3 06:37 KurdiR Updated: játszó: igen, (babás). név: nádastó park 6. kút: nem</title>
+        <link>https://www.openstreetmap.org/note/2725766#c6968564</link>
+        <guid>https://www.openstreetmap.org/note/2725766#c6968564</guid>
+        <pubDate>Sun, 03 Jul 2022 06:37:18 +0000</pubDate>
+      </item><item>
         <title>new comment (near City Park, 14th district) / * 2022 July 2 21:03 infeeeee Updated: Wiki nem ír erről, hogy ezt máshogy kéne címkézni: https://wiki.openstreetmap.org/wiki/Key:crossing:island / Ez is sziget, csak nincs szegélye, a lényeg, hogy meg lehet pihenni a két sáv között.</title>
         <link>https://www.openstreetmap.org/note/3248821#c6967892</link>
         <guid>https://www.openstreetmap.org/note/3248821#c6967892</guid>
@@ -272,16 +282,6 @@
         <link>https://www.openstreetmap.org/note/2331624#c6955959</link>
         <guid>https://www.openstreetmap.org/note/2331624#c6955959</guid>
         <pubDate>Tue, 28 Jun 2022 14:50:03 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Petőfi lakótelep, Csorna) / * 2021 December 14 07:42 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: There&amp;#39;s a drinking water. / * 2022 June 28 14:49 Molnar Laci Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2970290#c6955957</link>
-        <guid>https://www.openstreetmap.org/note/2970290#c6955957</guid>
-        <pubDate>Tue, 28 Jun 2022 14:49:48 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Felsőszeri lakótelep, Kiscsorna, Csorna) / * 2018 August 15 20:14 Pascal Schneider Created: This camping site doesn&amp;#39;t exist anymore. I asked the cashier and she answered it&amp;#39;s not a place for camping / * 2022 June 28 14:49 Molnar Laci Resolved: </title>
-        <link>https://www.openstreetmap.org/note/1490757#c6955956</link>
-        <guid>https://www.openstreetmap.org/note/1490757#c6955956</guid>
-        <pubDate>Tue, 28 Jun 2022 14:49:29 +0000</pubDate>
       </item>
   </channel>
 </rss>
