@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Óbuda, 3rd district) / * 2022 July 3 15:05 Hungarian_user Created: bkk automata B06</title>
+        <link>https://www.openstreetmap.org/note/3250244#c6970254</link>
+        <guid>https://www.openstreetmap.org/note/3250244#c6970254</guid>
+        <pubDate>Sun, 03 Jul 2022 15:05:38 +0000</pubDate>
+      </item><item>
+        <title>new note (near Óbuda, 3rd district) / * 2022 July 3 15:03 Hungarian_user Created: BKK automata a megállóban, itt</title>
+        <link>https://www.openstreetmap.org/note/3250241#c6970246</link>
+        <guid>https://www.openstreetmap.org/note/3250241#c6970246</guid>
+        <pubDate>Sun, 03 Jul 2022 15:03:22 +0000</pubDate>
+      </item><item>
+        <title>new note (near Kertváros, Keszthely) / * 2022 July 3 14:42 vasony Created: ez az utca itt létezik?</title>
+        <link>https://www.openstreetmap.org/note/3250217#c6970199</link>
+        <guid>https://www.openstreetmap.org/note/3250217#c6970199</guid>
+        <pubDate>Sun, 03 Jul 2022 14:42:47 +0000</pubDate>
+      </item><item>
         <title>new note (near Óbuda, 3rd district) / * 2022 July 3 07:17 Hungarian_user Created: Unable to answer &amp;quot;Does this street have a sidewalk?&amp;quot; for https://osm.org/way/990440490 via StreetComplete 44.1: / Gyalogátkelő, nem utca.</title>
         <link>https://www.openstreetmap.org/note/3249513#c6968647</link>
         <guid>https://www.openstreetmap.org/note/3249513#c6968647</guid>
@@ -262,16 +277,6 @@
         <link>https://www.openstreetmap.org/note/3244483#c6957887</link>
         <guid>https://www.openstreetmap.org/note/3244483#c6957887</guid>
         <pubDate>Wed, 29 Jun 2022 07:22:48 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Újszilvás) / * 2022 February 12 12:25 AndreasTUHU Created: &amp;quot;A büfé bezárt&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2022-01-03T12:11:12Z / POI name: Hamburger, Gyros, Melegszendvics / POI types: amenity-fast_food / #organicmaps / * 2022 June 28 23:26 bkil Resolved: Fixed in https://osm.org/changeset/122977784</title>
-        <link>https://www.openstreetmap.org/note/3048415#c6957430</link>
-        <guid>https://www.openstreetmap.org/note/3048415#c6957430</guid>
-        <pubDate>Tue, 28 Jun 2022 23:26:29 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Baross Gábor-telep, 22nd district) / * 2020 December 23 14:37 nubiai Created: Megszűnt ez a buszmegálló. BKK futár szerint sincs. / via StreetComplete 27.2 / * 2022 June 28 19:51 urbalazs Resolved: Valóban, nyoma sincs a helyszínen. Töröltem.</title>
-        <link>https://www.openstreetmap.org/note/2470874#c6956846</link>
-        <guid>https://www.openstreetmap.org/note/2470874#c6956846</guid>
-        <pubDate>Tue, 28 Jun 2022 19:51:18 +0000</pubDate>
       </item>
   </channel>
 </rss>
