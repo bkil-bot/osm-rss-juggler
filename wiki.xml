@@ -2,6 +2,11 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      
+      <item>
+        <title>Module:Element: remove link to Potlatch 2 because there is a support for &amp;quot;Edit with Remote Control&amp;quot; in Potlatch 3 according to https://www.systemed.net/potlatch/ but it is not documented anywhere -Tigerfell</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Module:Element&amp;diff=2351741&amp;oldid=1940963</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Module:Element&amp;diff=2351741</guid>
+        <pubDate>Sun, 03 Jul 2022 09:25:05 GMT</pubDate>
+      </item>
   </channel>
 </rss>
