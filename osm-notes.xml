@@ -3,6 +3,31 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Kelenföld, 11th district) / * 2022 January 20 18:22 Created: A Foxpost csomagautomata mellett telepítettek egy Alzás csomagautomatás is. / * 2022 July 4 14:13 Kecsege Resolved: Hozzáadva.</title>
+        <link>https://www.openstreetmap.org/note/3018193#c6973474</link>
+        <guid>https://www.openstreetmap.org/note/3018193#c6973474</guid>
+        <pubDate>Mon, 04 Jul 2022 14:13:38 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Kelenföld, 11th district) / * 2022 June 25 14:53 Created: A gyógyszertár szombaton csak ötig van nyitva: / http://reginapatika.hu/ / * 2022 July 4 14:10 Kecsege Resolved: Javítva.</title>
+        <link>https://www.openstreetmap.org/note/3239999#c6973470</link>
+        <guid>https://www.openstreetmap.org/note/3239999#c6973470</guid>
+        <pubDate>Mon, 04 Jul 2022 14:10:08 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Bicsérd) / * 2022 July 4 14:07 bkil Updated: intermittent</title>
+        <link>https://www.openstreetmap.org/note/3251321#c6973466</link>
+        <guid>https://www.openstreetmap.org/note/3251321#c6973466</guid>
+        <pubDate>Mon, 04 Jul 2022 14:07:46 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Kelenföld, 11th district) / * 2021 October 28 18:57 Created: Munkásszálló? / * 2022 July 4 14:03 Kecsege Resolved: Beállítva</title>
+        <link>https://www.openstreetmap.org/note/2913981#c6973446</link>
+        <guid>https://www.openstreetmap.org/note/2913981#c6973446</guid>
+        <pubDate>Mon, 04 Jul 2022 14:03:13 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Százados negyed, 8th district) / * 2022 June 25 21:47 Created: Hibás utcanév. Elvileg ez névtelen volt, de mostantól Vagon köz néven fut: / https://jozsefvaros.hu/otthon/hirdetotabla/hirek/2022/06/a-vagon-koz-nevet-kapja-egy-eddig-nevtelen-keruleti-kozter/ / * 2022 July 4 13:55 Kecsege Resolved: Javítva.</title>
+        <link>https://www.openstreetmap.org/note/3240398#c6973416</link>
+        <guid>https://www.openstreetmap.org/note/3240398#c6973416</guid>
+        <pubDate>Mon, 04 Jul 2022 13:55:32 +0000</pubDate>
+      </item><item>
         <title>new note (near Bicsérd) / * 2022 July 4 11:11 Spush Created: A tó kiszáradt 2022 nyarára, vajon mi a teendő ilyenkor? Törlés vagy intermittent=yes? / https://www.bama.hu/helyi-eletstilus/2022/06/kiszaradt-baranyai-to-mar-gondolkodnak-a-leheto-legjobb-megoldason-video</title>
         <link>https://www.openstreetmap.org/note/3251321#c6972913</link>
         <guid>https://www.openstreetmap.org/note/3251321#c6972913</guid>
@@ -292,26 +317,6 @@
         <link>https://www.openstreetmap.org/note/3246443#c6961971</link>
         <guid>https://www.openstreetmap.org/note/3246443#c6961971</guid>
         <pubDate>Thu, 30 Jun 2022 14:08:40 +0000</pubDate>
-      </item><item>
-        <title>new note (near Fertőd) / * 2022 June 30 13:50 efi99 Created: cím?</title>
-        <link>https://www.openstreetmap.org/note/3246412#c6961915</link>
-        <guid>https://www.openstreetmap.org/note/3246412#c6961915</guid>
-        <pubDate>Thu, 30 Jun 2022 13:50:19 +0000</pubDate>
-      </item><item>
-        <title>new note (near Sarród) / * 2022 June 30 13:38 efi99 Created: cím?</title>
-        <link>https://www.openstreetmap.org/note/3246366#c6961846</link>
-        <guid>https://www.openstreetmap.org/note/3246366#c6961846</guid>
-        <pubDate>Thu, 30 Jun 2022 13:38:58 +0000</pubDate>
-      </item><item>
-        <title>new note (near Révkócsagvár, Sarród) / * 2022 June 30 13:26 efi99 Created: cím?</title>
-        <link>https://www.openstreetmap.org/note/3246357#c6961822</link>
-        <guid>https://www.openstreetmap.org/note/3246357#c6961822</guid>
-        <pubDate>Thu, 30 Jun 2022 13:26:22 +0000</pubDate>
-      </item><item>
-        <title>new note (near Disznós-tanya, Répáshuta) / * 2022 June 30 08:14 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: There&amp;#39;s an obsarvation tower and a planetarium.</title>
-        <link>https://www.openstreetmap.org/note/3245917#c6961001</link>
-        <guid>https://www.openstreetmap.org/note/3245917#c6961001</guid>
-        <pubDate>Thu, 30 Jun 2022 08:14:14 +0000</pubDate>
       </item>
   </channel>
 </rss>
