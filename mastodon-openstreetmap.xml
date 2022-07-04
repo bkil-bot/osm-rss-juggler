@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>Open Social Media at OpenStreetMap: https://blog.openstreetmap.org/2022/06/28/open-social-media-at-openstreetmap/ The OSMF is pleased to financially support the https://en.osm.town mastodon service (It&amp;#39;s like twitter but on open internet protocols)</title>
+        <link>https://en.osm.town/@openstreetmap/108588305694629637</link>
+        <guid>https://en.osm.town/@openstreetmap/108588305694629637</guid>
+        <pubDate>Mon, 04 Jul 2022 09:14:11 +0000</pubDate>
+      </item><item>
         <title>@OpenStreetMapPL@twitter.com @osmafrica@twitter.com If you want to request a new category for your #OSM community, you can find out more at https://community.openstreetmap.org/t/about-the-new-category-requests-category/1001</title>
         <link>https://en.osm.town/@openstreetmap/108470737205892736</link>
         <guid>https://en.osm.town/@openstreetmap/108470737205892736</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/103625117396048045</link>
         <guid>https://en.osm.town/@openstreetmap/103625117396048045</guid>
         <pubDate>Sat, 08 Feb 2020 20:30:08 +0000</pubDate>
-      </item><item>
-        <title>Applications for @sotm 2020 scholarships are now open! This year we are offering new travel grants to reimburse a portion of travel costs, in addition to our previous program that fully covers all costs with a full scholarship: https://blog.openstreetmap.org/2020/01/18/sotm2020-applications-for-scholarships-open/ Deadline: 15 February 2020.</title>
-        <link>https://en.osm.town/@openstreetmap/103506327236054646</link>
-        <guid>https://en.osm.town/@openstreetmap/103506327236054646</guid>
-        <pubDate>Sat, 18 Jan 2020 21:00:14 +0000</pubDate>
       </item>
   </channel>
 </rss>
