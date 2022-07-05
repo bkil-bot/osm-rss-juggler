@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Németvölgy, 12th district) / * 2022 July 5 13:37 kogutowicz-mano Resolved: A telken ott volt a disused:building, amit demolished:buildinggé léptettem elő.</title>
+        <link>https://www.openstreetmap.org/note/3181985#c6976582</link>
+        <guid>https://www.openstreetmap.org/note/3181985#c6976582</guid>
+        <pubDate>Tue, 05 Jul 2022 13:37:55 +0000</pubDate>
+      </item><item>
+        <title>reactivated note (near Németvölgy, 12th district) / * 2022 May 16 14:37 kogutowicz-mano Created: Az épület elkezdett ledőlni, mielőtt lebonthatták volna. / https://telex.hu/belfold/2022/05/16/leomlott-ket-szint-egy-boszormenyi-uti-epuletbol / * 2022 July 2 19:29 urbalazs Resolved: A térképen építési terület van, és ez a valóságnak is megfelel. / * 2022 July 5 13:36 kogutowicz-mano Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/3181985#c6976570</link>
+        <guid>https://www.openstreetmap.org/note/3181985#c6976570</guid>
+        <pubDate>Tue, 05 Jul 2022 13:36:45 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Angyalföld, 13th district) / * 2022 May 19 14:38 kogutowicz-mano Created: Itt valahol Horn Gyula sétány lesz. / https://telex.hu/belfold/2022/05/19/horn-gyula-ter-budapest / * 2022 July 5 13:28 kogutowicz-mano Updated: Lett is. / https://24.hu/belfold/2022/07/05/horn-gyula-setany-angyalfold/ / De pontosan hol?</title>
+        <link>https://www.openstreetmap.org/note/3185886#c6976547</link>
+        <guid>https://www.openstreetmap.org/note/3185886#c6976547</guid>
+        <pubDate>Tue, 05 Jul 2022 13:28:13 +0000</pubDate>
+      </item><item>
         <title>new comment (near Százados negyed, 8th district) / * 2022 July 5 11:42 vasony Updated: Csak a tisztánlátás kedvéért, / még hivatalosan nem került elnevezésre. A kerület csak a fővárosnak javasolja, hogy nevezze el. Ez van a határozatban is.</title>
         <link>https://www.openstreetmap.org/note/3240398#c6976236</link>
         <guid>https://www.openstreetmap.org/note/3240398#c6976236</guid>
@@ -327,21 +342,6 @@
         <link>https://www.openstreetmap.org/note/3247479#c6964435</link>
         <guid>https://www.openstreetmap.org/note/3247479#c6964435</guid>
         <pubDate>Fri, 01 Jul 2022 11:25:19 +0000</pubDate>
-      </item><item>
-        <title>new note (near Balatonföldvár) / * 2022 July 1 11:17 vasony-qa Created: Balatonföldvár, Séta út, vagy utca? Most különböző a 2 oldalon, illetve a szántódi rész is ellenőrizendő.</title>
-        <link>https://www.openstreetmap.org/note/3247469#c6964414</link>
-        <guid>https://www.openstreetmap.org/note/3247469#c6964414</guid>
-        <pubDate>Fri, 01 Jul 2022 11:17:43 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Présháztelep, Sopron) / * 2019 December 3 09:33 Created: Rozhledna Őrtorony je nepřístupná (odřezané schody do výšky dvou metrů). / * 2022 July 1 10:52 urbalazs Updated: DeepL fordító: Az Őrtorony kilátótorony megközelíthetetlen (vágott lépcső két méter magasságig).</title>
-        <link>https://www.openstreetmap.org/note/2015152#c6964364</link>
-        <guid>https://www.openstreetmap.org/note/2015152#c6964364</guid>
-        <pubDate>Fri, 01 Jul 2022 10:52:29 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Győrikapu, Sopron) / * 2020 May 26 08:51 Pan Perníček Created: #Mapy.cz user reports: This path is called Vadvirág utca. / * 2022 July 1 10:50 urbalazs Resolved: It was renamed 1 year ago.</title>
-        <link>https://www.openstreetmap.org/note/2206795#c6964357</link>
-        <guid>https://www.openstreetmap.org/note/2206795#c6964357</guid>
-        <pubDate>Fri, 01 Jul 2022 10:50:02 +0000</pubDate>
       </item>
   </channel>
 </rss>
