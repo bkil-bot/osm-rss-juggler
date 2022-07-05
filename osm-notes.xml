@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Százados negyed, 8th district) / * 2022 July 5 11:42 vasony Updated: Csak a tisztánlátás kedvéért, / még hivatalosan nem került elnevezésre. A kerület csak a fővárosnak javasolja, hogy nevezze el. Ez van a határozatban is.</title>
+        <link>https://www.openstreetmap.org/note/3240398#c6976236</link>
+        <guid>https://www.openstreetmap.org/note/3240398#c6976236</guid>
+        <pubDate>Tue, 05 Jul 2022 11:42:12 +0000</pubDate>
+      </item><item>
+        <title>reactivated note (near Százados negyed, 8th district) / * 2022 June 25 21:47 Created: Hibás utcanév. Elvileg ez névtelen volt, de mostantól Vagon köz néven fut: / https://jozsefvaros.hu/otthon/hirdetotabla/hirek/2022/06/a-vagon-koz-nevet-kapja-egy-eddig-nevtelen-keruleti-kozter/ / * 2022 July 4 13:55 Kecsege Resolved: Javítva. / * 2022 July 5 11:40 vasony Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/3240398#c6976226</link>
+        <guid>https://www.openstreetmap.org/note/3240398#c6976226</guid>
+        <pubDate>Tue, 05 Jul 2022 11:40:35 +0000</pubDate>
+      </item><item>
         <title>new note (near Fancsal) / * 2022 July 5 10:09 vasi79 Created: Esőbeálló paddal, asztallal</title>
         <link>https://www.openstreetmap.org/note/3252708#c6976003</link>
         <guid>https://www.openstreetmap.org/note/3252708#c6976003</guid>
@@ -332,21 +342,6 @@
         <link>https://www.openstreetmap.org/note/2206795#c6964357</link>
         <guid>https://www.openstreetmap.org/note/2206795#c6964357</guid>
         <pubDate>Fri, 01 Jul 2022 10:50:02 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Muck, Sopron) / * 2020 June 4 08:36 Mamutinka Created: #Mapy.cz user reports: blue route / * 2022 July 1 10:48 urbalazs Resolved: Already mapped.</title>
-        <link>https://www.openstreetmap.org/note/2217507#c6964352</link>
-        <guid>https://www.openstreetmap.org/note/2217507#c6964352</guid>
-        <pubDate>Fri, 01 Jul 2022 10:48:32 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Brandmajor, Sopron) / * 2020 June 15 07:25 Mamutinka Created: #Mapy.cz user reports: there is a new red way / * 2022 July 1 10:47 urbalazs Resolved: This note is 2 years old and there is a red route nearby which have been edited recently. I close this note for now but feel free to reopen it if you have more information.</title>
-        <link>https://www.openstreetmap.org/note/2229796#c6964351</link>
-        <guid>https://www.openstreetmap.org/note/2229796#c6964351</guid>
-        <pubDate>Fri, 01 Jul 2022 10:47:56 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Brandmajor, Sopron) / * 2020 June 4 08:41 Mamutinka Created: #Mapy.cz user reports: red route / * 2022 July 1 10:45 urbalazs Resolved: Already mapped.</title>
-        <link>https://www.openstreetmap.org/note/2217515#c6964341</link>
-        <guid>https://www.openstreetmap.org/note/2217515#c6964341</guid>
-        <pubDate>Fri, 01 Jul 2022 10:45:43 +0000</pubDate>
       </item>
   </channel>
 </rss>
