@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Vértesacsa) / * 2022 July 7 12:37 vasony-qa Created:  mi a valós cím, mert Vörösmarty Mihály utca nem itt van.</title>
+        <link>https://www.openstreetmap.org/note/3255796#c6982681</link>
+        <guid>https://www.openstreetmap.org/note/3255796#c6982681</guid>
+        <pubDate>Thu, 07 Jul 2022 12:37:51 +0000</pubDate>
+      </item><item>
+        <title>new note (near Palotaváros, Székesfehérvár) / * 2022 July 7 12:35 goeroeg Created: No longer here ?</title>
+        <link>https://www.openstreetmap.org/note/3255789#c6982672</link>
+        <guid>https://www.openstreetmap.org/note/3255789#c6982672</guid>
+        <pubDate>Thu, 07 Jul 2022 12:35:49 +0000</pubDate>
+      </item><item>
+        <title>new note (near Révfülöp) / * 2022 July 7 12:28 Johanna707 Created: Az út le van zárva. / via StreetComplete 45.0</title>
+        <link>https://www.openstreetmap.org/note/3255781#c6982655</link>
+        <guid>https://www.openstreetmap.org/note/3255781#c6982655</guid>
+        <pubDate>Thu, 07 Jul 2022 12:28:39 +0000</pubDate>
+      </item><item>
         <title>closed note (near Felsőtekeres, Balatonvilágos) / * 2022 July 7 08:23 vasony-qa Resolved: 204/2018. (VI.19.) határozat értelmében igen</title>
         <link>https://www.openstreetmap.org/note/3255480#c6982121</link>
         <guid>https://www.openstreetmap.org/note/3255480#c6982121</guid>
@@ -242,41 +257,6 @@
         <link>https://www.openstreetmap.org/note/3250557#c6970869</link>
         <guid>https://www.openstreetmap.org/note/3250557#c6970869</guid>
         <pubDate>Sun, 03 Jul 2022 18:42:57 +0000</pubDate>
-      </item><item>
-        <title>new note (near Zirc) / * 2022 July 3 18:42 ks00 Created: Unable to answer &amp;quot;What’s the surface here?&amp;quot; for https://osm.org/way/170318305 via StreetComplete 43.2: / Nem létezik.</title>
-        <link>https://www.openstreetmap.org/note/3250556#c6970868</link>
-        <guid>https://www.openstreetmap.org/note/3250556#c6970868</guid>
-        <pubDate>Sun, 03 Jul 2022 18:42:57 +0000</pubDate>
-      </item><item>
-        <title>new note (near Bakonynána) / * 2022 July 3 18:42 ks00 Created: Unable to answer &amp;quot;What’s the surface here?&amp;quot; for https://osm.org/way/344430027 via StreetComplete 43.2: / Híd</title>
-        <link>https://www.openstreetmap.org/note/3250555#c6970867</link>
-        <guid>https://www.openstreetmap.org/note/3250555#c6970867</guid>
-        <pubDate>Sun, 03 Jul 2022 18:42:57 +0000</pubDate>
-      </item><item>
-        <title>new note (near Bakonynána) / * 2022 July 3 18:42 ks00 Created: Unable to answer &amp;quot;What’s the surface here?&amp;quot; for https://osm.org/way/439406567 via StreetComplete 43.2: / Híd</title>
-        <link>https://www.openstreetmap.org/note/3250554#c6970866</link>
-        <guid>https://www.openstreetmap.org/note/3250554#c6970866</guid>
-        <pubDate>Sun, 03 Jul 2022 18:42:57 +0000</pubDate>
-      </item><item>
-        <title>new note (near Belváros, Székesfehérvár) / * 2022 July 3 18:42 ks00 Created: Unable to answer &amp;quot;What’s the surface here?&amp;quot; for https://osm.org/way/324333917 via StreetComplete 43.2: / Márványlapok</title>
-        <link>https://www.openstreetmap.org/note/3250553#c6970865</link>
-        <guid>https://www.openstreetmap.org/note/3250553#c6970865</guid>
-        <pubDate>Sun, 03 Jul 2022 18:42:57 +0000</pubDate>
-      </item><item>
-        <title>new note (near Belváros, Székesfehérvár) / * 2022 July 3 18:42 ks00 Created: Unable to answer &amp;quot;What’s the surface here?&amp;quot; for https://osm.org/way/324333916 via StreetComplete 43.2: / Márványlapok</title>
-        <link>https://www.openstreetmap.org/note/3250551#c6970863</link>
-        <guid>https://www.openstreetmap.org/note/3250551#c6970863</guid>
-        <pubDate>Sun, 03 Jul 2022 18:42:56 +0000</pubDate>
-      </item><item>
-        <title>new note (near Belváros, Székesfehérvár) / * 2022 July 3 18:42 ks00 Created: Unable to answer &amp;quot;Who is allowed to use this playground?&amp;quot; for https://osm.org/way/222033033 via StreetComplete 43.2: / Nem létezik.</title>
-        <link>https://www.openstreetmap.org/note/3250550#c6970862</link>
-        <guid>https://www.openstreetmap.org/note/3250550#c6970862</guid>
-        <pubDate>Sun, 03 Jul 2022 18:42:56 +0000</pubDate>
-      </item><item>
-        <title>new note (near Agárd, Gárdony) / * 2022 July 3 15:36 Arrabonfi Created: &amp;quot;7.1-jétől bezárt&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2022-06-13T12:43:18Z / POI name: Nádas Étterem / POI types: building wheelchair-yes amenity-restaurant amenity-toilets cuisine-regional / #organicmaps</title>
-        <link>https://www.openstreetmap.org/note/3250293#c6970337</link>
-        <guid>https://www.openstreetmap.org/note/3250293#c6970337</guid>
-        <pubDate>Sun, 03 Jul 2022 15:36:51 +0000</pubDate>
       </item>
   </channel>
 </rss>
