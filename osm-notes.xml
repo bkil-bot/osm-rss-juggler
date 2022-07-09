@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Liget lakótelep, Kaposszekcső) / * 2022 July 9 05:08 kogutowicz-mano Updated: Lesz ebből két hónap is.</title>
+        <link>https://www.openstreetmap.org/note/3218589#c6987300</link>
+        <guid>https://www.openstreetmap.org/note/3218589#c6987300</guid>
+        <pubDate>Sat, 09 Jul 2022 05:08:14 +0000</pubDate>
+      </item><item>
+        <title>reactivated note (near Liget lakótelep, Kaposszekcső) / * 2022 June 10 13:03 kogutowicz-mano Created: Elmosta az eső az utat, egy hónapra lezárták. / * 2022 June 10 13:12 kogutowicz-mano Updated: https://telex.hu/belfold/2022/06/10/vihar-idojaras-611-dombovar-kaposszekcso-beszakadt-ut / * 2022 June 10 16:56 urbalazs Resolved: Várható, hogy helyreállítják. Sokan OsmAnd alatt használják a térképet, ahol havi frissítések vannak. Emiatt az ilyen hónapon belüli ideiglenes változásokat nem szoktuk megjeleníteni. / * 2022 July 9 05:07 kogutowicz-mano Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/3218589#c6987299</link>
+        <guid>https://www.openstreetmap.org/note/3218589#c6987299</guid>
+        <pubDate>Sat, 09 Jul 2022 05:07:41 +0000</pubDate>
+      </item><item>
         <title>new note (near Köveskál) / * 2022 July 8 12:57 Johanna707 Created: Unable to answer &amp;quot;What’s the topic of this information board?&amp;quot; for https://osm.org/node/7468519241 via StreetComplete 45.0: / Üres állvány.</title>
         <link>https://www.openstreetmap.org/note/3257121#c6985707</link>
         <guid>https://www.openstreetmap.org/note/3257121#c6985707</guid>
@@ -137,36 +147,6 @@
         <link>https://www.openstreetmap.org/note/2580699#c6977580</link>
         <guid>https://www.openstreetmap.org/note/2580699#c6977580</guid>
         <pubDate>Tue, 05 Jul 2022 18:24:42 +0000</pubDate>
-      </item><item>
-        <title>closed note (near City Park, 14th district) / * 2022 June 17 20:05 Hagaskar Created: There are at least 10 benches here / * 2022 July 5 18:21 urbalazs Resolved: Fixed by the reporter.</title>
-        <link>https://www.openstreetmap.org/note/3229481#c6977572</link>
-        <guid>https://www.openstreetmap.org/note/3229481#c6977572</guid>
-        <pubDate>Tue, 05 Jul 2022 18:21:56 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Erzsébetváros, 7th district) / * 2022 June 11 19:48 grin Created: 13-14 / * 2022 July 5 17:59 xtrht3KPCMwdxn9xnXXf Resolved: already tagged as such</title>
-        <link>https://www.openstreetmap.org/note/3220386#c6977502</link>
-        <guid>https://www.openstreetmap.org/note/3220386#c6977502</guid>
-        <pubDate>Tue, 05 Jul 2022 17:59:42 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Újpest, 4th district) / * 2022 April 27 04:55 knnorbi Created: &amp;quot;I made a new, correct one.&amp;quot; / The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI name: BMSZC Újpesti Két Tanítási Nyelvű Műszaki Technikum / POI types: amenity-school / OSM data version: 2022-03-31T16:41:57Z / #mapsme / * 2022 July 5 17:50 sph432 Resolved: fixed in #123245146</title>
-        <link>https://www.openstreetmap.org/note/3154113#c6977463</link>
-        <guid>https://www.openstreetmap.org/note/3154113#c6977463</guid>
-        <pubDate>Tue, 05 Jul 2022 17:50:43 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Rákospalota, 15th district) / * 2022 July 5 17:39 sph432 Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3248280#c6977394</link>
-        <guid>https://www.openstreetmap.org/note/3248280#c6977394</guid>
-        <pubDate>Tue, 05 Jul 2022 17:39:33 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Rákospalota, 15th district) / * 2022 July 2 07:49 Balázs Szulovszky Created: Ez a felüljáró lezárt, járhatatlan évek óta, valamilyen módon ezt jelölni kellene, hogy az útvonaltervező ne akarjon erre vinni senkit. / * 2022 July 5 17:39 sph432 Updated: fixed in #123244789</title>
-        <link>https://www.openstreetmap.org/note/3248280#c6977393</link>
-        <guid>https://www.openstreetmap.org/note/3248280#c6977393</guid>
-        <pubDate>Tue, 05 Jul 2022 17:39:32 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Rákospalota Öregfalu, Rákospalota, 15th district) / * 2022 July 5 17:14 ottwiz Updated: Ezt a jegyzetet én hoztam létre csak elfelejtettem belépni (telefonról vagyok)</title>
-        <link>https://www.openstreetmap.org/note/3253369#c6977333</link>
-        <guid>https://www.openstreetmap.org/note/3253369#c6977333</guid>
-        <pubDate>Tue, 05 Jul 2022 17:14:18 +0000</pubDate>
       </item>
   </channel>
 </rss>
