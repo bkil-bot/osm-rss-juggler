@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Csákberény) / * 2022 July 10 12:33 Created: hiányzó utcanév: Ezerjó utca</title>
+        <link>https://www.openstreetmap.org/note/3259914#c6991453</link>
+        <guid>https://www.openstreetmap.org/note/3259914#c6991453</guid>
+        <pubDate>Sun, 10 Jul 2022 12:33:55 +0000</pubDate>
+      </item><item>
         <title>closed note (near Újpalota, 15th district) / * 2022 July 10 11:11 bkil Resolved: Köszönjük a felmérést.</title>
         <link>https://www.openstreetmap.org/note/2725805#c6991171</link>
         <guid>https://www.openstreetmap.org/note/2725805#c6991171</guid>
@@ -167,11 +172,6 @@
         <link>https://www.openstreetmap.org/note/3255483#c6982084</link>
         <guid>https://www.openstreetmap.org/note/3255483#c6982084</guid>
         <pubDate>Thu, 07 Jul 2022 08:02:04 +0000</pubDate>
-      </item><item>
-        <title>new note (near Felsőtekeres, Balatonvilágos) / * 2022 July 7 08:01 vasony-qa Created: Ez a Rizling út?</title>
-        <link>https://www.openstreetmap.org/note/3255480#c6982081</link>
-        <guid>https://www.openstreetmap.org/note/3255480#c6982081</guid>
-        <pubDate>Thu, 07 Jul 2022 08:01:14 +0000</pubDate>
       </item>
   </channel>
 </rss>
