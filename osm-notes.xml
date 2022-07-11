@@ -3,6 +3,46 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Karikavölgy, Balatonföldvár) / * 2022 July 1 11:28 vasony Created: Ez itt az Árnyas lakópark? Pontosítandó ez az út / * 2022 July 11 22:39 urbalazs Resolved: Igen, ez az Árnyas lakópark, de kapuval le van zárva, csak az ott lakók tudnak bemenni. Az egyik postaládán találtam egy címet.</title>
+        <link>https://www.openstreetmap.org/note/3247484#c6998000</link>
+        <guid>https://www.openstreetmap.org/note/3247484#c6998000</guid>
+        <pubDate>Mon, 11 Jul 2022 22:39:38 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Balatonföldvár) / * 2022 June 22 17:53 vasony Created: Hunyadi utca vagy Hunyadi János utca szerepel az utcatáblán? / * 2022 July 11 22:39 urbalazs Resolved: Hunyadi János utca, javítottam a nevet.</title>
+        <link>https://www.openstreetmap.org/note/3236483#c6997999</link>
+        <guid>https://www.openstreetmap.org/note/3236483#c6997999</guid>
+        <pubDate>Mon, 11 Jul 2022 22:39:38 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Karikavölgy, Balatonföldvár) / * 2022 July 1 11:25 vasony-qa Created: itt van egy utca, privát vagy ez lehet a Szabadság tér? / * 2022 July 11 22:39 urbalazs Resolved: Szabadság tér nincs kitáblázva, de ott van az orvosi rendelő, aminek Szabadság tér 1. a házszáma. Rátettem a nevet a szervizútra.</title>
+        <link>https://www.openstreetmap.org/note/3247479#c6997998</link>
+        <guid>https://www.openstreetmap.org/note/3247479#c6997998</guid>
+        <pubDate>Mon, 11 Jul 2022 22:39:37 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Balatonföldvár) / * 2022 June 22 17:52 vasony Created: Kemping utca vagy Camping utca szerepel az utcatáblán? / * 2022 July 11 22:39 urbalazs Resolved: Az utcatáblán Camping utca van, az épületeken vegyesen Camping és Kemping.</title>
+        <link>https://www.openstreetmap.org/note/3236479#c6997997</link>
+        <guid>https://www.openstreetmap.org/note/3236479#c6997997</guid>
+        <pubDate>Mon, 11 Jul 2022 22:39:37 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Balatonföldvár) / * 2022 June 22 17:53 vasony Created: Gárdonyi utca vagy Gárdonyi Géza utca szerepel az utcatáblán? / * 2022 July 11 22:39 urbalazs Resolved: Gárdonyi Géza utca, javítottam a nevet.</title>
+        <link>https://www.openstreetmap.org/note/3236480#c6997996</link>
+        <guid>https://www.openstreetmap.org/note/3236480#c6997996</guid>
+        <pubDate>Mon, 11 Jul 2022 22:39:36 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Balatonföldvár) / * 2022 July 1 11:17 vasony-qa Created: Balatonföldvár, Séta út, vagy utca? Most különböző a 2 oldalon, illetve a szántódi rész is ellenőrizendő. / * 2022 July 11 22:39 urbalazs Resolved: Séta utca az utca és nem út, egy tulaj szerint az épületek Szántódon vannak, az épületek előtti árok a határ, de az utca Balatonföldváron van.</title>
+        <link>https://www.openstreetmap.org/note/3247469#c6997995</link>
+        <guid>https://www.openstreetmap.org/note/3247469#c6997995</guid>
+        <pubDate>Mon, 11 Jul 2022 22:39:35 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Balatonföldvár) / * 2022 July 1 00:35 urbalazs Created: Báthori István utca vagy Báthory István utca? Érdemes végignézni minden utcasarkot, mert mintha mindkettőt láttam volna. / * 2022 July 11 22:39 urbalazs Resolved: Báthori István utca I-vel van írva, beszéltem egy tulajdonossal, a tulajdoni lapján is így van.</title>
+        <link>https://www.openstreetmap.org/note/3246991#c6997994</link>
+        <guid>https://www.openstreetmap.org/note/3246991#c6997994</guid>
+        <pubDate>Mon, 11 Jul 2022 22:39:35 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Balatonföldvár) / * 2022 June 23 12:30 urbalazs Created: Séta út vagy Séta utca? Figyelj, a 7-es úton túl is folytatódik. / * 2022 July 11 22:39 urbalazs Resolved: Séta utca van kitáblázva.</title>
+        <link>https://www.openstreetmap.org/note/3237398#c6997993</link>
+        <guid>https://www.openstreetmap.org/note/3237398#c6997993</guid>
+        <pubDate>Mon, 11 Jul 2022 22:39:34 +0000</pubDate>
+      </item><item>
         <title>closed note (near Felsőgöd, Göd) / * 2022 June 25 23:43 bkil Created: Jósika 14 alatt van fagyizó? / * 2022 July 11 20:41 bkil Resolved: Probably higher north according to wifi</title>
         <link>https://www.openstreetmap.org/note/3240470#c6997698</link>
         <guid>https://www.openstreetmap.org/note/3240470#c6997698</guid>
@@ -137,21 +177,6 @@
         <link>https://www.openstreetmap.org/note/3260289#c6992164</link>
         <guid>https://www.openstreetmap.org/note/3260289#c6992164</guid>
         <pubDate>Sun, 10 Jul 2022 15:09:35 +0000</pubDate>
-      </item><item>
-        <title>new note (near Csákberény) / * 2022 July 10 12:33 Created: hiányzó utcanév: Ezerjó utca</title>
-        <link>https://www.openstreetmap.org/note/3259914#c6991453</link>
-        <guid>https://www.openstreetmap.org/note/3259914#c6991453</guid>
-        <pubDate>Sun, 10 Jul 2022 12:33:55 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Újpalota, 15th district) / * 2022 July 10 11:11 bkil Resolved: Köszönjük a felmérést.</title>
-        <link>https://www.openstreetmap.org/note/2725805#c6991171</link>
-        <guid>https://www.openstreetmap.org/note/2725805#c6991171</guid>
-        <pubDate>Sun, 10 Jul 2022 11:11:58 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Újpalota, 15th district) / * 2021 June 23 20:20 bkil Created: Ez a Halacskás játszótér? Van errefelé ivókút? https://www.bpxv.hu/parkok-jatszoterek-2 / * 2022 July 10 08:06 KurdiR Updated: igen. &amp;quot;Halacska&amp;quot;. nincs ivókút.</title>
-        <link>https://www.openstreetmap.org/note/2725805#c6990770</link>
-        <guid>https://www.openstreetmap.org/note/2725805#c6990770</guid>
-        <pubDate>Sun, 10 Jul 2022 08:06:02 +0000</pubDate>
       </item>
   </channel>
 </rss>
