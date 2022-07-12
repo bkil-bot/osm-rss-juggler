@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Szárazrét, Székesfehérvár) / * 2022 July 12 20:54 ks00 Created: Unable to answer &amp;quot;Who is allowed to park here? Parking may be free or paid.&amp;quot; for https://osm.org/way/221950402 via StreetComplete 44.1: / Nem parkoló, hanem autókereskedés.</title>
+        <link>https://www.openstreetmap.org/note/3264607#c7000842</link>
+        <guid>https://www.openstreetmap.org/note/3264607#c7000842</guid>
+        <pubDate>Tue, 12 Jul 2022 20:54:29 +0000</pubDate>
+      </item><item>
         <title>new note (near Somos, Szántód) / * 2022 July 12 20:20 urbalazs Created: Szántódi utca, Szántódi út, Kőröshegyi utca vagy Kőröshegyi út van kitáblázva? Érdemes megnézni több utcasarkot is.</title>
         <link>https://www.openstreetmap.org/note/3264576#c7000750</link>
         <guid>https://www.openstreetmap.org/note/3264576#c7000750</guid>
@@ -157,11 +162,6 @@
         <link>https://www.openstreetmap.org/note/3262660#c6996498</link>
         <guid>https://www.openstreetmap.org/note/3262660#c6996498</guid>
         <pubDate>Mon, 11 Jul 2022 13:57:22 +0000</pubDate>
-      </item><item>
-        <title>new note (near Angyalföld, 13th district) / * 2022 July 11 11:39 Urbán István Created: &amp;quot;closed months ago&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2022-06-13T12:43:18Z / POI name: Mecca Fit Food / POI types: amenity-restaurant / #organicmaps</title>
-        <link>https://www.openstreetmap.org/note/3262416#c6995982</link>
-        <guid>https://www.openstreetmap.org/note/3262416#c6995982</guid>
-        <pubDate>Mon, 11 Jul 2022 11:39:35 +0000</pubDate>
       </item>
   </channel>
 </rss>
