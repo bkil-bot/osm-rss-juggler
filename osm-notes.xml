@@ -3,6 +3,46 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Zamárdi Felső, Fürdőtelep, Zamárdi) / * 2022 June 22 17:30 vasony Created: Szigligeti Ede utca vagy Szigligeti utca szerepel az utcatáblán? / * 2022 July 12 06:26 urbalazs Resolved: Minden sarkon Szigligeti utca van, ráadásul az utca eleje hibásan Balaton utca volt. Javítottam.</title>
+        <link>https://www.openstreetmap.org/note/3236442#c6998406</link>
+        <guid>https://www.openstreetmap.org/note/3236442#c6998406</guid>
+        <pubDate>Tue, 12 Jul 2022 06:26:26 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Fürdőtelep, Zamárdi) / * 2022 June 22 17:08 vasony Created: Lenkey János utca vagy Lenkei János utca szerepel az utcatáblán? / * 2022 July 12 06:25 urbalazs Resolved: Lenkey János utca Y-nal van kitáblázva, ahogy az OSM-en is.</title>
+        <link>https://www.openstreetmap.org/note/3236430#c6998405</link>
+        <guid>https://www.openstreetmap.org/note/3236430#c6998405</guid>
+        <pubDate>Tue, 12 Jul 2022 06:25:43 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Zamárdi) / * 2022 June 22 17:26 vasony Created: Siófoki út vagy Siófoki utca szerepel az utcatáblán? / * 2022 July 5 07:32 utvonalfelmeresek Updated: A https://www.posta.hu/static/internet/download/akadalymentesitett_postak_listaja.xls / Szerint: / 8621 Zamárdi Siófoki utca 1. / * 2022 July 5 07:38 vasony Updated: Kösz,  de az utcatábla erdekel. mert eltérnek a források. / * 2022 July 12 06:25 urbalazs Resolved: Siófoki út van mindenhol kitáblázva, jó az OSM.</title>
+        <link>https://www.openstreetmap.org/note/3236439#c6998403</link>
+        <guid>https://www.openstreetmap.org/note/3236439#c6998403</guid>
+        <pubDate>Tue, 12 Jul 2022 06:25:17 +0000</pubDate>
+      </item><item>
+        <title>new note (near Badacsony, Badacsonytomaj) / * 2022 July 12 06:25 Created: otpbank Geldautomat</title>
+        <link>https://www.openstreetmap.org/note/3263450#c6998401</link>
+        <guid>https://www.openstreetmap.org/note/3263450#c6998401</guid>
+        <pubDate>Tue, 12 Jul 2022 06:25:01 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Zamárdi) / * 2022 June 22 17:28 vasony Created: Szélescsapás út vagy Szélescsapás utca szerepel az utcatáblán? Esetleg külön írva? / * 2022 July 12 06:24 urbalazs Resolved: Szélescsapás út van az utcanévtáblán, jó az OSM, nincs vele teendő.</title>
+        <link>https://www.openstreetmap.org/note/3236441#c6998398</link>
+        <guid>https://www.openstreetmap.org/note/3236441#c6998398</guid>
+        <pubDate>Tue, 12 Jul 2022 06:24:44 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Kőhegy, Zamárdi) / * 2022 June 22 17:03 vasony Created: Alsó pincesor vagy Alsópincesor szerepel az utcatáblán? / * 2022 July 12 06:24 urbalazs Resolved: Alsó pincesor így van írva, bár nagy P-vel. A helyesírási hibától eltekintve jó az OSM.</title>
+        <link>https://www.openstreetmap.org/note/3236413#c6998397</link>
+        <guid>https://www.openstreetmap.org/note/3236413#c6998397</guid>
+        <pubDate>Tue, 12 Jul 2022 06:24:06 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Kőhegy, Zamárdi) / * 2022 June 22 17:31 vasony Created: Szőlőhegyi út vagy Szőlőhegyi utca szerepel az utcatáblán? / * 2022 July 12 06:23 urbalazs Updated: A főútnál út, de a dombon mindenhol utca, ráadásul ami most Római út az OSM-en, a Kilátó dűlőig az is Szőlőhegyi utca. Ezt megnézem még egyszer. Az út vs. utca dolgot pedig meg kell kérdezni az önkormányzattól (vagy elfogadjuk a sok utca vs. 1 db út alapján, hogy utca). Nyitva hagyom addig a jegyzetet.</title>
+        <link>https://www.openstreetmap.org/note/3236445#c6998396</link>
+        <guid>https://www.openstreetmap.org/note/3236445#c6998396</guid>
+        <pubDate>Tue, 12 Jul 2022 06:23:37 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Kőhegy, Zamárdi) / * 2022 June 22 17:06 vasony Created: Káposztáskert vagy Káposztáskerti utca szerepel az utcatáblán? / * 2022 July 12 06:22 urbalazs Resolved: Káposztáskert így van írva, nincs közterület jelleg az utcanévtáblán. Jó az OSM, nincs vele teendő.</title>
+        <link>https://www.openstreetmap.org/note/3236422#c6998390</link>
+        <guid>https://www.openstreetmap.org/note/3236422#c6998390</guid>
+        <pubDate>Tue, 12 Jul 2022 06:22:32 +0000</pubDate>
+      </item><item>
         <title>closed note (near Karikavölgy, Balatonföldvár) / * 2022 July 1 11:28 vasony Created: Ez itt az Árnyas lakópark? Pontosítandó ez az út / * 2022 July 11 22:39 urbalazs Resolved: Igen, ez az Árnyas lakópark, de kapuval le van zárva, csak az ott lakók tudnak bemenni. Az egyik postaládán találtam egy címet.</title>
         <link>https://www.openstreetmap.org/note/3247484#c6998000</link>
         <guid>https://www.openstreetmap.org/note/3247484#c6998000</guid>
@@ -162,21 +202,6 @@
         <link>https://www.openstreetmap.org/note/3146697#c6992485</link>
         <guid>https://www.openstreetmap.org/note/3146697#c6992485</guid>
         <pubDate>Sun, 10 Jul 2022 16:45:30 +0000</pubDate>
-      </item><item>
-        <title>new note (near Szomoróc, Kercaszomor) / * 2022 July 10 15:09 szotsaki Created: Vendégház / via StreetComplete 43.2</title>
-        <link>https://www.openstreetmap.org/note/3260291#c6992166</link>
-        <guid>https://www.openstreetmap.org/note/3260291#c6992166</guid>
-        <pubDate>Sun, 10 Jul 2022 15:09:38 +0000</pubDate>
-      </item><item>
-        <title>new note (near Templomszer, Őriszentpéter) / * 2022 July 10 15:09 szotsaki Created: WC, nyilvános, nem fizetős, nem akadálymentes / via StreetComplete 43.2 / Attached photo(s): / https://westnordost.de/p/101696.jpg</title>
-        <link>https://www.openstreetmap.org/note/3260290#c6992165</link>
-        <guid>https://www.openstreetmap.org/note/3260290#c6992165</guid>
-        <pubDate>Sun, 10 Jul 2022 15:09:37 +0000</pubDate>
-      </item><item>
-        <title>new note (near Velemér) / * 2022 July 10 15:09 szotsaki Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/430410830 via StreetComplete 43.2: / Temetői kiszolgálóépület / Attached photo(s): / https://westnordost.de/p/101695.jpg</title>
-        <link>https://www.openstreetmap.org/note/3260289#c6992164</link>
-        <guid>https://www.openstreetmap.org/note/3260289#c6992164</guid>
-        <pubDate>Sun, 10 Jul 2022 15:09:35 +0000</pubDate>
       </item>
   </channel>
 </rss>
