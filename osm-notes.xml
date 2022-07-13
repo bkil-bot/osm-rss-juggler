@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Tóközpuszta, Zamárdi) / * 2022 July 13 20:17 vasony Resolved: köszi, javítottam. old_name lett az utca.</title>
+        <link>https://www.openstreetmap.org/note/3236446#c7003600</link>
+        <guid>https://www.openstreetmap.org/note/3236446#c7003600</guid>
+        <pubDate>Wed, 13 Jul 2022 20:17:56 +0000</pubDate>
+      </item><item>
         <title>new comment (near Belváros, Siófok) / * 2022 June 22 16:58 vasony Created: Szűcs utca vagy Szücs utca szerepel az utcatáblán? / * 2022 July 13 19:19 OSM KAMI Updated: Szűcs / De valami M-re is van hivatkozás / Attached photo(s): / https://westnordost.de/p/102359.jpg / https://westnordost.de/p/102360.jpg</title>
         <link>https://www.openstreetmap.org/note/3236403#c7003503</link>
         <guid>https://www.openstreetmap.org/note/3236403#c7003503</guid>
@@ -202,11 +207,6 @@
         <link>https://www.openstreetmap.org/note/3237398#c6997993</link>
         <guid>https://www.openstreetmap.org/note/3237398#c6997993</guid>
         <pubDate>Mon, 11 Jul 2022 22:39:34 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Felsőgöd, Göd) / * 2022 June 25 23:43 bkil Created: Jósika 14 alatt van fagyizó? / * 2022 July 11 20:41 bkil Resolved: Probably higher north according to wifi</title>
-        <link>https://www.openstreetmap.org/note/3240470#c6997698</link>
-        <guid>https://www.openstreetmap.org/note/3240470#c6997698</guid>
-        <pubDate>Mon, 11 Jul 2022 20:41:21 +0000</pubDate>
       </item>
   </channel>
 </rss>
