@@ -3,6 +3,31 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Sóstó, Siófok) / * 2022 July 13 21:20 vasony Created: Szilágyi Erzsébet utca és fasor is van?</title>
+        <link>https://www.openstreetmap.org/note/3265950#c7003748</link>
+        <guid>https://www.openstreetmap.org/note/3265950#c7003748</guid>
+        <pubDate>Wed, 13 Jul 2022 21:20:43 +0000</pubDate>
+      </item><item>
+        <title>new note (near Belváros, Siófok) / * 2022 July 13 21:19 vasony Created: Szabadség térből Fő tér lett?</title>
+        <link>https://www.openstreetmap.org/note/3265949#c7003746</link>
+        <guid>https://www.openstreetmap.org/note/3265949#c7003746</guid>
+        <pubDate>Wed, 13 Jul 2022 21:19:31 +0000</pubDate>
+      </item><item>
+        <title>new note (near Balatonszéplak, Siófok) / * 2022 July 13 21:10 vasony Created: Zichy Miklós és Zichy Mihály egymás mellett? Ellenőrizendő</title>
+        <link>https://www.openstreetmap.org/note/3265940#c7003730</link>
+        <guid>https://www.openstreetmap.org/note/3265940#c7003730</guid>
+        <pubDate>Wed, 13 Jul 2022 21:10:27 +0000</pubDate>
+      </item><item>
+        <title>new note (near Belváros, Siófok) / * 2022 July 13 21:08 vasony Created: Felülvizsgálandó, hogy Somogyi és Zúgó utca között tényleg így jön-e: / Somogyi -&amp;gt; Zúgó köz -&amp;gt; Somogyi Bacsó utca -&amp;gt; Zúgó utca.</title>
+        <link>https://www.openstreetmap.org/note/3265939#c7003726</link>
+        <guid>https://www.openstreetmap.org/note/3265939#c7003726</guid>
+        <pubDate>Wed, 13 Jul 2022 21:08:26 +0000</pubDate>
+      </item><item>
+        <title>new note (near Szabadifürdő, Siófok) / * 2022 July 13 20:35 vasony Created: Csík Ferenc utca vagy Csik Ferenc utca? / Mindkét utcarész mindkét felén érdemes megnézni a táblákat</title>
+        <link>https://www.openstreetmap.org/note/3265913#c7003663</link>
+        <guid>https://www.openstreetmap.org/note/3265913#c7003663</guid>
+        <pubDate>Wed, 13 Jul 2022 20:35:29 +0000</pubDate>
+      </item><item>
         <title>closed note (near Tóközpuszta, Zamárdi) / * 2022 July 13 20:17 vasony Resolved: köszi, javítottam. old_name lett az utca.</title>
         <link>https://www.openstreetmap.org/note/3236446#c7003600</link>
         <guid>https://www.openstreetmap.org/note/3236446#c7003600</guid>
@@ -182,31 +207,6 @@
         <link>https://www.openstreetmap.org/note/3247479#c6997998</link>
         <guid>https://www.openstreetmap.org/note/3247479#c6997998</guid>
         <pubDate>Mon, 11 Jul 2022 22:39:37 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Balatonföldvár) / * 2022 June 22 17:52 vasony Created: Kemping utca vagy Camping utca szerepel az utcatáblán? / * 2022 July 11 22:39 urbalazs Resolved: Az utcatáblán Camping utca van, az épületeken vegyesen Camping és Kemping.</title>
-        <link>https://www.openstreetmap.org/note/3236479#c6997997</link>
-        <guid>https://www.openstreetmap.org/note/3236479#c6997997</guid>
-        <pubDate>Mon, 11 Jul 2022 22:39:37 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Balatonföldvár) / * 2022 June 22 17:53 vasony Created: Gárdonyi utca vagy Gárdonyi Géza utca szerepel az utcatáblán? / * 2022 July 11 22:39 urbalazs Resolved: Gárdonyi Géza utca, javítottam a nevet.</title>
-        <link>https://www.openstreetmap.org/note/3236480#c6997996</link>
-        <guid>https://www.openstreetmap.org/note/3236480#c6997996</guid>
-        <pubDate>Mon, 11 Jul 2022 22:39:36 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Balatonföldvár) / * 2022 July 1 11:17 vasony-qa Created: Balatonföldvár, Séta út, vagy utca? Most különböző a 2 oldalon, illetve a szántódi rész is ellenőrizendő. / * 2022 July 11 22:39 urbalazs Resolved: Séta utca az utca és nem út, egy tulaj szerint az épületek Szántódon vannak, az épületek előtti árok a határ, de az utca Balatonföldváron van.</title>
-        <link>https://www.openstreetmap.org/note/3247469#c6997995</link>
-        <guid>https://www.openstreetmap.org/note/3247469#c6997995</guid>
-        <pubDate>Mon, 11 Jul 2022 22:39:35 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Balatonföldvár) / * 2022 July 1 00:35 urbalazs Created: Báthori István utca vagy Báthory István utca? Érdemes végignézni minden utcasarkot, mert mintha mindkettőt láttam volna. / * 2022 July 11 22:39 urbalazs Resolved: Báthori István utca I-vel van írva, beszéltem egy tulajdonossal, a tulajdoni lapján is így van.</title>
-        <link>https://www.openstreetmap.org/note/3246991#c6997994</link>
-        <guid>https://www.openstreetmap.org/note/3246991#c6997994</guid>
-        <pubDate>Mon, 11 Jul 2022 22:39:35 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Balatonföldvár) / * 2022 June 23 12:30 urbalazs Created: Séta út vagy Séta utca? Figyelj, a 7-es úton túl is folytatódik. / * 2022 July 11 22:39 urbalazs Resolved: Séta utca van kitáblázva.</title>
-        <link>https://www.openstreetmap.org/note/3237398#c6997993</link>
-        <guid>https://www.openstreetmap.org/note/3237398#c6997993</guid>
-        <pubDate>Mon, 11 Jul 2022 22:39:34 +0000</pubDate>
       </item>
   </channel>
 </rss>
