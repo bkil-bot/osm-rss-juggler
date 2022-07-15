@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Posting file via cURL: You need the @ symbol even with full path. Code: curl -i -H Accept:application/json -u &amp;lt;api name&amp;gt;:&amp;lt;api token&amp;gt; --basic -F file=@/home/hal/.kismet/logs/active/Kismet-20220715-08-06-07-1.wiglecsv -F donate=true https://api.wigle.net/api/v2/file/uploadHTTP/1.1 400 Bad RequestServer: nginx/1.20.0Date: Fri, 15 Jul 2022 08:43:48 GMTContent-Type: application/jsonContent-Length: 45Connection: keep-alive{&quot;code&quot;:400,&quot;message&quot;:&quot;HTTP 400 Bad Request&quot;} -Binary_Buddha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11279#p11279</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11279#p11279</guid>
+        <pubDate>2022-07-15T08:46:49</pubDate>
+      </item><item>
         <title>Re: Car antenna mount position suggestions?: Hi At one moment, I was putting the gps on the roof of my car; I was closing the door on the cable. There is rubber to make joint. So it is not too much compressed. But it is a little anyway. I coulnd't have done that too often without damaging the cable I guess. but this is a USB cable. May be your antenna cable is thinner and would sustain less damaged when taken in the door joint.May be try with a diffrent cable too see how it goes first... but not I never mounted a wifi antenna on the roof. as it is not a very discrete setup Hey! Thanks for the reply. Yeah, I had an idea that it could maybe be done like this. And yes, you're right, it isn't that discrete. I don't want to go around looking like an unmarked police car. haha. I guess I could have a look to see if I can mount them inside near the back window inside the car. Cheers! -T100</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11264#p11264</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11264#p11264</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11183#p11183</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11183#p11183</guid>
         <pubDate>2022-02-20T12:10:52</pubDate>
-      </item><item>
-        <title>Re: Rasberry Pi: Woot, completely missed the overlay news, will check it out on the RPI Zero and report back, it was a real struggle to strip it down until now. -strasharo</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11167#p11167</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11167#p11167</guid>
-        <pubDate>2022-02-08T17:04:50</pubDate>
       </item>
   </channel>
 </rss>
