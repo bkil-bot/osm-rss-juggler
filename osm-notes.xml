@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Vokány) / * 2022 July 17 08:00 Guzsvány Máté Created: Innen (pontosan) van egy 30-as tábla befele Vókány felé</title>
+        <link>https://www.openstreetmap.org/note/3270621#c7013388</link>
+        <guid>https://www.openstreetmap.org/note/3270621#c7013388</guid>
+        <pubDate>Sun, 17 Jul 2022 08:00:14 +0000</pubDate>
+      </item><item>
         <title>closed note (near Fancsal) / * 2022 July 5 10:09 vasi79 Created: Esőbeálló paddal, asztallal / * 2022 July 17 05:53 bkil Resolved: done https://www.openstreetmap.org/changeset/123708554</title>
         <link>https://www.openstreetmap.org/note/3252708#c7013202</link>
         <guid>https://www.openstreetmap.org/note/3252708#c7013202</guid>
@@ -227,11 +232,6 @@
         <link>https://www.openstreetmap.org/note/3267020#c7005640</link>
         <guid>https://www.openstreetmap.org/note/3267020#c7005640</guid>
         <pubDate>Thu, 14 Jul 2022 14:39:13 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Lövő) / * 2022 July 11 08:45 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: There&amp;#39;s a speed camera. / * 2022 July 14 11:49 gymko Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3261166#c7005189</link>
-        <guid>https://www.openstreetmap.org/note/3261166#c7005189</guid>
-        <pubDate>Thu, 14 Jul 2022 11:49:59 +0000</pubDate>
       </item>
   </channel>
 </rss>
