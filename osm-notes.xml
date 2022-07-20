@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Kövesd, Csopak) / * 2022 July 20 07:43 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: There&amp;#39;s a drinking water.</title>
+        <link>https://www.openstreetmap.org/note/3275052#c7023557</link>
+        <guid>https://www.openstreetmap.org/note/3275052#c7023557</guid>
+        <pubDate>Wed, 20 Jul 2022 07:43:02 +0000</pubDate>
+      </item><item>
         <title>closed note (near Belváros, Szeged) / * 2022 July 17 00:32 CopperOppositeKindred Created: Unable to answer &amp;quot;What are the opening hours here?&amp;quot; for https://osm.org/node/6296251885 via StreetComplete 43.2: / Üresen áll, elköltözött / Attached photo(s): / https://westnordost.de/p/102862.jpg / * 2022 July 19 20:50 bkil Resolved: Done https://osm.org/changeset/123824065#map=15/46.2518/20.1483</title>
         <link>https://www.openstreetmap.org/note/3270419#c7022656</link>
         <guid>https://www.openstreetmap.org/note/3270419#c7022656</guid>
@@ -172,21 +177,6 @@
         <link>https://www.openstreetmap.org/note/3270411#c7012869</link>
         <guid>https://www.openstreetmap.org/note/3270411#c7012869</guid>
         <pubDate>Sun, 17 Jul 2022 00:31:52 +0000</pubDate>
-      </item><item>
-        <title>new note (near Kállayliget, Marostő, Szeged) / * 2022 July 17 00:31 CopperOppositeKindred Created: Unable to answer &amp;quot;What’s the surface here?&amp;quot; for https://osm.org/way/780225322 via StreetComplete 43.2: / Nem létezik. Kicsit kitaposott magas fű van a helyén</title>
-        <link>https://www.openstreetmap.org/note/3270410#c7012868</link>
-        <guid>https://www.openstreetmap.org/note/3270410#c7012868</guid>
-        <pubDate>Sun, 17 Jul 2022 00:31:51 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Délnyugat Lakópark, Újszentiván) / * 2022 May 5 14:05 CopperOppositeKindred Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/667849832 via StreetComplete 42.0: / Rehabilitációs panzió. / Attached photo(s): / https://westnordost.de/p/92069.jpg / https://westnordost.de/p/92070.jpg / * 2022 July 17 00:13 CopperOppositeKindred Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3166477#c7012850</link>
-        <guid>https://www.openstreetmap.org/note/3166477#c7012850</guid>
-        <pubDate>Sun, 17 Jul 2022 00:13:55 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Délnyugat Lakópark, Újszentiván) / * 2022 May 16 15:46 Created: Unable to answer &amp;quot;What’s this pole made of?&amp;quot; for https://osm.org/node/7212603658 via StreetComplete 43.0: / Idáig nem létezik / * 2022 July 17 00:13 CopperOppositeKindred Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3182095#c7012849</link>
-        <guid>https://www.openstreetmap.org/note/3182095#c7012849</guid>
-        <pubDate>Sun, 17 Jul 2022 00:13:48 +0000</pubDate>
       </item>
   </channel>
 </rss>
