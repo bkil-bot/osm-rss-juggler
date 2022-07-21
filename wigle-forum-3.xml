@@ -3,11 +3,6 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
-        <title>Re: [Android] Driving Speed / Best scan settings for speed?: Thank you very much. Your post presented me with a wealth of information, allowing me to broaden my horizons. -marryjanes</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11286#p11286</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11286#p11286</guid>
-        <pubDate>2022-07-21T03:12:13</pubDate>
-      </item><item>
         <title>Re: Posting file via cURL: NVM that worked... must have been a network issue. -Binary_Buddha</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11283#p11283</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11283#p11283</guid>
@@ -77,6 +72,11 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11187#p11187</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11187#p11187</guid>
         <pubDate>2022-02-23T17:46:24</pubDate>
+      </item><item>
+        <title>Has anyone run WiGLE inside the windows 11 android subsystem?: I think the subsystem is hiding the wifi SSIDs. Can't see anything. Or do I need to tweak settings in Windows for this to work? -blackbirdactual</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11186#p11186</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11186#p11186</guid>
+        <pubDate>2022-02-22T22:14:14</pubDate>
       </item>
   </channel>
 </rss>
