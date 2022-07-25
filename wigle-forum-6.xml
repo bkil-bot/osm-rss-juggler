@@ -3,6 +3,11 @@
   <channel>
     <title>WiGLE Frontpage (via bkil-bot)</title>
       <item>
+        <title>Re: Pixel update RQ3A.210905.001 breaks GPS: When I started with WiGLE, I had a similar problem with my Xiaomi Redmi Note 8 Pro. Same problem also with the Note 11 Pro. WiGLE stopped working when it was not in the foreground, i.e. on screen. Problem is that Xiaomi has implemented some powersaving measures, one of them being giving background processes none, or little, processing time. I solved that by browing the settings: Privacy_protection-&amp;gt;Special_permissions-&amp;gt;Battery_optimization-&amp;gt;WiGLE_WiFi_Wardriving, and select &quot;Don't optimize&quot; there. This allows the app to stay active in the background. Also check this: long press the 'Wigle WiFi' icon, select 'App info' there, Select 'Batteru saver', and select 'No restrictions' there. Now my WiGLE always runs as it should do. This will probably be so on most Xiaomi phones, and even most phones running the MIUI user interface. -josn</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11291#p11291</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11291#p11291</guid>
+        <pubDate>2022-07-25T15:47:20</pubDate>
+      </item><item>
         <title>Re: Massive re-trilateration effort in progress: That's good to hear, for years now I've noticed locations appearing in areas that seemed unlikely (deep in swamps), trilateration is not an easy calculation so it was not too surprising given all the variables in everyone's &quot;measurements&quot;. This will be very nice to see, thank you! -ecramp</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11276#p11276</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11276#p11276</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11064#p11064</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11064#p11064</guid>
         <pubDate>2021-09-21T00:07:22</pubDate>
-      </item><item>
-        <title>Pixel update RQ3A.210905.001 breaks GPS: GPS no longer updates when the device is locked after upgrading Pixel devices to RQ3A.210905.001. (Android 11 September). Beware, upgrades will render your devices unusable for stumbling. We are researching options. -arkasha</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11048#p11048</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11048#p11048</guid>
-        <pubDate>2021-09-16T05:30:13</pubDate>
       </item>
   </channel>
 </rss>
