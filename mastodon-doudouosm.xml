@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>Elements of a #Map. There are eight key elements that should be included each time a map is created in order to aid the viewer. If north arrow and scale bar pop to mind, you’d be right. What are the other six? https://www.gislounge.com/whats-in-a-map/</title>
+        <link>https://en.osm.town/@Doudouosm/108709551763254090</link>
+        <guid>https://en.osm.town/@Doudouosm/108709551763254090</guid>
+        <pubDate>Mon, 25 Jul 2022 19:08:39 +0000</pubDate>
+      </item><item>
         <title>#OpenStreetMap Belgium’s Mapper of the Month #MotM goes back home to let us get to know Ivan Lievens from Belgium: https://openstreetmap.be/en/motm/2022/07/01/ivan-lievens.html.</title>
         <link>https://en.osm.town/@Doudouosm/108573918401167861</link>
         <guid>https://en.osm.town/@Doudouosm/108573918401167861</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/108261840334821585</link>
         <guid>https://en.osm.town/@Doudouosm/108261840334821585</guid>
         <pubDate>Sat, 07 May 2022 17:29:45 +0000</pubDate>
-      </item><item>
-        <title>On The Go Map is a route planner for running, walking, biking, or driving where you can plot your route points, see the elevation, and share the map: https://onthegomap.com. Powered by #OpenStreetMap. #onthegomap</title>
-        <link>https://en.osm.town/@Doudouosm/108260065007034972</link>
-        <guid>https://en.osm.town/@Doudouosm/108260065007034972</guid>
-        <pubDate>Sat, 07 May 2022 09:58:15 +0000</pubDate>
       </item>
   </channel>
 </rss>

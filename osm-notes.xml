@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Őrmező, 11th district) / * 2022 April 11 08:45 vasony Created: Kutyafuttató, felmérendő pontosan melyik részen / * 2022 July 25 18:44 vasony Resolved: felmérve</title>
+        <link>https://www.openstreetmap.org/note/3128548#c7040661</link>
+        <guid>https://www.openstreetmap.org/note/3128548#c7040661</guid>
+        <pubDate>Mon, 25 Jul 2022 18:44:39 +0000</pubDate>
+      </item><item>
         <title>closed note (near Albertfalva, 11th district) / * 2022 March 6 19:31 vasony Created: Fel van cserélve a 2 oldal, KCR szerint újra lett számozva. Ellenőrizendő! / * 2022 July 25 17:07 vasony Resolved: az a pár szám ami kint van egyezik az osmmel</title>
         <link>https://www.openstreetmap.org/note/3077176#c7040412</link>
         <guid>https://www.openstreetmap.org/note/3077176#c7040412</guid>
@@ -222,11 +227,6 @@
         <link>https://www.openstreetmap.org/note/3276931#c7027322</link>
         <guid>https://www.openstreetmap.org/note/3276931#c7027322</guid>
         <pubDate>Thu, 21 Jul 2022 13:00:49 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Kiskanizsa, Nagykanizsa) / * 2022 July 21 06:56 mnalis ALTernative Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3276384#c7026363</link>
-        <guid>https://www.openstreetmap.org/note/3276384#c7026363</guid>
-        <pubDate>Thu, 21 Jul 2022 06:56:40 +0000</pubDate>
       </item>
   </channel>
 </rss>
