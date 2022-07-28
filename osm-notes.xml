@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Belváros, Gyor) / * 2022 July 28 09:50 balint36 Updated: Vegyesen Bárthory és Bátory utca, de számos nyilvántartásban Báthori.</title>
+        <link>https://www.openstreetmap.org/note/3096177#c7049675</link>
+        <guid>https://www.openstreetmap.org/note/3096177#c7049675</guid>
+        <pubDate>Thu, 28 Jul 2022 09:50:00 +0000</pubDate>
+      </item><item>
         <title>new note (near Ringtelep, Diósd) / * 2022 July 28 07:28 vtibi Created: átjáró lezárva</title>
         <link>https://www.openstreetmap.org/note/3286936#c7049171</link>
         <guid>https://www.openstreetmap.org/note/3286936#c7049171</guid>
@@ -337,26 +342,6 @@
         <link>https://www.openstreetmap.org/note/3265939#c7045241</link>
         <guid>https://www.openstreetmap.org/note/3265939#c7045241</guid>
         <pubDate>Wed, 27 Jul 2022 04:49:36 +0000</pubDate>
-      </item><item>
-        <title>reactivated note (near Belváros, Siófok) / * 2022 July 27 04:49 vasony Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/3265939#c7045240</link>
-        <guid>https://www.openstreetmap.org/note/3265939#c7045240</guid>
-        <pubDate>Wed, 27 Jul 2022 04:49:22 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Belváros, Siófok) / * 2022 July 27 04:48 vasony Resolved: Somlói lett, átjavítom Somogyira.</title>
-        <link>https://www.openstreetmap.org/note/3265939#c7045237</link>
-        <guid>https://www.openstreetmap.org/note/3265939#c7045237</guid>
-        <pubDate>Wed, 27 Jul 2022 04:48:59 +0000</pubDate>
-      </item><item>
-        <title>reactivated note (near Belváros, Siófok) / * 2022 July 13 21:08 vasony Created: Felülvizsgálandó, hogy Somogyi és Zúgó utca között tényleg így jön-e: / Somogyi -&amp;gt; Zúgó köz -&amp;gt; Somogyi Bacsó utca -&amp;gt; Zúgó utca. / * 2022 July 26 17:32 urbalazs Resolved: Javítottam: Somogyi utca -&amp;gt; Zúgó utca, és abból ágazik el a Zúgó köz. / * 2022 July 27 04:48 vasony Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/3265939#c7045236</link>
-        <guid>https://www.openstreetmap.org/note/3265939#c7045236</guid>
-        <pubDate>Wed, 27 Jul 2022 04:48:49 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Balatonszéplak, Siófok) / * 2022 July 14 18:35 Kovács Zsófi Created: Unable to answer &amp;quot;What kind of crossing is this?&amp;quot; for https://osm.org/node/1260820240 via StreetComplete 45.0: / Ezen a helyen nincs gyalogátkelőhely. / Attached photo(s): / https://westnordost.de/p/102496.jpg / https://westnordost.de/p/102497.jpg / https://westnordost.de/p/102498.jpg / * 2022 July 26 23:35 urbalazs Resolved: Töröltem a nem létező gyalogátkelőt.</title>
-        <link>https://www.openstreetmap.org/note/3267324#c7045038</link>
-        <guid>https://www.openstreetmap.org/note/3267324#c7045038</guid>
-        <pubDate>Tue, 26 Jul 2022 23:35:23 +0000</pubDate>
       </item>
   </channel>
 </rss>
