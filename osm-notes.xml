@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Belváros, Gyor) / * 2022 July 28 04:16 vasony Updated: A márciusi utcakép alapján nem úgy tűnik, ezért kérdeztem, hogy mi szerepel a táblán.</title>
+        <link>https://www.openstreetmap.org/note/3096177#c7048844</link>
+        <guid>https://www.openstreetmap.org/note/3096177#c7048844</guid>
+        <pubDate>Thu, 28 Jul 2022 04:16:20 +0000</pubDate>
+      </item><item>
+        <title>reactivated note (near Belváros, Gyor) / * 2022 March 21 08:25 vasony-qa Created: Báthori utca vagy Báthori út szerepel az utcatáblán? / * 2022 July 27 22:39 balint36 Resolved: Az utca neve Báthori utca, a 11-es busz megállóját is így írják. / * 2022 July 28 04:15 vasony Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/3096177#c7048843</link>
+        <guid>https://www.openstreetmap.org/note/3096177#c7048843</guid>
+        <pubDate>Thu, 28 Jul 2022 04:15:32 +0000</pubDate>
+      </item><item>
         <title>closed note (near Sándortelep, Fonyód) / * 2022 July 26 13:08 Guzsvány Máté Created: Útépítés a keresztezésben, de nem teljes szélességben Csisztai út felől / * 2022 July 27 22:52 urbalazs Resolved: Köszönjük a jelzést, de az ilyen építkezéseket nem szoktuk jelölni a térképen, főleg akkor nem, ha egyébként a megszokott forgalmat nem akadályozza.</title>
         <link>https://www.openstreetmap.org/note/3284064#c7048419</link>
         <guid>https://www.openstreetmap.org/note/3284064#c7048419</guid>
@@ -362,11 +372,6 @@
         <link>https://www.openstreetmap.org/note/3265949#c7045032</link>
         <guid>https://www.openstreetmap.org/note/3265949#c7045032</guid>
         <pubDate>Tue, 26 Jul 2022 23:35:20 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Újhely, Siófok) / * 2022 June 25 09:27 Gaurdein Created: Unable to answer &amp;quot;What are the opening hours here?&amp;quot; for https://osm.org/node/2945306651 via StreetComplete 43.2: / THERMOWIN Nyílászáró és árnyékolástechnika / * 2022 July 26 23:35 urbalazs Resolved: Átjavítottam a boltot.</title>
-        <link>https://www.openstreetmap.org/note/3239669#c7045031</link>
-        <guid>https://www.openstreetmap.org/note/3239669#c7045031</guid>
-        <pubDate>Tue, 26 Jul 2022 23:35:19 +0000</pubDate>
       </item>
   </channel>
 </rss>
