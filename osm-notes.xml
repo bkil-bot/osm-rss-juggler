@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Szentimreváros, 11th district) / * 2022 July 18 01:59 Created: Hotel Gellert is closed / since December 2021. / * 2022 July 29 15:32 vasony Resolved: already markes as closed</title>
+        <link>https://www.openstreetmap.org/note/3272126#c7054233</link>
+        <guid>https://www.openstreetmap.org/note/3272126#c7054233</guid>
+        <pubDate>Fri, 29 Jul 2022 15:32:49 +0000</pubDate>
+      </item><item>
         <title>new note (near Bóbica, Letenye) / * 2022 July 29 13:58 mnalis ALTernative Created: old disused, both border controls now at croatian side</title>
         <link>https://www.openstreetmap.org/note/3289282#c7053822</link>
         <guid>https://www.openstreetmap.org/note/3289282#c7053822</guid>
@@ -217,21 +222,6 @@
         <link>https://www.openstreetmap.org/note/3287300#c7049972</link>
         <guid>https://www.openstreetmap.org/note/3287300#c7049972</guid>
         <pubDate>Thu, 28 Jul 2022 11:40:50 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Bánréve) / * 2022 July 28 11:04 GlobeKeeper Resolved: Žiadna kontrola - vnútorné hranice schengenu</title>
-        <link>https://www.openstreetmap.org/note/2400585#c7049877</link>
-        <guid>https://www.openstreetmap.org/note/2400585#c7049877</guid>
-        <pubDate>Thu, 28 Jul 2022 11:04:20 +0000</pubDate>
-      </item><item>
-        <title>reactivated note (near Bánréve) / * 2022 July 28 11:03 GlobeKeeper Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/2400585#c7049873</link>
-        <guid>https://www.openstreetmap.org/note/2400585#c7049873</guid>
-        <pubDate>Thu, 28 Jul 2022 11:03:44 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Bánréve) / * 2020 October 26 16:03 Mamutinka Created: #Mapy.cz user reports: železniční hraniční přechod Lenartovce – Bánréve SK / HU / * 2022 July 28 11:03 GlobeKeeper Resolved: Tu nie je kontrola - Vnútorné hranice schengenu</title>
-        <link>https://www.openstreetmap.org/note/2400585#c7049870</link>
-        <guid>https://www.openstreetmap.org/note/2400585#c7049870</guid>
-        <pubDate>Thu, 28 Jul 2022 11:03:35 +0000</pubDate>
       </item>
   </channel>
 </rss>
