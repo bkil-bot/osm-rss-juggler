@@ -3,6 +3,31 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Kelenföld, 11th district) / * 2022 July 28 18:53 Jolesh Created: gate / via StreetComplete 45.1 / * 2022 July 31 22:49 bkil Resolved: Fixed in https://osm.org/changeset/124320558#map=19/47.45678/19.04430</title>
+        <link>https://www.openstreetmap.org/note/3287955#c7061704</link>
+        <guid>https://www.openstreetmap.org/note/3287955#c7061704</guid>
+        <pubDate>Sun, 31 Jul 2022 22:49:52 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Kelenföld, 11th district) / * 2022 July 28 18:53 Jolesh Created: gate / via StreetComplete 45.1 / * 2022 July 31 22:49 bkil Resolved: Fixed in https://osm.org/changeset/124320558#map=19/47.45678/19.04430</title>
+        <link>https://www.openstreetmap.org/note/3287956#c7061703</link>
+        <guid>https://www.openstreetmap.org/note/3287956#c7061703</guid>
+        <pubDate>Sun, 31 Jul 2022 22:49:52 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Kelenföld, 11th district) / * 2022 July 28 18:51 Jolesh Created: missing road / via StreetComplete 45.1 / * 2022 July 31 22:49 bkil Resolved: Fixed in https://osm.org/changeset/124320558#map=19/47.45678/19.04430</title>
+        <link>https://www.openstreetmap.org/note/3287952#c7061702</link>
+        <guid>https://www.openstreetmap.org/note/3287952#c7061702</guid>
+        <pubDate>Sun, 31 Jul 2022 22:49:51 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Szentmihály, Szeged) / * 2022 July 31 22:38 bkil Updated: Ezt a jellemzőt attól még sokan megadják: http://wiki.osm.org/Key:sidewalk</title>
+        <link>https://www.openstreetmap.org/note/3182082#c7061686</link>
+        <guid>https://www.openstreetmap.org/note/3182082#c7061686</guid>
+        <pubDate>Sun, 31 Jul 2022 22:38:24 +0000</pubDate>
+      </item><item>
+        <title>reactivated note (near Szentmihály, Szeged) / * 2022 July 31 22:37 bkil Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/3182082#c7061683</link>
+        <guid>https://www.openstreetmap.org/note/3182082#c7061683</guid>
+        <pubDate>Sun, 31 Jul 2022 22:37:34 +0000</pubDate>
+      </item><item>
         <title>closed note (near Tápé, Szeged) / * 2022 July 8 11:20 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: Restaurant no longer exists. / https://www.openstreetmap.org/way/610823473 / * 2022 July 31 18:36 gabro00 Resolved: It is open according to multiple sources on the internet: / https://www.facebook.com/diofa.vendeglo.szeged/ / https://www.foodpanda.hu/restaurant/e0rv/diofa-vendeglo</title>
         <link>https://www.openstreetmap.org/note/3256992#c7061061</link>
         <guid>https://www.openstreetmap.org/note/3256992#c7061061</guid>
@@ -257,11 +282,6 @@
         <link>https://www.openstreetmap.org/note/3165744#c7053398</link>
         <guid>https://www.openstreetmap.org/note/3165744#c7053398</guid>
         <pubDate>Fri, 29 Jul 2022 11:19:40 +0000</pubDate>
-      </item><item>
-        <title>new note (near City Park, 14th district) / * 2022 July 29 10:58 Jolesh Created: steps / via StreetComplete 45.1</title>
-        <link>https://www.openstreetmap.org/note/3288949#c7053297</link>
-        <guid>https://www.openstreetmap.org/note/3288949#c7053297</guid>
-        <pubDate>Fri, 29 Jul 2022 10:58:24 +0000</pubDate>
       </item>
   </channel>
 </rss>
