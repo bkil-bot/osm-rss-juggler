@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Tápé, Szeged) / * 2022 July 8 11:20 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: Restaurant no longer exists. / https://www.openstreetmap.org/way/610823473 / * 2022 July 31 18:36 gabro00 Resolved: It is open according to multiple sources on the internet: / https://www.facebook.com/diofa.vendeglo.szeged/ / https://www.foodpanda.hu/restaurant/e0rv/diofa-vendeglo</title>
+        <link>https://www.openstreetmap.org/note/3256992#c7061061</link>
+        <guid>https://www.openstreetmap.org/note/3256992#c7061061</guid>
+        <pubDate>Sun, 31 Jul 2022 18:36:21 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Nedelykovtanya, Szeged) / * 2022 July 8 11:19 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: This is no observation tower for public. / https://www.openstreetmap.org/node/7929437883 / * 2022 July 31 18:24 gabro00 Resolved: I changed the access to private.</title>
+        <link>https://www.openstreetmap.org/note/3256987#c7060993</link>
+        <guid>https://www.openstreetmap.org/note/3256987#c7060993</guid>
+        <pubDate>Sun, 31 Jul 2022 18:24:08 +0000</pubDate>
+      </item><item>
         <title>new comment (near Bodom, Szentmihály, Szeged) / * 2022 May 16 15:46 Created: A Bodomi út és a zsák Köz között a járda messzebb van az úttól, és igazából az van kivilágítva / via StreetComplete 43.0 / * 2022 May 29 16:54 gabro00 Resolved: Felvettem. / * 2022 June 4 09:12 CopperOppositeKindred Reactivated:  / * 2022 June 4 09:12 CopperOppositeKindred Updated: A szérűskert sor járdájára gondoltam, annak a Zsák köz és Bodomi út közti részére. Viszont ha felvesszük a járdát, akkor vegyük fel a Mikes Kelemen utcáig; úgy emlékszem azért írtam az eredeti megjegyzésben hogy a Bodomi útig, mert csak odáig volt kivilágítva a járda. / Bocsi, az SC úgy látszik sokszor rossz helyre teszi valamiért a megjegyzést a térképen, attól függetlenül hogy nálama  térképen hol látszik. / * 2022 June 7 19:26 gabro00 Updated: Kérlek barátkozz meg a szerkesztéssel, mert nagyon sok jegyzetet hoztál létre és csak gyűlnek megoldás nélkül. Országszerte rengeteg ilyenbe botolhat az ember, amik idővel elavulnak és újra meg kell nézni aktuális-e még, tehát hasznuk az idő múlásával exponenciálisan csökken és egyéb fontosabb dolgokról tereli el a figyelmet. / * 2022 June 8 08:38 CopperOppositeKindred Updated: Szerkesztek folyamatosan, bocsi a sok jegyzetért, igyekszem megoldani ezeket. / A környéken sokat csak véletlen töltöttem fel hibakeresés közben, remélhetőleg ez nem fog máskor előfordulni. / * 2022 July 31 18:19 gabro00 Updated: Zárható?</title>
         <link>https://www.openstreetmap.org/note/3182081#c7060974</link>
         <guid>https://www.openstreetmap.org/note/3182081#c7060974</guid>
@@ -252,11 +262,6 @@
         <link>https://www.openstreetmap.org/note/3288949#c7053297</link>
         <guid>https://www.openstreetmap.org/note/3288949#c7053297</guid>
         <pubDate>Fri, 29 Jul 2022 10:58:24 +0000</pubDate>
-      </item><item>
-        <title>new note (near City Park, 14th district) / * 2022 July 29 10:17 Jolesh Created: missing path / via StreetComplete 45.1</title>
-        <link>https://www.openstreetmap.org/note/3288834#c7053099</link>
-        <guid>https://www.openstreetmap.org/note/3288834#c7053099</guid>
-        <pubDate>Fri, 29 Jul 2022 10:17:00 +0000</pubDate>
       </item>
   </channel>
 </rss>
