@@ -3,6 +3,31 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Nagyharsány) / * 2022 August 1 11:12 Created: Naponta 14 és 04 óra között lezárják a kereszteződést</title>
+        <link>https://www.openstreetmap.org/note/3293786#c7062871</link>
+        <guid>https://www.openstreetmap.org/note/3293786#c7062871</guid>
+        <pubDate>Mon, 01 Aug 2022 11:12:42 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Istvánmező, 14th district) / * 2022 July 31 14:29 ottwiz Created: itt amugy rendes jarda van / * 2022 August 1 10:45 ottwiz Resolved: megvan</title>
+        <link>https://www.openstreetmap.org/note/3292434#c7062803</link>
+        <guid>https://www.openstreetmap.org/note/3292434#c7062803</guid>
+        <pubDate>Mon, 01 Aug 2022 10:45:08 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Istvánmező, 14th district) / * 2022 July 31 14:30 ottwiz Created: idáig tart a járda / * 2022 August 1 10:45 ottwiz Resolved: megvan</title>
+        <link>https://www.openstreetmap.org/note/3292436#c7062802</link>
+        <guid>https://www.openstreetmap.org/note/3292436#c7062802</guid>
+        <pubDate>Mon, 01 Aug 2022 10:45:07 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Istvánmező, 14th district) / * 2022 July 31 14:31 ottwiz Created: van itt egy pad / * 2022 August 1 10:45 ottwiz Resolved: megvan</title>
+        <link>https://www.openstreetmap.org/note/3292437#c7062801</link>
+        <guid>https://www.openstreetmap.org/note/3292437#c7062801</guid>
+        <pubDate>Mon, 01 Aug 2022 10:45:07 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Istvánmező, 14th district) / * 2022 July 31 14:32 ottwiz Created: 2 pad de nincs kuka / * 2022 August 1 10:45 ottwiz Resolved: megvan</title>
+        <link>https://www.openstreetmap.org/note/3292438#c7062800</link>
+        <guid>https://www.openstreetmap.org/note/3292438#c7062800</guid>
+        <pubDate>Mon, 01 Aug 2022 10:45:07 +0000</pubDate>
+      </item><item>
         <title>new note (near Hanfland, Szabadsághegy, Csobánka) / * 2022 August 1 08:46 GBAB Created: lepcso</title>
         <link>https://www.openstreetmap.org/note/3293590#c7062416</link>
         <guid>https://www.openstreetmap.org/note/3293590#c7062416</guid>
@@ -257,11 +282,6 @@
         <link>https://www.openstreetmap.org/note/3289217#c7053739</link>
         <guid>https://www.openstreetmap.org/note/3289217#c7053739</guid>
         <pubDate>Fri, 29 Jul 2022 13:40:36 +0000</pubDate>
-      </item><item>
-        <title>new note (near Egyeduta, Letenye) / * 2022 July 29 12:07 mnalis ALTernative Created: Unable to answer &amp;quot;Is the water potable here?&amp;quot; for https://osm.org/node/7580124310 via StreetComplete 45.0: / abandoned / Attached photo(s): / https://westnordost.de/p/104956.jpg</title>
-        <link>https://www.openstreetmap.org/note/3289099#c7053521</link>
-        <guid>https://www.openstreetmap.org/note/3289099#c7053521</guid>
-        <pubDate>Fri, 29 Jul 2022 12:07:31 +0000</pubDate>
       </item>
   </channel>
 </rss>
