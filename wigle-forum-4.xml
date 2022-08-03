@@ -3,6 +3,11 @@
   <channel>
     <title>Wireless News (via bkil-bot)</title>
       <item>
+        <title>Re: Help with network adapter on monitor mode.: Years later I'll answer it. Your WiFi adaptor must support monitor mode. Most adaptors built into laptops and devices Do not support Monitor Mode -romanf</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11300#p11300</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11300#p11300</guid>
+        <pubDate>2022-08-03T14:37:56</pubDate>
+      </item><item>
         <title>Re: Detecting Gas Pump Skimmers by Bluetooth signature (Bluetana / SkimPlus): This Android app will specifically scan for skimmers and give you the opportunity to block them. I hate to recommend the app. I paid for the upgrade, the app forgets about it as soon as you leave the page and the Dev has ignored all my attempts to resolve the issue. The app is called Signils Bluetooth Manager and here are some screenshots of it giving you the opportunity to block unrecognized devices. -Tom_Sawyer</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11233#p11233</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11233#p11233</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=9927#p9927</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=9927#p9927</guid>
         <pubDate>2019-02-17T22:08:55</pubDate>
-      </item><item>
-        <title>Re: A Different Approach: not sure if I understand your methodology yet, but I will warn you that MAC addresses in probe requests are often (and intentionally) unreliable: https://source.android.com/devices/tech ... domization https://www.theregister.co.uk/2017/03/ ... omization/ https://securityintelligence.com/news/m ... clobbered/ -arkasha</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=9819#p9819</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=9819#p9819</guid>
-        <pubDate>2018-11-26T00:49:07</pubDate>
       </item>
   </channel>
 </rss>
