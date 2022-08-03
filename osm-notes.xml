@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Körmendi, Csömör) / * 2022 August 1 16:56 vasony Created: Jókai Mór utca vagy Jókai Mór út szerepel az utcatáblán? / * 2022 August 3 13:29 utvonalfelmeresek Resolved: Út: / https://www.mapillary.com/app/?lat=47.547404401223&amp;amp;lng=19.22101255627&amp;amp;z=17&amp;amp;pKey=547623807067133&amp;amp;focus=photo&amp;amp;x=0.5092054141469604&amp;amp;y=0.5574528488869066&amp;amp;zoom=0.9902912621359223</title>
+        <link>https://www.openstreetmap.org/note/3294306#c7070319</link>
+        <guid>https://www.openstreetmap.org/note/3294306#c7070319</guid>
+        <pubDate>Wed, 03 Aug 2022 13:29:39 +0000</pubDate>
+      </item><item>
         <title>new note (near Kristálydomb, Egerszalók) / * 2022 August 3 07:26 Created: This marked path is overgrown by vegetation and became impassable</title>
         <link>https://www.openstreetmap.org/note/3296723#c7069114</link>
         <guid>https://www.openstreetmap.org/note/3296723#c7069114</guid>
@@ -162,26 +167,6 @@
         <link>https://www.openstreetmap.org/note/3293583#c7062408</link>
         <guid>https://www.openstreetmap.org/note/3293583#c7062408</guid>
         <pubDate>Mon, 01 Aug 2022 08:40:51 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Kelenföld, 11th district) / * 2022 July 28 18:53 Jolesh Created: gate / via StreetComplete 45.1 / * 2022 July 31 22:49 bkil Resolved: Fixed in https://osm.org/changeset/124320558#map=19/47.45678/19.04430</title>
-        <link>https://www.openstreetmap.org/note/3287955#c7061704</link>
-        <guid>https://www.openstreetmap.org/note/3287955#c7061704</guid>
-        <pubDate>Sun, 31 Jul 2022 22:49:52 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Kelenföld, 11th district) / * 2022 July 28 18:53 Jolesh Created: gate / via StreetComplete 45.1 / * 2022 July 31 22:49 bkil Resolved: Fixed in https://osm.org/changeset/124320558#map=19/47.45678/19.04430</title>
-        <link>https://www.openstreetmap.org/note/3287956#c7061703</link>
-        <guid>https://www.openstreetmap.org/note/3287956#c7061703</guid>
-        <pubDate>Sun, 31 Jul 2022 22:49:52 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Kelenföld, 11th district) / * 2022 July 28 18:51 Jolesh Created: missing road / via StreetComplete 45.1 / * 2022 July 31 22:49 bkil Resolved: Fixed in https://osm.org/changeset/124320558#map=19/47.45678/19.04430</title>
-        <link>https://www.openstreetmap.org/note/3287952#c7061702</link>
-        <guid>https://www.openstreetmap.org/note/3287952#c7061702</guid>
-        <pubDate>Sun, 31 Jul 2022 22:49:51 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Szentmihály, Szeged) / * 2022 July 31 22:38 bkil Updated: Ezt a jellemzőt attól még sokan megadják: http://wiki.osm.org/Key:sidewalk</title>
-        <link>https://www.openstreetmap.org/note/3182082#c7061686</link>
-        <guid>https://www.openstreetmap.org/note/3182082#c7061686</guid>
-        <pubDate>Sun, 31 Jul 2022 22:38:24 +0000</pubDate>
       </item>
   </channel>
 </rss>
