@@ -3,6 +3,31 @@
   <channel>
     <title>git (via bkil-bot)</title>
       <item>
+        <title>Balázs Úr: Szántód hozzáadása</title>
+        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/1be7893b66e6440ae2c40c1e0c36bfcd05fbc3f7</link>
+        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/1be7893b66e6440ae2c40c1e0c36bfcd05fbc3f7</guid>
+        <pubDate>2022-08-05T00:51:41+02:00</pubDate>
+      </item><item>
+        <title>Balázs Úr: Balatonszemes: helyi építési szabályzat frissítése</title>
+        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/e5433a549971023de9065127d7b26e5e56f66f69</link>
+        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/e5433a549971023de9065127d7b26e5e56f66f69</guid>
+        <pubDate>2022-08-05T00:51:39+02:00</pubDate>
+      </item><item>
+        <title>Balázs Úr: Balatonszemes: Berzsenyi utcai szabadstrand hozzáadása</title>
+        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/6d210ca9cfec7ec468b85d0ceb9706eaf64fab6b</link>
+        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/6d210ca9cfec7ec468b85d0ceb9706eaf64fab6b</guid>
+        <pubDate>2022-08-05T00:51:36+02:00</pubDate>
+      </item><item>
+        <title>Balázs Úr: Budapest XXII. kerület: Budafoki Szomszédok Piaca</title>
+        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/8faf1ed627e249f171191f1bac756ed410d5ffd2</link>
+        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/8faf1ed627e249f171191f1bac756ed410d5ffd2</guid>
+        <pubDate>2022-08-05T00:51:34+02:00</pubDate>
+      </item><item>
+        <title>Balázs Úr: Balatonszemes: Dr. Kiss Ödön Orvosi Rendelő hozzáadása</title>
+        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/c09ae036cae2edbb4b3c4651eea0d121bfa6e979</link>
+        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/c09ae036cae2edbb4b3c4651eea0d121bfa6e979</guid>
+        <pubDate>2022-08-05T00:51:30+02:00</pubDate>
+      </item><item>
         <title>bkil: Doboz: add</title>
         <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/f17c4eda4ce1bde322af904efab82e2cd3429456</link>
         <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/f17c4eda4ce1bde322af904efab82e2cd3429456</guid>
@@ -162,11 +187,6 @@
         <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/b63ab0dee20c1a459e6abe98761029256abc7be4</link>
         <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/b63ab0dee20c1a459e6abe98761029256abc7be4</guid>
         <pubDate>2020-06-15T00:15:50+02:00</pubDate>
-      </item><item>
-        <title>Balázs Úr: Használati leírás és licenc hozzáadása</title>
-        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/30ca8fe6dcbac49595b69572168cbeb94cc3919b</link>
-        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/30ca8fe6dcbac49595b69572168cbeb94cc3919b</guid>
-        <pubDate>2020-06-15T00:15:15+02:00</pubDate>
       </item>
   </channel>
 </rss>
