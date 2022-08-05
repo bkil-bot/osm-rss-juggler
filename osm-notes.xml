@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Ófalu, Csömör) / * 2022 May 8 11:55 Datguymarkus Created: &amp;quot;The place was not here to begin with and is now called BurgerBár.&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2022-04-15T21:38:03Z / POI name: Kemencés Pizzeria &amp;amp; Grill / POI types: amenity-fast_food / #organicmaps / * 2022 August 5 20:11 bkil Resolved: Fixed.</title>
+        <link>https://www.openstreetmap.org/note/3170507#c7077968</link>
+        <guid>https://www.openstreetmap.org/note/3170507#c7077968</guid>
+        <pubDate>Fri, 05 Aug 2022 20:11:25 +0000</pubDate>
+      </item><item>
         <title>closed note (near Monor) / * 2022 August 5 16:47 Mókocs Resolved: </title>
         <link>https://www.openstreetmap.org/note/3300957#c7077560</link>
         <guid>https://www.openstreetmap.org/note/3300957#c7077560</guid>
@@ -127,11 +132,6 @@
         <link>https://www.openstreetmap.org/note/3237921#c7070557</link>
         <guid>https://www.openstreetmap.org/note/3237921#c7070557</guid>
         <pubDate>Wed, 03 Aug 2022 14:32:28 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Körmendi, Csömör) / * 2022 August 1 16:56 vasony Created: Jókai Mór utca vagy Jókai Mór út szerepel az utcatáblán? / * 2022 August 3 13:29 utvonalfelmeresek Resolved: Út: / https://www.mapillary.com/app/?lat=47.547404401223&amp;amp;lng=19.22101255627&amp;amp;z=17&amp;amp;pKey=547623807067133&amp;amp;focus=photo&amp;amp;x=0.5092054141469604&amp;amp;y=0.5574528488869066&amp;amp;zoom=0.9902912621359223</title>
-        <link>https://www.openstreetmap.org/note/3294306#c7070319</link>
-        <guid>https://www.openstreetmap.org/note/3294306#c7070319</guid>
-        <pubDate>Wed, 03 Aug 2022 13:29:39 +0000</pubDate>
       </item>
   </channel>
 </rss>
