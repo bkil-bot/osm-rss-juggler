@@ -3,6 +3,11 @@
   <channel>
     <title>git (via bkil-bot)</title>
       <item>
+        <title>bkil: Csomor: add 3,4,6,7,9,10</title>
+        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/6bbf2997ec3384d103e294c37a3ef70a9af48c85</link>
+        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/6bbf2997ec3384d103e294c37a3ef70a9af48c85</guid>
+        <pubDate>2022-08-05T02:13:29+02:00</pubDate>
+      </item><item>
         <title>Balázs Úr: Szántód hozzáadása</title>
         <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/1be7893b66e6440ae2c40c1e0c36bfcd05fbc3f7</link>
         <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/1be7893b66e6440ae2c40c1e0c36bfcd05fbc3f7</guid>
@@ -182,11 +187,6 @@
         <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/11221a77e4ed1e72c3f171323dc076373d47c6b3</link>
         <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/11221a77e4ed1e72c3f171323dc076373d47c6b3</guid>
         <pubDate>2020-06-15T00:55:38+02:00</pubDate>
-      </item><item>
-        <title>Balázs Úr: Budapest XXII. kerület hozzáadása</title>
-        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/b63ab0dee20c1a459e6abe98761029256abc7be4</link>
-        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/b63ab0dee20c1a459e6abe98761029256abc7be4</guid>
-        <pubDate>2020-06-15T00:15:50+02:00</pubDate>
       </item>
   </channel>
 </rss>
