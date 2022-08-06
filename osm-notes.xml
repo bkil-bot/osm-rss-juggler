@@ -3,6 +3,41 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Középhegy, Csömör) / * 2022 August 6 19:59 vasony Resolved: Név javítva</title>
+        <link>https://www.openstreetmap.org/note/3301690#c7081100</link>
+        <guid>https://www.openstreetmap.org/note/3301690#c7081100</guid>
+        <pubDate>Sat, 06 Aug 2022 19:59:50 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Körmendi, Csömör) / * 2022 August 6 19:48 vasony Resolved: Van Rét utca és Rét út tábla is</title>
+        <link>https://www.openstreetmap.org/note/3294311#c7081040</link>
+        <guid>https://www.openstreetmap.org/note/3294311#c7081040</guid>
+        <pubDate>Sat, 06 Aug 2022 19:48:14 +0000</pubDate>
+      </item><item>
+        <title>reactivated note (near Körmendi, Csömör) / * 2022 August 6 19:48 vasony Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/3294311#c7081039</link>
+        <guid>https://www.openstreetmap.org/note/3294311#c7081039</guid>
+        <pubDate>Sat, 06 Aug 2022 19:48:05 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Belváros, Szeged) / * 2022 July 17 00:31 CopperOppositeKindred Created: Unable to answer &amp;quot;What are the opening hours here?&amp;quot; for https://osm.org/node/3898859842 via StreetComplete 43.2: / Elköltözött / Attached photo(s): / https://westnordost.de/p/102854.jpg / https://westnordost.de/p/102855.jpg / * 2022 August 6 19:39 gabro00 Resolved: https://www.openstreetmap.org/changeset/124575821</title>
+        <link>https://www.openstreetmap.org/note/3270412#c7081027</link>
+        <guid>https://www.openstreetmap.org/note/3270412#c7081027</guid>
+        <pubDate>Sat, 06 Aug 2022 19:39:35 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Belváros, Szeged) / * 2022 July 17 00:31 CopperOppositeKindred Created: Unable to answer &amp;quot;What are the opening hours here?&amp;quot; for https://osm.org/node/3016113667 via StreetComplete 43.2: / FHB Bank nem látható a közelben / Attached photo(s): / https://westnordost.de/p/102856.jpg / * 2022 August 6 19:35 gabro00 Resolved: https://www.openstreetmap.org/changeset/124575704</title>
+        <link>https://www.openstreetmap.org/note/3270413#c7081022</link>
+        <guid>https://www.openstreetmap.org/note/3270413#c7081022</guid>
+        <pubDate>Sat, 06 Aug 2022 19:35:56 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Belváros, Szeged) / * 2022 July 17 00:32 CopperOppositeKindred Created: Unable to answer &amp;quot;What are the opening hours here?&amp;quot; for https://osm.org/node/7934203193 via StreetComplete 43.2: / Nincs megadva zárási idő / Attached photo(s): / https://westnordost.de/p/102861.jpg / * 2022 August 6 19:33 gabro00 Updated: Hát ez így nem sok segítség :/ / Mindig mondom nem azt kell felvenni ami nincs, hanem ami van (pár kivételes esettől eltekintve).</title>
+        <link>https://www.openstreetmap.org/note/3270418#c7081016</link>
+        <guid>https://www.openstreetmap.org/note/3270418#c7081016</guid>
+        <pubDate>Sat, 06 Aug 2022 19:33:01 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Belváros, Szeged) / * 2022 July 17 00:32 CopperOppositeKindred Created: Unable to answer &amp;quot;What are the opening hours here?&amp;quot; for https://osm.org/node/6516201614 via StreetComplete 43.2: / Csak előzetes egyeztetés esetén, de van nyitvatartás. / Attached photo(s): / https://westnordost.de/p/102860.jpg / * 2022 August 6 19:28 gabro00 Resolved: https://www.openstreetmap.org/changeset/124575486</title>
+        <link>https://www.openstreetmap.org/note/3270417#c7080997</link>
+        <guid>https://www.openstreetmap.org/note/3270417#c7080997</guid>
+        <pubDate>Sat, 06 Aug 2022 19:28:13 +0000</pubDate>
+      </item><item>
         <title>closed note (near Belváros, Szeged) / * 2022 July 17 00:31 CopperOppositeKindred Created: Unable to answer &amp;quot;Are these opening hours still correct?&amp;quot; for https://osm.org/node/6389298749 via StreetComplete 43.2: / Az előző üzlet megszűnt, más van a helyén / Attached photo(s): / https://westnordost.de/p/102857.jpg / * 2022 August 6 19:20 gabro00 Resolved: https://www.openstreetmap.org/changeset/124575315</title>
         <link>https://www.openstreetmap.org/note/3270414#c7080986</link>
         <guid>https://www.openstreetmap.org/note/3270414#c7080986</guid>
@@ -277,11 +312,6 @@
         <link>https://www.openstreetmap.org/note/3301341#c7078282</link>
         <guid>https://www.openstreetmap.org/note/3301341#c7078282</guid>
         <pubDate>Fri, 05 Aug 2022 23:40:37 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Ófalu, Csömör) / * 2022 May 8 11:55 Datguymarkus Created: &amp;quot;The place was not here to begin with and is now called BurgerBár.&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2022-04-15T21:38:03Z / POI name: Kemencés Pizzeria &amp;amp; Grill / POI types: amenity-fast_food / #organicmaps / * 2022 August 5 20:11 bkil Resolved: Fixed.</title>
-        <link>https://www.openstreetmap.org/note/3170507#c7077968</link>
-        <guid>https://www.openstreetmap.org/note/3170507#c7077968</guid>
-        <pubDate>Fri, 05 Aug 2022 20:11:25 +0000</pubDate>
       </item>
   </channel>
 </rss>
