@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Szőlőhegy, Csömör) / * 2022 August 7 07:47 vasony Created: itt van egy 30-as zóna határ váltás, felmérendő</title>
+        <link>https://www.openstreetmap.org/note/3303349#c7081994</link>
+        <guid>https://www.openstreetmap.org/note/3303349#c7081994</guid>
+        <pubDate>Sun, 07 Aug 2022 07:47:19 +0000</pubDate>
+      </item><item>
         <title>closed note (near Középhegy, Csömör) / * 2022 August 6 20:58 vasony Resolved: </title>
         <link>https://www.openstreetmap.org/note/3294346#c7081241</link>
         <guid>https://www.openstreetmap.org/note/3294346#c7081241</guid>
@@ -287,16 +292,6 @@
         <link>https://www.openstreetmap.org/note/3301347#c7078288</link>
         <guid>https://www.openstreetmap.org/note/3301347#c7078288</guid>
         <pubDate>Fri, 05 Aug 2022 23:40:39 +0000</pubDate>
-      </item><item>
-        <title>new note (near Hőstelep, Csömör) / * 2022 August 5 23:40 bkil Created: Van a Nagy Sándor utcán a Corvina térin kívül játszótér?</title>
-        <link>https://www.openstreetmap.org/note/3301346#c7078287</link>
-        <guid>https://www.openstreetmap.org/note/3301346#c7078287</guid>
-        <pubDate>Fri, 05 Aug 2022 23:40:38 +0000</pubDate>
-      </item><item>
-        <title>new note (near Középhegy, Csömör) / * 2022 August 5 23:40 bkil Created: Laki utca vagy Laky utca szerepel az utcatáblán?</title>
-        <link>https://www.openstreetmap.org/note/3301345#c7078286</link>
-        <guid>https://www.openstreetmap.org/note/3301345#c7078286</guid>
-        <pubDate>Fri, 05 Aug 2022 23:40:38 +0000</pubDate>
       </item>
   </channel>
 </rss>
