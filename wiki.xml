@@ -2,6 +2,11 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      
+      <item>
+        <title>Hungary/20220806: Jelentkezők -Vasony</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20220806&amp;diff=2367714&amp;oldid=2366668</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20220806&amp;diff=2367714</guid>
+        <pubDate>Sun, 07 Aug 2022 05:58:36 GMT</pubDate>
+      </item>
   </channel>
 </rss>
