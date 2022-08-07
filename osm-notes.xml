@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Középhegy, Csömör) / * 2022 August 1 16:58 vasony Created: Panoráma utca vagy Panoráma sor szerepel az utcatáblán? / * 2022 August 6 09:54 vasony Updated: Panoráma sor de a szamok ujraindulnak / * 2022 August 7 11:27 vasony Resolved: A számozás dulpázódik, a megoldás, hogy az a rész, ahol a házakon Panoráma utca van, az Panoráma utca, a másik rész Panoráma sor lett.</title>
+        <link>https://www.openstreetmap.org/note/3294310#c7082595</link>
+        <guid>https://www.openstreetmap.org/note/3294310#c7082595</guid>
+        <pubDate>Sun, 07 Aug 2022 11:27:48 +0000</pubDate>
+      </item><item>
         <title>closed note (near Bodom, Szentmihály, Szeged) / * 2022 May 16 15:46 Created: A Bodomi út és a zsák Köz között a járda messzebb van az úttól, és igazából az van kivilágítva / via StreetComplete 43.0 / * 2022 May 29 16:54 gabro00 Resolved: Felvettem. / * 2022 June 4 09:12 CopperOppositeKindred Reactivated:  / * 2022 June 4 09:12 CopperOppositeKindred Updated: A szérűskert sor járdájára gondoltam, annak a Zsák köz és Bodomi út közti részére. Viszont ha felvesszük a járdát, akkor vegyük fel a Mikes Kelemen utcáig; úgy emlékszem azért írtam az eredeti megjegyzésben hogy a Bodomi útig, mert csak odáig volt kivilágítva a járda. / Bocsi, az SC úgy látszik sokszor rossz helyre teszi valamiért a megjegyzést a térképen, attól függetlenül hogy nálama  térképen hol látszik. / * 2022 June 7 19:26 gabro00 Updated: Kérlek barátkozz meg a szerkesztéssel, mert nagyon sok jegyzetet hoztál létre és csak gyűlnek megoldás nélkül. Országszerte rengeteg ilyenbe botolhat az ember, amik idővel elavulnak és újra meg kell nézni aktuális-e még, tehát hasznuk az idő múlásával exponenciálisan csökken és egyéb fontosabb dolgokról tereli el a figyelmet. / * 2022 June 8 08:38 CopperOppositeKindred Updated: Szerkesztek folyamatosan, bocsi a sok jegyzetért, igyekszem megoldani ezeket. / A környéken sokat csak véletlen töltöttem fel hibakeresés közben, remélhetőleg ez nem fog máskor előfordulni. / * 2022 July 31 18:19 gabro00 Updated: Zárható? / * 2022 August 7 08:24 CopperOppositeKindred Resolved: Lezárom, de felírtam magamnak hogy ezt meg kell nézni.</title>
         <link>https://www.openstreetmap.org/note/3182081#c7082084</link>
         <guid>https://www.openstreetmap.org/note/3182081#c7082084</guid>
@@ -262,21 +267,6 @@
         <link>https://www.openstreetmap.org/note/3294352#c7078748</link>
         <guid>https://www.openstreetmap.org/note/3294352#c7078748</guid>
         <pubDate>Sat, 06 Aug 2022 08:04:34 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Borsod, Edelény) / * 2020 September 11 06:17 Klausder Töpfer Created: Unable to answer &amp;quot;What is the name of this road?&amp;quot; for https://osm.org/way/538449968 via StreetComplete 22.2: / Garázs Tulajdonosok részére kialakitott út / * 2022 August 6 07:59 ITineris Resolved: Módosítottam.</title>
-        <link>https://www.openstreetmap.org/note/2343424#c7078740</link>
-        <guid>https://www.openstreetmap.org/note/2343424#c7078740</guid>
-        <pubDate>Sat, 06 Aug 2022 07:59:59 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Majorszegiliget, Csömör) / * 2022 August 6 07:44 vasony Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3294307#c7078717</link>
-        <guid>https://www.openstreetmap.org/note/3294307#c7078717</guid>
-        <pubDate>Sat, 06 Aug 2022 07:44:19 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Majorszegiliget, Csömör) / * 2022 August 1 16:56 vasony Created: Csömöri utca vagy Csömöri út szerepel az utcatáblán? / * 2022 August 6 07:44 vasony Updated: Csőmör utca</title>
-        <link>https://www.openstreetmap.org/note/3294307#c7078716</link>
-        <guid>https://www.openstreetmap.org/note/3294307#c7078716</guid>
-        <pubDate>Sat, 06 Aug 2022 07:44:10 +0000</pubDate>
       </item>
   </channel>
 </rss>
