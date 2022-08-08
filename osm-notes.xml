@@ -3,6 +3,101 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Úszó, Balatonlelle) / * 2022 July 27 20:04 vasony Created: Margaréta köz vagy Margaréta utca szerepel az utcatáblán? / * 2022 August 8 22:18 urbalazs Resolved: Margaréta köz van kitáblázva. Jó az OSM, nincs vele teendő.</title>
+        <link>https://www.openstreetmap.org/note/3286437#c7087397</link>
+        <guid>https://www.openstreetmap.org/note/3286437#c7087397</guid>
+        <pubDate>Mon, 08 Aug 2022 22:18:41 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Jánoskert, Balatonlelle) / * 2022 July 27 19:57 vasony Created: Berzsenyi vagy Berzsenyi Dániel utca szerepel az utcatáblán? / * 2022 August 8 22:18 urbalazs Resolved: Csak új tábla van vezetéknévvel, de ha ugyanaz a helyzet mint a többi utcánál, akkor a régi táblán teljes névvel lenne. Maradjon az OSM-en teljes névvel, ahogy a többi utca is van.</title>
+        <link>https://www.openstreetmap.org/note/3286417#c7087396</link>
+        <guid>https://www.openstreetmap.org/note/3286417#c7087396</guid>
+        <pubDate>Mon, 08 Aug 2022 22:18:41 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Tabán, Balatonlelle) / * 2022 July 27 18:34 vasony Created: Ennek a szakasznak mi az utcaneve? / * 2022 August 8 22:18 urbalazs Resolved: Nincs utcanévtábla ezen a szakaszon. Az utca déli oldalán van egy 69-es házszám, ami igazából egyik utcára sem illik. A terven az utca északi oldalán van a 69, de a valóságban ott a 71 van. A helyszínen úgy tűnik, hogy ez a Takács Sándor utca folytatása, ezért elneveztem annak.</title>
+        <link>https://www.openstreetmap.org/note/3286303#c7087395</link>
+        <guid>https://www.openstreetmap.org/note/3286303#c7087395</guid>
+        <pubDate>Mon, 08 Aug 2022 22:18:40 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Kisperjés, Balatonlelle) / * 2022 July 27 20:05 vasony Created: Rózsavölgyi köz vay Rózsavölgy köz szerepel az utcatáblán? / * 2022 August 8 22:18 urbalazs Resolved: Rózsavölgy köz van kitáblázva, I nélkül. Javítottam.</title>
+        <link>https://www.openstreetmap.org/note/3286439#c7087394</link>
+        <guid>https://www.openstreetmap.org/note/3286439#c7087394</guid>
+        <pubDate>Mon, 08 Aug 2022 22:18:40 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Balatonlelle) / * 2022 July 27 18:30 vasony Created: Terven létezik, valójában is átjárható? / * 2022 August 8 22:18 urbalazs Resolved: Átjárható, de csak gyalog, mert a Mátyás király utcánál van egy árok. Átállítottam ösvényre.</title>
+        <link>https://www.openstreetmap.org/note/3286298#c7087393</link>
+        <guid>https://www.openstreetmap.org/note/3286298#c7087393</guid>
+        <pubDate>Mon, 08 Aug 2022 22:18:39 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Jánoskert, Balatonlelle) / * 2022 July 27 19:53 vasony Created: Ruttner utca vagy Rutter Lajos utca? / * 2022 August 8 22:18 urbalazs Resolved: Ruttner Lajos utca van kitáblázva, nincs vele teendő. Jó az OSM így.</title>
+        <link>https://www.openstreetmap.org/note/3286413#c7087392</link>
+        <guid>https://www.openstreetmap.org/note/3286413#c7087392</guid>
+        <pubDate>Mon, 08 Aug 2022 22:18:38 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Felsőlelle, Balatonlelle) / * 2022 July 27 19:58 vasony Created: Dobó Katica utca vagy Dobó Katalin utca szerepel az utcatáblán? / * 2022 August 8 22:18 urbalazs Resolved: Dobó Katalin utca van kitáblázva. Javítottam.</title>
+        <link>https://www.openstreetmap.org/note/3286420#c7087391</link>
+        <guid>https://www.openstreetmap.org/note/3286420#c7087391</guid>
+        <pubDate>Mon, 08 Aug 2022 22:18:38 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Jánoskert, Balatonlelle) / * 2022 July 27 20:14 vasony Created: Ez a Római út? / * 2022 August 8 22:18 urbalazs Resolved: Igen, ez az. Beírtam a nevet.</title>
+        <link>https://www.openstreetmap.org/note/3286454#c7087390</link>
+        <guid>https://www.openstreetmap.org/note/3286454#c7087390</guid>
+        <pubDate>Mon, 08 Aug 2022 22:18:37 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Kertalja, Balatonlelle) / * 2022 July 27 20:02 vasony Created: Petőfi Sándor utca vagy Petőfi utca szerepel az utcatáblán? / * 2022 August 8 22:18 urbalazs Resolved: Régi táblán teljes név, új táblán csak vezetéknév. Mindkettő ki van téve. Az OSM-en maradjon teljes névvel.</title>
+        <link>https://www.openstreetmap.org/note/3286434#c7087389</link>
+        <guid>https://www.openstreetmap.org/note/3286434#c7087389</guid>
+        <pubDate>Mon, 08 Aug 2022 22:18:37 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Dózsatelep, Balatonlelle) / * 2022 July 27 20:07 vasony Created: Szent István utca vagy út szerepel az utcatáblán? / * 2022 August 8 22:18 urbalazs Resolved: Szent István út van az utcanévtáblán. Javítottam.</title>
+        <link>https://www.openstreetmap.org/note/3286441#c7087388</link>
+        <guid>https://www.openstreetmap.org/note/3286441#c7087388</guid>
+        <pubDate>Mon, 08 Aug 2022 22:18:36 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Úszó, Balatonlelle) / * 2022 July 27 19:41 vasony Created: Terven Nyár utca, mi az utcatábla? / * 2022 August 8 22:18 urbalazs Resolved: Az utcanévtáblán is Nyár utca van. Javítottam.</title>
+        <link>https://www.openstreetmap.org/note/3286394#c7087387</link>
+        <guid>https://www.openstreetmap.org/note/3286394#c7087387</guid>
+        <pubDate>Mon, 08 Aug 2022 22:18:36 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Kisperjés, Balatonlelle) / * 2022 July 27 20:00 vasony Created: Jókai Mór utca vagy Jókai utca szerepel az utcatáblán? / * 2022 August 8 22:18 urbalazs Resolved: Régi táblán teljes név, új táblán csak vezetéknév. Mindkettő ki van téve. Az OSM-en maradjon teljes névvel.</title>
+        <link>https://www.openstreetmap.org/note/3286428#c7087386</link>
+        <guid>https://www.openstreetmap.org/note/3286428#c7087386</guid>
+        <pubDate>Mon, 08 Aug 2022 22:18:35 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Jánoskert, Balatonlelle) / * 2022 July 27 20:02 vasony Created: Kölcsey Ferenc utca vagy Kölcsey utca szerepel az utcatáblán? / * 2022 August 8 22:18 urbalazs Resolved: Régi táblán teljes név, új táblán csak vezetéknév. Mindkettő ki van téve. Az OSM-en maradjon teljes névvel.</title>
+        <link>https://www.openstreetmap.org/note/3286435#c7087385</link>
+        <guid>https://www.openstreetmap.org/note/3286435#c7087385</guid>
+        <pubDate>Mon, 08 Aug 2022 22:18:35 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Úszó, Balatonlelle) / * 2022 July 27 20:18 vasony Created: Ez a Tölgy utca? / * 2022 August 8 22:18 urbalazs Resolved: Igen. Beírtam a nevet.</title>
+        <link>https://www.openstreetmap.org/note/3286456#c7087384</link>
+        <guid>https://www.openstreetmap.org/note/3286456#c7087384</guid>
+        <pubDate>Mon, 08 Aug 2022 22:18:34 +0000</pubDate>
+      </item><item>
+        <title>new note (near Slikker, Paloznak) / * 2022 August 8 22:08 Created: Diófa utca</title>
+        <link>https://www.openstreetmap.org/note/3305952#c7087363</link>
+        <guid>https://www.openstreetmap.org/note/3305952#c7087363</guid>
+        <pubDate>Mon, 08 Aug 2022 22:08:55 +0000</pubDate>
+      </item><item>
+        <title>new note (near Fölsőváros, Mórahalom) / * 2022 August 8 21:23 Guzsvány Máté Created: Büfék, kajáldák sora.</title>
+        <link>https://www.openstreetmap.org/note/3305916#c7087287</link>
+        <guid>https://www.openstreetmap.org/note/3305916#c7087287</guid>
+        <pubDate>Mon, 08 Aug 2022 21:23:16 +0000</pubDate>
+      </item><item>
+        <title>new note (near Fölsőváros, Mórahalom) / * 2022 August 8 21:22 Guzsvány Máté Created: Itt van egy épület, wc, férfi és női, és öltöző, szintén mind a két nemnek.</title>
+        <link>https://www.openstreetmap.org/note/3305915#c7087286</link>
+        <guid>https://www.openstreetmap.org/note/3305915#c7087286</guid>
+        <pubDate>Mon, 08 Aug 2022 21:22:50 +0000</pubDate>
+      </item><item>
+        <title>new note (near Fölsőváros, Mórahalom) / * 2022 August 8 21:22 Guzsvány Máté Created: Itt is van egy épület, gyerekvilág a neve, benne tele gyerekeknek szóló medencével, csúszdákkal, stb.</title>
+        <link>https://www.openstreetmap.org/note/3305912#c7087281</link>
+        <guid>https://www.openstreetmap.org/note/3305912#c7087281</guid>
+        <pubDate>Mon, 08 Aug 2022 21:22:14 +0000</pubDate>
+      </item><item>
+        <title>new note (near Fölsőváros, Mórahalom) / * 2022 August 8 21:21 Guzsvány Máté Created: Itt bent is van az épületben egy úszómedence.</title>
+        <link>https://www.openstreetmap.org/note/3305911#c7087280</link>
+        <guid>https://www.openstreetmap.org/note/3305911#c7087280</guid>
+        <pubDate>Mon, 08 Aug 2022 21:21:35 +0000</pubDate>
+      </item><item>
         <title>new note (near Fölsőváros, Mórahalom) / * 2022 August 8 21:21 Guzsvány Máté Created: Ez az ún. &amp;quot;rendezvénymedence&amp;quot;</title>
         <link>https://www.openstreetmap.org/note/3305910#c7087279</link>
         <guid>https://www.openstreetmap.org/note/3305910#c7087279</guid>
@@ -167,36 +262,6 @@
         <link>https://www.openstreetmap.org/note/3294307#c7080829</link>
         <guid>https://www.openstreetmap.org/note/3294307#c7080829</guid>
         <pubDate>Sat, 06 Aug 2022 18:01:55 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Középhegy, Csömör) / * 2022 August 6 16:01 bkil Resolved: Köszi, felvettem fixme-vel.</title>
-        <link>https://www.openstreetmap.org/note/3301343#c7080278</link>
-        <guid>https://www.openstreetmap.org/note/3301343#c7080278</guid>
-        <pubDate>Sat, 06 Aug 2022 16:01:58 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Középhegy, Csömör) / * 2022 August 6 15:55 bkil Resolved: Köszi, akkor az ész nyert, nem a HÉSZ.</title>
-        <link>https://www.openstreetmap.org/note/3301344#c7080232</link>
-        <guid>https://www.openstreetmap.org/note/3301344#c7080232</guid>
-        <pubDate>Sat, 06 Aug 2022 15:55:08 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Ófalu, Csömör) / * 2022 August 5 23:40 bkil Created: Van ATM és vannak játszótéri elemek a hivatalnál? / * 2022 August 6 15:55 bkil Resolved: Van, felvettük.</title>
-        <link>https://www.openstreetmap.org/note/3301341#c7080231</link>
-        <guid>https://www.openstreetmap.org/note/3301341#c7080231</guid>
-        <pubDate>Sat, 06 Aug 2022 15:55:07 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Liget lakótelep, Kaposszekcső) / * 2022 June 10 13:03 kogutowicz-mano Created: Elmosta az eső az utat, egy hónapra lezárták. / * 2022 June 10 13:12 kogutowicz-mano Updated: https://telex.hu/belfold/2022/06/10/vihar-idojaras-611-dombovar-kaposszekcso-beszakadt-ut / * 2022 June 10 16:56 urbalazs Resolved: Várható, hogy helyreállítják. Sokan OsmAnd alatt használják a térképet, ahol havi frissítések vannak. Emiatt az ilyen hónapon belüli ideiglenes változásokat nem szoktuk megjeleníteni. / * 2022 July 9 05:07 kogutowicz-mano Reactivated:  / * 2022 July 9 05:08 kogutowicz-mano Updated: Lesz ebből két hónap is. / * 2022 August 6 14:26 kogutowicz-mano Updated: És még nincs kész.</title>
-        <link>https://www.openstreetmap.org/note/3218589#c7079839</link>
-        <guid>https://www.openstreetmap.org/note/3218589#c7079839</guid>
-        <pubDate>Sat, 06 Aug 2022 14:26:40 +0000</pubDate>
-      </item><item>
-        <title>new note (near Tahi, Tahitótfalu) / * 2022 August 6 13:48 Created: Kis Cinke vendégház</title>
-        <link>https://www.openstreetmap.org/note/3302099#c7079684</link>
-        <guid>https://www.openstreetmap.org/note/3302099#c7079684</guid>
-        <pubDate>Sat, 06 Aug 2022 13:48:34 +0000</pubDate>
-      </item><item>
-        <title>new note (near Zagyvaszántó) / * 2022 August 6 13:05 5R-MFT Created: packeta z-box</title>
-        <link>https://www.openstreetmap.org/note/3302007#c7079536</link>
-        <guid>https://www.openstreetmap.org/note/3302007#c7079536</guid>
-        <pubDate>Sat, 06 Aug 2022 13:05:25 +0000</pubDate>
       </item>
   </channel>
 </rss>
