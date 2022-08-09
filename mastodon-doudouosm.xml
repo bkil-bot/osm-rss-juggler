@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>Powered by #Wikidata, #OpenStreetMap, and other sources, the “Notable People Map” is showing birthplace of the most &amp;quot;notable people&amp;quot; around the world. Data has been processed to show only one person for each unique geographic location with the highest notability rack. https://tjukanovt.github.io/notable-people If you wondered how someone qualifies for the notability criteria, there is an article about that: https://www.nature.com/articles/s41597-022-01369-4.</title>
+        <link>https://en.osm.town/@Doudouosm/108795185068987263</link>
+        <guid>https://en.osm.town/@Doudouosm/108795185068987263</guid>
+        <pubDate>Tue, 09 Aug 2022 22:06:19 +0000</pubDate>
+      </item><item>
         <title>For this issue of #OpenStreetMap Belgium’s Mapper of the Month #MotM, let’s head to Italy to meet Domenico Calvagna: https://openstreetmap.be/en/motm/2022/08/01/domenico-calvagna.html.</title>
         <link>https://en.osm.town/@Doudouosm/108784085645292471</link>
         <guid>https://en.osm.town/@Doudouosm/108784085645292471</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/108279759565780419</link>
         <guid>https://en.osm.town/@Doudouosm/108279759565780419</guid>
         <pubDate>Tue, 10 May 2022 21:26:50 +0000</pubDate>
-      </item><item>
-        <title>Retrospective interview with @pietervdvn on the partnership with Visit Flanders to augment #OpenStreetMap with points of interest for hikers and cyclists. https://blog.openstreetmap.org/2022/05/10/mapping-for-cyclists-and-hikers-flemish-tourism-organisations-join-forces-with-osm-belgium/ #pinjepunt</title>
-        <link>https://en.osm.town/@Doudouosm/108279714492310297</link>
-        <guid>https://en.osm.town/@Doudouosm/108279714492310297</guid>
-        <pubDate>Tue, 10 May 2022 21:15:23 +0000</pubDate>
       </item>
   </channel>
 </rss>
