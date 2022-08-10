@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Víziváros, 1st district) / * 2022 August 9 18:00 kogutowicz-mano Created: A Fő utcától keletre csak egy úttest van, nincsenek fizikailag elválasztva az irányok. / Csak egy utat kell ide rajzolni, nem két egyirányút. / * 2022 August 10 06:57 kogutowicz-mano Resolved: Rosszul emlékeztem. Mégis van elválasztás.</title>
+        <link>https://www.openstreetmap.org/note/3307098#c7090886</link>
+        <guid>https://www.openstreetmap.org/note/3307098#c7090886</guid>
+        <pubDate>Wed, 10 Aug 2022 06:57:44 +0000</pubDate>
+      </item><item>
         <title>new note (near Erőmű üdülőtelep, Tiszalök) / * 2022 August 9 19:52 phpmoli Created: Unable to answer &amp;quot;Does this street have a sidewalk?&amp;quot; for https://osm.org/way/302387927 via StreetComplete 45.2: / road does not exist</title>
         <link>https://www.openstreetmap.org/note/3307365#c7090080</link>
         <guid>https://www.openstreetmap.org/note/3307365#c7090080</guid>
@@ -322,11 +327,6 @@
         <link>https://www.openstreetmap.org/note/3305032#c7085412</link>
         <guid>https://www.openstreetmap.org/note/3305032#c7085412</guid>
         <pubDate>Mon, 08 Aug 2022 10:56:25 +0000</pubDate>
-      </item><item>
-        <title>new note (near Cinkota, 16th district) / * 2022 August 8 08:36 utvonalfelmeresek Created: tcs200</title>
-        <link>https://www.openstreetmap.org/note/3304874#c7084987</link>
-        <guid>https://www.openstreetmap.org/note/3304874#c7084987</guid>
-        <pubDate>Mon, 08 Aug 2022 08:36:09 +0000</pubDate>
       </item>
   </channel>
 </rss>
