@@ -3,6 +3,11 @@
   <channel>
     <title>git (via bkil-bot)</title>
       <item>
+        <title>bkil: Szazhalombatta: add</title>
+        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/a74864099b64d7d3819fd616dbad2bd4b6e6de0e</link>
+        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/a74864099b64d7d3819fd616dbad2bd4b6e6de0e</guid>
+        <pubDate>2022-08-12T20:48:37+02:00</pubDate>
+      </item><item>
         <title>bkil: Csomor: add 3,4,6,7,9,10</title>
         <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/6bbf2997ec3384d103e294c37a3ef70a9af48c85</link>
         <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/6bbf2997ec3384d103e294c37a3ef70a9af48c85</guid>
@@ -182,11 +187,6 @@
         <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/68c78bbb6af982d9682d597513dd6b89c76d91c9</link>
         <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/68c78bbb6af982d9682d597513dd6b89c76d91c9</guid>
         <pubDate>2020-06-15T00:58:44+02:00</pubDate>
-      </item><item>
-        <title>Balázs Úr: Németkér hozzáadása</title>
-        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/11221a77e4ed1e72c3f171323dc076373d47c6b3</link>
-        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/11221a77e4ed1e72c3f171323dc076373d47c6b3</guid>
-        <pubDate>2020-06-15T00:55:38+02:00</pubDate>
       </item>
   </channel>
 </rss>
