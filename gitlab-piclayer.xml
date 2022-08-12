@@ -3,6 +3,11 @@
   <channel>
     <title>git (via bkil-bot)</title>
       <item>
+        <title>bkil: Szazhalombatta: +3-2017m_1</title>
+        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/dad38891ef9af5fa880973eeb278fe9029358227</link>
+        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/dad38891ef9af5fa880973eeb278fe9029358227</guid>
+        <pubDate>2022-08-12T23:44:19+02:00</pubDate>
+      </item><item>
         <title>bkil: Szazhalombatta: add</title>
         <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/a74864099b64d7d3819fd616dbad2bd4b6e6de0e</link>
         <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/a74864099b64d7d3819fd616dbad2bd4b6e6de0e</guid>
@@ -182,11 +187,6 @@
         <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/7ef74068d5a7bac74354ae71a2b8ac46749759bb</link>
         <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/7ef74068d5a7bac74354ae71a2b8ac46749759bb</guid>
         <pubDate>2020-06-18T22:21:09+02:00</pubDate>
-      </item><item>
-        <title>Balázs Úr: Git klónozási parancs javítása</title>
-        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/68c78bbb6af982d9682d597513dd6b89c76d91c9</link>
-        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/68c78bbb6af982d9682d597513dd6b89c76d91c9</guid>
-        <pubDate>2020-06-15T00:58:44+02:00</pubDate>
       </item>
   </channel>
 </rss>
