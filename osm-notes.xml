@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Ásotthalom) / * 2022 August 14 14:09 gabro00 Updated: Ez micsoda pontosan?</title>
+        <link>https://www.openstreetmap.org/note/3313782#c7104177</link>
+        <guid>https://www.openstreetmap.org/note/3313782#c7104177</guid>
+        <pubDate>Sun, 14 Aug 2022 14:09:31 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Ásotthalom) / * 2022 August 14 14:08 gabro00 Updated: Talán a historic=memorial + memorial=stele áll a legközelebb hozzá, de nem egészen illik rá. Nyitva hagyom, hátha valaki ismer jobb címkét.</title>
+        <link>https://www.openstreetmap.org/note/3313566#c7104146</link>
+        <guid>https://www.openstreetmap.org/note/3313566#c7104146</guid>
+        <pubDate>Sun, 14 Aug 2022 14:08:13 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Ásotthalom) / * 2022 August 14 14:03 gabro00 Resolved: https://www.openstreetmap.org/changeset/124889261</title>
+        <link>https://www.openstreetmap.org/note/3313576#c7104118</link>
+        <guid>https://www.openstreetmap.org/note/3313576#c7104118</guid>
+        <pubDate>Sun, 14 Aug 2022 14:03:52 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Ásotthalom) / * 2022 August 14 13:49 gabro00 Resolved: https://www.openstreetmap.org/changeset/124888700</title>
+        <link>https://www.openstreetmap.org/note/3313682#c7103944</link>
+        <guid>https://www.openstreetmap.org/note/3313682#c7103944</guid>
+        <pubDate>Sun, 14 Aug 2022 13:49:42 +0000</pubDate>
+      </item><item>
         <title>closed note (near Fölsőváros, Mórahalom) / * 2022 August 8 21:08 Guzsvány Máté Created: Itt szintén van egy garázssor, kb. akkora mint a mellette lévő. / * 2022 August 14 13:19 gabro00 Resolved: Felvettem / https://www.openstreetmap.org/changeset/124887510</title>
         <link>https://www.openstreetmap.org/note/3305892#c7103750</link>
         <guid>https://www.openstreetmap.org/note/3305892#c7103750</guid>
@@ -247,31 +267,6 @@
         <link>https://www.openstreetmap.org/note/3309218#c7093731</link>
         <guid>https://www.openstreetmap.org/note/3309218#c7093731</guid>
         <pubDate>Thu, 11 Aug 2022 05:56:07 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Albertfalva, 11th district) / * 2021 September 7 10:33 Created: új épület létesül / * 2021 November 20 06:33 vasony Resolved: inkább a 16 helyén / * 2021 November 20 06:34 vasony Reactivated:  / * 2021 November 20 06:34 vasony Updated: vagy itt is, meg kell nézni a helyszínen később / * 2022 July 26 18:24 vasony Updated: 14 helyén kész a ház,  16 üres / * 2022 August 11 05:28 vasony Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2840068#c7093683</link>
-        <guid>https://www.openstreetmap.org/note/2840068#c7093683</guid>
-        <pubDate>Thu, 11 Aug 2022 05:28:15 +0000</pubDate>
-      </item><item>
-        <title>new note (near Császta, Balatonboglár) / * 2022 August 10 20:08 vasony Created: Szondi György utca vagy Szondy utca szerepel az utcatáblán?</title>
-        <link>https://www.openstreetmap.org/note/3308937#c7093130</link>
-        <guid>https://www.openstreetmap.org/note/3308937#c7093130</guid>
-        <pubDate>Wed, 10 Aug 2022 20:08:02 +0000</pubDate>
-      </item><item>
-        <title>new note (near Császta, Balatonboglár) / * 2022 August 10 20:08 vasony Created: Táncsics Mihály utca vagy Táncsics utca szerepel az utcatáblán?</title>
-        <link>https://www.openstreetmap.org/note/3308936#c7093129</link>
-        <guid>https://www.openstreetmap.org/note/3308936#c7093129</guid>
-        <pubDate>Wed, 10 Aug 2022 20:08:02 +0000</pubDate>
-      </item><item>
-        <title>new note (near Császta, Balatonboglár) / * 2022 August 10 20:08 vasony Created: Zrínyi Miklós utca vagy Zrínyi utca szerepel az utcatáblán?</title>
-        <link>https://www.openstreetmap.org/note/3308935#c7093128</link>
-        <guid>https://www.openstreetmap.org/note/3308935#c7093128</guid>
-        <pubDate>Wed, 10 Aug 2022 20:08:01 +0000</pubDate>
-      </item><item>
-        <title>new note (near Jankovichtelep, Balatonboglár) / * 2022 August 10 20:06 vasony Created: Szent István király tér vagy Szent István tér szerepel az utcatáblán?</title>
-        <link>https://www.openstreetmap.org/note/3308932#c7093124</link>
-        <guid>https://www.openstreetmap.org/note/3308932#c7093124</guid>
-        <pubDate>Wed, 10 Aug 2022 20:06:23 +0000</pubDate>
       </item>
   </channel>
 </rss>
