@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Herceghalom) / * 2022 August 15 11:55 vasony-qa Created: Van itt Petőfi utca valahol, amire a Foxpost automata számozva van? / * 2022 August 16 20:56 bkil Resolved: Yes, just below the intersection, fixed: https://osm.org/changeset/124990511#map=18/47.49808/18.74814</title>
+        <link>https://www.openstreetmap.org/note/3315281#c7114730</link>
+        <guid>https://www.openstreetmap.org/note/3315281#c7114730</guid>
+        <pubDate>Tue, 16 Aug 2022 20:56:54 +0000</pubDate>
+      </item><item>
+        <title>new note (near Gerecse Kapuja, Tatabánya) / * 2022 August 16 20:50 Created: Playground is actually closed.</title>
+        <link>https://www.openstreetmap.org/note/3317883#c7114713</link>
+        <guid>https://www.openstreetmap.org/note/3317883#c7114713</guid>
+        <pubDate>Tue, 16 Aug 2022 20:50:10 +0000</pubDate>
+      </item><item>
+        <title>new note (near Vértesszőlős) / * 2022 August 16 20:47 Created: Segment of path does not exist anymore. Farmer ploughed it.</title>
+        <link>https://www.openstreetmap.org/note/3317879#c7114709</link>
+        <guid>https://www.openstreetmap.org/note/3317879#c7114709</guid>
+        <pubDate>Tue, 16 Aug 2022 20:47:03 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Hollókő) / * 2022 August 16 20:39 bkil Resolved: Tudomásul vettük.</title>
+        <link>https://www.openstreetmap.org/note/3317336#c7114693</link>
+        <guid>https://www.openstreetmap.org/note/3317336#c7114693</guid>
+        <pubDate>Tue, 16 Aug 2022 20:39:59 +0000</pubDate>
+      </item><item>
         <title>new note (near Hidegség) / * 2022 August 16 19:32 efi99 Created: lebontva. / https://www.google.com/maps/@47.6266473,16.7416416,3a,60y,31.57h,76.43t/data=!3m6!1e1!3m4!1s1_jIl4wH5pM9OeTMqYB57g!2e0!7i16384!8i8192</title>
         <link>https://www.openstreetmap.org/note/3317763#c7114488</link>
         <guid>https://www.openstreetmap.org/note/3317763#c7114488</guid>
@@ -327,21 +347,6 @@
         <link>https://www.openstreetmap.org/note/3173821#c7103206</link>
         <guid>https://www.openstreetmap.org/note/3173821#c7103206</guid>
         <pubDate>Sun, 14 Aug 2022 10:13:08 +0000</pubDate>
-      </item><item>
-        <title>new note (near Városközpont, Kapuvár) / * 2022 August 13 20:26 efi99 Created: cím jó?</title>
-        <link>https://www.openstreetmap.org/note/3312938#c7102057</link>
-        <guid>https://www.openstreetmap.org/note/3312938#c7102057</guid>
-        <pubDate>Sat, 13 Aug 2022 20:26:55 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Fölsőváros, Mórahalom) / * 2022 August 13 20:00 Guzsvány Máté Updated: Igen, azok azok.</title>
-        <link>https://www.openstreetmap.org/note/3305916#c7101959</link>
-        <guid>https://www.openstreetmap.org/note/3305916#c7101959</guid>
-        <pubDate>Sat, 13 Aug 2022 20:00:34 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Fölsőváros, Mórahalom) / * 2022 August 13 19:59 Guzsvány Máté Updated: Ahol kapcsolódik a kettő épület, a baloldali úgy néz ki mint egy téglalap. Nos a téglalaptól egy picivel kisebb. Kb. 1 méterrel. És arre figyelj hogy, a másik felé, ahol nem kapcsolódik még semmihez, válaszd ketté a medencét mert az egyik úszómedence a másik meg gyógyvíz ami gyerekek úszásoktatására szolgál.</title>
-        <link>https://www.openstreetmap.org/note/3305911#c7101954</link>
-        <guid>https://www.openstreetmap.org/note/3305911#c7101954</guid>
-        <pubDate>Sat, 13 Aug 2022 19:59:18 +0000</pubDate>
       </item>
   </channel>
 </rss>
