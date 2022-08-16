@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Hollókő) / * 2022 August 16 15:19 Created: fxx6xtxtxxxdxdx5ddxxxxxxxxxxxddxxx5ddxxfxxxxxxxxdxxdxxdfxx</title>
+        <link>https://www.openstreetmap.org/note/3317336#c7113744</link>
+        <guid>https://www.openstreetmap.org/note/3317336#c7113744</guid>
+        <pubDate>Tue, 16 Aug 2022 15:19:30 +0000</pubDate>
+      </item><item>
         <title>new note (near Jósaváros, Nyíregyháza) / * 2022 August 16 12:33 Created: A Kond utca sok-sok éve egyirányú, az Ószőlő utca felől a Sóstói út felé!</title>
         <link>https://www.openstreetmap.org/note/3317055#c7113027</link>
         <guid>https://www.openstreetmap.org/note/3317055#c7113027</guid>
@@ -342,16 +347,6 @@
         <link>https://www.openstreetmap.org/note/3312560#c7101165</link>
         <guid>https://www.openstreetmap.org/note/3312560#c7101165</guid>
         <pubDate>Sat, 13 Aug 2022 15:24:46 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Odessza, Szeged) / * 2022 August 11 06:56 Guzsvány Máté Created: &amp;quot;Backstage-be vezet rendezvényeken, általában itt nem lehet bemenni, szóval szerintem egy akadállyal, meg lehet oldani, hogy a térképalkalmazások ne ezen az úton akarjanak bevinni a színpadhoz.&amp;quot; / OSM snapshot date: 2022-07-18T07:38:05Z / POI has no name / POI types: highway-path / #organicmaps / * 2022 August 13 13:48 gabro00 Resolved: A jelölő alatt ösvény van, a szervizút visz a backstage-be. Ezen jelöltem a hiányzó behajtási korlátozásokat, kösz a jelzést. / https://www.openstreetmap.org/changeset/124853923</title>
-        <link>https://www.openstreetmap.org/note/3309271#c7100699</link>
-        <guid>https://www.openstreetmap.org/note/3309271#c7100699</guid>
-        <pubDate>Sat, 13 Aug 2022 13:48:51 +0000</pubDate>
-      </item><item>
-        <title>new note (near Belváros, Szeged) / * 2022 August 13 12:46 Guzsvány Máté Created: &amp;quot;Látogatást és tárlatvezetést előre kell egyeztetni telefonon&amp;quot; / OSM snapshot date: 2022-07-18T07:38:05Z / POI name: Jedlik Ányos Elektrotechnikai Múzeum / POI types: tourism-museum / #organicmaps</title>
-        <link>https://www.openstreetmap.org/note/3312373#c7100569</link>
-        <guid>https://www.openstreetmap.org/note/3312373#c7100569</guid>
-        <pubDate>Sat, 13 Aug 2022 12:46:02 +0000</pubDate>
       </item>
   </channel>
 </rss>
