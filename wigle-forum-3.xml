@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Hak5 WiFi Coconut: Looks like a nice compact device for a semi-portable car-setup, combined with a Raspberry Pi or notebook with GPS Only internal antenna(s), I wonder how it will perform in the car. https://shop.hak5.org/products/wifi-coconut Currently using a Kali Notebook with latest Kismet connected to an GPS antenna/USB-Hub/4 USB Alfa WiFi adapters. Adapters connected to 4 flat panel directional antennas positioned in the cat behind the rear side windscreens, stationcar 2 left 2 right 3 adapters set to fixed channels 1,6,11 nr 4 hopping 5 Ghz -larsnl</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11315#p11315</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11315#p11315</guid>
+        <pubDate>2022-08-18T21:45:56</pubDate>
+      </item><item>
         <title>Re: Posting file via cURL: NVM that worked... must have been a network issue. -Binary_Buddha</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11283#p11283</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11283#p11283</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11187#p11187</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11187#p11187</guid>
         <pubDate>2022-02-23T17:46:24</pubDate>
-      </item><item>
-        <title>Has anyone run WiGLE inside the windows 11 android subsystem?: I think the subsystem is hiding the wifi SSIDs. Can't see anything. Or do I need to tweak settings in Windows for this to work? -blackbirdactual</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11186#p11186</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11186#p11186</guid>
-        <pubDate>2022-02-22T22:14:14</pubDate>
       </item>
   </channel>
 </rss>
