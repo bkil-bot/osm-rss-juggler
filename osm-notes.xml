@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Csékút, Ajka) / * 2022 August 19 19:32 vasony-qa Created: Padragi út vagy utca szerepel az utcatáblán?</title>
+        <link>https://www.openstreetmap.org/note/3322323#c7125169</link>
+        <guid>https://www.openstreetmap.org/note/3322323#c7125169</guid>
+        <pubDate>Fri, 19 Aug 2022 19:32:44 +0000</pubDate>
+      </item><item>
         <title>new note (near Tiszavég, Tiszafüred) / * 2022 August 19 19:19 ks00 Created: Unable to answer &amp;quot;What are the opening hours here?&amp;quot; for https://osm.org/node/3273527674 via StreetComplete 45.2: / Bőrműves alkotóház</title>
         <link>https://www.openstreetmap.org/note/3322310#c7125132</link>
         <guid>https://www.openstreetmap.org/note/3322310#c7125132</guid>
@@ -182,16 +187,6 @@
         <link>https://www.openstreetmap.org/note/3315281#c7114730</link>
         <guid>https://www.openstreetmap.org/note/3315281#c7114730</guid>
         <pubDate>Tue, 16 Aug 2022 20:56:54 +0000</pubDate>
-      </item><item>
-        <title>new note (near Gerecse Kapuja, Tatabánya) / * 2022 August 16 20:50 Created: Playground is actually closed.</title>
-        <link>https://www.openstreetmap.org/note/3317883#c7114713</link>
-        <guid>https://www.openstreetmap.org/note/3317883#c7114713</guid>
-        <pubDate>Tue, 16 Aug 2022 20:50:10 +0000</pubDate>
-      </item><item>
-        <title>new note (near Vértesszőlős) / * 2022 August 16 20:47 Created: Segment of path does not exist anymore. Farmer ploughed it.</title>
-        <link>https://www.openstreetmap.org/note/3317879#c7114709</link>
-        <guid>https://www.openstreetmap.org/note/3317879#c7114709</guid>
-        <pubDate>Tue, 16 Aug 2022 20:47:03 +0000</pubDate>
       </item>
   </channel>
 </rss>
