@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Máriagyűd, Siklós) / * 2022 August 20 10:56 Guzsvány Máté Created: Valaki legyen szíves kijavítani az inner, meg outer-t hogy úgy nézzen ki, hogy van egy lyuk benne, ahol kell. Köszönöm</title>
+        <link>https://www.openstreetmap.org/note/3322958#c7127023</link>
+        <guid>https://www.openstreetmap.org/note/3322958#c7127023</guid>
+        <pubDate>Sat, 20 Aug 2022 10:56:20 +0000</pubDate>
+      </item><item>
         <title>new note (near Halásztelek) / * 2022 August 20 10:04 Created: tanösvény</title>
         <link>https://www.openstreetmap.org/note/3322875#c7126879</link>
         <guid>https://www.openstreetmap.org/note/3322875#c7126879</guid>
@@ -177,11 +182,6 @@
         <link>https://www.openstreetmap.org/note/3318352#c7115815</link>
         <guid>https://www.openstreetmap.org/note/3318352#c7115815</guid>
         <pubDate>Wed, 17 Aug 2022 08:59:49 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Belváros, Siófok) / * 2022 June 22 17:02 vasony Created: Új Piac tér vagy Új-piac tér szerepel az utcatáblán? / * 2022 August 17 04:41 kogutowicz-mano Updated: Újpiac tér. (A Széchenyi sarkán.)</title>
-        <link>https://www.openstreetmap.org/note/3236410#c7115262</link>
-        <guid>https://www.openstreetmap.org/note/3236410#c7115262</guid>
-        <pubDate>Wed, 17 Aug 2022 04:41:13 +0000</pubDate>
       </item>
   </channel>
 </rss>
