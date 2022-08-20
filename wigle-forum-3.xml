@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Hak5 WiFi Coconut: The coconut appears to have an IPEX (IPX) connector where all the radios come together into a top patch antenna near the fan, so in theory, one could remove that and add an IPX to female SMA bulkhead with an external antenna and be off to the races. It's unknown if there are additional amplifiers in-line with each radio, as a 1:14 splitter will reduce the signal strength by around 12dB in losses with one input antenna. There are also 14 smaller test ports for each radio, however these RF connectors do not appear to be IPX and maybe Murata. Be carefully pulling up the one main antenna off the board, as I accidentally ripped the IPX female connector off the board while attempting to gently pull up the IPX male connector out of the female soldered socket with equal pressure from both sides. An old salty dog friend said it might have been a cold solder joint, as the connector should have popped off the connector before ripping the solder joint, so be careful if you go this method. Some flux and hot air might be able to re-attach it. Now if only dragorn or mkershaw come out with a Win x64 Coconut binary that support a generic GPS/NMEA GPS input, then anyone could Wardrive in style with Windows and 14 radios. I bet it would be the fast setup for a multi-radio war-driving rig ever.... -power64</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11316#p11316</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11316#p11316</guid>
+        <pubDate>2022-08-20T00:31:17</pubDate>
+      </item><item>
         <title>Hak5 WiFi Coconut: Looks like a nice compact device for a semi-portable car-setup, combined with a Raspberry Pi or notebook with GPS Only internal antenna(s), I wonder how it will perform in the car. https://shop.hak5.org/products/wifi-coconut Currently using a Kali Notebook with latest Kismet connected to an GPS antenna/USB-Hub/4 USB Alfa WiFi adapters. Adapters connected to 4 flat panel directional antennas positioned in the cat behind the rear side windscreens, stationcar 2 left 2 right 3 adapters set to fixed channels 1,6,11 nr 4 hopping 5 Ghz -larsnl</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11315#p11315</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11315#p11315</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11188#p11188</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11188#p11188</guid>
         <pubDate>2022-02-23T17:51:15</pubDate>
-      </item><item>
-        <title>Re: Has anyone run WiGLE inside the windows 11 android subsystem?: you can check scanning permissions in the Android settings, but it's very likely that since you're running inside a virtualized container, windows doesn't provide access to the WiFi radio(s) directly - this could interfere with Window's use of WiFi adapters and would require complicated translation layers. -arkasha</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11187#p11187</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11187#p11187</guid>
-        <pubDate>2022-02-23T17:46:24</pubDate>
       </item>
   </channel>
 </rss>
