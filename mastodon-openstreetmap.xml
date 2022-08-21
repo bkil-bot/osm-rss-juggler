@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>#StateoftheMap2022 and other OpenStreetMap updates in Spanish by @esopenstreetmap@twitter.com :) #sotm2022</title>
+        <link>https://en.osm.town/@openstreetmap/108859813384982830</link>
+        <guid>https://en.osm.town/@openstreetmap/108859813384982830</guid>
+        <pubDate>Sun, 21 Aug 2022 08:02:09 +0000</pubDate>
+      </item><item>
         <title>RT @GrinbergerYair@twitter.com Ilya not only asks us to go back out and map POIs, but also gives us the tool to do so. Every Door (https://every-door.app/) seems like an excellent way to move towards the goal in the slide. A very exciting development! Congrats on the great effort. #SotM2022 🐦🔗: https://twitter.com/GrinbergerYair/status/1560943698136993795</title>
         <link>https://en.osm.town/@openstreetmap/108854843377369498</link>
         <guid>https://en.osm.town/@openstreetmap/108854843377369498</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/103764669965938800</link>
         <guid>https://en.osm.town/@openstreetmap/103764669965938800</guid>
         <pubDate>Wed, 04 Mar 2020 12:00:11 +0000</pubDate>
-      </item><item>
-        <title>Congratulations to @weeklyOSM for publishing its 500th newsletter! WeeklyOSM is a volunteer community project, sharing OpenStreetMap news every week in several languages :) https://blog.openstreetmap.org/2020/02/26/congratulations-to-weeklyosm-for-publishing-its-500th-newsletter/</title>
-        <link>https://en.osm.town/@openstreetmap/103726331316241738</link>
-        <guid>https://en.osm.town/@openstreetmap/103726331316241738</guid>
-        <pubDate>Wed, 26 Feb 2020 17:30:09 +0000</pubDate>
       </item>
   </channel>
 </rss>
