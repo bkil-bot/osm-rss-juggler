@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Györgymajor, Bakonysárkány) / * 2022 August 22 11:35 Michal Rzeznik Created: &amp;quot;It doesnt exists, there was no road or any sign of this place.&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2022-07-18T07:38:05Z / POI name: LPG / POI types: amenity-fuel / #organicmaps</title>
+        <link>https://www.openstreetmap.org/note/3325912#c7134347</link>
+        <guid>https://www.openstreetmap.org/note/3325912#c7134347</guid>
+        <pubDate>Mon, 22 Aug 2022 11:35:29 +0000</pubDate>
+      </item><item>
         <title>closed note (near Délnyugat Lakópark, Újszentiván) / * 2022 August 22 07:58 em9quaqu Resolved: </title>
         <link>https://www.openstreetmap.org/note/3325624#c7133757</link>
         <guid>https://www.openstreetmap.org/note/3325624#c7133757</guid>
@@ -187,26 +192,6 @@
         <link>https://www.openstreetmap.org/note/3137901#c7120160</link>
         <guid>https://www.openstreetmap.org/note/3137901#c7120160</guid>
         <pubDate>Thu, 18 Aug 2022 08:53:47 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Csepel-Gyártelep, 21st district) / * 2022 June 7 16:25 kogutowicz-mano Created: Az újabb műholdképek szerint a víztorony már nem létezik. / * 2022 August 18 08:47 Hungarian_user Resolved: disused-be raktam, remélem, az jó lesz erre.</title>
-        <link>https://www.openstreetmap.org/note/3214875#c7120147</link>
-        <guid>https://www.openstreetmap.org/note/3214875#c7120147</guid>
-        <pubDate>Thu, 18 Aug 2022 08:47:55 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Csepel-Belváros, 21st district) / * 2022 February 3 13:49 Hungarian_user Created: Unable to answer &amp;quot;Are these opening hours for Cadillac Cafe and Restaurant (Restaurant) still correct?&amp;quot; for https://osm.org/node/6284071469 via StreetComplete 39.1: / megszűnt / * 2022 April 12 06:54 Zsolt Beringer Updated: https://wiki.openstreetmap.org/wiki/Key:disused: / * 2022 August 18 08:44 Hungarian_user Resolved: Rendben, kösz! Átírtam disused-re.</title>
-        <link>https://www.openstreetmap.org/note/3036105#c7120126</link>
-        <guid>https://www.openstreetmap.org/note/3036105#c7120126</guid>
-        <pubDate>Thu, 18 Aug 2022 08:44:10 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Csepel-Kertváros, 21st district) / * 2022 June 17 13:04 Hungarian_user Created: Totó büfé 08-22 minden nap / * 2022 August 18 08:40 Hungarian_user Resolved: felrajzolva, nyitvatartási infó beírva</title>
-        <link>https://www.openstreetmap.org/note/3228988#c7120110</link>
-        <guid>https://www.openstreetmap.org/note/3228988#c7120110</guid>
-        <pubDate>Thu, 18 Aug 2022 08:40:20 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Csepel-Kertváros, 21st district) / * 2022 June 17 13:10 Hungarian_user Created: tűzcsap oszlop fű / * 2022 August 18 08:38 Hungarian_user Resolved: felrajzolva</title>
-        <link>https://www.openstreetmap.org/note/3228994#c7120107</link>
-        <guid>https://www.openstreetmap.org/note/3228994#c7120107</guid>
-        <pubDate>Thu, 18 Aug 2022 08:38:55 +0000</pubDate>
       </item>
   </channel>
 </rss>
