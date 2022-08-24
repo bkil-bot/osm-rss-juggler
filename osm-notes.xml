@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Völgy-föld, Balatonszárszó) / * 2022 July 27 21:03 vasony Created: Keleti üdülőtelep vagy Keleti üdülő-telep szerepel az utcatáblán? / * 2022 August 24 22:55 urbalazs Resolved: Egyik sem, ez a Panoráma utca. Javítottam a nevet.</title>
+        <link>https://www.openstreetmap.org/note/3286533#c7145143</link>
+        <guid>https://www.openstreetmap.org/note/3286533#c7145143</guid>
+        <pubDate>Wed, 24 Aug 2022 22:55:07 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Völgy-föld, Balatonszárszó) / * 2022 July 27 20:48 vasony Created: Itt a Bendegúz téri szabadstrand, de melyik szakasz a Bendegúz tér? / * 2022 August 24 22:55 urbalazs Resolved: Maga a szabadstrand a Bendegúz tér. Hozzáadtam egy járdát és egy szervizutat, és rátettem a nevet.</title>
+        <link>https://www.openstreetmap.org/note/3286490#c7145142</link>
+        <guid>https://www.openstreetmap.org/note/3286490#c7145142</guid>
+        <pubDate>Wed, 24 Aug 2022 22:55:06 +0000</pubDate>
+      </item><item>
         <title>closed note (near Karikavölgy, Balatonföldvár) / * 2022 June 22 18:11 vasony Created: Radnóti utca vagy Radnóti Miklós utca szerepel az utcatáblán? / * 2022 August 17 04:24 kogutowicz-mano Updated: Nincs is utcatábla. :-) / * 2022 August 24 22:06 urbalazs Resolved: De van a Zrínyi Miklós utca / Radnóti Miklós utca sarkán egy, de csak a Zrínyi Miklós utca felől látszik. Szépen ki van írva, hogy Radnóti Miklós utca. Javítottam a nevet.</title>
         <link>https://www.openstreetmap.org/note/3236498#c7145044</link>
         <guid>https://www.openstreetmap.org/note/3236498#c7145044</guid>
@@ -137,16 +147,6 @@
         <link>https://www.openstreetmap.org/note/3278071#c7137640</link>
         <guid>https://www.openstreetmap.org/note/3278071#c7137640</guid>
         <pubDate>Tue, 23 Aug 2022 08:58:32 +0000</pubDate>
-      </item><item>
-        <title>reactivated note (near Nitzkymajor, Sé) / * 2022 August 23 08:52 kogutowicz-mano Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/3278071#c7137626</link>
-        <guid>https://www.openstreetmap.org/note/3278071#c7137626</guid>
-        <pubDate>Tue, 23 Aug 2022 08:52:39 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Nitzkymajor, Sé) / * 2022 July 22 11:08 kogutowicz-mano Created: Azt gyanítom ezek itt teljesen légből kapott utcanevek. Jóformán mind megtalálhatók bent a városban. Alig hiszem, hogy az önkormányzat abból űzne sportot, hogy egy csomó utcának összekeverhető neve legyen. / * 2022 August 23 08:35 f_laszlo Resolved: Meglepő módon a telekkönyvben bizony szerepelnek ezek az utcanekvek. V.ö.: https://ekozmu.e-epites.hu/</title>
-        <link>https://www.openstreetmap.org/note/3278071#c7137586</link>
-        <guid>https://www.openstreetmap.org/note/3278071#c7137586</guid>
-        <pubDate>Tue, 23 Aug 2022 08:35:27 +0000</pubDate>
       </item>
   </channel>
 </rss>
