@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>@mvexel created a tool to let you “Meet Your Mappers”, i.e. discover #OpenStreetMap mappers near you (or anywhere else, in fact). Website: https://mym.rtijn.org/ Demo video: https://www.twitch.tv/videos/1570683649</title>
+        <link>https://en.osm.town/@Doudouosm/108877771353225603</link>
+        <guid>https://en.osm.town/@Doudouosm/108877771353225603</guid>
+        <pubDate>Wed, 24 Aug 2022 12:09:06 +0000</pubDate>
+      </item><item>
         <title>Powered by #Wikidata, #OpenStreetMap, and other sources, the “Notable People Map” is showing birthplace of the most &amp;quot;notable people&amp;quot; around the world. Data has been processed to show only one person for each unique geographic location with the highest notability rack. https://tjukanovt.github.io/notable-people If you wondered how someone qualifies for the notability criteria, there is an article about that: https://www.nature.com/articles/s41597-022-01369-4.</title>
         <link>https://en.osm.town/@Doudouosm/108795185068987263</link>
         <guid>https://en.osm.town/@Doudouosm/108795185068987263</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/108282983342352641</link>
         <guid>https://en.osm.town/@Doudouosm/108282983342352641</guid>
         <pubDate>Wed, 11 May 2022 11:06:41 +0000</pubDate>
-      </item><item>
-        <title>And on a related note, talking of unexpected map viewers, I should also mention #MapSCII, which is a #Braille and ASCII world map renderer for your console, accessible via #telnet. Simply invoke “telnet mapscii.me”. Powered by #OpenStreetMap data.</title>
-        <link>https://en.osm.town/@Doudouosm/108279759565780419</link>
-        <guid>https://en.osm.town/@Doudouosm/108279759565780419</guid>
-        <pubDate>Tue, 10 May 2022 21:26:50 +0000</pubDate>
       </item>
   </channel>
 </rss>
