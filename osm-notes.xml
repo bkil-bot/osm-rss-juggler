@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Városközpont, Kapuvár) / * 2022 August 25 11:12 efi99 Created: cím?</title>
+        <link>https://www.openstreetmap.org/note/3331119#c7146644</link>
+        <guid>https://www.openstreetmap.org/note/3331119#c7146644</guid>
+        <pubDate>Thu, 25 Aug 2022 11:12:09 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Lulla) / * 2022 July 18 16:06 vasony-qa Created: Ez a Petőfi Sándor utca? / * 2022 August 14 11:30 Gaurdein Updated: Igen / * 2022 August 25 10:40 urbalazs Resolved: Megoldva, lezárom.</title>
+        <link>https://www.openstreetmap.org/note/3272968#c7146515</link>
+        <guid>https://www.openstreetmap.org/note/3272968#c7146515</guid>
+        <pubDate>Thu, 25 Aug 2022 10:40:28 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Pusztavacs) / * 2022 August 25 10:30 urbalazs Resolved: Yes, it is a house and already mapped.</title>
+        <link>https://www.openstreetmap.org/note/3330968#c7146499</link>
+        <guid>https://www.openstreetmap.org/note/3330968#c7146499</guid>
+        <pubDate>Thu, 25 Aug 2022 10:30:57 +0000</pubDate>
+      </item><item>
         <title>new note (near Pusztavacs) / * 2022 August 25 09:46 Edoardo Taricani Created: House / via StreetComplete 45.2</title>
         <link>https://www.openstreetmap.org/note/3330968#c7146335</link>
         <guid>https://www.openstreetmap.org/note/3330968#c7146335</guid>
@@ -152,11 +167,6 @@
         <link>https://www.openstreetmap.org/note/3328210#c7139560</link>
         <guid>https://www.openstreetmap.org/note/3328210#c7139560</guid>
         <pubDate>Tue, 23 Aug 2022 16:23:09 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Balatonakarattya) / * 2022 June 23 19:45 vasony Created: Ez a szakasz esetleg Koppány lejtő? / * 2022 August 23 16:21 Johanna707 Updated: Semmi nem utal rá. Hiányzik az utcanévtábla.</title>
-        <link>https://www.openstreetmap.org/note/3237905#c7139548</link>
-        <guid>https://www.openstreetmap.org/note/3237905#c7139548</guid>
-        <pubDate>Tue, 23 Aug 2022 16:21:01 +0000</pubDate>
       </item>
   </channel>
 </rss>
