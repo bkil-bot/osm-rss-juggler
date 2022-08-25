@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Rádpuszta, Balatonlelle) / * 2022 July 27 20:11 vasony Created: A következő Rádpuszta utcanevek léteznek? / - Kastély utca / - Szőlősor utca / * 2022 August 25 00:19 urbalazs Resolved: Igen, léteznek, szépen ki vannak táblázva. Beírtam a hiányzó utcaneveket.</title>
+        <link>https://www.openstreetmap.org/note/3286449#c7145186</link>
+        <guid>https://www.openstreetmap.org/note/3286449#c7145186</guid>
+        <pubDate>Thu, 25 Aug 2022 00:19:54 +0000</pubDate>
+      </item><item>
         <title>closed note (near Völgy-föld, Balatonszárszó) / * 2022 July 27 21:03 vasony Created: Keleti üdülőtelep vagy Keleti üdülő-telep szerepel az utcatáblán? / * 2022 August 24 22:55 urbalazs Resolved: Egyik sem, ez a Panoráma utca. Javítottam a nevet.</title>
         <link>https://www.openstreetmap.org/note/3286533#c7145143</link>
         <guid>https://www.openstreetmap.org/note/3286533#c7145143</guid>
@@ -142,11 +147,6 @@
         <link>https://www.openstreetmap.org/note/3316476#c7137813</link>
         <guid>https://www.openstreetmap.org/note/3316476#c7137813</guid>
         <pubDate>Tue, 23 Aug 2022 09:42:57 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Nitzkymajor, Sé) / * 2022 August 23 08:58 kogutowicz-mano Updated: Ne kapkodjunk azzal a lezárással! :-) / Nem egyértelmű, amit írsz. / Azon a linken csak ezt látom: / Not Found / The requested URL was not found on this server. / Az adott nevű közterületek bent vannak a városban. / A te listád a helyüket is mutatja, vagy csak a puszta létezésüket? És hány Szegfű utcát látsz?</title>
-        <link>https://www.openstreetmap.org/note/3278071#c7137640</link>
-        <guid>https://www.openstreetmap.org/note/3278071#c7137640</guid>
-        <pubDate>Tue, 23 Aug 2022 08:58:32 +0000</pubDate>
       </item>
   </channel>
 </rss>
