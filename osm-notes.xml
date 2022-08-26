@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Fürdőtelep, Balatonfüred) / * 2022 August 26 10:02 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: Parking is paid. / https://www.openstreetmap.org/way/281297054</title>
+        <link>https://www.openstreetmap.org/note/3332315#c7149748</link>
+        <guid>https://www.openstreetmap.org/note/3332315#c7149748</guid>
+        <pubDate>Fri, 26 Aug 2022 10:02:05 +0000</pubDate>
+      </item><item>
         <title>closed note (near Szőlőskislak, Balatonboglár) / * 2022 August 10 19:48 vasony Created: Római út vagy Római utca szerepel az utcatáblán? / * 2022 August 25 23:33 urbalazs Resolved: Római utca szerepel a táblán, nem út. Javítottam, de csak Balatonlelle határáig, mert a balatonlellei oldalon lévő táblán Római út van.</title>
         <link>https://www.openstreetmap.org/note/3308911#c7148740</link>
         <guid>https://www.openstreetmap.org/note/3308911#c7148740</guid>
@@ -242,31 +247,6 @@
         <link>https://www.openstreetmap.org/note/3286449#c7145186</link>
         <guid>https://www.openstreetmap.org/note/3286449#c7145186</guid>
         <pubDate>Thu, 25 Aug 2022 00:19:54 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Völgy-föld, Balatonszárszó) / * 2022 July 27 21:03 vasony Created: Keleti üdülőtelep vagy Keleti üdülő-telep szerepel az utcatáblán? / * 2022 August 24 22:55 urbalazs Resolved: Egyik sem, ez a Panoráma utca. Javítottam a nevet.</title>
-        <link>https://www.openstreetmap.org/note/3286533#c7145143</link>
-        <guid>https://www.openstreetmap.org/note/3286533#c7145143</guid>
-        <pubDate>Wed, 24 Aug 2022 22:55:07 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Völgy-föld, Balatonszárszó) / * 2022 July 27 20:48 vasony Created: Itt a Bendegúz téri szabadstrand, de melyik szakasz a Bendegúz tér? / * 2022 August 24 22:55 urbalazs Resolved: Maga a szabadstrand a Bendegúz tér. Hozzáadtam egy járdát és egy szervizutat, és rátettem a nevet.</title>
-        <link>https://www.openstreetmap.org/note/3286490#c7145142</link>
-        <guid>https://www.openstreetmap.org/note/3286490#c7145142</guid>
-        <pubDate>Wed, 24 Aug 2022 22:55:06 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Karikavölgy, Balatonföldvár) / * 2022 June 22 18:11 vasony Created: Radnóti utca vagy Radnóti Miklós utca szerepel az utcatáblán? / * 2022 August 17 04:24 kogutowicz-mano Updated: Nincs is utcatábla. :-) / * 2022 August 24 22:06 urbalazs Resolved: De van a Zrínyi Miklós utca / Radnóti Miklós utca sarkán egy, de csak a Zrínyi Miklós utca felől látszik. Szépen ki van írva, hogy Radnóti Miklós utca. Javítottam a nevet.</title>
-        <link>https://www.openstreetmap.org/note/3236498#c7145044</link>
-        <guid>https://www.openstreetmap.org/note/3236498#c7145044</guid>
-        <pubDate>Wed, 24 Aug 2022 22:06:02 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Belváros, Siófok) / * 2022 June 22 17:02 vasony Created: Új Piac tér vagy Új-piac tér szerepel az utcatáblán? / * 2022 August 17 04:41 kogutowicz-mano Updated: Újpiac tér. (A Széchenyi sarkán.) / * 2022 August 24 22:03 urbalazs Updated: A másik végén pedig ÚJ PIAC TÉR, csupa nagybetűvel, kötőjel nélkül. Így nem lehet tudni, hogy a piac szóban a P az kis- vagy nagybetűvel lenne. Nyitva hagyom, mert ez további utánajárást igényel. Rákérdezek az önkormányzatnál, hogy szerintük mi az utca neve.</title>
-        <link>https://www.openstreetmap.org/note/3236410#c7145027</link>
-        <guid>https://www.openstreetmap.org/note/3236410#c7145027</guid>
-        <pubDate>Wed, 24 Aug 2022 22:03:07 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Gáspártelep, Balatonakarattya) / * 2022 June 23 19:53 vasony Created: Hét vezér utca vagy Hétvezér utca szerepel az utcatáblán? / * 2022 August 24 21:37 urbalazs Resolved: Egybe van írva, Hétvezér utca. Javítottam az utcanevet.</title>
-        <link>https://www.openstreetmap.org/note/3237915#c7144996</link>
-        <guid>https://www.openstreetmap.org/note/3237915#c7144996</guid>
-        <pubDate>Wed, 24 Aug 2022 21:37:21 +0000</pubDate>
       </item>
   </channel>
 </rss>
