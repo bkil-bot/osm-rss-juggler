@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Óvár, Tihany) / * 2021 November 19 16:21 vasony-qa Created: Garay, Garay János vagy Garai János utca? / * 2022 August 27 07:13 OSM KAMI Updated: Garay / Attached photo(s): / https://westnordost.de/p/109812.jpg</title>
+        <link>https://www.openstreetmap.org/note/2941113#c7152078</link>
+        <guid>https://www.openstreetmap.org/note/2941113#c7152078</guid>
+        <pubDate>Sat, 27 Aug 2022 07:13:23 +0000</pubDate>
+      </item><item>
+        <title>new note (near Borjád, Kölesd) / * 2022 August 27 07:08 Petymag Created: Unable to answer &amp;quot;What kind of memorial is this?&amp;quot; for https://osm.org/node/3462188006 via StreetComplete 45.2: / Csak bejelentkezésel látogatható. / Attached photo(s): / https://westnordost.de/p/109810.jpg</title>
+        <link>https://www.openstreetmap.org/note/3333440#c7152069</link>
+        <guid>https://www.openstreetmap.org/note/3333440#c7152069</guid>
+        <pubDate>Sat, 27 Aug 2022 07:08:42 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Császta, Balatonboglár) / * 2022 August 10 19:51 vasony Created: Mikszáth Kálmán utca vagy Mikszáth utca szerepel az utcatáblán? / * 2022 August 25 22:56 urbalazs Updated: A régi és az új táblán is csak Mikszáth utca van, de nem írtam át a nevet. Az utca másik végén nincs tábla, hiányzik. Nyitva hagyom, találjuk ki, hogy írjam-e át. / * 2022 August 27 07:04 urbalazs Resolved: A Balatonboglári Körzeti Földhivatal szerint is Mikszáth utca. Legyen akkor csak vezetéknévvel.</title>
+        <link>https://www.openstreetmap.org/note/3308915#c7152060</link>
+        <guid>https://www.openstreetmap.org/note/3308915#c7152060</guid>
+        <pubDate>Sat, 27 Aug 2022 07:04:51 +0000</pubDate>
+      </item><item>
         <title>closed note (near Fürdőtelep, Zamárdi) / * 2022 August 14 15:32 gpeti37 Created: Kútvölgyi-patak / * 2022 August 26 23:56 urbalazs Resolved: A bejelentő elnevezte a patak egy részét, én pedig rátettem a nevet a patak többi részére is.</title>
         <link>https://www.openstreetmap.org/note/3314043#c7151747</link>
         <guid>https://www.openstreetmap.org/note/3314043#c7151747</guid>
@@ -222,36 +237,6 @@
         <link>https://www.openstreetmap.org/note/3330808#c7145998</link>
         <guid>https://www.openstreetmap.org/note/3330808#c7145998</guid>
         <pubDate>Thu, 25 Aug 2022 08:03:35 +0000</pubDate>
-      </item><item>
-        <title>new note (near Egyetem, Gödöllő) / * 2022 August 25 07:06 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: There are public toilets.</title>
-        <link>https://www.openstreetmap.org/note/3330720#c7145819</link>
-        <guid>https://www.openstreetmap.org/note/3330720#c7145819</guid>
-        <pubDate>Thu, 25 Aug 2022 07:06:01 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Óbuda, 3rd district) / * 2022 August 25 06:42 Raktárak Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3330683#c7145775</link>
-        <guid>https://www.openstreetmap.org/note/3330683#c7145775</guid>
-        <pubDate>Thu, 25 Aug 2022 06:42:16 +0000</pubDate>
-      </item><item>
-        <title>reactivated note (near Óbuda, 3rd district) / * 2022 August 25 06:42 Raktárak Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/3330683#c7145774</link>
-        <guid>https://www.openstreetmap.org/note/3330683#c7145774</guid>
-        <pubDate>Thu, 25 Aug 2022 06:42:12 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Óbuda, 3rd district) / * 2022 August 25 06:30 Raktárak Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3330683#c7145747</link>
-        <guid>https://www.openstreetmap.org/note/3330683#c7145747</guid>
-        <pubDate>Thu, 25 Aug 2022 06:30:34 +0000</pubDate>
-      </item><item>
-        <title>reactivated note (near Óbuda, 3rd district) / * 2022 August 25 06:30 Raktárak Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/3330683#c7145746</link>
-        <guid>https://www.openstreetmap.org/note/3330683#c7145746</guid>
-        <pubDate>Thu, 25 Aug 2022 06:30:28 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Óbuda, 3rd district) / * 2022 August 25 06:30 Raktárak Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3330683#c7145745</link>
-        <guid>https://www.openstreetmap.org/note/3330683#c7145745</guid>
-        <pubDate>Thu, 25 Aug 2022 06:30:20 +0000</pubDate>
       </item>
   </channel>
 </rss>
