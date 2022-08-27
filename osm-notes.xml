@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Öreghegy, Balatonszemes) / * 2022 August 18 07:23 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: There&amp;#39;s no ATM. / https://www.openstreetmap.org/node/4956282831 / * 2022 August 27 08:48 urbalazs Resolved: Thanks for the report. The ATM was moved to south next to the tourinform office.</title>
+        <link>https://www.openstreetmap.org/note/3320026#c7152354</link>
+        <guid>https://www.openstreetmap.org/note/3320026#c7152354</guid>
+        <pubDate>Sat, 27 Aug 2022 08:48:18 +0000</pubDate>
+      </item><item>
         <title>closed note (near Balatonőszöd) / * 2020 July 8 05:28 vasony Created: Van itt egy Kismetszés köz nevű utca? / * 2022 August 27 08:20 urbalazs Resolved: A Siófok Körzeti Földhivatal szerint a hrsz: 689 a Kismetszés köz. A valóságban ez a vasúttól a körforgalomig tartó földterület. Elneveztem a járdát, mert a szabályozási terven is szerepel a név, de kitáblázva nincs. A Szent István utca végét nem írtam át. Lásd: https://www.openstreetmap.org/changeset/125433175</title>
         <link>https://www.openstreetmap.org/note/2257278#c7152282</link>
         <guid>https://www.openstreetmap.org/note/2257278#c7152282</guid>
@@ -242,11 +247,6 @@
         <link>https://www.openstreetmap.org/note/3331136#c7146690</link>
         <guid>https://www.openstreetmap.org/note/3331136#c7146690</guid>
         <pubDate>Thu, 25 Aug 2022 11:22:41 +0000</pubDate>
-      </item><item>
-        <title>new note (near Városközpont, Kapuvár) / * 2022 August 25 11:12 efi99 Created: cím?</title>
-        <link>https://www.openstreetmap.org/note/3331119#c7146644</link>
-        <guid>https://www.openstreetmap.org/note/3331119#c7146644</guid>
-        <pubDate>Thu, 25 Aug 2022 11:12:09 +0000</pubDate>
       </item>
   </channel>
 </rss>
