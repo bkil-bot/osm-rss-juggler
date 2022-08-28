@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Óbuda, 3rd district) / * 2022 July 3 07:17 Hungarian_user Created: Unable to answer &amp;quot;Does this street have a sidewalk?&amp;quot; for https://osm.org/way/990440490 via StreetComplete 44.1: / Gyalogátkelő, nem utca. / * 2022 August 28 12:13 MmAaXx500 Resolved: De, az egy utca a gyalogátkelő mellette van. / Street View: https://www.google.com/maps/@47.5459308,19.0329584,3a,75y,81.38h,81.52t/data=!3m6!1e1!3m4!1sILyXJLAsYaAX59OTJKEPQg!2e0!7i16384!8i8192</title>
+        <link>https://www.openstreetmap.org/note/3249513#c7155614</link>
+        <guid>https://www.openstreetmap.org/note/3249513#c7155614</guid>
+        <pubDate>Sun, 28 Aug 2022 12:13:44 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Asia Center, Rákospalota, 15th district) / * 2022 August 21 12:38 ks00 Created: Unable to answer &amp;quot;Do the trees here have needles or leaves?&amp;quot; for https://osm.org/way/865666088 via StreetComplete 45.2: / Nincs fa. / * 2022 August 28 11:50 MmAaXx500 Updated: Szerintem leveheted a fákat, nincs ott egy sem</title>
+        <link>https://www.openstreetmap.org/note/3324612#c7155550</link>
+        <guid>https://www.openstreetmap.org/note/3324612#c7155550</guid>
+        <pubDate>Sun, 28 Aug 2022 11:50:16 +0000</pubDate>
+      </item><item>
         <title>closed note (near Belváros, 5th district) / * 2022 June 21 19:49 Vadim678 Created: &amp;quot;Shopping &amp;quot; / OSM snapshot date: 2022-05-15T14:57:35Z / POI name: Váci utca / POI types: hwtag-lit psurface-paved_good hwtag-nobicycle highway-pedestrian / #organicmaps / * 2022 August 28 00:12 urbalazs Resolved: Yes, this is a shopping street with lot of shops.</title>
         <link>https://www.openstreetmap.org/note/3235315#c7154580</link>
         <guid>https://www.openstreetmap.org/note/3235315#c7154580</guid>
@@ -237,26 +247,6 @@
         <link>https://www.openstreetmap.org/note/3322282#c7148443</link>
         <guid>https://www.openstreetmap.org/note/3322282#c7148443</guid>
         <pubDate>Thu, 25 Aug 2022 21:02:37 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Császta, Balatonboglár) / * 2022 August 10 19:52 vasony Created: Kupa vezér utca vagy Kupavezér utca szerepel az utcatáblán? / * 2022 August 25 16:15 urbalazs Resolved: A Kupa vezér utca szóközzel szerepel az utcanévtáblán, ahogy az OSM-en is. Jó így, nincs vele teendő.</title>
-        <link>https://www.openstreetmap.org/note/3308921#c7147603</link>
-        <guid>https://www.openstreetmap.org/note/3308921#c7147603</guid>
-        <pubDate>Thu, 25 Aug 2022 16:15:27 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Császta, Balatonboglár) / * 2022 August 10 19:44 vasony Created: Hunyadi János utca vagy Hunyadi utca szerepel az utcatáblán? / * 2022 August 25 16:14 urbalazs Resolved: A Hunyadi János utca mindkét végén csak Hunyadi utcaként van kitáblázva, de több épületen is teljes névvel szerepel a házszámtáblán. Mivel a környéken minden utca teljes névvel van kitáblázva, hagynám az OSM-en is teljes névvel.</title>
-        <link>https://www.openstreetmap.org/note/3308902#c7147593</link>
-        <guid>https://www.openstreetmap.org/note/3308902#c7147593</guid>
-        <pubDate>Thu, 25 Aug 2022 16:14:02 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Császta, Balatonboglár) / * 2022 August 9 19:45 vasony Created: Széchenyi vagy Széchenyi István szerepel az utcatáblán? / * 2022 August 25 16:12 urbalazs Resolved: A Széchenyi István utca teljes névvel van kitáblázva egy régi táblán. Jó az OSM-en, nincs vele teendő.</title>
-        <link>https://www.openstreetmap.org/note/3307363#c7147588</link>
-        <guid>https://www.openstreetmap.org/note/3307363#c7147588</guid>
-        <pubDate>Thu, 25 Aug 2022 16:12:06 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Császta, Balatonboglár) / * 2022 August 10 19:52 vasony Created: Klapka György utca vagy Klapka utca szerepel az utcatáblán? / * 2022 August 25 16:10 urbalazs Resolved: A Klapka György utca teljes névvel van kitáblázva egy régi táblán. Jó az OSM-en, nincs vele teendő.</title>
-        <link>https://www.openstreetmap.org/note/3308920#c7147584</link>
-        <guid>https://www.openstreetmap.org/note/3308920#c7147584</guid>
-        <pubDate>Thu, 25 Aug 2022 16:10:17 +0000</pubDate>
       </item>
   </channel>
 </rss>
