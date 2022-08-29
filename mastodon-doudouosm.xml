@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>@zverik released v1.0 of the #EveryDoor app (for Android and iOS) to edit #OpenStreetMap on the go. Presented by the author as “The best mobile editor for adding shops and amenities to OpenStreetMap.” Give it a try and let know what you find of it. 😃 https://github.com/Zverik/every_door Via #WeeklyOSM: https://weeklyosm.eu/archives/15885</title>
+        <link>https://en.osm.town/@Doudouosm/108907149401083657</link>
+        <guid>https://en.osm.town/@Doudouosm/108907149401083657</guid>
+        <pubDate>Mon, 29 Aug 2022 16:40:20 +0000</pubDate>
+      </item><item>
         <title>@mvexel created a tool to let you “Meet Your Mappers”, i.e. discover #OpenStreetMap mappers near you (or anywhere else, in fact). Website: https://mym.rtijn.org/ Demo video: https://www.twitch.tv/videos/1570683649</title>
         <link>https://en.osm.town/@Doudouosm/108877771353225603</link>
         <guid>https://en.osm.town/@Doudouosm/108877771353225603</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/108290601732059700</link>
         <guid>https://en.osm.town/@Doudouosm/108290601732059700</guid>
         <pubDate>Thu, 12 May 2022 19:24:09 +0000</pubDate>
-      </item><item>
-        <title>While mapping in #OpenStreetMap, b-unicycling’s sharpened eye discovered an unlisted archeological site in Ireland from satellite imagery. You can read her story in her diary: https://www.openstreetmap.org/user/b-unicycling/diary/399082. And listen to her excitement in her video report: https://yewtu.be/watch?v=b19C5O_tZE8. While you’re there you may want to follow her “OSM for History Buffs” channel. #archeology</title>
-        <link>https://en.osm.town/@Doudouosm/108282983342352641</link>
-        <guid>https://en.osm.town/@Doudouosm/108282983342352641</guid>
-        <pubDate>Wed, 11 May 2022 11:06:41 +0000</pubDate>
       </item>
   </channel>
 </rss>
