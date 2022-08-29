@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Delta telep, Zánka) / * 2022 August 29 06:39 Pallinger Péter Created: Ez kerékpárral járhatatlan</title>
+        <link>https://www.openstreetmap.org/note/3336322#c7157997</link>
+        <guid>https://www.openstreetmap.org/note/3336322#c7157997</guid>
+        <pubDate>Mon, 29 Aug 2022 06:39:22 +0000</pubDate>
+      </item><item>
         <title>new note (near Szerdahely, Fertőszentmiklós) / * 2022 August 28 20:30 efi99 Created: itt van ház?</title>
         <link>https://www.openstreetmap.org/note/3335957#c7157229</link>
         <guid>https://www.openstreetmap.org/note/3335957#c7157229</guid>
@@ -212,26 +217,6 @@
         <link>https://www.openstreetmap.org/note/3308911#c7148740</link>
         <guid>https://www.openstreetmap.org/note/3308911#c7148740</guid>
         <pubDate>Thu, 25 Aug 2022 23:33:47 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Szőlőskislak, Balatonboglár) / * 2022 August 10 19:48 vasony Created: Kishegyi út vagy Kishegyi utca szerepel az utcatáblán? / * 2022 August 25 23:33 urbalazs Resolved: Kishegyi utca szerepel a táblán, nem út. Javítottam.</title>
-        <link>https://www.openstreetmap.org/note/3308909#c7148737</link>
-        <guid>https://www.openstreetmap.org/note/3308909#c7148737</guid>
-        <pubDate>Thu, 25 Aug 2022 23:33:20 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Császta, Balatonboglár) / * 2022 August 10 19:44 vasony Created: Berzsenyi Dániel utca vagy Berzsenyi utca szerepel az utcatáblán? / * 2022 August 25 23:31 urbalazs Resolved: Csak vezetéknévvel van kitáblázva. Beszéltem egy ott lakóval, és a lakcímkártyáján is csak Berzsenyi utca van. Átírtam OSM-en csak vezetéknévre.</title>
-        <link>https://www.openstreetmap.org/note/3308904#c7148732</link>
-        <guid>https://www.openstreetmap.org/note/3308904#c7148732</guid>
-        <pubDate>Thu, 25 Aug 2022 23:31:07 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Császta, Balatonboglár) / * 2022 August 9 19:42 vasony Created: Ez a Szöcske utca? / * 2022 August 25 23:29 urbalazs Resolved: Nincs utcanévtábla.</title>
-        <link>https://www.openstreetmap.org/note/3307358#c7148726</link>
-        <guid>https://www.openstreetmap.org/note/3307358#c7148726</guid>
-        <pubDate>Thu, 25 Aug 2022 23:29:09 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Császta, Balatonboglár) / * 2022 August 9 19:39 vasony Created: Ez a Venyige köz? / * 2022 August 25 23:25 urbalazs Resolved: Nincs utcanévtábla.</title>
-        <link>https://www.openstreetmap.org/note/3307352#c7148717</link>
-        <guid>https://www.openstreetmap.org/note/3307352#c7148717</guid>
-        <pubDate>Thu, 25 Aug 2022 23:25:16 +0000</pubDate>
       </item>
   </channel>
 </rss>
