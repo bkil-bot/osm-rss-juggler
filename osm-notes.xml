@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Buják, Makó) / * 2022 September 1 01:41 bkil Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3340428#c7167965</link>
+        <guid>https://www.openstreetmap.org/note/3340428#c7167965</guid>
+        <pubDate>Thu, 01 Sep 2022 01:41:52 +0000</pubDate>
+      </item><item>
         <title>new note (near Buják, Makó) / * 2022 September 1 00:23 Created: buzeráns</title>
         <link>https://www.openstreetmap.org/note/3340428#c7167865</link>
         <guid>https://www.openstreetmap.org/note/3340428#c7167865</guid>
@@ -227,11 +232,6 @@
         <link>https://www.openstreetmap.org/note/3235315#c7154580</link>
         <guid>https://www.openstreetmap.org/note/3235315#c7154580</guid>
         <pubDate>Sun, 28 Aug 2022 00:12:51 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Belváros, Nyíregyháza) / * 2022 April 19 06:09 Matyjace Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;this is the new name - Szent Miklós Görögkatolikus Gimnázium és Kollégium&amp;quot; / * 2022 August 28 00:01 urbalazs Resolved: New name added.</title>
-        <link>https://www.openstreetmap.org/note/3141107#c7154574</link>
-        <guid>https://www.openstreetmap.org/note/3141107#c7154574</guid>
-        <pubDate>Sun, 28 Aug 2022 00:01:02 +0000</pubDate>
       </item>
   </channel>
 </rss>

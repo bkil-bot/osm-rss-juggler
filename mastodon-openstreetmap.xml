@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>RT @SwiftOnSecurity@twitter.com @titlerequired@twitter.com I actually created an account and fixed it myself. 🐦🔗: https://twitter.com/SwiftOnSecurity/status/1565054783924338689</title>
+        <link>https://en.osm.town/@openstreetmap/108920524921483837</link>
+        <guid>https://en.osm.town/@openstreetmap/108920524921483837</guid>
+        <pubDate>Thu, 01 Sep 2022 01:21:54 +0000</pubDate>
+      </item><item>
         <title>RT @SwiftOnSecurity@twitter.com ProTip: If delivery people are always having problems getting to your place you might need to do some scouting on OpenStreetMap, which is the dataset that powers a lot of routing software. A street was incorrectly marked one-way near me and I fixed it now people don&amp;#39;t get lost 💁‍♀️ 🐦🔗: https://twitter.com/SwiftOnSecurity/status/1565053168186179590</title>
         <link>https://en.osm.town/@openstreetmap/108920499130852197</link>
         <guid>https://en.osm.town/@openstreetmap/108920499130852197</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/103889240985758877</link>
         <guid>https://en.osm.town/@openstreetmap/103889240985758877</guid>
         <pubDate>Thu, 26 Mar 2020 12:00:14 +0000</pubDate>
-      </item><item>
-        <title>Call for more featured tile layers on https://openstreetmap.org/  See how you can help: https://blog.openstreetmap.org/2020/03/24/call-for-more-featured-tile-layers-on-osm-org/</title>
-        <link>https://en.osm.town/@openstreetmap/103880275634981487</link>
-        <guid>https://en.osm.town/@openstreetmap/103880275634981487</guid>
-        <pubDate>Tue, 24 Mar 2020 22:00:13 +0000</pubDate>
       </item>
   </channel>
 </rss>
