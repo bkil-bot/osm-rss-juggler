@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Vármellék, Sárvár) / * 2022 September 1 06:10 Created: ATM machine here</title>
+        <link>https://www.openstreetmap.org/note/3340598#c7168198</link>
+        <guid>https://www.openstreetmap.org/note/3340598#c7168198</guid>
+        <pubDate>Thu, 01 Sep 2022 06:10:08 +0000</pubDate>
+      </item><item>
         <title>closed note (near Buják, Makó) / * 2022 September 1 01:41 bkil Resolved: </title>
         <link>https://www.openstreetmap.org/note/3340428#c7167965</link>
         <guid>https://www.openstreetmap.org/note/3340428#c7167965</guid>
@@ -227,11 +232,6 @@
         <link>https://www.openstreetmap.org/note/3324612#c7155550</link>
         <guid>https://www.openstreetmap.org/note/3324612#c7155550</guid>
         <pubDate>Sun, 28 Aug 2022 11:50:16 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Belváros, 5th district) / * 2022 June 21 19:49 Vadim678 Created: &amp;quot;Shopping &amp;quot; / OSM snapshot date: 2022-05-15T14:57:35Z / POI name: Váci utca / POI types: hwtag-lit psurface-paved_good hwtag-nobicycle highway-pedestrian / #organicmaps / * 2022 August 28 00:12 urbalazs Resolved: Yes, this is a shopping street with lot of shops.</title>
-        <link>https://www.openstreetmap.org/note/3235315#c7154580</link>
-        <guid>https://www.openstreetmap.org/note/3235315#c7154580</guid>
-        <pubDate>Sun, 28 Aug 2022 00:12:51 +0000</pubDate>
       </item>
   </channel>
 </rss>
