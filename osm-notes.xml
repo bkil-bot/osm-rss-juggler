@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Eszterháza, Fertőd) / * 2022 August 23 19:42 efi99 Created: vagy 26/A / * 2022 September 1 15:08 efi99 Resolved: 28</title>
+        <link>https://www.openstreetmap.org/note/3328446#c7169722</link>
+        <guid>https://www.openstreetmap.org/note/3328446#c7169722</guid>
+        <pubDate>Thu, 01 Sep 2022 15:08:20 +0000</pubDate>
+      </item><item>
         <title>closed note (near Postaszállás, Siklós) / * 2022 August 2 17:38 Guzsvány Máté Created: Ki kell javítani az eltolást ezen a területen, mert a térkép a valósághoz képest el van csúszva. Alap csúsztatással Bing Műholdképpel kell lemodellezni. / * 2022 September 1 10:27 utvonalfelmeresek Resolved: A vár a Fömi alapján helyére húzva / https://www.openstreetmap.org/changeset/125648946</title>
         <link>https://www.openstreetmap.org/note/3296061#c7168850</link>
         <guid>https://www.openstreetmap.org/note/3296061#c7168850</guid>
@@ -257,21 +262,6 @@
         <link>https://www.openstreetmap.org/note/3335938#c7157201</link>
         <guid>https://www.openstreetmap.org/note/3335938#c7157201</guid>
         <pubDate>Sun, 28 Aug 2022 20:09:48 +0000</pubDate>
-      </item><item>
-        <title>new note (near Szalmásitelep, Balatonfűzfő) / * 2022 August 28 19:34 vasony Created: Uszodai út, Uszoda út, Uszoda utca? Melyik a helyes?</title>
-        <link>https://www.openstreetmap.org/note/3335890#c7157056</link>
-        <guid>https://www.openstreetmap.org/note/3335890#c7157056</guid>
-        <pubDate>Sun, 28 Aug 2022 19:34:33 +0000</pubDate>
-      </item><item>
-        <title>new note (near Kelenföld, 11th district) / * 2022 August 28 14:17 Created: The southern (third) bridge has been completed and opened for railway / traffic. / It is in use now since August 2022.</title>
-        <link>https://www.openstreetmap.org/note/3335346#c7156036</link>
-        <guid>https://www.openstreetmap.org/note/3335346#c7156036</guid>
-        <pubDate>Sun, 28 Aug 2022 14:17:20 +0000</pubDate>
-      </item><item>
-        <title>new note (near Lágymányos, 11th district) / * 2022 August 28 14:14 Created: There is no railway traffic / on the northern bridge. / There are no tracks now after the opening of the southern bridge.</title>
-        <link>https://www.openstreetmap.org/note/3335342#c7156025</link>
-        <guid>https://www.openstreetmap.org/note/3335342#c7156025</guid>
-        <pubDate>Sun, 28 Aug 2022 14:14:55 +0000</pubDate>
       </item>
   </channel>
 </rss>
