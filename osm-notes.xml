@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Gellérthegy, 11th district) / * 2022 September 3 07:01 vasony Created: 3112-es zóna kellene legyen, ellenőrizendő</title>
+        <link>https://www.openstreetmap.org/note/3343436#c7174315</link>
+        <guid>https://www.openstreetmap.org/note/3343436#c7174315</guid>
+        <pubDate>Sat, 03 Sep 2022 07:01:18 +0000</pubDate>
+      </item><item>
         <title>closed note (near Újlipótváros, 13th district) / * 2022 September 2 13:49 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/125700102</title>
         <link>https://www.openstreetmap.org/note/3342178#c7172578</link>
         <guid>https://www.openstreetmap.org/note/3342178#c7172578</guid>
@@ -162,11 +167,6 @@
         <link>https://www.openstreetmap.org/note/2549632#c7165460</link>
         <guid>https://www.openstreetmap.org/note/2549632#c7165460</guid>
         <pubDate>Wed, 31 Aug 2022 11:24:51 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Szentimreváros, 11th district) / * 2022 August 5 15:48 Created: Hotel Gellert is closed / since December 2021. / * 2022 August 31 07:46 urbalazs Resolved: Thanks for the report. I set the opening hours to &amp;quot;closed&amp;quot;.</title>
-        <link>https://www.openstreetmap.org/note/3300881#c7164968</link>
-        <guid>https://www.openstreetmap.org/note/3300881#c7164968</guid>
-        <pubDate>Wed, 31 Aug 2022 07:46:23 +0000</pubDate>
       </item>
   </channel>
 </rss>
