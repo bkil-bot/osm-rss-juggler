@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Kelenföld, 11th district) / * 2022 September 3 07:30 vasony Created: 3114-es zóna lett, ellenőrizendő</title>
+        <link>https://www.openstreetmap.org/note/3343469#c7174362</link>
+        <guid>https://www.openstreetmap.org/note/3343469#c7174362</guid>
+        <pubDate>Sat, 03 Sep 2022 07:30:48 +0000</pubDate>
+      </item><item>
+        <title>new note (near Szentimreváros, 11th district) / * 2022 September 3 07:28 vasony Created: 3111-es parkolási zóna lett, ellenőrizendő. az automatákat már módosítottam előre</title>
+        <link>https://www.openstreetmap.org/note/3343464#c7174355</link>
+        <guid>https://www.openstreetmap.org/note/3343464#c7174355</guid>
+        <pubDate>Sat, 03 Sep 2022 07:28:19 +0000</pubDate>
+      </item><item>
+        <title>new note (near Szentimreváros, 11th district) / * 2022 September 3 07:28 vasony Created: parkolási zónakód vátozás, ellenőrizendő 3112 / 3111</title>
+        <link>https://www.openstreetmap.org/note/3343463#c7174354</link>
+        <guid>https://www.openstreetmap.org/note/3343463#c7174354</guid>
+        <pubDate>Sat, 03 Sep 2022 07:28:19 +0000</pubDate>
+      </item><item>
+        <title>new note (near Szentimreváros, 11th district) / * 2022 September 3 07:28 vasony Created: 3113-as parkolási zóna lett, ellenőrizendő. az automatákat már módosítottam előre.</title>
+        <link>https://www.openstreetmap.org/note/3343462#c7174353</link>
+        <guid>https://www.openstreetmap.org/note/3343462#c7174353</guid>
+        <pubDate>Sat, 03 Sep 2022 07:28:19 +0000</pubDate>
+      </item><item>
         <title>new note (near Gellérthegy, 11th district) / * 2022 September 3 07:01 vasony Created: 3112-es zóna kellene legyen, ellenőrizendő</title>
         <link>https://www.openstreetmap.org/note/3343436#c7174315</link>
         <guid>https://www.openstreetmap.org/note/3343436#c7174315</guid>
@@ -162,11 +182,6 @@
         <link>https://www.openstreetmap.org/note/1804793#c7165462</link>
         <guid>https://www.openstreetmap.org/note/1804793#c7165462</guid>
         <pubDate>Wed, 31 Aug 2022 11:25:59 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Torbágyi városközpont, Biatorbágy) / * 2021 February 22 21:13 vasony Created: Pátyi út vagy Pátyi utca? Mert most mindkettő szerepel a térképen. / * 2022 August 31 11:24 NagyLezly Resolved: A Pátyi utca a felső kis utca a patakpart másik oldalán lévő utca a Pátyi út pedig középen a főút.</title>
-        <link>https://www.openstreetmap.org/note/2549632#c7165460</link>
-        <guid>https://www.openstreetmap.org/note/2549632#c7165460</guid>
-        <pubDate>Wed, 31 Aug 2022 11:24:51 +0000</pubDate>
       </item>
   </channel>
 </rss>
