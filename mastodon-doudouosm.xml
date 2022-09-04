@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>#Imagico shares his “Thoughts on the #OpenStreetMap data model”. A long read but good food for thoughts. http://blog.imagico.de/thoughts-on-the-openstreetmap-data-model/</title>
+        <link>https://en.osm.town/@Doudouosm/108939567268382737</link>
+        <guid>https://en.osm.town/@Doudouosm/108939567268382737</guid>
+        <pubDate>Sun, 04 Sep 2022 10:04:37 +0000</pubDate>
+      </item><item>
         <title>Useful plugins in #JOSM to ease your mapping. #OpenStreetMap https://www.openstreetmap.org/user/jmsbert/diary/399865</title>
         <link>https://en.osm.town/@Doudouosm/108930673639575611</link>
         <guid>https://en.osm.town/@Doudouosm/108930673639575611</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/108307686418496671</link>
         <guid>https://en.osm.town/@Doudouosm/108307686418496671</guid>
         <pubDate>Sun, 15 May 2022 19:49:00 +0000</pubDate>
-      </item><item>
-        <title>A 15 min. video #tutorial “How to map buildings with #JOSM”: https://odysee.com/@BFS-OSM/how-to-map-buildings-with-josm. Learn how to boost your productivity by choosing the suitable methods between mapping buildings freehand, by snapping buildings together, or with the extract or subtraction tool. #OpenStreetMap</title>
-        <link>https://en.osm.town/@Doudouosm/108306778998857158</link>
-        <guid>https://en.osm.town/@Doudouosm/108306778998857158</guid>
-        <pubDate>Sun, 15 May 2022 15:58:14 +0000</pubDate>
       </item>
   </channel>
 </rss>
