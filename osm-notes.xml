@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Istvánmező, 14th district) / * 2022 September 9 00:58 László 514 Created: &amp;quot;Már megszünt hely, üresen áll&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2022-08-16T07:51:20Z / POI name: Posta / POI types: amenity-post_office / #organicmaps</title>
+        <link>https://www.openstreetmap.org/note/3351536#c7192608</link>
+        <guid>https://www.openstreetmap.org/note/3351536#c7192608</guid>
+        <pubDate>Fri, 09 Sep 2022 00:58:33 +0000</pubDate>
+      </item><item>
         <title>closed note (near Erdőhát) / * 2019 September 1 18:29 timotimor Created: &amp;quot;Not there&amp;quot; / The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI name: Erkel Ferenc / POI types: historic-memorial-statue / OSM data version: 2019-07-27T07:02:33Z / #mapsme / * 2022 September 8 21:41 urbalazs Resolved: The statue is there, under a big tree. Hard to see from the road.</title>
         <link>https://www.openstreetmap.org/note/1909400#c7192338</link>
         <guid>https://www.openstreetmap.org/note/1909400#c7192338</guid>
@@ -342,16 +347,6 @@
         <link>https://www.openstreetmap.org/note/3347426#c7182987</link>
         <guid>https://www.openstreetmap.org/note/3347426#c7182987</guid>
         <pubDate>Mon, 05 Sep 2022 20:09:57 +0000</pubDate>
-      </item><item>
-        <title>new note (near Lászlómajor, Polgárdi) / * 2022 September 5 20:03 vasony Created: Hordó dűlő itt van valahol?</title>
-        <link>https://www.openstreetmap.org/note/3347421#c7182977</link>
-        <guid>https://www.openstreetmap.org/note/3347421#c7182977</guid>
-        <pubDate>Mon, 05 Sep 2022 20:03:07 +0000</pubDate>
-      </item><item>
-        <title>new note (near Lászlómajor, Polgárdi) / * 2022 September 5 19:59 vasony Created: Bánya út itt van valahol?</title>
-        <link>https://www.openstreetmap.org/note/3347420#c7182973</link>
-        <guid>https://www.openstreetmap.org/note/3347420#c7182973</guid>
-        <pubDate>Mon, 05 Sep 2022 19:59:24 +0000</pubDate>
       </item>
   </channel>
 </rss>
