@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>Whether you missed State of the Map in Firenze or just want to re-live it, there are some great write ups from the conference on the OSM wiki: https://wiki.openstreetmap.org/wiki/State_of_the_Map_2022#Write-ups (and please add your own!) #sotm2022 @sotm@twitter.com</title>
+        <link>https://en.osm.town/@openstreetmap/108989844914499335</link>
+        <guid>https://en.osm.town/@openstreetmap/108989844914499335</guid>
+        <pubDate>Tue, 13 Sep 2022 07:10:53 +0000</pubDate>
+      </item><item>
         <title>RT @SwiftOnSecurity@twitter.com @titlerequired@twitter.com I actually created an account and fixed it myself. 🐦🔗: https://twitter.com/SwiftOnSecurity/status/1565054783924338689</title>
         <link>https://en.osm.town/@openstreetmap/108920524921483837</link>
         <guid>https://en.osm.town/@openstreetmap/108920524921483837</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/103896200756750724</link>
         <guid>https://en.osm.town/@openstreetmap/103896200756750724</guid>
         <pubDate>Fri, 27 Mar 2020 17:30:11 +0000</pubDate>
-      </item><item>
-        <title>&amp;quot;People who transport food, medicine, and other supplies still need to move and they are highly dependent on maps. You can help them by improving the map in your local area&amp;quot; https://twitter.com/TheMissingMaps/status/1243113258527186948</title>
-        <link>https://en.osm.town/@openstreetmap/103889240985758877</link>
-        <guid>https://en.osm.town/@openstreetmap/103889240985758877</guid>
-        <pubDate>Thu, 26 Mar 2020 12:00:14 +0000</pubDate>
       </item>
   </channel>
 </rss>
