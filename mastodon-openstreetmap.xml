@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>10 years of ODbL https://blog.openstreetmap.org/2022/09/14/10-years-of-odbl/ The big moment in a process which took several years, ten years ago today made the switch and published our first Open Database Licensed planet download.</title>
+        <link>https://en.osm.town/@openstreetmap/108995987047290950</link>
+        <guid>https://en.osm.town/@openstreetmap/108995987047290950</guid>
+        <pubDate>Wed, 14 Sep 2022 09:12:55 +0000</pubDate>
+      </item><item>
         <title>Whether you missed State of the Map in Firenze or just want to re-live it, there are some great write ups from the conference on the OSM wiki: https://wiki.openstreetmap.org/wiki/State_of_the_Map_2022#Write-ups (and please add your own!) #sotm2022 @sotm@twitter.com</title>
         <link>https://en.osm.town/@openstreetmap/108989844914499335</link>
         <guid>https://en.osm.town/@openstreetmap/108989844914499335</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/103955301102393990</link>
         <guid>https://en.osm.town/@openstreetmap/103955301102393990</guid>
         <pubDate>Tue, 07 Apr 2020 04:00:11 +0000</pubDate>
-      </item><item>
-        <title>State of the Map 2020 @sotm will be a virtual conference: https://blog.openstreetmap.org/2020/03/27/sotm-2020-will-be-a-virtual-conference/ DE: https://blog.openstreetmap.org/2020/03/27/sotm-2020-dieses-jahr-virtuell/?lang=de FR: https://blog.openstreetmap.org/2020/03/27/le-sotm-2020-va-etre-virtuel/?lang=fr</title>
-        <link>https://en.osm.town/@openstreetmap/103896200756750724</link>
-        <guid>https://en.osm.town/@openstreetmap/103896200756750724</guid>
-        <pubDate>Fri, 27 Mar 2020 17:30:11 +0000</pubDate>
       </item>
   </channel>
 </rss>
