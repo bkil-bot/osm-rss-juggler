@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>@zverik Version 2.0 of #EveryDoor is available. And the “How to use Every Door” article explains the spirit of the tool: https://www.openstreetmap.org/user/Zverik/diary/399947 #OpenStreetMap</title>
+        <link>https://en.osm.town/@Doudouosm/109000912420532510</link>
+        <guid>https://en.osm.town/@Doudouosm/109000912420532510</guid>
+        <pubDate>Thu, 15 Sep 2022 06:05:30 +0000</pubDate>
+      </item><item>
         <title>#Imagico shares his “Thoughts on the #OpenStreetMap data model”. A long read but good food for thoughts. http://blog.imagico.de/thoughts-on-the-openstreetmap-data-model/</title>
         <link>https://en.osm.town/@Doudouosm/108939567268382737</link>
         <guid>https://en.osm.town/@Doudouosm/108939567268382737</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/108330586214080414</link>
         <guid>https://en.osm.town/@Doudouosm/108330586214080414</guid>
         <pubDate>Thu, 19 May 2022 20:52:44 +0000</pubDate>
-      </item><item>
-        <title>#ESP32 WiFiMulti connects to the strongest Wi-Fi network from a list of networks. It will connect to the Wi-Fi network with the strongest signal, and if the connection is lost, it will connect to the next network on the list. https://randomnerdtutorials.com/esp32-wifimulti/ #IoT</title>
-        <link>https://en.osm.town/@Doudouosm/108307686418496671</link>
-        <guid>https://en.osm.town/@Doudouosm/108307686418496671</guid>
-        <pubDate>Sun, 15 May 2022 19:49:00 +0000</pubDate>
       </item>
   </channel>
 </rss>
