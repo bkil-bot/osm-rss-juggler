@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Fürdőtelep, Harkány) / * 2021 June 19 06:21 utvonalfelmeresek Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/868824946 via StreetComplete 32.1: / étterem restaurant / * 2021 August 10 06:22 vasony Resolved: A wiki-n a retail-nél említik a restaurant-ot is, így ez lett / * 2021 August 10 06:22 vasony Reactivated:  / * 2021 August 10 06:23 vasony Updated: nyiltva hagyom, mert itt most az outdoor seating van együtt az épülettel, és az étteremnek meg nincs épületet, rendbe tennéd? / * 2021 December 22 07:19 utvonalfelmeresek Updated: Amennyire tudtam kiegészítettem, de nem tudom mi számít az étterem épületének, mert több is van, de nem figyeltem melyikből hozzák ki a kaját. / * 2021 December 22 07:51 vasony Updated: A kérdés az lett volna, hogy pl: https://www.openstreetmap.org/way/1014245811 ez egy fizikai épület, mert nekem a kiülős rész és az épület ellentmond. Ha van épület, akkor nem outdoor. / * 2022 September 16 17:39 utvonalfelmeresek Updated: https://matrix.grin.hu/_matrix/media/r0/download/grin.hu/rCeyzwokEqgzSuvKCxyxXpOv / Ha ez segít :)</title>
+        <link>https://www.openstreetmap.org/note/2719242#c7215456</link>
+        <guid>https://www.openstreetmap.org/note/2719242#c7215456</guid>
+        <pubDate>Fri, 16 Sep 2022 17:39:35 +0000</pubDate>
+      </item><item>
         <title>closed note (near Hutaúttelep, Pilisszentkereszt) / * 2021 March 26 21:57 Huszár Bori Created: &amp;quot;Mária pad&amp;quot; / POI has no name / POI types: amenity-bench / OSM data version: 2021-02-01T11:34:17Z / #mapsme / * 2022 September 16 17:16 ITineris Resolved: zsoltd már 11 hónapja feltette rá a nevet.</title>
         <link>https://www.openstreetmap.org/note/2595803#c7215400</link>
         <guid>https://www.openstreetmap.org/note/2595803#c7215400</guid>
@@ -77,11 +82,6 @@
         <link>https://www.openstreetmap.org/note/3353575#c7208352</link>
         <guid>https://www.openstreetmap.org/note/3353575#c7208352</guid>
         <pubDate>Wed, 14 Sep 2022 08:48:31 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Marcalváros I., Gyor) / * 2022 July 15 11:12 StpnGeorg Created: Shouldn&amp;#39;t this be &amp;quot;Lajta út&amp;quot; instead of &amp;quot; Lajta utca&amp;quot; ? / * 2022 September 14 06:09 StpnGeorg Resolved: https://www.openstreetmap.org/changeset/118523912</title>
-        <link>https://www.openstreetmap.org/note/3268120#c7207993</link>
-        <guid>https://www.openstreetmap.org/note/3268120#c7207993</guid>
-        <pubDate>Wed, 14 Sep 2022 06:09:28 +0000</pubDate>
       </item>
   </channel>
 </rss>
