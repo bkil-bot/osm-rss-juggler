@@ -3,6 +3,31 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Istvánmező, 14th district) / * 2022 September 9 00:58 László 514 Created: &amp;quot;Már megszünt hely, üresen áll&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2022-08-16T07:51:20Z / POI name: Posta / POI types: amenity-post_office / #organicmaps / * 2022 September 16 08:50 ITineris Resolved: Valóban, a Posta honlapja szerint is. Leszedtem.</title>
+        <link>https://www.openstreetmap.org/note/3351536#c7214049</link>
+        <guid>https://www.openstreetmap.org/note/3351536#c7214049</guid>
+        <pubDate>Fri, 16 Sep 2022 08:50:08 +0000</pubDate>
+      </item><item>
+        <title>closed note (near City Park, 14th district) / * 2022 July 2 15:38 Gaurdein Created: Unable to answer &amp;quot;Does this pedestrian crossing have an island?&amp;quot; for https://osm.org/node/3542426375 via StreetComplete 43.2: / Nem kiemelt sziget, csak festés / Attached photo(s): / https://westnordost.de/p/100306.jpg / * 2022 July 2 21:03 infeeeee Updated: Wiki nem ír erről, hogy ezt máshogy kéne címkézni: https://wiki.openstreetmap.org/wiki/Key:crossing:island / Ez is sziget, csak nincs szegélye, a lényeg, hogy meg lehet pihenni a két sáv között. / * 2022 September 16 08:44 ITineris Resolved: Felcímkéztem.</title>
+        <link>https://www.openstreetmap.org/note/3248821#c7214037</link>
+        <guid>https://www.openstreetmap.org/note/3248821#c7214037</guid>
+        <pubDate>Fri, 16 Sep 2022 08:44:27 +0000</pubDate>
+      </item><item>
+        <title>new comment (near City Park, 14th district) / * 2022 June 17 20:05 Hagaskar Created: Basketball court / * 2022 September 16 08:42 ITineris Updated: Streetball or basketball? (E.g., how many rings are there?)</title>
+        <link>https://www.openstreetmap.org/note/3229482#c7214028</link>
+        <guid>https://www.openstreetmap.org/note/3229482#c7214028</guid>
+        <pubDate>Fri, 16 Sep 2022 08:42:09 +0000</pubDate>
+      </item><item>
+        <title>closed note (near City Park, 14th district) / * 2022 July 2 12:12 Gaurdein Created: Unable to answer &amp;quot;What’s the name of this place?&amp;quot; for https://osm.org/node/6418416289 via StreetComplete 43.2: / Nincs itt semmi (fotó a BRGR irányából) / Attached photo(s): / https://westnordost.de/p/100242.jpg / * 2022 September 16 08:41 ITineris Resolved: Egy üres &amp;quot;Turisztikai látványosság&amp;quot; POI volt lerakva, bármiféle egyéb adat/címke nélkül. Töröltem.</title>
+        <link>https://www.openstreetmap.org/note/3248548#c7214026</link>
+        <guid>https://www.openstreetmap.org/note/3248548#c7214026</guid>
+        <pubDate>Fri, 16 Sep 2022 08:41:13 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Alsórákos, 14th district) / * 2022 August 20 13:14 Created: Kosárlabda és Football pálya / * 2022 September 16 08:39 ITineris Resolved: Valóban vannak palánkok is. Címkéztem.</title>
+        <link>https://www.openstreetmap.org/note/3323184#c7214019</link>
+        <guid>https://www.openstreetmap.org/note/3323184#c7214019</guid>
+        <pubDate>Fri, 16 Sep 2022 08:39:11 +0000</pubDate>
+      </item><item>
         <title>new note (near Ivacsok, Veresegyház) / * 2022 September 15 21:17 OSM  editor Created: There is a lake here/Itt van egy tó</title>
         <link>https://www.openstreetmap.org/note/3361198#c7213103</link>
         <guid>https://www.openstreetmap.org/note/3361198#c7213103</guid>
@@ -62,21 +87,6 @@
         <link>https://www.openstreetmap.org/note/3358394#c7206865</link>
         <guid>https://www.openstreetmap.org/note/3358394#c7206865</guid>
         <pubDate>Tue, 13 Sep 2022 17:02:27 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Marcalváros I., Gyor) / * 2022 March 15 19:20 vasony Created: Lajta út vagy Lajta utca van az utcatáblán? / * 2022 September 13 14:53 vasony Resolved: Úgy tűnik Lajta út van a táblán</title>
-        <link>https://www.openstreetmap.org/note/3089595#c7206532</link>
-        <guid>https://www.openstreetmap.org/note/3089595#c7206532</guid>
-        <pubDate>Tue, 13 Sep 2022 14:53:42 +0000</pubDate>
-      </item><item>
-        <title>new note (near Budai Bolero Lakópark, Kelenföld, 11th district) / * 2022 September 13 12:02 Created: sorompó</title>
-        <link>https://www.openstreetmap.org/note/3357982#c7206001</link>
-        <guid>https://www.openstreetmap.org/note/3357982#c7206001</guid>
-        <pubDate>Tue, 13 Sep 2022 12:02:25 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Víziváros, 1st district) / * 2022 September 12 20:24 kogutowicz-mano Created: Itt valahol egy Kolodko szobor van. / https://telex.hu/belfold/2022/09/12/kolodko-mihaly-szobor-alkotas-muveszet-budapest-rakpart-varkert-bazar / * 2022 September 13 11:34 kogutowicz-mano Updated: https://24.hu/kultura/2022/09/12/az-oroszok-mar-a-spajzban-vannak-ezt-uzeni-a-legujabb-kolodko-szobor/</title>
-        <link>https://www.openstreetmap.org/note/3357162#c7205932</link>
-        <guid>https://www.openstreetmap.org/note/3357162#c7205932</guid>
-        <pubDate>Tue, 13 Sep 2022 11:34:45 +0000</pubDate>
       </item>
   </channel>
 </rss>
