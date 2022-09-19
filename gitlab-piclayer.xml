@@ -3,6 +3,11 @@
   <channel>
     <title>git (via bkil-bot)</title>
       <item>
+        <title>bkil: Balassagyarmat: add TRT-2022-02.jgw</title>
+        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/db4c1217cfe888794205ea3958a12d7044801190</link>
+        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/db4c1217cfe888794205ea3958a12d7044801190</guid>
+        <pubDate>2022-09-19T22:29:09+02:00</pubDate>
+      </item><item>
         <title>bkil: Balassagyarmat: add TRT-2022-06.jgw</title>
         <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/c0a28cbe3317903a54fe6fce1273c74989e9b8b7</link>
         <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/c0a28cbe3317903a54fe6fce1273c74989e9b8b7</guid>
@@ -182,11 +187,6 @@
         <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/34df1e505160d57af46c96e31c9cac21f614acb0</link>
         <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/34df1e505160d57af46c96e31c9cac21f614acb0</guid>
         <pubDate>2020-06-20T01:28:04+02:00</pubDate>
-      </item><item>
-        <title>Balázs Úr: Papkeszi hozzáadása</title>
-        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/2de1e49b31eb4872e7257a75022dbb22b13f0473</link>
-        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/2de1e49b31eb4872e7257a75022dbb22b13f0473</guid>
-        <pubDate>2020-06-20T01:24:46+02:00</pubDate>
       </item>
   </channel>
 </rss>
