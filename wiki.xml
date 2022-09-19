@@ -2,6 +2,11 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      
+      <item>
+        <title>Hungary/Ortofotók: FÖMI ortofotók: URL -Bkil</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Ortofot%C3%B3k&amp;diff=2395483&amp;oldid=2245367</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Ortofot%C3%B3k&amp;diff=2395483</guid>
+        <pubDate>Mon, 19 Sep 2022 18:51:36 GMT</pubDate>
+      </item>
   </channel>
 </rss>
