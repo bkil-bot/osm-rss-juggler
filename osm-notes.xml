@@ -3,6 +3,56 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Ibolya úti lakótelep, Sopronbánfalva, Sopron) / * 2022 April 19 14:42 efi99 Created: cím? / * 2022 September 19 14:12 efi99 Resolved: 169 része</title>
+        <link>https://www.openstreetmap.org/note/3142118#c7223047</link>
+        <guid>https://www.openstreetmap.org/note/3142118#c7223047</guid>
+        <pubDate>Mon, 19 Sep 2022 14:12:42 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Ibolya úti lakótelep, Sopronbánfalva, Sopron) / * 2022 September 5 12:03 Created: Cseresznye sor 53. / * 2022 September 19 14:10 efi99 Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3346828#c7223040</link>
+        <guid>https://www.openstreetmap.org/note/3346828#c7223040</guid>
+        <pubDate>Mon, 19 Sep 2022 14:10:44 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Kőfaragó téri lakótelep, Belváros, Sopron) / * 2014 February 2 09:36 Created: Moved from OSB ID619651: / There is a combination of path/stairs which runs next to this building and connects the service road below and the parking area above. [NaTToMi, 2011-11-23 10:12:31 CET] / * 2022 September 19 14:09 efi99 Resolved: </title>
+        <link>https://www.openstreetmap.org/note/111508#c7223036</link>
+        <guid>https://www.openstreetmap.org/note/111508#c7223036</guid>
+        <pubDate>Mon, 19 Sep 2022 14:09:36 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Szentmihálydomb, Sopron) / * 2014 February 2 09:35 Created: Moved from OSB ID646797: / These streets are &amp;quot;home zone&amp;quot; /Lakő-pihenő övezet/, so you are not allowed to drive in, unless, you live here, or you are a guest by someone, who lives here. Should we mark this on the map? [EAttila, 2012-04-25 11:47:45 CEST] / A wiki szerint ezt highway=living_street-tel kell jelölni. Szerintem ennyi elég, külön ne jelöljünk behajtási tilalmat, szvsz az a navigáló szoftverek dolga, hogy eldöntsék, hogy egy adott országban keresztülnavigálhat-e egy living_street-en vagy sem. A Pihenőkereszt lakóparkban is ilyenek vannak. [NaTToMi, 2012-04-25 12:08:24 CEST] / access=destination [NoName, 2012-04-25 14:04:19 CEST] / I must disagree. It is clearly highway=living_street. access=destination doesn&amp;#39;t cover all the features of a living street.  [NaTToMi, 2012-04-25 15:21:31 CEST] / &amp;quot;so you are not allowed to drive in, unless, you live here&amp;quot; is clearly access=destination. But I didn&amp;#39;t say highway=living_street is wrong. These tags can be combined very well! highway=living_street without explicit access tag allows everyone to enter the street. [NoName, 2012-04-25 15:40:04 CEST] / Then we must add bicycle=yes, motorcycle=yes, animal_drawn=yes, etc. Also, maxspeed=20.  [NaTToMi, 2012-04-25 16:20:19 CEST] / * 2014 September 30 16:56 fkv Updated: IMO this should be vehicle=delivery. *=destination would allow people to drive in just to talk a walk, without visiting any residents. / * 2022 September 19 14:06 efi99 Resolved: </title>
+        <link>https://www.openstreetmap.org/note/111507#c7223019</link>
+        <guid>https://www.openstreetmap.org/note/111507#c7223019</guid>
+        <pubDate>Mon, 19 Sep 2022 14:06:02 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Aranyhegyi lakópark, Aranyhegy, Sopron) / * 2022 April 7 20:10 efi99 Created: 4/C / * 2022 September 19 14:04 efi99 Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3123602#c7223013</link>
+        <guid>https://www.openstreetmap.org/note/3123602#c7223013</guid>
+        <pubDate>Mon, 19 Sep 2022 14:04:17 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Aranyhegyi lakópark, Aranyhegy, Sopron) / * 2022 April 7 20:09 efi99 Created: 4/B? / * 2022 September 19 14:04 efi99 Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3123601#c7223012</link>
+        <guid>https://www.openstreetmap.org/note/3123601#c7223012</guid>
+        <pubDate>Mon, 19 Sep 2022 14:04:15 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Aranyhegyi lakópark, Aranyhegy, Sopron) / * 2022 April 7 20:07 efi99 Created: 4/A ? / * 2022 September 19 14:03 efi99 Resolved: 4/A</title>
+        <link>https://www.openstreetmap.org/note/3123600#c7223010</link>
+        <guid>https://www.openstreetmap.org/note/3123600#c7223010</guid>
+        <pubDate>Mon, 19 Sep 2022 14:03:32 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Pihenőkereszt lakópark, Győrikapu, Sopron) / * 2022 April 4 14:44 efi99 Created: utca, hsz jó? / * 2022 September 19 13:59 efi99 Resolved: Kempten 3</title>
+        <link>https://www.openstreetmap.org/note/3119790#c7223001</link>
+        <guid>https://www.openstreetmap.org/note/3119790#c7223001</guid>
+        <pubDate>Mon, 19 Sep 2022 13:59:41 +0000</pubDate>
+      </item><item>
+        <title>new note (near Corvin negyed, 8th district) / * 2022 September 19 13:34 kogutowicz-mano Created: Itt egy új Kolodko szobor jelent meg. / https://24.hu/kultura/2022/09/19/miniszobor-szurikata-kolodko-mihaly-mihajlo-szurikata-gyermekklinika/</title>
+        <link>https://www.openstreetmap.org/note/3365686#c7222943</link>
+        <guid>https://www.openstreetmap.org/note/3365686#c7222943</guid>
+        <pubDate>Mon, 19 Sep 2022 13:34:09 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Víziváros, 1st district) / * 2022 September 12 20:24 kogutowicz-mano Created: Itt valahol egy Kolodko szobor van. / https://telex.hu/belfold/2022/09/12/kolodko-mihaly-szobor-alkotas-muveszet-budapest-rakpart-varkert-bazar / * 2022 September 13 11:34 kogutowicz-mano Updated: https://24.hu/kultura/2022/09/12/az-oroszok-mar-a-spajzban-vannak-ezt-uzeni-a-legujabb-kolodko-szobor/ / * 2022 September 19 13:22 kogutowicz-mano Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3357162#c7222923</link>
+        <guid>https://www.openstreetmap.org/note/3357162#c7222923</guid>
+        <pubDate>Mon, 19 Sep 2022 13:22:49 +0000</pubDate>
+      </item><item>
         <title>new comment (near Óbuda hegyvidéke, 3rd district) / * 2022 September 19 10:00 ottwiz Updated: Ez egy új szobor valószínűleg nemrég került oda</title>
         <link>https://www.openstreetmap.org/note/3365473#c7222500</link>
         <guid>https://www.openstreetmap.org/note/3365473#c7222500</guid>
@@ -314,36 +364,6 @@
         <link>https://www.openstreetmap.org/note/3362090#c7215291</link>
         <guid>https://www.openstreetmap.org/note/3362090#c7215291</guid>
         <pubDate>Fri, 16 Sep 2022 16:25:39 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Tabán, Belváros, Vác) / * 2021 August 22 10:38 terkepezgeto1 Created: Sport-Horgász bolt / hétvégén napkeltekor nyit / zárás: / szo 12:00, va 10:00 / via StreetComplete 33.1 / * 2022 September 16 10:24 bkil Updated: Köszönjük a közreműködést. Hétfőn ránéznénk ezekre a jegyzetekre. Lehet online is csatlakozni, szeretettel várunk mindenkit: https://wiki.osm.org/Hungary/20220919</title>
-        <link>https://www.openstreetmap.org/note/2815332#c7214370</link>
-        <guid>https://www.openstreetmap.org/note/2815332#c7214370</guid>
-        <pubDate>Fri, 16 Sep 2022 10:24:59 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Istvánmező, 14th district) / * 2022 September 9 00:58 László 514 Created: &amp;quot;Már megszünt hely, üresen áll&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2022-08-16T07:51:20Z / POI name: Posta / POI types: amenity-post_office / #organicmaps / * 2022 September 16 08:50 ITineris Resolved: Valóban, a Posta honlapja szerint is. Leszedtem.</title>
-        <link>https://www.openstreetmap.org/note/3351536#c7214049</link>
-        <guid>https://www.openstreetmap.org/note/3351536#c7214049</guid>
-        <pubDate>Fri, 16 Sep 2022 08:50:08 +0000</pubDate>
-      </item><item>
-        <title>closed note (near City Park, 14th district) / * 2022 July 2 15:38 Gaurdein Created: Unable to answer &amp;quot;Does this pedestrian crossing have an island?&amp;quot; for https://osm.org/node/3542426375 via StreetComplete 43.2: / Nem kiemelt sziget, csak festés / Attached photo(s): / https://westnordost.de/p/100306.jpg / * 2022 July 2 21:03 infeeeee Updated: Wiki nem ír erről, hogy ezt máshogy kéne címkézni: https://wiki.openstreetmap.org/wiki/Key:crossing:island / Ez is sziget, csak nincs szegélye, a lényeg, hogy meg lehet pihenni a két sáv között. / * 2022 September 16 08:44 ITineris Resolved: Felcímkéztem.</title>
-        <link>https://www.openstreetmap.org/note/3248821#c7214037</link>
-        <guid>https://www.openstreetmap.org/note/3248821#c7214037</guid>
-        <pubDate>Fri, 16 Sep 2022 08:44:27 +0000</pubDate>
-      </item><item>
-        <title>new comment (near City Park, 14th district) / * 2022 June 17 20:05 Hagaskar Created: Basketball court / * 2022 September 16 08:42 ITineris Updated: Streetball or basketball? (E.g., how many rings are there?)</title>
-        <link>https://www.openstreetmap.org/note/3229482#c7214028</link>
-        <guid>https://www.openstreetmap.org/note/3229482#c7214028</guid>
-        <pubDate>Fri, 16 Sep 2022 08:42:09 +0000</pubDate>
-      </item><item>
-        <title>closed note (near City Park, 14th district) / * 2022 July 2 12:12 Gaurdein Created: Unable to answer &amp;quot;What’s the name of this place?&amp;quot; for https://osm.org/node/6418416289 via StreetComplete 43.2: / Nincs itt semmi (fotó a BRGR irányából) / Attached photo(s): / https://westnordost.de/p/100242.jpg / * 2022 September 16 08:41 ITineris Resolved: Egy üres &amp;quot;Turisztikai látványosság&amp;quot; POI volt lerakva, bármiféle egyéb adat/címke nélkül. Töröltem.</title>
-        <link>https://www.openstreetmap.org/note/3248548#c7214026</link>
-        <guid>https://www.openstreetmap.org/note/3248548#c7214026</guid>
-        <pubDate>Fri, 16 Sep 2022 08:41:13 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Alsórákos, 14th district) / * 2022 August 20 13:14 Created: Kosárlabda és Football pálya / * 2022 September 16 08:39 ITineris Resolved: Valóban vannak palánkok is. Címkéztem.</title>
-        <link>https://www.openstreetmap.org/note/3323184#c7214019</link>
-        <guid>https://www.openstreetmap.org/note/3323184#c7214019</guid>
-        <pubDate>Fri, 16 Sep 2022 08:39:11 +0000</pubDate>
       </item>
   </channel>
 </rss>
