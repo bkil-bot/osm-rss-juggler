@@ -3,6 +3,16 @@
   <channel>
     <title>git (via bkil-bot)</title>
       <item>
+        <title>bkil: Balassagyarmat: add TRT-2022-06.jgw</title>
+        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/c0a28cbe3317903a54fe6fce1273c74989e9b8b7</link>
+        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/c0a28cbe3317903a54fe6fce1273c74989e9b8b7</guid>
+        <pubDate>2022-09-19T21:57:08+02:00</pubDate>
+      </item><item>
+        <title>bkil: Balassagyarmat: add, TRT-2022-05.jgw as a test</title>
+        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/b89de0c340333261322908e7437fe5c0c92e5780</link>
+        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/b89de0c340333261322908e7437fe5c0c92e5780</guid>
+        <pubDate>2022-09-19T21:43:06+02:00</pubDate>
+      </item><item>
         <title>bkil: Szazhalombatta: +3-2017m_1</title>
         <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/dad38891ef9af5fa880973eeb278fe9029358227</link>
         <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/dad38891ef9af5fa880973eeb278fe9029358227</guid>
@@ -177,16 +187,6 @@
         <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/2de1e49b31eb4872e7257a75022dbb22b13f0473</link>
         <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/2de1e49b31eb4872e7257a75022dbb22b13f0473</guid>
         <pubDate>2020-06-20T01:24:46+02:00</pubDate>
-      </item><item>
-        <title>Balázs Úr: Vilonya hozzáadása</title>
-        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/4471a6dbe5a7c3df082eed32d0b320788c632bdf</link>
-        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/4471a6dbe5a7c3df082eed32d0b320788c632bdf</guid>
-        <pubDate>2020-06-19T21:24:21+02:00</pubDate>
-      </item><item>
-        <title>Balázs Úr: Letöltendő fájlméretek és előállítandó képek méretének hozzáadása</title>
-        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/7ef74068d5a7bac74354ae71a2b8ac46749759bb</link>
-        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/7ef74068d5a7bac74354ae71a2b8ac46749759bb</guid>
-        <pubDate>2020-06-18T22:21:09+02:00</pubDate>
       </item>
   </channel>
 </rss>
