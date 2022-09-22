@@ -2,11 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      <item>
-        <title>Hungary/20220923: Jelentkezők: +mugli -Bkil</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20220923&amp;diff=2396271&amp;oldid=2395992</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20220923&amp;diff=2396271</guid>
-        <pubDate>Wed, 21 Sep 2022 11:13:05 GMT</pubDate>
-      </item>
+      
   </channel>
 </rss>
