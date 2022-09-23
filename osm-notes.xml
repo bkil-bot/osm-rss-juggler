@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Aranyospuszta, Siklós) / * 2022 August 22 13:33 Guzsvány Máté Created: Felvinni / https://siklosihirek.hu/atadtak-a-gordisai-ut-jardajat/ / * 2022 September 23 17:17 Guzsvány Máté Resolved: Felvéve. https://www.openstreetmap.org/changeset/126557316</title>
+        <link>https://www.openstreetmap.org/note/3326208#c7233631</link>
+        <guid>https://www.openstreetmap.org/note/3326208#c7233631</guid>
+        <pubDate>Fri, 23 Sep 2022 17:17:16 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Aranyospuszta, Siklós) / * 2022 September 23 17:13 Guzsvány Máté Resolved: Hozzáadva.</title>
+        <link>https://www.openstreetmap.org/note/3370461#c7233629</link>
+        <guid>https://www.openstreetmap.org/note/3370461#c7233629</guid>
+        <pubDate>Fri, 23 Sep 2022 17:13:17 +0000</pubDate>
+      </item><item>
         <title>new note (near Postaszállás, Siklós) / * 2022 September 23 13:36 Guzsvány Máté Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/1087211372 via StreetComplete 46.1: / Már nincs itt / Attached photo(s): / https://westnordost.de/p/113468.jpg</title>
         <link>https://www.openstreetmap.org/note/3370475#c7233170</link>
         <guid>https://www.openstreetmap.org/note/3370475#c7233170</guid>
@@ -147,16 +157,6 @@
         <link>https://www.openstreetmap.org/note/3346828#c7223040</link>
         <guid>https://www.openstreetmap.org/note/3346828#c7223040</guid>
         <pubDate>Mon, 19 Sep 2022 14:10:44 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Kőfaragó téri lakótelep, Belváros, Sopron) / * 2014 February 2 09:36 Created: Moved from OSB ID619651: / There is a combination of path/stairs which runs next to this building and connects the service road below and the parking area above. [NaTToMi, 2011-11-23 10:12:31 CET] / * 2022 September 19 14:09 efi99 Resolved: </title>
-        <link>https://www.openstreetmap.org/note/111508#c7223036</link>
-        <guid>https://www.openstreetmap.org/note/111508#c7223036</guid>
-        <pubDate>Mon, 19 Sep 2022 14:09:36 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Szentmihálydomb, Sopron) / * 2014 February 2 09:35 Created: Moved from OSB ID646797: / These streets are &amp;quot;home zone&amp;quot; /Lakő-pihenő övezet/, so you are not allowed to drive in, unless, you live here, or you are a guest by someone, who lives here. Should we mark this on the map? [EAttila, 2012-04-25 11:47:45 CEST] / A wiki szerint ezt highway=living_street-tel kell jelölni. Szerintem ennyi elég, külön ne jelöljünk behajtási tilalmat, szvsz az a navigáló szoftverek dolga, hogy eldöntsék, hogy egy adott országban keresztülnavigálhat-e egy living_street-en vagy sem. A Pihenőkereszt lakóparkban is ilyenek vannak. [NaTToMi, 2012-04-25 12:08:24 CEST] / access=destination [NoName, 2012-04-25 14:04:19 CEST] / I must disagree. It is clearly highway=living_street. access=destination doesn&amp;#39;t cover all the features of a living street.  [NaTToMi, 2012-04-25 15:21:31 CEST] / &amp;quot;so you are not allowed to drive in, unless, you live here&amp;quot; is clearly access=destination. But I didn&amp;#39;t say highway=living_street is wrong. These tags can be combined very well! highway=living_street without explicit access tag allows everyone to enter the street. [NoName, 2012-04-25 15:40:04 CEST] / Then we must add bicycle=yes, motorcycle=yes, animal_drawn=yes, etc. Also, maxspeed=20.  [NaTToMi, 2012-04-25 16:20:19 CEST] / * 2014 September 30 16:56 fkv Updated: IMO this should be vehicle=delivery. *=destination would allow people to drive in just to talk a walk, without visiting any residents. / * 2022 September 19 14:06 efi99 Resolved: </title>
-        <link>https://www.openstreetmap.org/note/111507#c7223019</link>
-        <guid>https://www.openstreetmap.org/note/111507#c7223019</guid>
-        <pubDate>Mon, 19 Sep 2022 14:06:02 +0000</pubDate>
       </item>
   </channel>
 </rss>
