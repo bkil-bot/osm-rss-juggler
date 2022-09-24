@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Virágtanya, Törökbálint) / * 2022 September 24 13:07 Pallinger Péter Created: itt kerítés van</title>
+        <link>https://www.openstreetmap.org/note/3371907#c7235858</link>
+        <guid>https://www.openstreetmap.org/note/3371907#c7235858</guid>
+        <pubDate>Sat, 24 Sep 2022 13:07:10 +0000</pubDate>
+      </item><item>
+        <title>new note (near Losonci negyed, 8th district) / * 2022 September 24 12:24 YMSTNT Created: &amp;quot;The store does not exist anymore, nor have I remember it existing. There is a nursery in its place.&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2022-09-12T16:04:10Z / POI name: Tó ABC / POI types: wheelchair-no shop-convenience / #organicmaps</title>
+        <link>https://www.openstreetmap.org/note/3371802#c7235712</link>
+        <guid>https://www.openstreetmap.org/note/3371802#c7235712</guid>
+        <pubDate>Sat, 24 Sep 2022 12:24:00 +0000</pubDate>
+      </item><item>
         <title>closed note (near Libakert, Debrecen) / * 2022 September 23 23:26 bkil Resolved: </title>
         <link>https://www.openstreetmap.org/note/3369996#c7234465</link>
         <guid>https://www.openstreetmap.org/note/3369996#c7234465</guid>
@@ -127,11 +137,6 @@
         <link>https://www.openstreetmap.org/note/3366679#c7225329</link>
         <guid>https://www.openstreetmap.org/note/3366679#c7225329</guid>
         <pubDate>Tue, 20 Sep 2022 13:01:26 +0000</pubDate>
-      </item><item>
-        <title>new note (near Kispest, 19th district) / * 2022 September 20 09:17 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: Pharmacy is out of order. / https://www.openstreetmap.org/node/2926275633</title>
-        <link>https://www.openstreetmap.org/note/3366456#c7224728</link>
-        <guid>https://www.openstreetmap.org/note/3366456#c7224728</guid>
-        <pubDate>Tue, 20 Sep 2022 09:17:32 +0000</pubDate>
       </item>
   </channel>
 </rss>
