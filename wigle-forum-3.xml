@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Huawei P20 Android 10: Are you sure your not on android 9.... Emui 10 doesn't specify android versions, I could be wrong I have 20 abs it's tuff find firmware for andtoid10 -billyk77</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11338#p11338</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11338#p11338</guid>
+        <pubDate>2022-09-26T10:18:29</pubDate>
+      </item><item>
         <title>Re: Kismet drone on wireless router? (e.g. Linksys WRT54GL): I don't think a wireless router is better or more capable than some wifi card. Some wifi card have a very long range. with the good driver they do a perfect job. Yes a wireless router could do the job of a rpi +wifi card to host a kismet drone , but and old 4M/32M (ram/flash) is limited hardware. May be you could try to cross-compile a kismet drone for your WRT54GL. given you can run it on it. I was pointed to this list https://github.com/morrownr/USB-WiFi/bl ... rt_List.md Though, I found that most on this list are hard to find, and only one of them is available on my local amazon store. So, yes why not use a second hand wireless router (or accesss point) with openwrt; but may better than the 4/32, despised by openwrt -zebul666</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11336#p11336</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11336#p11336</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11208#p11208</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11208#p11208</guid>
         <pubDate>2022-04-07T21:44:09</pubDate>
-      </item><item>
-        <title>Kismet drone on wireless router? (e.g. Linksys WRT54GL): I've just dusted off two Linksys WRT54GL, and noticed some older posts enthusiastic about their radio capabilities. However, for setting up Kismet on this hardware, I only found decade-old instructions and Kismet MIPS binaries from 2004... Has anybody recently set up a WRT54GL as a Kismet drone and could give me some pointers? Thanks. -qascnjzd</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11207#p11207</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11207#p11207</guid>
-        <pubDate>2022-04-05T21:33:14</pubDate>
       </item>
   </channel>
 </rss>
