@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Bisse) / * 2022 May 16 06:18 Created: Nem lehet átmenni lefelé (kerítés) / * 2022 September 28 20:54 Guzsvány Máté Updated: Hozzáadva. Ez így jó? https://www.openstreetmap.org/changeset/126755653</title>
+        <link>https://www.openstreetmap.org/note/3181343#c7249069</link>
+        <guid>https://www.openstreetmap.org/note/3181343#c7249069</guid>
+        <pubDate>Wed, 28 Sep 2022 20:54:09 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Fürdőtelep, Harkány) / * 2022 July 2 15:39 Guzsvány Máté Created: A tourinform mellett nincsenek épületek / * 2022 September 28 20:51 Guzsvány Máté Resolved: Megoldva. https://www.openstreetmap.org/changeset/126755602</title>
+        <link>https://www.openstreetmap.org/note/3248822#c7249060</link>
+        <guid>https://www.openstreetmap.org/note/3248822#c7249060</guid>
+        <pubDate>Wed, 28 Sep 2022 20:51:40 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Fürdőtelep, Harkány) / * 2022 July 27 12:05 Guzsvány Máté Created: Ideiglenesen zárva lesz: / https://posts.gle/rqDzXK8QKcpGm2xu9 / * 2022 September 28 20:49 Guzsvány Máté Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3285769#c7249048</link>
+        <guid>https://www.openstreetmap.org/note/3285769#c7249048</guid>
+        <pubDate>Wed, 28 Sep 2022 20:49:50 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Ipacsfa) / * 2019 July 30 20:10 bofopssgyx Created: This camp side is closed / * 2022 September 28 20:48 Guzsvány Máté Resolved: Fixed. https://www.openstreetmap.org/changeset/126755527</title>
+        <link>https://www.openstreetmap.org/note/1863652#c7249042</link>
+        <guid>https://www.openstreetmap.org/note/1863652#c7249042</guid>
+        <pubDate>Wed, 28 Sep 2022 20:48:57 +0000</pubDate>
+      </item><item>
         <title>new note (near Dömös) / * 2022 September 28 19:57 Mateusz Konieczny Created: https://www.openstreetmap.org/node/2733389656 / Is there drinking water available here or not? It can be water fountain, water tap, maybe even hand pump, spring and so on. / It is marked as / amenity = drinking_water / disused:amenity = drinking_water / so it is marked as both active and disused at the same time. / If it is closed during winter then seasonal=yes would be much better</title>
         <link>https://www.openstreetmap.org/note/3377930#c7248975</link>
         <guid>https://www.openstreetmap.org/note/3377930#c7248975</guid>
@@ -132,26 +152,6 @@
         <link>https://www.openstreetmap.org/note/3372340#c7236900</link>
         <guid>https://www.openstreetmap.org/note/3372340#c7236900</guid>
         <pubDate>Sat, 24 Sep 2022 19:16:35 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Kelenföld, 11th district) / * 2022 September 24 19:16 bkil Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3372342#c7236899</link>
-        <guid>https://www.openstreetmap.org/note/3372342#c7236899</guid>
-        <pubDate>Sat, 24 Sep 2022 19:16:31 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Zsámbék) / * 2022 September 24 18:36 Lesliex5 Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3372427#c7236777</link>
-        <guid>https://www.openstreetmap.org/note/3372427#c7236777</guid>
-        <pubDate>Sat, 24 Sep 2022 18:36:36 +0000</pubDate>
-      </item><item>
-        <title>new note (near Zsámbék) / * 2022 September 24 18:36 Lesliex5 Created: Home</title>
-        <link>https://www.openstreetmap.org/note/3372427#c7236773</link>
-        <guid>https://www.openstreetmap.org/note/3372427#c7236773</guid>
-        <pubDate>Sat, 24 Sep 2022 18:36:22 +0000</pubDate>
-      </item><item>
-        <title>new note (near Kelenföld, 11th district) / * 2022 September 24 17:04 Created: Raki</title>
-        <link>https://www.openstreetmap.org/note/3372342#c7236565</link>
-        <guid>https://www.openstreetmap.org/note/3372342#c7236565</guid>
-        <pubDate>Sat, 24 Sep 2022 17:04:03 +0000</pubDate>
       </item>
   </channel>
 </rss>
