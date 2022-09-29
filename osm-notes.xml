@@ -3,6 +3,41 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Északi városrész, Szombathely) / * 2022 September 29 07:17 Created: .</title>
+        <link>https://www.openstreetmap.org/note/3378200#c7249562</link>
+        <guid>https://www.openstreetmap.org/note/3378200#c7249562</guid>
+        <pubDate>Thu, 29 Sep 2022 07:17:35 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Hárshegy, 2nd district) / * 2022 September 28 19:57 Mateusz Konieczny Created: https://www.openstreetmap.org/node/2425964018 / Is there drinking water available here or not? It can be water fountain, water tap, maybe even hand pump, spring and so on. / It is marked as / amenity = drinking_water / disused:amenity = drinking_water / so it is marked as both active and disused at the same time. / If it is closed during winter then seasonal=yes would be much better / * 2022 September 29 07:17 Petró Tamás Resolved: It works only in summer (it closed in winter). We don&amp;#39;t know the exact time when it change.</title>
+        <link>https://www.openstreetmap.org/note/3377927#c7249561</link>
+        <guid>https://www.openstreetmap.org/note/3377927#c7249561</guid>
+        <pubDate>Thu, 29 Sep 2022 07:17:25 +0000</pubDate>
+      </item><item>
+        <title>new note (near Belváros, Szombathely) / * 2022 September 29 07:17 Created: .</title>
+        <link>https://www.openstreetmap.org/note/3378199#c7249560</link>
+        <guid>https://www.openstreetmap.org/note/3378199#c7249560</guid>
+        <pubDate>Thu, 29 Sep 2022 07:17:17 +0000</pubDate>
+      </item><item>
+        <title>new note (near Városközpont, Belváros, Szombathely) / * 2022 September 29 07:17 Created: .</title>
+        <link>https://www.openstreetmap.org/note/3378198#c7249559</link>
+        <guid>https://www.openstreetmap.org/note/3378198#c7249559</guid>
+        <pubDate>Thu, 29 Sep 2022 07:17:02 +0000</pubDate>
+      </item><item>
+        <title>new note (near Keleti belváros, Belváros, Szombathely) / * 2022 September 29 07:16 Created: .</title>
+        <link>https://www.openstreetmap.org/note/3378197#c7249558</link>
+        <guid>https://www.openstreetmap.org/note/3378197#c7249558</guid>
+        <pubDate>Thu, 29 Sep 2022 07:16:23 +0000</pubDate>
+      </item><item>
+        <title>new note (near Keleti belváros, Belváros, Szombathely) / * 2022 September 29 07:16 Created: .</title>
+        <link>https://www.openstreetmap.org/note/3378196#c7249557</link>
+        <guid>https://www.openstreetmap.org/note/3378196#c7249557</guid>
+        <pubDate>Thu, 29 Sep 2022 07:16:00 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Gagarin lakótelep, Balatonvilágos) / * 2022 September 28 19:57 Mateusz Konieczny Created: https://www.openstreetmap.org/node/2445056718 / Is there drinking water available here or not? It can be water fountain, water tap, maybe even hand pump, spring and so on. / It is marked as / amenity = drinking_water / disused:amenity = drinking_water / so it is marked as both active and disused at the same time. / If it is closed during winter then seasonal=yes would be much better / * 2022 September 29 07:15 Petró Tamás Resolved: Based on the latest note, it works.</title>
+        <link>https://www.openstreetmap.org/note/3377923#c7249555</link>
+        <guid>https://www.openstreetmap.org/note/3377923#c7249555</guid>
+        <pubDate>Thu, 29 Sep 2022 07:15:04 +0000</pubDate>
+      </item><item>
         <title>new comment (near Bisse) / * 2022 May 16 06:18 Created: Nem lehet átmenni lefelé (kerítés) / * 2022 September 28 20:54 Guzsvány Máté Updated: Hozzáadva. Ez így jó? https://www.openstreetmap.org/changeset/126755653</title>
         <link>https://www.openstreetmap.org/note/3181343#c7249069</link>
         <guid>https://www.openstreetmap.org/note/3181343#c7249069</guid>
@@ -137,21 +172,6 @@
         <link>https://www.openstreetmap.org/note/3374010#c7240393</link>
         <guid>https://www.openstreetmap.org/note/3374010#c7240393</guid>
         <pubDate>Sun, 25 Sep 2022 21:29:26 +0000</pubDate>
-      </item><item>
-        <title>new note (near Pasarét, 2nd district) / * 2022 September 25 02:16 Nmacma Created: The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI has no name / POI types: building / OSM data version: 2020-06-07T12:42:57Z / #mapsme</title>
-        <link>https://www.openstreetmap.org/note/3372723#c7237908</link>
-        <guid>https://www.openstreetmap.org/note/3372723#c7237908</guid>
-        <pubDate>Sun, 25 Sep 2022 02:16:08 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Kelenföld, 11th district) / * 2022 September 24 19:16 bkil Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3372338#c7236901</link>
-        <guid>https://www.openstreetmap.org/note/3372338#c7236901</guid>
-        <pubDate>Sat, 24 Sep 2022 19:16:37 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Orbánhegy, 12th district) / * 2022 September 24 19:16 bkil Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3372340#c7236900</link>
-        <guid>https://www.openstreetmap.org/note/3372340#c7236900</guid>
-        <pubDate>Sat, 24 Sep 2022 19:16:35 +0000</pubDate>
       </item>
   </channel>
 </rss>
