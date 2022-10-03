@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Hardware Project: warcrawler: Hello Stumblers, A few days spent cooped up inside and sick resulted in this terrible idea. I found a taken-apart RC car sitting in one of my parts boxes and decided it might be time to build a Kismet drone. What you see: 1x toy RC car chassis 1x Arduino Uno 1x Arduino motor shield 1x DC to DC bucking power supply 1x 1600 mAh 11.1v LiPo 3C This is already an incredible amount of overhead just for a drive base. My plan is to purchase a proto hat for the raspberry pi zero and solder together a custom solution to drive and control the motors directly from the GPIO. I will put together a schematic and include that for anyone who would like to follow along. To be added: 1x RasPi Zero 1x 4 Port USB Hub (soldered directly to RPi0) 1x GPS (GPS-NEO-6 m-001) 2x Tenda WiFi Dongles (W311MI) 1x RTL-SDR (borrowed) The next hurdle is controlling the car. I decided to use two wifi dongles, one for scanning and one for connecting to whatever AP serving the area and controlling it from my smartphone. See this video for an example that uses a laptop and xbox 360 controller: https://youtu.be/FwRHbJV4zV0 I don't exactly need a PTZ FPV and this RC Car chassis isn't really strong enough to support a lot of weight. Sooo I'll be using a RPi branded camera and fixing it directly to the chassis where it can see the path ahead and the front of the car. Even though PTZ would be really nice for situational awareness and better recon. Lastly, I'll be purchasing plexiglass and stand off screws to mount the remaining hardware and cover it in a somewhat clean look. -0- The question that's been on my mind and probably yours, after reading this thread, is why would anyone ever want to wardrive with a RC car. I had to think about it too, what sort of applications warrant it. When it comes down to scanning and recon, an actual car can't go many places aside from the streets. This drone might be incredibly useful for grabbing detailed and more accurate maps of campuses, parks, large buildings. It may even be possible to use images collected from a camera array to create floor plans. The ability to get close to certain access control systems could be used to grab RFID badges and NFC handshakes right out of the air. The nefarious applications that come to mind are pretty scary. What else would it be good for? Pokemon Go, lol. Please let me know what you think, any advice or comments are welcome. I do want to see where this goes and if I can find any other applications for it.Why do I find this absolutely hilarious? -Stavinair</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11345#p11345</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11345#p11345</guid>
+        <pubDate>2022-10-03T21:38:27</pubDate>
+      </item><item>
         <title>Re: Huawei P20 Android 10: Are you sure your not on android 9.... Emui 10 doesn't specify android versions, I could be wrong I have 20 abs it's tuff find firmware for andtoid10 -billyk77</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11338#p11338</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11338#p11338</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11212#p11212</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11212#p11212</guid>
         <pubDate>2022-04-14T19:05:43</pubDate>
-      </item><item>
-        <title>Kismet drone on wireless router?: Update: I gave up on trying to get 20y old hardware running with 10y old software... However, I'm still looking for Kismet drone options with a price tag in the lower two digits, i.e. comparable to a Raspberry Pi plus wifi adapter. And while the Pi would definititely be an option, I'd naively assume that hardware specialized in radio communication might be more sensitive, e.g. a wireless router. Can anybody shed some light on whether this assumption is naive or actually true, possibly even with some hardware recommendation? Thanks. -qascnjzd</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11208#p11208</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11208#p11208</guid>
-        <pubDate>2022-04-07T21:44:09</pubDate>
       </item>
   </channel>
 </rss>
