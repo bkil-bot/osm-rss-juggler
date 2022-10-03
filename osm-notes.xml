@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Lipótváros, 5th district) / * 2022 October 3 15:12 grozsa11 Updated: Ilyenkor hivatalosan töröljük egyszerűen le az OSM-ről? Vagy tegyük valami háttérbe, és ha esetleg az építkezés a mellette lévő telken befejeződik, akkor lehet hogy visszakerül ide a bubi? Mi a jó OSM-es megoldás ilyenkor?</title>
+        <link>https://www.openstreetmap.org/note/3377082#c7260812</link>
+        <guid>https://www.openstreetmap.org/note/3377082#c7260812</guid>
+        <pubDate>Mon, 03 Oct 2022 15:12:03 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Lipótváros, 5th district) / * 2022 September 28 11:40 grozsa11 Created: Unable to answer &amp;quot;What type of bicycle rental is this?&amp;quot; for https://osm.org/node/2743702854 via StreetComplete 46.1: / ....lehet hogy csak az épitkezés idejére nincsen itt bubiállomás... / * 2022 October 3 14:53 infeeeee Updated: Ez az állomás a hivatalos térképen sem szerepel.</title>
+        <link>https://www.openstreetmap.org/note/3377082#c7260740</link>
+        <guid>https://www.openstreetmap.org/note/3377082#c7260740</guid>
+        <pubDate>Mon, 03 Oct 2022 14:53:39 +0000</pubDate>
+      </item><item>
         <title>closed note (near Hetvehely) / * 2022 October 2 10:34 sakköntevkör Created: 1 / * 2022 October 3 12:15 bkil Resolved: Ez a funkció publikus térképhibák bejelentésére szolgál. Kérjük ne használja privát jegyzetekre.</title>
         <link>https://www.openstreetmap.org/note/3382105#c7260188</link>
         <guid>https://www.openstreetmap.org/note/3382105#c7260188</guid>
@@ -137,21 +147,6 @@
         <link>https://www.openstreetmap.org/note/3304419#c7256323</link>
         <guid>https://www.openstreetmap.org/note/3304419#c7256323</guid>
         <pubDate>Sat, 01 Oct 2022 20:40:55 +0000</pubDate>
-      </item><item>
-        <title>new note (near Virágos, Villány) / * 2022 October 1 07:28 Guzsvány Máté Created: 30-as sebességkorlátozás a Vasútállomás felé.</title>
-        <link>https://www.openstreetmap.org/note/3380568#c7254127</link>
-        <guid>https://www.openstreetmap.org/note/3380568#c7254127</guid>
-        <pubDate>Sat, 01 Oct 2022 07:28:46 +0000</pubDate>
-      </item><item>
-        <title>new note (near Virágos, Villány) / * 2022 October 1 07:28 Guzsvány Máté Created: Behajtani tilos, kivéve engedéllyel</title>
-        <link>https://www.openstreetmap.org/note/3380565#c7254123</link>
-        <guid>https://www.openstreetmap.org/note/3380565#c7254123</guid>
-        <pubDate>Sat, 01 Oct 2022 07:28:07 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Balatonkenese) / * 2022 August 3 16:32 marietina Created: Unable to answer &amp;quot;This shop has been vacant. What’s here now?&amp;quot; for https://osm.org/way/694690454 via StreetComplete 45.1: / családi ház / * 2022 October 1 05:15 vasony Resolved: levettem a disuded:shop-ot</title>
-        <link>https://www.openstreetmap.org/note/3297674#c7253979</link>
-        <guid>https://www.openstreetmap.org/note/3297674#c7253979</guid>
-        <pubDate>Sat, 01 Oct 2022 05:15:33 +0000</pubDate>
       </item>
   </channel>
 </rss>
