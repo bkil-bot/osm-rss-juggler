@@ -3,6 +3,11 @@
   <channel>
     <title>git (via bkil-bot)</title>
       <item>
+        <title>bkil: Martonvásár hozzáadása</title>
+        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/7794b9a961b3842b84ec13f5105fbc252855b52e</link>
+        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/7794b9a961b3842b84ec13f5105fbc252855b52e</guid>
+        <pubDate>2022-10-04T17:27:15+02:00</pubDate>
+      </item><item>
         <title>bkil: Balassagyarmat: add TRT-2022-02.jgw</title>
         <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/db4c1217cfe888794205ea3958a12d7044801190</link>
         <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/db4c1217cfe888794205ea3958a12d7044801190</guid>
@@ -182,11 +187,6 @@
         <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/29c427f098d80c8b15e95b4a30d81cf782dfd694</link>
         <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/29c427f098d80c8b15e95b4a30d81cf782dfd694</guid>
         <pubDate>2020-06-22T01:33:29+02:00</pubDate>
-      </item><item>
-        <title>Balázs Úr: Magyarázószöveg javítása</title>
-        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/34df1e505160d57af46c96e31c9cac21f614acb0</link>
-        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/34df1e505160d57af46c96e31c9cac21f614acb0</guid>
-        <pubDate>2020-06-20T01:28:04+02:00</pubDate>
       </item>
   </channel>
 </rss>
