@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Sárszentmihály) / * 2022 October 5 19:25 bkil Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3387118#c7267413</link>
+        <guid>https://www.openstreetmap.org/note/3387118#c7267413</guid>
+        <pubDate>Wed, 05 Oct 2022 19:25:15 +0000</pubDate>
+      </item><item>
         <title>new note (near Golgota, Fertőrákos) / * 2022 October 5 19:13 efi99 Created: cím jó?</title>
         <link>https://www.openstreetmap.org/note/3387172#c7267391</link>
         <guid>https://www.openstreetmap.org/note/3387172#c7267391</guid>
@@ -207,21 +212,6 @@
         <link>https://www.openstreetmap.org/note/3381878#c7257488</link>
         <guid>https://www.openstreetmap.org/note/3381878#c7257488</guid>
         <pubDate>Sun, 02 Oct 2022 11:11:43 +0000</pubDate>
-      </item><item>
-        <title>new note (near Hetvehely) / * 2022 October 2 10:34 sakköntevkör Created: 1</title>
-        <link>https://www.openstreetmap.org/note/3382105#c7257425</link>
-        <guid>https://www.openstreetmap.org/note/3382105#c7257425</guid>
-        <pubDate>Sun, 02 Oct 2022 10:34:40 +0000</pubDate>
-      </item><item>
-        <title>new note (near Hetvehely) / * 2022 October 2 10:34 sakköntevkör Created: 1.</title>
-        <link>https://www.openstreetmap.org/note/3382104#c7257424</link>
-        <guid>https://www.openstreetmap.org/note/3382104#c7257424</guid>
-        <pubDate>Sun, 02 Oct 2022 10:34:11 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Almádi, Balatonalmádi) / * 2021 March 9 21:36 vasony Created: Pacsirta út vagy Pacsirta utca? / * 2022 October 2 10:28 vasony Updated: házakon út,  tájékoztató táblán utca</title>
-        <link>https://www.openstreetmap.org/note/2572534#c7257417</link>
-        <guid>https://www.openstreetmap.org/note/2572534#c7257417</guid>
-        <pubDate>Sun, 02 Oct 2022 10:28:12 +0000</pubDate>
       </item>
   </channel>
 </rss>
