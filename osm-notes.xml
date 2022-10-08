@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Leányfalu) / * 2022 June 24 06:27 vasony Created: igen, befele egyirányú. fixme leszedhető / * 2022 October 8 06:53 ITineris Resolved: Great User a #127061766-ben a 20-as korlátozás felrakásával egyidejűleg már leszedte.</title>
+        <link>https://www.openstreetmap.org/note/3238231#c7273743</link>
+        <guid>https://www.openstreetmap.org/note/3238231#c7273743</guid>
+        <pubDate>Sat, 08 Oct 2022 06:53:11 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Béketelep, Szeged) / * 2022 August 26 10:26 oti4500 Created: &amp;quot;i am added more data about this place&amp;quot; / OSM snapshot date: 2022-07-18T07:38:05Z / POI name: Jola ajtóáruház / POI types: shop-furniture / #organicmaps / * 2022 October 8 06:51 ITineris Updated: What is to do here? It&amp;#39;s named and tagged as in the note.</title>
+        <link>https://www.openstreetmap.org/note/3332344#c7273741</link>
+        <guid>https://www.openstreetmap.org/note/3332344#c7273741</guid>
+        <pubDate>Sat, 08 Oct 2022 06:51:10 +0000</pubDate>
+      </item><item>
         <title>closed note (near Pilisszentiván) / * 2022 October 7 17:32 Johanna707 Resolved: </title>
         <link>https://www.openstreetmap.org/note/3048211#c7272434</link>
         <guid>https://www.openstreetmap.org/note/3048211#c7272434</guid>
@@ -277,21 +287,6 @@
         <link>https://www.openstreetmap.org/note/3384854#c7262700</link>
         <guid>https://www.openstreetmap.org/note/3384854#c7262700</guid>
         <pubDate>Tue, 04 Oct 2022 06:55:10 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Kamaraerdő, Budaörs) / * 2022 September 28 19:57 Mateusz Konieczny Created: https://www.openstreetmap.org/node/5654616211 / Is there drinking water available here or not? It can be water fountain, water tap, maybe even hand pump, spring and so on. / It is marked as / amenity = drinking_water / disused:amenity = drinking_water / so it is marked as both active and disused at the same time. / If it is closed during winter then seasonal=yes would be much better / * 2022 October 3 21:13 GBAB Resolved: It seems solved: it was a tap, then it was closed then reopened.</title>
-        <link>https://www.openstreetmap.org/note/3377926#c7262100</link>
-        <guid>https://www.openstreetmap.org/note/3377926#c7262100</guid>
-        <pubDate>Mon, 03 Oct 2022 21:13:02 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Történelmi belváros, Budaörs) / * 2022 February 16 08:34 Created: Rutin Gasztrokuckó / * 2022 October 3 21:04 infeeeee Resolved: Frissítve: https://www.openstreetmap.org/changeset/126959265</title>
-        <link>https://www.openstreetmap.org/note/3053339#c7262076</link>
-        <guid>https://www.openstreetmap.org/note/3053339#c7262076</guid>
-        <pubDate>Mon, 03 Oct 2022 21:04:11 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Lipótváros, 5th district) / * 2022 October 3 18:44 infeeeee Updated: Vagy demolished:* prefix https://wiki.openstreetmap.org/wiki/Key:demolished:* vagy törlés. Én törölném, de vannak akik nem szeretnek törölni. Bubi térképen úgy látom a 0510-es számot nem használták még újra, szemben a 0509-cel, a másik jegyzetedben.</title>
-        <link>https://www.openstreetmap.org/note/3377082#c7261634</link>
-        <guid>https://www.openstreetmap.org/note/3377082#c7261634</guid>
-        <pubDate>Mon, 03 Oct 2022 18:44:08 +0000</pubDate>
       </item>
   </channel>
 </rss>
