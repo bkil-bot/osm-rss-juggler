@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Újlipótváros, 13th district) / * 2022 October 15 11:00 pihentagy Created: Unable to answer &amp;quot;What are the opening hours here?&amp;quot; for https://osm.org/node/4965536722 via StreetComplete 47.1: / Bezárt. Nincs kiírva semmi.</title>
+        <link>https://www.openstreetmap.org/note/3400055#c7297825</link>
+        <guid>https://www.openstreetmap.org/note/3400055#c7297825</guid>
+        <pubDate>Sat, 15 Oct 2022 11:00:29 +0000</pubDate>
+      </item><item>
         <title>new note (near Dad) / * 2022 October 15 06:55 Created: A sínt felszedték, a vasúti kereszteződés megszűnt.</title>
         <link>https://www.openstreetmap.org/note/3399795#c7297315</link>
         <guid>https://www.openstreetmap.org/note/3399795#c7297315</guid>
@@ -122,16 +127,6 @@
         <link>https://www.openstreetmap.org/note/3346463#c7284659</link>
         <guid>https://www.openstreetmap.org/note/3346463#c7284659</guid>
         <pubDate>Tue, 11 Oct 2022 15:58:44 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Pilisszentiván) / * 2022 October 11 12:08 ITineris Resolved: Akkor OSM-es szempontból a híd rendben van, ez szerepel a jegyzetben. / A környéken akad néhány földút, a SC kérdése valószínűleg ezek valamelyikére vonatkozott. De ezt a telefonod GNSS vevőjével és az SC-vel kell megbeszélned.</title>
-        <link>https://www.openstreetmap.org/note/3048211#c7283786</link>
-        <guid>https://www.openstreetmap.org/note/3048211#c7283786</guid>
-        <pubDate>Tue, 11 Oct 2022 12:08:35 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Pilisszentiván) / * 2022 October 11 12:04 Johanna707 Updated: A StreetComplete (a legfrissebb, 47.1) hidat nem jelöl, &amp;quot;földút&amp;quot;-nak gondolja, és azt kérdezi, hogy traktorral mennyire járható.</title>
-        <link>https://www.openstreetmap.org/note/3048211#c7283774</link>
-        <guid>https://www.openstreetmap.org/note/3048211#c7283774</guid>
-        <pubDate>Tue, 11 Oct 2022 12:04:38 +0000</pubDate>
       </item>
   </channel>
 </rss>
