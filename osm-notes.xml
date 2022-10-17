@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Klastrompuszta, Kesztölc) / * 2022 October 17 07:11 ITineris Created: A ház sarkán mindkét oldalon 1-es szám van kint. Most akkor hogy is vannak itt a házszámok?</title>
+        <link>https://www.openstreetmap.org/note/3402520#c7304749</link>
+        <guid>https://www.openstreetmap.org/note/3402520#c7304749</guid>
+        <pubDate>Mon, 17 Oct 2022 07:11:38 +0000</pubDate>
+      </item><item>
         <title>closed note (near Gyopárosfürdő, Orosháza) / * 2020 June 14 10:34 Aggelos888 Created: &amp;quot;innen le van zárva az út a fürdő fele, mert ez a fürdő területe&amp;quot; / POI has no name / POI types: hwtag-private highway-residential / OSM data version: 2020-05-14T01:25:26Z / #mapsme / * 2020 June 22 19:29 vasony Updated: access=private van rajta, fizikailag van elzárva? / * 2022 October 16 22:58 urbalazs Resolved: 3 éve rajta van 1-1 kapu + access=private. Mivel a bejelentőtől nem érkezett pontosabb információ, ezért lezárom.</title>
         <link>https://www.openstreetmap.org/note/2228512#c7304250</link>
         <guid>https://www.openstreetmap.org/note/2228512#c7304250</guid>
@@ -322,21 +327,6 @@
         <link>https://www.openstreetmap.org/note/3400617#c7299348</link>
         <guid>https://www.openstreetmap.org/note/3400617#c7299348</guid>
         <pubDate>Sat, 15 Oct 2022 19:01:12 +0000</pubDate>
-      </item><item>
-        <title>new note (near Rózsafa) / * 2022 October 15 18:58 borazslo Created: Ez az átkötő út betonlapokból álló cucc kissé meggyötört állapotban. Azért nem föld út, hiszen hatalmas esőzések után is simán járható személyautóval is, csak nem túl barátságos (lassan kell menni.) (Napokban kerékpároztam át rajta, csak nem tudom, hogyan kéne jelölni.)</title>
-        <link>https://www.openstreetmap.org/note/3400616#c7299327</link>
-        <guid>https://www.openstreetmap.org/note/3400616#c7299327</guid>
-        <pubDate>Sat, 15 Oct 2022 18:58:11 +0000</pubDate>
-      </item><item>
-        <title>new note (near Német előváros, Kőszeg) / * 2022 October 15 18:55 efi99 Created: cím?</title>
-        <link>https://www.openstreetmap.org/note/3400613#c7299311</link>
-        <guid>https://www.openstreetmap.org/note/3400613#c7299311</guid>
-        <pubDate>Sat, 15 Oct 2022 18:55:36 +0000</pubDate>
-      </item><item>
-        <title>new note (near Mozsgói szőlőhegy, Mozsgó) / * 2022 October 15 18:55 borazslo Created: Ide épült egy aszfaltút. Max 3 méteres magasságnak engedélyezett (kapuja van alul és felül). A 66119-ből indul és a szölő tetején lévő aszfaltig tart. Igazából egy sáv. És remek. Valami pályázatból. Ott jártam, láttam, de nem mértem be.</title>
-        <link>https://www.openstreetmap.org/note/3400612#c7299309</link>
-        <guid>https://www.openstreetmap.org/note/3400612#c7299309</guid>
-        <pubDate>Sat, 15 Oct 2022 18:55:33 +0000</pubDate>
       </item>
   </channel>
 </rss>
