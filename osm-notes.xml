@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Mezőzombor) / * 2022 October 11 19:31 Branko Kokanovic Created: This way has speed limit of 10. All routers are ignoring it, for example: https://classic-maps.openrouteservice.org/directions?n1=48.160024&amp;amp;n2=21.253891&amp;amp;n3=15&amp;amp;a=48.16539,21.301707,48.159442,21.206038&amp;amp;b=0&amp;amp;c=0&amp;amp;k1=en-US&amp;amp;k2=km / * 2022 October 18 14:54 Branko Kokanovic Resolved: solved in https://www.openstreetmap.org/changeset/127732000</title>
+        <link>https://www.openstreetmap.org/note/3395767#c7309403</link>
+        <guid>https://www.openstreetmap.org/note/3395767#c7309403</guid>
+        <pubDate>Tue, 18 Oct 2022 14:54:22 +0000</pubDate>
+      </item><item>
         <title>new note (near Kemence) / * 2022 October 18 07:21 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: There&amp;#39;s railway station Godovár.</title>
         <link>https://www.openstreetmap.org/note/3403829#c7308184</link>
         <guid>https://www.openstreetmap.org/note/3403829#c7308184</guid>
@@ -177,16 +182,6 @@
         <link>https://www.openstreetmap.org/note/2611225#c7301565</link>
         <guid>https://www.openstreetmap.org/note/2611225#c7301565</guid>
         <pubDate>Sun, 16 Oct 2022 08:36:21 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Belváros, Hódmezővásárhely) / * 2022 October 16 08:25 ITineris Updated: A Kálvin János téren még simának van berajzolva a valóságban turbó körforgalom. A ki- és behajtók geometriáján is lenne mit szépíteni, hogy ne legyenek benne ekkora törések. Mintha valaki az egész körforgalmat húzta volna arrébb egy másik műholdkép alapján. (Miközben fene tudja, melyik mennyire pontos itt.)</title>
-        <link>https://www.openstreetmap.org/note/2449185#c7301513</link>
-        <guid>https://www.openstreetmap.org/note/2449185#c7301513</guid>
-        <pubDate>Sun, 16 Oct 2022 08:25:02 +0000</pubDate>
-      </item><item>
-        <title>reactivated note (near Belváros, Hódmezővásárhely) / * 2020 December 1 20:35 Created: A tramtrain teljes nyomvonalát fel kellene mérni, hogy pontosan merre megy az úttestekhez képest. A Kaszap utca és a Kálvin János tér között az Andrássy utat rakták odébb, a Kálvin tértől a vasútállomásik pedig a Bajcsyt. Épültek új körforgalmak is. / * 2020 December 1 21:02 ITineris Updated: Én voltam. / * 2021 April 28 15:25 gabro00 Updated: Már egész jól néz ki. / * 2021 May 17 22:37 gabro00 Updated: Van még ezzel teendő? / * 2021 May 18 05:29 ITineris Updated: Helyükre húztam a körforgalmakat, megcsináltam a ki-behajtókat, ahol kellett. Felraktam a zebrákat, és az elsőbbségadás kötelező táblákat, a Bethlen István utca torkolatában pedig a kanyarodási szabályokat. / A Kálvin János téren turbó a körforgalom. Kellene hozzá egy kis helyismeret kibogozni, és felrajzolni. / Különben már elég jól állunk. / * 2022 February 18 18:00 gabro00 Updated: Maxaron már turbó a Kálvin téri körforgalom. / A többi dolog talán kész, a vonalat és a megállókat is szerkesztettük páran az indulás környékén. / * 2022 October 15 21:08 urbalazs Resolved: Az előzmények alapján megoldottnak tekintem, mert nincs több nyitott kérdés. Ha mégis, akkor nyissátok újra. / * 2022 October 16 08:23 ITineris Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/2449185#c7301505</link>
-        <guid>https://www.openstreetmap.org/note/2449185#c7301505</guid>
-        <pubDate>Sun, 16 Oct 2022 08:23:06 +0000</pubDate>
       </item>
   </channel>
 </rss>
