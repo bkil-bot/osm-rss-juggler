@@ -2,21 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      <item>
-        <title>Hungary/20221004: Nominatim -Urbalazs</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20221004&amp;diff=2414158&amp;oldid=2414141</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20221004&amp;diff=2414158</guid>
-        <pubDate>Tue, 04 Oct 2022 23:03:56 GMT</pubDate>
-      </item><item>
-        <title>Hungary/20221004: eredmény -Bkil</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20221004&amp;diff=2414141&amp;oldid=2414030</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20221004&amp;diff=2414141</guid>
-        <pubDate>Tue, 04 Oct 2022 22:15:43 GMT</pubDate>
-      </item><item>
-        <title>Hungary/Kerékpárút: Egyéb térségi útvonalak -Antissimo</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Ker%C3%A9kp%C3%A1r%C3%BAt&amp;diff=2421329&amp;oldid=2421284</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Ker%C3%A9kp%C3%A1r%C3%BAt&amp;diff=2421329</guid>
-        <pubDate>Sun, 16 Oct 2022 19:05:31 GMT</pubDate>
-      </item>
+      
   </channel>
 </rss>

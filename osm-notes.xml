@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Almádi, Balatonalmádi) / * 2022 October 9 19:24 vasony Created: 45/b melyik épület? / * 2022 October 18 19:27 vasony Resolved: a ház hátsó fele</title>
+        <link>https://www.openstreetmap.org/note/3392839#c7310141</link>
+        <guid>https://www.openstreetmap.org/note/3392839#c7310141</guid>
+        <pubDate>Tue, 18 Oct 2022 19:27:00 +0000</pubDate>
+      </item><item>
         <title>closed note (near Mezőzombor) / * 2022 October 11 19:31 Branko Kokanovic Created: This way has speed limit of 10. All routers are ignoring it, for example: https://classic-maps.openrouteservice.org/directions?n1=48.160024&amp;amp;n2=21.253891&amp;amp;n3=15&amp;amp;a=48.16539,21.301707,48.159442,21.206038&amp;amp;b=0&amp;amp;c=0&amp;amp;k1=en-US&amp;amp;k2=km / * 2022 October 18 14:54 Branko Kokanovic Resolved: solved in https://www.openstreetmap.org/changeset/127732000</title>
         <link>https://www.openstreetmap.org/note/3395767#c7309403</link>
         <guid>https://www.openstreetmap.org/note/3395767#c7309403</guid>
@@ -167,11 +172,6 @@
         <link>https://www.openstreetmap.org/note/3347748#c7301660</link>
         <guid>https://www.openstreetmap.org/note/3347748#c7301660</guid>
         <pubDate>Sun, 16 Oct 2022 09:26:58 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Polgárdi) / * 2022 September 5 20:20 vasony Created: Kodály Zoltán utca itt van valahol? / * 2022 October 16 09:07 vasony Updated: ezen nincs tábla,  es ház sincs</title>
-        <link>https://www.openstreetmap.org/note/3347431#c7301615</link>
-        <guid>https://www.openstreetmap.org/note/3347431#c7301615</guid>
-        <pubDate>Sun, 16 Oct 2022 09:07:37 +0000</pubDate>
       </item>
   </channel>
 </rss>
