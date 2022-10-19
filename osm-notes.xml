@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Királyvölgy, Kőszeg) / * 2022 October 19 10:44 efi99 Created: cím?</title>
+        <link>https://www.openstreetmap.org/note/3405472#c7312156</link>
+        <guid>https://www.openstreetmap.org/note/3405472#c7312156</guid>
+        <pubDate>Wed, 19 Oct 2022 10:44:10 +0000</pubDate>
+      </item><item>
         <title>new note (near Belváros, Szeged) / * 2022 October 19 09:12 fawkes2 Created: Szerintem itt nyitott kerékpársáv van. Meg kell majd nézni, a táblát ami kint van és ha tényleg akkor rá kéne rakni, hogy cycleway:right:lane=advisory és cycleway:left=no</title>
         <link>https://www.openstreetmap.org/note/3405341#c7311899</link>
         <guid>https://www.openstreetmap.org/note/3405341#c7311899</guid>
@@ -167,11 +172,6 @@
         <link>https://www.openstreetmap.org/note/3347460#c7301694</link>
         <guid>https://www.openstreetmap.org/note/3347460#c7301694</guid>
         <pubDate>Sun, 16 Oct 2022 09:43:31 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Polgárdi) / * 2022 September 5 19:23 vasony Created: Ez a szakasz esetleg Balassy Bálint utca ? / * 2022 October 16 09:31 vasony Updated: A végén 2 ház  egyiken Balassi Bálint utca 1</title>
-        <link>https://www.openstreetmap.org/note/3347382#c7301672</link>
-        <guid>https://www.openstreetmap.org/note/3347382#c7301672</guid>
-        <pubDate>Sun, 16 Oct 2022 09:31:09 +0000</pubDate>
       </item>
   </channel>
 </rss>
