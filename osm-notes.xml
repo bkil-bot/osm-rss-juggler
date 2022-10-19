@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Belváros, Szeged) / * 2022 October 19 09:12 fawkes2 Created: Szerintem itt nyitott kerékpársáv van. Meg kell majd nézni, a táblát ami kint van és ha tényleg akkor rá kéne rakni, hogy cycleway:right:lane=advisory és cycleway:left=no</title>
+        <link>https://www.openstreetmap.org/note/3405341#c7311899</link>
+        <guid>https://www.openstreetmap.org/note/3405341#c7311899</guid>
+        <pubDate>Wed, 19 Oct 2022 09:12:43 +0000</pubDate>
+      </item><item>
         <title>closed note (near Almádi, Balatonalmádi) / * 2022 October 9 19:24 vasony Created: 45/b melyik épület? / * 2022 October 18 19:27 vasony Resolved: a ház hátsó fele</title>
         <link>https://www.openstreetmap.org/note/3392839#c7310141</link>
         <guid>https://www.openstreetmap.org/note/3392839#c7310141</guid>
@@ -167,11 +172,6 @@
         <link>https://www.openstreetmap.org/note/3347382#c7301672</link>
         <guid>https://www.openstreetmap.org/note/3347382#c7301672</guid>
         <pubDate>Sun, 16 Oct 2022 09:31:09 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Lászlómajor, Polgárdi) / * 2022 September 6 06:07 vasony Created: Ez a szakasz is Bethlen Gábor utca? / * 2022 October 16 09:26 vasony Updated: igen</title>
-        <link>https://www.openstreetmap.org/note/3347748#c7301660</link>
-        <guid>https://www.openstreetmap.org/note/3347748#c7301660</guid>
-        <pubDate>Sun, 16 Oct 2022 09:26:58 +0000</pubDate>
       </item>
   </channel>
 </rss>
