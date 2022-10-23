@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Bodajk) / * 2022 October 23 08:16 daniel_kaposi Created: fire_hydrant:type=underground</title>
+        <link>https://www.openstreetmap.org/note/3409990#c7324703</link>
+        <guid>https://www.openstreetmap.org/note/3409990#c7324703</guid>
+        <pubDate>Sun, 23 Oct 2022 08:16:40 +0000</pubDate>
+      </item><item>
+        <title>new note (near Máriagyűd, Siklós) / * 2022 October 23 07:27 Petymag Created: Sárga sáv tévesen került felrajzolásra / via StreetComplete 47.2</title>
+        <link>https://www.openstreetmap.org/note/3409943#c7324553</link>
+        <guid>https://www.openstreetmap.org/note/3409943#c7324553</guid>
+        <pubDate>Sun, 23 Oct 2022 07:27:23 +0000</pubDate>
+      </item><item>
         <title>new note (near Villanegyed, Kecskemét) / * 2022 October 22 22:53 Created: Kerékpártároló</title>
         <link>https://www.openstreetmap.org/note/3409771#c7323861</link>
         <guid>https://www.openstreetmap.org/note/3409771#c7323861</guid>
@@ -172,21 +182,6 @@
         <link>https://www.openstreetmap.org/note/3405517#c7312232</link>
         <guid>https://www.openstreetmap.org/note/3405517#c7312232</guid>
         <pubDate>Wed, 19 Oct 2022 11:30:07 +0000</pubDate>
-      </item><item>
-        <title>new note (near Királyvölgy, Kőszeg) / * 2022 October 19 10:44 efi99 Created: cím?</title>
-        <link>https://www.openstreetmap.org/note/3405472#c7312156</link>
-        <guid>https://www.openstreetmap.org/note/3405472#c7312156</guid>
-        <pubDate>Wed, 19 Oct 2022 10:44:10 +0000</pubDate>
-      </item><item>
-        <title>new note (near Belváros, Szeged) / * 2022 October 19 09:12 fawkes2 Created: Szerintem itt nyitott kerékpársáv van. Meg kell majd nézni, a táblát ami kint van és ha tényleg akkor rá kéne rakni, hogy cycleway:right:lane=advisory és cycleway:left=no</title>
-        <link>https://www.openstreetmap.org/note/3405341#c7311899</link>
-        <guid>https://www.openstreetmap.org/note/3405341#c7311899</guid>
-        <pubDate>Wed, 19 Oct 2022 09:12:43 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Almádi, Balatonalmádi) / * 2022 October 9 19:24 vasony Created: 45/b melyik épület? / * 2022 October 18 19:27 vasony Resolved: a ház hátsó fele</title>
-        <link>https://www.openstreetmap.org/note/3392839#c7310141</link>
-        <guid>https://www.openstreetmap.org/note/3392839#c7310141</guid>
-        <pubDate>Tue, 18 Oct 2022 19:27:00 +0000</pubDate>
       </item>
   </channel>
 </rss>
