@@ -2,6 +2,16 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      
+      <item>
+        <title>Hungary/20221024: Jelentkezők: +bordaben -Bkil</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20221024&amp;diff=2425923&amp;oldid=2425917</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20221024&amp;diff=2425923</guid>
+        <pubDate>Mon, 24 Oct 2022 18:12:22 GMT</pubDate>
+      </item><item>
+        <title>Hungary/20221024: Jelentkezők: Add my OSM profile -JanCBorchardt</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20221024&amp;diff=2425917&amp;oldid=2424450</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20221024&amp;diff=2425917</guid>
+        <pubDate>Mon, 24 Oct 2022 17:49:52 GMT</pubDate>
+      </item>
   </channel>
 </rss>
