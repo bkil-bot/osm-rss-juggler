@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>OSM Notathon blog post also available in French, Swahili, Korean and Spanish (original post - later translated to English) ES https://blog.openstreetmap.org/2022/10/26/la-evolucion-de-las-notatones-en-america-latina/?lang=es FR https://blog.openstreetmap.org/2022/10/26/levolution-du-notathon-en-amerique-latine-2/?lang=fr SW https://blog.openstreetmap.org/2022/10/26/mageuzi-ya-notathon-ndani-ya-amerika-ya-kusini-2/?lang=sw KO https://blog.openstreetmap.org/2022/10/26/%eb%9d%bc%ed%8b%b4-%ec%95%84%eb%a9%94%eb%a6%ac%ec%b9%b4%ec%97%90%ec%84%9c-%ec%a7%84%ed%99%94%ed%95%98%eb%8a%94-%eb%85%b8%ed%83%80%ed%86%a4notatones/?lang=ko</title>
+        <link>https://en.osm.town/@openstreetmap/109239045825030390</link>
+        <guid>https://en.osm.town/@openstreetmap/109239045825030390</guid>
+        <pubDate>Thu, 27 Oct 2022 07:25:57 +0000</pubDate>
+      </item><item>
         <title>@angoca@twitter.com @OpenStreetMapCo@twitter.com Check out the impressive OSM note resolution statistics from Colombia, Cuba and Ecuador! Great to see new forms of community collaboration emerging! #OSMnotes #notathons https://blog.openstreetmap.org/2022/10/26/the-evolution-of-notathons-in-latin-america/</title>
         <link>https://en.osm.town/@openstreetmap/109239025561901610</link>
         <guid>https://en.osm.town/@openstreetmap/109239025561901610</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/109227305032283965</link>
         <guid>https://en.osm.town/@openstreetmap/109227305032283965</guid>
         <pubDate>Tue, 25 Oct 2022 05:40:07 +0000</pubDate>
-      </item><item>
-        <title>The deadline for running for the OpenStreetMap Foundation Board of Directors is coming up, October 22nd! Learn more about how to run and the Board at our latest blog post! https://blog.openstreetmap.org/2022/10/13/nominate-yourself-for-the-osm-foundation-board-elections-by-october-22/ #OpenStreetMap</title>
-        <link>https://en.osm.town/@openstreetmap/109227304975001590</link>
-        <guid>https://en.osm.town/@openstreetmap/109227304975001590</guid>
-        <pubDate>Tue, 25 Oct 2022 05:40:06 +0000</pubDate>
       </item>
   </channel>
 </rss>
