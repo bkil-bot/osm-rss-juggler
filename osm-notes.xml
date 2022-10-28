@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Harangalja, Kőszeg) / * 2022 October 19 18:25 vasony-qa Created: Melyik közterület a Malom utca, amire ez számozva van? / * 2022 October 28 19:53 efi99 Resolved: 1113/6 hrsz. / https://koszeg.hu/hu/onkormanyzat/hirek/content.php?id=10773</title>
+        <link>https://www.openstreetmap.org/note/3406020#c7344433</link>
+        <guid>https://www.openstreetmap.org/note/3406020#c7344433</guid>
+        <pubDate>Fri, 28 Oct 2022 19:53:38 +0000</pubDate>
+      </item><item>
         <title>closed note (near Német előváros, Kőszeg) / * 2022 October 15 18:55 efi99 Created: cím? / * 2022 October 28 18:37 efi99 Resolved: Malomárok 1</title>
         <link>https://www.openstreetmap.org/note/3400613#c7344279</link>
         <guid>https://www.openstreetmap.org/note/3400613#c7344279</guid>
@@ -282,11 +287,6 @@
         <link>https://www.openstreetmap.org/note/3308016#c7332370</link>
         <guid>https://www.openstreetmap.org/note/3308016#c7332370</guid>
         <pubDate>Tue, 25 Oct 2022 10:58:08 +0000</pubDate>
-      </item><item>
-        <title>reactivated note (near Belváros, Szeged) / * 2022 October 25 10:57 fawkes2 Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/3308016#c7332369</link>
-        <guid>https://www.openstreetmap.org/note/3308016#c7332369</guid>
-        <pubDate>Tue, 25 Oct 2022 10:57:45 +0000</pubDate>
       </item>
   </channel>
 </rss>
