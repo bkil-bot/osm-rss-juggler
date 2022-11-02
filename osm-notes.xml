@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Tolcsva) / * 2022 November 2 12:07 ITineris Created: A 37-es osztott pályásítása óta nem ilyen a benzinkút megközelítése. Csak a Miskolc felé haladó irányból érhető el, egy kb. merőleges szervizút megy be.</title>
+        <link>https://www.openstreetmap.org/note/3424819#c7360576</link>
+        <guid>https://www.openstreetmap.org/note/3424819#c7360576</guid>
+        <pubDate>Wed, 02 Nov 2022 12:07:21 +0000</pubDate>
+      </item><item>
+        <title>new note (near Arborétum lakópark, Kecskemét) / * 2022 November 2 11:25 Mateusz Konieczny Created: https://www.openstreetmap.org/node/5071105179 / descriptive name and other nearby should be removed (in some cases extra tags may be added based on it)</title>
+        <link>https://www.openstreetmap.org/note/3424759#c7360496</link>
+        <guid>https://www.openstreetmap.org/note/3424759#c7360496</guid>
+        <pubDate>Wed, 02 Nov 2022 11:25:27 +0000</pubDate>
+      </item><item>
         <title>new comment (near Benedekhegy, Nagyszentbenedek, Miskolc) / * 2022 November 2 10:51 tandr88 Updated: Ja, a névtelen utcarésznek nincs neve.</title>
         <link>https://www.openstreetmap.org/note/2314690#c7360416</link>
         <guid>https://www.openstreetmap.org/note/2314690#c7360416</guid>
@@ -192,11 +202,6 @@
         <link>https://www.openstreetmap.org/note/2731426#c7354239</link>
         <guid>https://www.openstreetmap.org/note/2731426#c7354239</guid>
         <pubDate>Mon, 31 Oct 2022 16:16:58 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Vilyvitány) / * 2022 April 19 07:15 Matyjace Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;Gira-hegyi kilátó, Vilyvitány&amp;quot; / * 2022 October 31 16:03 mgpx Resolved: Ha jól nézem, már felkerült a térképre</title>
-        <link>https://www.openstreetmap.org/note/3141202#c7354199</link>
-        <guid>https://www.openstreetmap.org/note/3141202#c7354199</guid>
-        <pubDate>Mon, 31 Oct 2022 16:03:28 +0000</pubDate>
       </item>
   </channel>
 </rss>
