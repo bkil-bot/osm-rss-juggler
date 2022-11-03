@@ -3,6 +3,11 @@
   <channel>
     <title>WiGLE Frontpage (via bkil-bot)</title>
       <item>
+        <title>Re: Sex Toy Security and WiGLE popularity: arkasha wrote: &amp;gt; thank you - there should be one if you're logged in I just checked, and you have it enabled in all other forums, but not in this one, the WiGLE Frontpage. Posts here lack a `Report` button for me. -kurz</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11370#p11370</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11370#p11370</guid>
+        <pubDate>2022-11-03T15:32:23</pubDate>
+      </item><item>
         <title>Re: Sex Toy Security and WiGLE popularity: thank you - there should be one if you're logged in -arkasha</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11369#p11369</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11369#p11369</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11292#p11292</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11292#p11292</guid>
         <pubDate>2022-07-25T16:27:16</pubDate>
-      </item><item>
-        <title>Re: Pixel update RQ3A.210905.001 breaks GPS: When I started with WiGLE, I had a similar problem with my Xiaomi Redmi Note 8 Pro. Same problem also with the Note 11 Pro. WiGLE stopped working when it was not in the foreground, i.e. on screen. Problem is that Xiaomi has implemented some powersaving measures, one of them being giving background processes none, or little, processing time. I solved that by browing the settings: Privacy_protection-&amp;gt;Special_permissions-&amp;gt;Battery_optimization-&amp;gt;WiGLE_WiFi_Wardriving, and select &quot;Don't optimize&quot; there. This allows the app to stay active in the background. Also check this: long press the 'Wigle WiFi' icon, select 'App info' there, Select 'Batteru saver', and select 'No restrictions' there. Now my WiGLE always runs as it should do. This will probably be so on most Xiaomi phones, and even most phones running the MIUI user interface. -josn</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11291#p11291</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11291#p11291</guid>
-        <pubDate>2022-07-25T15:47:20</pubDate>
       </item>
   </channel>
 </rss>
