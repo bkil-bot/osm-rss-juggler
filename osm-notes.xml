@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Almádi, Balatonalmádi) / * 2022 November 5 22:44 vasony Created: itt kellene lenni egy villany oszlopnak valahol</title>
+        <link>https://www.openstreetmap.org/note/3429639#c7371338</link>
+        <guid>https://www.openstreetmap.org/note/3429639#c7371338</guid>
+        <pubDate>Sat, 05 Nov 2022 22:44:19 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Almádi, Balatonalmádi) / * 2021 February 28 14:01 batio Created: csak tűzcsap / * 2022 April 26 05:18 Zsolt Beringer Updated: https://wiki.openstreetmap.org/wiki/Tag:emergency%3Dfire_hydrant#How_to_map / * 2022 November 5 22:31 vasony Resolved: tűzcsap a helyére húzva, táblája nincs.</title>
+        <link>https://www.openstreetmap.org/note/2559125#c7371313</link>
+        <guid>https://www.openstreetmap.org/note/2559125#c7371313</guid>
+        <pubDate>Sat, 05 Nov 2022 22:31:40 +0000</pubDate>
+      </item><item>
         <title>new comment (near Hármashatárhegy, 3rd district) / * 2022 November 5 21:52 Johanna707 Updated: Oké, de a StreetComplete jelenleg is azt kérdezi, hogy milyen típusú épület, és a válaszok közül egy se megfelelő.</title>
         <link>https://www.openstreetmap.org/note/2991440#c7371238</link>
         <guid>https://www.openstreetmap.org/note/2991440#c7371238</guid>
@@ -352,16 +362,6 @@
         <link>https://www.openstreetmap.org/note/3427085#c7365736</link>
         <guid>https://www.openstreetmap.org/note/3427085#c7365736</guid>
         <pubDate>Fri, 04 Nov 2022 05:41:01 +0000</pubDate>
-      </item><item>
-        <title>new note (near Kerepes) / * 2022 November 4 05:39 kogutowicz-mano Created: Megvan még a vezeték az oszlopokon?</title>
-        <link>https://www.openstreetmap.org/note/3427084#c7365734</link>
-        <guid>https://www.openstreetmap.org/note/3427084#c7365734</guid>
-        <pubDate>Fri, 04 Nov 2022 05:39:59 +0000</pubDate>
-      </item><item>
-        <title>new note (near Középhegy, Csömör) / * 2022 November 4 05:39 kogutowicz-mano Created: Megvan még a vezeték az oszlopokon?</title>
-        <link>https://www.openstreetmap.org/note/3427083#c7365732</link>
-        <guid>https://www.openstreetmap.org/note/3427083#c7365732</guid>
-        <pubDate>Fri, 04 Nov 2022 05:39:34 +0000</pubDate>
       </item>
   </channel>
 </rss>
