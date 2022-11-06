@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Hármashatárhegy, 3rd district) / * 2022 January 1 11:53 Johanna707 Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/667672764 via StreetComplete 38.2: / Az utcaszintről a hegyoldalba kinyúló dobogó, kilátópont. / * 2022 November 4 22:56 infeeeee Resolved: Szerepel mint kilátópont: https://www.openstreetmap.org/node/5960890375 / * 2022 November 5 21:47 Johanna707 Reactivated:  / * 2022 November 5 21:52 Johanna707 Updated: Oké, de a StreetComplete jelenleg is azt kérdezi, hogy milyen típusú épület, és a válaszok közül egy se megfelelő. / * 2022 November 6 16:53 infeeeee Updated: Jogos, legközelebbi amit találtam / man_made=terrace , de ezt összesen 3 helyen használták eddig a világon.</title>
+        <link>https://www.openstreetmap.org/note/2991440#c7373631</link>
+        <guid>https://www.openstreetmap.org/note/2991440#c7373631</guid>
+        <pubDate>Sun, 06 Nov 2022 16:53:56 +0000</pubDate>
+      </item><item>
         <title>closed note (near Belső-Ferencváros, 9th district) / * 2022 October 12 15:12 Antissimo Created: Unable to answer &amp;quot;Are these opening hours still correct?&amp;quot; for https://osm.org/node/5246609821 via StreetComplete 47.1: / Nem itt van / * 2022 November 6 14:45 infeeeee Resolved: Egyesítettem a jó helyen levővel: https://www.openstreetmap.org/changeset/128558238</title>
         <link>https://www.openstreetmap.org/note/3396638#c7373102</link>
         <guid>https://www.openstreetmap.org/note/3396638#c7373102</guid>
@@ -207,26 +212,6 @@
         <link>https://www.openstreetmap.org/note/3153728#c7367963</link>
         <guid>https://www.openstreetmap.org/note/3153728#c7367963</guid>
         <pubDate>Fri, 04 Nov 2022 22:08:21 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Terézváros, 6th district) / * 2022 September 13 17:02 StefanHeid Created: Unable to answer &amp;quot;What are the opening hours of Térképbolt (Gift Shop)?&amp;quot; for https://osm.org/node/6770677457 via StreetComplete 40.2: / the map shop and the pub are adiacent / * 2022 November 4 22:07 infeeeee Resolved: This node was wrong, the map shop was already mapped at the correct location: https://www.openstreetmap.org/node/2465869108 / Fixed everything here: https://www.openstreetmap.org/changeset/128502610</title>
-        <link>https://www.openstreetmap.org/note/3358394#c7367959</link>
-        <guid>https://www.openstreetmap.org/note/3358394#c7367959</guid>
-        <pubDate>Fri, 04 Nov 2022 22:07:14 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Terézváros, 6th district) / * 2022 September 11 16:25 StefanHeid Created: notar right besides lidl / via StreetComplete 40.2 / Attached photo(s): / https://westnordost.de/p/112186.jpg / https://westnordost.de/p/112187.jpg / * 2022 November 4 22:05 infeeeee Resolved: Added: https://www.openstreetmap.org/changeset/128502610</title>
-        <link>https://www.openstreetmap.org/note/3355433#c7367956</link>
-        <guid>https://www.openstreetmap.org/note/3355433#c7367956</guid>
-        <pubDate>Fri, 04 Nov 2022 22:05:46 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Erzsébetváros, 7th district) / * 2022 April 12 12:05 Created: Janikovszky park / * 2022 November 4 22:03 infeeeee Resolved: Szerepel a térképen: https://www.openstreetmap.org/way/1102605816</title>
-        <link>https://www.openstreetmap.org/note/3130231#c7367953</link>
-        <guid>https://www.openstreetmap.org/note/3130231#c7367953</guid>
-        <pubDate>Fri, 04 Nov 2022 22:03:17 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Terézváros, 6th district) / * 2022 March 19 17:27 netteville Created: Paulay Apartments / * 2022 March 19 17:29 netteville Resolved:  / * 2022 March 19 17:29 netteville Reactivated:  / * 2022 November 4 22:02 infeeeee Resolved: It&amp;#39;s not here, but closer to your other note.</title>
-        <link>https://www.openstreetmap.org/note/3094474#c7367952</link>
-        <guid>https://www.openstreetmap.org/note/3094474#c7367952</guid>
-        <pubDate>Fri, 04 Nov 2022 22:02:41 +0000</pubDate>
       </item>
   </channel>
 </rss>
