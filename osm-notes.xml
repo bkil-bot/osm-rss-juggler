@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Újpalota, 15th district) / * 2022 November 7 05:29 kogutowicz-mano Created: 2023-ig tart Kerepes Alállomás kibővítése. Ezzel összefüggésben átépítik a Zugló-Kerepes szakaszt. Folyamatosan figyelemmel kellene kísérni a változásokat (pl. most milyen hosszan bontották le a vezetéket az oszlopokról), de hát ki jár erre csak úgy magától? :-)</title>
+        <link>https://www.openstreetmap.org/note/3431303#c7375511</link>
+        <guid>https://www.openstreetmap.org/note/3431303#c7375511</guid>
+        <pubDate>Mon, 07 Nov 2022 05:29:57 +0000</pubDate>
+      </item><item>
         <title>closed note (near Balokány, Pécs) / * 2022 April 2 09:24 Qszi Created: &amp;quot;megszűnt&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2022-03-14T07:52:33Z / POI name: Óriáskerék Pécs / POI types: building tourism-attraction-specified / #organicmaps / * 2022 November 6 20:33 KLZS Resolved: </title>
         <link>https://www.openstreetmap.org/note/3116402#c7374305</link>
         <guid>https://www.openstreetmap.org/note/3116402#c7374305</guid>
@@ -117,41 +122,6 @@
         <link>https://www.openstreetmap.org/note/2983250#c7370027</link>
         <guid>https://www.openstreetmap.org/note/2983250#c7370027</guid>
         <pubDate>Sat, 05 Nov 2022 15:20:36 +0000</pubDate>
-      </item><item>
-        <title>new note (near Parádóhuta, Parád) / * 2022 November 5 14:07 Vdsg Created: Nincs már</title>
-        <link>https://www.openstreetmap.org/note/3428908#c7369756</link>
-        <guid>https://www.openstreetmap.org/note/3428908#c7369756</guid>
-        <pubDate>Sat, 05 Nov 2022 14:07:07 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Újtelep, Veszprém) / * 2021 October 19 14:24 Created: A 23-as busz kijön ide is bizonyos időkben. / * 2022 November 5 14:07 Vdsg Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2902213#c7369755</link>
-        <guid>https://www.openstreetmap.org/note/2902213#c7369755</guid>
-        <pubDate>Sat, 05 Nov 2022 14:07:06 +0000</pubDate>
-      </item><item>
-        <title>new note (near Tarján, Szeged) / * 2022 November 5 12:10 GBAB Created: Behajtani mindkét irányból tilos (piros karika)</title>
-        <link>https://www.openstreetmap.org/note/3428647#c7369368</link>
-        <guid>https://www.openstreetmap.org/note/3428647#c7369368</guid>
-        <pubDate>Sat, 05 Nov 2022 12:10:56 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Almádi, Balatonalmádi) / * 2022 October 14 20:36 vasony Created: itt van utca? / * 2022 October 29 15:01 vasony Updated: van, Katona J 2 kapu a vege / * 2022 November 5 06:41 vasony Resolved: javítva</title>
-        <link>https://www.openstreetmap.org/note/3399507#c7368752</link>
-        <guid>https://www.openstreetmap.org/note/3399507#c7368752</guid>
-        <pubDate>Sat, 05 Nov 2022 06:41:31 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Rákóczitelep, Ócsa) / * 2022 November 4 05:43 kogutowicz-mano Created: Megvan még a vezeték az oszlopokon? / * 2022 November 5 05:40 kogutowicz-mano Resolved: Tárgytalan. Ócsa-Zugló nem szűnik meg, csak javítják.</title>
-        <link>https://www.openstreetmap.org/note/3427091#c7368683</link>
-        <guid>https://www.openstreetmap.org/note/3427091#c7368683</guid>
-        <pubDate>Sat, 05 Nov 2022 05:40:36 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Felsőpakony) / * 2022 November 4 05:42 kogutowicz-mano Created: Megvan még a vezeték az oszlopokon? / * 2022 November 5 05:40 kogutowicz-mano Resolved: Tárgytalan. Ócsa-Zugló nem szűnik meg, csak javítják.</title>
-        <link>https://www.openstreetmap.org/note/3427090#c7368682</link>
-        <guid>https://www.openstreetmap.org/note/3427090#c7368682</guid>
-        <pubDate>Sat, 05 Nov 2022 05:40:28 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Pusztalöb, Üllő) / * 2022 November 4 05:42 kogutowicz-mano Created: Megvan még a vezeték az oszlopokon? / * 2022 November 5 05:40 kogutowicz-mano Resolved: Tárgytalan. Ócsa-Zugló nem szűnik meg, csak javítják.</title>
-        <link>https://www.openstreetmap.org/note/3427089#c7368681</link>
-        <guid>https://www.openstreetmap.org/note/3427089#c7368681</guid>
-        <pubDate>Sat, 05 Nov 2022 05:40:22 +0000</pubDate>
       </item>
   </channel>
 </rss>
