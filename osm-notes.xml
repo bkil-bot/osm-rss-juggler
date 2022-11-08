@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Dinnyés, Gárdony) / * 2022 June 30 18:27 Arrabonfi Created: &amp;quot;2022.7.1-jétől bezárt, törölhető&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2022-05-15T14:57:35Z / POI name: Buci Pékség / POI types: building shop-bakery / #organicmaps / * 2022 November 8 19:12 infeeeee Resolved: Facebook oldaluk szerint is, bezárt-ra állítottam: https://www.openstreetmap.org/changeset/128654389</title>
+        <link>https://www.openstreetmap.org/note/3246704#c7381396</link>
+        <guid>https://www.openstreetmap.org/note/3246704#c7381396</guid>
+        <pubDate>Tue, 08 Nov 2022 19:12:08 +0000</pubDate>
+      </item><item>
         <title>new note (near Alpár, Tiszaalpár) / * 2022 November 8 17:27 Created: Vasútállomás elbontva.</title>
         <link>https://www.openstreetmap.org/note/3433426#c7380879</link>
         <guid>https://www.openstreetmap.org/note/3433426#c7380879</guid>
@@ -137,11 +142,6 @@
         <link>https://www.openstreetmap.org/note/3365377#c7373741</link>
         <guid>https://www.openstreetmap.org/note/3365377#c7373741</guid>
         <pubDate>Sun, 06 Nov 2022 17:35:57 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Hármashatárhegy, 3rd district) / * 2022 January 1 11:53 Johanna707 Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/667672764 via StreetComplete 38.2: / Az utcaszintről a hegyoldalba kinyúló dobogó, kilátópont. / * 2022 November 4 22:56 infeeeee Resolved: Szerepel mint kilátópont: https://www.openstreetmap.org/node/5960890375 / * 2022 November 5 21:47 Johanna707 Reactivated:  / * 2022 November 5 21:52 Johanna707 Updated: Oké, de a StreetComplete jelenleg is azt kérdezi, hogy milyen típusú épület, és a válaszok közül egy se megfelelő. / * 2022 November 6 16:53 infeeeee Updated: Jogos, legközelebbi amit találtam / man_made=terrace , de ezt összesen 3 helyen használták eddig a világon.</title>
-        <link>https://www.openstreetmap.org/note/2991440#c7373631</link>
-        <guid>https://www.openstreetmap.org/note/2991440#c7373631</guid>
-        <pubDate>Sun, 06 Nov 2022 16:53:56 +0000</pubDate>
       </item>
   </channel>
 </rss>
