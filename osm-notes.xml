@@ -3,6 +3,41 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Terézváros, 6th district) / * 2022 November 9 15:25 GBAB Created: There is a new building here, should be added to the map.</title>
+        <link>https://www.openstreetmap.org/note/3434529#c7383827</link>
+        <guid>https://www.openstreetmap.org/note/3434529#c7383827</guid>
+        <pubDate>Wed, 09 Nov 2022 15:25:03 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Csertalakos) / * 2014 November 25 11:49 nagy_balint Created: Check if there is a road. / * 2022 November 9 13:18 infeeeee Resolved: Felröltött gpx adatok alapján van itt egy ösvény, felvittem: https://www.openstreetmap.org/changeset/128687579</title>
+        <link>https://www.openstreetmap.org/note/275925#c7383410</link>
+        <guid>https://www.openstreetmap.org/note/275925#c7383410</guid>
+        <pubDate>Wed, 09 Nov 2022 13:18:13 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Bajna) / * 2014 June 7 07:03 Created: avia benzinkut / * 2014 September 3 10:21 sprok Updated: Működik ez még egyáltalán? / Ottjártamkor elég kétségesnek tűnt, hogy üzemel-e. / * 2016 May 16 21:48 grin Updated: Ha kétséges akkor gondolom nem ;-) / * 2022 November 9 12:16 infeeeee Resolved: Facebook oldaluk alapján újra üzemel, frissítettem: https://www.openstreetmap.org/changeset/128684743</title>
+        <link>https://www.openstreetmap.org/note/180133#c7383218</link>
+        <guid>https://www.openstreetmap.org/note/180133#c7383218</guid>
+        <pubDate>Wed, 09 Nov 2022 12:16:24 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Hanfland, Szabadsághegy, Csobánka) / * 2014 May 20 14:11 Skyli Created: ez az ösvény így helyes? / * 2022 November 9 11:25 infeeeee Resolved: Strava és feltöltött gps-ek alapján ez így helyes.</title>
+        <link>https://www.openstreetmap.org/note/170770#c7383104</link>
+        <guid>https://www.openstreetmap.org/note/170770#c7383104</guid>
+        <pubDate>Wed, 09 Nov 2022 11:25:12 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Viadukt lakópark, Nyugati lakóterület, Biatorbágy) / * 2021 March 18 21:34 Created: Pár hónapja épült ide egy lámpás kereszteződés (lehajtó nyugat felé), pontosan a 15-ös kilométer táblához. Fel kellene mérni pontosan, illetve pontosan berajzolni a geometriáját (kanyarodó ágak, járdaszigetek). / https://www.mapillary.com/app/?focus=photo&amp;amp;pKey=X-GGm7bJnrEL4iBig-Onrw&amp;amp;lat=47.48388888888891&amp;amp;lng=18.83542799999998&amp;amp;z=19.36128039818289 / * 2022 November 9 11:06 infeeeee Resolved: Frissítettem a csomópontot friss műholdképek alapján: https://www.openstreetmap.org/changeset/128681527</title>
+        <link>https://www.openstreetmap.org/note/2584352#c7383017</link>
+        <guid>https://www.openstreetmap.org/note/2584352#c7383017</guid>
+        <pubDate>Wed, 09 Nov 2022 11:06:57 +0000</pubDate>
+      </item><item>
+        <title>new note (near Albertfalva, 11th district) / * 2022 November 9 10:00 vasony Created: Új kutyafuttató, egyelőre zárva. / Felmérendő kerítés nyomvonala, padok, kukák / https://www.ujbuda.hu/ujbuda/uj-kutyafuttato-albertfalvan</title>
+        <link>https://www.openstreetmap.org/note/3434061#c7382886</link>
+        <guid>https://www.openstreetmap.org/note/3434061#c7382886</guid>
+        <pubDate>Wed, 09 Nov 2022 10:00:03 +0000</pubDate>
+      </item><item>
+        <title>new note (near Bottyánhegy, Szekszárd) / * 2022 November 9 08:51 nyulzer Created: posta udvarba út, utána Skála parkolóig ösvény / via StreetComplete 48.0</title>
+        <link>https://www.openstreetmap.org/note/3433957#c7382677</link>
+        <guid>https://www.openstreetmap.org/note/3433957#c7382677</guid>
+        <pubDate>Wed, 09 Nov 2022 08:51:17 +0000</pubDate>
+      </item><item>
         <title>new note (near Ófalu, Balatonfüred) / * 2022 November 8 22:25 Created: Dicenty Dezső utca</title>
         <link>https://www.openstreetmap.org/note/3433721#c7382137</link>
         <guid>https://www.openstreetmap.org/note/3433721#c7382137</guid>
@@ -117,26 +152,6 @@
         <link>https://www.openstreetmap.org/note/3431675#c7376224</link>
         <guid>https://www.openstreetmap.org/note/3431675#c7376224</guid>
         <pubDate>Mon, 07 Nov 2022 10:53:04 +0000</pubDate>
-      </item><item>
-        <title>new note (near Újpalota, 15th district) / * 2022 November 7 05:29 kogutowicz-mano Created: 2023-ig tart Kerepes Alállomás kibővítése. Ezzel összefüggésben átépítik a Zugló-Kerepes szakaszt. Folyamatosan figyelemmel kellene kísérni a változásokat (pl. most milyen hosszan bontották le a vezetéket az oszlopokról), de hát ki jár erre csak úgy magától? :-)</title>
-        <link>https://www.openstreetmap.org/note/3431303#c7375511</link>
-        <guid>https://www.openstreetmap.org/note/3431303#c7375511</guid>
-        <pubDate>Mon, 07 Nov 2022 05:29:57 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Balokány, Pécs) / * 2022 April 2 09:24 Qszi Created: &amp;quot;megszűnt&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2022-03-14T07:52:33Z / POI name: Óriáskerék Pécs / POI types: building tourism-attraction-specified / #organicmaps / * 2022 November 6 20:33 KLZS Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3116402#c7374305</link>
-        <guid>https://www.openstreetmap.org/note/3116402#c7374305</guid>
-        <pubDate>Sun, 06 Nov 2022 20:33:42 +0000</pubDate>
-      </item><item>
-        <title>new note (near Bánom, Pécs) / * 2022 November 6 20:09 KLZS Created: Elbontották.</title>
-        <link>https://www.openstreetmap.org/note/3431017#c7374238</link>
-        <guid>https://www.openstreetmap.org/note/3431017#c7374238</guid>
-        <pubDate>Sun, 06 Nov 2022 20:09:35 +0000</pubDate>
-      </item><item>
-        <title>new note (near Bánom, Pécs) / * 2022 November 6 20:09 KLZS Created: Elbontották.</title>
-        <link>https://www.openstreetmap.org/note/3431016#c7374237</link>
-        <guid>https://www.openstreetmap.org/note/3431016#c7374237</guid>
-        <pubDate>Sun, 06 Nov 2022 20:09:03 +0000</pubDate>
       </item>
   </channel>
 </rss>
