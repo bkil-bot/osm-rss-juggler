@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Fürdőtelep, Balatonfüred) / * 2022 October 28 07:29 montormain Created: Horvath House Apartment / 8230 Balatonfüred, Gyógy tér 3. I.emelet 3. / * 2022 November 13 12:35 urbalazs Resolved: The address information is already on the map.</title>
+        <link>https://www.openstreetmap.org/note/3416659#c7396284</link>
+        <guid>https://www.openstreetmap.org/note/3416659#c7396284</guid>
+        <pubDate>Sun, 13 Nov 2022 12:35:01 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Alsóváros, Balatonfüred) / * 2022 October 15 15:02 Gabor84 Created: Nádor utca 2 / * 2022 November 13 12:32 urbalazs Resolved: Duplikált</title>
+        <link>https://www.openstreetmap.org/note/3400322#c7396280</link>
+        <guid>https://www.openstreetmap.org/note/3400322#c7396280</guid>
+        <pubDate>Sun, 13 Nov 2022 12:32:56 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Üdülőtelep, Balatonlelle) / * 2022 October 12 10:18 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: Restaurant is out of order. / https://www.openstreetmap.org/node/4903823153 / * 2022 November 13 12:31 urbalazs Resolved: Most of the restaurants are opened only in summer. Next summer I will check the opening_hours, but I close this note now. Feel free to reopen it if you have more information about the opening hours.</title>
+        <link>https://www.openstreetmap.org/note/3396254#c7396272</link>
+        <guid>https://www.openstreetmap.org/note/3396254#c7396272</guid>
+        <pubDate>Sun, 13 Nov 2022 12:31:16 +0000</pubDate>
+      </item><item>
         <title>new note (near Káptalanfüred, Balatonalmádi) / * 2022 November 13 10:53 vasony Created: itt van utca?</title>
         <link>https://www.openstreetmap.org/note/3440055#c7395915</link>
         <guid>https://www.openstreetmap.org/note/3440055#c7395915</guid>
@@ -122,16 +137,6 @@
         <link>https://www.openstreetmap.org/note/3438387#c7391902</link>
         <guid>https://www.openstreetmap.org/note/3438387#c7391902</guid>
         <pubDate>Sat, 12 Nov 2022 09:28:16 +0000</pubDate>
-      </item><item>
-        <title>new note (near Középbük, Bük) / * 2022 November 11 17:35 efi99 Created: cím jó?</title>
-        <link>https://www.openstreetmap.org/note/3437851#c7390618</link>
-        <guid>https://www.openstreetmap.org/note/3437851#c7390618</guid>
-        <pubDate>Fri, 11 Nov 2022 17:35:39 +0000</pubDate>
-      </item><item>
-        <title>new note (near Középbük, Bük) / * 2022 November 11 17:34 efi99 Created: cím jó?</title>
-        <link>https://www.openstreetmap.org/note/3437850#c7390617</link>
-        <guid>https://www.openstreetmap.org/note/3437850#c7390617</guid>
-        <pubDate>Fri, 11 Nov 2022 17:34:58 +0000</pubDate>
       </item>
   </channel>
 </rss>
