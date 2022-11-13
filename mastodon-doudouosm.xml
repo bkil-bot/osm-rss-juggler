@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>To find a #Mastodon instance that is geographically close to your interests, there is “Mastodon Near Me”, showing a curated selection of servers open for registration and serving specific countries, regions or cities. https://umap.openstreetmap.fr/en/map/mastodon-near-me_828094#5/46.241/9.976 #Mastotips (Via #WeeklyOSM: https://weeklyosm.eu/archives/16111)</title>
+        <link>https://en.osm.town/@Doudouosm/109338708191093170</link>
+        <guid>https://en.osm.town/@Doudouosm/109338708191093170</guid>
+        <pubDate>Sun, 13 Nov 2022 21:51:24 +0000</pubDate>
+      </item><item>
         <title>Interesting #OpenStreetMap diary by contributor Graptemys detailing their process to cleaning up cuisine tags in Canada with #JOSM to improve data quality and consistency. https://www.openstreetmap.org/user/Graptemys/diary/400295 (Via #WeeklyOSM: https://weeklyosm.eu/archives/16111)</title>
         <link>https://en.osm.town/@Doudouosm/109338299035344552</link>
         <guid>https://en.osm.town/@Doudouosm/109338299035344552</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/108498846091899860</link>
         <guid>https://en.osm.town/@Doudouosm/108498846091899860</guid>
         <pubDate>Sat, 18 Jun 2022 14:03:26 +0000</pubDate>
-      </item><item>
-        <title>Where are the 10 closest airports near any point on the map? This fun web app gives the visual answer, powered by #OpenStreetMap data. https://willymaps.github.io/spoke/</title>
-        <link>https://en.osm.town/@Doudouosm/108487207299815634</link>
-        <guid>https://en.osm.town/@Doudouosm/108487207299815634</guid>
-        <pubDate>Thu, 16 Jun 2022 12:43:32 +0000</pubDate>
       </item>
   </channel>
 </rss>
