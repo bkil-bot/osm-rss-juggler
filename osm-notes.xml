@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Csepreg) / * 2022 November 14 20:09 efi99 Created: ez tényleg az 58 után van ?</title>
+        <link>https://www.openstreetmap.org/note/3442345#c7401043</link>
+        <guid>https://www.openstreetmap.org/note/3442345#c7401043</guid>
+        <pubDate>Mon, 14 Nov 2022 20:09:38 +0000</pubDate>
+      </item><item>
+        <title>new note (near Csepreg) / * 2022 November 14 20:09 efi99 Created: 60 vagy 62?</title>
+        <link>https://www.openstreetmap.org/note/3442344#c7401042</link>
+        <guid>https://www.openstreetmap.org/note/3442344#c7401042</guid>
+        <pubDate>Mon, 14 Nov 2022 20:09:23 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Erzsébetváros, 7th district) / * 2022 November 14 20:00 infeeeee Resolved: Hát nem sok megjelenítő van sajnos. Online csak ezt ismerem: https://osm-tiles.james-ross.co.uk/?map=19/47.5018/19.0847&amp;amp;layer=terrain&amp;amp;layer=all De ez nem mutatja a buszsávokat, csak a sávok számát. / Én JOSM-ben az &amp;quot;Enhanced Lane and road attributes&amp;quot; stílussal szoktam nézni őket, az mutat mindent. A wiki még felsorol párat, de azok vagy mobilosak, vagy nem működnek már: https://wiki.openstreetmap.org/wiki/Lanes / https://wiki.openstreetmap.org/wiki/Key:turn / Görgess az oldalak aljára, ott vannak ezek.</title>
+        <link>https://www.openstreetmap.org/note/3437843#c7401025</link>
+        <guid>https://www.openstreetmap.org/note/3437843#c7401025</guid>
+        <pubDate>Mon, 14 Nov 2022 20:00:24 +0000</pubDate>
+      </item><item>
+        <title>new note (near Csepreg) / * 2022 November 14 19:39 efi99 Created: cím?</title>
+        <link>https://www.openstreetmap.org/note/3442316#c7400972</link>
+        <guid>https://www.openstreetmap.org/note/3442316#c7400972</guid>
+        <pubDate>Mon, 14 Nov 2022 19:39:30 +0000</pubDate>
+      </item><item>
         <title>new note (near Gyüleviz, Zsira) / * 2022 November 14 17:58 Created: tűzcsap</title>
         <link>https://www.openstreetmap.org/note/3442222#c7400729</link>
         <guid>https://www.openstreetmap.org/note/3442222#c7400729</guid>
@@ -257,31 +277,6 @@
         <link>https://www.openstreetmap.org/note/3288589#c7394744</link>
         <guid>https://www.openstreetmap.org/note/3288589#c7394744</guid>
         <pubDate>Sat, 12 Nov 2022 23:16:10 +0000</pubDate>
-      </item><item>
-        <title>new note (near Újhegyi Dűlő, Millenniumtelep, Dunaharaszti) / * 2022 November 12 16:27 sinisterstuf Created: Lovas utca 29, családi ház / via StreetComplete 49.0</title>
-        <link>https://www.openstreetmap.org/note/3439169#c7393332</link>
-        <guid>https://www.openstreetmap.org/note/3439169#c7393332</guid>
-        <pubDate>Sat, 12 Nov 2022 16:27:18 +0000</pubDate>
-      </item><item>
-        <title>new note (near Újhegyi Dűlő, Millenniumtelep, Dunaharaszti) / * 2022 November 12 16:27 sinisterstuf Created: Elöl 25/1, hátul 25/2, de lehet hogy nem látszik még a térképen mert új ház / via StreetComplete 49.0</title>
-        <link>https://www.openstreetmap.org/note/3439168#c7393331</link>
-        <guid>https://www.openstreetmap.org/note/3439168#c7393331</guid>
-        <pubDate>Sat, 12 Nov 2022 16:27:18 +0000</pubDate>
-      </item><item>
-        <title>new note (near Újhegyi Dűlő, Millenniumtelep, Dunaharaszti) / * 2022 November 12 16:27 sinisterstuf Created: 4-es ikerház, Lovas utcáról nézve bal elől 6/2, jobbra 6/1 és hátul a 3 és 4 de nem látszik melyik melyik közülük / via StreetComplete 49.0</title>
-        <link>https://www.openstreetmap.org/note/3439167#c7393330</link>
-        <guid>https://www.openstreetmap.org/note/3439167#c7393330</guid>
-        <pubDate>Sat, 12 Nov 2022 16:27:18 +0000</pubDate>
-      </item><item>
-        <title>new note (near Újhegyi Dűlő, Millenniumtelep, Dunaharaszti) / * 2022 November 12 16:27 sinisterstuf Created: ez is ikerház / via StreetComplete 49.0</title>
-        <link>https://www.openstreetmap.org/note/3439166#c7393329</link>
-        <guid>https://www.openstreetmap.org/note/3439166#c7393329</guid>
-        <pubDate>Sat, 12 Nov 2022 16:27:17 +0000</pubDate>
-      </item><item>
-        <title>new note (near Újhegyi Dűlő, Millenniumtelep, Dunaharaszti) / * 2022 November 12 16:27 sinisterstuf Created: Ikerház, 1/3 bal oldalt, 1/2 jobbra, 1/1 hátul. / via StreetComplete 49.0</title>
-        <link>https://www.openstreetmap.org/note/3439165#c7393328</link>
-        <guid>https://www.openstreetmap.org/note/3439165#c7393328</guid>
-        <pubDate>Sat, 12 Nov 2022 16:27:17 +0000</pubDate>
       </item>
   </channel>
 </rss>
