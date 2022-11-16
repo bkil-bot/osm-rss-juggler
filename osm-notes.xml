@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Óbuda, 3rd district) / * 2022 November 14 17:05 utvonalfelmeresek Created: 2a / * 2022 November 16 07:40 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/128911706</title>
+        <link>https://www.openstreetmap.org/note/3442118#c7404819</link>
+        <guid>https://www.openstreetmap.org/note/3442118#c7404819</guid>
+        <pubDate>Wed, 16 Nov 2022 07:40:12 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Óbuda, 3rd district) / * 2022 November 14 17:04 utvonalfelmeresek Created: 2b / * 2022 November 16 07:40 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/128911706</title>
+        <link>https://www.openstreetmap.org/note/3442116#c7404818</link>
+        <guid>https://www.openstreetmap.org/note/3442116#c7404818</guid>
+        <pubDate>Wed, 16 Nov 2022 07:40:07 +0000</pubDate>
+      </item><item>
         <title>new note (near Magyar Vasúttörténeti Park, Alsórákos, 14th district) / * 2022 November 16 05:48 kogutowicz-mano Created: Tényleg két vágány keresztezi itt az utat? (Ne csak a légifotókat nézd!)</title>
         <link>https://www.openstreetmap.org/note/3443831#c7404695</link>
         <guid>https://www.openstreetmap.org/note/3443831#c7404695</guid>
@@ -212,56 +222,6 @@
         <link>https://www.openstreetmap.org/note/717877#c7397543</link>
         <guid>https://www.openstreetmap.org/note/717877#c7397543</guid>
         <pubDate>Sun, 13 Nov 2022 17:37:29 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Nemesrempehollós) / * 2016 October 27 10:51 Attila Szilvágyi Created: Mária oszlop (OSM data version: 2016-10-10T15:13:03Z) #mapsme / * 2022 November 13 17:30 infeeeee Resolved: Szerepel a térképen: https://www.openstreetmap.org/node/3404491111</title>
-        <link>https://www.openstreetmap.org/note/763086#c7397503</link>
-        <guid>https://www.openstreetmap.org/note/763086#c7397503</guid>
-        <pubDate>Sun, 13 Nov 2022 17:30:19 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Dunaalmás) / * 2016 March 27 07:17 bubunyuszi Created: KEG Nyrt. (Autogáz töltő) / * 2022 November 13 17:26 infeeeee Resolved: Szerepel a térképen: https://www.openstreetmap.org/node/10148484147</title>
-        <link>https://www.openstreetmap.org/note/533756#c7397493</link>
-        <guid>https://www.openstreetmap.org/note/533756#c7397493</guid>
-        <pubDate>Sun, 13 Nov 2022 17:26:59 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Pincesor, Villány) / * 2016 July 11 20:40 Bence Kontar Created: The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: &amp;quot;it&amp;#39;s not there anymore&amp;quot; (OSM data version: 2016-06-20T05:57:02Z) #mapsme / * 2022 November 13 17:23 infeeeee Resolved: Ez gondolom a bankra vonatkozott, ami azóta már abandoned:-ra lett állítva</title>
-        <link>https://www.openstreetmap.org/note/624776#c7397468</link>
-        <guid>https://www.openstreetmap.org/note/624776#c7397468</guid>
-        <pubDate>Sun, 13 Nov 2022 17:23:23 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Terézváros, 6th district) / * 2022 November 9 15:25 GBAB Created: There is a new building here, should be added to the map. / * 2022 November 13 15:38 infeeeee Resolved: Added https://www.openstreetmap.org/changeset/128852512</title>
-        <link>https://www.openstreetmap.org/note/3434529#c7397015</link>
-        <guid>https://www.openstreetmap.org/note/3434529#c7397015</guid>
-        <pubDate>Sun, 13 Nov 2022 15:38:38 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Óbuda, 3rd district) / * 2022 April 3 16:45 Johanna707 Created: Unable to answer &amp;quot;Does this street have a sidewalk?&amp;quot; for https://osm.org/way/993376910 via StreetComplete 42.0: / Értelmetlen. / * 2022 November 11 13:52 grozsa11 Updated: Külön megrajzolva zebrákként. / * 2022 November 13 15:29 infeeeee Resolved: Hozzáadtam a sidewalk=separate címkét, így StreetComplete nem fogja többet megkérdezni: https://www.openstreetmap.org/changeset/128852110</title>
-        <link>https://www.openstreetmap.org/note/3118665#c7396973</link>
-        <guid>https://www.openstreetmap.org/note/3118665#c7396973</guid>
-        <pubDate>Sun, 13 Nov 2022 15:29:25 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Angyalföld, 13th district) / * 2022 November 11 15:52 pihentagy Created: Unable to answer &amp;quot;Is there a shelter at this stop?&amp;quot; for https://osm.org/way/425280724 via StreetComplete 48.0: / Ez miért peron ez a kis szakasz külön? / * 2022 November 13 15:21 infeeeee Resolved: Javítottam</title>
-        <link>https://www.openstreetmap.org/note/3437671#c7396943</link>
-        <guid>https://www.openstreetmap.org/note/3437671#c7396943</guid>
-        <pubDate>Sun, 13 Nov 2022 15:21:25 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Erzsébetváros, 7th district) / * 2022 November 11 17:24 pihentagy Created: Unable to answer &amp;quot;How many car lanes does this road have?&amp;quot; for https://osm.org/way/38811599 via StreetComplete 48.0: / Buszsáv is van / * 2022 November 13 14:55 infeeeee Resolved: Frissítettem a sávokat: https://www.openstreetmap.org/changeset/128850602</title>
-        <link>https://www.openstreetmap.org/note/3437843#c7396849</link>
-        <guid>https://www.openstreetmap.org/note/3437843#c7396849</guid>
-        <pubDate>Sun, 13 Nov 2022 14:55:41 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Fürdőtelep, Balatonfüred) / * 2022 October 28 07:29 montormain Created: Horvath House Apartment / 8230 Balatonfüred, Gyógy tér 3. I.emelet 3. / * 2022 November 13 12:35 urbalazs Resolved: The address information is already on the map.</title>
-        <link>https://www.openstreetmap.org/note/3416659#c7396284</link>
-        <guid>https://www.openstreetmap.org/note/3416659#c7396284</guid>
-        <pubDate>Sun, 13 Nov 2022 12:35:01 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Alsóváros, Balatonfüred) / * 2022 October 15 15:02 Gabor84 Created: Nádor utca 2 / * 2022 November 13 12:32 urbalazs Resolved: Duplikált</title>
-        <link>https://www.openstreetmap.org/note/3400322#c7396280</link>
-        <guid>https://www.openstreetmap.org/note/3400322#c7396280</guid>
-        <pubDate>Sun, 13 Nov 2022 12:32:56 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Üdülőtelep, Balatonlelle) / * 2022 October 12 10:18 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: Restaurant is out of order. / https://www.openstreetmap.org/node/4903823153 / * 2022 November 13 12:31 urbalazs Resolved: Most of the restaurants are opened only in summer. Next summer I will check the opening_hours, but I close this note now. Feel free to reopen it if you have more information about the opening hours.</title>
-        <link>https://www.openstreetmap.org/note/3396254#c7396272</link>
-        <guid>https://www.openstreetmap.org/note/3396254#c7396272</guid>
-        <pubDate>Sun, 13 Nov 2022 12:31:16 +0000</pubDate>
       </item>
   </channel>
 </rss>
