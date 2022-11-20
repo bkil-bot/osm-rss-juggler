@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Kiskópháza, Kópháza) / * 2022 November 20 12:42 efi99 Created: cím jó?</title>
+        <link>https://www.openstreetmap.org/note/3449233#c7416416</link>
+        <guid>https://www.openstreetmap.org/note/3449233#c7416416</guid>
+        <pubDate>Sun, 20 Nov 2022 12:42:23 +0000</pubDate>
+      </item><item>
         <title>new note (near Csongrád) / * 2022 November 20 11:27 feket Created: Valószínűleg a panzió nem létezik (vagy nem ezen a helyen)</title>
         <link>https://www.openstreetmap.org/note/3449119#c7416226</link>
         <guid>https://www.openstreetmap.org/note/3449119#c7416226</guid>
@@ -162,11 +167,6 @@
         <link>https://www.openstreetmap.org/note/3277514#c7409991</link>
         <guid>https://www.openstreetmap.org/note/3277514#c7409991</guid>
         <pubDate>Fri, 18 Nov 2022 03:49:56 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Főnyed) / * 2022 July 21 21:55 mnalis ALTernative Created: looking at N / via StreetComplete 45.0 / Attached photo(s): / https://westnordost.de/p/103586.jpg / https://westnordost.de/p/103587.jpg / https://westnordost.de/p/103588.jpg / * 2022 November 18 03:49 Matija Nalis Resolved: done</title>
-        <link>https://www.openstreetmap.org/note/3277516#c7409990</link>
-        <guid>https://www.openstreetmap.org/note/3277516#c7409990</guid>
-        <pubDate>Fri, 18 Nov 2022 03:49:55 +0000</pubDate>
       </item>
   </channel>
 </rss>
