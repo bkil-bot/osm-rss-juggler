@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>Looking for way to contribute to #osm? The Engineering Working Group is looking for proposals for &amp;quot;adding the ability to mute users on the http://openstreetmap.org website.&amp;quot; Details at the link https://blog.openstreetmap.org/2022/11/18/engineering-working-group-call-for-proposals/</title>
+        <link>https://en.osm.town/@openstreetmap/109407701750846347</link>
+        <guid>https://en.osm.town/@openstreetmap/109407701750846347</guid>
+        <pubDate>Sat, 26 Nov 2022 02:17:22 +0000</pubDate>
+      </item><item>
         <title>If you&amp;#39;re interested in the EWG call for proposals, the requirements are here: https://github.com/osmfoundation/ewg_bidding/tree/main/projects/ability-to-mute-other-users</title>
         <link>https://en.osm.town/@openstreetmap/109392128582651294</link>
         <guid>https://en.osm.town/@openstreetmap/109392128582651294</guid>
@@ -96,11 +101,6 @@
         <title>So what is the LCC? It&amp;#39;s a virtual event in which members of various OSM communities, whether they are officially recognized Local Chapters of the OSMF or just a regular group of OSM mappers, come together to share stories and learn from each other. https://wiki.openstreetmap.org/wiki/Foundation/Local_Chapters/Local_Chapters_Congress/2022</title>
         <link>https://en.osm.town/@openstreetmap/109309929256002431</link>
         <guid>https://en.osm.town/@openstreetmap/109309929256002431</guid>
-        <pubDate>Tue, 08 Nov 2022 19:52:32 +0000</pubDate>
-      </item><item>
-        <title>The Local Chapters and Communities Congress (LCCC 2022) is where OSM members and leaders come together - so mark your calendars for our upcoming meeting: Date: Nov 12: Time: 13:00 to 16:00 UTC Details: https://osmcal.org/event/1630/</title>
-        <link>https://en.osm.town/@openstreetmap/109309929219028794</link>
-        <guid>https://en.osm.town/@openstreetmap/109309929219028794</guid>
         <pubDate>Tue, 08 Nov 2022 19:52:32 +0000</pubDate>
       </item>
   </channel>
