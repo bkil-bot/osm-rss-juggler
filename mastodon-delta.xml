@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>chaos.social/@delta (via bkil-bot)</title>
+      <item>
+        <title>Some of our users report that missing an attachment happens more rarely with delta chat 😉</title>
+        <link>https://chaos.social/@delta/109426263005054161</link>
+        <guid>https://chaos.social/@delta/109426263005054161</guid>
+        <pubDate>Tue, 29 Nov 2022 08:57:45 +0000</pubDate>
+      </item><item>
+        <title>Before scheduling a meeting, ask yourself ....</title>
+        <link>https://chaos.social/@delta/109420666198536833</link>
+        <guid>https://chaos.social/@delta/109420666198536833</guid>
+        <pubDate>Mon, 28 Nov 2022 09:14:24 +0000</pubDate>
+      </item><item>
+        <title>thanks to @adbenitez (maintainer of that mastodon bot) for pointing out that OAUTH2 is available too -- so no need to provide your password to the bot. Of course it still sees you interacting which still requires some trust to be put into the operator of the bot.</title>
+        <link>https://chaos.social/@delta/109371919429758159</link>
+        <guid>https://chaos.social/@delta/109371919429758159</guid>
+        <pubDate>Sat, 19 Nov 2022 18:37:27 +0000</pubDate>
+      </item><item>
+        <title>This @delta account is mediated in a chat group where anyone in the group can reply and see interactions, or follow the &amp;quot;home&amp;quot; chat with posts from the accounts we follow. For implementation see https://github.com/simplebot-org/simplebot_mastodon (also on PyPI) -- the bot needs your credentials so it&amp;#39;s best to run this bot in an environment you trust.</title>
+        <link>https://chaos.social/@delta/109371136436367780</link>
+        <guid>https://chaos.social/@delta/109371136436367780</guid>
+        <pubDate>Sat, 19 Nov 2022 15:18:20 +0000</pubDate>
+      </item><item>
+        <title>If you are curious or interested about bot development then the echo bot repository has example impls in Python, Rust, Javascript/Typescript and even C (but better to use Rust these days ;) https://github.com/deltachat-bot/echo -- and thanks to @adbenitez there are also many more advanced chat bots written as &amp;quot;simplebot&amp;quot; plugins here https://github.com/simplebot-org</title>
+        <link>https://chaos.social/@delta/109239823787706478</link>
+        <guid>https://chaos.social/@delta/109239823787706478</guid>
+        <pubDate>Thu, 27 Oct 2022 10:43:48 +0000</pubDate>
+      </item><item>
+        <title>Wouldn&amp;#39;t it be nice if you could migrate with Delta Chat from one e-mail provider to another and keep all your chats and communications and encryption working seamlessly? With 1.32 Delta Chat releases we added initial support towards this goal on all platforms 🥳 &amp;quot;Introducing Automatic E-Mail Address Porting (AEAP)&amp;quot;. https://delta.chat/en/2022-09-14-aeap</title>
+        <link>https://chaos.social/@delta/109031822203876059</link>
+        <guid>https://chaos.social/@delta/109031822203876059</guid>
+        <pubDate>Tue, 20 Sep 2022 17:06:16 +0000</pubDate>
+      </item><item>
+        <title>A little tech preview for Delta Chat iOS to easily setup a second device, under the hood using the fast evolving Rust implementation of @IPFS@twitter.com https://github.com/n0-computer/iroh/ -- not the only use we are envisioning of this interesting P2P effort ;)</title>
+        <link>https://chaos.social/@delta/108713762311078206</link>
+        <guid>https://chaos.social/@delta/108713762311078206</guid>
+        <pubDate>Tue, 26 Jul 2022 12:59:27 +0000</pubDate>
+      </item><item>
+        <title>Some days ago we visited the fine folks behind https://mailcow.email and https://servercow.de -- while mailcow installations already work well with Delta Chat we want to increase speed of message delivery, spam processing and aim for easier onboarding with mailcow installs.</title>
+        <link>https://chaos.social/@delta/108645562786740784</link>
+        <guid>https://chaos.social/@delta/108645562786740784</guid>
+        <pubDate>Thu, 14 Jul 2022 11:55:25 +0000</pubDate>
+      </item><item>
+        <title>OH &amp;quot;Russia is about as federated as Telegram&amp;quot;</title>
+        <link>https://chaos.social/@delta/108628380283947256</link>
+        <guid>https://chaos.social/@delta/108628380283947256</guid>
+        <pubDate>Mon, 11 Jul 2022 11:05:40 +0000</pubDate>
+      </item><item>
+        <title>Big chance that the new EU messenger interop mandates, if they work out at all, will break e2e-encryption. Better and easier it would be to mandate that large platforms allow third party apps to access their (existing!) APIs to send/receive messages. CC @Klaus_Mueller@twitter.com</title>
+        <link>https://chaos.social/@delta/108606491441737370</link>
+        <guid>https://chaos.social/@delta/108606491441737370</guid>
+        <pubDate>Thu, 07 Jul 2022 14:19:03 +0000</pubDate>
+      </item><item>
+        <title>RT @ThierryBreton@twitter.com For the 1st time ever, the European Commission will become the #supervisor of “gatekeepers” and very large platforms &amp;amp; online search engines. Here is a sneak preview of how the #DSA &amp;amp; #DMA enforcement will be organised 🔜 https://www.linkedin.com/pulse/sneak-peek-how-commission-enforce-dsa-dma-thierry-breton/?published=t 🐦🔗: https://twitter.com/ThierryBreton/status/1544274269424820224</title>
+        <link>https://chaos.social/@delta/108606491389957052</link>
+        <guid>https://chaos.social/@delta/108606491389957052</guid>
+        <pubDate>Thu, 07 Jul 2022 14:19:02 +0000</pubDate>
+      </item><item>
+        <title>Thanks for the recognition of https://webxdc.org ! Truth be told, we are just beginning to explore the new possibilities of chat-shared web apps :) RT @christophtill@twitter.com Ich halte die Integration von WebXDC in @delta_chat@twitter.com für einen echten Gamechanger. Das macht den Messenger so flexibel wie keinen zweiten. Der Messenger ist so quasi unendlich und leicht in seinen Funktionen erweiterbar. Hammer Technik! 🐦🔗: https://twitter.com/christophtill/status/1544800060382367753</title>
+        <link>https://chaos.social/@delta/108605721036187155</link>
+        <guid>https://chaos.social/@delta/108605721036187155</guid>
+        <pubDate>Thu, 07 Jul 2022 11:03:08 +0000</pubDate>
+      </item><item>
+        <title>https://webxdc.org apps radically cut out advertising because tracking and targeting is impossible. As an app developer you can not get at user-data at all because all dataflows between user&amp;#39;s devices, app data is only shared in the chat between peers, e2e-encrypted.</title>
+        <link>https://chaos.social/@delta/108583583529955304</link>
+        <guid>https://chaos.social/@delta/108583583529955304</guid>
+        <pubDate>Sun, 03 Jul 2022 13:13:16 +0000</pubDate>
+      </item><item>
+        <title>Oh, and these 500 added lines include quite a number of automated tests as well.</title>
+        <link>https://chaos.social/@delta/108571662156713915</link>
+        <guid>https://chaos.social/@delta/108571662156713915</guid>
+        <pubDate>Fri, 01 Jul 2022 10:41:31 +0000</pubDate>
+      </item><item>
+        <title>Through these ~500 added lines of Rust code, all Delta Chat apps will grow the ability to seamlessly port their e-mail address from one provider to another. The code&amp;#39;s relative simplicity was hard-earned through many prior discusssions https://github.com/deltachat/deltachat-core-rust/pull/3385/files</title>
+        <link>https://chaos.social/@delta/108571601409448781</link>
+        <guid>https://chaos.social/@delta/108571601409448781</guid>
+        <pubDate>Fri, 01 Jul 2022 10:26:04 +0000</pubDate>
+      </item><item>
+        <title>Developing web apps to run in chats just got a boost :) RT @faassen@twitter.com The last couple of weeks I&amp;#39;ve been working on a dev tool for webxdc. Webxdc allows embedded web applications within a chat application. It&amp;#39;s in use by DeltaChat. https://webxdc.org/ 🧵 🐦🔗: https://twitter.com/faassen/status/1542533794116386817</title>
+        <link>https://chaos.social/@delta/108571425638736168</link>
+        <guid>https://chaos.social/@delta/108571425638736168</guid>
+        <pubDate>Fri, 01 Jul 2022 09:41:22 +0000</pubDate>
+      </item><item>
+        <title>Coincidentally 640kb is the current size limit for https://webxdc.org chat-shareable web apps :) RT @zagy@twitter.com 640K ought to be enough for anyone. 🐦🔗: https://twitter.com/zagy/status/1541681384867119104 A package of server memory</title>
+        <link>https://chaos.social/@delta/108554218834597877</link>
+        <guid>https://chaos.social/@delta/108554218834597877</guid>
+        <pubDate>Tue, 28 Jun 2022 08:45:27 +0000</pubDate>
+      </item><item>
+        <title>&amp;quot;if only mail apps would be as easy to configure as delta chat&amp;quot; ... thanks for the praise. We are working all the time to achieve a smooth configuration experience. RT @t73fde@twitter.com Wenn sich &amp;quot;Mail Clients&amp;quot; bloß so einfach wie @delta_chat@twitter.com einrichten liessen. 🐦🔗: https://twitter.com/t73fde/status/1539685640979226625</title>
+        <link>https://chaos.social/@delta/108525807606559856</link>
+        <guid>https://chaos.social/@delta/108525807606559856</guid>
+        <pubDate>Thu, 23 Jun 2022 08:20:06 +0000</pubDate>
+      </item><item>
+        <title>Sharing Web Apps in a chat: Recent releases of Delta Chat (1.30) semi-silently introduced support for &amp;quot;webxdc&amp;quot;, a new way to share and run web apps, without leaking any data to third parties. See https://delta.chat/en/2022-06-14-webxdcintro and https://webxdc.org for demos/quickstarts.</title>
+        <link>https://chaos.social/@delta/108487984933980780</link>
+        <guid>https://chaos.social/@delta/108487984933980780</guid>
+        <pubDate>Thu, 16 Jun 2022 16:01:17 +0000</pubDate>
+      </item><item>
+        <title>&amp;quot;web apps shared in a chat&amp;quot; ... a new way to do web apps without platforms, coins or logins :) https://webxdc.org the according Delta Chat announcement post has some more details: https://delta.chat/en/2022-06-14-webxdcintro</title>
+        <link>https://chaos.social/@delta/108487743132404781</link>
+        <guid>https://chaos.social/@delta/108487743132404781</guid>
+        <pubDate>Thu, 16 Jun 2022 14:59:48 +0000</pubDate>
+      </item>
+  </channel>
+</rss>
