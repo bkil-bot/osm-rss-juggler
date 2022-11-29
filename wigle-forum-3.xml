@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: My RPi Setup: we strongly recommend kismet (https://www.kismetwireless.net/) ! -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11384#p11384</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11384#p11384</guid>
+        <pubDate>2022-11-29T14:26:34</pubDate>
+      </item><item>
         <title>My RPi Setup: So a couple of months ago, I built up a wardriver with raspberry pi 3b+ and panda pau09 adapter. The box is running a 7&quot; touch screen 15Ah battery, and then running Kali Linux. I've had a ton of fun with this setup as is. just airmon/wifite/airgeddon etc... But I want to drive around and contribute to the wiggle map data in my area. A lot of it is out dated. What application stack will I need for this that will work on Kali Linux? (I do not have any android devices) Guess I will have to get a GPS usb dongle as well? -craftyza</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11383#p11383</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11383#p11383</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11250#p11250</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11250#p11250</guid>
         <pubDate>2022-05-28T23:45:56</pubDate>
-      </item><item>
-        <title>Re: Raspberry PI: I'm using this pi (Zero 2 W) and i use GPS2IP on Iphone as GPS. I connect all in WiFi and i use AWUS036NHA card in USB. -asajdbajbda</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11245#p11245</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11245#p11245</guid>
-        <pubDate>2022-05-19T12:19:01</pubDate>
       </item>
   </channel>
 </rss>
