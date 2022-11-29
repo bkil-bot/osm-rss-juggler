@@ -2,6 +2,16 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      
+      <item>
+        <title>Hungary/20230121: Jelentkezés / RSVP links: Hubzilla -Bkil</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20230121&amp;diff=2443746&amp;oldid=2442079</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20230121&amp;diff=2443746</guid>
+        <pubDate>Tue, 29 Nov 2022 22:57:24 GMT</pubDate>
+      </item><item>
+        <title>Hungary/Találkozók: Következő összejövetelek előadásokkal vagy közös interaktív tevékenységgel: +Hungary/20230121 -Bkil</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Tal%C3%A1lkoz%C3%B3k&amp;diff=2443747&amp;oldid=2440001</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Tal%C3%A1lkoz%C3%B3k&amp;diff=2443747</guid>
+        <pubDate>Tue, 29 Nov 2022 22:58:28 GMT</pubDate>
+      </item>
   </channel>
 </rss>
