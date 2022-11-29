@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Central Hungary, 1221, Hungary) / * 2022 November 29 08:24 vasony-qa Created: Ellenőriendő, páros házszám a páratlan oldalon</title>
+        <link>https://www.openstreetmap.org/note/3460043#c7441594</link>
+        <guid>https://www.openstreetmap.org/note/3460043#c7441594</guid>
+        <pubDate>Tue, 29 Nov 2022 08:24:00 +0000</pubDate>
+      </item><item>
         <title>new note (near Central Hungary, 1221, Hungary) / * 2022 November 29 08:17 vasony-qa Created: Ellenőrizendők a házszámok, nem stimmel az interpolációval</title>
         <link>https://www.openstreetmap.org/note/3460037#c7441584</link>
         <guid>https://www.openstreetmap.org/note/3460037#c7441584</guid>
@@ -172,11 +177,6 @@
         <link>https://www.openstreetmap.org/note/3453750#c7430885</link>
         <guid>https://www.openstreetmap.org/note/3453750#c7430885</guid>
         <pubDate>Fri, 25 Nov 2022 14:59:13 +0000</pubDate>
-      </item><item>
-        <title>reactivated note (near Central Hungary, 1118, Hungary) / * 2022 November 25 14:57 pihentagy Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/3453750#c7430883</link>
-        <guid>https://www.openstreetmap.org/note/3453750#c7430883</guid>
-        <pubDate>Fri, 25 Nov 2022 14:57:52 +0000</pubDate>
       </item>
   </channel>
 </rss>
