@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Southern Transdanubia, Transdanubia, 7628, Hungary) / * 2022 November 30 18:04 Created: 3</title>
+        <link>https://www.openstreetmap.org/note/3462182#c7446245</link>
+        <guid>https://www.openstreetmap.org/note/3462182#c7446245</guid>
+        <pubDate>Wed, 30 Nov 2022 18:04:23 +0000</pubDate>
+      </item><item>
+        <title>new note (near Central Hungary, 1039, Hungary) / * 2022 November 30 17:39 utvonalfelmeresek Created: gls automata</title>
+        <link>https://www.openstreetmap.org/note/3462164#c7446166</link>
+        <guid>https://www.openstreetmap.org/note/3462164#c7446166</guid>
+        <pubDate>Wed, 30 Nov 2022 17:39:54 +0000</pubDate>
+      </item><item>
         <title>closed note (near Lipótváros, 5th district) / * 2022 September 28 11:40 grozsa11 Created: Unable to answer &amp;quot;What type of bicycle rental is this?&amp;quot; for https://osm.org/node/2743702854 via StreetComplete 46.1: / ....lehet hogy csak az épitkezés idejére nincsen itt bubiállomás... / * 2022 October 3 14:53 infeeeee Updated: Ez az állomás a hivatalos térképen sem szerepel. / * 2022 October 3 15:12 grozsa11 Updated: Ilyenkor hivatalosan töröljük egyszerűen le az OSM-ről? Vagy tegyük valami háttérbe, és ha esetleg az építkezés a mellette lévő telken befejeződik, akkor lehet hogy visszakerül ide a bubi? Mi a jó OSM-es megoldás ilyenkor? / * 2022 October 3 18:44 infeeeee Updated: Vagy demolished:* prefix https://wiki.openstreetmap.org/wiki/Key:demolished:* vagy törlés. Én törölném, de vannak akik nem szeretnek törölni. Bubi térképen úgy látom a 0510-es számot nem használták még újra, szemben a 0509-cel, a másik jegyzetedben. / * 2022 November 30 15:28 feket Resolved: Eltváolítottam (removed:amenity=*), mert nem fellelhető a helyszínen, a bkk 2019. nyári fb posztja szerint áthelyezés miatt megszűnt. Hogy hová került, val&amp;#39;szeg nem fog kiderülni, mert a ref=* első két karaktere a kerületre utal. (módosításcsomag: 129566232)</title>
         <link>https://www.openstreetmap.org/note/3377082#c7445939</link>
         <guid>https://www.openstreetmap.org/note/3377082#c7445939</guid>
@@ -132,16 +142,6 @@
         <link>https://www.openstreetmap.org/note/3456707#c7433369</link>
         <guid>https://www.openstreetmap.org/note/3456707#c7433369</guid>
         <pubDate>Sat, 26 Nov 2022 12:50:49 +0000</pubDate>
-      </item><item>
-        <title>closed note (near North Hungary, Great Plain and North, 3791, Hungary) / * 2022 August 11 05:56 miczo Created: &amp;quot;A vasúti átjáró megszűnt, az iparvágányt felszámolták.&amp;quot; / OSM snapshot date: 2022-07-18T07:38:05Z / POI has no name / POI types: railway-level_crossing / #organicmaps / * 2022 November 26 12:25 Spush Resolved: Ok.</title>
-        <link>https://www.openstreetmap.org/note/3309218#c7433322</link>
-        <guid>https://www.openstreetmap.org/note/3309218#c7433322</guid>
-        <pubDate>Sat, 26 Nov 2022 12:25:12 +0000</pubDate>
-      </item><item>
-        <title>closed note (near North Hungary, Great Plain and North, 3791, Hungary) / * 2022 January 1 00:32 Spush Created: Itt napelempark van a sínek helyén. / * 2022 November 26 12:24 Spush Resolved: Ok.</title>
-        <link>https://www.openstreetmap.org/note/2991127#c7433321</link>
-        <guid>https://www.openstreetmap.org/note/2991127#c7433321</guid>
-        <pubDate>Sat, 26 Nov 2022 12:24:35 +0000</pubDate>
       </item>
   </channel>
 </rss>
