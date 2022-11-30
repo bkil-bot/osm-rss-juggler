@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Lipótváros, 5th district) / * 2022 September 28 11:40 grozsa11 Created: Unable to answer &amp;quot;What type of bicycle rental is this?&amp;quot; for https://osm.org/node/2743702854 via StreetComplete 46.1: / ....lehet hogy csak az épitkezés idejére nincsen itt bubiállomás... / * 2022 October 3 14:53 infeeeee Updated: Ez az állomás a hivatalos térképen sem szerepel. / * 2022 October 3 15:12 grozsa11 Updated: Ilyenkor hivatalosan töröljük egyszerűen le az OSM-ről? Vagy tegyük valami háttérbe, és ha esetleg az építkezés a mellette lévő telken befejeződik, akkor lehet hogy visszakerül ide a bubi? Mi a jó OSM-es megoldás ilyenkor? / * 2022 October 3 18:44 infeeeee Updated: Vagy demolished:* prefix https://wiki.openstreetmap.org/wiki/Key:demolished:* vagy törlés. Én törölném, de vannak akik nem szeretnek törölni. Bubi térképen úgy látom a 0510-es számot nem használták még újra, szemben a 0509-cel, a másik jegyzetedben. / * 2022 November 30 15:28 feket Resolved: Eltváolítottam (removed:amenity=*), mert nem fellelhető a helyszínen, a bkk 2019. nyári fb posztja szerint áthelyezés miatt megszűnt. Hogy hová került, val&amp;#39;szeg nem fog kiderülni, mert a ref=* első két karaktere a kerületre utal. (módosításcsomag: 129566232)</title>
+        <link>https://www.openstreetmap.org/note/3377082#c7445939</link>
+        <guid>https://www.openstreetmap.org/note/3377082#c7445939</guid>
+        <pubDate>Wed, 30 Nov 2022 15:28:47 +0000</pubDate>
+      </item><item>
         <title>new note (near Kónyamajor, Lajosmizse) / * 2022 November 29 16:44 Created: Cseh Birtok</title>
         <link>https://www.openstreetmap.org/note/3460623#c7442981</link>
         <guid>https://www.openstreetmap.org/note/3460623#c7442981</guid>
