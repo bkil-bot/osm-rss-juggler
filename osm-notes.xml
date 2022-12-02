@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Central Hungary, 2351, Hungary) / * 2022 June 21 09:39 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: CBA no longer exists. / https://www.openstreetmap.org/node/3488444418 / * 2022 December 2 00:30 Spush Resolved: Someone deleted. Close Note.</title>
+        <link>https://www.openstreetmap.org/note/3234221#c7449682</link>
+        <guid>https://www.openstreetmap.org/note/3234221#c7449682</guid>
+        <pubDate>Fri, 02 Dec 2022 00:30:46 +0000</pubDate>
+      </item><item>
         <title>closed note (near North Great Plain, Great Plain and North, 4600, Hungary) / * 2022 June 12 13:47 Created: Többsávosítani az utat. / * 2022 December 1 20:42 Spush Resolved: Felvittem, a kanyarodósávot, jól látszik a FÖMI képen.</title>
         <link>https://www.openstreetmap.org/note/3221349#c7449281</link>
         <guid>https://www.openstreetmap.org/note/3221349#c7449281</guid>
@@ -442,16 +447,6 @@
         <link>https://www.openstreetmap.org/note/3462878#c7447727</link>
         <guid>https://www.openstreetmap.org/note/3462878#c7447727</guid>
         <pubDate>Thu, 01 Dec 2022 11:30:38 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Southern Transdanubia, Transdanubia, 7831, Hungary) / * 2022 December 1 11:28 sakköntevkör Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3462876#c7447725</link>
-        <guid>https://www.openstreetmap.org/note/3462876#c7447725</guid>
-        <pubDate>Thu, 01 Dec 2022 11:28:21 +0000</pubDate>
-      </item><item>
-        <title>new note (near Southern Transdanubia, Transdanubia, 7831, Hungary) / * 2022 December 1 11:28 sakköntevkör Created: Pellérdi Általános Iskola</title>
-        <link>https://www.openstreetmap.org/note/3462876#c7447724</link>
-        <guid>https://www.openstreetmap.org/note/3462876#c7447724</guid>
-        <pubDate>Thu, 01 Dec 2022 11:28:19 +0000</pubDate>
       </item>
   </channel>
 </rss>
