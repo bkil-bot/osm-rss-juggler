@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Central Hungary, 1174, Hungary) / * 2022 December 4 16:14 Created: 1.</title>
+        <link>https://www.openstreetmap.org/note/3467027#c7456126</link>
+        <guid>https://www.openstreetmap.org/note/3467027#c7456126</guid>
+        <pubDate>Sun, 04 Dec 2022 16:14:06 +0000</pubDate>
+      </item><item>
         <title>new note (near Iparterület, Karcag) / * 2022 December 4 14:57 Spush Created: Ellentmondás a terület elnevezése és a területfunkció között. Ha ipari, akkor landuse=industrial, ha kereskedelmi akkor landuse=commercial.</title>
         <link>https://www.openstreetmap.org/note/3466917#c7455924</link>
         <guid>https://www.openstreetmap.org/note/3466917#c7455924</guid>
@@ -212,11 +217,6 @@
         <link>https://www.openstreetmap.org/note/3453195#c7452658</link>
         <guid>https://www.openstreetmap.org/note/3453195#c7452658</guid>
         <pubDate>Sat, 03 Dec 2022 09:51:37 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Southern Transdanubia, Transdanubia, 7300, Hungary) / * 2022 September 21 08:46 Created: Ez nem a Mikszáth Kálmán utca. A Petőfi Sándor utcai kereszteződésig Berek utca, onnan pedig Irinyi János utca. / * 2022 December 3 08:10 kogutowicz-mano Resolved: Láthatólag megoldva</title>
-        <link>https://www.openstreetmap.org/note/3367590#c7452520</link>
-        <guid>https://www.openstreetmap.org/note/3367590#c7452520</guid>
-        <pubDate>Sat, 03 Dec 2022 08:10:58 +0000</pubDate>
       </item>
   </channel>
 </rss>
