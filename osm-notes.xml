@@ -3,12 +3,17 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
-        <title>new note (near Western Transdanubia, Transdanubia, 9723, Hungary) / * 2022 December 8 18:41 vasony Created: ez lenne a Széchenyi út?</title>
+        <title>new note (near Central Hungary, 1117, Hungary) / * 2022 December 8 19:41 kogutowicz-mano Created: Szerintem már mindhárom vágány kész van.</title>
+        <link>https://www.openstreetmap.org/note/3471300#c7465947</link>
+        <guid>https://www.openstreetmap.org/note/3471300#c7465947</guid>
+        <pubDate>Thu, 08 Dec 2022 19:41:17 +0000</pubDate>
+      </item><item>
+        <title>new note (near Western Transdanubia, 9723, Hungary) / * 2022 December 8 18:41 vasony Created: ez lenne a Széchenyi út?</title>
         <link>https://www.openstreetmap.org/note/3471262#c7465836</link>
         <guid>https://www.openstreetmap.org/note/3471262#c7465836</guid>
         <pubDate>Thu, 08 Dec 2022 18:41:26 +0000</pubDate>
       </item><item>
-        <title>new note (near Western Transdanubia, Transdanubia, 9026, Hungary) / * 2022 December 8 15:50 Created: Building number: 12/A; 12/B; 12/C</title>
+        <title>new note (near Western Transdanubia, 9026, Hungary) / * 2022 December 8 15:50 Created: Building number: 12/A; 12/B; 12/C</title>
         <link>https://www.openstreetmap.org/note/3471110#c7465500</link>
         <guid>https://www.openstreetmap.org/note/3471110#c7465500</guid>
         <pubDate>Thu, 08 Dec 2022 15:50:37 +0000</pubDate>
@@ -193,7 +198,7 @@
         <guid>https://www.openstreetmap.org/note/2815309#c7464369</guid>
         <pubDate>Thu, 08 Dec 2022 01:22:00 +0000</pubDate>
       </item><item>
-        <title>new note (near Western Transdanubia, Transdanubia, 9154, Hungary) / * 2022 December 7 22:43 vasony Created: Otelló köz van itt valahol?</title>
+        <title>new note (near Western Transdanubia, 9154, Hungary) / * 2022 December 7 22:43 vasony Created: Otelló köz van itt valahol?</title>
         <link>https://www.openstreetmap.org/note/3470458#c7464144</link>
         <guid>https://www.openstreetmap.org/note/3470458#c7464144</guid>
         <pubDate>Wed, 07 Dec 2022 22:43:33 +0000</pubDate>
@@ -233,20 +238,15 @@
         <guid>https://www.openstreetmap.org/note/3468472#c7459356</guid>
         <pubDate>Mon, 05 Dec 2022 22:03:20 +0000</pubDate>
       </item><item>
-        <title>closed note (near South Great Plain, Great Plain and North, 6720, Hungary) / * 2022 November 25 15:12 Created: P0 / * 2022 December 5 21:59 gabro00 Resolved: spam</title>
+        <title>closed note (near South Great Plain, 6720, Hungary) / * 2022 November 25 15:12 Created: P0 / * 2022 December 5 21:59 gabro00 Resolved: spam</title>
         <link>https://www.openstreetmap.org/note/3455671#c7459355</link>
         <guid>https://www.openstreetmap.org/note/3455671#c7459355</guid>
         <pubDate>Mon, 05 Dec 2022 21:59:48 +0000</pubDate>
       </item><item>
-        <title>closed note (near South Great Plain, Great Plain and North, 6720, Hungary) / * 2022 November 25 15:13 Created: GCbkvl-P0 / * 2022 December 5 21:59 gabro00 Resolved: spam</title>
+        <title>closed note (near South Great Plain, 6720, Hungary) / * 2022 November 25 15:13 Created: GCbkvl-P0 / * 2022 December 5 21:59 gabro00 Resolved: spam</title>
         <link>https://www.openstreetmap.org/note/3455674#c7459354</link>
         <guid>https://www.openstreetmap.org/note/3455674#c7459354</guid>
         <pubDate>Mon, 05 Dec 2022 21:59:40 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Pasarét, 2nd district) / * 2022 September 25 02:16 Nmacma Created: The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI has no name / POI types: building / OSM data version: 2020-06-07T12:42:57Z / #mapsme / * 2022 December 5 20:27 infeeeee Resolved: This building is still standing, I think you wanted to add this to the neighboring building, on the other side of the street, which was really demolished.</title>
-        <link>https://www.openstreetmap.org/note/3372723#c7459220</link>
-        <guid>https://www.openstreetmap.org/note/3372723#c7459220</guid>
-        <pubDate>Mon, 05 Dec 2022 20:27:57 +0000</pubDate>
       </item>
   </channel>
 </rss>
