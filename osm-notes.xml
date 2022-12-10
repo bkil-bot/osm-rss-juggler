@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Central Hungary, 2040, Hungary) / * 2022 February 13 08:43 vasony Created: 25-27 vagy 27? / * 2022 December 10 09:31 vasony Resolved: 27</title>
+        <link>https://www.openstreetmap.org/note/3049449#c7469291</link>
+        <guid>https://www.openstreetmap.org/note/3049449#c7469291</guid>
+        <pubDate>Sat, 10 Dec 2022 09:31:28 +0000</pubDate>
+      </item><item>
         <title>new note (near South Great Plain, 6640, Hungary) / * 2022 December 9 22:29 vasony Created: Ipari park út itt van valahol?</title>
         <link>https://www.openstreetmap.org/note/3472528#c7468640</link>
         <guid>https://www.openstreetmap.org/note/3472528#c7468640</guid>
@@ -297,11 +302,6 @@
         <link>https://www.openstreetmap.org/note/3468742#c7460390</link>
         <guid>https://www.openstreetmap.org/note/3468742#c7460390</guid>
         <pubDate>Tue, 06 Dec 2022 11:37:33 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 1039, Hungary) / * 2022 November 30 17:39 utvonalfelmeresek Created: gls automata / * 2022 December 6 11:37 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/129779485</title>
-        <link>https://www.openstreetmap.org/note/3462164#c7460389</link>
-        <guid>https://www.openstreetmap.org/note/3462164#c7460389</guid>
-        <pubDate>Tue, 06 Dec 2022 11:37:18 +0000</pubDate>
       </item>
   </channel>
 </rss>
