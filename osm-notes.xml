@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Central Hungary, 2220, Hungary) / * 2017 December 9 12:24 KAMI Created: Ez a hely már nincs itt nyitva. Itt vannak https://m.facebook.com/halmy.faloda / * 2020 October 7 17:12 unacceptium Updated: az oldal nem létezik / * 2022 December 12 17:21 Spush Updated: A legújabb Maxar kép alapján már a játszótér sincsen meg, beépítették.</title>
+        <link>https://www.openstreetmap.org/note/1233821#c7475083</link>
+        <guid>https://www.openstreetmap.org/note/1233821#c7475083</guid>
+        <pubDate>Mon, 12 Dec 2022 17:21:09 +0000</pubDate>
+      </item><item>
         <title>closed note (near Southern Transdanubia, 7768, Hungary) / * 2022 December 12 16:55 Spush Resolved: Ez a térképjegyzet funkció a térkép hibáinak bejelentésére szolgál. Amennyiben új jegyzetet nyit és nincs fent a térképen az objektum akkor ne zárja le rögtön, mert ennek így semmi értelme.</title>
         <link>https://www.openstreetmap.org/note/3472988#c7475018</link>
         <guid>https://www.openstreetmap.org/note/3472988#c7475018</guid>
@@ -147,16 +152,6 @@
         <link>https://www.openstreetmap.org/note/1819824#c7470957</link>
         <guid>https://www.openstreetmap.org/note/1819824#c7470957</guid>
         <pubDate>Sat, 10 Dec 2022 23:47:37 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Transdanubia, 2900, Hungary) / * 2019 March 30 16:38 andrewsh Created: &amp;quot;not yet open&amp;quot; / POI name: Barbershop Komárom / POI types: shop-hairdresser / OSM data version: 2019-03-14T00:11:02Z / #mapsme / * 2022 December 10 23:35 Syl Resolved: Obsolete note</title>
-        <link>https://www.openstreetmap.org/note/1729436#c7470927</link>
-        <guid>https://www.openstreetmap.org/note/1729436#c7470927</guid>
-        <pubDate>Sat, 10 Dec 2022 23:35:08 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Remeteségpuszta, Tata) / * 2018 December 15 07:07 Răzvy Răzvan Created: The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI has no name / POI types: landuse-forest / OSM data version: 2018-10-30T22:25:02Z / #mapsme / * 2022 December 10 22:44 Syl Resolved: Still a forest</title>
-        <link>https://www.openstreetmap.org/note/1617712#c7470865</link>
-        <guid>https://www.openstreetmap.org/note/1617712#c7470865</guid>
-        <pubDate>Sat, 10 Dec 2022 22:44:17 +0000</pubDate>
       </item>
   </channel>
 </rss>
