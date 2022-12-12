@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Central Hungary, 2351, Hungary) / * 2022 December 12 21:10 vasony Created: ez a Templom kert nevű magánút?</title>
+        <link>https://www.openstreetmap.org/note/3475744#c7475861</link>
+        <guid>https://www.openstreetmap.org/note/3475744#c7475861</guid>
+        <pubDate>Mon, 12 Dec 2022 21:10:08 +0000</pubDate>
+      </item><item>
+        <title>new note (near Central Hungary, 2161, Hungary) / * 2022 December 12 21:01 vasony Created: Rózsa utca ki van építve?</title>
+        <link>https://www.openstreetmap.org/note/3475729#c7475837</link>
+        <guid>https://www.openstreetmap.org/note/3475729#c7475837</guid>
+        <pubDate>Mon, 12 Dec 2022 21:01:27 +0000</pubDate>
+      </item><item>
         <title>new comment (near Central Hungary, 2220, Hungary) / * 2017 December 9 12:24 KAMI Created: Ez a hely már nincs itt nyitva. Itt vannak https://m.facebook.com/halmy.faloda / * 2020 October 7 17:12 unacceptium Updated: az oldal nem létezik / * 2022 December 12 17:21 Spush Updated: A legújabb Maxar kép alapján már a játszótér sincsen meg, beépítették.</title>
         <link>https://www.openstreetmap.org/note/1233821#c7475083</link>
         <guid>https://www.openstreetmap.org/note/1233821#c7475083</guid>
@@ -142,16 +152,6 @@
         <link>https://www.openstreetmap.org/note/1903227#c7471006</link>
         <guid>https://www.openstreetmap.org/note/1903227#c7471006</guid>
         <pubDate>Sun, 11 Dec 2022 00:05:40 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Western Transdanubia, 9081, Hungary) / * 2019 December 29 17:42 Created: Permanently closed. / * 2022 December 11 00:03 Syl Resolved: Already changed</title>
-        <link>https://www.openstreetmap.org/note/2040294#c7471005</link>
-        <guid>https://www.openstreetmap.org/note/2040294#c7471005</guid>
-        <pubDate>Sun, 11 Dec 2022 00:03:15 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Transdanubia, 2481, Hungary) / * 2019 June 20 19:18 kolestom Created: &amp;quot;the restaurant had closed for good&amp;quot; / The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI name: Aranykút Vendéglő / POI types: amenity-restaurant / OSM data version: 2019-05-17T13:54:02Z / #mapsme / * 2022 December 10 23:47 Syl Resolved: Removed</title>
-        <link>https://www.openstreetmap.org/note/1819824#c7470957</link>
-        <guid>https://www.openstreetmap.org/note/1819824#c7470957</guid>
-        <pubDate>Sat, 10 Dec 2022 23:47:37 +0000</pubDate>
       </item>
   </channel>
 </rss>
