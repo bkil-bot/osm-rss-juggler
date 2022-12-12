@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near North Hungary, 3153, Hungary) / * 2022 December 12 21:34 vasony Created: Ez a Temető utca?</title>
+        <link>https://www.openstreetmap.org/note/3475755#c7475889</link>
+        <guid>https://www.openstreetmap.org/note/3475755#c7475889</guid>
+        <pubDate>Mon, 12 Dec 2022 21:34:30 +0000</pubDate>
+      </item><item>
+        <title>new note (near Mária Anna-puszta, Vál) / * 2022 December 12 21:21 vasony Created: Ez a Horváth Kálmán utca?</title>
+        <link>https://www.openstreetmap.org/note/3475752#c7475877</link>
+        <guid>https://www.openstreetmap.org/note/3475752#c7475877</guid>
+        <pubDate>Mon, 12 Dec 2022 21:21:50 +0000</pubDate>
+      </item><item>
         <title>new note (near Central Hungary, 2351, Hungary) / * 2022 December 12 21:10 vasony Created: ez a Templom kert nevű magánút?</title>
         <link>https://www.openstreetmap.org/note/3475744#c7475861</link>
         <guid>https://www.openstreetmap.org/note/3475744#c7475861</guid>
@@ -132,26 +142,6 @@
         <link>https://www.openstreetmap.org/note/2602168#c7471489</link>
         <guid>https://www.openstreetmap.org/note/2602168#c7471489</guid>
         <pubDate>Sun, 11 Dec 2022 08:43:32 +0000</pubDate>
-      </item><item>
-        <title>closed note (near North Great Plain, 4272, Hungary) / * 2020 May 26 09:52 Sir Tibor Created: &amp;quot;Megszűnt&amp;quot; / The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI has no name / POI types: shop-convenience / OSM data version: 2020-04-02T17:07:40Z / #mapsme / * 2022 December 11 00:21 Syl Resolved: Removed</title>
-        <link>https://www.openstreetmap.org/note/2206856#c7471025</link>
-        <guid>https://www.openstreetmap.org/note/2206856#c7471025</guid>
-        <pubDate>Sun, 11 Dec 2022 00:21:09 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Belányi-telep, Dorog) / * 2020 March 29 09:19 knltuning Created: &amp;quot;Elkoltozott..&amp;quot; / The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI name: Hévíz Étterem és Hidegkonyha / POI types: wheelchair-yes amenity-restaurant / OSM data version: 2020-02-09T04:19:23Z / #mapsme / * 2022 December 11 00:11 Syl Resolved: Already fixed, there is nothing here in the database</title>
-        <link>https://www.openstreetmap.org/note/2140102#c7471022</link>
-        <guid>https://www.openstreetmap.org/note/2140102#c7471022</guid>
-        <pubDate>Sun, 11 Dec 2022 00:11:40 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Belányi-telep, Dorog) / * 2020 March 29 09:09 knltuning Created: &amp;quot;Mar elkoltozott..&amp;quot; / The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI name: CBA Dorog / POI types: wheelchair-no shop-convenience / OSM data version: 2020-02-09T04:19:23Z / #mapsme / * 2022 December 11 00:09 Syl Resolved: Already fixed, there is nothing here in the database</title>
-        <link>https://www.openstreetmap.org/note/2140088#c7471015</link>
-        <guid>https://www.openstreetmap.org/note/2140088#c7471015</guid>
-        <pubDate>Sun, 11 Dec 2022 00:09:43 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Western Transdanubia, 9232, Hungary) / * 2019 August 28 08:27 Petr Fukátko Created: Mapy.cz user message: / &amp;quot;Not making food anymore, just beer.&amp;quot; / Maybe pub instead of restaurant? / * 2022 December 11 00:05 Syl Resolved: Already changed</title>
-        <link>https://www.openstreetmap.org/note/1903227#c7471006</link>
-        <guid>https://www.openstreetmap.org/note/1903227#c7471006</guid>
-        <pubDate>Sun, 11 Dec 2022 00:05:40 +0000</pubDate>
       </item>
   </channel>
 </rss>
