@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Southern Transdanubia, 7768, Hungary) / * 2022 December 12 16:55 Spush Resolved: Ez a térképjegyzet funkció a térkép hibáinak bejelentésére szolgál. Amennyiben új jegyzetet nyit és nincs fent a térképen az objektum akkor ne zárja le rögtön, mert ennek így semmi értelme.</title>
+        <link>https://www.openstreetmap.org/note/3472988#c7475018</link>
+        <guid>https://www.openstreetmap.org/note/3472988#c7475018</guid>
+        <pubDate>Mon, 12 Dec 2022 16:55:58 +0000</pubDate>
+      </item><item>
+        <title>reactivated note (near Southern Transdanubia, 7768, Hungary) / * 2022 December 10 12:25 sakköntevkör Created: Baranya megye iskolái / * 2022 December 10 12:25 sakköntevkör Resolved: Vokányi Általános Iskola / * 2022 December 12 16:54 Spush Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/3472988#c7475014</link>
+        <guid>https://www.openstreetmap.org/note/3472988#c7475014</guid>
+        <pubDate>Mon, 12 Dec 2022 16:54:42 +0000</pubDate>
+      </item><item>
         <title>new note (near Central Hungary, 2200, Hungary) / * 2022 December 12 07:48 Created: Monori Szakorvosi Rendelőintézet</title>
         <link>https://www.openstreetmap.org/note/3474809#c7473860</link>
         <guid>https://www.openstreetmap.org/note/3474809#c7473860</guid>
@@ -147,26 +157,6 @@
         <link>https://www.openstreetmap.org/note/1617712#c7470865</link>
         <guid>https://www.openstreetmap.org/note/1617712#c7470865</guid>
         <pubDate>Sat, 10 Dec 2022 22:44:17 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Southern Transdanubia, 7633, Hungary) / * 2020 April 1 16:07 zoltán györky Created: &amp;quot;permanently closed&amp;quot; / The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI name: Vegyesbolt / POI types: shop-convenience / OSM data version: 2020-02-09T04:19:23Z / #mapsme / * 2022 December 10 22:39 Syl Resolved: Removed</title>
-        <link>https://www.openstreetmap.org/note/2144695#c7470859</link>
-        <guid>https://www.openstreetmap.org/note/2144695#c7470859</guid>
-        <pubDate>Sat, 10 Dec 2022 22:39:04 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Southern Transdanubia, 7633, Hungary) / * 2018 March 20 15:11 zoltán györky Created: &amp;quot;closed&amp;quot; / The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI name: Vegyesbolt / POI types: shop-convenience / OSM data version: 2018-02-09T21:26:02Z / #mapsme / * 2022 December 10 22:39 Syl Resolved: Duplicated note</title>
-        <link>https://www.openstreetmap.org/note/1333330#c7470858</link>
-        <guid>https://www.openstreetmap.org/note/1333330#c7470858</guid>
-        <pubDate>Sat, 10 Dec 2022 22:39:04 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Western Transdanubia, 9900, Hungary) / * 2018 January 28 14:55 Created: this parking is free and public (note created by the app &amp;quot;free parking&amp;quot;) / * 2022 December 10 22:34 Syl Resolved: Already fixed</title>
-        <link>https://www.openstreetmap.org/note/1281848#c7470853</link>
-        <guid>https://www.openstreetmap.org/note/1281848#c7470853</guid>
-        <pubDate>Sat, 10 Dec 2022 22:34:16 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Etiltanya, Tét) / * 2017 January 13 16:18 Big Monkey Created: The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: &amp;quot;Végleg bezárt!&amp;quot; (OSM data version: 2016-12-14T16:41:03Z) #mapsme / * 2022 December 10 22:25 Syl Resolved: Removed</title>
-        <link>https://www.openstreetmap.org/note/850554#c7470829</link>
-        <guid>https://www.openstreetmap.org/note/850554#c7470829</guid>
-        <pubDate>Sat, 10 Dec 2022 22:25:34 +0000</pubDate>
       </item>
   </channel>
 </rss>
