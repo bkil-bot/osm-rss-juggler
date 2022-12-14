@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Central Hungary, 2220, Hungary) / * 2022 December 14 15:54 Mateusz Konieczny Created: https://www.openstreetmap.org/way/627268508 / merging here amenity=marketplace and highway=pedestrian violates https://wiki.openstreetmap.org/wiki/One_feature,_one_OSM_element</title>
+        <link>https://www.openstreetmap.org/note/3477581#c7479820</link>
+        <guid>https://www.openstreetmap.org/note/3477581#c7479820</guid>
+        <pubDate>Wed, 14 Dec 2022 15:54:23 +0000</pubDate>
+      </item><item>
         <title>new note (near Central Hungary, 2214, Hungary) / * 2022 December 13 16:37 Created: A Pándi Községi konyha és Pándi Óvoda között 2022 szeptembere óta működik a Bölcsőde!</title>
         <link>https://www.openstreetmap.org/note/3476567#c7477624</link>
         <guid>https://www.openstreetmap.org/note/3476567#c7477624</guid>
@@ -92,41 +97,6 @@
         <link>https://www.openstreetmap.org/note/2579347#c7471823</link>
         <guid>https://www.openstreetmap.org/note/2579347#c7471823</guid>
         <pubDate>Sun, 11 Dec 2022 11:17:41 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 1044, Hungary) / * 2021 February 6 10:27 StinyGoat Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/271670475 via StreetComplete 29.1: / This building is a container / Attached photo(s): / https://westnordost.de/p/28853.jpg / * 2022 December 11 11:11 Syl Resolved: Building type added</title>
-        <link>https://www.openstreetmap.org/note/2527326#c7471812</link>
-        <guid>https://www.openstreetmap.org/note/2527326#c7471812</guid>
-        <pubDate>Sun, 11 Dec 2022 11:11:14 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Western Transdanubia, 9400, Hungary) / * 2021 January 27 07:17 Mamutinka Created: Forwarding anonymous report from #Mapy.cz user, please verify: This beach doesn´t exist. / * 2022 December 11 10:58 Syl Resolved: Removed</title>
-        <link>https://www.openstreetmap.org/note/2513908#c7471789</link>
-        <guid>https://www.openstreetmap.org/note/2513908#c7471789</guid>
-        <pubDate>Sun, 11 Dec 2022 10:58:55 +0000</pubDate>
-      </item><item>
-        <title>closed note (near South Great Plain, 6000, Hungary) / * 2021 January 18 06:19 Created: #Mapy.cz Our user reports: &amp;quot;It is closed down.&amp;quot; / * 2022 December 11 10:52 Syl Resolved: Removed</title>
-        <link>https://www.openstreetmap.org/note/2502233#c7471765</link>
-        <guid>https://www.openstreetmap.org/note/2502233#c7471765</guid>
-        <pubDate>Sun, 11 Dec 2022 10:52:01 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Transdanubia, 8500, Hungary) / * 2022 December 11 10:34 ibe182 Resolved: 8500 Pápa Korvin utca 33 Hairadise fodrász szalon</title>
-        <link>https://www.openstreetmap.org/note/3095046#c7471701</link>
-        <guid>https://www.openstreetmap.org/note/3095046#c7471701</guid>
-        <pubDate>Sun, 11 Dec 2022 10:34:27 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Transdanubia, 8500, Hungary) / * 2022 December 11 10:34 ibe182 Resolved: 8500 Pápa Korvin utca 33 Hairadise fodrász szalon</title>
-        <link>https://www.openstreetmap.org/note/3473843#c7471700</link>
-        <guid>https://www.openstreetmap.org/note/3473843#c7471700</guid>
-        <pubDate>Sun, 11 Dec 2022 10:34:06 +0000</pubDate>
-      </item><item>
-        <title>reactivated note (near Central Transdanubia, 8500, Hungary) / * 2022 December 11 10:32 ibe182 Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/3095046#c7471699</link>
-        <guid>https://www.openstreetmap.org/note/3095046#c7471699</guid>
-        <pubDate>Sun, 11 Dec 2022 10:32:56 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Transdanubia, 8500, Hungary) / * 2022 March 20 09:13 Created: 8500 Pápa Korvin utca 33 hairadise fodrász szalon / * 2022 December 11 10:32 ibe182 Resolved: Hairadise fodrász szalon</title>
-        <link>https://www.openstreetmap.org/note/3095046#c7471698</link>
-        <guid>https://www.openstreetmap.org/note/3095046#c7471698</guid>
-        <pubDate>Sun, 11 Dec 2022 10:32:42 +0000</pubDate>
       </item>
   </channel>
 </rss>
