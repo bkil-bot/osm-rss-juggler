@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Central Hungary, 1044, Hungary) / * 2022 January 28 11:27 Rindinadya Created: Can someone check this location? I have feedback here from a driver who was able to drive here. Maybe someone knows how the road goes here and can map it? #mbx_editing / * 2022 February 17 20:22 vasony Updated: Added some service roads base on maxxar. Not complete, need to check the access and details on ground / * 2022 December 14 19:46 OSM KAMI Updated: This road is inside of Schiller Car Service building and run around Opel, Skoda, Toyota, Audi, Volkswagen services. It have customer parking place and car charger.</title>
+        <link>https://www.openstreetmap.org/note/3027913#c7480397</link>
+        <guid>https://www.openstreetmap.org/note/3027913#c7480397</guid>
+        <pubDate>Wed, 14 Dec 2022 19:46:43 +0000</pubDate>
+      </item><item>
+        <title>new note (near Southern Transdanubia, 7551, Hungary) / * 2022 December 14 19:35 vasony Created: Ez az Ipartelep utca?</title>
+        <link>https://www.openstreetmap.org/note/3477768#c7480380</link>
+        <guid>https://www.openstreetmap.org/note/3477768#c7480380</guid>
+        <pubDate>Wed, 14 Dec 2022 19:35:08 +0000</pubDate>
+      </item><item>
+        <title>new note (near Southern Transdanubia, 7555, Hungary) / * 2022 December 14 19:29 vasony Created: Borbála utca itt van valahol?</title>
+        <link>https://www.openstreetmap.org/note/3477762#c7480365</link>
+        <guid>https://www.openstreetmap.org/note/3477762#c7480365</guid>
+        <pubDate>Wed, 14 Dec 2022 19:29:24 +0000</pubDate>
+      </item><item>
         <title>new note (near Central Hungary, 2220, Hungary) / * 2022 December 14 15:54 Mateusz Konieczny Created: https://www.openstreetmap.org/way/627268508 / merging here amenity=marketplace and highway=pedestrian violates https://wiki.openstreetmap.org/wiki/One_feature,_one_OSM_element</title>
         <link>https://www.openstreetmap.org/note/3477581#c7479820</link>
         <guid>https://www.openstreetmap.org/note/3477581#c7479820</guid>
@@ -92,11 +107,6 @@
         <link>https://www.openstreetmap.org/note/2495129#c7472392</link>
         <guid>https://www.openstreetmap.org/note/2495129#c7472392</guid>
         <pubDate>Sun, 11 Dec 2022 14:22:05 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Southern Transdanubia, 7632, Hungary) / * 2021 March 14 22:14 Richardrrrr Created: &amp;quot;there are no trees on that spot. it’s an open area &amp;quot; / The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI name: Telepített fák / POI types: landuse-forest-deciduous / OSM data version: 2021-02-01T11:34:17Z / #mapsme / * 2022 December 11 11:17 Syl Resolved: Removed</title>
-        <link>https://www.openstreetmap.org/note/2579347#c7471823</link>
-        <guid>https://www.openstreetmap.org/note/2579347#c7471823</guid>
-        <pubDate>Sun, 11 Dec 2022 11:17:41 +0000</pubDate>
       </item>
   </channel>
 </rss>
