@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Decentralization Unchained -- diverse backgrounds of Delta Chat developments that you probably didn&amp;#39;t know about ... https://delta.chat/en/2022-12-15-uidevjob -- note that our twitter presence is fading further, has shifted to the fediverse for more than a year already #leavingtwitter</title>
+        <link>https://chaos.social/@delta/109524017082518172</link>
+        <guid>https://chaos.social/@delta/109524017082518172</guid>
+        <pubDate>Fri, 16 Dec 2022 15:17:53 +0000</pubDate>
+      </item><item>
         <title>Decentralization Unchained -- here is a lot of background what&amp;#39;s happening with Delta Chat, serving as background for our job offers to experienced UI devs https://delta.chat/en/2022-12-15-uidevjob #fossjobs #deltachat</title>
         <link>https://chaos.social/@delta/109517627964019902</link>
         <guid>https://chaos.social/@delta/109517627964019902</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/108525807606559856</link>
         <guid>https://chaos.social/@delta/108525807606559856</guid>
         <pubDate>Thu, 23 Jun 2022 08:20:06 +0000</pubDate>
-      </item><item>
-        <title>Sharing Web Apps in a chat: Recent releases of Delta Chat (1.30) semi-silently introduced support for &amp;quot;webxdc&amp;quot;, a new way to share and run web apps, without leaking any data to third parties. See https://delta.chat/en/2022-06-14-webxdcintro and https://webxdc.org for demos/quickstarts.</title>
-        <link>https://chaos.social/@delta/108487984933980780</link>
-        <guid>https://chaos.social/@delta/108487984933980780</guid>
-        <pubDate>Thu, 16 Jun 2022 16:01:17 +0000</pubDate>
       </item>
   </channel>
 </rss>
