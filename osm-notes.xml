@@ -3,6 +3,31 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near North Great Plain, 4600, Hungary) / * 2022 June 12 13:34 Created: Gyalogátkelő / * 2022 December 24 18:07 Spush Resolved: Már 2 éve szerepel a térképen. Nothing new.</title>
+        <link>https://www.openstreetmap.org/note/3221290#c7506799</link>
+        <guid>https://www.openstreetmap.org/note/3221290#c7506799</guid>
+        <pubDate>Sat, 24 Dec 2022 18:07:46 +0000</pubDate>
+      </item><item>
+        <title>new note (near Southern Transdanubia, 7636, Hungary) / * 2022 December 24 17:55 Spush Created: Posta újranyitásáról döntöttek.</title>
+        <link>https://www.openstreetmap.org/note/3489784#c7506772</link>
+        <guid>https://www.openstreetmap.org/note/3489784#c7506772</guid>
+        <pubDate>Sat, 24 Dec 2022 17:55:15 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Southern Transdanubia, 7630, Hungary) / * 2022 November 15 18:40 Havasi Ferenc Created: Ideiglenesen bezárt / * 2022 December 24 17:53 Spush Updated: Hamarosan újra kinyitják.</title>
+        <link>https://www.openstreetmap.org/note/3443478#c7506766</link>
+        <guid>https://www.openstreetmap.org/note/3443478#c7506766</guid>
+        <pubDate>Sat, 24 Dec 2022 17:53:30 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Hird, Pécs) / * 2022 November 15 18:40 Havasi Ferenc Created: Ideiglenesen bezárt / * 2022 December 24 17:52 Spush Updated: Hamarosan újra kinyitják.</title>
+        <link>https://www.openstreetmap.org/note/3443484#c7506764</link>
+        <guid>https://www.openstreetmap.org/note/3443484#c7506764</guid>
+        <pubDate>Sat, 24 Dec 2022 17:52:56 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Mórágy) / * 2022 October 27 09:27 Petymag Created: Trafó, utolsó villanyoszlop / via StreetComplete 47.2 / Attached photo(s): / https://westnordost.de/p/118367.jpg / * 2022 December 24 17:36 Spush Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3415075#c7506740</link>
+        <guid>https://www.openstreetmap.org/note/3415075#c7506740</guid>
+        <pubDate>Sat, 24 Dec 2022 17:36:51 +0000</pubDate>
+      </item><item>
         <title>new note (near Western Transdanubia, 9142, Hungary) / * 2022 December 24 10:38 Created: 6</title>
         <link>https://www.openstreetmap.org/note/3489414#c7506002</link>
         <guid>https://www.openstreetmap.org/note/3489414#c7506002</guid>
@@ -197,11 +222,6 @@
         <link>https://www.openstreetmap.org/note/3484803#c7495483</link>
         <guid>https://www.openstreetmap.org/note/3484803#c7495483</guid>
         <pubDate>Tue, 20 Dec 2022 15:48:27 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Vörösberény, Balatonalmádi) / * 2022 November 29 10:51 aronkvh Created: &amp;quot;Bezárt: https://balatonalmadi.hu/hirek/1344-tajekoztatas-a-vorosberenyi-posta-ideiglenes-zarva-tarta&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2022-10-29T18:47:05Z / POI name: Posta / POI types: amenity-post_office / #organicmaps / * 2022 December 20 12:28 vasony Resolved: Már 11.28-án bezártra lett állítva a többivel együtt. (disused:amenity=post_office)</title>
-        <link>https://www.openstreetmap.org/note/3460190#c7495006</link>
-        <guid>https://www.openstreetmap.org/note/3460190#c7495006</guid>
-        <pubDate>Tue, 20 Dec 2022 12:28:12 +0000</pubDate>
       </item>
   </channel>
 </rss>
