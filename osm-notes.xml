@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Zöldmál, 2nd district) / * 2022 October 21 10:50 Created: This building is 1/c Pitypang street not 1/b. The other marked with 1/c on the map is the building 1/b. / * 2022 December 26 12:45 vasony Updated: valóban,  javítani kell</title>
+        <link>https://www.openstreetmap.org/note/3407722#c7511280</link>
+        <guid>https://www.openstreetmap.org/note/3407722#c7511280</guid>
+        <pubDate>Mon, 26 Dec 2022 12:45:25 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Central Hungary, 1025, Hungary) / * 2022 June 22 14:06 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: There&amp;#39;s no fuel station. / https://www.openstreetmap.org/node/9347246597 / * 2022 December 26 12:36 vasony Resolved: already fixed</title>
+        <link>https://www.openstreetmap.org/note/3236193#c7511229</link>
+        <guid>https://www.openstreetmap.org/note/3236193#c7511229</guid>
+        <pubDate>Mon, 26 Dec 2022 12:36:42 +0000</pubDate>
+      </item><item>
         <title>closed note (near Central Hungary, 1085, Hungary) / * 2022 December 25 15:54 Created: ATM is található ebben a bankban / * 2022 December 26 12:04 infeeeee Resolved: Atm=yes szerepel a poi-n</title>
         <link>https://www.openstreetmap.org/note/3490783#c7511077</link>
         <guid>https://www.openstreetmap.org/note/3490783#c7511077</guid>
@@ -217,16 +227,6 @@
         <link>https://www.openstreetmap.org/note/3486470#c7499500</link>
         <guid>https://www.openstreetmap.org/note/3486470#c7499500</guid>
         <pubDate>Wed, 21 Dec 2022 22:05:12 +0000</pubDate>
-      </item><item>
-        <title>new note (near North Hungary, 3941, Hungary) / * 2022 December 21 22:05 vasony Created: Ez a Fatelep utca?</title>
-        <link>https://www.openstreetmap.org/note/3486470#c7499498</link>
-        <guid>https://www.openstreetmap.org/note/3486470#c7499498</guid>
-        <pubDate>Wed, 21 Dec 2022 22:05:00 +0000</pubDate>
-      </item><item>
-        <title>new note (near Central Hungary, 2624, Hungary) / * 2022 December 21 22:03 vasony Created: Ez a Törökpatak üdülőterület vagy Török patak utca? Ha igen meddig?</title>
-        <link>https://www.openstreetmap.org/note/3486468#c7499480</link>
-        <guid>https://www.openstreetmap.org/note/3486468#c7499480</guid>
-        <pubDate>Wed, 21 Dec 2022 22:03:16 +0000</pubDate>
       </item>
   </channel>
 </rss>
