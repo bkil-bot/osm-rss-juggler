@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Central Transdanubia, 8060, Hungary) / * 2022 December 28 07:59 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: This is closed now, not a geodetic survey tower anymore, it is used as to hold some GSM (?) antenna. / https://www.openstreetmap.org/way/320313872</title>
+        <link>https://www.openstreetmap.org/note/3494768#c7517253</link>
+        <guid>https://www.openstreetmap.org/note/3494768#c7517253</guid>
+        <pubDate>Wed, 28 Dec 2022 07:59:35 +0000</pubDate>
+      </item><item>
         <title>closed note (near Western Transdanubia, 9245, Hungary) / * 2022 November 26 08:23 kogutowicz-mano Created: Ezen a környéken (is) a föld alá kerülnek a légvezetékek. / https://telex.hu/belfold/2022/11/25/foldbe-temetett-veszely-aramutestol-vedik-a-tuzokot / * 2022 December 27 18:29 kogutowicz-mano Resolved: Egy E.ON reklámfilm alapján nagyjából behatároltam a föld alá dugott vezetékeket.</title>
         <link>https://www.openstreetmap.org/note/3456267#c7516074</link>
         <guid>https://www.openstreetmap.org/note/3456267#c7516074</guid>
@@ -282,11 +287,6 @@
         <link>https://www.openstreetmap.org/note/3489414#c7506002</link>
         <guid>https://www.openstreetmap.org/note/3489414#c7506002</guid>
         <pubDate>Sat, 24 Dec 2022 10:38:06 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 2114, Hungary) / * 2022 December 23 18:28 bkil Resolved: Fent van</title>
-        <link>https://www.openstreetmap.org/note/3488494#c7504746</link>
-        <guid>https://www.openstreetmap.org/note/3488494#c7504746</guid>
-        <pubDate>Fri, 23 Dec 2022 18:28:01 +0000</pubDate>
       </item>
   </channel>
 </rss>
