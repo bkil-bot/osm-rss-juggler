@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Vörösberény, Balatonalmádi) / * 2022 December 29 17:58 vasony Created: 46 vagy 48?</title>
+        <link>https://www.openstreetmap.org/note/3496916#c7521994</link>
+        <guid>https://www.openstreetmap.org/note/3496916#c7521994</guid>
+        <pubDate>Thu, 29 Dec 2022 17:58:53 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Vörösberény, Balatonalmádi) / * 2022 December 29 17:26 vasony Resolved: jav</title>
+        <link>https://www.openstreetmap.org/note/3496467#c7521898</link>
+        <guid>https://www.openstreetmap.org/note/3496467#c7521898</guid>
+        <pubDate>Thu, 29 Dec 2022 17:26:34 +0000</pubDate>
+      </item><item>
         <title>new note (near Central Hungary, 1125, Hungary) / * 2022 December 29 15:02 Kovács Zsófi Created: Unable to answer &amp;quot;Do these steps have a handrail?&amp;quot; for https://osm.org/way/1125641668 via StreetComplete 50.0: / Ezen a szakaszon nincs lépcső. Út vezet fel garázsokhoz.</title>
         <link>https://www.openstreetmap.org/note/3496592#c7521382</link>
         <guid>https://www.openstreetmap.org/note/3496592#c7521382</guid>
@@ -182,26 +192,6 @@
         <link>https://www.openstreetmap.org/note/3490511#c7514374</link>
         <guid>https://www.openstreetmap.org/note/3490511#c7514374</guid>
         <pubDate>Tue, 27 Dec 2022 09:48:28 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 1085, Hungary) / * 2022 December 25 15:51 Created: Ez mi? ATM az út közepén? Mindenesetre nem találtuk. / * 2022 December 26 22:28 vasony Resolved: mert az import poziciója pontatlan</title>
-        <link>https://www.openstreetmap.org/note/3490778#c7513610</link>
-        <guid>https://www.openstreetmap.org/note/3490778#c7513610</guid>
-        <pubDate>Mon, 26 Dec 2022 22:28:22 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Central Hungary, 1095, Hungary) / * 2022 December 26 22:23 vasony Updated: szerintem nyugodtan visszaálílthatod ezeket név nélkülire, elnézve a szerkesztés történetet. +noname=yes és akkor a StreetComplete nem fog kényszeresen rákérdezni</title>
-        <link>https://www.openstreetmap.org/note/3492433#c7513596</link>
-        <guid>https://www.openstreetmap.org/note/3492433#c7513596</guid>
-        <pubDate>Mon, 26 Dec 2022 22:23:16 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Transdanubia, 8254, Hungary) / * 2022 December 26 20:57 bkil Resolved: Köszönjük, felvettem https://www.openstreetmap.org/changeset/130530646#map=19/46.85089/17.60495</title>
-        <link>https://www.openstreetmap.org/note/3491408#c7513211</link>
-        <guid>https://www.openstreetmap.org/note/3491408#c7513211</guid>
-        <pubDate>Mon, 26 Dec 2022 20:57:24 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 1025, Hungary) / * 2022 December 26 20:06 vasony Resolved: javítva</title>
-        <link>https://www.openstreetmap.org/note/3407722#c7512985</link>
-        <guid>https://www.openstreetmap.org/note/3407722#c7512985</guid>
-        <pubDate>Mon, 26 Dec 2022 20:06:53 +0000</pubDate>
       </item>
   </channel>
 </rss>
