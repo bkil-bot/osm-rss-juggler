@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Almádi, Balatonalmádi) / * 2022 December 27 15:25 vasony Created: ez itt a Harkály utca folytatása? / * 2022 December 30 13:29 vasony Updated: igen</title>
+        <link>https://www.openstreetmap.org/note/3493915#c7524290</link>
+        <guid>https://www.openstreetmap.org/note/3493915#c7524290</guid>
+        <pubDate>Fri, 30 Dec 2022 13:29:51 +0000</pubDate>
+      </item><item>
         <title>closed note (near South Great Plain, 6726, Hungary) / * 2022 December 25 12:10 Stuart Ward Created: lab 59 / * 2022 December 27 09:48 gabro00 Updated: Could you please provide more information about the feature? / * 2022 December 27 16:47 Stuart Ward Updated: This building in not mapped, has a label LAB59 I think it is associated with the University / * 2022 December 27 16:59 gabro00 Updated: Hm, after a quick search it turns out it&amp;#39;s 100% private, not associated with the university. / Sources: / https://angelikamihalik.substack.com/p/szeged-a-biolaborok-fellegvara / https://stemcellx.com/about-us/ / According to the last link, it&amp;#39;s a &amp;quot;GMP Manufacturing Facility&amp;quot;. / * 2022 December 30 13:04 gabro00 Resolved: Added https://www.openstreetmap.org/changeset/130686178 / (Btw it&amp;#39;s LAB 58 - typo ;)</title>
         <link>https://www.openstreetmap.org/note/3490511#c7524216</link>
         <guid>https://www.openstreetmap.org/note/3490511#c7524216</guid>
@@ -177,11 +182,6 @@
         <link>https://www.openstreetmap.org/note/3429639#c7514698</link>
         <guid>https://www.openstreetmap.org/note/3429639#c7514698</guid>
         <pubDate>Tue, 27 Dec 2022 11:42:22 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Almádi, Balatonalmádi) / * 2022 November 7 20:17 vasony Created: ezeket a házszámokat mégegyszer fel kell mérni, mert nem stimmel a tervhez / * 2022 December 27 11:35 vasony Updated: 63 helyén 59</title>
-        <link>https://www.openstreetmap.org/note/3432395#c7514678</link>
-        <guid>https://www.openstreetmap.org/note/3432395#c7514678</guid>
-        <pubDate>Tue, 27 Dec 2022 11:35:06 +0000</pubDate>
       </item>
   </channel>
 </rss>
