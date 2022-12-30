@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near South Great Plain, 6726, Hungary) / * 2022 December 25 12:10 Stuart Ward Created: lab 59 / * 2022 December 27 09:48 gabro00 Updated: Could you please provide more information about the feature? / * 2022 December 27 16:47 Stuart Ward Updated: This building in not mapped, has a label LAB59 I think it is associated with the University / * 2022 December 27 16:59 gabro00 Updated: Hm, after a quick search it turns out it&amp;#39;s 100% private, not associated with the university. / Sources: / https://angelikamihalik.substack.com/p/szeged-a-biolaborok-fellegvara / https://stemcellx.com/about-us/ / According to the last link, it&amp;#39;s a &amp;quot;GMP Manufacturing Facility&amp;quot;. / * 2022 December 30 13:04 gabro00 Resolved: Added https://www.openstreetmap.org/changeset/130686178 / (Btw it&amp;#39;s LAB 58 - typo ;)</title>
+        <link>https://www.openstreetmap.org/note/3490511#c7524216</link>
+        <guid>https://www.openstreetmap.org/note/3490511#c7524216</guid>
+        <pubDate>Fri, 30 Dec 2022 13:04:25 +0000</pubDate>
+      </item><item>
         <title>closed note (near Vörösberény, Balatonalmádi) / * 2022 December 29 19:33 vasony Resolved: jav</title>
         <link>https://www.openstreetmap.org/note/3496348#c7522244</link>
         <guid>https://www.openstreetmap.org/note/3496348#c7522244</guid>
@@ -177,21 +182,6 @@
         <link>https://www.openstreetmap.org/note/3432395#c7514678</link>
         <guid>https://www.openstreetmap.org/note/3432395#c7514678</guid>
         <pubDate>Tue, 27 Dec 2022 11:35:06 +0000</pubDate>
-      </item><item>
-        <title>new comment (near South Great Plain, 6723, Hungary) / * 2022 May 5 14:05 CopperOppositeKindred Created: Unable to answer &amp;quot;Are these opening hours still correct?&amp;quot; for https://osm.org/node/5890528192 via StreetComplete 42.0: / Üzlethelyiség / Attached photo(s): / https://westnordost.de/p/92071.jpg / * 2022 May 10 19:12 gabro00 Updated: Valami spirituális bolt lenne ez? Nem derül ki számomra a képről. / * 2022 May 16 19:37 gabro00 Updated: Ez jó lesz https://wiki.openstreetmap.org/wiki/Tag:shop%3Desoteric / A kérdés csak az, hogy a húsbolt helyén létesült ez a bolt? / * 2022 May 26 23:07 CopperOppositeKindred Updated: A húsbolt helyén van, igen. / Kérdeztem egy helyi ismerőst, nem találom most hova írtam fel mit mondott, de nem vagyok benne biztos hogy ezoterikus, illetve szerintem ez inkább egy kisebb rendezvény hely. / Az ajtón levő papír alapján ezt az oldalt találtam, összefüggésben lehet vele, valami olyasmire emlékszem hogy mit mondott az ismerősöm mint amikről az oldal is ír: https://budalaszlo.hu/ / * 2022 May 29 16:14 gabro00 Updated: Na ez alapján én nem tudom eldönteni mi ez, egészségügyi/életvezetési tanácsadás? / * 2022 May 31 19:26 CopperOppositeKindred Updated: Egyelőre maradjunk annyiban hogy ha arra járok készítek több képet az ajtón levő papírokról, és azokkal kitaláljuk. / * 2022 December 27 10:01 gabro00 Updated: Nyitva van még az üzlethelyiség?</title>
-        <link>https://www.openstreetmap.org/note/3166479#c7514414</link>
-        <guid>https://www.openstreetmap.org/note/3166479#c7514414</guid>
-        <pubDate>Tue, 27 Dec 2022 10:01:13 +0000</pubDate>
-      </item><item>
-        <title>closed note (near South Great Plain, 6725, Hungary) / * 2022 August 13 11:18 HungarianVoyager Created: Akadály, le van zárva / * 2022 August 14 18:21 gabro00 Updated: Kérdés hogy ideiglenes (mert akkor nem foglalkozunk vele) vagy hosszabb távú lezárás? / * 2022 August 14 18:31 HungarianVoyager Updated: Kerítés, le van láncolva, szerintem hosszútávú. / * 2022 December 27 09:59 gabro00 Resolved: Jártam arra, láttam a kaput, felvettem a javítást. / https://www.openstreetmap.org/changeset/130548477</title>
-        <link>https://www.openstreetmap.org/note/3312283#c7514411</link>
-        <guid>https://www.openstreetmap.org/note/3312283#c7514411</guid>
-        <pubDate>Tue, 27 Dec 2022 09:59:36 +0000</pubDate>
-      </item><item>
-        <title>closed note (near South Great Plain, 6723, Hungary) / * 2022 December 22 11:44 Stuart Ward Created: 51 / * 2022 December 27 09:49 gabro00 Resolved: https://www.openstreetmap.org/changeset/130548117</title>
-        <link>https://www.openstreetmap.org/note/3487102#c7514379</link>
-        <guid>https://www.openstreetmap.org/note/3487102#c7514379</guid>
-        <pubDate>Tue, 27 Dec 2022 09:49:46 +0000</pubDate>
       </item>
   </channel>
 </rss>
