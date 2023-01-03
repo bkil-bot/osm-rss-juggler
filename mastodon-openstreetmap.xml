@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>The blog post about the new communities tab on http://OSM.org is in many respects a story about volunteering for OSM. Check it out--and then maybe head on over to this link and review some pull requests! https://github.com/openstreetmap/openstreetmap-website/issues/3815</title>
+        <link>https://en.osm.town/@openstreetmap/109624234723706227</link>
+        <guid>https://en.osm.town/@openstreetmap/109624234723706227</guid>
+        <pubDate>Tue, 03 Jan 2023 08:04:33 +0000</pubDate>
+      </item><item>
         <title>And what is the new #OSM &amp;quot;Communities page&amp;quot; you might ask? Read all about it at the link. (With thanks to @joostjakob@twitter.com @gravitystorm@twitter.com and Adam Hoyle) https://blog.openstreetmap.org/2022/12/30/introducing-the-communities-tab-on-osm-org/</title>
         <link>https://en.osm.town/@openstreetmap/109615630356261680</link>
         <guid>https://en.osm.town/@openstreetmap/109615630356261680</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/109426543395565212</link>
         <guid>https://en.osm.town/@openstreetmap/109426543395565212</guid>
         <pubDate>Tue, 29 Nov 2022 10:09:03 +0000</pubDate>
-      </item><item>
-        <title>To learn more about the candidates for the OSMF board and their positions, visit this page: https://wiki.openstreetmap.org/wiki/Foundation/AGM2022/Election_to_Board#Answers_to_official_questions_and_manifesto</title>
-        <link>https://en.osm.town/@openstreetmap/109426543118119290</link>
-        <guid>https://en.osm.town/@openstreetmap/109426543118119290</guid>
-        <pubDate>Tue, 29 Nov 2022 10:08:59 +0000</pubDate>
       </item>
   </channel>
 </rss>
