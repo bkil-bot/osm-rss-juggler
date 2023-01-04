@@ -3,6 +3,11 @@
   <channel>
     <title>WiGLE Frontpage (via bkil-bot)</title>
       <item>
+        <title>Re: On _nomap and _optout: obscurity isn't security, encrypt all the things. And how we do that? for websites, we can buy ssl for encryption. for instance, take a look at the https://nullsclash.net/ and http://www.windowsphone.com/en-us/how-t ... i-fi-sense first link has http while the other one has https....one withtout encrytion and other with encryption. What do we do for encryption on the mobile or pc when sharing things over network? -Rupi-Vi</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11397#p11397</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11397#p11397</guid>
+        <pubDate>2023-01-04T18:20:16</pubDate>
+      </item><item>
         <title>Re: Sex Toy Security and WiGLE popularity: arkasha wrote: &amp;gt; thank you - there should be one if you're logged in I just checked, and you have it enabled in all other forums, but not in this one, the WiGLE Frontpage. Posts here lack a `Report` button for me. -kurz</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11370#p11370</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11370#p11370</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11293#p11293</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11293#p11293</guid>
         <pubDate>2022-07-29T21:51:17</pubDate>
-      </item><item>
-        <title>Re: Pixel update RQ3A.210905.001 breaks GPS: This is a great note - we've gotten a lot of questions from Xiaomi users, but don't have any test devices to figure this out on. Thanks! -arkasha</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11292#p11292</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11292#p11292</guid>
-        <pubDate>2022-07-25T16:27:16</pubDate>
       </item>
   </channel>
 </rss>

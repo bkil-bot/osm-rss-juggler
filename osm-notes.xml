@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Almádi, Balatonalmádi) / * 2022 December 27 15:25 vasony Created: ez itt a Harkály utca folytatása? / * 2022 December 30 13:29 vasony Updated: igen / * 2023 January 4 17:46 vasony Resolved: javítva</title>
+        <link>https://www.openstreetmap.org/note/3493915#c7540060</link>
+        <guid>https://www.openstreetmap.org/note/3493915#c7540060</guid>
+        <pubDate>Wed, 04 Jan 2023 17:46:34 +0000</pubDate>
+      </item><item>
         <title>closed note (near Southern Transdanubia, 7634, Hungary) / * 2022 July 27 17:52 Created: Fressnapf üzlet / * 2023 January 4 16:29 Spush Resolved: Megoldva: / changeset/130873937</title>
         <link>https://www.openstreetmap.org/note/3286253#c7539854</link>
         <guid>https://www.openstreetmap.org/note/3286253#c7539854</guid>
@@ -167,11 +172,6 @@
         <link>https://www.openstreetmap.org/note/2943256#c7531606</link>
         <guid>https://www.openstreetmap.org/note/2943256#c7531606</guid>
         <pubDate>Sun, 01 Jan 2023 23:30:58 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 1121, Hungary) / * 2022 May 17 03:45 tuxti Created: Geschlossen, closed / * 2022 May 17 19:15 infeeeee Updated: Closed for maintenance until 2022-06-03 according to official website: https://www.bkv.hu/hu/zugligeti_libego/zugligeti_libego / * 2023 January 1 23:28 infeeeee Resolved: According to official website, it&amp;#39;s open now</title>
-        <link>https://www.openstreetmap.org/note/3182568#c7531604</link>
-        <guid>https://www.openstreetmap.org/note/3182568#c7531604</guid>
-        <pubDate>Sun, 01 Jan 2023 23:28:39 +0000</pubDate>
       </item>
   </channel>
 </rss>
