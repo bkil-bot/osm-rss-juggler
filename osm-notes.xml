@@ -3,6 +3,36 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Central Hungary, 1028, Hungary) / * 2021 May 31 11:22 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: 	This parking lot does not exist anymore, it is closed. / https://www.openstreetmap.org/way/263993447 / * 2023 January 4 23:11 infeeeee Resolved: It&amp;#39;s already set as disused</title>
+        <link>https://www.openstreetmap.org/note/2692851#c7540824</link>
+        <guid>https://www.openstreetmap.org/note/2692851#c7540824</guid>
+        <pubDate>Wed, 04 Jan 2023 23:11:23 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Central Hungary, 2083, Hungary) / * 2020 June 4 11:42 Pan Perníček Created: #Mapy.cz user reports: The path is in this location. / * 2023 January 4 23:01 infeeeee Resolved: Path location looks ok, according to Strava</title>
+        <link>https://www.openstreetmap.org/note/2217689#c7540813</link>
+        <guid>https://www.openstreetmap.org/note/2217689#c7540813</guid>
+        <pubDate>Wed, 04 Jan 2023 23:01:09 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Central Hungary, 2094, Hungary) / * 2022 April 27 18:15 Created: Ezen a részen több ösvény található / * 2023 January 4 22:59 infeeeee Resolved: Amit láttam Straván berajzoltam: https://www.openstreetmap.org/changeset/130885492</title>
+        <link>https://www.openstreetmap.org/note/3154927#c7540809</link>
+        <guid>https://www.openstreetmap.org/note/3154927#c7540809</guid>
+        <pubDate>Wed, 04 Jan 2023 22:59:52 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Central Hungary, 2330, Hungary) / * 2022 June 4 06:36 Created: A bánya évek óta megszűnt, a terület szabadon átjárható (egyenesen, nem kell bele az nagy kanyar). Google maps satellite mérten jól látszik a jelenlegi állapot / * 2023 January 4 22:44 infeeeee Resolved: Nincs bányának jelölve a terület, szerintem a jelenlegi állapot Bing alapján megfelelő. Google-t sajnos nem használhatunk forrásként.</title>
+        <link>https://www.openstreetmap.org/note/3208964#c7540784</link>
+        <guid>https://www.openstreetmap.org/note/3208964#c7540784</guid>
+        <pubDate>Wed, 04 Jan 2023 22:44:47 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Central Hungary, 1171, Hungary) / * 2021 February 11 16:45 Created: Van itt egy lehajtó az útról ami nem szerepel a térképen. / * 2023 January 4 22:37 infeeeee Resolved: Szerintem ez a jegyzet erről az útról szól, ami azóta felkerült: / https://www.openstreetmap.org/way/1060252995</title>
+        <link>https://www.openstreetmap.org/note/2534618#c7540768</link>
+        <guid>https://www.openstreetmap.org/note/2534618#c7540768</guid>
+        <pubDate>Wed, 04 Jan 2023 22:37:05 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Central Hungary, 2141, Hungary) / * 2022 December 16 18:01 osmoid Created: Elkészült a körforgalom, és át is adták! / Valaki rajzolja fel légyszi, aki meg tudja csinálni :) / Köszi! / * 2022 December 17 15:54 osmoid Updated: Felrajzoltam, de első próba, valaki nézzen rá, légyszi! / * 2023 January 4 22:33 infeeeee Resolved: Majdnem tökéletes lett lett! / Ami nem sikerült: a ref=* címkét a körre is rá kell rakni, de a keresztutcára nem, illetve ugyanolyan szintűnek kell lennie a körnek, mint a rajta átmenő legfontosabb útnak.</title>
+        <link>https://www.openstreetmap.org/note/3480172#c7540760</link>
+        <guid>https://www.openstreetmap.org/note/3480172#c7540760</guid>
+        <pubDate>Wed, 04 Jan 2023 22:33:14 +0000</pubDate>
+      </item><item>
         <title>closed note (near Central Hungary, 2141, Hungary) / * 2022 August 6 11:38 utvonalfelmeresek Created: 70 / * 2023 January 4 22:01 infeeeee Resolved: Ez már rajta van a házon szerintem, úgy tűnik zárható a jegyzet. https://www.openstreetmap.org/way/688193430</title>
         <link>https://www.openstreetmap.org/note/3301895#c7540712</link>
         <guid>https://www.openstreetmap.org/note/3301895#c7540712</guid>
@@ -157,21 +187,6 @@
         <link>https://www.openstreetmap.org/note/3478689#c7531985</link>
         <guid>https://www.openstreetmap.org/note/3478689#c7531985</guid>
         <pubDate>Mon, 02 Jan 2023 05:12:49 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 1095, Hungary) / * 2022 February 12 11:46 Created: This old southern railway bridge / does not exist anymore. / A new bridge will be built in year 2022. / * 2023 January 2 05:12 kogutowicz-mano Resolved: Bridges are finished</title>
-        <link>https://www.openstreetmap.org/note/3048352#c7531984</link>
-        <guid>https://www.openstreetmap.org/note/3048352#c7531984</guid>
-        <pubDate>Mon, 02 Jan 2023 05:12:26 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Central Hungary, 1101, Hungary) / * 2022 December 23 13:28 pihentagy Created: Unable to answer &amp;quot;What kind of crossing is this?&amp;quot; for https://osm.org/node/9861839166 via StreetComplete 50.0: / Itt nincs átkelő. Egy kijárat van csak / * 2023 January 2 00:03 infeeeee Updated: A kérdés a kocsibehajtó és a Hungária körút járdájának a kereszteződésére vonatkozik. Ha nincs semmilyen jelölt átkelési lehetőség, akkor a kérdésre az &amp;quot;Útburkolati jel nélküli&amp;quot; választ kell adni. / Két vonal találkozik, és SC csak megkérdezi, hogy mi történik a gyalogút (járda) és az autóút (egyetemen belül szervízút) között.</title>
-        <link>https://www.openstreetmap.org/note/3488398#c7531675</link>
-        <guid>https://www.openstreetmap.org/note/3488398#c7531675</guid>
-        <pubDate>Mon, 02 Jan 2023 00:03:21 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Transdanubia, 8082, Hungary) / * 2022 April 1 17:24 Created: Repülős emlékmű / * 2023 January 1 23:47 infeeeee Resolved: Szerepel a térképen</title>
-        <link>https://www.openstreetmap.org/note/3115638#c7531651</link>
-        <guid>https://www.openstreetmap.org/note/3115638#c7531651</guid>
-        <pubDate>Sun, 01 Jan 2023 23:47:03 +0000</pubDate>
       </item>
   </channel>
 </rss>
