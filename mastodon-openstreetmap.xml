@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>Feel strongly about the OSM data model? Read and contribute to the OSM community discussion here: https://github.com/osmlab/osm-data-model/discussions/9</title>
+        <link>https://en.osm.town/@openstreetmap/109635874658658489</link>
+        <guid>https://en.osm.town/@openstreetmap/109635874658658489</guid>
+        <pubDate>Thu, 05 Jan 2023 09:24:45 +0000</pubDate>
+      </item><item>
         <title>Call for feedback! The Engineering Working Group needs your feedback on the proposal to change the data model: You can read the latest update on http://OSM.org from Jochen Topf https://blog.openstreetmap.org/?p=176655718</title>
         <link>https://en.osm.town/@openstreetmap/109630208819558145</link>
         <guid>https://en.osm.town/@openstreetmap/109630208819558145</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/109435063065926551</link>
         <guid>https://en.osm.town/@openstreetmap/109435063065926551</guid>
         <pubDate>Wed, 30 Nov 2022 22:15:43 +0000</pubDate>
-      </item><item>
-        <title>There are SO MANY #OSM events - have you noticed this? You can add yours to the OSM calendar--which, amongst other things means it will appear in the weeklyOSM newsletter https://osmcal.org/</title>
-        <link>https://en.osm.town/@openstreetmap/109435062773693876</link>
-        <guid>https://en.osm.town/@openstreetmap/109435062773693876</guid>
-        <pubDate>Wed, 30 Nov 2022 22:15:38 +0000</pubDate>
       </item>
   </channel>
 </rss>
