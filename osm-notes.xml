@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Central Hungary, 1024, Hungary) / * 2023 January 5 19:15 infeeeee Resolved: Törölve https://www.openstreetmap.org/changeset/130920535</title>
+        <link>https://www.openstreetmap.org/note/3505396#c7543441</link>
+        <guid>https://www.openstreetmap.org/note/3505396#c7543441</guid>
+        <pubDate>Thu, 05 Jan 2023 19:15:57 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Central Hungary, 1027, Hungary) / * 2023 January 5 19:15 infeeeee Resolved: Javítva https://www.openstreetmap.org/changeset/130920535</title>
+        <link>https://www.openstreetmap.org/note/3505393#c7543440</link>
+        <guid>https://www.openstreetmap.org/note/3505393#c7543440</guid>
+        <pubDate>Thu, 05 Jan 2023 19:15:44 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Central Hungary, 1121, Hungary) / * 2023 January 5 19:15 infeeeee Resolved: Hozzáadtam noname=yes-t, így többet nem fogja kérdezni ezt: https://www.openstreetmap.org/changeset/130920535</title>
+        <link>https://www.openstreetmap.org/note/3505450#c7543439</link>
+        <guid>https://www.openstreetmap.org/note/3505450#c7543439</guid>
+        <pubDate>Thu, 05 Jan 2023 19:15:25 +0000</pubDate>
+      </item><item>
         <title>new note (near Central Hungary, 1101, Hungary) / * 2023 January 5 16:45 Spush Created: Wiki szerint nem jó a man_made=observatory, amenity=planetarium taget javasol. Bár mihelyt zárva van a létesítmény lehet disused is kellene rá.</title>
         <link>https://www.openstreetmap.org/note/3505924#c7542995</link>
         <guid>https://www.openstreetmap.org/note/3505924#c7542995</guid>
@@ -222,21 +237,6 @@
         <link>https://www.openstreetmap.org/note/3502424#c7535213</link>
         <guid>https://www.openstreetmap.org/note/3502424#c7535213</guid>
         <pubDate>Tue, 03 Jan 2023 08:13:56 +0000</pubDate>
-      </item><item>
-        <title>new note (near GLS logisztikai központ, Alsónémedi) / * 2023 January 2 18:17 Created: Harap6</title>
-        <link>https://www.openstreetmap.org/note/3501900#c7533823</link>
-        <guid>https://www.openstreetmap.org/note/3501900#c7533823</guid>
-        <pubDate>Mon, 02 Jan 2023 18:17:54 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Southern Transdanubia, 7912, Hungary) / * 2023 January 2 16:53 andras9700 Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3501804#c7533559</link>
-        <guid>https://www.openstreetmap.org/note/3501804#c7533559</guid>
-        <pubDate>Mon, 02 Jan 2023 16:53:08 +0000</pubDate>
-      </item><item>
-        <title>new note (near Southern Transdanubia, 7912, Hungary) / * 2023 January 2 16:49 andras9700 Created: Home</title>
-        <link>https://www.openstreetmap.org/note/3501804#c7533543</link>
-        <guid>https://www.openstreetmap.org/note/3501804#c7533543</guid>
-        <pubDate>Mon, 02 Jan 2023 16:49:07 +0000</pubDate>
       </item>
   </channel>
 </rss>
