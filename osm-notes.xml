@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Central Hungary, 1146, Hungary) / * 2023 January 7 12:58 Created: A hídon a súlykorlátozás csak tehergépjárművekre vonatkozik. maxweight=3.5 helyett maxweightrating:hgv=3.5 tag javasolt így a buszokat a navigáció átengedné.</title>
+        <link>https://www.openstreetmap.org/note/3508230#c7547976</link>
+        <guid>https://www.openstreetmap.org/note/3508230#c7547976</guid>
+        <pubDate>Sat, 07 Jan 2023 12:58:27 +0000</pubDate>
+      </item><item>
         <title>new note (near Central Transdanubia, 2484, Hungary) / * 2023 January 7 08:09 vasony Created: Vasút sor vagy Vasút utca?</title>
         <link>https://www.openstreetmap.org/note/3507887#c7547135</link>
         <guid>https://www.openstreetmap.org/note/3507887#c7547135</guid>
@@ -257,16 +262,6 @@
         <link>https://www.openstreetmap.org/note/3436247#c7538108</link>
         <guid>https://www.openstreetmap.org/note/3436247#c7538108</guid>
         <pubDate>Wed, 04 Jan 2023 02:49:13 +0000</pubDate>
-      </item><item>
-        <title>new note (near Central Hungary, 2021, Hungary) / * 2023 January 3 14:43 vasony Created: Ez nem a Klapka utca része?</title>
-        <link>https://www.openstreetmap.org/note/3502992#c7536339</link>
-        <guid>https://www.openstreetmap.org/note/3502992#c7536339</guid>
-        <pubDate>Tue, 03 Jan 2023 14:43:29 +0000</pubDate>
-      </item><item>
-        <title>new note (near Central Hungary, 1173, Hungary) / * 2023 January 3 14:23 vasony Created: Ez a Bóbis Gyula tér?</title>
-        <link>https://www.openstreetmap.org/note/3502967#c7536293</link>
-        <guid>https://www.openstreetmap.org/note/3502967#c7536293</guid>
-        <pubDate>Tue, 03 Jan 2023 14:23:36 +0000</pubDate>
       </item>
   </channel>
 </rss>
