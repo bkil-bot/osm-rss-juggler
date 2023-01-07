@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Central Transdanubia, 8225, Hungary) / * 2023 January 7 21:18 vasony Created: Valahol itt kéne lenni egy póznának</title>
+        <link>https://www.openstreetmap.org/note/3508973#c7549408</link>
+        <guid>https://www.openstreetmap.org/note/3508973#c7549408</guid>
+        <pubDate>Sat, 07 Jan 2023 21:18:28 +0000</pubDate>
+      </item><item>
+        <title>new note (near Western Transdanubia, 9142, Hungary) / * 2023 January 7 21:04 efi99 Created: cím?</title>
+        <link>https://www.openstreetmap.org/note/3508967#c7549379</link>
+        <guid>https://www.openstreetmap.org/note/3508967#c7549379</guid>
+        <pubDate>Sat, 07 Jan 2023 21:04:41 +0000</pubDate>
+      </item><item>
+        <title>new note (near Rábai gátőrház, Rábapatona) / * 2023 January 7 20:51 efi99 Created: cím?</title>
+        <link>https://www.openstreetmap.org/note/3508954#c7549353</link>
+        <guid>https://www.openstreetmap.org/note/3508954#c7549353</guid>
+        <pubDate>Sat, 07 Jan 2023 20:51:54 +0000</pubDate>
+      </item><item>
         <title>closed note (near Western Transdanubia, 9026, Hungary) / * 2022 March 21 08:25 vasony-qa Created: Báthori utca vagy Báthori út szerepel az utcatáblán? / * 2022 July 27 22:39 balint36 Resolved: Az utca neve Báthori utca, a 11-es busz megállóját is így írják. / * 2022 July 28 04:15 vasony Reactivated:  / * 2022 July 28 04:16 vasony Updated: A márciusi utcakép alapján nem úgy tűnik, ezért kérdeztem, hogy mi szerepel a táblán. / * 2022 July 28 09:50 balint36 Updated: Vegyesen Bárthory és Bátory utca, de számos nyilvántartásban Báthori. / * 2023 January 7 18:53 balint36 Resolved: </title>
         <link>https://www.openstreetmap.org/note/3096177#c7549029</link>
         <guid>https://www.openstreetmap.org/note/3096177#c7549029</guid>
@@ -292,21 +307,6 @@
         <link>https://www.openstreetmap.org/note/2534618#c7540768</link>
         <guid>https://www.openstreetmap.org/note/2534618#c7540768</guid>
         <pubDate>Wed, 04 Jan 2023 22:37:05 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 2141, Hungary) / * 2022 December 16 18:01 osmoid Created: Elkészült a körforgalom, és át is adták! / Valaki rajzolja fel légyszi, aki meg tudja csinálni :) / Köszi! / * 2022 December 17 15:54 osmoid Updated: Felrajzoltam, de első próba, valaki nézzen rá, légyszi! / * 2023 January 4 22:33 infeeeee Resolved: Majdnem tökéletes lett lett! / Ami nem sikerült: a ref=* címkét a körre is rá kell rakni, de a keresztutcára nem, illetve ugyanolyan szintűnek kell lennie a körnek, mint a rajta átmenő legfontosabb útnak.</title>
-        <link>https://www.openstreetmap.org/note/3480172#c7540760</link>
-        <guid>https://www.openstreetmap.org/note/3480172#c7540760</guid>
-        <pubDate>Wed, 04 Jan 2023 22:33:14 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 2141, Hungary) / * 2022 August 6 11:38 utvonalfelmeresek Created: 70 / * 2023 January 4 22:01 infeeeee Resolved: Ez már rajta van a házon szerintem, úgy tűnik zárható a jegyzet. https://www.openstreetmap.org/way/688193430</title>
-        <link>https://www.openstreetmap.org/note/3301895#c7540712</link>
-        <guid>https://www.openstreetmap.org/note/3301895#c7540712</guid>
-        <pubDate>Wed, 04 Jan 2023 22:01:41 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 2131, Hungary) / * 2020 July 24 10:03 Created: onosm.org submitted note from a business: / name: Serczli BAR / phone: / website: serczli.hu / twitter: undefined / hours: Monday-Friday 6am-8pm, Sunday-Saturday 6:30am-2pm / category: ,Bakeries,Coffee &amp;amp; Tea,Breakfast &amp;amp; Brunch / address: Rákóczi Ferenc utca 50/c Göd / * 2023 January 4 21:57 infeeeee Resolved: Added https://www.openstreetmap.org/changeset/130884109</title>
-        <link>https://www.openstreetmap.org/note/2276986#c7540699</link>
-        <guid>https://www.openstreetmap.org/note/2276986#c7540699</guid>
-        <pubDate>Wed, 04 Jan 2023 21:57:09 +0000</pubDate>
       </item>
   </channel>
 </rss>
