@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Western Transdanubia, 9026, Hungary) / * 2022 March 21 08:25 vasony-qa Created: Báthori utca vagy Báthori út szerepel az utcatáblán? / * 2022 July 27 22:39 balint36 Resolved: Az utca neve Báthori utca, a 11-es busz megállóját is így írják. / * 2022 July 28 04:15 vasony Reactivated:  / * 2022 July 28 04:16 vasony Updated: A márciusi utcakép alapján nem úgy tűnik, ezért kérdeztem, hogy mi szerepel a táblán. / * 2022 July 28 09:50 balint36 Updated: Vegyesen Bárthory és Bátory utca, de számos nyilvántartásban Báthori. / * 2023 January 7 18:53 balint36 Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3096177#c7549029</link>
+        <guid>https://www.openstreetmap.org/note/3096177#c7549029</guid>
+        <pubDate>Sat, 07 Jan 2023 18:53:42 +0000</pubDate>
+      </item><item>
         <title>new comment (near Western Transdanubia, 9142, Hungary) / * 2023 January 7 17:52 efi99 Updated: 35-nek kellene lennie</title>
         <link>https://www.openstreetmap.org/note/3508676#c7548849</link>
         <guid>https://www.openstreetmap.org/note/3508676#c7548849</guid>
@@ -302,16 +307,6 @@
         <link>https://www.openstreetmap.org/note/2276986#c7540699</link>
         <guid>https://www.openstreetmap.org/note/2276986#c7540699</guid>
         <pubDate>Wed, 04 Jan 2023 21:57:09 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Central Hungary, 2120, Hungary) / * 2022 April 22 19:30 vasony-qa Created: Alsótabán vagy Alsótabán utca szerepel az utcatáblán? / * 2023 January 4 18:45 feket Updated: csak &amp;quot;Alsótabán&amp;quot; van a táblákon.</title>
-        <link>https://www.openstreetmap.org/note/3148050#c7540270</link>
-        <guid>https://www.openstreetmap.org/note/3148050#c7540270</guid>
-        <pubDate>Wed, 04 Jan 2023 18:45:11 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Almádi, Balatonalmádi) / * 2022 December 27 15:25 vasony Created: ez itt a Harkály utca folytatása? / * 2022 December 30 13:29 vasony Updated: igen / * 2023 January 4 17:46 vasony Resolved: javítva</title>
-        <link>https://www.openstreetmap.org/note/3493915#c7540060</link>
-        <guid>https://www.openstreetmap.org/note/3493915#c7540060</guid>
-        <pubDate>Wed, 04 Jan 2023 17:46:34 +0000</pubDate>
       </item>
   </channel>
 </rss>
