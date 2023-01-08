@@ -3,6 +3,61 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Balokány, Pécs) / * 2022 April 30 18:46 Qszi Created: The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI name: Óriáskerék Pécs / POI types: building tourism-attraction-specified / OSM data version: 2022-03-31T16:41:57Z / #mapsme / * 2023 January 8 21:17 Syl Resolved: Removed</title>
+        <link>https://www.openstreetmap.org/note/3159917#c7552874</link>
+        <guid>https://www.openstreetmap.org/note/3159917#c7552874</guid>
+        <pubDate>Sun, 08 Jan 2023 21:17:39 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Állami gazdaság, Gógánfa) / * 2022 April 22 13:18 Created: Gógánfa / * 2023 January 8 20:59 Syl Resolved: Already in the database</title>
+        <link>https://www.openstreetmap.org/note/3147516#c7552814</link>
+        <guid>https://www.openstreetmap.org/note/3147516#c7552814</guid>
+        <pubDate>Sun, 08 Jan 2023 20:59:08 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Tamástanya, Debrecen) / * 2022 April 20 17:58 AlbertMusta Created: &amp;quot;bezárt az étterem 2017-Ben.&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2022-03-14T07:52:33Z / POI name: Kiss-Erdő csárda / POI types: amenity-restaurant / #organicmaps / * 2023 January 8 20:57 Syl Resolved: Already fixed</title>
+        <link>https://www.openstreetmap.org/note/3145070#c7552806</link>
+        <guid>https://www.openstreetmap.org/note/3145070#c7552806</guid>
+        <pubDate>Sun, 08 Jan 2023 20:57:09 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Central Transdanubia, 2500, Hungary) / * 2022 March 17 10:01 Matyjace Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot; Permanently closed&amp;quot; / * 2023 January 8 20:46 Syl Resolved: There is nothing here in the database.</title>
+        <link>https://www.openstreetmap.org/note/3091520#c7552767</link>
+        <guid>https://www.openstreetmap.org/note/3091520#c7552767</guid>
+        <pubDate>Sun, 08 Jan 2023 20:46:12 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Central Hungary, 1132, Hungary) / * 2022 October 15 11:00 pihentagy Created: Unable to answer &amp;quot;What are the opening hours here?&amp;quot; for https://osm.org/node/4965536722 via StreetComplete 47.1: / Bezárt. Nincs kiírva semmi. / * 2023 January 8 20:46 infeeeee Updated: Ez egy egyesület irodája egy irodaházban, hivatalos honlapjuk szerint még itt vannak: https://www.ifrc.org/who-we-are/people-and-structures/global-leadership-team/regional-director-europe</title>
+        <link>https://www.openstreetmap.org/note/3400055#c7552765</link>
+        <guid>https://www.openstreetmap.org/note/3400055#c7552765</guid>
+        <pubDate>Sun, 08 Jan 2023 20:46:03 +0000</pubDate>
+      </item><item>
+        <title>closed note (near North Hungary, 3893, Hungary) / * 2022 March 4 14:46 Kaaliyuga Created: road continuous / * 2023 January 8 20:44 Syl Resolved: Already fixed</title>
+        <link>https://www.openstreetmap.org/note/3073957#c7552759</link>
+        <guid>https://www.openstreetmap.org/note/3073957#c7552759</guid>
+        <pubDate>Sun, 08 Jan 2023 20:44:30 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Central Transdanubia, 2500, Hungary) / * 2021 December 28 17:35 100katona Created: Start / * 2023 January 8 20:41 Syl Resolved: Note without information</title>
+        <link>https://www.openstreetmap.org/note/2986315#c7552745</link>
+        <guid>https://www.openstreetmap.org/note/2986315#c7552745</guid>
+        <pubDate>Sun, 08 Jan 2023 20:41:04 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Angyalföld, 13th district) / * 2022 November 11 09:24 pihentagy Created: Unable to answer &amp;quot;Is there a bench at this stop?&amp;quot; for https://osm.org/way/425280729 via StreetComplete 48.0: / Ez villamosmegálló, nem busz / * 2023 January 8 20:39 infeeeee Resolved: Javítva: https://www.openstreetmap.org/changeset/131030088</title>
+        <link>https://www.openstreetmap.org/note/3437116#c7552739</link>
+        <guid>https://www.openstreetmap.org/note/3437116#c7552739</guid>
+        <pubDate>Sun, 08 Jan 2023 20:39:12 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Central Hungary, 1062, Hungary) / * 2022 November 23 19:28 pihentagy Created: Unable to answer &amp;quot;Is there a shelter at this stop?&amp;quot; for https://osm.org/way/423854470 via StreetComplete 49.2: / Ez fura alakú peron. Ez a 26-os busz peronja akar lenni? / * 2023 January 8 20:38 infeeeee Resolved: Javítva: https://www.openstreetmap.org/changeset/131030088</title>
+        <link>https://www.openstreetmap.org/note/3453282#c7552738</link>
+        <guid>https://www.openstreetmap.org/note/3453282#c7552738</guid>
+        <pubDate>Sun, 08 Jan 2023 20:38:59 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Central Hungary, 1134, Hungary) / * 2022 December 20 06:38 pihentagy Created: Unable to answer &amp;quot;Does this stop have tactile paving?&amp;quot; for https://osm.org/node/1361032859 via StreetComplete 50.0: / Az 5 sor díszkő az vakoknak szóló jelzés? / * 2023 January 8 20:36 infeeeee Updated: Wikiben sok példa fel van sorolva, hogy mi számít annak: https://wiki.openstreetmap.org/wiki/Key:tactile_paving</title>
+        <link>https://www.openstreetmap.org/note/3484105#c7552724</link>
+        <guid>https://www.openstreetmap.org/note/3484105#c7552724</guid>
+        <pubDate>Sun, 08 Jan 2023 20:36:21 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Pusztagyimót alsó, Nagygyimót) / * 2021 August 31 12:43 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: Aircraft graveyard no longer exist. / https://www.openstreetmap.org/way/737029412 / * 2023 January 8 20:20 Syl Resolved: Removed</title>
+        <link>https://www.openstreetmap.org/note/2829253#c7552676</link>
+        <guid>https://www.openstreetmap.org/note/2829253#c7552676</guid>
+        <pubDate>Sun, 08 Jan 2023 20:20:49 +0000</pubDate>
+      </item><item>
         <title>closed note (near Central Hungary, 1051, Hungary) / * 2022 August 18 09:45 Created: Vigadó tér 1/A / * 2023 January 8 20:20 infeeeee Resolved: Added: https://www.openstreetmap.org/changeset/131029556</title>
         <link>https://www.openstreetmap.org/note/3320243#c7552671</link>
         <guid>https://www.openstreetmap.org/note/3320243#c7552671</guid>
@@ -252,31 +307,6 @@
         <link>https://www.openstreetmap.org/note/3505924#c7542995</link>
         <guid>https://www.openstreetmap.org/note/3505924#c7542995</guid>
         <pubDate>Thu, 05 Jan 2023 16:45:46 +0000</pubDate>
-      </item><item>
-        <title>new note (near Central Hungary, 1121, Hungary) / * 2023 January 5 11:38 Kovács Zsófi Created: Unable to answer &amp;quot;What’s the name of this place?&amp;quot; for https://osm.org/node/5024510361 via StreetComplete 50.1: / Ez a kórháznak a büféje. Nincs külön neve.</title>
-        <link>https://www.openstreetmap.org/note/3505450#c7542074</link>
-        <guid>https://www.openstreetmap.org/note/3505450#c7542074</guid>
-        <pubDate>Thu, 05 Jan 2023 11:38:09 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Central Hungary, 1024, Hungary) / * 2023 January 5 11:09 Krizzeria Updated: Az egész földszinti üzlettérben a Csíki Söröző van</title>
-        <link>https://www.openstreetmap.org/note/3505396#c7541999</link>
-        <guid>https://www.openstreetmap.org/note/3505396#c7541999</guid>
-        <pubDate>Thu, 05 Jan 2023 11:09:11 +0000</pubDate>
-      </item><item>
-        <title>new note (near Central Hungary, 1027, Hungary) / * 2023 January 5 11:05 Krizzeria Created: A Delikát megszűnt, helyette Török Copy üzemel.</title>
-        <link>https://www.openstreetmap.org/note/3505402#c7541986</link>
-        <guid>https://www.openstreetmap.org/note/3505402#c7541986</guid>
-        <pubDate>Thu, 05 Jan 2023 11:05:16 +0000</pubDate>
-      </item><item>
-        <title>new note (near Central Hungary, 1024, Hungary) / * 2023 January 5 11:02 Krizzeria Created: A Marangona Cukrászda megszűnt!</title>
-        <link>https://www.openstreetmap.org/note/3505396#c7541970</link>
-        <guid>https://www.openstreetmap.org/note/3505396#c7541970</guid>
-        <pubDate>Thu, 05 Jan 2023 11:02:31 +0000</pubDate>
-      </item><item>
-        <title>new note (near Central Hungary, 1027, Hungary) / * 2023 January 5 11:01 Krizzeria Created: A Frankó étterem bezárt!</title>
-        <link>https://www.openstreetmap.org/note/3505393#c7541966</link>
-        <guid>https://www.openstreetmap.org/note/3505393#c7541966</guid>
-        <pubDate>Thu, 05 Jan 2023 11:01:43 +0000</pubDate>
       </item>
   </channel>
 </rss>
