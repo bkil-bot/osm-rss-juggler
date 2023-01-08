@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Fülöpmajor, Egyházashollós) / * 2023 January 8 09:42 vasony Created: Mintha Petőfi út tábla lenne</title>
+        <link>https://www.openstreetmap.org/note/3509359#c7550588</link>
+        <guid>https://www.openstreetmap.org/note/3509359#c7550588</guid>
+        <pubDate>Sun, 08 Jan 2023 09:42:31 +0000</pubDate>
+      </item><item>
         <title>new note (near Western Transdanubia, 9142, Hungary) / * 2023 January 7 21:55 efi99 Created: címek?</title>
         <link>https://www.openstreetmap.org/note/3509029#c7549528</link>
         <guid>https://www.openstreetmap.org/note/3509029#c7549528</guid>
@@ -287,31 +292,6 @@
         <link>https://www.openstreetmap.org/note/3213560#c7540927</link>
         <guid>https://www.openstreetmap.org/note/3213560#c7540927</guid>
         <pubDate>Wed, 04 Jan 2023 23:51:42 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 1142, Hungary) / * 2022 December 17 13:49 Created: It looks like some of the streetcars are missing from this transport map of Budapest. / Does anyone know how to put them on? / * 2023 January 4 23:38 infeeeee Resolved: No streetcars are missing from this part of Budapest. You can learn about how to add new features to the map in the wiki: https://wiki.openstreetmap.org</title>
-        <link>https://www.openstreetmap.org/note/3480876#c7540883</link>
-        <guid>https://www.openstreetmap.org/note/3480876#c7540883</guid>
-        <pubDate>Wed, 04 Jan 2023 23:38:45 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Central Hungary, 1146, Hungary) / * 2022 December 20 06:34 pihentagy Created: Unable to answer &amp;quot;What’s the surface of the bicycle path here?&amp;quot; for https://osm.org/way/312814388 via StreetComplete 50.0: / Ez a szakasz miért nyúlik át a Dózsa György út túloldalára? / * 2023 January 4 23:36 infeeeee Updated: Streetcomplete-ben van egy ilyen válaszlehetőség, hogy &amp;quot;Hossz mentén változik&amp;quot; vagy valami hasonló. Ha azt választod, akkor szét tudod vágni az utat kisebb darabokra, és akkor különböző értéket adhatsz meg különböző részeinek. / Az hogy miért van így jelenleg, mert eddig senkit nem zavart, illetve minden tulajdonsága ugyanaz az egész hosszon, így nem volt miért szétvágni.</title>
-        <link>https://www.openstreetmap.org/note/3484102#c7540872</link>
-        <guid>https://www.openstreetmap.org/note/3484102#c7540872</guid>
-        <pubDate>Wed, 04 Jan 2023 23:36:34 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 1037, Hungary) / * 2021 October 19 13:17 Created: volt Óbudai villamosremíz helye / * 2023 January 4 23:27 infeeeee Resolved: Ezen az elemen már rajta van ez az információ: https://www.openstreetmap.org/relation/11199822</title>
-        <link>https://www.openstreetmap.org/note/2902066#c7540846</link>
-        <guid>https://www.openstreetmap.org/note/2902066#c7540846</guid>
-        <pubDate>Wed, 04 Jan 2023 23:27:31 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 1033, Hungary) / * 2021 October 19 13:17 Created: volt Óbudai Malom épülete / * 2023 January 4 23:26 infeeeee Resolved: Hozzáadtam mint old_name https://www.openstreetmap.org/changeset/130885969</title>
-        <link>https://www.openstreetmap.org/note/2902065#c7540844</link>
-        <guid>https://www.openstreetmap.org/note/2902065#c7540844</guid>
-        <pubDate>Wed, 04 Jan 2023 23:26:55 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 1032, Hungary) / * 2022 April 3 16:21 Johanna707 Created: Unable to answer &amp;quot;Is this still here?&amp;quot; for https://osm.org/node/4166309297 via StreetComplete 42.0: / A középső szigeten van. / * 2023 January 4 23:26 infeeeee Resolved: Átraktam https://www.openstreetmap.org/changeset/130885969</title>
-        <link>https://www.openstreetmap.org/note/3118594#c7540843</link>
-        <guid>https://www.openstreetmap.org/note/3118594#c7540843</guid>
-        <pubDate>Wed, 04 Jan 2023 23:26:38 +0000</pubDate>
       </item>
   </channel>
 </rss>
