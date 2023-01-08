@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Central Transdanubia, 2483, Hungary) / * 2022 January 26 13:35 vasony Created: Van itt még valahol Rózsa Ferenc utca? / * 2023 January 8 16:17 urbalazs Resolved: Megkérdeztem a dohányboltost, azt mondta, hogy az ő címe Rózsa Ferenc utca 1/c és az előtte lévő szervizút vagy járda a Rózsa Ferenc utca, de az utcanévtáblát sehol sem láttam. Megadtam a nevet OSM-en.</title>
+        <link>https://www.openstreetmap.org/note/3025232#c7551965</link>
+        <guid>https://www.openstreetmap.org/note/3025232#c7551965</guid>
+        <pubDate>Sun, 08 Jan 2023 16:17:40 +0000</pubDate>
+      </item><item>
+        <title>new note (near Central Hungary, 2100, Hungary) / * 2023 January 8 16:07 osmoid Created: Valkó felé itt ki van téve egy 70-es tábla, amit nem old fel aszfaltozott kereszteződés, és nincs &amp;quot;vége&amp;quot; táblája sem, de egyértelműen elszúrt táblázás. / Legyen belőve limit?</title>
+        <link>https://www.openstreetmap.org/note/3509970#c7551926</link>
+        <guid>https://www.openstreetmap.org/note/3509970#c7551926</guid>
+        <pubDate>Sun, 08 Jan 2023 16:07:12 +0000</pubDate>
+      </item><item>
         <title>new note (near Western Transdanubia, 9142, Hungary) / * 2023 January 8 11:05 efi99 Created: cím jó?</title>
         <link>https://www.openstreetmap.org/note/3509463#c7550803</link>
         <guid>https://www.openstreetmap.org/note/3509463#c7550803</guid>
@@ -262,26 +272,6 @@
         <link>https://www.openstreetmap.org/note/3250551#c7541705</link>
         <guid>https://www.openstreetmap.org/note/3250551#c7541705</guid>
         <pubDate>Thu, 05 Jan 2023 10:03:32 +0000</pubDate>
-      </item><item>
-        <title>closed note (near North Hungary, 3519, Hungary) / * 2022 December 30 20:13 ks00 Created: Unable to answer &amp;quot;How is drinking water provided here?&amp;quot; for https://osm.org/node/5081991235 via StreetComplete 50.0: / Nincs ivóvíz, csak egy emlékmű. / Attached photo(s): / https://westnordost.de/p/126338.jpg / * 2023 January 5 09:54 ks00 Resolved: Mogoldottam: ivóvíz átszerkesztése emlékművé.</title>
-        <link>https://www.openstreetmap.org/note/3498437#c7541673</link>
-        <guid>https://www.openstreetmap.org/note/3498437#c7541673</guid>
-        <pubDate>Thu, 05 Jan 2023 09:54:00 +0000</pubDate>
-      </item><item>
-        <title>closed note (near North Hungary, 3519, Hungary) / * 2022 December 27 16:44 ks00 Created: Unable to answer &amp;quot;What kind of fire hydrant is this?&amp;quot; for https://osm.org/node/9128738874 via StreetComplete 50.0: / Mester I. Kelemen forrás / Attached photo(s): / https://westnordost.de/p/125832.jpg / * 2023 January 5 09:41 ks00 Resolved: Mogoldottam: áthelyeztem a tűzcsapot a valós helyére és rajzoltam egy forrást is.</title>
-        <link>https://www.openstreetmap.org/note/3494063#c7541647</link>
-        <guid>https://www.openstreetmap.org/note/3494063#c7541647</guid>
-        <pubDate>Thu, 05 Jan 2023 09:41:10 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 2120, Hungary) / * 2022 April 22 19:30 vasony-qa Created: Alsótabán vagy Alsótabán utca szerepel az utcatáblán? / * 2023 January 4 18:45 feket Updated: csak &amp;quot;Alsótabán&amp;quot; van a táblákon. / * 2023 January 5 09:25 vasony Resolved: Javítottam.</title>
-        <link>https://www.openstreetmap.org/note/3148050#c7541611</link>
-        <guid>https://www.openstreetmap.org/note/3148050#c7541611</guid>
-        <pubDate>Thu, 05 Jan 2023 09:25:05 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Gátőrház, Dunaremete) / * 2020 September 16 12:06 Pan Perníček Created: #Mapy.cz user reports: Chapel name is 	Szent Rozália. / * 2023 January 5 00:24 infeeeee Resolved: Already on the map</title>
-        <link>https://www.openstreetmap.org/note/2350686#c7540957</link>
-        <guid>https://www.openstreetmap.org/note/2350686#c7540957</guid>
-        <pubDate>Thu, 05 Jan 2023 00:24:34 +0000</pubDate>
       </item>
   </channel>
 </rss>
