@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Central Hungary, 1118, Hungary) / * 2022 November 7 12:41 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: There&amp;#39;s no view point. / https://www.openstreetmap.org/node/5126178931 / * 2023 January 8 19:20 infeeeee Resolved: Yes, the viewpoint is overgrown by trees, fixed here: https://www.openstreetmap.org/changeset/131027800</title>
+        <link>https://www.openstreetmap.org/note/3431850#c7552480</link>
+        <guid>https://www.openstreetmap.org/note/3431850#c7552480</guid>
+        <pubDate>Sun, 08 Jan 2023 19:20:34 +0000</pubDate>
+      </item><item>
         <title>closed note (near Central Transdanubia, 2483, Hungary) / * 2022 January 26 13:35 vasony Created: Van itt még valahol Rózsa Ferenc utca? / * 2023 January 8 16:17 urbalazs Resolved: Megkérdeztem a dohányboltost, azt mondta, hogy az ő címe Rózsa Ferenc utca 1/c és az előtte lévő szervizút vagy járda a Rózsa Ferenc utca, de az utcanévtáblát sehol sem láttam. Megadtam a nevet OSM-en.</title>
         <link>https://www.openstreetmap.org/note/3025232#c7551965</link>
         <guid>https://www.openstreetmap.org/note/3025232#c7551965</guid>
@@ -267,11 +272,6 @@
         <link>https://www.openstreetmap.org/note/3250550#c7541740</link>
         <guid>https://www.openstreetmap.org/note/3250550#c7541740</guid>
         <pubDate>Thu, 05 Jan 2023 10:13:11 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Transdanubia, 8000, Hungary) / * 2022 July 3 18:42 ks00 Created: Unable to answer &amp;quot;What’s the surface here?&amp;quot; for https://osm.org/way/324333916 via StreetComplete 43.2: / Márványlapok / * 2023 January 5 10:03 ks00 Resolved: Mogoldottam: felület módosítva.</title>
-        <link>https://www.openstreetmap.org/note/3250551#c7541705</link>
-        <guid>https://www.openstreetmap.org/note/3250551#c7541705</guid>
-        <pubDate>Thu, 05 Jan 2023 10:03:32 +0000</pubDate>
       </item>
   </channel>
 </rss>
