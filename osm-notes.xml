@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Western Transdanubia, 9142, Hungary) / * 2023 January 8 11:05 efi99 Created: cím jó?</title>
+        <link>https://www.openstreetmap.org/note/3509463#c7550803</link>
+        <guid>https://www.openstreetmap.org/note/3509463#c7550803</guid>
+        <pubDate>Sun, 08 Jan 2023 11:05:29 +0000</pubDate>
+      </item><item>
         <title>new note (near Fülöpmajor, Egyházashollós) / * 2023 January 8 09:42 vasony Created: Mintha Petőfi út tábla lenne</title>
         <link>https://www.openstreetmap.org/note/3509359#c7550588</link>
         <guid>https://www.openstreetmap.org/note/3509359#c7550588</guid>
@@ -277,21 +282,6 @@
         <link>https://www.openstreetmap.org/note/2350686#c7540957</link>
         <guid>https://www.openstreetmap.org/note/2350686#c7540957</guid>
         <pubDate>Thu, 05 Jan 2023 00:24:34 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Hegyeshalom) / * 2022 November 12 09:53 Created: kép 1 10:53 / * 2023 January 5 00:02 infeeeee Resolved: A kép lemaradt?</title>
-        <link>https://www.openstreetmap.org/note/3438405#c7540936</link>
-        <guid>https://www.openstreetmap.org/note/3438405#c7540936</guid>
-        <pubDate>Thu, 05 Jan 2023 00:02:58 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Western Transdanubia, 9224, Hungary) / * 2022 October 20 07:11 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: There&amp;#39;s exit no. 14, not 12. / * 2023 January 5 00:00 infeeeee Resolved: Fixed https://www.openstreetmap.org/changeset/130886489</title>
-        <link>https://www.openstreetmap.org/note/3406464#c7540935</link>
-        <guid>https://www.openstreetmap.org/note/3406464#c7540935</guid>
-        <pubDate>Thu, 05 Jan 2023 00:00:06 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Western Transdanubia, 9224, Hungary) / * 2022 June 6 18:44 Nicolas Vial Created: when on the motorway in direction of Bratislava, osmand forces me to take exit in direction of parking area instead of staying on motorway. / * 2023 January 4 23:51 infeeeee Resolved: I cannot reproduce this with osm&amp;#39;s builtin routers, so I think it&amp;#39;s a bug in Osmand, not a problem with the map. Read Osmand&amp;#39;s documentation how to get help in situations like this: https://osmand.net/docs/user/troubleshooting/navigation#the-calculated-route-does-not-seem-correct</title>
-        <link>https://www.openstreetmap.org/note/3213560#c7540927</link>
-        <guid>https://www.openstreetmap.org/note/3213560#c7540927</guid>
-        <pubDate>Wed, 04 Jan 2023 23:51:42 +0000</pubDate>
       </item>
   </channel>
 </rss>
