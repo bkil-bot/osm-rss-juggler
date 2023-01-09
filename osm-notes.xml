@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near North Hungary, 3231, Hungary) / * 2023 January 9 05:32 rubasov Created: 2023 januárban újnak látszó iránymutató tábla szerint PN jelzés a Vörös-kunyhó felé. Valószínűleg újonnan létesített jelzés és/vagy ösvény. Felmérendő.</title>
+        <link>https://www.openstreetmap.org/note/3510513#c7553454</link>
+        <guid>https://www.openstreetmap.org/note/3510513#c7553454</guid>
+        <pubDate>Mon, 09 Jan 2023 05:32:46 +0000</pubDate>
+      </item><item>
         <title>closed note (near Central Hungary, 2220, Hungary) / * 2022 May 10 07:00 Sonja Emilie Created: Unable to answer &amp;quot;Do the trees here have needles or leaves?&amp;quot; for https://osm.org/way/482166094 via StreetComplete 43.0: / No trees here. / * 2023 January 8 21:30 Syl Resolved: Removed</title>
         <link>https://www.openstreetmap.org/note/3173036#c7552901</link>
         <guid>https://www.openstreetmap.org/note/3173036#c7552901</guid>
@@ -307,16 +312,6 @@
         <link>https://www.openstreetmap.org/note/3505396#c7543441</link>
         <guid>https://www.openstreetmap.org/note/3505396#c7543441</guid>
         <pubDate>Thu, 05 Jan 2023 19:15:57 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 1027, Hungary) / * 2023 January 5 19:15 infeeeee Resolved: Javítva https://www.openstreetmap.org/changeset/130920535</title>
-        <link>https://www.openstreetmap.org/note/3505393#c7543440</link>
-        <guid>https://www.openstreetmap.org/note/3505393#c7543440</guid>
-        <pubDate>Thu, 05 Jan 2023 19:15:44 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 1121, Hungary) / * 2023 January 5 19:15 infeeeee Resolved: Hozzáadtam noname=yes-t, így többet nem fogja kérdezni ezt: https://www.openstreetmap.org/changeset/130920535</title>
-        <link>https://www.openstreetmap.org/note/3505450#c7543439</link>
-        <guid>https://www.openstreetmap.org/note/3505450#c7543439</guid>
-        <pubDate>Thu, 05 Jan 2023 19:15:25 +0000</pubDate>
       </item>
   </channel>
 </rss>
