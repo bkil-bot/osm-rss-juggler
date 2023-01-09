@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Central Hungary, 1134, Hungary) / * 2023 January 9 22:49 infeeeee Resolved: Hozzáadtam tactile_paving=no címkét https://www.openstreetmap.org/changeset/131081834</title>
+        <link>https://www.openstreetmap.org/note/3484105#c7556259</link>
+        <guid>https://www.openstreetmap.org/note/3484105#c7556259</guid>
+        <pubDate>Mon, 09 Jan 2023 22:49:58 +0000</pubDate>
+      </item><item>
+        <title>closed note (near South Great Plain, 5600, Hungary) / * 2023 January 3 08:22 vasony Created: Melyik közterület a Berthóty utca vagy udvar? / * 2023 January 7 21:52 Kiss_Karoly Updated: Utánanéztem, egyelőre csak térképen. Udvar. De személyesen fogom bejárni és pontosítom / * 2023 January 9 22:32 Kiss_Karoly Resolved: Felmértem a Berthóty udvart. A Trefort utcával folytatódik.</title>
+        <link>https://www.openstreetmap.org/note/3502433#c7556219</link>
+        <guid>https://www.openstreetmap.org/note/3502433#c7556219</guid>
+        <pubDate>Mon, 09 Jan 2023 22:32:54 +0000</pubDate>
+      </item><item>
         <title>new note (near Western Transdanubia, 9143, Hungary) / * 2023 January 9 17:44 efi99 Created: cím?</title>
         <link>https://www.openstreetmap.org/note/3511390#c7555333</link>
         <guid>https://www.openstreetmap.org/note/3511390#c7555333</guid>
@@ -317,11 +327,6 @@
         <link>https://www.openstreetmap.org/note/3508371#c7548218</link>
         <guid>https://www.openstreetmap.org/note/3508371#c7548218</guid>
         <pubDate>Sat, 07 Jan 2023 14:36:32 +0000</pubDate>
-      </item><item>
-        <title>new note (near Central Hungary, 1146, Hungary) / * 2023 January 7 12:58 Created: A hídon a súlykorlátozás csak tehergépjárművekre vonatkozik. maxweight=3.5 helyett maxweightrating:hgv=3.5 tag javasolt így a buszokat a navigáció átengedné.</title>
-        <link>https://www.openstreetmap.org/note/3508230#c7547976</link>
-        <guid>https://www.openstreetmap.org/note/3508230#c7547976</guid>
-        <pubDate>Sat, 07 Jan 2023 12:58:27 +0000</pubDate>
       </item>
   </channel>
 </rss>
