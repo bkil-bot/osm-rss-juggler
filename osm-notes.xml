@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Central Hungary, 1134, Hungary) / * 2022 December 20 06:38 pihentagy Created: Unable to answer &amp;quot;Does this stop have tactile paving?&amp;quot; for https://osm.org/node/1361032859 via StreetComplete 50.0: / Az 5 sor díszkő az vakoknak szóló jelzés? / * 2023 January 8 20:36 infeeeee Updated: Wikiben sok példa fel van sorolva, hogy mi számít annak: https://wiki.openstreetmap.org/wiki/Key:tactile_paving / * 2023 January 9 12:14 pihentagy Updated: Köszi. Akkor ez egyértelműen nem az. Ez amolyan Braille írás üveg mögött jellegű kókányolás. / https://www.mapillary.com/app/?pKey=1466051590400250</title>
+        <link>https://www.openstreetmap.org/note/3484105#c7554269</link>
+        <guid>https://www.openstreetmap.org/note/3484105#c7554269</guid>
+        <pubDate>Mon, 09 Jan 2023 12:14:55 +0000</pubDate>
+      </item><item>
         <title>new note (near Central Hungary, 1135, Hungary) / * 2023 January 9 08:00 Tylla Created: Unable to answer &amp;quot;What are the opening hours here?&amp;quot; for https://osm.org/node/7375341528 via StreetComplete 50.1: / Ez már nem virágbolt, hanem szépségszalon.</title>
         <link>https://www.openstreetmap.org/note/3510582#c7553657</link>
         <guid>https://www.openstreetmap.org/note/3510582#c7553657</guid>
@@ -292,26 +297,6 @@
         <link>https://www.openstreetmap.org/note/3467589#c7544885</link>
         <guid>https://www.openstreetmap.org/note/3467589#c7544885</guid>
         <pubDate>Fri, 06 Jan 2023 11:04:10 +0000</pubDate>
-      </item><item>
-        <title>new note (near North Great Plain, 5200, Hungary) / * 2023 January 6 09:32 Líroz Created: Ez a szakasz még Bethlen Gábor utca a vasúti átjáróig.</title>
-        <link>https://www.openstreetmap.org/note/3506645#c7544666</link>
-        <guid>https://www.openstreetmap.org/note/3506645#c7544666</guid>
-        <pubDate>Fri, 06 Jan 2023 09:32:26 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 2141, Hungary) / * 2023 January 6 08:35 osmoid Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3480172#c7544573</link>
-        <guid>https://www.openstreetmap.org/note/3480172#c7544573</guid>
-        <pubDate>Fri, 06 Jan 2023 08:35:59 +0000</pubDate>
-      </item><item>
-        <title>reactivated note (near Central Hungary, 2141, Hungary) / * 2022 December 16 18:01 osmoid Created: Elkészült a körforgalom, és át is adták! / Valaki rajzolja fel légyszi, aki meg tudja csinálni :) / Köszi! / * 2022 December 17 15:54 osmoid Updated: Felrajzoltam, de első próba, valaki nézzen rá, légyszi! / * 2023 January 4 22:33 infeeeee Resolved: Majdnem tökéletes lett lett! / Ami nem sikerült: a ref=* címkét a körre is rá kell rakni, de a keresztutcára nem, illetve ugyanolyan szintűnek kell lennie a körnek, mint a rajta átmenő legfontosabb útnak. / * 2023 January 6 08:35 osmoid Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/3480172#c7544571</link>
-        <guid>https://www.openstreetmap.org/note/3480172#c7544571</guid>
-        <pubDate>Fri, 06 Jan 2023 08:35:46 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Western Transdanubia, 9244, Hungary) / * 2022 February 5 15:09 Created: Mészáros Lőrinc Vadászkastélya épült fel itt a vízparton.... / * 2023 January 6 02:47 Spush Resolved: Jegyzet megoldva: changeset/130930249</title>
-        <link>https://www.openstreetmap.org/note/3038604#c7544254</link>
-        <guid>https://www.openstreetmap.org/note/3038604#c7544254</guid>
-        <pubDate>Fri, 06 Jan 2023 02:47:12 +0000</pubDate>
       </item>
   </channel>
 </rss>
