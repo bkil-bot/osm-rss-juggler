@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Central Hungary, 2030, Hungary) / * 2023 January 10 03:30 Created: Kék Rózsa Söröző</title>
+        <link>https://www.openstreetmap.org/note/3511784#c7556575</link>
+        <guid>https://www.openstreetmap.org/note/3511784#c7556575</guid>
+        <pubDate>Tue, 10 Jan 2023 03:30:49 +0000</pubDate>
+      </item><item>
         <title>closed note (near Central Hungary, 1067, Hungary) / * 2022 May 7 07:54 witkowski Created: &amp;quot;Closed forever&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2022-03-14T07:52:33Z / POI name: Oktogon Bisztró / POI types: amenity-restaurant / #organicmaps / * 2023 January 9 23:43 infeeeee Resolved: According to Mapillary its closed sometime in 2022, added disused prefix: https://www.openstreetmap.org/changeset/131083713</title>
         <link>https://www.openstreetmap.org/note/3168706#c7556409</link>
         <guid>https://www.openstreetmap.org/note/3168706#c7556409</guid>
@@ -322,11 +327,6 @@
         <link>https://www.openstreetmap.org/note/3508421#c7548287</link>
         <guid>https://www.openstreetmap.org/note/3508421#c7548287</guid>
         <pubDate>Sat, 07 Jan 2023 14:57:16 +0000</pubDate>
-      </item><item>
-        <title>new note (near Western Transdanubia, 9142, Hungary) / * 2023 January 7 14:57 efi99 Created: cím?</title>
-        <link>https://www.openstreetmap.org/note/3508420#c7548286</link>
-        <guid>https://www.openstreetmap.org/note/3508420#c7548286</guid>
-        <pubDate>Sat, 07 Jan 2023 14:57:08 +0000</pubDate>
       </item>
   </channel>
 </rss>
