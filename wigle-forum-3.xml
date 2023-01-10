@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: My RPi Setup: Ok, so finaly assembled this thing into a small neat box. 7&quot; touch screen u-blox7 GPS Alpha AWUS1900 wifi Kali Linux. This thing does more than just war driving. (all legal) I'm finding it hard to get a complete setup instruction to configure kismet, record gps data, and merge all the info into a format that works for wigle. If I can get a guide like this, I will create some python or sh scripts to tie all these loose bits into an easy to use solution and share it here -craftyza</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11400#p11400</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11400#p11400</guid>
+        <pubDate>2023-01-10T18:38:39</pubDate>
+      </item><item>
         <title>Re: My RPi Setup: we strongly recommend kismet (https://www.kismetwireless.net/) ! -arkasha</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11384#p11384</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11384#p11384</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11253#p11253</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11253#p11253</guid>
         <pubDate>2022-06-03T19:09:20</pubDate>
-      </item><item>
-        <title>Re: WiGLE WiFi for Android phone performance comparison: Excellent info! I've been gauging performance of a few android phones over the past few years. A Galaxy Express 3, Note 3, Note 5, two S7's, S7 Edge, and now adding a Note 20 Ultra to the fleet. What would you happen to be running for scan interval settings on the androids? -Ninemeister</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11250#p11250</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11250#p11250</guid>
-        <pubDate>2022-05-28T23:45:56</pubDate>
       </item>
   </channel>
 </rss>
