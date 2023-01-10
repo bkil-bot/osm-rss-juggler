@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Central Hungary, 1067, Hungary) / * 2022 May 7 07:54 witkowski Created: &amp;quot;Closed forever&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2022-03-14T07:52:33Z / POI name: Oktogon Bisztró / POI types: amenity-restaurant / #organicmaps / * 2023 January 9 23:43 infeeeee Resolved: According to Mapillary its closed sometime in 2022, added disused prefix: https://www.openstreetmap.org/changeset/131083713</title>
+        <link>https://www.openstreetmap.org/note/3168706#c7556409</link>
+        <guid>https://www.openstreetmap.org/note/3168706#c7556409</guid>
+        <pubDate>Mon, 09 Jan 2023 23:43:18 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Central Hungary, 1146, Hungary) / * 2022 June 17 12:20 neztoo Created: &amp;quot;4 picknick tables&amp;quot; / OSM snapshot date: 2022-05-15T14:57:35Z / POI has no name / POI types: amenity-bench / #organicmaps / * 2023 January 9 23:25 infeeeee Resolved: You already added this, so the note can be closed</title>
+        <link>https://www.openstreetmap.org/note/3228937#c7556363</link>
+        <guid>https://www.openstreetmap.org/note/3228937#c7556363</guid>
+        <pubDate>Mon, 09 Jan 2023 23:25:15 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Central Hungary, 1146, Hungary) / * 2022 June 17 12:26 neztoo Created: &amp;quot;4 picknick tables&amp;quot; / OSM snapshot date: 2022-05-15T14:57:35Z / POI has no name / POI types: amenity-bench / #organicmaps / * 2023 January 9 23:25 infeeeee Resolved: You already added this, so the note can be closed</title>
+        <link>https://www.openstreetmap.org/note/3228946#c7556362</link>
+        <guid>https://www.openstreetmap.org/note/3228946#c7556362</guid>
+        <pubDate>Mon, 09 Jan 2023 23:25:12 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Central Hungary, 1146, Hungary) / * 2022 December 20 06:34 pihentagy Created: Unable to answer &amp;quot;What’s the surface of the bicycle path here?&amp;quot; for https://osm.org/way/312814388 via StreetComplete 50.0: / Ez a szakasz miért nyúlik át a Dózsa György út túloldalára? / * 2023 January 4 23:36 infeeeee Updated: Streetcomplete-ben van egy ilyen válaszlehetőség, hogy &amp;quot;Hossz mentén változik&amp;quot; vagy valami hasonló. Ha azt választod, akkor szét tudod vágni az utat kisebb darabokra, és akkor különböző értéket adhatsz meg különböző részeinek. / Az hogy miért van így jelenleg, mert eddig senkit nem zavart, illetve minden tulajdonsága ugyanaz az egész hosszon, így nem volt miért szétvágni. / * 2023 January 9 23:23 infeeeee Resolved: Szétvágtam 3 darabra, hogy a gyalogátkelőt külön lehessen címkézni.</title>
+        <link>https://www.openstreetmap.org/note/3484102#c7556355</link>
+        <guid>https://www.openstreetmap.org/note/3484102#c7556355</guid>
+        <pubDate>Mon, 09 Jan 2023 23:23:53 +0000</pubDate>
+      </item><item>
         <title>closed note (near Central Hungary, 1134, Hungary) / * 2023 January 9 22:49 infeeeee Resolved: Hozzáadtam tactile_paving=no címkét https://www.openstreetmap.org/changeset/131081834</title>
         <link>https://www.openstreetmap.org/note/3484105#c7556259</link>
         <guid>https://www.openstreetmap.org/note/3484105#c7556259</guid>
@@ -307,26 +327,6 @@
         <link>https://www.openstreetmap.org/note/3508420#c7548286</link>
         <guid>https://www.openstreetmap.org/note/3508420#c7548286</guid>
         <pubDate>Sat, 07 Jan 2023 14:57:08 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Western Transdanubia, 9142, Hungary) / * 2023 January 7 14:43 efi99 Resolved: Szent László 1</title>
-        <link>https://www.openstreetmap.org/note/3508371#c7548243</link>
-        <guid>https://www.openstreetmap.org/note/3508371#c7548243</guid>
-        <pubDate>Sat, 07 Jan 2023 14:43:27 +0000</pubDate>
-      </item><item>
-        <title>new note (near Western Transdanubia, 9142, Hungary) / * 2023 January 7 14:42 efi99 Created: cím jó?</title>
-        <link>https://www.openstreetmap.org/note/3508383#c7548233</link>
-        <guid>https://www.openstreetmap.org/note/3508383#c7548233</guid>
-        <pubDate>Sat, 07 Jan 2023 14:42:27 +0000</pubDate>
-      </item><item>
-        <title>new note (near Western Transdanubia, 9142, Hungary) / * 2023 January 7 14:42 efi99 Created: cím jó?</title>
-        <link>https://www.openstreetmap.org/note/3508382#c7548232</link>
-        <guid>https://www.openstreetmap.org/note/3508382#c7548232</guid>
-        <pubDate>Sat, 07 Jan 2023 14:42:21 +0000</pubDate>
-      </item><item>
-        <title>new note (near Western Transdanubia, 9142, Hungary) / * 2023 January 7 14:36 efi99 Created: cím?</title>
-        <link>https://www.openstreetmap.org/note/3508371#c7548218</link>
-        <guid>https://www.openstreetmap.org/note/3508371#c7548218</guid>
-        <pubDate>Sat, 07 Jan 2023 14:36:32 +0000</pubDate>
       </item>
   </channel>
 </rss>
