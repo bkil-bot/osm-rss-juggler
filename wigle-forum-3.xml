@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: My RPi Setup: Looks like the wardriving mode docs for Kismet moved - https://www.kismetwireless.net/docs/rea ... /wardrive/ is the new location -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11404#p11404</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11404#p11404</guid>
+        <pubDate>2023-01-11T15:36:23</pubDate>
+      </item><item>
         <title>Re: My RPi Setup: Ok, so finaly assembled this thing into a small neat box. 7&quot; touch screen u-blox7 GPS Alpha AWUS1900 wifi Kali Linux. This thing does more than just war driving. (all legal) I'm finding it hard to get a complete setup instruction to configure kismet, record gps data, and merge all the info into a format that works for wigle. If I can get a guide like this, I will create some python or sh scripts to tie all these loose bits into an easy to use solution and share it here -craftyza</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11400#p11400</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11400#p11400</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11262#p11262</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11262#p11262</guid>
         <pubDate>2022-06-13T08:32:54</pubDate>
-      </item><item>
-        <title>Re: Raspberry PI: I'm using this pi (Zero 2 W) and i use GPS2IP on Iphone as GPS. I connect all in WiFi and i use AWUS036NHA card in USB.And how is the Zero 2 W handling that, Im just going to use the internal wifi for now but think a 5g dongle would be better. Almost as easy to use a phone but I have a spare 2W about so might as well us it for something fun. -wpa3</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11253#p11253</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11253#p11253</guid>
-        <pubDate>2022-06-03T19:09:20</pubDate>
       </item>
   </channel>
 </rss>
