@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Central Hungary, 1146, Hungary) / * 2022 December 16 09:15 Created: Bár a weblapjuk szerint este 7-ig vannak nyitva, tegnap is zárva volt 18.30-kor. Téli nyitvatartás (pl. 18.00-ig)? Rezsidémon? / * 2022 December 16 09:15 ITineris Updated: Én voltam. / * 2023 January 14 08:13 ITineris Resolved: A hivatalos nyitvatartásuk továbbra is 19.00. Beszéltem a tulaj-eladóval, és ha már elvitték az összes aznapi rendelést, és úgy érzi, akár már 4-kor bezár, mert drága a villany és a fűtés.</title>
+        <link>https://www.openstreetmap.org/note/3479518#c7568956</link>
+        <guid>https://www.openstreetmap.org/note/3479518#c7568956</guid>
+        <pubDate>Sat, 14 Jan 2023 08:13:42 +0000</pubDate>
+      </item><item>
         <title>new note (near Muck, Sopron) / * 2023 January 13 13:59 Tajtrdlik Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;There is no more cross at this place.&amp;quot; / 6284313347</title>
         <link>https://www.openstreetmap.org/note/3516495#c7566703</link>
         <guid>https://www.openstreetmap.org/note/3516495#c7566703</guid>
@@ -177,11 +182,6 @@
         <link>https://www.openstreetmap.org/note/3228946#c7556362</link>
         <guid>https://www.openstreetmap.org/note/3228946#c7556362</guid>
         <pubDate>Mon, 09 Jan 2023 23:25:12 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 1146, Hungary) / * 2022 December 20 06:34 pihentagy Created: Unable to answer &amp;quot;What’s the surface of the bicycle path here?&amp;quot; for https://osm.org/way/312814388 via StreetComplete 50.0: / Ez a szakasz miért nyúlik át a Dózsa György út túloldalára? / * 2023 January 4 23:36 infeeeee Updated: Streetcomplete-ben van egy ilyen válaszlehetőség, hogy &amp;quot;Hossz mentén változik&amp;quot; vagy valami hasonló. Ha azt választod, akkor szét tudod vágni az utat kisebb darabokra, és akkor különböző értéket adhatsz meg különböző részeinek. / Az hogy miért van így jelenleg, mert eddig senkit nem zavart, illetve minden tulajdonsága ugyanaz az egész hosszon, így nem volt miért szétvágni. / * 2023 January 9 23:23 infeeeee Resolved: Szétvágtam 3 darabra, hogy a gyalogátkelőt külön lehessen címkézni.</title>
-        <link>https://www.openstreetmap.org/note/3484102#c7556355</link>
-        <guid>https://www.openstreetmap.org/note/3484102#c7556355</guid>
-        <pubDate>Mon, 09 Jan 2023 23:23:53 +0000</pubDate>
       </item>
   </channel>
 </rss>
