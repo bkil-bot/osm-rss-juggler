@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near South Great Plain, 6726, Hungary) / * 2023 January 17 19:16 gabro00 Created: Zengő utca (Szeged 1. ker. Szőreg zártkert 3289/6 hrsz) / 316/2022. (Xll.16.) Kgy. sz. határozat alapján (forrás: https://eservices.szeged.eu/eku/services/letoltes_service.php?json=1&amp;amp;dokumentumID=642355)</title>
+        <link>https://www.openstreetmap.org/note/3522366#c7580665</link>
+        <guid>https://www.openstreetmap.org/note/3522366#c7580665</guid>
+        <pubDate>Tue, 17 Jan 2023 19:16:10 +0000</pubDate>
+      </item><item>
+        <title>new note (near Ámánd, Pannonhalma) / * 2023 January 17 19:11 efi99 Created: cím?</title>
+        <link>https://www.openstreetmap.org/note/3522358#c7580618</link>
+        <guid>https://www.openstreetmap.org/note/3522358#c7580618</guid>
+        <pubDate>Tue, 17 Jan 2023 19:11:38 +0000</pubDate>
+      </item><item>
         <title>new comment (near Central Transdanubia, 2483, Hungary) / * 2023 January 17 18:15 ITineris Updated: Régebben. / Nem a nagy ház (1131180493) zárta le keresztbe a telke végén, és ott láttál kerítést? A műholdképeken is látni, hogy odáig murvás, onnan füves. / Muszáj lesz gyalog bemenni. :(</title>
         <link>https://www.openstreetmap.org/note/3515077#c7580496</link>
         <guid>https://www.openstreetmap.org/note/3515077#c7580496</guid>
@@ -392,16 +402,6 @@
         <link>https://www.openstreetmap.org/note/3519013#c7573172</link>
         <guid>https://www.openstreetmap.org/note/3519013#c7573172</guid>
         <pubDate>Sun, 15 Jan 2023 11:14:28 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Transdanubia, 8444, Hungary) / * 2022 November 19 12:03 batio Created: closed gate fence / * 2023 January 15 10:11 Syl Resolved: Duplicated note</title>
-        <link>https://www.openstreetmap.org/note/3447819#c7573033</link>
-        <guid>https://www.openstreetmap.org/note/3447819#c7573033</guid>
-        <pubDate>Sun, 15 Jan 2023 10:11:32 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Western Transdanubia, 9700, Hungary) / * 2022 October 15 16:45 kisvirag28 Created: &amp;quot;Corract adress: 47°13′57.81″N 16°37′25.21″E&amp;quot; / The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI name: Africafé / POI types: amenity-cafe / OSM data version: 2018-01-10T08:12:02Z / #mapsme / * 2023 January 15 09:59 Syl Resolved: Already fixed</title>
-        <link>https://www.openstreetmap.org/note/3400487#c7573015</link>
-        <guid>https://www.openstreetmap.org/note/3400487#c7573015</guid>
-        <pubDate>Sun, 15 Jan 2023 09:59:57 +0000</pubDate>
       </item>
   </channel>
 </rss>
