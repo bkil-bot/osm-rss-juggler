@@ -2,16 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      <item>
-        <title>Module:Slippymap: show marker/pin per default, add option to remove it -Tigerfell</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Module:Slippymap&amp;diff=2466038&amp;oldid=2465481</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Module:Slippymap&amp;diff=2466038</guid>
-        <pubDate>Tue, 17 Jan 2023 23:13:51 GMT</pubDate>
-      </item><item>
-        <title>Template:Slippymap: remove error message for Mediawiki 1.37, add marker option again -Tigerfell</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Template:Slippymap&amp;diff=2466037&amp;oldid=2464585</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Template:Slippymap&amp;diff=2466037</guid>
-        <pubDate>Tue, 17 Jan 2023 23:12:22 GMT</pubDate>
-      </item>
+      
   </channel>
 </rss>
