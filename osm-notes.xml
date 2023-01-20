@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Central Hungary, 1114, Hungary) / * 2022 September 3 07:28 vasony Created: 3111-es parkolási zóna lett, ellenőrizendő. az automatákat már módosítottam előre / * 2023 January 20 21:16 vasony Resolved: ellenőrizve</title>
+        <link>https://www.openstreetmap.org/note/3343464#c7589704</link>
+        <guid>https://www.openstreetmap.org/note/3343464#c7589704</guid>
+        <pubDate>Fri, 20 Jan 2023 21:16:16 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Central Hungary, 1114, Hungary) / * 2022 September 3 07:28 vasony Created: 3113-as parkolási zóna lett, ellenőrizendő. az automatákat már módosítottam előre. / * 2023 January 20 21:09 vasony Resolved: ellenőrizve</title>
+        <link>https://www.openstreetmap.org/note/3343462#c7589699</link>
+        <guid>https://www.openstreetmap.org/note/3343462#c7589699</guid>
+        <pubDate>Fri, 20 Jan 2023 21:09:56 +0000</pubDate>
+      </item><item>
         <title>new note (near Western Transdanubia, 9224, Hungary) / * 2023 January 20 17:02 efi99 Created: cím?</title>
         <link>https://www.openstreetmap.org/note/3525765#c7589074</link>
         <guid>https://www.openstreetmap.org/note/3525765#c7589074</guid>
@@ -182,21 +192,6 @@
         <link>https://www.openstreetmap.org/note/3524142#c7585410</link>
         <guid>https://www.openstreetmap.org/note/3524142#c7585410</guid>
         <pubDate>Thu, 19 Jan 2023 09:12:57 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Western Transdanubia, 9422, Hungary) / * 2022 October 7 10:59 efi99 Created: cím? / * 2023 January 18 21:05 efi99 Resolved: 2</title>
-        <link>https://www.openstreetmap.org/note/3388953#c7584478</link>
-        <guid>https://www.openstreetmap.org/note/3388953#c7584478</guid>
-        <pubDate>Wed, 18 Jan 2023 21:05:38 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Western Transdanubia, 9400, Hungary) / * 2022 September 7 19:05 efi99 Created: cím jó? / * 2023 January 18 20:58 efi99 Resolved: 5</title>
-        <link>https://www.openstreetmap.org/note/3350051#c7584460</link>
-        <guid>https://www.openstreetmap.org/note/3350051#c7584460</guid>
-        <pubDate>Wed, 18 Jan 2023 20:58:03 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Western Transdanubia, 9421, Hungary) / * 2022 May 24 11:20 efi99 Created: cím jó? / * 2023 January 18 20:48 efi99 Resolved: 13</title>
-        <link>https://www.openstreetmap.org/note/3192795#c7584448</link>
-        <guid>https://www.openstreetmap.org/note/3192795#c7584448</guid>
-        <pubDate>Wed, 18 Jan 2023 20:48:05 +0000</pubDate>
       </item>
   </channel>
 </rss>
