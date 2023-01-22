@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Legelőrész, Rajka) / * 2023 January 22 15:25 efi99 Created: cím jó?</title>
+        <link>https://www.openstreetmap.org/note/3527717#c7593696</link>
+        <guid>https://www.openstreetmap.org/note/3527717#c7593696</guid>
+        <pubDate>Sun, 22 Jan 2023 15:25:45 +0000</pubDate>
+      </item><item>
         <title>closed note (near Central Hungary, 2045, Hungary) / * 2022 November 29 07:40 pihentagy Created: Unable to answer &amp;quot;Where is this fire hydrant located?&amp;quot; for https://osm.org/node/9421194393 via StreetComplete 49.2: / Nem látom. Talán a bicikliút építésekor megszűnt? / * 2023 January 22 14:46 Zsolt Beringer Resolved: Ott van a töltés tetején.</title>
         <link>https://www.openstreetmap.org/note/3460009#c7593589</link>
         <guid>https://www.openstreetmap.org/note/3460009#c7593589</guid>
@@ -272,11 +277,6 @@
         <link>https://www.openstreetmap.org/note/3482805#c7586326</link>
         <guid>https://www.openstreetmap.org/note/3482805#c7586326</guid>
         <pubDate>Thu, 19 Jan 2023 15:48:19 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Western Transdanubia, 9423, Hungary) / * 2022 March 23 17:35 efi99 Created: utca, házszám? / * 2023 January 19 15:46 efi99 Resolved: Hegy 39/A</title>
-        <link>https://www.openstreetmap.org/note/3099859#c7586266</link>
-        <guid>https://www.openstreetmap.org/note/3099859#c7586266</guid>
-        <pubDate>Thu, 19 Jan 2023 15:46:57 +0000</pubDate>
       </item>
   </channel>
 </rss>
