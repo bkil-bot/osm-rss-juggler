@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Central Hungary, 2750, Hungary) / * 2022 December 21 21:25 vasony Created: Deák tér itt van valahol? / * 2023 January 23 19:55 vasony Resolved: Parkként fel van rajzolva</title>
+        <link>https://www.openstreetmap.org/note/3486415#c7597307</link>
+        <guid>https://www.openstreetmap.org/note/3486415#c7597307</guid>
+        <pubDate>Mon, 23 Jan 2023 19:55:20 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Central Hungary, 1012, Hungary) / * 2022 June 22 16:05 H3A Created: Unable to answer &amp;quot;What surface does this path have here?&amp;quot; for https://osm.org/way/508166118 via StreetComplete 37.0: / Ez ha jól látom akkor ez a műanyag cuccos, ami nincs válasznak / / / Apparently this is the plastic liner thing, which isn&amp;#39;t available / Attached photo(s): / https://westnordost.de/p/99017.jpg / * 2023 January 23 19:49 infeeeee Resolved: surface=linoleum hozzáadva, kép alapján ezt találtam legközelebbinek / https://www.openstreetmap.org/changeset/131622723</title>
+        <link>https://www.openstreetmap.org/note/3236313#c7597300</link>
+        <guid>https://www.openstreetmap.org/note/3236313#c7597300</guid>
+        <pubDate>Mon, 23 Jan 2023 19:49:02 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Central Transdanubia, 8592, Hungary) / * 2021 March 31 14:46 vasony-qa Created: Melyik közterület a Dózsa György utca? / * 2023 January 23 19:48 vasony Resolved: időközben felkerült</title>
+        <link>https://www.openstreetmap.org/note/2602444#c7597298</link>
+        <guid>https://www.openstreetmap.org/note/2602444#c7597298</guid>
+        <pubDate>Mon, 23 Jan 2023 19:48:46 +0000</pubDate>
+      </item><item>
         <title>closed note (near Central Hungary, 2040, Hungary) / * 2022 November 22 07:25 pihentagy Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/309496911 via StreetComplete 49.2: / Egy pici konténer. Legközelebb melyiket válasszam? / * 2022 December 4 20:57 Zsolt Beringer Resolved: Legközelebb esetleg lehet az épület típusát pontosítani, de ez már inkább micromapping: / https://wiki.openstreetmap.org/wiki/Tag:building%3Dcontainer / * 2022 December 5 09:59 pihentagy Reactivated:  / * 2022 December 5 10:00 pihentagy Updated: Hát, pont erre vonatkozott a streetcomplete kérdése. De akkor majd hátrébb sorolom ezt a típusú kérdést. / * 2023 January 23 18:04 infeeeee Resolved: building=container hozzáadva https://www.openstreetmap.org/changeset/131618653</title>
         <link>https://www.openstreetmap.org/note/3451384#c7597066</link>
         <guid>https://www.openstreetmap.org/note/3451384#c7597066</guid>
@@ -242,11 +257,6 @@
         <link>https://www.openstreetmap.org/note/3525444#c7588464</link>
         <guid>https://www.openstreetmap.org/note/3525444#c7588464</guid>
         <pubDate>Fri, 20 Jan 2023 12:27:39 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Central Hungary, 1124, Hungary) / * 2022 September 10 15:50 vasony Created: Itt van ház? / * 2023 January 20 09:18 vasony Updated: garazs</title>
-        <link>https://www.openstreetmap.org/note/3353891#c7588069</link>
-        <guid>https://www.openstreetmap.org/note/3353891#c7588069</guid>
-        <pubDate>Fri, 20 Jan 2023 09:18:53 +0000</pubDate>
       </item>
   </channel>
 </rss>
