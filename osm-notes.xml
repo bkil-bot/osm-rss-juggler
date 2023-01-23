@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Central Hungary, 1121, Hungary) / * 2021 May 7 10:34 kogutowicz-mano Created: Nagy átépítések a környéken. / https://telex.hu/belfold/2021/05/07/normafa-xii-kerulet-parkolo-buszfordulo / * 2023 January 23 16:03 vasony Resolved: nagyjából már jó, a sétányok felmérésének kérése másik jegyzetben</title>
+        <link>https://www.openstreetmap.org/note/2658692#c7596667</link>
+        <guid>https://www.openstreetmap.org/note/2658692#c7596667</guid>
+        <pubDate>Mon, 23 Jan 2023 16:03:26 +0000</pubDate>
+      </item><item>
+        <title>new note (near Central Hungary, 1121, Hungary) / * 2023 January 23 15:50 Created: sétányok nyomvonala felmérendő</title>
+        <link>https://www.openstreetmap.org/note/3529069#c7596615</link>
+        <guid>https://www.openstreetmap.org/note/3529069#c7596615</guid>
+        <pubDate>Mon, 23 Jan 2023 15:50:48 +0000</pubDate>
+      </item><item>
         <title>closed note (near Central Hungary, 1121, Hungary) / * 2023 January 21 09:29 utvonalfelmeresek Created: manhole / * 2023 January 23 14:17 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/131550798</title>
         <link>https://www.openstreetmap.org/note/3526317#c7596322</link>
         <guid>https://www.openstreetmap.org/note/3526317#c7596322</guid>
@@ -257,21 +267,6 @@
         <link>https://www.openstreetmap.org/note/3349679#c7586927</link>
         <guid>https://www.openstreetmap.org/note/3349679#c7586927</guid>
         <pubDate>Thu, 19 Jan 2023 20:05:54 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 2112, Hungary) / * 2023 January 18 17:48 Weisz Ádám Created: Épületek egyesítése szülséges (1/A) / via StreetComplete 50.2 / * 2023 January 19 20:00 vasony Resolved: egyesítve</title>
-        <link>https://www.openstreetmap.org/note/3523626#c7586919</link>
-        <guid>https://www.openstreetmap.org/note/3523626#c7586919</guid>
-        <pubDate>Thu, 19 Jan 2023 20:00:21 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Central Hungary, 1119, Hungary) / * 2023 January 19 19:58 vasony Updated: ez nem egy sima emelkedő? highway=footway  incline=up, wheelchair=yes</title>
-        <link>https://www.openstreetmap.org/note/2696353#c7586913</link>
-        <guid>https://www.openstreetmap.org/note/2696353#c7586913</guid>
-        <pubDate>Thu, 19 Jan 2023 19:58:37 +0000</pubDate>
-      </item><item>
-        <title>new note (near Western Transdanubia, 9224, Hungary) / * 2023 January 19 19:58 efi99 Created: cím?</title>
-        <link>https://www.openstreetmap.org/note/3524805#c7586910</link>
-        <guid>https://www.openstreetmap.org/note/3524805#c7586910</guid>
-        <pubDate>Thu, 19 Jan 2023 19:58:01 +0000</pubDate>
       </item>
   </channel>
 </rss>
