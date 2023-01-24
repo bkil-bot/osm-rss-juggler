@@ -3,6 +3,16 @@
   <channel>
     <title>git (via bkil-bot)</title>
       <item>
+        <title>bkil: Budapest-infra: 239 241 249 256 259</title>
+        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/88682e50af8ed5809fb6e3feb36f57b11bab3f79</link>
+        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/88682e50af8ed5809fb6e3feb36f57b11bab3f79</guid>
+        <pubDate>2023-01-24T11:06:44+01:00</pubDate>
+      </item><item>
+        <title>bkil: Budapest-infra: +296 304 311 323 329 332</title>
+        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/83412d0902aa95ee71e71209c797f5a186adf525</link>
+        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/83412d0902aa95ee71e71209c797f5a186adf525</guid>
+        <pubDate>2023-01-24T10:43:55+01:00</pubDate>
+      </item><item>
         <title>bkil: Budapest-infra: add</title>
         <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/13db7bf330bf9b731b304364fdb32bc1d6c15abf</link>
         <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/13db7bf330bf9b731b304364fdb32bc1d6c15abf</guid>
@@ -177,16 +187,6 @@
         <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/1eb4edf3e66f7c2839a4de016cf6742498de7078</link>
         <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/1eb4edf3e66f7c2839a4de016cf6742498de7078</guid>
         <pubDate>2020-07-26T23:27:18+02:00</pubDate>
-      </item><item>
-        <title>Balázs Úr: Fehérgyarmat hozzáadása</title>
-        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/c75c293c884abba675794352fe2952e3c7618ccd</link>
-        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/c75c293c884abba675794352fe2952e3c7618ccd</guid>
-        <pubDate>2020-07-02T00:56:13+02:00</pubDate>
-      </item><item>
-        <title>Balázs Úr: Balatonszemes hozzáadása</title>
-        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/cca95a9a64fbaa41f34b59a5c13a03b2e8e59fd1</link>
-        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/cca95a9a64fbaa41f34b59a5c13a03b2e8e59fd1</guid>
-        <pubDate>2020-07-02T00:22:22+02:00</pubDate>
       </item>
   </channel>
 </rss>
