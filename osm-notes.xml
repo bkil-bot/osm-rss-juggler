@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Southern Transdanubia, 7634, Hungary) / * 2021 November 26 08:31 vasony-qa Created: Melyik közterület a Szigeti vám amire a posta van számozva? / * 2023 January 24 08:02 weba12 Updated: Ürögi fasor 2/b / * 2023 January 24 08:06 weba12 Updated: A térképen 1 szám van írva az épületre. / * 2023 January 24 08:26 vasony Updated: Azért van 1, mert a posta szerint a postahivatal címe Szigeti vám 1. A kérdés arról szólt, hogy ha a posta címe 1, akkor melyik utca a Szigeti vám, mivel ezt nem szerepel az térképen. / A posta épületén szerepel az üresi fasor 2/b? Mert akkor a posta a saját címét se ismeri, ami elég &amp;quot;vicces&amp;quot; / * 2023 January 24 11:22 weba12 Updated: Szigeti vám nem létezik. Csak a Pécsiek hívják így a környéket, mert régen Szigetvár felöl itt volt a VÁM. Nem lehet a számozás 1 mert a páratlan számok az utca másik oldalán vannak. / https://www.google.com/search?q=postahivatal+p%C3%A9cs+szigeti+v%C3%A1m&amp;amp;rlz=1C1GCEU_huHU828HU828&amp;amp;oq=postahivatal+p%C3%A9cs+szigeti+v%C3%A1m&amp;amp;aqs=chrome..69i57j33i160l3j33i22i29i30.13732j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8 / * 2023 January 24 11:29 weba12 Resolved: Ugyanígy van Budai vám is ahová nincs számozva semmi régen ott volt Buda felöl a városkapu. / * 2023 January 24 11:29 weba12 Reactivated:  / * 2023 January 24 11:36 weba12 Updated: Bocsánat a városkapuk nem ezeken a helyeken voltak. Üdv / * 2023 January 26 21:11 vasony Updated: Földhivatal és Pécs közterületjegyzéke szerint létezik a Szigeti vám, csak azt nem írják mi a helyrazji száma. / Az alábbi hrsz-ek vannak nyilvántartva / 1147/3		Szigeti vám 5. / 1148/2		Szigeti vám 3. / 1151/2		Szigeti vám 1.</title>
+        <link>https://www.openstreetmap.org/note/2949613#c7606505</link>
+        <guid>https://www.openstreetmap.org/note/2949613#c7606505</guid>
+        <pubDate>Thu, 26 Jan 2023 21:11:41 +0000</pubDate>
+      </item><item>
         <title>new note (near Central Transdanubia, 8200, Hungary) / * 2023 January 26 16:42 ironalloy Created: &amp;quot;megszűnt&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-01-21T19:25:03Z / POI name: Kamilla Gyógyszertár / POI types: amenity-pharmacy / #organicmaps</title>
         <link>https://www.openstreetmap.org/note/3533126#c7605961</link>
         <guid>https://www.openstreetmap.org/note/3533126#c7605961</guid>
@@ -227,31 +232,6 @@
         <link>https://www.openstreetmap.org/note/2263102#c7597865</link>
         <guid>https://www.openstreetmap.org/note/2263102#c7597865</guid>
         <pubDate>Mon, 23 Jan 2023 23:01:57 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 2750, Hungary) / * 2022 December 21 21:25 vasony Created: Deák tér itt van valahol? / * 2023 January 23 19:55 vasony Resolved: Parkként fel van rajzolva</title>
-        <link>https://www.openstreetmap.org/note/3486415#c7597307</link>
-        <guid>https://www.openstreetmap.org/note/3486415#c7597307</guid>
-        <pubDate>Mon, 23 Jan 2023 19:55:20 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 1012, Hungary) / * 2022 June 22 16:05 H3A Created: Unable to answer &amp;quot;What surface does this path have here?&amp;quot; for https://osm.org/way/508166118 via StreetComplete 37.0: / Ez ha jól látom akkor ez a műanyag cuccos, ami nincs válasznak / / / Apparently this is the plastic liner thing, which isn&amp;#39;t available / Attached photo(s): / https://westnordost.de/p/99017.jpg / * 2023 January 23 19:49 infeeeee Resolved: surface=linoleum hozzáadva, kép alapján ezt találtam legközelebbinek / https://www.openstreetmap.org/changeset/131622723</title>
-        <link>https://www.openstreetmap.org/note/3236313#c7597300</link>
-        <guid>https://www.openstreetmap.org/note/3236313#c7597300</guid>
-        <pubDate>Mon, 23 Jan 2023 19:49:02 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Transdanubia, 8592, Hungary) / * 2021 March 31 14:46 vasony-qa Created: Melyik közterület a Dózsa György utca? / * 2023 January 23 19:48 vasony Resolved: időközben felkerült</title>
-        <link>https://www.openstreetmap.org/note/2602444#c7597298</link>
-        <guid>https://www.openstreetmap.org/note/2602444#c7597298</guid>
-        <pubDate>Mon, 23 Jan 2023 19:48:46 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 2040, Hungary) / * 2022 November 22 07:25 pihentagy Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/309496911 via StreetComplete 49.2: / Egy pici konténer. Legközelebb melyiket válasszam? / * 2022 December 4 20:57 Zsolt Beringer Resolved: Legközelebb esetleg lehet az épület típusát pontosítani, de ez már inkább micromapping: / https://wiki.openstreetmap.org/wiki/Tag:building%3Dcontainer / * 2022 December 5 09:59 pihentagy Reactivated:  / * 2022 December 5 10:00 pihentagy Updated: Hát, pont erre vonatkozott a streetcomplete kérdése. De akkor majd hátrébb sorolom ezt a típusú kérdést. / * 2023 January 23 18:04 infeeeee Resolved: building=container hozzáadva https://www.openstreetmap.org/changeset/131618653</title>
-        <link>https://www.openstreetmap.org/note/3451384#c7597066</link>
-        <guid>https://www.openstreetmap.org/note/3451384#c7597066</guid>
-        <pubDate>Mon, 23 Jan 2023 18:04:43 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 2045, Hungary) / * 2022 November 24 07:13 pihentagy Created: Unable to answer &amp;quot;How does this road cross the barrier here?&amp;quot; for https://osm.org/node/5562966924 via StreetComplete 49.2: / Nincs akadály. Csak kelet felé van út, észak felől balra kanyarodósáv van, jobbról meg szalagkorlát / * 2023 January 23 18:04 infeeeee Resolved: Útnak ezt az oldalát töröltem. Majd ha tényleg lesz itt utca berajzoljuk. https://www.openstreetmap.org/changeset/131618653</title>
-        <link>https://www.openstreetmap.org/note/3453786#c7597065</link>
-        <guid>https://www.openstreetmap.org/note/3453786#c7597065</guid>
-        <pubDate>Mon, 23 Jan 2023 18:04:21 +0000</pubDate>
       </item>
   </channel>
 </rss>
