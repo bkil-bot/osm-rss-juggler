@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near North Hungary, 3235, Hungary) / * 2021 August 1 15:25 Digilazarus Created: oszlop 6681 fa / * 2021 December 26 17:31 grin Updated: Ez villanyoszlop? / * 2021 December 28 14:48 Digilazarus Updated: Villanyoszlop volt, de most nyáron földkábellel váltották ki a légvezetéket. 5 hónapja még állt, feltehetőleg azóta megszűnt, de nem tudom. / * 2023 January 29 21:45 BáthoryPéter Resolved: Megerősítem, hogy mindenhonnan elbontották az oszlopokat.</title>
+        <link>https://www.openstreetmap.org/note/2780784#c7615187</link>
+        <guid>https://www.openstreetmap.org/note/2780784#c7615187</guid>
+        <pubDate>Sun, 29 Jan 2023 21:45:50 +0000</pubDate>
+      </item><item>
+        <title>new note (near North Hungary, 3235, Hungary) / * 2023 January 29 21:45 BáthoryPéter Created: Műholdon itt valami építmény látható. Fel kéne mérni.</title>
+        <link>https://www.openstreetmap.org/note/3537216#c7615186</link>
+        <guid>https://www.openstreetmap.org/note/3537216#c7615186</guid>
+        <pubDate>Sun, 29 Jan 2023 21:45:50 +0000</pubDate>
+      </item><item>
         <title>closed note (near Central Hungary, 1078, Hungary) / * 2023 January 10 09:07 Tylla Created: Tűzcsap a járda szélén. / via StreetComplete 50.1 / * 2023 January 29 15:03 Spush Resolved: Idestova 4 éve fent van a térképen. /node/6342981373</title>
         <link>https://www.openstreetmap.org/note/3512020#c7613992</link>
         <guid>https://www.openstreetmap.org/note/3512020#c7613992</guid>
@@ -212,16 +222,6 @@
         <link>https://www.openstreetmap.org/note/2513076#c7607556</link>
         <guid>https://www.openstreetmap.org/note/2513076#c7607556</guid>
         <pubDate>Fri, 27 Jan 2023 09:50:26 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Southern Transdanubia, 7634, Hungary) / * 2021 November 26 08:31 vasony-qa Created: Melyik közterület a Szigeti vám amire a posta van számozva? / * 2023 January 24 08:02 weba12 Updated: Ürögi fasor 2/b / * 2023 January 24 08:06 weba12 Updated: A térképen 1 szám van írva az épületre. / * 2023 January 24 08:26 vasony Updated: Azért van 1, mert a posta szerint a postahivatal címe Szigeti vám 1. A kérdés arról szólt, hogy ha a posta címe 1, akkor melyik utca a Szigeti vám, mivel ezt nem szerepel az térképen. / A posta épületén szerepel az üresi fasor 2/b? Mert akkor a posta a saját címét se ismeri, ami elég &amp;quot;vicces&amp;quot; / * 2023 January 24 11:22 weba12 Updated: Szigeti vám nem létezik. Csak a Pécsiek hívják így a környéket, mert régen Szigetvár felöl itt volt a VÁM. Nem lehet a számozás 1 mert a páratlan számok az utca másik oldalán vannak. / https://www.google.com/search?q=postahivatal+p%C3%A9cs+szigeti+v%C3%A1m&amp;amp;rlz=1C1GCEU_huHU828HU828&amp;amp;oq=postahivatal+p%C3%A9cs+szigeti+v%C3%A1m&amp;amp;aqs=chrome..69i57j33i160l3j33i22i29i30.13732j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8 / * 2023 January 24 11:29 weba12 Resolved: Ugyanígy van Budai vám is ahová nincs számozva semmi régen ott volt Buda felöl a városkapu. / * 2023 January 24 11:29 weba12 Reactivated:  / * 2023 January 24 11:36 weba12 Updated: Bocsánat a városkapuk nem ezeken a helyeken voltak. Üdv / * 2023 January 26 21:11 vasony Updated: Földhivatal és Pécs közterületjegyzéke szerint létezik a Szigeti vám, csak azt nem írják mi a helyrazji száma. / Az alábbi hrsz-ek vannak nyilvántartva / 1147/3		Szigeti vám 5. / 1148/2		Szigeti vám 3. / 1151/2		Szigeti vám 1.</title>
-        <link>https://www.openstreetmap.org/note/2949613#c7606505</link>
-        <guid>https://www.openstreetmap.org/note/2949613#c7606505</guid>
-        <pubDate>Thu, 26 Jan 2023 21:11:41 +0000</pubDate>
-      </item><item>
-        <title>new note (near Central Transdanubia, 8200, Hungary) / * 2023 January 26 16:42 ironalloy Created: &amp;quot;megszűnt&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-01-21T19:25:03Z / POI name: Kamilla Gyógyszertár / POI types: amenity-pharmacy / #organicmaps</title>
-        <link>https://www.openstreetmap.org/note/3533126#c7605961</link>
-        <guid>https://www.openstreetmap.org/note/3533126#c7605961</guid>
-        <pubDate>Thu, 26 Jan 2023 16:42:39 +0000</pubDate>
       </item>
   </channel>
 </rss>
