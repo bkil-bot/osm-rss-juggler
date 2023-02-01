@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Central Hungary, 1223, Hungary) / * 2021 October 18 21:09 vasony Created: Ez a rész itt felmérendő. Ez lett a Térey Pál utca vagy ahol most van jelölve, a volt XI. utca. / https://service-einfoszab.budapest.hu/api/dvd/179479 / * 2023 February 1 02:14 urbalazs Resolved: Frissen készült utca, tükörsima aszfalt. Utcanévtábla még nincs, de az észak-nyugat felé lévő földút (volt XI. utca?) el lett bontva, házak vannak a helyén.</title>
+        <link>https://www.openstreetmap.org/note/2901370#c7622971</link>
+        <guid>https://www.openstreetmap.org/note/2901370#c7622971</guid>
+        <pubDate>Wed, 01 Feb 2023 02:14:48 +0000</pubDate>
+      </item><item>
         <title>closed note (near Central Hungary, 2151, Hungary) / * 2023 January 31 21:39 vasony Resolved: 2 éve szerepel a térképen</title>
         <link>https://www.openstreetmap.org/note/3539257#c7622610</link>
         <guid>https://www.openstreetmap.org/note/3539257#c7622610</guid>
@@ -112,16 +117,6 @@
         <link>https://www.openstreetmap.org/note/3537216#c7615186</link>
         <guid>https://www.openstreetmap.org/note/3537216#c7615186</guid>
         <pubDate>Sun, 29 Jan 2023 21:45:50 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 1078, Hungary) / * 2023 January 10 09:07 Tylla Created: Tűzcsap a járda szélén. / via StreetComplete 50.1 / * 2023 January 29 15:03 Spush Resolved: Idestova 4 éve fent van a térképen. /node/6342981373</title>
-        <link>https://www.openstreetmap.org/note/3512020#c7613992</link>
-        <guid>https://www.openstreetmap.org/note/3512020#c7613992</guid>
-        <pubDate>Sun, 29 Jan 2023 15:03:51 +0000</pubDate>
-      </item><item>
-        <title>new note (near Western Transdanubia, 9653, Hungary) / * 2023 January 29 15:01 efi99 Created: cím jó?</title>
-        <link>https://www.openstreetmap.org/note/3536770#c7613988</link>
-        <guid>https://www.openstreetmap.org/note/3536770#c7613988</guid>
-        <pubDate>Sun, 29 Jan 2023 15:01:44 +0000</pubDate>
       </item>
   </channel>
 </rss>
