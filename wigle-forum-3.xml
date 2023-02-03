@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Raspberry Pi War Driving - Automated upload: Hi all, I'm new to the community (2 weeks old) so go easy on me. As my first project I've written a guide on setting up a Raspberry Pi for War Driving. I've also written a script which automates the uploading to Wigle and any other FTP server you may have. I've just published it, so there may be the odd typo so feedback welcome . http://www.pi-resource.com/?page_id=378 Hope it helps! Dusterz automatic upload is exactly what i was searching for. thank you! -HughMungis</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11463#p11463</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11463#p11463</guid>
+        <pubDate>2023-02-03T18:52:34</pubDate>
+      </item><item>
         <title>Re: My RPi Setup: Looks like the wardriving mode docs for Kismet moved - https://www.kismetwireless.net/docs/rea ... /wardrive/ is the new location -arkasha</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11404#p11404</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11404#p11404</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11263#p11263</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11263#p11263</guid>
         <pubDate>2022-06-13T12:23:48</pubDate>
-      </item><item>
-        <title>Car antenna mount position suggestions?: Hey guys! So I have gotten the wardriving bug. I've had a lot of fun with it, and I've bought some 7db omni directional antennas which have a magnetic base. The question I had, was where have many of you mounted the antennas? Also, how did you deal with the cables, other than running them through the window? I would like to mount them and have the windows closed, but not have to drill holes in my car. Any suggestions would be greatly appreciated! Cheers! -T100</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11262#p11262</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11262#p11262</guid>
-        <pubDate>2022-06-13T08:32:54</pubDate>
       </item>
   </channel>
 </rss>
