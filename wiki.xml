@@ -2,21 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      <item>
-        <title>Hungary/20230304: geojson -Bkil</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20230304&amp;diff=2473132&amp;oldid=2473062</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20230304&amp;diff=2473132</guid>
-        <pubDate>Thu, 02 Feb 2023 20:27:05 GMT</pubDate>
-      </item><item>
-        <title>Hungary/20230218: geojson -Bkil</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20230218&amp;diff=2473130&amp;oldid=2473063</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20230218&amp;diff=2473130</guid>
-        <pubDate>Thu, 02 Feb 2023 20:18:37 GMT</pubDate>
-      </item><item>
-        <title>Hungary/20230211: geojson -Bkil</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20230211&amp;diff=2473128&amp;oldid=2473058</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20230211&amp;diff=2473128</guid>
-        <pubDate>Thu, 02 Feb 2023 20:17:12 GMT</pubDate>
-      </item>
+      
   </channel>
 </rss>
