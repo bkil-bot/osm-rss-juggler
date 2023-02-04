@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Erdészlak, Csatár) / * 2023 February 4 22:19 bkil Updated: Köszönjük az érdeklődést az OSM közreműködés kapcsán. Szeretném jelezni, hogy az érintett terület már meg van jelölve temetőnek. A temir adatbázisának licence nem kompatibilis az OSM ODbL licencével, így abból adatokat nem tudunk átemelni. Viszont a település hivatalos honlapján érdemes kutakodni.</title>
+        <link>https://www.openstreetmap.org/note/3544212#c7633299</link>
+        <guid>https://www.openstreetmap.org/note/3544212#c7633299</guid>
+        <pubDate>Sat, 04 Feb 2023 22:19:43 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Central Hungary, 1118, Hungary) / * 2022 December 4 20:12 vasony Created: Foxpost automata hol van pontosan? / * 2023 February 4 22:13 vasony Updated: A nagyszeben  tér felőli sarkon, még pontosítandó</title>
+        <link>https://www.openstreetmap.org/note/3467274#c7633292</link>
+        <guid>https://www.openstreetmap.org/note/3467274#c7633292</guid>
+        <pubDate>Sat, 04 Feb 2023 22:13:42 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Central Hungary, 1124, Hungary) / * 2022 September 10 15:50 vasony Created: Itt van ház? / * 2023 January 20 09:18 vasony Updated: garazs / * 2023 February 4 22:09 vasony Resolved: a ház a telek aljában</title>
+        <link>https://www.openstreetmap.org/note/3353891#c7633286</link>
+        <guid>https://www.openstreetmap.org/note/3353891#c7633286</guid>
+        <pubDate>Sat, 04 Feb 2023 22:09:19 +0000</pubDate>
+      </item><item>
         <title>new note (near Central Hungary, 1117, Hungary) / * 2023 February 4 20:50 vasony Created: Mindenhol csak II. lépcsőház van a térképen. Ellenőrizendő! KCR hirdetmény szerint nincsenek lépcsőházak</title>
         <link>https://www.openstreetmap.org/note/3544774#c7633164</link>
         <guid>https://www.openstreetmap.org/note/3544774#c7633164</guid>
@@ -272,21 +287,6 @@
         <link>https://www.openstreetmap.org/note/3542423#c7628104</link>
         <guid>https://www.openstreetmap.org/note/3542423#c7628104</guid>
         <pubDate>Thu, 02 Feb 2023 20:52:11 +0000</pubDate>
-      </item><item>
-        <title>new note (near Central Hungary, 1118, Hungary) / * 2023 February 2 20:51 vasony Created: fizető automata?</title>
-        <link>https://www.openstreetmap.org/note/3542422#c7628103</link>
-        <guid>https://www.openstreetmap.org/note/3542422#c7628103</guid>
-        <pubDate>Thu, 02 Feb 2023 20:51:45 +0000</pubDate>
-      </item><item>
-        <title>new note (near Central Hungary, 1118, Hungary) / * 2023 February 2 20:51 vasony Created: fizető automata?</title>
-        <link>https://www.openstreetmap.org/note/3542421#c7628102</link>
-        <guid>https://www.openstreetmap.org/note/3542421#c7628102</guid>
-        <pubDate>Thu, 02 Feb 2023 20:51:45 +0000</pubDate>
-      </item><item>
-        <title>new note (near Central Hungary, 1118, Hungary) / * 2023 February 2 20:51 vasony Created: Ez a rész is fizetős lett az Otthon utcában felmérendők a fizető automaták (4 db)</title>
-        <link>https://www.openstreetmap.org/note/3542420#c7628099</link>
-        <guid>https://www.openstreetmap.org/note/3542420#c7628099</guid>
-        <pubDate>Thu, 02 Feb 2023 20:51:14 +0000</pubDate>
       </item>
   </channel>
 </rss>
