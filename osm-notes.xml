@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Central Hungary, 1068, Hungary) / * 2023 February 4 22:25 bkil Resolved: Thanks, added https://www.openstreetmap.org/changeset/132092504#map=19/47.50403/19.06531</title>
+        <link>https://www.openstreetmap.org/note/3544124#c7633311</link>
+        <guid>https://www.openstreetmap.org/note/3544124#c7633311</guid>
+        <pubDate>Sat, 04 Feb 2023 22:25:40 +0000</pubDate>
+      </item><item>
         <title>new comment (near Erdészlak, Csatár) / * 2023 February 4 22:19 bkil Updated: Köszönjük az érdeklődést az OSM közreműködés kapcsán. Szeretném jelezni, hogy az érintett terület már meg van jelölve temetőnek. A temir adatbázisának licence nem kompatibilis az OSM ODbL licencével, így abból adatokat nem tudunk átemelni. Viszont a település hivatalos honlapján érdemes kutakodni.</title>
         <link>https://www.openstreetmap.org/note/3544212#c7633299</link>
         <guid>https://www.openstreetmap.org/note/3544212#c7633299</guid>
@@ -277,16 +282,6 @@
         <link>https://www.openstreetmap.org/note/3542428#c7628113</link>
         <guid>https://www.openstreetmap.org/note/3542428#c7628113</guid>
         <pubDate>Thu, 02 Feb 2023 20:55:46 +0000</pubDate>
-      </item><item>
-        <title>new note (near Central Hungary, 1118, Hungary) / * 2023 February 2 20:52 vasony Created: fizető automata?</title>
-        <link>https://www.openstreetmap.org/note/3542425#c7628107</link>
-        <guid>https://www.openstreetmap.org/note/3542425#c7628107</guid>
-        <pubDate>Thu, 02 Feb 2023 20:52:43 +0000</pubDate>
-      </item><item>
-        <title>new note (near Central Hungary, 1118, Hungary) / * 2023 February 2 20:52 vasony Created: fizető automata?</title>
-        <link>https://www.openstreetmap.org/note/3542423#c7628104</link>
-        <guid>https://www.openstreetmap.org/note/3542423#c7628104</guid>
-        <pubDate>Thu, 02 Feb 2023 20:52:11 +0000</pubDate>
       </item>
   </channel>
 </rss>
