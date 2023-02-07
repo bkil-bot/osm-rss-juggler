@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Five of us were going around Bruxelles the last week, for OFFDEM and server-setup happenings mostly ... and almost none had mobile data and rather relied on random WIFIs .... personally testing our own app&amp;#39;s &amp;quot;offline-first&amp;quot; approach and features for real :) The server-setup workshops generally went very well and some attendees now aim to give sessions themselves in Strasbourg and other places -- and next one is at LAG in Amsterdam this friday ... https://delta.chat/en/2023-01-27-upcoming-mail-server-workshops</title>
+        <link>https://chaos.social/@delta/109823760694772297</link>
+        <guid>https://chaos.social/@delta/109823760694772297</guid>
+        <pubDate>Tue, 07 Feb 2023 13:46:38 +0000</pubDate>
+      </item><item>
         <title>Wondering what the best e-mail server is out there? How about rolling one for your friends and communities? Here is a new setup guide for &amp;quot;automatic accounts&amp;quot; e-mail servers --- and an announcement of upcoming hands-on workshops in Brussels, Amsterdam, Montpellier and Gent ... all in the next 8 weeks! https://delta.chat/en/2023-01-27-upcoming-mail-server-workshops</title>
         <link>https://chaos.social/@delta/109761861452626888</link>
         <guid>https://chaos.social/@delta/109761861452626888</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/108571601409448781</link>
         <guid>https://chaos.social/@delta/108571601409448781</guid>
         <pubDate>Fri, 01 Jul 2022 10:26:04 +0000</pubDate>
-      </item><item>
-        <title>Developing web apps to run in chats just got a boost :) RT @faassen@twitter.com The last couple of weeks I&amp;#39;ve been working on a dev tool for webxdc. Webxdc allows embedded web applications within a chat application. It&amp;#39;s in use by DeltaChat. https://webxdc.org/ 🧵 🐦🔗: https://twitter.com/faassen/status/1542533794116386817</title>
-        <link>https://chaos.social/@delta/108571425638736168</link>
-        <guid>https://chaos.social/@delta/108571425638736168</guid>
-        <pubDate>Fri, 01 Jul 2022 09:41:22 +0000</pubDate>
       </item>
   </channel>
 </rss>
