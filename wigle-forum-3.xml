@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Creating a driving rig: worth noting that recent Kismet has a proper WiGLE export tool, as well! (dragorn rocks) What's better Vistumbler or Kismet for Wigle reporting? -pretenda</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11500#p11500</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11500#p11500</guid>
+        <pubDate>2023-02-08T10:20:11</pubDate>
+      </item><item>
         <title>Re: Raspberry Pi War Driving - Automated upload: Hi all, I'm new to the community (2 weeks old) so go easy on me. As my first project I've written a guide on setting up a Raspberry Pi for War Driving. I've also written a script which automates the uploading to Wigle and any other FTP server you may have. I've just published it, so there may be the odd typo so feedback welcome . http://www.pi-resource.com/?page_id=378 Hope it helps! Dusterz automatic upload is exactly what i was searching for. thank you! -HughMungis</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11463#p11463</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11463#p11463</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11264#p11264</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11264#p11264</guid>
         <pubDate>2022-06-13T19:59:46</pubDate>
-      </item><item>
-        <title>Re: Car antenna mount position suggestions?: Hi At one moment, I was putting the gps on the roof of my car; I was closing the door on the cable. There is rubber to make joint. So it is not too much compressed. But it is a little anyway. I coulnd't have done that too often without damaging the cable I guess. but this is a USB cable. May be your antenna cable is thinner and would sustain less damaged when taken in the door joint.May be try with a diffrent cable too see how it goes first... but not I never mounted a wifi antenna on the roof. as it is not a very discrete setup -zebul666</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11263#p11263</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11263#p11263</guid>
-        <pubDate>2022-06-13T12:23:48</pubDate>
       </item>
   </channel>
 </rss>
