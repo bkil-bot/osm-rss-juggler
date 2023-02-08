@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near North Hungary, 3700, Hungary) / * 2023 February 8 11:48 vasony-qa Created: Melyik közterület a Lini István tér amire az iskola számozva van?</title>
+        <link>https://www.openstreetmap.org/note/3549955#c7644750</link>
+        <guid>https://www.openstreetmap.org/note/3549955#c7644750</guid>
+        <pubDate>Wed, 08 Feb 2023 11:48:28 +0000</pubDate>
+      </item><item>
+        <title>new note (near Madách Imre Mezőgazdasági Zrt., Szügy) / * 2023 February 8 11:45 vasony-qa Created: Melyik közterület a Gyarmati út?</title>
+        <link>https://www.openstreetmap.org/note/3549952#c7644746</link>
+        <guid>https://www.openstreetmap.org/note/3549952#c7644746</guid>
+        <pubDate>Wed, 08 Feb 2023 11:45:02 +0000</pubDate>
+      </item><item>
         <title>new note (near Transdanubia, 9408, Hungary) / * 2023 February 8 09:40 vasony-qa Created: Itt van pár ház aminek még Görbehalom telep a címe, és nem az adott utcákra van számozva</title>
         <link>https://www.openstreetmap.org/note/3549798#c7644444</link>
         <guid>https://www.openstreetmap.org/note/3549798#c7644444</guid>
@@ -137,26 +147,6 @@
         <link>https://www.openstreetmap.org/note/3546211#c7636166</link>
         <guid>https://www.openstreetmap.org/note/3546211#c7636166</guid>
         <pubDate>Sun, 05 Feb 2023 19:28:15 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 1037, Hungary) / * 2023 January 27 19:07 utvonalfelmeresek Created: csendes hely, háttérzene nincs. lehet beszélgetni / * 2023 January 30 12:22 bkil Updated: Ez a WC-re vonatkozott? Amúgy azért tettem fel a POI-ra azt, hogy background_music=no / * 2023 February 5 18:47 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/131554347</title>
-        <link>https://www.openstreetmap.org/note/3534732#c7636057</link>
-        <guid>https://www.openstreetmap.org/note/3534732#c7636057</guid>
-        <pubDate>Sun, 05 Feb 2023 18:47:56 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Almádi, Balatonalmádi) / * 2023 February 5 18:37 vasony Resolved: jav.</title>
-        <link>https://www.openstreetmap.org/note/3545058#c7636033</link>
-        <guid>https://www.openstreetmap.org/note/3545058#c7636033</guid>
-        <pubDate>Sun, 05 Feb 2023 18:37:18 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Almádi, Balatonalmádi) / * 2022 October 31 17:29 vasony Created: Ez a szakasz itt létezik? / * 2023 February 5 18:32 vasony Resolved: létezik egy füves út, utcatábla nincs, végén egy kapu</title>
-        <link>https://www.openstreetmap.org/note/3422348#c7636020</link>
-        <guid>https://www.openstreetmap.org/note/3422348#c7636020</guid>
-        <pubDate>Sun, 05 Feb 2023 18:32:48 +0000</pubDate>
-      </item><item>
-        <title>new note (near Almádi, Balatonalmádi) / * 2023 February 5 18:11 vasony Created: 9 vagy 11 ?</title>
-        <link>https://www.openstreetmap.org/note/3546113#c7635968</link>
-        <guid>https://www.openstreetmap.org/note/3546113#c7635968</guid>
-        <pubDate>Sun, 05 Feb 2023 18:11:51 +0000</pubDate>
       </item>
   </channel>
 </rss>
