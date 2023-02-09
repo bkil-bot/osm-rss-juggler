@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Central Hungary, 1119, Hungary) / * 2021 June 2 22:57 bkil Created: akadálymentes feljáró, hosszú rámpa / * 2023 January 19 17:36 vasony Updated: ezekkel a jegyzetekkel van valami terv? / * 2023 January 19 18:13 bkil Updated: Ja, le kellett volna fotózni, szögmérőzni meg nem tudtam a jelét... Ez valami conveying, csak nem convey-el, meg wheelchair=yes. Szólj ha láttál már rá példát https://wiki.osm.org/Tag:highway%3Dsteps https://wiki.osm.org/Key:conveying / * 2023 January 19 19:58 vasony Updated: ez nem egy sima emelkedő? highway=footway  incline=up, wheelchair=yes / * 2023 January 19 21:10 bkil Updated: Úgy emlékszem bordázott, de FIXME. Tamásnál vannak a képek. Mondjuk az meg a surface=kutyafarka. Viszont incline=% még izgalmasabb lenne... / * 2023 February 9 16:53 vasony Updated: 10x10 csempe, 10% incline, 2 pihenő</title>
+        <link>https://www.openstreetmap.org/note/2696353#c7649354</link>
+        <guid>https://www.openstreetmap.org/note/2696353#c7649354</guid>
+        <pubDate>Thu, 09 Feb 2023 16:53:10 +0000</pubDate>
+      </item><item>
         <title>new note (near Transdanubia, 9633, Hungary) / * 2023 February 9 14:56 efi99 Created: cím jó?</title>
         <link>https://www.openstreetmap.org/note/3551571#c7648972</link>
         <guid>https://www.openstreetmap.org/note/3551571#c7648972</guid>
@@ -192,16 +197,6 @@
         <link>https://www.openstreetmap.org/note/3548699#c7642982</link>
         <guid>https://www.openstreetmap.org/note/3548699#c7642982</guid>
         <pubDate>Tue, 07 Feb 2023 18:36:33 +0000</pubDate>
-      </item><item>
-        <title>new note (near North Hungary, 2693, Hungary) / * 2023 February 7 16:02 Created: onosm.org submitted note from a business: / step2.name: Tehran , pakdasht / addr:housenumber=Tehran , pakdasht , bolivar ghomi jnoobi, yes 5 / addr:street=Electronics repairs / step2.phone: 989393222646 / step2.social: تعمیرات صوتی و تصویری محمد / step2.cataltdesc: Electronics Stores / step2.payment: / takeaway=undefined</title>
-        <link>https://www.openstreetmap.org/note/3549042#c7642535</link>
-        <guid>https://www.openstreetmap.org/note/3549042#c7642535</guid>
-        <pubDate>Tue, 07 Feb 2023 16:02:52 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 1118, Hungary) / * 2023 February 2 20:47 vasony Created: Itt kéne legyen egy automata a Kelenhegyi/Kemenes sarka illetve a Mányoki 8 helyett / * 2023 February 4 12:22 infeeeee Updated: Hozzáadtam, tényleg itt van, Kemenes sarkán tényleg nincs, töröltem. https://www.openstreetmap.org/changeset/132074063 / Mányoki út felmérendő / * 2023 February 7 13:12 infeeeee Resolved: Mányoki, Ménesi automaták frissítve. https://www.openstreetmap.org/changeset/132205509</title>
-        <link>https://www.openstreetmap.org/note/3542413#c7641991</link>
-        <guid>https://www.openstreetmap.org/note/3542413#c7641991</guid>
-        <pubDate>Tue, 07 Feb 2023 13:12:27 +0000</pubDate>
       </item>
   </channel>
 </rss>
