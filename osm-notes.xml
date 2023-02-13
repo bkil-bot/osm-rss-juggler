@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Transdanubia, 9027, Hungary) / * 2023 February 13 08:47 kogutowicz-mano Updated: Ööööö... elnézést kérek, de nem értek egyet ezzel a szemlélettel. Az OSM adatbázisa a jelent, a valóságot hivatott rögzíteni. Ellenzem azokat a törekvéseket, hogy terjesszük ki a római kortól a &amp;quot;messze jövendőig&amp;quot; az időskálát. Ennek egy eltakaríthatatlan szeméthegy lesz a vége. / &amp;quot;Hadrianus császár ide egy amfiteátrumot szeretett volna építtetni.&amp;quot;</title>
+        <link>https://www.openstreetmap.org/note/3539655#c7662371</link>
+        <guid>https://www.openstreetmap.org/note/3539655#c7662371</guid>
+        <pubDate>Mon, 13 Feb 2023 08:47:55 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Transdanubia, 9027, Hungary) / * 2023 January 31 16:36 kogutowicz-mano Created: A tervezett híd törölve. Lehet kukázni a megelőlegezett utakat is. / https://atlatszo.hu/kornyezet/2023/01/31/natura-2000-teruleten-taroltak-le-a-fakat-aztan-lefujtak-az-uj-mosoni-duna-hidat/ / * 2023 February 13 08:34 NightH Updated: Proposed taggel szerintem maradhatnak, a tervek véglegesek, a kivitelezés lett leállítva. A jövőben várható, hogy azonos tartalommal elkészülnek majd a tervek, a kérdés csak annyi, hogy 1-2 vagy 5-8 éves időtávon. Addig szerintem elférnek ezek a vonalak az adatbázisban.</title>
+        <link>https://www.openstreetmap.org/note/3539655#c7662344</link>
+        <guid>https://www.openstreetmap.org/note/3539655#c7662344</guid>
+        <pubDate>Mon, 13 Feb 2023 08:34:59 +0000</pubDate>
+      </item><item>
+        <title>closed note (near North Hungary, 2693, Hungary) / * 2023 February 7 16:02 Created: onosm.org submitted note from a business: / step2.name: Tehran , pakdasht / addr:housenumber=Tehran , pakdasht , bolivar ghomi jnoobi, yes 5 / addr:street=Electronics repairs / step2.phone: 989393222646 / step2.social: تعمیرات صوتی و تصویری محمد / step2.cataltdesc: Electronics Stores / step2.payment: / takeaway=undefined / * 2023 February 13 08:23 NightH Resolved: Wrong coordinates, note makes no sense here.</title>
+        <link>https://www.openstreetmap.org/note/3549042#c7662297</link>
+        <guid>https://www.openstreetmap.org/note/3549042#c7662297</guid>
+        <pubDate>Mon, 13 Feb 2023 08:23:26 +0000</pubDate>
+      </item><item>
         <title>new note (near South Great Plain, 5742, Hungary) / * 2023 February 13 00:50 Spush Created: A vasúti kereszteződés átépítésre került, módosult az út nyomvonala.</title>
         <link>https://www.openstreetmap.org/note/3556643#c7661610</link>
         <guid>https://www.openstreetmap.org/note/3556643#c7661610</guid>
@@ -147,26 +162,6 @@
         <link>https://www.openstreetmap.org/note/3552211#c7650458</link>
         <guid>https://www.openstreetmap.org/note/3552211#c7650458</guid>
         <pubDate>Fri, 10 Feb 2023 04:39:58 +0000</pubDate>
-      </item><item>
-        <title>new note (near Central Hungary, 2112, Hungary) / * 2023 February 10 03:38 Created: Napelemek</title>
-        <link>https://www.openstreetmap.org/note/3552192#c7650432</link>
-        <guid>https://www.openstreetmap.org/note/3552192#c7650432</guid>
-        <pubDate>Fri, 10 Feb 2023 03:38:53 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 1119, Hungary) / * 2023 February 9 23:38 bkil Resolved: &amp;quot;Kész&amp;quot;. Mondjuk meg kéne rajzolni minden indoor folyosót itt is alaposan, de most gyorsan feldobtam egy részét, hogy legalább valami topológia legyen az emeleten is. https://osm.org/changeset/132333266#map=19/47.46440/19.03209</title>
-        <link>https://www.openstreetmap.org/note/2696353#c7650262</link>
-        <guid>https://www.openstreetmap.org/note/2696353#c7650262</guid>
-        <pubDate>Thu, 09 Feb 2023 23:38:29 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 1112, Hungary) / * 2023 February 8 21:58 vasony Created: parkoló automata? / * 2023 February 9 21:09 vasony Resolved: van</title>
-        <link>https://www.openstreetmap.org/note/3550803#c7649974</link>
-        <guid>https://www.openstreetmap.org/note/3550803#c7649974</guid>
-        <pubDate>Thu, 09 Feb 2023 21:09:27 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 1111, Hungary) / * 2023 February 9 20:02 vasony Resolved: a megállóban a Budafoki úthoz közelebb</title>
-        <link>https://www.openstreetmap.org/note/3551103#c7649838</link>
-        <guid>https://www.openstreetmap.org/note/3551103#c7649838</guid>
-        <pubDate>Thu, 09 Feb 2023 20:02:56 +0000</pubDate>
       </item>
   </channel>
 </rss>
