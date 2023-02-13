@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Transdanubia, 9027, Hungary) / * 2023 February 13 10:08 kogutowicz-mano Updated: A highway=proposed definíciója így kezdődik: / &amp;quot;For roads that are scheduled to be built, but where any construction work hasn&amp;#39;t yet been started.&amp;quot; / Na ez a győri izé immár nem &amp;quot;scheduled&amp;quot;, tehát nem felel meg a kritériumoknak. Most a &amp;quot;Rákospalotáig meghosszabbítjuk a metrót, a nyomvonal tervei már el is készültek&amp;quot; kategóriába tartozik. / Kellene egy új tag a vágyálmoknak. :-)</title>
+        <link>https://www.openstreetmap.org/note/3539655#c7662637</link>
+        <guid>https://www.openstreetmap.org/note/3539655#c7662637</guid>
+        <pubDate>Mon, 13 Feb 2023 10:08:53 +0000</pubDate>
+      </item><item>
+        <title>new note (near South Great Plain, 6000, Hungary) / * 2023 February 13 10:04 Created: &amp;quot;No longer exists&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2022-12-16T15:17:23Z / POI name: T-Mobile / POI types: shop-mobile_phone / #organicmaps</title>
+        <link>https://www.openstreetmap.org/note/3557098#c7662627</link>
+        <guid>https://www.openstreetmap.org/note/3557098#c7662627</guid>
+        <pubDate>Mon, 13 Feb 2023 10:04:29 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Transdanubia, 9027, Hungary) / * 2023 February 13 09:40 NightH Updated: Megértem a nézeteidet, de az a tény, hogy az adatbázisban létezik és elfogadott a proposed key használata, ellentmond ezeknek a nézeteknek. A logikád szerint amíg az első kapavágás meg nem történik (contstruction szint), addig semmit fel sem lehetne rajzolni, a jelenleg proposed kulccsal jelölt közel 100ezer elem kukázható az adatbázisból. / Abban egyetértek, hogy ne vegyünk fel minden grandiózus álmot és PR szintű látványtervvel eladott választási ígéretet, de itt konkrét kiviteli terv szintről beszélünk, és a hivatalos kommunikáció szerint (legyen az bármennyire is reális/irreális) ideiglenesen leállított projektről.</title>
+        <link>https://www.openstreetmap.org/note/3539655#c7662530</link>
+        <guid>https://www.openstreetmap.org/note/3539655#c7662530</guid>
+        <pubDate>Mon, 13 Feb 2023 09:40:10 +0000</pubDate>
+      </item><item>
+        <title>new note (near North Hungary, 3121, Hungary) / * 2023 February 13 09:33 Created: Kuti</title>
+        <link>https://www.openstreetmap.org/note/3557044#c7662509</link>
+        <guid>https://www.openstreetmap.org/note/3557044#c7662509</guid>
+        <pubDate>Mon, 13 Feb 2023 09:33:53 +0000</pubDate>
+      </item><item>
         <title>new comment (near Transdanubia, 9027, Hungary) / * 2023 February 13 08:47 kogutowicz-mano Updated: Ööööö... elnézést kérek, de nem értek egyet ezzel a szemlélettel. Az OSM adatbázisa a jelent, a valóságot hivatott rögzíteni. Ellenzem azokat a törekvéseket, hogy terjesszük ki a római kortól a &amp;quot;messze jövendőig&amp;quot; az időskálát. Ennek egy eltakaríthatatlan szeméthegy lesz a vége. / &amp;quot;Hadrianus császár ide egy amfiteátrumot szeretett volna építtetni.&amp;quot;</title>
         <link>https://www.openstreetmap.org/note/3539655#c7662371</link>
         <guid>https://www.openstreetmap.org/note/3539655#c7662371</guid>
@@ -152,16 +172,6 @@
         <link>https://www.openstreetmap.org/note/3542420#c7650836</link>
         <guid>https://www.openstreetmap.org/note/3542420#c7650836</guid>
         <pubDate>Fri, 10 Feb 2023 09:08:08 +0000</pubDate>
-      </item><item>
-        <title>new note (near Western Transdanubia, 9500, Hungary) / * 2023 February 10 04:58 Created: Hiányzó fémhulladék telep (Kemenesfém)</title>
-        <link>https://www.openstreetmap.org/note/3552222#c7650476</link>
-        <guid>https://www.openstreetmap.org/note/3552222#c7650476</guid>
-        <pubDate>Fri, 10 Feb 2023 04:58:01 +0000</pubDate>
-      </item><item>
-        <title>new note (near Western Transdanubia, 9500, Hungary) / * 2023 February 10 04:39 Created: Hiányzó napelempark (Kiniczky Napelempark, 1873/27 hrsz.)</title>
-        <link>https://www.openstreetmap.org/note/3552211#c7650458</link>
-        <guid>https://www.openstreetmap.org/note/3552211#c7650458</guid>
-        <pubDate>Fri, 10 Feb 2023 04:39:58 +0000</pubDate>
       </item>
   </channel>
 </rss>
