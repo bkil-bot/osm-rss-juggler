@@ -2,6 +2,11 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      
+      <item>
+        <title>Hungary/Jelölési példák: Címek: hrsz. részletesebb leírása, mert keverhető volt a parcella kifejezés az alátöréssel -Vasony</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Jel%C3%B6l%C3%A9si_p%C3%A9ld%C3%A1k&amp;diff=2478882&amp;oldid=2464685</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Jel%C3%B6l%C3%A9si_p%C3%A9ld%C3%A1k&amp;diff=2478882</guid>
+        <pubDate>Tue, 14 Feb 2023 20:16:02 GMT</pubDate>
+      </item>
   </channel>
 </rss>
