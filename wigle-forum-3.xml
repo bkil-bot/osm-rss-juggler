@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Creating a driving rig: worth noting that recent Kismet has a proper WiGLE export tool, as well! (dragorn rocks) What's better Vistumbler or Kismet for Wigle reporting?I would say Kismet, depends on what harerdware you plan to run it on. Kismet is pretty powerful. -wpa3</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11532#p11532</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11532#p11532</guid>
+        <pubDate>2023-02-14T16:49:16</pubDate>
+      </item><item>
         <title>Re: Has anyone run WiGLE inside the windows 11 android subsystem?: I never run WiGLE inside the windows 11 android subsystem before. build now gg -thomasfrank</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11509#p11509</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11509#p11509</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11283#p11283</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11283#p11283</guid>
         <pubDate>2022-07-16T04:32:41</pubDate>
-      </item><item>
-        <title>Re: Posting file via cURL: You need the @ symbol even with full path. Code: curl -i -H Accept:application/json -u &amp;lt;api name&amp;gt;:&amp;lt;api token&amp;gt; --basic -F file=@/home/hal/.kismet/logs/active/Kismet-20220715-08-06-07-1.wiglecsv -F donate=true https://api.wigle.net/api/v2/file/uploadHTTP/1.1 400 Bad RequestServer: nginx/1.20.0Date: Fri, 15 Jul 2022 08:43:48 GMTContent-Type: application/jsonContent-Length: 45Connection: keep-alive{&quot;code&quot;:400,&quot;message&quot;:&quot;HTTP 400 Bad Request&quot;} -Binary_Buddha</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11279#p11279</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11279#p11279</guid>
-        <pubDate>2022-07-15T08:46:49</pubDate>
       </item>
   </channel>
 </rss>
