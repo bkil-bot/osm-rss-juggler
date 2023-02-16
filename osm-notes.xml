@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Marcalmajor, Celldömölk) / * 2023 February 16 19:20 Created: A főútról nézve úgy látszik, hogy a Wewalka napelemparkot épít itt.</title>
+        <link>https://www.openstreetmap.org/note/3562216#c7673839</link>
+        <guid>https://www.openstreetmap.org/note/3562216#c7673839</guid>
+        <pubDate>Thu, 16 Feb 2023 19:20:17 +0000</pubDate>
+      </item><item>
         <title>new note (near Central Hungary, 1051, Hungary) / * 2023 February 16 14:45 kogutowicz-mano Created: Átépítése folyamatban. / https://24.hu/kultura/2023/02/16/ismeretlen-budapest-sofitel-bontas-atepites-jellinek-daniel-latvanyterv-terv-szalloda-hotel-zalavary-lajos-garancsi-istvan/</title>
         <link>https://www.openstreetmap.org/note/3561763#c7673004</link>
         <guid>https://www.openstreetmap.org/note/3561763#c7673004</guid>
@@ -277,26 +282,6 @@
         <link>https://www.openstreetmap.org/note/3539655#c7662530</link>
         <guid>https://www.openstreetmap.org/note/3539655#c7662530</guid>
         <pubDate>Mon, 13 Feb 2023 09:40:10 +0000</pubDate>
-      </item><item>
-        <title>new note (near North Hungary, 3121, Hungary) / * 2023 February 13 09:33 Created: Kuti</title>
-        <link>https://www.openstreetmap.org/note/3557044#c7662509</link>
-        <guid>https://www.openstreetmap.org/note/3557044#c7662509</guid>
-        <pubDate>Mon, 13 Feb 2023 09:33:53 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Transdanubia, 9027, Hungary) / * 2023 February 13 08:47 kogutowicz-mano Updated: Ööööö... elnézést kérek, de nem értek egyet ezzel a szemlélettel. Az OSM adatbázisa a jelent, a valóságot hivatott rögzíteni. Ellenzem azokat a törekvéseket, hogy terjesszük ki a római kortól a &amp;quot;messze jövendőig&amp;quot; az időskálát. Ennek egy eltakaríthatatlan szeméthegy lesz a vége. / &amp;quot;Hadrianus császár ide egy amfiteátrumot szeretett volna építtetni.&amp;quot;</title>
-        <link>https://www.openstreetmap.org/note/3539655#c7662371</link>
-        <guid>https://www.openstreetmap.org/note/3539655#c7662371</guid>
-        <pubDate>Mon, 13 Feb 2023 08:47:55 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Transdanubia, 9027, Hungary) / * 2023 January 31 16:36 kogutowicz-mano Created: A tervezett híd törölve. Lehet kukázni a megelőlegezett utakat is. / https://atlatszo.hu/kornyezet/2023/01/31/natura-2000-teruleten-taroltak-le-a-fakat-aztan-lefujtak-az-uj-mosoni-duna-hidat/ / * 2023 February 13 08:34 NightH Updated: Proposed taggel szerintem maradhatnak, a tervek véglegesek, a kivitelezés lett leállítva. A jövőben várható, hogy azonos tartalommal elkészülnek majd a tervek, a kérdés csak annyi, hogy 1-2 vagy 5-8 éves időtávon. Addig szerintem elférnek ezek a vonalak az adatbázisban.</title>
-        <link>https://www.openstreetmap.org/note/3539655#c7662344</link>
-        <guid>https://www.openstreetmap.org/note/3539655#c7662344</guid>
-        <pubDate>Mon, 13 Feb 2023 08:34:59 +0000</pubDate>
-      </item><item>
-        <title>closed note (near North Hungary, 2693, Hungary) / * 2023 February 7 16:02 Created: onosm.org submitted note from a business: / step2.name: Tehran , pakdasht / addr:housenumber=Tehran , pakdasht , bolivar ghomi jnoobi, yes 5 / addr:street=Electronics repairs / step2.phone: 989393222646 / step2.social: تعمیرات صوتی و تصویری محمد / step2.cataltdesc: Electronics Stores / step2.payment: / takeaway=undefined / * 2023 February 13 08:23 NightH Resolved: Wrong coordinates, note makes no sense here.</title>
-        <link>https://www.openstreetmap.org/note/3549042#c7662297</link>
-        <guid>https://www.openstreetmap.org/note/3549042#c7662297</guid>
-        <pubDate>Mon, 13 Feb 2023 08:23:26 +0000</pubDate>
       </item>
   </channel>
 </rss>
