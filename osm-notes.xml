@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Central Hungary, 1039, Hungary) / * 2023 February 16 21:29 utvonalfelmeresek Created: gls</title>
+        <link>https://www.openstreetmap.org/note/3562321#c7674105</link>
+        <guid>https://www.openstreetmap.org/note/3562321#c7674105</guid>
+        <pubDate>Thu, 16 Feb 2023 21:29:58 +0000</pubDate>
+      </item><item>
         <title>new note (near Marcalmajor, Celldömölk) / * 2023 February 16 19:20 Created: A főútról nézve úgy látszik, hogy a Wewalka napelemparkot épít itt.</title>
         <link>https://www.openstreetmap.org/note/3562216#c7673839</link>
         <guid>https://www.openstreetmap.org/note/3562216#c7673839</guid>
@@ -257,31 +262,6 @@
         <link>https://www.openstreetmap.org/note/3557221#c7662953</link>
         <guid>https://www.openstreetmap.org/note/3557221#c7662953</guid>
         <pubDate>Mon, 13 Feb 2023 11:44:58 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Transdanubia, 9027, Hungary) / * 2023 February 13 10:39 kogutowicz-mano Resolved: Én már elmondtam, ami a bögyömet nyomta. / Ha rombolni akarnék, már megtettem volna különösebb magyarázkodás nélkül. / Mindenesetre volna rá egy fogadásom, hogy a következő kilenc évben nem fog megvalósulni, ami most tervként be van rajzolva. :-)</title>
-        <link>https://www.openstreetmap.org/note/3539655#c7662762</link>
-        <guid>https://www.openstreetmap.org/note/3539655#c7662762</guid>
-        <pubDate>Mon, 13 Feb 2023 10:39:39 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Transdanubia, 9027, Hungary) / * 2023 February 13 10:26 NightH Updated: Hogy az építkezés mennyire &amp;quot;scheduled&amp;quot; ismét nem értünk egyet. A hivatalos kommunikáció szerint az építkezés továbbra is &amp;quot;scheduled&amp;quot;. Az adatok eltávolítása szempontjából viszont a Key:proposed oldal egyértelműen fogalmaz: &amp;quot;Objects without clear evidence that there is some real active plan to construct it should be removed from data.&amp;quot; / Az általad &amp;quot;izé&amp;quot;-ként értékelt hídra és úthálózatra jogilag érvényes építési engedély van kiadva, az építése már volt tenderezve, amin győztest is hirdettek. Tehát erős lenne azt mondani, hogy nincs &amp;quot;real active plan&amp;quot;. / Ettől függetlenül az OSM nyílt adatbázis, és előtted áll a lehetőség, hogy töröld az általad problémásnak ítélt elemeket. Ha így döntesz kérlek vállald, hogy - adott esetben 1-2 éven belül, - a kivitelezés újraindításakor visszatérsz, és helyreállítod a mostani állapotot. Ergo az eddigi szerkesztőkhöz hasonlóan georeferálsz, berajzolsz és feltagelsz mindent. Én legalábbis mérges lennék, ha rövid időn belül kétszer kellene ugyanazt az önkéntes melót elvégeznem.</title>
-        <link>https://www.openstreetmap.org/note/3539655#c7662703</link>
-        <guid>https://www.openstreetmap.org/note/3539655#c7662703</guid>
-        <pubDate>Mon, 13 Feb 2023 10:26:12 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Transdanubia, 9027, Hungary) / * 2023 February 13 10:08 kogutowicz-mano Updated: A highway=proposed definíciója így kezdődik: / &amp;quot;For roads that are scheduled to be built, but where any construction work hasn&amp;#39;t yet been started.&amp;quot; / Na ez a győri izé immár nem &amp;quot;scheduled&amp;quot;, tehát nem felel meg a kritériumoknak. Most a &amp;quot;Rákospalotáig meghosszabbítjuk a metrót, a nyomvonal tervei már el is készültek&amp;quot; kategóriába tartozik. / Kellene egy új tag a vágyálmoknak. :-)</title>
-        <link>https://www.openstreetmap.org/note/3539655#c7662637</link>
-        <guid>https://www.openstreetmap.org/note/3539655#c7662637</guid>
-        <pubDate>Mon, 13 Feb 2023 10:08:53 +0000</pubDate>
-      </item><item>
-        <title>new note (near South Great Plain, 6000, Hungary) / * 2023 February 13 10:04 Created: &amp;quot;No longer exists&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2022-12-16T15:17:23Z / POI name: T-Mobile / POI types: shop-mobile_phone / #organicmaps</title>
-        <link>https://www.openstreetmap.org/note/3557098#c7662627</link>
-        <guid>https://www.openstreetmap.org/note/3557098#c7662627</guid>
-        <pubDate>Mon, 13 Feb 2023 10:04:29 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Transdanubia, 9027, Hungary) / * 2023 February 13 09:40 NightH Updated: Megértem a nézeteidet, de az a tény, hogy az adatbázisban létezik és elfogadott a proposed key használata, ellentmond ezeknek a nézeteknek. A logikád szerint amíg az első kapavágás meg nem történik (contstruction szint), addig semmit fel sem lehetne rajzolni, a jelenleg proposed kulccsal jelölt közel 100ezer elem kukázható az adatbázisból. / Abban egyetértek, hogy ne vegyünk fel minden grandiózus álmot és PR szintű látványtervvel eladott választási ígéretet, de itt konkrét kiviteli terv szintről beszélünk, és a hivatalos kommunikáció szerint (legyen az bármennyire is reális/irreális) ideiglenesen leállított projektről.</title>
-        <link>https://www.openstreetmap.org/note/3539655#c7662530</link>
-        <guid>https://www.openstreetmap.org/note/3539655#c7662530</guid>
-        <pubDate>Mon, 13 Feb 2023 09:40:10 +0000</pubDate>
       </item>
   </channel>
 </rss>
