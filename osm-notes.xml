@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near South Great Plain, 5600, Hungary) / * 2023 February 17 12:16 maplike Updated: Comment from vasony / Kedves Érdeklődő! / Közérdekű térképet készítek. / Találtam egy erőt, több mint 20 éve nem gondozzák, elhagyták. / Ez az első bejegyzés. Nem igényel külön eljárást, illetve megköszönöm a tanácsot, indítványt hogyan tudom jobbítani a megjelenést. Több pontja van a városnak ahol elhagyott nem használt ingatlan található. Annak érdekében, hogy közösséget érintő értékek megjelenjenek, megtalálhatóak legyenek készítem a megjelölt pontokat. / Köszönöm szépen! Szép napot kívánok!</title>
+        <link>https://www.openstreetmap.org/note/3562606#c7675422</link>
+        <guid>https://www.openstreetmap.org/note/3562606#c7675422</guid>
+        <pubDate>Fri, 17 Feb 2023 12:16:32 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Central Hungary, 1051, Hungary) / * 2023 February 17 11:44 kogutowicz-mano Updated: Ha úgy látod, hogy egy szakértő elvégezte a megfelelő módosításokat, zárd le. (Speciel én szemkifolyásig bámultam a 937001-es kapcsolat attribútumait, de nem láttam disused=yes-t vagy hasonlót. Noha tudtam, hogy _valahol_ lennie kell, mert a default renderelő eltüntette az épületet. Mivel zavarba ejtő a szituáció, ráhagytam egy specialistára a tisztázását.</title>
+        <link>https://www.openstreetmap.org/note/3561763#c7675265</link>
+        <guid>https://www.openstreetmap.org/note/3561763#c7675265</guid>
+        <pubDate>Fri, 17 Feb 2023 11:44:46 +0000</pubDate>
+      </item><item>
         <title>reactivated note (near Central Hungary, 2051, Hungary) / * 2023 February 17 11:18 theViking Reactivated: </title>
         <link>https://www.openstreetmap.org/note/3562913#c7675184</link>
         <guid>https://www.openstreetmap.org/note/3562913#c7675184</guid>
@@ -222,16 +232,6 @@
         <link>https://www.openstreetmap.org/note/3559034#c7667052</link>
         <guid>https://www.openstreetmap.org/note/3559034#c7667052</guid>
         <pubDate>Tue, 14 Feb 2023 16:30:20 +0000</pubDate>
-      </item><item>
-        <title>closed note (near North Hungary, 3910, Hungary) / * 2023 February 14 16:28 bkil Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3558955#c7667047</link>
-        <guid>https://www.openstreetmap.org/note/3558955#c7667047</guid>
-        <pubDate>Tue, 14 Feb 2023 16:28:00 +0000</pubDate>
-      </item><item>
-        <title>new note (near North Hungary, 3910, Hungary) / * 2023 February 14 15:37 Created: próbáld</title>
-        <link>https://www.openstreetmap.org/note/3558955#c7666920</link>
-        <guid>https://www.openstreetmap.org/note/3558955#c7666920</guid>
-        <pubDate>Tue, 14 Feb 2023 15:37:34 +0000</pubDate>
       </item>
   </channel>
 </rss>
