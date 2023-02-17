@@ -3,6 +3,31 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near GE Hungary, Csáfordidűlő, Zalaegerszeg) / * 2023 February 17 13:51 kogutowicz-mano Created: Már nem GE. / https://24.hu/belfold/2023/02/17/tungsram-zalaegerszeg-uj-ceg-atvetel/</title>
+        <link>https://www.openstreetmap.org/note/3563067#c7675648</link>
+        <guid>https://www.openstreetmap.org/note/3563067#c7675648</guid>
+        <pubDate>Fri, 17 Feb 2023 13:51:59 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Central Hungary, 1051, Hungary) / * 2023 February 17 13:38 vasony Resolved: https://www.openstreetmap.org/changeset/131532820#map=15/47.4969/19.0522 / itt törölted le a building=hotel címkét, azért nincs. a tourism=hotel-t tettem most disused-re és building=construction került rá vissza</title>
+        <link>https://www.openstreetmap.org/note/3561763#c7675610</link>
+        <guid>https://www.openstreetmap.org/note/3561763#c7675610</guid>
+        <pubDate>Fri, 17 Feb 2023 13:38:48 +0000</pubDate>
+      </item><item>
+        <title>closed note (near South Great Plain, 5600, Hungary) / * 2023 February 17 13:30 vasony Resolved: A magyar közösséget itt tudja elérni kérdés esetén: / https://wiki.openstreetmap.org/wiki/Hungary/K%C3%B6z%C3%B6ss%C3%A9g#El%C3%A9rhet%C5%91s%C3%A9gek</title>
+        <link>https://www.openstreetmap.org/note/3562606#c7675595</link>
+        <guid>https://www.openstreetmap.org/note/3562606#c7675595</guid>
+        <pubDate>Fri, 17 Feb 2023 13:30:28 +0000</pubDate>
+      </item><item>
+        <title>reactivated note (near South Great Plain, 5600, Hungary) / * 2023 February 17 13:30 vasony Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/3562606#c7675594</link>
+        <guid>https://www.openstreetmap.org/note/3562606#c7675594</guid>
+        <pubDate>Fri, 17 Feb 2023 13:30:12 +0000</pubDate>
+      </item><item>
+        <title>closed note (near South Great Plain, 5600, Hungary) / * 2023 February 17 13:30 bkil Resolved: A térképjegyzet funkció az OpenStreetMap térképhibáinak bejelentésére szolgál, amelyek lezárhatók miután azt felszerkesztette a térképre iD vagy JOSM segítségével. Köszönjük a közreműködést</title>
+        <link>https://www.openstreetmap.org/note/3562606#c7675591</link>
+        <guid>https://www.openstreetmap.org/note/3562606#c7675591</guid>
+        <pubDate>Fri, 17 Feb 2023 13:30:02 +0000</pubDate>
+      </item><item>
         <title>new comment (near South Great Plain, 5600, Hungary) / * 2023 February 17 12:16 maplike Updated: Comment from vasony / Kedves Érdeklődő! / Közérdekű térképet készítek. / Találtam egy erőt, több mint 20 éve nem gondozzák, elhagyták. / Ez az első bejegyzés. Nem igényel külön eljárást, illetve megköszönöm a tanácsot, indítványt hogyan tudom jobbítani a megjelenést. Több pontja van a városnak ahol elhagyott nem használt ingatlan található. Annak érdekében, hogy közösséget érintő értékek megjelenjenek, megtalálhatóak legyenek készítem a megjelölt pontokat. / Köszönöm szépen! Szép napot kívánok!</title>
         <link>https://www.openstreetmap.org/note/3562606#c7675422</link>
         <guid>https://www.openstreetmap.org/note/3562606#c7675422</guid>
@@ -222,16 +247,6 @@
         <link>https://www.openstreetmap.org/note/3559277#c7667611</link>
         <guid>https://www.openstreetmap.org/note/3559277#c7667611</guid>
         <pubDate>Tue, 14 Feb 2023 19:20:37 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 1118, Hungary) / * 2023 February 2 20:49 vasony Created: Ez a rész is fizetős lett, hiányzik 4 automata kb itt: / - Kelenhegyi út 40/b / - Kelenhegyi út 48 / - Kelenhegyi út 59 / - Somlói út 24 / * 2023 February 14 18:19 vasony Resolved: felmérve</title>
-        <link>https://www.openstreetmap.org/note/3542418#c7667347</link>
-        <guid>https://www.openstreetmap.org/note/3542418#c7667347</guid>
-        <pubDate>Tue, 14 Feb 2023 18:19:44 +0000</pubDate>
-      </item><item>
-        <title>new note (near Central Hungary, 2340, Hungary) / * 2023 February 14 16:30 vasony-qa Created: Melyik közterület a Mobil utca?</title>
-        <link>https://www.openstreetmap.org/note/3559034#c7667052</link>
-        <guid>https://www.openstreetmap.org/note/3559034#c7667052</guid>
-        <pubDate>Tue, 14 Feb 2023 16:30:20 +0000</pubDate>
       </item>
   </channel>
 </rss>
