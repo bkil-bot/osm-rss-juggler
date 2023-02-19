@@ -2,11 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      <item>
-        <title>Hungary/20230218: szemerkélhet -Bkil</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20230218&amp;diff=2480249&amp;oldid=2480211</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20230218&amp;diff=2480249</guid>
-        <pubDate>Sat, 18 Feb 2023 06:12:55 GMT</pubDate>
-      </item>
+      
   </channel>
 </rss>
