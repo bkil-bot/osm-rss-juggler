@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>DIY Wi-Fi sensor, no programming, no soldering required. This project combines two ideas: no-code/low-code software platform and a quick, robust prototyping system that requires no soldering. https://galopago.github.io/english/wifi-sensor-nocode-nosoldering/ #Arduino #IoT #DIY #ESP32 #DS18B20 #I2C #ESPHome #Misistemita</title>
+        <link>https://en.osm.town/@Doudouosm/109895656578701336</link>
+        <guid>https://en.osm.town/@Doudouosm/109895656578701336</guid>
+        <pubDate>Mon, 20 Feb 2023 06:30:42 +0000</pubDate>
+      </item><item>
         <title>TrickyFoxy mapper explains “Why you should try Every Door” to contribute to #OpenStreetMap: https://telegra.ph/Why-you-should-try-Every-Door-01-02 #EveryDoor (Edit: fix link)</title>
         <link>https://en.osm.town/@Doudouosm/109628800089807700</link>
         <guid>https://en.osm.town/@Doudouosm/109628800089807700</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/108784085645292471</link>
         <guid>https://en.osm.town/@Doudouosm/108784085645292471</guid>
         <pubDate>Sun, 07 Aug 2022 23:03:36 +0000</pubDate>
-      </item><item>
-        <title>Jean Marco Rojas, a student at Instituto Tecnológico de Costa Rica, is running a survey to evaluate a possible new feature to #OSMTracker to upload traces to custom repositories and not only to #OpenStreetMap so that a mapping team will be able to manage their traces, for different purposes and later, if they consider it, upload them to OSM. https://docs.google.com/forms/d/e/1FAIpQLSf2JwrO8DczboSxewel3KIiafDDOpnfzd6VHhUtL-wTlv7KTg/viewform</title>
-        <link>https://en.osm.town/@Doudouosm/108778094490233806</link>
-        <guid>https://en.osm.town/@Doudouosm/108778094490233806</guid>
-        <pubDate>Sat, 06 Aug 2022 21:39:58 +0000</pubDate>
       </item>
   </channel>
 </rss>
