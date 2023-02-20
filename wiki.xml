@@ -2,16 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      <item>
-        <title>Template:Slippymap: add parameters alignment and text -Tigerfell</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Template:Slippymap&amp;diff=2480940&amp;oldid=2466037</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Template:Slippymap&amp;diff=2480940</guid>
-        <pubDate>Sun, 19 Feb 2023 11:11:25 GMT</pubDate>
-      </item><item>
-        <title>Module:Slippymap: add parameters text and alignment as discussed in Template talk:Slippymap -Tigerfell</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Module:Slippymap&amp;diff=2480939&amp;oldid=2466038</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Module:Slippymap&amp;diff=2480939</guid>
-        <pubDate>Sun, 19 Feb 2023 11:10:03 GMT</pubDate>
-      </item>
+      
   </channel>
 </rss>
