@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Transdanubia, 2060, Hungary) / * 2023 February 21 10:29 Created: Bicskei Egészségügyi Központ</title>
+        <link>https://www.openstreetmap.org/note/3568396#c7686924</link>
+        <guid>https://www.openstreetmap.org/note/3568396#c7686924</guid>
+        <pubDate>Tue, 21 Feb 2023 10:29:07 +0000</pubDate>
+      </item><item>
         <title>closed note (near Central Hungary, 1011, Hungary) / * 2023 February 20 17:39 utvonalfelmeresek Created: vsb / * 2023 February 21 10:06 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/132827568</title>
         <link>https://www.openstreetmap.org/note/3567624#c7686855</link>
         <guid>https://www.openstreetmap.org/note/3567624#c7686855</guid>
@@ -157,11 +162,6 @@
         <link>https://www.openstreetmap.org/note/3562606#c7675422</link>
         <guid>https://www.openstreetmap.org/note/3562606#c7675422</guid>
         <pubDate>Fri, 17 Feb 2023 12:16:32 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Central Hungary, 1051, Hungary) / * 2023 February 17 11:44 kogutowicz-mano Updated: Ha úgy látod, hogy egy szakértő elvégezte a megfelelő módosításokat, zárd le. (Speciel én szemkifolyásig bámultam a 937001-es kapcsolat attribútumait, de nem láttam disused=yes-t vagy hasonlót. Noha tudtam, hogy _valahol_ lennie kell, mert a default renderelő eltüntette az épületet. Mivel zavarba ejtő a szituáció, ráhagytam egy specialistára a tisztázását.</title>
-        <link>https://www.openstreetmap.org/note/3561763#c7675265</link>
-        <guid>https://www.openstreetmap.org/note/3561763#c7675265</guid>
-        <pubDate>Fri, 17 Feb 2023 11:44:46 +0000</pubDate>
       </item>
   </channel>
 </rss>
