@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Changeset discussion (via bkil-bot)</title>
+      <item>
+        <title>Itt a tactile_paving=invalid lett volna? Bocs, de nem figyeltem a terepen. -bkil</title>
+        <link>https://www.openstreetmap.org/changeset/131547153#comment_1</link>
+        <guid>https://www.openstreetmap.org/changeset/131547153#comment_1</guid>
+        <pubDate>2023-02-22T22:08:39+01:00</pubDate>
+      </item><item>
+        <title>Helló, Halápon lakom, és igen a Fakopáncs utca már nem ér ki. 2022 márciusán készült el a 48-as számú főút felújítása, melynek része volt a halápi becsatlakozások megszüntetése. https://www.dehir.hu/debrecen/harmincezer-hajdu-bihari-varta-elkeszult-a-48-as-fout-felujitasa/2022/03/30/ -Keedav</title>
+        <link>https://www.openstreetmap.org/changeset/127325631#comment_2</link>
+        <guid>https://www.openstreetmap.org/changeset/127325631#comment_2</guid>
+        <pubDate>2023-02-22T19:39:20+01:00</pubDate>
+      </item><item>
+        <title>I don't write the answer in English :( This was the restautant: https://www.beol.hu/helyi-kozelet/2021/06/testi-lelki-egyensulyra-torekednek-a-kifozdevel-bekescsaban -Kiss_Karoly</title>
+        <link>https://www.openstreetmap.org/changeset/132463660#comment_5</link>
+        <guid>https://www.openstreetmap.org/changeset/132463660#comment_5</guid>
+        <pubDate>2023-02-21T22:03:53+01:00</pubDate>
+      </item><item>
+        <title>review your works. Thanks for mapping and the time took. --- #REVIEWED_BAD #OSMCHA Published using OSMCha: https://osmcha.org/changesets/132853744 -charles chilufya</title>
+        <link>https://www.openstreetmap.org/changeset/132853744#comment_1</link>
+        <guid>https://www.openstreetmap.org/changeset/132853744#comment_1</guid>
+        <pubDate>2023-02-21T21:17:58+01:00</pubDate>
+      </item><item>
+        <title>Szia, Igen. Az a cél, hogy ha valaki OSM alapon navigál, akkor érhesse el ezt a hálózatot. Igen. Itt tényleg &quot;útvonalakról&quot; (esetleg szabályozott &quot;sávokról&quot;) van szó. Üdv, Karto-editor -Karto-editor</title>
+        <link>https://www.openstreetmap.org/changeset/130000524#comment_4</link>
+        <guid>https://www.openstreetmap.org/changeset/130000524#comment_4</guid>
+        <pubDate>2023-02-21T20:48:51+01:00</pubDate>
+      </item><item>
+        <title>Kedves Nándor! A google utcakép nem használható openstreetmap adatainak bővítéséhez, a licensze nem teszi lehetővé. Az openstreetmapre csak ODBL kompatibilis források kerülhetnek fel. Utcaképben a mapillary és kartaview szolgáltatások, míg műholdképben a szerkeszőben megjelelő források használhatók. A műholdképeket mindenképp (Bing) illeszteni kell házak rajzolása előtt, mert több méteres elszcsúszások van, ezek a most rajzolt házaknál látszanak. (A háttérrétegeknél a Légi felvétel eltolása menüben) A FÖMI ortofotó régebbi, de helyén van, javasolt ahhoz igazítani a házakat, aztán ezekhez a házakhoz már eltolató a Bing. A házszámokat elsősorban helyszíni felméréssel lehet rögzíteni. A szabályozás terv ugyan jogszabály és nem védi szerzői jog, de a grafikai elemeit védheti, valamint sokszor a kitáblázott valóság eltér a tervtől. Az érintett módosításcsomagban többek között pl. a Kossuth Lajos utca 12, 14 házszámai voltak érintettek. A házon lévő házszámok szerintem is hasznosabbak. Jelen esetben a pontszerűen felvett házszámok a felmérő GPS pontatlanságának következtében nem voltak helyükön, valószínű nem szerepeltek a felmérés idején a házak így nem tudtak a helyükre kerülni. A törlés időpontjában már illeszthetők lettek volna a házakra, melyet visszaállítás után meg is tettem. Kérem ilyen esetben vagy húzza helyére a házszám pontot, vagy ha törli, akkor a cím adatit másolja rá a házra ahova tartozik, ahogy pl. a 8-asnál is tette. Ezt pl. segítheti a szabályozási terv, hogy melyik házhoz is tartozik a már felmért házszám. Sajnos az utca elején, közepén végén felvett házszámok, interpolációs vonal hiányában nem segítik a köztes házszámokra való navigálást, így ha lehetőség van, meg kell adni azokat minden házra. Ha nincs helyszíni adat, akkor az 1-2 házas hiányoknál lehet következtetni, pl. a Kossuth Lajos utca 2 és 8 között pontosan 2 ház volt, így ott én a 4-et és 6-ot megadtam. A Kékes térnél lévő 8-ason ott volt a Táncsics Mihály utca a címben, a terv szerint el van csúszva 1 házzal, felrajzoltam a házakat, és rátettem a megfelelő házra a házszámot. További kérdés esetén keresse az opensteetmap közösséget az alábbi csatornákon: (javasolt: Matrix csevegőszoba, Facebook, levezési lista) https://wiki.openstreetmap.org/wiki/Hungary/K%C3%B6z%C3%B6ss%C3%A9g#El%C3%A9rhet%C5%91s%C3%A9gek Köszönettel, Tamás -vasony</title>
+        <link>https://www.openstreetmap.org/changeset/132763451#comment_4</link>
+        <guid>https://www.openstreetmap.org/changeset/132763451#comment_4</guid>
+        <pubDate>2023-02-21T06:50:51+01:00</pubDate>
+      </item><item>
+        <title>Köszi a figyelmeztetést! Valami érthetetlen okból a telefonom időnként erőlteti az utca szót nagybetűvel kezdve, ez most átcsúszott, elkerülte a figyelmemet. -masaka67</title>
+        <link>https://www.openstreetmap.org/changeset/132760312#comment_2</link>
+        <guid>https://www.openstreetmap.org/changeset/132760312#comment_2</guid>
+        <pubDate>2023-02-20T19:53:47+01:00</pubDate>
+      </item><item>
+        <title>Szia! Basszus, köszönöm a kommentet, másképp ezt nem veszem észre! Valószínűleg amikor másoltam a lépcsőket, a node-okon megmaradhatott a címek tag-e is, aztán pedig automatikusan mergelte őket az editor. Javítottam. Lehet, nem ártana kicsit figyelmesebbnek lennem :) Köszi, Áron -ociboerkll</title>
+        <link>https://www.openstreetmap.org/changeset/130458058#comment_2</link>
+        <guid>https://www.openstreetmap.org/changeset/130458058#comment_2</guid>
+        <pubDate>2023-02-20T18:33:57+01:00</pubDate>
+      </item><item>
+        <title>Üdv. Ez egy balul elsült csoportos módosítás eredménye ezen a környéken. Rossz irányítószámokat adtam meg a házakhoz, utána egyben akartam módosítani, de minden objektum ki lett jelölve véletlenül, nem csak az épületek. Rövidesen kigyomlálom. -efi99</title>
+        <link>https://www.openstreetmap.org/changeset/131819092#comment_2</link>
+        <guid>https://www.openstreetmap.org/changeset/131819092#comment_2</guid>
+        <pubDate>2023-02-20T13:07:48+01:00</pubDate>
+      </item><item>
+        <title>Szia! A kerítéseket duplán rajzoltad be. Javítod? Üdv: Ákos -ITineris</title>
+        <link>https://www.openstreetmap.org/changeset/85765272#comment_1</link>
+        <guid>https://www.openstreetmap.org/changeset/85765272#comment_1</guid>
+        <pubDate>2023-02-20T11:59:31+01:00</pubDate>
+      </item><item>
+        <title>Hja, ráadásul én voltam a későbbi: fogalmam sincs, mint néztem el. Talán az történt, hogy amikor megszerkesztettem, még nem volt ott a másik, aztán csak egy-két nappal később jutott eszembe feltölteni, s akkor már ott volt mellette a következő is… -GBAB</title>
+        <link>https://www.openstreetmap.org/changeset/131589988#comment_2</link>
+        <guid>https://www.openstreetmap.org/changeset/131589988#comment_2</guid>
+        <pubDate>2023-02-20T08:12:32+01:00</pubDate>
+      </item><item>
+        <title>Bocsánat… (Nem emlékszem, mi járt a fejemben annak idején.) Mindenesetre lehetséges, hogy akkor mindenestül törölni lehetne őket. -GBAB</title>
+        <link>https://www.openstreetmap.org/changeset/122290140#comment_2</link>
+        <guid>https://www.openstreetmap.org/changeset/122290140#comment_2</guid>
+        <pubDate>2023-02-19T15:30:03+01:00</pubDate>
+      </item><item>
+        <title>Véletlenűl elírtam a módosításcsomag nevét. A 37-es autóbusz járat lett frissítve, Buszmegálló lett átnevezve, Útak lettek igazítva a busz útvonalán. -ssummoner1</title>
+        <link>https://www.openstreetmap.org/changeset/132710275#comment_1</link>
+        <guid>https://www.openstreetmap.org/changeset/132710275#comment_1</guid>
+        <pubDate>2023-02-18T10:59:38+01:00</pubDate>
+      </item><item>
+        <title>Lukácsházára január végén került megküldésre az FNB válaszlevele. Át kell futnia ott is a rendszeren. A honlapot a Miniszterelnökség frissíti. Lippmann Lászlótól ( +36-1-896-2699, laszlo.lippmann@me.gov.hu) lehet érdeklődni a frissítések állapotáról. -Toms_Toms</title>
+        <link>https://www.openstreetmap.org/changeset/128978491#comment_4</link>
+        <guid>https://www.openstreetmap.org/changeset/128978491#comment_4</guid>
+        <pubDate>2023-02-17T16:45:43+01:00</pubDate>
+      </item><item>
+        <title>Köszi a gyors választ, így már érthető. Matrix chaten volt egy kis tanácstalanság a taggel kapcsolatban. -BáthoryPéter</title>
+        <link>https://www.openstreetmap.org/changeset/126735764#comment_3</link>
+        <guid>https://www.openstreetmap.org/changeset/126735764#comment_3</guid>
+        <pubDate>2023-02-17T12:55:17+01:00</pubDate>
+      </item><item>
+        <title>Nos, akkor a &quot;ch&quot; a hivatalos ezek szerint, úgyhogy e szerint rendbehoztam, köszi! Gza -grozsa11</title>
+        <link>https://www.openstreetmap.org/changeset/126037221#comment_5</link>
+        <guid>https://www.openstreetmap.org/changeset/126037221#comment_5</guid>
+        <pubDate>2023-02-16T20:53:41+01:00</pubDate>
+      </item>
+  </channel>
+</rss>
