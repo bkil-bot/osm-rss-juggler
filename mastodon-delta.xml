@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>#hyperbridging This mastodon post brought to you by a deltachat-mastodon-bot with a screenshare into a deltachat community mailing list (hacked mailman) , ... And that screenshare points to https://pluralistic.net/2022/11/14/luxury-surveillance/#liar-liar ....</title>
+        <link>https://chaos.social/@delta/109920062987816519</link>
+        <guid>https://chaos.social/@delta/109920062987816519</guid>
+        <pubDate>Fri, 24 Feb 2023 13:57:34 +0000</pubDate>
+      </item><item>
         <title>Five of us were going around Bruxelles the last week, for OFFDEM and server-setup happenings mostly ... and almost none had mobile data and rather relied on random WIFIs .... personally testing our own app&amp;#39;s &amp;quot;offline-first&amp;quot; approach and features for real :) The server-setup workshops generally went very well and some attendees now aim to give sessions themselves in Strasbourg and other places -- and next one is at LAG in Amsterdam this friday ... https://delta.chat/en/2023-01-27-upcoming-mail-server-workshops</title>
         <link>https://chaos.social/@delta/109823760694772297</link>
         <guid>https://chaos.social/@delta/109823760694772297</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/108571662156713915</link>
         <guid>https://chaos.social/@delta/108571662156713915</guid>
         <pubDate>Fri, 01 Jul 2022 10:41:31 +0000</pubDate>
-      </item><item>
-        <title>Through these ~500 added lines of Rust code, all Delta Chat apps will grow the ability to seamlessly port their e-mail address from one provider to another. The code&amp;#39;s relative simplicity was hard-earned through many prior discusssions https://github.com/deltachat/deltachat-core-rust/pull/3385/files</title>
-        <link>https://chaos.social/@delta/108571601409448781</link>
-        <guid>https://chaos.social/@delta/108571601409448781</guid>
-        <pubDate>Fri, 01 Jul 2022 10:26:04 +0000</pubDate>
       </item>
   </channel>
 </rss>
