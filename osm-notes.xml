@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Central Hungary, 1033, Hungary) / * 2023 February 26 12:55 ha5vsa Created: Unable to answer &amp;quot;What are the opening hours here?&amp;quot; for https://osm.org/node/4728274201 via StreetComplete 51.0: / Üzletsor, Vodafone nincs, beltéren pozíció alapján nem egyértelmű, hol volt (ergo mi van a helyén)</title>
+        <link>https://www.openstreetmap.org/note/3575630#c7702841</link>
+        <guid>https://www.openstreetmap.org/note/3575630#c7702841</guid>
+        <pubDate>Sun, 26 Feb 2023 12:55:28 +0000</pubDate>
+      </item><item>
         <title>closed note (near Central Hungary, 1121, Hungary) / * 2023 February 25 16:15 Kovács Zsófi Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/304437452 via StreetComplete 51.0: / Ez egy időseknek fenntartott otthon. / * 2023 February 26 11:44 infeeeee Resolved: Az épület régi neve Agro Panoráma Hotel volt, eredetileg szállodának épült, building=hotel címkét hozzáadtam itt: / https://www.openstreetmap.org/changeset/133038889</title>
         <link>https://www.openstreetmap.org/note/3574503#c7702621</link>
         <guid>https://www.openstreetmap.org/note/3574503#c7702621</guid>
@@ -342,11 +347,6 @@
         <link>https://www.openstreetmap.org/note/3572583#c7696443</link>
         <guid>https://www.openstreetmap.org/note/3572583#c7696443</guid>
         <pubDate>Fri, 24 Feb 2023 10:57:27 +0000</pubDate>
-      </item><item>
-        <title>new note (near Central Hungary, 2112, Hungary) / * 2023 February 24 10:57 Created: A vízfelület kiterjedésének pontosítása szükséges.</title>
-        <link>https://www.openstreetmap.org/note/3572582#c7696441</link>
-        <guid>https://www.openstreetmap.org/note/3572582#c7696441</guid>
-        <pubDate>Fri, 24 Feb 2023 10:57:12 +0000</pubDate>
       </item>
   </channel>
 </rss>
