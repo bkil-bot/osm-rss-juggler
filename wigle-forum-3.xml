@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Pwnagotchi plugin: Started using this plugin Code: https://github.com/evilsocket/pwnagotchi/blob/master/pwnagotchi/plugins/default/wigle.pyGetting this in my logs but unsure if anything is being uploaded to wigle how would I check. Code: [2023-02-28 22:01:21,511] [INFO] WIGLE: Internet connectivity detected. Uploading new handshakes to wigle.net[2023-02-28 22:02:11,282] [INFO] WIGLE: Successfully uploaded 38 filesPS Is anybody else using Pwnagotchi/ https://pwnagotchi.ai/ -wpa3</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11567#p11567</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11567#p11567</guid>
+        <pubDate>2023-02-28T22:08:13</pubDate>
+      </item><item>
         <title>Re: Creating a driving rig: worth noting that recent Kismet has a proper WiGLE export tool, as well! (dragorn rocks) What's better Vistumbler or Kismet for Wigle reporting?I would say Kismet, depends on what harerdware you plan to run it on. Kismet is pretty powerful. -wpa3</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11532#p11532</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11532#p11532</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11315#p11315</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11315#p11315</guid>
         <pubDate>2022-08-18T21:45:56</pubDate>
-      </item><item>
-        <title>Re: Posting file via cURL: NVM that worked... must have been a network issue. -Binary_Buddha</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11283#p11283</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11283#p11283</guid>
-        <pubDate>2022-07-16T04:32:41</pubDate>
       </item>
   </channel>
 </rss>
