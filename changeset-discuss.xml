@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Az alábbi vonalak törlését indokolta valami? https://www.openstreetmap.org/way/1035040086 https://www.openstreetmap.org/way/1117735610 -balint36</title>
+        <link>https://www.openstreetmap.org/changeset/131142777</link>
+        <guid>https://www.openstreetmap.org/changeset/131142777#comment_1</guid>
+        <pubDate>2023-02-28T12:37:16+01:00</pubDate>
+      </item><item>
         <title>Ezzel a módosítással Nagyoroszi állomáson károkat okoztál. Van ez a pont: https://www.openstreetmap.org/node/7605476788 Ez egy váltónak a pontja volt, innen ágazott ki a líravágány. Te a váltót nyom nélkül eltüntetted, a líravágányt pedig helytelenül a VE jelzőhöz kötötted be. Kérlek, legközelebb figyelmesebb legyél! -balint36</title>
         <link>https://www.openstreetmap.org/changeset/131319135</link>
         <guid>https://www.openstreetmap.org/changeset/131319135#comment_1</guid>
@@ -52,11 +57,6 @@
         <link>https://www.openstreetmap.org/changeset/130000524</link>
         <guid>https://www.openstreetmap.org/changeset/130000524#comment_4</guid>
         <pubDate>2023-02-21T20:48:51+01:00</pubDate>
-      </item><item>
-        <title>Kedves Nándor! A google utcakép nem használható openstreetmap adatainak bővítéséhez, a licensze nem teszi lehetővé. Az openstreetmapre csak ODBL kompatibilis források kerülhetnek fel. Utcaképben a mapillary és kartaview szolgáltatások, míg műholdképben a szerkeszőben megjelelő források használhatók. A műholdképeket mindenképp (Bing) illeszteni kell házak rajzolása előtt, mert több méteres elszcsúszások van, ezek a most rajzolt házaknál látszanak. (A háttérrétegeknél a Légi felvétel eltolása menüben) A FÖMI ortofotó régebbi, de helyén van, javasolt ahhoz igazítani a házakat, aztán ezekhez a házakhoz már eltolató a Bing. A házszámokat elsősorban helyszíni felméréssel lehet rögzíteni. A szabályozás terv ugyan jogszabály és nem védi szerzői jog, de a grafikai elemeit védheti, valamint sokszor a kitáblázott valóság eltér a tervtől. Az érintett módosításcsomagban többek között pl. a Kossuth Lajos utca 12, 14 házszámai voltak érintettek. A házon lévő házszámok szerintem is hasznosabbak. Jelen esetben a pontszerűen felvett házszámok a felmérő GPS pontatlanságának következtében nem voltak helyükön, valószínű nem szerepeltek a felmérés idején a házak így nem tudtak a helyükre kerülni. A törlés időpontjában már illeszthetők lettek volna a házakra, melyet visszaállítás után meg is tettem. Kérem ilyen esetben vagy húzza helyére a házszám pontot, vagy ha törli, akkor a cím adatit másolja rá a házra ahova tartozik, ahogy pl. a 8-asnál is tette. Ezt pl. segítheti a szabályozási terv, hogy melyik házhoz is tartozik a már felmért házszám. Sajnos az utca elején, közepén végén felvett házszámok, interpolációs vonal hiányában nem segítik a köztes házszámokra való navigálást, így ha lehetőség van, meg kell adni azokat minden házra. Ha nincs helyszíni adat, akkor az 1-2 házas hiányoknál lehet következtetni, pl. a Kossuth Lajos utca 2 és 8 között pontosan 2 ház volt, így ott én a 4-et és 6-ot megadtam. A Kékes térnél lévő 8-ason ott volt a Táncsics Mihály utca a címben, a terv szerint el van csúszva 1 házzal, felrajzoltam a házakat, és rátettem a megfelelő házra a házszámot. További kérdés esetén keresse az opensteetmap közösséget az alábbi csatornákon: (javasolt: Matrix csevegőszoba, Facebook, levezési lista) https://wiki.openstreetmap.org/wiki/Hungary/K%C3%B6z%C3%B6ss%C3%A9g#El%C3%A9rhet%C5%91s%C3%A9gek Köszönettel, Tamás -vasony</title>
-        <link>https://www.openstreetmap.org/changeset/132763451</link>
-        <guid>https://www.openstreetmap.org/changeset/132763451#comment_4</guid>
-        <pubDate>2023-02-21T06:50:51+01:00</pubDate>
       </item>
   </channel>
 </rss>
