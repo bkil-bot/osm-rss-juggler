@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Pwnagotchi plugin: Assuming you configured your credentials, just check the uploads page! -arkIt only asks for these Code: main.plugins.wigle.enabled = truemain.plugins.wigle.api_key = &quot;RANDOM API KEY&quot;main.plugins.wigle.whitelist = []But nothing was aadded so unsure whats happening honesty. -wpa3</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11573#p11573</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11573#p11573</guid>
+        <pubDate>2023-03-01T12:16:36</pubDate>
+      </item><item>
         <title>Should I merge database from different phones or keep them seperate ?: Different phones have different antennas and record different signal level for same location. If somehow I figure out on one device -Xdb is Ym away. Keeping database separate will help ? Is there a way to import database from different phone and mark it's origin. -R5ph4</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11572#p11572</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11572#p11572</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11383#p11383</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11383#p11383</guid>
         <pubDate>2022-11-29T08:12:10</pubDate>
-      </item><item>
-        <title>InSSIDer, export to .kml?: Hey all, I'd like to contribute using InSSIDer, but I'm not seeing an option to export .kml. What am I missing? thanks, screenshot attached -dah</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11382#p11382</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11382#p11382</guid>
-        <pubDate>2022-11-25T03:52:07</pubDate>
       </item>
   </channel>
 </rss>
