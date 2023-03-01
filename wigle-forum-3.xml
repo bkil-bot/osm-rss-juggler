@@ -3,6 +3,26 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Should I merge database from different phones or keep them seperate ?: Different phones have different antennas and record different signal level for same location. If somehow I figure out on one device -Xdb is Ym away. Keeping database separate will help ? Is there a way to import database from different phone and mark it's origin. -R5ph4</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11572#p11572</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11572#p11572</guid>
+        <pubDate>2023-03-01T11:08:33</pubDate>
+      </item><item>
+        <title>What is &amp;quot;Maxout DB Marker&amp;quot; in Android App ?: &quot;Maxout DB Marker&quot; -R5ph4</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11571#p11571</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11571#p11571</guid>
+        <pubDate>2023-03-01T11:04:33</pubDate>
+      </item><item>
+        <title>Desktop software to view observations ?: With features - 1. Offline - I don't want to upload to wigle.net 2. with different maps like OSM and Google etc. -R5ph4</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11570#p11570</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11570#p11570</guid>
+        <pubDate>2023-03-01T11:03:00</pubDate>
+      </item><item>
+        <title>File Formats: KML vs CSV vs Magic8Ball: KML CSV Magic8Ball - Settings says it's Geolocation but other 2 are DB -R5ph4</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11569#p11569</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11569#p11569</guid>
+        <pubDate>2023-03-01T11:00:05</pubDate>
+      </item><item>
         <title>Re: Pwnagotchi plugin: Assuming you configured your credentials, just check the uploads page! -ark -arkasha</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11568#p11568</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11568#p11568</guid>
@@ -57,26 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11382#p11382</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11382#p11382</guid>
         <pubDate>2022-11-25T03:52:07</pubDate>
-      </item><item>
-        <title>Re: Hardware Project: warcrawler: Hello Stumblers, A few days spent cooped up inside and sick resulted in this terrible idea. I found a taken-apart RC car sitting in one of my parts boxes and decided it might be time to build a Kismet drone. What you see: 1x toy RC car chassis 1x Arduino Uno 1x Arduino motor shield 1x DC to DC bucking power supply 1x 1600 mAh 11.1v LiPo 3C This is already an incredible amount of overhead just for a drive base. My plan is to purchase a proto hat for the raspberry pi zero and solder together a custom solution to drive and control the motors directly from the GPIO. I will put together a schematic and include that for anyone who would like to follow along. To be added: 1x RasPi Zero 1x 4 Port USB Hub (soldered directly to RPi0) 1x GPS (GPS-NEO-6 m-001) 2x Tenda WiFi Dongles (W311MI) 1x RTL-SDR (borrowed) The next hurdle is controlling the car. I decided to use two wifi dongles, one for scanning and one for connecting to whatever AP serving the area and controlling it from my smartphone. See this video for an example that uses a laptop and xbox 360 controller: https://youtu.be/FwRHbJV4zV0 I don't exactly need a PTZ FPV and this RC Car chassis isn't really strong enough to support a lot of weight. Sooo I'll be using a RPi branded camera and fixing it directly to the chassis where it can see the path ahead and the front of the car. Even though PTZ would be really nice for situational awareness and better recon. Lastly, I'll be purchasing plexiglass and stand off screws to mount the remaining hardware and cover it in a somewhat clean look. -0- The question that's been on my mind and probably yours, after reading this thread, is why would anyone ever want to wardrive with a RC car. I had to think about it too, what sort of applications warrant it. When it comes down to scanning and recon, an actual car can't go many places aside from the streets. This drone might be incredibly useful for grabbing detailed and more accurate maps of campuses, parks, large buildings. It may even be possible to use images collected from a camera array to create floor plans. The ability to get close to certain access control systems could be used to grab RFID badges and NFC handshakes right out of the air. The nefarious applications that come to mind are pretty scary. What else would it be good for? Pokemon Go, lol. Please let me know what you think, any advice or comments are welcome. I do want to see where this goes and if I can find any other applications for it.Why do I find this absolutely hilarious? -Stavinair</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11345#p11345</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11345#p11345</guid>
-        <pubDate>2022-10-03T21:38:27</pubDate>
-      </item><item>
-        <title>Re: Huawei P20 Android 10: Are you sure your not on android 9.... Emui 10 doesn't specify android versions, I could be wrong I have 20 abs it's tuff find firmware for andtoid10 -billyk77</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11338#p11338</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11338#p11338</guid>
-        <pubDate>2022-09-26T10:18:29</pubDate>
-      </item><item>
-        <title>Re: Kismet drone on wireless router? (e.g. Linksys WRT54GL): I don't think a wireless router is better or more capable than some wifi card. Some wifi card have a very long range. with the good driver they do a perfect job. Yes a wireless router could do the job of a rpi +wifi card to host a kismet drone , but and old 4M/32M (ram/flash) is limited hardware. May be you could try to cross-compile a kismet drone for your WRT54GL. given you can run it on it. I was pointed to this list https://github.com/morrownr/USB-WiFi/bl ... rt_List.md Though, I found that most on this list are hard to find, and only one of them is available on my local amazon store. So, yes why not use a second hand wireless router (or accesss point) with openwrt; but may better than the 4/32, despised by openwrt -zebul666</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11336#p11336</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11336#p11336</guid>
-        <pubDate>2022-09-22T22:59:20</pubDate>
-      </item><item>
-        <title>Re: Hak5 WiFi Coconut: The coconut appears to have an IPEX (IPX) connector where all the radios come together into a top patch antenna near the fan, so in theory, one could remove that and add an IPX to female SMA bulkhead with an external antenna and be off to the races. It's unknown if there are additional amplifiers in-line with each radio, as a 1:14 splitter will reduce the signal strength by around 12dB in losses with one input antenna. There are also 14 smaller Rf test ports/switches for each radio, however these RF connectors do not appear to be IPX and maybe Murata. Be carefully pulling up the one main antenna off the board, as I accidentally ripped the IPX female connector off the board while attempting to gently pull up the IPX male connector out of the female soldered socket with equal pressure from both sides. An old salty dog friend said it might have been a cold solder joint, as the connector should have popped off the connector before ripping the solder joint, so be careful if you go this method. Some flux and hot air might be able to re-attach it. Now if only dragorn or mkershaw come out with a Win x64 Coconut binary that support a generic GPS/NMEA GPS input, then anyone could Wardrive in style with Windows and 14 radios. I bet it would be the fastest setup for a multi-radio war-driving rig ever.... -power64</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11316#p11316</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11316#p11316</guid>
-        <pubDate>2022-08-20T00:31:17</pubDate>
       </item>
   </channel>
 </rss>

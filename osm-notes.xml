@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Transdanubia, 8237, Hungary) / * 2023 March 1 10:55 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: There&amp;#39;s a spring.</title>
+        <link>https://www.openstreetmap.org/note/3579735#c7712714</link>
+        <guid>https://www.openstreetmap.org/note/3579735#c7712714</guid>
+        <pubDate>Wed, 01 Mar 2023 10:55:31 +0000</pubDate>
+      </item><item>
         <title>new note (near Central Hungary, 2081, Hungary) / * 2023 March 1 10:00 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: There&amp;#39;s a well Erzsébet kút.</title>
         <link>https://www.openstreetmap.org/note/3579589#c7712495</link>
         <guid>https://www.openstreetmap.org/note/3579589#c7712495</guid>
@@ -227,16 +232,6 @@
         <link>https://www.openstreetmap.org/note/3573208#c7701993</link>
         <guid>https://www.openstreetmap.org/note/3573208#c7701993</guid>
         <pubDate>Sun, 26 Feb 2023 07:38:13 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Central Hungary, 2112, Hungary) / * 2023 February 24 17:33 Weisz Ádám Created: Hiányzó épület!? / via StreetComplete 51.0 / * 2023 February 26 07:29 vasony Updated: Bing, ESRI, Maxar műholdképeken nem látszik itt még épület</title>
-        <link>https://www.openstreetmap.org/note/3573206#c7701974</link>
-        <guid>https://www.openstreetmap.org/note/3573206#c7701974</guid>
-        <pubDate>Sun, 26 Feb 2023 07:29:17 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 2112, Hungary) / * 2023 February 24 17:33 Weisz Ádám Created: streetname. / via StreetComplete 51.0 / * 2023 February 26 07:28 vasony Resolved: https://kartaview.org/details/4521673/1111/track-info</title>
-        <link>https://www.openstreetmap.org/note/3573205#c7701972</link>
-        <guid>https://www.openstreetmap.org/note/3573205#c7701972</guid>
-        <pubDate>Sun, 26 Feb 2023 07:28:05 +0000</pubDate>
       </item>
   </channel>
 </rss>
