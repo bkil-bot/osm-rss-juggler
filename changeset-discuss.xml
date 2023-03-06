@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Szia! Üdv az OpenStreetMapen! A szerkesztésed jó, azért írok mert bepipáltad, hogy valaki nézze át. Egy apróság, az üzleteket nem az épület határárvonalára szoktuk rakni, hanem kicsit beljebb, de ez annyira nem lényeges. Ha további kérdéseid lennének, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/K%C3%B6z%C3%B6ss%C3%A9g További jó térképezést! -infeeeee</title>
+        <link>https://www.openstreetmap.org/changeset/133295640</link>
+        <guid>https://www.openstreetmap.org/changeset/133295640#comment_1</guid>
+        <pubDate>2023-03-06T15:42:43+01:00</pubDate>
+      </item><item>
+        <title>Szia! Üdv az OpenStreetMap-en! Ilyenkor, egy épületben található intézmény hozzáadásakor egy pontot kell rárakni az épületre, és a pontot címkézni. Az egész épületet átcímkézni csak akkor szokás (de akkor se mindig), ha abban az épületben semmilyen más funkció nem található, de itt nem ez a helyzet. A building=yes címkét sose távolítsd el, azzal gyakorlatilag &quot;lebontod&quot; az épületet. Javítottam ezeket ebben a csomagban: https://www.openstreetmap.org/changeset/133368178 További jó térképezést, ha kérdéseid lennének akkor keresd nyugodtan a magyar szerkesztő közösséget, elérhetőségeinket megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/K%C3%B6z%C3%B6ss%C3%A9g -infeeeee</title>
+        <link>https://www.openstreetmap.org/changeset/133326174</link>
+        <guid>https://www.openstreetmap.org/changeset/133326174#comment_1</guid>
+        <pubDate>2023-03-06T15:21:20+01:00</pubDate>
+      </item><item>
         <title>Szia! Megint belefutottam egy duplikátumba: https://www.openstreetmap.org/node/9903560513 https://www.openstreetmap.org/node/9859656185 Tudtommal minden automatához rendeltek egy HUxxx azonosítót, ez alapján könnyű lenne őket egyeztetni és a térképhez is adna információt. -gabro00</title>
         <link>https://www.openstreetmap.org/changeset/123925720</link>
         <guid>https://www.openstreetmap.org/changeset/123925720#comment_5</guid>
