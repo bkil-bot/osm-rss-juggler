@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>How to delete wigle data collected in certain time frame: title -R5ph4</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11588#p11588</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11588#p11588</guid>
+        <pubDate>2023-03-07T18:58:00</pubDate>
+      </item><item>
         <title>Re: Should I merge database from different phones or keep them seperate ?: merging databases will slow performance - bigger databases are slower. -arkasha</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11582#p11582</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11582#p11582</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11567#p11567</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11567#p11567</guid>
         <pubDate>2023-02-28T22:08:13</pubDate>
-      </item><item>
-        <title>Re: Creating a driving rig: worth noting that recent Kismet has a proper WiGLE export tool, as well! (dragorn rocks) What's better Vistumbler or Kismet for Wigle reporting?I would say Kismet, depends on what harerdware you plan to run it on. Kismet is pretty powerful. -wpa3</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11532#p11532</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11532#p11532</guid>
-        <pubDate>2023-02-14T16:49:16</pubDate>
       </item>
   </channel>
 </rss>
