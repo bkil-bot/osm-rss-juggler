@@ -2,16 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      <item>
-        <title>Module:Slippymap: Added missing fallback for when width is only nominally specified -Minh Nguyen</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Module:Slippymap&amp;diff=2488910&amp;oldid=2487058</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Module:Slippymap&amp;diff=2488910</guid>
-        <pubDate>Mon, 06 Mar 2023 16:57:38 GMT</pubDate>
-      </item><item>
-        <title>Template:Slippymap: Switched back to main module -Minh Nguyen</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Template:Slippymap&amp;diff=2488908&amp;oldid=2487055</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Template:Slippymap&amp;diff=2488908</guid>
-        <pubDate>Mon, 06 Mar 2023 16:53:38 GMT</pubDate>
-      </item>
+      
   </channel>
 </rss>
