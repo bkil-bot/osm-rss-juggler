@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Desktop software to view observations ?: That's not what you asked but here is a solution to your problem. I have made a simple python script that convert a wigle csv file to a kml or gpx file. Then, you can use google maps to visualize the resulting kml file, or any gpx viewer like gpxsee to visualize the resulting gpx file. -zebul666</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11589#p11589</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11589#p11589</guid>
+        <pubDate>2023-03-08T01:35:56</pubDate>
+      </item><item>
         <title>How to delete wigle data collected in certain time frame: title -R5ph4</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11588#p11588</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11588#p11588</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11568#p11568</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11568#p11568</guid>
         <pubDate>2023-03-01T01:52:01</pubDate>
-      </item><item>
-        <title>Pwnagotchi plugin: Started using this plugin Code: https://github.com/evilsocket/pwnagotchi/blob/master/pwnagotchi/plugins/default/wigle.pyGetting this in my logs but unsure if anything is being uploaded to wigle how would I check. Code: [2023-02-28 22:01:21,511] [INFO] WIGLE: Internet connectivity detected. Uploading new handshakes to wigle.net[2023-02-28 22:02:11,282] [INFO] WIGLE: Successfully uploaded 38 filesPS Is anybody else using Pwnagotchi/ https://pwnagotchi.ai/ -wpa3</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11567#p11567</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11567#p11567</guid>
-        <pubDate>2023-02-28T22:08:13</pubDate>
       </item>
   </channel>
 </rss>
