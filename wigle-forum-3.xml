@@ -3,6 +3,16 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>How to have custom metadata for wifi ?: Example - Owner's Name, Address, etc -R5ph4</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11599#p11599</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11599#p11599</guid>
+        <pubDate>2023-03-10T06:25:14</pubDate>
+      </item><item>
+        <title>How to record continuously in time and not delete old data?: Example - Notice when a certain WiFi AP was down. -R5ph4</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11598#p11598</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11598#p11598</guid>
+        <pubDate>2023-03-10T06:21:18</pubDate>
+      </item><item>
         <title>Is there scripting in Android ?: Example - Play X sound when Y Device is Z Close. -R5ph4</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11597#p11597</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11597#p11597</guid>
@@ -67,16 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11578#p11578</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11578#p11578</guid>
         <pubDate>2023-03-01T17:33:53</pubDate>
-      </item><item>
-        <title>Re: Pwnagotchi plugin: looking at https://github.com/evilsocket/pwnagotch ... gle.py#L84, it looks like it expects the &quot;Encoded for use&quot; value from your https://wigle.net/account page This is probably uploading anonymously by default.Thats a shame i have since changed to the Encoded for use value is there anyway to check things are getting uploaded then? I guess it would be better to change the value in the script. -wpa3</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11577#p11577</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11577#p11577</guid>
-        <pubDate>2023-03-01T17:06:07</pubDate>
-      </item><item>
-        <title>Re: Pwnagotchi plugin: looking at https://github.com/evilsocket/pwnagotch ... gle.py#L84, it looks like it expects the &quot;Encoded for use&quot; value from your https://wigle.net/account page This is probably uploading anonymously by default. -arkasha</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11575#p11575</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11575#p11575</guid>
-        <pubDate>2023-03-01T16:51:19</pubDate>
       </item>
   </channel>
 </rss>
