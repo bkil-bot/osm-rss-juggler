@@ -3,6 +3,26 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Is there scripting in Android ?: Example - Play X sound when Y Device is Z Close. -R5ph4</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11597#p11597</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11597#p11597</guid>
+        <pubDate>2023-03-10T06:19:19</pubDate>
+      </item><item>
+        <title>How to measure Signal continuously using Android?: When Wardriving having more observations at different locations will help locate Source. Also Related - How can I do heatmaps in Wigle ? -R5ph4</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11596#p11596</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11596#p11596</guid>
+        <pubDate>2023-03-10T06:15:32</pubDate>
+      </item><item>
+        <title>What counts as observation number ?: Example - X Wi-Fi observed Y timed. It is not counted for every run ? -R5ph4</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11595#p11595</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11595#p11595</guid>
+        <pubDate>2023-03-10T06:13:56</pubDate>
+      </item><item>
+        <title>sqlite database: network vs location table ?: I want to delete data from a certain time frame. -R5ph4</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11594#p11594</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11594#p11594</guid>
+        <pubDate>2023-03-10T06:12:14</pubDate>
+      </item><item>
         <title>Re: Has anyone run WiGLE inside the windows 11 android subsystem?: I was afraid of that. Thanks for responding. slope gameIt's the first time I've tried to launch WiGLE within the Windows 11 Android emulation layer. -achooibm</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11592#p11592</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11592#p11592</guid>
@@ -57,26 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11575#p11575</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11575#p11575</guid>
         <pubDate>2023-03-01T16:51:19</pubDate>
-      </item><item>
-        <title>Re: Pwnagotchi plugin: Assuming you configured your credentials, just check the uploads page! -arkIt only asks for these Code: main.plugins.wigle.enabled = truemain.plugins.wigle.api_key = &quot;RANDOM API KEY&quot;main.plugins.wigle.whitelist = []But nothing was aadded so unsure whats happening honesty. -wpa3</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11573#p11573</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11573#p11573</guid>
-        <pubDate>2023-03-01T12:16:36</pubDate>
-      </item><item>
-        <title>Should I merge database from different phones or keep them seperate ?: Different phones have different antennas and record different signal level for same location. If somehow I figure out on one device -Xdb is Ym away. Keeping database separate will help ? Is there a way to import database from different phone and mark it's origin. -R5ph4</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11572#p11572</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11572#p11572</guid>
-        <pubDate>2023-03-01T11:08:33</pubDate>
-      </item><item>
-        <title>What is &amp;quot;Maxout DB Marker&amp;quot; in Android App ?: &quot;Maxout DB Marker&quot; -R5ph4</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11571#p11571</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11571#p11571</guid>
-        <pubDate>2023-03-01T11:04:33</pubDate>
-      </item><item>
-        <title>Desktop software to view observations ?: With features - 1. Offline - I don't want to upload to wigle.net 2. with different maps like OSM and Google etc. -R5ph4</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11570#p11570</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11570#p11570</guid>
-        <pubDate>2023-03-01T11:03:00</pubDate>
       </item>
   </channel>
 </rss>
