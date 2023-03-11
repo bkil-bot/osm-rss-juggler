@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Végigmentem az Ágnes utcai saroktól felfelé mindkét ágon. A kitáblázott házszámokban is vannak anomáliák (pl a fenn emlegetett 115a és 115c ki van írva, de 115b nincs), de a most berajzolt épületek alapján én is láttam elcsúszásokat. Lehet az is segített, hogy most szép napos idő volt, azt írta a telefon, hogy elvileg 3m-nél nem volt több az elcsúszása, máskor fel szokott az menni simán 10m-re is. https://www.openstreetmap.org/changeset/133553432 után remélhetőleg a fenn emlegetett problémák nagy része megoldott. -vmiklos</title>
+        <link>https://www.openstreetmap.org/changeset/101058513</link>
+        <guid>https://www.openstreetmap.org/changeset/101058513#comment_7</guid>
+        <pubDate>2023-03-11T13:31:20+01:00</pubDate>
+      </item><item>
         <title>Ami minket érdekel, hogy közhasznú-e a POI vagy sem. Amennyiben közkonyha ahol rászorulók étkezhetnek, melegedhetnek, akkor igen. Amennyiben étkeztetésre magánszemély elő tud fizetni, ételrendelés esik szóba, akkor is. Amennyiben ez egy beszállító üzemi konyha ahonnan a cég ellátja magát a háttérben és az utca embere semmilyen formában nem kerülhet kapcsolatba velük akkor nem. -bkil</title>
         <link>https://www.openstreetmap.org/changeset/133532151</link>
         <guid>https://www.openstreetmap.org/changeset/133532151#comment_4</guid>
@@ -52,11 +57,6 @@
         <link>https://www.openstreetmap.org/changeset/121055932</link>
         <guid>https://www.openstreetmap.org/changeset/121055932#comment_1</guid>
         <pubDate>2023-03-08T12:36:14+01:00</pubDate>
-      </item><item>
-        <title>Szia! Alapvetően ezek az elcsúszások voltak. Nem is tudom, mintha késett/elcsúszott volna a GPS pozíció. Konkrét hiány a 109 (vajon az Ágnes út 22 lenne az?). A 115-ös alátöréseket lenne jó megtudakolni. Ha jól emlékszem, a négyes osztatú épület ellenére csak három bejárat rémlik, és a cikkcakk végén &quot;115C&quot; van kint. Utána a kocsibehajtó már más színű kerítés - talán az vezet a hátul levő épülethez (321366842). És rögtön ezután a susnyásban már a 119 van kiírva. Mostanában nem mennék vissza egyhamar, így ha úgyis arra jársz, azt megköszönöm. Esetleg ha kedvet érzel, megnézheted alulról is, hogy melyik épület a Fodor utca 133., és hogy a másiknak mi a házszáma. Mert akár a 321411147-es way is lehet a Rácz Aladár 115 valamelyik tudata. Köszönöm. -ITineris</title>
-        <link>https://www.openstreetmap.org/changeset/101058513</link>
-        <guid>https://www.openstreetmap.org/changeset/101058513#comment_6</guid>
-        <pubDate>2023-03-07T19:25:37+01:00</pubDate>
       </item><item>
         <title>@proofone: I added access=private to that road. This account seems inactive. -infeeeee</title>
         <link>https://www.openstreetmap.org/changeset/94214470</link>
