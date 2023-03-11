@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Dear, thanks for your good intentions. I regret having had to revert your change, though: IATA codes are maintained and managed by IATA, and they state that the code QGY is not assigned. Check it out for yourself at https://www.iata.org/en/publications/directories/code-search/?airport.search=QGY Kindly yours, -Jan Olieslagers</title>
+        <link>https://www.openstreetmap.org/changeset/133507508</link>
+        <guid>https://www.openstreetmap.org/changeset/133507508#comment_1</guid>
+        <pubDate>2023-03-11T09:54:20+01:00</pubDate>
+      </item><item>
         <title>wiki.osm.org/Hungary/hi -bkil</title>
         <link>https://www.openstreetmap.org/changeset/133532151</link>
         <guid>https://www.openstreetmap.org/changeset/133532151#comment_3</guid>
