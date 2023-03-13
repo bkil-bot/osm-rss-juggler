@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Transdanubia, 8230, Hungary) / * 2023 March 13 12:33 ErdősGábor84 Created: A kinizsi bank megszűnt. / Helyette egy állatorvosi rendelő van, a neve pedig: / Tappancs Állatorvosi Rendelő</title>
+        <link>https://www.openstreetmap.org/note/3596329#c7751834</link>
+        <guid>https://www.openstreetmap.org/note/3596329#c7751834</guid>
+        <pubDate>Mon, 13 Mar 2023 12:33:47 +0000</pubDate>
+      </item><item>
         <title>new note (near Transdanubia, 8230, Hungary) / * 2023 March 13 04:52 ErdősGábor84 Created: Az üzlet megszűnt</title>
         <link>https://www.openstreetmap.org/note/3595812#c7750596</link>
         <guid>https://www.openstreetmap.org/note/3595812#c7750596</guid>
@@ -172,16 +177,6 @@
         <link>https://www.openstreetmap.org/note/3569735#c7743880</link>
         <guid>https://www.openstreetmap.org/note/3569735#c7743880</guid>
         <pubDate>Fri, 10 Mar 2023 23:56:44 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Southern Transdanubia, 8655, Hungary) / * 2022 December 4 12:16 Gaurdein Created: Unable to answer &amp;quot;What’s the surface firmness of this track?&amp;quot; for https://osm.org/way/193311331 via StreetComplete 49.2: / Keskeny híd, inkább gyalogos/motorkerékpáros forgalomra való / * 2022 December 10 19:04 urbalazs Resolved: Megoldva a bejelentő által. / * 2022 December 10 19:57 Gaurdein Reactivated:  / * 2022 December 10 19:58 Gaurdein Updated: Wiki szerint a highway=path jobb lenne, ha nem elég széles 4 kerekű járműveknek. Bocsi, csak vonaton nem a legkényelmesebb térképezni, azért írtam körbe javítás helyett / * 2023 March 10 23:44 Gaurdein Resolved: Javítottam, de csak a hidat.</title>
-        <link>https://www.openstreetmap.org/note/3466629#c7743835</link>
-        <guid>https://www.openstreetmap.org/note/3466629#c7743835</guid>
-        <pubDate>Fri, 10 Mar 2023 23:44:56 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Central Hungary, 1119, Hungary) / * 2023 February 18 14:00 Antissimo Created: Unable to answer &amp;quot;Is it lit here?&amp;quot; for https://osm.org/way/491202412 via StreetComplete 51.0: / Átépítés alatt / * 2023 March 10 16:36 BáthoryPéter Updated: Néz erre is egy darab reflektor</title>
-        <link>https://www.openstreetmap.org/note/3564338#c7742909</link>
-        <guid>https://www.openstreetmap.org/note/3564338#c7742909</guid>
-        <pubDate>Fri, 10 Mar 2023 16:36:21 +0000</pubDate>
       </item>
   </channel>
 </rss>
