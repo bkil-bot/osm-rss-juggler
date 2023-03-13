@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Tisztelt szerkesztő! Köszönjük a közreműködést. Szeretném felhívni a figyelmet, hogy az Ede utca és az Ebergény utca sarkát vélhetően véletlenül elmozdította. Ezt most visszahúztam. Kérem jobban ügyeljen erre a jövőben. Amennyiben lehetséges, kérem házszámot is tüntessen fel. https://wiki.osm.org/Hungary/hi -bkil</title>
+        <link>https://www.openstreetmap.org/changeset/133623160</link>
+        <guid>https://www.openstreetmap.org/changeset/133623160#comment_1</guid>
+        <pubDate>2023-03-13T16:38:48+01:00</pubDate>
+      </item><item>
         <title>2 év után ki emlékszik? Most találtam az egy akkiro felmérés képet: &quot;27 lakásos épület kialakítása, meglévő polgári védelmi létesítmény bontása&quot; mi ez ha nem construcion. Igaz a határidő 2010 volt, lassú munkához idő kell. Persze nem biztos, hogy ez a kép ehhez tartozott. -vasony</title>
         <link>https://www.openstreetmap.org/changeset/92968076</link>
         <guid>https://www.openstreetmap.org/changeset/92968076#comment_2</guid>
@@ -77,16 +82,6 @@
         <link>https://www.openstreetmap.org/changeset/133378830</link>
         <guid>https://www.openstreetmap.org/changeset/133378830#comment_1</guid>
         <pubDate>2023-03-07T07:34:56+01:00</pubDate>
-      </item><item>
-        <title>Szia! Üdv az OpenStreetMapen! A szerkesztésed jó, azért írok mert bepipáltad, hogy valaki nézze át. Egy apróság, az üzleteket nem az épület határárvonalára szoktuk rakni, hanem kicsit beljebb, de ez annyira nem lényeges. Ha további kérdéseid lennének, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/K%C3%B6z%C3%B6ss%C3%A9g További jó térképezést! -infeeeee</title>
-        <link>https://www.openstreetmap.org/changeset/133295640</link>
-        <guid>https://www.openstreetmap.org/changeset/133295640#comment_1</guid>
-        <pubDate>2023-03-06T15:42:43+01:00</pubDate>
-      </item><item>
-        <title>Szia! Üdv az OpenStreetMap-en! Ilyenkor, egy épületben található intézmény hozzáadásakor egy pontot kell rárakni az épületre, és a pontot címkézni. Az egész épületet átcímkézni csak akkor szokás (de akkor se mindig), ha abban az épületben semmilyen más funkció nem található, de itt nem ez a helyzet. A building=yes címkét sose távolítsd el, azzal gyakorlatilag &quot;lebontod&quot; az épületet. Javítottam ezeket ebben a csomagban: https://www.openstreetmap.org/changeset/133368178 További jó térképezést, ha kérdéseid lennének akkor keresd nyugodtan a magyar szerkesztő közösséget, elérhetőségeinket megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/K%C3%B6z%C3%B6ss%C3%A9g -infeeeee</title>
-        <link>https://www.openstreetmap.org/changeset/133326174</link>
-        <guid>https://www.openstreetmap.org/changeset/133326174#comment_1</guid>
-        <pubDate>2023-03-06T15:21:20+01:00</pubDate>
       </item>
   </channel>
 </rss>
