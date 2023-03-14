@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Note that your changeset was tagged with &quot;warnings:mismatched_geometry:point_as_vertex&quot; This indicates that you have accidentally pulled a POI (recycling bin) onto a road and it now sticked to the road here https://osm.org/node/10709151144 Only those points should be part of a road that are being traversed by vehicles. Please detach this node. Also please don't use &quot;recycling:composting&quot; - it is not used by anyone as per taginfo or the wiki. Use composting=yes instead as I have suggested, because it has different semantics (usually used for composting toilets). I also recommend you tag the email address under contact:email. -bkil</title>
+        <title>Could you perhaps join in on a remote call later today with screen sharing where we could discuss this in more details? JOSM does have a reverter plugin that can undo whole changesets, but it is easier to fix these little things while your change is small. -bkil</title>
         <link>https://www.openstreetmap.org/changeset/133667704</link>
-        <guid>https://www.openstreetmap.org/changeset/133667704#comment_1</guid>
-        <pubDate>2023-03-14T13:59:40+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/133667704#comment_3</guid>
+        <pubDate>2023-03-14T14:45:14+01:00</pubDate>
       </item><item>
         <title>Thanks for the comments. Changes are done. (green_waste remained, because otherwise these points were showing up as a recycle bin) -szabozoltan69</title>
         <link>https://www.openstreetmap.org/changeset/133285273</link>
