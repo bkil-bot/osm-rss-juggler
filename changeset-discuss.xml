@@ -3,6 +3,21 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Szia! Ezen a környéken rengeteg duplikátumot hoztál létre. Kerítések, épületek, területek egymás tetején, 2-3 példányban. Igyekeztem kitakarítani. Kérlek, legközelebb figyelj oda jobban! Az Illésházy utcánál még most is van egy rakás címkézetlen vonal. Azokkal mik a tervek? Kerítés lesz belőlük, vagy valami terület? Üdv: Ákos -ITineris</title>
+        <link>https://www.openstreetmap.org/changeset/133602219</link>
+        <guid>https://www.openstreetmap.org/changeset/133602219#comment_1</guid>
+        <pubDate>2023-03-15T14:06:35+01:00</pubDate>
+      </item><item>
+        <title>Köszönjük a javításokat. Szabadna kérnünk, hogy a jövőben kisebb területek legyenek külön-külön feltöltve és amennyiben lehetséges a szándék szerint kitöltött változáscsomag megjegyzéssel, hogy mások is jobban megérthessék, hogy mi történt? -bkil</title>
+        <link>https://www.openstreetmap.org/changeset/133707168</link>
+        <guid>https://www.openstreetmap.org/changeset/133707168#comment_1</guid>
+        <pubDate>2023-03-15T14:02:48+01:00</pubDate>
+      </item><item>
+        <title>Szia! Igazán alapos munkát végeztél. A kerítéseket négyszer is sikerült egymásra rajzolnod. Leszedtem a felesleget, de kérlek, legközelebb jobban figyelj! A másik pedig hogy a Fő utca mentén az biztosan nem egyetlen nagy egybefüggő kerítés, hanem ahány ház, annyi különálló. Jó lenne így is berajzolni őket, mert akkor lehet pl. különböző magasságot, anyagot megadni nekik. Köszönöm: Ákos -ITineris</title>
+        <link>https://www.openstreetmap.org/changeset/131389420</link>
+        <guid>https://www.openstreetmap.org/changeset/131389420#comment_1</guid>
+        <pubDate>2023-03-15T13:37:58+01:00</pubDate>
+      </item><item>
         <title>Köszönjük! Bővítettem az elmondottak alapján a meglévő pontokat és felvettem a Vitorla utcánál. https://osm.org/changeset/133709347 Ez a pont miért nincs a koordináták között? https://osm.org/node/10734965324 Valóban az lenne a jövőbe mutató ha ki-ki a sajátjait fel tudná venni. A weblappal és a plakáttal kapcsolatban szeretném javasolni, hogy jól jönne egy angol fordítás, mert nem minden felhasználó beszél magyarul. Illetve jó lenne egy a képek mellett szövegesen is legépelt megfogalmazás amihez a látássérültek és webes keresőmotorok is hozzá tudnak férni, vagy aki fordítóprogramot használna. Elnézést, hogy még ennyire szájbarágós - eddig még nem volt kezdeményezés ezek módszeres felmérésére így most alakítjuk ki, hogy mi lenne a legjobb jelölés erre. Egy egységes jelölés lehetővé tenné, hogy egy OSM alapú térképet is be lehessen ágyazni egy-egy weboldalra ami leszűrni a területen az összes hasonló komposztálót. -bkil</title>
         <link>https://www.openstreetmap.org/changeset/133667704</link>
         <guid>https://www.openstreetmap.org/changeset/133667704#comment_6</guid>
@@ -77,11 +92,6 @@
         <link>https://www.openstreetmap.org/changeset/133471981</link>
         <guid>https://www.openstreetmap.org/changeset/133471981#comment_2</guid>
         <pubDate>2023-03-09T11:54:08+01:00</pubDate>
-      </item><item>
-        <title>Műholdkép alapján csak arra gondoltam, hogy egy tömör felületű földterület lehet. Nem tudtam, hogy parkoló, de egy jégpálya mellett lévő terület végülis mi más lehetne. Akkor kijavítom ezt is parkolóra. -Kiss_Karoly</title>
-        <link>https://www.openstreetmap.org/changeset/129944935</link>
-        <guid>https://www.openstreetmap.org/changeset/129944935#comment_2</guid>
-        <pubDate>2023-03-08T14:26:31+01:00</pubDate>
       </item>
   </channel>
 </rss>
