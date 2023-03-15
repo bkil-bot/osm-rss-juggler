@@ -3,25 +3,35 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Ja, asszem sejtem ki vagy, voltam egy Ubuntu linuxos Grund eseményen, szerintem te voltál az, aki ott minden elképzelhető módon kerülted a Google eszközeit, és beszéltél is a wifi témáról. Vagy tévedek, mindegy. Számomra nem annyira rettentően ördögtől való a Google és a Facebook sem, tekintve, hogy közösségi célokat is szolgál(hat). Jitsi-t már használtam én is. Mindegy, ne ragozzuk túl. Szeretnék egy how-to-t efféle komposztpontok felvitelére. Meg tudod írni? S legyen meg az a három pont, amit írtam. Az általad hiányolt pont egyébként számomra azonos a másodikkal, azaz ezzel: 47.5669062, 19.0544276 -szabozoltan69</title>
+        <link>https://www.openstreetmap.org/changeset/133667704</link>
+        <guid>https://www.openstreetmap.org/changeset/133667704#comment_9</guid>
+        <pubDate>2023-03-15T16:12:07+01:00</pubDate>
+      </item><item>
+        <title>Hi, What made you classify these roads as primary or secondary main roads? You've also left a few topological errors. Greets, Ákos -ITineris</title>
+        <link>https://www.openstreetmap.org/changeset/124513602</link>
+        <guid>https://www.openstreetmap.org/changeset/124513602#comment_1</guid>
+        <pubDate>2023-03-15T16:09:08+01:00</pubDate>
+      </item><item>
+        <title>A Window -&gt; Validation results -&gt; Validation gomb megnyomásával bármikor le lehet kérni a figyelmeztetéseket. Ugyanezt teszi a JOSM feltöltéskor. -bkil</title>
+        <link>https://www.openstreetmap.org/changeset/133602219</link>
+        <guid>https://www.openstreetmap.org/changeset/133602219#comment_5</guid>
+        <pubDate>2023-03-15T15:53:12+01:00</pubDate>
+      </item><item>
+        <title>Hi, FYI: Roundabouts are tagged as &quot;junction=roundabout&quot; instead of simply onewaying them. Greets, Ákos -ITineris</title>
+        <link>https://www.openstreetmap.org/changeset/131380156</link>
+        <guid>https://www.openstreetmap.org/changeset/131380156#comment_1</guid>
+        <pubDate>2023-03-15T15:42:03+01:00</pubDate>
+      </item><item>
         <title>Itt a fő probléma az utcafronti kerítések sima többszörözése volt, nem a körbekerítésekből adódó duplázódás. Egyébként egyetértünk. Attól, hogy van valahol jó minőségű ortofotó, nem kell okvetlenül az utcára merőleges kerítéseket is mind berajzolni. Itthon úgyis az az alapértelmezett, hogy csak az utcákon tudsz eljutni A-ból B-be, a telkeken át nem. -ITineris</title>
         <link>https://www.openstreetmap.org/changeset/131389420</link>
         <guid>https://www.openstreetmap.org/changeset/131389420#comment_3</guid>
         <pubDate>2023-03-15T14:56:50+01:00</pubDate>
       </item><item>
-        <title>Sokat jelentene, ha a feltöltés előtti validátor mellett, én is le tudnék futtatni egy ellenőrzést. Pl. Ezeket a duplikátumokat hogyan tudtam volna kiszűrni? Hol látszik? -Kiss_Karoly</title>
-        <link>https://www.openstreetmap.org/changeset/133602219</link>
-        <guid>https://www.openstreetmap.org/changeset/133602219#comment_4</guid>
-        <pubDate>2023-03-15T14:49:24+01:00</pubDate>
-      </item><item>
         <title>Köszönjük a javításokat. Szabadna kérnünk, hogy a jövőben kisebb területek legyenek külön-külön feltöltve és amennyiben lehetséges a szándék szerint kitöltött változáscsomag megjegyzéssel, hogy mások is jobban megérthessék, hogy mi történt? -bkil</title>
         <link>https://www.openstreetmap.org/changeset/133707168</link>
         <guid>https://www.openstreetmap.org/changeset/133707168#comment_1</guid>
         <pubDate>2023-03-15T14:02:48+01:00</pubDate>
-      </item><item>
-        <title>Köszönjük! Bővítettem az elmondottak alapján a meglévő pontokat és felvettem a Vitorla utcánál. https://osm.org/changeset/133709347 Ez a pont miért nincs a koordináták között? https://osm.org/node/10734965324 Valóban az lenne a jövőbe mutató ha ki-ki a sajátjait fel tudná venni. A weblappal és a plakáttal kapcsolatban szeretném javasolni, hogy jól jönne egy angol fordítás, mert nem minden felhasználó beszél magyarul. Illetve jó lenne egy a képek mellett szövegesen is legépelt megfogalmazás amihez a látássérültek és webes keresőmotorok is hozzá tudnak férni, vagy aki fordítóprogramot használna. Elnézést, hogy még ennyire szájbarágós - eddig még nem volt kezdeményezés ezek módszeres felmérésére így most alakítjuk ki, hogy mi lenne a legjobb jelölés erre. Egy egységes jelölés lehetővé tenné, hogy egy OSM alapú térképet is be lehessen ágyazni egy-egy weboldalra ami leszűrni a területen az összes hasonló komposztálót. -bkil</title>
-        <link>https://www.openstreetmap.org/changeset/133667704</link>
-        <guid>https://www.openstreetmap.org/changeset/133667704#comment_6</guid>
-        <pubDate>2023-03-15T13:11:15+01:00</pubDate>
       </item><item>
         <title>Thanks for the comments. Changes are done. (green_waste remained, because otherwise these points were showing up as a recycle bin) -szabozoltan69</title>
         <link>https://www.openstreetmap.org/changeset/133285273</link>
