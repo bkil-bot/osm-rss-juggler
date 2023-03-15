@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Szia! Köszi szépen a munkádat! A helyzet az, hogy nem a komposztmester.hu az oldalunk (nem is tudtam, hogy az létezik, és majd felvesszük velük a kapcsolatot), hanem egy &quot;impresszum&quot; jellegűbb, a https://komposzt-obuda.hu. Tehát nem híroldal a célja (mert az a FB), hanem csak arra van, hogy ha valaki rámegy a QR kódra, ami a komposztpontokon van, akkor lássa, kik vagyunk és mi ez. Igazából három komposztpontot szerettem volna felvinni (bár csak kettőt kezdtem el), itt van e 3 pont GPS koordinátája: https://komposzt-obuda.hu/koordinatak.txt Minden segítséget köszönök! Bár hosszú távon jó volna, ha én is tudnék felvinni komposztpontot, hátha lesz még. -szabozoltan69</title>
+        <title>Köszönjük! Bővítettem az elmondottak alapján a meglévő pontokat és felvettem a Vitorla utcánál. https://osm.org/changeset/133709347 Ez a pont miért nincs a koordináták között? https://osm.org/node/10734965324 Valóban az lenne a jövőbe mutató ha ki-ki a sajátjait fel tudná venni. A weblappal és a plakáttal kapcsolatban szeretném javasolni, hogy jól jönne egy angol fordítás, mert nem minden felhasználó beszél magyarul. Illetve jó lenne egy a képek mellett szövegesen is legépelt megfogalmazás amihez a látássérültek és webes keresőmotorok is hozzá tudnak férni, vagy aki fordítóprogramot használna. Elnézést, hogy még ennyire szájbarágós - eddig még nem volt kezdeményezés ezek módszeres felmérésére így most alakítjuk ki, hogy mi lenne a legjobb jelölés erre. Egy egységes jelölés lehetővé tenné, hogy egy OSM alapú térképet is be lehessen ágyazni egy-egy weboldalra ami leszűrni a területen az összes hasonló komposztálót. -bkil</title>
         <link>https://www.openstreetmap.org/changeset/133667704</link>
-        <guid>https://www.openstreetmap.org/changeset/133667704#comment_5</guid>
-        <pubDate>2023-03-15T07:24:36+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/133667704#comment_6</guid>
+        <pubDate>2023-03-15T13:11:15+01:00</pubDate>
       </item><item>
         <title>Thanks for the comments. Changes are done. (green_waste remained, because otherwise these points were showing up as a recycle bin) -szabozoltan69</title>
         <link>https://www.openstreetmap.org/changeset/133285273</link>
@@ -82,11 +82,6 @@
         <link>https://www.openstreetmap.org/changeset/129944935</link>
         <guid>https://www.openstreetmap.org/changeset/129944935#comment_2</guid>
         <pubDate>2023-03-08T14:26:31+01:00</pubDate>
-      </item><item>
-        <title>Értem. Kösz. Javítom. -Kiss_Karoly</title>
-        <link>https://www.openstreetmap.org/changeset/129927507</link>
-        <guid>https://www.openstreetmap.org/changeset/129927507#comment_2</guid>
-        <pubDate>2023-03-08T14:14:09+01:00</pubDate>
       </item>
   </channel>
 </rss>
