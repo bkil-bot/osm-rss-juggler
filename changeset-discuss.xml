@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Szia Ákos! Köszönöm a javításokat! Sajnos volt egy kis technikai probléma a szék és a monitor között ;-) A kerítés definiciókat átnézem. Majd teszek bele töréspontokat. Vannak még képeim Szigetcsépről. Sándor -ESándor</title>
+        <link>https://www.openstreetmap.org/changeset/131389420</link>
+        <guid>https://www.openstreetmap.org/changeset/131389420#comment_4</guid>
+        <pubDate>2023-03-16T17:17:40+01:00</pubDate>
+      </item><item>
         <title>Szia! A közutak besorolása nem szubjektív. Ez az út a Közlekedési Információs Rendszer és Adatbázis szerint a &quot;5303 - Kecskemét-Kiskőrös összekötő út&quot;, és mint ilyen, highway=secondary (!) címke dukál neki. Már a Kaskantyú környéki tertiary is necces, de hogy még unclassified helyett is egyből a szántóföldek közötti track-nek sorold be, az kicsit erős nekem. Alapvetően nem a renderelőnek térképezünk. Ha egy útnak meg van adva a burkolata (vagy annak hiánya), az elégséges információ. Még ha neked nem is tetszik az adott megjelenítőben. Üdv: Ákos -ITineris</title>
         <link>https://www.openstreetmap.org/changeset/128938983</link>
         <guid>https://www.openstreetmap.org/changeset/128938983#comment_1</guid>
@@ -42,11 +47,6 @@
         <link>https://www.openstreetmap.org/changeset/133602219</link>
         <guid>https://www.openstreetmap.org/changeset/133602219#comment_5</guid>
         <pubDate>2023-03-15T15:53:12+01:00</pubDate>
-      </item><item>
-        <title>Itt a fő probléma az utcafronti kerítések sima többszörözése volt, nem a körbekerítésekből adódó duplázódás. Egyébként egyetértünk. Attól, hogy van valahol jó minőségű ortofotó, nem kell okvetlenül az utcára merőleges kerítéseket is mind berajzolni. Itthon úgyis az az alapértelmezett, hogy csak az utcákon tudsz eljutni A-ból B-be, a telkeken át nem. -ITineris</title>
-        <link>https://www.openstreetmap.org/changeset/131389420</link>
-        <guid>https://www.openstreetmap.org/changeset/131389420#comment_3</guid>
-        <pubDate>2023-03-15T14:56:50+01:00</pubDate>
       </item><item>
         <title>Köszönjük a javításokat. Szabadna kérnünk, hogy a jövőben kisebb területek legyenek külön-külön feltöltve és amennyiben lehetséges a szándék szerint kitöltött változáscsomag megjegyzéssel, hogy mások is jobban megérthessék, hogy mi történt? -bkil</title>
         <link>https://www.openstreetmap.org/changeset/133707168</link>
