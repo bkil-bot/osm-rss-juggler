@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Hangsúlyozom: 1. Nem hamis állítás, hanem az állami nyilvántartás szerint összekötő út. Ha neked ez nem tetszik, náluk kell kilincselni a besorolás megváltoztatásáért. És ez nem a négyszámjegyűségen múlik. 2. Az érvelésed elfogadva a budapesti utak nagy részét is visszaminősíthetnénk. Akár track-re is, már ami a járhatóságukat illeti. Még egyszer: A felszín anyagára, járhatóságra vannak más címkék is, ezeket kell használni. Az útvonaltervezők ezt szépen figyelembe is veszik. De lehet őket tovább is segíteni a maxspeed:practical vagy maxspeed:advisory címkékkel. 3. Ha már Wikire hivatkozunk, van belőle magyar is: https://wiki.openstreetmap.org/wiki/Hungary/F%C5%91%C3%BAt 4. Szintén a (bármilyen nyelvű) Wikiben megnézheted, mi a &quot;track&quot; definíciója. Az 5303-as nem az. -ITineris</title>
+        <title>Nem fogják átminősíteni, mivel minden állami tulajdonú útnak kötelezően van egy 1-5 jegyű nyilvántartási száma és ez a tözsvagyon része. Elképzelhető, hogy ki lesz építve valamikor egy főút, jelenleg egy része traktorok által használt mezőgazdasági dűlőút és még sok ilyen szakasz van az országban, ami csak papíron létezik mint összekötő út. Azt most látom, hogy valaki megalkotta ezt a beírást: &quot;secondary\tÖsszekötő út (4 számjegyű)&quot;, amit nagyon szomorúnak tartok, valószínű nem volt képben ezzel. A valóságtól elrugaszkodott l'art pour l'art jelölgetés példája, ami megtévesztő módon fogja máshogy jelölni mint más ugyanilyen földutakat. Ami pont úgy néz ki mint egy track, amit arra használnak mint egy track, azt nehéz máshogy jelölni... Nem az útminőség miatt lesz az, hanem hogy mire használják: https://wiki.openstreetmap.org/wiki/Tag:highway%3Dtrack Más európai országokban ennél sokkal fontosabb utak sem secondaryk. óDe rendben, több ilyet nem javítok át, úgy látom ez egy komolytalan adatbázis, ahol a valóság nem számít. -kovacsk</title>
         <link>https://www.openstreetmap.org/changeset/128938983</link>
-        <guid>https://www.openstreetmap.org/changeset/128938983#comment_3</guid>
-        <pubDate>2023-03-16T20:12:17+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/128938983#comment_4</guid>
+        <pubDate>2023-03-16T20:54:58+01:00</pubDate>
       </item><item>
         <title>Az OSM felhasználók javának vannak aggályai a nagyok kapcsán, az UH résztvevőknél pedig ez a többség és a wifit is mindenki szereti. Nem emlékszem, hogy találkoztunk volna. -bkil</title>
         <link>https://www.openstreetmap.org/changeset/133667704</link>

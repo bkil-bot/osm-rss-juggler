@@ -3,6 +3,11 @@
   <channel>
     <title>git (via bkil-bot)</title>
       <item>
+        <title>bkil: Hungary/beech: add</title>
+        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/266fea8fdb1065287a275cc3dfebaeaae13187d0</link>
+        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/266fea8fdb1065287a275cc3dfebaeaae13187d0</guid>
+        <pubDate>2023-03-16T21:32:58+01:00</pubDate>
+      </item><item>
         <title>bkil: Budapest-infra: 239 241 249 256 259</title>
         <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/88682e50af8ed5809fb6e3feb36f57b11bab3f79</link>
         <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/88682e50af8ed5809fb6e3feb36f57b11bab3f79</guid>
@@ -182,11 +187,6 @@
         <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/4adac470ab157d1f0cf0d13153651ac7a3e6ff9d</link>
         <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/4adac470ab157d1f0cf0d13153651ac7a3e6ff9d</guid>
         <pubDate>2020-07-27T00:25:59+02:00</pubDate>
-      </item><item>
-        <title>bkil: Biatorágy: add</title>
-        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/1eb4edf3e66f7c2839a4de016cf6742498de7078</link>
-        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/1eb4edf3e66f7c2839a4de016cf6742498de7078</guid>
-        <pubDate>2020-07-26T23:27:18+02:00</pubDate>
       </item>
   </channel>
 </rss>
