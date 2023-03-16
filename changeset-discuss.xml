@@ -3,10 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>hello! A számozás egy másik adat, ami megmaradt. A számozás mindössze annyit jelent, hogy ezekaz állami tulajdonú úthálózat részei és nem önkormányzati tulajdonban vannak, de funkciójukról semmit se mondanak. Mitől lenne egy négy számjegyű mellékút secondary? És mi akkor a terciary? Itt van a besorolás mi hogy néz ki: https://wiki.openstreetmap.org/wiki/Highway_tagging_samples/out_of_town Az openwiki szerint: A highway which is not part of a major route, but nevertheless forming a link in the national route network. Nem szubjektív, hanem pont a tényleges helyzet az, hogy ez a rész semmilyen összekötő szereppel nem bír nemhogy a nemzeti úthálózatban, de regionális szinten se. A wikipedia és személyes tapasztalatom szerint is: &quot;Az 5303-as mellékút egy bő 40 kilométeres hosszúságú, négy számjegyű mellékút Bács-Kiskun megye területén; eredeti funkciója az volt, hogy a megyeszékhely Kecskemétet kötötte össze Kiskőrössel, ma azonban már több kilométernyi szakaszon csak burkolatlan földútként húzódik, így azok a részei inkább csak mezőgazdasági útként funkcionálnak.&quot; Nem a megjelenítés miatt, hanem egyszerűen hamis állítás hogy ez secondary lenne. Erre személyautóval végig se lehet menni, mert elakad, teljes agyrém secondary szintűnek jelölni. -kovacsk</title>
+        <title>Hangsúlyozom: 1. Nem hamis állítás, hanem az állami nyilvántartás szerint összekötő út. Ha neked ez nem tetszik, náluk kell kilincselni a besorolás megváltoztatásáért. És ez nem a négyszámjegyűségen múlik. 2. Az érvelésed elfogadva a budapesti utak nagy részét is visszaminősíthetnénk. Akár track-re is, már ami a járhatóságukat illeti. Még egyszer: A felszín anyagára, járhatóságra vannak más címkék is, ezeket kell használni. Az útvonaltervezők ezt szépen figyelembe is veszik. De lehet őket tovább is segíteni a maxspeed:practical vagy maxspeed:advisory címkékkel. 3. Ha már Wikire hivatkozunk, van belőle magyar is: https://wiki.openstreetmap.org/wiki/Hungary/F%C5%91%C3%BAt 4. Szintén a (bármilyen nyelvű) Wikiben megnézheted, mi a &quot;track&quot; definíciója. Az 5303-as nem az. -ITineris</title>
         <link>https://www.openstreetmap.org/changeset/128938983</link>
-        <guid>https://www.openstreetmap.org/changeset/128938983#comment_2</guid>
-        <pubDate>2023-03-16T18:18:00+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/128938983#comment_3</guid>
+        <pubDate>2023-03-16T20:12:17+01:00</pubDate>
+      </item><item>
+        <title>Az OSM felhasználók javának vannak aggályai a nagyok kapcsán, az UH résztvevőknél pedig ez a többség és a wifit is mindenki szereti. Nem emlékszem, hogy találkoztunk volna. -bkil</title>
+        <link>https://www.openstreetmap.org/changeset/133667704</link>
+        <guid>https://www.openstreetmap.org/changeset/133667704#comment_12</guid>
+        <pubDate>2023-03-16T19:19:52+01:00</pubDate>
       </item><item>
         <title>Szia Ákos! Köszönöm a javításokat! Sajnos volt egy kis technikai probléma a szék és a monitor között ;-) A kerítés definiciókat átnézem. Majd teszek bele töréspontokat. Vannak még képeim Szigetcsépről. Sándor -ESándor</title>
         <link>https://www.openstreetmap.org/changeset/131389420</link>
@@ -22,11 +27,6 @@
         <link>https://www.openstreetmap.org/changeset/133722026</link>
         <guid>https://www.openstreetmap.org/changeset/133722026#comment_1</guid>
         <pubDate>2023-03-16T13:26:35+01:00</pubDate>
-      </item><item>
-        <title>Mi legyen akkor ezzel a témával? Lehet, egyszerűbb lenne az egészet ejteni és vadi újonnan elkezdeni. Végül is van 3 koordináta, oda kellene ugyanaz mindenhová. -szabozoltan69</title>
-        <link>https://www.openstreetmap.org/changeset/133667704</link>
-        <guid>https://www.openstreetmap.org/changeset/133667704#comment_10</guid>
-        <pubDate>2023-03-16T13:10:32+01:00</pubDate>
       </item><item>
         <title>Hi, thanks for the clarification. -DianaDemchuk</title>
         <link>https://www.openstreetmap.org/changeset/131380156</link>
