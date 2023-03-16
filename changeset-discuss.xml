@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Hi, thanks for the clarification. -DianaDemchuk</title>
+        <link>https://www.openstreetmap.org/changeset/131380156</link>
+        <guid>https://www.openstreetmap.org/changeset/131380156#comment_2</guid>
+        <pubDate>2023-03-16T07:44:35+01:00</pubDate>
+      </item><item>
         <title>Köszönöm a figyelmeztetést, így fogom jelölni a jövőben. eddig csak akkor használtam ha még kint vannak a táblák vagy ideiglenesen zárt be stb. -ironalloy</title>
         <link>https://www.openstreetmap.org/changeset/133531063</link>
         <guid>https://www.openstreetmap.org/changeset/133531063#comment_2</guid>
@@ -22,11 +27,6 @@
         <link>https://www.openstreetmap.org/changeset/133602219</link>
         <guid>https://www.openstreetmap.org/changeset/133602219#comment_5</guid>
         <pubDate>2023-03-15T15:53:12+01:00</pubDate>
-      </item><item>
-        <title>Hi, FYI: Roundabouts are tagged as &quot;junction=roundabout&quot; instead of simply onewaying them. Greets, Ákos -ITineris</title>
-        <link>https://www.openstreetmap.org/changeset/131380156</link>
-        <guid>https://www.openstreetmap.org/changeset/131380156#comment_1</guid>
-        <pubDate>2023-03-15T15:42:03+01:00</pubDate>
       </item><item>
         <title>Itt a fő probléma az utcafronti kerítések sima többszörözése volt, nem a körbekerítésekből adódó duplázódás. Egyébként egyetértünk. Attól, hogy van valahol jó minőségű ortofotó, nem kell okvetlenül az utcára merőleges kerítéseket is mind berajzolni. Itthon úgyis az az alapértelmezett, hogy csak az utcákon tudsz eljutni A-ból B-be, a telkeken át nem. -ITineris</title>
         <link>https://www.openstreetmap.org/changeset/131389420</link>
