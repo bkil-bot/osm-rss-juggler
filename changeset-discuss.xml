@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Visszavonatnám, ha tudnám kivel. -kogutowicz-mano</title>
+        <link>https://www.openstreetmap.org/changeset/133763314</link>
+        <guid>https://www.openstreetmap.org/changeset/133763314#comment_1</guid>
+        <pubDate>2023-03-17T05:06:57+01:00</pubDate>
+      </item><item>
         <title>Na mégegyszer alaposan átnéztem mi a tracks és megnyugodtam hogy szabályosan jelöltem. &quot;The tag highway=track is used for minor land-access roads that are not considered part of the general-purpose road network&quot; &quot;Track roads are mostly not for general motor vehicle traffic, but are used by some subset. So these ways are seen as something a bit less than a road and not really part of this general-purpose road network.&quot; &quot;As long as the primary purpose of the road is land access, highway=track is appropriate.&quot; Itt pont ez a helyzet, nincs általános járműforgalom, nincs átmenőforgalom (nem is tud), csak a környező területek mg-i célú megközelítésére használatos útszakaszról van szó traktorokkal, terepjárókkal. Ha van a track meghatározásásra országspecifikus magyar oldal, ami más mond kérlek jelezd. A secondary magyar egy mondatos meghatározása nem precíz, ezért valóban ellentmondásos ezzel. Így többet nem fogom átírni. -kovacsk</title>
         <link>https://www.openstreetmap.org/changeset/128938983</link>
         <guid>https://www.openstreetmap.org/changeset/128938983#comment_5</guid>
