@@ -3,15 +3,20 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Igen, itt egy példa: https://overpass-turbo.eu/s/1swG Még nyilván kevés találat lesz rá, mert a meglévő dobozokat is erre a sémára kellene hozni, de rajta leszünk a kérdésen. Létezik olyan, már kész slippymap is ami adott POI-kat leszűrve mutat mindig aktualizálva. Majd ezt is érdemes bekötni miután ez megvolt. -bkil</title>
+        <link>https://www.openstreetmap.org/changeset/133667704</link>
+        <guid>https://www.openstreetmap.org/changeset/133667704#comment_15</guid>
+        <pubDate>2023-03-17T11:56:02+01:00</pubDate>
+      </item><item>
+        <title>Köszönjük az aktualizálást. A jövőben javasoljuk lifecycle prefix alkalmazását (pl. was:amenity=restaurant) https://wiki.osm.org/Lifecycle_prefix -bkil</title>
+        <link>https://www.openstreetmap.org/changeset/133777815</link>
+        <guid>https://www.openstreetmap.org/changeset/133777815#comment_1</guid>
+        <pubDate>2023-03-17T11:45:05+01:00</pubDate>
+      </item><item>
         <title>Szia Bálint! Valóban, ilyen nevű TELEPÜLÉS nincs. Főleg nem „Újpesti” névvel. Az „i” betű az részemről elírás volt, javítottam is, köszönöm. De Újpest városszerkezeti egységeinek megnevezései között „Újpest Városközpont”-ként szerepel ez a városrész. Kötőjel nélkül. Ezúttal a kisujjam helyett a IV. kerületi Önkormányzat városfejlesztési anyagaiban olvastam a felírt megnevezéseket és a városrészeket. Általában településfejlesztési dokumentumokban lelek olyan településrész neveket, melyek az OSM térképen még nem szerepelnek. üdv Zsolt -zsolt d</title>
         <link>https://www.openstreetmap.org/changeset/133722026</link>
         <guid>https://www.openstreetmap.org/changeset/133722026#comment_2</guid>
         <pubDate>2023-03-17T10:02:51+01:00</pubDate>
-      </item><item>
-        <title>Még egy kérdés: keresni lehet komposztpontokra? -szabozoltan69</title>
-        <link>https://www.openstreetmap.org/changeset/133667704</link>
-        <guid>https://www.openstreetmap.org/changeset/133667704#comment_14</guid>
-        <pubDate>2023-03-17T07:43:08+01:00</pubDate>
       </item><item>
         <title>Visszavonatnám, ha tudnám kivel. -kogutowicz-mano</title>
         <link>https://www.openstreetmap.org/changeset/133763314</link>
@@ -107,11 +112,6 @@
         <link>https://www.openstreetmap.org/changeset/133507508</link>
         <guid>https://www.openstreetmap.org/changeset/133507508#comment_3</guid>
         <pubDate>2023-03-11T10:59:30+01:00</pubDate>
-      </item><item>
-        <title>Ok, thanks for your edit -ALRam</title>
-        <link>https://www.openstreetmap.org/changeset/133478689</link>
-        <guid>https://www.openstreetmap.org/changeset/133478689#comment_6</guid>
-        <pubDate>2023-03-10T12:06:20+01:00</pubDate>
       </item>
   </channel>
 </rss>
