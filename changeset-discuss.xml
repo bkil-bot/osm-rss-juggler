@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Szia! Mi ez a 10 cm méretű &quot;épület&quot;? Üdv: Ákos -ITineris</title>
+        <title>Köszönöm, de be tudom osztani a magam idejét. A kérdésem továbbra is fennáll: micsoda ez a 10 cm méretű &quot;épület&quot;? Az ellenőrző eszközök sírnak miatta, és tényleg erősen gyanús, hogy hibás címkézés. Lehet egy pillér, egy szobor talapzata, egy oszlop, egy kémény - bármi, de nem egy épület, amibe be lehetne menni. -ITineris</title>
         <link>https://www.openstreetmap.org/changeset/84751460</link>
-        <guid>https://www.openstreetmap.org/changeset/84751460#comment_1</guid>
-        <pubDate>2023-03-18T13:22:51+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/84751460#comment_3</guid>
+        <pubDate>2023-03-18T16:06:56+01:00</pubDate>
       </item><item>
         <title>Szia! Lebontott épületekre a demolished:building=yes címkét szoktuk használni: https://wiki.openstreetmap.org/wiki/Key:demolished:building Parkolóautomatákra és az utcai fizetős parkolásra is van már egy nagyjából általánosan használt séma. Parkoló automatákon csak a ref számot címkézzük, a parkolással kapcsolatos egyéb infó az adott utcára kerül a street parking séma alapján: https://wiki.openstreetmap.org/wiki/Street_parking XI. kerületben sokat megcsináltunk már, onnan vehetsz mintát, hogy hogyan kéne. Pl egy ilyen C zónás utcának, ha mindkét oldalon meg lehet állni, a címkézése kb így néz ki: parking:both:fee = no parking:both:fee:conditional = yes @ (Mo-Fr 08:00-18:00) parking:both:maxstay:conditional = 3 hours @ (Mo-Fr 08:00-18:00) parking:both:orientation = parallel parking:both:zone = C Ez a példa innen van: https://www.openstreetmap.org/way/264613828 Ha így címkézel egy utcát, akkor pl ez a térkép meg tudja jeleníteni, hogy egy adott pillanatban kell-e fizetni a parkolásért: https://zlant.github.io/parking-lanes/ Volt egy régi fajta címkézézés a parking:lane... séma, még nincs mindenhol frissítve, de már dolgozunk rajta. Macerás a frissítése, mert nem feleltethető meg a régi minden esetben az újjal egyértelműen, nem lehet teljesen automatizálni a frissítést. De ez az új eléggé lefedi az összes lehetőséget, csak figyelj, hogy a régit már ne használd. További jó térképezést! -infeeeee</title>
         <link>https://www.openstreetmap.org/changeset/133786603</link>
