@@ -3,10 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>https://www.openstreetmap.org/way/1122695124 What are you trying to say with &quot;surface=2&quot; That is a non recognised value for the surface tag. -marczoutendijk</title>
+        <title>Tisztelt szerkesztő! Tájékoztatom, hogy a szerkesztése visszavonásra került mert az nem felel meg a térkép jelölési rendszerének. Körül tudná írni, hogy mit szeretett volna ábrázolni? Ezen kívül kérem ne használja a Bing légifelvételeit ahol annál jóval pontosabb is elérhető (Fömi 2007-2010, Maxar). Sarkonként változik, hogy hol jobbra, hol balra &quot;húz&quot; egy ilyen légifelvétel a valódi GPS pozíciójához képest, emiatt nem lehet kizárólag erre hivatkozni. -bkil</title>
+        <link>https://www.openstreetmap.org/changeset/133837243</link>
+        <guid>https://www.openstreetmap.org/changeset/133837243#comment_1</guid>
+        <pubDate>2023-03-18T21:52:30+01:00</pubDate>
+      </item><item>
+        <title>Hello! Thank you for your comment, it was a tagging mistake from me, fixed it. -bordaben</title>
         <link>https://www.openstreetmap.org/changeset/130162737</link>
-        <guid>https://www.openstreetmap.org/changeset/130162737#comment_1</guid>
-        <pubDate>2023-03-18T19:24:58+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/130162737#comment_2</guid>
+        <pubDate>2023-03-18T21:23:32+01:00</pubDate>
       </item><item>
         <title>Köszönöm, de be tudom osztani a magam idejét. A kérdésem továbbra is fennáll: micsoda ez a 10 cm méretű &quot;épület&quot;? Az ellenőrző eszközök sírnak miatta, és tényleg erősen gyanús, hogy hibás címkézés. Lehet egy pillér, egy szobor talapzata, egy oszlop, egy kémény - bármi, de nem egy épület, amibe be lehetne menni. -ITineris</title>
         <link>https://www.openstreetmap.org/changeset/84751460</link>
