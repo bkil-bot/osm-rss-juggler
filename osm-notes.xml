@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Central Hungary, 1098, Hungary) / * 2023 March 20 19:21 Ferenc Schulcz Created: Unable to answer &amp;quot;What’s the surface here?&amp;quot; for https://osm.org/way/124972237 via StreetComplete 51.1: / Az út másik oldalán van egy (aszfaltos) járda, de itt biztosan nincs gyalogút. A villamossínek mellett még egy kis kerítés is van, ami elzárja az utat.</title>
+        <link>https://www.openstreetmap.org/note/3606621#c7775658</link>
+        <guid>https://www.openstreetmap.org/note/3606621#c7775658</guid>
+        <pubDate>Mon, 20 Mar 2023 19:21:32 +0000</pubDate>
+      </item><item>
         <title>new note (near Central Hungary, 1146, Hungary) / * 2023 March 20 19:08 Ferenc Schulcz Created: Ez a POI nem a 72-es trolibusz megállója, hanem a kisföldalatti régi felszíni megállója, amit a Mexikói útig történő hosszabbításkor szüntettek meg. Nem hiszem, hogy ma még bármi látszik belőle, a sínek már tuti nincsenek meg.</title>
         <link>https://www.openstreetmap.org/note/3606611#c7775591</link>
         <guid>https://www.openstreetmap.org/note/3606611#c7775591</guid>
@@ -122,11 +127,6 @@
         <link>https://www.openstreetmap.org/note/3604229#c7770675</link>
         <guid>https://www.openstreetmap.org/note/3604229#c7770675</guid>
         <pubDate>Sun, 19 Mar 2023 11:51:16 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Transdanubia, 8200, Hungary) / * 2023 January 24 10:38 ironalloy Created: &amp;quot;ezt lecserélte az automata&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-01-17T12:32:27Z / POI name: Inmedio / POI types: shop-newsagent / #organicmaps / * 2023 March 19 10:53 ironalloy Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3529951#c7770446</link>
-        <guid>https://www.openstreetmap.org/note/3529951#c7770446</guid>
-        <pubDate>Sun, 19 Mar 2023 10:53:18 +0000</pubDate>
       </item>
   </channel>
 </rss>
