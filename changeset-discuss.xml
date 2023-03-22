@@ -3,15 +3,30 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>You can see the signs of this fact if you check this area on Google's Street View. Only 4 buildings are named to Alföldi tér (they're located in the triangle) close to the railways. Those buildings were built maybe around 2000's while the others in Alföldi utca around 1970's. -GameZ_2022</title>
+        <link>https://www.openstreetmap.org/changeset/133977575</link>
+        <guid>https://www.openstreetmap.org/changeset/133977575#comment_2</guid>
+        <pubDate>2023-03-22T16:39:46+01:00</pubDate>
+      </item><item>
+        <title>Could we perhaps refrain from testing in production if possible? Could you share what you are trying to do? -bkil</title>
+        <link>https://www.openstreetmap.org/changeset/133983382</link>
+        <guid>https://www.openstreetmap.org/changeset/133983382#comment_1</guid>
+        <pubDate>2023-03-22T16:24:20+01:00</pubDate>
+      </item><item>
+        <title>Maybe this? But what made you investigate this POI Mateusz Konieczny? https://facebook.com/people/Internet-Call-Shop/100032396153325/ -bkil</title>
+        <link>https://www.openstreetmap.org/changeset/24671033</link>
+        <guid>https://www.openstreetmap.org/changeset/24671033#comment_2</guid>
+        <pubDate>2023-03-22T16:22:55+01:00</pubDate>
+      </item><item>
+        <title>Köszönjük a közreműködést. Szeretnénk felhívni a figyelmet, hogy a házszám után nem kell pontot írni: elég a &quot;11&quot; -bkil</title>
+        <link>https://www.openstreetmap.org/changeset/133978048</link>
+        <guid>https://www.openstreetmap.org/changeset/133978048#comment_1</guid>
+        <pubDate>2023-03-22T16:19:10+01:00</pubDate>
+      </item><item>
         <title>OK. Kösz! -kogutowicz-mano</title>
         <link>https://www.openstreetmap.org/changeset/106245853</link>
         <guid>https://www.openstreetmap.org/changeset/106245853#comment_3</guid>
         <pubDate>2023-03-22T13:11:21+01:00</pubDate>
-      </item><item>
-        <title>Hello! I know that it is an ancient edit, but maybe you are still mapping in this area... What you meant by https://www.openstreetmap.org/node/3009881988/history ? Is it an internet cafe (amenity=internet_cafe)? Office where you can sign up for internet service? Something related to online shopping (pickup point that nowadays is marked as shop=outpost? company office marked as office=company?) -Mateusz Konieczny</title>
-        <link>https://www.openstreetmap.org/changeset/24671033</link>
-        <guid>https://www.openstreetmap.org/changeset/24671033#comment_1</guid>
-        <pubDate>2023-03-22T12:26:59+01:00</pubDate>
       </item><item>
         <title>They sell _every_ kind of plastic and only plastic. :-) They manufacture and sell plastic ranging from consumer to industial stuff. I am not sure the shop is still open (I've been there a long time ago) but the company is definitely existing. I updated their contacts so you can check the website yourself. -grin</title>
         <link>https://www.openstreetmap.org/changeset/17711145</link>
@@ -127,11 +142,6 @@
         <link>https://www.openstreetmap.org/changeset/133531063</link>
         <guid>https://www.openstreetmap.org/changeset/133531063#comment_2</guid>
         <pubDate>2023-03-15T18:26:11+01:00</pubDate>
-      </item><item>
-        <title>Hi, What made you classify these roads as primary or secondary main roads? You've also left a few topological errors. Greets, Ákos -ITineris</title>
-        <link>https://www.openstreetmap.org/changeset/124513602</link>
-        <guid>https://www.openstreetmap.org/changeset/124513602#comment_1</guid>
-        <pubDate>2023-03-15T16:09:08+01:00</pubDate>
       </item>
   </channel>
 </rss>
