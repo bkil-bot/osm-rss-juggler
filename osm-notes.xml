@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Central Hungary, 2132, Hungary) / * 2022 November 23 11:29 Kiss_Karoly Created: Létezik még ez hely? Amikor Gödön jártam, nem láttam bejáratot ide. / * 2023 March 22 21:36 Kiss_Karoly Resolved: Kicsit több időm volt, körülnéztem, de nyomát sem láttam semmilyen faház-kocsmának. A jegyzetet így lezárom.</title>
+        <link>https://www.openstreetmap.org/note/3452802#c7781950</link>
+        <guid>https://www.openstreetmap.org/note/3452802#c7781950</guid>
+        <pubDate>Wed, 22 Mar 2023 21:36:07 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Central Hungary, 2132, Hungary) / * 2022 June 25 23:43 bkil Created: Van itt étkezde? / * 2023 March 22 21:31 Kiss_Karoly Resolved: Megnéztem személyesen. Nincs itt étkezde.</title>
+        <link>https://www.openstreetmap.org/note/3240468#c7781943</link>
+        <guid>https://www.openstreetmap.org/note/3240468#c7781943</guid>
+        <pubDate>Wed, 22 Mar 2023 21:31:27 +0000</pubDate>
+      </item><item>
         <title>closed note (near North Hungary, 3077, Hungary) / * 2023 March 22 18:09 GBAB Resolved: </title>
         <link>https://www.openstreetmap.org/note/3608914#c7781508</link>
         <guid>https://www.openstreetmap.org/note/3608914#c7781508</guid>
@@ -197,11 +207,6 @@
         <link>https://www.openstreetmap.org/note/3602721#c7773520</link>
         <guid>https://www.openstreetmap.org/note/3602721#c7773520</guid>
         <pubDate>Mon, 20 Mar 2023 06:20:48 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Transdanubia, 9730, Hungary) / * 2023 March 19 19:55 vasony Resolved: ez vehicle=destination és a bicycle=yes sem jó, átírom</title>
-        <link>https://www.openstreetmap.org/note/3453208#c7772409</link>
-        <guid>https://www.openstreetmap.org/note/3453208#c7772409</guid>
-        <pubDate>Sun, 19 Mar 2023 19:55:59 +0000</pubDate>
       </item>
   </channel>
 </rss>
