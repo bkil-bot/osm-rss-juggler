@@ -3,10 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Szia! Mi a szerepe a magányos https://www.openstreetmap.org/node/8827110315 pontból álló https://www.openstreetmap.org/relation/12841334 kapcsolatnak? -kogutowicz-mano</title>
+        <title>OK. Kösz! -kogutowicz-mano</title>
         <link>https://www.openstreetmap.org/changeset/106245853</link>
-        <guid>https://www.openstreetmap.org/changeset/106245853#comment_1</guid>
-        <pubDate>2023-03-22T06:33:47+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/106245853#comment_3</guid>
+        <pubDate>2023-03-22T13:11:21+01:00</pubDate>
+      </item><item>
+        <title>Hello! I know that it is an ancient edit, but maybe you are still mapping in this area... What you meant by https://www.openstreetmap.org/node/3009881988/history ? Is it an internet cafe (amenity=internet_cafe)? Office where you can sign up for internet service? Something related to online shopping (pickup point that nowadays is marked as shop=outpost? company office marked as office=company?) -Mateusz Konieczny</title>
+        <link>https://www.openstreetmap.org/changeset/24671033</link>
+        <guid>https://www.openstreetmap.org/changeset/24671033#comment_1</guid>
+        <pubDate>2023-03-22T12:26:59+01:00</pubDate>
       </item><item>
         <title>They sell _every_ kind of plastic and only plastic. :-) They manufacture and sell plastic ranging from consumer to industial stuff. I am not sure the shop is still open (I've been there a long time ago) but the company is definitely existing. I updated their contacts so you can check the website yourself. -grin</title>
         <link>https://www.openstreetmap.org/changeset/17711145</link>
@@ -127,11 +132,6 @@
         <link>https://www.openstreetmap.org/changeset/124513602</link>
         <guid>https://www.openstreetmap.org/changeset/124513602#comment_1</guid>
         <pubDate>2023-03-15T16:09:08+01:00</pubDate>
-      </item><item>
-        <title>Köszönjük a javításokat. Szabadna kérnünk, hogy a jövőben kisebb területek legyenek külön-külön feltöltve és amennyiben lehetséges a szándék szerint kitöltött változáscsomag megjegyzéssel, hogy mások is jobban megérthessék, hogy mi történt? -bkil</title>
-        <link>https://www.openstreetmap.org/changeset/133707168</link>
-        <guid>https://www.openstreetmap.org/changeset/133707168#comment_1</guid>
-        <pubDate>2023-03-15T14:02:48+01:00</pubDate>
       </item>
   </channel>
 </rss>
