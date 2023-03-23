@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Szia! Üdv az OpenStreetMapen! Ez az épület a &quot;simple 3D buildings&quot; séma alapján volt címkézve: https://wiki.openstreetmap.org/wiki/Simple_3D_Buildings Ez azt jelenti, hogy csak az épület kontúrnak kell a building=* címkével rendelkeznie, a különböző épületrészeknek csak a building:part=yes címke kell. A kontúr az ez elem, building=university címke szerepel rajta: https://www.openstreetmap.org/relation/6907943 Az összes többi elemen pedig szerepelt a building:part=yes, ezt cserélted ki. Mivel semmi más változtatást nem csináltál ebben a módosításcsomagban, ezért ezt az egészet visszavonom. Ha további kérdéseid lennének, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/K%C3%B6z%C3%B6ss%C3%A9g További jó térképezést! -infeeeee</title>
+        <link>https://www.openstreetmap.org/changeset/134012491</link>
+        <guid>https://www.openstreetmap.org/changeset/134012491#comment_1</guid>
+        <pubDate>2023-03-23T09:18:35+01:00</pubDate>
+      </item><item>
         <title>&gt; But what made you investigate this POI Mateusz Konieczny? I am trying to clean up a bit unusual shop values, in some cases solution is obvious due to typos or similar - in some I ask people who added it -Mateusz Konieczny</title>
         <link>https://www.openstreetmap.org/changeset/24671033</link>
         <guid>https://www.openstreetmap.org/changeset/24671033#comment_4</guid>
