@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>T. Szerkesztő! A nyitvatartás megadása angol nevekkel és kettősponttal törtlénik: opening_hours=Mo-Fr 8:00-13:30 https://wiki.openstreetmap.org/wiki/Key:opening_hours A postát javítottam, valamit ha ez egy postapartner lett, akkor célszerű az üzlet nevét megadni a posta helyett és az alábbiakat rátenni pluszban. post_office=post_partner Tamás -vasony</title>
+        <link>https://www.openstreetmap.org/changeset/133365522</link>
+        <guid>https://www.openstreetmap.org/changeset/133365522#comment_1</guid>
+        <pubDate>2023-03-23T21:03:47+01:00</pubDate>
+      </item><item>
         <title>Szia! Üdv az OpenStreetMapen! Ez az épület a &quot;simple 3D buildings&quot; séma alapján volt címkézve: https://wiki.openstreetmap.org/wiki/Simple_3D_Buildings Ez azt jelenti, hogy csak az épület kontúrnak kell a building=* címkével rendelkeznie, a különböző épületrészeknek csak a building:part=yes címke kell. A kontúr az ez elem, building=university címke szerepel rajta: https://www.openstreetmap.org/relation/6907943 Az összes többi elemen pedig szerepelt a building:part=yes, ezt cserélted ki. Mivel semmi más változtatást nem csináltál ebben a módosításcsomagban, ezért ezt az egészet visszavonom. Ha további kérdéseid lennének, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/K%C3%B6z%C3%B6ss%C3%A9g További jó térképezést! -infeeeee</title>
         <link>https://www.openstreetmap.org/changeset/134012491</link>
         <guid>https://www.openstreetmap.org/changeset/134012491#comment_1</guid>
@@ -122,11 +127,6 @@
         <link>https://www.openstreetmap.org/changeset/133722026</link>
         <guid>https://www.openstreetmap.org/changeset/133722026#comment_2</guid>
         <pubDate>2023-03-17T10:02:51+01:00</pubDate>
-      </item><item>
-        <title>Na mégegyszer alaposan átnéztem mi a tracks és megnyugodtam hogy szabályosan jelöltem. &quot;The tag highway=track is used for minor land-access roads that are not considered part of the general-purpose road network&quot; &quot;Track roads are mostly not for general motor vehicle traffic, but are used by some subset. So these ways are seen as something a bit less than a road and not really part of this general-purpose road network.&quot; &quot;As long as the primary purpose of the road is land access, highway=track is appropriate.&quot; Itt pont ez a helyzet, nincs általános járműforgalom, nincs átmenőforgalom (nem is tud), csak a környező területek mg-i célú megközelítésére használatos útszakaszról van szó traktorokkal, terepjárókkal. Ha van a track meghatározásásra országspecifikus magyar oldal, ami más mond kérlek jelezd. A secondary magyar egy mondatos meghatározása nem precíz, ezért valóban ellentmondásos ezzel. Így többet nem fogom átírni. -kovacsk</title>
-        <link>https://www.openstreetmap.org/changeset/128938983</link>
-        <guid>https://www.openstreetmap.org/changeset/128938983#comment_5</guid>
-        <pubDate>2023-03-16T22:04:05+01:00</pubDate>
       </item>
   </channel>
 </rss>
