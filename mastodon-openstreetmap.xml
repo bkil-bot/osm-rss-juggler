@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>Interested in participating in #GSoC this summer? Applications are open! OSM-specific information is available on the blog and the @GoogleOSS GSoC timeline is here: https://developers.google.com/open-source/gsoc/timeline</title>
+        <link>https://en.osm.town/@openstreetmap/110078820238814491</link>
+        <guid>https://en.osm.town/@openstreetmap/110078820238814491</guid>
+        <pubDate>Fri, 24 Mar 2023 14:51:38 +0000</pubDate>
+      </item><item>
         <title>Want to learn more about the Local Chapters and Communities Working Group? Check out the LCCWG wiki: https://wiki.osmfoundation.org/wiki/Local_Chapters_and_Communities_Working_Group</title>
         <link>https://en.osm.town/@openstreetmap/110065664498264789</link>
         <guid>https://en.osm.town/@openstreetmap/110065664498264789</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/109781822090521622</link>
         <guid>https://en.osm.town/@openstreetmap/109781822090521622</guid>
         <pubDate>Tue, 31 Jan 2023 04:01:06 +0000</pubDate>
-      </item><item>
-        <title>Roland Olbricht wants to focus on fundraising for improvement projects and new projects. Read his whole statement on the blog post: https://blog.openstreetmap.org/2023/01/27/2023-on-the-osmf-board-our-individual-views/ RT @openstreetmap@twitter.com Roland Olbricht (Germany) https://wiki.openstreetmap.org/wiki/User:Roland.olbricht 🐦🔗: https://twitter.com/openstreetmap/status/1616767739888033793</title>
-        <link>https://en.osm.town/@openstreetmap/109781822017860122</link>
-        <guid>https://en.osm.town/@openstreetmap/109781822017860122</guid>
-        <pubDate>Tue, 31 Jan 2023 04:01:05 +0000</pubDate>
       </item>
   </channel>
 </rss>

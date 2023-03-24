@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>A little chatgpt-bot for Delta https://github.com/deltachat-bot/chatbot -- you need to instantiate it yourselves on some e-mail address but then it&amp;#39;s very easy to use e.g. for your family or partners via regular Delta Chat chatting. Btw please be warned: we likely will quickly ban accounts who post AI-generated posts to our support forum. If you are curious ask your favorite chat-bot for an argument why posting machine-generated content to a user support forum is unethical ;)</title>
+        <link>https://chaos.social/@delta/110078064653607402</link>
+        <guid>https://chaos.social/@delta/110078064653607402</guid>
+        <pubDate>Fri, 24 Mar 2023 11:39:28 +0000</pubDate>
+      </item><item>
         <title>#hyperbridging This mastodon post brought to you by a deltachat-mastodon-bot with a screenshare into a deltachat community mailing list (hacked mailman) , ... And that screenshare points to https://pluralistic.net/2022/11/14/luxury-surveillance/#liar-liar ....</title>
         <link>https://chaos.social/@delta/109920062987816519</link>
         <guid>https://chaos.social/@delta/109920062987816519</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/108583583529955304</link>
         <guid>https://chaos.social/@delta/108583583529955304</guid>
         <pubDate>Sun, 03 Jul 2022 13:13:16 +0000</pubDate>
-      </item><item>
-        <title>Oh, and these 500 added lines include quite a number of automated tests as well.</title>
-        <link>https://chaos.social/@delta/108571662156713915</link>
-        <guid>https://chaos.social/@delta/108571662156713915</guid>
-        <pubDate>Fri, 01 Jul 2022 10:41:31 +0000</pubDate>
       </item>
   </channel>
 </rss>
