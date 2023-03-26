@@ -3,10 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Szia! Győr, Esztergő utca 10/b direkt lett törölve? https://www.openstreetmap.org/way/485076671 Tamás -vasony</title>
+        <title>Hello! Welcome to OpenStreetMap! If you can't speak Hungarian reply, and I will translate this to English. Szia! Üdv az OpenStreetMapen! Bezárt éttermeknél, üzleteknél a disused: prefix használata ajánlott a pont törlése helyett. https://wiki.openstreetmap.org/wiki/Key:disused:* Tehát elég lett volna, ha csak az amenity=restaurant címkét átjavítod disused:amenity=restaurant-ra, így már nem jelenítik meg a megjelenítők. Ez azért is hasznos, mert ha később más üzlet vagy étterem nyílik ugyanott, akkor nem kell új pontot létrehozni, és visszakövethető lesz az üzlethelyiség története, mi nyílt minek a helyén. Legközelebb eszerint járj el kérlek. Ha további kérdéseid lennének, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! -infeeeee</title>
+        <link>https://www.openstreetmap.org/changeset/134130161</link>
+        <guid>https://www.openstreetmap.org/changeset/134130161#comment_1</guid>
+        <pubDate>2023-03-26T13:20:09+02:00</pubDate>
+      </item><item>
+        <title>Szia! Igen, lebontották. Gyors-profi munka volt, fog a helyére épülni másik épület. Majd figyelem és felrajzolom, ha elkészül. -NightH</title>
         <link>https://www.openstreetmap.org/changeset/133616504</link>
-        <guid>https://www.openstreetmap.org/changeset/133616504#comment_1</guid>
-        <pubDate>2023-03-23T21:50:05+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/133616504#comment_2</guid>
+        <pubDate>2023-03-26T12:42:58+02:00</pubDate>
       </item><item>
         <title>T. Szerkesztő! A nyitvatartás megadása angol nevekkel és kettősponttal törtlénik: opening_hours=Mo-Fr 8:00-13:30 https://wiki.openstreetmap.org/wiki/Key:opening_hours A postát javítottam, valamit ha ez egy postapartner lett, akkor célszerű az üzlet nevét megadni a posta helyett és az alábbiakat rátenni pluszban. post_office=post_partner Tamás -vasony</title>
         <link>https://www.openstreetmap.org/changeset/133365522</link>
