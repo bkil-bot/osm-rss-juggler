@@ -3,10 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Hello, The meaning is that I need to check if it still exists. I checked, it exists and forgot the tag. Thanks for noticing! Fix'd https://www.openstreetmap.org/changeset/134143776 (Lockers can be looked up at https://foxpost.hu/en/apt-finder) -gabro00</title>
+        <title>Usually the fixme tag is used for that: https://wiki.openstreetmap.org/wiki/Key:fixme -infeeeee</title>
         <link>https://www.openstreetmap.org/changeset/134109669</link>
-        <guid>https://www.openstreetmap.org/changeset/134109669#comment_2</guid>
-        <pubDate>2023-03-26T16:34:39+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/134109669#comment_3</guid>
+        <pubDate>2023-03-26T21:51:59+02:00</pubDate>
+      </item><item>
+        <title>Tény, ez így egyértelműbb. Köszi a tippet, legközelebb így járok el. -NightH</title>
+        <link>https://www.openstreetmap.org/changeset/133616504</link>
+        <guid>https://www.openstreetmap.org/changeset/133616504#comment_4</guid>
+        <pubDate>2023-03-26T19:23:02+02:00</pubDate>
       </item><item>
         <title>Hey, These colours don't match the ones in the GTFS published by BKK. What's the reason for not using those? -leveskockaa</title>
         <link>https://www.openstreetmap.org/changeset/134130492</link>
@@ -17,11 +22,6 @@
         <link>https://www.openstreetmap.org/changeset/134130161</link>
         <guid>https://www.openstreetmap.org/changeset/134130161#comment_1</guid>
         <pubDate>2023-03-26T13:20:09+02:00</pubDate>
-      </item><item>
-        <title>Szia! Igen, lebontották. Gyors-profi munka volt, fog a helyére épülni másik épület. Majd figyelem és felrajzolom, ha elkészül. -NightH</title>
-        <link>https://www.openstreetmap.org/changeset/133616504</link>
-        <guid>https://www.openstreetmap.org/changeset/133616504#comment_2</guid>
-        <pubDate>2023-03-26T12:42:58+02:00</pubDate>
       </item><item>
         <title>T. Szerkesztő! A nyitvatartás megadása angol nevekkel és kettősponttal törtlénik: opening_hours=Mo-Fr 8:00-13:30 https://wiki.openstreetmap.org/wiki/Key:opening_hours A postát javítottam, valamit ha ez egy postapartner lett, akkor célszerű az üzlet nevét megadni a posta helyett és az alábbiakat rátenni pluszban. post_office=post_partner Tamás -vasony</title>
         <link>https://www.openstreetmap.org/changeset/133365522</link>
@@ -92,11 +92,6 @@
         <link>https://www.openstreetmap.org/changeset/133602219</link>
         <guid>https://www.openstreetmap.org/changeset/133602219#comment_6</guid>
         <pubDate>2023-03-20T13:19:30+01:00</pubDate>
-      </item><item>
-        <title>Köszönjük a kiegészítést, raktam rá ennek megfelelően további címkéket https://osm.org/changeset/133877732#map=16/47.6604/18.8618 -bkil</title>
-        <link>https://www.openstreetmap.org/changeset/133861809</link>
-        <guid>https://www.openstreetmap.org/changeset/133861809#comment_1</guid>
-        <pubDate>2023-03-20T00:02:15+01:00</pubDate>
       </item>
   </channel>
 </rss>
