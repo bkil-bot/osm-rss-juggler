@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>We hardly talked about #security audits but there is nothing to hide! #DeltaChat received three security audits in total, covering core networking #encryption as well as SMTP/IMAP protocol and end-to-end encryption, and also including an audit on our recent secure server setup guide: https://delta.chat/en/2023-03-27-third-independent-security-audit</title>
+        <link>https://chaos.social/@delta/110096123048962714</link>
+        <guid>https://chaos.social/@delta/110096123048962714</guid>
+        <pubDate>Mon, 27 Mar 2023 16:11:58 +0000</pubDate>
+      </item><item>
         <title>A little chatgpt-bot for Delta https://github.com/deltachat-bot/chatbot -- you need to instantiate it yourselves on some e-mail address but then it&amp;#39;s very easy to use e.g. for your family or partners via regular Delta Chat chatting. Btw please be warned: we likely will quickly ban accounts who post AI-generated posts to our support forum. If you are curious ask your favorite chat-bot for an argument why posting machine-generated content to a user support forum is unethical ;)</title>
         <link>https://chaos.social/@delta/110078064653607402</link>
         <guid>https://chaos.social/@delta/110078064653607402</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/108605721036187155</link>
         <guid>https://chaos.social/@delta/108605721036187155</guid>
         <pubDate>Thu, 07 Jul 2022 11:03:08 +0000</pubDate>
-      </item><item>
-        <title>https://webxdc.org apps radically cut out advertising because tracking and targeting is impossible. As an app developer you can not get at user-data at all because all dataflows between user&amp;#39;s devices, app data is only shared in the chat between peers, e2e-encrypted.</title>
-        <link>https://chaos.social/@delta/108583583529955304</link>
-        <guid>https://chaos.social/@delta/108583583529955304</guid>
-        <pubDate>Sun, 03 Jul 2022 13:13:16 +0000</pubDate>
       </item>
   </channel>
 </rss>
