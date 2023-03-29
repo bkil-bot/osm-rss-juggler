@@ -3,11 +3,6 @@
   <channel>
     <title>Wireless News (via bkil-bot)</title>
       <item>
-        <title>Re: Help with network adapter on monitor mode.: Hello guys, someone can help me, with this problem, i am using Galaxy Win, runing Kali Linux and Linux Deploy. Found 1 processes that could cause trouble. If airodump-ng, aireplay-ng or airtun-ng stops working after a short period of time, you may want to kill (some of) them! -e PID Name 1299 wpa_supplicant Process with PID 1298 (logwrapper) is running on interface wlan0 Process with PID 1299 (wpa_supplicant) is running on interface wlan0 Process with PID 1390 (logwrapper) is running on interface p2p0 Process with PID 1391 (p2p_supplicant) is running on interface p2p0 cubes 2048 Interface Chipset Driver wlan0 Unknown ath6kl_sdio - [phy0]mon0: ERROR while getting interface flags: No such device (monitor mode enabled on mon0) p2p0 Unknown ath6kl_sdio - [phy0] I cant set the wlan0 or p2p0 on monitor mode. Thank you!I also has same issue now. Hope that someone can give ú solutions. -RobertTassone</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11618#p11618</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11618#p11618</guid>
-        <pubDate>2023-03-29T03:43:38</pubDate>
-      </item><item>
         <title>Re: Help with network adapter on monitor mode.: It happened to me too. My WiFi adaptor is TP-Link N150 TL-WN725N. Does it support monitor mode? coreball -raymondbarry78@gmail.com</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11412#p11412</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11412#p11412</guid>
@@ -77,6 +72,11 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=10165#p10165</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=10165#p10165</guid>
         <pubDate>2019-05-28T21:37:26</pubDate>
+      </item><item>
+        <title>Re: Wifi Blocking Wallpaper: It can only attenuate a portion. Any good antenna will compensate!And you have the signals coming from below and upper floor. Can travel three floors easily. Plus the windows. What are they doing this for ? Just buy a professional jammer and all is gone. Or they have electomagnetic-illness ? Do we know the real purpose of this wallpaper ? Ciao -mpeg4ever</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=10164#p10164</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=10164#p10164</guid>
+        <pubDate>2019-05-27T07:48:46</pubDate>
       </item>
   </channel>
 </rss>
