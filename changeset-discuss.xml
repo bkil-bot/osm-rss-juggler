@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Szia! Köszönöm az észrevételedet. Elképzelhető, hogy a mi adatbázisunkba került be tévesen, momentán nem találok hozzá forrást. -Térképszerkesztő</title>
+        <link>https://www.openstreetmap.org/changeset/61400358</link>
+        <guid>https://www.openstreetmap.org/changeset/61400358#comment_2</guid>
+        <pubDate>2023-03-30T13:47:57+02:00</pubDate>
+      </item><item>
         <title>Köszönjük a szerkesztést. Szeretnénk megjegyezni, hogy a térképen nem elegendő tárgyak nevét feltüntetni. A szerkesztő előbeállításai között kell kikeresni az óvoda illetve kindergarten szót és az segít helyesen feltölteni az adatokat. A building=kindergarten azt jelentheti, hogy egy épület architektúrája egy óvodát tükröz (bármit is jelentsen ez pontosan) https://wiki.osm.org/Tag:building=kindergarten?uselang=en Azt, hogy egy adott helyen, épületben vagy placcon óvoda működik az amenity=kindergarten fejezi ki https://wiki.osm.org/Tag:amenity%3Dkindergarten -bkil</title>
         <link>https://www.openstreetmap.org/changeset/134296299</link>
         <guid>https://www.openstreetmap.org/changeset/134296299#comment_1</guid>
@@ -27,11 +32,6 @@
         <link>https://www.openstreetmap.org/changeset/134109551</link>
         <guid>https://www.openstreetmap.org/changeset/134109551#comment_1</guid>
         <pubDate>2023-03-27T19:07:11+02:00</pubDate>
-      </item><item>
-        <title>Szia! Biztos vagy ebben az Ady Endre utcában? A https://www.nyugat.hu/cikk/torocsik_mari_utca_avatas_velem cikkben fotóról ezt az utat vélem felismerni, és ott azt írják, momentán nincs neve. -kogutowicz-mano</title>
-        <link>https://www.openstreetmap.org/changeset/61400358</link>
-        <guid>https://www.openstreetmap.org/changeset/61400358#comment_1</guid>
-        <pubDate>2023-03-27T10:51:26+02:00</pubDate>
       </item><item>
         <title>Usually the fixme tag is used for that: https://wiki.openstreetmap.org/wiki/Key:fixme -infeeeee</title>
         <link>https://www.openstreetmap.org/changeset/134109669</link>
