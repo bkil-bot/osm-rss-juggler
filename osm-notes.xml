@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Central Hungary, 1142, Hungary) / * 2023 March 29 05:42 Created: Electrolux megszűnt évekkel ezelőtt / * 2023 March 31 04:54 vasony Resolved: javítva</title>
+        <link>https://www.openstreetmap.org/note/3618335#c7811073</link>
+        <guid>https://www.openstreetmap.org/note/3618335#c7811073</guid>
+        <pubDate>Fri, 31 Mar 2023 04:54:47 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Transdanubia, 9737, Hungary) / * 2023 March 27 23:18 Ottimos Created: POI name: Ottimo&amp;#39;s / POI types: internet_access-wlan cuisine-italian_pizza cuisine-kebab cuisine-mexican amenity-restaurant cuisine-pizza cuisine-turkish / OSM data version: 2023-02-09T14:02:34Z / #mapsme / * 2023 March 31 04:51 vasony Resolved: dupla jegyzet</title>
+        <link>https://www.openstreetmap.org/note/3616608#c7811068</link>
+        <guid>https://www.openstreetmap.org/note/3616608#c7811068</guid>
+        <pubDate>Fri, 31 Mar 2023 04:51:02 +0000</pubDate>
+      </item><item>
         <title>closed note (near Central Hungary, 1116, Hungary) / * 2022 January 13 13:09 Created: FŐTÁV magánparkoló épült. / * 2022 February 16 20:46 vasony Updated: 2021 ortofotón még nem látszik / * 2023 March 30 18:37 vasony Resolved: felmérve, felvive</title>
         <link>https://www.openstreetmap.org/note/3009042#c7810353</link>
         <guid>https://www.openstreetmap.org/note/3009042#c7810353</guid>
@@ -107,31 +117,6 @@
         <link>https://www.openstreetmap.org/note/3612718#c7800501</link>
         <guid>https://www.openstreetmap.org/note/3612718#c7800501</guid>
         <pubDate>Mon, 27 Mar 2023 21:00:47 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Szentesi tanya, Csömör) / * 2023 March 27 21:00 Datguymarkus Updated: Igazából semmi. Magamnak töltöttem fel, nem tudtam, hogy publikus lesz. Holnap elrejtem.</title>
-        <link>https://www.openstreetmap.org/note/3612718#c7800500</link>
-        <guid>https://www.openstreetmap.org/note/3612718#c7800500</guid>
-        <pubDate>Mon, 27 Mar 2023 21:00:43 +0000</pubDate>
-      </item><item>
-        <title>closed note (near South Great Plain, 6725, Hungary) / * 2023 March 27 20:51 vasony Resolved: időközben hozzáadva</title>
-        <link>https://www.openstreetmap.org/note/3615247#c7800479</link>
-        <guid>https://www.openstreetmap.org/note/3615247#c7800479</guid>
-        <pubDate>Mon, 27 Mar 2023 20:51:35 +0000</pubDate>
-      </item><item>
-        <title>closed note (near South Great Plain, 6060, Hungary) / * 2023 March 26 16:52 pmihovics Created: &amp;quot;the lookout was demolished last year&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-02-27T13:03:31Z / POI name: Kilátó / POI types: tourism-viewpoint / #organicmaps / * 2023 March 27 20:47 vasony Resolved: dupla jegyzet</title>
-        <link>https://www.openstreetmap.org/note/3614196#c7800470</link>
-        <guid>https://www.openstreetmap.org/note/3614196#c7800470</guid>
-        <pubDate>Mon, 27 Mar 2023 20:47:02 +0000</pubDate>
-      </item><item>
-        <title>closed note (near South Great Plain, 6060, Hungary) / * 2023 March 26 16:48 pmihovics Created: &amp;quot;The lookout demolished last year&amp;quot; / OSM snapshot date: 2023-02-27T13:03:31Z / POI name: Kilátó / POI types: tourism-viewpoint / #organicmaps / * 2023 March 27 20:46 vasony Resolved: javítva</title>
-        <link>https://www.openstreetmap.org/note/3614187#c7800468</link>
-        <guid>https://www.openstreetmap.org/note/3614187#c7800468</guid>
-        <pubDate>Mon, 27 Mar 2023 20:46:29 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Szentesi tanya, Csömör) / * 2023 March 25 16:27 Datguymarkus Created: House to Prima / via StreetComplete 51.1 / GPS Trace: https://www.openstreetmap.org/user/Datguymarkus/traces/6776980 / * 2023 March 27 20:37 vasony Updated: ezzel mi a teendő?</title>
-        <link>https://www.openstreetmap.org/note/3612718#c7800441</link>
-        <guid>https://www.openstreetmap.org/note/3612718#c7800441</guid>
-        <pubDate>Mon, 27 Mar 2023 20:37:21 +0000</pubDate>
       </item>
   </channel>
 </rss>
