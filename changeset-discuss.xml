@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>building=yes to landuse=garages is not a good change, they have different meaning. And it seems the building with garages is still there, so it was wrong to remove it. -aceman444</title>
+        <link>https://www.openstreetmap.org/changeset/131497685</link>
+        <guid>https://www.openstreetmap.org/changeset/131497685#comment_1</guid>
+        <pubDate>2023-04-01T07:17:30+02:00</pubDate>
+      </item><item>
         <title>Szia! Fent van az utca. Módosítani kellett, a Lego Manufacturing Kft. kérésére a Lego utca közterület megnevezést, mivel a cég neve egy mozaik szó, ezért magy betűvel kell írni. Hivatalosan LEGO utca a javított megnevezés. -GeoLaci</title>
         <link>https://www.openstreetmap.org/changeset/134109551</link>
         <guid>https://www.openstreetmap.org/changeset/134109551#comment_2</guid>
