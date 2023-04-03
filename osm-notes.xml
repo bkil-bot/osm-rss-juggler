@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Fatelep, Csesznek) / * 2021 August 3 07:40 grin Created: nem itt válik el / * 2023 April 3 09:14 grin Resolved: akkor így jó ahogy most már van.</title>
+        <link>https://www.openstreetmap.org/note/2784122#c7820512</link>
+        <guid>https://www.openstreetmap.org/note/2784122#c7820512</guid>
+        <pubDate>Mon, 03 Apr 2023 09:14:17 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Transdanubia, 2091, Hungary) / * 2022 May 7 17:21 grin Created: nope / * 2023 April 3 09:06 grin Updated: Itt az a gond, hogy a NER egy csomó részt elzárt, így az utak egy része elveszítette közút jellegét. Ez sajnos csak egy pont a sok közül.</title>
+        <link>https://www.openstreetmap.org/note/3169432#c7820494</link>
+        <guid>https://www.openstreetmap.org/note/3169432#c7820494</guid>
+        <pubDate>Mon, 03 Apr 2023 09:06:29 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Central Transdanubia, 8095, Hungary) / * 2022 May 7 17:21 grin Created: stele / * 2023 April 3 09:05 grin Resolved: vagy valami. ki tudja, mi lehetett.</title>
+        <link>https://www.openstreetmap.org/note/3169435#c7820493</link>
+        <guid>https://www.openstreetmap.org/note/3169435#c7820493</guid>
+        <pubDate>Mon, 03 Apr 2023 09:05:04 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Central Hungary, 2051, Hungary) / * 2022 June 11 19:48 grin Created: closed swing gate / * 2023 April 3 09:03 grin Resolved: Added</title>
+        <link>https://www.openstreetmap.org/note/3220385#c7820491</link>
+        <guid>https://www.openstreetmap.org/note/3220385#c7820491</guid>
+        <pubDate>Mon, 03 Apr 2023 09:03:32 +0000</pubDate>
+      </item><item>
         <title>new note (near North Great Plain, 4522, Hungary) / * 2023 April 2 23:00 Created: Magyar Talléros Pálinkafőzde és Rendezvényház</title>
         <link>https://www.openstreetmap.org/note/3625054#c7819806</link>
         <guid>https://www.openstreetmap.org/note/3625054#c7819806</guid>
@@ -82,26 +102,6 @@
         <link>https://www.openstreetmap.org/note/3622892#c7814709</link>
         <guid>https://www.openstreetmap.org/note/3622892#c7814709</guid>
         <pubDate>Sat, 01 Apr 2023 12:36:52 +0000</pubDate>
-      </item><item>
-        <title>new note (near Virágosmajor, Fertőrákos) / * 2023 April 1 10:45 efi99 Created: cím?</title>
-        <link>https://www.openstreetmap.org/note/3622754#c7814414</link>
-        <guid>https://www.openstreetmap.org/note/3622754#c7814414</guid>
-        <pubDate>Sat, 01 Apr 2023 10:45:25 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Transdanubia, 9407, Hungary) / * 2022 June 3 09:11 efi99 Created: cím jó? / * 2023 April 1 10:34 efi99 Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3207743#c7814381</link>
-        <guid>https://www.openstreetmap.org/note/3207743#c7814381</guid>
-        <pubDate>Sat, 01 Apr 2023 10:34:41 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Central Hungary, 2040, Hungary) / * 2023 March 13 13:33 Matyjace Created: Forwarding anonymous report from #Mapy.cz user, please verify: closed&amp;quot; / * 2023 April 1 09:31 vasony Updated: valóban</title>
-        <link>https://www.openstreetmap.org/note/3596392#c7814201</link>
-        <guid>https://www.openstreetmap.org/note/3596392#c7814201</guid>
-        <pubDate>Sat, 01 Apr 2023 09:31:27 +0000</pubDate>
-      </item><item>
-        <title>new note (near South Great Plain, 5650, Hungary) / * 2023 April 1 06:56 vasony Created: Liget út vagy Liget utca szerepel az utcatáblákon?</title>
-        <link>https://www.openstreetmap.org/note/3622533#c7813931</link>
-        <guid>https://www.openstreetmap.org/note/3622533#c7813931</guid>
-        <pubDate>Sat, 01 Apr 2023 06:56:32 +0000</pubDate>
       </item>
   </channel>
 </rss>
