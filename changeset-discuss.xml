@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Szia! Üdv az OpenStreetMapen! Ha azt akartad jelölni, hogy behajtani tilos, kivéve célforgalom, ami a lakó-pihenő övezet táblából következik, akkor elég lett volna a motor_vehicle=destination címkét használnod. A designated ráadásul ennek az ellenkezőjét jelenti: https://wiki.openstreetmap.org/wiki/Tag:access%3Ddesignated Kijavítod, vagy kijavítsam? Ha további kérdéseid lennének, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! -infeeeee</title>
+        <link>https://www.openstreetmap.org/changeset/134593435</link>
+        <guid>https://www.openstreetmap.org/changeset/134593435#comment_1</guid>
+        <pubDate>2023-04-07T12:10:40+02:00</pubDate>
+      </item><item>
         <title>Köszönjük a közreműködést! Szeretnénk kérni, hogy a telefonszámban a kötőjel helyett szóköz szerepeljen elválasztójelként. -bkil</title>
         <link>https://www.openstreetmap.org/changeset/134594071</link>
         <guid>https://www.openstreetmap.org/changeset/134594071#comment_1</guid>
