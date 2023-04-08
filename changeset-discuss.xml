@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Zase ziadny zdroj... -aceman444</title>
+        <link>https://www.openstreetmap.org/changeset/123503818</link>
+        <guid>https://www.openstreetmap.org/changeset/123503818#comment_1</guid>
+        <pubDate>2023-04-07T20:40:02+02:00</pubDate>
+      </item><item>
+        <title>Hi, it would be good to map also the fences and add a barrier onto the road. Creating small segments with access=no is strange. Also, we do not tag illegal rights of way. The access tags like 'access', 'foot', 'bicycle' are used to mark legal access as described by law or a traffic sign on the site. See https://wiki.openstreetmap.org/wiki/Key:access . There are probably no signs on this road. If there is a hole in the fence, you can tag it as barrier=entrance and add a width of the hole. -aceman444</title>
+        <link>https://www.openstreetmap.org/changeset/117811153</link>
+        <guid>https://www.openstreetmap.org/changeset/117811153#comment_1</guid>
+        <pubDate>2023-04-07T19:26:43+02:00</pubDate>
+      </item><item>
         <title>Javítottam: https://www.openstreetmap.org/changeset/134622773 Köszi a segítséget. Ha kérdésed lenne, vagy segítségre lenne szükséged, fent linkeltem a magyar közösség elérhetőségeit. -infeeeee</title>
         <link>https://www.openstreetmap.org/changeset/134593435</link>
         <guid>https://www.openstreetmap.org/changeset/134593435#comment_5</guid>
@@ -57,11 +67,6 @@
         <link>https://www.openstreetmap.org/changeset/131497685</link>
         <guid>https://www.openstreetmap.org/changeset/131497685#comment_1</guid>
         <pubDate>2023-04-01T07:17:30+02:00</pubDate>
-      </item><item>
-        <title>Szia! Fent van az utca. Módosítani kellett, a Lego Manufacturing Kft. kérésére a Lego utca közterület megnevezést, mivel a cég neve egy mozaik szó, ezért magy betűvel kell írni. Hivatalosan LEGO utca a javított megnevezés. -GeoLaci</title>
-        <link>https://www.openstreetmap.org/changeset/134109551</link>
-        <guid>https://www.openstreetmap.org/changeset/134109551#comment_2</guid>
-        <pubDate>2023-03-31T21:17:19+02:00</pubDate>
       </item>
   </channel>
 </rss>
