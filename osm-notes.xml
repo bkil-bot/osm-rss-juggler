@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Central Hungary, 1134, Hungary) / * 2021 November 5 20:02 sinisterstuf Created: the pedestrian street here doesn&amp;#39;t match the way on the map, the position and shape are not the same / via StreetComplete 37.0 / * 2023 April 9 11:05 farkasma Resolved: Added walkways and fixed main path</title>
+        <link>https://www.openstreetmap.org/note/2924030#c7838806</link>
+        <guid>https://www.openstreetmap.org/note/2924030#c7838806</guid>
+        <pubDate>Sun, 09 Apr 2023 11:05:31 +0000</pubDate>
+      </item><item>
+        <title>new note (near Southern Transdanubia, 7630, Hungary) / * 2023 April 9 10:23 Qszi Created: The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-03-29T15:44:03Z / POI name: zöldséges / POI types: shop-greengrocer / #organicmaps</title>
+        <link>https://www.openstreetmap.org/note/3633766#c7838614</link>
+        <guid>https://www.openstreetmap.org/note/3633766#c7838614</guid>
+        <pubDate>Sun, 09 Apr 2023 10:23:52 +0000</pubDate>
+      </item><item>
         <title>new note (near South Great Plain, 6239, Hungary) / * 2023 April 9 10:00 utvonalfelmeresek Created: k4</title>
         <link>https://www.openstreetmap.org/note/3633729#c7838544</link>
         <guid>https://www.openstreetmap.org/note/3633729#c7838544</guid>
@@ -167,21 +177,6 @@
         <link>https://www.openstreetmap.org/note/3627213#c7831934</link>
         <guid>https://www.openstreetmap.org/note/3627213#c7831934</guid>
         <pubDate>Thu, 06 Apr 2023 23:14:20 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 1137, Hungary) / * 2021 July 2 09:13 vasony Created: Utak javítandók, nem teljesen így mennek / * 2023 April 6 23:14 urbalazs Resolved: Az eltelt majdnem 2 év során valaki megigazította, mert most jónak tűnik.</title>
-        <link>https://www.openstreetmap.org/note/2737546#c7831933</link>
-        <guid>https://www.openstreetmap.org/note/2737546#c7831933</guid>
-        <pubDate>Thu, 06 Apr 2023 23:14:19 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 1134, Hungary) / * 2023 April 4 15:14 farkasma Created: Unable to answer &amp;quot;What are the opening hours here?&amp;quot; for https://osm.org/node/7345630084 via StreetComplete 52.0: / The Provident is here on the corner, idk what this is / * 2023 April 6 23:14 urbalazs Resolved: Confirmed, only Provident is there.</title>
-        <link>https://www.openstreetmap.org/note/3627202#c7831932</link>
-        <guid>https://www.openstreetmap.org/note/3627202#c7831932</guid>
-        <pubDate>Thu, 06 Apr 2023 23:14:19 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 1137, Hungary) / * 2021 July 1 16:59 meskobalazs Created: Új helyre került a BUBI állomás / via StreetComplete 32.1 / Attached photo(s): / https://westnordost.de/p/47518.jpg / * 2023 April 6 23:14 urbalazs Resolved: Behúztam az új helyére.</title>
-        <link>https://www.openstreetmap.org/note/2736968#c7831931</link>
-        <guid>https://www.openstreetmap.org/note/2736968#c7831931</guid>
-        <pubDate>Thu, 06 Apr 2023 23:14:18 +0000</pubDate>
       </item>
   </channel>
 </rss>
