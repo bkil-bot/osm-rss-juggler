@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near MOL Horgásztanya, Tihany) / * 2023 April 10 15:15 ironalloy Created: &amp;quot;lakóház van a helyén&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-04-06T14:32:17Z / POI name: Családi Szabadidőpark / POI types: leisure-playground / #organicmaps</title>
+        <link>https://www.openstreetmap.org/note/3635989#c7843089</link>
+        <guid>https://www.openstreetmap.org/note/3635989#c7843089</guid>
+        <pubDate>Mon, 10 Apr 2023 15:15:05 +0000</pubDate>
+      </item><item>
+        <title>new note (near MOL Horgásztanya, Tihany) / * 2023 April 10 15:11 ironalloy Created: &amp;quot;vagy nem itt van vagy megszűnt&amp;quot; / OSM snapshot date: 2023-04-06T14:32:17Z / POI name: Gejzír Étterem / POI types: building amenity-fast_food / #organicmaps</title>
+        <link>https://www.openstreetmap.org/note/3635986#c7843080</link>
+        <guid>https://www.openstreetmap.org/note/3635986#c7843080</guid>
+        <pubDate>Mon, 10 Apr 2023 15:11:22 +0000</pubDate>
+      </item><item>
         <title>new note (near North Hungary, 3534, Hungary) / * 2023 April 10 13:56 meskobalazs Created: 15-ös szám / via StreetComplete 52.0</title>
         <link>https://www.openstreetmap.org/note/3635865#c7842791</link>
         <guid>https://www.openstreetmap.org/note/3635865#c7842791</guid>
@@ -192,21 +202,6 @@
         <link>https://www.openstreetmap.org/note/3580863#c7834072</link>
         <guid>https://www.openstreetmap.org/note/3580863#c7834072</guid>
         <pubDate>Fri, 07 Apr 2023 17:07:18 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 2638, Hungary) / * 2022 September 6 10:21 Created: Godóvár vá. / * 2023 April 7 17:05 mgpx Resolved: Thanks, already named</title>
-        <link>https://www.openstreetmap.org/note/3348071#c7834071</link>
-        <guid>https://www.openstreetmap.org/note/3348071#c7834071</guid>
-        <pubDate>Fri, 07 Apr 2023 17:05:18 +0000</pubDate>
-      </item><item>
-        <title>closed note (near North Hungary, 3994, Hungary) / * 2023 March 30 07:30 Tajtrdlik Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;This viewpoint is called Lackó-hegyi szikla&amp;quot;. / https://www.openstreetmap.org/node/7729753433 / * 2023 April 7 17:03 mgpx Resolved: Thanks, name is added to the cliff</title>
-        <link>https://www.openstreetmap.org/note/3620183#c7834065</link>
-        <guid>https://www.openstreetmap.org/note/3620183#c7834065</guid>
-        <pubDate>Fri, 07 Apr 2023 17:03:37 +0000</pubDate>
-      </item><item>
-        <title>closed note (near North Hungary, 3152, Hungary) / * 2022 August 12 07:51 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: The station was renamed, its new name: Nemti, vegyesbolt / https://www.openstreetmap.org/node/5166379703 / * 2023 April 7 16:58 mgpx Resolved: Thanks, fixed</title>
-        <link>https://www.openstreetmap.org/note/3310679#c7834052</link>
-        <guid>https://www.openstreetmap.org/note/3310679#c7834052</guid>
-        <pubDate>Fri, 07 Apr 2023 16:58:23 +0000</pubDate>
       </item>
   </channel>
 </rss>
