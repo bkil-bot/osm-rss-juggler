@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Almádi, Balatonalmádi) / * 2023 February 4 18:23 vasony Created: KCR hírdetmény szerint 12-14, 1-es és 2-es ajtó / * 2023 April 10 15:38 vasony Resolved: nincs kint házszám, sőt kerítés sincs nagyon, nem javítható</title>
+        <link>https://www.openstreetmap.org/note/3544611#c7843164</link>
+        <guid>https://www.openstreetmap.org/note/3544611#c7843164</guid>
+        <pubDate>Mon, 10 Apr 2023 15:38:32 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Budatava, Balatonalmádi) / * 2023 April 10 15:36 vasony Resolved: nem javítató, lezárom</title>
+        <link>https://www.openstreetmap.org/note/3544610#c7843154</link>
+        <guid>https://www.openstreetmap.org/note/3544610#c7843154</guid>
+        <pubDate>Mon, 10 Apr 2023 15:36:21 +0000</pubDate>
+      </item><item>
         <title>new note (near MOL Horgásztanya, Tihany) / * 2023 April 10 15:15 ironalloy Created: &amp;quot;lakóház van a helyén&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-04-06T14:32:17Z / POI name: Családi Szabadidőpark / POI types: leisure-playground / #organicmaps</title>
         <link>https://www.openstreetmap.org/note/3635989#c7843089</link>
         <guid>https://www.openstreetmap.org/note/3635989#c7843089</guid>
@@ -192,16 +202,6 @@
         <link>https://www.openstreetmap.org/note/3238165#c7834078</link>
         <guid>https://www.openstreetmap.org/note/3238165#c7834078</guid>
         <pubDate>Fri, 07 Apr 2023 17:13:18 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Transdanubia, 8258, Hungary) / * 2022 July 13 13:28 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: Track is closed here - private property, not passable / https://www.openstreetmap.org/directions?engine=graphhopper_foot&amp;amp;route=46.80286%2C17.50608%3B46.80346%2C17.50561#map=19/46.80316/17.50583 / * 2023 April 7 17:12 mgpx Resolved: Thanks, fixed</title>
-        <link>https://www.openstreetmap.org/note/3265451#c7834077</link>
-        <guid>https://www.openstreetmap.org/note/3265451#c7834077</guid>
-        <pubDate>Fri, 07 Apr 2023 17:12:40 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Transdanubia, 2836, Hungary) / * 2023 March 2 08:48 Tajtrdlik Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;There is viewpoint called Toli pihenő&amp;quot;. / * 2023 April 7 17:07 mgpx Resolved: Thanks, added</title>
-        <link>https://www.openstreetmap.org/note/3580863#c7834072</link>
-        <guid>https://www.openstreetmap.org/note/3580863#c7834072</guid>
-        <pubDate>Fri, 07 Apr 2023 17:07:18 +0000</pubDate>
       </item>
   </channel>
 </rss>
