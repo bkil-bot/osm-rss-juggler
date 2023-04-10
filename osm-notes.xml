@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Central Hungary, 1101, Hungary) / * 2023 April 7 06:41 kogutowicz-mano Created: Vasúti töltés. Csak nem tudom mettől meddig. / * 2023 April 10 18:36 kogutowicz-mano Updated: A Hungária körúttól keletre</title>
+        <link>https://www.openstreetmap.org/note/3630667#c7843680</link>
+        <guid>https://www.openstreetmap.org/note/3630667#c7843680</guid>
+        <pubDate>Mon, 10 Apr 2023 18:36:44 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Vörösberény, Balatonalmádi) / * 2023 April 10 18:32 grin Resolved: Lépcső esetében úgysem lehet megadni.</title>
+        <link>https://www.openstreetmap.org/note/3635369#c7843665</link>
+        <guid>https://www.openstreetmap.org/note/3635369#c7843665</guid>
+        <pubDate>Mon, 10 Apr 2023 18:32:42 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Central Hungary, 2310, Hungary) / * 2023 April 10 18:31 bkil Resolved: Ez a funkció térképhibák bejelentésére szolgál. Várjuk szeretettel ha bármilyen probléma merül fel.</title>
+        <link>https://www.openstreetmap.org/note/3635815#c7843662</link>
+        <guid>https://www.openstreetmap.org/note/3635815#c7843662</guid>
+        <pubDate>Mon, 10 Apr 2023 18:31:56 +0000</pubDate>
+      </item><item>
         <title>closed note (near Almádi, Balatonalmádi) / * 2023 February 4 18:23 vasony Created: KCR hírdetmény szerint 12-14, 1-es és 2-es ajtó / * 2023 April 10 15:38 vasony Resolved: nincs kint házszám, sőt kerítés sincs nagyon, nem javítható</title>
         <link>https://www.openstreetmap.org/note/3544611#c7843164</link>
         <guid>https://www.openstreetmap.org/note/3544611#c7843164</guid>
@@ -187,21 +202,6 @@
         <link>https://www.openstreetmap.org/note/3631546#c7834166</link>
         <guid>https://www.openstreetmap.org/note/3631546#c7834166</guid>
         <pubDate>Fri, 07 Apr 2023 17:44:53 +0000</pubDate>
-      </item><item>
-        <title>new note (near Central Hungary, 1029, Hungary) / * 2023 April 7 17:44 eBotNaturals Created: VitAnna Buda</title>
-        <link>https://www.openstreetmap.org/note/3631546#c7834165</link>
-        <guid>https://www.openstreetmap.org/note/3631546#c7834165</guid>
-        <pubDate>Fri, 07 Apr 2023 17:44:41 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Transdanubia, 8429, Hungary) / * 2023 February 26 14:38 batio Created: Miklós kút vad itató / * 2023 April 7 17:17 mgpx Resolved: Köszönjük, felvettem</title>
-        <link>https://www.openstreetmap.org/note/3575759#c7834084</link>
-        <guid>https://www.openstreetmap.org/note/3575759#c7834084</guid>
-        <pubDate>Fri, 07 Apr 2023 17:17:52 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Somogyitanya, Szentgál) / * 2022 June 24 03:33 Vdsg Created: Closed by gate / * 2023 April 7 17:13 mgpx Resolved: Thanks, fixed</title>
-        <link>https://www.openstreetmap.org/note/3238165#c7834078</link>
-        <guid>https://www.openstreetmap.org/note/3238165#c7834078</guid>
-        <pubDate>Fri, 07 Apr 2023 17:13:18 +0000</pubDate>
       </item>
   </channel>
 </rss>
