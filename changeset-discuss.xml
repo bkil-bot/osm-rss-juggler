@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Thank you for correcting me. It is definitely best to mark the barriers in a proper way. I was a bit frustrated that the maps I use (based on OSM) do not propagate barriers correctly and oftentimes lead me to fences. -Comp64</title>
+        <link>https://www.openstreetmap.org/changeset/117811153</link>
+        <guid>https://www.openstreetmap.org/changeset/117811153#comment_2</guid>
+        <pubDate>2023-04-11T14:00:38+02:00</pubDate>
+      </item><item>
         <title>Javítás alatt itt is szétszabdalás történt. Például: https://www.openstreetmap.org/way/1111052728 https://www.openstreetmap.org/way/1111052716 -balint36</title>
         <link>https://www.openstreetmap.org/changeset/128595581</link>
         <guid>https://www.openstreetmap.org/changeset/128595581#comment_1</guid>
@@ -22,11 +27,6 @@
         <link>https://www.openstreetmap.org/changeset/123503818</link>
         <guid>https://www.openstreetmap.org/changeset/123503818#comment_1</guid>
         <pubDate>2023-04-07T20:40:02+02:00</pubDate>
-      </item><item>
-        <title>Hi, it would be good to map also the fences and add a barrier onto the road. Creating small segments with access=no is strange. Also, we do not tag illegal rights of way. The access tags like 'access', 'foot', 'bicycle' are used to mark legal access as described by law or a traffic sign on the site. See https://wiki.openstreetmap.org/wiki/Key:access . There are probably no signs on this road. If there is a hole in the fence, you can tag it as barrier=entrance and add a width of the hole. -aceman444</title>
-        <link>https://www.openstreetmap.org/changeset/117811153</link>
-        <guid>https://www.openstreetmap.org/changeset/117811153#comment_1</guid>
-        <pubDate>2023-04-07T19:26:43+02:00</pubDate>
       </item><item>
         <title>Javítottam: https://www.openstreetmap.org/changeset/134622773 Köszi a segítséget. Ha kérdésed lenne, vagy segítségre lenne szükséged, fent linkeltem a magyar közösség elérhetőségeit. -infeeeee</title>
         <link>https://www.openstreetmap.org/changeset/134593435</link>
