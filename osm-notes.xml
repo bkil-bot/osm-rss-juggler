@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Central Hungary, 2220, Hungary) / * 2023 April 2 11:56 miki4 Created: Csak célforgalom. / * 2023 April 12 14:12 Spush Resolved: A célforgalom tulajdonság már szerepel a Határ út elnevezésű vonalas térképi objektumon. Lásd: https://www.openstreetmap.org/way/823808877</title>
+        <link>https://www.openstreetmap.org/note/3624263#c7850120</link>
+        <guid>https://www.openstreetmap.org/note/3624263#c7850120</guid>
+        <pubDate>Wed, 12 Apr 2023 14:12:47 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Central Hungary, 2364, Hungary) / * 2023 April 2 12:25 miki4 Created: Megszűnt. / * 2023 April 12 13:40 Spush Resolved: Megszüntetve (/changeset/134818317) / Köszönjük a bejelentést.</title>
+        <link>https://www.openstreetmap.org/note/3624342#c7849929</link>
+        <guid>https://www.openstreetmap.org/note/3624342#c7849929</guid>
+        <pubDate>Wed, 12 Apr 2023 13:40:24 +0000</pubDate>
+      </item><item>
         <title>closed note (near Central Hungary, 2071, Hungary) / * 2023 April 7 09:30 Created: Kilátó / * 2023 April 12 13:14 Spush Resolved: Már szerepel a térképen.</title>
         <link>https://www.openstreetmap.org/note/3630844#c7849825</link>
         <guid>https://www.openstreetmap.org/note/3630844#c7849825</guid>
@@ -247,11 +257,6 @@
         <link>https://www.openstreetmap.org/note/3635308#c7841881</link>
         <guid>https://www.openstreetmap.org/note/3635308#c7841881</guid>
         <pubDate>Mon, 10 Apr 2023 09:10:19 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 1116, Hungary) / * 2023 April 9 22:42 BáthoryPéter Resolved: Jártam ma erre, felrajzoltam. A kerékpáros nyom felfestése kicsit kaotikus, mondjuk, hogy oldalanként váltakozóan szakaszos,ezt nagyvonalúan kétirányú shared_lane-nek jelöltem.</title>
-        <link>https://www.openstreetmap.org/note/3634762#c7841009</link>
-        <guid>https://www.openstreetmap.org/note/3634762#c7841009</guid>
-        <pubDate>Sun, 09 Apr 2023 22:42:24 +0000</pubDate>
       </item>
   </channel>
 </rss>
