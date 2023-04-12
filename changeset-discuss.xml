@@ -3,10 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Üdvözlet az OSM önkéntesek táborában! A következőket kellett javítani a felvitt ponton: a brand az adott franchise márkát jelenti ami alatt a bolt fut. Az image címke alatt olyan fotót tüntetünk fel ami az adott POI-t ábrázolja (kívülről). A name-ben az adott bolton vagy nyugtán is olvasható közismert nevét tüntetjük fel. Az üzemeltető céget az operator kulcs alatt tüntetjük fel. A telefonszámban a 4-nél több számjegyű csoportokat szóközzel tagoljuk. A toilets=yes valóban arra vonatkozik, hogy az átvételre várakozó ügyfelek szabadon használhatják a mosdót? Mit jelent a payment:prepaid_ticket, hogy csak otthon fizetendő? Bankkártya elfogadás nincs? Javítottam: https://osm.org/changeset/134779263 -bkil</title>
+        <title>Hello! Please have a look on http://www.osm.org/node/10779116490. What is the mean of the tag stapline = Minden, ami biztosítás ? -user_5359</title>
+        <link>https://www.openstreetmap.org/changeset/134405552</link>
+        <guid>https://www.openstreetmap.org/changeset/134405552#comment_1</guid>
+        <pubDate>2023-04-12T05:52:30+02:00</pubDate>
+      </item><item>
+        <title>Nincs bolt, csak átvételi pont és iroda. Webáruházként működünk. Az ügyfelek igen, használhatják a mosdót. Mivel nem vagyunk üzlet, így jelenleg nincs bankkárty elfogadás. A prepaid_ticket alatt előre vagy azonnali banki átutalásra gondoltam. -Sevroland Kft</title>
         <link>https://www.openstreetmap.org/changeset/134765090</link>
-        <guid>https://www.openstreetmap.org/changeset/134765090#comment_1</guid>
-        <pubDate>2023-04-11T15:21:07+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/134765090#comment_2</guid>
+        <pubDate>2023-04-12T05:08:45+02:00</pubDate>
       </item><item>
         <title>Üdvözlet az OSM önkéntesek táborában! A &quot;Antracit&quot; nem egy megfelelő szín. Ide vagy RGB hexát kell írni, vagy CSS azonosítókat kisbetűvel: https://wiki.osm.org/Key:colour Átírtam hexadecimálisra. Kérlek a jövőben ne vedd hozzá a település relációjához a relációhoz területileg illetékes sok-sok tízezer entitás mindegyikét egyesével. A település relációjába csak a közigazgatási határához tartozó nyílt vonalakat szoktuk bevenni. Javítottam: https://osm.org/changeset/134778713 -bkil</title>
         <link>https://www.openstreetmap.org/changeset/134773007</link>
