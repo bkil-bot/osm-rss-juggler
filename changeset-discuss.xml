@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Thx -vasony</title>
+        <link>https://www.openstreetmap.org/changeset/134405552</link>
+        <guid>https://www.openstreetmap.org/changeset/134405552#comment_3</guid>
+        <pubDate>2023-04-12T10:15:22+02:00</pubDate>
+      </item><item>
         <title>Ebben az esetben payment:wire_transfer lesz a nyerő, felvittem, illetve a bankkártya hiányát is, mint fontos információ. Úgy tudom hatályos jogszabályok szerint Magyarországon minden vállalkozásnak el kell fogadnia a banki átutalást mint azonnali elektronikus fizetési módot (például amennyiben nincs bankkártyás elfogadás). https://en.wikipedia.org/wiki/Wire_transfer https://wiki.osm.org/Payment#Indirect_Payment_/_Wire_transfer -bkil</title>
         <link>https://www.openstreetmap.org/changeset/134765090</link>
         <guid>https://www.openstreetmap.org/changeset/134765090#comment_3</guid>
         <pubDate>2023-04-12T09:11:49+02:00</pubDate>
-      </item><item>
-        <title>Hello! Please have a look on http://www.osm.org/node/10779116490. What is the mean of the tag stapline = Minden, ami biztosítás ? -user_5359</title>
-        <link>https://www.openstreetmap.org/changeset/134405552</link>
-        <guid>https://www.openstreetmap.org/changeset/134405552#comment_1</guid>
-        <pubDate>2023-04-12T05:52:30+02:00</pubDate>
       </item><item>
         <title>Üdvözlet az OSM önkéntesek táborában! A &quot;Antracit&quot; nem egy megfelelő szín. Ide vagy RGB hexát kell írni, vagy CSS azonosítókat kisbetűvel: https://wiki.osm.org/Key:colour Átírtam hexadecimálisra. Kérlek a jövőben ne vedd hozzá a település relációjához a relációhoz területileg illetékes sok-sok tízezer entitás mindegyikét egyesével. A település relációjába csak a közigazgatási határához tartozó nyílt vonalakat szoktuk bevenni. Javítottam: https://osm.org/changeset/134778713 -bkil</title>
         <link>https://www.openstreetmap.org/changeset/134773007</link>
