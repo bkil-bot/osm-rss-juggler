@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Szia! 128355871 számú módosításban (https://www.openstreetmap.org/changeset/128355871) elvégeztem Százhalombatta végpontján javításokat, amely során több vágány geometriáját, kitérők görbületét rekonstruáltam a lehető legpontosabban. További pontosítás és paraméterezés során jó lett volna, ha a korábbi munka nem veszett volna kárba, a korábbi pontossági szint nem csökkent volna. Több vágányszakasz esetén észrevettem, hogy az azt alkotó pontok száma lecsökkent (esetenként jelentősen), ami a geometriai pontosságán is rontott. Például a 19–23 számú kitérők közötti szakasz (https://www.openstreetmap.org/way/922039041) korábban 14 pontból állt, ez lecsökkent 4-re, így a váltók görbülete is elveszett. 8. vágányt (https://www.openstreetmap.org/way/172299725) 27 pont alkotta, lekövettem az íveket és a kitérők íveit, most azonban ez le lett redukálva 14-re. 2–4. átmenő fővágányok is vesztettek el pontokat (kevesebbet, mint az előzők), így pontatlanabbul követi leg már az ívet. Én egy-egy átalakítás előtt hosszas előkészületet is elő szoktam végezni, hogy megismerjem, hogy milyen változásokat fogok elvégezni. A műholdkép (esetemben a Maxar) és műszaki leírások alapján el szoktam készíteni az állomás torzított helyszínrajzát (Battánál csak a végpontól készítettem), ami alapján megtervezem és ütemezem a szükséges változtatásokat: milyen vonalakból épül fel, milyen ívekre kell számítanom stb. Jelenleg nem csak a felrajzolás, hanem az előkészület is ment a kukába. Ha az volt a baj, hogy kicsit el van csúszva, akkor meg lehetett volna oldani a meglévő elemek elmozgatásával, és nem lett volna szükség egy pont törlésére sem. -balint36</title>
+        <link>https://www.openstreetmap.org/changeset/132763606</link>
+        <guid>https://www.openstreetmap.org/changeset/132763606#comment_1</guid>
+        <pubDate>2023-04-13T20:46:40+02:00</pubDate>
+      </item><item>
         <title>Szia! https://www.openstreetmap.org/way/1161787343 https://www.openstreetmap.org/way/1161787340 Az amenity=parking_space egy darab parkolóhely jelölésére szolgál: https://wiki.openstreetmap.org/wiki/Tag:amenity=parking space Szerintem ezekre az amenity=parking jobban illene, akkor is ha nem hivatalos parkolók. További jó térképezést! -infeeeee</title>
         <link>https://www.openstreetmap.org/changeset/134833471</link>
         <guid>https://www.openstreetmap.org/changeset/134833471#comment_1</guid>
@@ -57,11 +62,6 @@
         <link>https://www.openstreetmap.org/changeset/134593435</link>
         <guid>https://www.openstreetmap.org/changeset/134593435#comment_5</guid>
         <pubDate>2023-04-07T15:54:34+02:00</pubDate>
-      </item><item>
-        <title>Köszönjük a közreműködést! Szeretnénk kérni, hogy a telefonszámban a kötőjel helyett szóköz szerepeljen elválasztójelként. -bkil</title>
-        <link>https://www.openstreetmap.org/changeset/134594071</link>
-        <guid>https://www.openstreetmap.org/changeset/134594071#comment_1</guid>
-        <pubDate>2023-04-06T22:00:35+02:00</pubDate>
       </item>
   </channel>
 </rss>
