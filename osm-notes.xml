@@ -3,6 +3,51 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Almádi, Balatonalmádi) / * 2023 February 5 18:11 vasony Created: 9 vagy 11 ? / * 2023 April 16 17:17 vasony Resolved: nincs kint szám, nem eldönthető</title>
+        <link>https://www.openstreetmap.org/note/3546113#c7863418</link>
+        <guid>https://www.openstreetmap.org/note/3546113#c7863418</guid>
+        <pubDate>Sun, 16 Apr 2023 17:17:32 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Almádi, Balatonalmádi) / * 2023 April 16 17:13 vasony Resolved: javítva</title>
+        <link>https://www.openstreetmap.org/note/3644839#c7863414</link>
+        <guid>https://www.openstreetmap.org/note/3644839#c7863414</guid>
+        <pubDate>Sun, 16 Apr 2023 17:13:36 +0000</pubDate>
+      </item><item>
+        <title>new note (near Transdanubia, 9700, Hungary) / * 2023 April 16 16:47 Gabibá Created: ez az út a patakig nem létezik</title>
+        <link>https://www.openstreetmap.org/note/3645516#c7863331</link>
+        <guid>https://www.openstreetmap.org/note/3645516#c7863331</guid>
+        <pubDate>Sun, 16 Apr 2023 16:47:57 +0000</pubDate>
+      </item><item>
+        <title>new note (near Central Transdanubia, 8225, Hungary) / * 2023 April 16 16:34 vasony Created: Megszűntetésre itélt piros jelzés ellenőrzése szükséges innenől észkara, hogy még látszanak-e a felfestések</title>
+        <link>https://www.openstreetmap.org/note/3645497#c7863298</link>
+        <guid>https://www.openstreetmap.org/note/3645497#c7863298</guid>
+        <pubDate>Sun, 16 Apr 2023 16:34:54 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Central Hungary, 2151, Hungary) / * 2023 April 16 16:27 BeanieBarrow Updated: Eltávolítva az épület. Az új meg lesz rajzolva, amint felkerül valamelyik műholdképre.</title>
+        <link>https://www.openstreetmap.org/note/3644978#c7863276</link>
+        <guid>https://www.openstreetmap.org/note/3644978#c7863276</guid>
+        <pubDate>Sun, 16 Apr 2023 16:27:05 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Central Hungary, 2151, Hungary) / * 2023 April 16 16:27 BeanieBarrow Resolved: Node adatai átírva house-ról garage-ra.</title>
+        <link>https://www.openstreetmap.org/note/3644973#c7863275</link>
+        <guid>https://www.openstreetmap.org/note/3644973#c7863275</guid>
+        <pubDate>Sun, 16 Apr 2023 16:27:04 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Central Hungary, 2151, Hungary) / * 2023 April 16 16:27 BeanieBarrow Resolved: Eltávolítva; kiterjesztettem a meglévő ház node-jait hozzá.</title>
+        <link>https://www.openstreetmap.org/note/3644968#c7863274</link>
+        <guid>https://www.openstreetmap.org/note/3644968#c7863274</guid>
+        <pubDate>Sun, 16 Apr 2023 16:27:04 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Central Hungary, 2151, Hungary) / * 2023 April 16 16:27 BeanieBarrow Resolved: Eltávolítva.</title>
+        <link>https://www.openstreetmap.org/note/3645118#c7863273</link>
+        <guid>https://www.openstreetmap.org/note/3645118#c7863273</guid>
+        <pubDate>Sun, 16 Apr 2023 16:27:04 +0000</pubDate>
+      </item><item>
+        <title>new comment (near Central Hungary, 2151, Hungary) / * 2023 April 16 16:27 BeanieBarrow Updated: Eltávolítva.</title>
+        <link>https://www.openstreetmap.org/note/3645118#c7863272</link>
+        <guid>https://www.openstreetmap.org/note/3645118#c7863272</guid>
+        <pubDate>Sun, 16 Apr 2023 16:27:04 +0000</pubDate>
+      </item><item>
         <title>new note (near Southern Transdanubia, 7354, Hungary) / * 2023 April 16 14:46 Petymag Created: Unable to answer &amp;quot;Is there a shelter at this stop?&amp;quot; for https://osm.org/node/3468036617 via StreetComplete 52.0: / Nem létező megálló</title>
         <link>https://www.openstreetmap.org/note/3645302#c7862891</link>
         <guid>https://www.openstreetmap.org/note/3645302#c7862891</guid>
@@ -257,26 +302,6 @@
         <link>https://www.openstreetmap.org/note/3641367#c7854490</link>
         <guid>https://www.openstreetmap.org/note/3641367#c7854490</guid>
         <pubDate>Thu, 13 Apr 2023 19:19:47 +0000</pubDate>
-      </item><item>
-        <title>new comment (near North Great Plain, 4183, Hungary) / * 2023 April 13 14:56 bkil Updated: Yes. https://wiki.osm.org/Street-level_imagery_services https://en.wikipedia.org/wiki/Trap_street</title>
-        <link>https://www.openstreetmap.org/note/3541222#c7853739</link>
-        <guid>https://www.openstreetmap.org/note/3541222#c7853739</guid>
-        <pubDate>Thu, 13 Apr 2023 14:56:49 +0000</pubDate>
-      </item><item>
-        <title>new comment (near North Great Plain, 4183, Hungary) / * 2023 April 13 13:47 Megya Updated: You mean, should I supply another evidence of the existence of the object, otherwise it cannot be treated as _verified_?</title>
-        <link>https://www.openstreetmap.org/note/3541222#c7853600</link>
-        <guid>https://www.openstreetmap.org/note/3541222#c7853600</guid>
-        <pubDate>Thu, 13 Apr 2023 13:47:24 +0000</pubDate>
-      </item><item>
-        <title>new comment (near North Great Plain, 4183, Hungary) / * 2023 April 13 12:19 ivanbranco Updated: Unfortunately Google Street can&amp;#39;t be used as a source to map in OSM</title>
-        <link>https://www.openstreetmap.org/note/3541222#c7853142</link>
-        <guid>https://www.openstreetmap.org/note/3541222#c7853142</guid>
-        <pubDate>Thu, 13 Apr 2023 12:19:37 +0000</pubDate>
-      </item><item>
-        <title>new comment (near North Great Plain, 4183, Hungary) / * 2023 February 1 21:13 ivanbranco Created: https://commons.wikimedia.org/wiki/File:Kaba_hull%C3%A1s-hely(1)(1).jpg / commons says there&amp;#39;s a stone memorial around here, could someone verify it? / * 2023 April 13 12:12 Megya Updated: Yes, it is there.  You can see it in this Google Street photo in the centre: https://www.google.com/maps/@47.3792995,21.2766447,3a,15y,0.15h,89.6t/data=!3m6!1e1!3m4!1sdLHICdAcy6jDoXudX30nCw!2e0!7i16384!8i8192</title>
-        <link>https://www.openstreetmap.org/note/3541222#c7853100</link>
-        <guid>https://www.openstreetmap.org/note/3541222#c7853100</guid>
-        <pubDate>Thu, 13 Apr 2023 12:12:20 +0000</pubDate>
       </item>
   </channel>
 </rss>
