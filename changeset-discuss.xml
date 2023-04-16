@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Szia! Ilyen esetekben az adatforrás helyett a programot módosítjuk, mivel az adatforrás közös és másképp nem lehetne konzisztensen működő alkalmazásokat készíteni. Kérlek nyiss egy jegyet az útvonaltervező fejlesztőjénél a leisure=track-en való tervezésért. (A brouter tudtommal könnyen testreszabható, dev guide: https://zod.github.io/brouter/developers/profile_developers_guide.html) A módosításcsomagot a fenti okok miatt visszavontam. -gabro00</title>
+        <title>Köszi, szerkesztés után 5 perccel már beláttam, hogy nem kellett volna, de csak hozzászólni enged a sajátomhoz, törölni nem. Persze akár új módosításként vissza is csinálhattam volna, de majd hétfőn...illetve most már mindegy. -SirRasor</title>
         <link>https://www.openstreetmap.org/changeset/134955658</link>
-        <guid>https://www.openstreetmap.org/changeset/134955658#comment_1</guid>
-        <pubDate>2023-04-16T17:28:22+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/134955658#comment_2</guid>
+        <pubDate>2023-04-16T18:37:28+02:00</pubDate>
       </item><item>
         <title>Szintén, 10-ből maradt 2: https://www.openstreetmap.org/way/1109069777 -balint36</title>
         <link>https://www.openstreetmap.org/changeset/132763606</link>
@@ -52,16 +52,6 @@
         <link>https://www.openstreetmap.org/changeset/128595581</link>
         <guid>https://www.openstreetmap.org/changeset/128595581#comment_1</guid>
         <pubDate>2023-04-10T14:54:25+02:00</pubDate>
-      </item><item>
-        <title>Szia A description mezőből kimásoltam azt amit lehetett külön címkékbe. Így az adatok jobban feldolgozhatóbbak. https://www.openstreetmap.org/changeset/134704498 További jó térképezést! -infeeeee</title>
-        <link>https://www.openstreetmap.org/changeset/134680533</link>
-        <guid>https://www.openstreetmap.org/changeset/134680533#comment_1</guid>
-        <pubDate>2023-04-09T21:33:01+02:00</pubDate>
-      </item><item>
-        <title>Itt javítottam ezeket: https://www.openstreetmap.org/changeset/134703700 -infeeeee</title>
-        <link>https://www.openstreetmap.org/changeset/134681934</link>
-        <guid>https://www.openstreetmap.org/changeset/134681934#comment_2</guid>
-        <pubDate>2023-04-09T20:56:04+02:00</pubDate>
       </item>
   </channel>
 </rss>
