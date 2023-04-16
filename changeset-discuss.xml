@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Szia! Ilyen esetekben az adatforrás helyett a programot módosítjuk, mivel az adatforrás közös és másképp nem lehetne konzisztensen működő alkalmazásokat készíteni. Kérlek nyiss egy jegyet az útvonaltervező fejlesztőjénél a leisure=track-en való tervezésért. (A brouter tudtommal könnyen testreszabható, dev guide: https://zod.github.io/brouter/developers/profile_developers_guide.html) A módosításcsomagot a fenti okok miatt visszavontam. -gabro00</title>
+        <link>https://www.openstreetmap.org/changeset/134955658</link>
+        <guid>https://www.openstreetmap.org/changeset/134955658#comment_1</guid>
+        <pubDate>2023-04-16T17:28:22+02:00</pubDate>
+      </item><item>
         <title>Szintén, 10-ből maradt 2: https://www.openstreetmap.org/way/1109069777 -balint36</title>
         <link>https://www.openstreetmap.org/changeset/132763606</link>
         <guid>https://www.openstreetmap.org/changeset/132763606#comment_7</guid>
