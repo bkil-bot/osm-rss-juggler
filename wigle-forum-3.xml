@@ -3,6 +3,16 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Pwnagotchi plugin: Using the pwnagotchi is what got me back into messing around with WiFi. I'm currently experimenting with the plugin; it's possible it may only send files with associated location data. I'm not sure yet. This might be why *I* can't get it to work either. I'll bring this up with a few people over the next week and get some feedback. There have been a number of interesting recent developments regarding the Pwnagotchi. https://github.com/DrSchottky/pwnagotchi https://github.com/aluminum-ice/nexmon-pi-zero-2w 1.) Aluminum-Ice has been working with DrSchottky on an update to the nexmon drivers for the raspberry Pi Zero 2W. This will improve the hardware behavior to more closely match what is expected. This work is not finished yet, and a &quot;1.7.0&quot; build is expected to be released int he near future with all of the changes finally rolled into one image (including Waveshare v3 support!). Aluminum-Ice has been doing most of the work, with the good doctor helping with the nexmon update. For the time being, the build that works for me (isn't blind to WiFi) on my Zero 2W is here-includes all he nexmon fixes up until last year: https://drive.google.com/file/d/1QBCgTC ... share_link As I only use a Pi Zero 2W for my Pwnagotchi now, this is a big deal. The added speed of the 2W compared to the 1W is immediately noticeable. 2.) There has been a fix posted to reddit related to pwnagotchi locality not being set properly and therefore being limited to the channels available to whatever region the device is set to. It's basically a matter of changing your country/region code in console. See here: https://www.reddit.com/r/pwnagotchi/com ... de_the_us/ There is also active discussion going on in the Unofficial Pwnagotchi discord which is posted on the subreddit. Hope this helps someone since the information seems so scattered. -BPinard</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11644#p11644</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11644#p11644</guid>
+        <pubDate>2023-04-18T01:28:18</pubDate>
+      </item><item>
+        <title>Re: Kismet drone on wireless router?: Update: I gave up on trying to get 20y old hardware running with 10y old software... penalty kick online However, I'm still looking for Kismet drone options with a price tag in the lower two digits, i.e. comparable to a Raspberry Pi plus wifi adapter. And while the Pi would definititely be an option, I'd naively assume that hardware specialized in radio communication might be more sensitive, e.g. a wireless router. Can anybody shed some light on whether this assumption is naive or actually true, possibly even with some hardware recommendation? Thanks.I think it was the right decision. Radio communication will connect much easier and more stable. -achooibm</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11642#p11642</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11642#p11642</guid>
+        <pubDate>2023-04-18T01:21:14</pubDate>
+      </item><item>
         <title>Re: Desktop software to view observations ?: You can also turn on Settings &amp;gt; Map Settings &amp;gt; Log routes for execution, and then use the Database &amp;gt; Saved Routes screen to export GPX to export files that can be viewed in a variety of GPX apps on the desktop. -pejacoby</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11610#p11610</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11610#p11610</guid>
@@ -67,16 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11573#p11573</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11573#p11573</guid>
         <pubDate>2023-03-01T12:16:36</pubDate>
-      </item><item>
-        <title>Should I merge database from different phones or keep them seperate ?: Different phones have different antennas and record different signal level for same location. If somehow I figure out on one device -Xdb is Ym away. Keeping database separate will help ? Is there a way to import database from different phone and mark it's origin. -R5ph4</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11572#p11572</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11572#p11572</guid>
-        <pubDate>2023-03-01T11:08:33</pubDate>
-      </item><item>
-        <title>What is &amp;quot;Maxout DB Marker&amp;quot; in Android App ?: &quot;Maxout DB Marker&quot; -R5ph4</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11571#p11571</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11571#p11571</guid>
-        <pubDate>2023-03-01T11:04:33</pubDate>
       </item>
   </channel>
 </rss>
