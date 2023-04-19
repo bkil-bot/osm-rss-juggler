@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Hello! Please have a look on https://www.osm.org/node/2079502878/history. Why did you use brackets on the Wikidata value? -user_5359</title>
+        <link>https://www.openstreetmap.org/changeset/134040998</link>
+        <guid>https://www.openstreetmap.org/changeset/134040998#comment_1</guid>
+        <pubDate>2023-04-19T07:19:34+02:00</pubDate>
+      </item><item>
         <title>Igen, érdemes törölni, mert különben túl sok gyűlne össze az évek alatt! Amennyiben egyirányú az út, az jelölhető oneway=yes hozzáadásával: https://wiki.osm.org/Key:oneway Fontos, hogy a szakasz iránya jelzi az egyirányúsítás irányát - ez igény szerint megfordítandó. -bkil</title>
         <link>https://www.openstreetmap.org/changeset/135072024</link>
         <guid>https://www.openstreetmap.org/changeset/135072024#comment_6</guid>
@@ -42,16 +47,6 @@
         <link>https://www.openstreetmap.org/changeset/134455182</link>
         <guid>https://www.openstreetmap.org/changeset/134455182#comment_1</guid>
         <pubDate>2023-04-12T13:51:26+02:00</pubDate>
-      </item><item>
-        <title>Thx -vasony</title>
-        <link>https://www.openstreetmap.org/changeset/134405552</link>
-        <guid>https://www.openstreetmap.org/changeset/134405552#comment_3</guid>
-        <pubDate>2023-04-12T10:15:22+02:00</pubDate>
-      </item><item>
-        <title>Ebben az esetben payment:wire_transfer lesz a nyerő, felvittem, illetve a bankkártya hiányát is, mint fontos információ. Úgy tudom hatályos jogszabályok szerint Magyarországon minden vállalkozásnak el kell fogadnia a banki átutalást mint azonnali elektronikus fizetési módot (például amennyiben nincs bankkártyás elfogadás). https://en.wikipedia.org/wiki/Wire_transfer https://wiki.osm.org/Payment#Indirect_Payment_/_Wire_transfer -bkil</title>
-        <link>https://www.openstreetmap.org/changeset/134765090</link>
-        <guid>https://www.openstreetmap.org/changeset/134765090#comment_3</guid>
-        <pubDate>2023-04-12T09:11:49+02:00</pubDate>
       </item>
   </channel>
 </rss>
