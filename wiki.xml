@@ -2,41 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      <item>
-        <title>Hungary/20230429: mail -Bkil</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20230429&amp;diff=2506631&amp;oldid=2506624</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20230429&amp;diff=2506631</guid>
-        <pubDate>Thu, 20 Apr 2023 08:51:28 GMT</pubDate>
-      </item><item>
-        <title>Hungary/20230422: mail -Bkil</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20230422&amp;diff=2506630&amp;oldid=2506625</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20230422&amp;diff=2506630</guid>
-        <pubDate>Thu, 20 Apr 2023 08:51:23 GMT</pubDate>
-      </item><item>
-        <title>Hungary/20230416: eredmény -Bkil</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20230416&amp;diff=2506628&amp;oldid=2504700</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20230416&amp;diff=2506628</guid>
-        <pubDate>Thu, 20 Apr 2023 08:46:58 GMT</pubDate>
-      </item><item>
-        <title>Hungary/20230422: cat -Bkil</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20230422&amp;diff=2506625&amp;oldid=2506620</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20230422&amp;diff=2506625</guid>
-        <pubDate>Thu, 20 Apr 2023 08:41:00 GMT</pubDate>
-      </item><item>
-        <title>Hungary/20230429: cat -Bkil</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20230429&amp;diff=2506624&amp;oldid=2506623</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20230429&amp;diff=2506624</guid>
-        <pubDate>Thu, 20 Apr 2023 08:40:50 GMT</pubDate>
-      </item><item>
-        <title>Hungary/Ortofotók: Új ortofotó -Athoss</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Ortofot%C3%B3k&amp;diff=2506669&amp;oldid=2395483</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Ortofot%C3%B3k&amp;diff=2506669</guid>
-        <pubDate>Thu, 20 Apr 2023 12:02:22 GMT</pubDate>
-      </item><item>
-        <title>Hungary/Találkozók: finish -Bkil</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Tal%C3%A1lkoz%C3%B3k&amp;diff=2506627&amp;oldid=2504698</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Tal%C3%A1lkoz%C3%B3k&amp;diff=2506627</guid>
-        <pubDate>Thu, 20 Apr 2023 08:43:03 GMT</pubDate>
-      </item>
+      
   </channel>
 </rss>
