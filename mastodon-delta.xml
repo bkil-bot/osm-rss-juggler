@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>End-to-End encryption is one of the good things we have with the current internet and app ecosystems. But it is under constant threat -- be it from EU&amp;#39;s #chatcontrol, UK&amp;#39;s &amp;quot;online safety bill&amp;quot; or the current renewed &amp;quot;EARN IT&amp;quot; effort in the US: https://www.eff.org/deeplinks/2023/04/earn-it-bill-back-again-seeking-scan-our-messages-and-photos .... anyone of these efforts succeeding would be a dangerous dam break. Let&amp;#39;s collectively make sure all these governmental anti-privacy efforts fail!</title>
+        <link>https://chaos.social/@delta/110242489687290418</link>
+        <guid>https://chaos.social/@delta/110242489687290418</guid>
+        <pubDate>Sat, 22 Apr 2023 12:34:55 +0000</pubDate>
+      </item><item>
         <title>For programmers who are interested in #Golang and/or #bots , you may checkout https://github.com/deltachat-bot/deltabot-cli-go -- The new statically linked deltachat-rpc-server can run on 32/64 bit and be used from any programming language by calling async RPC requests via stdin/stdout to a deltachat-rpc-server running in a subprocess. As released Desktop uses this jsonrpc-API it&amp;#39;s also pretty complete.</title>
         <link>https://chaos.social/@delta/110124628301466341</link>
         <guid>https://chaos.social/@delta/110124628301466341</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/108645562786740784</link>
         <guid>https://chaos.social/@delta/108645562786740784</guid>
         <pubDate>Thu, 14 Jul 2022 11:55:25 +0000</pubDate>
-      </item><item>
-        <title>OH &amp;quot;Russia is about as federated as Telegram&amp;quot;</title>
-        <link>https://chaos.social/@delta/108628380283947256</link>
-        <guid>https://chaos.social/@delta/108628380283947256</guid>
-        <pubDate>Mon, 11 Jul 2022 11:05:40 +0000</pubDate>
       </item>
   </channel>
 </rss>
