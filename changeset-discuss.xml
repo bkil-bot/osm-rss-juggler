@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>A Telekom bérlőként még szolgáltat innen, mint egyedüli publikus mobil operátor. -JeffShephard</title>
+        <title>Ebben az esetben szeretnénk kérni a visszavonást, mivel az adott antenna operator=* kulcsában az antenna &quot;üzemeltetőjét&quot;, a szolgáltató márkáját kell feltüntetni, nem a kémény vagy oszlop tulajdonosáét amire rászerelték azt https://wiki.osm.org/Hungary/Mobiltelefon-tornyok#C%C3%ADmk%C3%A9z%C3%A9s -bkil</title>
         <link>https://www.openstreetmap.org/changeset/135331083</link>
-        <guid>https://www.openstreetmap.org/changeset/135331083#comment_2</guid>
-        <pubDate>2023-04-27T13:02:16+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/135331083#comment_3</guid>
+        <pubDate>2023-04-27T14:47:41+02:00</pubDate>
       </item><item>
         <title>Thank you for your contribution. I have fixed up your edit: https://osm.org/changeset/135307318#map=18/47.34931/19.09589 Note that you must not enter the house number into `name`, you should only encircle the footprint of the given building and not the whole estate and it is also beneficial to make polygons orthogonal via built in shortcut keys. -bkil</title>
         <link>https://www.openstreetmap.org/changeset/135299608</link>
@@ -32,11 +32,6 @@
         <link>https://www.openstreetmap.org/changeset/134979461</link>
         <guid>https://www.openstreetmap.org/changeset/134979461#comment_11</guid>
         <pubDate>2023-04-21T15:09:22+02:00</pubDate>
-      </item><item>
-        <title>Szia! 1db termálvizes medence miatt ezek a címkék nem valók a teljes területre (multipoligonra). A fenti probléma miatt a módosításcsomagot visszavontam. -gabro00</title>
-        <link>https://www.openstreetmap.org/changeset/135152347</link>
-        <guid>https://www.openstreetmap.org/changeset/135152347#comment_1</guid>
-        <pubDate>2023-04-20T18:10:35+02:00</pubDate>
       </item>
   </channel>
 </rss>
