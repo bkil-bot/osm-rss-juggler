@@ -27,11 +27,6 @@
         <link>https://www.openstreetmap.org/changeset/135299608</link>
         <guid>https://www.openstreetmap.org/changeset/135299608#comment_1</guid>
         <pubDate>2023-04-24T15:32:25+02:00</pubDate>
-      </item><item>
-        <title>Köszönjük a közreműködést. Felhívjuk a figyelmet, hogy a kereshetőség érdekében nem elégséges csak a nevet felvenni egy objektumra, hanem a kapcsolódó címkékben is meg kell határozni, hogy milyen típusú entitásról beszélünk. Lásd javításom ennek kapcsán: https://osm.org/changeset/135295474 A használt címkékhez inspirációt az iD előbeállításaiból lehet meríteni (ahogy elkezdjük gépelni az objektum típusát különféle szinonimákkal), a dokumentációból https://wiki.osm.org/Tag:amenity%3Ddormitory https://wiki.osm.org/Tag:club%3Dstudent illetve a statisztikákból https://taginfo.openstreetmap.hu/search?q=dormitory#values -bkil</title>
-        <link>https://www.openstreetmap.org/changeset/135260353</link>
-        <guid>https://www.openstreetmap.org/changeset/135260353#comment_1</guid>
-        <pubDate>2023-04-24T10:32:49+02:00</pubDate>
       </item>
   </channel>
 </rss>
