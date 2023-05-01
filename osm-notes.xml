@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Káptalanfüred, Balatonalmádi) / * 2023 May 1 20:17 vasony Created: Itt vagy egy út, autóbehajtó vagy ez a Juhar utca?</title>
+        <link>https://www.openstreetmap.org/note/3669876#c7915673</link>
+        <guid>https://www.openstreetmap.org/note/3669876#c7915673</guid>
+        <pubDate>Mon, 01 May 2023 20:17:07 +0000</pubDate>
+      </item><item>
+        <title>new note (near Central Transdanubia, 8226, Hungary) / * 2023 May 1 19:22 vasony Created: Nyárfasor utcát az Alsóörs 119/2018. (IX.13.) önkormányzati határozat törölte, tábla van?</title>
+        <link>https://www.openstreetmap.org/note/3669797#c7915498</link>
+        <guid>https://www.openstreetmap.org/note/3669797#c7915498</guid>
+        <pubDate>Mon, 01 May 2023 19:22:08 +0000</pubDate>
+      </item><item>
         <title>new note (near Central Transdanubia, 8226, Hungary) / * 2023 May 1 18:43 vasony Created: 119/2018. (IX.13.) önkormányzati határozat szerint Fekete rigó utca, mi szerepel az utcatábán?</title>
         <link>https://www.openstreetmap.org/note/3669719#c7915241</link>
         <guid>https://www.openstreetmap.org/note/3669719#c7915241</guid>
@@ -107,106 +117,6 @@
         <link>https://www.openstreetmap.org/note/3205938#c7911388</link>
         <guid>https://www.openstreetmap.org/note/3205938#c7911388</guid>
         <pubDate>Sun, 30 Apr 2023 19:01:59 +0000</pubDate>
-      </item><item>
-        <title>new comment (near Káptalanfüred, Balatonalmádi) / * 2023 April 30 14:59 vasony Updated: ez a 17</title>
-        <link>https://www.openstreetmap.org/note/3666647#c7910459</link>
-        <guid>https://www.openstreetmap.org/note/3666647#c7910459</guid>
-        <pubDate>Sun, 30 Apr 2023 14:59:49 +0000</pubDate>
-      </item><item>
-        <title>new note (near Káptalanfüred, Balatonalmádi) / * 2023 April 30 14:55 vasony Created: 1 telek 2 házzal,  kettő kozott 1 szintes résszel összekötve</title>
-        <link>https://www.openstreetmap.org/note/3667487#c7910424</link>
-        <guid>https://www.openstreetmap.org/note/3667487#c7910424</guid>
-        <pubDate>Sun, 30 Apr 2023 14:55:18 +0000</pubDate>
-      </item><item>
-        <title>new note (near South Great Plain, 5516, Hungary) / * 2023 April 30 14:48 Kiss_Karoly Created: Baptista imaház / via StreetComplete 52.0</title>
-        <link>https://www.openstreetmap.org/note/3667474#c7910405</link>
-        <guid>https://www.openstreetmap.org/note/3667474#c7910405</guid>
-        <pubDate>Sun, 30 Apr 2023 14:48:32 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Homokdűlő, Vác) / * 2023 April 15 06:56 vasony Created: Qwell Rudolf utca vagy Quell Rudolf utca szerepel az utcatáblán? Esetleg emléktábla is van? / * 2023 April 30 12:09 urbalazs Resolved: Utcanévtábla és emléktábla is van, mindkettőn U-val van írva. Átírtam az utcanevet.</title>
-        <link>https://www.openstreetmap.org/note/3643300#c7909955</link>
-        <guid>https://www.openstreetmap.org/note/3643300#c7909955</guid>
-        <pubDate>Sun, 30 Apr 2023 12:09:25 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Homokdűlő, Vác) / * 2023 April 15 06:46 vasony Created: Damjanich utca vagy Damjanich János tér szerepel az utcatáblán? / * 2023 April 30 12:08 urbalazs Resolved: Az utca egyik végén csak vezetéknévvel, a másik végén teljes névvel van kitáblázva. De mindkét helyen utca van, szóval a tér az biztosan nem jó. OSM-en marad, ahogy van.</title>
-        <link>https://www.openstreetmap.org/note/3643292#c7909951</link>
-        <guid>https://www.openstreetmap.org/note/3643292#c7909951</guid>
-        <pubDate>Sun, 30 Apr 2023 12:08:39 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Homokdűlő, Vác) / * 2023 April 15 06:46 vasony Created: Mező Imre utca vagy Mező utca szerepel az utcatáblán? / * 2023 April 30 12:07 urbalazs Resolved: Az utcanévtáblán csak Mező utca van, nincs keresztnév hozzá. Átírtam az utca nevét.</title>
-        <link>https://www.openstreetmap.org/note/3643294#c7909947</link>
-        <guid>https://www.openstreetmap.org/note/3643294#c7909947</guid>
-        <pubDate>Sun, 30 Apr 2023 12:07:21 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Homokdűlő, Vác) / * 2023 April 15 07:29 vasony Created: Törökhegyi utca vagy Törökhegyi út szerepel az utcatáblán? / * 2023 April 30 12:06 urbalazs Resolved: A régi utcanévtáblán Törökhegyi út az egyik sarkon, az új utcanévtáblán Törökhegyi utca a másik sarkon, miközben a földhivatal szerint Török-hegyi utca. Lezárom, mert a helyszínen ez nem válaszolható meg, más forrás kell hozzá.</title>
-        <link>https://www.openstreetmap.org/note/3643334#c7909943</link>
-        <guid>https://www.openstreetmap.org/note/3643334#c7909943</guid>
-        <pubDate>Sun, 30 Apr 2023 12:06:38 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 2600, Hungary) / * 2023 April 10 13:33 utvonalfelmeresek Created: mini / * 2023 April 30 12:04 urbalazs Resolved: Ez már 3 éve minikörforgalom a térképen is.</title>
-        <link>https://www.openstreetmap.org/note/3635825#c7909936</link>
-        <guid>https://www.openstreetmap.org/note/3635825#c7909936</guid>
-        <pubDate>Sun, 30 Apr 2023 12:04:18 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Álomvölgy, Rád) / * 2023 April 15 05:56 vasony Created: 3/2015.(I. 29.) számú határozat szerint csak a Liget utcától kifele Naszály utca, ellenőrizendő! / * 2023 April 30 12:03 urbalazs Resolved: Nincs utcanévtábla kitéve, így a helyszínen se megerősíteni, se cáfolni nem tudom. Lezárom, mert ehhez más forrás kell.</title>
-        <link>https://www.openstreetmap.org/note/3643262#c7909935</link>
-        <guid>https://www.openstreetmap.org/note/3643262#c7909935</guid>
-        <pubDate>Sun, 30 Apr 2023 12:03:11 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Álomvölgy, Rád) / * 2023 April 15 06:20 vasony Created: Kossuth Lajos utca vagy Kossuth utca szerepel az utcatáblán? / * 2023 April 30 12:01 urbalazs Resolved: Az utcanévtáblán csak vezetéknévvel van, keresztnév nincs. Átírtam az utca nevét.</title>
-        <link>https://www.openstreetmap.org/note/3643278#c7909932</link>
-        <guid>https://www.openstreetmap.org/note/3643278#c7909932</guid>
-        <pubDate>Sun, 30 Apr 2023 12:01:24 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Álomvölgy, Rád) / * 2023 April 15 06:20 vasony Created: Petőfi Sándor utca vagy Petőfi út szerepel az utcatáblán? / * 2023 April 30 11:59 urbalazs Resolved: Az utcanévtáblán Petőfi út van. Átírtam az utca nevét.</title>
-        <link>https://www.openstreetmap.org/note/3643274#c7909928</link>
-        <guid>https://www.openstreetmap.org/note/3643274#c7909928</guid>
-        <pubDate>Sun, 30 Apr 2023 11:59:20 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Álomvölgy, Rád) / * 2023 April 15 06:20 vasony Created: Rákóczi utca vagy Rákóczi út szerepel az utcatáblán? / * 2023 April 30 11:56 urbalazs Resolved: Csak egyetlen utcanévtáblát találtam, de azon út van. Átírtam a közterület jellegét útra, és ha jól láttam, akkor a Rákóczi út a templomtól kezdődik.</title>
-        <link>https://www.openstreetmap.org/note/3643276#c7909910</link>
-        <guid>https://www.openstreetmap.org/note/3643276#c7909910</guid>
-        <pubDate>Sun, 30 Apr 2023 11:56:02 +0000</pubDate>
-      </item><item>
-        <title>new note (near Szekeres tanya, Üllő) / * 2023 April 30 11:55 miki4 Created: unpaved road belongs to hungarian defence forces. military area. no trespassing.</title>
-        <link>https://www.openstreetmap.org/note/3667158#c7909906</link>
-        <guid>https://www.openstreetmap.org/note/3667158#c7909906</guid>
-        <pubDate>Sun, 30 Apr 2023 11:55:38 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Álomvölgy, Rád) / * 2023 April 15 06:20 vasony Created: Madách Imre utca vagy Madách utca szerepel az utcatáblán? / * 2023 April 30 11:54 urbalazs Resolved: Az utcanévtáblán csak vezetéknévvel van, keresztnév nincs. Átírtam az utca nevét.</title>
-        <link>https://www.openstreetmap.org/note/3643277#c7909902</link>
-        <guid>https://www.openstreetmap.org/note/3643277#c7909902</guid>
-        <pubDate>Sun, 30 Apr 2023 11:54:48 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Álomvölgy, Rád) / * 2023 April 15 06:20 vasony Created: Dózsa György út vagy Dózsa György utca szerepel az utcatáblán? / * 2023 April 30 11:54 urbalazs Resolved: Az utcanévtáblán utca van. Átírtam a közterület jellegét utcára.</title>
-        <link>https://www.openstreetmap.org/note/3643279#c7909891</link>
-        <guid>https://www.openstreetmap.org/note/3643279#c7909891</guid>
-        <pubDate>Sun, 30 Apr 2023 11:54:06 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Álomvölgy, Rád) / * 2023 April 15 06:20 vasony Created: Váci utca vagy Váci út szerepel az utcatáblán? / * 2023 April 30 11:53 urbalazs Resolved: Utcanévtábla nincs, de a házszámtáblákon mindenhol út van kiírva. Átírtam a közterület jellegét útra.</title>
-        <link>https://www.openstreetmap.org/note/3643275#c7909885</link>
-        <guid>https://www.openstreetmap.org/note/3643275#c7909885</guid>
-        <pubDate>Sun, 30 Apr 2023 11:53:30 +0000</pubDate>
-      </item><item>
-        <title>new note (near Vermes tanya, Inárcs) / * 2023 April 30 11:50 miki4 Created: Another entry to private property. No trespassing.</title>
-        <link>https://www.openstreetmap.org/note/3667119#c7909860</link>
-        <guid>https://www.openstreetmap.org/note/3667119#c7909860</guid>
-        <pubDate>Sun, 30 Apr 2023 11:50:10 +0000</pubDate>
-      </item><item>
-        <title>new note (near Levendulás, Inárcs) / * 2023 April 30 11:48 miki4 Created: This is an entry to private property. No longer a public road.</title>
-        <link>https://www.openstreetmap.org/note/3667113#c7909854</link>
-        <guid>https://www.openstreetmap.org/note/3667113#c7909854</guid>
-        <pubDate>Sun, 30 Apr 2023 11:48:51 +0000</pubDate>
-      </item><item>
-        <title>new note (near Central Hungary, 1016, Hungary) / * 2023 April 30 11:24 utvonalfelmeresek Created: Zenélő hely / via StreetComplete 52.0 / Attached photo(s): / https://westnordost.de/p/145726.jpg</title>
-        <link>https://www.openstreetmap.org/note/3667024#c7909742</link>
-        <guid>https://www.openstreetmap.org/note/3667024#c7909742</guid>
-        <pubDate>Sun, 30 Apr 2023 11:24:18 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 1074, Hungary) / * 2023 April 21 08:53 Created: Aktuálisan kezelt ingatlan: 1 / * 2023 April 30 11:16 feket Resolved: Az OSM jegyzet funkciója a térkép hibáinak jelzésére szolgál.</title>
-        <link>https://www.openstreetmap.org/note/3652376#c7909722</link>
-        <guid>https://www.openstreetmap.org/note/3652376#c7909722</guid>
-        <pubDate>Sun, 30 Apr 2023 11:16:56 +0000</pubDate>
       </item>
   </channel>
 </rss>
