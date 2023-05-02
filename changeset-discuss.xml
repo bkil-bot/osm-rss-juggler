@@ -3,10 +3,20 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Szia! Őrsi Gergely tudhatná, hogy közterületet a főv. közgyűlésnek van joga elnevezni. Persze tudja is, csak a facebookon nem néz ki olyan jól. A jegyzőkönyvben viszont benne van hogy csak javasolja ezeket. Légy szíves az új neveket proposed:name-be tett át. https://archiv.masodikkerulet.hu/data/cms193861/nyilt_jegyzokonyv_2023_0330.pdf Köszi -vasony</title>
+        <title>Szia! Üdv az OpenStreetMapen! Ezzel a szerkesztéssel mi volt a célod? A 3/B házszám elmozgatása véletlen lehetett, de a trafó elmozgatása? Ha jól tudom nem jellemző, hogy áthelyeznek ilyeneket, ugyanazzal a számmal. Ha az is véletlen volt, akkor ezt az egész szerkesztésedet visszavonnám. Ha további kérdéseid lennének, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! -infeeeee</title>
+        <link>https://www.openstreetmap.org/changeset/135556593</link>
+        <guid>https://www.openstreetmap.org/changeset/135556593#comment_1</guid>
+        <pubDate>2023-05-02T07:49:21+02:00</pubDate>
+      </item><item>
+        <title>Szia! Üdv az OpenStreetMapen! Bezárt éttermeknél, üzleteknél a disused: prefix használata ajánlott a pont törlése helyett. https://wiki.openstreetmap.org/wiki/Key:disused:* Tehát elég lett volna, ha csak az shop=musical_instrument címkét átjavítod disused:shop=musical_instrument-re, így már nem jelenítik meg a megjelenítők. Ez azért is hasznos, mert ha később más üzlet vagy étterem nyílik ugyanott, akkor nem kell új pontot létrehozni, és visszakövethető lesz az üzlethelyiség története, mi nyílt minek a helyén. Legközelebb eszerint járj el kérlek. Ha további kérdéseid lennének, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! -infeeeee</title>
+        <link>https://www.openstreetmap.org/changeset/135556658</link>
+        <guid>https://www.openstreetmap.org/changeset/135556658#comment_1</guid>
+        <pubDate>2023-05-02T07:43:47+02:00</pubDate>
+      </item><item>
+        <title>Köszi hogy szóltál javítottam a hibám. -sugarbotond</title>
         <link>https://www.openstreetmap.org/changeset/134319115</link>
-        <guid>https://www.openstreetmap.org/changeset/134319115#comment_1</guid>
-        <pubDate>2023-05-01T21:22:27+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/134319115#comment_2</guid>
+        <pubDate>2023-05-02T07:07:50+02:00</pubDate>
       </item><item>
         <title>Tisztelt szerkesztő! Nem elég csak a name kulcsban feltüntetni egy információt, mert ettől nem lesz nemzetközileg használható és kereshető. Érdemes a wikiben vagy taginfo segítségével utána nézni, hogy van-e jelölés az adott koncepcióra. Ezeket tudom itt javasolni: https://wiki.osm.org/Tag:industrial%3Dwarehouse https://wiki.osm.org/Tag:building%3Dwarehouse A webcím végére pedig ki szokás rakni a perjelet és a &quot;Kft.&quot; cégjegyzéki helyesírását is szintén érdemes követni. -bkil</title>
         <link>https://www.openstreetmap.org/changeset/135528121</link>
