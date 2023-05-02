@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Köszi a visszajelzést. Továbbiakban majd akkor azt is megadom. Egyelőre azért ezt használom, mert az https://openskimap.org/ az abandoned címkét figyeli. -Ivett Ördög</title>
+        <title>Don't map for the renderer! https://wiki.openstreetmap.org/wiki/Good_practice#Don't_map_for_the_renderer Azaz, ha valamelyik megjelenítő rosszul jeleníti meg a dolgokat, akkor nem szabad rosszul felvinni emiatt, hanem a megjelenítőt kell megjavítani. Ha mindkettőt megadod az egy elfogadható megoldás szerintem. Openskimap-en már nyitottak issue-t, hogy ezek is jól jelenjenek meg: https://github.com/russellporter/openskimap.org/issues/15 -infeeeee</title>
         <link>https://www.openstreetmap.org/changeset/135481374</link>
-        <guid>https://www.openstreetmap.org/changeset/135481374#comment_2</guid>
-        <pubDate>2023-05-02T10:43:21+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/135481374#comment_3</guid>
+        <pubDate>2023-05-02T11:16:04+02:00</pubDate>
       </item><item>
         <title>Köszi, sajnos óvatosan kell ezekkel a hírekkel, mert jellemző, hogy előbb van meg hír mint az elnevezés: ld: https://index.hu/belfold/2022/10/06/bejelentettek-de-megsem-neveztek-el-solt-ottiliarol-kozteret/ -vasony</title>
         <link>https://www.openstreetmap.org/changeset/134319115</link>
