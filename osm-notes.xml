@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note (near Central Hungary, 2637, Hungary) / * 2022 July 15 06:26 aceman444 Created: Many of the meadows missing as inner members of the forest multipolygon. / * 2023 May 2 10:12 urbalazs Resolved: Looks good now.</title>
+        <link>https://www.openstreetmap.org/note/3267813#c7917095</link>
+        <guid>https://www.openstreetmap.org/note/3267813#c7917095</guid>
+        <pubDate>Tue, 02 May 2023 10:12:51 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Central Hungary, 1138, Hungary) / * 2022 November 8 15:57 Zsolt Beringer Created: OTP EP weboldalán a kép OpenStreetMapről származik, ám a hivatkozás nem OSM adatbázisból dolgozó – felteszem navigációs – weboldalra visz. / Tudunk hivatalos levelet (¿e-mailt?) írni Foundation jogi személyként? / (Egyébként szerintem nincsen a kép licensze tisztázva az egészségpénztár weboldalán sem mert legalább egy CC-BY-SA licenszet ki illene tenniük, ahogy pl. a MÁVnál a fedélzeti kijelzőkön ott van…) / * 2023 May 2 08:24 urbalazs Resolved: Ezt lezárom, mert nem térképhiba. Levelet magánszemélyként is írhatsz. Ha akarják, úgy is figyelembe veszik, ha pedig nem érdekli őket, akkor mindegy, kinek a nevében írod.</title>
+        <link>https://www.openstreetmap.org/note/3433308#c7916731</link>
+        <guid>https://www.openstreetmap.org/note/3433308#c7916731</guid>
+        <pubDate>Tue, 02 May 2023 08:24:44 +0000</pubDate>
+      </item><item>
+        <title>closed note (near Central Hungary, 1138, Hungary) / * 2022 September 16 16:25 Created: terv. terulet / * 2023 May 2 08:22 urbalazs Resolved: Elnézést, ez a térképjegyzet hiányos. Adjon részletes leírást arról a problémáról, amit jelenteni szeretne.</title>
+        <link>https://www.openstreetmap.org/note/3362090#c7916724</link>
+        <guid>https://www.openstreetmap.org/note/3362090#c7916724</guid>
+        <pubDate>Tue, 02 May 2023 08:22:40 +0000</pubDate>
+      </item><item>
         <title>new note (near Csalogánytanya, Törökbálint) / * 2023 May 2 06:59 prgrmzz Created: &amp;quot;It isn’t working. &amp;quot; / OSM snapshot date: 2023-03-29T15:44:03Z / POI has no name / POI types: man_made-water_well / #organicmaps</title>
         <link>https://www.openstreetmap.org/note/3670186#c7916458</link>
         <guid>https://www.openstreetmap.org/note/3670186#c7916458</guid>
@@ -27,16 +42,6 @@
         <link>https://www.openstreetmap.org/note/3669797#c7915498</link>
         <guid>https://www.openstreetmap.org/note/3669797#c7915498</guid>
         <pubDate>Mon, 01 May 2023 19:22:08 +0000</pubDate>
-      </item><item>
-        <title>new note (near Central Transdanubia, 8226, Hungary) / * 2023 May 1 18:43 vasony Created: 119/2018. (IX.13.) önkormányzati határozat szerint Fekete rigó utca, mi szerepel az utcatábán?</title>
-        <link>https://www.openstreetmap.org/note/3669719#c7915241</link>
-        <guid>https://www.openstreetmap.org/note/3669719#c7915241</guid>
-        <pubDate>Mon, 01 May 2023 18:43:01 +0000</pubDate>
-      </item><item>
-        <title>new note (near Central Transdanubia, 8226, Hungary) / * 2023 May 1 18:41 vasony Created: Táncsics utca vagy Táncsics Mihály utca szerepel az utcatáblán?</title>
-        <link>https://www.openstreetmap.org/note/3669717#c7915238</link>
-        <guid>https://www.openstreetmap.org/note/3669717#c7915238</guid>
-        <pubDate>Mon, 01 May 2023 18:41:47 +0000</pubDate>
       </item>
   </channel>
 </rss>

@@ -3,6 +3,21 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Köszi, sajnos óvatosan kell ezekkel a hírekkel, mert jellemző, hogy előbb van meg hír mint az elnevezés: ld: https://index.hu/belfold/2022/10/06/bejelentettek-de-megsem-neveztek-el-solt-ottiliarol-kozteret/ -vasony</title>
+        <link>https://www.openstreetmap.org/changeset/134319115</link>
+        <guid>https://www.openstreetmap.org/changeset/134319115#comment_3</guid>
+        <pubDate>2023-05-02T09:07:45+02:00</pubDate>
+      </item><item>
+        <title>Szia! Üdv az OpenStreetMapen! Az abandoned címke helyett a &quot;lifecycle prefix&quot; séma használata ajánlott inkább: https://wiki.openstreetmap.org/wiki/Lifecycle_prefix Tehát jelen esetben a route címke disused:route=piste-re módosítása is megfelelő lett volna. Ha további kérdéseid lennének, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! -infeeeee</title>
+        <link>https://www.openstreetmap.org/changeset/135481374</link>
+        <guid>https://www.openstreetmap.org/changeset/135481374#comment_1</guid>
+        <pubDate>2023-05-02T09:02:38+02:00</pubDate>
+      </item><item>
+        <title>Szia Bezárt üzleteknél inkább a disused:shop=yes címke használata ajánlott a törlés helyett. Ha később esetleg valami más üzlet nyílik ott, akkor később visszakövethető lesz, hogy mi volt az üzlet helyén korábban: https://wiki.openstreetmap.org/wiki/Key:disused:* Every Door-ban is van erre egy gomb &quot;Make Defunct&quot;. Üres üzleteknél inkább ezt használd inkább. Ha a felvett tetováló is a korábban bezárt valamelyik üzlet helyén nyílt, akkor inkább azt a pontot használd újra, a pont törlése majd új hozzáadása helyett. További jó térképezést! -infeeeee</title>
+        <link>https://www.openstreetmap.org/changeset/135502023</link>
+        <guid>https://www.openstreetmap.org/changeset/135502023#comment_1</guid>
+        <pubDate>2023-05-02T08:45:45+02:00</pubDate>
+      </item><item>
         <title>Szia! Üdv az OpenStreetMapen! Ezzel a szerkesztéssel mi volt a célod? A 3/B házszám elmozgatása véletlen lehetett, de a trafó elmozgatása? Ha jól tudom nem jellemző, hogy áthelyeznek ilyeneket, ugyanazzal a számmal. Ha az is véletlen volt, akkor ezt az egész szerkesztésedet visszavonnám. Ha további kérdéseid lennének, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! -infeeeee</title>
         <link>https://www.openstreetmap.org/changeset/135556593</link>
         <guid>https://www.openstreetmap.org/changeset/135556593#comment_1</guid>
@@ -12,11 +27,6 @@
         <link>https://www.openstreetmap.org/changeset/135556658</link>
         <guid>https://www.openstreetmap.org/changeset/135556658#comment_1</guid>
         <pubDate>2023-05-02T07:43:47+02:00</pubDate>
-      </item><item>
-        <title>Köszi hogy szóltál javítottam a hibám. -sugarbotond</title>
-        <link>https://www.openstreetmap.org/changeset/134319115</link>
-        <guid>https://www.openstreetmap.org/changeset/134319115#comment_2</guid>
-        <pubDate>2023-05-02T07:07:50+02:00</pubDate>
       </item><item>
         <title>Tisztelt szerkesztő! Nem elég csak a name kulcsban feltüntetni egy információt, mert ettől nem lesz nemzetközileg használható és kereshető. Érdemes a wikiben vagy taginfo segítségével utána nézni, hogy van-e jelölés az adott koncepcióra. Ezeket tudom itt javasolni: https://wiki.osm.org/Tag:industrial%3Dwarehouse https://wiki.osm.org/Tag:building%3Dwarehouse A webcím végére pedig ki szokás rakni a perjelet és a &quot;Kft.&quot; cégjegyzéki helyesírását is szintén érdemes követni. -bkil</title>
         <link>https://www.openstreetmap.org/changeset/135528121</link>
