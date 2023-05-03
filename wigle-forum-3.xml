@@ -3,11 +3,6 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
-        <title>Re: Huawei P20 Android 10: As far as I know, you can disable developer modedonkey kong -Aurelia4823</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11674#p11674</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11674#p11674</guid>
-        <pubDate>2023-05-03T11:10:48</pubDate>
-      </item><item>
         <title>Re: Best Android for WigleWifi: It's a moving target, too! Hardware gets better and more versatile, and OS/driver updates can make previously-good or previously-bad devices behave very differently One observation: there's a &quot;sweet spot&quot; beyond which the very size of your local database can slow the device; beware trying to data-hoard on an individual phone, vs. exporting your observations or backing up your individual device SQLite databases to a computer that's faster and more powerful than your phone. Obviously, we think you should upload to WiGLE.net (shameless plug), but if you prefer to keep your data to yourself, you can still do a lot more with it on more powerful computers. -arkasha</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11664#p11664</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11664#p11664</guid>
@@ -77,6 +72,11 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11579#p11579</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11579#p11579</guid>
         <pubDate>2023-03-01T17:45:18</pubDate>
+      </item><item>
+        <title>Re: Pwnagotchi plugin: I would imagine the same advice as above applies - check your uploads page and see if the pwnagotchi is sending files (correlate it with the logs on your pwnagotchi). -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11578#p11578</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11578#p11578</guid>
+        <pubDate>2023-03-01T17:33:53</pubDate>
       </item>
   </channel>
 </rss>
