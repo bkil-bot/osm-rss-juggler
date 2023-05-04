@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near Central Hungary, 1131, Hungary) / * 2023 May 4 19:18 Created: This is not correct, there is only a walkway</title>
+        <link>https://www.openstreetmap.org/note/3674634#c7926446</link>
+        <guid>https://www.openstreetmap.org/note/3674634#c7926446</guid>
+        <pubDate>Thu, 04 May 2023 19:18:14 +0000</pubDate>
+      </item><item>
+        <title>new note (near South Great Plain, 6782, Hungary) / * 2023 May 4 18:23 Najmeddinyousef Created: &amp;quot;This water doesn&amp;#39;t exist anymore &amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-03-29T15:44:03Z / POI has no name / POI types: amenity-drinking_water / #organicmaps</title>
+        <link>https://www.openstreetmap.org/note/3674540#c7926262</link>
+        <guid>https://www.openstreetmap.org/note/3674540#c7926262</guid>
+        <pubDate>Thu, 04 May 2023 18:23:48 +0000</pubDate>
+      </item><item>
+        <title>new note (near South Great Plain, 6784, Hungary) / * 2023 May 4 18:23 Najmeddinyousef Created: &amp;quot;the track connects to the cycle road.&amp;quot; / OSM snapshot date: 2023-03-29T15:44:03Z / POI has no name / POI types: psurface-unpaved_good highway-track / #organicmaps</title>
+        <link>https://www.openstreetmap.org/note/3674539#c7926261</link>
+        <guid>https://www.openstreetmap.org/note/3674539#c7926261</guid>
+        <pubDate>Thu, 04 May 2023 18:23:47 +0000</pubDate>
+      </item><item>
         <title>new note (near Alsómajor, Iván) / * 2023 May 4 18:04 efi99 Created: cím jó?</title>
         <link>https://www.openstreetmap.org/note/3674500#c7926176</link>
         <guid>https://www.openstreetmap.org/note/3674500#c7926176</guid>
@@ -237,21 +252,6 @@
         <link>https://www.openstreetmap.org/note/3673458#c7923977</link>
         <guid>https://www.openstreetmap.org/note/3673458#c7923977</guid>
         <pubDate>Thu, 04 May 2023 07:42:35 +0000</pubDate>
-      </item><item>
-        <title>reactivated note (near Tungsram, Alsóváros, Vác) / * 2023 May 4 07:42 vasony Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/3673458#c7923976</link>
-        <guid>https://www.openstreetmap.org/note/3673458#c7923976</guid>
-        <pubDate>Thu, 04 May 2023 07:42:29 +0000</pubDate>
-      </item><item>
-        <title>new note (near Tungsram, Alsóváros, Vác) / * 2023 May 4 07:40 vasony Created: A jelölő és a vasút közötti szakasz Honvéd utca vagy Kosdi út, illetve a Kosdi utcának jelölt résznek külön számozása van, vagy más sikerült átnevezéssel az utcanév duplikációt (Kosdi út &amp;lt;&amp;gt; Kosdi utca) megoldani?</title>
-        <link>https://www.openstreetmap.org/note/3673459#c7923971</link>
-        <guid>https://www.openstreetmap.org/note/3673459#c7923971</guid>
-        <pubDate>Thu, 04 May 2023 07:40:57 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Tungsram, Alsóváros, Vác) / * 2023 May 4 07:40 vasony Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3673458#c7923969</link>
-        <guid>https://www.openstreetmap.org/note/3673458#c7923969</guid>
-        <pubDate>Thu, 04 May 2023 07:40:41 +0000</pubDate>
       </item>
   </channel>
 </rss>
