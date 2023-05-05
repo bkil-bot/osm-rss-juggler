@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Szia, mivel nem válaszoltál, ezt a változáscsomagot visszavontam itt: https://www.openstreetmap.org/changeset/135738445 -infeeeee</title>
+        <link>https://www.openstreetmap.org/changeset/135556593</link>
+        <guid>https://www.openstreetmap.org/changeset/135556593#comment_2</guid>
+        <pubDate>2023-05-05T11:51:03+02:00</pubDate>
+      </item><item>
+        <title>Hello! Please have a look on https://www.osm.org/node/2443405554. What is the mean of the tag értéktár = https://honismeret.com/kulturalis-orokseg/203-901-vil%C3%A1gh%C3%A1bor%C3%BAs-eml%C3%A9km%C5%B1-r%C3%A1bat%C3%B3tfalu ? -user_5359</title>
+        <link>https://www.openstreetmap.org/changeset/135665472</link>
+        <guid>https://www.openstreetmap.org/changeset/135665472#comment_1</guid>
+        <pubDate>2023-05-05T11:27:18+02:00</pubDate>
+      </item><item>
         <title>Az érintett közkút 2023. májusában rendben üzemelt. A közkutak többségénél normális, hogy télen a víztelenítés miatt nem üzemelnek. A &quot;disused:&quot; prefix csak akkor indokolt, ha a kút tartósan (nyáron is) üzemen kívülre kerül, egyébként elegendő a tervezett időszakos üzemszüntet pl. az opening_hours címkében jelezni -mgpx</title>
         <link>https://www.openstreetmap.org/changeset/129401618</link>
         <guid>https://www.openstreetmap.org/changeset/129401618#comment_1</guid>
@@ -22,11 +32,6 @@
         <link>https://www.openstreetmap.org/changeset/135502023</link>
         <guid>https://www.openstreetmap.org/changeset/135502023#comment_1</guid>
         <pubDate>2023-05-02T08:45:45+02:00</pubDate>
-      </item><item>
-        <title>Szia! Üdv az OpenStreetMapen! Ezzel a szerkesztéssel mi volt a célod? A 3/B házszám elmozgatása véletlen lehetett, de a trafó elmozgatása? Ha jól tudom nem jellemző, hogy áthelyeznek ilyeneket, ugyanazzal a számmal. Ha az is véletlen volt, akkor ezt az egész szerkesztésedet visszavonnám. Ha további kérdéseid lennének, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! -infeeeee</title>
-        <link>https://www.openstreetmap.org/changeset/135556593</link>
-        <guid>https://www.openstreetmap.org/changeset/135556593#comment_1</guid>
-        <pubDate>2023-05-02T07:49:21+02:00</pubDate>
       </item><item>
         <title>Szia! Üdv az OpenStreetMapen! Bezárt éttermeknél, üzleteknél a disused: prefix használata ajánlott a pont törlése helyett. https://wiki.openstreetmap.org/wiki/Key:disused:* Tehát elég lett volna, ha csak az shop=musical_instrument címkét átjavítod disused:shop=musical_instrument-re, így már nem jelenítik meg a megjelenítők. Ez azért is hasznos, mert ha később más üzlet vagy étterem nyílik ugyanott, akkor nem kell új pontot létrehozni, és visszakövethető lesz az üzlethelyiség története, mi nyílt minek a helyén. Legközelebb eszerint járj el kérlek. Ha további kérdéseid lennének, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! -infeeeee</title>
         <link>https://www.openstreetmap.org/changeset/135556658</link>
