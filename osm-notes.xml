@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment (near Central Hungary, 1068, Hungary) / * 2023 May 4 14:41 ha5vsa Created: külön van jobbra kanyarodó, lámpa nélküli út, a kamera az így képzett szigeten van / * 2023 May 6 12:08 ha5vsa Updated: rosszul néztem, nem lámpa nélküli</title>
+        <link>https://www.openstreetmap.org/note/3674093#c7931268</link>
+        <guid>https://www.openstreetmap.org/note/3674093#c7931268</guid>
+        <pubDate>Sat, 06 May 2023 12:08:33 +0000</pubDate>
+      </item><item>
         <title>new note (near Central Hungary, 1239, Hungary) / * 2023 May 6 11:06 vasony Created: Ez a szakasz már nem a Hősök tere?</title>
         <link>https://www.openstreetmap.org/note/3676924#c7931095</link>
         <guid>https://www.openstreetmap.org/note/3676924#c7931095</guid>
@@ -302,16 +307,6 @@
         <link>https://www.openstreetmap.org/note/3673974#c7925050</link>
         <guid>https://www.openstreetmap.org/note/3673974#c7925050</guid>
         <pubDate>Thu, 04 May 2023 13:39:16 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 2120, Hungary) / * 2023 May 4 09:56 vasony Resolved: Zerkovitz Béla utca / https://www.openstreetmap.org/changeset/135693194</title>
-        <link>https://www.openstreetmap.org/note/3453191#c7924344</link>
-        <guid>https://www.openstreetmap.org/note/3453191#c7924344</guid>
-        <pubDate>Thu, 04 May 2023 09:56:45 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 2120, Hungary) / * 2022 December 26 06:21 Created: The correct street name is Zerkovitz Béla utca . / * 2023 May 4 09:56 vasony Resolved: https://www.openstreetmap.org/changeset/135693194</title>
-        <link>https://www.openstreetmap.org/note/3491402#c7924343</link>
-        <guid>https://www.openstreetmap.org/note/3491402#c7924343</guid>
-        <pubDate>Thu, 04 May 2023 09:56:33 +0000</pubDate>
       </item>
   </channel>
 </rss>
