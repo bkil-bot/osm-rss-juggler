@@ -2,6 +2,11 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      
+      <item>
+        <title>Hungary/Mobiltelefon-tornyok: A feladat mérete: Nyelvtani jav. -Misibacsi</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Mobiltelefon-tornyok&amp;diff=2523576&amp;oldid=2523566</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Mobiltelefon-tornyok&amp;diff=2523576</guid>
+        <pubDate>Mon, 08 May 2023 11:15:38 GMT</pubDate>
+      </item>
   </channel>
 </rss>

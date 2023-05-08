@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note (near North Hungary, 3955, Hungary) / * 2023 May 8 11:33 Created: Kenézlő</title>
+        <link>https://www.openstreetmap.org/note/3679934#c7937739</link>
+        <guid>https://www.openstreetmap.org/note/3679934#c7937739</guid>
+        <pubDate>Mon, 08 May 2023 11:33:23 +0000</pubDate>
+      </item><item>
         <title>closed note (near Central Hungary, 1146, Hungary) / * 2023 April 19 16:24 e-pc Created: Abonyi utca 25 / via StreetComplete 52.0 / Attached photo(s): / https://westnordost.de/p/143472.jpg / * 2023 May 8 08:51 urbalazs Resolved: A házszámok már szerepelnek a térképen.</title>
         <link>https://www.openstreetmap.org/note/3650314#c7937371</link>
         <guid>https://www.openstreetmap.org/note/3650314#c7937371</guid>
@@ -257,21 +262,6 @@
         <link>https://www.openstreetmap.org/note/3301626#c7929583</link>
         <guid>https://www.openstreetmap.org/note/3301626#c7929583</guid>
         <pubDate>Fri, 05 May 2023 19:30:22 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 1204, Hungary) / * 2021 February 23 18:03 kogutowicz-mano Created: Ha egyszer már lebontották, nem kellene törölni a tornyot? / * 2023 May 5 19:28 urbalazs Resolved: Nem. A demolished: előtag jelzi, hogy lebontották. Ha csak simán törölnénk, akkor azzal elvesznek az előzmények, illetve azzal a kockázattal is jár, hogy valaki egy régebbi ortofotó alapján visszarajzolja. Jó ez így.</title>
-        <link>https://www.openstreetmap.org/note/2551348#c7929581</link>
-        <guid>https://www.openstreetmap.org/note/2551348#c7929581</guid>
-        <pubDate>Fri, 05 May 2023 19:28:03 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 1191, Hungary) / * 2022 February 11 14:32 Hungarian_user Created: ATM / * 2023 May 5 19:25 urbalazs Resolved: Már fent van a térképen.</title>
-        <link>https://www.openstreetmap.org/note/3047132#c7929573</link>
-        <guid>https://www.openstreetmap.org/note/3047132#c7929573</guid>
-        <pubDate>Fri, 05 May 2023 19:25:41 +0000</pubDate>
-      </item><item>
-        <title>closed note (near Central Hungary, 1225, Hungary) / * 2023 March 18 14:34 BeanieBarrow Created: Unable to answer &amp;quot;What kind of crossing is this?&amp;quot; for https://osm.org/node/683048916 via StreetComplete 51.1: / Csak bicikliseknek van jelölve az átkelő (sárga négyszögek), gyalogosoknak nem. Ilyenkor mit kell írni? / * 2023 March 19 08:08 vasony Updated: máshol az ilyenek nincsenek átkelőként jelölve / * 2023 May 5 19:24 urbalazs Resolved: Ezzel nincs teendő. A bicikliút és az út kereszteződése pont olyan mint egy normál kereszteződés. Nem jelöljük külön.</title>
-        <link>https://www.openstreetmap.org/note/3602886#c7929570</link>
-        <guid>https://www.openstreetmap.org/note/3602886#c7929570</guid>
-        <pubDate>Fri, 05 May 2023 19:24:11 +0000</pubDate>
       </item>
   </channel>
 </rss>
