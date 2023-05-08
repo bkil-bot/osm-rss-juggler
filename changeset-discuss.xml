@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>A Nyárilegelő - Cserta híd K+ útvonal aktív még ? A néz és a jel címke szerint törölt, a többi paraméter viszont még élő utat mutat. (A Cserta-hidat már elbontották, ott legfeljebb gázolva lehet már csak átjutni) -mgpx</title>
+        <link>https://www.openstreetmap.org/changeset/110798914</link>
+        <guid>https://www.openstreetmap.org/changeset/110798914#comment_1</guid>
+        <pubDate>2023-05-08T18:47:07+02:00</pubDate>
+      </item><item>
         <title>Please provide full name of the street next time in Hungary, or use the street select tool of StreetComplete. eg. &quot;Alkony utca&quot; instead of &quot;Alkony&quot; Thx, Tamas -vasony</title>
         <link>https://www.openstreetmap.org/changeset/135817399</link>
         <guid>https://www.openstreetmap.org/changeset/135817399#comment_1</guid>
@@ -57,21 +62,6 @@
         <link>https://www.openstreetmap.org/changeset/135556658</link>
         <guid>https://www.openstreetmap.org/changeset/135556658#comment_1</guid>
         <pubDate>2023-05-02T07:43:47+02:00</pubDate>
-      </item><item>
-        <title>Tisztelt szerkesztő! Nem elég csak a name kulcsban feltüntetni egy információt, mert ettől nem lesz nemzetközileg használható és kereshető. Érdemes a wikiben vagy taginfo segítségével utána nézni, hogy van-e jelölés az adott koncepcióra. Ezeket tudom itt javasolni: https://wiki.osm.org/Tag:industrial%3Dwarehouse https://wiki.osm.org/Tag:building%3Dwarehouse A webcím végére pedig ki szokás rakni a perjelet és a &quot;Kft.&quot; cégjegyzéki helyesírását is szintén érdemes követni. -bkil</title>
-        <link>https://www.openstreetmap.org/changeset/135528121</link>
-        <guid>https://www.openstreetmap.org/changeset/135528121#comment_1</guid>
-        <pubDate>2023-05-01T20:32:20+02:00</pubDate>
-      </item><item>
-        <title>Tisztelt közreműködő! Az addr:housenumber kulcsba csak a számot tüntetjük fel és nem írunk utána pontot. Az opening_hours értékének a szintaxisa nemzetközileg egyértelműen beolvashatónak kell lennie (azaz nem lehet benne olyan, hogy Sze., Csü., stb.), a wikiben olvasható https://wiki.osm.org/Key:opening_hours A készpénzelfogadás Magyarországon alapértelmezett, így azt csak akkor tüntetjük fel amennyiben nem elérhető. -bkil</title>
-        <link>https://www.openstreetmap.org/changeset/135556542</link>
-        <guid>https://www.openstreetmap.org/changeset/135556542#comment_1</guid>
-        <pubDate>2023-05-01T20:27:07+02:00</pubDate>
-      </item><item>
-        <title>Tisztelt közreműködő! Olyan információt nem viszünk fel a térképre amit nem tudunk, hiszen akkor a térkép szó szerint tele lenne. Kérjük levenni az access=unknown címkét. -bkil</title>
-        <link>https://www.openstreetmap.org/changeset/135544919</link>
-        <guid>https://www.openstreetmap.org/changeset/135544919#comment_1</guid>
-        <pubDate>2023-05-01T20:20:32+02:00</pubDate>
       </item>
   </channel>
 </rss>
