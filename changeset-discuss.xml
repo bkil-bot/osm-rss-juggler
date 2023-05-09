@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Az összes jelzést még nem kaparták le a fáról, de természetesen már nem aktív az útvonal, ezért hagytam rajta a törölt jelzést. A hidat most kivettem a kapcsolatból. Így azért még látható az utókor számára, merre vezetett az egykori jelzés. -utvonalfelmeresek</title>
+        <title>Én a megszűnt jelzéseket általában route=abandoned:hiking-ra szoktam állítani, azzal egyértelmű a helyzet. Amíg route=hiking a típus, és pláne, ha még osmc:symbol is van rajta, akkor a legtöbb rendering ezt aktív turistaútként fogja jelezni. Pl: https://hiking.waymarkedtrails.org/#route?id=5385506&amp;type=relation -mgpx</title>
         <link>https://www.openstreetmap.org/changeset/110798914</link>
-        <guid>https://www.openstreetmap.org/changeset/110798914#comment_2</guid>
-        <pubDate>2023-05-09T04:40:55+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/110798914#comment_3</guid>
+        <pubDate>2023-05-09T06:45:32+02:00</pubDate>
       </item><item>
         <title>Please provide full name of the street next time in Hungary, or use the street select tool of StreetComplete. eg. &quot;Alkony utca&quot; instead of &quot;Alkony&quot; Thx, Tamas -vasony</title>
         <link>https://www.openstreetmap.org/changeset/135817399</link>
@@ -47,21 +47,6 @@
         <link>https://www.openstreetmap.org/changeset/135481374</link>
         <guid>https://www.openstreetmap.org/changeset/135481374#comment_3</guid>
         <pubDate>2023-05-02T11:16:04+02:00</pubDate>
-      </item><item>
-        <title>Köszi, sajnos óvatosan kell ezekkel a hírekkel, mert jellemző, hogy előbb van meg hír mint az elnevezés: ld: https://index.hu/belfold/2022/10/06/bejelentettek-de-megsem-neveztek-el-solt-ottiliarol-kozteret/ -vasony</title>
-        <link>https://www.openstreetmap.org/changeset/134319115</link>
-        <guid>https://www.openstreetmap.org/changeset/134319115#comment_3</guid>
-        <pubDate>2023-05-02T09:07:45+02:00</pubDate>
-      </item><item>
-        <title>Szia Bezárt üzleteknél inkább a disused:shop=yes címke használata ajánlott a törlés helyett. Ha később esetleg valami más üzlet nyílik ott, akkor később visszakövethető lesz, hogy mi volt az üzlet helyén korábban: https://wiki.openstreetmap.org/wiki/Key:disused:* Every Door-ban is van erre egy gomb &quot;Make Defunct&quot;. Üres üzleteknél inkább ezt használd inkább. Ha a felvett tetováló is a korábban bezárt valamelyik üzlet helyén nyílt, akkor inkább azt a pontot használd újra, a pont törlése majd új hozzáadása helyett. További jó térképezést! -infeeeee</title>
-        <link>https://www.openstreetmap.org/changeset/135502023</link>
-        <guid>https://www.openstreetmap.org/changeset/135502023#comment_1</guid>
-        <pubDate>2023-05-02T08:45:45+02:00</pubDate>
-      </item><item>
-        <title>Szia! Üdv az OpenStreetMapen! Bezárt éttermeknél, üzleteknél a disused: prefix használata ajánlott a pont törlése helyett. https://wiki.openstreetmap.org/wiki/Key:disused:* Tehát elég lett volna, ha csak az shop=musical_instrument címkét átjavítod disused:shop=musical_instrument-re, így már nem jelenítik meg a megjelenítők. Ez azért is hasznos, mert ha később más üzlet vagy étterem nyílik ugyanott, akkor nem kell új pontot létrehozni, és visszakövethető lesz az üzlethelyiség története, mi nyílt minek a helyén. Legközelebb eszerint járj el kérlek. Ha további kérdéseid lennének, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! -infeeeee</title>
-        <link>https://www.openstreetmap.org/changeset/135556658</link>
-        <guid>https://www.openstreetmap.org/changeset/135556658#comment_1</guid>
-        <pubDate>2023-05-02T07:43:47+02:00</pubDate>
       </item>
   </channel>
 </rss>
