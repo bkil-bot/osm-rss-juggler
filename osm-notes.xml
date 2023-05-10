@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment 3169432 (near Transdanubia, 2091, Hungary) / * 2022 May 7 17:21 grin Created: nope / * 2023 April 3 09:06 grin Updated: Itt az a gond, hogy a NER egy csomó részt elzárt, így az utak egy része elveszítette közút jellegét. Ez sajnos csak egy pont a sok közül. / * 2023 May 9 20:06 balint36 Updated: Mi nope? / * 2023 May 10 06:48 grin Updated: Amit beleírtam. A környéken egy csomó út access=NER, végig kell járni a permitert.</title>
+        <link>https://www.openstreetmap.org/note/3169432#c7943144</link>
+        <guid>https://www.openstreetmap.org/note/3169432#c7943144</guid>
+        <pubDate>Wed, 10 May 2023 06:48:31 +0000</pubDate>
+      </item><item>
         <title>new comment 3321790 (near Central Hungary, 1039, Hungary) / * 2022 August 19 12:02 utvonalfelmeresek Created: szilva / * 2023 May 9 19:21 balint36 Updated: Mi szilva? / * 2023 May 10 04:43 utvonalfelmeresek Updated: A közterületen levő gyümölcsfa szerintem szilva: / https://bkil.github.io/osm-taxon/#/23 / De igazából éréskor lehet azonosítani.</title>
         <link>https://www.openstreetmap.org/note/3321790#c7943011</link>
         <guid>https://www.openstreetmap.org/note/3321790#c7943011</guid>
@@ -332,26 +337,6 @@
         <link>https://www.openstreetmap.org/note/3681182#c7940623</link>
         <guid>https://www.openstreetmap.org/note/3681182#c7940623</guid>
         <pubDate>Tue, 09 May 2023 08:14:07 +0000</pubDate>
-      </item><item>
-        <title>closed note 3677973 (near Gerecse Kapuja, Tatabánya) / * 2023 May 7 06:57 utvonalfelmeresek Created: lipóti pékség / * 2023 May 9 06:09 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/135877607</title>
-        <link>https://www.openstreetmap.org/note/3677973#c7940333</link>
-        <guid>https://www.openstreetmap.org/note/3677973#c7940333</guid>
-        <pubDate>Tue, 09 May 2023 06:09:01 +0000</pubDate>
-      </item><item>
-        <title>closed note 3677971 (near Gerecse Kapuja, Tatabánya) / * 2023 May 7 06:56 utvonalfelmeresek Created: kör büfé / * 2023 May 9 06:08 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/135877607</title>
-        <link>https://www.openstreetmap.org/note/3677971#c7940332</link>
-        <guid>https://www.openstreetmap.org/note/3677971#c7940332</guid>
-        <pubDate>Tue, 09 May 2023 06:08:50 +0000</pubDate>
-      </item><item>
-        <title>closed note 3677969 (near Gerecse Kapuja, Tatabánya) / * 2023 May 7 06:55 utvonalfelmeresek Created: wc 200 ft 1emeleten / * 2023 May 9 06:08 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/135877607</title>
-        <link>https://www.openstreetmap.org/note/3677969#c7940329</link>
-        <guid>https://www.openstreetmap.org/note/3677969#c7940329</guid>
-        <pubDate>Tue, 09 May 2023 06:08:39 +0000</pubDate>
-      </item><item>
-        <title>closed note 3529838 (near South Great Plain, 6120, Hungary) / * 2023 January 24 09:08 domokoscs Created: Kiskunmajsa Deák Ferenc u. 32. / * 2023 May 8 21:15 vasony Resolved: felvittem</title>
-        <link>https://www.openstreetmap.org/note/3529838#c7939675</link>
-        <guid>https://www.openstreetmap.org/note/3529838#c7939675</guid>
-        <pubDate>Mon, 08 May 2023 21:15:48 +0000</pubDate>
       </item>
   </channel>
 </rss>
