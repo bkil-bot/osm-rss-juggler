@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Hi! 3 month ago you elongated the power line https://www.openstreetmap.org/way/301570195/. That is actually unused and is being deconstructed. It was just a guess based on old satellite pictures or you have specific informations? -kogutowicz-mano</title>
+        <link>https://www.openstreetmap.org/changeset/131939055</link>
+        <guid>https://www.openstreetmap.org/changeset/131939055#comment_1</guid>
+        <pubDate>2023-05-10T04:35:04+02:00</pubDate>
+      </item><item>
         <title>Én a megszűnt jelzéseket általában route=abandoned:hiking-ra szoktam állítani, azzal egyértelmű a helyzet. Amíg route=hiking a típus, és pláne, ha még osmc:symbol is van rajta, akkor a legtöbb rendering ezt aktív turistaútként fogja jelezni. Pl: https://hiking.waymarkedtrails.org/#route?id=5385506&amp;type=relation -mgpx</title>
         <link>https://www.openstreetmap.org/changeset/110798914</link>
         <guid>https://www.openstreetmap.org/changeset/110798914#comment_3</guid>

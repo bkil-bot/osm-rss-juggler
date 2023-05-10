@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment 3321790 (near Central Hungary, 1039, Hungary) / * 2022 August 19 12:02 utvonalfelmeresek Created: szilva / * 2023 May 9 19:21 balint36 Updated: Mi szilva? / * 2023 May 10 04:43 utvonalfelmeresek Updated: A közterületen levő gyümölcsfa szerintem szilva: / https://bkil.github.io/osm-taxon/#/23 / De igazából éréskor lehet azonosítani.</title>
+        <link>https://www.openstreetmap.org/note/3321790#c7943011</link>
+        <guid>https://www.openstreetmap.org/note/3321790#c7943011</guid>
+        <pubDate>Wed, 10 May 2023 04:43:09 +0000</pubDate>
+      </item><item>
         <title>new comment 3544265 (near Central Hungary, 1032, Hungary) / * 2023 February 4 14:08 infeeeee Created: Ez a csomópont fura itt, lámpák összevissza, itt nincs gyalogosátkelő, csak biciklis (?), helyszínen felmérendő / * 2023 May 9 22:29 balint36 Updated: A lámpák valóban össze-vissza voltak helyezve, de a Bécsi út-Váradi utca(-névtelen út) csomópontjában a kereszteződés mind a négy ágán mindig is volt gyalogosákelőhely. Ez igaz az általad kiszúrtra is, mert ott is van, annyi kiegészítéssel, hogy az egy gyalogos és kerékpáros átkelő, mert a zebra mellett jelölve van kerékpáros átvezetés is.</title>
         <link>https://www.openstreetmap.org/note/3544265#c7942747</link>
         <guid>https://www.openstreetmap.org/note/3544265#c7942747</guid>
@@ -347,11 +352,6 @@
         <link>https://www.openstreetmap.org/note/3529838#c7939675</link>
         <guid>https://www.openstreetmap.org/note/3529838#c7939675</guid>
         <pubDate>Mon, 08 May 2023 21:15:48 +0000</pubDate>
-      </item><item>
-        <title>closed note 3631603 (near South Great Plain, 6120, Hungary) / * 2023 April 7 18:03 Created: Nincs nyitva és soha nem is volt, / bejárat eltorlaszolva, / mégis hirdeti magát hogy olcsó kút. / * 2023 May 8 21:13 vasony Resolved: dupla</title>
-        <link>https://www.openstreetmap.org/note/3631603#c7939672</link>
-        <guid>https://www.openstreetmap.org/note/3631603#c7939672</guid>
-        <pubDate>Mon, 08 May 2023 21:13:43 +0000</pubDate>
       </item>
   </channel>
 </rss>
