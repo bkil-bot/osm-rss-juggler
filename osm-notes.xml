@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3099997 (near Transdanubia, 9423, Hungary) / * 2022 March 23 19:46 efi99 Created: 9/A? / * 2023 May 11 20:14 efi99 Resolved: 9/A</title>
+        <link>https://www.openstreetmap.org/note/3099997#c7948087</link>
+        <guid>https://www.openstreetmap.org/note/3099997#c7948087</guid>
+        <pubDate>Thu, 11 May 2023 20:14:21 +0000</pubDate>
+      </item><item>
+        <title>new note 3684638 (near Transdanubia, 9408, Hungary) / * 2023 May 11 19:54 efi99 Created: cím?</title>
+        <link>https://www.openstreetmap.org/note/3684638#c7948042</link>
+        <guid>https://www.openstreetmap.org/note/3684638#c7948042</guid>
+        <pubDate>Thu, 11 May 2023 19:54:13 +0000</pubDate>
+      </item><item>
         <title>new note 3684595 (near Táncsicsmajor, Sopron) / * 2023 May 11 19:18 efi99 Created: cím jó?</title>
         <link>https://www.openstreetmap.org/note/3684595#c7947946</link>
         <guid>https://www.openstreetmap.org/note/3684595#c7947946</guid>
@@ -312,11 +322,6 @@
         <link>https://www.openstreetmap.org/note/3544265#c7943626</link>
         <guid>https://www.openstreetmap.org/note/3544265#c7943626</guid>
         <pubDate>Wed, 10 May 2023 10:00:42 +0000</pubDate>
-      </item><item>
-        <title>new comment 3169432 (near Transdanubia, 2091, Hungary) / * 2022 May 7 17:21 grin Created: nope / * 2023 April 3 09:06 grin Updated: Itt az a gond, hogy a NER egy csomó részt elzárt, így az utak egy része elveszítette közút jellegét. Ez sajnos csak egy pont a sok közül. / * 2023 May 9 20:06 balint36 Updated: Mi nope? / * 2023 May 10 06:48 grin Updated: Amit beleírtam. A környéken egy csomó út access=NER, végig kell járni a permitert.</title>
-        <link>https://www.openstreetmap.org/note/3169432#c7943144</link>
-        <guid>https://www.openstreetmap.org/note/3169432#c7943144</guid>
-        <pubDate>Wed, 10 May 2023 06:48:31 +0000</pubDate>
       </item>
   </channel>
 </rss>
