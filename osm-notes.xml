@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3684099 (near Central Hungary, 2131, Hungary) / * 2023 May 12 16:33 Kiss_Karoly Resolved: Visszaírtam. Megoldottra vettem, a jegyzetet. Ha hibát találtál, szólj és javítom.</title>
+        <link>https://www.openstreetmap.org/note/3684099#c7950586</link>
+        <guid>https://www.openstreetmap.org/note/3684099#c7950586</guid>
+        <pubDate>Fri, 12 May 2023 16:33:57 +0000</pubDate>
+      </item><item>
+        <title>closed note 3684066 (near Central Hungary, 2132, Hungary) / * 2023 May 11 10:18 Kiss_Karoly Created: Dupla házszám? / via StreetComplete 52.1 / * 2023 May 12 16:32 Kiss_Karoly Resolved: Nem hiba. Rákérdeztem. Így helyes. Jegyzetet megoldottra vettem.</title>
+        <link>https://www.openstreetmap.org/note/3684066#c7950580</link>
+        <guid>https://www.openstreetmap.org/note/3684066#c7950580</guid>
+        <pubDate>Fri, 12 May 2023 16:32:19 +0000</pubDate>
+      </item><item>
+        <title>closed note 3684061 (near Central Hungary, 2132, Hungary) / * 2023 May 11 10:17 Kiss_Karoly Created: Dupla házszám? / via StreetComplete 52.1 / * 2023 May 12 16:31 Kiss_Karoly Resolved: Nem hiba. Rákérdeztem. Így helyes. Jegyzetet megoldottra vettem.</title>
+        <link>https://www.openstreetmap.org/note/3684061#c7950577</link>
+        <guid>https://www.openstreetmap.org/note/3684061#c7950577</guid>
+        <pubDate>Fri, 12 May 2023 16:31:15 +0000</pubDate>
+      </item><item>
         <title>closed note 3685871 (near Transdanubia, 8174, Hungary) / * 2023 May 12 16:17 balaskoa Resolved: </title>
         <link>https://www.openstreetmap.org/note/3685871#c7950516</link>
         <guid>https://www.openstreetmap.org/note/3685871#c7950516</guid>
@@ -282,31 +297,6 @@
         <link>https://www.openstreetmap.org/note/3684214#c7947037</link>
         <guid>https://www.openstreetmap.org/note/3684214#c7947037</guid>
         <pubDate>Thu, 11 May 2023 13:03:27 +0000</pubDate>
-      </item><item>
-        <title>new note 3684204 (near Central Hungary, 1125, Hungary) / * 2023 May 11 12:58 Kovács Zsófi Created: Unable to answer &amp;quot;Is there a shelter at this stop?&amp;quot; for https://osm.org/node/10564512579 via StreetComplete 52.1: / Itt nincsen busz megálló.</title>
-        <link>https://www.openstreetmap.org/note/3684204#c7947014</link>
-        <guid>https://www.openstreetmap.org/note/3684204#c7947014</guid>
-        <pubDate>Thu, 11 May 2023 12:58:32 +0000</pubDate>
-      </item><item>
-        <title>new note 3684196 (near Central Hungary, 1061, Hungary) / * 2023 May 11 12:45 Matyjace Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;Vegan Garden restaurant&amp;quot;</title>
-        <link>https://www.openstreetmap.org/note/3684196#c7946998</link>
-        <guid>https://www.openstreetmap.org/note/3684196#c7946998</guid>
-        <pubDate>Thu, 11 May 2023 12:45:08 +0000</pubDate>
-      </item><item>
-        <title>closed note 3683713 (near Central Hungary, 2141, Hungary) / * 2023 May 11 11:24 vasony-qa Resolved: javítva</title>
-        <link>https://www.openstreetmap.org/note/3683713#c7946824</link>
-        <guid>https://www.openstreetmap.org/note/3683713#c7946824</guid>
-        <pubDate>Thu, 11 May 2023 11:24:21 +0000</pubDate>
-      </item><item>
-        <title>closed note 3442661 (near Central Hungary, 1117, Hungary) / * 2022 November 15 05:49 Antissimo Created: Unable to answer &amp;quot;This shop has been vacant. What’s here now?&amp;quot; for https://osm.org/node/5075056627 via StreetComplete 49.0: / Járművezetői tartózkodó / * 2023 February 9 11:30 vasony Updated: nem tudom ezt hogy jeloljuk, de Bkv Zrt. office=? / * 2023 May 11 11:12 vasony Resolved: hozzáadva</title>
-        <link>https://www.openstreetmap.org/note/3442661#c7946791</link>
-        <guid>https://www.openstreetmap.org/note/3442661#c7946791</guid>
-        <pubDate>Thu, 11 May 2023 11:12:30 +0000</pubDate>
-      </item><item>
-        <title>closed note 3606982 (near Central Hungary, 1095, Hungary) / * 2023 March 21 08:21 Ferenc Schulcz Created: Unable to answer &amp;quot;This shop has been vacant. What’s here now?&amp;quot; for https://osm.org/node/3737050247 via StreetComplete 51.1: / Ez most a BKV végállomási irodája. / * 2023 May 11 11:08 vasony-qa Resolved: hozzáadva</title>
-        <link>https://www.openstreetmap.org/note/3606982#c7946778</link>
-        <guid>https://www.openstreetmap.org/note/3606982#c7946778</guid>
-        <pubDate>Thu, 11 May 2023 11:08:00 +0000</pubDate>
       </item>
   </channel>
 </rss>
