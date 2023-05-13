@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Hello! Welcome to OpenStreetMap! You don't have to add area=yes on buildings, that's the default. Removed here: https://www.openstreetmap.org/changeset/136050368 Happy mapping! -infeeeee</title>
+        <link>https://www.openstreetmap.org/changeset/135973416</link>
+        <guid>https://www.openstreetmap.org/changeset/135973416#comment_1</guid>
+        <pubDate>2023-05-13T12:07:47+02:00</pubDate>
+      </item><item>
+        <title>Hello! Welcome to OpenStreetMap! I tried to figure out what you wanted to do. If I misunderstood something, please reply, and correct me. First of all this is an apartment in a building. So the parameters of the building shouldn't be mixed with the parameters of the apartment. The apartment should be inside the building poligon, not on the line. The most important, it must have a &quot;main&quot; tag it is tourism=apartment in this case. I added some more info I found on the internet: https://www.openstreetmap.org/node/10888335326 I don't know what you wanted to show with building:flats=16. Is the apartement in the flat nr.16? -infeeeee</title>
+        <link>https://www.openstreetmap.org/changeset/135996940</link>
+        <guid>https://www.openstreetmap.org/changeset/135996940#comment_2</guid>
+        <pubDate>2023-05-13T11:55:26+02:00</pubDate>
+      </item><item>
         <title>Hello! Welcome to OpenStreetMap! You changed the addresses of these buildings. You shouldn't add data data like this, read more about editing OpenStreetMap in the wiki: https://wiki.openstreetmap.org I will revert this changeset. -infeeeee</title>
         <link>https://www.openstreetmap.org/changeset/136007607</link>
         <guid>https://www.openstreetmap.org/changeset/136007607#comment_1</guid>
@@ -32,11 +42,6 @@
         <link>https://www.openstreetmap.org/changeset/135866199</link>
         <guid>https://www.openstreetmap.org/changeset/135866199#comment_6</guid>
         <pubDate>2023-05-12T10:45:04+02:00</pubDate>
-      </item><item>
-        <title>This is the exact address and location -Ali Gohari</title>
-        <link>https://www.openstreetmap.org/changeset/135996940</link>
-        <guid>https://www.openstreetmap.org/changeset/135996940#comment_1</guid>
-        <pubDate>2023-05-12T08:38:34+02:00</pubDate>
       </item><item>
         <title>Szia! Ez igaz, de erre való az official_name= címke és kéne jelezni a kerületnek, hogy javítsák a táblákat (hacsak 2022 nyár óta ez nem történt meg) Az utcában többségében vannak az Bajcsy-Zsilinszky utca táblák (kb 26 db) míg útból csak 6 van. Tamás -vasony</title>
         <link>https://www.openstreetmap.org/changeset/135850590</link>
