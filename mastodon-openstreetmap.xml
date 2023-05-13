@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>The OpenStreetMap Foundation Board reflects on the first third of the 2023 https://blog.openstreetmap.org/2023/05/12/the-osmf-board-reflects-on-the-first-third-of-the-2023/ #OSM #OSMF #OpenStreetMap</title>
+        <link>https://en.osm.town/@openstreetmap/110360903176859602</link>
+        <guid>https://en.osm.town/@openstreetmap/110360903176859602</guid>
+        <pubDate>Sat, 13 May 2023 10:29:02 +0000</pubDate>
+      </item><item>
         <title>(pls excuse the beginner mistakes with the survey. those have been raised)</title>
         <link>https://en.osm.town/@openstreetmap/110332367080160801</link>
         <guid>https://en.osm.town/@openstreetmap/110332367080160801</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/110033305291814335</link>
         <guid>https://en.osm.town/@openstreetmap/110033305291814335</guid>
         <pubDate>Thu, 16 Mar 2023 13:56:35 +0000</pubDate>
-      </item><item>
-        <title>Ahead of tomorrow’s International Women’s Day, we put the spotlight on @geoladiesph. Happy #IWD2023 to them and all women in OSM! To join the celebration, check the post for a list of events around #InternationalWomensDay2023 #EmbraceEquity #OpenStreetMap https://blog.openstreetmap.org/2023/03/07/international-womens-day-meet-geoladies-ph/</title>
-        <link>https://en.osm.town/@openstreetmap/109986793280628650</link>
-        <guid>https://en.osm.town/@openstreetmap/109986793280628650</guid>
-        <pubDate>Wed, 08 Mar 2023 08:47:58 +0000</pubDate>
       </item>
   </channel>
 </rss>

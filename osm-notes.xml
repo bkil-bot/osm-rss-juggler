@@ -3,6 +3,71 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment 3477810 (near South Great Plain, 6762, Hungary) / * 2023 May 13 11:11 gabro00 Updated: Nem frissítették a fenti oldalt, itt egy újabb bejegyzés, képpel: https://sandorfalva.hu/a-bolcsodei-beiratkozas-idopontjait-kozoljuk/ / A háttérben látszik a víztorony, szóval igen, itt van.</title>
+        <link>https://www.openstreetmap.org/note/3477810#c7952996</link>
+        <guid>https://www.openstreetmap.org/note/3477810#c7952996</guid>
+        <pubDate>Sat, 13 May 2023 11:11:16 +0000</pubDate>
+      </item><item>
+        <title>new comment 3477810 (near South Great Plain, 6762, Hungary) / * 2022 December 14 20:40 vasony Created: Itt van a Juharfás ligeti bölcsőde? / * 2023 May 13 11:06 gabro00 Updated: Nem, Sándorfalva, Széchenyi utca 20. / https://sandorfalva.hu/onkormanyzati-intezmenyek-cegek/egyesitett-egeszsegugyi-es-szocialis-intezmeny/</title>
+        <link>https://www.openstreetmap.org/note/3477810#c7952988</link>
+        <guid>https://www.openstreetmap.org/note/3477810#c7952988</guid>
+        <pubDate>Sat, 13 May 2023 11:06:46 +0000</pubDate>
+      </item><item>
+        <title>closed note 3326235 (near South Great Plain, 6728, Hungary) / * 2022 August 22 13:42 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: Beretzk Péter kiállító-ház is not accessible for public-private property. / * 2023 May 13 11:03 gabro00 Resolved: The whole area is a private property, so yes. Fixed in https://www.openstreetmap.org/changeset/136048706</title>
+        <link>https://www.openstreetmap.org/note/3326235#c7952968</link>
+        <guid>https://www.openstreetmap.org/note/3326235#c7952968</guid>
+        <pubDate>Sat, 13 May 2023 11:03:07 +0000</pubDate>
+      </item><item>
+        <title>closed note 3611193 (near South Great Plain, 6728, Hungary) / * 2023 March 24 14:09 Spush Created: Napelempark 19,98 MW / Start_date 2023-03-08 / Operator: MVM Zöld Generáció Kft. / * 2023 March 24 21:17 gabro00 Updated: Ahhh, megelőztél! Most akartam jegyet nyitni rá :) / https://szeged.hu/cikk/munkaba-allt-az-elso-szegedi-naperomu-a-sandorfalvi-uton / * 2023 May 13 11:01 gabro00 Resolved: Szerintem jól áll, majd ha rendelkezésre áll frissebb képanyag, javítok a geometrián.</title>
+        <link>https://www.openstreetmap.org/note/3611193#c7952962</link>
+        <guid>https://www.openstreetmap.org/note/3611193#c7952962</guid>
+        <pubDate>Sat, 13 May 2023 11:01:23 +0000</pubDate>
+      </item><item>
+        <title>closed note 3632472 (near South Great Plain, 6120, Hungary) / * 2023 April 8 14:39 Created: a benzinkút nincs nyitva és soha nem is volt, bármikor arra járok csak az eltorlaszolt bejárat fogad tankolni nem lehet annak ellenére hogy folyamatosan hirdeti magát hogy mennyire olcsó. / * 2023 May 13 10:59 gabro00 Resolved: Nem látok felrajzolt benzinkutat, a területeket műholdképről finomítottam. https://www.openstreetmap.org/changeset/136048615</title>
+        <link>https://www.openstreetmap.org/note/3632472#c7952957</link>
+        <guid>https://www.openstreetmap.org/note/3632472#c7952957</guid>
+        <pubDate>Sat, 13 May 2023 10:59:42 +0000</pubDate>
+      </item><item>
+        <title>closed note 3674540 (near South Great Plain, 6782, Hungary) / * 2023 May 4 18:23 Najmeddinyousef Created: &amp;quot;This water doesn&amp;#39;t exist anymore &amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-03-29T15:44:03Z / POI has no name / POI types: amenity-drinking_water / #organicmaps / * 2023 May 13 10:52 gabro00 Resolved: Removed in https://www.openstreetmap.org/changeset/136048424</title>
+        <link>https://www.openstreetmap.org/note/3674540#c7952936</link>
+        <guid>https://www.openstreetmap.org/note/3674540#c7952936</guid>
+        <pubDate>Sat, 13 May 2023 10:52:19 +0000</pubDate>
+      </item><item>
+        <title>closed note 3674539 (near South Great Plain, 6784, Hungary) / * 2023 May 4 18:23 Najmeddinyousef Created: &amp;quot;the track connects to the cycle road.&amp;quot; / OSM snapshot date: 2023-03-29T15:44:03Z / POI has no name / POI types: psurface-unpaved_good highway-track / #organicmaps / * 2023 May 13 10:49 gabro00 Resolved: Thank you, fixed in https://www.openstreetmap.org/changeset/136048329</title>
+        <link>https://www.openstreetmap.org/note/3674539#c7952923</link>
+        <guid>https://www.openstreetmap.org/note/3674539#c7952923</guid>
+        <pubDate>Sat, 13 May 2023 10:49:34 +0000</pubDate>
+      </item><item>
+        <title>closed note 3108761 (near Central Hungary, 1121, Hungary) / * 2022 March 28 18:44 Created: Invalid use of key &amp;quot;opening&amp;quot;. Please use &amp;quot;start_date&amp;quot; instead. / https://osm.org/node/5313127795 / * 2023 May 13 10:27 infeeeee Resolved: Already fixed.</title>
+        <link>https://www.openstreetmap.org/note/3108761#c7952854</link>
+        <guid>https://www.openstreetmap.org/note/3108761#c7952854</guid>
+        <pubDate>Sat, 13 May 2023 10:27:18 +0000</pubDate>
+      </item><item>
+        <title>new comment 3684214 (near Central Hungary, 1125, Hungary) / * 2023 May 11 13:03 Kovács Zsófi Created: Unable to answer &amp;quot;Is there a shelter at this stop?&amp;quot; for https://osm.org/node/10564512580 via StreetComplete 52.1: / Itt van egy megálló, telebusznak, illetve villamospótló busznak. / * 2023 May 13 10:24 infeeeee Updated: Akkor ez itt jó így? A térképen nincs szükség változtatásra?</title>
+        <link>https://www.openstreetmap.org/note/3684214#c7952846</link>
+        <guid>https://www.openstreetmap.org/note/3684214#c7952846</guid>
+        <pubDate>Sat, 13 May 2023 10:24:42 +0000</pubDate>
+      </item><item>
+        <title>closed note 3684204 (near Central Hungary, 1125, Hungary) / * 2023 May 11 12:58 Kovács Zsófi Created: Unable to answer &amp;quot;Is there a shelter at this stop?&amp;quot; for https://osm.org/node/10564512579 via StreetComplete 52.1: / Itt nincsen busz megálló. / * 2023 May 13 10:24 infeeeee Resolved: Használaton kívülire állítottam, így ha majd megint megáll valami itt, akkor könnyű lesz visszaállítani (60B fogaspótló állt meg itt korábban) https://www.openstreetmap.org/changeset/136047453</title>
+        <link>https://www.openstreetmap.org/note/3684204#c7952845</link>
+        <guid>https://www.openstreetmap.org/note/3684204#c7952845</guid>
+        <pubDate>Sat, 13 May 2023 10:24:02 +0000</pubDate>
+      </item><item>
+        <title>closed note 3501570 (near Central Hungary, 1121, Hungary) / * 2023 January 2 14:08 Kovács Zsófi Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/313931672 via StreetComplete 50.1: / Ezen a címen 59 C van. / Attached photo(s): / https://westnordost.de/p/126733.jpg / * 2023 May 13 10:21 infeeeee Resolved: Javítva: https://www.openstreetmap.org/changeset/136047453</title>
+        <link>https://www.openstreetmap.org/note/3501570#c7952837</link>
+        <guid>https://www.openstreetmap.org/note/3501570#c7952837</guid>
+        <pubDate>Sat, 13 May 2023 10:21:49 +0000</pubDate>
+      </item><item>
+        <title>closed note 3507162 (near Central Hungary, 1125, Hungary) / * 2023 January 6 15:37 Kovács Zsófi Created: Unable to answer &amp;quot;What are the opening hours here?&amp;quot; for https://osm.org/node/7398287357 via StreetComplete 50.1: / Telefonszám van kiírva, valószínűleg telefonos egyeztetés alapján lehet menni. / * 2023 March 1 05:57 OSM KAMI Updated: csak telefonon / Attached photo(s): / https://westnordost.de/p/134847.jpg / * 2023 May 13 10:21 infeeeee Resolved: &amp;quot;on call&amp;quot; a leggyakrabban használt érték erre, javítva: https://www.openstreetmap.org/changeset/136047453</title>
+        <link>https://www.openstreetmap.org/note/3507162#c7952835</link>
+        <guid>https://www.openstreetmap.org/note/3507162#c7952835</guid>
+        <pubDate>Sat, 13 May 2023 10:21:25 +0000</pubDate>
+      </item><item>
+        <title>closed note 3654073 (near Central Hungary, 1125, Hungary) / * 2023 April 22 10:53 OSM KAMI Created: Unable to answer &amp;quot;How many levels above the basement does this building have?&amp;quot; for https://osm.org/way/313652754 via StreetComplete 52.0: / lebontva / Attached photo(s): / https://westnordost.de/p/143919.jpg / * 2023 May 13 10:20 infeeeee Resolved: Nekem ez inkább építkezésnek tűnik a fotó alapján, javítottam.: https://www.openstreetmap.org/changeset/136047453</title>
+        <link>https://www.openstreetmap.org/note/3654073#c7952830</link>
+        <guid>https://www.openstreetmap.org/note/3654073#c7952830</guid>
+        <pubDate>Sat, 13 May 2023 10:20:41 +0000</pubDate>
+      </item><item>
         <title>closed note 3652642 (near Central Hungary, 1121, Hungary) / * 2023 April 21 11:23 Kovács Zsófi Created: Unable to answer &amp;quot;How many steps are here?&amp;quot; for https://osm.org/way/25566504 via StreetComplete 52.0: / Az Alkony út ezen részén nem lépcső van, hanem földút. / Attached photo(s): / https://westnordost.de/p/143728.jpg / * 2023 May 13 10:19 infeeeee Resolved: Javítottam ösvényre. / https://www.openstreetmap.org/changeset/136047453</title>
         <link>https://www.openstreetmap.org/note/3652642#c7952828</link>
         <guid>https://www.openstreetmap.org/note/3652642#c7952828</guid>
@@ -272,71 +337,6 @@
         <link>https://www.openstreetmap.org/note/3684713#c7948188</link>
         <guid>https://www.openstreetmap.org/note/3684713#c7948188</guid>
         <pubDate>Thu, 11 May 2023 21:00:22 +0000</pubDate>
-      </item><item>
-        <title>new note 3684712 (near Central Hungary, 2241, Hungary) / * 2023 May 11 20:59 vasony Created: Szilvafasor utca vagy Szilvafasor szerepel az utcatáblán?</title>
-        <link>https://www.openstreetmap.org/note/3684712#c7948186</link>
-        <guid>https://www.openstreetmap.org/note/3684712#c7948186</guid>
-        <pubDate>Thu, 11 May 2023 20:59:46 +0000</pubDate>
-      </item><item>
-        <title>new note 3684709 (near Central Hungary, 2241, Hungary) / * 2023 May 11 20:59 vasony Created: Petőfi Sándor utca vagy Petőfi utca szerepel az utcatáblán?</title>
-        <link>https://www.openstreetmap.org/note/3684709#c7948182</link>
-        <guid>https://www.openstreetmap.org/note/3684709#c7948182</guid>
-        <pubDate>Thu, 11 May 2023 20:59:05 +0000</pubDate>
-      </item><item>
-        <title>new note 3684707 (near Central Hungary, 2243, Hungary) / * 2023 May 11 20:58 vasony Created: Kókai utca vagy Kókai út szerepel az utcatáblán?</title>
-        <link>https://www.openstreetmap.org/note/3684707#c7948180</link>
-        <guid>https://www.openstreetmap.org/note/3684707#c7948180</guid>
-        <pubDate>Thu, 11 May 2023 20:58:43 +0000</pubDate>
-      </item><item>
-        <title>new note 3684706 (near Central Hungary, 2251, Hungary) / * 2023 May 11 20:58 vasony Created: Határ út vagy Kikelet utca szerepel az utcatáblán?</title>
-        <link>https://www.openstreetmap.org/note/3684706#c7948179</link>
-        <guid>https://www.openstreetmap.org/note/3684706#c7948179</guid>
-        <pubDate>Thu, 11 May 2023 20:58:05 +0000</pubDate>
-      </item><item>
-        <title>new note 3684703 (near Central Hungary, 2241, Hungary) / * 2023 May 11 20:57 vasony Created: Határ utca vagy Határ út szerepel az utcatáblán?</title>
-        <link>https://www.openstreetmap.org/note/3684703#c7948176</link>
-        <guid>https://www.openstreetmap.org/note/3684703#c7948176</guid>
-        <pubDate>Thu, 11 May 2023 20:57:32 +0000</pubDate>
-      </item><item>
-        <title>new note 3684700 (near Central Hungary, 2241, Hungary) / * 2023 May 11 20:56 vasony Created: Fő út vagy Fő utca szerepel az utcatáblán?</title>
-        <link>https://www.openstreetmap.org/note/3684700#c7948173</link>
-        <guid>https://www.openstreetmap.org/note/3684700#c7948173</guid>
-        <pubDate>Thu, 11 May 2023 20:56:53 +0000</pubDate>
-      </item><item>
-        <title>new note 3684698 (near Central Hungary, 2241, Hungary) / * 2023 May 11 20:56 vasony Created: Dankó Pista utca vagy Dankó utca szerepel az utcatáblán?</title>
-        <link>https://www.openstreetmap.org/note/3684698#c7948169</link>
-        <guid>https://www.openstreetmap.org/note/3684698#c7948169</guid>
-        <pubDate>Thu, 11 May 2023 20:56:02 +0000</pubDate>
-      </item><item>
-        <title>new note 3684696 (near Central Hungary, 2241, Hungary) / * 2023 May 11 20:55 vasony Created: Forrói utca vagy Forrói út szerepel az utcatáblán?</title>
-        <link>https://www.openstreetmap.org/note/3684696#c7948167</link>
-        <guid>https://www.openstreetmap.org/note/3684696#c7948167</guid>
-        <pubDate>Thu, 11 May 2023 20:55:17 +0000</pubDate>
-      </item><item>
-        <title>new note 3684690 (near Central Hungary, 2241, Hungary) / * 2023 May 11 20:51 vasony Created: Forró köz vagy Forrói köz szerepel az utcatáblán?</title>
-        <link>https://www.openstreetmap.org/note/3684690#c7948159</link>
-        <guid>https://www.openstreetmap.org/note/3684690#c7948159</guid>
-        <pubDate>Thu, 11 May 2023 20:51:57 +0000</pubDate>
-      </item><item>
-        <title>new note 3684684 (near Central Hungary, 2241, Hungary) / * 2023 May 11 20:44 vasony Created: Sápi út vagy Sápi bekötőút szerepel az utcatáblán ?</title>
-        <link>https://www.openstreetmap.org/note/3684684#c7948146</link>
-        <guid>https://www.openstreetmap.org/note/3684684#c7948146</guid>
-        <pubDate>Thu, 11 May 2023 20:44:16 +0000</pubDate>
-      </item><item>
-        <title>closed note 3099997 (near Transdanubia, 9423, Hungary) / * 2022 March 23 19:46 efi99 Created: 9/A? / * 2023 May 11 20:14 efi99 Resolved: 9/A</title>
-        <link>https://www.openstreetmap.org/note/3099997#c7948087</link>
-        <guid>https://www.openstreetmap.org/note/3099997#c7948087</guid>
-        <pubDate>Thu, 11 May 2023 20:14:21 +0000</pubDate>
-      </item><item>
-        <title>new note 3684638 (near Transdanubia, 9408, Hungary) / * 2023 May 11 19:54 efi99 Created: cím?</title>
-        <link>https://www.openstreetmap.org/note/3684638#c7948042</link>
-        <guid>https://www.openstreetmap.org/note/3684638#c7948042</guid>
-        <pubDate>Thu, 11 May 2023 19:54:13 +0000</pubDate>
-      </item><item>
-        <title>new note 3684595 (near Táncsicsmajor, Sopron) / * 2023 May 11 19:18 efi99 Created: cím jó?</title>
-        <link>https://www.openstreetmap.org/note/3684595#c7947946</link>
-        <guid>https://www.openstreetmap.org/note/3684595#c7947946</guid>
-        <pubDate>Thu, 11 May 2023 19:18:12 +0000</pubDate>
       </item>
   </channel>
 </rss>
