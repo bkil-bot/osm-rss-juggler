@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment 3573009 (near South Great Plain, 6726, Hungary) / * 2023 February 24 15:13 Spush Created: Az üzlet környékén MPL csomagautomata üzemel 366 sz. automata néven. / * 2023 May 15 12:13 gabro00 Updated: 46.245389, 20.159006 a WGS koordinátája, amivel semmivel sem lettünk közelebb a megoldáshoz. Éljen a Posta pontosság. / (A koordináta egyébként innen származik: https://www.posta.hu/partnerextra)</title>
+        <link>https://www.openstreetmap.org/note/3573009#c7959856</link>
+        <guid>https://www.openstreetmap.org/note/3573009#c7959856</guid>
+        <pubDate>Mon, 15 May 2023 12:13:35 +0000</pubDate>
+      </item><item>
         <title>closed note 3190943 (near Central Hungary, 1092, Hungary) / * 2022 May 23 05:20 Hungarian_user Created: Unable to answer &amp;quot;Are these opening hours still correct?&amp;quot; for https://osm.org/node/2773490183 via StreetComplete 43.2: / Talán ez most Roni ABC / * 2023 May 15 10:47 urbalazs Resolved: A Roni ABC a Ferenc körút sarkán van. Rendben vannak a meglévő üzletek.</title>
         <link>https://www.openstreetmap.org/note/3190943#c7959560</link>
         <guid>https://www.openstreetmap.org/note/3190943#c7959560</guid>
@@ -242,16 +247,6 @@
         <link>https://www.openstreetmap.org/note/3108761#c7952854</link>
         <guid>https://www.openstreetmap.org/note/3108761#c7952854</guid>
         <pubDate>Sat, 13 May 2023 10:27:18 +0000</pubDate>
-      </item><item>
-        <title>new comment 3684214 (near Central Hungary, 1125, Hungary) / * 2023 May 11 13:03 Kovács Zsófi Created: Unable to answer &amp;quot;Is there a shelter at this stop?&amp;quot; for https://osm.org/node/10564512580 via StreetComplete 52.1: / Itt van egy megálló, telebusznak, illetve villamospótló busznak. / * 2023 May 13 10:24 infeeeee Updated: Akkor ez itt jó így? A térképen nincs szükség változtatásra?</title>
-        <link>https://www.openstreetmap.org/note/3684214#c7952846</link>
-        <guid>https://www.openstreetmap.org/note/3684214#c7952846</guid>
-        <pubDate>Sat, 13 May 2023 10:24:42 +0000</pubDate>
-      </item><item>
-        <title>closed note 3684204 (near Central Hungary, 1125, Hungary) / * 2023 May 11 12:58 Kovács Zsófi Created: Unable to answer &amp;quot;Is there a shelter at this stop?&amp;quot; for https://osm.org/node/10564512579 via StreetComplete 52.1: / Itt nincsen busz megálló. / * 2023 May 13 10:24 infeeeee Resolved: Használaton kívülire állítottam, így ha majd megint megáll valami itt, akkor könnyű lesz visszaállítani (60B fogaspótló állt meg itt korábban) https://www.openstreetmap.org/changeset/136047453</title>
-        <link>https://www.openstreetmap.org/note/3684204#c7952845</link>
-        <guid>https://www.openstreetmap.org/note/3684204#c7952845</guid>
-        <pubDate>Sat, 13 May 2023 10:24:02 +0000</pubDate>
       </item>
   </channel>
 </rss>
