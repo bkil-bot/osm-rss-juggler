@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment 3659120 (near South Great Plain, 6728, Hungary) / * 2023 April 25 07:50 fawkes2 Created: Itt az utca elejétől (nemtudom meddig) csináltak a dél-nyugati oldalán ennek az utcának egy vízelvezető árkot. Viszont nem emlékszem, hogy meddig lett ez megcsinálva, így nem vettem fel a térképre. Ha valaki erre jár és nem felejti el, felrajzolhatná/beírhatná meddig lett megcsinálva a vízelvezető árok. / * 2023 May 15 20:20 gabro00 Updated: Ilyenkor jó köztes megoldás lehet felrajzolni azt a szakaszt, amire biztosan emlékszel és a végpontra fixme/note címkével segítséget kérni.</title>
+        <link>https://www.openstreetmap.org/note/3659120#c7961189</link>
+        <guid>https://www.openstreetmap.org/note/3659120#c7961189</guid>
+        <pubDate>Mon, 15 May 2023 20:20:15 +0000</pubDate>
+      </item><item>
+        <title>new note 3691173 (near Central Hungary, 1181, Hungary) / * 2023 May 15 20:15 vasony Created: Sárközi György sétány itt van valahol?</title>
+        <link>https://www.openstreetmap.org/note/3691173#c7961180</link>
+        <guid>https://www.openstreetmap.org/note/3691173#c7961180</guid>
+        <pubDate>Mon, 15 May 2023 20:15:10 +0000</pubDate>
+      </item><item>
+        <title>closed note 3589887 (near South Great Plain, 6722, Hungary) / * 2023 March 8 12:25 Created: Conference Venue / * 2023 May 15 20:14 gabro00 Resolved: Biztosan, azonban ez kevés információ ahhoz, hogy fel tudja bárki venni a térképre :( / Sanszos a TIK lesz a cél, bár még ott sincs felvéve.</title>
+        <link>https://www.openstreetmap.org/note/3589887#c7961178</link>
+        <guid>https://www.openstreetmap.org/note/3589887#c7961178</guid>
+        <pubDate>Mon, 15 May 2023 20:14:48 +0000</pubDate>
+      </item><item>
         <title>closed note 3690914 (near North Great Plain, 4362, Hungary) / * 2023 May 15 16:47 bkil Resolved: </title>
         <link>https://www.openstreetmap.org/note/3690914#c7960679</link>
         <guid>https://www.openstreetmap.org/note/3690914#c7960679</guid>
@@ -212,11 +227,6 @@
         <link>https://www.openstreetmap.org/note/3684716#c7954092</link>
         <guid>https://www.openstreetmap.org/note/3684716#c7954092</guid>
         <pubDate>Sat, 13 May 2023 16:26:58 +0000</pubDate>
-      </item><item>
-        <title>new note 3687274 (near Aranyospuszta, Siklós) / * 2023 May 13 11:51 utvonalfelmeresek Created: fosóka? / via StreetComplete 53.0 / Attached photo(s): / https://westnordost.de/p/148425.jpg</title>
-        <link>https://www.openstreetmap.org/note/3687274#c7953099</link>
-        <guid>https://www.openstreetmap.org/note/3687274#c7953099</guid>
-        <pubDate>Sat, 13 May 2023 11:51:25 +0000</pubDate>
       </item>
   </channel>
 </rss>
