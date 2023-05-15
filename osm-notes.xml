@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3690914 (near North Great Plain, 4362, Hungary) / * 2023 May 15 16:01 Created: Zoli</title>
+        <link>https://www.openstreetmap.org/note/3690914#c7960576</link>
+        <guid>https://www.openstreetmap.org/note/3690914#c7960576</guid>
+        <pubDate>Mon, 15 May 2023 16:01:36 +0000</pubDate>
+      </item><item>
         <title>new note 3690623 (near Central Hungary, 1035, Hungary) / * 2023 May 15 13:04 vasony-qa Created: 3 épület azonos házszámmal, vannak épület betűjelek?</title>
         <link>https://www.openstreetmap.org/note/3690623#c7959986</link>
         <guid>https://www.openstreetmap.org/note/3690623#c7959986</guid>
@@ -212,31 +217,6 @@
         <link>https://www.openstreetmap.org/note/3672523#c7953072</link>
         <guid>https://www.openstreetmap.org/note/3672523#c7953072</guid>
         <pubDate>Sat, 13 May 2023 11:32:38 +0000</pubDate>
-      </item><item>
-        <title>closed note 3477810 (near South Great Plain, 6762, Hungary) / * 2023 May 13 11:24 gabro00 Resolved: Felvettem https://www.openstreetmap.org/changeset/136049298</title>
-        <link>https://www.openstreetmap.org/note/3477810#c7953055</link>
-        <guid>https://www.openstreetmap.org/note/3477810#c7953055</guid>
-        <pubDate>Sat, 13 May 2023 11:24:31 +0000</pubDate>
-      </item><item>
-        <title>new comment 3477810 (near South Great Plain, 6762, Hungary) / * 2023 May 13 11:11 gabro00 Updated: Nem frissítették a fenti oldalt, itt egy újabb bejegyzés, képpel: https://sandorfalva.hu/a-bolcsodei-beiratkozas-idopontjait-kozoljuk/ / A háttérben látszik a víztorony, szóval igen, itt van.</title>
-        <link>https://www.openstreetmap.org/note/3477810#c7952996</link>
-        <guid>https://www.openstreetmap.org/note/3477810#c7952996</guid>
-        <pubDate>Sat, 13 May 2023 11:11:16 +0000</pubDate>
-      </item><item>
-        <title>new comment 3477810 (near South Great Plain, 6762, Hungary) / * 2022 December 14 20:40 vasony Created: Itt van a Juharfás ligeti bölcsőde? / * 2023 May 13 11:06 gabro00 Updated: Nem, Sándorfalva, Széchenyi utca 20. / https://sandorfalva.hu/onkormanyzati-intezmenyek-cegek/egyesitett-egeszsegugyi-es-szocialis-intezmeny/</title>
-        <link>https://www.openstreetmap.org/note/3477810#c7952988</link>
-        <guid>https://www.openstreetmap.org/note/3477810#c7952988</guid>
-        <pubDate>Sat, 13 May 2023 11:06:46 +0000</pubDate>
-      </item><item>
-        <title>closed note 3326235 (near South Great Plain, 6728, Hungary) / * 2022 August 22 13:42 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: Beretzk Péter kiállító-ház is not accessible for public-private property. / * 2023 May 13 11:03 gabro00 Resolved: The whole area is a private property, so yes. Fixed in https://www.openstreetmap.org/changeset/136048706</title>
-        <link>https://www.openstreetmap.org/note/3326235#c7952968</link>
-        <guid>https://www.openstreetmap.org/note/3326235#c7952968</guid>
-        <pubDate>Sat, 13 May 2023 11:03:07 +0000</pubDate>
-      </item><item>
-        <title>closed note 3611193 (near South Great Plain, 6728, Hungary) / * 2023 March 24 14:09 Spush Created: Napelempark 19,98 MW / Start_date 2023-03-08 / Operator: MVM Zöld Generáció Kft. / * 2023 March 24 21:17 gabro00 Updated: Ahhh, megelőztél! Most akartam jegyet nyitni rá :) / https://szeged.hu/cikk/munkaba-allt-az-elso-szegedi-naperomu-a-sandorfalvi-uton / * 2023 May 13 11:01 gabro00 Resolved: Szerintem jól áll, majd ha rendelkezésre áll frissebb képanyag, javítok a geometrián.</title>
-        <link>https://www.openstreetmap.org/note/3611193#c7952962</link>
-        <guid>https://www.openstreetmap.org/note/3611193#c7952962</guid>
-        <pubDate>Sat, 13 May 2023 11:01:23 +0000</pubDate>
       </item>
   </channel>
 </rss>
