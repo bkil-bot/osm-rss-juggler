@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3181305 (near GLP Sziget Logistics Centre, Háros, Szigetszentmiklós) / * 2022 May 16 04:28 vasony Created: Itt van valahol a Bevásárló utca? / * 2023 May 15 21:53 urbalazs Resolved: 5 hónappal ezelőtt felkerült a térképre.</title>
+        <link>https://www.openstreetmap.org/note/3181305#c7961329</link>
+        <guid>https://www.openstreetmap.org/note/3181305#c7961329</guid>
+        <pubDate>Mon, 15 May 2023 21:53:53 +0000</pubDate>
+      </item><item>
+        <title>closed note 3501900 (near GLS logisztikai központ, Alsónémedi) / * 2023 January 2 18:17 Created: Harap6 / * 2023 May 15 21:40 urbalazs Resolved: Elnézést, ez a térképjegyzet hiányos. Adjon részletes leírást arról a problémáról, amit jelenteni szeretne.</title>
+        <link>https://www.openstreetmap.org/note/3501900#c7961297</link>
+        <guid>https://www.openstreetmap.org/note/3501900#c7961297</guid>
+        <pubDate>Mon, 15 May 2023 21:40:01 +0000</pubDate>
+      </item><item>
+        <title>closed note 3576046 (near Central Hungary, 2360, Hungary) / * 2023 February 26 18:21 Lak Béla Created: Gyál, Széchenyi utcán a Vecsési út és Ady endre utca között is közlekedik a 84E jelzésű autóbusz, a többivel ellentétes (DK-ÉNY) irányban. / * 2023 February 27 12:57 infeeeee Updated: Ugyanúgy szerepel a buszjárat útvonala, mint a bkk honlapján van. 4 változatban is meg van adva az útvonal: / https://www.openstreetmap.org/relation/172060 / https://www.openstreetmap.org/relation/4756000 / https://www.openstreetmap.org/relation/4755999 / https://www.openstreetmap.org/relation/5506330 / Melyik verzió a hibás szerinted? Bkk honlapján ugyanígy szerepel. / * 2023 May 15 21:38 urbalazs Resolved: 3 hónapja nem válaszolt a bejelentő, ezért lezárom. Ha a probléma továbbra is fennáll, akkor nyissátok újra.</title>
+        <link>https://www.openstreetmap.org/note/3576046#c7961295</link>
+        <guid>https://www.openstreetmap.org/note/3576046#c7961295</guid>
+        <pubDate>Mon, 15 May 2023 21:38:56 +0000</pubDate>
+      </item><item>
         <title>closed note 3535098 (near South Great Plain, 6238, Hungary) / * 2023 January 28 05:25 Created: onosm.org submitted note from a business: / Accepted payment methods: / takeaway=undefined / * 2023 May 15 21:07 gabro00 Resolved: Which business? Inadequate information, I&amp;#39;m closing the note.</title>
         <link>https://www.openstreetmap.org/note/3535098#c7961261</link>
         <guid>https://www.openstreetmap.org/note/3535098#c7961261</guid>
@@ -262,21 +277,6 @@
         <link>https://www.openstreetmap.org/note/3688189#c7954704</link>
         <guid>https://www.openstreetmap.org/note/3688189#c7954704</guid>
         <pubDate>Sat, 13 May 2023 20:05:07 +0000</pubDate>
-      </item><item>
-        <title>new note 3688034 (near Töttösitanya, Harkány) / * 2023 May 13 17:42 utvonalfelmeresek Created: kerékpár / via StreetComplete 53.0 / Attached photo(s): / https://westnordost.de/p/148564.jpg</title>
-        <link>https://www.openstreetmap.org/note/3688034#c7954320</link>
-        <guid>https://www.openstreetmap.org/note/3688034#c7954320</guid>
-        <pubDate>Sat, 13 May 2023 17:42:10 +0000</pubDate>
-      </item><item>
-        <title>new note 3687980 (near Central Hungary, 1134, Hungary) / * 2023 May 13 16:57 grin Created: it&amp;#39;s interpolated, please survey</title>
-        <link>https://www.openstreetmap.org/note/3687980#c7954184</link>
-        <guid>https://www.openstreetmap.org/note/3687980#c7954184</guid>
-        <pubDate>Sat, 13 May 2023 16:57:21 +0000</pubDate>
-      </item><item>
-        <title>new comment 3684716 (near Central Hungary, 2241, Hungary) / * 2023 May 11 21:01 vasony Created: Vörösmarty Mihály utca vagy Vörösmarty utca szerepel az utcatáblán? / * 2023 May 12 22:44 bkil Updated: Az iskola weboldalán Vörösmarty utca https://mora-sulysap.edu.hu/?page_id=37 / * 2023 May 13 16:26 vasony Updated: az nem jelent semmit</title>
-        <link>https://www.openstreetmap.org/note/3684716#c7954092</link>
-        <guid>https://www.openstreetmap.org/note/3684716#c7954092</guid>
-        <pubDate>Sat, 13 May 2023 16:26:58 +0000</pubDate>
       </item>
   </channel>
 </rss>
