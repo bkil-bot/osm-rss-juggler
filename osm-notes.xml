@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3691605 (near Central Hungary, 1134, Hungary) / * 2023 May 16 09:10 utvonalfelmeresek Created: vsb</title>
+        <link>https://www.openstreetmap.org/note/3691605#c7962099</link>
+        <guid>https://www.openstreetmap.org/note/3691605#c7962099</guid>
+        <pubDate>Tue, 16 May 2023 09:10:37 +0000</pubDate>
+      </item><item>
+        <title>closed note 3646361 (near Central Transdanubia, 7015, Hungary) / * 2023 April 17 08:49 vasony Created: Igar-Vámszőlőhegy új irányítószáma 2023.03.22-től 7016, polygont meg kell rajzolni / * 2023 May 16 08:33 vasony Resolved: időközben felkerült</title>
+        <link>https://www.openstreetmap.org/note/3646361#c7962015</link>
+        <guid>https://www.openstreetmap.org/note/3646361#c7962015</guid>
+        <pubDate>Tue, 16 May 2023 08:33:58 +0000</pubDate>
+      </item><item>
         <title>new note 3691526 (near Central Hungary, 2131, Hungary) / * 2023 May 16 08:08 vasony-qa Created: Kerek Erdő utca, vagy Kerekerdő utca szerepel az utcantáblákon? Az egész utcát meg kell nézni.</title>
         <link>https://www.openstreetmap.org/note/3691526#c7961941</link>
         <guid>https://www.openstreetmap.org/note/3691526#c7961941</guid>
@@ -282,16 +292,6 @@
         <link>https://www.openstreetmap.org/note/3684709#c7955305</link>
         <guid>https://www.openstreetmap.org/note/3684709#c7955305</guid>
         <pubDate>Sun, 14 May 2023 04:00:29 +0000</pubDate>
-      </item><item>
-        <title>new comment 3684763 (near Central Hungary, 2241, Hungary) / * 2023 May 11 22:07 vasony Created: Ez a Szent László utca? / * 2023 May 14 04:00 bkil Updated: Nem egyértelmű. A határ mintha fel lett volna bontva vagy egyesítve lett volna, mert vannak átszámozott, duplázott szakaszok és út-utcák felváltva benne az átlagosnál gyakoribb számban.</title>
-        <link>https://www.openstreetmap.org/note/3684763#c7955304</link>
-        <guid>https://www.openstreetmap.org/note/3684763#c7955304</guid>
-        <pubDate>Sun, 14 May 2023 04:00:29 +0000</pubDate>
-      </item><item>
-        <title>closed note 3684690 (near Central Hungary, 2241, Hungary) / * 2023 May 11 20:51 vasony Created: Forró köz vagy Forrói köz szerepel az utcatáblán? / * 2023 May 14 04:00 bkil Resolved: Nincs utcatáblája</title>
-        <link>https://www.openstreetmap.org/note/3684690#c7955303</link>
-        <guid>https://www.openstreetmap.org/note/3684690#c7955303</guid>
-        <pubDate>Sun, 14 May 2023 04:00:28 +0000</pubDate>
       </item>
   </channel>
 </rss>
