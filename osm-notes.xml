@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3691929 (near Central Hungary, 2000, Hungary) / * 2023 May 16 13:47 vasony-qa Created: Ez a szakasz Szent István vagy Rákóczi Ferenc?</title>
+        <link>https://www.openstreetmap.org/note/3691929#c7962811</link>
+        <guid>https://www.openstreetmap.org/note/3691929#c7962811</guid>
+        <pubDate>Tue, 16 May 2023 13:47:16 +0000</pubDate>
+      </item><item>
+        <title>new note 3691916 (near Central Transdanubia, 2483, Hungary) / * 2023 May 16 13:37 Tajtrdlik Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;There is located Crosswater&amp;quot;.</title>
+        <link>https://www.openstreetmap.org/note/3691916#c7962779</link>
+        <guid>https://www.openstreetmap.org/note/3691916#c7962779</guid>
+        <pubDate>Tue, 16 May 2023 13:37:52 +0000</pubDate>
+      </item><item>
         <title>new note 3691884 (near South Great Plain, 6088, Hungary) / * 2023 May 16 13:17 Kelenföldi Szent Gellért Plébánia Created: 123</title>
         <link>https://www.openstreetmap.org/note/3691884#c7962717</link>
         <guid>https://www.openstreetmap.org/note/3691884#c7962717</guid>
@@ -232,11 +242,6 @@
         <link>https://www.openstreetmap.org/note/3675881#c7955868</link>
         <guid>https://www.openstreetmap.org/note/3675881#c7955868</guid>
         <pubDate>Sun, 14 May 2023 09:06:08 +0000</pubDate>
-      </item><item>
-        <title>closed note 3675880 (near South Great Plain, 6781, Hungary) / * 2023 May 5 15:53 Najmeddinyousef Created: &amp;quot;it&amp;#39;s a street workout place&amp;quot; / OSM snapshot date: 2023-03-29T15:44:03Z / POI has no name / POI types: leisure-fitness_station / #organicmaps / * 2023 May 14 08:47 gabro00 Resolved: Yes, that&amp;#39;s what the fitness_station tag is for, see the wiki page: https://wiki.openstreetmap.org/wiki/Tag:leisure=fitness_station. / I don&amp;#39;t know what else is needed, so closing the ticket.</title>
-        <link>https://www.openstreetmap.org/note/3675880#c7955739</link>
-        <guid>https://www.openstreetmap.org/note/3675880#c7955739</guid>
-        <pubDate>Sun, 14 May 2023 08:47:44 +0000</pubDate>
       </item>
   </channel>
 </rss>
