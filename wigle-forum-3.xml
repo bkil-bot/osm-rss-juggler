@@ -8,11 +8,6 @@
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11703#p11703</guid>
         <pubDate>2023-05-17T03:27:35</pubDate>
       </item><item>
-        <title>Re: Kismet drone on wireless router? (e.g. Linksys WRT54GL): A wireless router is not necessarily superior to a wifi card, in my opinion. redactle -raymondbarry78@gmail.com</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11702#p11702</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11702#p11702</guid>
-        <pubDate>2023-05-17T03:25:37</pubDate>
-      </item><item>
         <title>Re: Best Android for WigleWifi: It's a moving target, too! Hardware gets better and more versatile, and OS/driver updates can make previously-good or previously-bad devices behave very differently One observation: there's a &quot;sweet spot&quot; beyond which the very size of your local database can slow the device; beware trying to data-hoard on an individual phone, vs. exporting your observations or backing up your individual device SQLite databases to a computer that's faster and more powerful than your phone. Obviously, we think you should upload to WiGLE.net (shameless plug), but if you prefer to keep your data to yourself, you can still do a lot more with it on more powerful computers. -arkasha</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11664#p11664</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11664#p11664</guid>
@@ -33,20 +28,10 @@
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11644#p11644</guid>
         <pubDate>2023-04-18T01:28:18</pubDate>
       </item><item>
-        <title>Re: Kismet drone on wireless router?: Update: I gave up on trying to get 20y old hardware running with 10y old software... penalty kick online However, I'm still looking for Kismet drone options with a price tag in the lower two digits, i.e. comparable to a Raspberry Pi plus wifi adapter. And while the Pi would definititely be an option, I'd naively assume that hardware specialized in radio communication might be more sensitive, e.g. a wireless router. Can anybody shed some light on whether this assumption is naive or actually true, possibly even with some hardware recommendation? Thanks.I think it was the right decision. Radio communication will connect much easier and more stable. -achooibm</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11642#p11642</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11642#p11642</guid>
-        <pubDate>2023-04-18T01:21:14</pubDate>
-      </item><item>
         <title>Re: Desktop software to view observations ?: You can also turn on Settings &amp;gt; Map Settings &amp;gt; Log routes for execution, and then use the Database &amp;gt; Saved Routes screen to export GPX to export files that can be viewed in a variety of GPX apps on the desktop. -pejacoby</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11610#p11610</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11610#p11610</guid>
         <pubDate>2023-03-16T01:43:31</pubDate>
-      </item><item>
-        <title>Re: Has anyone run WiGLE inside the windows 11 android subsystem?: I was afraid of that. Thanks for responding. slope gameIt's the first time I've tried to launch WiGLE within the Windows 11 Android emulation layer. -achooibm</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11592#p11592</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11592#p11592</guid>
-        <pubDate>2023-03-09T07:44:24</pubDate>
       </item><item>
         <title>Re: How to delete wigle data collected in certain time frame: Assuming you mean data stored on your local phone/device, you can erase all data on the &quot;Database&quot; item in the 3-horizontal-lines &quot;hamburger&quot; menu. On the &quot;Database&quot; screen scroll to the bottom and you can click &quot;CLEAR DB&quot; to erase all locally-stored data. If you want to be more surgical and really just remove a certain timeframe you would need to export the local sqlite database the app is using, either with android development tools or the &quot;BACKUP DATABASE&quot; button on the &quot;Database&quot; screen. Then use an sqlite database editor to remove the records you no longer want, and then put that file back on your device with android development tools. -bobzilla</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11590#p11590</link>
@@ -77,6 +62,21 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11580#p11580</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11580#p11580</guid>
         <pubDate>2023-03-01T23:33:19</pubDate>
+      </item><item>
+        <title>Re: Pwnagotchi plugin: I would imagine the same advice as above applies - check your uploads page and see if the pwnagotchi is sending files (correlate it with the logs on your pwnagotchi).As i said everything shows it being sent but nothing in my uploads. -wpa3</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11579#p11579</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11579#p11579</guid>
+        <pubDate>2023-03-01T17:45:18</pubDate>
+      </item><item>
+        <title>Re: Pwnagotchi plugin: I would imagine the same advice as above applies - check your uploads page and see if the pwnagotchi is sending files (correlate it with the logs on your pwnagotchi). -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11578#p11578</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11578#p11578</guid>
+        <pubDate>2023-03-01T17:33:53</pubDate>
+      </item><item>
+        <title>Re: Pwnagotchi plugin: looking at https://github.com/evilsocket/pwnagotch ... gle.py#L84, it looks like it expects the &quot;Encoded for use&quot; value from your https://wigle.net/account page This is probably uploading anonymously by default.Thats a shame i have since changed to the Encoded for use value is there anyway to check things are getting uploaded then? I guess it would be better to change the value in the script. -wpa3</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11577#p11577</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11577#p11577</guid>
+        <pubDate>2023-03-01T17:06:07</pubDate>
       </item>
   </channel>
 </rss>
