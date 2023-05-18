@@ -122,11 +122,6 @@
         <link>https://www.openstreetmap.org/changeset/134266884</link>
         <guid>https://www.openstreetmap.org/changeset/134266884#comment_2</guid>
         <pubDate>2023-05-11T11:19:14+02:00</pubDate>
-      </item><item>
-        <title>Yes, OSM inspector does the job here: https://tools.geofabrik.de/osmi/?view=geometry&amp;lon=20.33151&amp;lat=46.36456&amp;zoom=8&amp;baselayer=Geofabrik%20Standard&amp;overlays=self_intersection_ways%2Cself_intersection_points%2Csingle_node_in_way%2Cduplicate_node_in_way The views are updated once per day at about 00 h UTC. -gscholz</title>
-        <link>https://www.openstreetmap.org/changeset/135960776</link>
-        <guid>https://www.openstreetmap.org/changeset/135960776#comment_3</guid>
-        <pubDate>2023-05-11T08:33:37+02:00</pubDate>
       </item>
   </channel>
 </rss>
