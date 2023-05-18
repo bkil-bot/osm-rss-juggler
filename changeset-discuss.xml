@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Hello! Welcome to OpenStreetMap! Please use the English names of the days in the opening_hours tag. For your other edit: cafés in a building should be added as a separate node, not as tags on a building. In gnome-maps you can do that by using &quot;add to Openstreetmap&quot; button, not editing an existing building. I fixed these problems here: https://www.openstreetmap.org/changeset/136249423 Thanks for your additions, and happy mapping! -infeeeee</title>
+        <link>https://www.openstreetmap.org/changeset/136236976</link>
+        <guid>https://www.openstreetmap.org/changeset/136236976#comment_1</guid>
+        <pubDate>2023-05-18T11:14:58+02:00</pubDate>
+      </item><item>
         <title>Utcatábla a lakótelepen, plusz házszám táblák. Tudom, hogy az óvoda a &quot;Lajtaszer utca&quot; formát használja, azonban róluk az önkormányzat weblapján is &quot;Lajtaszer 27&quot; szerepel. -ITineris</title>
         <link>https://www.openstreetmap.org/changeset/135342420</link>
         <guid>https://www.openstreetmap.org/changeset/135342420#comment_2</guid>
@@ -112,11 +117,6 @@
         <link>https://www.openstreetmap.org/changeset/135866199</link>
         <guid>https://www.openstreetmap.org/changeset/135866199#comment_6</guid>
         <pubDate>2023-05-12T10:45:04+02:00</pubDate>
-      </item><item>
-        <title>Szia! Ez igaz, de erre való az official_name= címke és kéne jelezni a kerületnek, hogy javítsák a táblákat (hacsak 2022 nyár óta ez nem történt meg) Az utcában többségében vannak az Bajcsy-Zsilinszky utca táblák (kb 26 db) míg útból csak 6 van. Tamás -vasony</title>
-        <link>https://www.openstreetmap.org/changeset/135850590</link>
-        <guid>https://www.openstreetmap.org/changeset/135850590#comment_1</guid>
-        <pubDate>2023-05-11T12:24:50+02:00</pubDate>
       </item>
   </channel>
 </rss>
