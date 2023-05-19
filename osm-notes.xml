@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 2991290 (near Central Hungary, 1143, Hungary) / * 2022 January 1 09:15 CsaGo Created: A megadott adatok ehhez az üzlethez hibásak. Az üzlet működik, csak más helyre költözött, több mint 3 éve. A helyes cím: 1141 Budapest Ürmény utca 19/B. / * 2022 February 14 22:15 vasony Updated: van a helyén valami? / * 2023 January 14 08:57 ITineris Updated: Valami alakformáló szalon. De a cégnév és az elérhetőség (fele) is a nyitvatartás alatt kinyitott ajtón van, ami így nem olvasható. *facepalm* / * 2023 May 19 06:49 urbalazs Resolved: Az üzlet jelenleg teljesen üresen áll. Jó így a térkép, ahogy most van.</title>
+        <link>https://www.openstreetmap.org/note/2991290#c7970521</link>
+        <guid>https://www.openstreetmap.org/note/2991290#c7970521</guid>
+        <pubDate>Fri, 19 May 2023 06:49:38 +0000</pubDate>
+      </item><item>
+        <title>closed note 3573434 (near Central Hungary, 2330, Hungary) / * 2023 February 24 21:28 nbalazs85 Created: Végleg megszűnt / * 2023 February 24 21:28 nbalazs85 Resolved:  / * 2023 February 24 21:28 nbalazs85 Reactivated:  / * 2023 May 19 06:42 urbalazs Resolved: 2 hónapja meg lett oldva.</title>
+        <link>https://www.openstreetmap.org/note/3573434#c7970507</link>
+        <guid>https://www.openstreetmap.org/note/3573434#c7970507</guid>
+        <pubDate>Fri, 19 May 2023 06:42:16 +0000</pubDate>
+      </item><item>
         <title>new note 3695498 (near Transdanubia, 8174, Hungary) / * 2023 May 19 06:15 vasony Created: Csók István vagy Csók utca szerepel az utcatáblán?</title>
         <link>https://www.openstreetmap.org/note/3695498#c7970452</link>
         <guid>https://www.openstreetmap.org/note/3695498#c7970452</guid>
@@ -272,11 +282,6 @@
         <link>https://www.openstreetmap.org/note/3693432#c7966349</link>
         <guid>https://www.openstreetmap.org/note/3693432#c7966349</guid>
         <pubDate>Wed, 17 May 2023 16:20:19 +0000</pubDate>
-      </item><item>
-        <title>new note 3693387 (near Central Hungary, 1007, Hungary) / * 2023 May 17 15:55 boott Created: Unable to answer &amp;quot;What’s the surface here?&amp;quot; for https://osm.org/way/222572087 via StreetComplete 53.0: / See photo. / Attached photo(s): / https://westnordost.de/p/149204.jpg</title>
-        <link>https://www.openstreetmap.org/note/3693387#c7966286</link>
-        <guid>https://www.openstreetmap.org/note/3693387#c7966286</guid>
-        <pubDate>Wed, 17 May 2023 15:55:18 +0000</pubDate>
       </item>
   </channel>
 </rss>
