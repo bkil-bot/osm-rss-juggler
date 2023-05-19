@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Szia! Ellenem dolgozol. Kérlek ne írd be a feszültségeket a name=* attribútumba. Annak a voltage=*-ban a helye. -kogutowicz-mano</title>
+        <link>https://www.openstreetmap.org/changeset/135333915</link>
+        <guid>https://www.openstreetmap.org/changeset/135333915#comment_1</guid>
+        <pubDate>2023-05-19T07:55:16+02:00</pubDate>
+      </item><item>
         <title>Hello! Welcome to OpenStreetMap! Please use the English names of the days in the opening_hours tag. For your other edit: cafés in a building should be added as a separate node, not as tags on a building. In gnome-maps you can do that by using &quot;add to Openstreetmap&quot; button, not editing an existing building. I fixed these problems here: https://www.openstreetmap.org/changeset/136249423 Thanks for your additions, and happy mapping! -infeeeee</title>
         <link>https://www.openstreetmap.org/changeset/136236976</link>
         <guid>https://www.openstreetmap.org/changeset/136236976#comment_1</guid>
