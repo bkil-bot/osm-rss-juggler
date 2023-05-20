@@ -2,6 +2,11 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      
+      <item>
+        <title>Template:PlaceLang: +partial translations to Indonesian -TagaSanPedroAko</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Template:PlaceLang&amp;diff=2529080&amp;oldid=2499220</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Template:PlaceLang&amp;diff=2529080</guid>
+        <pubDate>Sat, 20 May 2023 04:38:33 GMT</pubDate>
+      </item>
   </channel>
 </rss>
