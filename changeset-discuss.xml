@@ -97,16 +97,6 @@
         <link>https://www.openstreetmap.org/changeset/134488896</link>
         <guid>https://www.openstreetmap.org/changeset/134488896#comment_4</guid>
         <pubDate>2023-05-13T14:34:13+02:00</pubDate>
-      </item><item>
-        <title>Hello! Welcome to OpenStreetMap! You don't have to add area=yes on buildings, that's the default. Removed here: https://www.openstreetmap.org/changeset/136050368 Happy mapping! -infeeeee</title>
-        <link>https://www.openstreetmap.org/changeset/135973416</link>
-        <guid>https://www.openstreetmap.org/changeset/135973416#comment_1</guid>
-        <pubDate>2023-05-13T12:07:47+02:00</pubDate>
-      </item><item>
-        <title>Hello! Welcome to OpenStreetMap! I tried to figure out what you wanted to do. If I misunderstood something, please reply, and correct me. First of all this is an apartment in a building. So the parameters of the building shouldn't be mixed with the parameters of the apartment. The apartment should be inside the building poligon, not on the line. The most important, it must have a &quot;main&quot; tag it is tourism=apartment in this case. I added some more info I found on the internet: https://www.openstreetmap.org/node/10888335326 I don't know what you wanted to show with building:flats=16. Is the apartement in the flat nr.16? -infeeeee</title>
-        <link>https://www.openstreetmap.org/changeset/135996940</link>
-        <guid>https://www.openstreetmap.org/changeset/135996940#comment_2</guid>
-        <pubDate>2023-05-13T11:55:26+02:00</pubDate>
       </item>
   </channel>
 </rss>
