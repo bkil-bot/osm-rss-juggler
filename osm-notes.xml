@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3698790 (near Káptalanfüred, Balatonalmádi) / * 2023 May 21 09:20 vasony Created: Hivatalosan: Hóvirág utca 68. van-e bármi kiírás itt?</title>
+        <link>https://www.openstreetmap.org/note/3698790#c7977108</link>
+        <guid>https://www.openstreetmap.org/note/3698790#c7977108</guid>
+        <pubDate>Sun, 21 May 2023 09:20:14 +0000</pubDate>
+      </item><item>
+        <title>closed note 3697052 (near Káptalanfüred, Balatonalmádi) / * 2023 May 20 07:50 vasony Created: Pontosan hol van a ház? / * 2023 May 21 08:29 vasony Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3697052#c7976948</link>
+        <guid>https://www.openstreetmap.org/note/3697052#c7976948</guid>
+        <pubDate>Sun, 21 May 2023 08:29:29 +0000</pubDate>
+      </item><item>
         <title>new note 3698691 (near Káptalanfüred, Balatonalmádi) / * 2023 May 21 08:00 vasony Created: Hol a ház?</title>
         <link>https://www.openstreetmap.org/note/3698691#c7976881</link>
         <guid>https://www.openstreetmap.org/note/3698691#c7976881</guid>
@@ -392,21 +402,6 @@
         <link>https://www.openstreetmap.org/note/3583745#c7970195</link>
         <guid>https://www.openstreetmap.org/note/3583745#c7970195</guid>
         <pubDate>Fri, 19 May 2023 00:58:46 +0000</pubDate>
-      </item><item>
-        <title>closed note 3583740 (near Central Hungary, 1181, Hungary) / * 2023 March 4 09:38 BeanieBarrow Created: Unable to answer &amp;quot;Are these opening hours still correct?&amp;quot; for https://osm.org/way/273442393 via StreetComplete 51.0: / A pénztár K-P: 12-19, szombaton változó nyitvatartással van nyitva. Magát a köz. házat nem tudni. / * 2023 May 19 00:57 urbalazs Resolved: A honlapjukon lévő programfüzet alapján minden nap 08:00-20:00. Módosítottam a nyitva tartást.</title>
-        <link>https://www.openstreetmap.org/note/3583740#c7970190</link>
-        <guid>https://www.openstreetmap.org/note/3583740#c7970190</guid>
-        <pubDate>Fri, 19 May 2023 00:57:11 +0000</pubDate>
-      </item><item>
-        <title>closed note 2611430 (near Central Hungary, 1181, Hungary) / * 2021 April 6 15:51 Created: Street Workout park / * 2023 May 19 00:56 urbalazs Resolved: Hozzáadtam.</title>
-        <link>https://www.openstreetmap.org/note/2611430#c7970189</link>
-        <guid>https://www.openstreetmap.org/note/2611430#c7970189</guid>
-        <pubDate>Fri, 19 May 2023 00:56:09 +0000</pubDate>
-      </item><item>
-        <title>closed note 3348761 (near Transdanubia, 8152, Hungary) / * 2022 September 6 19:39 vasony Created: Ez a szakasz Fő út vagy Deák Ferenc utca? / * 2023 May 18 21:48 vasony Resolved: Utcatábla nincs, de a házakon Deák Ferenc utca szerepel.</title>
-        <link>https://www.openstreetmap.org/note/3348761#c7969958</link>
-        <guid>https://www.openstreetmap.org/note/3348761#c7969958</guid>
-        <pubDate>Thu, 18 May 2023 21:48:56 +0000</pubDate>
       </item>
   </channel>
 </rss>
