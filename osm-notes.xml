@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment 3607494 (near Central Hungary, 1095, Hungary) / * 2023 March 21 16:22 Ferenc Schulcz Created: Unable to answer &amp;quot;What’s the surface here?&amp;quot; for https://osm.org/way/88276976 via StreetComplete 51.1: / Vas lemez, ami a vasúti átjáróban szokott lenni. / * 2023 May 17 22:55 urbalazs Resolved: Beállítottam. / * 2023 May 19 18:13 balint36 Reactivated:  / * 2023 May 19 20:00 balint36 Updated: Vas lemez? Biztos, hogy vaslemez van ott, és nem Strail elem? / * 2023 May 22 05:57 Ferenc Schulcz Updated: Nem biztos, én eddig abban a hitben éltem, hogy az is vasból van; rágugliztam, és most nem tudom, hogy melyik. Valamikor majd megnézem, azt nem tudod, hogy a strail lemezhez milyen value tartozik?</title>
+        <link>https://www.openstreetmap.org/note/3607494#c7980048</link>
+        <guid>https://www.openstreetmap.org/note/3607494#c7980048</guid>
+        <pubDate>Mon, 22 May 2023 05:57:47 +0000</pubDate>
+      </item><item>
         <title>new note 3699872 (near South Great Plain, 5536, Hungary) / * 2023 May 21 20:08 ITineris Created: Ez itt milyen közintézmény? Az ovális tábla (még?) kint van rajta.</title>
         <link>https://www.openstreetmap.org/note/3699872#c7979209</link>
         <guid>https://www.openstreetmap.org/note/3699872#c7979209</guid>
@@ -337,11 +342,6 @@
         <link>https://www.openstreetmap.org/note/3607494#c7972353</link>
         <guid>https://www.openstreetmap.org/note/3607494#c7972353</guid>
         <pubDate>Fri, 19 May 2023 18:13:09 +0000</pubDate>
-      </item><item>
-        <title>closed note 3696158 (near South Great Plain, 6725, Hungary) / * 2023 May 19 14:15 bkil Resolved: Köszönjük, felvettem https://osm.org/changeset/136302745#map=19/46.24771/20.11800</title>
-        <link>https://www.openstreetmap.org/note/3696158#c7971819</link>
-        <guid>https://www.openstreetmap.org/note/3696158#c7971819</guid>
-        <pubDate>Fri, 19 May 2023 14:15:29 +0000</pubDate>
       </item>
   </channel>
 </rss>
