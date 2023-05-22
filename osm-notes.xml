@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3700565 (near Transdanubia, 9024, Hungary) / * 2023 May 22 09:29 Kohn Róbert Created: Zrinyi utca 4-a</title>
+        <link>https://www.openstreetmap.org/note/3700565#c7980867</link>
+        <guid>https://www.openstreetmap.org/note/3700565#c7980867</guid>
+        <pubDate>Mon, 22 May 2023 09:29:55 +0000</pubDate>
+      </item><item>
+        <title>new comment 3607494 (near Central Hungary, 1095, Hungary) / * 2023 May 22 09:24 balint36 Updated: Fém felületek alap esetben veszélyessé, csúszóssá válhatnak esőben. A strail elemek gumis elemek, hozzájuk a surface=rubber tartozik.</title>
+        <link>https://www.openstreetmap.org/note/3607494#c7980851</link>
+        <guid>https://www.openstreetmap.org/note/3607494#c7980851</guid>
+        <pubDate>Mon, 22 May 2023 09:24:43 +0000</pubDate>
+      </item><item>
+        <title>new note 3700552 (near Central Hungary, 2030, Hungary) / * 2023 May 22 09:21 urbalazs Created: Mi a Napvirág utca és a Porcsinrózsa utca közötti szakasz pontos neve az érdi és a diósdi oldalon?. Úgy tűnik, mintha az érdi oldal a Muskátli utca folytatása lenne, míg a diósdi oldal a Nádas utcáig Gyár utca, utána viszont kérdéses. Vannak utcanévtáblák? A házak milyen utcára vannak számozva?</title>
+        <link>https://www.openstreetmap.org/note/3700552#c7980836</link>
+        <guid>https://www.openstreetmap.org/note/3700552#c7980836</guid>
+        <pubDate>Mon, 22 May 2023 09:21:18 +0000</pubDate>
+      </item><item>
         <title>new comment 3607494 (near Central Hungary, 1095, Hungary) / * 2023 March 21 16:22 Ferenc Schulcz Created: Unable to answer &amp;quot;What’s the surface here?&amp;quot; for https://osm.org/way/88276976 via StreetComplete 51.1: / Vas lemez, ami a vasúti átjáróban szokott lenni. / * 2023 May 17 22:55 urbalazs Resolved: Beállítottam. / * 2023 May 19 18:13 balint36 Reactivated:  / * 2023 May 19 20:00 balint36 Updated: Vas lemez? Biztos, hogy vaslemez van ott, és nem Strail elem? / * 2023 May 22 05:57 Ferenc Schulcz Updated: Nem biztos, én eddig abban a hitben éltem, hogy az is vasból van; rágugliztam, és most nem tudom, hogy melyik. Valamikor majd megnézem, azt nem tudod, hogy a strail lemezhez milyen value tartozik?</title>
         <link>https://www.openstreetmap.org/note/3607494#c7980048</link>
         <guid>https://www.openstreetmap.org/note/3607494#c7980048</guid>
@@ -327,16 +342,6 @@
         <link>https://www.openstreetmap.org/note/2787034#c7973044</link>
         <guid>https://www.openstreetmap.org/note/2787034#c7973044</guid>
         <pubDate>Fri, 19 May 2023 23:45:38 +0000</pubDate>
-      </item><item>
-        <title>new note 3696654 (near Central Hungary, 1146, Hungary) / * 2023 May 19 20:07 Created: Ez az épület lett a Thököly út 127/B épület. / Ahol a 127 van jelölve mellett, az pedig a 127/A / Köszi</title>
-        <link>https://www.openstreetmap.org/note/3696654#c7972636</link>
-        <guid>https://www.openstreetmap.org/note/3696654#c7972636</guid>
-        <pubDate>Fri, 19 May 2023 20:07:26 +0000</pubDate>
-      </item><item>
-        <title>new comment 3607494 (near Central Hungary, 1095, Hungary) / * 2023 May 19 20:00 balint36 Updated: Vas lemez? Biztos, hogy vaslemez van ott, és nem Strail elem?</title>
-        <link>https://www.openstreetmap.org/note/3607494#c7972617</link>
-        <guid>https://www.openstreetmap.org/note/3607494#c7972617</guid>
-        <pubDate>Fri, 19 May 2023 20:00:51 +0000</pubDate>
       </item>
   </channel>
 </rss>
