@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Hi, https://www.openstreetmap.org/way/1174659193 is quite small for a racecourse; maybe leisure=pitch + sport=equestrian would be better, compare https://wiki.openstreetmap.org/wiki/How_to_map_a#Racecourse_(horse_racing) -Hufkratzer</title>
+        <title>Youre, right, it is actually a paddock. I changed it to &quot;Horse riding/Rodeo arena&quot; (https://wiki.openstreetmap.org/wiki/Tag:sport=equestrian). -Koltai András</title>
         <link>https://www.openstreetmap.org/changeset/136354743</link>
-        <guid>https://www.openstreetmap.org/changeset/136354743#comment_1</guid>
-        <pubDate>2023-05-21T21:26:55+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/136354743#comment_2</guid>
+        <pubDate>2023-05-22T07:56:36+02:00</pubDate>
       </item><item>
         <title>Szia! Üdv az OpenStreetMapen! Azért írok mert bepipáltad, hogy valaki nézze át a szerkesztésed. A járdákat mindig hozzá kell kötni valahol az utakhoz, gyalogátkelőknél vagy kereszteződéseknél. Enélkül az útvonaltervezők nem tudják használni őket. Illetve nem is mindig kell őket vonalként megrajzolni, ha közvetlenül az út mellett futnak. Több infó a wikiben: https://wiki.openstreetmap.org/wiki/Sidewalks Ha légifotók alapján rajzolsz épületeket, akkor mindig figyelj, hogy az ne legyen elcsúszva! Most pont szerencséd volt, mert a Bing itt kb jó helyen van. Mindig a FŐMI-hez igazítsd a Binget, és úgy rajzolj az alapján. Több infó a wikiben erről: https://wiki.openstreetmap.org/wiki/Bing_Maps#Precision https://wiki.openstreetmap.org/wiki/Hu:Beginners_Guide_1.3.5#M%C5%B1holdk%C3%A9p%20v%C3%A1laszt%C3%A1sa Ha kérdéseid lennének, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! -infeeeee</title>
         <link>https://www.openstreetmap.org/changeset/136372709</link>
