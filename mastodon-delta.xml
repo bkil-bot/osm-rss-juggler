@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Earlier this year we got into a surprising and somewhat annoying struggle with Web browser sandboxing failures related to our &amp;quot;web apps shared in a chat&amp;quot; feature. After much background work we released the hardened Delta Chat 1.36 series, also addressing a dedicated fourth independent security audit, and can finally share more of what was going on behind the scenes https://delta.chat/en/2023-05-22-webxdc-security #chromium #deltachat #security #webxdc</title>
+        <link>https://chaos.social/@delta/110412649302291193</link>
+        <guid>https://chaos.social/@delta/110412649302291193</guid>
+        <pubDate>Mon, 22 May 2023 13:48:45 +0000</pubDate>
+      </item><item>
         <title>End-to-End encryption is one of the good things we have with the current internet and app ecosystems. But it is under constant threat -- be it from EU&amp;#39;s #chatcontrol, UK&amp;#39;s &amp;quot;online safety bill&amp;quot; or the current renewed &amp;quot;EARN IT&amp;quot; effort in the US: https://www.eff.org/deeplinks/2023/04/earn-it-bill-back-again-seeking-scan-our-messages-and-photos .... anyone of these efforts succeeding would be a dangerous dam break. Let&amp;#39;s collectively make sure all these governmental anti-privacy efforts fail!</title>
         <link>https://chaos.social/@delta/110242489687290418</link>
         <guid>https://chaos.social/@delta/110242489687290418</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/108713762311078206</link>
         <guid>https://chaos.social/@delta/108713762311078206</guid>
         <pubDate>Tue, 26 Jul 2022 12:59:27 +0000</pubDate>
-      </item><item>
-        <title>Some days ago we visited the fine folks behind https://mailcow.email and https://servercow.de -- while mailcow installations already work well with Delta Chat we want to increase speed of message delivery, spam processing and aim for easier onboarding with mailcow installs.</title>
-        <link>https://chaos.social/@delta/108645562786740784</link>
-        <guid>https://chaos.social/@delta/108645562786740784</guid>
-        <pubDate>Thu, 14 Jul 2022 11:55:25 +0000</pubDate>
       </item>
   </channel>
 </rss>
