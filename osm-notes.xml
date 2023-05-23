@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3702571 (near Transdanubia, 8174, Hungary) / * 2023 May 23 19:04 vasony Resolved: hozzáadva</title>
+        <link>https://www.openstreetmap.org/note/3702571#c7985931</link>
+        <guid>https://www.openstreetmap.org/note/3702571#c7985931</guid>
+        <pubDate>Tue, 23 May 2023 19:04:02 +0000</pubDate>
+      </item><item>
+        <title>closed note 3695498 (near Transdanubia, 8174, Hungary) / * 2023 May 23 19:02 vasony Resolved: Nincs további teendő.</title>
+        <link>https://www.openstreetmap.org/note/3695498#c7985925</link>
+        <guid>https://www.openstreetmap.org/note/3695498#c7985925</guid>
+        <pubDate>Tue, 23 May 2023 19:02:00 +0000</pubDate>
+      </item><item>
+        <title>closed note 3122678 (near Central Hungary, 2049, Hungary) / * 2023 May 23 18:51 vasony Resolved: egyébként nem volt megadva a 7/24, most megadtam az eladó által közölt nyitvatartást.</title>
+        <link>https://www.openstreetmap.org/note/3122678#c7985895</link>
+        <guid>https://www.openstreetmap.org/note/3122678#c7985895</guid>
+        <pubDate>Tue, 23 May 2023 18:51:48 +0000</pubDate>
+      </item><item>
         <title>new comment 3122678 (near Central Hungary, 2049, Hungary) / * 2022 April 7 01:25 Laci Created: Nyitvatartás most már nem 24/7 / * 2023 May 23 17:13 vasony Updated: 5-21</title>
         <link>https://www.openstreetmap.org/note/3122678#c7985659</link>
         <guid>https://www.openstreetmap.org/note/3122678#c7985659</guid>
@@ -232,41 +247,6 @@
         <link>https://www.openstreetmap.org/note/3699825#c7979077</link>
         <guid>https://www.openstreetmap.org/note/3699825#c7979077</guid>
         <pubDate>Sun, 21 May 2023 19:24:37 +0000</pubDate>
-      </item><item>
-        <title>new note 3699825 (near Central Transdanubia, 8227, Hungary) / * 2023 May 21 19:23 vasony Created: Pityorka dűlő vagy Szél utca van táblázva?</title>
-        <link>https://www.openstreetmap.org/note/3699825#c7979074</link>
-        <guid>https://www.openstreetmap.org/note/3699825#c7979074</guid>
-        <pubDate>Sun, 21 May 2023 19:23:44 +0000</pubDate>
-      </item><item>
-        <title>new note 3699822 (near Central Transdanubia, 8227, Hungary) / * 2023 May 21 19:22 vasony Created: Ez a Sáfrány utca?</title>
-        <link>https://www.openstreetmap.org/note/3699822#c7979071</link>
-        <guid>https://www.openstreetmap.org/note/3699822#c7979071</guid>
-        <pubDate>Sun, 21 May 2023 19:22:06 +0000</pubDate>
-      </item><item>
-        <title>new note 3699813 (near Central Transdanubia, 8227, Hungary) / * 2023 May 21 19:16 vasony Created: Kishegy dűlő itt van valahol, van itt utca?</title>
-        <link>https://www.openstreetmap.org/note/3699813#c7979050</link>
-        <guid>https://www.openstreetmap.org/note/3699813#c7979050</guid>
-        <pubDate>Sun, 21 May 2023 19:16:51 +0000</pubDate>
-      </item><item>
-        <title>new note 3699810 (near Central Transdanubia, 8227, Hungary) / * 2023 May 21 19:15 vasony Created: Ez a Halas utca?</title>
-        <link>https://www.openstreetmap.org/note/3699810#c7979046</link>
-        <guid>https://www.openstreetmap.org/note/3699810#c7979046</guid>
-        <pubDate>Sun, 21 May 2023 19:15:55 +0000</pubDate>
-      </item><item>
-        <title>new note 3699808 (near Central Transdanubia, 8227, Hungary) / * 2023 May 21 19:15 vasony Created: Fagyöngy utca itt van valahol?</title>
-        <link>https://www.openstreetmap.org/note/3699808#c7979044</link>
-        <guid>https://www.openstreetmap.org/note/3699808#c7979044</guid>
-        <pubDate>Sun, 21 May 2023 19:15:18 +0000</pubDate>
-      </item><item>
-        <title>new note 3699807 (near Central Transdanubia, 8227, Hungary) / * 2023 May 21 19:13 vasony Created: Ez nem Cinke köz és odébb a Harkály köz?</title>
-        <link>https://www.openstreetmap.org/note/3699807#c7979042</link>
-        <guid>https://www.openstreetmap.org/note/3699807#c7979042</guid>
-        <pubDate>Sun, 21 May 2023 19:13:33 +0000</pubDate>
-      </item><item>
-        <title>new note 3699803 (near Central Transdanubia, 8227, Hungary) / * 2023 May 21 19:12 vasony Created: Ez a Batthyány tér, van utcatábla?</title>
-        <link>https://www.openstreetmap.org/note/3699803#c7979038</link>
-        <guid>https://www.openstreetmap.org/note/3699803#c7979038</guid>
-        <pubDate>Sun, 21 May 2023 19:12:04 +0000</pubDate>
       </item>
   </channel>
 </rss>
