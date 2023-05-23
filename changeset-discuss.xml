@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Szia! Üdv az OpenStreetMapen! Mik ezek a nevek, rövidítések? alt_name=fhdkjl, short_name=tmalttkf Nem úgy hangzik mintha magyarul lennének, rákeresve nincs találat, direkt adtad hozzá, mi volt a célod? -infeeeee</title>
+        <link>https://www.openstreetmap.org/changeset/136447202</link>
+        <guid>https://www.openstreetmap.org/changeset/136447202#comment_1</guid>
+        <pubDate>2023-05-23T21:07:11+02:00</pubDate>
+      </item><item>
         <title>Szia! Bezárt éttermeknél, üzleteknél a disused: prefix használata ajánlott a pont törlése helyett. https://wiki.openstreetmap.org/wiki/Key:disused:* Tehát elég lett volna, ha csak az amenity=pub címkét átjavítod disused:amenity=pub-ra, így már nem jelenítik meg a megjelenítők. Ez azért is hasznos, mert ha később más üzlet vagy étterem nyílik ugyanott, akkor nem kell új pontot létrehozni, és visszakövethető lesz az üzlethelyiség története, mi nyílt minek a helyén. Ha kérdéseid lennének, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! -infeeeee</title>
         <link>https://www.openstreetmap.org/changeset/136402135</link>
         <guid>https://www.openstreetmap.org/changeset/136402135#comment_1</guid>
