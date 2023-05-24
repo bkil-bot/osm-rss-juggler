@@ -52,21 +52,6 @@
         <link>https://www.openstreetmap.org/changeset/135342420</link>
         <guid>https://www.openstreetmap.org/changeset/135342420#comment_2</guid>
         <pubDate>2023-05-18T06:10:21+02:00</pubDate>
-      </item><item>
-        <title>Bővítettem a jelölési példákat https://wiki.openstreetmap.org/wiki/Hungary/Jel%C3%B6l%C3%A9si_p%C3%A9ld%C3%A1k#Utcanevek illetve az addr:street szekciót is -vasony</title>
-        <link>https://www.openstreetmap.org/changeset/135524161</link>
-        <guid>https://www.openstreetmap.org/changeset/135524161#comment_3</guid>
-        <pubDate>2023-05-17T21:15:06+02:00</pubDate>
-      </item><item>
-        <title>Pálosvörösmart Rákóczi út számoknál a házakat berajzoltad, a címpontot törölted, de a címet nem írtad rá a házra, így elveszett az információ. Ha már a házon rajta van a cím, akkor persze törölhető a címpont. -vasony</title>
-        <link>https://www.openstreetmap.org/changeset/135624619</link>
-        <guid>https://www.openstreetmap.org/changeset/135624619#comment_3</guid>
-        <pubDate>2023-05-17T20:23:20+02:00</pubDate>
-      </item><item>
-        <title>Szia! Hagy egy épület geometriája nem jó, akkor érdemes a meglévőt kiiazítani és nem letörölni és újat rajzolni helyette. A Makkhetesről így az összes adatot eltüntetted és egy új üres csámpás épületet sikerült rajzolni helyette. Az épület visszaállítottam módosított geometriával. Ha az étterem esetleg már nem működik akkor a disused: prefixet kell az amenity elé tenni törlés helyett. Ugyanez a helyzet a többi poi-val is amit töröltél, törlés helyett a disused: prefix ajánlatos és ha új valami nyílik a helyén, akkor ugyanazon a ponton fel lehet venni, így az üzlethelység története megmarad. A 2 törölt poi-dat visszaállítottam disused-ra téve. Tamás -vasony</title>
-        <link>https://www.openstreetmap.org/changeset/135666998</link>
-        <guid>https://www.openstreetmap.org/changeset/135666998#comment_1</guid>
-        <pubDate>2023-05-17T20:16:22+02:00</pubDate>
       </item>
   </channel>
 </rss>
