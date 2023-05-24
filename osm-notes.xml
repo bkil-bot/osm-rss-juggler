@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 2660403 (near Central Hungary, 1182, Hungary) / * 2021 May 8 11:42 mqrelly Created: Unable to answer &amp;quot;What surface does this path have here?&amp;quot; for https://osm.org/way/488911237 via StreetComplete 31.3: / I don&amp;#39;t see any path here / * 2023 May 24 22:55 urbalazs Resolved: I can confirm that there is no path there. Deleted.</title>
+        <link>https://www.openstreetmap.org/note/2660403#c7989308</link>
+        <guid>https://www.openstreetmap.org/note/2660403#c7989308</guid>
+        <pubDate>Wed, 24 May 2023 22:55:20 +0000</pubDate>
+      </item><item>
         <title>new comment 3700552 (near Central Hungary, 2030, Hungary) / * 2023 May 22 09:21 urbalazs Created: Mi a Napvirág utca és a Porcsinrózsa utca közötti szakasz pontos neve az érdi és a diósdi oldalon?. Úgy tűnik, mintha az érdi oldal a Muskátli utca folytatása lenne, míg a diósdi oldal a Nádas utcáig Gyár utca, utána viszont kérdéses. Vannak utcanévtáblák? A házak milyen utcára vannak számozva? / * 2023 May 24 20:49 vasony Updated: Gyár utca érdi része Muskátli utcára van számozva (páratlan), a Nádas és a vasút közt nincs tábla, 2 ipari épület van, az egyiken 133, ez Gyár utca 133 lesz (régi 133-as, mert előtte régi 117 és 119 számok voltak). / Az egész Gyár utca 2x újra lett számozva, most a keleti oldal a páros. Felmért számokat később felveszem.</title>
         <link>https://www.openstreetmap.org/note/3700552#c7989129</link>
         <guid>https://www.openstreetmap.org/note/3700552#c7989129</guid>
@@ -312,16 +317,6 @@
         <link>https://www.openstreetmap.org/note/3601459#c7985995</link>
         <guid>https://www.openstreetmap.org/note/3601459#c7985995</guid>
         <pubDate>Tue, 23 May 2023 19:33:14 +0000</pubDate>
-      </item><item>
-        <title>closed note 3702571 (near Transdanubia, 8174, Hungary) / * 2023 May 23 19:04 vasony Resolved: hozzáadva</title>
-        <link>https://www.openstreetmap.org/note/3702571#c7985931</link>
-        <guid>https://www.openstreetmap.org/note/3702571#c7985931</guid>
-        <pubDate>Tue, 23 May 2023 19:04:02 +0000</pubDate>
-      </item><item>
-        <title>closed note 3695498 (near Transdanubia, 8174, Hungary) / * 2023 May 23 19:02 vasony Resolved: Nincs további teendő.</title>
-        <link>https://www.openstreetmap.org/note/3695498#c7985925</link>
-        <guid>https://www.openstreetmap.org/note/3695498#c7985925</guid>
-        <pubDate>Tue, 23 May 2023 19:02:00 +0000</pubDate>
       </item>
   </channel>
 </rss>
