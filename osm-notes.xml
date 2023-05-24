@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment 3702895 (near Central Hungary, 1117, Hungary) / * 2023 May 24 05:00 ITineris Updated: Ha megnézed ezen ojjektumok történetét (pl. https://www.openstreetmap.org/way/687224786/history ), a te csomagod rakta fel őket. Előtte az architect szövegében szerepelt egy 1993-as dátum, ki tudja, miért. / De a lényeg úgyis az, hogy a helyes start_date kerüljön ezekre az épületekre.</title>
+        <link>https://www.openstreetmap.org/note/3702895#c7986677</link>
+        <guid>https://www.openstreetmap.org/note/3702895#c7986677</guid>
+        <pubDate>Wed, 24 May 2023 05:00:12 +0000</pubDate>
+      </item><item>
         <title>new comment 3702895 (near Central Hungary, 1117, Hungary) / * 2023 May 23 19:39 ITineris Created: A teljes lakótelepen 1993-as start_date van, ami nyilvánvalóan hülyeség. Melyik épület mikor készült el valójában? / * 2023 May 23 21:17 infeeeee Updated: Ebben a changesetben lettek elállítva: 131805027 / https://osmcha.org/changesets/131805027/ / * 2023 May 24 04:06 kogutowicz-mano Updated: Azt hiszem itt valami tévedés van. Én négy objektumon (A és C épület) állítottam be, nem a &amp;quot;teljes lakótelepen&amp;quot;. Forrás: az architect=* mező korábbi tartalma.</title>
         <link>https://www.openstreetmap.org/note/3702895#c7986629</link>
         <guid>https://www.openstreetmap.org/note/3702895#c7986629</guid>
