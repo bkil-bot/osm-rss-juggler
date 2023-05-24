@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment 3700552 (near Central Hungary, 2030, Hungary) / * 2023 May 22 09:21 urbalazs Created: Mi a Napvirág utca és a Porcsinrózsa utca közötti szakasz pontos neve az érdi és a diósdi oldalon?. Úgy tűnik, mintha az érdi oldal a Muskátli utca folytatása lenne, míg a diósdi oldal a Nádas utcáig Gyár utca, utána viszont kérdéses. Vannak utcanévtáblák? A házak milyen utcára vannak számozva? / * 2023 May 24 20:49 vasony Updated: Gyár utca érdi része Muskátli utcára van számozva (páratlan), a Nádas és a vasút közt nincs tábla, 2 ipari épület van, az egyiken 133, ez Gyár utca 133 lesz (régi 133-as, mert előtte régi 117 és 119 számok voltak). / Az egész Gyár utca 2x újra lett számozva, most a keleti oldal a páros. Felmért számokat később felveszem.</title>
+        <link>https://www.openstreetmap.org/note/3700552#c7989129</link>
+        <guid>https://www.openstreetmap.org/note/3700552#c7989129</guid>
+        <pubDate>Wed, 24 May 2023 20:49:42 +0000</pubDate>
+      </item><item>
+        <title>closed note 3701575 (near Central Hungary, 2030, Hungary) / * 2023 May 22 20:22 vasony Created: Ligetszépe út vagy Ligetszépe utca szerepel az utcatáblán? / * 2023 May 23 16:18 vasony Updated: utca / * 2023 May 24 20:47 vasony Resolved: javítva</title>
+        <link>https://www.openstreetmap.org/note/3701575#c7989118</link>
+        <guid>https://www.openstreetmap.org/note/3701575#c7989118</guid>
+        <pubDate>Wed, 24 May 2023 20:47:27 +0000</pubDate>
+      </item><item>
+        <title>new note 3704557 (near Central Hungary, 1112, Hungary) / * 2023 May 24 20:43 vasony Created: Mi lett a pontos házszám?</title>
+        <link>https://www.openstreetmap.org/note/3704557#c7989110</link>
+        <guid>https://www.openstreetmap.org/note/3704557#c7989110</guid>
+        <pubDate>Wed, 24 May 2023 20:43:55 +0000</pubDate>
+      </item><item>
         <title>closed note 3652011 (near Central Hungary, 1112, Hungary) / * 2023 April 20 21:01 vasony Created: Vannak-e már számok? / * 2023 May 24 20:07 vasony Resolved: részben, 5 és 7-es házon nincs még a többin van.</title>
         <link>https://www.openstreetmap.org/note/3652011#c7989037</link>
         <guid>https://www.openstreetmap.org/note/3652011#c7989037</guid>
@@ -307,11 +322,6 @@
         <link>https://www.openstreetmap.org/note/3695498#c7985925</link>
         <guid>https://www.openstreetmap.org/note/3695498#c7985925</guid>
         <pubDate>Tue, 23 May 2023 19:02:00 +0000</pubDate>
-      </item><item>
-        <title>closed note 3122678 (near Central Hungary, 2049, Hungary) / * 2023 May 23 18:51 vasony Resolved: egyébként nem volt megadva a 7/24, most megadtam az eladó által közölt nyitvatartást.</title>
-        <link>https://www.openstreetmap.org/note/3122678#c7985895</link>
-        <guid>https://www.openstreetmap.org/note/3122678#c7985895</guid>
-        <pubDate>Tue, 23 May 2023 18:51:48 +0000</pubDate>
       </item>
   </channel>
 </rss>
