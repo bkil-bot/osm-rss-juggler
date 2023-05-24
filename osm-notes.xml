@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3703143 (near Central Transdanubia, 2900, Hungary) / * 2023 May 24 10:50 bkil Resolved: Benzinár</title>
+        <link>https://www.openstreetmap.org/note/3703143#c7987445</link>
+        <guid>https://www.openstreetmap.org/note/3703143#c7987445</guid>
+        <pubDate>Wed, 24 May 2023 10:50:55 +0000</pubDate>
+      </item><item>
         <title>new note 3703219 (near South Great Plain, 6100, Hungary) / * 2023 May 24 06:35 gabro00 Created: Lakóterület határát nem jelzi az OsmAnd. Törött a MP vagy nincs is?</title>
         <link>https://www.openstreetmap.org/note/3703219#c7986761</link>
         <guid>https://www.openstreetmap.org/note/3703219#c7986761</guid>
@@ -247,11 +252,6 @@
         <link>https://www.openstreetmap.org/note/3701558#c7983063</link>
         <guid>https://www.openstreetmap.org/note/3701558#c7983063</guid>
         <pubDate>Mon, 22 May 2023 20:05:50 +0000</pubDate>
-      </item><item>
-        <title>new note 3701551 (near Central Hungary, 2030, Hungary) / * 2023 May 22 20:01 vasony Created: Sárgarigó, Seregély, Sirály, Stiglice utcák hivatalosan nem közterületek, itt utcaként vannak, Érd körzetlistáiban meg közként. Van bármi tábla?</title>
-        <link>https://www.openstreetmap.org/note/3701551#c7983045</link>
-        <guid>https://www.openstreetmap.org/note/3701551#c7983045</guid>
-        <pubDate>Mon, 22 May 2023 20:01:40 +0000</pubDate>
       </item>
   </channel>
 </rss>
