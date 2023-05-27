@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3703219 (near South Great Plain, 6100, Hungary) / * 2023 May 24 06:35 gabro00 Created: Lakóterület határát nem jelzi az OsmAnd. Törött a MP vagy nincs is? / * 2023 May 26 21:01 gabro00 Updated: Remélhetőleg javítottam https://www.openstreetmap.org/changeset/136604990 / * 2023 May 27 08:19 gabro00 Resolved: Megjavult; innerként kellett hozzáadni a szántó területébe (elég rossz minőségű még mindig a CLC import).</title>
+        <link>https://www.openstreetmap.org/note/3703219#c7995621</link>
+        <guid>https://www.openstreetmap.org/note/3703219#c7995621</guid>
+        <pubDate>Sat, 27 May 2023 08:19:49 +0000</pubDate>
+      </item><item>
         <title>new comment 3703219 (near South Great Plain, 6100, Hungary) / * 2023 May 24 06:35 gabro00 Created: Lakóterület határát nem jelzi az OsmAnd. Törött a MP vagy nincs is? / * 2023 May 26 21:01 gabro00 Updated: Remélhetőleg javítottam https://www.openstreetmap.org/changeset/136604990</title>
         <link>https://www.openstreetmap.org/note/3703219#c7994865</link>
         <guid>https://www.openstreetmap.org/note/3703219#c7994865</guid>
@@ -292,26 +297,6 @@
         <link>https://www.openstreetmap.org/note/3702895#c7988054</link>
         <guid>https://www.openstreetmap.org/note/3702895#c7988054</guid>
         <pubDate>Wed, 24 May 2023 14:41:07 +0000</pubDate>
-      </item><item>
-        <title>new comment 3703997 (near Transdanubia, 8271, Hungary) / * 2023 May 24 14:38 vasony Updated: vagy Orgona utca?</title>
-        <link>https://www.openstreetmap.org/note/3703997#c7988048</link>
-        <guid>https://www.openstreetmap.org/note/3703997#c7988048</guid>
-        <pubDate>Wed, 24 May 2023 14:38:56 +0000</pubDate>
-      </item><item>
-        <title>new note 3703997 (near Transdanubia, 8271, Hungary) / * 2023 May 24 14:36 vasony Created: Ez az Orgona köz?</title>
-        <link>https://www.openstreetmap.org/note/3703997#c7988043</link>
-        <guid>https://www.openstreetmap.org/note/3703997#c7988043</guid>
-        <pubDate>Wed, 24 May 2023 14:36:26 +0000</pubDate>
-      </item><item>
-        <title>new note 3703986 (near Southern Transdanubia, 7478, Hungary) / * 2023 May 24 14:25 vasony Created: Pipitér út vagy utca szerepel az utcatáblán?</title>
-        <link>https://www.openstreetmap.org/note/3703986#c7988021</link>
-        <guid>https://www.openstreetmap.org/note/3703986#c7988021</guid>
-        <pubDate>Wed, 24 May 2023 14:25:23 +0000</pubDate>
-      </item><item>
-        <title>new note 3703985 (near Southern Transdanubia, 7478, Hungary) / * 2023 May 24 14:24 vasony Created: Galagonya út vagy utca szerepel az utcatáblán?</title>
-        <link>https://www.openstreetmap.org/note/3703985#c7988020</link>
-        <guid>https://www.openstreetmap.org/note/3703985#c7988020</guid>
-        <pubDate>Wed, 24 May 2023 14:24:55 +0000</pubDate>
       </item>
   </channel>
 </rss>
