@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3711753 (near Central Hungary, 1028, Hungary) / * 2023 May 29 16:31 fancsali Created: Bevágás a töltésben; bejárat a bányába.</title>
+        <link>https://www.openstreetmap.org/note/3711753#c8003876</link>
+        <guid>https://www.openstreetmap.org/note/3711753#c8003876</guid>
+        <pubDate>Mon, 29 May 2023 16:31:19 +0000</pubDate>
+      </item><item>
+        <title>new note 3711752 (near Central Hungary, 1028, Hungary) / * 2023 May 29 16:31 fancsali Created: Romos őrház; az ösvény a bemegy a bánya felé.</title>
+        <link>https://www.openstreetmap.org/note/3711752#c8003875</link>
+        <guid>https://www.openstreetmap.org/note/3711752#c8003875</guid>
+        <pubDate>Mon, 29 May 2023 16:31:18 +0000</pubDate>
+      </item><item>
+        <title>new note 3711751 (near Central Hungary, 1028, Hungary) / * 2023 May 29 16:31 fancsali Created: Ösvény a bánya keletioldalakörül...</title>
+        <link>https://www.openstreetmap.org/note/3711751#c8003874</link>
+        <guid>https://www.openstreetmap.org/note/3711751#c8003874</guid>
+        <pubDate>Mon, 29 May 2023 16:31:16 +0000</pubDate>
+      </item><item>
+        <title>new note 3711749 (near Rigótanya, Aszófő) / * 2023 May 29 16:30 fancsali Created: Emlékeim szerint itt egy hamburgerező állt a nyáron...</title>
+        <link>https://www.openstreetmap.org/note/3711749#c8003872</link>
+        <guid>https://www.openstreetmap.org/note/3711749#c8003872</guid>
+        <pubDate>Mon, 29 May 2023 16:30:55 +0000</pubDate>
+      </item><item>
         <title>closed note 3702895 (near Central Hungary, 1117, Hungary) / * 2023 May 23 19:39 ITineris Created: A teljes lakótelepen 1993-as start_date van, ami nyilvánvalóan hülyeség. Melyik épület mikor készült el valójában? / * 2023 May 23 21:17 infeeeee Updated: Ebben a changesetben lettek elállítva: 131805027 / https://osmcha.org/changesets/131805027/ / * 2023 May 24 04:06 kogutowicz-mano Updated: Azt hiszem itt valami tévedés van. Én négy objektumon (A és C épület) állítottam be, nem a &amp;quot;teljes lakótelepen&amp;quot;. Forrás: az architect=* mező korábbi tartalma. / * 2023 May 24 05:00 ITineris Updated: Ha megnézed ezen ojjektumok történetét (pl. https://www.openstreetmap.org/way/687224786/history ), a te csomagod rakta fel őket. Előtte az architect szövegében szerepelt egy 1993-as dátum, ki tudja, miért. / De a lényeg úgyis az, hogy a helyes start_date kerüljön ezekre az épületekre. / * 2023 May 24 05:26 kogutowicz-mano Updated: Támogatom! / De nem én találtam ki az 1993-t, hanem &amp;quot;zsolt d&amp;quot;. Én csak átmozgattam a számot a megfelelő helyre. Nem tartalmi, hanem formai módosítást hajtottam végre. / Akinek jobb adata van, módosítsa, én nem állok közétek. :-) / * 2023 May 24 14:41 kogutowicz-mano Updated: Közben infeeeee kolléga rámutatott, hogy az a baj, hogy az egyik épületen már volt egy start_date, és nem vettem észre. Sajnálatos. / * 2023 May 29 15:38 kogutowicz-mano Resolved: Hiába jeleztem &amp;quot;zsolt d&amp;quot;-nek, hogy érintve van egy megbeszélésben. Így hát saját szakállamra úgy döntöttem, hogy az 1993 tévedés. Majd ha előáll egy jó indoklással, akkor újra el lehet rajta vitatkozgatni.</title>
         <link>https://www.openstreetmap.org/note/3702895#c8003724</link>
         <guid>https://www.openstreetmap.org/note/3702895#c8003724</guid>
@@ -142,16 +162,6 @@
         <link>https://www.openstreetmap.org/note/3708368#c7997150</link>
         <guid>https://www.openstreetmap.org/note/3708368#c7997150</guid>
         <pubDate>Sat, 27 May 2023 15:38:47 +0000</pubDate>
-      </item><item>
-        <title>new note 3708296 (near Central Transdanubia, 8175, Hungary) / * 2023 May 27 15:10 vasony Created: autóval átjárható? az utca másik végén zsákutcára van jelölve</title>
-        <link>https://www.openstreetmap.org/note/3708296#c7997016</link>
-        <guid>https://www.openstreetmap.org/note/3708296#c7997016</guid>
-        <pubDate>Sat, 27 May 2023 15:10:42 +0000</pubDate>
-      </item><item>
-        <title>new note 3708289 (near North Great Plain, 4025, Hungary) / * 2023 May 27 15:05 tabtomi Created: &amp;quot;Duplicate&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-05-03T17:52:15Z / POI name: Mechwart András Gépipari és Informatikai Szakközépiskola / POI types: building / #organicmaps</title>
-        <link>https://www.openstreetmap.org/note/3708289#c7996988</link>
-        <guid>https://www.openstreetmap.org/note/3708289#c7996988</guid>
-        <pubDate>Sat, 27 May 2023 15:05:22 +0000</pubDate>
       </item>
   </channel>
 </rss>
