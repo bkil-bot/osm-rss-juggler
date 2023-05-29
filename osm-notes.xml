@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3702895 (near Central Hungary, 1117, Hungary) / * 2023 May 23 19:39 ITineris Created: A teljes lakótelepen 1993-as start_date van, ami nyilvánvalóan hülyeség. Melyik épület mikor készült el valójában? / * 2023 May 23 21:17 infeeeee Updated: Ebben a changesetben lettek elállítva: 131805027 / https://osmcha.org/changesets/131805027/ / * 2023 May 24 04:06 kogutowicz-mano Updated: Azt hiszem itt valami tévedés van. Én négy objektumon (A és C épület) állítottam be, nem a &amp;quot;teljes lakótelepen&amp;quot;. Forrás: az architect=* mező korábbi tartalma. / * 2023 May 24 05:00 ITineris Updated: Ha megnézed ezen ojjektumok történetét (pl. https://www.openstreetmap.org/way/687224786/history ), a te csomagod rakta fel őket. Előtte az architect szövegében szerepelt egy 1993-as dátum, ki tudja, miért. / De a lényeg úgyis az, hogy a helyes start_date kerüljön ezekre az épületekre. / * 2023 May 24 05:26 kogutowicz-mano Updated: Támogatom! / De nem én találtam ki az 1993-t, hanem &amp;quot;zsolt d&amp;quot;. Én csak átmozgattam a számot a megfelelő helyre. Nem tartalmi, hanem formai módosítást hajtottam végre. / Akinek jobb adata van, módosítsa, én nem állok közétek. :-) / * 2023 May 24 14:41 kogutowicz-mano Updated: Közben infeeeee kolléga rámutatott, hogy az a baj, hogy az egyik épületen már volt egy start_date, és nem vettem észre. Sajnálatos. / * 2023 May 29 15:38 kogutowicz-mano Resolved: Hiába jeleztem &amp;quot;zsolt d&amp;quot;-nek, hogy érintve van egy megbeszélésben. Így hát saját szakállamra úgy döntöttem, hogy az 1993 tévedés. Majd ha előáll egy jó indoklással, akkor újra el lehet rajta vitatkozgatni.</title>
+        <link>https://www.openstreetmap.org/note/3702895#c8003724</link>
+        <guid>https://www.openstreetmap.org/note/3702895#c8003724</guid>
+        <pubDate>Mon, 29 May 2023 15:38:14 +0000</pubDate>
+      </item><item>
         <title>closed note 3709482 (near Central Transdanubia, 8226, Hungary) / * 2023 May 28 13:18 vasony Created: Ez tényleg Kikötő sétány? / * 2023 May 28 17:30 vasony Updated: nincs nyoma / * 2023 May 29 11:58 vasony Resolved: sehol sem találtam erre utalást és a helyszínen táblát se</title>
         <link>https://www.openstreetmap.org/note/3709482#c8002707</link>
         <guid>https://www.openstreetmap.org/note/3709482#c8002707</guid>
@@ -147,11 +152,6 @@
         <link>https://www.openstreetmap.org/note/3708289#c7996988</link>
         <guid>https://www.openstreetmap.org/note/3708289#c7996988</guid>
         <pubDate>Sat, 27 May 2023 15:05:22 +0000</pubDate>
-      </item><item>
-        <title>closed note 3703219 (near South Great Plain, 6100, Hungary) / * 2023 May 24 06:35 gabro00 Created: Lakóterület határát nem jelzi az OsmAnd. Törött a MP vagy nincs is? / * 2023 May 26 21:01 gabro00 Updated: Remélhetőleg javítottam https://www.openstreetmap.org/changeset/136604990 / * 2023 May 27 08:19 gabro00 Resolved: Megjavult; innerként kellett hozzáadni a szántó területébe (elég rossz minőségű még mindig a CLC import).</title>
-        <link>https://www.openstreetmap.org/note/3703219#c7995621</link>
-        <guid>https://www.openstreetmap.org/note/3703219#c7995621</guid>
-        <pubDate>Sat, 27 May 2023 08:19:49 +0000</pubDate>
       </item>
   </channel>
 </rss>
