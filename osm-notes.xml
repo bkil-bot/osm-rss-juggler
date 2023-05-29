@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3360149 (near Central Hungary, 1118, Hungary) / * 2022 September 15 05:45 vasony Created: felújítás után felmérenő. / * 2023 February 16 07:33 vasony Updated: elkészült de le van kordonozva / * 2023 March 29 21:04 vasony Updated: megnyílt, nagyjából felmérve, még pontosítandó / * 2023 May 29 07:23 vasony Resolved: ortó és képeim alapján pontosítva</title>
+        <link>https://www.openstreetmap.org/note/3360149#c8001749</link>
+        <guid>https://www.openstreetmap.org/note/3360149#c8001749</guid>
+        <pubDate>Mon, 29 May 2023 07:23:08 +0000</pubDate>
+      </item><item>
         <title>new comment 2792352 (near Central Transdanubia, 8226, Hungary) / * 2021 August 8 15:08 vasony Created: Buszmegálló neve nem jó / * 2021 August 10 14:07 vasony Updated: Valószínű Telekfői út / * 2023 May 28 18:31 vasony Updated: az</title>
         <link>https://www.openstreetmap.org/note/2792352#c8000495</link>
         <guid>https://www.openstreetmap.org/note/2792352#c8000495</guid>
@@ -147,31 +152,6 @@
         <link>https://www.openstreetmap.org/note/3707205#c7994727</link>
         <guid>https://www.openstreetmap.org/note/3707205#c7994727</guid>
         <pubDate>Fri, 26 May 2023 19:41:06 +0000</pubDate>
-      </item><item>
-        <title>new note 3706635 (near North Great Plain, 4032, Hungary) / * 2023 May 26 11:54 fruzs Created: &amp;quot;It&amp;#39;s a large 3-story triangular building that was built recently. It doesn&amp;#39;t have a building number, it&amp;#39;s just called Learning Center on the main campus of the university. It has a coffee shop, bike parking and universal prayer rooms in addition to the usual university spaces like lecture halls and study areas. The Wifi is the eduroam network, so it&amp;#39;s only available to students and researchers.&amp;quot; / OSM snapshot date: 2023-02-10T21:44:03Z / POI name: Debreceni Egyetem Learning Center / POI types: amenity-school internet_access-wlan / #organicmaps</title>
-        <link>https://www.openstreetmap.org/note/3706635#c7993530</link>
-        <guid>https://www.openstreetmap.org/note/3706635#c7993530</guid>
-        <pubDate>Fri, 26 May 2023 11:54:54 +0000</pubDate>
-      </item><item>
-        <title>new note 3706634 (near North Great Plain, 4032, Hungary) / * 2023 May 26 11:54 fruzs Created: &amp;quot;It&amp;#39;s a large 3-story triangular building that was built recently. Wifi is only accessible to university students because it&amp;#39;s the eduroam network. The buildings don&amp;#39;t have numbers here, it&amp;#39;s just called Learning Center. It has a coffee shop, bike parking and universal prayer rooms.&amp;quot; / OSM snapshot date: 2023-02-10T21:44:03Z / POI name: Debreceni Egyetem Learning Center / POI types: amenity-school internet_access-wlan / #organicmaps</title>
-        <link>https://www.openstreetmap.org/note/3706634#c7993529</link>
-        <guid>https://www.openstreetmap.org/note/3706634#c7993529</guid>
-        <pubDate>Fri, 26 May 2023 11:54:54 +0000</pubDate>
-      </item><item>
-        <title>new note 3706597 (near North Hungary, 3060, Hungary) / * 2023 May 26 11:00 Created: Nyikom</title>
-        <link>https://www.openstreetmap.org/note/3706597#c7993431</link>
-        <guid>https://www.openstreetmap.org/note/3706597#c7993431</guid>
-        <pubDate>Fri, 26 May 2023 11:00:51 +0000</pubDate>
-      </item><item>
-        <title>new note 3706595 (near Ferencmajor, Apc) / * 2023 May 26 10:59 Created: apci tó</title>
-        <link>https://www.openstreetmap.org/note/3706595#c7993426</link>
-        <guid>https://www.openstreetmap.org/note/3706595#c7993426</guid>
-        <pubDate>Fri, 26 May 2023 10:59:31 +0000</pubDate>
-      </item><item>
-        <title>new note 3706513 (near Central Hungary, 1135, Hungary) / * 2023 May 26 09:49 Matyjace Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;Tahi utca 53-61.&amp;quot;,</title>
-        <link>https://www.openstreetmap.org/note/3706513#c7993196</link>
-        <guid>https://www.openstreetmap.org/note/3706513#c7993196</guid>
-        <pubDate>Fri, 26 May 2023 09:49:14 +0000</pubDate>
       </item>
   </channel>
 </rss>
