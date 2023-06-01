@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>Happy Pride Month mappers! #lgbtq #lgb #trans #queer #OpenStreetMap #OSM #gis #gischat The OpenStreetMap logo, but in Rainbow LGBTQ pride colours</title>
+        <link>https://en.osm.town/@openstreetmap/110469038432283111</link>
+        <guid>https://en.osm.town/@openstreetmap/110469038432283111</guid>
+        <pubDate>Thu, 01 Jun 2023 12:49:15 +0000</pubDate>
+      </item><item>
         <title>In this blog post Grant Slater recounts a busy first year as #OpenStreetMap&amp;#39;s first site reliability engineer. https://blog.openstreetmap.org/2023/05/22/powering-openstreetmaps-future-a-year-of-improvements-from-openstreetmap-foundations-site-reliability-engineer/ #OSM #gischat #maps</title>
         <link>https://en.osm.town/@openstreetmap/110462606158559768</link>
         <guid>https://en.osm.town/@openstreetmap/110462606158559768</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/110094684693047715</link>
         <guid>https://en.osm.town/@openstreetmap/110094684693047715</guid>
         <pubDate>Mon, 27 Mar 2023 10:06:10 +0000</pubDate>
-      </item><item>
-        <title>Interested in participating in #GSoC this summer? Applications are open! OSM-specific information is available on the blog and the @GoogleOSS GSoC timeline is here: https://developers.google.com/open-source/gsoc/timeline</title>
-        <link>https://en.osm.town/@openstreetmap/110078820238814491</link>
-        <guid>https://en.osm.town/@openstreetmap/110078820238814491</guid>
-        <pubDate>Fri, 24 Mar 2023 14:51:38 +0000</pubDate>
       </item>
   </channel>
 </rss>
