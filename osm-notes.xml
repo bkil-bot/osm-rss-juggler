@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3715220 (near Central Transdanubia, 8174, Hungary) / * 2023 June 1 08:05 utvonalfelmeresek Created: gázvezet</title>
+        <link>https://www.openstreetmap.org/note/3715220#c8011382</link>
+        <guid>https://www.openstreetmap.org/note/3715220#c8011382</guid>
+        <pubDate>Thu, 01 Jun 2023 08:05:21 +0000</pubDate>
+      </item><item>
+        <title>new note 3715218 (near Central Transdanubia, 8174, Hungary) / * 2023 June 1 08:04 utvonalfelmeresek Created: gázvez</title>
+        <link>https://www.openstreetmap.org/note/3715218#c8011380</link>
+        <guid>https://www.openstreetmap.org/note/3715218#c8011380</guid>
+        <pubDate>Thu, 01 Jun 2023 08:04:26 +0000</pubDate>
+      </item><item>
+        <title>new note 3715185 (near Central Transdanubia, 8154, Hungary) / * 2023 June 1 07:53 utvonalfelmeresek Created: roastar épület</title>
+        <link>https://www.openstreetmap.org/note/3715185#c8011341</link>
+        <guid>https://www.openstreetmap.org/note/3715185#c8011341</guid>
+        <pubDate>Thu, 01 Jun 2023 07:53:30 +0000</pubDate>
+      </item><item>
         <title>new note 3714866 (near Southern Transdanubia, 7332, Hungary) / * 2023 June 1 00:40 steppert Created: icecream and drinks some pastries</title>
         <link>https://www.openstreetmap.org/note/3714866#c8010734</link>
         <guid>https://www.openstreetmap.org/note/3714866#c8010734</guid>
@@ -232,36 +247,6 @@
         <link>https://www.openstreetmap.org/note/3712189#c8004938</link>
         <guid>https://www.openstreetmap.org/note/3712189#c8004938</guid>
         <pubDate>Mon, 29 May 2023 21:43:05 +0000</pubDate>
-      </item><item>
-        <title>closed note 2792352 (near Central Transdanubia, 8226, Hungary) / * 2021 August 8 15:08 vasony Created: Buszmegálló neve nem jó / * 2021 August 10 14:07 vasony Updated: Valószínű Telekfői út / * 2023 May 28 18:31 vasony Updated: az / * 2023 May 29 21:22 vasony Resolved: javítva</title>
-        <link>https://www.openstreetmap.org/note/2792352#c8004843</link>
-        <guid>https://www.openstreetmap.org/note/2792352#c8004843</guid>
-        <pubDate>Mon, 29 May 2023 21:22:51 +0000</pubDate>
-      </item><item>
-        <title>new note 3711753 (near Central Hungary, 1028, Hungary) / * 2023 May 29 16:31 fancsali Created: Bevágás a töltésben; bejárat a bányába.</title>
-        <link>https://www.openstreetmap.org/note/3711753#c8003876</link>
-        <guid>https://www.openstreetmap.org/note/3711753#c8003876</guid>
-        <pubDate>Mon, 29 May 2023 16:31:19 +0000</pubDate>
-      </item><item>
-        <title>new note 3711752 (near Central Hungary, 1028, Hungary) / * 2023 May 29 16:31 fancsali Created: Romos őrház; az ösvény a bemegy a bánya felé.</title>
-        <link>https://www.openstreetmap.org/note/3711752#c8003875</link>
-        <guid>https://www.openstreetmap.org/note/3711752#c8003875</guid>
-        <pubDate>Mon, 29 May 2023 16:31:18 +0000</pubDate>
-      </item><item>
-        <title>new note 3711751 (near Central Hungary, 1028, Hungary) / * 2023 May 29 16:31 fancsali Created: Ösvény a bánya keletioldalakörül...</title>
-        <link>https://www.openstreetmap.org/note/3711751#c8003874</link>
-        <guid>https://www.openstreetmap.org/note/3711751#c8003874</guid>
-        <pubDate>Mon, 29 May 2023 16:31:16 +0000</pubDate>
-      </item><item>
-        <title>new note 3711749 (near Rigótanya, Aszófő) / * 2023 May 29 16:30 fancsali Created: Emlékeim szerint itt egy hamburgerező állt a nyáron...</title>
-        <link>https://www.openstreetmap.org/note/3711749#c8003872</link>
-        <guid>https://www.openstreetmap.org/note/3711749#c8003872</guid>
-        <pubDate>Mon, 29 May 2023 16:30:55 +0000</pubDate>
-      </item><item>
-        <title>closed note 3702895 (near Central Hungary, 1117, Hungary) / * 2023 May 23 19:39 ITineris Created: A teljes lakótelepen 1993-as start_date van, ami nyilvánvalóan hülyeség. Melyik épület mikor készült el valójában? / * 2023 May 23 21:17 infeeeee Updated: Ebben a changesetben lettek elállítva: 131805027 / https://osmcha.org/changesets/131805027/ / * 2023 May 24 04:06 kogutowicz-mano Updated: Azt hiszem itt valami tévedés van. Én négy objektumon (A és C épület) állítottam be, nem a &amp;quot;teljes lakótelepen&amp;quot;. Forrás: az architect=* mező korábbi tartalma. / * 2023 May 24 05:00 ITineris Updated: Ha megnézed ezen ojjektumok történetét (pl. https://www.openstreetmap.org/way/687224786/history ), a te csomagod rakta fel őket. Előtte az architect szövegében szerepelt egy 1993-as dátum, ki tudja, miért. / De a lényeg úgyis az, hogy a helyes start_date kerüljön ezekre az épületekre. / * 2023 May 24 05:26 kogutowicz-mano Updated: Támogatom! / De nem én találtam ki az 1993-t, hanem &amp;quot;zsolt d&amp;quot;. Én csak átmozgattam a számot a megfelelő helyre. Nem tartalmi, hanem formai módosítást hajtottam végre. / Akinek jobb adata van, módosítsa, én nem állok közétek. :-) / * 2023 May 24 14:41 kogutowicz-mano Updated: Közben infeeeee kolléga rámutatott, hogy az a baj, hogy az egyik épületen már volt egy start_date, és nem vettem észre. Sajnálatos. / * 2023 May 29 15:38 kogutowicz-mano Resolved: Hiába jeleztem &amp;quot;zsolt d&amp;quot;-nek, hogy érintve van egy megbeszélésben. Így hát saját szakállamra úgy döntöttem, hogy az 1993 tévedés. Majd ha előáll egy jó indoklással, akkor újra el lehet rajta vitatkozgatni.</title>
-        <link>https://www.openstreetmap.org/note/3702895#c8003724</link>
-        <guid>https://www.openstreetmap.org/note/3702895#c8003724</guid>
-        <pubDate>Mon, 29 May 2023 15:38:14 +0000</pubDate>
       </item>
   </channel>
 </rss>
