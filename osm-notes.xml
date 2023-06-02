@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3713852 (near Central Hungary, 1225, Hungary) / * 2023 May 31 08:44 Ironrat1 Created: Unable to answer &amp;quot;What are the opening hours here?&amp;quot; for https://osm.org/node/2980136123 via StreetComplete 53.0: / Duplikáció / * 2023 June 2 06:36 urbalazs Resolved: Ez a jegyzet is duplikáció, van egy másik is ugyanitt.</title>
+        <link>https://www.openstreetmap.org/note/3713852#c8014007</link>
+        <guid>https://www.openstreetmap.org/note/3713852#c8014007</guid>
+        <pubDate>Fri, 02 Jun 2023 06:36:32 +0000</pubDate>
+      </item><item>
+        <title>closed note 3702931 (near Central Hungary, 1225, Hungary) / * 2023 June 2 06:35 urbalazs Resolved: Amikor legutóbb ott jártam, akkor az /A részben talán az óvodát fenntartó alapítvány volt, a /B az óvoda bejárata, a /C pedig az Italia bútor, amit tegnap a helyére húztam. Teljesen mindegy, hogy vasony listáján mi szerepel, mert a valóságot térképezzük, és a helyszínen kint van a /A, /B, /C. A vasony féle lista csak egy javaslat, hogy mit kell megnézni. Az egy épület és külön házszám POI vagy a felosztott épület vita túlmutat ezen a jegyzeten. Ki így, ki úgy csinálja, mindegyik megoldásnak vannak előnyei és hátrányai. Ha egyébként a mostani állapot nem okoz valahol problémát, akkor most maradjon így.</title>
+        <link>https://www.openstreetmap.org/note/3702931#c8014005</link>
+        <guid>https://www.openstreetmap.org/note/3702931#c8014005</guid>
+        <pubDate>Fri, 02 Jun 2023 06:35:01 +0000</pubDate>
+      </item><item>
+        <title>new comment 3702931 (near Central Hungary, 1225, Hungary) / * 2023 June 2 06:28 ITineris Updated: 1. Fizikailag tűzfalak vannak az épületrészek között, vagy közös a tető? (Ez utóbbi esetben egy épületkontúr, három pontszerű node-dal.) / 2. Hivatalosan létezik a /A, /B, /C házszám, pl. vasony listáján? Ha nem, akkor az alátörések a házszám helyett addr:door vagy addr:unit. (Fényképen én is látom, hogy a bolt kapuján /C van, ugyanakkor a bútorbolt és az óvodák is alátörés nélkül használják a 67-et.) / 3. Egy vagy két ovi van benne? Tök külön néven és elérhetőségeken látok egy Beszélj Velem alias Kipp-Kopp Óvodát, és egy Montessori Óvodát. / 4. A &amp;quot;/A&amp;quot; részben valami szépségszalon van?</title>
+        <link>https://www.openstreetmap.org/note/3702931#c8013992</link>
+        <guid>https://www.openstreetmap.org/note/3702931#c8013992</guid>
+        <pubDate>Fri, 02 Jun 2023 06:28:07 +0000</pubDate>
+      </item><item>
         <title>reactivated note 3702931 (near Central Hungary, 1225, Hungary) / * 2023 May 23 20:19 ITineris Created: Ez az óvoda fizikailag egy épület. Miért van háromba törve, és /A, /B, /C alátöréssel házszámozva? / * 2023 June 1 20:17 urbalazs Resolved: Azért, mert nem az egész épület az óvoda. Üzletek is vannak az épületben, amelyek az utcáról nyílnak. Többször is jártam arra, jó így a térkép. / * 2023 June 2 06:10 ITineris Reactivated: </title>
         <link>https://www.openstreetmap.org/note/3702931#c8013970</link>
         <guid>https://www.openstreetmap.org/note/3702931#c8013970</guid>
@@ -307,16 +322,6 @@
         <link>https://www.openstreetmap.org/note/3711749#c8009037</link>
         <guid>https://www.openstreetmap.org/note/3711749#c8009037</guid>
         <pubDate>Wed, 31 May 2023 11:50:42 +0000</pubDate>
-      </item><item>
-        <title>new note 3713852 (near Central Hungary, 1225, Hungary) / * 2023 May 31 08:44 Ironrat1 Created: Unable to answer &amp;quot;What are the opening hours here?&amp;quot; for https://osm.org/node/2980136123 via StreetComplete 53.0: / Duplikáció</title>
-        <link>https://www.openstreetmap.org/note/3713852#c8008560</link>
-        <guid>https://www.openstreetmap.org/note/3713852#c8008560</guid>
-        <pubDate>Wed, 31 May 2023 08:44:49 +0000</pubDate>
-      </item><item>
-        <title>new note 3713850 (near Central Hungary, 1225, Hungary) / * 2023 May 31 08:43 Ironrat1 Created: Kétszer van ugyanaz a bolt beírva / via StreetComplete 53.0</title>
-        <link>https://www.openstreetmap.org/note/3713850#c8008556</link>
-        <guid>https://www.openstreetmap.org/note/3713850#c8008556</guid>
-        <pubDate>Wed, 31 May 2023 08:43:52 +0000</pubDate>
       </item>
   </channel>
 </rss>
