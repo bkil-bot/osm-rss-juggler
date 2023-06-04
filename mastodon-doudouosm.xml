@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>This month, the #OpenStreetMap Belgium’s Mapper of the Month #MotM is @zverik (Ilya), probably already known to you for his #Everydoor or #OSMCards projects (and a lot more, of course): https://openstreetmap.be/en/motm/2023/06/01/zverev.html.</title>
+        <link>https://en.osm.town/@Doudouosm/110486377306160827</link>
+        <guid>https://en.osm.town/@Doudouosm/110486377306160827</guid>
+        <pubDate>Sun, 04 Jun 2023 14:18:45 +0000</pubDate>
+      </item><item>
         <title>What Android app would you recommend to convert geo coordinates in different formats? Ideally, Free software. #geocaching #FOSS #Android</title>
         <link>https://en.osm.town/@Doudouosm/110334681874177846</link>
         <guid>https://en.osm.town/@Doudouosm/110334681874177846</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/109122398944848870</link>
         <guid>https://en.osm.town/@Doudouosm/109122398944848870</guid>
         <pubDate>Thu, 06 Oct 2022 17:01:07 +0000</pubDate>
-      </item><item>
-        <title>@zverik Version 2.0 of #EveryDoor is available. And the “How to use Every Door” article explains the spirit of the tool: https://www.openstreetmap.org/user/Zverik/diary/399947 #OpenStreetMap</title>
-        <link>https://en.osm.town/@Doudouosm/109000912420532510</link>
-        <guid>https://en.osm.town/@Doudouosm/109000912420532510</guid>
-        <pubDate>Thu, 15 Sep 2022 06:05:30 +0000</pubDate>
       </item>
   </channel>
 </rss>
