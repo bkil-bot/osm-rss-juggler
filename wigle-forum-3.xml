@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: iOS App for Wardriving: Hello Any progress? -FourPigs</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11719#p11719</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11719#p11719</guid>
+        <pubDate>2023-06-04T19:22:01</pubDate>
+      </item><item>
         <title>Re: Best Android for WigleWifi: It's a moving target, too! Hardware gets better and more versatile, and OS/driver updates can make previously-good or previously-bad devices behave very differently One observation: there's a &quot;sweet spot&quot; beyond which the very size of your local database can slow the device; beware trying to data-hoard on an individual phone, vs. exporting your observations or backing up your individual device SQLite databases to a computer that's faster and more powerful than your phone. Obviously, we think you should upload to WiGLE.net (shameless plug), but if you prefer to keep your data to yourself, you can still do a lot more with it on more powerful computers. -arkasha</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11664#p11664</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11664#p11664</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11575#p11575</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11575#p11575</guid>
         <pubDate>2023-03-01T16:51:19</pubDate>
-      </item><item>
-        <title>Re: Pwnagotchi plugin: Assuming you configured your credentials, just check the uploads page! -arkIt only asks for these Code: main.plugins.wigle.enabled = truemain.plugins.wigle.api_key = &quot;RANDOM API KEY&quot;main.plugins.wigle.whitelist = []But nothing was aadded so unsure whats happening honesty. -wpa3</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11573#p11573</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11573#p11573</guid>
-        <pubDate>2023-03-01T12:16:36</pubDate>
       </item>
   </channel>
 </rss>
