@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3607494 (near Central Hungary, 1095, Hungary) / * 2023 March 21 16:22 sfphoton Created: Unable to answer &amp;quot;What’s the surface here?&amp;quot; for https://osm.org/way/88276976 via StreetComplete 51.1: / Vas lemez, ami a vasúti átjáróban szokott lenni. / * 2023 May 17 22:55 urbalazs Resolved: Beállítottam. / * 2023 May 19 18:13 balint36 Reactivated:  / * 2023 May 19 20:00 balint36 Updated: Vas lemez? Biztos, hogy vaslemez van ott, és nem Strail elem? / * 2023 May 22 05:57 sfphoton Updated: Nem biztos, én eddig abban a hitben éltem, hogy az is vasból van; rágugliztam, és most nem tudom, hogy melyik. Valamikor majd megnézem, azt nem tudod, hogy a strail lemezhez milyen value tartozik? / * 2023 May 22 09:24 balint36 Updated: Fém felületek alap esetben veszélyessé, csúszóssá válhatnak esőben. A strail elemek gumis elemek, hozzájuk a surface=rubber tartozik. / * 2023 June 6 08:00 sfphoton Resolved: Strail elem lesz az, valóban. Thx!</title>
+        <link>https://www.openstreetmap.org/note/3607494#c8027251</link>
+        <guid>https://www.openstreetmap.org/note/3607494#c8027251</guid>
+        <pubDate>Tue, 06 Jun 2023 08:00:51 +0000</pubDate>
+      </item><item>
         <title>new note 3722411 (near Central Hungary, 2310, Hungary) / * 2023 June 6 07:07 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: There&amp;#39;s no CNG.</title>
         <link>https://www.openstreetmap.org/note/3722411#c8027136</link>
         <guid>https://www.openstreetmap.org/note/3722411#c8027136</guid>
@@ -212,16 +217,6 @@
         <link>https://www.openstreetmap.org/note/3718023#c8017508</link>
         <guid>https://www.openstreetmap.org/note/3718023#c8017508</guid>
         <pubDate>Sat, 03 Jun 2023 10:15:53 +0000</pubDate>
-      </item><item>
-        <title>new note 3718022 (near Almádi, Balatonalmádi) / * 2023 June 3 10:15 ironalloy Created: &amp;quot;megszűnt&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-05-27T19:13:12Z / POI name: Figaro / POI types: shop-hairdresser / #organicmaps</title>
-        <link>https://www.openstreetmap.org/note/3718022#c8017507</link>
-        <guid>https://www.openstreetmap.org/note/3718022#c8017507</guid>
-        <pubDate>Sat, 03 Jun 2023 10:15:53 +0000</pubDate>
-      </item><item>
-        <title>new note 3718018 (near Almádi, Balatonalmádi) / * 2023 June 3 10:12 ironalloy Created: &amp;quot;végleg bezárt&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-05-27T19:13:12Z / POI name: Cicchetti Delikát / POI types: shop-deli / #organicmaps</title>
-        <link>https://www.openstreetmap.org/note/3718018#c8017500</link>
-        <guid>https://www.openstreetmap.org/note/3718018#c8017500</guid>
-        <pubDate>Sat, 03 Jun 2023 10:12:06 +0000</pubDate>
       </item>
   </channel>
 </rss>
