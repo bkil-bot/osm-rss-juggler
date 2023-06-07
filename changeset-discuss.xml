@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Szia! Bezárt üzleteknél a disused: prefix használata ajánlott a pont törlése helyett. https://wiki.openstreetmap.org/wiki/Key:disused:* Tehát elég lett volna, ha csak az shop=antiques címkét átjavítod disused:shop=antiques-ra, így már nem jelenítik meg a megjelenítők. Ez azért is hasznos, mert ha később más üzlet nyílik ugyanott, akkor nem kell új pontot létrehozni, és visszakövethető lesz az üzlethelyiség története, mi nyílt minek a helyén. További jó térképezést! -infeeeee</title>
+        <link>https://www.openstreetmap.org/changeset/137041574</link>
+        <guid>https://www.openstreetmap.org/changeset/137041574#comment_1</guid>
+        <pubDate>2023-06-07T13:06:16+02:00</pubDate>
+      </item><item>
         <title>Szia! Rákosrendezőn a D38-as vágány részben járható. Valahol egy ponton talpfákat állítottak keresztbe, onnantól használhatatlan. Viszont a D38-on kívül más vágányokat is használtnak jelöltél annak ellenére, azok meg vannak már bontva, így az &quot;abandoned&quot; címke azoknál a helyes. A D38-at sem a megfelelő hosszban jelölted használtnak, mert csak a keresztbe állított talpfákig az, viszont azok helyét én sem tudom beazonosítani. A módosítás során más vágányokra is elhelyeztél &quot;industrial&quot; címkéket, azonban ez a címkézés nem helytálló, mert többségben nem iparvágányokra raktad, hanem állomási rakodó vágányokra. -balint36</title>
         <link>https://www.openstreetmap.org/changeset/136863840</link>
         <guid>https://www.openstreetmap.org/changeset/136863840#comment_1</guid>
@@ -37,11 +42,6 @@
         <link>https://www.openstreetmap.org/changeset/136780201</link>
         <guid>https://www.openstreetmap.org/changeset/136780201#comment_2</guid>
         <pubDate>2023-05-31T18:13:37+02:00</pubDate>
-      </item><item>
-        <title>A liliom u. 5 a mi kertünk, ezért az biztos hibás -Vajda Ferenc</title>
-        <link>https://www.openstreetmap.org/changeset/136788387</link>
-        <guid>https://www.openstreetmap.org/changeset/136788387#comment_1</guid>
-        <pubDate>2023-05-31T13:03:35+02:00</pubDate>
       </item>
   </channel>
 </rss>
