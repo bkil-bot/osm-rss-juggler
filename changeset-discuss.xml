@@ -3,10 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Szia! Köszi az átnézést, pont az általad leítak miatt kértem, nem akartam hülyeséget csinálni. A linkeket átnézem, eddig csak a kanyarodási szabályokig jutottam el a wikin. A célom első sorban az volt, hogy a megfordulás ne legyen lehetséges, mert azt a már kihelyezett tábla alapján nem lesz szabad. A balra kanyarodást meg majd meg lehet csinálni, ha kész az építkezés. Úgyis bonyolódik a kereszteződés, mert az északról balra kanyarodáshoz kell még egy csomópont és ott lesz egy kanyarodósáv is. -Cactus Johnny</title>
+        <title>Szia! Ez a beszakadt terület létezik még? Tudsz róla valamit? -ssummoner1</title>
+        <link>https://www.openstreetmap.org/changeset/89446735</link>
+        <guid>https://www.openstreetmap.org/changeset/89446735#comment_1</guid>
+        <pubDate>2023-06-08T11:53:05+02:00</pubDate>
+      </item><item>
+        <title>Hát akkor ez ebben az esetben sajnos nem sikerült :) A kanyarodósávok, csak a kereszteződéshez való besorolásra vonatkoznak, sávok fizikai tulajdonságait tartalmazzák, útvonaltervezők általában nem veszik őket figyelembe. Ezt te is leellenőrizheted, itt a térképen, simán enged megfordulni mindegyik beépített útvonaltervező: https://www.osm.org/directions?engine=fossgis_osrm_car&amp;route=47.46744%2C19.05294%3B47.46770%2C19.05319 Kanyarodási korlátozásokra egy külön séma van, és a böngészőben futó iD szerkesztőben (ezt használod) egy nagyon szép felhasználói felület található ehhez, ha egy kereszteződés pontjára kattintasz. Itt egy gif ami megmutatja ezt hogyan kell használni: https://upload.wikimedia.org/wikipedia/commons/3/3e/Turn_restriction_mapping_in_iD_%28animated_gif%29.gif És itt egy részletesebb leírás, hogy ez hogyan működik: https://wiki.openstreetmap.org/wiki/Relation:restriction -infeeeee</title>
         <link>https://www.openstreetmap.org/changeset/137014587</link>
-        <guid>https://www.openstreetmap.org/changeset/137014587#comment_2</guid>
-        <pubDate>2023-06-07T18:39:13+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/137014587#comment_3</guid>
+        <pubDate>2023-06-08T11:15:15+02:00</pubDate>
       </item><item>
         <title>Szia! Bezárt üzleteknél a disused: prefix használata ajánlott a pont törlése helyett. https://wiki.openstreetmap.org/wiki/Key:disused:* Tehát elég lett volna, ha csak az shop=antiques címkét átjavítod disused:shop=antiques-ra, így már nem jelenítik meg a megjelenítők. Ez azért is hasznos, mert ha később más üzlet nyílik ugyanott, akkor nem kell új pontot létrehozni, és visszakövethető lesz az üzlethelyiség története, mi nyílt minek a helyén. További jó térképezést! -infeeeee</title>
         <link>https://www.openstreetmap.org/changeset/137041574</link>
