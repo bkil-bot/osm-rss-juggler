@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3727202 (near Central Hungary, 1125, Hungary) / * 2023 June 9 13:45 vasony-qa Created: A számokat újra fel kell mérni, mert most a páros-páratan össze vissza van, néhol duplikáltan</title>
+        <link>https://www.openstreetmap.org/note/3727202#c8037234</link>
+        <guid>https://www.openstreetmap.org/note/3727202#c8037234</guid>
+        <pubDate>Fri, 09 Jun 2023 13:45:22 +0000</pubDate>
+      </item><item>
         <title>closed note 3157320 (near Transdanubia, 9700, Hungary) / * 2022 April 29 04:35 kogutowicz-mano Created: Göncz Árpád tér / https://ugytudjuk.hu/cikk/2022-04-28_goncz-arpad-nevet-viseli-ezentul-szombathelyen-az-iseum-elotti-ter / * 2023 June 9 11:22 kogutowicz-mano Resolved: </title>
         <link>https://www.openstreetmap.org/note/3157320#c8036800</link>
         <guid>https://www.openstreetmap.org/note/3157320#c8036800</guid>
@@ -202,11 +207,6 @@
         <link>https://www.openstreetmap.org/note/3723093#c8028472</link>
         <guid>https://www.openstreetmap.org/note/3723093#c8028472</guid>
         <pubDate>Tue, 06 Jun 2023 14:10:48 +0000</pubDate>
-      </item><item>
-        <title>closed note 3607494 (near Central Hungary, 1095, Hungary) / * 2023 March 21 16:22 sfphoton Created: Unable to answer &amp;quot;What’s the surface here?&amp;quot; for https://osm.org/way/88276976 via StreetComplete 51.1: / Vas lemez, ami a vasúti átjáróban szokott lenni. / * 2023 May 17 22:55 urbalazs Resolved: Beállítottam. / * 2023 May 19 18:13 balint36 Reactivated:  / * 2023 May 19 20:00 balint36 Updated: Vas lemez? Biztos, hogy vaslemez van ott, és nem Strail elem? / * 2023 May 22 05:57 sfphoton Updated: Nem biztos, én eddig abban a hitben éltem, hogy az is vasból van; rágugliztam, és most nem tudom, hogy melyik. Valamikor majd megnézem, azt nem tudod, hogy a strail lemezhez milyen value tartozik? / * 2023 May 22 09:24 balint36 Updated: Fém felületek alap esetben veszélyessé, csúszóssá válhatnak esőben. A strail elemek gumis elemek, hozzájuk a surface=rubber tartozik. / * 2023 June 6 08:00 sfphoton Resolved: Strail elem lesz az, valóban. Thx!</title>
-        <link>https://www.openstreetmap.org/note/3607494#c8027251</link>
-        <guid>https://www.openstreetmap.org/note/3607494#c8027251</guid>
-        <pubDate>Tue, 06 Jun 2023 08:00:51 +0000</pubDate>
       </item>
   </channel>
 </rss>
