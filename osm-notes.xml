@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3727408 (near Jánoskert, Balatonlelle) / * 2023 June 9 16:05 vasony-qa Created: Duplikált házszám</title>
+        <link>https://www.openstreetmap.org/note/3727408#c8037613</link>
+        <guid>https://www.openstreetmap.org/note/3727408#c8037613</guid>
+        <pubDate>Fri, 09 Jun 2023 16:05:04 +0000</pubDate>
+      </item><item>
+        <title>new note 3727399 (near Jánoskert, Balatonlelle) / * 2023 June 9 16:03 vasony-qa Created: Duplázódnak a hászámok a Vasúti sétányon, ellenőrizedő (pl. 4 és 6)</title>
+        <link>https://www.openstreetmap.org/note/3727399#c8037604</link>
+        <guid>https://www.openstreetmap.org/note/3727399#c8037604</guid>
+        <pubDate>Fri, 09 Jun 2023 16:03:18 +0000</pubDate>
+      </item><item>
         <title>new note 3727332 (near North Hungary, 3529, Hungary) / * 2023 June 9 15:04 vasony-qa Created: duplikált házszám, ellenőrizendő</title>
         <link>https://www.openstreetmap.org/note/3727332#c8037455</link>
         <guid>https://www.openstreetmap.org/note/3727332#c8037455</guid>
@@ -197,21 +207,6 @@
         <link>https://www.openstreetmap.org/note/3718542#c8030243</link>
         <guid>https://www.openstreetmap.org/note/3718542#c8030243</guid>
         <pubDate>Wed, 07 Jun 2023 04:50:50 +0000</pubDate>
-      </item><item>
-        <title>closed note 3715185 (near Central Transdanubia, 8154, Hungary) / * 2023 June 1 07:53 utvonalfelmeresek Created: roastar épület / * 2023 June 7 04:50 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/136843728</title>
-        <link>https://www.openstreetmap.org/note/3715185#c8030241</link>
-        <guid>https://www.openstreetmap.org/note/3715185#c8030241</guid>
-        <pubDate>Wed, 07 Jun 2023 04:50:01 +0000</pubDate>
-      </item><item>
-        <title>new note 3723383 (near Central Hungary, 2600, Hungary) / * 2023 June 6 16:44 vasony Created: Ez a szakasz a 17/2001.(II.19.) sz. határozat szerint / Sárfehér köz, ellenőrizendő</title>
-        <link>https://www.openstreetmap.org/note/3723383#c8028974</link>
-        <guid>https://www.openstreetmap.org/note/3723383#c8028974</guid>
-        <pubDate>Tue, 06 Jun 2023 16:44:29 +0000</pubDate>
-      </item><item>
-        <title>new note 3723093 (near Southern Transdanubia, 8623, Hungary) / * 2023 June 6 14:10 Gaurdein Created: Unable to answer &amp;quot;What are the opening hours here?&amp;quot; for https://osm.org/way/290457978 via StreetComplete 52.1: / Társasház lett</title>
-        <link>https://www.openstreetmap.org/note/3723093#c8028472</link>
-        <guid>https://www.openstreetmap.org/note/3723093#c8028472</guid>
-        <pubDate>Tue, 06 Jun 2023 14:10:48 +0000</pubDate>
       </item>
   </channel>
 </rss>
