@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3729079 (near Central Transdanubia, 8095, Hungary) / * 2023 June 10 12:46 vasony Created: ez a távvezeték szakasz mintha nem létezne, ellenőrizendő helyszínen</title>
+        <link>https://www.openstreetmap.org/note/3729079#c8040608</link>
+        <guid>https://www.openstreetmap.org/note/3729079#c8040608</guid>
+        <pubDate>Sat, 10 Jun 2023 12:46:12 +0000</pubDate>
+      </item><item>
         <title>new comment 3685204 (near North Hungary, 2697, Hungary) / * 2023 June 10 12:12 balint36 Updated: A KIRA nem jelöli külön a Jókai utcát, ezért nem ez a kiindulás alapja. A KIRA a házszámokat jelöli, ami a páratlan számú házakat az OSM-en felvett erdészeti/mezőgazdasági út mellé jelöli, a párosokat pedig ide. Ebből és a házszámozás módszeréből adódik, hogy össze tartoznak.</title>
         <link>https://www.openstreetmap.org/note/3685204#c8040534</link>
         <guid>https://www.openstreetmap.org/note/3685204#c8040534</guid>
@@ -187,11 +192,6 @@
         <link>https://www.openstreetmap.org/note/3724080#c8031389</link>
         <guid>https://www.openstreetmap.org/note/3724080#c8031389</guid>
         <pubDate>Wed, 07 Jun 2023 12:59:07 +0000</pubDate>
-      </item><item>
-        <title>new note 3724207 (near Floch-puszta, Sződliget) / * 2023 June 7 09:25 vasony Created: Ez a Csörögi major?</title>
-        <link>https://www.openstreetmap.org/note/3724207#c8030770</link>
-        <guid>https://www.openstreetmap.org/note/3724207#c8030770</guid>
-        <pubDate>Wed, 07 Jun 2023 09:25:39 +0000</pubDate>
       </item>
   </channel>
 </rss>
