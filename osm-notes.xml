@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3685204 (near North Hungary, 2697, Hungary) / * 2023 May 12 09:31 vasony-qa Created: Ez a szakasz is Jókai utca? / * 2023 May 17 21:30 balint36 Updated: A KIRA a 4-20 közötti páros házakat, úgyhogy igen. / * 2023 May 17 21:30 balint36 Updated: *ide jelöli / a lényeg kimaradt / * 2023 June 10 08:29 vasony Updated: Mi a licensze a KIRA-nak, lehet innen felvenni utcaneveket? / * 2023 June 10 12:12 balint36 Updated: A KIRA nem jelöli külön a Jókai utcát, ezért nem ez a kiindulás alapja. A KIRA a házszámokat jelöli, ami a páratlan számú házakat az OSM-en felvett erdészeti/mezőgazdasági út mellé jelöli, a párosokat pedig ide. Ebből és a házszámozás módszeréből adódik, hogy össze tartoznak. / * 2023 June 12 05:13 vasony Resolved: Rendben, fogadjuk el.</title>
+        <link>https://www.openstreetmap.org/note/3685204#c8045703</link>
+        <guid>https://www.openstreetmap.org/note/3685204#c8045703</guid>
+        <pubDate>Mon, 12 Jun 2023 05:13:28 +0000</pubDate>
+      </item><item>
+        <title>new note 3731476 (near Central Hungary, 1117, Hungary) / * 2023 June 12 04:57 sfphoton Created: Unable to answer &amp;quot;What’s the name of this place?&amp;quot; for https://osm.org/node/10814434677 via StreetComplete 53.1: / Ebben a parkolóban nincs büfé</title>
+        <link>https://www.openstreetmap.org/note/3731476#c8045690</link>
+        <guid>https://www.openstreetmap.org/note/3731476#c8045690</guid>
+        <pubDate>Mon, 12 Jun 2023 04:57:25 +0000</pubDate>
+      </item><item>
         <title>new comment 3671527 (near Central Hungary, 2131, Hungary) / * 2023 May 2 20:51 vasony Created: Ez a Kincsem park? / * 2023 June 12 00:49 urbalazs Updated: Piac, középen egy ló szobor, de sehol sincs utcanévtábla. Más forrásból kell megoldani.</title>
         <link>https://www.openstreetmap.org/note/3671527#c8045484</link>
         <guid>https://www.openstreetmap.org/note/3671527#c8045484</guid>
@@ -262,16 +272,6 @@
         <link>https://www.openstreetmap.org/note/3728640#c8039771</link>
         <guid>https://www.openstreetmap.org/note/3728640#c8039771</guid>
         <pubDate>Sat, 10 Jun 2023 07:54:29 +0000</pubDate>
-      </item><item>
-        <title>closed note 2580645 (near Central Hungary, 1044, Hungary) / * 2021 March 15 20:58 vasony Created: Azért az incline=20%-ot nehéz elhinni a Duna mellett ami síkság, nem Alpe d&amp;#39;Huez ez. / A szemétledobót töröltem, a másik ami nem hihető révén itt van a vízmű területe. / Ellenőrizendő mi ez itt! / * 2023 June 10 05:25 urbalazs Resolved: A bicikliútról nézve a Váci út túloldalán lévő fáknak csak a koronája látszik, ezért hihető, hogy egy szakadék van ott, és ez kis szakasz simán lehet 20%-os lejtésű. Lezárom a jegyzetet, szerintem rendben van így.</title>
-        <link>https://www.openstreetmap.org/note/2580645#c8039489</link>
-        <guid>https://www.openstreetmap.org/note/2580645#c8039489</guid>
-        <pubDate>Sat, 10 Jun 2023 05:25:02 +0000</pubDate>
-      </item><item>
-        <title>closed note 3655004 (near Central Hungary, 1139, Hungary) / * 2023 April 22 18:18 Created: Coo 1 / * 2023 June 10 05:20 urbalazs Resolved: Elnézést, ez a térképjegyzet hiányos. Adjon részletes leírást arról a problémáról, amit jelenteni szeretne.</title>
-        <link>https://www.openstreetmap.org/note/3655004#c8039478</link>
-        <guid>https://www.openstreetmap.org/note/3655004#c8039478</guid>
-        <pubDate>Sat, 10 Jun 2023 05:20:01 +0000</pubDate>
       </item>
   </channel>
 </rss>
