@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3724173 (near Sződliget) / * 2023 June 7 09:01 vasony Created: Akácos utca vagy Akácos út szerepel az utcatáblán? / * 2023 June 11 23:58 urbalazs Updated: Egyik sarkon sem találtam utcanévtáblát. A szabályozási terven útként van. Ha nincs más forrásunk, akkor az alapján át kell nevezni. / * 2023 June 12 06:35 vasony Resolved: Földhivatal szerint is Akácos út, átírtam.</title>
+        <link>https://www.openstreetmap.org/note/3724173#c8045830</link>
+        <guid>https://www.openstreetmap.org/note/3724173#c8045830</guid>
+        <pubDate>Mon, 12 Jun 2023 06:35:27 +0000</pubDate>
+      </item><item>
         <title>closed note 3727202 (near Central Hungary, 1125, Hungary) / * 2023 June 9 13:45 vasony-qa Created: A számokat újra fel kell mérni, mert most a páros-páratan össze vissza van, néhol duplikáltan / * 2023 June 11 13:42 vmiklos Updated: Voltam a helyszínen, sajnos nincs rendesen kitáblázva. Amit így hirtelen látok duplikátum az a 4, abból az északnyugati a valós, a másikat töröltem. Ezen kívül csak a 7/d volt most kinn amit láttam, de az Lóránt út. Esetleg érdemes később (értsd: pár év múlva) újra megnézni, mert a Lóránt köz északkeleti felén mindkét oldalon vannak építkezések (talán új társasház). Ha azok befejeződnek, akkor talán jobb lesz a kitáblázás. / * 2023 June 12 06:02 vasony Resolved: Szerintem csak annyi történt 2021-ben, hogy a párosok átcsúsztak a rossz oldalra, a 6-ot most áttoltam szemben ez alapján, hogy a másik oldal a páros. Megerősíti ezt a földhivatal is.</title>
         <link>https://www.openstreetmap.org/note/3727202#c8045776</link>
         <guid>https://www.openstreetmap.org/note/3727202#c8045776</guid>
@@ -262,16 +267,6 @@
         <link>https://www.openstreetmap.org/note/3685204#c8039831</link>
         <guid>https://www.openstreetmap.org/note/3685204#c8039831</guid>
         <pubDate>Sat, 10 Jun 2023 08:29:16 +0000</pubDate>
-      </item><item>
-        <title>new note 3728689 (near Southern Transdanubia, 7165, Hungary) / * 2023 June 10 08:29 Spush Created: Műfüves focipálya</title>
-        <link>https://www.openstreetmap.org/note/3728689#c8039830</link>
-        <guid>https://www.openstreetmap.org/note/3728689#c8039830</guid>
-        <pubDate>Sat, 10 Jun 2023 08:29:08 +0000</pubDate>
-      </item><item>
-        <title>new note 3728684 (near Central Hungary, 2093, Hungary) / * 2023 June 10 08:26 Created: Leichtman Kft</title>
-        <link>https://www.openstreetmap.org/note/3728684#c8039824</link>
-        <guid>https://www.openstreetmap.org/note/3728684#c8039824</guid>
-        <pubDate>Sat, 10 Jun 2023 08:26:44 +0000</pubDate>
       </item>
   </channel>
 </rss>
