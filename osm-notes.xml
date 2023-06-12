@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment 3726459 (near Southern Transdanubia, 7100, Hungary) / * 2023 June 12 09:31 Spush Updated: Valószínűleg a lakótelep a helyes elnevezés.</title>
+        <link>https://www.openstreetmap.org/note/3726459#c8046306</link>
+        <guid>https://www.openstreetmap.org/note/3726459#c8046306</guid>
+        <pubDate>Mon, 12 Jun 2023 09:31:52 +0000</pubDate>
+      </item><item>
         <title>closed note 3724173 (near Sződliget) / * 2023 June 7 09:01 vasony Created: Akácos utca vagy Akácos út szerepel az utcatáblán? / * 2023 June 11 23:58 urbalazs Updated: Egyik sarkon sem találtam utcanévtáblát. A szabályozási terven útként van. Ha nincs más forrásunk, akkor az alapján át kell nevezni. / * 2023 June 12 06:35 vasony Resolved: Földhivatal szerint is Akácos út, átírtam.</title>
         <link>https://www.openstreetmap.org/note/3724173#c8045830</link>
         <guid>https://www.openstreetmap.org/note/3724173#c8045830</guid>
@@ -262,11 +267,6 @@
         <link>https://www.openstreetmap.org/note/3726902#c8040014</link>
         <guid>https://www.openstreetmap.org/note/3726902#c8040014</guid>
         <pubDate>Sat, 10 Jun 2023 09:34:35 +0000</pubDate>
-      </item><item>
-        <title>new comment 3685204 (near North Hungary, 2697, Hungary) / * 2023 May 12 09:31 vasony-qa Created: Ez a szakasz is Jókai utca? / * 2023 May 17 21:30 balint36 Updated: A KIRA a 4-20 közötti páros házakat, úgyhogy igen. / * 2023 May 17 21:30 balint36 Updated: *ide jelöli / a lényeg kimaradt / * 2023 June 10 08:29 vasony Updated: Mi a licensze a KIRA-nak, lehet innen felvenni utcaneveket?</title>
-        <link>https://www.openstreetmap.org/note/3685204#c8039831</link>
-        <guid>https://www.openstreetmap.org/note/3685204#c8039831</guid>
-        <pubDate>Sat, 10 Jun 2023 08:29:16 +0000</pubDate>
       </item>
   </channel>
 </rss>

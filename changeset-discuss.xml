@@ -3,10 +3,25 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>A Batthány tér körforgalomnál még maradt 2 szakasz, nem akarok belepiszkálni, hogy ne akadjuk össze. -vasony</title>
+        <title>Kedves Hungarian_user! Ezt a módosításcsomagot visszavontam, mert nem létező utcanév lett megadva vele. Járdáknak egyébként sem szoktunk nevet adni. -urbalazs</title>
+        <link>https://www.openstreetmap.org/changeset/136821103</link>
+        <guid>https://www.openstreetmap.org/changeset/136821103#comment_1</guid>
+        <pubDate>2023-06-12T10:03:38+02:00</pubDate>
+      </item><item>
+        <title>Köszi, javítva + a hiányzó elágazások pótolva a körforgalomnál -Pocokkifli</title>
         <link>https://www.openstreetmap.org/changeset/136867102</link>
-        <guid>https://www.openstreetmap.org/changeset/136867102#comment_5</guid>
-        <pubDate>2023-06-12T08:39:31+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/136867102#comment_6</guid>
+        <pubDate>2023-06-12T09:29:55+02:00</pubDate>
+      </item><item>
+        <title>Verified on field, name is ok. -vasony</title>
+        <link>https://www.openstreetmap.org/changeset/136026927</link>
+        <guid>https://www.openstreetmap.org/changeset/136026927#comment_2</guid>
+        <pubDate>2023-06-12T09:20:10+02:00</pubDate>
+      </item><item>
+        <title>Szia! A Kökény köz és a Patak sétány átmentek a főv. közgyűlésen. A Kökény köz a hrsz. szerint csak a Táncsicsig tart, az azt követő szakaszhoz nem nyúltam, és a Dombos utca 39, 41, 43, Táncsics 58 házszámot meg kellene nézni, mert ezek nem tűnnek jónak. Az érintett rész: 1. a II. kerület Máriaremete és Remetekertváros városrészben az 52072/1, 52048 és 52049 hrsz.-ú névtelen közterületeket Kökény köznek, 2. a II. kerület Pesthidegkút-Ófalu városrészben az 54401, 54402/2 és 54402/5 hrsz.-ú névtelen közterületeket Patak sétánynak Tamás -vasony</title>
+        <link>https://www.openstreetmap.org/changeset/134319115</link>
+        <guid>https://www.openstreetmap.org/changeset/134319115#comment_4</guid>
+        <pubDate>2023-06-12T09:16:19+02:00</pubDate>
       </item><item>
         <title>Szia! A wikiben valóban azt írja, hogy nincs egyetértés ebben de a magyarországi gyakorlat (és a közösségben végzett gyors felmérésem alapján is), hogy nem teszünk a járdára neveket. Köszi, Tamás -vasony</title>
         <link>https://www.openstreetmap.org/changeset/137101138</link>
@@ -52,11 +67,6 @@
         <link>https://www.openstreetmap.org/changeset/136851184</link>
         <guid>https://www.openstreetmap.org/changeset/136851184#comment_1</guid>
         <pubDate>2023-06-05T13:37:43+02:00</pubDate>
-      </item><item>
-        <title>Szia! Ez most Koponyatörő-szikla vagy Szószék-szikla? Ha mindkettő név használatban van, akkor máshogy kellene megkülönböztetni a kettőt, alt_name vagy loc_name, vagy más: https://wiki.openstreetmap.org/wiki/Names -infeeeee</title>
-        <link>https://www.openstreetmap.org/changeset/136966932</link>
-        <guid>https://www.openstreetmap.org/changeset/136966932#comment_1</guid>
-        <pubDate>2023-06-05T11:40:39+02:00</pubDate>
       </item>
   </channel>
 </rss>
