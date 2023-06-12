@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Kedves Tamás, Az újabb utcanév tábla alapján indultam ki (Isis irodaház oldalán van felhelyezve), ahol ott van a teljes név, a régebbi zománc táblákon van csak szimplán Rákócziként. Továbbá ez a történelmi személy hivatalos neve. Többféle szervezet, cég használja az egyik, vagy a másik változatot a címében. Ugyanakkor szombathely.hu-n található műszaki térinformatikai rendszerének térképén is az egyszerűsített név szerepel. Ha van egyértelműbb forrás, indok, akkor szükségesnek látom az előző változathoz való visszatérést. Köszönöm! Üdvözlettel, Pocokkifli -Pocokkifli</title>
+        <title>Szia! Az utca neve az ahogy a határozatban elnevezték, sokszor ennek nincs köze, hogy hogyan hívják hivatalosan a személyt (illetve régebben még a földrajzinév-bizottság is javasolta az előtagok elhagyását). Openstreetmapre az utcatábla alapján visszük fel, ha ezek nem egyeznek, akkor lehet mérlegelni. Mivel nem vagyok helyi, nem tudom ez a II. Rákóczi Ferences utcatábla mennyire hivatalos. Én megnéztem a földhivatalban és a , minden ingatlan címe Rákóczi Ferenc. A választási címjegyzékben szintén. Ha a a régi zománctáblák többsége is még ezt támasztja alá, akkor visszaírnám. Most az a helyzet hogy az utca neve és a házszámokban lévő cím nem egyezik, ami semmiképp nem jó. alt_name-be lehet tenni a II. Rákóczi Ferenc-et Tamás Tamás -vasony</title>
         <link>https://www.openstreetmap.org/changeset/136867102</link>
-        <guid>https://www.openstreetmap.org/changeset/136867102#comment_2</guid>
-        <pubDate>2023-06-11T10:42:45+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/136867102#comment_3</guid>
+        <pubDate>2023-06-12T05:46:00+02:00</pubDate>
       </item><item>
-        <title>Szia! Utána olvastam OSM wikiben, miszerint nincs megkötés, legyen-e név, vagy sem. Konrét cél, hogy minél pontosabb legyen az útvonaltervezés a gyalogosok (és a kerékpárosok) számára. Ha ennyire indokolatlan a névcímékzés, megteszem a szükséges lépéseket. Köszönöm az észrevételt! Üdv, Pocokkifli -Pocokkifli</title>
+        <title>Szia! A wikiben valóban azt írja, hogy nincs egyetértés ebben de a magyarországi gyakorlat (és a közösségben végzett gyors felmérésem alapján is), hogy nem teszünk a járdára neveket. Köszi, Tamás -vasony</title>
         <link>https://www.openstreetmap.org/changeset/137101138</link>
-        <guid>https://www.openstreetmap.org/changeset/137101138#comment_2</guid>
-        <pubDate>2023-06-11T10:32:18+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/137101138#comment_3</guid>
+        <pubDate>2023-06-12T05:35:12+02:00</pubDate>
       </item><item>
         <title>Szia! Én csak a sávokat vettem fel, az utcanevet előttem írta át SzPaula Párducról Paducra a 42295841-es changesetben. -ozmium</title>
         <link>https://www.openstreetmap.org/changeset/77244692</link>

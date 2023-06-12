@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3727202 (near Central Hungary, 1125, Hungary) / * 2023 June 9 13:45 vasony-qa Created: A számokat újra fel kell mérni, mert most a páros-páratan össze vissza van, néhol duplikáltan / * 2023 June 11 13:42 vmiklos Updated: Voltam a helyszínen, sajnos nincs rendesen kitáblázva. Amit így hirtelen látok duplikátum az a 4, abból az északnyugati a valós, a másikat töröltem. Ezen kívül csak a 7/d volt most kinn amit láttam, de az Lóránt út. Esetleg érdemes később (értsd: pár év múlva) újra megnézni, mert a Lóránt köz északkeleti felén mindkét oldalon vannak építkezések (talán új társasház). Ha azok befejeződnek, akkor talán jobb lesz a kitáblázás. / * 2023 June 12 06:02 vasony Resolved: Szerintem csak annyi történt 2021-ben, hogy a párosok átcsúsztak a rossz oldalra, a 6-ot most áttoltam szemben ez alapján, hogy a másik oldal a páros. Megerősíti ezt a földhivatal is.</title>
+        <link>https://www.openstreetmap.org/note/3727202#c8045776</link>
+        <guid>https://www.openstreetmap.org/note/3727202#c8045776</guid>
+        <pubDate>Mon, 12 Jun 2023 06:02:24 +0000</pubDate>
+      </item><item>
+        <title>new comment 3726459 (near Southern Transdanubia, 7100, Hungary) / * 2023 June 8 20:24 vasony Created: Wosinsky Mór utca vagy Wosinsky Mór lakótelep? / * 2023 June 10 21:10 Spush Updated: Elméletileg lakótelep. Viszont itthon van 2 papír alapú térkép az egyik a &amp;#39;90-es évekből a másik egy reklám térkép (2006), amit bedobáltak minden szekszárdi postaládájába és mindkettőn utca szerepel. Az épületek pedig mind a lakótelepre vannak számozva. / * 2023 June 12 05:30 vasony Updated: Ha nincs kint tábla utcával, akkor én átírnám lakótelepre, nem találtam más forrást ami utcának hívná</title>
+        <link>https://www.openstreetmap.org/note/3726459#c8045717</link>
+        <guid>https://www.openstreetmap.org/note/3726459#c8045717</guid>
+        <pubDate>Mon, 12 Jun 2023 05:30:33 +0000</pubDate>
+      </item><item>
         <title>closed note 3685204 (near North Hungary, 2697, Hungary) / * 2023 May 12 09:31 vasony-qa Created: Ez a szakasz is Jókai utca? / * 2023 May 17 21:30 balint36 Updated: A KIRA a 4-20 közötti páros házakat, úgyhogy igen. / * 2023 May 17 21:30 balint36 Updated: *ide jelöli / a lényeg kimaradt / * 2023 June 10 08:29 vasony Updated: Mi a licensze a KIRA-nak, lehet innen felvenni utcaneveket? / * 2023 June 10 12:12 balint36 Updated: A KIRA nem jelöli külön a Jókai utcát, ezért nem ez a kiindulás alapja. A KIRA a házszámokat jelöli, ami a páratlan számú házakat az OSM-en felvett erdészeti/mezőgazdasági út mellé jelöli, a párosokat pedig ide. Ebből és a házszámozás módszeréből adódik, hogy össze tartoznak. / * 2023 June 12 05:13 vasony Resolved: Rendben, fogadjuk el.</title>
         <link>https://www.openstreetmap.org/note/3685204#c8045703</link>
         <guid>https://www.openstreetmap.org/note/3685204#c8045703</guid>
@@ -262,16 +272,6 @@
         <link>https://www.openstreetmap.org/note/3728684#c8039824</link>
         <guid>https://www.openstreetmap.org/note/3728684#c8039824</guid>
         <pubDate>Sat, 10 Jun 2023 08:26:44 +0000</pubDate>
-      </item><item>
-        <title>new note 3728642 (near Central Hungary, 2081, Hungary) / * 2023 June 10 07:56 vasony-qa Created: Házszámok és utcanév nem egyezik a földhivatallal, ellenőrizendők</title>
-        <link>https://www.openstreetmap.org/note/3728642#c8039773</link>
-        <guid>https://www.openstreetmap.org/note/3728642#c8039773</guid>
-        <pubDate>Sat, 10 Jun 2023 07:56:04 +0000</pubDate>
-      </item><item>
-        <title>new note 3728640 (near Central Hungary, 2081, Hungary) / * 2023 June 10 07:54 vasony-qa Created: Kálmán király útja vagy utca szerepel az utcatáblán?</title>
-        <link>https://www.openstreetmap.org/note/3728640#c8039771</link>
-        <guid>https://www.openstreetmap.org/note/3728640#c8039771</guid>
-        <pubDate>Sat, 10 Jun 2023 07:54:29 +0000</pubDate>
       </item>
   </channel>
 </rss>
