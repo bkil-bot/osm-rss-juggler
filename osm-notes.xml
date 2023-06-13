@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3675160 (near Central Hungary, 2132, Hungary) / * 2023 May 5 08:45 vasony Created: Latabár tér vagy Latabár Kálmán tér szerepel az utcatáblán? / * 2023 June 12 00:48 urbalazs Updated: Nincs utcanévtábla. Más forrásból kell megoldani. / * 2023 June 13 16:19 vasony Resolved: Minden forrás szerint Latabár Kálmán tér, javítottam.</title>
+        <link>https://www.openstreetmap.org/note/3675160#c8050752</link>
+        <guid>https://www.openstreetmap.org/note/3675160#c8050752</guid>
+        <pubDate>Tue, 13 Jun 2023 16:19:45 +0000</pubDate>
+      </item><item>
+        <title>closed note 2449185 (near South Great Plain, 6800, Hungary) / * 2020 December 1 20:35 Created: A tramtrain teljes nyomvonalát fel kellene mérni, hogy pontosan merre megy az úttestekhez képest. A Kaszap utca és a Kálvin János tér között az Andrássy utat rakták odébb, a Kálvin tértől a vasútállomásik pedig a Bajcsyt. Épültek új körforgalmak is. / * 2020 December 1 21:02 ITineris Updated: Én voltam. / * 2021 April 28 15:25 gabro00 Updated: Már egész jól néz ki. / * 2021 May 17 22:37 gabro00 Updated: Van még ezzel teendő? / * 2021 May 18 05:29 ITineris Updated: Helyükre húztam a körforgalmakat, megcsináltam a ki-behajtókat, ahol kellett. Felraktam a zebrákat, és az elsőbbségadás kötelező táblákat, a Bethlen István utca torkolatában pedig a kanyarodási szabályokat. / A Kálvin János téren turbó a körforgalom. Kellene hozzá egy kis helyismeret kibogozni, és felrajzolni. / Különben már elég jól állunk. / * 2022 February 18 18:00 gabro00 Updated: Maxaron már turbó a Kálvin téri körforgalom. / A többi dolog talán kész, a vonalat és a megállókat is szerkesztettük páran az indulás környékén. / * 2022 October 15 21:08 urbalazs Resolved: Az előzmények alapján megoldottnak tekintem, mert nincs több nyitott kérdés. Ha mégis, akkor nyissátok újra. / * 2022 October 16 08:23 ITineris Reactivated:  / * 2022 October 16 08:25 ITineris Updated: A Kálvin János téren még simának van berajzolva a valóságban turbó körforgalom. A ki- és behajtók geometriáján is lenne mit szépíteni, hogy ne legyenek benne ekkora törések. Mintha valaki az egész körforgalmat húzta volna arrébb egy másik műholdkép alapján. (Miközben fene tudja, melyik mennyire pontos itt.) / * 2023 June 13 16:18 urbalazs Resolved: 2 hónappal ezelőtt valaki megcsinálta a turbo körforgalmat. Most már tényleg lezárom, mert a hozzászólások alapján minden javítva lett. Ha mégsem, akkor nyissatok új jegyzetet (akár többet is) a pontos helyeken a pontos hibajelzésekkel. Ennek az újranyitása már követhetetlenné tenné, hogy mit is kell még csinálni.</title>
+        <link>https://www.openstreetmap.org/note/2449185#c8050736</link>
+        <guid>https://www.openstreetmap.org/note/2449185#c8050736</guid>
+        <pubDate>Tue, 13 Jun 2023 16:18:03 +0000</pubDate>
+      </item><item>
         <title>new note 3733703 (near Southern Transdanubia, 7631, Hungary) / * 2023 June 13 15:13 sfphoton Created: Az Oázis itt van, a zöld sávban pedig van egy térköves parkoló</title>
         <link>https://www.openstreetmap.org/note/3733703#c8050586</link>
         <guid>https://www.openstreetmap.org/note/3733703#c8050586</guid>
@@ -332,31 +342,6 @@
         <link>https://www.openstreetmap.org/note/3730865#c8044341</link>
         <guid>https://www.openstreetmap.org/note/3730865#c8044341</guid>
         <pubDate>Sun, 11 Jun 2023 16:55:11 +0000</pubDate>
-      </item><item>
-        <title>new comment 3489784 (near Southern Transdanubia, 7636, Hungary) / * 2022 December 24 17:55 Spush Created: Posta újranyitásáról döntöttek. / * 2023 June 11 16:54 fancsali Updated: Nemrég óta újra nyitva.</title>
-        <link>https://www.openstreetmap.org/note/3489784#c8044339</link>
-        <guid>https://www.openstreetmap.org/note/3489784#c8044339</guid>
-        <pubDate>Sun, 11 Jun 2023 16:54:43 +0000</pubDate>
-      </item><item>
-        <title>new note 3730706 (near Almádi, Balatonalmádi) / * 2023 June 11 15:15 vasony Created: 2023. augusztus 14-től: Hétvezér u. teljes hosszban egyirányúvá válik Bajcsy Zs. u. felé / https://balatonalmadi.hu/hirek/1605-tajekoztatas-varhato-forgalmirend-valtozasrol</title>
-        <link>https://www.openstreetmap.org/note/3730706#c8044028</link>
-        <guid>https://www.openstreetmap.org/note/3730706#c8044028</guid>
-        <pubDate>Sun, 11 Jun 2023 15:15:56 +0000</pubDate>
-      </item><item>
-        <title>new note 3730700 (near Almádi, Balatonalmádi) / * 2023 June 11 15:12 vasony Created: 2023. augusztus 14-től: Bajza u. Bajcsy Zs. u.- Dembinszky u. között egyirányúvá válik Bajcsy Zs. u. felé / https://balatonalmadi.hu/hirek/1605-tajekoztatas-varhato-forgalmirend-valtozasrol</title>
-        <link>https://www.openstreetmap.org/note/3730700#c8044016</link>
-        <guid>https://www.openstreetmap.org/note/3730700#c8044016</guid>
-        <pubDate>Sun, 11 Jun 2023 15:12:35 +0000</pubDate>
-      </item><item>
-        <title>new note 3730699 (near Almádi, Balatonalmádi) / * 2023 June 11 15:12 vasony Created: Klapka utca a Bajcsy Zs. u.- Dembinszky u. között egyirányúvá válik Dembinszky u. felé / https://balatonalmadi.hu/hirek/1605-tajekoztatas-varhato-forgalmirend-valtozasrol</title>
-        <link>https://www.openstreetmap.org/note/3730699#c8044012</link>
-        <guid>https://www.openstreetmap.org/note/3730699#c8044012</guid>
-        <pubDate>Sun, 11 Jun 2023 15:12:09 +0000</pubDate>
-      </item><item>
-        <title>new note 3730692 (near Almádi, Balatonalmádi) / * 2023 June 11 15:10 vasony Created: 2023. augusztus 14-től egyirányú lesz lefele a Balaton utcáig / https://balatonalmadi.hu/hirek/1605-tajekoztatas-varhato-forgalmirend-valtozasrol</title>
-        <link>https://www.openstreetmap.org/note/3730692#c8044003</link>
-        <guid>https://www.openstreetmap.org/note/3730692#c8044003</guid>
-        <pubDate>Sun, 11 Jun 2023 15:10:03 +0000</pubDate>
       </item>
   </channel>
 </rss>
