@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Szia! https://www.openstreetmap.org/way/312734772 Ez az ÉK-DNy irányú út egy egyirányú, aszfaltozott kerékpárút, ami ennek megfelelően volt is címkézve. Összetévesztetted a kb. 30 m-rel nyugatra lévő, észak-dél irányú, még nem felrajzolt, park körüli úttal és aszerint címkézted át. Vissza javítottam: https://www.openstreetmap.org/changeset/137268843 -nslxndr</title>
+        <title>Szia! Valóban tévesztés történt. Mentségemre szóljon átlagban nincs 20 m sem az útszakaszok közt és sötét volt, amikor arra jártam Köszi a javítást! -gabro00</title>
         <link>https://www.openstreetmap.org/changeset/136559784</link>
-        <guid>https://www.openstreetmap.org/changeset/136559784#comment_1</guid>
-        <pubDate>2023-06-13T05:41:01+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/136559784#comment_2</guid>
+        <pubDate>2023-06-13T06:30:04+02:00</pubDate>
       </item><item>
         <title>Hello! Welcome to OpenStreetMap! If you can't speak Hungarian reply, and I will translate this to English. Szia! Üdv az OpenStreetMapen! Bezárt éttermeknél, üzleteknél a disused: prefix használata ajánlott a pont törlése helyett. https://wiki.openstreetmap.org/wiki/Key:disused:* Tehát elég lett volna, ha csak az amenity=restaurant címkét átjavítod disused:amenity=restaurant-ra, így már nem jelenítik meg a megjelenítők. Ez azért is hasznos, mert ha később más üzlet vagy étterem nyílik ugyanott, akkor nem kell új pontot létrehozni, és visszakövethető lesz az üzlethelyiség története, mi nyílt minek a helyén. Legközelebb eszerint járj el kérlek. Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! -infeeeee</title>
         <link>https://www.openstreetmap.org/changeset/137137707</link>
