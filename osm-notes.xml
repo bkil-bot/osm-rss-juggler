@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3708289 (near North Great Plain, 4025, Hungary) / * 2023 May 27 15:05 tabtomi Created: &amp;quot;Duplicate&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-05-03T17:52:15Z / POI name: Mechwart András Gépipari és Informatikai Szakközépiskola / POI types: building / #organicmaps / * 2023 June 13 12:38 nslxndr Resolved: Redundáns iskolanév eltávolítva az iskolaépületről: https://www.openstreetmap.org/changeset/137284345</title>
+        <link>https://www.openstreetmap.org/note/3708289#c8050089</link>
+        <guid>https://www.openstreetmap.org/note/3708289#c8050089</guid>
+        <pubDate>Tue, 13 Jun 2023 12:38:27 +0000</pubDate>
+      </item><item>
         <title>new comment 3671527 (near Central Hungary, 2131, Hungary) / * 2023 May 2 20:51 vasony Created: Ez a Kincsem park? / * 2023 June 12 00:49 urbalazs Updated: Piac, középen egy ló szobor, de sehol sincs utcanévtábla. Más forrásból kell megoldani. / * 2023 June 13 11:12 vasony Updated: Az épület címe Kincsem park 2, ezt rögzítettem, nem tudom a parkot hogy rajzoljuk fel,</title>
         <link>https://www.openstreetmap.org/note/3671527#c8049882</link>
         <guid>https://www.openstreetmap.org/note/3671527#c8049882</guid>
@@ -362,11 +367,6 @@
         <link>https://www.openstreetmap.org/note/3712189#c8043700</link>
         <guid>https://www.openstreetmap.org/note/3712189#c8043700</guid>
         <pubDate>Sun, 11 Jun 2023 13:22:48 +0000</pubDate>
-      </item><item>
-        <title>new note 3730462 (near Central Hungary, 1174, Hungary) / * 2023 June 11 12:04 Created: onosm.org submitted note from a business: / Name: Bike park szabad május tér / addr:city=Budapest / addr:postcode=1174 / Category: Skate Parks / Accepted payment methods: / takeaway=undefined</title>
-        <link>https://www.openstreetmap.org/note/3730462#c8043468</link>
-        <guid>https://www.openstreetmap.org/note/3730462#c8043468</guid>
-        <pubDate>Sun, 11 Jun 2023 12:04:11 +0000</pubDate>
       </item>
   </channel>
 </rss>
