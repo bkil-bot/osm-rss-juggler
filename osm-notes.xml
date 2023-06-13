@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3702896 (near Central Hungary, 1117, Hungary) / * 2023 May 23 19:40 ITineris Created: Az épületeknek a betűs jelzésen kívül már van rendes utca-házszáma. Melyiknek micsoda? / * 2023 June 13 07:57 vasony Resolved: A bejáratokon vannak a házszámok</title>
+        <link>https://www.openstreetmap.org/note/3702896#c8049352</link>
+        <guid>https://www.openstreetmap.org/note/3702896#c8049352</guid>
+        <pubDate>Tue, 13 Jun 2023 07:57:05 +0000</pubDate>
+      </item><item>
         <title>new note 3733013 (near Central Transdanubia, 8143, Hungary) / * 2023 June 13 06:05 fukejs Created: #Mapy.cz - anonymous user reported: Supermarket Bolt</title>
         <link>https://www.openstreetmap.org/note/3733013#c8049117</link>
         <guid>https://www.openstreetmap.org/note/3733013#c8049117</guid>
@@ -367,11 +372,6 @@
         <link>https://www.openstreetmap.org/note/3730164#c8042707</link>
         <guid>https://www.openstreetmap.org/note/3730164#c8042707</guid>
         <pubDate>Sun, 11 Jun 2023 08:08:06 +0000</pubDate>
-      </item><item>
-        <title>new note 3730159 (near Southern Transdanubia, 8647, Hungary) / * 2023 June 11 08:01 vasony-qa Created: 186 - duplikált házszám</title>
-        <link>https://www.openstreetmap.org/note/3730159#c8042695</link>
-        <guid>https://www.openstreetmap.org/note/3730159#c8042695</guid>
-        <pubDate>Sun, 11 Jun 2023 08:01:29 +0000</pubDate>
       </item>
   </channel>
 </rss>
