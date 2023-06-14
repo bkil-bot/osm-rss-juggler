@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3673558 (near Central Hungary, 2600, Hungary) / * 2023 May 4 09:08 vasony Created: Vörösmarty tér vagy Vörösmarty Mihály tér szerepel az utcatáblán? / * 2023 June 14 22:38 urbalazs Resolved: Az utcanévtáblán csak vezetéknév van, a hivatalos utcajegyzék szerint teljes névvel írandó. Megadtam azt a nevet is.</title>
+        <link>https://www.openstreetmap.org/note/3673558#c8054491</link>
+        <guid>https://www.openstreetmap.org/note/3673558#c8054491</guid>
+        <pubDate>Wed, 14 Jun 2023 22:38:11 +0000</pubDate>
+      </item><item>
+        <title>closed note 3673517 (near Central Hungary, 2600, Hungary) / * 2023 May 4 08:25 vasony Created: Somogyi utca vagy Somogyi Imre utca szerepel az utcatáblán? / * 2023 May 4 08:26 vasony Resolved: Radnóti Miklós utca vagy Radnóti Miklós út szerepel az utcatáblán? / * 2023 May 4 08:26 vasony Reactivated:  / * 2023 May 4 08:27 vasony Updated: Radnótis komment figyelmen kívül hagyandó / * 2023 June 14 22:37 urbalazs Resolved: Az utcanévtáblán csak vezetéknév van, a hivatalos utcajegyzék szerint teljes névvel írandó. Megadtam azt a nevet is.</title>
+        <link>https://www.openstreetmap.org/note/3673517#c8054489</link>
+        <guid>https://www.openstreetmap.org/note/3673517#c8054489</guid>
+        <pubDate>Wed, 14 Jun 2023 22:37:57 +0000</pubDate>
+      </item><item>
+        <title>closed note 3673559 (near Central Hungary, 2600, Hungary) / * 2023 May 4 09:08 vasony Created: Wolkóber utca vagy Wolkóber János utca szerepel az utcatáblán? / * 2023 June 14 22:37 urbalazs Resolved: Az utcanévtáblán csak vezetéknév van, a hivatalos utcajegyzék szerint teljes névvel írandó. Megadtam azt a nevet is.</title>
+        <link>https://www.openstreetmap.org/note/3673559#c8054487</link>
+        <guid>https://www.openstreetmap.org/note/3673559#c8054487</guid>
+        <pubDate>Wed, 14 Jun 2023 22:37:14 +0000</pubDate>
+      </item><item>
         <title>closed note 3716220 (near Central Hungary, 2600, Hungary) / * 2023 June 1 21:07 vasony Created: Papvölgyi út vagy Papvölgy út szerepel az utcatáblán? / * 2023 June 14 21:12 vasony Resolved: Papvölgyi utca</title>
         <link>https://www.openstreetmap.org/note/3716220#c8054306</link>
         <guid>https://www.openstreetmap.org/note/3716220#c8054306</guid>
@@ -312,36 +327,6 @@
         <link>https://www.openstreetmap.org/note/3733814#c8050810</link>
         <guid>https://www.openstreetmap.org/note/3733814#c8050810</guid>
         <pubDate>Tue, 13 Jun 2023 16:37:33 +0000</pubDate>
-      </item><item>
-        <title>closed note 2449185 (near South Great Plain, 6800, Hungary) / * 2023 June 13 16:36 ITineris Resolved: A Kálvin János téren továbbra is sima körforgalom van az OSM-en. A kedvedért csináltam oda külön jegyzetet.</title>
-        <link>https://www.openstreetmap.org/note/2449185#c8050808</link>
-        <guid>https://www.openstreetmap.org/note/2449185#c8050808</guid>
-        <pubDate>Tue, 13 Jun 2023 16:36:42 +0000</pubDate>
-      </item><item>
-        <title>reactivated note 2449185 (near South Great Plain, 6800, Hungary) / * 2023 June 13 16:35 ITineris Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/2449185#c8050806</link>
-        <guid>https://www.openstreetmap.org/note/2449185#c8050806</guid>
-        <pubDate>Tue, 13 Jun 2023 16:35:28 +0000</pubDate>
-      </item><item>
-        <title>new comment 3718932 (near Homokdűlő, Vác) / * 2023 June 3 20:22 Created: Lehotka park vagy Lehotka Gábor park szerepel az utcatáblán? / * 2023 June 13 16:33 vasony Updated: ez én voltam</title>
-        <link>https://www.openstreetmap.org/note/3718932#c8050801</link>
-        <guid>https://www.openstreetmap.org/note/3718932#c8050801</guid>
-        <pubDate>Tue, 13 Jun 2023 16:33:41 +0000</pubDate>
-      </item><item>
-        <title>closed note 1447068 (near South Great Plain, 6000, Hungary) / * 2018 July 7 11:34 gabro00 Created: Valaki aki kecskeméti, nézzen már rá a reptérre. Van itt minden: Kecskemét AFB, Kecskeméti Katonai Repülőtér és MH 59. Szentgyörgyi Dezső Repülőbázis is. Nem katonai reptérként jelölve a reptér, hanem barakként stb., szóval katyvasz. / * 2018 December 14 15:25 MarsupilamiEater Updated: +1 / Nem szabályszerű a mapping mert a renderelőnek lett térképezve. A kifútó nem lehet terület csak vonal, a felfestéseket pedig nem szabadna feltérképezni. / * 2023 June 13 16:27 urbalazs Resolved: Ez a jegyzet 5 éves, a hozzászólás 4 éves. Az elmúlt 4 évben többször is szerkesztették a repülőteret. Ha valami még mindig nem jó, akkor nyissatok új jegyzetet pontosan a hibás helyre a megfelelő szöveggel. Ezt most lezárom.</title>
-        <link>https://www.openstreetmap.org/note/1447068#c8050781</link>
-        <guid>https://www.openstreetmap.org/note/1447068#c8050781</guid>
-        <pubDate>Tue, 13 Jun 2023 16:27:47 +0000</pubDate>
-      </item><item>
-        <title>closed note 3595033 (near South Great Plain, 6000, Hungary) / * 2023 March 12 14:10 Created: &amp;quot;Expand and look into this POI whenever possible. there is a plaque on the wall.&amp;quot; / OSM snapshot date: 2022-12-16T15:17:23Z / POI name: Kada elek háza / POI types: historic-memorial / #organicmaps / * 2023 June 13 16:24 urbalazs Resolved: Időközben megoldották.</title>
-        <link>https://www.openstreetmap.org/note/3595033#c8050767</link>
-        <guid>https://www.openstreetmap.org/note/3595033#c8050767</guid>
-        <pubDate>Tue, 13 Jun 2023 16:24:29 +0000</pubDate>
-      </item><item>
-        <title>closed note 2988524 (near South Great Plain, 6000, Hungary) / * 2021 December 30 10:39 GBAB Created: This area was reconstructed and should be thoroughly resurveyed. / * 2023 June 13 16:23 urbalazs Resolved: 3 hónappal ezelőtt pontosították.</title>
-        <link>https://www.openstreetmap.org/note/2988524#c8050765</link>
-        <guid>https://www.openstreetmap.org/note/2988524#c8050765</guid>
-        <pubDate>Tue, 13 Jun 2023 16:23:41 +0000</pubDate>
       </item>
   </channel>
 </rss>
