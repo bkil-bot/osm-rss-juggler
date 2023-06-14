@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3716220 (near Central Hungary, 2600, Hungary) / * 2023 June 1 21:07 vasony Created: Papvölgyi út vagy Papvölgy út szerepel az utcatáblán? / * 2023 June 14 21:12 vasony Resolved: Papvölgyi utca</title>
+        <link>https://www.openstreetmap.org/note/3716220#c8054306</link>
+        <guid>https://www.openstreetmap.org/note/3716220#c8054306</guid>
+        <pubDate>Wed, 14 Jun 2023 21:12:32 +0000</pubDate>
+      </item><item>
+        <title>new note 3735395 (near Central Transdanubia, 8228, Hungary) / * 2023 June 14 20:50 vasony Created: ez a távvezeték megvan még?</title>
+        <link>https://www.openstreetmap.org/note/3735395#c8054244</link>
+        <guid>https://www.openstreetmap.org/note/3735395#c8054244</guid>
+        <pubDate>Wed, 14 Jun 2023 20:50:19 +0000</pubDate>
+      </item><item>
         <title>new note 3735349 (near Southern Transdanubia, 8646, Hungary) / * 2023 June 14 19:49 ugesch Created: Die Gaststätte existiert nicht mehr.</title>
         <link>https://www.openstreetmap.org/note/3735349#c8054111</link>
         <guid>https://www.openstreetmap.org/note/3735349#c8054111</guid>
@@ -332,16 +342,6 @@
         <link>https://www.openstreetmap.org/note/2988524#c8050765</link>
         <guid>https://www.openstreetmap.org/note/2988524#c8050765</guid>
         <pubDate>Tue, 13 Jun 2023 16:23:41 +0000</pubDate>
-      </item><item>
-        <title>closed note 3708368 (near South Great Plain, 6000, Hungary) / * 2023 May 27 15:38 Created: 84:0D:8E:E1:29:D0 / * 2023 June 13 16:22 urbalazs Resolved: Elnézést, ez a térképjegyzet hiányos. Adjon részletes leírást arról a problémáról, amit jelenteni szeretne.</title>
-        <link>https://www.openstreetmap.org/note/3708368#c8050758</link>
-        <guid>https://www.openstreetmap.org/note/3708368#c8050758</guid>
-        <pubDate>Tue, 13 Jun 2023 16:22:16 +0000</pubDate>
-      </item><item>
-        <title>closed note 3675160 (near Central Hungary, 2132, Hungary) / * 2023 May 5 08:45 vasony Created: Latabár tér vagy Latabár Kálmán tér szerepel az utcatáblán? / * 2023 June 12 00:48 urbalazs Updated: Nincs utcanévtábla. Más forrásból kell megoldani. / * 2023 June 13 16:19 vasony Resolved: Minden forrás szerint Latabár Kálmán tér, javítottam.</title>
-        <link>https://www.openstreetmap.org/note/3675160#c8050752</link>
-        <guid>https://www.openstreetmap.org/note/3675160#c8050752</guid>
-        <pubDate>Tue, 13 Jun 2023 16:19:45 +0000</pubDate>
       </item>
   </channel>
 </rss>
