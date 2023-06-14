@@ -3,6 +3,41 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3673497 (near Central Hungary, 2600, Hungary) / * 2023 May 4 08:09 Created: Farkasfalvi Imre utca vagy Farkasfalvy Imre utca szerepel az utcatáblán? / * 2023 May 4 08:09 vasony Updated: én voltam / * 2023 June 14 00:35 urbalazs Resolved: Csak vezetéknévvel, de I-vel a végén van a táblán. A hivatalos utcajegyzék szerint teljes névvel van, megadtam azt is.</title>
+        <link>https://www.openstreetmap.org/note/3673497#c8051802</link>
+        <guid>https://www.openstreetmap.org/note/3673497#c8051802</guid>
+        <pubDate>Wed, 14 Jun 2023 00:35:56 +0000</pubDate>
+      </item><item>
+        <title>closed note 3673572 (near Central Hungary, 2600, Hungary) / * 2023 May 4 09:18 vasony Created: Báthori utca vagy Báthori Miklós utca szerepel az utcatáblán? / * 2023 June 14 00:31 urbalazs Resolved: Csak vezetéknévvel van, de a hivatalos utcanévjegyzékben teljes névvel van. Megadtam azt is.</title>
+        <link>https://www.openstreetmap.org/note/3673572#c8051798</link>
+        <guid>https://www.openstreetmap.org/note/3673572#c8051798</guid>
+        <pubDate>Wed, 14 Jun 2023 00:31:18 +0000</pubDate>
+      </item><item>
+        <title>closed note 3673504 (near Central Hungary, 2600, Hungary) / * 2023 May 4 08:14 vasony Created: Kossuth tér vagy Kossuth Lajos tér szerepel az utcatáblán? / * 2023 June 14 00:26 urbalazs Resolved: Csak vezetéknévvel van, de a hivatalos utcanévjegyzékben teljes névvel van. Megadtam azt is.</title>
+        <link>https://www.openstreetmap.org/note/3673504#c8051796</link>
+        <guid>https://www.openstreetmap.org/note/3673504#c8051796</guid>
+        <pubDate>Wed, 14 Jun 2023 00:26:50 +0000</pubDate>
+      </item><item>
+        <title>closed note 3673495 (near Central Hungary, 2600, Hungary) / * 2023 May 4 08:07 Created: Eötvös utca vagy Eötvös József utca szerepel az utcatáblán? / * 2023 June 14 00:24 urbalazs Resolved: Csak vezetéknévvel van, de a hivatalos utcanévjegyzékben teljes névvel van. Megadtam azt is.</title>
+        <link>https://www.openstreetmap.org/note/3673495#c8051795</link>
+        <guid>https://www.openstreetmap.org/note/3673495#c8051795</guid>
+        <pubDate>Wed, 14 Jun 2023 00:24:00 +0000</pubDate>
+      </item><item>
+        <title>closed note 3716227 (near Central Hungary, 2600, Hungary) / * 2023 June 1 21:24 vasony Created: Konstantin tér vagy Schuszter Konstantin tér szerepel az utcatáblán? / * 2023 June 14 00:21 urbalazs Resolved: Csak vezetéknévvel van, de a hivatalos utcanévjegyzékben teljes névvel van. Megadtam azt is.</title>
+        <link>https://www.openstreetmap.org/note/3716227#c8051791</link>
+        <guid>https://www.openstreetmap.org/note/3716227#c8051791</guid>
+        <pubDate>Wed, 14 Jun 2023 00:21:46 +0000</pubDate>
+      </item><item>
+        <title>closed note 3673516 (near Central Hungary, 2600, Hungary) / * 2023 May 4 08:25 vasony Created: Petróczy utca vagy Petróczy László utca szerepel az utcatáblán? / * 2023 June 14 00:21 urbalazs Resolved: Csak vezetéknévvel van, de a hivatalos utcanévjegyzékben teljes névvel van. Megadtam azt is.</title>
+        <link>https://www.openstreetmap.org/note/3673516#c8051790</link>
+        <guid>https://www.openstreetmap.org/note/3673516#c8051790</guid>
+        <pubDate>Wed, 14 Jun 2023 00:21:36 +0000</pubDate>
+      </item><item>
+        <title>closed note 3673506 (near Central Hungary, 2600, Hungary) / * 2023 May 4 08:15 vasony Created: Kossuth utca vagy Kossuth Lajos utca szerepel az utcatáblán? / * 2023 June 14 00:20 urbalazs Resolved: Csak vezetéknévvel van, de a hivatalos utcanévjegyzékben teljes névvel van. Megadtam azt is.</title>
+        <link>https://www.openstreetmap.org/note/3673506#c8051788</link>
+        <guid>https://www.openstreetmap.org/note/3673506#c8051788</guid>
+        <pubDate>Wed, 14 Jun 2023 00:20:48 +0000</pubDate>
+      </item><item>
         <title>closed note 3643296 (near Central Hungary, 2600, Hungary) / * 2023 April 15 06:49 vasony Created: Mátyás utca vagy Mátyás király utca szerepel az utcatáblán? / * 2023 June 14 00:18 urbalazs Resolved: Mátyás király utca van kitáblázva, javítottam.</title>
         <link>https://www.openstreetmap.org/note/3643296#c8051785</link>
         <guid>https://www.openstreetmap.org/note/3643296#c8051785</guid>
@@ -337,46 +372,6 @@
         <link>https://www.openstreetmap.org/note/3732462#c8047783</link>
         <guid>https://www.openstreetmap.org/note/3732462#c8047783</guid>
         <pubDate>Mon, 12 Jun 2023 17:36:33 +0000</pubDate>
-      </item><item>
-        <title>new note 3732461 (near Central Hungary, 2024, Hungary) / * 2023 June 12 17:36 fancsali Created: Pad.</title>
-        <link>https://www.openstreetmap.org/note/3732461#c8047780</link>
-        <guid>https://www.openstreetmap.org/note/3732461#c8047780</guid>
-        <pubDate>Mon, 12 Jun 2023 17:36:22 +0000</pubDate>
-      </item><item>
-        <title>new note 3732460 (near Central Hungary, 2024, Hungary) / * 2023 June 12 17:36 fancsali Created: 19</title>
-        <link>https://www.openstreetmap.org/note/3732460#c8047779</link>
-        <guid>https://www.openstreetmap.org/note/3732460#c8047779</guid>
-        <pubDate>Mon, 12 Jun 2023 17:36:20 +0000</pubDate>
-      </item><item>
-        <title>new note 3732458 (near Central Hungary, 2024, Hungary) / * 2023 June 12 17:36 fancsali Created: Pad.</title>
-        <link>https://www.openstreetmap.org/note/3732458#c8047777</link>
-        <guid>https://www.openstreetmap.org/note/3732458#c8047777</guid>
-        <pubDate>Mon, 12 Jun 2023 17:36:05 +0000</pubDate>
-      </item><item>
-        <title>new note 3732457 (near Central Hungary, 2024, Hungary) / * 2023 June 12 17:36 fancsali Created: Vízmű átemelő</title>
-        <link>https://www.openstreetmap.org/note/3732457#c8047776</link>
-        <guid>https://www.openstreetmap.org/note/3732457#c8047776</guid>
-        <pubDate>Mon, 12 Jun 2023 17:36:00 +0000</pubDate>
-      </item><item>
-        <title>new note 3732456 (near Central Transdanubia, 8225, Hungary) / * 2023 June 12 17:34 vasony Created: uradalmi birtok volt, már nincs</title>
-        <link>https://www.openstreetmap.org/note/3732456#c8047772</link>
-        <guid>https://www.openstreetmap.org/note/3732456#c8047772</guid>
-        <pubDate>Mon, 12 Jun 2023 17:34:57 +0000</pubDate>
-      </item><item>
-        <title>closed note 3496916 (near Vörösberény, Balatonalmádi) / * 2022 December 29 17:58 vasony Created: 46 vagy 48? / * 2023 June 12 16:19 vasony Resolved: 48</title>
-        <link>https://www.openstreetmap.org/note/3496916#c8047563</link>
-        <guid>https://www.openstreetmap.org/note/3496916#c8047563</guid>
-        <pubDate>Mon, 12 Jun 2023 16:19:35 +0000</pubDate>
-      </item><item>
-        <title>closed note 3726459 (near Southern Transdanubia, 7100, Hungary) / * 2023 June 12 15:37 vasony Resolved: Áttettem az utcát alt_name-be, a lakótelep került a névbe.</title>
-        <link>https://www.openstreetmap.org/note/3726459#c8047457</link>
-        <guid>https://www.openstreetmap.org/note/3726459#c8047457</guid>
-        <pubDate>Mon, 12 Jun 2023 15:37:44 +0000</pubDate>
-      </item><item>
-        <title>closed note 2911965 (near Farkaskútvölgy, Felsőtold) / * 2021 October 27 08:08 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: Correct name od observation tower is &amp;#39;Isten Tenyere Kilátó&amp;#39; / https://www.openstreetmap.org/node/8434415450 / * 2023 June 12 15:02 infeeeee Resolved: Updated: https://www.openstreetmap.org/changeset/137248669</title>
-        <link>https://www.openstreetmap.org/note/2911965#c8047336</link>
-        <guid>https://www.openstreetmap.org/note/2911965#c8047336</guid>
-        <pubDate>Mon, 12 Jun 2023 15:02:13 +0000</pubDate>
       </item>
   </channel>
 </rss>
