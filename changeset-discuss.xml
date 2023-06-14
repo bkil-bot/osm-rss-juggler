@@ -72,11 +72,6 @@
         <link>https://www.openstreetmap.org/changeset/137014587</link>
         <guid>https://www.openstreetmap.org/changeset/137014587#comment_3</guid>
         <pubDate>2023-06-08T11:15:15+02:00</pubDate>
-      </item><item>
-        <title>Szia! Bezárt üzleteknél a disused: prefix használata ajánlott a pont törlése helyett. https://wiki.openstreetmap.org/wiki/Key:disused:* Tehát elég lett volna, ha csak az shop=antiques címkét átjavítod disused:shop=antiques-ra, így már nem jelenítik meg a megjelenítők. Ez azért is hasznos, mert ha később más üzlet nyílik ugyanott, akkor nem kell új pontot létrehozni, és visszakövethető lesz az üzlethelyiség története, mi nyílt minek a helyén. További jó térképezést! -infeeeee</title>
-        <link>https://www.openstreetmap.org/changeset/137041574</link>
-        <guid>https://www.openstreetmap.org/changeset/137041574#comment_1</guid>
-        <pubDate>2023-06-07T13:06:16+02:00</pubDate>
       </item>
   </channel>
 </rss>
