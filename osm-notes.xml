@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3703789 (near Central Hungary, 2600, Hungary) / * 2023 May 24 12:22 vasony Created: Bakator utca van itt valahol? / * 2023 June 15 22:45 urbalazs Resolved: Nem, kb. 1 km-re DNY felé.</title>
+        <link>https://www.openstreetmap.org/note/3703789#c8057205</link>
+        <guid>https://www.openstreetmap.org/note/3703789#c8057205</guid>
+        <pubDate>Thu, 15 Jun 2023 22:45:40 +0000</pubDate>
+      </item><item>
+        <title>closed note 3716568 (near Central Hungary, 2600, Hungary) / * 2023 June 2 09:27 vasony Created: Felsőzsobrák dűlő létezik még? Nem szerepel a váci dűlő listában / * 2023 June 15 22:44 urbalazs Resolved: Ez egy telek udvarán lévő kocsibeálló, nem utca. Nincs külön helyrajzi száma sem. Töröltem.</title>
+        <link>https://www.openstreetmap.org/note/3716568#c8057202</link>
+        <guid>https://www.openstreetmap.org/note/3716568#c8057202</guid>
+        <pubDate>Thu, 15 Jun 2023 22:44:25 +0000</pubDate>
+      </item><item>
         <title>closed note 3703745 (near Central Hungary, 2600, Hungary) / * 2023 May 24 12:05 vasony Created: Bácska dűlő, mint utcanév létezik még? / * 2023 June 15 22:00 urbalazs Resolved: A Bácska dűlő mint utcanév sosem létezett. A hivatalos utcanévjegyzék szerint ez a szakasz is Bácska utca. Javítottam a nevet.</title>
         <link>https://www.openstreetmap.org/note/3703745#c8057135</link>
         <guid>https://www.openstreetmap.org/note/3703745#c8057135</guid>
@@ -297,16 +307,6 @@
         <link>https://www.openstreetmap.org/note/3673459#c8051761</link>
         <guid>https://www.openstreetmap.org/note/3673459#c8051761</guid>
         <pubDate>Wed, 14 Jun 2023 00:01:53 +0000</pubDate>
-      </item><item>
-        <title>closed note 3715869 (near Central Hungary, 2600, Hungary) / * 2023 June 1 18:18 urbalazs Created: Dr. Jávorszky Ödön sétány vagy Jávorszky sétány van az utcatáblán? / * 2023 June 14 00:00 urbalazs Resolved: Jávorszky sétány van kitáblázva, de az utcanévjegyzék szerint a hivatalos neve Dr. Jávorszky Ödön sétány. Azt is megadtam.</title>
-        <link>https://www.openstreetmap.org/note/3715869#c8051760</link>
-        <guid>https://www.openstreetmap.org/note/3715869#c8051760</guid>
-        <pubDate>Wed, 14 Jun 2023 00:00:43 +0000</pubDate>
-      </item><item>
-        <title>closed note 3716209 (near Homokdűlő, Vác) / * 2023 June 1 20:54 vasony Created: Csukatelep vagy Csukatelep utca szerepel az utcatáblán? / * 2023 June 13 23:59 urbalazs Resolved: Nincs utcanévtábla, ez egy ipartelep belső útja. Meghagytam a nevet rajta.</title>
-        <link>https://www.openstreetmap.org/note/3716209#c8051759</link>
-        <guid>https://www.openstreetmap.org/note/3716209#c8051759</guid>
-        <pubDate>Tue, 13 Jun 2023 23:59:54 +0000</pubDate>
       </item>
   </channel>
 </rss>
