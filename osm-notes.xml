@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3735965 (near Transdanubia, 8427, Hungary) / * 2023 June 15 10:39 Tajtrdlik Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;There is located Nárdusz Vendégház és Zarándokszállás&amp;quot;.</title>
+        <link>https://www.openstreetmap.org/note/3735965#c8055540</link>
+        <guid>https://www.openstreetmap.org/note/3735965#c8055540</guid>
+        <pubDate>Thu, 15 Jun 2023 10:39:55 +0000</pubDate>
+      </item><item>
         <title>new comment 3734556 (near Central Hungary, 2600, Hungary) / * 2023 June 14 23:59 urbalazs Updated: Az újabb alapján átneveztem Fenyves közre Szőlőtőke utcáról.</title>
         <link>https://www.openstreetmap.org/note/3734556#c8054558</link>
         <guid>https://www.openstreetmap.org/note/3734556#c8054558</guid>
@@ -307,21 +312,6 @@
         <link>https://www.openstreetmap.org/note/3733814#c8050982</link>
         <guid>https://www.openstreetmap.org/note/3733814#c8050982</guid>
         <pubDate>Tue, 13 Jun 2023 17:30:09 +0000</pubDate>
-      </item><item>
-        <title>closed note 3729232 (near Transdanubia, 8200, Hungary) / * 2023 June 10 15:11 ironalloy Created: &amp;quot;megszűnt&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-06-02T17:16:21Z / POI name: retro hamburger / POI types: cuisine-burger amenity-fast_food / #organicmaps / * 2023 June 13 17:29 ironalloy Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3729232#c8050977</link>
-        <guid>https://www.openstreetmap.org/note/3729232#c8050977</guid>
-        <pubDate>Tue, 13 Jun 2023 17:29:06 +0000</pubDate>
-      </item><item>
-        <title>closed note 3713661 (near Vörösberény, Balatonalmádi) / * 2023 May 31 05:53 ironalloy Created: &amp;quot;bezárt&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-05-03T17:52:15Z / POI name: AlmádiKert / POI types: shop-garden_centre / #organicmaps / * 2023 June 13 17:26 ironalloy Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3713661#c8050962</link>
-        <guid>https://www.openstreetmap.org/note/3713661#c8050962</guid>
-        <pubDate>Tue, 13 Jun 2023 17:26:47 +0000</pubDate>
-      </item><item>
-        <title>new comment 3733814 (near South Great Plain, 6800, Hungary) / * 2023 June 13 17:23 ITineris Updated: Attól, hogy a lanes=2 részek egymástól fizikailag el vannak választva. Az ökölszabályok szerint ezt két vonallal kellene rajzolni.</title>
-        <link>https://www.openstreetmap.org/note/3733814#c8050939</link>
-        <guid>https://www.openstreetmap.org/note/3733814#c8050939</guid>
-        <pubDate>Tue, 13 Jun 2023 17:23:49 +0000</pubDate>
       </item>
   </channel>
 </rss>

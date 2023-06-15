@@ -57,21 +57,6 @@
         <link>https://www.openstreetmap.org/changeset/137058133</link>
         <guid>https://www.openstreetmap.org/changeset/137058133#comment_1</guid>
         <pubDate>2023-06-09T15:29:26+02:00</pubDate>
-      </item><item>
-        <title>Szia! Utakat és vizeket érdemesebb a FÖMI-ről rajzolni, vagy ha Bing-ről rajzolsz, akkor előtte igazítsd a FÖMI-hez. Méterekkel eltoltad az utakat, viszont a szerkesztés előtt pontosabbak voltak, mint utána. -Narvik2</title>
-        <link>https://www.openstreetmap.org/changeset/135956923</link>
-        <guid>https://www.openstreetmap.org/changeset/135956923#comment_1</guid>
-        <pubDate>2023-06-08T13:15:41+02:00</pubDate>
-      </item><item>
-        <title>Szia! Ez a beszakadt terület létezik még? Tudsz róla valamit? -ssummoner1</title>
-        <link>https://www.openstreetmap.org/changeset/89446735</link>
-        <guid>https://www.openstreetmap.org/changeset/89446735#comment_1</guid>
-        <pubDate>2023-06-08T11:53:05+02:00</pubDate>
-      </item><item>
-        <title>Hát akkor ez ebben az esetben sajnos nem sikerült :) A kanyarodósávok, csak a kereszteződéshez való besorolásra vonatkoznak, sávok fizikai tulajdonságait tartalmazzák, útvonaltervezők általában nem veszik őket figyelembe. Ezt te is leellenőrizheted, itt a térképen, simán enged megfordulni mindegyik beépített útvonaltervező: https://www.osm.org/directions?engine=fossgis_osrm_car&amp;route=47.46744%2C19.05294%3B47.46770%2C19.05319 Kanyarodási korlátozásokra egy külön séma van, és a böngészőben futó iD szerkesztőben (ezt használod) egy nagyon szép felhasználói felület található ehhez, ha egy kereszteződés pontjára kattintasz. Itt egy gif ami megmutatja ezt hogyan kell használni: https://upload.wikimedia.org/wikipedia/commons/3/3e/Turn_restriction_mapping_in_iD_%28animated_gif%29.gif És itt egy részletesebb leírás, hogy ez hogyan működik: https://wiki.openstreetmap.org/wiki/Relation:restriction -infeeeee</title>
-        <link>https://www.openstreetmap.org/changeset/137014587</link>
-        <guid>https://www.openstreetmap.org/changeset/137014587#comment_3</guid>
-        <pubDate>2023-06-08T11:15:15+02:00</pubDate>
       </item>
   </channel>
 </rss>
