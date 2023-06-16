@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: It is still possible to use Samsung Galaxy S4 for wifi scanning?: If you upgrade to Android 5 (and you really should), you'll be able to side-load older (2.67 will be the last) versions of the app. The Google Play Store won't allow us to keep our listing and support devices that old, sadly. We'll be signing and releasing an &quot;Oldroid&quot; branch as well, but I don't know if the community has an appetite for backporting features and updates - we'll see! -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11739#p11739</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11739#p11739</guid>
+        <pubDate>2023-06-16T15:33:12</pubDate>
+      </item><item>
         <title>It is still possible to use Samsung Galaxy S4 for wifi scanning?: Hi, I bought two Samsung Galaxy S4 phones at a good price. Are they still usable for Wigle scanning? are they still supported by the app? I think yes, but I'd rather ask here, thanks. -lukaskicz</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11738#p11738</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11738#p11738</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11580#p11580</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11580#p11580</guid>
         <pubDate>2023-03-01T23:33:19</pubDate>
-      </item><item>
-        <title>Re: Pwnagotchi plugin: I would imagine the same advice as above applies - check your uploads page and see if the pwnagotchi is sending files (correlate it with the logs on your pwnagotchi).As i said everything shows it being sent but nothing in my uploads. -wpa3</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11579#p11579</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11579#p11579</guid>
-        <pubDate>2023-03-01T17:45:18</pubDate>
       </item>
   </channel>
 </rss>
