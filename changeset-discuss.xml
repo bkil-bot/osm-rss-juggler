@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Hi, Csóványos is not a volcano in itself, even if it was formed in a volcanic area, see https://en.wikipedia.org/wiki/Cs%C3%B3v%C3%A1nyos. The peak already exists in the database at its correct location (your point is in a different place). Could we remove this node and (possibly) add the volcano:status and volcano:type tag to the natural=peak node? -andrashann</title>
+        <link>https://www.openstreetmap.org/changeset/136946884</link>
+        <guid>https://www.openstreetmap.org/changeset/136946884#comment_1</guid>
+        <pubDate>2023-06-16T20:58:56+02:00</pubDate>
+      </item><item>
         <title>A wiki írója szerintem nem látott még panelt. Egyébként az olaszoknál sokkal jobb, ott az ajtónak van házszáma és nincs vita. Ahány ajtó a házon annyi házszám akár használják akár nem. De hogy lerövidítsem a mondókát, mert szerintem már mindent is leírtunk, az én véleményem, ha reális ráfordítással eldönthető, hogy melyik a lépcsőház fő bejárata (pl. felmérés, vagy már így van jelölve), akkor azon legyen a házszám, ha nem akkor pakold középre ahogy eddig. -vasony</title>
         <link>https://www.openstreetmap.org/changeset/137216743</link>
         <guid>https://www.openstreetmap.org/changeset/137216743#comment_5</guid>
