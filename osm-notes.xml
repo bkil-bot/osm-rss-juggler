@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>reactivated note 3737467 (near Southern Transdanubia, 7623, Hungary) / * 2023 June 16 12:59 Róbert Weisz Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/3737467#c8058625</link>
+        <guid>https://www.openstreetmap.org/note/3737467#c8058625</guid>
+        <pubDate>Fri, 16 Jun 2023 12:59:23 +0000</pubDate>
+      </item><item>
+        <title>closed note 3737467 (near Southern Transdanubia, 7623, Hungary) / * 2023 June 16 12:59 Róbert Weisz Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3737467#c8058624</link>
+        <guid>https://www.openstreetmap.org/note/3737467#c8058624</guid>
+        <pubDate>Fri, 16 Jun 2023 12:59:19 +0000</pubDate>
+      </item><item>
+        <title>new note 3737467 (near Southern Transdanubia, 7623, Hungary) / * 2023 June 16 12:59 Róbert Weisz Created: Athinay -&amp;gt; Huszár utca / Balra kanyarodni tilos</title>
+        <link>https://www.openstreetmap.org/note/3737467#c8058623</link>
+        <guid>https://www.openstreetmap.org/note/3737467#c8058623</guid>
+        <pubDate>Fri, 16 Jun 2023 12:59:06 +0000</pubDate>
+      </item><item>
         <title>closed note 3703789 (near Central Hungary, 2600, Hungary) / * 2023 May 24 12:22 vasony Created: Bakator utca van itt valahol? / * 2023 June 15 22:45 urbalazs Resolved: Nem, kb. 1 km-re DNY felé.</title>
         <link>https://www.openstreetmap.org/note/3703789#c8057205</link>
         <guid>https://www.openstreetmap.org/note/3703789#c8057205</guid>
@@ -277,31 +292,6 @@
         <link>https://www.openstreetmap.org/note/3673508#c8051769</link>
         <guid>https://www.openstreetmap.org/note/3673508#c8051769</guid>
         <pubDate>Wed, 14 Jun 2023 00:07:32 +0000</pubDate>
-      </item><item>
-        <title>closed note 3673502 (near Central Hungary, 2600, Hungary) / * 2023 May 4 08:12 vasony Created: Jókai utca vagy Jókai Mór utca szerepel az utcatáblán? / * 2023 June 14 00:06 urbalazs Resolved: Teljes névvel van kitáblázva. Javítottam.</title>
-        <link>https://www.openstreetmap.org/note/3673502#c8051768</link>
-        <guid>https://www.openstreetmap.org/note/3673502#c8051768</guid>
-        <pubDate>Wed, 14 Jun 2023 00:06:30 +0000</pubDate>
-      </item><item>
-        <title>closed note 3673526 (near Central Hungary, 2600, Hungary) / * 2023 May 4 08:34 vasony Created: Szilassy utca vagy Szilassy Vince utca szerepel az utcatáblán? / * 2023 June 14 00:05 urbalazs Resolved: Csak vezetéknévvel van, de a hivatalos utcanévjegyzékben teljes névvel van. Megadtam azt is. Érdekesség, hogy az emléktáblán I-vel van írva, nem Y-nal. Valamelyik írásmód így hibás.</title>
-        <link>https://www.openstreetmap.org/note/3673526#c8051766</link>
-        <guid>https://www.openstreetmap.org/note/3673526#c8051766</guid>
-        <pubDate>Wed, 14 Jun 2023 00:05:38 +0000</pubDate>
-      </item><item>
-        <title>closed note 3673487 (near Central Hungary, 2600, Hungary) / * 2023 May 4 08:04 vasony Created: Csávolszky utca vagy Csávolszky József utca szerepel az utcatáblán? / * 2023 June 14 00:04 urbalazs Resolved: Csak vezetéknévvel van, de a hivatalos utcanévjegyzékben teljes névvel van. Megadtam azt is.</title>
-        <link>https://www.openstreetmap.org/note/3673487#c8051765</link>
-        <guid>https://www.openstreetmap.org/note/3673487#c8051765</guid>
-        <pubDate>Wed, 14 Jun 2023 00:04:52 +0000</pubDate>
-      </item><item>
-        <title>closed note 3715745 (near Homokdűlő, Vác) / * 2023 June 1 16:02 urbalazs Created: Edison utca vagy Thomas Edison utca van az utcatáblán? / * 2023 June 14 00:03 urbalazs Resolved: Csak a vezetéknév van kitáblázva, a hivatalos utcanévjegyzék szerint viszont Thomas Edison utca, így azt is megadtam.</title>
-        <link>https://www.openstreetmap.org/note/3715745#c8051763</link>
-        <guid>https://www.openstreetmap.org/note/3715745#c8051763</guid>
-        <pubDate>Wed, 14 Jun 2023 00:03:27 +0000</pubDate>
-      </item><item>
-        <title>closed note 3673514 (near Central Hungary, 2600, Hungary) / * 2023 May 4 08:24 vasony Created: Pálffy utca vagy Pálffy Miklós utca szerepel az utcatáblán? / * 2023 June 14 00:02 urbalazs Resolved: Az utca nyugati végén csak vezetéknévvel van, a keleti végén pedig teljes névvel. A hivatalos utcanévjegyzék szerint Pálffy Miklós utca, ami ellentmond az utcanévtábla melletti emléktáblával. javítottam a nevet.</title>
-        <link>https://www.openstreetmap.org/note/3673514#c8051762</link>
-        <guid>https://www.openstreetmap.org/note/3673514#c8051762</guid>
-        <pubDate>Wed, 14 Jun 2023 00:02:46 +0000</pubDate>
       </item>
   </channel>
 </rss>
