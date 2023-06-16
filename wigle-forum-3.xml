@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>It is still possible to use Samsung Galaxy S4 for wifi scanning?: Hi, I bought two Samsung Galaxy S4 phones at a good price. Are they still usable for Wigle scanning? are they still supported by the app? I think yes, but I'd rather ask here, thanks. -lukaskicz</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11738#p11738</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11738#p11738</guid>
+        <pubDate>2023-06-16T05:29:39</pubDate>
+      </item><item>
         <title>Re: iOS App for Wardriving: we continue to push, but the API isn't supported and we can't list on the app store. If anyone manages to get anything through apple. don't hesitate to let us know! -arkasha</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11721#p11721</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11721#p11721</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11579#p11579</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11579#p11579</guid>
         <pubDate>2023-03-01T17:45:18</pubDate>
-      </item><item>
-        <title>Re: Pwnagotchi plugin: I would imagine the same advice as above applies - check your uploads page and see if the pwnagotchi is sending files (correlate it with the logs on your pwnagotchi). -arkasha</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11578#p11578</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11578#p11578</guid>
-        <pubDate>2023-03-01T17:33:53</pubDate>
       </item>
   </channel>
 </rss>
