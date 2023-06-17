@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Delta Chat has a pretty wild development model compared to more regular places with VC or Coin or NGO funding. It is partly based on money but also on helping each other out in diverse situations of which there are too many to summarize them, also considering that most countries are in a more or less critical crisis state. This all requires different cooperation practices going far beyond &amp;quot;agile&amp;quot; or &amp;quot;waterfall&amp;quot; dichotomies ... see also our last December UIdev post https://delta.chat/en/2022-12-15-uidevjob</title>
+        <link>https://chaos.social/@delta/110559792208628884</link>
+        <guid>https://chaos.social/@delta/110559792208628884</guid>
+        <pubDate>Sat, 17 Jun 2023 13:29:08 +0000</pubDate>
+      </item><item>
         <title>Earlier this year we got into a surprising and somewhat annoying struggle with Web browser sandboxing failures related to our &amp;quot;web apps shared in a chat&amp;quot; feature. After much background work we released the hardened Delta Chat 1.36 series, also addressing a dedicated fourth independent security audit, and can finally share more of what was going on behind the scenes https://delta.chat/en/2023-05-22-webxdc-security #chromium #deltachat #security #webxdc</title>
         <link>https://chaos.social/@delta/110412649302291193</link>
         <guid>https://chaos.social/@delta/110412649302291193</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/109031822203876059</link>
         <guid>https://chaos.social/@delta/109031822203876059</guid>
         <pubDate>Tue, 20 Sep 2022 17:06:16 +0000</pubDate>
-      </item><item>
-        <title>A little tech preview for Delta Chat iOS to easily setup a second device, under the hood using the fast evolving Rust implementation of @IPFS@twitter.com https://github.com/n0-computer/iroh/ -- not the only use we are envisioning of this interesting P2P effort ;)</title>
-        <link>https://chaos.social/@delta/108713762311078206</link>
-        <guid>https://chaos.social/@delta/108713762311078206</guid>
-        <pubDate>Tue, 26 Jul 2022 12:59:27 +0000</pubDate>
       </item>
   </channel>
 </rss>
