@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>OSM Relatify is a new web tool designed to simplify the process of editing public transport relations in #OpenStreetMap. A key feature is the smart routing logic to automatically construct bus routes from given bus stops and ways, taking into account factors like one-way streets and roundabouts. https://www.openstreetmap.org/user/NorthCrab/diary/401755 #OSMRelatify Screenshot of OSM Relatify, a tool to simplify editing public transport relations within OpenStreetMap</title>
+        <link>https://en.osm.town/@Doudouosm/110567313565719765</link>
+        <guid>https://en.osm.town/@Doudouosm/110567313565719765</guid>
+        <pubDate>Sun, 18 Jun 2023 21:21:54 +0000</pubDate>
+      </item><item>
         <title>This month, the #OpenStreetMap Belgium’s Mapper of the Month #MotM is @zverik (Ilya), probably already known to you for his #Everydoor or #OSMCards projects (and a lot more, of course): https://openstreetmap.be/en/motm/2023/06/01/zverev.html.</title>
         <link>https://en.osm.town/@Doudouosm/110486377306160827</link>
         <guid>https://en.osm.town/@Doudouosm/110486377306160827</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/109218110165462627</link>
         <guid>https://en.osm.town/@Doudouosm/109218110165462627</guid>
         <pubDate>Sun, 23 Oct 2022 14:41:44 +0000</pubDate>
-      </item><item>
-        <title>Always nice to red practical experience from the field to contribute to #OpenStreetMap. With #EveryDoor, this time: https://www.openstreetmap.org/</title>
-        <link>https://en.osm.town/@Doudouosm/109122398944848870</link>
-        <guid>https://en.osm.town/@Doudouosm/109122398944848870</guid>
-        <pubDate>Thu, 06 Oct 2022 17:01:07 +0000</pubDate>
       </item>
   </channel>
 </rss>
