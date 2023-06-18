@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3740375 (near Meggyespuszta, Szentkirályszabadja) / * 2023 June 18 11:53 vasony Created: itt nincs ut</title>
+        <link>https://www.openstreetmap.org/note/3740375#c8064459</link>
+        <guid>https://www.openstreetmap.org/note/3740375#c8064459</guid>
+        <pubDate>Sun, 18 Jun 2023 11:53:07 +0000</pubDate>
+      </item><item>
+        <title>new note 3740240 (near Transdanubia, 9433, Hungary) / * 2023 June 18 10:31 efi99 Created: cím jó?</title>
+        <link>https://www.openstreetmap.org/note/3740240#c8064233</link>
+        <guid>https://www.openstreetmap.org/note/3740240#c8064233</guid>
+        <pubDate>Sun, 18 Jun 2023 10:31:20 +0000</pubDate>
+      </item><item>
+        <title>new comment 3083064 (near Transdanubia, 9433, Hungary) / * 2022 March 10 21:32 efi99 Created: házszám? / * 2023 June 18 10:30 efi99 Updated: cím jó:</title>
+        <link>https://www.openstreetmap.org/note/3083064#c8064232</link>
+        <guid>https://www.openstreetmap.org/note/3083064#c8064232</guid>
+        <pubDate>Sun, 18 Jun 2023 10:30:52 +0000</pubDate>
+      </item><item>
+        <title>closed note 3740132 (near Central Transdanubia, 2462, Hungary) / * 2023 June 18 10:21 urbalazs Resolved: A Móra Ferenc köz - Béke utca sarkán lévő utcanévtáblán teljes névvel van. Javítottam a nevet a 137472991 módosításcsomagban.</title>
+        <link>https://www.openstreetmap.org/note/3740132#c8064196</link>
+        <guid>https://www.openstreetmap.org/note/3740132#c8064196</guid>
+        <pubDate>Sun, 18 Jun 2023 10:21:39 +0000</pubDate>
+      </item><item>
         <title>new comment 3730548 (near Almádi, Balatonalmádi) / * 2023 June 11 13:22 vasony Created: hova került a lezáró oszlop? / https://balatonalmadi.hu/hirek/1597-forgalmirend-valtozas / * 2023 June 18 10:06 vasony Updated: pont ide</title>
         <link>https://www.openstreetmap.org/note/3730548#c8064146</link>
         <guid>https://www.openstreetmap.org/note/3730548#c8064146</guid>
@@ -252,26 +272,6 @@
         <link>https://www.openstreetmap.org/note/3733703#c8052688</link>
         <guid>https://www.openstreetmap.org/note/3733703#c8052688</guid>
         <pubDate>Wed, 14 Jun 2023 10:07:12 +0000</pubDate>
-      </item><item>
-        <title>new note 3734601 (near Central Transdanubia, 8226, Hungary) / * 2023 June 14 09:34 GUIDE@HAND Created: Tisztelt Fejlesztők! / Tegnapi napon Alsóörsön járva azt tapasztaltuk, hogy a jelzett ponttól a térképen a Séd patak part mentén jelzett &amp;quot;Vadrózsa utca&amp;quot; jelölés már nem helyes, mert az ma már a &amp;quot;Mihálkovics sétány&amp;quot; folytatása. Google Maps-en is ellenőriztük, ott helyesen szerepel. / Kérjük javítsák ezt a térképen, hogy elsősorban a túristáknak ez ne okozzon problémát. / --------------------------------------- / Yesterday, while visiting Alsóörs, we noticed that the name &amp;quot;Vadrózsa utca&amp;quot; indicated on the map along &amp;quot;Séd patak&amp;quot; is not correct, because it is now the continuation of &amp;quot;Mihálkovics sétány&amp;quot;. We also checked it on Google Maps, it is correct there. / Please fix this on the map so that it does not cause problems for tourists. / Tisztelettel: / GUIDE@HAND fejlesztő csapata / guideathand@gmail.com</title>
-        <link>https://www.openstreetmap.org/note/3734601#c8052622</link>
-        <guid>https://www.openstreetmap.org/note/3734601#c8052622</guid>
-        <pubDate>Wed, 14 Jun 2023 09:34:52 +0000</pubDate>
-      </item><item>
-        <title>new note 3734556 (near Central Hungary, 2600, Hungary) / * 2023 June 14 09:03 vasony Created: Szőlőtőke utca vagy Fenyves köz, 2 határozat is van rá</title>
-        <link>https://www.openstreetmap.org/note/3734556#c8052537</link>
-        <guid>https://www.openstreetmap.org/note/3734556#c8052537</guid>
-        <pubDate>Wed, 14 Jun 2023 09:03:58 +0000</pubDate>
-      </item><item>
-        <title>new note 3734484 (near Homokdűlő, Vác) / * 2023 June 14 07:59 vasony Created: itt mi szerepel az utcatáblán?</title>
-        <link>https://www.openstreetmap.org/note/3734484#c8052404</link>
-        <guid>https://www.openstreetmap.org/note/3734484#c8052404</guid>
-        <pubDate>Wed, 14 Jun 2023 07:59:30 +0000</pubDate>
-      </item><item>
-        <title>new note 3734483 (near Homokdűlő, Vác) / * 2023 June 14 07:59 vasony Created: Mi szerepel az utcatáblán Kertvárosi út vagy Kertvárosi utca?</title>
-        <link>https://www.openstreetmap.org/note/3734483#c8052403</link>
-        <guid>https://www.openstreetmap.org/note/3734483#c8052403</guid>
-        <pubDate>Wed, 14 Jun 2023 07:59:30 +0000</pubDate>
       </item>
   </channel>
 </rss>
