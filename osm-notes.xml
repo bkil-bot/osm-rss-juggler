@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3561317 (near Transdanubia, 8200, Hungary) / * 2023 February 16 08:24 ironalloy Created: Itt az elhagyott vasútvonalat nem kellene jelezni. Már nem látható a nyomvonala (?),  ilyenkor eltávolítandó a wiki szerint / * 2023 June 19 11:18 ironalloy Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3561317#c8067653</link>
+        <guid>https://www.openstreetmap.org/note/3561317#c8067653</guid>
+        <pubDate>Mon, 19 Jun 2023 11:18:20 +0000</pubDate>
+      </item><item>
         <title>new comment 3485459 (near Homokdűlő, Vác) / * 2022 December 21 09:27 vasony Created: Mi az utca neve Homok utca, Homok dűlő? / * 2023 May 4 08:39 vasony Updated: nem messze van egy Homokdűlő útnak jelölt út is / * 2023 June 19 06:23 urbalazs Updated: Ennek az útnak nincs külön helyrajzi száma, a rendezési terven a telkek a vasút területéig tartanak, így ennek az útnak (amely valóban létezik) nem lesz hivatalos neve. Van valahol utcanévtábla?</title>
         <link>https://www.openstreetmap.org/note/3485459#c8066833</link>
         <guid>https://www.openstreetmap.org/note/3485459#c8066833</guid>
@@ -287,31 +292,6 @@
         <link>https://www.openstreetmap.org/note/3699597#c8057023</link>
         <guid>https://www.openstreetmap.org/note/3699597#c8057023</guid>
         <pubDate>Thu, 15 Jun 2023 20:03:17 +0000</pubDate>
-      </item><item>
-        <title>new note 3736410 (near North Hungary, 3534, Hungary) / * 2023 June 15 15:41 Created: onosm.org submitted note from a business: / Name: توب ليڤل للحلاقة Top level / addr:street=PM57+PW9، الرحمانية، الرياض 12341 / addr:city=الرياض / addr:postcode=3534 / Phone number: 966509091191 / Opening Hours: 3pm 12am / Category: Salons / Barbershops / Accepted payment methods: Bank card,Cash,Visa / takeaway=undefined</title>
-        <link>https://www.openstreetmap.org/note/3736410#c8056443</link>
-        <guid>https://www.openstreetmap.org/note/3736410#c8056443</guid>
-        <pubDate>Thu, 15 Jun 2023 15:41:28 +0000</pubDate>
-      </item><item>
-        <title>new note 3736199 (near Central Hungary, 1111, Hungary) / * 2023 June 15 12:47 kogutowicz-mano Created: Június 30-val megszűnik a kocsma. / https://24.hu/belfold/2023/06/15/aranykorso-zaras-bezar-keruletet-okoljak-budai-kocsma/</title>
-        <link>https://www.openstreetmap.org/note/3736199#c8055928</link>
-        <guid>https://www.openstreetmap.org/note/3736199#c8055928</guid>
-        <pubDate>Thu, 15 Jun 2023 12:47:12 +0000</pubDate>
-      </item><item>
-        <title>new note 3736079 (near Central Transdanubia, 8143, Hungary) / * 2023 June 15 11:59 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: There&amp;#39;s a supermarket.</title>
-        <link>https://www.openstreetmap.org/note/3736079#c8055728</link>
-        <guid>https://www.openstreetmap.org/note/3736079#c8055728</guid>
-        <pubDate>Thu, 15 Jun 2023 11:59:40 +0000</pubDate>
-      </item><item>
-        <title>new note 3736078 (near Central Transdanubia, 8143, Hungary) / * 2023 June 15 11:58 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: There&amp;#39;s a parking.</title>
-        <link>https://www.openstreetmap.org/note/3736078#c8055726</link>
-        <guid>https://www.openstreetmap.org/note/3736078#c8055726</guid>
-        <pubDate>Thu, 15 Jun 2023 11:58:59 +0000</pubDate>
-      </item><item>
-        <title>new note 3735965 (near Transdanubia, 8427, Hungary) / * 2023 June 15 10:39 Tajtrdlik Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;There is located Nárdusz Vendégház és Zarándokszállás&amp;quot;.</title>
-        <link>https://www.openstreetmap.org/note/3735965#c8055540</link>
-        <guid>https://www.openstreetmap.org/note/3735965#c8055540</guid>
-        <pubDate>Thu, 15 Jun 2023 10:39:55 +0000</pubDate>
       </item>
   </channel>
 </rss>
