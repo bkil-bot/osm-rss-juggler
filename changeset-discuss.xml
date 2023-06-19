@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Ahoj, zmazal som vseobecny nazov - Fekete nyár - nepatri do name; pouzi mozno tag taxon...? Ties tag tree by nemal byt pouzity, ak sa jedna o cely les a nie a jeden vyznamny strom . -Tomas_J</title>
+        <link>https://www.openstreetmap.org/changeset/69802224</link>
+        <guid>https://www.openstreetmap.org/changeset/69802224#comment_1</guid>
+        <pubDate>2023-06-19T06:14:38+02:00</pubDate>
+      </item><item>
         <title>Hi, Csóványos is not a volcano in itself, even if it was formed in a volcanic area, see https://en.wikipedia.org/wiki/Cs%C3%B3v%C3%A1nyos. The peak already exists in the database at its correct location (your point is in a different place). Could we remove this node and (possibly) add the volcano:status and volcano:type tag to the natural=peak node? -andrashann</title>
         <link>https://www.openstreetmap.org/changeset/136946884</link>
         <guid>https://www.openstreetmap.org/changeset/136946884#comment_1</guid>
@@ -37,16 +42,6 @@
         <link>https://www.openstreetmap.org/changeset/136867102</link>
         <guid>https://www.openstreetmap.org/changeset/136867102#comment_6</guid>
         <pubDate>2023-06-12T09:29:55+02:00</pubDate>
-      </item><item>
-        <title>Verified on field, name is ok. -vasony</title>
-        <link>https://www.openstreetmap.org/changeset/136026927</link>
-        <guid>https://www.openstreetmap.org/changeset/136026927#comment_2</guid>
-        <pubDate>2023-06-12T09:20:10+02:00</pubDate>
-      </item><item>
-        <title>Szia! A Kökény köz és a Patak sétány átmentek a főv. közgyűlésen. A Kökény köz a hrsz. szerint csak a Táncsicsig tart, az azt követő szakaszhoz nem nyúltam, és a Dombos utca 39, 41, 43, Táncsics 58 házszámot meg kellene nézni, mert ezek nem tűnnek jónak. Az érintett rész: 1. a II. kerület Máriaremete és Remetekertváros városrészben az 52072/1, 52048 és 52049 hrsz.-ú névtelen közterületeket Kökény köznek, 2. a II. kerület Pesthidegkút-Ófalu városrészben az 54401, 54402/2 és 54402/5 hrsz.-ú névtelen közterületeket Patak sétánynak Tamás -vasony</title>
-        <link>https://www.openstreetmap.org/changeset/134319115</link>
-        <guid>https://www.openstreetmap.org/changeset/134319115#comment_4</guid>
-        <pubDate>2023-06-12T09:16:19+02:00</pubDate>
       </item>
   </channel>
 </rss>
