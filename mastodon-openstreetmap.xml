@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>Some photos from State of the Map US which recently took place in Richmond! #OpenStreetMap #OSM #SotM #SotMUS https://2023.stateofthemap.us/ https://commons.wikimedia.org/wiki/Category:State_of_the_Map_U.S._2023</title>
+        <link>https://en.osm.town/@openstreetmap/110570036124217166</link>
+        <guid>https://en.osm.town/@openstreetmap/110570036124217166</guid>
+        <pubDate>Mon, 19 Jun 2023 08:54:17 +0000</pubDate>
+      </item><item>
         <title>“We aren&amp;#39;t the most active subreddit but as part of the open-source/data community we should participate. Even though the Reddit and OSM are not comparable. The latter would be nothing without third party apps like JOSM, OsmAnd, StreetComplete or Vespucci.” #OpenStreetMap #OSM #reddit</title>
         <link>https://en.osm.town/@openstreetmap/110530410192424129</link>
         <guid>https://en.osm.town/@openstreetmap/110530410192424129</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/110332362736124876</link>
         <guid>https://en.osm.town/@openstreetmap/110332362736124876</guid>
         <pubDate>Mon, 08 May 2023 09:30:49 +0000</pubDate>
-      </item><item>
-        <title>Happy #LesbianVisibilityWeek to all in #OpenStreetMap! #LesbianVisibilityDay #OSM #Lesbian The OpenStreetMap logo, but in the 5 colour lesbian pride flag colours</title>
-        <link>https://en.osm.town/@openstreetmap/110263719561731037</link>
-        <guid>https://en.osm.town/@openstreetmap/110263719561731037</guid>
-        <pubDate>Wed, 26 Apr 2023 06:33:58 +0000</pubDate>
       </item>
   </channel>
 </rss>
