@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>We were very happy when we heart that the XMPP-based https://cheogram.com/ experimentally adopted https://webxdc.org -- so that the same web apps run on Cheogram and Delta Chat. We started communicating with Cheogram&amp;#39;s main dev through matterbridge in a group chat about upcoming webxdc improvements ... #interoperability ftw :) A screenshot of the Android Cheogram messenger apps showing the &quot;2048&quot; and &quot;checklist&quot; apps running inside a cheogram conversation.</title>
+        <link>https://chaos.social/@delta/110577372845834642</link>
+        <guid>https://chaos.social/@delta/110577372845834642</guid>
+        <pubDate>Tue, 20 Jun 2023 16:00:07 +0000</pubDate>
+      </item><item>
         <title>Delta Chat has a pretty wild development model compared to more regular places with VC or Coin or NGO funding. It is partly based on money but also on helping each other out in diverse situations of which there are too many to summarize them, also considering that most countries are in a more or less critical crisis state. This all requires different cooperation practices going far beyond &amp;quot;agile&amp;quot; or &amp;quot;waterfall&amp;quot; dichotomies ... see also our last December UIdev post https://delta.chat/en/2022-12-15-uidevjob</title>
         <link>https://chaos.social/@delta/110559792208628884</link>
         <guid>https://chaos.social/@delta/110559792208628884</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/109239823787706478</link>
         <guid>https://chaos.social/@delta/109239823787706478</guid>
         <pubDate>Thu, 27 Oct 2022 10:43:48 +0000</pubDate>
-      </item><item>
-        <title>Wouldn&amp;#39;t it be nice if you could migrate with Delta Chat from one e-mail provider to another and keep all your chats and communications and encryption working seamlessly? With 1.32 Delta Chat releases we added initial support towards this goal on all platforms 🥳 &amp;quot;Introducing Automatic E-Mail Address Porting (AEAP)&amp;quot;. https://delta.chat/en/2022-09-14-aeap</title>
-        <link>https://chaos.social/@delta/109031822203876059</link>
-        <guid>https://chaos.social/@delta/109031822203876059</guid>
-        <pubDate>Tue, 20 Sep 2022 17:06:16 +0000</pubDate>
       </item>
   </channel>
 </rss>
