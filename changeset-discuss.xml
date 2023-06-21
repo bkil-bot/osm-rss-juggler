@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Szia! Ezek a két perjellel elválasztott címek valósak? Például 8/A/1. -gabro00</title>
+        <title>Ez értelmezés kérdése. A helyszínen valószínűleg így van kitáblázva, mint sok más egyéb helyen is. Az oka az, hogy a vállalkozó megvett egy telket, amire felépített 2 különálló ikerházat. A KCR szerint a lakások címe valószínűleg Szirmos utca 8. A épület 1. ajtó formában van, amit a lakók egyszerűen csak 8/A/1-ként tábláztak ki. OSM szempontjából kétféleképpen szokták ezt jelölni. Az egyik jelölés, hogy megy az egész a házszámba (mint itt), a másik jelölés pedig az addr:housenumber=8 + addr:unit=A/1. Erre és arra is van példa bőven. -urbalazs</title>
         <link>https://www.openstreetmap.org/changeset/137589344</link>
-        <guid>https://www.openstreetmap.org/changeset/137589344#comment_1</guid>
-        <pubDate>2023-06-21T06:47:49+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/137589344#comment_2</guid>
+        <pubDate>2023-06-21T07:30:08+02:00</pubDate>
       </item><item>
         <title>Szia zsolt d! Az „Átrakó” nevet töröltem a szervizútról, mert ilyen nevű utca nem létezik. Az út funkcióját nem névként kell megadni. -urbalazs</title>
         <link>https://www.openstreetmap.org/changeset/137575303</link>
