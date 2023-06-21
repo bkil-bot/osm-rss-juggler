@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3230491 (near Virágvölgy Lakópark, Soroksár, 23rd district) / * 2022 June 18 18:27 gabro00 Created: A környéken a címek javításra szorulnak, pl: https://www.openstreetmap.org/way/930560822 / * 2023 June 21 06:38 urbalazs Resolved: Javítottam a címeket.</title>
+        <link>https://www.openstreetmap.org/note/3230491#c8072892</link>
+        <guid>https://www.openstreetmap.org/note/3230491#c8072892</guid>
+        <pubDate>Wed, 21 Jun 2023 06:38:15 +0000</pubDate>
+      </item><item>
         <title>closed note 3439168 (near Újhegyi Dűlő, Újhegyidűlő, Dunaharaszti) / * 2022 November 12 16:27 sinisterstuf Created: Elöl 25/1, hátul 25/2, de lehet hogy nem látszik még a térképen mert új ház / via StreetComplete 49.0 / * 2023 June 21 01:18 urbalazs Resolved: Nem látszik még, de hozzáadtam két épületet.</title>
         <link>https://www.openstreetmap.org/note/3439168#c8072554</link>
         <guid>https://www.openstreetmap.org/note/3439168#c8072554</guid>
@@ -317,11 +322,6 @@
         <link>https://www.openstreetmap.org/note/3739583#c8062649</link>
         <guid>https://www.openstreetmap.org/note/3739583#c8062649</guid>
         <pubDate>Sat, 17 Jun 2023 20:09:42 +0000</pubDate>
-      </item><item>
-        <title>new note 3739573 (near Újtagmajor, Nagycenk) / * 2023 June 17 20:03 efi99 Created: cím?</title>
-        <link>https://www.openstreetmap.org/note/3739573#c8062637</link>
-        <guid>https://www.openstreetmap.org/note/3739573#c8062637</guid>
-        <pubDate>Sat, 17 Jun 2023 20:03:29 +0000</pubDate>
       </item>
   </channel>
 </rss>
