@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3748285 (near South Great Plain, 5600, Hungary) / * 2023 June 23 22:01 Created: City Mobil / Mobiltelefonszerviz</title>
+        <link>https://www.openstreetmap.org/note/3748285#c8081452</link>
+        <guid>https://www.openstreetmap.org/note/3748285#c8081452</guid>
+        <pubDate>Fri, 23 Jun 2023 22:01:55 +0000</pubDate>
+      </item><item>
         <title>new note 3747993 (near Lászlómajor, Polgárdi) / * 2023 June 23 18:07 Created: Ezeknél hibás a jelölés mert egyrészük ipartelep</title>
         <link>https://www.openstreetmap.org/note/3747993#c8080943</link>
         <guid>https://www.openstreetmap.org/note/3747993#c8080943</guid>
@@ -292,11 +297,6 @@
         <link>https://www.openstreetmap.org/note/3713776#c8068048</link>
         <guid>https://www.openstreetmap.org/note/3713776#c8068048</guid>
         <pubDate>Mon, 19 Jun 2023 13:29:53 +0000</pubDate>
-      </item><item>
-        <title>closed note 3561317 (near Transdanubia, 8200, Hungary) / * 2023 February 16 08:24 ironalloy Created: Itt az elhagyott vasútvonalat nem kellene jelezni. Már nem látható a nyomvonala (?),  ilyenkor eltávolítandó a wiki szerint / * 2023 June 19 11:18 ironalloy Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3561317#c8067653</link>
-        <guid>https://www.openstreetmap.org/note/3561317#c8067653</guid>
-        <pubDate>Mon, 19 Jun 2023 11:18:20 +0000</pubDate>
       </item>
   </channel>
 </rss>
