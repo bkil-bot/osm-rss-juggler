@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Best Android for WigleWifi: Apologies for necro'ing this post, but if I may ask a perhaps silly question, is it the Android version or hardware limitations that generally cause slow scan times for Wi-Fi/BT? -Wigler-0283819</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11741#p11741</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11741#p11741</guid>
+        <pubDate>2023-06-23T12:47:06</pubDate>
+      </item><item>
         <title>Re: It is still possible to use Samsung Galaxy S4 for wifi scanning?: If you upgrade to Android 5 (and you really should), you'll be able to side-load older (2.67 will be the last) versions of the app. The Google Play Store won't allow us to keep our listing and support devices that old, sadly. We'll be signing and releasing an &quot;Oldroid&quot; branch as well, but I don't know if the community has an appetite for backporting features and updates - we'll see! -arkasha</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11739#p11739</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11739#p11739</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11581#p11581</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11581#p11581</guid>
         <pubDate>2023-03-02T01:33:40</pubDate>
-      </item><item>
-        <title>Re: Pwnagotchi plugin: Sorry - we're not the maintainers of the pwnagotchi - you'll have to use the information on your device and in their source repository to debug. By all means, please post findings here! -arkasha</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11580#p11580</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11580#p11580</guid>
-        <pubDate>2023-03-01T23:33:19</pubDate>
       </item>
   </channel>
 </rss>
