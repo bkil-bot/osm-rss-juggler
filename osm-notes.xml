@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>reactivated note 3748688 (near North Hungary, 3531, Hungary) / * 2023 June 24 18:49 Tamas3531 Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/3748688#c8083603</link>
+        <guid>https://www.openstreetmap.org/note/3748688#c8083603</guid>
+        <pubDate>Sat, 24 Jun 2023 18:49:41 +0000</pubDate>
+      </item><item>
+        <title>closed note 3748688 (near North Hungary, 3531, Hungary) / * 2023 June 24 18:49 Tamas3531 Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3748688#c8083602</link>
+        <guid>https://www.openstreetmap.org/note/3748688#c8083602</guid>
+        <pubDate>Sat, 24 Jun 2023 18:49:23 +0000</pubDate>
+      </item><item>
         <title>closed note 3519583 (near Central Transdanubia, 8154, Hungary) / * 2023 January 15 18:04 vasony Created: ez a rész is a Petőfi Sándor utcára van számozva? / * 2023 May 18 16:05 vasony Updated: igen / * 2023 June 24 18:16 vasony Resolved: </title>
         <link>https://www.openstreetmap.org/note/3519583#c8083537</link>
         <guid>https://www.openstreetmap.org/note/3519583#c8083537</guid>
@@ -252,16 +262,6 @@
         <link>https://www.openstreetmap.org/note/3439169#c8072552</link>
         <guid>https://www.openstreetmap.org/note/3439169#c8072552</guid>
         <pubDate>Wed, 21 Jun 2023 01:18:35 +0000</pubDate>
-      </item><item>
-        <title>closed note 3130743 (near Central Hungary, 2330, Hungary) / * 2022 April 12 16:39 sinisterstuf Created: 3 terraced houses, street number 1, house #1 is at the back / via StreetComplete 42.0 / * 2023 June 21 01:18 urbalazs Resolved: Addresses added.</title>
-        <link>https://www.openstreetmap.org/note/3130743#c8072551</link>
-        <guid>https://www.openstreetmap.org/note/3130743#c8072551</guid>
-        <pubDate>Wed, 21 Jun 2023 01:18:35 +0000</pubDate>
-      </item><item>
-        <title>closed note 3070045 (near Central Hungary, 1239, Hungary) / * 2022 March 1 21:04 vasony Created: Las-Torres Béla utca az utcajegyzékben nem szerepel, ellenőrizendő! / * 2023 June 21 01:18 urbalazs Resolved: Utcanévtábla nincs ezen a szakaszon. Nehezen hihető, hogy ez a Las-Torres Béla utca lenne, mert nincs külön helyrajzi számon. Ez a Haraszti út folytatása lesz egészen a településhatárig.</title>
-        <link>https://www.openstreetmap.org/note/3070045#c8072550</link>
-        <guid>https://www.openstreetmap.org/note/3070045#c8072550</guid>
-        <pubDate>Wed, 21 Jun 2023 01:18:34 +0000</pubDate>
       </item>
   </channel>
 </rss>
