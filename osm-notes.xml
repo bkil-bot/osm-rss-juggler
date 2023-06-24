@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3347420 (near Lászlómajor, Polgárdi) / * 2022 September 5 19:59 vasony Created: Bánya út itt van valahol? / * 2023 June 24 19:51 vasony Resolved: Nincs kiírva, de a házak erre vannak számozva a végén</title>
+        <link>https://www.openstreetmap.org/note/3347420#c8083739</link>
+        <guid>https://www.openstreetmap.org/note/3347420#c8083739</guid>
+        <pubDate>Sat, 24 Jun 2023 19:51:07 +0000</pubDate>
+      </item><item>
         <title>reactivated note 3748688 (near North Hungary, 3531, Hungary) / * 2023 June 24 18:49 Tamas3531 Reactivated: </title>
         <link>https://www.openstreetmap.org/note/3748688#c8083603</link>
         <guid>https://www.openstreetmap.org/note/3748688#c8083603</guid>
@@ -242,26 +247,6 @@
         <link>https://www.openstreetmap.org/note/3744366#c8073057</link>
         <guid>https://www.openstreetmap.org/note/3744366#c8073057</guid>
         <pubDate>Wed, 21 Jun 2023 08:14:53 +0000</pubDate>
-      </item><item>
-        <title>closed note 3230491 (near Virágvölgy Lakópark, Soroksár, 23rd district) / * 2022 June 18 18:27 gabro00 Created: A környéken a címek javításra szorulnak, pl: https://www.openstreetmap.org/way/930560822 / * 2023 June 21 06:38 urbalazs Resolved: Javítottam a címeket.</title>
-        <link>https://www.openstreetmap.org/note/3230491#c8072892</link>
-        <guid>https://www.openstreetmap.org/note/3230491#c8072892</guid>
-        <pubDate>Wed, 21 Jun 2023 06:38:15 +0000</pubDate>
-      </item><item>
-        <title>closed note 3439168 (near Újhegyi Dűlő, Újhegyidűlő, Dunaharaszti) / * 2022 November 12 16:27 sinisterstuf Created: Elöl 25/1, hátul 25/2, de lehet hogy nem látszik még a térképen mert új ház / via StreetComplete 49.0 / * 2023 June 21 01:18 urbalazs Resolved: Nem látszik még, de hozzáadtam két épületet.</title>
-        <link>https://www.openstreetmap.org/note/3439168#c8072554</link>
-        <guid>https://www.openstreetmap.org/note/3439168#c8072554</guid>
-        <pubDate>Wed, 21 Jun 2023 01:18:36 +0000</pubDate>
-      </item><item>
-        <title>closed note 2920621 (near Central Hungary, 1239, Hungary) / * 2021 November 3 07:29 sinisterstuf Created: Unable to answer &amp;quot;What is the name of this road?&amp;quot; for https://osm.org/way/229296172 via StreetComplete 37.0: / nincs utca tábla kitéve, lehet érdemes végigjárni hát ha a másik oldalán van / * 2023 June 21 01:18 urbalazs Resolved: Tettem rá egy noname címkét.</title>
-        <link>https://www.openstreetmap.org/note/2920621#c8072553</link>
-        <guid>https://www.openstreetmap.org/note/2920621#c8072553</guid>
-        <pubDate>Wed, 21 Jun 2023 01:18:36 +0000</pubDate>
-      </item><item>
-        <title>closed note 3439169 (near Újhegyi Dűlő, Újhegyidűlő, Dunaharaszti) / * 2022 November 12 16:27 sinisterstuf Created: Lovas utca 29, családi ház / via StreetComplete 49.0 / * 2023 June 21 01:18 urbalazs Resolved: Családi ház hozzáadva.</title>
-        <link>https://www.openstreetmap.org/note/3439169#c8072552</link>
-        <guid>https://www.openstreetmap.org/note/3439169#c8072552</guid>
-        <pubDate>Wed, 21 Jun 2023 01:18:35 +0000</pubDate>
       </item>
   </channel>
 </rss>
