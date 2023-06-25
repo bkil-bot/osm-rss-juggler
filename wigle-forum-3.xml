@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Best Android for WigleWifi: It's a pile of things: Old radios/drivers/OSes might just not tune as fast (and so don't scan as quickly) Driver versions can have a huge impact, making previously slow phones fast and vice versa on upgrade Android 9 throttles WiFi scan speed (and is hard to de-throttle) Android 10 and up also throttle scanning, but if you activate developer mode, you can turn that off. Cheers, -a -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11742#p11742</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11742#p11742</guid>
+        <pubDate>2023-06-25T17:42:02</pubDate>
+      </item><item>
         <title>Re: Best Android for WigleWifi: Apologies for necro'ing this post, but if I may ask a perhaps silly question, is it the Android version or hardware limitations that generally cause slow scan times for Wi-Fi/BT? -Wigler-0283819</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11741#p11741</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11741#p11741</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11582#p11582</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11582#p11582</guid>
         <pubDate>2023-03-02T01:34:47</pubDate>
-      </item><item>
-        <title>Re: What is &amp;quot;Maxout DB Marker&amp;quot; in Android App ?: it sets the last-uploaded marker to the end of the list - you can use this to skip uploading things in your database -arkasha</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11581#p11581</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11581#p11581</guid>
-        <pubDate>2023-03-02T01:33:40</pubDate>
       </item>
   </channel>
 </rss>
