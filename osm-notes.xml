@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 2493688 (near Transdanubia, 8184, Hungary) / * 2021 January 11 09:43 Mamutinka Created: #Mapy.cz user reports: there is a gate / * 2023 June 25 09:54 vasony Resolved: gate is mapped</title>
+        <link>https://www.openstreetmap.org/note/2493688#c8085181</link>
+        <guid>https://www.openstreetmap.org/note/2493688#c8085181</guid>
+        <pubDate>Sun, 25 Jun 2023 09:54:19 +0000</pubDate>
+      </item><item>
+        <title>closed note 2985389 (near Transdanubia, 8195, Hungary) / * 2021 December 27 21:10 Spush Created: Napelempark létesült / * 2023 June 25 09:44 vasony Resolved: időközben felkerült, lehet tovább pontosítani ha szükséges</title>
+        <link>https://www.openstreetmap.org/note/2985389#c8085160</link>
+        <guid>https://www.openstreetmap.org/note/2985389#c8085160</guid>
+        <pubDate>Sun, 25 Jun 2023 09:44:41 +0000</pubDate>
+      </item><item>
+        <title>closed note 3747993 (near Lászlómajor, Polgárdi) / * 2023 June 23 18:07 Created: Ezeknél hibás a jelölés mert egyrészük ipartelep / * 2023 June 25 09:37 vasony Resolved: landuse javítva</title>
+        <link>https://www.openstreetmap.org/note/3747993#c8085138</link>
+        <guid>https://www.openstreetmap.org/note/3747993#c8085138</guid>
+        <pubDate>Sun, 25 Jun 2023 09:37:00 +0000</pubDate>
+      </item><item>
+        <title>closed note 3707205 (near Transdanubia, 8172, Hungary) / * 2023 May 26 19:41 Czakó Tamás Created: It&amp;#39;s done / * 2023 June 25 09:22 vasony Resolved: fixed</title>
+        <link>https://www.openstreetmap.org/note/3707205#c8085080</link>
+        <guid>https://www.openstreetmap.org/note/3707205#c8085080</guid>
+        <pubDate>Sun, 25 Jun 2023 09:22:01 +0000</pubDate>
+      </item><item>
         <title>closed note 3741079 (near Transdanubia, 8172, Hungary) / * 2023 June 18 18:06 Johanna707 Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/551297052 via StreetComplete 53.1: / 16 terasz tető / * 2023 June 25 09:12 vasony Resolved: hozzáadva</title>
         <link>https://www.openstreetmap.org/note/3741079#c8085041</link>
         <guid>https://www.openstreetmap.org/note/3741079#c8085041</guid>
@@ -237,16 +257,6 @@
         <link>https://www.openstreetmap.org/note/3742377#c8075387</link>
         <guid>https://www.openstreetmap.org/note/3742377#c8075387</guid>
         <pubDate>Wed, 21 Jun 2023 20:59:17 +0000</pubDate>
-      </item><item>
-        <title>new note 3745151 (near Southern Transdanubia, 7822, Hungary) / * 2023 June 21 18:18 Created: Papp Dániel Nagyharsány Vásártér u. 13</title>
-        <link>https://www.openstreetmap.org/note/3745151#c8074950</link>
-        <guid>https://www.openstreetmap.org/note/3745151#c8074950</guid>
-        <pubDate>Wed, 21 Jun 2023 18:18:20 +0000</pubDate>
-      </item><item>
-        <title>new note 3745148 (near Southern Transdanubia, 7822, Hungary) / * 2023 June 21 18:17 Created: Papp Dániel Vásártér utca 13</title>
-        <link>https://www.openstreetmap.org/note/3745148#c8074943</link>
-        <guid>https://www.openstreetmap.org/note/3745148#c8074943</guid>
-        <pubDate>Wed, 21 Jun 2023 18:17:04 +0000</pubDate>
       </item>
   </channel>
 </rss>
