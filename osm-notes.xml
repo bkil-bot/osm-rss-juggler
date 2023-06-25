@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3694150 (near Central Hungary, 1014, Hungary) / * 2023 May 18 08:53 Matyjace Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;euronet&amp;quot; / * 2023 June 24 23:35 urbalazs Resolved: Changed from OTP to Euronet.</title>
+        <link>https://www.openstreetmap.org/note/3694150#c8084176</link>
+        <guid>https://www.openstreetmap.org/note/3694150#c8084176</guid>
+        <pubDate>Sat, 24 Jun 2023 23:35:16 +0000</pubDate>
+      </item><item>
+        <title>closed note 3312560 (near Central Hungary, 1014, Hungary) / * 2022 August 13 15:24 DRochau Created: Unable to answer &amp;quot;What’s the name of this place?&amp;quot; for https://osm.org/node/527016470 via StreetComplete 45.2: / The tourism information office closed according to the people inside / * 2023 June 24 23:35 urbalazs Resolved: I can confirm that it is closed. I turned it to closed on the map, too.</title>
+        <link>https://www.openstreetmap.org/note/3312560#c8084175</link>
+        <guid>https://www.openstreetmap.org/note/3312560#c8084175</guid>
+        <pubDate>Sat, 24 Jun 2023 23:35:01 +0000</pubDate>
+      </item><item>
         <title>closed note 3347746 (near Transdanubia, 8154, Hungary) / * 2022 September 6 06:07 vasony Created: Van itt Szőlőhegy nevű közterület, vagy bármi utalás erre? / * 2023 May 18 17:02 vasony Updated: feljebb a 3 / * 2023 June 24 20:56 vasony Resolved: felvéve</title>
         <link>https://www.openstreetmap.org/note/3347746#c8083870</link>
         <guid>https://www.openstreetmap.org/note/3347746#c8083870</guid>
@@ -232,16 +242,6 @@
         <link>https://www.openstreetmap.org/note/3744706#c8073860</link>
         <guid>https://www.openstreetmap.org/note/3744706#c8073860</guid>
         <pubDate>Wed, 21 Jun 2023 12:39:07 +0000</pubDate>
-      </item><item>
-        <title>new note 3744706 (near South Great Plain, 5622, Hungary) / * 2023 June 21 12:38 Szittyai István Created: Kettős- és Sebes-Körös összefolyás</title>
-        <link>https://www.openstreetmap.org/note/3744706#c8073857</link>
-        <guid>https://www.openstreetmap.org/note/3744706#c8073857</guid>
-        <pubDate>Wed, 21 Jun 2023 12:38:19 +0000</pubDate>
-      </item><item>
-        <title>closed note 3706172 (near Central Hungary, 2030, Hungary) / * 2023 May 26 05:26 utvonalfelmeresek Created: 76/3 / via StreetComplete 53.0 / Attached photo(s): / https://westnordost.de/p/150796.jpg / * 2023 June 21 10:52 urbalazs Resolved: Megoldva a bejelentő által.</title>
-        <link>https://www.openstreetmap.org/note/3706172#c8073440</link>
-        <guid>https://www.openstreetmap.org/note/3706172#c8073440</guid>
-        <pubDate>Wed, 21 Jun 2023 10:52:47 +0000</pubDate>
       </item>
   </channel>
 </rss>
