@@ -3,10 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>A &quot;demolished:railway&quot; címke a vasúton nem szabványos címke. -balint36</title>
+        <title>Itt is az &quot;operator=MÁV Ferencvárosi rendező pályaudvar&quot; rendellenes. -balint36</title>
+        <link>https://www.openstreetmap.org/changeset/137575894</link>
+        <guid>https://www.openstreetmap.org/changeset/137575894#comment_1</guid>
+        <pubDate>2023-06-25T12:47:33+02:00</pubDate>
+      </item><item>
+        <title>@bkil A &quot;kihúzó&quot; nem minden esetben van benne a nevében. Lásd a 73. oldalon: https://www.mavcsoport.hu/sites/default/files/upload/page/ferencvaros_0.pdf Az 551. számú váltóval kiágazó &quot;Burma&quot; vágány nem kapta meg, de a 747. számú kitérővel kiágazó vágány már &quot;III. kihúzó&quot; néven szerepel. -balint36</title>
         <link>https://www.openstreetmap.org/changeset/137575303</link>
-        <guid>https://www.openstreetmap.org/changeset/137575303#comment_3</guid>
-        <pubDate>2023-06-25T11:18:11+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/137575303#comment_4</guid>
+        <pubDate>2023-06-25T12:43:58+02:00</pubDate>
       </item><item>
         <title>Az &quot;operator&quot; címke is eléggé sajátosan lett kitöltve a &quot;MÁV Ferencvárosi rendező pályaudvar&quot; értékkel. -balint36</title>
         <link>https://www.openstreetmap.org/changeset/137581231</link>
