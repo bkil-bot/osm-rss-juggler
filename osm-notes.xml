@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3693387 (near Central Hungary, 1007, Hungary) / * 2023 May 17 15:55 boott Created: Unable to answer &amp;quot;What’s the surface here?&amp;quot; for https://osm.org/way/222572087 via StreetComplete 53.0: / See photo. / Attached photo(s): / https://westnordost.de/p/149204.jpg / * 2023 June 27 20:53 vasony Resolved: no good solution, changed the surface to rock</title>
+        <link>https://www.openstreetmap.org/note/3693387#c8094191</link>
+        <guid>https://www.openstreetmap.org/note/3693387#c8094191</guid>
+        <pubDate>Tue, 27 Jun 2023 20:53:59 +0000</pubDate>
+      </item><item>
         <title>closed note 3700552 (near Central Hungary, 2030, Hungary) / * 2023 May 22 09:21 urbalazs Created: Mi a Napvirág utca és a Porcsinrózsa utca közötti szakasz pontos neve az érdi és a diósdi oldalon?. Úgy tűnik, mintha az érdi oldal a Muskátli utca folytatása lenne, míg a diósdi oldal a Nádas utcáig Gyár utca, utána viszont kérdéses. Vannak utcanévtáblák? A házak milyen utcára vannak számozva? / * 2023 May 24 20:49 vasony Updated: Gyár utca érdi része Muskátli utcára van számozva (páratlan), a Nádas és a vasút közt nincs tábla, 2 ipari épület van, az egyiken 133, ez Gyár utca 133 lesz (régi 133-as, mert előtte régi 117 és 119 számok voltak). / Az egész Gyár utca 2x újra lett számozva, most a keleti oldal a páros. Felmért számokat később felveszem. / * 2023 June 27 18:25 vasony Resolved: felvittem az utca elejét</title>
         <link>https://www.openstreetmap.org/note/3700552#c8093807</link>
         <guid>https://www.openstreetmap.org/note/3700552#c8093807</guid>
@@ -182,16 +187,6 @@
         <link>https://www.openstreetmap.org/note/3749315#c8083228</link>
         <guid>https://www.openstreetmap.org/note/3749315#c8083228</guid>
         <pubDate>Sat, 24 Jun 2023 16:36:20 +0000</pubDate>
-      </item><item>
-        <title>new note 3749106 (near Berbekucztanya, Pécel) / * 2023 June 24 14:07 pzgn Created: does not exist here</title>
-        <link>https://www.openstreetmap.org/note/3749106#c8082915</link>
-        <guid>https://www.openstreetmap.org/note/3749106#c8082915</guid>
-        <pubDate>Sat, 24 Jun 2023 14:07:22 +0000</pubDate>
-      </item><item>
-        <title>new note 3749047 (near Berbekucztanya, Pécel) / * 2023 June 24 13:43 pzgn Created: this is a semi-detached house, so should be 2 separate numbers. 28A and 28 B. / via StreetComplete 53.2</title>
-        <link>https://www.openstreetmap.org/note/3749047#c8082829</link>
-        <guid>https://www.openstreetmap.org/note/3749047#c8082829</guid>
-        <pubDate>Sat, 24 Jun 2023 13:43:28 +0000</pubDate>
       </item>
   </channel>
 </rss>
