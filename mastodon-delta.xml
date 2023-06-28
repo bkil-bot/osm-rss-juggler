@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Delta Chat 1.38 releases: WebXDC apps can now exchange data with other tools and run on other messengers! We&amp;#39;ve implemented a little Calendar and Draw app to showcase the two new APIs and besides have other good news for the nascent privacy-guaranteeing Next-Generation-Internet ... just a &amp;quot;start&amp;quot; button for chat-shared apps with no GDPR or cookie-consents, no coins, no app or account hosting and thus no logins ;) https://delta.chat/en/2023-06-28-webxdc-import-export</title>
+        <link>https://chaos.social/@delta/110621944095573330</link>
+        <guid>https://chaos.social/@delta/110621944095573330</guid>
+        <pubDate>Wed, 28 Jun 2023 12:55:10 +0000</pubDate>
+      </item><item>
         <title>We were very happy when we heard that the XMPP-based https://cheogram.com/ experimentally adopted https://webxdc.org -- so that the same web apps run on Cheogram and Delta Chat. We started communicating with Cheogram&amp;#39;s main dev through matterbridge in a group chat about upcoming webxdc improvements ... #interoperability ftw :) A screenshot of the Android Cheogram messenger apps showing the &quot;2048&quot; and &quot;checklist&quot; apps running inside a cheogram conversation.</title>
         <link>https://chaos.social/@delta/110577372845834642</link>
         <guid>https://chaos.social/@delta/110577372845834642</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/109371136436367780</link>
         <guid>https://chaos.social/@delta/109371136436367780</guid>
         <pubDate>Sat, 19 Nov 2022 15:18:20 +0000</pubDate>
-      </item><item>
-        <title>If you are curious or interested about bot development then the echo bot repository has example impls in Python, Rust, Javascript/Typescript and even C (but better to use Rust these days ;) https://github.com/deltachat-bot/echo -- and thanks to @adbenitez there are also many more advanced chat bots written as &amp;quot;simplebot&amp;quot; plugins here https://github.com/simplebot-org</title>
-        <link>https://chaos.social/@delta/109239823787706478</link>
-        <guid>https://chaos.social/@delta/109239823787706478</guid>
-        <pubDate>Thu, 27 Oct 2022 10:43:48 +0000</pubDate>
       </item>
   </channel>
 </rss>
