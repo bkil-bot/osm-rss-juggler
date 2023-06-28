@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3756169 (near Batthyány puszta, Kisbér) / * 2023 June 28 19:19 kogutowicz-mano Created: A jelek szerint a régi helyén épült meg az új alállomás. / https://www.eon.hu/hu/rolunk/sajtoszoba/sajtokozlemenyek/a-jovo-kihivasaira-valaszolunk-kisberen.html</title>
+        <link>https://www.openstreetmap.org/note/3756169#c8097098</link>
+        <guid>https://www.openstreetmap.org/note/3756169#c8097098</guid>
+        <pubDate>Wed, 28 Jun 2023 19:19:04 +0000</pubDate>
+      </item><item>
+        <title>new comment 3693432 (near PP Center Üzleti Központ, Aquincum, Budapest, 3rd district) / * 2023 June 28 19:12 utvonalfelmeresek Updated: Ma megtapogattam és kezd puhulni! Egy szemet megettem és egész jó volt!</title>
+        <link>https://www.openstreetmap.org/note/3693432#c8097083</link>
+        <guid>https://www.openstreetmap.org/note/3693432#c8097083</guid>
+        <pubDate>Wed, 28 Jun 2023 19:12:22 +0000</pubDate>
+      </item><item>
+        <title>reactivated note 3693432 (near PP Center Üzleti Központ, Aquincum, Budapest, 3rd district) / * 2023 May 17 16:20 utvonalfelmeresek Created: piros gyümölcs / via StreetComplete 53.0 / Attached photo(s): / https://westnordost.de/p/149210.jpg / * 2023 May 17 18:06 bkil Updated: És finom? Nekem is rémlik és emlékeztet a fosókára, de nem tudom mi a latin neve, vagy hogy elvileg ehető-e. Az biztos, hogy nem valami finom. / * 2023 May 18 19:28 utvonalfelmeresek Updated: Nem mertem megkóstolni, a városban az autók között levő, állandó kipufogógáznak kitett gyümölcsök, nem ihletnek ilyesmire :) / * 2023 June 26 06:04 vasony Resolved: ez esetben ha nincs élvezeti értéke, akkor ezt zárjuk le, mert nem szükséges felvinni / * 2023 June 28 19:10 utvonalfelmeresek Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/3693432#c8097064</link>
+        <guid>https://www.openstreetmap.org/note/3693432#c8097064</guid>
+        <pubDate>Wed, 28 Jun 2023 19:10:59 +0000</pubDate>
+      </item><item>
         <title>new note 3755772 (near Central Hungary, 1138, Hungary) / * 2023 June 28 15:07 maximilianvesper Created: There is Churchill Shooting Range Budapest here with additional buildings.</title>
         <link>https://www.openstreetmap.org/note/3755772#c8096430</link>
         <guid>https://www.openstreetmap.org/note/3755772#c8096430</guid>
@@ -202,11 +217,6 @@
         <link>https://www.openstreetmap.org/note/3751887#c8088839</link>
         <guid>https://www.openstreetmap.org/note/3751887#c8088839</guid>
         <pubDate>Mon, 26 Jun 2023 09:18:01 +0000</pubDate>
-      </item><item>
-        <title>closed note 3353902 (near Central Hungary, 1007, Hungary) / * 2022 September 10 16:00 Hiajen Created: Unable to answer &amp;quot;How many bicycles can be parked here?&amp;quot; for https://osm.org/node/3654578235 via StreetComplete 45.2: / Does not exist? / Attached photo(s): / https://westnordost.de/p/112048.jpg / * 2023 June 26 06:20 vasony Resolved: removed</title>
-        <link>https://www.openstreetmap.org/note/3353902#c8088480</link>
-        <guid>https://www.openstreetmap.org/note/3353902#c8088480</guid>
-        <pubDate>Mon, 26 Jun 2023 06:20:08 +0000</pubDate>
       </item>
   </channel>
 </rss>
