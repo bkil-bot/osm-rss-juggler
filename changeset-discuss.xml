@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Ha nincs ház, szerintem nem értelmezhető házszám sem, ezért szoktam törölni. Csak telek van, ahogy a még be nem épített belterületi telkeken is, hiába tudható gyakran ott is, hogy mi (lesz majd) a házszám, ott sem adjuk meg, amíg nincs bejegyeztetve. -efi99</title>
+        <link>https://www.openstreetmap.org/changeset/137661361</link>
+        <guid>https://www.openstreetmap.org/changeset/137661361#comment_2</guid>
+        <pubDate>2023-06-28T14:31:21+02:00</pubDate>
+      </item><item>
         <title>Szia! &quot;Újszőlő&quot;-re javítottam. -vakulya</title>
         <link>https://www.openstreetmap.org/changeset/127585891</link>
         <guid>https://www.openstreetmap.org/changeset/127585891#comment_2</guid>
         <pubDate>2023-06-28T10:34:11+02:00</pubDate>
-      </item><item>
-        <title>Szia! Ház törlés helyett használd légy szíves a demolished: előtagot a buildingre hogy megmaradjon a házszám. Ha felülépítették, akkor természetesen az objektum törölhető. pl: https://www.openstreetmap.org/way/549754315 Tamás -vasony</title>
-        <link>https://www.openstreetmap.org/changeset/137661361</link>
-        <guid>https://www.openstreetmap.org/changeset/137661361#comment_1</guid>
-        <pubDate>2023-06-28T07:39:47+02:00</pubDate>
       </item><item>
         <title>Szia Narvik2! Visszavontam ezt a módosításcsomagot, mert a lépcsőnek nem az a neve, mint ami a belinkelt rendeletben szerepel. Sajnos a rendelet tele van hibás utcanevekkel, például se a Fehérhegyi lépcső, se a Péter Pál utca, se a Stáció lépcső nem létezik ilyen néven, és nem szerepelnek a hivatalos budapesti közterületnév-jegyzékben sem. Kérlek, hogy legközelebb győződj meg arról a helyszínen, hogy mi az utca, lépcső neve, illetve hogy mi van kitáblázva. -urbalazs</title>
         <link>https://www.openstreetmap.org/changeset/137508615</link>
