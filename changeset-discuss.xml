@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Jó, értem, amit írtok, megoldható. Azért hozzátenném, hogy a saját magam által feltett (ill 10%-ban csak &quot;karbantartott&quot;) épületeket törölgettem. Ezt azért írom, mert ezek az épületek (és címek) eleve fel sem kerültek volna (általam), ha a frissebb térképekből dolgozom, csak éppen a FÖMI-set használtam a geometriai pontossága miatt első körben, mint általában mindenki, aztán azon szoktam végigmenni az újabbakkal ill az éves MEPAR frissítésekkel. Tehát ha az első szerkesztéskori időpontot veszem alapul, ezek a problémák elvileg nem is léteznek: eddig sem rajzolt oda senki semmit és én sem tettem volna - mivel nincs is - ha újabb térképről vagy pláne a helyszínről dolgozom, így viszont bejött egy mentés-törlés ciklus. -efi99</title>
+        <link>https://www.openstreetmap.org/changeset/137661361</link>
+        <guid>https://www.openstreetmap.org/changeset/137661361#comment_13</guid>
+        <pubDate>2023-06-29T18:17:04+02:00</pubDate>
+      </item><item>
         <title>Szia! Javítottam. A videóbol sajnos nem derült ki számomra a forduló, de nagyjából ez lehet az új forduló. A buszmegállót, úgy látom a Bing-en hogy a nagy fa és valami lerakat között lehet. Átigazítottam. Ha a forduló még sem fedné a valóságot, akkor beigazíthatod, csak van rajta egy busz útvonal azt ID-val ne vágd el csak josm-al, mert akkor hibás lesz. -ssummoner1</title>
         <link>https://www.openstreetmap.org/changeset/137749606</link>
         <guid>https://www.openstreetmap.org/changeset/137749606#comment_2</guid>
         <pubDate>2023-06-29T08:37:10+02:00</pubDate>
-      </item><item>
-        <title>Kicsit szorítkozzunk lényegre, továbbra is a lebontott házakról van szó. Mellékszálként én is meg tudom erősíteni, hogy sokszor az üres (soha be nem épített) telken is van házszám, de továbbra se ezekről van szó. Az üres építési telkek tervek, KCR vagy földhivatal alapján való számozását nem támogatom. Ahogy írod, bizonyos településeknél (pl. Budapest is ilyen, de pl. Budaörs, Balatonalmádi nem) a saroktelekhez több házszám van, az egyedi azonosító utcán belül értendő. Ha csak az egyik van kiírva, akkor az lesz a térképen, ha kettő, akkor kettő. Ha nincs kiírva az szívás, akkor arról az utcáról veszem fel, ahol a bejárat van. Részemről a helyszínen látott házszám kiírások mindig felülbírálják az elméleti értéket ami a terveken és földhivatalban van, de a rendelet a 15. § (1)-ben megengedi, hogy 1 ilyen telken több bejárat esetén különböző utcáról számozzák ezeket, és ahogy írtad ez nem is olyan ritka. Az érintett &quot;lebontott&quot; épület a FÖMI 2007-10-en látszik, tehát nem 35 évről beszélünk, ezekről van szó. Nem azt kérem, hogy utólag rajzoljunk be minden lebontott épületet, de ha már egyszer felkerült az osm-re egy ház egy házszámmal, akkor én joggal feltételezem, hogy az épület látható volt valamilyen légi felvételen vagy helyszíni bejárás alapján (és a házszám sem kitalált), tehát ne törléssel szüntessük meg. A demolished: előtagú épületek nem jelennek meg a térképes kimeneteteken, nem fogják összezavarni azokat, viszont kereshetők. Gyakorlati jelentőségre válaszolva, ha valaki belefut egy ilyen régi címbe, akkor oda fog tudni navigálni erre a házszámra, amellett, hogy az ország házszámozása 15% körüli, ezért sem tartom jónak ha megszüntetjük a nagy nehezen felmért házszámokat. Tamás -vasony</title>
-        <link>https://www.openstreetmap.org/changeset/137661361</link>
-        <guid>https://www.openstreetmap.org/changeset/137661361#comment_12</guid>
-        <pubDate>2023-06-29T07:01:06+02:00</pubDate>
       </item><item>
         <title>Szia! &quot;Újszőlő&quot;-re javítottam. -vakulya</title>
         <link>https://www.openstreetmap.org/changeset/127585891</link>
