@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>ESP32 or ESP8266 Wigle and Lora - Tracker: Hi, and apols - i usually search for previous answers more but... Wigle seems perfect for geolocating, and im after a bike theft tracker - are there any projects around that use 1. low cost low power ESP8266 or ESP32 ($3 and $9) 2. Lora or similar free longish range comms (works well in nz and free for low volume anywhere) 3. Send packet of Wifi strengths to server - which allows stolen tracker locater like functionality ?? If not - can i submit a packet from a scan and get back a geoolocation say anywhere in my country (nz) ?? Thanks and keep up the great work -kiwifirsty</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11748#p11748</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11748#p11748</guid>
+        <pubDate>2023-06-29T01:30:47</pubDate>
+      </item><item>
         <title>Re: Best Android for WigleWifi: It's a pile of things: Old radios/drivers/OSes might just not tune as fast (and so don't scan as quickly) Driver versions can have a huge impact, making previously slow phones fast and vice versa on upgrade Android 9 throttles WiFi scan speed (and is hard to de-throttle) Android 10 and up also throttle scanning, but if you activate developer mode, you can turn that off. Cheers, -a -arkasha</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11742#p11742</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11742#p11742</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11588#p11588</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11588#p11588</guid>
         <pubDate>2023-03-07T18:58:00</pubDate>
-      </item><item>
-        <title>Re: Should I merge database from different phones or keep them seperate ?: merging databases will slow performance - bigger databases are slower. -arkasha</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11582#p11582</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11582#p11582</guid>
-        <pubDate>2023-03-02T01:34:47</pubDate>
       </item>
   </channel>
 </rss>
