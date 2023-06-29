@@ -3,6 +3,16 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Best Android for WigleWifi: It's a pile of things: Old radios/drivers/OSes might just not tune as fast (and so don't scan as quickly) Driver versions can have a huge impact, making previously slow phones fast and vice versa on upgrade Android 9 throttles WiFi scan speed (and is hard to de-throttle) Android 10 and up also throttle scanning, but if you activate developer mode, you can turn that off. Cheers, -aThanks for that, Arkasha. Besides Android 9 and assuming that the throttle (if present) was disabled, is there any &quot;best&quot; Android version for wardriving? Or would the actual impact of the version itself be mostly minimal, and it is the internal drivers and age of the Wi-Fi module primarily affecting things? -Wigler-0283819</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11750#p11750</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11750#p11750</guid>
+        <pubDate>2023-06-29T11:32:29</pubDate>
+      </item><item>
+        <title>Custom ROMs for wardriving?: Hi all, I picked up a Samsung Galaxy S8 from eBay for 50 bucks. I picked it up solely for wardriving with the official Wigle app. Unfortunately, after ordering it I've realised that the highest Android version the S8 can support is Pie (9), which I recall has such strict and undisableable throttles on Wi-Fi scans, it's basically impossible to wardrive with. Are there any custom ROMs I could flash which would get along well with Wigle? I've never rooted/jailbroken a phone before, but I'm sure with a few guides from XDA I'll be able to figure it out. Thanks -Wigler-0283819</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11749#p11749</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11749#p11749</guid>
+        <pubDate>2023-06-29T11:24:48</pubDate>
+      </item><item>
         <title>ESP32 or ESP8266 Wigle and Lora - Tracker: Hi, and apols - i usually search for previous answers more but... Wigle seems perfect for geolocating, and im after a bike theft tracker - are there any projects around that use 1. low cost low power ESP8266 or ESP32 ($3 and $9) 2. Lora or similar free longish range comms (works well in nz and free for low volume anywhere) 3. Send packet of Wifi strengths to server - which allows stolen tracker locater like functionality ?? If not - can i submit a packet from a scan and get back a geoolocation say anywhere in my country (nz) ?? Thanks and keep up the great work -kiwifirsty</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11748#p11748</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11748#p11748</guid>
@@ -67,16 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11590#p11590</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11590#p11590</guid>
         <pubDate>2023-03-08T15:42:04</pubDate>
-      </item><item>
-        <title>Re: Desktop software to view observations ?: That's not what you asked but here is a solution to your problem. I have made a simple python script that convert a wigle csv file to a kml or gpx file. Then, you can use google maps to visualize the resulting kml file, or any gpx viewer like gpxsee to visualize the resulting gpx file. -zebul666</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11589#p11589</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11589#p11589</guid>
-        <pubDate>2023-03-08T01:35:56</pubDate>
-      </item><item>
-        <title>How to delete wigle data collected in certain time frame: title -R5ph4</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11588#p11588</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11588#p11588</guid>
-        <pubDate>2023-03-07T18:58:00</pubDate>
       </item>
   </channel>
 </rss>
