@@ -3,6 +3,21 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Custom ROMs for wardriving?: Well, if you're sophisticated enough to install a new OS: first: try the adb trick to remove the throttle on 9; it doesn't work on every model/os. if it works, no need to resort to anything extreme. ( Code: adb shell settings put global wifi_scan_throttle_enabled 0) second: https://lineageos.org/ is pretty nice -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11753#p11753</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11753#p11753</guid>
+        <pubDate>2023-06-29T20:06:20</pubDate>
+      </item><item>
+        <title>Re: Best Android for WigleWifi: Maybe phone models, but not necessarily OS versions. Just remember to disable throttling on 10 and up. -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11752#p11752</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11752#p11752</guid>
+        <pubDate>2023-06-29T20:04:27</pubDate>
+      </item><item>
+        <title>Re: ESP32 or ESP8266 Wigle and Lora - Tracker: You can locate individual MAC addresses using the API (without using the whole packet), but we don't provide a networked geolocation service at this time, since we want to avoid knowing where anyone is at any given time. https://api.wigle.net for the API options, you're probably most interested in &quot;network search&quot; we do have an embedded location system for which we publish regular extracts, but it's probably no precise enough to locate stolen property, it's more for providing terrestrial assistance for embedded/non-networked devices in getting a GPS lock. https://www.youtube.com/watch?v=78z5H0rv-wE -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11751#p11751</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11751#p11751</guid>
+        <pubDate>2023-06-29T20:01:56</pubDate>
+      </item><item>
         <title>Re: Best Android for WigleWifi: It's a pile of things: Old radios/drivers/OSes might just not tune as fast (and so don't scan as quickly) Driver versions can have a huge impact, making previously slow phones fast and vice versa on upgrade Android 9 throttles WiFi scan speed (and is hard to de-throttle) Android 10 and up also throttle scanning, but if you activate developer mode, you can turn that off. Cheers, -aThanks for that, Arkasha. Besides Android 9 and assuming that the throttle (if present) was disabled, is there any &quot;best&quot; Android version for wardriving? Or would the actual impact of the version itself be mostly minimal, and it is the internal drivers and age of the Wi-Fi module primarily affecting things? -Wigler-0283819</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11750#p11750</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11750#p11750</guid>
@@ -62,21 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11663#p11663</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11663#p11663</guid>
         <pubDate>2023-04-27T17:22:29</pubDate>
-      </item><item>
-        <title>Re: Pwnagotchi plugin: Using the pwnagotchi is what got me back into messing around with WiFi. I'm currently experimenting with the plugin; it's possible it may only send files with associated location data. I'm not sure yet. This might be why *I* can't get it to work either. I'll bring this up with a few people over the next week and get some feedback. There have been a number of interesting recent developments regarding the Pwnagotchi. https://github.com/DrSchottky/pwnagotchi https://github.com/aluminum-ice/nexmon-pi-zero-2w 1.) Aluminum-Ice has been working with DrSchottky on an update to the nexmon drivers for the raspberry Pi Zero 2W. This will improve the hardware behavior to more closely match what is expected. This work is not finished yet, and a &quot;1.7.0&quot; build is expected to be released int he near future with all of the changes finally rolled into one image (including Waveshare v3 support!). Aluminum-Ice has been doing most of the work, with the good doctor helping with the nexmon update. For the time being, the build that works for me (isn't blind to WiFi) on my Zero 2W is here-includes all he nexmon fixes up until last year: https://drive.google.com/file/d/1QBCgTC ... share_link As I only use a Pi Zero 2W for my Pwnagotchi now, this is a big deal. The added speed of the 2W compared to the 1W is immediately noticeable. 2.) There has been a fix posted to reddit related to pwnagotchi locality not being set properly and therefore being limited to the channels available to whatever region the device is set to. It's basically a matter of changing your country/region code in console. See here: https://www.reddit.com/r/pwnagotchi/com ... de_the_us/ There is also active discussion going on in the Unofficial Pwnagotchi discord which is posted on the subreddit. Hope this helps someone since the information seems so scattered. -BPinard</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11644#p11644</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11644#p11644</guid>
-        <pubDate>2023-04-18T01:28:18</pubDate>
-      </item><item>
-        <title>Re: Desktop software to view observations ?: You can also turn on Settings &amp;gt; Map Settings &amp;gt; Log routes for execution, and then use the Database &amp;gt; Saved Routes screen to export GPX to export files that can be viewed in a variety of GPX apps on the desktop. -pejacoby</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11610#p11610</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11610#p11610</guid>
-        <pubDate>2023-03-16T01:43:31</pubDate>
-      </item><item>
-        <title>Re: How to delete wigle data collected in certain time frame: Assuming you mean data stored on your local phone/device, you can erase all data on the &quot;Database&quot; item in the 3-horizontal-lines &quot;hamburger&quot; menu. On the &quot;Database&quot; screen scroll to the bottom and you can click &quot;CLEAR DB&quot; to erase all locally-stored data. If you want to be more surgical and really just remove a certain timeframe you would need to export the local sqlite database the app is using, either with android development tools or the &quot;BACKUP DATABASE&quot; button on the &quot;Database&quot; screen. Then use an sqlite database editor to remove the records you no longer want, and then put that file back on your device with android development tools. -bobzilla</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11590#p11590</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11590#p11590</guid>
-        <pubDate>2023-03-08T15:42:04</pubDate>
       </item>
   </channel>
 </rss>
