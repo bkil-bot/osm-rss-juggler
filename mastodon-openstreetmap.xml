@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>Posts on this page ( https://osm.town/@openstreetmap ) will always be visible without needing an account on this website. We value openness in #OpenStreetMap. 🙂</title>
+        <link>https://en.osm.town/@openstreetmap/110634580005954806</link>
+        <guid>https://en.osm.town/@openstreetmap/110634580005954806</guid>
+        <pubDate>Fri, 30 Jun 2023 18:28:39 +0000</pubDate>
+      </item><item>
         <title>4. (cont.) We are looking for social media ambassadors for OSMF fundraising. Join us to support the future of #OpenStreetMap! ♥️ (send an email to fundraising@osmfoundation.org )</title>
         <link>https://en.osm.town/@openstreetmap/110615397701699943</link>
         <guid>https://en.osm.town/@openstreetmap/110615397701699943</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/110455938359123097</link>
         <guid>https://en.osm.town/@openstreetmap/110455938359123097</guid>
         <pubDate>Tue, 30 May 2023 05:17:44 +0000</pubDate>
-      </item><item>
-        <title>Also in #sotm news is #sotmeu in Antwerp. Details and sponsorship packet are up! European mappers, start thinking about what you want to present! stateofthemap.eu</title>
-        <link>https://en.osm.town/@openstreetmap/110455934534637818</link>
-        <guid>https://en.osm.town/@openstreetmap/110455934534637818</guid>
-        <pubDate>Tue, 30 May 2023 05:16:45 +0000</pubDate>
       </item>
   </channel>
 </rss>
