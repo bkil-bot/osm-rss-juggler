@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3757985 (near Central Transdanubia, 8225, Hungary) / * 2023 June 30 05:57 vasony Created: ref=H323 vagy H329?</title>
+        <link>https://www.openstreetmap.org/note/3757985#c8101006</link>
+        <guid>https://www.openstreetmap.org/note/3757985#c8101006</guid>
+        <pubDate>Fri, 30 Jun 2023 05:57:27 +0000</pubDate>
+      </item><item>
+        <title>closed note 3508973 (near Central Transdanubia, 8225, Hungary) / * 2023 January 7 21:18 vasony Created: Valahol itt kéne lenni egy póznának / * 2023 June 30 05:21 vasony Resolved: messziről látszik, nem hozzáférhető a susnyában</title>
+        <link>https://www.openstreetmap.org/note/3508973#c8100960</link>
+        <guid>https://www.openstreetmap.org/note/3508973#c8100960</guid>
+        <pubDate>Fri, 30 Jun 2023 05:21:21 +0000</pubDate>
+      </item><item>
         <title>new note 3757766 (near Central Hungary, 1088, Hungary) / * 2023 June 29 20:02 Balikó Created: Unable to answer &amp;quot;What’s the name of this stop?&amp;quot; for https://osm.org/way/895465993 via StreetComplete_ee 53.31: / Már nem áll meg itt busz</title>
         <link>https://www.openstreetmap.org/note/3757766#c8100447</link>
         <guid>https://www.openstreetmap.org/note/3757766#c8100447</guid>
@@ -292,26 +302,6 @@
         <link>https://www.openstreetmap.org/note/3693387#c8094191</link>
         <guid>https://www.openstreetmap.org/note/3693387#c8094191</guid>
         <pubDate>Tue, 27 Jun 2023 20:53:59 +0000</pubDate>
-      </item><item>
-        <title>closed note 3700552 (near Central Hungary, 2030, Hungary) / * 2023 May 22 09:21 urbalazs Created: Mi a Napvirág utca és a Porcsinrózsa utca közötti szakasz pontos neve az érdi és a diósdi oldalon?. Úgy tűnik, mintha az érdi oldal a Muskátli utca folytatása lenne, míg a diósdi oldal a Nádas utcáig Gyár utca, utána viszont kérdéses. Vannak utcanévtáblák? A házak milyen utcára vannak számozva? / * 2023 May 24 20:49 vasony Updated: Gyár utca érdi része Muskátli utcára van számozva (páratlan), a Nádas és a vasút közt nincs tábla, 2 ipari épület van, az egyiken 133, ez Gyár utca 133 lesz (régi 133-as, mert előtte régi 117 és 119 számok voltak). / Az egész Gyár utca 2x újra lett számozva, most a keleti oldal a páros. Felmért számokat később felveszem. / * 2023 June 27 18:25 vasony Resolved: felvittem az utca elejét</title>
-        <link>https://www.openstreetmap.org/note/3700552#c8093807</link>
-        <guid>https://www.openstreetmap.org/note/3700552#c8093807</guid>
-        <pubDate>Tue, 27 Jun 2023 18:25:33 +0000</pubDate>
-      </item><item>
-        <title>new note 3754352 (near Central Hungary, 1065, Hungary) / * 2023 June 27 16:59 akos1 Created: Unable to answer &amp;quot;Is this still here?&amp;quot; for https://osm.org/node/3273166676 via StreetComplete 53.2: / Már nincs itt</title>
-        <link>https://www.openstreetmap.org/note/3754352#c8093573</link>
-        <guid>https://www.openstreetmap.org/note/3754352#c8093573</guid>
-        <pubDate>Tue, 27 Jun 2023 16:59:04 +0000</pubDate>
-      </item><item>
-        <title>new note 3754351 (near Central Hungary, 1065, Hungary) / * 2023 June 27 16:58 akos1 Created: Unable to answer &amp;quot;Is this still here?&amp;quot; for https://osm.org/node/4939174036 via StreetComplete 53.2: / Már nincs itt</title>
-        <link>https://www.openstreetmap.org/note/3754351#c8093571</link>
-        <guid>https://www.openstreetmap.org/note/3754351#c8093571</guid>
-        <pubDate>Tue, 27 Jun 2023 16:58:39 +0000</pubDate>
-      </item><item>
-        <title>new note 3754314 (near Transdanubia, 9471, Hungary) / * 2023 June 27 16:47 efi99 Created: cím?</title>
-        <link>https://www.openstreetmap.org/note/3754314#c8093526</link>
-        <guid>https://www.openstreetmap.org/note/3754314#c8093526</guid>
-        <pubDate>Tue, 27 Jun 2023 16:47:34 +0000</pubDate>
       </item>
   </channel>
 </rss>
