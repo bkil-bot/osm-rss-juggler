@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 2739732 (near Mihályháza, Balatongyörök) / * 2021 July 3 19:57 vasony Created: Magyarágyi köznek valahol itt kellene lennie / * 2023 April 26 06:55 Đuro Jiří Resolved: https://www.openstreetmap.org/note/2739733#map=17/46.77101/17.36235&amp;amp;layers=N / * 2023 April 26 08:32 vasony Reactivated:  / * 2023 April 26 08:35 vasony Updated: L’altra notizia è di Felsőcsetény köz, questa è di &amp;quot;Magyarágyi köz&amp;quot;. / * 2023 July 1 23:14 vasony Resolved: Itt is van</title>
+        <link>https://www.openstreetmap.org/note/2739732#c8106505</link>
+        <guid>https://www.openstreetmap.org/note/2739732#c8106505</guid>
+        <pubDate>Sat, 01 Jul 2023 23:14:12 +0000</pubDate>
+      </item><item>
+        <title>closed note 3340682 (near Újhegy, Balatonederics) / * 2022 September 1 07:41 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: There&amp;#39;s no Delta camping. / https://www.openstreetmap.org/node/3667578171 / * 2023 July 1 23:12 vasony Resolved: removed here, alredy exists on right place</title>
+        <link>https://www.openstreetmap.org/note/3340682#c8106503</link>
+        <guid>https://www.openstreetmap.org/note/3340682#c8106503</guid>
+        <pubDate>Sat, 01 Jul 2023 23:12:37 +0000</pubDate>
+      </item><item>
+        <title>new note 3760656 (near Újhegy, Balatonederics) / * 2023 July 1 22:44 vasony Created: Ez a Strand utca?</title>
+        <link>https://www.openstreetmap.org/note/3760656#c8106487</link>
+        <guid>https://www.openstreetmap.org/note/3760656#c8106487</guid>
+        <pubDate>Sat, 01 Jul 2023 22:44:28 +0000</pubDate>
+      </item><item>
         <title>closed note 3734459 (near Central Transdanubia, 8226, Hungary) / * 2023 June 14 07:43 Created: Tisztelt Fejlesztők! / Tegnapi napon Alsóörsön járva azt tapasztaltuk, hogy a jelzett ponttól a térképen a Séd patak part mentén jelzett &amp;quot;Vadrózsa utca&amp;quot; jelölés már nem helyes, mert az ma már a &amp;quot;Mihálkovics sétány&amp;quot; folytatása. Google Maps-en is ellenőriztük, ott helyesen szerepel. / Kérjük javítsák ezt a térképen, hogy elsősorban a túristáknak ez ne okozzon problémát. / --------------------------------------- / Yesterday, while visiting Alsóörs, we noticed that the name &amp;quot;Vadrózsa utca&amp;quot; indicated on the map along &amp;quot;Séd patak&amp;quot; is not correct, because it is now the continuation of &amp;quot;Mihálkovics sétány&amp;quot;. We also checked it on Google Maps, it is correct there. / Please fix this on the map so that it does not cause problems for tourists. / Tisztelettel: / Veres Miklós / veres.miklos@sztaki.hu / * 2023 July 1 22:01 vasony Resolved: Köszöntjük a jelzést, javítottam.</title>
         <link>https://www.openstreetmap.org/note/3734459#c8106436</link>
         <guid>https://www.openstreetmap.org/note/3734459#c8106436</guid>
@@ -317,21 +332,6 @@
         <link>https://www.openstreetmap.org/note/3755399#c8095699</link>
         <guid>https://www.openstreetmap.org/note/3755399#c8095699</guid>
         <pubDate>Wed, 28 Jun 2023 10:38:17 +0000</pubDate>
-      </item><item>
-        <title>new note 3755386 (near Central Hungary, 1148, Hungary) / * 2023 June 28 10:25 meskobalazs Created: Unable to answer &amp;quot;What kind of building entrance is this?&amp;quot; for https://osm.org/node/2165053084 via StreetComplete 53.2: / Itt nincs bejárat azok az épület hosszanti oldalánn vannak</title>
-        <link>https://www.openstreetmap.org/note/3755386#c8095679</link>
-        <guid>https://www.openstreetmap.org/note/3755386#c8095679</guid>
-        <pubDate>Wed, 28 Jun 2023 10:25:17 +0000</pubDate>
-      </item><item>
-        <title>new note 3755385 (near Central Hungary, 1148, Hungary) / * 2023 June 28 10:24 meskobalazs Created: Unable to answer &amp;quot;What kind of building entrance is this?&amp;quot; for https://osm.org/node/2165053097 via StreetComplete 53.2: / Itt nincs bejárat azok az épület hosszanti oldalánn vannak</title>
-        <link>https://www.openstreetmap.org/note/3755385#c8095677</link>
-        <guid>https://www.openstreetmap.org/note/3755385#c8095677</guid>
-        <pubDate>Wed, 28 Jun 2023 10:24:42 +0000</pubDate>
-      </item><item>
-        <title>new note 3755342 (near Central Hungary, 1025, Hungary) / * 2023 June 28 09:49 kogutowicz-mano Created: A leendő Pásztory Ditta lépcsősor. / https://telex.hu/belfold/2023/06/28/ii-kerulet-kozterulet-nev-nemes-nagy-agnes-karig-sara-pikler-emmi-pasztory-ditta</title>
-        <link>https://www.openstreetmap.org/note/3755342#c8095586</link>
-        <guid>https://www.openstreetmap.org/note/3755342#c8095586</guid>
-        <pubDate>Wed, 28 Jun 2023 09:49:27 +0000</pubDate>
       </item>
   </channel>
 </rss>
