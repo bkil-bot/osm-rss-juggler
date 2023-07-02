@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3762014 (near Central Hungary, 2683, Hungary) / * 2023 July 2 16:09 pordini Created: Speed limit is incorrect, it should be 30 here.</title>
+        <link>https://www.openstreetmap.org/note/3762014#c8108899</link>
+        <guid>https://www.openstreetmap.org/note/3762014#c8108899</guid>
+        <pubDate>Sun, 02 Jul 2023 16:09:32 +0000</pubDate>
+      </item><item>
+        <title>new note 3762013 (near North Great Plain, 4494, Hungary) / * 2023 July 2 16:09 pordini Created: this path does not exist</title>
+        <link>https://www.openstreetmap.org/note/3762013#c8108898</link>
+        <guid>https://www.openstreetmap.org/note/3762013#c8108898</guid>
+        <pubDate>Sun, 02 Jul 2023 16:09:31 +0000</pubDate>
+      </item><item>
+        <title>new note 3762001 (near Central Transdanubia, 2481, Hungary) / * 2023 July 2 16:02 vasony Created: ez nem Kavicsos köz?</title>
+        <link>https://www.openstreetmap.org/note/3762001#c8108873</link>
+        <guid>https://www.openstreetmap.org/note/3762001#c8108873</guid>
+        <pubDate>Sun, 02 Jul 2023 16:02:48 +0000</pubDate>
+      </item><item>
+        <title>new note 3761970 (near Central Transdanubia, 2481, Hungary) / * 2023 July 2 15:43 vasony Created: ez a Híd utca?</title>
+        <link>https://www.openstreetmap.org/note/3761970#c8108792</link>
+        <guid>https://www.openstreetmap.org/note/3761970#c8108792</guid>
+        <pubDate>Sun, 02 Jul 2023 15:43:13 +0000</pubDate>
+      </item><item>
         <title>new note 3761856 (near Central Transdanubia, 2481, Hungary) / * 2023 July 2 14:33 vasony Created: Ez tényleg Hajó utca, van tábla? Nincs nyoma hivatalos helyeken.</title>
         <link>https://www.openstreetmap.org/note/3761856#c8108545</link>
         <guid>https://www.openstreetmap.org/note/3761856#c8108545</guid>
@@ -327,36 +347,6 @@
         <link>https://www.openstreetmap.org/note/3754351#c8097331</link>
         <guid>https://www.openstreetmap.org/note/3754351#c8097331</guid>
         <pubDate>Wed, 28 Jun 2023 20:48:41 +0000</pubDate>
-      </item><item>
-        <title>closed note 3754352 (near Central Hungary, 1065, Hungary) / * 2023 June 27 16:59 akos1 Created: Unable to answer &amp;quot;Is this still here?&amp;quot; for https://osm.org/node/3273166676 via StreetComplete 53.2: / Már nincs itt / * 2023 June 28 20:47 vasony Resolved: javítva</title>
-        <link>https://www.openstreetmap.org/note/3754352#c8097329</link>
-        <guid>https://www.openstreetmap.org/note/3754352#c8097329</guid>
-        <pubDate>Wed, 28 Jun 2023 20:47:59 +0000</pubDate>
-      </item><item>
-        <title>closed note 3606023 (near Central Hungary, 1066, Hungary) / * 2023 March 20 13:04 Created: A Napoleon Café 2021-ben megszűnt / * 2023 June 28 20:46 vasony Resolved: javítva</title>
-        <link>https://www.openstreetmap.org/note/3606023#c8097325</link>
-        <guid>https://www.openstreetmap.org/note/3606023#c8097325</guid>
-        <pubDate>Wed, 28 Jun 2023 20:46:56 +0000</pubDate>
-      </item><item>
-        <title>closed note 3755752 (near Central Hungary, 1067, Hungary) / * 2023 June 28 20:41 vasony Resolved: fixed</title>
-        <link>https://www.openstreetmap.org/note/3755752#c8097316</link>
-        <guid>https://www.openstreetmap.org/note/3755752#c8097316</guid>
-        <pubDate>Wed, 28 Jun 2023 20:41:56 +0000</pubDate>
-      </item><item>
-        <title>new note 3756169 (near Batthyány puszta, Kisbér) / * 2023 June 28 19:19 kogutowicz-mano Created: A jelek szerint a régi helyén épült meg az új alállomás. / https://www.eon.hu/hu/rolunk/sajtoszoba/sajtokozlemenyek/a-jovo-kihivasaira-valaszolunk-kisberen.html</title>
-        <link>https://www.openstreetmap.org/note/3756169#c8097098</link>
-        <guid>https://www.openstreetmap.org/note/3756169#c8097098</guid>
-        <pubDate>Wed, 28 Jun 2023 19:19:04 +0000</pubDate>
-      </item><item>
-        <title>new comment 3693432 (near PP Center Üzleti Központ, Aquincum, Budapest, 3rd district) / * 2023 June 28 19:12 utvonalfelmeresek Updated: Ma megtapogattam és kezd puhulni! Egy szemet megettem és egész jó volt!</title>
-        <link>https://www.openstreetmap.org/note/3693432#c8097083</link>
-        <guid>https://www.openstreetmap.org/note/3693432#c8097083</guid>
-        <pubDate>Wed, 28 Jun 2023 19:12:22 +0000</pubDate>
-      </item><item>
-        <title>reactivated note 3693432 (near PP Center Üzleti Központ, Aquincum, Budapest, 3rd district) / * 2023 May 17 16:20 utvonalfelmeresek Created: piros gyümölcs / via StreetComplete 53.0 / Attached photo(s): / https://westnordost.de/p/149210.jpg / * 2023 May 17 18:06 bkil Updated: És finom? Nekem is rémlik és emlékeztet a fosókára, de nem tudom mi a latin neve, vagy hogy elvileg ehető-e. Az biztos, hogy nem valami finom. / * 2023 May 18 19:28 utvonalfelmeresek Updated: Nem mertem megkóstolni, a városban az autók között levő, állandó kipufogógáznak kitett gyümölcsök, nem ihletnek ilyesmire :) / * 2023 June 26 06:04 vasony Resolved: ez esetben ha nincs élvezeti értéke, akkor ezt zárjuk le, mert nem szükséges felvinni / * 2023 June 28 19:10 utvonalfelmeresek Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/3693432#c8097064</link>
-        <guid>https://www.openstreetmap.org/note/3693432#c8097064</guid>
-        <pubDate>Wed, 28 Jun 2023 19:10:59 +0000</pubDate>
       </item>
   </channel>
 </rss>
