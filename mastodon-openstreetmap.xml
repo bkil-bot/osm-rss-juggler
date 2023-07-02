@@ -3,6 +3,16 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>“We are aware of the Maxar imagery unavailability issue and have been in regular contact with them about key rotation and other security mitigation efforts. We have not heard much, but are trying to resolve.” @grischard (OSMF Chair) #OpenStreetMap #OSM #Maxar #OSMF</title>
+        <link>https://en.osm.town/@openstreetmap/110643083915978238</link>
+        <guid>https://en.osm.town/@openstreetmap/110643083915978238</guid>
+        <pubDate>Sun, 02 Jul 2023 06:31:18 +0000</pubDate>
+      </item><item>
+        <title>Additional Information about the Maxar Imagery issue can be found in the OSM community forum https://community.openstreetmap.org/t/maxar-imagery-not-working-was-maxar-is-blurred-in-id-and-other-similar-topics/100524/19 #OpenStreetMap #OSM #Maxar</title>
+        <link>https://en.osm.town/@openstreetmap/110643073641346599</link>
+        <guid>https://en.osm.town/@openstreetmap/110643073641346599</guid>
+        <pubDate>Sun, 02 Jul 2023 06:28:41 +0000</pubDate>
+      </item><item>
         <title>Posts on this page ( https://osm.town/@openstreetmap ) will always be visible without needing an account on this website. We value openness in #OpenStreetMap. 🙂</title>
         <link>https://en.osm.town/@openstreetmap/110634580005954806</link>
         <guid>https://en.osm.town/@openstreetmap/110634580005954806</guid>
@@ -92,16 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/110462606158559768</link>
         <guid>https://en.osm.town/@openstreetmap/110462606158559768</guid>
         <pubDate>Wed, 31 May 2023 09:33:26 +0000</pubDate>
-      </item><item>
-        <title>Last #sotm news of the day, &amp;quot;Virginia is for Mappers&amp;quot; at the @sotmus event in Richmond, VA which, like SOTM Fr is on June 9 - 11. https://2023.stateofthemap.us/</title>
-        <link>https://en.osm.town/@openstreetmap/110455940732815997</link>
-        <guid>https://en.osm.town/@openstreetmap/110455940732815997</guid>
-        <pubDate>Tue, 30 May 2023 05:18:20 +0000</pubDate>
-      </item><item>
-        <title>There&amp;#39;s more #sotm news! @sotmafrica has its call for proposals up and its fundraising prospectus up. What a great opportunity to flex your knowledge and fund #sotmafrica2023 https://pretalx.com/sotm-africa-2023/cfp</title>
-        <link>https://en.osm.town/@openstreetmap/110455938359123097</link>
-        <guid>https://en.osm.town/@openstreetmap/110455938359123097</guid>
-        <pubDate>Tue, 30 May 2023 05:17:44 +0000</pubDate>
       </item>
   </channel>
 </rss>
