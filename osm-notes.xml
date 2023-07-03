@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment 3762463 (near Central Hungary, 1066, Hungary) / * 2023 July 2 21:31 akos1 Created: Unable to answer &amp;quot;What’s the height limit here?&amp;quot; for https://osm.org/node/5359986528 via StreetComplete 53.2: / Ez a parkoló ház már be van falazva, lehet hogy le kéne szedni a térképről. / Attached photo(s): / https://westnordost.de/p/159223.jpg / * 2023 July 3 14:17 infeeeee Updated: A mélygarázs maga ott van, szóval leszedni semmiképp nem kéne. Inkább egy access=no címkével jelölni, hogy fizikailag nem lehet bejutni. Másik végén is le van falazva?</title>
+        <link>https://www.openstreetmap.org/note/3762463#c8111778</link>
+        <guid>https://www.openstreetmap.org/note/3762463#c8111778</guid>
+        <pubDate>Mon, 03 Jul 2023 14:17:19 +0000</pubDate>
+      </item><item>
+        <title>new note 3763409 (near North Hungary, 3726, Hungary) / * 2023 July 3 13:30 vasi79 Created: nem ivóvíz!</title>
+        <link>https://www.openstreetmap.org/note/3763409#c8111623</link>
+        <guid>https://www.openstreetmap.org/note/3763409#c8111623</guid>
+        <pubDate>Mon, 03 Jul 2023 13:30:33 +0000</pubDate>
+      </item><item>
         <title>new note 3763156 (near Transdanubia, 9144, Hungary) / * 2023 July 3 11:27 efi99 Created: Cím? / 43 már van egy.</title>
         <link>https://www.openstreetmap.org/note/3763156#c8111274</link>
         <guid>https://www.openstreetmap.org/note/3763156#c8111274</guid>
@@ -282,11 +292,6 @@
         <link>https://www.openstreetmap.org/note/3759095#c8103361</link>
         <guid>https://www.openstreetmap.org/note/3759095#c8103361</guid>
         <pubDate>Fri, 30 Jun 2023 20:08:01 +0000</pubDate>
-      </item><item>
-        <title>closed note 3758415 (near Central Hungary, 2000, Hungary) / * 2023 June 30 11:30 Henriett73 Resolved: Szentendre, Fő tér 15, 2000 / Tel.06202703070</title>
-        <link>https://www.openstreetmap.org/note/3758415#c8101951</link>
-        <guid>https://www.openstreetmap.org/note/3758415#c8101951</guid>
-        <pubDate>Fri, 30 Jun 2023 11:30:15 +0000</pubDate>
       </item>
   </channel>
 </rss>

@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Nice surprise! Thanks to @lk108 we now have &amp;quot;DeltaTouch&amp;quot;, the Ubuntu-Touch/UBports version of Delta Chat! It&amp;#39;s pretty usable already .... read more on https://delta.chat/en/2023-07-02-deltatouch about the journey of bringing Delta Chat to a non-Android/iOS mobile platform 🎉</title>
+        <link>https://chaos.social/@delta/110650443882930357</link>
+        <guid>https://chaos.social/@delta/110650443882930357</guid>
+        <pubDate>Mon, 03 Jul 2023 13:43:02 +0000</pubDate>
+      </item><item>
         <title>Delta Chat 1.38 releases: WebXDC apps can now exchange data with other tools and run on other messengers! We&amp;#39;ve implemented a little Calendar and Draw app to showcase the two new APIs and besides have other good news for the nascent privacy-guaranteeing Next-Generation-Internet ... just a &amp;quot;start&amp;quot; button for chat-shared apps with no GDPR or cookie-consents, no coins, no app or account hosting and thus no logins ;) https://delta.chat/en/2023-06-28-webxdc-import-export</title>
         <link>https://chaos.social/@delta/110621944095573330</link>
         <guid>https://chaos.social/@delta/110621944095573330</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/109371919429758159</link>
         <guid>https://chaos.social/@delta/109371919429758159</guid>
         <pubDate>Sat, 19 Nov 2022 18:37:27 +0000</pubDate>
-      </item><item>
-        <title>This @delta account is mediated in a chat group where anyone in the group can reply and see interactions, or follow the &amp;quot;home&amp;quot; chat with posts from the accounts we follow. For implementation see https://github.com/simplebot-org/simplebot_mastodon (also on PyPI) -- the bot needs your credentials so it&amp;#39;s best to run this bot in an environment you trust.</title>
-        <link>https://chaos.social/@delta/109371136436367780</link>
-        <guid>https://chaos.social/@delta/109371136436367780</guid>
-        <pubDate>Sat, 19 Nov 2022 15:18:20 +0000</pubDate>
       </item>
   </channel>
 </rss>
