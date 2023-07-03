@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3762818 (near Central Transdanubia, 8154, Hungary) / * 2023 July 3 07:17 vasony Created: 128/2018. (VI.21.) határozat szerint ez Kadarka dűlő, van bármi kiírva?</title>
+        <link>https://www.openstreetmap.org/note/3762818#c8110654</link>
+        <guid>https://www.openstreetmap.org/note/3762818#c8110654</guid>
+        <pubDate>Mon, 03 Jul 2023 07:17:00 +0000</pubDate>
+      </item><item>
         <title>new note 3762463 (near Central Hungary, 1066, Hungary) / * 2023 July 2 21:31 akos1 Created: Unable to answer &amp;quot;What’s the height limit here?&amp;quot; for https://osm.org/node/5359986528 via StreetComplete 53.2: / Ez a parkoló ház már be van falazva, lehet hogy le kéne szedni a térképről. / Attached photo(s): / https://westnordost.de/p/159223.jpg</title>
         <link>https://www.openstreetmap.org/note/3762463#c8109945</link>
         <guid>https://www.openstreetmap.org/note/3762463#c8109945</guid>
@@ -322,21 +327,6 @@
         <link>https://www.openstreetmap.org/note/3757445#c8099801</link>
         <guid>https://www.openstreetmap.org/note/3757445#c8099801</guid>
         <pubDate>Thu, 29 Jun 2023 16:06:45 +0000</pubDate>
-      </item><item>
-        <title>closed note 3738442 (near Central Hungary, 1115, Hungary) / * 2023 June 17 07:27 kogutowicz-mano Created: A Déliből jövet láttam, hogy ezt a vágányt felszedték. (És ha tippelhetek, nem építik vissza.) / Délen a Vasút utca 1a-ig. Északkeleten nem tudom meddig, azt a Keletibe utazóknak kell megnézniük. / * 2023 June 29 15:43 infeeeee Resolved: balint36 már fel is szedte: https://www.openstreetmap.org/changeset/137806692</title>
-        <link>https://www.openstreetmap.org/note/3738442#c8099725</link>
-        <guid>https://www.openstreetmap.org/note/3738442#c8099725</guid>
-        <pubDate>Thu, 29 Jun 2023 15:43:17 +0000</pubDate>
-      </item><item>
-        <title>closed note 3755066 (near Central Hungary, 1138, Hungary) / * 2023 June 28 07:29 maximilianvesper Created: The streets indicated on the map are misleading. See picture attached for comparison. / via StreetComplete 53.2 / Attached photo(s): / https://westnordost.de/p/157864.jpg / * 2023 June 29 15:30 infeeeee Resolved: Updated: https://www.openstreetmap.org/changeset/137923664</title>
-        <link>https://www.openstreetmap.org/note/3755066#c8099637</link>
-        <guid>https://www.openstreetmap.org/note/3755066#c8099637</guid>
-        <pubDate>Thu, 29 Jun 2023 15:30:34 +0000</pubDate>
-      </item><item>
-        <title>closed note 3755067 (near Central Hungary, 1138, Hungary) / * 2023 June 28 07:30 maximilianvesper Created: There are buildings here now. / via StreetComplete 53.2 / Attached photo(s): / https://westnordost.de/p/157865.jpg / * 2023 June 29 15:30 infeeeee Resolved: Added: https://www.openstreetmap.org/changeset/137923664</title>
-        <link>https://www.openstreetmap.org/note/3755067#c8099636</link>
-        <guid>https://www.openstreetmap.org/note/3755067#c8099636</guid>
-        <pubDate>Thu, 29 Jun 2023 15:30:26 +0000</pubDate>
       </item>
   </channel>
 </rss>
