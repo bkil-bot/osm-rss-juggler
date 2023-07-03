@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3762463 (near Central Hungary, 1066, Hungary) / * 2023 July 3 15:11 infeeeee Resolved: Adtam hozzá sok &amp;quot;Lifecycle prefix&amp;quot;-et: https://wiki.openstreetmap.org/wiki/Lifecycle_prefix / Itt: https://www.openstreetmap.org/changeset/138069187 / Utánaolvasva, jogi vita miatt van zárva, szóval ha a felek egyszer megegyeznek, akkor használható lesz a garázs, csak a címkéket kell módosítanunk majd. / Szerintem így most jó lesz, a legtöbb megjelenítő nem fogja megjeleníteni, útvonaltervezők nem terveznek majd át rajta.</title>
+        <link>https://www.openstreetmap.org/note/3762463#c8111958</link>
+        <guid>https://www.openstreetmap.org/note/3762463#c8111958</guid>
+        <pubDate>Mon, 03 Jul 2023 15:11:44 +0000</pubDate>
+      </item><item>
+        <title>new note 3763578 (near Central Transdanubia, 8237, Hungary) / * 2023 July 3 14:46 GergelyPolonkai Created: Unable to answer &amp;quot;What can be left here for recycling?&amp;quot; for https://osm.org/node/3458341765 via StreetComplete_ee 53.2: / Nem látni nyomát ennek a kukának. Helyiek(?) szerint nem is volt ilyen.</title>
+        <link>https://www.openstreetmap.org/note/3763578#c8111884</link>
+        <guid>https://www.openstreetmap.org/note/3763578#c8111884</guid>
+        <pubDate>Mon, 03 Jul 2023 14:46:39 +0000</pubDate>
+      </item><item>
+        <title>new comment 3762463 (near Central Hungary, 1066, Hungary) / * 2023 July 3 14:40 akos1 Updated: Jogos, egy acces=no tényleg jobban hangzik. Mindkét oldalon van egy masszív betonfal, talán azokat is fel lehetne rakni, de nem tudom, hogy kell tagelni.</title>
+        <link>https://www.openstreetmap.org/note/3762463#c8111876</link>
+        <guid>https://www.openstreetmap.org/note/3762463#c8111876</guid>
+        <pubDate>Mon, 03 Jul 2023 14:40:41 +0000</pubDate>
+      </item><item>
         <title>new comment 3762463 (near Central Hungary, 1066, Hungary) / * 2023 July 2 21:31 akos1 Created: Unable to answer &amp;quot;What’s the height limit here?&amp;quot; for https://osm.org/node/5359986528 via StreetComplete 53.2: / Ez a parkoló ház már be van falazva, lehet hogy le kéne szedni a térképről. / Attached photo(s): / https://westnordost.de/p/159223.jpg / * 2023 July 3 14:17 infeeeee Updated: A mélygarázs maga ott van, szóval leszedni semmiképp nem kéne. Inkább egy access=no címkével jelölni, hogy fizikailag nem lehet bejutni. Másik végén is le van falazva?</title>
         <link>https://www.openstreetmap.org/note/3762463#c8111778</link>
         <guid>https://www.openstreetmap.org/note/3762463#c8111778</guid>
@@ -272,26 +287,6 @@
         <link>https://www.openstreetmap.org/note/3759457#c8104270</link>
         <guid>https://www.openstreetmap.org/note/3759457#c8104270</guid>
         <pubDate>Sat, 01 Jul 2023 08:29:13 +0000</pubDate>
-      </item><item>
-        <title>new note 3759330 (near North Hungary, 3000, Hungary) / * 2023 July 1 06:10 GBAB Created: Itt nincs buszmegálló</title>
-        <link>https://www.openstreetmap.org/note/3759330#c8103975</link>
-        <guid>https://www.openstreetmap.org/note/3759330#c8103975</guid>
-        <pubDate>Sat, 01 Jul 2023 06:10:19 +0000</pubDate>
-      </item><item>
-        <title>closed note 2602376 (near North Great Plain, 4943, Hungary) / * 2021 March 31 13:58 vasony-qa Created: Ez itt a Kossuth vagy Kossuth Lajos utca/út? / * 2023 July 1 04:24 Hungarian_user Resolved: Kossuth Lajos utca, netes keresés alapján</title>
-        <link>https://www.openstreetmap.org/note/2602376#c8103805</link>
-        <guid>https://www.openstreetmap.org/note/2602376#c8103805</guid>
-        <pubDate>Sat, 01 Jul 2023 04:24:06 +0000</pubDate>
-      </item><item>
-        <title>closed note 2653780 (near North Great Plain, 4943, Hungary) / * 2021 May 4 10:25 vasony-qa Created: Melyik közterület a Kossuth Lajos utca? / * 2023 July 1 04:19 Hungarian_user Resolved: </title>
-        <link>https://www.openstreetmap.org/note/2653780#c8103800</link>
-        <guid>https://www.openstreetmap.org/note/2653780#c8103800</guid>
-        <pubDate>Sat, 01 Jul 2023 04:19:06 +0000</pubDate>
-      </item><item>
-        <title>new note 3759095 (near Southern Transdanubia, 7140, Hungary) / * 2023 June 30 20:08 Created: Halbolt bezárt, az üzleten kiadó feliratú tábla olvasható.</title>
-        <link>https://www.openstreetmap.org/note/3759095#c8103361</link>
-        <guid>https://www.openstreetmap.org/note/3759095#c8103361</guid>
-        <pubDate>Fri, 30 Jun 2023 20:08:01 +0000</pubDate>
       </item>
   </channel>
 </rss>
