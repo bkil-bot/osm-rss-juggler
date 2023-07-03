@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3759457 (near Southern Transdanubia, 7634, Hungary) / * 2023 July 1 08:29 utvonalfelmeresek Created: szökőkút / * 2023 July 3 16:11 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/138071368</title>
+        <link>https://www.openstreetmap.org/note/3759457#c8112179</link>
+        <guid>https://www.openstreetmap.org/note/3759457#c8112179</guid>
+        <pubDate>Mon, 03 Jul 2023 16:11:19 +0000</pubDate>
+      </item><item>
+        <title>closed note 3757985 (near Central Transdanubia, 8225, Hungary) / * 2023 June 30 05:57 vasony Created: ref=H323 vagy H329? / * 2023 July 3 15:55 vasony Resolved: H329</title>
+        <link>https://www.openstreetmap.org/note/3757985#c8112128</link>
+        <guid>https://www.openstreetmap.org/note/3757985#c8112128</guid>
+        <pubDate>Mon, 03 Jul 2023 15:55:12 +0000</pubDate>
+      </item><item>
         <title>closed note 3762463 (near Central Hungary, 1066, Hungary) / * 2023 July 3 15:11 infeeeee Resolved: Adtam hozzá sok &amp;quot;Lifecycle prefix&amp;quot;-et: https://wiki.openstreetmap.org/wiki/Lifecycle_prefix / Itt: https://www.openstreetmap.org/changeset/138069187 / Utánaolvasva, jogi vita miatt van zárva, szóval ha a felek egyszer megegyeznek, akkor használható lesz a garázs, csak a címkéket kell módosítanunk majd. / Szerintem így most jó lesz, a legtöbb megjelenítő nem fogja megjeleníteni, útvonaltervezők nem terveznek majd át rajta.</title>
         <link>https://www.openstreetmap.org/note/3762463#c8111958</link>
         <guid>https://www.openstreetmap.org/note/3762463#c8111958</guid>
@@ -282,11 +292,6 @@
         <link>https://www.openstreetmap.org/note/3098613#c8104525</link>
         <guid>https://www.openstreetmap.org/note/3098613#c8104525</guid>
         <pubDate>Sat, 01 Jul 2023 10:03:12 +0000</pubDate>
-      </item><item>
-        <title>new note 3759457 (near Southern Transdanubia, 7634, Hungary) / * 2023 July 1 08:29 utvonalfelmeresek Created: szökőkút</title>
-        <link>https://www.openstreetmap.org/note/3759457#c8104270</link>
-        <guid>https://www.openstreetmap.org/note/3759457#c8104270</guid>
-        <pubDate>Sat, 01 Jul 2023 08:29:13 +0000</pubDate>
       </item>
   </channel>
 </rss>
