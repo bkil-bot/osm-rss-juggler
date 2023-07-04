@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>highway=construction construction=cycleway -Spush</title>
+        <link>https://www.openstreetmap.org/changeset/138039538</link>
+        <guid>https://www.openstreetmap.org/changeset/138039538#comment_1</guid>
+        <pubDate>2023-07-04T16:14:18+02:00</pubDate>
+      </item><item>
         <title>írtam mátrixon -vasony</title>
         <link>https://www.openstreetmap.org/changeset/137994343</link>
         <guid>https://www.openstreetmap.org/changeset/137994343#comment_1</guid>
@@ -22,11 +27,6 @@
         <link>https://www.openstreetmap.org/changeset/127585891</link>
         <guid>https://www.openstreetmap.org/changeset/127585891#comment_2</guid>
         <pubDate>2023-06-28T10:34:11+02:00</pubDate>
-      </item><item>
-        <title>Szia Narvik2! Visszavontam ezt a módosításcsomagot, mert a lépcsőnek nem az a neve, mint ami a belinkelt rendeletben szerepel. Sajnos a rendelet tele van hibás utcanevekkel, például se a Fehérhegyi lépcső, se a Péter Pál utca, se a Stáció lépcső nem létezik ilyen néven, és nem szerepelnek a hivatalos budapesti közterületnév-jegyzékben sem. Kérlek, hogy legközelebb győződj meg arról a helyszínen, hogy mi az utca, lépcső neve, illetve hogy mi van kitáblázva. -urbalazs</title>
-        <link>https://www.openstreetmap.org/changeset/137508615</link>
-        <guid>https://www.openstreetmap.org/changeset/137508615#comment_1</guid>
-        <pubDate>2023-06-27T18:17:49+02:00</pubDate>
       </item>
   </channel>
 </rss>
