@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3764396 (near Central Hungary, 2310, Hungary) / * 2023 July 4 05:13 kogutowicz-mano Created: A garázsok leégtek. / https://24.hu/belfold/2023/07/04/tuz-katasztrofavedelem-garazssor-szigetszentmiklos/</title>
+        <link>https://www.openstreetmap.org/note/3764396#c8113549</link>
+        <guid>https://www.openstreetmap.org/note/3764396#c8113549</guid>
+        <pubDate>Tue, 04 Jul 2023 05:13:49 +0000</pubDate>
+      </item><item>
         <title>closed note 3757445 (near Central Transdanubia, 8225, Hungary) / * 2023 June 29 16:06 vasony Created: privat / * 2023 July 3 21:39 vasony Resolved: jav</title>
         <link>https://www.openstreetmap.org/note/3757445#c8112952</link>
         <guid>https://www.openstreetmap.org/note/3757445#c8112952</guid>
@@ -217,11 +222,6 @@
         <link>https://www.openstreetmap.org/note/3760656#c8106487</link>
         <guid>https://www.openstreetmap.org/note/3760656#c8106487</guid>
         <pubDate>Sat, 01 Jul 2023 22:44:28 +0000</pubDate>
-      </item><item>
-        <title>closed note 3734459 (near Central Transdanubia, 8226, Hungary) / * 2023 June 14 07:43 Created: Tisztelt Fejlesztők! / Tegnapi napon Alsóörsön járva azt tapasztaltuk, hogy a jelzett ponttól a térképen a Séd patak part mentén jelzett &amp;quot;Vadrózsa utca&amp;quot; jelölés már nem helyes, mert az ma már a &amp;quot;Mihálkovics sétány&amp;quot; folytatása. Google Maps-en is ellenőriztük, ott helyesen szerepel. / Kérjük javítsák ezt a térképen, hogy elsősorban a túristáknak ez ne okozzon problémát. / --------------------------------------- / Yesterday, while visiting Alsóörs, we noticed that the name &amp;quot;Vadrózsa utca&amp;quot; indicated on the map along &amp;quot;Séd patak&amp;quot; is not correct, because it is now the continuation of &amp;quot;Mihálkovics sétány&amp;quot;. We also checked it on Google Maps, it is correct there. / Please fix this on the map so that it does not cause problems for tourists. / Tisztelettel: / Veres Miklós / veres.miklos@sztaki.hu / * 2023 July 1 22:01 vasony Resolved: Köszöntjük a jelzést, javítottam.</title>
-        <link>https://www.openstreetmap.org/note/3734459#c8106436</link>
-        <guid>https://www.openstreetmap.org/note/3734459#c8106436</guid>
-        <pubDate>Sat, 01 Jul 2023 22:01:02 +0000</pubDate>
       </item>
   </channel>
 </rss>
