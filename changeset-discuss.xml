@@ -3,10 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Bocs, kereshetőség alatt a címet értettem, azt gyorsítja, és teszi egyértelműbbé -gwythyr622</title>
+        <title>Ne haragudj, hogy ellentmondok, de mi itt nem turistatérképet rajzolunk, hanem egy (világméretű) térinformatikai adatbázist építünk, és vannak szabályok, amikhez mindenkinek igazodnia kell. A name=* mező nem azért van, hogy bizonyos szoftverek és felhasználóik kedvéért, kényelmi okokból mindenfélét belezsúfoljanak. Ld. https://wiki.openstreetmap.org/wiki/Key:name . Szóval arra kérnélek, hogy ezt ne csináld! Ha meg akarod változtatni a nemzetközileg egységes gyakorlatot, akkor előbb terjessz elő egy javaslatot a wikin, aztán azt megvitatja a közösség, végül ha elfogadják, az új szabályok bekerülnek a wikibe, és attól kezdve ahhoz tartjuk magunkat. -kogutowicz-mano</title>
         <link>https://www.openstreetmap.org/changeset/138016512</link>
-        <guid>https://www.openstreetmap.org/changeset/138016512#comment_3</guid>
-        <pubDate>2023-07-06T13:10:43+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/138016512#comment_4</guid>
+        <pubDate>2023-07-06T14:09:50+02:00</pubDate>
+      </item><item>
+        <title>Pontosan ilyen jellegű megbeszélést kezdeményeztem: https://www.openstreetmap.org/changeset/138016512. Ott folytathatjuk. -kogutowicz-mano</title>
+        <link>https://www.openstreetmap.org/changeset/138184564</link>
+        <guid>https://www.openstreetmap.org/changeset/138184564#comment_2</guid>
+        <pubDate>2023-07-06T14:01:32+02:00</pubDate>
       </item><item>
         <title>Szia! Bocsánat, jogos az észrevétel. A hiányzó brand tageket adtam automatikusan hozzá iD-ben és nem vettem észre a &quot;disused&quot; taget. Üdv, Bálint -Bálint</title>
         <link>https://www.openstreetmap.org/changeset/134115804</link>
