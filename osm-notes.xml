@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3767563 (near North Great Plain, 4032, Hungary) / * 2023 July 6 09:25 Created: Ez a buszmegálló nem létezik, az elmúlt bő 10 évben nem is létezett soha</title>
+        <link>https://www.openstreetmap.org/note/3767563#c8120808</link>
+        <guid>https://www.openstreetmap.org/note/3767563#c8120808</guid>
+        <pubDate>Thu, 06 Jul 2023 09:25:17 +0000</pubDate>
+      </item><item>
+        <title>new note 3767547 (near South Great Plain, 6000, Hungary) / * 2023 July 6 09:20 Created: A kórház korábbi épületei már nem állnak, a nagy ovális alakú GTK főépületet leszámítva üres építési terület</title>
+        <link>https://www.openstreetmap.org/note/3767547#c8120787</link>
+        <guid>https://www.openstreetmap.org/note/3767547#c8120787</guid>
+        <pubDate>Thu, 06 Jul 2023 09:20:48 +0000</pubDate>
+      </item><item>
         <title>closed note 3715755 (near Central Hungary, 1144, Hungary) / * 2023 June 1 16:10 vasony Created: Rákosfalva utca régen ugyan biztosan létezett, most viszont nem szerepel a közterületnév-jegyzékben. Ellenőrizendő / * 2023 July 5 13:38 ITineris Updated: Tábla sehol/semmi sincs. Egy 3 m széles aszfalt járda a két kerítés között, a végén karókkal lezárva. / A kerületi szabályozási terven is névtelen; csak mint a kerékpáros infrastruktúra része van jelölve. / * 2023 July 6 07:01 vasony Resolved: Levettem a nevet</title>
         <link>https://www.openstreetmap.org/note/3715755#c8120433</link>
         <guid>https://www.openstreetmap.org/note/3715755#c8120433</guid>
@@ -232,21 +242,6 @@
         <link>https://www.openstreetmap.org/note/3764054#c8112832</link>
         <guid>https://www.openstreetmap.org/note/3764054#c8112832</guid>
         <pubDate>Mon, 03 Jul 2023 20:31:18 +0000</pubDate>
-      </item><item>
-        <title>new note 3764054 (near North Hungary, 3519, Hungary) / * 2023 July 3 20:31 cybeer77 Created: Crazy person living here. Beware</title>
-        <link>https://www.openstreetmap.org/note/3764054#c8112831</link>
-        <guid>https://www.openstreetmap.org/note/3764054#c8112831</guid>
-        <pubDate>Mon, 03 Jul 2023 20:31:08 +0000</pubDate>
-      </item><item>
-        <title>new note 3764049 (near Transdanubia, 9144, Hungary) / * 2023 July 3 20:22 efi99 Created: Ez milyen épület?</title>
-        <link>https://www.openstreetmap.org/note/3764049#c8112821</link>
-        <guid>https://www.openstreetmap.org/note/3764049#c8112821</guid>
-        <pubDate>Mon, 03 Jul 2023 20:22:17 +0000</pubDate>
-      </item><item>
-        <title>new note 3763960 (near Central Transdanubia, 8225, Hungary) / * 2023 July 3 18:57 vasony Created: köztes póznák hiányoznak, nyáron sűrűn benőtt</title>
-        <link>https://www.openstreetmap.org/note/3763960#c8112651</link>
-        <guid>https://www.openstreetmap.org/note/3763960#c8112651</guid>
-        <pubDate>Mon, 03 Jul 2023 18:57:23 +0000</pubDate>
       </item>
   </channel>
 </rss>
