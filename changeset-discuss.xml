@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Ne haragudj, hogy ellentmondok, de mi itt nem turistatérképet rajzolunk, hanem egy (világméretű) térinformatikai adatbázist építünk, és vannak szabályok, amikhez mindenkinek igazodnia kell. A name=* mező nem azért van, hogy bizonyos szoftverek és felhasználóik kedvéért, kényelmi okokból mindenfélét belezsúfoljanak. Ld. https://wiki.openstreetmap.org/wiki/Key:name . Szóval arra kérnélek, hogy ezt ne csináld! Ha meg akarod változtatni a nemzetközileg egységes gyakorlatot, akkor előbb terjessz elő egy javaslatot a wikin, aztán azt megvitatja a közösség, végül ha elfogadják, az új szabályok bekerülnek a wikibe, és attól kezdve ahhoz tartjuk magunkat. -kogutowicz-mano</title>
+        <title>Látom, hogy mire gondolsz, a neveknél (közkút, tűzcsap, stb.) jogos, amit jeleztél, ez valóban egyértelmű megfogalmazás. A felhasználói igény ettől függetlenül létezik, de értelmezhető elvárás, hogy ezt maguk az OSM adatbázist felhasználó cégek, oldalak oldják meg az attribútumok megfelelő kombinációjával, és ne az OSM adatbázisa. Címzéseknél én a leírások alapján úgy látom, hogy nincs ilyen szabályzati tiltás, ellenjavaslat, bár vita igen (pro és kontra megfontolandó érvekkel) https://wiki.openstreetmap.org/wiki/Addresses https://help.openstreetmap.org/questions/48735/address-information-in-poi-and-building https://wiki.openstreetmap.org/wiki/Key:amenity https://wiki.openstreetmap.org/wiki/Points_of_interest Átnézem akkor a szerkesztési csomagot: - a terepen igazolható neveket (pl. a mátrakeresztesi rendelő, Szurdokpüspökiben Vegyesbolt a neve a megadott kontakt infó alapján is) adom majd vissza - általános kategórianevektől a name mezőben tartózkodom a jövőben az irányelveknek megfelelően. -gwythyr622</title>
         <link>https://www.openstreetmap.org/changeset/138016512</link>
-        <guid>https://www.openstreetmap.org/changeset/138016512#comment_4</guid>
-        <pubDate>2023-07-06T14:09:50+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/138016512#comment_5</guid>
+        <pubDate>2023-07-06T14:31:30+02:00</pubDate>
       </item><item>
         <title>Pontosan ilyen jellegű megbeszélést kezdeményeztem: https://www.openstreetmap.org/changeset/138016512. Ott folytathatjuk. -kogutowicz-mano</title>
         <link>https://www.openstreetmap.org/changeset/138184564</link>
