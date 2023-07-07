@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3767779 (near Central Hungary, 1147, Hungary) / * 2023 July 6 11:34 vasony Created: Tapló köz  régebben létezett, de a most már nem szerepel a közterületnév-jegyzékben, van bármi felirat helyben erre vonantkozóan? / * 2023 July 6 19:23 Gyuri Nyitrai Updated: nincs / * 2023 July 7 06:48 vasony Resolved: ok, megszabadultam tőle</title>
+        <link>https://www.openstreetmap.org/note/3767779#c8123595</link>
+        <guid>https://www.openstreetmap.org/note/3767779#c8123595</guid>
+        <pubDate>Fri, 07 Jul 2023 06:48:44 +0000</pubDate>
+      </item><item>
+        <title>closed note 2569436 (near Central Hungary, 1154, Hungary) / * 2023 July 7 06:46 vasony Resolved: </title>
+        <link>https://www.openstreetmap.org/note/2569436#c8123588</link>
+        <guid>https://www.openstreetmap.org/note/2569436#c8123588</guid>
+        <pubDate>Fri, 07 Jul 2023 06:46:34 +0000</pubDate>
+      </item><item>
+        <title>reactivated note 2569436 (near Central Hungary, 1154, Hungary) / * 2021 March 7 17:07 vasony Created: Kaktusz-kert ellenőrizendő! Ez inkább valakinek a privát kertje mint egy park. / * 2023 July 6 19:12 Gyuri Nyitrai Resolved: Hát, igen. Nincs itt semmilyen publikus kert. / * 2023 July 7 06:45 vasony Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/2569436#c8123586</link>
+        <guid>https://www.openstreetmap.org/note/2569436#c8123586</guid>
+        <pubDate>Fri, 07 Jul 2023 06:45:53 +0000</pubDate>
+      </item><item>
+        <title>new comment 3558657 (near Central Hungary, 1158, Hungary) / * 2023 February 14 12:01 Created: 20. / * 2023 July 7 06:44 vasony Updated: mi 20?</title>
+        <link>https://www.openstreetmap.org/note/3558657#c8123583</link>
+        <guid>https://www.openstreetmap.org/note/3558657#c8123583</guid>
+        <pubDate>Fri, 07 Jul 2023 06:44:28 +0000</pubDate>
+      </item><item>
         <title>closed note 3768247 (near Vörösberény, Balatonalmádi) / * 2023 July 6 22:17 vasony Resolved: javítva</title>
         <link>https://www.openstreetmap.org/note/3768247#c8123160</link>
         <guid>https://www.openstreetmap.org/note/3768247#c8123160</guid>
@@ -237,21 +257,6 @@
         <link>https://www.openstreetmap.org/note/3755527#c8118418</link>
         <guid>https://www.openstreetmap.org/note/3755527#c8118418</guid>
         <pubDate>Wed, 05 Jul 2023 16:00:06 +0000</pubDate>
-      </item><item>
-        <title>closed note 3765294 (near Central Hungary, 1146, Hungary) / * 2023 July 4 16:49 meskobalazs Created: Fixity nyitvatartás h-p 10-18 sz-v off / via StreetComplete 53.2 / * 2023 July 5 15:54 meskobalazs Resolved: Javítva.</title>
-        <link>https://www.openstreetmap.org/note/3765294#c8118406</link>
-        <guid>https://www.openstreetmap.org/note/3765294#c8118406</guid>
-        <pubDate>Wed, 05 Jul 2023 15:54:09 +0000</pubDate>
-      </item><item>
-        <title>new comment 3755527 (near Central Hungary, 1141, Hungary) / * 2023 July 5 15:31 ITineris Updated: Azokat a kiszögelléseket én leendő hídfőként értelmeztem.</title>
-        <link>https://www.openstreetmap.org/note/3755527#c8118292</link>
-        <guid>https://www.openstreetmap.org/note/3755527#c8118292</guid>
-        <pubDate>Wed, 05 Jul 2023 15:31:13 +0000</pubDate>
-      </item><item>
-        <title>new comment 3755527 (near Central Hungary, 1141, Hungary) / * 2023 July 5 15:26 infeeeee Updated: Ha nyoma sincs építkezésnek, akkor inkább valami &amp;quot;proposed&amp;quot; vagy &amp;quot;planned&amp;quot; alapú címke jobb lenne. / https://wiki.openstreetmap.org/wiki/Key:proposed:* / https://wiki.openstreetmap.org/wiki/Key:proposed / Jelenlegi címkézés alapján már elkezdték az építkezést, ezért is kérdezi ezt meg a StreetComplete.</title>
-        <link>https://www.openstreetmap.org/note/3755527#c8118285</link>
-        <guid>https://www.openstreetmap.org/note/3755527#c8118285</guid>
-        <pubDate>Wed, 05 Jul 2023 15:26:52 +0000</pubDate>
       </item>
   </channel>
 </rss>
