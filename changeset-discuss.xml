@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>STOP THIS. You are creating duplicates with every single edit. Somebody has to now check every single one of your changes and clean up. If you do not understand, ask. But don't continue. Thanks Limes -limes11</title>
+        <link>https://www.openstreetmap.org/changeset/138213835</link>
+        <guid>https://www.openstreetmap.org/changeset/138213835#comment_1</guid>
+        <pubDate>2023-07-07T19:20:44+02:00</pubDate>
+      </item><item>
         <title>Látom, hogy mire gondolsz, a neveknél (közkút, tűzcsap, stb.) jogos, amit jeleztél, ez valóban egyértelmű megfogalmazás. A felhasználói igény ettől függetlenül létezik, de értelmezhető elvárás, hogy ezt maguk az OSM adatbázist felhasználó cégek, oldalak oldják meg az attribútumok megfelelő kombinációjával, és ne az OSM adatbázisa. Címzéseknél én a leírások alapján úgy látom, hogy nincs ilyen szabályzati tiltás, ellenjavaslat, bár vita igen (pro és kontra megfontolandó érvekkel) https://wiki.openstreetmap.org/wiki/Addresses https://help.openstreetmap.org/questions/48735/address-information-in-poi-and-building https://wiki.openstreetmap.org/wiki/Key:amenity https://wiki.openstreetmap.org/wiki/Points_of_interest Átnézem akkor a szerkesztési csomagot: - a terepen igazolható neveket (pl. a mátrakeresztesi rendelő, Szurdokpüspökiben Vegyesbolt a neve a megadott kontakt infó alapján is) adom majd vissza - általános kategórianevektől a name mezőben tartózkodom a jövőben az irányelveknek megfelelően. -gwythyr622</title>
         <link>https://www.openstreetmap.org/changeset/138016512</link>
         <guid>https://www.openstreetmap.org/changeset/138016512#comment_5</guid>
