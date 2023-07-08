@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: It is still possible to use Samsung Galaxy S4 for wifi scanning?: yes the S4 is ok, i use it with LOS18.1 (Android 11) https://wiki.lineageos.org/devices/jfltexx/ Here is a comparison against the S7 and S20: viewtopic.php?t=2498#p11121 -d2k2</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11761#p11761</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11761#p11761</guid>
+        <pubDate>2023-07-08T16:36:52</pubDate>
+      </item><item>
         <title>Re: Custom ROMs for wardriving?: Well, if you're sophisticated enough to install a new OS: first: try the adb trick to remove the throttle on 9; it doesn't work on every model/os. if it works, no need to resort to anything extreme. ( Code: adb shell settings put global wifi_scan_throttle_enabled 0) second: https://lineageos.org/ is pretty nice -arkasha</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11753#p11753</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11753#p11753</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11664#p11664</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11664#p11664</guid>
         <pubDate>2023-04-27T18:24:37</pubDate>
-      </item><item>
-        <title>Re: Best Android for WigleWifi: None of what the previous answers suggests matters. Manufacturers build phones in batches, each batch will differ depending on how well the manufacturing machines are calibrated. 2 Samsung S9 phones from 2 different batches will display 2 different results from the antennas and the bluetooth. Another consideration is that all because the phone is a newer version that doesn't mean it will be better at wifi or bluetooth scanning. Tested numerous android phones at Intel, tested 10+ android phones on my own. There is no defacto best android phone for wardriving. -toothpaste</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11663#p11663</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11663#p11663</guid>
-        <pubDate>2023-04-27T17:22:29</pubDate>
       </item>
   </channel>
 </rss>
