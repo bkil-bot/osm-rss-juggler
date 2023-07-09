@@ -2,11 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      <item>
-        <title>Template:PlaceLang: Creating city pages: (locality instead of city) update translation and link for EN &amp;quot;Use this template for your locality&amp;quot; and DE &amp;quot;Verwende diese Vorlage für deinen Ort&amp;quot; -Chris2map</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Template:PlaceLang&amp;diff=2557547&amp;oldid=2529564</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Template:PlaceLang&amp;diff=2557547</guid>
-        <pubDate>Sat, 08 Jul 2023 07:23:48 GMT</pubDate>
-      </item>
+      
   </channel>
 </rss>
