@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>Why State of the Map conferences are important https://blog.openstreetmap.org/2023/07/07/why-state-of-the-map-conferences-are-so-important-to-osm/ #OpenStreetMap #OSM #StateOfTheMap #SotM</title>
+        <link>https://en.osm.town/@openstreetmap/110688970867958076</link>
+        <guid>https://en.osm.town/@openstreetmap/110688970867958076</guid>
+        <pubDate>Mon, 10 Jul 2023 09:00:58 +0000</pubDate>
+      </item><item>
         <title>“We are aware of the Maxar imagery unavailability issue and have been in regular contact with them about key rotation and other security mitigation efforts. We have not heard much, but are trying to resolve.” @grischard (OSMF Chair) #OpenStreetMap #OSM #Maxar #OSMF</title>
         <link>https://en.osm.town/@openstreetmap/110643083915978238</link>
         <guid>https://en.osm.town/@openstreetmap/110643083915978238</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/110469038432283111</link>
         <guid>https://en.osm.town/@openstreetmap/110469038432283111</guid>
         <pubDate>Thu, 01 Jun 2023 12:49:15 +0000</pubDate>
-      </item><item>
-        <title>In this blog post Grant Slater recounts a busy first year as #OpenStreetMap&amp;#39;s first site reliability engineer. https://blog.openstreetmap.org/2023/05/22/powering-openstreetmaps-future-a-year-of-improvements-from-openstreetmap-foundations-site-reliability-engineer/ #OSM #gischat #maps</title>
-        <link>https://en.osm.town/@openstreetmap/110462606158559768</link>
-        <guid>https://en.osm.town/@openstreetmap/110462606158559768</guid>
-        <pubDate>Wed, 31 May 2023 09:33:26 +0000</pubDate>
       </item>
   </channel>
 </rss>
