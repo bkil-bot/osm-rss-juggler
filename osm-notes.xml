@@ -3,6 +3,31 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3741013 (near Central Transdanubia, 8000, Hungary) / * 2023 June 18 17:38 utvonalfelmeresek Created: vsb / * 2023 July 10 22:57 urbalazs Resolved: Hozzáadtam</title>
+        <link>https://www.openstreetmap.org/note/3741013#c8135181</link>
+        <guid>https://www.openstreetmap.org/note/3741013#c8135181</guid>
+        <pubDate>Mon, 10 Jul 2023 22:57:16 +0000</pubDate>
+      </item><item>
+        <title>closed note 3351384 (near Emmaróza, Szabadbattyán) / * 2022 September 8 20:16 vasony Created: Zengő dűlő itt van valahol? / * 2023 July 10 22:47 urbalazs Resolved: Igen, ki is van táblázva. Beírtam a nevet.</title>
+        <link>https://www.openstreetmap.org/note/3351384#c8135168</link>
+        <guid>https://www.openstreetmap.org/note/3351384#c8135168</guid>
+        <pubDate>Mon, 10 Jul 2023 22:47:44 +0000</pubDate>
+      </item><item>
+        <title>closed note 3348828 (near Central Transdanubia, 8151, Hungary) / * 2022 September 6 20:42 vasony Created: Jókai Mór köz vagy Jókai köz szerepel az utcatáblán? / * 2023 July 10 22:45 urbalazs Resolved: Nincs kint utcanévtábla, de a Földhivatalnál teljes névvel van. Az épületek viszont csak vezetéknévvel vannak a Földhivatalnál. Hagytam teljes névvel.</title>
+        <link>https://www.openstreetmap.org/note/3348828#c8135167</link>
+        <guid>https://www.openstreetmap.org/note/3348828#c8135167</guid>
+        <pubDate>Mon, 10 Jul 2023 22:45:59 +0000</pubDate>
+      </item><item>
+        <title>closed note 3348829 (near Central Transdanubia, 8151, Hungary) / * 2022 September 6 20:42 vasony Created: Jókai Mór utca vagy Jókai utca szerepel az utcatáblán? / * 2023 July 10 22:45 urbalazs Resolved: Jókai Mór utca van kitáblázva.</title>
+        <link>https://www.openstreetmap.org/note/3348829#c8135166</link>
+        <guid>https://www.openstreetmap.org/note/3348829#c8135166</guid>
+        <pubDate>Mon, 10 Jul 2023 22:45:28 +0000</pubDate>
+      </item><item>
+        <title>closed note 3348833 (near Central Transdanubia, 8151, Hungary) / * 2022 September 6 20:42 vasony Created: Jókai Mór telep vagy Jókai telep szerepel az utcatáblán? / * 2023 July 10 22:45 urbalazs Resolved: Nincs kint utcanévtábla, de egy ott lakó szerint Jókai telep az utca neve. Átírtam OSM-en.</title>
+        <link>https://www.openstreetmap.org/note/3348833#c8135163</link>
+        <guid>https://www.openstreetmap.org/note/3348833#c8135163</guid>
+        <pubDate>Mon, 10 Jul 2023 22:45:04 +0000</pubDate>
+      </item><item>
         <title>closed note 3348831 (near Central Transdanubia, 8151, Hungary) / * 2022 September 6 20:42 vasony Created: Petőfi Sándor utca vagy Petőfi utca szerepel az utcatáblán? / * 2023 July 10 22:09 urbalazs Resolved: A keleti végén Petőfi Sándor utca, a nyugati végén csak Petőfi utca. Beírtam alt_name-be a rövid alakot.</title>
         <link>https://www.openstreetmap.org/note/3348831#c8135133</link>
         <guid>https://www.openstreetmap.org/note/3348831#c8135133</guid>
@@ -242,16 +267,6 @@
         <link>https://www.openstreetmap.org/note/3771503#c8128882</link>
         <guid>https://www.openstreetmap.org/note/3771503#c8128882</guid>
         <pubDate>Sat, 08 Jul 2023 20:12:56 +0000</pubDate>
-      </item><item>
-        <title>new note 3771502 (near Central Transdanubia, 8284, Hungary) / * 2023 July 8 20:12 vasony Created: Templomcsapás utca ellenőrizendő</title>
-        <link>https://www.openstreetmap.org/note/3771502#c8128881</link>
-        <guid>https://www.openstreetmap.org/note/3771502#c8128881</guid>
-        <pubDate>Sat, 08 Jul 2023 20:12:56 +0000</pubDate>
-      </item><item>
-        <title>closed note 3770069 (near Transdanubia, 8284, Hungary) / * 2023 July 8 18:30 vasony Resolved: itt ki van írva, Malom tanya 1</title>
-        <link>https://www.openstreetmap.org/note/3770069#c8128579</link>
-        <guid>https://www.openstreetmap.org/note/3770069#c8128579</guid>
-        <pubDate>Sat, 08 Jul 2023 18:30:05 +0000</pubDate>
       </item>
   </channel>
 </rss>
