@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3348831 (near Central Transdanubia, 8151, Hungary) / * 2022 September 6 20:42 vasony Created: Petőfi Sándor utca vagy Petőfi utca szerepel az utcatáblán? / * 2023 July 10 22:09 urbalazs Resolved: A keleti végén Petőfi Sándor utca, a nyugati végén csak Petőfi utca. Beírtam alt_name-be a rövid alakot.</title>
+        <link>https://www.openstreetmap.org/note/3348831#c8135133</link>
+        <guid>https://www.openstreetmap.org/note/3348831#c8135133</guid>
+        <pubDate>Mon, 10 Jul 2023 22:09:08 +0000</pubDate>
+      </item><item>
+        <title>closed note 3351368 (near Central Transdanubia, 8151, Hungary) / * 2022 September 8 19:49 vasony Created: Ez a Petőfi köz? / * 2023 July 10 22:08 urbalazs Resolved: Nincs utcanévtábla, van viszont egy házszámtábla Petőfi köz 1-gyel, az alapján elneveztem az utcát.</title>
+        <link>https://www.openstreetmap.org/note/3351368#c8135132</link>
+        <guid>https://www.openstreetmap.org/note/3351368#c8135132</guid>
+        <pubDate>Mon, 10 Jul 2023 22:08:36 +0000</pubDate>
+      </item><item>
+        <title>closed note 3348827 (near Central Transdanubia, 8151, Hungary) / * 2022 September 6 20:42 vasony Created: Kossuth Lajos utca vagy Kossuth utca szerepel az utcatáblán? / * 2023 July 10 21:39 urbalazs Resolved: Kossuth Lajos utca van kitáblázva, jó az OSM-en.</title>
+        <link>https://www.openstreetmap.org/note/3348827#c8135092</link>
+        <guid>https://www.openstreetmap.org/note/3348827#c8135092</guid>
+        <pubDate>Mon, 10 Jul 2023 21:39:41 +0000</pubDate>
+      </item><item>
+        <title>closed note 3351363 (near Central Transdanubia, 8151, Hungary) / * 2022 September 8 19:42 vasony Created: Patak utca itt van valahol? / * 2023 July 10 21:34 urbalazs Resolved: Itt nincs Patak utca. Utca sincs.</title>
+        <link>https://www.openstreetmap.org/note/3351363#c8135082</link>
+        <guid>https://www.openstreetmap.org/note/3351363#c8135082</guid>
+        <pubDate>Mon, 10 Jul 2023 21:34:17 +0000</pubDate>
+      </item><item>
         <title>closed note 3770880 (near Southern Transdanubia, 8676, Hungary) / * 2023 July 8 14:49 SzZoran Created: Itt van egy működő ivókút / via StreetComplete 53.2 / Attached photo(s): / https://westnordost.de/p/160030.jpg / * 2023 July 10 21:07 vasony Resolved: hozzáadva</title>
         <link>https://www.openstreetmap.org/note/3770880#c8135022</link>
         <guid>https://www.openstreetmap.org/note/3770880#c8135022</guid>
@@ -232,11 +252,6 @@
         <link>https://www.openstreetmap.org/note/3770069#c8128579</link>
         <guid>https://www.openstreetmap.org/note/3770069#c8128579</guid>
         <pubDate>Sat, 08 Jul 2023 18:30:05 +0000</pubDate>
-      </item><item>
-        <title>new note 3771120 (near Hódoskapuszta, Pápa) / * 2023 July 8 16:56 ks00 Created: Unable to answer &amp;quot;What surface does this piece of road have?&amp;quot; for https://osm.org/way/158519715 via StreetComplete 53.2: / Ez aszfaltos járda.</title>
-        <link>https://www.openstreetmap.org/note/3771120#c8128257</link>
-        <guid>https://www.openstreetmap.org/note/3771120#c8128257</guid>
-        <pubDate>Sat, 08 Jul 2023 16:56:57 +0000</pubDate>
       </item>
   </channel>
 </rss>
