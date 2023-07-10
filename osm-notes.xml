@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3770880 (near Southern Transdanubia, 8676, Hungary) / * 2023 July 8 14:49 SzZoran Created: Itt van egy működő ivókút / via StreetComplete 53.2 / Attached photo(s): / https://westnordost.de/p/160030.jpg / * 2023 July 10 21:07 vasony Resolved: hozzáadva</title>
+        <link>https://www.openstreetmap.org/note/3770880#c8135022</link>
+        <guid>https://www.openstreetmap.org/note/3770880#c8135022</guid>
+        <pubDate>Mon, 10 Jul 2023 21:07:05 +0000</pubDate>
+      </item><item>
+        <title>closed note 3346396 (near Transdanubia, 8164, Hungary) / * 2022 September 5 06:42 vasony Created: itt van egy kút, kérdés működik-e / * 2023 July 10 20:54 urbalazs Resolved: Ez egy régi, karos, kézzel szivattyúzható pumpálós kút. Nem működik, hozzáadtam disused: előtaggal.</title>
+        <link>https://www.openstreetmap.org/note/3346396#c8134968</link>
+        <guid>https://www.openstreetmap.org/note/3346396#c8134968</guid>
+        <pubDate>Mon, 10 Jul 2023 20:54:41 +0000</pubDate>
+      </item><item>
         <title>closed note 3346386 (near Transdanubia, 8164, Hungary) / * 2022 September 5 06:23 vasony Created: Perczeltelep vagy Perczel telep? / * 2023 July 10 19:54 urbalazs Resolved: Nincs utcanévtábla kitéve. Lezárom, ezt a helyszínen nem lehet megoldani.</title>
         <link>https://www.openstreetmap.org/note/3346386#c8134817</link>
         <guid>https://www.openstreetmap.org/note/3346386#c8134817</guid>
@@ -227,16 +237,6 @@
         <link>https://www.openstreetmap.org/note/3771120#c8128257</link>
         <guid>https://www.openstreetmap.org/note/3771120#c8128257</guid>
         <pubDate>Sat, 08 Jul 2023 16:56:57 +0000</pubDate>
-      </item><item>
-        <title>new note 3770915 (near Southern Transdanubia, 8676, Hungary) / * 2023 July 8 15:20 SzZoran Created: Itt az út egy földútban folytatódik egyenesen / via StreetComplete 53.2 / Attached photo(s): / https://westnordost.de/p/160033.jpg</title>
-        <link>https://www.openstreetmap.org/note/3770915#c8127920</link>
-        <guid>https://www.openstreetmap.org/note/3770915#c8127920</guid>
-        <pubDate>Sat, 08 Jul 2023 15:20:14 +0000</pubDate>
-      </item><item>
-        <title>new note 3770888 (near Csattoshegy, Miskolc) / * 2023 July 8 15:01 meskobalazs Created: Gyalogos átjárás / via StreetComplete 53.2 / Attached photo(s): / https://westnordost.de/p/160032.jpg</title>
-        <link>https://www.openstreetmap.org/note/3770888#c8127881</link>
-        <guid>https://www.openstreetmap.org/note/3770888#c8127881</guid>
-        <pubDate>Sat, 08 Jul 2023 15:01:23 +0000</pubDate>
       </item>
   </channel>
 </rss>
