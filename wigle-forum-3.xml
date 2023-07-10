@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Custom ROMs for wardriving?: Well, if you're sophisticated enough to install a new OS: first: try the adb trick to remove the throttle on 9; it doesn't work on every model/os. if it works, no need to resort to anything extreme. ( Code: adb shell settings put global wifi_scan_throttle_enabled 0) second: https://lineageos.org/ is pretty niceThanks a! It seems to have worked really well, I'm getting 1 scan every 1-30ms at worst! Considering the human eye takes around 13-400x that to blink, I'd call that a win! It'll absolutely slaughter my battery life, I presume, but I imagine I'll pick up a lot more now! In case you need it for any statistics on who it works/doesn't work for, I'm using a Samsung Galaxy S8 SM-G950U running Android 9 (Also, do I need to rerun that command every time I restart? Will security patch updates affect it?) -Wigler-0283819</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11764#p11764</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11764#p11764</guid>
+        <pubDate>2023-07-10T09:25:26</pubDate>
+      </item><item>
         <title>Re: It is still possible to use Samsung Galaxy S4 for wifi scanning?: yes the S4 is ok, i use it with LOS18.1 (Android 11) https://wiki.lineageos.org/devices/jfltexx/ Here is a comparison against the S7 and S20: viewtopic.php?t=2498#p11121 -d2k2</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11761#p11761</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11761#p11761</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11719#p11719</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11719#p11719</guid>
         <pubDate>2023-06-04T19:22:01</pubDate>
-      </item><item>
-        <title>Re: Best Android for WigleWifi: It's a moving target, too! Hardware gets better and more versatile, and OS/driver updates can make previously-good or previously-bad devices behave very differently One observation: there's a &quot;sweet spot&quot; beyond which the very size of your local database can slow the device; beware trying to data-hoard on an individual phone, vs. exporting your observations or backing up your individual device SQLite databases to a computer that's faster and more powerful than your phone. Obviously, we think you should upload to WiGLE.net (shameless plug), but if you prefer to keep your data to yourself, you can still do a lot more with it on more powerful computers. -arkasha</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11664#p11664</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11664#p11664</guid>
-        <pubDate>2023-04-27T18:24:37</pubDate>
       </item>
   </channel>
 </rss>
