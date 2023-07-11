@@ -3,6 +3,36 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 2685171 (near Central Transdanubia, 2475, Hungary) / * 2021 May 26 00:25 bkil Created: Ercsi út vagy Ercsi utca? / * 2023 July 11 20:16 urbalazs Resolved: Ercsi út van kitáblázva. OSM-en rendben van, nincs vele teendő.</title>
+        <link>https://www.openstreetmap.org/note/2685171#c8137856</link>
+        <guid>https://www.openstreetmap.org/note/2685171#c8137856</guid>
+        <pubDate>Tue, 11 Jul 2023 20:16:48 +0000</pubDate>
+      </item><item>
+        <title>closed note 2685172 (near Central Transdanubia, 2475, Hungary) / * 2021 May 26 00:25 bkil Created: Ady utca vagy Ady Endre utca? / * 2023 July 11 20:16 urbalazs Resolved: Csak vezetéknévvel van kitáblázva. OSM-en rendben van, nincs vele teendő.</title>
+        <link>https://www.openstreetmap.org/note/2685172#c8137854</link>
+        <guid>https://www.openstreetmap.org/note/2685172#c8137854</guid>
+        <pubDate>Tue, 11 Jul 2023 20:16:27 +0000</pubDate>
+      </item><item>
+        <title>closed note 2685187 (near Central Transdanubia, 2475, Hungary) / * 2021 May 26 00:26 bkil Created: Kossuth utca vagy Kossuth Lajos utca? / * 2023 July 11 20:13 urbalazs Resolved: Csak vezetéknévvel van kitáblázva. OSM-en rendben van, nincs vele teendő.</title>
+        <link>https://www.openstreetmap.org/note/2685187#c8137843</link>
+        <guid>https://www.openstreetmap.org/note/2685187#c8137843</guid>
+        <pubDate>Tue, 11 Jul 2023 20:13:38 +0000</pubDate>
+      </item><item>
+        <title>closed note 2685169 (near Central Transdanubia, 2475, Hungary) / * 2021 May 26 00:25 bkil Created: Itt van szabad ösvény? / * 2023 July 11 20:10 urbalazs Resolved: Nincs, kerítéssel le van zárva a villanyoszlop alatt.</title>
+        <link>https://www.openstreetmap.org/note/2685169#c8137832</link>
+        <guid>https://www.openstreetmap.org/note/2685169#c8137832</guid>
+        <pubDate>Tue, 11 Jul 2023 20:10:25 +0000</pubDate>
+      </item><item>
+        <title>closed note 2685177 (near Central Transdanubia, 2475, Hungary) / * 2021 May 26 00:25 bkil Created: Dózsa utca vagy Dózsa György utca? / * 2023 July 11 19:52 urbalazs Resolved: Csak vezetéknévvel van kitáblázva, és a Földhivatalnál is így van. OSM-en rendben van, nincs vele teendő.</title>
+        <link>https://www.openstreetmap.org/note/2685177#c8137787</link>
+        <guid>https://www.openstreetmap.org/note/2685177#c8137787</guid>
+        <pubDate>Tue, 11 Jul 2023 19:52:25 +0000</pubDate>
+      </item><item>
+        <title>closed note 2685167 (near Central Transdanubia, 2475, Hungary) / * 2021 May 26 00:25 bkil Created: Vörösmarty utca vagy Vörösmarty Mihály utca? / * 2023 July 11 19:48 urbalazs Resolved: Csak vezetéknévvel van kitáblázva, és a Földhivatalnál is így van. OSM-en rendben van, nincs vele teendő.</title>
+        <link>https://www.openstreetmap.org/note/2685167#c8137781</link>
+        <guid>https://www.openstreetmap.org/note/2685167#c8137781</guid>
+        <pubDate>Tue, 11 Jul 2023 19:48:52 +0000</pubDate>
+      </item><item>
         <title>closed note 2685166 (near Central Transdanubia, 2475, Hungary) / * 2021 May 26 00:25 bkil Created: Szabad a behajtás? / * 2023 July 11 19:15 urbalazs Resolved: Fizikailag át lehet sétálni, de magánterületnek tűnik. Nem rajzolnék ide ösvényt vagy járdát.</title>
         <link>https://www.openstreetmap.org/note/2685166#c8137704</link>
         <guid>https://www.openstreetmap.org/note/2685166#c8137704</guid>
@@ -272,16 +302,6 @@
         <link>https://www.openstreetmap.org/note/3769709#c8133357</link>
         <guid>https://www.openstreetmap.org/note/3769709#c8133357</guid>
         <pubDate>Mon, 10 Jul 2023 11:57:00 +0000</pubDate>
-      </item><item>
-        <title>new note 3773579 (near Southern Transdanubia, 8676, Hungary) / * 2023 July 10 11:54 vasony Created: Milyen utcanév szerepel a táblán? Kossuth/Kosusth Lajos út/utca?</title>
-        <link>https://www.openstreetmap.org/note/3773579#c8133349</link>
-        <guid>https://www.openstreetmap.org/note/3773579#c8133349</guid>
-        <pubDate>Mon, 10 Jul 2023 11:54:46 +0000</pubDate>
-      </item><item>
-        <title>closed note 3769708 (near Southern Transdanubia, 8676, Hungary) / * 2023 July 7 18:38 SzZoran Created: Unable to answer &amp;quot;What’s this pole made of?&amp;quot; for https://osm.org/node/7615683818 via StreetComplete 53.2: / Ezen a helyen nyoma sincs villanyoszlopnak / Attached photo(s): / https://westnordost.de/p/159885.jpg / * 2023 July 10 11:49 vasony Resolved: töröltem</title>
-        <link>https://www.openstreetmap.org/note/3769708#c8133325</link>
-        <guid>https://www.openstreetmap.org/note/3769708#c8133325</guid>
-        <pubDate>Mon, 10 Jul 2023 11:49:22 +0000</pubDate>
       </item>
   </channel>
 </rss>
