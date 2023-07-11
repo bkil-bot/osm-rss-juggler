@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3774617 (near Diósgyőri Papírgyár és Papíripari Múzeum, Majláth, Miskolc) / * 2023 July 11 06:18 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: Museum is closed. / https://www.openstreetmap.org/node/3437148076</title>
+        <link>https://www.openstreetmap.org/note/3774617#c8135501</link>
+        <guid>https://www.openstreetmap.org/note/3774617#c8135501</guid>
+        <pubDate>Tue, 11 Jul 2023 06:18:09 +0000</pubDate>
+      </item><item>
+        <title>new note 3774575 (near Central Hungary, 1072, Hungary) / * 2023 July 11 05:54 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: Spar is closed. / https://www.openstreetmap.org/node/5502163322</title>
+        <link>https://www.openstreetmap.org/note/3774575#c8135447</link>
+        <guid>https://www.openstreetmap.org/note/3774575#c8135447</guid>
+        <pubDate>Tue, 11 Jul 2023 05:54:01 +0000</pubDate>
+      </item><item>
+        <title>new note 3774563 (near Transdanubia, 8314, Hungary) / * 2023 July 11 05:46 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: ATM no longer exists. / https://www.openstreetmap.org/node/10839933676</title>
+        <link>https://www.openstreetmap.org/note/3774563#c8135431</link>
+        <guid>https://www.openstreetmap.org/note/3774563#c8135431</guid>
+        <pubDate>Tue, 11 Jul 2023 05:46:11 +0000</pubDate>
+      </item><item>
         <title>closed note 3510929 (near sertéstelep, Székesfehérvár) / * 2023 January 9 12:40 Created: the correct street name is &amp;quot;Malomhegyi utca&amp;quot; instead of &amp;quot;Malomhegy utca&amp;quot; (an &amp;quot;i&amp;quot; is missing from the end). See: / https://www.google.com/maps/@47.2049777,18.4971098,19.04z / * 2023 July 10 23:56 urbalazs Resolved: Fixed in https://www.openstreetmap.org/changeset/138356755</title>
         <link>https://www.openstreetmap.org/note/3510929#c8135240</link>
         <guid>https://www.openstreetmap.org/note/3510929#c8135240</guid>
@@ -257,16 +272,6 @@
         <link>https://www.openstreetmap.org/note/3772428#c8130778</link>
         <guid>https://www.openstreetmap.org/note/3772428#c8130778</guid>
         <pubDate>Sun, 09 Jul 2023 14:38:42 +0000</pubDate>
-      </item><item>
-        <title>new comment 3768588 (near South Great Plain, 6727, Hungary) / * 2023 July 9 07:39 gabro00 Updated: Igen, az oldalon található működési szabályzatában említi mindkét címet, Osztrovszky utcai központtal és Lidicei téri telephellyel. Ez alapján a feltételezés, miszerint egy épületben két suli működik, megállja a helyét. http://sobszeged.hu/ordered/64169/pic/SZMSZ.pdf / További információ további telephelyekről (az Olajbányász teret és az Agyagos utcát is említik) https://www.oktatas.hu/hivatali_ugyek/kir_intezmenykereso és / https://szir.nive.hu/publikus/intezmeny-reszletes / oldalakon 203366 OM azonosítóval található.</title>
-        <link>https://www.openstreetmap.org/note/3768588#c8129650</link>
-        <guid>https://www.openstreetmap.org/note/3768588#c8129650</guid>
-        <pubDate>Sun, 09 Jul 2023 07:39:37 +0000</pubDate>
-      </item><item>
-        <title>new comment 3768588 (near South Great Plain, 6727, Hungary) / * 2023 July 6 21:00 borazslo Created: A Lidicei tér 1. szám alatt mintha két iskola is lenne: / https://szegedips.edupage.org/contact/ / és http://sobszeged.hu/cpg/168545/Iskolankrol / Melyik igaz? Illetve melyik hol van? Fel lehetne tenni mindkettőt? / * 2023 July 8 23:25 gabro00 Updated: Szegedi Szent Benedek School of Business Technikum - 6721 Szeged, Osztrovszky utca 5. (https://www.openstreetmap.org/way/699158713, egy frissítés ráférne) / Szeged International Primary School pedig magániskolának tűnik Lidicei tér 1. szám alatt. / * 2023 July 8 23:58 borazslo Updated: A Bencések iskolájának központja valóban az Osztrovszky utcában van. De ez mintha annak lenne egy telephelye. A Szent Benedek School of Business honlapján a képen a Lidicei téri épület van: http://sobszeged.hu/cpg/168545/Iskolankrol  és a Lidicei tér van megadva címnek. / * 2023 July 9 00:04 borazslo Updated: A Google Street View képen - tudom az OSM forrásnak nem oké - mintha az egyetlen épületen rajta lenne a SzentBenedek feliratai és az International Primary School logója. Egy épületben ketten?</title>
-        <link>https://www.openstreetmap.org/note/3768588#c8129363</link>
-        <guid>https://www.openstreetmap.org/note/3768588#c8129363</guid>
-        <pubDate>Sun, 09 Jul 2023 00:04:57 +0000</pubDate>
       </item>
   </channel>
 </rss>
