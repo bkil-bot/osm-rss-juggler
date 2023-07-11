@@ -3,6 +3,41 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3510929 (near sertéstelep, Székesfehérvár) / * 2023 January 9 12:40 Created: the correct street name is &amp;quot;Malomhegyi utca&amp;quot; instead of &amp;quot;Malomhegy utca&amp;quot; (an &amp;quot;i&amp;quot; is missing from the end). See: / https://www.google.com/maps/@47.2049777,18.4971098,19.04z / * 2023 July 10 23:56 urbalazs Resolved: Fixed in https://www.openstreetmap.org/changeset/138356755</title>
+        <link>https://www.openstreetmap.org/note/3510929#c8135240</link>
+        <guid>https://www.openstreetmap.org/note/3510929#c8135240</guid>
+        <pubDate>Mon, 10 Jul 2023 23:56:45 +0000</pubDate>
+      </item><item>
+        <title>closed note 3351586 (near Central Transdanubia, 2475, Hungary) / * 2022 September 9 03:59 vasony Created: Ez itt 1 épület, mert látszólag keresztülvágja a telpüléshatár / * 2023 July 10 23:41 urbalazs Resolved: Igen. A településhatár kettévágja az épületet. A térkép a valóságot tükrözi.</title>
+        <link>https://www.openstreetmap.org/note/3351586#c8135229</link>
+        <guid>https://www.openstreetmap.org/note/3351586#c8135229</guid>
+        <pubDate>Mon, 10 Jul 2023 23:41:02 +0000</pubDate>
+      </item><item>
+        <title>closed note 3351592 (near Central Transdanubia, 2475, Hungary) / * 2022 September 9 04:19 vasony Created: Ibolya utcára kellene legalább 1-1 házszám Velence és Kápolnásnyék oldalon is. / * 2023 July 10 23:39 urbalazs Resolved: Végigházszámoztam mindkét oldalt.</title>
+        <link>https://www.openstreetmap.org/note/3351592#c8135227</link>
+        <guid>https://www.openstreetmap.org/note/3351592#c8135227</guid>
+        <pubDate>Mon, 10 Jul 2023 23:39:19 +0000</pubDate>
+      </item><item>
+        <title>closed note 2311314 (near Central Transdanubia, 2481, Hungary) / * 2020 August 17 18:09 holedi Created: Gate Velence with open promenade, shops, cafes and restaurants. / * 2023 July 10 23:29 urbalazs Resolved: The building is already on the map.</title>
+        <link>https://www.openstreetmap.org/note/2311314#c8135214</link>
+        <guid>https://www.openstreetmap.org/note/2311314#c8135214</guid>
+        <pubDate>Mon, 10 Jul 2023 23:29:32 +0000</pubDate>
+      </item><item>
+        <title>closed note 2685185 (near Central Transdanubia, 2475, Hungary) / * 2021 May 26 00:26 bkil Created: Itt szabad a bejárás? / * 2023 July 10 23:27 urbalazs Resolved: Nem, kerítéssel el van zárva mindkét utca felől.</title>
+        <link>https://www.openstreetmap.org/note/2685185#c8135210</link>
+        <guid>https://www.openstreetmap.org/note/2685185#c8135210</guid>
+        <pubDate>Mon, 10 Jul 2023 23:27:09 +0000</pubDate>
+      </item><item>
+        <title>closed note 2685181 (near Central Transdanubia, 2475, Hungary) / * 2021 May 26 00:26 bkil Created: Szabad a bejárás? / * 2023 July 10 23:24 urbalazs Resolved: Semmi sem tiltotta se fizikailag, se jogilag. Nem mentem végig, de úgy látom, hogy a térkép a valóságot tükrözi.</title>
+        <link>https://www.openstreetmap.org/note/2685181#c8135208</link>
+        <guid>https://www.openstreetmap.org/note/2685181#c8135208</guid>
+        <pubDate>Mon, 10 Jul 2023 23:24:55 +0000</pubDate>
+      </item><item>
+        <title>closed note 3684989 (near sertéstelep, Székesfehérvár) / * 2023 May 12 06:42 Matyjace Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;it is open for bikes&amp;quot; / * 2023 July 10 23:21 urbalazs Resolved: Now it is open on OSM, too.</title>
+        <link>https://www.openstreetmap.org/note/3684989#c8135203</link>
+        <guid>https://www.openstreetmap.org/note/3684989#c8135203</guid>
+        <pubDate>Mon, 10 Jul 2023 23:21:21 +0000</pubDate>
+      </item><item>
         <title>closed note 3741013 (near Central Transdanubia, 8000, Hungary) / * 2023 June 18 17:38 utvonalfelmeresek Created: vsb / * 2023 July 10 22:57 urbalazs Resolved: Hozzáadtam</title>
         <link>https://www.openstreetmap.org/note/3741013#c8135181</link>
         <guid>https://www.openstreetmap.org/note/3741013#c8135181</guid>
@@ -242,31 +277,6 @@
         <link>https://www.openstreetmap.org/note/3760547#c8129355</link>
         <guid>https://www.openstreetmap.org/note/3760547#c8129355</guid>
         <pubDate>Sat, 08 Jul 2023 23:46:48 +0000</pubDate>
-      </item><item>
-        <title>new comment 3757756 (near South Great Plain, 6720, Hungary) / * 2023 June 29 19:53 ITineris Created: Ez a rész a Vármúzeumtól a körforgalomig osztott pályás lett; így kellene átrajzolni. / Ja, és már igazi körforgalom van, azt pedig ennek megfelelően. / * 2023 July 8 23:37 gabro00 Updated: Nagyon jó... nem is olyan rég, a https://www.openstreetmap.org/changeset/94509694 módosításcsomagban alakítottam mini körforgalomra, lehet megér egy próbát a visszavonás újrarajzolás helyett.</title>
-        <link>https://www.openstreetmap.org/note/3757756#c8129345</link>
-        <guid>https://www.openstreetmap.org/note/3757756#c8129345</guid>
-        <pubDate>Sat, 08 Jul 2023 23:37:24 +0000</pubDate>
-      </item><item>
-        <title>new comment 3768588 (near South Great Plain, 6727, Hungary) / * 2023 July 6 21:00 borazslo Created: A Lidicei tér 1. szám alatt mintha két iskola is lenne: / https://szegedips.edupage.org/contact/ / és http://sobszeged.hu/cpg/168545/Iskolankrol / Melyik igaz? Illetve melyik hol van? Fel lehetne tenni mindkettőt? / * 2023 July 8 23:25 gabro00 Updated: Szegedi Szent Benedek School of Business Technikum - 6721 Szeged, Osztrovszky utca 5. (https://www.openstreetmap.org/way/699158713, egy frissítés ráférne) / Szeged International Primary School pedig magániskolának tűnik Lidicei tér 1. szám alatt.</title>
-        <link>https://www.openstreetmap.org/note/3768588#c8129337</link>
-        <guid>https://www.openstreetmap.org/note/3768588#c8129337</guid>
-        <pubDate>Sat, 08 Jul 2023 23:25:48 +0000</pubDate>
-      </item><item>
-        <title>closed note 3771502 (near Central Transdanubia, 8284, Hungary) / * 2023 July 8 20:14 vasony Resolved: feliratn továbbtra sincs</title>
-        <link>https://www.openstreetmap.org/note/3771502#c8128884</link>
-        <guid>https://www.openstreetmap.org/note/3771502#c8128884</guid>
-        <pubDate>Sat, 08 Jul 2023 20:14:23 +0000</pubDate>
-      </item><item>
-        <title>closed note 3771503 (near Central Transdanubia, 8284, Hungary) / * 2023 July 8 20:14 vasony Resolved: kiírva nincs, de helyi erő szerin ez a nevük</title>
-        <link>https://www.openstreetmap.org/note/3771503#c8128883</link>
-        <guid>https://www.openstreetmap.org/note/3771503#c8128883</guid>
-        <pubDate>Sat, 08 Jul 2023 20:14:16 +0000</pubDate>
-      </item><item>
-        <title>new note 3771503 (near Central Transdanubia, 8284, Hungary) / * 2023 July 8 20:12 vasony Created: Kis, Beke, Pákai, Spiccer köz nevek ellenőrizendők</title>
-        <link>https://www.openstreetmap.org/note/3771503#c8128882</link>
-        <guid>https://www.openstreetmap.org/note/3771503#c8128882</guid>
-        <pubDate>Sat, 08 Jul 2023 20:12:56 +0000</pubDate>
       </item>
   </channel>
 </rss>
