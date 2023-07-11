@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 2685166 (near Central Transdanubia, 2475, Hungary) / * 2021 May 26 00:25 bkil Created: Szabad a behajtás? / * 2023 July 11 19:15 urbalazs Resolved: Fizikailag át lehet sétálni, de magánterületnek tűnik. Nem rajzolnék ide ösvényt vagy járdát.</title>
+        <link>https://www.openstreetmap.org/note/2685166#c8137704</link>
+        <guid>https://www.openstreetmap.org/note/2685166#c8137704</guid>
+        <pubDate>Tue, 11 Jul 2023 19:15:58 +0000</pubDate>
+      </item><item>
+        <title>closed note 2685180 (near Central Transdanubia, 2475, Hungary) / * 2021 May 26 00:25 bkil Created: Országút vagy Ország út? / * 2023 July 11 19:00 urbalazs Resolved: Ország út van minden kereszteződésben a táblán. Nincs vele teendő.</title>
+        <link>https://www.openstreetmap.org/note/2685180#c8137657</link>
+        <guid>https://www.openstreetmap.org/note/2685180#c8137657</guid>
+        <pubDate>Tue, 11 Jul 2023 19:00:31 +0000</pubDate>
+      </item><item>
+        <title>closed note 2685170 (near Central Transdanubia, 2475, Hungary) / * 2021 May 26 00:25 bkil Created: Gárdonyi Géza utca vagy Gárdonyi út? / * 2023 July 11 18:51 urbalazs Resolved: Csak vezetéknévvel van kitáblázva, és a Földhivatalnál is így van. OSM-en rendben van, nincs vele teendő.</title>
+        <link>https://www.openstreetmap.org/note/2685170#c8137642</link>
+        <guid>https://www.openstreetmap.org/note/2685170#c8137642</guid>
+        <pubDate>Tue, 11 Jul 2023 18:51:40 +0000</pubDate>
+      </item><item>
         <title>new note 3775483 (near Transdanubia, 9144, Hungary) / * 2023 July 11 16:24 vasony Created: Üzletsor vagy Üzletsor utca?</title>
         <link>https://www.openstreetmap.org/note/3775483#c8137323</link>
         <guid>https://www.openstreetmap.org/note/3775483#c8137323</guid>
@@ -267,21 +282,6 @@
         <link>https://www.openstreetmap.org/note/3769708#c8133325</link>
         <guid>https://www.openstreetmap.org/note/3769708#c8133325</guid>
         <pubDate>Mon, 10 Jul 2023 11:49:22 +0000</pubDate>
-      </item><item>
-        <title>new note 3773468 (near Almádi, Balatonalmádi) / * 2023 July 10 10:21 vasony Created: https://balatonalmadi.hu/hirek/1608-jardafelujitasi-munkalatok / Teleki Blanka utca Széchenyi sétány felőli szakaszán felújítási munkálatok voltak júniusban. Ez mit takar, ellenőrizendő!</title>
-        <link>https://www.openstreetmap.org/note/3773468#c8133123</link>
-        <guid>https://www.openstreetmap.org/note/3773468#c8133123</guid>
-        <pubDate>Mon, 10 Jul 2023 10:21:18 +0000</pubDate>
-      </item><item>
-        <title>new note 3773466 (near Budatava, Balatonalmádi) / * 2023 July 10 10:19 vasony Created: https://balatonalmadi.hu/hirek/1608-jardafelujitasi-munkalatok / A Noszlopy Gáspár utca, a Hadak útja és a Búzavirág utca között a páratlan oldalon járda felújítási munkálatok voltak jún. Ez mit takar, ellenőrizendő!</title>
-        <link>https://www.openstreetmap.org/note/3773466#c8133121</link>
-        <guid>https://www.openstreetmap.org/note/3773466#c8133121</guid>
-        <pubDate>Mon, 10 Jul 2023 10:19:45 +0000</pubDate>
-      </item><item>
-        <title>new note 3773205 (near Transdanubia, 8315, Hungary) / * 2023 July 10 06:24 vasony Created: MIntha Dornyai Béla út lenne kiírva</title>
-        <link>https://www.openstreetmap.org/note/3773205#c8132615</link>
-        <guid>https://www.openstreetmap.org/note/3773205#c8132615</guid>
-        <pubDate>Mon, 10 Jul 2023 06:24:35 +0000</pubDate>
       </item>
   </channel>
 </rss>
