@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 2969962 (near Central Hungary, 1214, Hungary) / * 2021 December 13 19:55 vasony Created: Barkács utca hivatalosan nem létezik, ellenőrizendő! / * 2023 July 12 19:15 urbalazs Resolved: 8647. dűlő, Barkács út van kitáblázva. Frissítettem a nevet, a dűlőt pedig beírtam alt_name-be.</title>
+        <link>https://www.openstreetmap.org/note/2969962#c8140738</link>
+        <guid>https://www.openstreetmap.org/note/2969962#c8140738</guid>
+        <pubDate>Wed, 12 Jul 2023 19:15:15 +0000</pubDate>
+      </item><item>
+        <title>closed note 2950608 (near Central Hungary, 1214, Hungary) / * 2021 November 26 22:33 vasony Created: Ezek az utcanevek tényleg léteznek? Nem szerepelnek az utcanévjegyzékben. / * 2023 May 5 06:24 BáthoryPéter Updated: Melyik utcák? Megyek ma erre, de csak pár percem lesz. / * 2023 May 5 08:05 vasony Updated: Egyik se. / Fradi utca, Lajos utca, Béke dűlő, Béke dűlő, Páskom utca, Tornyó dűlő / * 2023 May 5 08:06 vasony Updated: és még ezek sem: Zsák utca, Lobó utca, Trafó dűlő / * 2023 May 5 10:39 BáthoryPéter Updated: Megvannak. Valamilyen módon mindegyik ki van táblázva, de egyik sem hivatalos, és a kapukon is több helyen kiírták az utcanevet. Tehát egyértelműen használják. / Este felrakom Mapillary-re a fotókat. / * 2023 May 19 07:37 vasony Updated: Felrakod a képeket? Mert nem látom még. / * 2023 May 19 08:53 BáthoryPéter Updated: Bocs, pótoltam. / Most így korrelálva a képeket látszanak furcsaságok, de vissza kell még menni, mert volt több „utca”, amit nem vettem észre, és az is kérdés, miért van zsákutca tábla a Fradi utcánál (aminek egyébként nincs is kint a neve). / Ehhez a felméréshez igazán hasznos volna egy gömbkamera... A szűk utcákban vagy vezetek, vagy fotózok, és ezen a környéken nem szívesen mennék gyalog. / * 2023 July 12 19:14 urbalazs Resolved: Már csak a Tonyó dűlő megerősítése hiányzik. A többi vagy ki van táblázva, vagy több helybéli is megerősítette, hogy a név valós. A Tonyó dűlőbe nem mertem bemenni, se megkérdezni valakit. Ha odamész, látni fogod, hogy miért. Ezt a jegyzetet most lezárom, mert már sok benne a zaj, nyiss egy újat csak a Tonyó dűlőre.</title>
+        <link>https://www.openstreetmap.org/note/2950608#c8140736</link>
+        <guid>https://www.openstreetmap.org/note/2950608#c8140736</guid>
+        <pubDate>Wed, 12 Jul 2023 19:14:03 +0000</pubDate>
+      </item><item>
+        <title>closed note 2969976 (near Central Hungary, 1214, Hungary) / * 2021 December 13 20:07 vasony Created: Jó szerencsét út hivatalosan nem létezik, ellenőrizendő! / * 2023 July 12 19:11 urbalazs Resolved: Egy ott lakó elmondása szerint a Jó szerencsét utca egy régi név, ma már Szák utca. Ez is van kitáblázva. Betettem old_name-be a Jó szerencsét utcát.</title>
+        <link>https://www.openstreetmap.org/note/2969976#c8140732</link>
+        <guid>https://www.openstreetmap.org/note/2969976#c8140732</guid>
+        <pubDate>Wed, 12 Jul 2023 19:11:59 +0000</pubDate>
+      </item><item>
         <title>new note 3776864 (near Mezőgazdasági és Vidékfejlesztési Hivatal, Középső-Ferencváros, 9th district) / * 2023 July 12 15:58 sfphoton Created: Unable to answer &amp;quot;This shop has been vacant. What’s here now?&amp;quot; for https://osm.org/node/2319961661 via StreetComplete 53.2: / Magyar Államkincstár, nem tudom kategorizálni</title>
         <link>https://www.openstreetmap.org/note/3776864#c8140198</link>
         <guid>https://www.openstreetmap.org/note/3776864#c8140198</guid>
@@ -167,41 +182,6 @@
         <link>https://www.openstreetmap.org/note/3697566#c8135670</link>
         <guid>https://www.openstreetmap.org/note/3697566#c8135670</guid>
         <pubDate>Tue, 11 Jul 2023 07:33:05 +0000</pubDate>
-      </item><item>
-        <title>closed note 2760899 (near Central Transdanubia, 2481, Hungary) / * 2021 July 19 07:28 vasony-qa Created: Melyik közterület a Hősők park? / * 2023 July 11 07:29 urbalazs Resolved: Egy faragott fa oszlopon Hősök parkja van kitáblázva, és a buszmegállót is így hívják. A Földhivatal szerint viszont Hősök park, ezt hozzáadtam official_name-ként.</title>
-        <link>https://www.openstreetmap.org/note/2760899#c8135659</link>
-        <guid>https://www.openstreetmap.org/note/2760899#c8135659</guid>
-        <pubDate>Tue, 11 Jul 2023 07:29:53 +0000</pubDate>
-      </item><item>
-        <title>closed note 3742960 (near South Great Plain, 6000, Hungary) / * 2023 June 20 06:49 utvonalfelmeresek Created: gázvez / * 2023 July 11 07:20 utvonalfelmeresek Resolved: https://www.openstreetmap.org/node/6374528569</title>
-        <link>https://www.openstreetmap.org/note/3742960#c8135641</link>
-        <guid>https://www.openstreetmap.org/note/3742960#c8135641</guid>
-        <pubDate>Tue, 11 Jul 2023 07:20:04 +0000</pubDate>
-      </item><item>
-        <title>closed note 3741078 (near Central Transdanubia, 2481, Hungary) / * 2023 June 18 18:05 utvonalfelmeresek Created: gitar kő / * 2023 July 11 07:18 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/138365671</title>
-        <link>https://www.openstreetmap.org/note/3741078#c8135637</link>
-        <guid>https://www.openstreetmap.org/note/3741078#c8135637</guid>
-        <pubDate>Tue, 11 Jul 2023 07:18:51 +0000</pubDate>
-      </item><item>
-        <title>closed note 3761970 (near Central Transdanubia, 2481, Hungary) / * 2023 July 2 15:43 vasony Created: ez a Híd utca? / * 2023 July 11 07:11 urbalazs Resolved: Igen, hozzáadtam a nevet.</title>
-        <link>https://www.openstreetmap.org/note/3761970#c8135626</link>
-        <guid>https://www.openstreetmap.org/note/3761970#c8135626</guid>
-        <pubDate>Tue, 11 Jul 2023 07:11:40 +0000</pubDate>
-      </item><item>
-        <title>new note 3774617 (near Diósgyőri Papírgyár és Papíripari Múzeum, Majláth, Miskolc) / * 2023 July 11 06:18 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: Museum is closed. / https://www.openstreetmap.org/node/3437148076</title>
-        <link>https://www.openstreetmap.org/note/3774617#c8135501</link>
-        <guid>https://www.openstreetmap.org/note/3774617#c8135501</guid>
-        <pubDate>Tue, 11 Jul 2023 06:18:09 +0000</pubDate>
-      </item><item>
-        <title>new note 3774575 (near Central Hungary, 1072, Hungary) / * 2023 July 11 05:54 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: Spar is closed. / https://www.openstreetmap.org/node/5502163322</title>
-        <link>https://www.openstreetmap.org/note/3774575#c8135447</link>
-        <guid>https://www.openstreetmap.org/note/3774575#c8135447</guid>
-        <pubDate>Tue, 11 Jul 2023 05:54:01 +0000</pubDate>
-      </item><item>
-        <title>new note 3774563 (near Transdanubia, 8314, Hungary) / * 2023 July 11 05:46 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: ATM no longer exists. / https://www.openstreetmap.org/node/10839933676</title>
-        <link>https://www.openstreetmap.org/note/3774563#c8135431</link>
-        <guid>https://www.openstreetmap.org/note/3774563#c8135431</guid>
-        <pubDate>Tue, 11 Jul 2023 05:46:11 +0000</pubDate>
       </item>
   </channel>
 </rss>
