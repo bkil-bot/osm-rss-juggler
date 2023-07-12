@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 2318297 (near Central Transdanubia, 2481, Hungary) / * 2020 August 22 19:13 bkil Created: Where is this fence exactly? / * 2023 July 12 07:30 urbalazs Resolved: Ez a jegyzet 3 éve lett létrehozva, és az említett kerítést 12 hónappal ezelőtt arrébb tették. Feltételezem, hogy most a valóságot ábrázolja, ezért lezárom.</title>
+        <link>https://www.openstreetmap.org/note/2318297#c8138751</link>
+        <guid>https://www.openstreetmap.org/note/2318297#c8138751</guid>
+        <pubDate>Wed, 12 Jul 2023 07:30:22 +0000</pubDate>
+      </item><item>
         <title>closed note 3351584 (near Central Transdanubia, 2475, Hungary) / * 2022 September 9 03:59 vasony Created: ez a Bágyom utca lenne? / * 2023 July 11 20:51 urbalazs Resolved: A helyszínen nincs utcanévtábla. Ezt máshonnan kell megválaszolni.</title>
         <link>https://www.openstreetmap.org/note/3351584#c8137928</link>
         <guid>https://www.openstreetmap.org/note/3351584#c8137928</guid>
@@ -322,11 +327,6 @@
         <link>https://www.openstreetmap.org/note/3675171#c8134330</link>
         <guid>https://www.openstreetmap.org/note/3675171#c8134330</guid>
         <pubDate>Mon, 10 Jul 2023 16:46:11 +0000</pubDate>
-      </item><item>
-        <title>new note 3773794 (near Central Hungary, 1122, Hungary) / * 2023 July 10 13:45 OSM KAMI Created: Unable to answer &amp;quot;What are the opening hours here?&amp;quot; for https://osm.org/node/4584330116 via StreetComplete 53.2: / Az egész helyén sushis lett</title>
-        <link>https://www.openstreetmap.org/note/3773794#c8133811</link>
-        <guid>https://www.openstreetmap.org/note/3773794#c8133811</guid>
-        <pubDate>Mon, 10 Jul 2023 13:45:38 +0000</pubDate>
       </item>
   </channel>
 </rss>
