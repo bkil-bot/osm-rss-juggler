@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>reactivated note 3777156 (near Central Hungary, 2750, Hungary) / * 2023 July 12 19:25 herczegadr Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/3777156#c8140766</link>
+        <guid>https://www.openstreetmap.org/note/3777156#c8140766</guid>
+        <pubDate>Wed, 12 Jul 2023 19:25:01 +0000</pubDate>
+      </item><item>
+        <title>closed note 3777156 (near Central Hungary, 2750, Hungary) / * 2023 July 12 19:24 herczegadr Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3777156#c8140765</link>
+        <guid>https://www.openstreetmap.org/note/3777156#c8140765</guid>
+        <pubDate>Wed, 12 Jul 2023 19:24:54 +0000</pubDate>
+      </item><item>
+        <title>new note 3777156 (near Central Hungary, 2750, Hungary) / * 2023 July 12 19:24 herczegadr Created: Moved approx 100m down the street Bálvány.</title>
+        <link>https://www.openstreetmap.org/note/3777156#c8140762</link>
+        <guid>https://www.openstreetmap.org/note/3777156#c8140762</guid>
+        <pubDate>Wed, 12 Jul 2023 19:24:41 +0000</pubDate>
+      </item><item>
+        <title>new note 3777154 (near Central Hungary, 2750, Hungary) / * 2023 July 12 19:23 herczegadr Created: it is not there any more. Telecom took that place</title>
+        <link>https://www.openstreetmap.org/note/3777154#c8140760</link>
+        <guid>https://www.openstreetmap.org/note/3777154#c8140760</guid>
+        <pubDate>Wed, 12 Jul 2023 19:23:36 +0000</pubDate>
+      </item><item>
         <title>closed note 2969962 (near Central Hungary, 1214, Hungary) / * 2021 December 13 19:55 vasony Created: Barkács utca hivatalosan nem létezik, ellenőrizendő! / * 2023 July 12 19:15 urbalazs Resolved: 8647. dűlő, Barkács út van kitáblázva. Frissítettem a nevet, a dűlőt pedig beírtam alt_name-be.</title>
         <link>https://www.openstreetmap.org/note/2969962#c8140738</link>
         <guid>https://www.openstreetmap.org/note/2969962#c8140738</guid>
@@ -162,26 +182,6 @@
         <link>https://www.openstreetmap.org/note/3740929#c8135722</link>
         <guid>https://www.openstreetmap.org/note/3740929#c8135722</guid>
         <pubDate>Tue, 11 Jul 2023 07:52:00 +0000</pubDate>
-      </item><item>
-        <title>closed note 3741063 (near Central Transdanubia, 8000, Hungary) / * 2023 June 18 17:47 utvonalfelmeresek Created: vsb / * 2023 July 11 07:51 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/138366911</title>
-        <link>https://www.openstreetmap.org/note/3741063#c8135720</link>
-        <guid>https://www.openstreetmap.org/note/3741063#c8135720</guid>
-        <pubDate>Tue, 11 Jul 2023 07:51:37 +0000</pubDate>
-      </item><item>
-        <title>closed note 3772428 (near Zátony, Doborgazsziget, Dunasziget) / * 2023 July 9 14:38 utvonalfelmeresek Created: magasles / * 2023 July 11 07:37 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/138366421</title>
-        <link>https://www.openstreetmap.org/note/3772428#c8135683</link>
-        <guid>https://www.openstreetmap.org/note/3772428#c8135683</guid>
-        <pubDate>Tue, 11 Jul 2023 07:37:17 +0000</pubDate>
-      </item><item>
-        <title>closed note 3768990 (near Győr-Gönyű Országos Közforgalmű Kikötő, Gönyű) / * 2023 July 7 10:38 utvonalfelmeresek Created: erőmű  trtályok / * 2023 July 11 07:34 utvonalfelmeresek Resolved: https://www.openstreetmap.org/way/740980852</title>
-        <link>https://www.openstreetmap.org/note/3768990#c8135674</link>
-        <guid>https://www.openstreetmap.org/note/3768990#c8135674</guid>
-        <pubDate>Tue, 11 Jul 2023 07:34:21 +0000</pubDate>
-      </item><item>
-        <title>closed note 3697566 (near Central Transdanubia, 8092, Hungary) / * 2023 May 20 12:26 utvonalfelmeresek Created: napóra a környéken / * 2023 July 11 07:33 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/138366229</title>
-        <link>https://www.openstreetmap.org/note/3697566#c8135670</link>
-        <guid>https://www.openstreetmap.org/note/3697566#c8135670</guid>
-        <pubDate>Tue, 11 Jul 2023 07:33:05 +0000</pubDate>
       </item>
   </channel>
 </rss>
