@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3776864 (near Mezőgazdasági és Vidékfejlesztési Hivatal, Középső-Ferencváros, 9th district) / * 2023 July 12 15:58 sfphoton Created: Unable to answer &amp;quot;This shop has been vacant. What’s here now?&amp;quot; for https://osm.org/node/2319961661 via StreetComplete 53.2: / Magyar Államkincstár, nem tudom kategorizálni</title>
+        <link>https://www.openstreetmap.org/note/3776864#c8140198</link>
+        <guid>https://www.openstreetmap.org/note/3776864#c8140198</guid>
+        <pubDate>Wed, 12 Jul 2023 15:58:06 +0000</pubDate>
+      </item><item>
         <title>new comment 3776570 (near Transdanubia, 8164, Hungary) / * 2023 July 12 12:25 vasony-qa Updated: illetve nyugatabbra a másik kis utcánál</title>
         <link>https://www.openstreetmap.org/note/3776570#c8139506</link>
         <guid>https://www.openstreetmap.org/note/3776570#c8139506</guid>
@@ -197,86 +202,6 @@
         <link>https://www.openstreetmap.org/note/3774563#c8135431</link>
         <guid>https://www.openstreetmap.org/note/3774563#c8135431</guid>
         <pubDate>Tue, 11 Jul 2023 05:46:11 +0000</pubDate>
-      </item><item>
-        <title>closed note 3510929 (near sertéstelep, Székesfehérvár) / * 2023 January 9 12:40 Created: the correct street name is &amp;quot;Malomhegyi utca&amp;quot; instead of &amp;quot;Malomhegy utca&amp;quot; (an &amp;quot;i&amp;quot; is missing from the end). See: / https://www.google.com/maps/@47.2049777,18.4971098,19.04z / * 2023 July 10 23:56 urbalazs Resolved: Fixed in https://www.openstreetmap.org/changeset/138356755</title>
-        <link>https://www.openstreetmap.org/note/3510929#c8135240</link>
-        <guid>https://www.openstreetmap.org/note/3510929#c8135240</guid>
-        <pubDate>Mon, 10 Jul 2023 23:56:45 +0000</pubDate>
-      </item><item>
-        <title>closed note 3351586 (near Central Transdanubia, 2475, Hungary) / * 2022 September 9 03:59 vasony Created: Ez itt 1 épület, mert látszólag keresztülvágja a telpüléshatár / * 2023 July 10 23:41 urbalazs Resolved: Igen. A településhatár kettévágja az épületet. A térkép a valóságot tükrözi.</title>
-        <link>https://www.openstreetmap.org/note/3351586#c8135229</link>
-        <guid>https://www.openstreetmap.org/note/3351586#c8135229</guid>
-        <pubDate>Mon, 10 Jul 2023 23:41:02 +0000</pubDate>
-      </item><item>
-        <title>closed note 3351592 (near Central Transdanubia, 2475, Hungary) / * 2022 September 9 04:19 vasony Created: Ibolya utcára kellene legalább 1-1 házszám Velence és Kápolnásnyék oldalon is. / * 2023 July 10 23:39 urbalazs Resolved: Végigházszámoztam mindkét oldalt.</title>
-        <link>https://www.openstreetmap.org/note/3351592#c8135227</link>
-        <guid>https://www.openstreetmap.org/note/3351592#c8135227</guid>
-        <pubDate>Mon, 10 Jul 2023 23:39:19 +0000</pubDate>
-      </item><item>
-        <title>closed note 2311314 (near Central Transdanubia, 2481, Hungary) / * 2020 August 17 18:09 holedi Created: Gate Velence with open promenade, shops, cafes and restaurants. / * 2023 July 10 23:29 urbalazs Resolved: The building is already on the map.</title>
-        <link>https://www.openstreetmap.org/note/2311314#c8135214</link>
-        <guid>https://www.openstreetmap.org/note/2311314#c8135214</guid>
-        <pubDate>Mon, 10 Jul 2023 23:29:32 +0000</pubDate>
-      </item><item>
-        <title>closed note 2685185 (near Central Transdanubia, 2475, Hungary) / * 2021 May 26 00:26 bkil Created: Itt szabad a bejárás? / * 2023 July 10 23:27 urbalazs Resolved: Nem, kerítéssel el van zárva mindkét utca felől.</title>
-        <link>https://www.openstreetmap.org/note/2685185#c8135210</link>
-        <guid>https://www.openstreetmap.org/note/2685185#c8135210</guid>
-        <pubDate>Mon, 10 Jul 2023 23:27:09 +0000</pubDate>
-      </item><item>
-        <title>closed note 2685181 (near Central Transdanubia, 2475, Hungary) / * 2021 May 26 00:26 bkil Created: Szabad a bejárás? / * 2023 July 10 23:24 urbalazs Resolved: Semmi sem tiltotta se fizikailag, se jogilag. Nem mentem végig, de úgy látom, hogy a térkép a valóságot tükrözi.</title>
-        <link>https://www.openstreetmap.org/note/2685181#c8135208</link>
-        <guid>https://www.openstreetmap.org/note/2685181#c8135208</guid>
-        <pubDate>Mon, 10 Jul 2023 23:24:55 +0000</pubDate>
-      </item><item>
-        <title>closed note 3684989 (near sertéstelep, Székesfehérvár) / * 2023 May 12 06:42 Matyjace Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;it is open for bikes&amp;quot; / * 2023 July 10 23:21 urbalazs Resolved: Now it is open on OSM, too.</title>
-        <link>https://www.openstreetmap.org/note/3684989#c8135203</link>
-        <guid>https://www.openstreetmap.org/note/3684989#c8135203</guid>
-        <pubDate>Mon, 10 Jul 2023 23:21:21 +0000</pubDate>
-      </item><item>
-        <title>closed note 3741013 (near Central Transdanubia, 8000, Hungary) / * 2023 June 18 17:38 utvonalfelmeresek Created: vsb / * 2023 July 10 22:57 urbalazs Resolved: Hozzáadtam</title>
-        <link>https://www.openstreetmap.org/note/3741013#c8135181</link>
-        <guid>https://www.openstreetmap.org/note/3741013#c8135181</guid>
-        <pubDate>Mon, 10 Jul 2023 22:57:16 +0000</pubDate>
-      </item><item>
-        <title>closed note 3351384 (near Emmaróza, Szabadbattyán) / * 2022 September 8 20:16 vasony Created: Zengő dűlő itt van valahol? / * 2023 July 10 22:47 urbalazs Resolved: Igen, ki is van táblázva. Beírtam a nevet.</title>
-        <link>https://www.openstreetmap.org/note/3351384#c8135168</link>
-        <guid>https://www.openstreetmap.org/note/3351384#c8135168</guid>
-        <pubDate>Mon, 10 Jul 2023 22:47:44 +0000</pubDate>
-      </item><item>
-        <title>closed note 3348828 (near Central Transdanubia, 8151, Hungary) / * 2022 September 6 20:42 vasony Created: Jókai Mór köz vagy Jókai köz szerepel az utcatáblán? / * 2023 July 10 22:45 urbalazs Resolved: Nincs kint utcanévtábla, de a Földhivatalnál teljes névvel van. Az épületek viszont csak vezetéknévvel vannak a Földhivatalnál. Hagytam teljes névvel.</title>
-        <link>https://www.openstreetmap.org/note/3348828#c8135167</link>
-        <guid>https://www.openstreetmap.org/note/3348828#c8135167</guid>
-        <pubDate>Mon, 10 Jul 2023 22:45:59 +0000</pubDate>
-      </item><item>
-        <title>closed note 3348829 (near Central Transdanubia, 8151, Hungary) / * 2022 September 6 20:42 vasony Created: Jókai Mór utca vagy Jókai utca szerepel az utcatáblán? / * 2023 July 10 22:45 urbalazs Resolved: Jókai Mór utca van kitáblázva.</title>
-        <link>https://www.openstreetmap.org/note/3348829#c8135166</link>
-        <guid>https://www.openstreetmap.org/note/3348829#c8135166</guid>
-        <pubDate>Mon, 10 Jul 2023 22:45:28 +0000</pubDate>
-      </item><item>
-        <title>closed note 3348833 (near Central Transdanubia, 8151, Hungary) / * 2022 September 6 20:42 vasony Created: Jókai Mór telep vagy Jókai telep szerepel az utcatáblán? / * 2023 July 10 22:45 urbalazs Resolved: Nincs kint utcanévtábla, de egy ott lakó szerint Jókai telep az utca neve. Átírtam OSM-en.</title>
-        <link>https://www.openstreetmap.org/note/3348833#c8135163</link>
-        <guid>https://www.openstreetmap.org/note/3348833#c8135163</guid>
-        <pubDate>Mon, 10 Jul 2023 22:45:04 +0000</pubDate>
-      </item><item>
-        <title>closed note 3348831 (near Central Transdanubia, 8151, Hungary) / * 2022 September 6 20:42 vasony Created: Petőfi Sándor utca vagy Petőfi utca szerepel az utcatáblán? / * 2023 July 10 22:09 urbalazs Resolved: A keleti végén Petőfi Sándor utca, a nyugati végén csak Petőfi utca. Beírtam alt_name-be a rövid alakot.</title>
-        <link>https://www.openstreetmap.org/note/3348831#c8135133</link>
-        <guid>https://www.openstreetmap.org/note/3348831#c8135133</guid>
-        <pubDate>Mon, 10 Jul 2023 22:09:08 +0000</pubDate>
-      </item><item>
-        <title>closed note 3351368 (near Central Transdanubia, 8151, Hungary) / * 2022 September 8 19:49 vasony Created: Ez a Petőfi köz? / * 2023 July 10 22:08 urbalazs Resolved: Nincs utcanévtábla, van viszont egy házszámtábla Petőfi köz 1-gyel, az alapján elneveztem az utcát.</title>
-        <link>https://www.openstreetmap.org/note/3351368#c8135132</link>
-        <guid>https://www.openstreetmap.org/note/3351368#c8135132</guid>
-        <pubDate>Mon, 10 Jul 2023 22:08:36 +0000</pubDate>
-      </item><item>
-        <title>closed note 3348827 (near Central Transdanubia, 8151, Hungary) / * 2022 September 6 20:42 vasony Created: Kossuth Lajos utca vagy Kossuth utca szerepel az utcatáblán? / * 2023 July 10 21:39 urbalazs Resolved: Kossuth Lajos utca van kitáblázva, jó az OSM-en.</title>
-        <link>https://www.openstreetmap.org/note/3348827#c8135092</link>
-        <guid>https://www.openstreetmap.org/note/3348827#c8135092</guid>
-        <pubDate>Mon, 10 Jul 2023 21:39:41 +0000</pubDate>
-      </item><item>
-        <title>closed note 3351363 (near Central Transdanubia, 8151, Hungary) / * 2022 September 8 19:42 vasony Created: Patak utca itt van valahol? / * 2023 July 10 21:34 urbalazs Resolved: Itt nincs Patak utca. Utca sincs.</title>
-        <link>https://www.openstreetmap.org/note/3351363#c8135082</link>
-        <guid>https://www.openstreetmap.org/note/3351363#c8135082</guid>
-        <pubDate>Mon, 10 Jul 2023 21:34:17 +0000</pubDate>
       </item>
   </channel>
 </rss>
