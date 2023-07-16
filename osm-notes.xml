@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3308122 (near Transdanubia, 9025, Hungary) / * 2022 August 10 11:53 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: Rába Quelle Termálfürdő is closed now (reconstruction until yr 2023). / * 2023 July 16 20:12 Dodko Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3308122#c8153714</link>
+        <guid>https://www.openstreetmap.org/note/3308122#c8153714</guid>
+        <pubDate>Sun, 16 Jul 2023 20:12:15 +0000</pubDate>
+      </item><item>
+        <title>new note 3783748 (near Central Transdanubia, 8226, Hungary) / * 2023 July 16 19:30 vasony Created: ez az út itt létezik?</title>
+        <link>https://www.openstreetmap.org/note/3783748#c8153544</link>
+        <guid>https://www.openstreetmap.org/note/3783748#c8153544</guid>
+        <pubDate>Sun, 16 Jul 2023 19:30:18 +0000</pubDate>
+      </item><item>
         <title>new comment 3757756 (near South Great Plain, 6720, Hungary) / * 2023 June 29 19:53 ITineris Created: Ez a rész a Vármúzeumtól a körforgalomig osztott pályás lett; így kellene átrajzolni. / Ja, és már igazi körforgalom van, azt pedig ennek megfelelően. / * 2023 July 8 23:37 gabro00 Updated: Nagyon jó... nem is olyan rég, a https://www.openstreetmap.org/changeset/94509694 módosításcsomagban alakítottam mini körforgalomra, lehet megér egy próbát a visszavonás újrarajzolás helyett. / * 2023 July 16 12:55 ITineris Updated: Sajnos a trolis kapcsolatok miatt nem triviális.</title>
         <link>https://www.openstreetmap.org/note/3757756#c8151884</link>
         <guid>https://www.openstreetmap.org/note/3757756#c8151884</guid>
@@ -97,41 +107,6 @@
         <link>https://www.openstreetmap.org/note/3779472#c8145366</link>
         <guid>https://www.openstreetmap.org/note/3779472#c8145366</guid>
         <pubDate>Fri, 14 Jul 2023 09:39:23 +0000</pubDate>
-      </item><item>
-        <title>closed note 3773466 (near Budatava, Balatonalmádi) / * 2023 July 10 10:19 vasony Created: https://balatonalmadi.hu/hirek/1608-jardafelujitasi-munkalatok / A Noszlopy Gáspár utca, a Hadak útja és a Búzavirág utca között a páratlan oldalon járda felújítási munkálatok voltak jún. Ez mit takar, ellenőrizendő! / * 2023 July 14 06:19 vasony Resolved: újra lett aszfaltozva, nincs teendő</title>
-        <link>https://www.openstreetmap.org/note/3773466#c8144869</link>
-        <guid>https://www.openstreetmap.org/note/3773466#c8144869</guid>
-        <pubDate>Fri, 14 Jul 2023 06:19:07 +0000</pubDate>
-      </item><item>
-        <title>closed note 3773468 (near Almádi, Balatonalmádi) / * 2023 July 10 10:21 vasony Created: https://balatonalmadi.hu/hirek/1608-jardafelujitasi-munkalatok / Teleki Blanka utca Széchenyi sétány felőli szakaszán felújítási munkálatok voltak júniusban. Ez mit takar, ellenőrizendő! / * 2023 July 14 06:15 vasony Resolved: leaszfaltozták, javítottam</title>
-        <link>https://www.openstreetmap.org/note/3773468#c8144862</link>
-        <guid>https://www.openstreetmap.org/note/3773468#c8144862</guid>
-        <pubDate>Fri, 14 Jul 2023 06:15:48 +0000</pubDate>
-      </item><item>
-        <title>new comment 3555002 (near North Hungary, 3245, Hungary) / * 2023 February 12 07:55 kogutowicz-mano Created: Valahol a környéken kőbányát nyitottak. / https://www.blikk.hu/aktualis/belfold/recsk-banya-foldsanc-sarlavina-eletveszely-engedely-fidesz-kosa-lajos/2twj9bj / * 2023 March 24 09:50 kogutowicz-mano Updated: Itt egy drónvideó, ami nyugatról és északnyugatról mutatja a hegyet: / https://www.youtube.com/watch?v=Zjf9SNmKF-8&amp;amp;t=177s / * 2023 June 8 09:57 sfphoton Updated: Megrajzoltam a drónvideó és ez alapján a cikk alapján: / https://iho.hu/hirek/hosszu-ido-utan-ujra-rakodnak-recsken / Nem teljesen pontos, szóval ha frissül a műholdkép, akkor pontosítani kell. / * 2023 June 8 10:42 kogutowicz-mano Resolved: Zsír! :-) / * 2023 June 14 05:21 kogutowicz-mano Reactivated:  / * 2023 June 14 05:21 kogutowicz-mano Updated: további képek: https://24.hu/belfold/2023/06/14/recsk-banya-iszap-falu-kikoltoztetes-riport/ / * 2023 July 14 04:05 kogutowicz-mano Updated: https://24.hu/belfold/2023/07/14/recsk-banya-iszaplavina-engedely-allam-kartalanitas/</title>
-        <link>https://www.openstreetmap.org/note/3555002#c8144663</link>
-        <guid>https://www.openstreetmap.org/note/3555002#c8144663</guid>
-        <pubDate>Fri, 14 Jul 2023 04:05:43 +0000</pubDate>
-      </item><item>
-        <title>closed note 3569725 (near Southern Transdanubia, 8600, Hungary) / * 2023 February 22 09:14 Gaurdein Created: Kerítéssel kettévalasztva / via StreetComplete 50.2 / Attached photo(s): / https://westnordost.de/p/133525.jpg / * 2023 March 10 23:58 Gaurdein Updated: Kapott egy barrier=fence -t, de az iD-nak nem tetszik, hogy ponton van és nem vonalon. Ha valaki esetleg tud jobbat, legyenszíves javítsa. / * 2023 March 10 23:58 Gaurdein Updated: Kapott egy barrier=fence -t, de az iD-nak nem tetszik, hogy ponton van és nem vonalon. Ha valaki esetleg tud jobbat, legyenszíves javítsa. / * 2023 March 10 23:58 Gaurdein Updated: Kapott egy barrier=fence -t, de az iD-nak nem tetszik, hogy ponton van és nem vonalon. Ha valaki esetleg tud jobbat, legyenszíves javítsa. / * 2023 July 14 01:05 urbalazs Resolved: Kerítés valóban nem lehet ponton, mert az egy vonalas objektum. Hozzáadtam egy nagyobb kerítést, így már jó lesz.</title>
-        <link>https://www.openstreetmap.org/note/3569725#c8144505</link>
-        <guid>https://www.openstreetmap.org/note/3569725#c8144505</guid>
-        <pubDate>Fri, 14 Jul 2023 01:05:00 +0000</pubDate>
-      </item><item>
-        <title>new note 3778863 (near South Great Plain, 6724, Hungary) / * 2023 July 13 21:29 gabro00 Created: Tavasz Tower fantázianévű új kollégiumépület az egykori kenyérgyárból: https://szegeder.hu/helyi/2023-07-13/tavasz-tower-kenyergyari-betontoronybol-epul-a-varos-legujabb-egyetemi-kollegiuma/64aea43e47d3c06f8eab625b</title>
-        <link>https://www.openstreetmap.org/note/3778863#c8144236</link>
-        <guid>https://www.openstreetmap.org/note/3778863#c8144236</guid>
-        <pubDate>Thu, 13 Jul 2023 21:29:59 +0000</pubDate>
-      </item><item>
-        <title>new note 3778086 (near North Hungary, 3876, Hungary) / * 2023 July 13 12:38 Matyjace Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;closed&amp;quot;</title>
-        <link>https://www.openstreetmap.org/note/3778086#c8142659</link>
-        <guid>https://www.openstreetmap.org/note/3778086#c8142659</guid>
-        <pubDate>Thu, 13 Jul 2023 12:38:50 +0000</pubDate>
-      </item><item>
-        <title>new note 3778069 (near North Hungary, 3899, Hungary) / * 2023 July 13 12:28 Matyjace Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;no path here&amp;quot;</title>
-        <link>https://www.openstreetmap.org/note/3778069#c8142602</link>
-        <guid>https://www.openstreetmap.org/note/3778069#c8142602</guid>
-        <pubDate>Thu, 13 Jul 2023 12:28:54 +0000</pubDate>
       </item>
   </channel>
 </rss>
