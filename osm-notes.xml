@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3788843 (near Transdanubia, 8253, Hungary) / * 2023 July 19 21:11 vasony Created: 67-es kilométerkő pontosan hol van?</title>
+        <link>https://www.openstreetmap.org/note/3788843#c8164220</link>
+        <guid>https://www.openstreetmap.org/note/3788843#c8164220</guid>
+        <pubDate>Wed, 19 Jul 2023 21:11:12 +0000</pubDate>
+      </item><item>
         <title>new comment 3760547 (near South Great Plain, 6725, Hungary) / * 2023 July 1 20:24 Created: Lehetséges, hogy a Hattyas utcát régebben Hattyas sornak hívták? (Pl. a sporttelepnél is futok bele ilyen hivatkozásokba.) Ha igen, szerintem vegyük fel old_name-be, vagy loc_name-be. / * 2023 July 1 20:24 ITineris Updated: Én voltam. / * 2023 July 8 23:46 gabro00 Updated: Elképzelhető. Anno én is belefutottam ezekbe, de hivatalos forrást nem találtam rá. / * 2023 July 19 19:14 gabro00 Updated: Úgy tűnik megoldódott https://www.openstreetmap.org/changeset/138577787</title>
         <link>https://www.openstreetmap.org/note/3760547#c8163886</link>
         <guid>https://www.openstreetmap.org/note/3760547#c8163886</guid>
@@ -202,36 +207,6 @@
         <link>https://www.openstreetmap.org/note/3518327#c8158200</link>
         <guid>https://www.openstreetmap.org/note/3518327#c8158200</guid>
         <pubDate>Tue, 18 Jul 2023 08:06:00 +0000</pubDate>
-      </item><item>
-        <title>closed note 3518395 (near Transdanubia, 2485, Hungary) / * 2023 January 14 18:18 vasony Created: Rákóczi utca vagy Rákóczi Ferenc utca szerepel az utcatáblán? / * 2023 July 18 08:05 urbalazs Resolved: Teljes névvel van kitáblázva. Nincs vele teendő.</title>
-        <link>https://www.openstreetmap.org/note/3518395#c8158199</link>
-        <guid>https://www.openstreetmap.org/note/3518395#c8158199</guid>
-        <pubDate>Tue, 18 Jul 2023 08:05:19 +0000</pubDate>
-      </item><item>
-        <title>closed note 3518403 (near Transdanubia, 2485, Hungary) / * 2023 January 14 18:19 vasony Created: Vörösmarty utca vagy Vörösmarty Mihály utca szerepel az utcatáblán? / * 2023 July 18 08:04 urbalazs Resolved: Teljes névvel van kitáblázva az új utcanévtáblákon, de csak vezetéknévvel van a régi útjelző táblákon. OSM-en marad teljes névvel.</title>
-        <link>https://www.openstreetmap.org/note/3518403#c8158196</link>
-        <guid>https://www.openstreetmap.org/note/3518403#c8158196</guid>
-        <pubDate>Tue, 18 Jul 2023 08:04:44 +0000</pubDate>
-      </item><item>
-        <title>closed note 3518396 (near Transdanubia, 2485, Hungary) / * 2023 January 14 18:18 vasony Created: Kossuth Lajos utca vagy Kossuth utca szerepel az utcatáblán? / * 2023 July 18 08:04 urbalazs Resolved: Teljes névvel van kitáblázva az új utcanévtáblákon, de csak vezetéknévvel van a régi útjelző táblákon. OSM-en marad teljes névvel.</title>
-        <link>https://www.openstreetmap.org/note/3518396#c8158195</link>
-        <guid>https://www.openstreetmap.org/note/3518396#c8158195</guid>
-        <pubDate>Tue, 18 Jul 2023 08:04:30 +0000</pubDate>
-      </item><item>
-        <title>closed note 3518330 (near Central Transdanubia, 2484, Hungary) / * 2023 January 14 17:10 Created: Ez a Mester utca? / * 2023 January 14 17:11 vasony Updated: én voltam / * 2023 July 18 08:03 urbalazs Resolved: Utcanévtábla nincs, de az Ügyfélszolgálat kerítésén van egy nagy házszámtábla utcanévvel.</title>
-        <link>https://www.openstreetmap.org/note/3518330#c8158191</link>
-        <guid>https://www.openstreetmap.org/note/3518330#c8158191</guid>
-        <pubDate>Tue, 18 Jul 2023 08:03:14 +0000</pubDate>
-      </item><item>
-        <title>closed note 3518386 (near Central Transdanubia, 2483, Hungary) / * 2023 January 14 18:06 vasony Created: Csokonai Vitéz Mihály utca vagy Csokonai utca szerepel az utcatáblán? / * 2023 July 18 08:02 urbalazs Resolved: A régi és az új táblán is csak vezetéknévvel van kitáblázva. Javítva lett a név.</title>
-        <link>https://www.openstreetmap.org/note/3518386#c8158188</link>
-        <guid>https://www.openstreetmap.org/note/3518386#c8158188</guid>
-        <pubDate>Tue, 18 Jul 2023 08:02:23 +0000</pubDate>
-      </item><item>
-        <title>closed note 3518412 (near Central Transdanubia, 2483, Hungary) / * 2023 January 14 18:34 vasony Created: Berzsenyi Dániel utca vagy Berzsenyi utca szerepel az utcatáblán? / * 2023 July 18 08:01 urbalazs Resolved: Az új táblákon csak vezetéknévvel, egy régi táblán teljes névvel van kitáblázva. Eszerint lett javítva a név.</title>
-        <link>https://www.openstreetmap.org/note/3518412#c8158187</link>
-        <guid>https://www.openstreetmap.org/note/3518412#c8158187</guid>
-        <pubDate>Tue, 18 Jul 2023 08:01:53 +0000</pubDate>
       </item>
   </channel>
 </rss>
