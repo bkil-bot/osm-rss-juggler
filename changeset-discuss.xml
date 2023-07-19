@@ -3,10 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Szia! Szerintem és mások számára is fontos lehet a napelem panelek tényleges helye és mérete. Ezért is ezeket vittük fel generator:source taggel, hasonlóan más európai példákhoz: https://www.openstreetmap.org/way/685177453 A soronkénti szerkesztés szerintem ilyen esetekben indokolatlan és máshol se követik napelemparkoknál vagy csak nagyon elvétve. A kérdésem az lenne, hogy a szerkesztéseknek pontosan melyik része nem jó szerinted ilyen formában? A name tag-et nyilván lehet törölni, bár nem ebből indult ki a megbeszélés. A multipoligonná alakítás vagy a generator:source tag használata? A napelem paneleket szeretném megtartani, de a multipoligon megszűntetése megoldható. -Krisz0609</title>
+        <title>Értem az alábbi hibákat, és ezeket javítom a szerkesztéseimnél. -Krisz0609</title>
         <link>https://www.openstreetmap.org/changeset/137590085</link>
-        <guid>https://www.openstreetmap.org/changeset/137590085#comment_4</guid>
-        <pubDate>2023-07-19T11:02:59+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/137590085#comment_6</guid>
+        <pubDate>2023-07-19T12:01:56+02:00</pubDate>
+      </item><item>
+        <title>Kérlek ne vegyél fel olyan helyre gyalogátkelőket ahol az nem létezik, vagy minimum rakd rá azt, hogy highway=unmarkedd. Javasolt még a kerb=raised|lowered|flush és a tactile_paving=yes ahol látszik. -bkil</title>
+        <link>https://www.openstreetmap.org/changeset/91418911</link>
+        <guid>https://www.openstreetmap.org/changeset/91418911#comment_1</guid>
+        <pubDate>2023-07-19T11:24:22+02:00</pubDate>
       </item><item>
         <title>Very good question and I'm confused that BKK is using different colours for their network map diagram and publishing via GTFS. Just checked the date stamp on the BKK diagram and that was last updated on 10th of July 2023 so I would consider that as the latest source of truth. Might be worth reaching out to the BKK team to let them know of this data discrepancy. -Claudius Henrichs</title>
         <link>https://www.openstreetmap.org/changeset/134130492</link>
