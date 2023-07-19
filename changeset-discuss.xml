@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Szia! Attól tartok ez így nem jó. Egyrészt felesleges (elnagyoltan) körberajzolni a napelemeket az erőművön belül. Ezen mondjuk lehetne vitatkozni. De az biztos, hogy ez a görbe nem lesz belső határvonala a napelemfarmnak, amit multipoligonná alakítottál. Légy szíves ezeket a szerkesztéseket mindenhol visszacsinálni! -kogutowicz-mano</title>
+        <title>Mondottam volt, ezen lehet vitatkozni. A kulcsszavak: &quot;elnagyoltan&quot;, illetve &quot;The _individual_ rows of the solar panel within the solar field&quot;. Nem az áll a wikiben, hogy rajzold körbe a területet, amit a napelemek sora a nap során valamikor beárnyékol. Hanem az egyes panelsorokat külön-külön felrajzolhatod, ha van energiád. Tehát itt Százhalombattán mintegy 400 objektumot. Még valami: rosszul használod a name=* taget is. Lásd https://wiki.openstreetmap.org/wiki/Key:name : Do not use name=* if: ... * The feature is known by a generic term or description. -kogutowicz-mano</title>
         <link>https://www.openstreetmap.org/changeset/137590085</link>
-        <guid>https://www.openstreetmap.org/changeset/137590085#comment_1</guid>
-        <pubDate>2023-07-19T04:10:47+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/137590085#comment_3</guid>
+        <pubDate>2023-07-19T07:02:11+02:00</pubDate>
       </item><item>
         <title>Very good question and I'm confused that BKK is using different colours for their network map diagram and publishing via GTFS. Just checked the date stamp on the BKK diagram and that was last updated on 10th of July 2023 so I would consider that as the latest source of truth. Might be worth reaching out to the BKK team to let them know of this data discrepancy. -Claudius Henrichs</title>
         <link>https://www.openstreetmap.org/changeset/134130492</link>
