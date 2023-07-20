@@ -3,20 +3,30 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Előírásnak nem előírás, így enyém volt a döntés. És mivel véleményem szerint adott esetben nem lett volna se értelme, se haszna az életútnak, a törlés mellett tettem le a garast. (Elnézve Yuri77 eredeti szerkesztését -- ami az életművének pont az 50%-a -- valószínűsítem, hogy eleve fel sem kellett volna venni a &quot;Дом Ковач Роберта в Сигетсентмиклош&quot; [&quot;Kovács Róbert háza Szigetszentmiklóson&quot;] nevű POI-t.) Ami meg a házszámot illeti, koncepcionális hiba az épület helyett (kizárólag) a benne található POI-kra tenni. Ez aztán eredményezhet ilyen kis gikszereket. Most ráírtam a házszámot az épületre. Mennyivel vagyunk előrébb? -kogutowicz-mano</title>
+        <title>Szia! &quot;Öltöző&quot;??? Azt hiszem nem jól használod a name=* taget. Ez a kategória neve, amibe az objektum tartozik. Ezt az információt viszont már tartalmazza az amenity=dressing_room attribútum. -kogutowicz-mano</title>
+        <link>https://www.openstreetmap.org/changeset/137801835</link>
+        <guid>https://www.openstreetmap.org/changeset/137801835#comment_1</guid>
+        <pubDate>2023-07-20T12:52:13+02:00</pubDate>
+      </item><item>
+        <title>Sokkal, egyel több házszám van Szigetszentmiklóson, már csak 9217 hiányzik :) Egyébként az eredeti szerkesztést nézve, valóban ez egy fals guest_house, ez esetben szerintem sem javasolt a prefix, jó így hogy a házszám átkerült. -vasony</title>
         <link>https://www.openstreetmap.org/changeset/138089681</link>
-        <guid>https://www.openstreetmap.org/changeset/138089681#comment_4</guid>
-        <pubDate>2023-07-20T11:37:54+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/138089681#comment_5</guid>
+        <pubDate>2023-07-20T12:51:06+02:00</pubDate>
+      </item><item>
+        <title>Szia! Honnan származik az információ, hogy a 9552854196-os node neve &quot;Használt könyvátvevő szekrény&quot;? -kogutowicz-mano</title>
+        <link>https://www.openstreetmap.org/changeset/138427743</link>
+        <guid>https://www.openstreetmap.org/changeset/138427743#comment_1</guid>
+        <pubDate>2023-07-20T12:47:54+02:00</pubDate>
+      </item><item>
+        <title>Szervusz! Egységesítettem helyrajzi térkép alapján (Dankó utca - Új Dankó utca) gwythyr -gwythyr622</title>
+        <link>https://www.openstreetmap.org/changeset/135442757</link>
+        <guid>https://www.openstreetmap.org/changeset/135442757#comment_2</guid>
+        <pubDate>2023-07-20T12:28:47+02:00</pubDate>
       </item><item>
         <title>Szia! Mi az oka, hogy az old_addr címkéket letörlöd? Tamás -vasony</title>
         <link>https://www.openstreetmap.org/changeset/138518561</link>
         <guid>https://www.openstreetmap.org/changeset/138518561#comment_1</guid>
         <pubDate>2023-07-20T07:58:50+02:00</pubDate>
-      </item><item>
-        <title>Szia! https://www.openstreetmap.org/way/188491175 Dankó újtelep vagy Dankó utca? A házszámok az egyik, az utca a másik. Tamás -vasony</title>
-        <link>https://www.openstreetmap.org/changeset/135442757</link>
-        <guid>https://www.openstreetmap.org/changeset/135442757#comment_1</guid>
-        <pubDate>2023-07-20T07:49:36+02:00</pubDate>
       </item><item>
         <title>Szia! Rendben, látom mi a gond a te általad megadott weboldalon alul a Rumbach S. utcai cím van, a kapcsolat oldalon pedig a Dob utcai, ez okozza a gondot. A jelölés szerintem jó, nem baj ha külön van, csak akkor pontosítani kell a címeket a helyszíni adatok alapján. -vasony</title>
         <link>https://www.openstreetmap.org/changeset/138369344</link>
