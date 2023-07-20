@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Szia! Utcai fotók szerint nyoma sincs ilyesminek a 32-es szám alatt. A Google search sem tud itt vendégházról. -kogutowicz-mano</title>
+        <title>Itt két gond van. Az egyik, hogy nem az életút prefixet használtad: https://wiki.openstreetmap.org/wiki/Comparison_of_life_cycle_concepts A másik pedig hogy letöröltél egy objektumot amire már valaki felmért egy házszámot és ezáltal a házszám eltűnt a térképről. Ehelyett vagy csak a POI jellemzőit kell átállítani rajta vagy felvinni a házszámot a megfelelő épületre. -bkil</title>
         <link>https://www.openstreetmap.org/changeset/138089681</link>
-        <guid>https://www.openstreetmap.org/changeset/138089681#comment_2</guid>
-        <pubDate>2023-07-20T08:22:07+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/138089681#comment_3</guid>
+        <pubDate>2023-07-20T10:39:42+02:00</pubDate>
       </item><item>
         <title>Szia! Mi az oka, hogy az old_addr címkéket letörlöd? Tamás -vasony</title>
         <link>https://www.openstreetmap.org/changeset/138518561</link>
