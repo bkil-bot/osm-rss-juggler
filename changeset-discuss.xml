@@ -3,25 +3,25 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Szia! &quot;Öltöző&quot;??? Azt hiszem nem jól használod a name=* taget. Ez a kategória neve, amibe az objektum tartozik. Ezt az információt viszont már tartalmazza az amenity=dressing_room attribútum. -kogutowicz-mano</title>
+        <title>Köszönjük az értékes hozzászólást, ezektől mindig jobb lesz a térkép a nap végén. -bkil</title>
         <link>https://www.openstreetmap.org/changeset/137801835</link>
-        <guid>https://www.openstreetmap.org/changeset/137801835#comment_1</guid>
-        <pubDate>2023-07-20T12:52:13+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/137801835#comment_2</guid>
+        <pubDate>2023-07-20T14:02:08+02:00</pubDate>
+      </item><item>
+        <title>Szia! Elmentem és megnéztem -bkil</title>
+        <link>https://www.openstreetmap.org/changeset/138427743</link>
+        <guid>https://www.openstreetmap.org/changeset/138427743#comment_2</guid>
+        <pubDate>2023-07-20T13:59:32+02:00</pubDate>
+      </item><item>
+        <title>Köszi, nagyon kreatív a névadás a városban :) -vasony</title>
+        <link>https://www.openstreetmap.org/changeset/135442757</link>
+        <guid>https://www.openstreetmap.org/changeset/135442757#comment_3</guid>
+        <pubDate>2023-07-20T13:18:34+02:00</pubDate>
       </item><item>
         <title>Sokkal, egyel több házszám van Szigetszentmiklóson, már csak 9217 hiányzik :) Egyébként az eredeti szerkesztést nézve, valóban ez egy fals guest_house, ez esetben szerintem sem javasolt a prefix, jó így hogy a házszám átkerült. -vasony</title>
         <link>https://www.openstreetmap.org/changeset/138089681</link>
         <guid>https://www.openstreetmap.org/changeset/138089681#comment_5</guid>
         <pubDate>2023-07-20T12:51:06+02:00</pubDate>
-      </item><item>
-        <title>Szia! Honnan származik az információ, hogy a 9552854196-os node neve &quot;Használt könyvátvevő szekrény&quot;? -kogutowicz-mano</title>
-        <link>https://www.openstreetmap.org/changeset/138427743</link>
-        <guid>https://www.openstreetmap.org/changeset/138427743#comment_1</guid>
-        <pubDate>2023-07-20T12:47:54+02:00</pubDate>
-      </item><item>
-        <title>Szervusz! Egységesítettem helyrajzi térkép alapján (Dankó utca - Új Dankó utca) gwythyr -gwythyr622</title>
-        <link>https://www.openstreetmap.org/changeset/135442757</link>
-        <guid>https://www.openstreetmap.org/changeset/135442757#comment_2</guid>
-        <pubDate>2023-07-20T12:28:47+02:00</pubDate>
       </item><item>
         <title>Szia! Mi az oka, hogy az old_addr címkéket letörlöd? Tamás -vasony</title>
         <link>https://www.openstreetmap.org/changeset/138518561</link>
