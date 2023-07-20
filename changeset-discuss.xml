@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Itt két gond van. Az egyik, hogy nem az életút prefixet használtad: https://wiki.openstreetmap.org/wiki/Comparison_of_life_cycle_concepts A másik pedig hogy letöröltél egy objektumot amire már valaki felmért egy házszámot és ezáltal a házszám eltűnt a térképről. Ehelyett vagy csak a POI jellemzőit kell átállítani rajta vagy felvinni a házszámot a megfelelő épületre. -bkil</title>
+        <title>Előírásnak nem előírás, így enyém volt a döntés. És mivel véleményem szerint adott esetben nem lett volna se értelme, se haszna az életútnak, a törlés mellett tettem le a garast. (Elnézve Yuri77 eredeti szerkesztését -- ami az életművének pont az 50%-a -- valószínűsítem, hogy eleve fel sem kellett volna venni a &quot;Дом Ковач Роберта в Сигетсентмиклош&quot; [&quot;Kovács Róbert háza Szigetszentmiklóson&quot;] nevű POI-t.) Ami meg a házszámot illeti, koncepcionális hiba az épület helyett (kizárólag) a benne található POI-kra tenni. Ez aztán eredményezhet ilyen kis gikszereket. Most ráírtam a házszámot az épületre. Mennyivel vagyunk előrébb? -kogutowicz-mano</title>
         <link>https://www.openstreetmap.org/changeset/138089681</link>
-        <guid>https://www.openstreetmap.org/changeset/138089681#comment_3</guid>
-        <pubDate>2023-07-20T10:39:42+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/138089681#comment_4</guid>
+        <pubDate>2023-07-20T11:37:54+02:00</pubDate>
       </item><item>
         <title>Szia! Mi az oka, hogy az old_addr címkéket letörlöd? Tamás -vasony</title>
         <link>https://www.openstreetmap.org/changeset/138518561</link>
