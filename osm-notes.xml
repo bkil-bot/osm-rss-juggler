@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3789229 (near Central Hungary, 2083, Hungary) / * 2023 July 20 08:06 vasony-qa Created: Marcibányi utca vagy Marczibányi utca szerepel a táblán? / * 2023 July 20 16:10 easimer Updated: Marczibányi / Attached photo(s): / https://westnordost.de/p/162196.jpg / * 2023 July 21 08:17 vasony Resolved: átírtam a nevet erre, hivatalos névnek maradt az eredeti</title>
+        <link>https://www.openstreetmap.org/note/3789229#c8168618</link>
+        <guid>https://www.openstreetmap.org/note/3789229#c8168618</guid>
+        <pubDate>Fri, 21 Jul 2023 08:17:16 +0000</pubDate>
+      </item><item>
+        <title>new note 3790756 (near Siditanya, Pásztó) / * 2023 July 21 08:09 vasony Created: Új Dankó utca, Dankó utca, Dankó újtelep van kiírva? / Földhivatalban Dankó újtelepre vannak számozva a házak</title>
+        <link>https://www.openstreetmap.org/note/3790756#c8168593</link>
+        <guid>https://www.openstreetmap.org/note/3790756#c8168593</guid>
+        <pubDate>Fri, 21 Jul 2023 08:09:21 +0000</pubDate>
+      </item><item>
         <title>new note 3790640 (near North Hungary, 3941, Hungary) / * 2023 July 21 07:05 sd_ciastko Created: Unable to answer &amp;quot;What’s the surface firmness of this track?&amp;quot; for https://osm.org/way/196115767 via StreetComplete 53.2: / Gyalogösvény virágládával zárva a két végén. / Attached photo(s): / https://westnordost.de/p/162272.jpg</title>
         <link>https://www.openstreetmap.org/note/3790640#c8168375</link>
         <guid>https://www.openstreetmap.org/note/3790640#c8168375</guid>
@@ -162,21 +172,6 @@
         <link>https://www.openstreetmap.org/note/3125951#c8161668</link>
         <guid>https://www.openstreetmap.org/note/3125951#c8161668</guid>
         <pubDate>Wed, 19 Jul 2023 07:10:09 +0000</pubDate>
-      </item><item>
-        <title>closed note 3449612 (near Central Transdanubia, 2485, Hungary) / * 2022 November 20 17:05 Arrabonfi Created: &amp;quot;Megszűnt &amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2022-10-29T18:47:05Z / POI name: Buci Pékség / POI types: building shop-bakery / #organicmaps / * 2023 July 19 07:09 urbalazs Resolved: Beállítottam disused-ra.</title>
-        <link>https://www.openstreetmap.org/note/3449612#c8161664</link>
-        <guid>https://www.openstreetmap.org/note/3449612#c8161664</guid>
-        <pubDate>Wed, 19 Jul 2023 07:09:30 +0000</pubDate>
-      </item><item>
-        <title>closed note 3125952 (near Central Transdanubia, 2485, Hungary) / * 2022 April 9 13:49 Arrabonfi Created: &amp;quot;Véglegesen bezárt &amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2022-03-14T07:52:33Z / POI name: Gondűző Büfé / POI types: building amenity-cafe / #organicmaps / * 2023 July 19 07:09 urbalazs Resolved: Beállítottam disused-ra.</title>
-        <link>https://www.openstreetmap.org/note/3125952#c8161663</link>
-        <guid>https://www.openstreetmap.org/note/3125952#c8161663</guid>
-        <pubDate>Wed, 19 Jul 2023 07:09:15 +0000</pubDate>
-      </item><item>
-        <title>closed note 2654504 (near Central Transdanubia, 8095, Hungary) / * 2021 May 4 15:42 vasony-qa Created: Ez a Dinnyési út? / * 2023 July 19 07:08 urbalazs Resolved: Igen, hozzáadtam a nevet.</title>
-        <link>https://www.openstreetmap.org/note/2654504#c8161662</link>
-        <guid>https://www.openstreetmap.org/note/2654504#c8161662</guid>
-        <pubDate>Wed, 19 Jul 2023 07:08:58 +0000</pubDate>
       </item>
   </channel>
 </rss>
