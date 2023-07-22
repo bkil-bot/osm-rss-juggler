@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3755386 (near Central Hungary, 1148, Hungary) / * 2023 June 28 10:25 meskobalazs Created: Unable to answer &amp;quot;What kind of building entrance is this?&amp;quot; for https://osm.org/node/2165053084 via StreetComplete 53.2: / Itt nincs bejárat azok az épület hosszanti oldalánn vannak / * 2023 July 22 21:50 ITineris Resolved: Átrajzoltam.</title>
+        <link>https://www.openstreetmap.org/note/3755386#c8174693</link>
+        <guid>https://www.openstreetmap.org/note/3755386#c8174693</guid>
+        <pubDate>Sat, 22 Jul 2023 21:50:37 +0000</pubDate>
+      </item><item>
+        <title>closed note 3755385 (near Central Hungary, 1148, Hungary) / * 2023 June 28 10:24 meskobalazs Created: Unable to answer &amp;quot;What kind of building entrance is this?&amp;quot; for https://osm.org/node/2165053097 via StreetComplete 53.2: / Itt nincs bejárat azok az épület hosszanti oldalánn vannak / * 2023 July 5 13:40 ITineris Updated: Ja. Ráadásul a bejáratok az épületek déli oldalán vannak. Az autós behajtókról csak a garázsok érhetők el. / * 2023 July 22 21:50 ITineris Resolved: Átrajzoltam.</title>
+        <link>https://www.openstreetmap.org/note/3755385#c8174692</link>
+        <guid>https://www.openstreetmap.org/note/3755385#c8174692</guid>
+        <pubDate>Sat, 22 Jul 2023 21:50:31 +0000</pubDate>
+      </item><item>
+        <title>closed note 3755527 (near Central Hungary, 1141, Hungary) / * 2023 June 28 12:06 meskobalazs Created: Unable to answer &amp;quot;Is this foot path completed?&amp;quot; for https://osm.org/way/887475214 via StreetComplete 53.2: / It jó eséllyel nem is lesz híd / * 2023 July 5 13:31 ITineris Updated: Forrás? Anno a lakópark engedélyezésekor a megállapodás része volt. / * 2023 July 5 15:26 infeeeee Updated: Ha nyoma sincs építkezésnek, akkor inkább valami &amp;quot;proposed&amp;quot; vagy &amp;quot;planned&amp;quot; alapú címke jobb lenne. / https://wiki.openstreetmap.org/wiki/Key:proposed:* / https://wiki.openstreetmap.org/wiki/Key:proposed / Jelenlegi címkézés alapján már elkezdték az építkezést, ezért is kérdezi ezt meg a StreetComplete. / * 2023 July 5 15:31 ITineris Updated: Azokat a kiszögelléseket én leendő hídfőként értelmeztem. / * 2023 July 5 16:00 meskobalazs Updated: Nem ideiglenesnek tűnik neken a korlát, amit építettek. A proposed címkékkel kibékülök. / * 2023 July 5 16:05 ITineris Updated: Akkor legyen az, amíg nem lesz belőle valami! / * 2023 July 22 21:43 ITineris Resolved: Átcímkéztem.</title>
+        <link>https://www.openstreetmap.org/note/3755527#c8174683</link>
+        <guid>https://www.openstreetmap.org/note/3755527#c8174683</guid>
+        <pubDate>Sat, 22 Jul 2023 21:43:26 +0000</pubDate>
+      </item><item>
+        <title>closed note 3636721 (near Central Hungary, 1144, Hungary) / * 2023 April 11 04:46 kogutowicz-mano Created: Itt új zebra készül / * 2023 June 1 15:46 ITineris Updated: És lehajtó-felhajtó sávok is az Öv utca felőli oldalon. / * 2023 July 22 21:42 ITineris Resolved: Felmértem, berajzoltam.</title>
+        <link>https://www.openstreetmap.org/note/3636721#c8174681</link>
+        <guid>https://www.openstreetmap.org/note/3636721#c8174681</guid>
+        <pubDate>Sat, 22 Jul 2023 21:42:33 +0000</pubDate>
+      </item><item>
         <title>new note 3793100 (near Central Hungary, 1056, Hungary) / * 2023 July 22 16:50 masaka67 Created: Unable to answer &amp;quot;Which bank operates this ATM?&amp;quot; for https://osm.org/node/3662409964 via StreetComplete 53.3: / Nincs név kiírva</title>
         <link>https://www.openstreetmap.org/note/3793100#c8173687</link>
         <guid>https://www.openstreetmap.org/note/3793100#c8173687</guid>
@@ -222,16 +242,6 @@
         <link>https://www.openstreetmap.org/note/3790639#c8168374</link>
         <guid>https://www.openstreetmap.org/note/3790639#c8168374</guid>
         <pubDate>Fri, 21 Jul 2023 07:05:57 +0000</pubDate>
-      </item><item>
-        <title>new note 3790331 (near South Great Plain, 6728, Hungary) / * 2023 July 20 20:55 Beroesz Created: Ez a kerékpárút megszűnt, csak járda maradt helyette.</title>
-        <link>https://www.openstreetmap.org/note/3790331#c8167642</link>
-        <guid>https://www.openstreetmap.org/note/3790331#c8167642</guid>
-        <pubDate>Thu, 20 Jul 2023 20:55:16 +0000</pubDate>
-      </item><item>
-        <title>new note 3790312 (near Western Transdanubia, 9021, Hungary) / * 2023 July 20 20:42 JE_English Created: Unable to answer &amp;quot;Are these opening hours still correct?&amp;quot; for https://osm.org/node/3499272895 via StreetComplete 53.3: / Closed</title>
-        <link>https://www.openstreetmap.org/note/3790312#c8167604</link>
-        <guid>https://www.openstreetmap.org/note/3790312#c8167604</guid>
-        <pubDate>Thu, 20 Jul 2023 20:42:28 +0000</pubDate>
       </item>
   </channel>
 </rss>
