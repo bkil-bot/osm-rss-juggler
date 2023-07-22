@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3765596 (near Almádi, Balatonalmádi) / * 2023 July 4 20:24 vasony Created: ref=3 vagy 6? régi kép szerint 3, de mintha átszámozták volna, ellenőrizendő / * 2023 July 22 14:21 vasony Resolved: nem számozták, 3 most is</title>
+        <link>https://www.openstreetmap.org/note/3765596#c8172924</link>
+        <guid>https://www.openstreetmap.org/note/3765596#c8172924</guid>
+        <pubDate>Sat, 22 Jul 2023 14:21:54 +0000</pubDate>
+      </item><item>
         <title>closed note 3765600 (near Central Transdanubia, 8225, Hungary) / * 2023 July 4 20:26 vasony Created: itt van kábel keresztben? A Cser utca felől úgy látszik, mintha nem folytatódna erre fele / * 2023 July 22 14:18 vasony Resolved: van, feljebb, felmérve</title>
         <link>https://www.openstreetmap.org/note/3765600#c8172910</link>
         <guid>https://www.openstreetmap.org/note/3765600#c8172910</guid>
@@ -227,16 +232,6 @@
         <link>https://www.openstreetmap.org/note/2685175#c8167023</link>
         <guid>https://www.openstreetmap.org/note/2685175#c8167023</guid>
         <pubDate>Thu, 20 Jul 2023 18:50:57 +0000</pubDate>
-      </item><item>
-        <title>closed note 3775392 (near Central Hungary, 2083, Hungary) / * 2023 July 11 15:27 vasony Created: Milyen cím ez a Rózsika 1? / * 2023 July 20 16:53 easimer Resolved: Javítottam, illetve most már maga az utca is a korrekt helyen találkozik a Mátyás király utcával</title>
-        <link>https://www.openstreetmap.org/note/3775392#c8166713</link>
-        <guid>https://www.openstreetmap.org/note/3775392#c8166713</guid>
-        <pubDate>Thu, 20 Jul 2023 16:53:28 +0000</pubDate>
-      </item><item>
-        <title>closed note 3351594 (near Central Transdanubia, 2475, Hungary) / * 2022 September 9 04:21 vasony Created: Ez a Központi tanya? / * 2023 July 20 16:25 vasony Resolved: itt csak egy romos épület van, semmi kiírás</title>
-        <link>https://www.openstreetmap.org/note/3351594#c8166659</link>
-        <guid>https://www.openstreetmap.org/note/3351594#c8166659</guid>
-        <pubDate>Thu, 20 Jul 2023 16:25:54 +0000</pubDate>
       </item>
   </channel>
 </rss>
