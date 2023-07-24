@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>We left Twitter for good last year but are touched by its downfall in two ways: With &amp;quot;verified chats&amp;quot;, guaranteed e2e encryption safe against active attacks, we use the blue-verified tick icon. KK, we&amp;#39;ll change that soon :) Then, &amp;quot;super apps&amp;quot;: any messenger can eventually support https://webxdc.org and become a super-app. The &amp;quot;x&amp;quot; in webxdc denotes a to-be-evolved world without platforms or mediating billionaires ... here we think we have an edge, no change needed :) #deltachat Tweet from Gordon brander &quot;Delta Chat is now a superapp&quot; from June 16th, 2022, referencing an announcement on the Delta Chat blog same month.</title>
+        <link>https://chaos.social/@delta/110769023604247015</link>
+        <guid>https://chaos.social/@delta/110769023604247015</guid>
+        <pubDate>Mon, 24 Jul 2023 12:19:25 +0000</pubDate>
+      </item><item>
         <title>From one of our wonderful translators: &amp;quot;I wanted to thank all developers of Deltachat for making such an incredible and simple multi-device supporting app! (Yes, I spent 2 days fresh-installing my double-booted main PC, so I really love all the time the multi-device backup option saved me!) You rock! 🤩&amp;quot; .... Shout out to our friends at https://n0.computer/ who just published hole punch support https://github.com/n0-computer/iroh/releases/tag/iroh-v0.5.1 .... The lib we use for multi device setup in #deltachat #rust core</title>
         <link>https://chaos.social/@delta/110737421138565489</link>
         <guid>https://chaos.social/@delta/110737421138565489</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/109517627964019902</link>
         <guid>https://chaos.social/@delta/109517627964019902</guid>
         <pubDate>Thu, 15 Dec 2022 12:13:03 +0000</pubDate>
-      </item><item>
-        <title>Some of our users report that missing an attachment happens more rarely with delta chat 😉</title>
-        <link>https://chaos.social/@delta/109426263005054161</link>
-        <guid>https://chaos.social/@delta/109426263005054161</guid>
-        <pubDate>Tue, 29 Nov 2022 08:57:45 +0000</pubDate>
       </item>
   </channel>
 </rss>
