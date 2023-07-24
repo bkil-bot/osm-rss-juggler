@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3628172 (near Central Transdanubia, 8230, Hungary) / * 2023 April 5 07:59 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: There&amp;#39;s Pepco and a gym now. / https://www.openstreetmap.org/node/1879021104 / * 2023 April 27 09:31 Đuro Jiří Updated: Coop non esiste, ora c&amp;#39;è Pepco, corretto. / Fitness bisogna verificare, sulla strada sono lavori e ... / * 2023 July 24 11:05 urbalazs Resolved: It was changed to Pepco.</title>
+        <link>https://www.openstreetmap.org/note/3628172#c8180347</link>
+        <guid>https://www.openstreetmap.org/note/3628172#c8180347</guid>
+        <pubDate>Mon, 24 Jul 2023 11:05:37 +0000</pubDate>
+      </item><item>
+        <title>closed note 3701529 (near Central Hungary, 2030, Hungary) / * 2023 May 22 19:28 vasony Created: Ez itt tényleg Kálvin köz, vagy maga a Kálvin tér része? / * 2023 July 24 11:02 urbalazs Resolved: Kálvin tér van kitáblázva. OSM-en javítva lett.</title>
+        <link>https://www.openstreetmap.org/note/3701529#c8180344</link>
+        <guid>https://www.openstreetmap.org/note/3701529#c8180344</guid>
+        <pubDate>Mon, 24 Jul 2023 11:02:13 +0000</pubDate>
+      </item><item>
+        <title>closed note 3377922 (near Southern Transdanubia, 8621, Hungary) / * 2022 September 28 19:57 Mateusz Konieczny Created: https://www.openstreetmap.org/node/3441443860 / Is there drinking water available here or not? It can be water fountain, water tap, maybe even hand pump, spring and so on. / It is marked as / amenity = drinking_water / disused:amenity = drinking_water / so it is marked as both active and disused at the same time. / If it is closed during winter then seasonal=yes would be much better / * 2023 July 24 10:56 urbalazs Resolved: There is no drinking water at the marked position. Deleted.</title>
+        <link>https://www.openstreetmap.org/note/3377922#c8180318</link>
+        <guid>https://www.openstreetmap.org/note/3377922#c8180318</guid>
+        <pubDate>Mon, 24 Jul 2023 10:56:52 +0000</pubDate>
+      </item><item>
+        <title>new note 3796210 (near Central Transdanubia, 2840, Hungary) / * 2023 July 24 10:22 GBAB Created: No highway</title>
+        <link>https://www.openstreetmap.org/note/3796210#c8180222</link>
+        <guid>https://www.openstreetmap.org/note/3796210#c8180222</guid>
+        <pubDate>Mon, 24 Jul 2023 10:22:04 +0000</pubDate>
+      </item><item>
         <title>new comment 2725773 (near Central Hungary, 1155, Hungary) / * 2021 June 23 20:02 bkil Created: Van errefelé játszótér? Van a játszótéren ivókút? https://www.bpxv.hu/hirek/megujulnak-jatszotereink / * 2023 July 6 19:22 Gyuri Nyitrai Updated: van 1-2 sportpálya és hinta a házak között, kis jóindulattal hívhatjuk játszótérnek. / * 2023 July 6 19:48 bkil Updated: Igen, az annak számít. Fel tudnánk rajzolni a helyes pozíción? Csap van ott és folyik belőle a víz? / * 2023 July 6 19:54 Gyuri Nyitrai Updated: holnap körbemegyek a környéken és felmérem a csapokat :) / * 2023 July 24 09:13 ITineris Updated: Az (egykori?) Kresz park állapotát is meg tudnád nézni? / Van kép, amin szépen újrafestették, és van, amin csak egy gazos aszfaltot látni.</title>
         <link>https://www.openstreetmap.org/note/2725773#c8180012</link>
         <guid>https://www.openstreetmap.org/note/2725773#c8180012</guid>
@@ -212,16 +232,6 @@
         <link>https://www.openstreetmap.org/note/3486470#c8170564</link>
         <guid>https://www.openstreetmap.org/note/3486470#c8170564</guid>
         <pubDate>Fri, 21 Jul 2023 18:26:10 +0000</pubDate>
-      </item><item>
-        <title>new note 3791442 (near Transdanubia, 8172, Hungary) / * 2023 July 21 16:43 Johanna707 Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/232522341 via StreetComplete 53.3: / Strand pénztár, mosdók, éttermek, raktár.</title>
-        <link>https://www.openstreetmap.org/note/3791442#c8170267</link>
-        <guid>https://www.openstreetmap.org/note/3791442#c8170267</guid>
-        <pubDate>Fri, 21 Jul 2023 16:43:22 +0000</pubDate>
-      </item><item>
-        <title>new note 3791431 (near Hercegmajor, Káptalantóti) / * 2023 July 21 16:35 capsule_man Created: &amp;quot;Replaced by Kali Bar&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-07-10T17:38:00Z / POI name: Vegyesbolt / POI types: shop-convenience / #organicmaps</title>
-        <link>https://www.openstreetmap.org/note/3791431#c8170249</link>
-        <guid>https://www.openstreetmap.org/note/3791431#c8170249</guid>
-        <pubDate>Fri, 21 Jul 2023 16:35:18 +0000</pubDate>
       </item>
   </channel>
 </rss>
