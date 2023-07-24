@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3796832 (near Southern Transdanubia, 8637, Hungary) / * 2023 July 24 15:33 vasony Created: ez nem vízmű, ez valami gázos infrastruktúra lesz inkább, ellenőrizendő!</title>
+        <link>https://www.openstreetmap.org/note/3796832#c8181601</link>
+        <guid>https://www.openstreetmap.org/note/3796832#c8181601</guid>
+        <pubDate>Mon, 24 Jul 2023 15:33:27 +0000</pubDate>
+      </item><item>
         <title>new note 3796540 (near Central Hungary, 2083, Hungary) / * 2023 July 24 13:10 Created: Nem Málna utca, hanem Kút utca a neve.</title>
         <link>https://www.openstreetmap.org/note/3796540#c8180820</link>
         <guid>https://www.openstreetmap.org/note/3796540#c8180820</guid>
@@ -237,21 +242,6 @@
         <link>https://www.openstreetmap.org/note/3792332#c8172323</link>
         <guid>https://www.openstreetmap.org/note/3792332#c8172323</guid>
         <pubDate>Sat, 22 Jul 2023 11:08:11 +0000</pubDate>
-      </item><item>
-        <title>new note 3792333 (near Central Hungary, 1091, Hungary) / * 2023 July 22 10:54 tbilles Created: Gyalogösvény, kavicsos burkolat / via StreetComplete 53.3 / GPS Trace: https://www.openstreetmap.org/user/tbilles/traces/8865576</title>
-        <link>https://www.openstreetmap.org/note/3792333#c8172280</link>
-        <guid>https://www.openstreetmap.org/note/3792333#c8172280</guid>
-        <pubDate>Sat, 22 Jul 2023 10:54:34 +0000</pubDate>
-      </item><item>
-        <title>new note 3792332 (near Central Hungary, 1098, Hungary) / * 2023 July 22 10:54 tbilles Created: Gyalogutak / via StreetComplete 53.3 / GPS Trace: https://www.openstreetmap.org/user/tbilles/traces/8865575</title>
-        <link>https://www.openstreetmap.org/note/3792332#c8172279</link>
-        <guid>https://www.openstreetmap.org/note/3792332#c8172279</guid>
-        <pubDate>Sat, 22 Jul 2023 10:54:33 +0000</pubDate>
-      </item><item>
-        <title>new note 3792045 (near North Great Plain, 4225, Hungary) / * 2023 July 22 08:01 ssummoner1 Created: Valóban ez lett a Gubás utca? Az én forrásom jelenleg egy 2021-es cikk: https://civishir.hu/helyben-jaro/2021/12/uj-utcanevek-tunnek-fel-debrecenben</title>
-        <link>https://www.openstreetmap.org/note/3792045#c8171740</link>
-        <guid>https://www.openstreetmap.org/note/3792045#c8171740</guid>
-        <pubDate>Sat, 22 Jul 2023 08:01:04 +0000</pubDate>
       </item>
   </channel>
 </rss>
