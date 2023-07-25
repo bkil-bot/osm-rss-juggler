@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3797968 (near Central Transdanubia, 8452, Hungary) / * 2023 July 25 08:58 kogutowicz-mano Created: Nőtt ide egy kis erőművi alállomás. Alighanem a régi nyírádi távvezetéket táplálja.</title>
+        <link>https://www.openstreetmap.org/note/3797968#c8184245</link>
+        <guid>https://www.openstreetmap.org/note/3797968#c8184245</guid>
+        <pubDate>Tue, 25 Jul 2023 08:58:58 +0000</pubDate>
+      </item><item>
         <title>closed note 3792045 (near North Great Plain, 4225, Hungary) / * 2023 July 22 08:01 ssummoner1 Created: Valóban ez lett a Gubás utca? Az én forrásom jelenleg egy 2021-es cikk: https://civishir.hu/helyben-jaro/2021/12/uj-utcanevek-tunnek-fel-debrecenben / * 2023 July 25 08:16 ssummoner1 Resolved: Nem ez az alrébb van. Lezárom, mert meg van.</title>
         <link>https://www.openstreetmap.org/note/3792045#c8184125</link>
         <guid>https://www.openstreetmap.org/note/3792045#c8184125</guid>
@@ -257,11 +262,6 @@
         <link>https://www.openstreetmap.org/note/3755527#c8174683</link>
         <guid>https://www.openstreetmap.org/note/3755527#c8174683</guid>
         <pubDate>Sat, 22 Jul 2023 21:43:26 +0000</pubDate>
-      </item><item>
-        <title>closed note 3636721 (near Central Hungary, 1144, Hungary) / * 2023 April 11 04:46 kogutowicz-mano Created: Itt új zebra készül / * 2023 June 1 15:46 ITineris Updated: És lehajtó-felhajtó sávok is az Öv utca felőli oldalon. / * 2023 July 22 21:42 ITineris Resolved: Felmértem, berajzoltam.</title>
-        <link>https://www.openstreetmap.org/note/3636721#c8174681</link>
-        <guid>https://www.openstreetmap.org/note/3636721#c8174681</guid>
-        <pubDate>Sat, 22 Jul 2023 21:42:33 +0000</pubDate>
       </item>
   </channel>
 </rss>
