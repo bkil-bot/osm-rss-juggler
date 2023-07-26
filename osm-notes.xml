@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3799848 (near South Great Plain, 5540, Hungary) / * 2023 July 26 10:02 Created: Arboretum Szarvas</title>
+        <link>https://www.openstreetmap.org/note/3799848#c8187980</link>
+        <guid>https://www.openstreetmap.org/note/3799848#c8187980</guid>
+        <pubDate>Wed, 26 Jul 2023 10:02:03 +0000</pubDate>
+      </item><item>
+        <title>closed note 2533722 (near Central Hungary, 1023, Hungary) / * 2023 July 26 09:40 vasony Resolved: igen, szerintem jó így</title>
+        <link>https://www.openstreetmap.org/note/2533722#c8187910</link>
+        <guid>https://www.openstreetmap.org/note/2533722#c8187910</guid>
+        <pubDate>Wed, 26 Jul 2023 09:40:59 +0000</pubDate>
+      </item><item>
         <title>closed note 3438387 (near Central Hungary, 1024, Hungary) / * 2022 November 12 09:28 sugarbotond Created: In context of &amp;quot;Shops&amp;quot; overlay for https://osm.org/node/3740360775 via StreetComplete 49.0: / Szerintem bestwax van a helyén / Attached photo(s): / https://westnordost.de/p/121039.jpg / * 2023 June 12 13:56 OSM KAMI Updated: igen / Attached photo(s): / https://westnordost.de/p/154593.jpg / * 2023 July 26 09:12 infeeeee Resolved: Hozzáadtam: https://www.openstreetmap.org/changeset/139026934</title>
         <link>https://www.openstreetmap.org/note/3438387#c8187826</link>
         <guid>https://www.openstreetmap.org/note/3438387#c8187826</guid>
@@ -237,11 +247,6 @@
         <link>https://www.openstreetmap.org/note/3795944#c8179628</link>
         <guid>https://www.openstreetmap.org/note/3795944#c8179628</guid>
         <pubDate>Mon, 24 Jul 2023 07:05:25 +0000</pubDate>
-      </item><item>
-        <title>closed note 3790640 (near North Hungary, 3941, Hungary) / * 2023 July 21 07:05 sd_ciastko Created: Unable to answer &amp;quot;What’s the surface firmness of this track?&amp;quot; for https://osm.org/way/196115767 via StreetComplete 53.2: / Gyalogösvény virágládával zárva a két végén. / Attached photo(s): / https://westnordost.de/p/162272.jpg / * 2023 July 23 20:22 sd_ciastko Resolved: Fixed in #138910140</title>
-        <link>https://www.openstreetmap.org/note/3790640#c8178520</link>
-        <guid>https://www.openstreetmap.org/note/3790640#c8178520</guid>
-        <pubDate>Sun, 23 Jul 2023 20:22:32 +0000</pubDate>
       </item>
   </channel>
 </rss>
