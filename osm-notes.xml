@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment 2725772 (near Central Hungary, 1155, Hungary) / * 2023 July 26 17:44 bkil Updated: Vagy erre? https://osm.org/way/127145847#map=19/47.54483/19.11443 Ameddig létezik a környéken egy játszótér is amin nincs name=* címke, bármelyik lehet. Kivéve az Ozmán utcai rekreációs park aminek része a kutyafuttató, biztosan nem arra gondoltak, az külön meg volt említve.</title>
+        <link>https://www.openstreetmap.org/note/2725772#c8189913</link>
+        <guid>https://www.openstreetmap.org/note/2725772#c8189913</guid>
+        <pubDate>Wed, 26 Jul 2023 17:44:15 +0000</pubDate>
+      </item><item>
+        <title>new comment 2725772 (near Central Hungary, 1155, Hungary) / * 2023 July 26 17:42 bkil Updated: Nem lehet, hogy erre gondolt a szerző? https://osm.org/way/120132504#map=19/47.54160/19.12063</title>
+        <link>https://www.openstreetmap.org/note/2725772#c8189906</link>
+        <guid>https://www.openstreetmap.org/note/2725772#c8189906</guid>
+        <pubDate>Wed, 26 Jul 2023 17:42:16 +0000</pubDate>
+      </item><item>
+        <title>reactivated note 2725772 (near Central Hungary, 1155, Hungary) / * 2023 July 26 17:42 bkil Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/2725772#c8189905</link>
+        <guid>https://www.openstreetmap.org/note/2725772#c8189905</guid>
+        <pubDate>Wed, 26 Jul 2023 17:42:05 +0000</pubDate>
+      </item><item>
         <title>closed note 2725772 (near Central Hungary, 1155, Hungary) / * 2021 June 23 20:02 bkil Created: Hol van az Mozdonyvezető utcai játszótér? Elvileg az Ozmán utcai rekreációs parktól független.  https://www.bpxv.hu/hirek/megujulnak-jatszotereink / * 2021 November 20 20:31 ITineris Updated: Nem tudom, melyiket hívják így. / A Mozdonyvezető utca vonzáskörzetében van egy játszótér az M3-as túloldalán, az óvoda mellett. És van egy játszótér a villamosfordulónál, a Kolozsvár iskola előtt. / * 2023 July 26 17:02 Gyuri Nyitrai Resolved: Szerintem az egy kutya játszótér. :) / Az Ozmán utcai parkkal közös a kerítése, de a bejárata a Mozdonyvezető utca felől van. Van rajta mindenféle mászóka kutyáknak és még ivókút is.</title>
         <link>https://www.openstreetmap.org/note/2725772#c8189753</link>
         <guid>https://www.openstreetmap.org/note/2725772#c8189753</guid>
@@ -227,26 +242,6 @@
         <link>https://www.openstreetmap.org/note/3628172#c8180507</link>
         <guid>https://www.openstreetmap.org/note/3628172#c8180507</guid>
         <pubDate>Mon, 24 Jul 2023 11:38:59 +0000</pubDate>
-      </item><item>
-        <title>reactivated note 3628172 (near Central Transdanubia, 8230, Hungary) / * 2023 July 24 11:38 vasony Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/3628172#c8180506</link>
-        <guid>https://www.openstreetmap.org/note/3628172#c8180506</guid>
-        <pubDate>Mon, 24 Jul 2023 11:38:35 +0000</pubDate>
-      </item><item>
-        <title>closed note 3628172 (near Central Transdanubia, 8230, Hungary) / * 2023 April 5 07:59 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: There&amp;#39;s Pepco and a gym now. / https://www.openstreetmap.org/node/1879021104 / * 2023 April 27 09:31 Đuro Jiří Updated: Coop non esiste, ora c&amp;#39;è Pepco, corretto. / Fitness bisogna verificare, sulla strada sono lavori e ... / * 2023 July 24 11:05 urbalazs Resolved: It was changed to Pepco.</title>
-        <link>https://www.openstreetmap.org/note/3628172#c8180347</link>
-        <guid>https://www.openstreetmap.org/note/3628172#c8180347</guid>
-        <pubDate>Mon, 24 Jul 2023 11:05:37 +0000</pubDate>
-      </item><item>
-        <title>closed note 3701529 (near Central Hungary, 2030, Hungary) / * 2023 May 22 19:28 vasony Created: Ez itt tényleg Kálvin köz, vagy maga a Kálvin tér része? / * 2023 July 24 11:02 urbalazs Resolved: Kálvin tér van kitáblázva. OSM-en javítva lett.</title>
-        <link>https://www.openstreetmap.org/note/3701529#c8180344</link>
-        <guid>https://www.openstreetmap.org/note/3701529#c8180344</guid>
-        <pubDate>Mon, 24 Jul 2023 11:02:13 +0000</pubDate>
-      </item><item>
-        <title>closed note 3377922 (near Southern Transdanubia, 8621, Hungary) / * 2022 September 28 19:57 Mateusz Konieczny Created: https://www.openstreetmap.org/node/3441443860 / Is there drinking water available here or not? It can be water fountain, water tap, maybe even hand pump, spring and so on. / It is marked as / amenity = drinking_water / disused:amenity = drinking_water / so it is marked as both active and disused at the same time. / If it is closed during winter then seasonal=yes would be much better / * 2023 July 24 10:56 urbalazs Resolved: There is no drinking water at the marked position. Deleted.</title>
-        <link>https://www.openstreetmap.org/note/3377922#c8180318</link>
-        <guid>https://www.openstreetmap.org/note/3377922#c8180318</guid>
-        <pubDate>Mon, 24 Jul 2023 10:56:52 +0000</pubDate>
       </item>
   </channel>
 </rss>
