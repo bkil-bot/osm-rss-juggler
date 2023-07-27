@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Szia! Határköveknél a helyszínen ellenőrizted, hogy tényleg ez a feliratuk, látszik? Mert nem írtad be forrásnak a felmérést. Ha már lekopott, és csak történetileg tudjuk, hogy az volt a száma, akkor teljesen jogos a név vagy talán a ref mező használata erre a célra. Ennél az elemnél miért törölted ki a fél referencia számot? https://www.openstreetmap.org/node/7070265878 Az onkológiai intézet épületeinek a neveinek ref-be való áthelyezéséről kérdést vetettem fel a matrix csoportban. Az összes többi hasonló, több épületből álló budapesti kórház/egyetem/stb intézménynél ezek az adatok a name címkében szerepelnek, így ez most különbözik az összes többitől, és nem egyértelmű, hogy melyik a jobb ilyen esetben. Ráadásul nem is mindet írtad át, szóval ezzel csak kaotikusabb lett a térkép szerintem. https://www.osm.org/way/249321353 -infeeeee</title>
+        <title>@infeeeee: Próbáljunk kicsit konstruktívabbak lenni! -kogutowicz-mano</title>
         <link>https://www.openstreetmap.org/changeset/139053933</link>
-        <guid>https://www.openstreetmap.org/changeset/139053933#comment_1</guid>
-        <pubDate>2023-07-27T11:41:39+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/139053933#comment_6</guid>
+        <pubDate>2023-07-27T13:08:29+02:00</pubDate>
       </item><item>
         <title>You added some duplicates, there were already a crossing here: https://www.openstreetmap.org/node/2273807942 Please be more careful when editing the map. -infeeeee</title>
         <link>https://www.openstreetmap.org/changeset/138956188</link>
