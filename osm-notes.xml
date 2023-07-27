@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3236410 (near Southern Transdanubia, 8600, Hungary) / * 2022 June 22 17:02 vasony Created: Új Piac tér vagy Új-piac tér szerepel az utcatáblán? / * 2022 August 17 04:41 kogutowicz-mano Updated: Újpiac tér. (A Széchenyi sarkán.) / * 2022 August 24 22:03 urbalazs Updated: A másik végén pedig ÚJ PIAC TÉR, csupa nagybetűvel, kötőjel nélkül. Így nem lehet tudni, hogy a piac szóban a P az kis- vagy nagybetűvel lenne. Nyitva hagyom, mert ez további utánajárást igényel. Rákérdezek az önkormányzatnál, hogy szerintük mi az utca neve. / * 2023 July 27 12:09 vasony Resolved: Az egyetlen táblán Újpiac tér, a házakon Új piac tér. Ez utóbbit official_name-be raktam.</title>
+        <link>https://www.openstreetmap.org/note/3236410#c8192319</link>
+        <guid>https://www.openstreetmap.org/note/3236410#c8192319</guid>
+        <pubDate>Thu, 27 Jul 2023 12:09:06 +0000</pubDate>
+      </item><item>
         <title>new note 3801643 (near Central Transdanubia, 2028, Hungary) / * 2023 July 27 08:56 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: There&amp;#39;s a guest house Kék Lámpás Vendégház.</title>
         <link>https://www.openstreetmap.org/note/3801643#c8191710</link>
         <guid>https://www.openstreetmap.org/note/3801643#c8191710</guid>
@@ -227,11 +232,6 @@
         <link>https://www.openstreetmap.org/note/3558657#c8181910</link>
         <guid>https://www.openstreetmap.org/note/3558657#c8181910</guid>
         <pubDate>Mon, 24 Jul 2023 16:48:29 +0000</pubDate>
-      </item><item>
-        <title>closed note 2725773 (near Central Hungary, 1155, Hungary) / * 2023 July 24 16:21 Gyuri Nyitrai Resolved: ivókút van, kresz-park nincs / átvezettem a térképen</title>
-        <link>https://www.openstreetmap.org/note/2725773#c8181817</link>
-        <guid>https://www.openstreetmap.org/note/2725773#c8181817</guid>
-        <pubDate>Mon, 24 Jul 2023 16:21:37 +0000</pubDate>
       </item>
   </channel>
 </rss>
