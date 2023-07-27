@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3439844 (near Western Transdanubia, 8784, Hungary) / * 2022 November 13 07:38 Created: De lánc se vödör nincsen rajta már csak a kerek meg a dob. / * 2023 July 27 14:15 sfphoton Resolved: Megjelöltem, mint disused. Köszi!</title>
+        <link>https://www.openstreetmap.org/note/3439844#c8192993</link>
+        <guid>https://www.openstreetmap.org/note/3439844#c8192993</guid>
+        <pubDate>Thu, 27 Jul 2023 14:15:03 +0000</pubDate>
+      </item><item>
+        <title>new comment 3773205 (near Transdanubia, 8315, Hungary) / * 2023 July 10 06:24 vasony Created: MIntha Dornyai Béla út lenne kiírva / * 2023 July 27 14:11 sfphoton Updated: Mit jelent, hogy mintha? A közelben egyébként van egy Darnay-Dornyai Béla kilátótúra, aminek az elejéhez a kerszteződésben elmenő K+ jelzésen lehet feljutni. Nem lehet, hogy a kiírás erre vonatkozik?</title>
+        <link>https://www.openstreetmap.org/note/3773205#c8192982</link>
+        <guid>https://www.openstreetmap.org/note/3773205#c8192982</guid>
+        <pubDate>Thu, 27 Jul 2023 14:11:58 +0000</pubDate>
+      </item><item>
+        <title>closed note 3774563 (near Transdanubia, 8314, Hungary) / * 2023 July 11 05:46 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: ATM no longer exists. / https://www.openstreetmap.org/node/10839933676 / * 2023 July 27 13:21 sfphoton Resolved: I have seen it a few days ago. Might had been missing temporarily.</title>
+        <link>https://www.openstreetmap.org/note/3774563#c8192662</link>
+        <guid>https://www.openstreetmap.org/note/3774563#c8192662</guid>
+        <pubDate>Thu, 27 Jul 2023 13:21:11 +0000</pubDate>
+      </item><item>
         <title>closed note 3236410 (near Southern Transdanubia, 8600, Hungary) / * 2022 June 22 17:02 vasony Created: Új Piac tér vagy Új-piac tér szerepel az utcatáblán? / * 2022 August 17 04:41 kogutowicz-mano Updated: Újpiac tér. (A Széchenyi sarkán.) / * 2022 August 24 22:03 urbalazs Updated: A másik végén pedig ÚJ PIAC TÉR, csupa nagybetűvel, kötőjel nélkül. Így nem lehet tudni, hogy a piac szóban a P az kis- vagy nagybetűvel lenne. Nyitva hagyom, mert ez további utánajárást igényel. Rákérdezek az önkormányzatnál, hogy szerintük mi az utca neve. / * 2023 July 27 12:09 vasony Resolved: Az egyetlen táblán Újpiac tér, a házakon Új piac tér. Ez utóbbit official_name-be raktam.</title>
         <link>https://www.openstreetmap.org/note/3236410#c8192319</link>
         <guid>https://www.openstreetmap.org/note/3236410#c8192319</guid>
@@ -227,11 +242,6 @@
         <link>https://www.openstreetmap.org/note/3558657#c8183719</link>
         <guid>https://www.openstreetmap.org/note/3558657#c8183719</guid>
         <pubDate>Tue, 25 Jul 2023 06:02:18 +0000</pubDate>
-      </item><item>
-        <title>new comment 3558657 (near Central Hungary, 1158, Hungary) / * 2023 February 14 12:01 Created: 20. / * 2023 July 7 06:44 vasony Updated: mi 20? / * 2023 July 24 16:48 Gyuri Nyitrai Updated: talán 20 éve áll itt romokban? :)</title>
-        <link>https://www.openstreetmap.org/note/3558657#c8181910</link>
-        <guid>https://www.openstreetmap.org/note/3558657#c8181910</guid>
-        <pubDate>Mon, 24 Jul 2023 16:48:29 +0000</pubDate>
       </item>
   </channel>
 </rss>
