@@ -2,16 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      <item>
-        <title>Hungary/20230811: schedule, mailing list -Bkil</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20230811&amp;diff=2577077&amp;oldid=2576786</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20230811&amp;diff=2577077</guid>
-        <pubDate>Wed, 26 Jul 2023 21:55:44 GMT</pubDate>
-      </item><item>
-        <title>Hungary/20230809: mailing list -Bkil</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20230809&amp;diff=2577076&amp;oldid=2576788</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20230809&amp;diff=2577076</guid>
-        <pubDate>Wed, 26 Jul 2023 21:55:41 GMT</pubDate>
-      </item>
+      
   </channel>
 </rss>
