@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment 3701452 (near Elviramajor, Érd) / * 2023 May 22 18:53 vasony Created: Elviramajor vagy Elvira-puszta? / * 2023 July 28 09:54 urbalazs Updated: A 7-es főúton ÉRD ELVIRA MAJOR van kitáblázva mindkét irányból. Nem mentem be megnézni, hogy van-e egyéb tábla.</title>
+        <link>https://www.openstreetmap.org/note/3701452#c8196079</link>
+        <guid>https://www.openstreetmap.org/note/3701452#c8196079</guid>
+        <pubDate>Fri, 28 Jul 2023 09:54:30 +0000</pubDate>
+      </item><item>
+        <title>closed note 3049548 (near Central Hungary, 2049, Hungary) / * 2022 February 13 10:12 ITineris Created: Tényleg mindkét utca &amp;quot;Kavicsos köz&amp;quot;, vagy az egyiknek más a neve? / És tényleg mindkettő a lakó-pihenő övezeten kívül esik, vagy csak rosszul vannak címkézve? / * 2022 April 10 21:28 Laci Updated: Minden utca benne van a lakó-pihenő övezetben / * 2022 April 11 04:47 ITineris Updated: És mindkettő Kavicsos köz? / * 2023 May 20 23:26 urbalazs Updated: A délebbi utca nem a Kárókatona utca? / * 2023 May 21 06:47 ITineris Updated: Azt nem tudom, de pl. a Sólyom és Vércse utcák közöttinél is gyanús, hogy vajon tényleg Kavicsos utca-e. / * 2023 July 28 09:52 vasony Resolved: Közben felmértem és át lett vezetve</title>
+        <link>https://www.openstreetmap.org/note/3049548#c8196066</link>
+        <guid>https://www.openstreetmap.org/note/3049548#c8196066</guid>
+        <pubDate>Fri, 28 Jul 2023 09:52:13 +0000</pubDate>
+      </item><item>
+        <title>closed note 3765938 (near Central Hungary, 2016, Hungary) / * 2023 July 5 08:08 hilfs08 Created: Missing walking path connecting &amp;quot;Szilosi utca&amp;quot; to the wood path in the west. / * 2023 July 28 09:42 urbalazs Resolved: Fixed by the reporter.</title>
+        <link>https://www.openstreetmap.org/note/3765938#c8196022</link>
+        <guid>https://www.openstreetmap.org/note/3765938#c8196022</guid>
+        <pubDate>Fri, 28 Jul 2023 09:42:52 +0000</pubDate>
+      </item><item>
         <title>closed note 3803370 (near Central Hungary, 1165, Hungary) / * 2023 July 28 09:17 urbalazs Resolved: A térképen is ez az információ van. A földút minősége az időjárástól függ. Nyáron akár aszfalt simaságú is lehet, ősszel a közelébe sem mennék autóval. Ezt a felhasználónak tudnia kell, nem a térképre tartozó információ.</title>
         <link>https://www.openstreetmap.org/note/3803370#c8195933</link>
         <guid>https://www.openstreetmap.org/note/3803370#c8195933</guid>
@@ -217,41 +232,6 @@
         <link>https://www.openstreetmap.org/note/3798821#c8185883</link>
         <guid>https://www.openstreetmap.org/note/3798821#c8185883</guid>
         <pubDate>Tue, 25 Jul 2023 15:57:10 +0000</pubDate>
-      </item><item>
-        <title>new note 3798820 (near Central Transdanubia, 2840, Hungary) / * 2023 July 25 15:57 GBAB Created: Verify cutlines on recent aerial imagery</title>
-        <link>https://www.openstreetmap.org/note/3798820#c8185882</link>
-        <guid>https://www.openstreetmap.org/note/3798820#c8185882</guid>
-        <pubDate>Tue, 25 Jul 2023 15:57:10 +0000</pubDate>
-      </item><item>
-        <title>new note 3798819 (near Central Transdanubia, 2840, Hungary) / * 2023 July 25 15:57 GBAB Created: Tarvágás</title>
-        <link>https://www.openstreetmap.org/note/3798819#c8185881</link>
-        <guid>https://www.openstreetmap.org/note/3798819#c8185881</guid>
-        <pubDate>Tue, 25 Jul 2023 15:57:09 +0000</pubDate>
-      </item><item>
-        <title>new note 3798818 (near Central Transdanubia, 2840, Hungary) / * 2023 July 25 15:57 GBAB Created: Tarvágás (bozót)</title>
-        <link>https://www.openstreetmap.org/note/3798818#c8185880</link>
-        <guid>https://www.openstreetmap.org/note/3798818#c8185880</guid>
-        <pubDate>Tue, 25 Jul 2023 15:57:08 +0000</pubDate>
-      </item><item>
-        <title>new note 3798817 (near Central Transdanubia, 2840, Hungary) / * 2023 July 25 15:57 GBAB Created: ford</title>
-        <link>https://www.openstreetmap.org/note/3798817#c8185879</link>
-        <guid>https://www.openstreetmap.org/note/3798817#c8185879</guid>
-        <pubDate>Tue, 25 Jul 2023 15:57:07 +0000</pubDate>
-      </item><item>
-        <title>new note 3798816 (near Central Transdanubia, 2840, Hungary) / * 2023 July 25 15:57 GBAB Created: End of embenkment?</title>
-        <link>https://www.openstreetmap.org/note/3798816#c8185878</link>
-        <guid>https://www.openstreetmap.org/note/3798816#c8185878</guid>
-        <pubDate>Tue, 25 Jul 2023 15:57:07 +0000</pubDate>
-      </item><item>
-        <title>new note 3798815 (near Central Transdanubia, 2840, Hungary) / * 2023 July 25 15:57 GBAB Created: track</title>
-        <link>https://www.openstreetmap.org/note/3798815#c8185877</link>
-        <guid>https://www.openstreetmap.org/note/3798815#c8185877</guid>
-        <pubDate>Tue, 25 Jul 2023 15:57:06 +0000</pubDate>
-      </item><item>
-        <title>new note 3798814 (near Central Transdanubia, 2840, Hungary) / * 2023 July 25 15:57 GBAB Created: track</title>
-        <link>https://www.openstreetmap.org/note/3798814#c8185876</link>
-        <guid>https://www.openstreetmap.org/note/3798814#c8185876</guid>
-        <pubDate>Tue, 25 Jul 2023 15:57:05 +0000</pubDate>
       </item>
   </channel>
 </rss>
