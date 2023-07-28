@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3708296 (near Central Transdanubia, 8175, Hungary) / * 2023 May 27 15:10 vasony Created: autóval átjárható? az utca másik végén zsákutcára van jelölve / * 2023 July 28 11:01 vasony Resolved: csak kerékpárral járható, karó van a végén</title>
+        <link>https://www.openstreetmap.org/note/3708296#c8196269</link>
+        <guid>https://www.openstreetmap.org/note/3708296#c8196269</guid>
+        <pubDate>Fri, 28 Jul 2023 11:01:08 +0000</pubDate>
+      </item><item>
+        <title>new comment 3701551 (near Central Hungary, 2030, Hungary) / * 2023 May 22 20:01 vasony Created: Sárgarigó, Seregély, Sirály, Stiglice utcák hivatalosan nem közterületek, itt utcaként vannak, Érd körzetlistáiban meg közként. Van bármi tábla? / * 2023 July 28 10:53 vasony Updated: nincsenek táblák, viszont meg kell nézni, hogy zsákutcák-e</title>
+        <link>https://www.openstreetmap.org/note/3701551#c8196238</link>
+        <guid>https://www.openstreetmap.org/note/3701551#c8196238</guid>
+        <pubDate>Fri, 28 Jul 2023 10:53:31 +0000</pubDate>
+      </item><item>
+        <title>closed note 3701558 (near Central Hungary, 2030, Hungary) / * 2023 May 22 20:05 vasony Created: A madár neve stiglic, nem stiglice. / Ld még a másik jegyezetet a Seregély utcánál. / https://www.openstreetmap.org/note/3701551 / * 2023 July 28 10:51 vasony Resolved: Nincs tábla</title>
+        <link>https://www.openstreetmap.org/note/3701558#c8196228</link>
+        <guid>https://www.openstreetmap.org/note/3701558#c8196228</guid>
+        <pubDate>Fri, 28 Jul 2023 10:51:12 +0000</pubDate>
+      </item><item>
         <title>new comment 3701452 (near Elviramajor, Érd) / * 2023 May 22 18:53 vasony Created: Elviramajor vagy Elvira-puszta? / * 2023 July 28 09:54 urbalazs Updated: A 7-es főúton ÉRD ELVIRA MAJOR van kitáblázva mindkét irányból. Nem mentem be megnézni, hogy van-e egyéb tábla.</title>
         <link>https://www.openstreetmap.org/note/3701452#c8196079</link>
         <guid>https://www.openstreetmap.org/note/3701452#c8196079</guid>
@@ -217,21 +232,6 @@
         <link>https://www.openstreetmap.org/note/3798824#c8185886</link>
         <guid>https://www.openstreetmap.org/note/3798824#c8185886</guid>
         <pubDate>Tue, 25 Jul 2023 15:57:12 +0000</pubDate>
-      </item><item>
-        <title>new note 3798823 (near Central Transdanubia, 2840, Hungary) / * 2023 July 25 15:57 GBAB Created: cutline</title>
-        <link>https://www.openstreetmap.org/note/3798823#c8185885</link>
-        <guid>https://www.openstreetmap.org/note/3798823#c8185885</guid>
-        <pubDate>Tue, 25 Jul 2023 15:57:12 +0000</pubDate>
-      </item><item>
-        <title>new note 3798822 (near Central Transdanubia, 2840, Hungary) / * 2023 July 25 15:57 GBAB Created: cutline</title>
-        <link>https://www.openstreetmap.org/note/3798822#c8185884</link>
-        <guid>https://www.openstreetmap.org/note/3798822#c8185884</guid>
-        <pubDate>Tue, 25 Jul 2023 15:57:11 +0000</pubDate>
-      </item><item>
-        <title>new note 3798821 (near Central Transdanubia, 2840, Hungary) / * 2023 July 25 15:57 GBAB Created: meadow</title>
-        <link>https://www.openstreetmap.org/note/3798821#c8185883</link>
-        <guid>https://www.openstreetmap.org/note/3798821#c8185883</guid>
-        <pubDate>Tue, 25 Jul 2023 15:57:10 +0000</pubDate>
       </item>
   </channel>
 </rss>
