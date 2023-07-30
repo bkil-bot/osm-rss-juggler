@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Kedves maron0101! Ugyan az 5-ös vonal felépítményét sok hazai vasútvonal megirigyelné és fontos kerülő útvonal, a forgalom jellegében nem következett be jelentős változás az elmúlt években, tekintettel arra, hogy nem villamosított, egyvágányú vasútvonalról beszélünk mellékvonali vonatszámokkal, fővonalnak (sajnos) semmiképp se mondanám. Ezért visszaállítottam mellékvonalnak (usage=branch). Még egy adalék, hogy a vasútvonal leíró nevét (Székesfehérvár – Komárom vasútvonal) nem tüntetjük fel a vonali vágányok &quot;name&quot; kulcsánál, azt már tartalmazzák a kapcsolatok melyek összefogják a vonali ,,vágánydarabokat&quot;. Kérlek a jövőben ezeket vedd figyelembe szerkesztéseid során! Ugyanakkor észrevételeidet, javaslataid szívesen olvassuk valamelyik közösségi felületünkön. További jó szerkesztést! -leveskockaa</title>
+        <link>https://www.openstreetmap.org/changeset/138738816</link>
+        <guid>https://www.openstreetmap.org/changeset/138738816#comment_1</guid>
+        <pubDate>2023-07-29T23:56:12+02:00</pubDate>
+      </item><item>
         <title>Már megint kútfőből találsz ki szabályokat. Sehol sem látom leírva, hogy ez így van, csak te állítod te most itt. Ha elfogadjuk a magyarázatodat, akkor sem a híd közepén random pozícióban van a helye. De nem fogadjuk el a magyarázatodat, mert az OSM wiki egyértelműen fogalmaz: https://wiki.openstreetmap.org/wiki/Tag:barrier%3Dborder_control &quot;Tag the place where border control actually takes place, not the border itself.&quot; Attól még hogy más helyeken helytelenül van használva, nem jelenti azt, hogy az ilyen használat helyes. Érdemes lenne olvasgatni az OSM wikit, mert korábban is volt, hogy saját szájízed szerint kezdtél el címkézni (és akkor még a Hungária EC teljes vonalát is törölted). -balint36</title>
         <link>https://www.openstreetmap.org/changeset/133081905</link>
         <guid>https://www.openstreetmap.org/changeset/133081905#comment_3</guid>
