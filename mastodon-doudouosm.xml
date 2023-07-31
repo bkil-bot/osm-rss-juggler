@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>Interesting paper from #MDPI about “Mapping with #ChatGPT” concludes it delivers unique advantages, such as: - lowering the barrier to producing maps - boosting the efficiency of massive map production - and understanding geographical space with its spatial thinking capability. Limitations cited are: - its unequal benefits for different users (need to have some expertise already) - and necessary user intervention for quality control. https://www.mdpi.com/2220-9964/12/7/284 cc: @openstreetmap</title>
+        <link>https://en.osm.town/@Doudouosm/110810744544217000</link>
+        <guid>https://en.osm.town/@Doudouosm/110810744544217000</guid>
+        <pubDate>Mon, 31 Jul 2023 21:09:36 +0000</pubDate>
+      </item><item>
         <title>A nice comprehensive post explaining why State of the Map Conferences #SotM are so important to #OpenStreetMap: https://blog.openstreetmap.org/2023/07/07/why-state-of-the-map-conferences-are-so-important-to-osm/ Already attended one? Cc: @openstreetmap</title>
         <link>https://en.osm.town/@Doudouosm/110673980434315205</link>
         <guid>https://en.osm.town/@Doudouosm/110673980434315205</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/109304582253528731</link>
         <guid>https://en.osm.town/@Doudouosm/109304582253528731</guid>
         <pubDate>Mon, 07 Nov 2022 21:12:44 +0000</pubDate>
-      </item><item>
-        <title>The #OpenStreetMap Belgium Mapper of the Month #MotM series flies to USA to let us meet Patricia Solis known for her involvement in #YouthMappers: https://openstreetmap.be/en/motm/2022/11/01/patricia-solis.html</title>
-        <link>https://en.osm.town/@Doudouosm/109270217877862110</link>
-        <guid>https://en.osm.town/@Doudouosm/109270217877862110</guid>
-        <pubDate>Tue, 01 Nov 2022 19:33:25 +0000</pubDate>
       </item>
   </channel>
 </rss>
