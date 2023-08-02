@@ -3,6 +3,21 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Increasing accuracy after scan: in the centralized database, we apply the trilateration techniques described elsewhere in this forum to the network record you see in the search interface/maps/APIs. We don't modify the individual observations. -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11811#p11811</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11811#p11811</guid>
+        <pubDate>2023-08-02T16:08:07</pubDate>
+      </item><item>
+        <title>Re: Huawei P20 Android 10: The throttling option may still be available via ADB command too - but considering the divergence of Hauwei/Redmi from core Android, that may not remain true. -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11810#p11810</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11810#p11810</guid>
+        <pubDate>2023-08-02T16:06:57</pubDate>
+      </item><item>
+        <title>Re: GPS accuracy: Thank you - worth noting that no &quot;legacy ties&quot; now survive cluster trilateration - we redid everything. Anything weird you see was either reported there or perfectly-balanced. -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11809#p11809</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11809#p11809</guid>
+        <pubDate>2023-08-02T16:05:27</pubDate>
+      </item><item>
         <title>Re: GPS accuracy: mostly - we also do cluster detection - points should &quot;snap&quot; not drift in a perfect world. When you se things in weird places, it generally means: 1. they were reported there, improbable though it may be 2. they're PRECISELY POISED between two clusters, or have a very small number of observations. 3. they haven't been seen in a while and were last trilaterated before cluster detection was implemented.Perfect explanation -computerb0y</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11806#p11806</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11806#p11806</guid>
@@ -27,11 +42,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11799#p11799</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11799#p11799</guid>
         <pubDate>2023-08-02T04:56:01</pubDate>
-      </item><item>
-        <title>Re: Increasing accuracy after scan: WiGLE may use some post-processing techniques to filter and clean the data, but it does not typically perform triangulation or signal strength-based location improvement on the data submitted by users. The primary goal of WiGLE is to create a large-scale crowd-sourced database of Wi-Fi networks' locations rather than improving the accuracy of individual data points. If you are interested in improving the accuracy of your own scanned data, you can certainly develop a program to apply triangulation or signal strength-based techniques to refine the location of APs. Keep in mind that improving the accuracy of individual data points would require more intensive data processing and may not be part of the standard WiGLE database's approach. Dave The Diver -victorpatrick</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11798#p11798</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11798#p11798</guid>
-        <pubDate>2023-08-02T04:54:36</pubDate>
       </item><item>
         <title>Re: Custom ROMs for wardriving?: You shouldn't need to re-run every time, but installing updates MAY require it. Keep us posted about your results? -arkasha</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11765#p11765</link>
@@ -67,16 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11750#p11750</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11750#p11750</guid>
         <pubDate>2023-06-29T11:32:29</pubDate>
-      </item><item>
-        <title>Custom ROMs for wardriving?: Hi all, I picked up a Samsung Galaxy S8 from eBay for 50 bucks. I picked it up solely for wardriving with the official Wigle app. Unfortunately, after ordering it I've realised that the highest Android version the S8 can support is Pie (9), which I recall has such strict and undisableable throttles on Wi-Fi scans, it's basically impossible to wardrive with. Are there any custom ROMs I could flash which would get along well with Wigle? I've never rooted/jailbroken a phone before, but I'm sure with a few guides from XDA I'll be able to figure it out. Thanks -Wigler-0283819</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11749#p11749</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11749#p11749</guid>
-        <pubDate>2023-06-29T11:24:48</pubDate>
-      </item><item>
-        <title>ESP32 or ESP8266 Wigle and Lora - Tracker: Hi, and apols - i usually search for previous answers more but... Wigle seems perfect for geolocating, and im after a bike theft tracker - are there any projects around that use 1. low cost low power ESP8266 or ESP32 ($3 and $9) 2. Lora or similar free longish range comms (works well in nz and free for low volume anywhere) 3. Send packet of Wifi strengths to server - which allows stolen tracker locater like functionality ?? If not - can i submit a packet from a scan and get back a geoolocation say anywhere in my country (nz) ?? Thanks and keep up the great work -kiwifirsty</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11748#p11748</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11748#p11748</guid>
-        <pubDate>2023-06-29T01:30:47</pubDate>
       </item>
   </channel>
 </rss>
