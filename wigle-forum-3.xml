@@ -3,6 +3,26 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: GPS accuracy: mostly - we also do cluster detection - points should &quot;snap&quot; not drift in a perfect world. When you se things in weird places, it generally means: 1. they were reported there, improbable though it may be 2. they're PRECISELY POISED between two clusters, or have a very small number of observations. 3. they haven't been seen in a while and were last trilaterated before cluster detection was implemented.Perfect explanation -computerb0y</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11806#p11806</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11806#p11806</guid>
+        <pubDate>2023-08-02T10:17:29</pubDate>
+      </item><item>
+        <title>Re: Increasing accuracy after scan: Does accuracy get improved by other users observations? -computerb0y</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11805#p11805</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11805#p11805</guid>
+        <pubDate>2023-08-02T10:13:38</pubDate>
+      </item><item>
+        <title>Re: Hak5 WiFi Coconut: The coconut appears to have an IPEX (IPX) connector where all the radios come together into a top patch antenna near the fan, so in theory, one could remove that and add an IPX to female SMA bulkhead with an external antenna and be off to the races. It's unknown if there are additional amplifiers in-line with each radio, as a 1:14 splitter will reduce the signal strength by around 12dB in losses with one input antenna. There are also 14 smaller Rf test ports/switches for each radio, however these RF connectors do not appear to be IPX and maybe Murata. Be carefully pulling up the one main antenna off the board, as I accidentally ripped the IPX female connector off the board while attempting to gently pull up the IPX male connector out of the female soldered socket with equal pressure from both sides. An old salty dog friend said it might have been a cold solder joint, as the connector should have popped off the connector before ripping the solder joint, so be careful if you go this method. Some flux and hot air might be able to re-attach it. Now if only dragorn or mkershaw come out with a Win x64 Coconut binary that support a generic GPS/NMEA GPS input, then anyone could Wardrive in style with Windows and 14 radios. I bet it would be the fastest setup for a multi-radio war-driving rig ever.... Hopefully by now we should have some performance reports... anyone? -computerb0y</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11804#p11804</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11804#p11804</guid>
+        <pubDate>2023-08-02T10:06:58</pubDate>
+      </item><item>
+        <title>Re: ESP32 or ESP8266 Wigle and Lora - Tracker: OP I've had some ideas for building a bike tracker using GPS and LTE. Let us know what you find please, very keen on this topic -computerb0y</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11803#p11803</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11803#p11803</guid>
+        <pubDate>2023-08-02T10:00:51</pubDate>
+      </item><item>
         <title>Re: Huawei P20 Android 10: If you still can't find the Developer Options or the specific Wi-Fi scan throttling setting, it's possible that your device's manufacturer or ROM might not have included this option in their customized software. In such cases, you might need to check for custom ROMs or firmware that support this feature, but keep in mind that modifying system settings can have risks, and it might void your warranty. Bitlife -victorpatrick</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11799#p11799</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11799#p11799</guid>
@@ -57,26 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11748#p11748</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11748#p11748</guid>
         <pubDate>2023-06-29T01:30:47</pubDate>
-      </item><item>
-        <title>Re: Best Android for WigleWifi: It's a pile of things: Old radios/drivers/OSes might just not tune as fast (and so don't scan as quickly) Driver versions can have a huge impact, making previously slow phones fast and vice versa on upgrade Android 9 throttles WiFi scan speed (and is hard to de-throttle) Android 10 and up also throttle scanning, but if you activate developer mode, you can turn that off. Cheers, -a -arkasha</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11742#p11742</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11742#p11742</guid>
-        <pubDate>2023-06-25T17:42:02</pubDate>
-      </item><item>
-        <title>Re: Best Android for WigleWifi: Apologies for necro'ing this post, but if I may ask a perhaps silly question, is it the Android version or hardware limitations that generally cause slow scan times for Wi-Fi/BT? -Wigler-0283819</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11741#p11741</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11741#p11741</guid>
-        <pubDate>2023-06-23T12:47:06</pubDate>
-      </item><item>
-        <title>Re: It is still possible to use Samsung Galaxy S4 for wifi scanning?: If you upgrade to Android 5 (and you really should), you'll be able to side-load older (2.67 will be the last) versions of the app. The Google Play Store won't allow us to keep our listing and support devices that old, sadly. We'll be signing and releasing an &quot;Oldroid&quot; branch as well, but I don't know if the community has an appetite for backporting features and updates - we'll see! -arkasha</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11739#p11739</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11739#p11739</guid>
-        <pubDate>2023-06-16T15:33:12</pubDate>
-      </item><item>
-        <title>It is still possible to use Samsung Galaxy S4 for wifi scanning?: Hi, I bought two Samsung Galaxy S4 phones at a good price. Are they still usable for Wigle scanning? are they still supported by the app? I think yes, but I'd rather ask here, thanks. -lukaskicz</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11738#p11738</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11738#p11738</guid>
-        <pubDate>2023-06-16T05:29:39</pubDate>
       </item>
   </channel>
 </rss>
