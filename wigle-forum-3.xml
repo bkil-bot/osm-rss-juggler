@@ -3,6 +3,16 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Huawei P20 Android 10: If you still can't find the Developer Options or the specific Wi-Fi scan throttling setting, it's possible that your device's manufacturer or ROM might not have included this option in their customized software. In such cases, you might need to check for custom ROMs or firmware that support this feature, but keep in mind that modifying system settings can have risks, and it might void your warranty. Bitlife -victorpatrick</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11799#p11799</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11799#p11799</guid>
+        <pubDate>2023-08-02T04:56:01</pubDate>
+      </item><item>
+        <title>Re: Increasing accuracy after scan: WiGLE may use some post-processing techniques to filter and clean the data, but it does not typically perform triangulation or signal strength-based location improvement on the data submitted by users. The primary goal of WiGLE is to create a large-scale crowd-sourced database of Wi-Fi networks' locations rather than improving the accuracy of individual data points. If you are interested in improving the accuracy of your own scanned data, you can certainly develop a program to apply triangulation or signal strength-based techniques to refine the location of APs. Keep in mind that improving the accuracy of individual data points would require more intensive data processing and may not be part of the standard WiGLE database's approach. Dave The Diver -victorpatrick</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11798#p11798</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11798#p11798</guid>
+        <pubDate>2023-08-02T04:54:36</pubDate>
+      </item><item>
         <title>Re: Custom ROMs for wardriving?: You shouldn't need to re-run every time, but installing updates MAY require it. Keep us posted about your results? -arkasha</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11765#p11765</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11765#p11765</guid>
@@ -67,16 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11738#p11738</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11738#p11738</guid>
         <pubDate>2023-06-16T05:29:39</pubDate>
-      </item><item>
-        <title>Re: iOS App for Wardriving: we continue to push, but the API isn't supported and we can't list on the app store. If anyone manages to get anything through apple. don't hesitate to let us know! -arkasha</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11721#p11721</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11721#p11721</guid>
-        <pubDate>2023-06-04T23:41:59</pubDate>
-      </item><item>
-        <title>Re: iOS App for Wardriving: Apple never opened up the APIs necessary to build a war driving app for iOS after squashing attempts to keep WiFiFoFum alive via fun hacks. Kismet worked/works on MacBooks with the right USB adapter, I haven't messed around with that for a long time... -pejacoby</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11720#p11720</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11720#p11720</guid>
-        <pubDate>2023-06-04T22:28:55</pubDate>
       </item>
   </channel>
 </rss>
