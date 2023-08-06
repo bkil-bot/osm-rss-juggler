@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>De tekintettel, hogy a huwiki jelenleg menetrendi mező alapú megközelítést használ (ami miatt valóban lesz még reklamáció), az OSM pedig infra alapút (legalábbis a magyar leírás nem a menetrendi mezőt kéri, ezért nincs is mondjuk 80a külön), így konfliktus sincs a kettő között -balint36</title>
+        <link>https://www.openstreetmap.org/changeset/139484775</link>
+        <guid>https://www.openstreetmap.org/changeset/139484775#comment_4</guid>
+        <pubDate>2023-08-06T09:43:28+02:00</pubDate>
+      </item><item>
         <title>légy szíves pótold az utcaneveket. josm nem szól hogy hiányos? -vasony</title>
         <link>https://www.openstreetmap.org/changeset/139471628</link>
         <guid>https://www.openstreetmap.org/changeset/139471628#comment_1</guid>
         <pubDate>2023-08-06T07:42:51+02:00</pubDate>
-      </item><item>
-        <title>Szia! akkor lehet itt is reklamálni, javítani: https://hu.wikipedia.org/wiki/Hegyeshalom%E2%80%93Szombathely-vas%C3%BAtvonal -vasony</title>
-        <link>https://www.openstreetmap.org/changeset/139484775</link>
-        <guid>https://www.openstreetmap.org/changeset/139484775#comment_2</guid>
-        <pubDate>2023-08-06T06:16:06+02:00</pubDate>
       </item><item>
         <title>Szia! Honnan jött ez a név? És hol van itt stadion? Egy füves focipályát látok, mellette egy kis műfüvessel. Üdv: Ákos -ITineris</title>
         <link>https://www.openstreetmap.org/changeset/103529550</link>
@@ -52,11 +52,6 @@
         <link>https://www.openstreetmap.org/changeset/139207517</link>
         <guid>https://www.openstreetmap.org/changeset/139207517#comment_1</guid>
         <pubDate>2023-07-31T07:52:32+02:00</pubDate>
-      </item><item>
-        <title>A szépemlékű levelezőlistánkon már egyszer lefolytattuk ezt a vitát, de röviden összefoglalva, példával illusztrálva: ugyan igaz, hogy a 2011. évi CXCVI. törvény 1. sz. mellékletének B) pontjában tételesen felsorolja 1. A transz-európai vasúti áruszállítási hálózat részeként működő vasúti pályákat; 2. Nem a transz-európai vasúti árufuvarozási hálózat részét képező országos törzshálózati vasúti pályákat, de attól még az OSM-en fővonal nem lesz, mert itt szerepel. Nyilvánvalóan az 1. alpontban felsoroltak fontosabbak a hálózat szempontjából, melyeknek így nem maradna kategória. Másrészt a 2. pontban olyan vonalak is szerepelnek, melyeket neked, sem másnak nem kell magyarázni, hogy sosem voltak és nem is lesznek fővonalak, például: 4 Esztergom-Kertváros – Almásfüzitő; 11 Győr – Veszprém; 78 (2) Nógrádszakál – Ipolytarnóc – országhatár; 318 Nagyirtás – Nagybörzsöny. Továbbá az is látszik, hogy a törvényalkotás során látszólag önkényesen kiválasztott kezdő és végponti állomások se a menetrendi mezőkkel, se az infrastruktúra fenntartására használt adatbázissal nem egyeznek. Ezeket és a vonalak fizikai jellemzőit mind figyelembe vettük amikor a jelenlegi rendszer kialakult. Létezik egyébként megoldás (és szükséges is) arra, ha egy vasútvonal hálózatban betöltött szerepe nem egyezik a felépítmény jellegével, például a 146-os és az 5-ös közötti különbségek számos kulcs és érték kombinációjával megadhatóak, ilyen a tengelyterhelés (axle_load); ,,vonalosztály&quot; (railway:track_class), stb. A VPE adatbázisában például az ,,ötös&quot; a harmadik kategóriába tartozik, ami a mellékvonalaknak van fenntartva. Persze újra lehet nyitni a vitát a kategorizálásról, csak mielőtt mindent átállítunk, érdemes megvitatni az ilyesmit egy olyan fórumon ahol többen is jelen vagyunk. -leveskockaa</title>
-        <link>https://www.openstreetmap.org/changeset/138738816</link>
-        <guid>https://www.openstreetmap.org/changeset/138738816#comment_3</guid>
-        <pubDate>2023-07-30T11:43:17+02:00</pubDate>
       </item>
   </channel>
 </rss>
