@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Szia! A módosításcsomagban az highway=secondary-t átállítottad highway=trackre, azaz egy egy mezőszéli úttá lefokoztad a 2527-es számú utat. Biztos ez volt a célod? -nemethtamas</title>
+        <link>https://www.openstreetmap.org/changeset/139116697</link>
+        <guid>https://www.openstreetmap.org/changeset/139116697#comment_1</guid>
+        <pubDate>2023-08-07T08:08:58+02:00</pubDate>
+      </item><item>
         <title>Valóban, szerkesztés közben átmentem másik gépre, és csak az értéket hoztam magammal.. Ezeket jó tudni, köszi! -CopperOppositeKindred</title>
         <link>https://www.openstreetmap.org/changeset/139514821</link>
         <guid>https://www.openstreetmap.org/changeset/139514821#comment_2</guid>
@@ -57,16 +62,6 @@
         <link>https://www.openstreetmap.org/changeset/139273267</link>
         <guid>https://www.openstreetmap.org/changeset/139273267#comment_1</guid>
         <pubDate>2023-08-02T12:46:55+02:00</pubDate>
-      </item><item>
-        <title>Szia! Amiket felrajzoltál egyik műholdképen se látszik, mik a forrásaid ezekkel az új épületekkel kapcsolatban? -infeeeee</title>
-        <link>https://www.openstreetmap.org/changeset/139167656</link>
-        <guid>https://www.openstreetmap.org/changeset/139167656#comment_1</guid>
-        <pubDate>2023-07-31T07:58:29+02:00</pubDate>
-      </item><item>
-        <title>Szia! Bezárt éttermeknél, üzleteknél a disused: prefix használata ajánlott a pont törlése helyett. https://wiki.openstreetmap.org/wiki/Key:disused:* Tehát elég lett volna, ha csak az shop=bicycle címkét átjavítod disused:shop=bicycle-ra, így már nem jelenítik meg a megjelenítők. Ez azért is hasznos, mert ha később más üzlet vagy étterem nyílik ugyanott, akkor nem kell új pontot létrehozni, és visszakövethető lesz az üzlethelyiség története, mi nyílt minek a helyén. Legközelebb eszerint járj el kérlek. Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! -infeeeee</title>
-        <link>https://www.openstreetmap.org/changeset/139207517</link>
-        <guid>https://www.openstreetmap.org/changeset/139207517#comment_1</guid>
-        <pubDate>2023-07-31T07:52:32+02:00</pubDate>
       </item>
   </channel>
 </rss>
