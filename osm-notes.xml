@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3823609 (near South Great Plain, 6500, Hungary) / * 2023 August 8 19:20 Mateusz Konieczny Created: name=Csikós Szakkereskedés és Szerviz / https://www.openstreetmap.org/node/5572211114 / shop=Baja_térségének_hivatalos_STIHL_és_VIKING_szakkereskedése_és_szervize ? What is the meaning of that shop value? What kind of services or products are sold here? Is anything from https://wiki.openstreetmap.org/wiki/Key:shop fitting? Maybe new value needs to be invented? Maybe this data is wrong and there is no shop here? Maybe it is not a shop but something else?</title>
+        <link>https://www.openstreetmap.org/note/3823609#c8300318</link>
+        <guid>https://www.openstreetmap.org/note/3823609#c8300318</guid>
+        <pubDate>Tue, 08 Aug 2023 19:20:41 +0000</pubDate>
+      </item><item>
+        <title>new note 3823580 (near Western Transdanubia, 9700, Hungary) / * 2023 August 8 19:09 kogutowicz-mano Created: A körforgalom technikailag kész. A zebrák is felfestve. Már csak a járdákat farigcsálják mellette.</title>
+        <link>https://www.openstreetmap.org/note/3823580#c8300283</link>
+        <guid>https://www.openstreetmap.org/note/3823580#c8300283</guid>
+        <pubDate>Tue, 08 Aug 2023 19:09:25 +0000</pubDate>
+      </item><item>
         <title>new note 3823367 (near Western Transdanubia, 9400, Hungary) / * 2023 August 8 16:52 Created: closed? / hair dresser?</title>
         <link>https://www.openstreetmap.org/note/3823367#c8299788</link>
         <guid>https://www.openstreetmap.org/note/3823367#c8299788</guid>
@@ -112,26 +122,6 @@
         <link>https://www.openstreetmap.org/note/3819267#c8277596</link>
         <guid>https://www.openstreetmap.org/note/3819267#c8277596</guid>
         <pubDate>Sun, 06 Aug 2023 12:05:27 +0000</pubDate>
-      </item><item>
-        <title>closed note 3307806 (near Western Transdanubia, 9700, Hungary) / * 2022 August 10 08:00 CopperOppositeKindred Created: Unable to answer &amp;quot;What kind of memorial is this?&amp;quot; for https://osm.org/node/3471878031 via StreetComplete 45.2: / Üres zászlórúd. Megfelelő a megjelölés? / Attached photo(s): / https://westnordost.de/p/107204.jpg / * 2023 August 5 17:18 kogutowicz-mano Resolved: man_made=flagpole megoldotta</title>
-        <link>https://www.openstreetmap.org/note/3307806#c8269922</link>
-        <guid>https://www.openstreetmap.org/note/3307806#c8269922</guid>
-        <pubDate>Sat, 05 Aug 2023 17:18:36 +0000</pubDate>
-      </item><item>
-        <title>closed note 3223447 (near North Great Plain, 4493, Hungary) / * 2022 June 13 20:34 Created: Téves hely. / * 2023 August 5 15:14 Spush Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3223447#c8265560</link>
-        <guid>https://www.openstreetmap.org/note/3223447#c8265560</guid>
-        <pubDate>Sat, 05 Aug 2023 15:14:20 +0000</pubDate>
-      </item><item>
-        <title>closed note 3224007 (near North Great Plain, 4493, Hungary) / * 2022 June 14 09:44 Created: Buszmegálló / * 2023 August 5 15:14 Spush Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3224007#c8265558</link>
-        <guid>https://www.openstreetmap.org/note/3224007#c8265558</guid>
-        <pubDate>Sat, 05 Aug 2023 15:14:20 +0000</pubDate>
-      </item><item>
-        <title>closed note 3223449 (near North Great Plain, 4493, Hungary) / * 2022 June 13 20:35 Created: Buszmegálló / * 2023 August 5 15:14 Spush Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3223449#c8265557</link>
-        <guid>https://www.openstreetmap.org/note/3223449#c8265557</guid>
-        <pubDate>Sat, 05 Aug 2023 15:14:20 +0000</pubDate>
       </item>
   </channel>
 </rss>
