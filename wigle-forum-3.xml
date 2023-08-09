@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Best Android for WigleWifi: Just remember to disable throttling on 10 and up.This is how I found out my phones been throttling my scans. I knew it wasnt getting as many as I thought there were but at least I know now hundreds of miles down the roads rather than thousands. Thanks arkasha! -ziggyshenene</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11823#p11823</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11823#p11823</guid>
+        <pubDate>2023-08-09T17:53:06</pubDate>
+      </item><item>
         <title>Re: Increasing accuracy after scan: in the centralized database, we apply the trilateration techniques described elsewhere in this forum to the network record you see in the search interface/maps/APIs. We don't modify the individual observations. -arkasha</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11811#p11811</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11811#p11811</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11751#p11751</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11751#p11751</guid>
         <pubDate>2023-06-29T20:01:56</pubDate>
-      </item><item>
-        <title>Re: Best Android for WigleWifi: It's a pile of things: Old radios/drivers/OSes might just not tune as fast (and so don't scan as quickly) Driver versions can have a huge impact, making previously slow phones fast and vice versa on upgrade Android 9 throttles WiFi scan speed (and is hard to de-throttle) Android 10 and up also throttle scanning, but if you activate developer mode, you can turn that off. Cheers, -aThanks for that, Arkasha. Besides Android 9 and assuming that the throttle (if present) was disabled, is there any &quot;best&quot; Android version for wardriving? Or would the actual impact of the version itself be mostly minimal, and it is the internal drivers and age of the Wi-Fi module primarily affecting things? -Wigler-0283819</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11750#p11750</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11750#p11750</guid>
-        <pubDate>2023-06-29T11:32:29</pubDate>
       </item>
   </channel>
 </rss>
