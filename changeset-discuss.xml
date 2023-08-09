@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Semmi gond, kösz a gyors javítást. Kicsit megijedtem, hogy elmosta az eső, vagy valami ilyesmi baj történt, ezért újra építés alatt áll. -andrashann</title>
+        <link>https://www.openstreetmap.org/changeset/138702017</link>
+        <guid>https://www.openstreetmap.org/changeset/138702017#comment_3</guid>
+        <pubDate>2023-08-09T16:12:41+02:00</pubDate>
+      </item><item>
         <title>Szia balint36! Javítom, amit jeleztél. Haladok sorban a javításokkal, mert most nagy a káosz. Jelenleg azzal küzdök, hogy a meglévő relációk se a MÁV jelöléseit, se a VPE jelöléseit nem követik. Példa: a MÁV szerint van 30 és 30a vonal, a VPE szerint csak 30-as van. A Wikipédián is vannak problémák, az OSM wiki pedig teljesen elavult, halott linkekkel. A meglévő relációk mellé felveszem a VPE-s relációkat is, így a fenti példánál marad a MÁV szerinti 30 (Székesfehérvár–Gyékényes-vasútvonal) és 30a (Budapest–Székesfehérvár-vasútvonal) vonal, de mellé felvettem egy új 30-asként a VPE vonalát (Budapest-Déli–Murakeresztúr) is. A MÁV-osnál ref=30 + source:ref=MÁV, a VPE-snél pedig ref=30 + source:ref=VPE jelöléseket használom. Jó lesz így szerinted? -urbalazs</title>
         <link>https://www.openstreetmap.org/changeset/139484775</link>
         <guid>https://www.openstreetmap.org/changeset/139484775#comment_6</guid>
@@ -22,11 +27,6 @@
         <link>https://www.openstreetmap.org/changeset/139514821</link>
         <guid>https://www.openstreetmap.org/changeset/139514821#comment_2</guid>
         <pubDate>2023-08-06T19:59:31+02:00</pubDate>
-      </item><item>
-        <title>Szia! Bent maradt a construction cimke a railway mellett, eredetileg ezt javítottam, sajnos figyelmetlenül. Köszi az észrevételt, itt javítottam: https://www.openstreetmap.org/changeset/139527399 -NightH</title>
-        <link>https://www.openstreetmap.org/changeset/138702017</link>
-        <guid>https://www.openstreetmap.org/changeset/138702017#comment_2</guid>
-        <pubDate>2023-08-06T18:21:22+02:00</pubDate>
       </item><item>
         <title>Hi there! Thanks for noticing, I made a copy-paste error on the tag instead of the value. Fixed it: https://www.openstreetmap.org/changeset/139518703 Cheers! -NightH</title>
         <link>https://www.openstreetmap.org/changeset/139382532</link>
