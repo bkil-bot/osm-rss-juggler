@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3817960 (near Central Transdanubia, 8175, Hungary) / * 2023 August 5 15:03 vasony Created: itt kéne lenni a 18-as km kőnek de az útról nem lászik, ellenőrizendő hogy van-e a esetleg a növényzetben / * 2023 August 9 09:13 vasony Resolved: nincs</title>
+        <link>https://www.openstreetmap.org/note/3817960#c8301842</link>
+        <guid>https://www.openstreetmap.org/note/3817960#c8301842</guid>
+        <pubDate>Wed, 09 Aug 2023 09:13:20 +0000</pubDate>
+      </item><item>
+        <title>new note 3824304 (near Central Transdanubia, 8230, Hungary) / * 2023 August 9 08:57 Matyjace Created: Forwarding anonymous report from #Mapy.cz user, please verify: closed</title>
+        <link>https://www.openstreetmap.org/note/3824304#c8301767</link>
+        <guid>https://www.openstreetmap.org/note/3824304#c8301767</guid>
+        <pubDate>Wed, 09 Aug 2023 08:57:04 +0000</pubDate>
+      </item><item>
+        <title>new note 3824283 (near Central Hungary, 1123, Hungary) / * 2023 August 9 08:45 infeeeee Created: Kereszteződést, zebrát átépítették, új kanyarodó/forduló sáv még nincs átadva, átadás után részletesen felmérendő.</title>
+        <link>https://www.openstreetmap.org/note/3824283#c8301713</link>
+        <guid>https://www.openstreetmap.org/note/3824283#c8301713</guid>
+        <pubDate>Wed, 09 Aug 2023 08:45:37 +0000</pubDate>
+      </item><item>
         <title>new comment 2447642 (near Central Hungary, 1101, Hungary) / * 2020 November 30 13:33 bkil Created: Ez lesz a közlekedési múzeum új helye. Amennyiben már elkezdődött az építkezés, érdemes megjelölni. / https://hu.wikipedia.org/wiki/K%C3%B6zleked%C3%A9si_M%C3%BAzeum / * 2020 November 30 13:45 grin Updated: Azt írták hogy március elején már épületnek kellene ott lennie. / * 2020 November 30 14:45 bkil Updated: A Mapillary-n a Kőbányai út felől nincsenek friss felvételek, a Könyves Kálmánról meg takar a vegetáció. / Majdnem azt írtam, hogy erre nem szoktam járni, de valójában elég sokszor elmegyek mellette vonattal. Onnan látszania kellene? Majd ha nem felejtem el, próbálok kilesni az ablakon. / * 2020 December 12 07:24 ITineris Updated: Nem tudom, hol írták. Én úgy tudom, még több évet kell rá várni. / https://www.eztortent.hu/uj-kozlekedesi-muzeum.html / https://index.hu/kultur/epiteszet/2020/05/07/kiemelt_beruhazas_lett_sz_uj_kozlekedesi_muzeum/ / * 2020 December 14 10:42 grin Updated: Itt volt konkrétum, de azóta a covid miatt úgy nézem átírták. Emellett emailben szóltak, abban is volt még konkrét év. / https://www.mmkm.hu/hu/hirek/folytatodhat-az-uj-kozlekedesi-muzeum-elokeszitese / * 2021 December 10 23:55 infeeeee Updated: Most kapott építési engedélyt, hamarosan kezdődhet az építkezés: https://epiteszforum.hu/epitesi-engedelyt-kaptak-az-uj-kozlekedesi-muzeum-elso-epuletei / * 2023 April 4 17:35 Botond Balla Resolved:  / * 2023 April 4 17:48 ITineris Reactivated:  / * 2023 April 4 17:49 ITineris Updated: Ez továbbra is egy térképezendő feladat. Ha majd elkezdődik az építkezés. / * 2023 August 9 08:10 BeanieBarrow Updated: Időszaki kiállítás már nyílt benne (https://azeszaki.hu/hu). Hétfő-kedden zárva a múzeum, szerda-vasárnap 10:00-17:00 között nyitva tart.</title>
         <link>https://www.openstreetmap.org/note/2447642#c8301601</link>
         <guid>https://www.openstreetmap.org/note/2447642#c8301601</guid>
@@ -117,21 +132,6 @@
         <link>https://www.openstreetmap.org/note/3819324#c8277698</link>
         <guid>https://www.openstreetmap.org/note/3819324#c8277698</guid>
         <pubDate>Sun, 06 Aug 2023 12:40:39 +0000</pubDate>
-      </item><item>
-        <title>new note 3819323 (near Transdanubia, 9144, Hungary) / * 2023 August 6 12:40 efi99 Created: cím jó?</title>
-        <link>https://www.openstreetmap.org/note/3819323#c8277697</link>
-        <guid>https://www.openstreetmap.org/note/3819323#c8277697</guid>
-        <pubDate>Sun, 06 Aug 2023 12:40:31 +0000</pubDate>
-      </item><item>
-        <title>new note 3819320 (near Transdanubia, 9144, Hungary) / * 2023 August 6 12:39 efi99 Created: 30 v 32?</title>
-        <link>https://www.openstreetmap.org/note/3819320#c8277692</link>
-        <guid>https://www.openstreetmap.org/note/3819320#c8277692</guid>
-        <pubDate>Sun, 06 Aug 2023 12:39:55 +0000</pubDate>
-      </item><item>
-        <title>closed note 3473483 (near Transdanubia, 9144, Hungary) / * 2022 December 10 22:02 vasony Created: Kápolna utca itt van valahol? / * 2023 August 6 12:31 efi99 Resolved: Ez lett az, igen.</title>
-        <link>https://www.openstreetmap.org/note/3473483#c8277666</link>
-        <guid>https://www.openstreetmap.org/note/3473483#c8277666</guid>
-        <pubDate>Sun, 06 Aug 2023 12:31:57 +0000</pubDate>
       </item>
   </channel>
 </rss>
