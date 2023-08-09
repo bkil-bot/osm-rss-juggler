@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>Happy 19th Birthday, OpenStreetMap! #OpenStreetMap It's time to celebrate</title>
+        <link>https://en.osm.town/@openstreetmap/110858011331322898</link>
+        <guid>https://en.osm.town/@openstreetmap/110858011331322898</guid>
+        <pubDate>Wed, 09 Aug 2023 05:30:10 +0000</pubDate>
+      </item><item>
         <title>Do you want to get started mapping into #OpenStreetMap? 🤔 Here&amp;#39;s some guides! 🙂 https://wiki.openstreetmap.org/wiki/Beginners%27_guide https://learnosm.org/</title>
         <link>https://en.osm.town/@openstreetmap/110841382112690796</link>
         <guid>https://en.osm.town/@openstreetmap/110841382112690796</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/110576494349990688</link>
         <guid>https://en.osm.town/@openstreetmap/110576494349990688</guid>
         <pubDate>Tue, 20 Jun 2023 12:16:42 +0000</pubDate>
-      </item><item>
-        <title>Videos from the recent State of the Map France 2023 are available on #peertube videos: https://peertube.openstreetmap.fr/c/sotm_fr_2023/videos @openstreetmap.fr #OpenStreetMap #OSM #SotM #SotMFR #SoMFR2023</title>
-        <link>https://en.osm.town/@openstreetmap/110576492325861983</link>
-        <guid>https://en.osm.town/@openstreetmap/110576492325861983</guid>
-        <pubDate>Tue, 20 Jun 2023 12:16:11 +0000</pubDate>
       </item>
   </channel>
 </rss>
