@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Best Android for WigleWifi: I have an android phone, it's a five year old model and when it gets hot it shuts down the apps I'm using on its own, even it can't turn on location now, is there a way to fix this? I need navigation badly when I'm out and about. And I can't replace my phone at the moment. https://yowhatsapp.org Thanks in advance, and sorry for the intrusion. -yowhatsapp</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11824#p11824</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11824#p11824</guid>
+        <pubDate>2023-08-11T02:25:52</pubDate>
+      </item><item>
         <title>Re: Best Android for WigleWifi: Just remember to disable throttling on 10 and up.This is how I found out my phones been throttling my scans. I knew it wasnt getting as many as I thought there were but at least I know now hundreds of miles down the roads rather than thousands. Thanks arkasha! -ziggyshenene</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11823#p11823</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11823#p11823</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11752#p11752</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11752#p11752</guid>
         <pubDate>2023-06-29T20:04:27</pubDate>
-      </item><item>
-        <title>Re: ESP32 or ESP8266 Wigle and Lora - Tracker: You can locate individual MAC addresses using the API (without using the whole packet), but we don't provide a networked geolocation service at this time, since we want to avoid knowing where anyone is at any given time. https://api.wigle.net for the API options, you're probably most interested in &quot;network search&quot; we do have an embedded location system for which we publish regular extracts, but it's probably no precise enough to locate stolen property, it's more for providing terrestrial assistance for embedded/non-networked devices in getting a GPS lock. https://www.youtube.com/watch?v=78z5H0rv-wE -arkasha</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11751#p11751</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11751#p11751</guid>
-        <pubDate>2023-06-29T20:01:56</pubDate>
       </item>
   </channel>
 </rss>
