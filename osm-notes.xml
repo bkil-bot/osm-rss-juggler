@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3830354 (near Southern Transdanubia, 7511, Hungary) / * 2023 August 13 06:06 vasony-qa Created: Ez a Bölcsőde köz?</title>
+        <link>https://www.openstreetmap.org/note/3830354#c8314547</link>
+        <guid>https://www.openstreetmap.org/note/3830354#c8314547</guid>
+        <pubDate>Sun, 13 Aug 2023 06:06:48 +0000</pubDate>
+      </item><item>
+        <title>new note 3830344 (near Western Transdanubia, 9730, Hungary) / * 2023 August 13 05:39 vasony-qa Created: Javaslat volt: Kőszeg Város Önkormányzatának Képviselő-testülete a Kőszeg 1705 hrsz-ú közterületet Zrínyi Miklós utcáról Schey Fülöp utcára nevezi át. / határozat nem elérhető, ezért helyszínen ellenőrizendő.</title>
+        <link>https://www.openstreetmap.org/note/3830344#c8314495</link>
+        <guid>https://www.openstreetmap.org/note/3830344#c8314495</guid>
+        <pubDate>Sun, 13 Aug 2023 05:39:53 +0000</pubDate>
+      </item><item>
         <title>new comment 2796285 (near South Great Plain, 5700, Hungary) / * 2021 August 10 20:35 vasony Created: Thököly utca vagy Thököly Imre utca? / * 2023 August 13 04:14 sd_ciastko Updated: Thököly</title>
         <link>https://www.openstreetmap.org/note/2796285#c8314354</link>
         <guid>https://www.openstreetmap.org/note/2796285#c8314354</guid>
@@ -302,21 +312,6 @@
         <link>https://www.openstreetmap.org/note/3827188#c8307925</link>
         <guid>https://www.openstreetmap.org/note/3827188#c8307925</guid>
         <pubDate>Fri, 11 Aug 2023 04:56:24 +0000</pubDate>
-      </item><item>
-        <title>new note 3826913 (near North Hungary, 3832, Hungary) / * 2023 August 10 20:46 vasony-qa Created: Kossuth utca vagy út szerepel az utcatáblákon?</title>
-        <link>https://www.openstreetmap.org/note/3826913#c8307345</link>
-        <guid>https://www.openstreetmap.org/note/3826913#c8307345</guid>
-        <pubDate>Thu, 10 Aug 2023 20:46:42 +0000</pubDate>
-      </item><item>
-        <title>new note 3826912 (near North Hungary, 3832, Hungary) / * 2023 August 10 20:46 vasony-qa Created: Rákóczi út vagy utca szerepel az utcatáblákon?</title>
-        <link>https://www.openstreetmap.org/note/3826912#c8307342</link>
-        <guid>https://www.openstreetmap.org/note/3826912#c8307342</guid>
-        <pubDate>Thu, 10 Aug 2023 20:46:19 +0000</pubDate>
-      </item><item>
-        <title>closed note 3820213 (near Central Transdanubia, 2800, Hungary) / * 2023 August 6 19:00 Created: Sámánfa / Emlékhely, koordináták: / N 47.522000°, E 18.404000° / https://goo.gl/maps/W27mAne5SFzzJjqt9 / * 2023 August 10 19:26 vasony Resolved: google forrás nem megengedett</title>
-        <link>https://www.openstreetmap.org/note/3820213#c8307116</link>
-        <guid>https://www.openstreetmap.org/note/3820213#c8307116</guid>
-        <pubDate>Thu, 10 Aug 2023 19:26:07 +0000</pubDate>
       </item>
   </channel>
 </rss>
