@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3830274 (near Central Hungary, 1048, Hungary) / * 2023 August 13 01:17 Peti Barlai Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3830274#c8314262</link>
+        <guid>https://www.openstreetmap.org/note/3830274#c8314262</guid>
+        <pubDate>Sun, 13 Aug 2023 01:17:07 +0000</pubDate>
+      </item><item>
+        <title>new note 3830274 (near Central Hungary, 1048, Hungary) / * 2023 August 13 01:16 Peti Barlai Created: BPD</title>
+        <link>https://www.openstreetmap.org/note/3830274#c8314261</link>
+        <guid>https://www.openstreetmap.org/note/3830274#c8314261</guid>
+        <pubDate>Sun, 13 Aug 2023 01:16:55 +0000</pubDate>
+      </item><item>
         <title>closed note 3830087 (near Transdanubia, 9144, Hungary) / * 2023 August 12 19:36 efi99 Resolved: 3</title>
         <link>https://www.openstreetmap.org/note/3830087#c8313808</link>
         <guid>https://www.openstreetmap.org/note/3830087#c8313808</guid>
@@ -307,21 +317,6 @@
         <link>https://www.openstreetmap.org/note/3821834#c8307016</link>
         <guid>https://www.openstreetmap.org/note/3821834#c8307016</guid>
         <pubDate>Thu, 10 Aug 2023 19:11:11 +0000</pubDate>
-      </item><item>
-        <title>closed note 3823609 (near South Great Plain, 6500, Hungary) / * 2023 August 8 19:20 Mateusz Konieczny Created: name=Csikós Szakkereskedés és Szerviz / https://www.openstreetmap.org/node/5572211114 / shop=Baja_térségének_hivatalos_STIHL_és_VIKING_szakkereskedése_és_szervize ? What is the meaning of that shop value? What kind of services or products are sold here? Is anything from https://wiki.openstreetmap.org/wiki/Key:shop fitting? Maybe new value needs to be invented? Maybe this data is wrong and there is no shop here? Maybe it is not a shop but something else? / * 2023 August 10 19:02 vasony Resolved: Sells and repairs STIHL and VIKING machines. / STIHL products listed here: / https://www.stihl.com/stihl-products.aspx / Added shop=agrarian + agrarian=agricultural_machines. / Feel free to correct if you have a better key for this type of &amp;quot;garden&amp;quot; machines.</title>
-        <link>https://www.openstreetmap.org/note/3823609#c8306992</link>
-        <guid>https://www.openstreetmap.org/note/3823609#c8306992</guid>
-        <pubDate>Thu, 10 Aug 2023 19:02:30 +0000</pubDate>
-      </item><item>
-        <title>closed note 3824629 (near Central Hungary, 2100, Hungary) / * 2023 August 9 12:28 Created: miért nem tervez egyenesen? / * 2023 August 10 18:30 vasony Resolved: hibás u turn miatt</title>
-        <link>https://www.openstreetmap.org/note/3824629#c8306835</link>
-        <guid>https://www.openstreetmap.org/note/3824629#c8306835</guid>
-        <pubDate>Thu, 10 Aug 2023 18:30:40 +0000</pubDate>
-      </item><item>
-        <title>closed note 3825039 (near Central Hungary, 1039, Hungary) / * 2023 August 9 15:49 utvonalfelmeresek Created: dog yes / * 2023 August 10 18:27 vasony Resolved: már hozzáadtad, lezárom</title>
-        <link>https://www.openstreetmap.org/note/3825039#c8306828</link>
-        <guid>https://www.openstreetmap.org/note/3825039#c8306828</guid>
-        <pubDate>Thu, 10 Aug 2023 18:27:15 +0000</pubDate>
       </item>
   </channel>
 </rss>
