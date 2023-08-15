@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3755725 (near Central Hungary, 1011, Hungary) / * 2023 June 28 14:28 maximilianvesper Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/relation/3894158 via StreetComplete 53.2: / This should be the tunnel entrance. I&amp;#39;m not sure how to classify this. / * 2023 August 15 12:03 infeeeee Resolved: Added building=service and man_made=tunnel_entrance. This combination is used on other similar buildings. / https://www.osm.org/changeset/139911537</title>
+        <link>https://www.openstreetmap.org/note/3755725#c8324297</link>
+        <guid>https://www.openstreetmap.org/note/3755725#c8324297</guid>
+        <pubDate>Tue, 15 Aug 2023 12:03:47 +0000</pubDate>
+      </item><item>
+        <title>closed note 3721936 (near Central Hungary, 1082, Hungary) / * 2023 June 5 17:41 Mysaa Created: Sideways should be connected / via StreetComplete 53.0 / * 2023 August 15 11:43 infeeeee Resolved: I fixed some tags, I think routing will work now here: https://www.osm.org/changeset/139910713</title>
+        <link>https://www.openstreetmap.org/note/3721936#c8324158</link>
+        <guid>https://www.openstreetmap.org/note/3721936#c8324158</guid>
+        <pubDate>Tue, 15 Aug 2023 11:43:42 +0000</pubDate>
+      </item><item>
+        <title>new note 3835009 (near Central Hungary, 1082, Hungary) / * 2023 August 15 11:38 infeeeee Created: Ez a két töltő ugyanaz? / https://www.osm.org/node/8099990267 / https://www.osm.org/node/10742987918</title>
+        <link>https://www.openstreetmap.org/note/3835009#c8324128</link>
+        <guid>https://www.openstreetmap.org/note/3835009#c8324128</guid>
+        <pubDate>Tue, 15 Aug 2023 11:38:35 +0000</pubDate>
+      </item><item>
         <title>closed note 3833915 (near Central Hungary, 1083, Hungary) / * 2023 August 14 19:14 ironalloy Created: innen nem hiányzik egy épület? / * 2023 August 15 10:49 infeeeee Resolved: Berajzoltam: https://www.openstreetmap.org/changeset/139908420</title>
         <link>https://www.openstreetmap.org/note/3833915#c8323991</link>
         <guid>https://www.openstreetmap.org/note/3833915#c8323991</guid>
@@ -142,21 +157,6 @@
         <link>https://www.openstreetmap.org/note/3831601#c8316838</link>
         <guid>https://www.openstreetmap.org/note/3831601#c8316838</guid>
         <pubDate>Sun, 13 Aug 2023 17:09:43 +0000</pubDate>
-      </item><item>
-        <title>closed note 3829790 (near North Great Plain, 5309, Hungary) / * 2023 August 12 15:32 ottwiz Created: Teherauto tilto tabla (hgv) / * 2023 August 13 16:30 ottwiz Resolved: Felvettem</title>
-        <link>https://www.openstreetmap.org/note/3829790#c8316664</link>
-        <guid>https://www.openstreetmap.org/note/3829790#c8316664</guid>
-        <pubDate>Sun, 13 Aug 2023 16:30:07 +0000</pubDate>
-      </item><item>
-        <title>closed note 3829689 (near North Great Plain, 5309, Hungary) / * 2023 August 12 14:34 ottwiz Created: A 7es telken epul uj haz teglabol / * 2023 August 13 16:30 ottwiz Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3829689#c8316663</link>
-        <guid>https://www.openstreetmap.org/note/3829689#c8316663</guid>
-        <pubDate>Sun, 13 Aug 2023 16:30:07 +0000</pubDate>
-      </item><item>
-        <title>closed note 3829623 (near North Great Plain, 5309, Hungary) / * 2023 August 12 14:07 ottwiz Created: Aranyhaj-lak magánszálláshely / via StreetComplete 49.2 / * 2023 August 13 16:30 ottwiz Resolved: Frissítve</title>
-        <link>https://www.openstreetmap.org/note/3829623#c8316662</link>
-        <guid>https://www.openstreetmap.org/note/3829623#c8316662</guid>
-        <pubDate>Sun, 13 Aug 2023 16:30:07 +0000</pubDate>
       </item>
   </channel>
 </rss>
