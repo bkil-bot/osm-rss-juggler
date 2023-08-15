@@ -3,15 +3,20 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Köszi az infót! Ilyenkor forrásnak beírhatod, hogy &quot;Felmérés&quot;, és akkor egyértelmű mások számára honnan tudod ezt. Későbbi szerkesztők számára is egyértelmű lesz, hogy ebben az esetben a térkép frissebb mint a műholdkép, nem akarja valaki véletlenül visszaalakítani a régi állapotra. Amikor lezárod a szerkesztést: Mező hozzáadása -&gt; Források -&gt; Felmérés További jó térképezést! -infeeeee</title>
+        <link>https://www.openstreetmap.org/changeset/139167656</link>
+        <guid>https://www.openstreetmap.org/changeset/139167656#comment_3</guid>
+        <pubDate>2023-08-15T08:48:28+02:00</pubDate>
+      </item><item>
+        <title>@andrashann it seems the user has tagged several other volcanoes at incorrect locations withouth further checks. So I think it's fine to correct that. Just thought I let you know as I also found a volcano in the middle of nowhere in my area. -stoffldick</title>
+        <link>https://www.openstreetmap.org/changeset/136946884</link>
+        <guid>https://www.openstreetmap.org/changeset/136946884#comment_2</guid>
+        <pubDate>2023-08-15T08:33:56+02:00</pubDate>
+      </item><item>
         <title>Tudnánk pár szót váltani mátrixon? Megemlítettelek így remélhetőleg kaptál róla üzenetet. Teljesen véletlenül most került ez előtérbe tegnap és szerkesztési ütközéskor lettem figyelmes a mega-változáscsomagra. -bkil</title>
         <link>https://www.openstreetmap.org/changeset/139835114</link>
         <guid>https://www.openstreetmap.org/changeset/139835114#comment_3</guid>
         <pubDate>2023-08-14T14:31:40+02:00</pubDate>
-      </item><item>
-        <title>Szia, az Atlétikai VB kapcsán a helyszínen dolgozom és a megvalósulás alapján jelöltem fel. Műholdkép még nem frissült. -batrider</title>
-        <link>https://www.openstreetmap.org/changeset/139167656</link>
-        <guid>https://www.openstreetmap.org/changeset/139167656#comment_2</guid>
-        <pubDate>2023-08-13T11:49:37+02:00</pubDate>
       </item><item>
         <title>A javítás se lett túl jó. Az utat visszaállítottam eredeti értékeire. A 4 számjegyű útvonalak jelölése secondary függetlenül a burkolattól, és a motor_vehicle=no sem túl jó érték, a surface=sand-ről nem is beszélve. Magyarországon nincsenek homokos főutak. Ha beírnád mit szerettél volna, talán ki tudjuk találni mi a jó címkézés. -vasony</title>
         <link>https://www.openstreetmap.org/changeset/139116697</link>
