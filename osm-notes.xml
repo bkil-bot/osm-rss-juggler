@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3840768 (near Central Hungary, 1118, Hungary) / * 2023 August 18 13:23 vasony Created: KCR szerint Beregszász út 30-ra vannak a lakások számozva, ellenőrizendő.</title>
+        <link>https://www.openstreetmap.org/note/3840768#c8335813</link>
+        <guid>https://www.openstreetmap.org/note/3840768#c8335813</guid>
+        <pubDate>Fri, 18 Aug 2023 13:23:46 +0000</pubDate>
+      </item><item>
+        <title>new note 3840765 (near Central Hungary, 1112, Hungary) / * 2023 August 18 13:21 vasony Created: KCR szerint 46. A épület, ami azért fura mert nincs másik épület, és a földhivatalnál sincs. Azért megnézendő.</title>
+        <link>https://www.openstreetmap.org/note/3840765#c8335808</link>
+        <guid>https://www.openstreetmap.org/note/3840765#c8335808</guid>
+        <pubDate>Fri, 18 Aug 2023 13:21:32 +0000</pubDate>
+      </item><item>
         <title>new note 3840740 (near Central Hungary, 1112, Hungary) / * 2023 August 18 13:08 vasony Created: KCR hirdetmény szerint a Beregszász út 42/a,b,c házszámokból -&amp;gt; A,B,C épület lett, ellenőrizendő</title>
         <link>https://www.openstreetmap.org/note/3840740#c8335762</link>
         <guid>https://www.openstreetmap.org/note/3840740#c8335762</guid>
@@ -297,16 +307,6 @@
         <link>https://www.openstreetmap.org/note/3830666#c8324460</link>
         <guid>https://www.openstreetmap.org/note/3830666#c8324460</guid>
         <pubDate>Tue, 15 Aug 2023 12:48:08 +0000</pubDate>
-      </item><item>
-        <title>new comment 3644970 (near Central Hungary, 2151, Hungary) / * 2023 August 15 12:44 BeanieBarrow Updated: Igazad van. Javítva iD-ben. Ha megfelel, zárd le a note-ot nyugodtan.</title>
-        <link>https://www.openstreetmap.org/note/3644970#c8324450</link>
-        <guid>https://www.openstreetmap.org/note/3644970#c8324450</guid>
-        <pubDate>Tue, 15 Aug 2023 12:44:39 +0000</pubDate>
-      </item><item>
-        <title>new comment 3644970 (near Central Hungary, 2151, Hungary) / * 2023 August 15 12:41 infeeeee Updated: Létezik erre specifikus címke: building=carport / Nam illik jobban erre? https://wiki.openstreetmap.org/wiki/Tag:building%3Dcarport</title>
-        <link>https://www.openstreetmap.org/note/3644970#c8324439</link>
-        <guid>https://www.openstreetmap.org/note/3644970#c8324439</guid>
-        <pubDate>Tue, 15 Aug 2023 12:41:04 +0000</pubDate>
       </item>
   </channel>
 </rss>
