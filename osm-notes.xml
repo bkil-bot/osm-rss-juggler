@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3842936 (near Central Hungary, 1098, Hungary) / * 2023 August 19 20:33 tbilles Resolved: Berajzolva.</title>
+        <link>https://www.openstreetmap.org/note/3842936#c8340644</link>
+        <guid>https://www.openstreetmap.org/note/3842936#c8340644</guid>
+        <pubDate>Sat, 19 Aug 2023 20:33:52 +0000</pubDate>
+      </item><item>
         <title>new note 3842957 (near Almádi, Balatonalmádi) / * 2023 August 19 20:07 vasony Created: Véghely Dezső-emlékpad valaholl itt, pontosítandó</title>
         <link>https://www.openstreetmap.org/note/3842957#c8340591</link>
         <guid>https://www.openstreetmap.org/note/3842957#c8340591</guid>
@@ -252,11 +257,6 @@
         <link>https://www.openstreetmap.org/note/3725027#c8331536</link>
         <guid>https://www.openstreetmap.org/note/3725027#c8331536</guid>
         <pubDate>Thu, 17 Aug 2023 09:55:13 +0000</pubDate>
-      </item><item>
-        <title>closed note 3837495 (near North Great Plain, 4177, Hungary) / * 2023 August 16 17:34 ssummoner1 Created: A hídon maxheight=4.4 korlátozás van. / * 2023 August 17 09:55 ssummoner1 Resolved: Rátttem a maxheight=4.4 -et. Lezárom a jegyzetet.</title>
-        <link>https://www.openstreetmap.org/note/3837495#c8331533</link>
-        <guid>https://www.openstreetmap.org/note/3837495#c8331533</guid>
-        <pubDate>Thu, 17 Aug 2023 09:55:04 +0000</pubDate>
       </item>
   </channel>
 </rss>
