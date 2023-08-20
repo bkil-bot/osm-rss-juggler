@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Small update: a few hours later we had tagged a fixing 1.40.1 which is in the pipelines of fdroid while the brown bag release 1.40.0 is marked as invalid and should not get auto-Installed further.</title>
+        <link>https://chaos.social/@delta/110919460959334898</link>
+        <guid>https://chaos.social/@delta/110919460959334898</guid>
+        <pubDate>Sun, 20 Aug 2023 01:57:37 +0000</pubDate>
+      </item><item>
         <title>1.40.0 should be delisted soon, but it takes some time between the PR (https://gitlab.com/fdroid/fdroiddata/-/merge_requests/13586) and app index at https://f-droid.org/en/packages/com.b44t.messenger/ update, more for 1.40.1 to be built.</title>
         <link>https://chaos.social/@delta/110918087625661807</link>
         <guid>https://chaos.social/@delta/110918087625661807</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/110096123048962714</link>
         <guid>https://chaos.social/@delta/110096123048962714</guid>
         <pubDate>Mon, 27 Mar 2023 16:11:58 +0000</pubDate>
-      </item><item>
-        <title>A little chatgpt-bot for Delta https://github.com/deltachat-bot/chatbot -- you need to instantiate it yourselves on some e-mail address but then it&amp;#39;s very easy to use e.g. for your family or partners via regular Delta Chat chatting. Btw please be warned: we likely will quickly ban accounts who post AI-generated posts to our support forum. If you are curious ask your favorite chat-bot for an argument why posting machine-generated content to a user support forum is unethical ;)</title>
-        <link>https://chaos.social/@delta/110078064653607402</link>
-        <guid>https://chaos.social/@delta/110078064653607402</guid>
-        <pubDate>Fri, 24 Mar 2023 11:39:28 +0000</pubDate>
       </item>
   </channel>
 </rss>
