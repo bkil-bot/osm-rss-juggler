@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>I have a long standing practice of adding names to paths. 1) this puts the names into route lists for walkers 2) OSM provides for this Please provide an explanation why this is not done in Hungary. A reference to the discussion would be helpful. Regards, Alwyn -AlwynWellington</title>
+        <title>Please only add names to a path if it runs separately and is marked with signs and (usually) also acknowledged by the local authority. For a footway=sidewalk, it must inherit the name (city, etc) of the road implicitly, hence copying the name is redundant and just bloats the database. -bkil</title>
         <link>https://www.openstreetmap.org/changeset/138956188</link>
-        <guid>https://www.openstreetmap.org/changeset/138956188#comment_3</guid>
-        <pubDate>2023-08-22T07:07:27+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/138956188#comment_4</guid>
+        <pubDate>2023-08-22T08:42:44+02:00</pubDate>
       </item><item>
         <title>Reverted: https://www.openstreetmap.org/changeset/140200674 -infeeeee</title>
         <link>https://www.openstreetmap.org/changeset/140198277</link>
@@ -27,11 +27,6 @@
         <link>https://www.openstreetmap.org/changeset/136969145</link>
         <guid>https://www.openstreetmap.org/changeset/136969145#comment_1</guid>
         <pubDate>2023-08-17T21:20:40+02:00</pubDate>
-      </item><item>
-        <title>Köszönöm a tanácsot! Legközelebb így járok el! -batrider</title>
-        <link>https://www.openstreetmap.org/changeset/139167656</link>
-        <guid>https://www.openstreetmap.org/changeset/139167656#comment_4</guid>
-        <pubDate>2023-08-15T09:41:41+02:00</pubDate>
       </item>
   </channel>
 </rss>
