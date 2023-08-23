@@ -2,6 +2,11 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      
+      <item>
+        <title>Hungary/Kommunikáció/Promóciós anyagok: Flexagon, action origami -Bkil</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Kommunik%C3%A1ci%C3%B3/Prom%C3%B3ci%C3%B3s_anyagok&amp;diff=2586834&amp;oldid=2563245</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Kommunik%C3%A1ci%C3%B3/Prom%C3%B3ci%C3%B3s_anyagok&amp;diff=2586834</guid>
+        <pubDate>Wed, 23 Aug 2023 16:50:13 GMT</pubDate>
+      </item>
   </channel>
 </rss>
