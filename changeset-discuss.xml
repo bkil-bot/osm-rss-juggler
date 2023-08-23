@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Removed duplicated Csóványos, since it is not a volcano in itself, I don't add volcato tags to natural peak -vasony</title>
+        <link>https://www.openstreetmap.org/changeset/136946884</link>
+        <guid>https://www.openstreetmap.org/changeset/136946884#comment_3</guid>
+        <pubDate>2023-08-23T20:36:25+02:00</pubDate>
+      </item><item>
         <title>I was only speaking about sidewalks, not paths generally. According to wiki on names of sidewalks: &quot;There is no consensus on whether this is necessary, and regional customs differ.&quot; Hungary has a long standing practice of not adding names to sidewalks. I see and understand your points, but it would require a huge job to add a name to all sidewalks in Hungary. I think renderers, route listers should figure out the names of sidewalk. Adding the duplicate name could be mapping for the renderer. And it's not just Hungary, Worldwide only 4% of sidewalks has a name, check taginfo: https://taginfo.openstreetmap.org/tags/footway=sidewalk#combinations -infeeeee</title>
         <link>https://www.openstreetmap.org/changeset/138956188</link>
         <guid>https://www.openstreetmap.org/changeset/138956188#comment_5</guid>
