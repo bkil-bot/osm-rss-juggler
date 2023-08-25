@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3852284 (near Central Transdanubia, 8226, Hungary) / * 2023 August 25 07:45 vasony Created: Ez a drót itt ellenőrizendő</title>
+        <link>https://www.openstreetmap.org/note/3852284#c8361010</link>
+        <guid>https://www.openstreetmap.org/note/3852284#c8361010</guid>
+        <pubDate>Fri, 25 Aug 2023 07:45:27 +0000</pubDate>
+      </item><item>
         <title>closed note 3760514 (near Central Transdanubia, 8230, Hungary) / * 2023 July 1 19:49 vasony Created: Lámpás körforgalom épül, a tervekkel ellentétben még nincs kész. / * 2023 July 8 09:39 Spush Updated: Elég érdekes a geometriája: / https://www.facebook.com/furedtv/videos/289205813512078/ / * 2023 August 24 21:27 vasony Resolved: közben már üzemel, fel is van rajzolva, úgyhogy ezt lezárom</title>
         <link>https://www.openstreetmap.org/note/3760514#c8360214</link>
         <guid>https://www.openstreetmap.org/note/3760514#c8360214</guid>
@@ -177,16 +182,6 @@
         <link>https://www.openstreetmap.org/note/2273420#c8356348</link>
         <guid>https://www.openstreetmap.org/note/2273420#c8356348</guid>
         <pubDate>Wed, 23 Aug 2023 21:13:59 +0000</pubDate>
-      </item><item>
-        <title>closed note 3835715 (near MOHOSZ-horgásztanya, Tihany) / * 2023 August 15 17:49 Beroesz Created: Ez a 232 méter magas vulkáni csúcs honnan jött? Ez nyilván egy fiktív magasság, ezek alapján a Vezúv is lehetne 2000 méter magas. / * 2023 August 17 21:06 vasony Updated: itt kell megkérdezni: / https://www.openstreetmap.org/changeset/136969145 / * 2023 August 23 20:39 vasony Resolved: A vulkánt töröltem, a felhasználó sok vulkán tett  fel ellenőrzés nélkül, válasz nem érkezett a kérdésekre.</title>
-        <link>https://www.openstreetmap.org/note/3835715#c8356270</link>
-        <guid>https://www.openstreetmap.org/note/3835715#c8356270</guid>
-        <pubDate>Wed, 23 Aug 2023 20:39:13 +0000</pubDate>
-      </item><item>
-        <title>closed note 3318383 (near South Great Plain, 5836, Hungary) / * 2022 August 17 09:20 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: Opening hours are on saturday only. / https://www.openstreetmap.org/node/2811504411 / * 2023 August 23 19:54 Buraddo Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3318383#c8356185</link>
-        <guid>https://www.openstreetmap.org/note/3318383#c8356185</guid>
-        <pubDate>Wed, 23 Aug 2023 19:54:20 +0000</pubDate>
       </item>
   </channel>
 </rss>
