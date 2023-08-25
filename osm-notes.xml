@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3853525 (near Central Transdanubia, 8175, Hungary) / * 2023 August 25 17:12 ironalloy Created: &amp;quot;végleg bezárt&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-08-14T02:00:17Z / POI name: Katica Élelmiszer / POI types: building shop-convenience / #organicmaps android</title>
+        <link>https://www.openstreetmap.org/note/3853525#c8363317</link>
+        <guid>https://www.openstreetmap.org/note/3853525#c8363317</guid>
+        <pubDate>Fri, 25 Aug 2023 17:12:07 +0000</pubDate>
+      </item><item>
         <title>new comment 3816112 (near Central Hungary, 1113, Hungary) / * 2023 August 4 13:24 vasony Created: KCR szerint Karolina út 2 új címe Karolina út 2/B. helyszínen ellenőrizendő. / * 2023 August 25 13:54 infeeeee Updated: A házon még mindig csak egy régi 2-es tábla van kirakva, nincs nyoma a házszám változásnak.</title>
         <link>https://www.openstreetmap.org/note/3816112#c8362190</link>
         <guid>https://www.openstreetmap.org/note/3816112#c8362190</guid>
@@ -177,11 +182,6 @@
         <link>https://www.openstreetmap.org/note/3843483#c8356996</link>
         <guid>https://www.openstreetmap.org/note/3843483#c8356996</guid>
         <pubDate>Thu, 24 Aug 2023 06:06:33 +0000</pubDate>
-      </item><item>
-        <title>new comment 3790861 (near Central Hungary, 2083, Hungary) / * 2023 July 21 08:56 vasony-qa Created: valószínű el vannak csúszva a számok, újra felmérendő / * 2023 August 19 13:21 easimer Updated: Bejártam az utcát 1-től 48-ig, a páratlan oldalon nem volt hiba a házszámoknál, csak a páros oldal volt elcsúszva, mert a &amp;quot;Schultz söröző&amp;quot; a Mátyás királyra volt rakva, pedig az a Hősök 2, ami eddig Hősök 2 volt, az valójában 2/a és a mostani 2/b épülete elé két address feature volt helyezve (pedig csak egy cím), hibás számokkal. / * 2023 August 24 05:59 vasony Updated: Akkor még az 48 és 45 fölötti számokat kell megnézni, mert több szám van mint ház, illetve a 43-43/a a kérdéses</title>
-        <link>https://www.openstreetmap.org/note/3790861#c8356988</link>
-        <guid>https://www.openstreetmap.org/note/3790861#c8356988</guid>
-        <pubDate>Thu, 24 Aug 2023 05:59:12 +0000</pubDate>
       </item>
   </channel>
 </rss>
