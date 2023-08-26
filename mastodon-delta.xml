@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>We are waiting since 8 days on @fdroidorg to publish a) our disabling of the 1.40.0 release b) our 1.40.1 fdroid release that we did a few hours after users reported crashes. Status is tracked here https://github.com/deltachat/deltachat-android/issues/2639#issuecomment-1692416810 .... We had dozens of users reporting that their fdroid #deltachat install became unusable and we are very sorry about it but also can&amp;#39;t do much else than wait. Don&amp;#39;t deinstall anything, please, but wait for fdroid to publish the update after which things will function again.</title>
+        <link>https://chaos.social/@delta/110954560630376414</link>
+        <guid>https://chaos.social/@delta/110954560630376414</guid>
+        <pubDate>Sat, 26 Aug 2023 06:43:56 +0000</pubDate>
+      </item><item>
         <title>Small update: a few hours later we had tagged a fixing 1.40.1 which is in the pipelines of fdroid while the brown bag release 1.40.0 is marked as invalid and should not get auto-Installed further.</title>
         <link>https://chaos.social/@delta/110919460959334898</link>
         <guid>https://chaos.social/@delta/110919460959334898</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/110123144835733191</link>
         <guid>https://chaos.social/@delta/110123144835733191</guid>
         <pubDate>Sat, 01 Apr 2023 10:43:57 +0000</pubDate>
-      </item><item>
-        <title>We hardly talked about #security audits but there is nothing to hide! #DeltaChat received three security audits in total, covering core networking #encryption as well as SMTP/IMAP protocol and end-to-end encryption, and also including an audit on our recent secure server setup guide: https://delta.chat/en/2023-03-27-third-independent-security-audit</title>
-        <link>https://chaos.social/@delta/110096123048962714</link>
-        <guid>https://chaos.social/@delta/110096123048962714</guid>
-        <pubDate>Mon, 27 Mar 2023 16:11:58 +0000</pubDate>
       </item>
   </channel>
 </rss>
