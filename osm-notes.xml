@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3816112 (near Central Hungary, 1113, Hungary) / * 2023 August 4 13:24 vasony Created: KCR szerint Karolina út 2 új címe Karolina út 2/B. helyszínen ellenőrizendő. / * 2023 August 25 13:54 infeeeee Updated: A házon még mindig csak egy régi 2-es tábla van kirakva, nincs nyoma a házszám változásnak. / * 2023 August 27 05:38 vasony Resolved: Akkor ezt zárjuk, majd felírom a többihez.</title>
+        <link>https://www.openstreetmap.org/note/3816112#c8368239</link>
+        <guid>https://www.openstreetmap.org/note/3816112#c8368239</guid>
+        <pubDate>Sun, 27 Aug 2023 05:38:50 +0000</pubDate>
+      </item><item>
+        <title>closed note 3703796 (near North Hungary, 2660, Hungary) / * 2023 May 24 12:24 vasony Created: Bérczy Károly utca vagy Bérczi Károly utca szerepel az utcatáblán? / * 2023 August 26 21:57 balint36 Updated: A táblákon Bérczi, i-vel szerepel. / Habár Bérczy y-nal írta a nevét, az utcát valami oknál fogva i-vel nevezték el, és következetesen így is hivatkoznak rá mindenhol. Ez egyébként különösen kínos, mert Bérczy a város szülöttje :P / * 2023 August 27 05:34 vasony Resolved: köszi, akkor itt nincs teendő</title>
+        <link>https://www.openstreetmap.org/note/3703796#c8368232</link>
+        <guid>https://www.openstreetmap.org/note/3703796#c8368232</guid>
+        <pubDate>Sun, 27 Aug 2023 05:34:16 +0000</pubDate>
+      </item><item>
         <title>new comment 3703796 (near North Hungary, 2660, Hungary) / * 2023 May 24 12:24 vasony Created: Bérczy Károly utca vagy Bérczi Károly utca szerepel az utcatáblán? / * 2023 August 26 21:57 balint36 Updated: A táblákon Bérczi, i-vel szerepel. / Habár Bérczy y-nal írta a nevét, az utcát valami oknál fogva i-vel nevezték el, és következetesen így is hivatkoznak rá mindenhol. Ez egyébként különösen kínos, mert Bérczy a város szülöttje :P</title>
         <link>https://www.openstreetmap.org/note/3703796#c8367840</link>
         <guid>https://www.openstreetmap.org/note/3703796#c8367840</guid>
@@ -23,7 +33,7 @@
         <guid>https://www.openstreetmap.org/note/3855104#c8366733</guid>
         <pubDate>Sat, 26 Aug 2023 16:58:30 +0000</pubDate>
       </item><item>
-        <title>new note 3854836 (near Central Transdanubia, 8230, Hungary) / Created &lt;span title=&quot;26 August 2023 at 15:00&quot;&gt;about 14 hours ago&lt;/span&gt; by deleted&lt;/div&gt;
+        <title>new note 3854836 (near Central Transdanubia, 8230, Hungary) / Created &lt;span title=&quot;26 August 2023 at 15:00&quot;&gt;about 15 hours ago&lt;/span&gt; by deleted&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Ivókút</title>
         <link>https://www.openstreetmap.org/note/3854836#c8366216</link>
         <guid>https://www.openstreetmap.org/note/3854836#c8366216</guid>
@@ -293,26 +303,6 @@
         <link>https://www.openstreetmap.org/note/3852458#c8361296</link>
         <guid>https://www.openstreetmap.org/note/3852458#c8361296</guid>
         <pubDate>Fri, 25 Aug 2023 09:20:31 +0000</pubDate>
-      </item><item>
-        <title>new note 3852284 (near Central Transdanubia, 8226, Hungary) / * 2023 August 25 07:45 vasony Created: Ez a drót itt ellenőrizendő</title>
-        <link>https://www.openstreetmap.org/note/3852284#c8361010</link>
-        <guid>https://www.openstreetmap.org/note/3852284#c8361010</guid>
-        <pubDate>Fri, 25 Aug 2023 07:45:27 +0000</pubDate>
-      </item><item>
-        <title>closed note 3760514 (near Central Transdanubia, 8230, Hungary) / * 2023 July 1 19:49 vasony Created: Lámpás körforgalom épül, a tervekkel ellentétben még nincs kész. / * 2023 July 8 09:39 Spush Updated: Elég érdekes a geometriája: / https://www.facebook.com/furedtv/videos/289205813512078/ / * 2023 August 24 21:27 vasony Resolved: közben már üzemel, fel is van rajzolva, úgyhogy ezt lezárom</title>
-        <link>https://www.openstreetmap.org/note/3760514#c8360214</link>
-        <guid>https://www.openstreetmap.org/note/3760514#c8360214</guid>
-        <pubDate>Thu, 24 Aug 2023 21:27:39 +0000</pubDate>
-      </item><item>
-        <title>closed note 3851766 (near North Great Plain, 4220, Hungary) / * 2023 August 24 20:44 vasony Resolved: Felvettem</title>
-        <link>https://www.openstreetmap.org/note/3851766#c8360110</link>
-        <guid>https://www.openstreetmap.org/note/3851766#c8360110</guid>
-        <pubDate>Thu, 24 Aug 2023 20:44:42 +0000</pubDate>
-      </item><item>
-        <title>closed note 3851748 (near North Great Plain, 4220, Hungary) / * 2023 August 24 20:44 vasony Resolved: Javítva</title>
-        <link>https://www.openstreetmap.org/note/3851748#c8360109</link>
-        <guid>https://www.openstreetmap.org/note/3851748#c8360109</guid>
-        <pubDate>Thu, 24 Aug 2023 20:44:41 +0000</pubDate>
       </item>
   </channel>
 </rss>
