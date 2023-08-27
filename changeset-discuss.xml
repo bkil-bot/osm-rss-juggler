@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>I understand bloat. You have appreciated I am doing this for routes that I have an interest in. And expect to walk one day. And you appreciate that a route list of paths prepared from OSM that does not name the street is useless. Is there a middle way here? There do not seem to be a large number of walking routes through Hungary. If the rule were relaxed a little to have paths etc that are marked for a walking (and cycling) route permitted to be named. Best wishes, Alan -AlwynWellington</title>
+        <link>https://www.openstreetmap.org/changeset/138956188</link>
+        <guid>https://www.openstreetmap.org/changeset/138956188#comment_6</guid>
+        <pubDate>2023-08-27T17:01:07+02:00</pubDate>
+      </item><item>
         <title>Szia! Algyőből nem lesz soha &quot;light_rail&quot; csak azért, mert jelenleg menetrend szerint a tram-train vonatai állnak meg. Ugyanolyan nagyvasúti állomás, mint a többi a MÁV hálózatán. Ugyanazok a nagyvasúti jelzési, forgalmi, végrehajtási utasítások stb. vonatkoznak rá, nem a HÉV jellegű vasutak egyszerűsített szabályozása. Továbbá rendes nagyvasúti vonatokat is kiszolgál. Lehet, hogy nem állnak meg a csabai személyek itt, de az áthaladásukat Algyőnek ki kell szolgálnia. És még tehervonatot is fogad. Végül a tram-train ezen a szakaszon rendes nagyvasútnak számít, a járművek rajta vonatban, vonatszámmal közlekednek, a nagyvasút szabályozása érvényes rá. Hisz láthattad, a nagyvasúti F1 alól a vasútvillamos sem menekült, március 31-ig még pakolták fel rá a zártárcsákat, a motorvonatok meg nagyvasúti vontatójármű pályaszámot kaptak. Ezért nem lesz Algyő light rail, hanem rendes rail. Tovább is mehetek, Algyő egy nyílt hozzáférésű állomás, bármely vasúttársaság bármelyik pillanatban tud kapacitást foglalni oda, és akkor már meg is van a lehetőség, hogy más vonat is megálljon. A light rail rendszerek ezzel szemben nem nyíltak, láthatod is a HÉV-en, hogy egy magánvasút se mehetett oda árufuvarozni. -balint36</title>
         <link>https://www.openstreetmap.org/changeset/134277484</link>
         <guid>https://www.openstreetmap.org/changeset/134277484#comment_1</guid>
@@ -27,11 +32,6 @@
         <link>https://www.openstreetmap.org/changeset/136946884</link>
         <guid>https://www.openstreetmap.org/changeset/136946884#comment_3</guid>
         <pubDate>2023-08-23T20:36:25+02:00</pubDate>
-      </item><item>
-        <title>I was only speaking about sidewalks, not paths generally. According to wiki on names of sidewalks: &quot;There is no consensus on whether this is necessary, and regional customs differ.&quot; Hungary has a long standing practice of not adding names to sidewalks. I see and understand your points, but it would require a huge job to add a name to all sidewalks in Hungary. I think renderers, route listers should figure out the names of sidewalk. Adding the duplicate name could be mapping for the renderer. And it's not just Hungary, Worldwide only 4% of sidewalks has a name, check taginfo: https://taginfo.openstreetmap.org/tags/footway=sidewalk#combinations -infeeeee</title>
-        <link>https://www.openstreetmap.org/changeset/138956188</link>
-        <guid>https://www.openstreetmap.org/changeset/138956188#comment_5</guid>
-        <pubDate>2023-08-22T11:24:54+02:00</pubDate>
       </item><item>
         <title>Reverted: https://www.openstreetmap.org/changeset/140200674 -infeeeee</title>
         <link>https://www.openstreetmap.org/changeset/140198277</link>
