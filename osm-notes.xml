@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3860324 (near Budatava, Balatonalmádi) / * 2023 August 29 13:39 vasony Created: KCR szerint egyedi számok helyett Rozmaring utca 47-53 lett</title>
+        <link>https://www.openstreetmap.org/note/3860324#c8377969</link>
+        <guid>https://www.openstreetmap.org/note/3860324#c8377969</guid>
+        <pubDate>Tue, 29 Aug 2023 13:39:24 +0000</pubDate>
+      </item><item>
+        <title>new note 3860308 (near Budatava, Balatonalmádi) / * 2023 August 29 13:32 vasony Created: KCR szerint ez is 3-9 + épületek lettek</title>
+        <link>https://www.openstreetmap.org/note/3860308#c8377944</link>
+        <guid>https://www.openstreetmap.org/note/3860308#c8377944</guid>
+        <pubDate>Tue, 29 Aug 2023 13:32:51 +0000</pubDate>
+      </item><item>
         <title>new note 3860262 (near Southern Transdanubia, 7664, Hungary) / * 2023 August 29 13:02 Created: Pécs</title>
         <link>https://www.openstreetmap.org/note/3860262#c8377830</link>
         <guid>https://www.openstreetmap.org/note/3860262#c8377830</guid>
@@ -77,41 +87,6 @@
         <link>https://www.openstreetmap.org/note/3730706#c8370698</link>
         <guid>https://www.openstreetmap.org/note/3730706#c8370698</guid>
         <pubDate>Sun, 27 Aug 2023 16:46:35 +0000</pubDate>
-      </item><item>
-        <title>new note 3856935 (near Almádi, Balatonalmádi) / * 2023 August 27 16:45 vasony Created: https://balatonalmadi.hu/hirek/1650-forgalmi-rend-valtozas-a-gyorgyi-denes-iskola-zeneiskola-ovoda-es-bolcsode-kornyeken / iskola előtti rész ellenőrizendő még</title>
-        <link>https://www.openstreetmap.org/note/3856935#c8370695</link>
-        <guid>https://www.openstreetmap.org/note/3856935#c8370695</guid>
-        <pubDate>Sun, 27 Aug 2023 16:45:21 +0000</pubDate>
-      </item><item>
-        <title>closed note 3730692 (near Almádi, Balatonalmádi) / * 2023 June 11 15:10 vasony Created: 2023. augusztus 14-től egyirányú lesz lefele a Balaton utcáig / https://balatonalmadi.hu/hirek/1605-tajekoztatas-varhato-forgalmirend-valtozasrol / * 2023 August 17 07:23 vasony Updated: várakozni tilos lesz, de nem lesz egyirányú / https://balatonalmadi.hu/hirek/1650-forgalmi-rend-valtozas-a-gyorgyi-denes-iskola-zeneiskola-ovoda-es-bolcsode-kornyeken / * 2023 August 27 16:44 vasony Resolved: táblák kikerültek</title>
-        <link>https://www.openstreetmap.org/note/3730692#c8370688</link>
-        <guid>https://www.openstreetmap.org/note/3730692#c8370688</guid>
-        <pubDate>Sun, 27 Aug 2023 16:44:57 +0000</pubDate>
-      </item><item>
-        <title>new note 3856389 (near North Great Plain, 4561, Hungary) / * 2023 August 27 11:51 Created: SOLID PLAST KFT</title>
-        <link>https://www.openstreetmap.org/note/3856389#c8369560</link>
-        <guid>https://www.openstreetmap.org/note/3856389#c8369560</guid>
-        <pubDate>Sun, 27 Aug 2023 11:51:19 +0000</pubDate>
-      </item><item>
-        <title>closed note 3250554 (near Transdanubia, 8422, Hungary) / * 2023 August 27 11:32 bkil Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3250554#c8369496</link>
-        <guid>https://www.openstreetmap.org/note/3250554#c8369496</guid>
-        <pubDate>Sun, 27 Aug 2023 11:32:52 +0000</pubDate>
-      </item><item>
-        <title>closed note 3250555 (near Transdanubia, 8422, Hungary) / * 2023 August 27 11:32 bkil Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3250555#c8369495</link>
-        <guid>https://www.openstreetmap.org/note/3250555#c8369495</guid>
-        <pubDate>Sun, 27 Aug 2023 11:32:47 +0000</pubDate>
-      </item><item>
-        <title>closed note 3739629 (near Vadkert Major, Sárvár) / * 2023 June 17 21:38 Created: Ez egy tó. Semmiféle kisvasút nincs itt. / * 2023 August 27 11:29 infeeeee Resolved: Megszűnt vasutak címkéi frissítve: https://www.openstreetmap.org/changeset/140447471</title>
-        <link>https://www.openstreetmap.org/note/3739629#c8369486</link>
-        <guid>https://www.openstreetmap.org/note/3739629#c8369486</guid>
-        <pubDate>Sun, 27 Aug 2023 11:29:14 +0000</pubDate>
-      </item><item>
-        <title>closed note 3376153 (near Erzsébetmajor, Egervár) / * 2022 September 27 15:59 Created: Körübelül itt volt az egykori Gősfa megállóhely. / 2022.09.27. / * 2023 August 27 11:16 infeeeee Resolved: Itt arra jutnak szakértők, hogy ez az állomás valószínűleg nem létezett, vagy ha rövid ideig létezett is, akkor sincs már semmi nyoma a helyszínen: https://vasutallomasok.hu/allomas.php?az=gosf</title>
-        <link>https://www.openstreetmap.org/note/3376153#c8369437</link>
-        <guid>https://www.openstreetmap.org/note/3376153#c8369437</guid>
-        <pubDate>Sun, 27 Aug 2023 11:16:27 +0000</pubDate>
       </item>
   </channel>
 </rss>
