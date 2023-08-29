@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>1.40.1 is available now from inside the @fdroidorg app - this will &amp;quot;unbrick&amp;quot; all devices that had 1.40.0 installed and could not start delta chat, phew! 🥳</title>
+        <link>https://chaos.social/@delta/110972698180741306</link>
+        <guid>https://chaos.social/@delta/110972698180741306</guid>
+        <pubDate>Tue, 29 Aug 2023 11:36:33 +0000</pubDate>
+      </item><item>
         <title>We are waiting since 8 days on @fdroidorg to publish a) our disabling of the 1.40.0 release b) our 1.40.1 fdroid release that we did a few hours after users reported crashes. Status is tracked here https://github.com/deltachat/deltachat-android/issues/2639#issuecomment-1692416810 .... We had dozens of users reporting that their fdroid #deltachat install became unusable and we are very sorry about it but also can&amp;#39;t do much else than wait. Don&amp;#39;t deinstall anything, please, but wait for fdroid to publish the update after which things will function again.</title>
         <link>https://chaos.social/@delta/110954560630376414</link>
         <guid>https://chaos.social/@delta/110954560630376414</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/110123448169364468</link>
         <guid>https://chaos.social/@delta/110123448169364468</guid>
         <pubDate>Sat, 01 Apr 2023 12:01:06 +0000</pubDate>
-      </item><item>
-        <title>news from the #hyperbridging frontlines of the currently possible ... why not use your emacs/IRC client to connect to a custom DeltaIRCD server where you can load DC accounts as well? or how about accessing the community channel via ` ssh ssh.masfloss.net -p 2023`? If some entity called &amp;quot;chatbot&amp;quot; crosses your paths and you chat with it: be careful, it&amp;#39;s a gpt-ish intelligence also lingering in some channels :) README.md Minimal IRC server which integrates with Delta Chat ¢ Features * support direct messages / private channels « auto-join/leave to same channels as on Delta Chat « reconnects with backoff on Delta Chat restarts « support multiple users « support channel/direct message backlog (messages when you're disconnected from IRC/Delta Chat) * WHOIS, WHO, JOIN, LEAVE, NICK, LIST, ISON, PRIVMSG, MODE, TOPIC, LUSERS, AWAY, KICK, INVITE support « support TLS (ssl) * support unix sockets</title>
-        <link>https://chaos.social/@delta/110123144835733191</link>
-        <guid>https://chaos.social/@delta/110123144835733191</guid>
-        <pubDate>Sat, 01 Apr 2023 10:43:57 +0000</pubDate>
       </item>
   </channel>
 </rss>
