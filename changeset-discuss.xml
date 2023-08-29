@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Szia! &quot;Hol működik, hol nem&quot;, ezért kapott időszakos jelzést, de nem írtam bele a leírásba, mert egyeztetés alatt van, hogy ez mit takar. (Napon belül? El is zárják, vagy csak a játszótér miatt nem elérhető, csak pontatlan a fogalmazás? (Sok ilyen van.) Évszakonként? Satöbbi, de addig is kapott egy jelzést, hogy nem biztos, hogy mindig megy.) -osmoid</title>
+        <title>A `note` kulcs arra való, hogy a szerkesztőtársaknak jelezzünk valami meghökkentő, ellentmondásos információt, mint például `lebontották 2023-ban, ne rajzold vissza újra`. Ezt mutatják is QA eszközök, így ha lehet, jó lenne ezt a nézetet tisztát tartani olyasmiktől amit nem kell megvizsgálnom. Esetleg addig description? Neked itt szerintem a handle=button kell https://wiki.osm.org/Key:handle -bkil</title>
         <link>https://www.openstreetmap.org/changeset/140536514</link>
-        <guid>https://www.openstreetmap.org/changeset/140536514#comment_2</guid>
-        <pubDate>2023-08-29T20:01:50+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/140536514#comment_3</guid>
+        <pubDate>2023-08-29T21:00:38+02:00</pubDate>
       </item><item>
         <title>Tisztelt szerkesztő! A közösség szeretettel várja a felmerülő kérdéseket, illetve tudjuk javasolni az alábbi dokumentációkat kezdés előtt: https://wiki.osm.org/Hu:Kezd%C5%91lap -bkil</title>
         <link>https://www.openstreetmap.org/changeset/140527445</link>
