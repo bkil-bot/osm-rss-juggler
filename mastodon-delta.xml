@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>The talk from @hpk about &amp;quot;Delta Chat and WebXDC&amp;quot; at #cccamp23 is online at https://media.ccc.de/v/camp2023-57191-delta_chat_messenger -- at our camp village a lot of people onboarded from hackspaces around the world and we&amp;#39;ve had many fun discussions with various people, among them Paul and Niklas from @briar , @ninabreznik from wizardamigos and DAT, security trainers from the &amp;quot;Cybersyn&amp;quot; project in latin america, @maxigas from CILAB Amsterdam, @okdistribute to name just a few ... #cccamp23 was wonderful time, thanks everybody! picture of Delta Chat tent at #cccamp23 along with a painted &quot;Delta&quot; picture from Mona</title>
+        <link>https://chaos.social/@delta/110973471566588639</link>
+        <guid>https://chaos.social/@delta/110973471566588639</guid>
+        <pubDate>Tue, 29 Aug 2023 14:53:14 +0000</pubDate>
+      </item><item>
         <title>1.40.1 is available now from inside the @fdroidorg app - this will &amp;quot;unbrick&amp;quot; all devices that had 1.40.0 installed and could not start delta chat, phew! 🥳</title>
         <link>https://chaos.social/@delta/110972698180741306</link>
         <guid>https://chaos.social/@delta/110972698180741306</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/110124628301466341</link>
         <guid>https://chaos.social/@delta/110124628301466341</guid>
         <pubDate>Sat, 01 Apr 2023 17:01:13 +0000</pubDate>
-      </item><item>
-        <title>And then, some devs are now hell-bound to port the complete Delta Chat Core from #Rust to #Python for the next release https://github.com/deltachat/deltachat-core-rust/pull/4259 (already works and passes the tests locally but CI is failing -- go figure!)</title>
-        <link>https://chaos.social/@delta/110123448169364468</link>
-        <guid>https://chaos.social/@delta/110123448169364468</guid>
-        <pubDate>Sat, 01 Apr 2023 12:01:06 +0000</pubDate>
       </item>
   </channel>
 </rss>

@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3860262 (near Southern Transdanubia, 7664, Hungary) / * 2023 August 29 15:13 bkil Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3860262#c8378327</link>
+        <guid>https://www.openstreetmap.org/note/3860262#c8378327</guid>
+        <pubDate>Tue, 29 Aug 2023 15:13:14 +0000</pubDate>
+      </item><item>
         <title>new note 3860324 (near Budatava, Balatonalmádi) / * 2023 August 29 13:39 vasony Created: KCR szerint egyedi számok helyett Rozmaring utca 47-53 lett</title>
         <link>https://www.openstreetmap.org/note/3860324#c8377969</link>
         <guid>https://www.openstreetmap.org/note/3860324#c8377969</guid>
@@ -82,11 +87,6 @@
         <link>https://www.openstreetmap.org/note/3857921#c8373171</link>
         <guid>https://www.openstreetmap.org/note/3857921#c8373171</guid>
         <pubDate>Mon, 28 Aug 2023 09:32:31 +0000</pubDate>
-      </item><item>
-        <title>closed note 3730706 (near Almádi, Balatonalmádi) / * 2023 June 11 15:15 vasony Created: 2023. augusztus 14-től: Hétvezér u. teljes hosszban egyirányúvá válik Bajcsy Zs. u. felé / https://balatonalmadi.hu/hirek/1605-tajekoztatas-varhato-forgalmirend-valtozasrol / * 2023 August 17 07:20 vasony Resolved: nem lesz / https://balatonalmadi.hu/hirek/1650-forgalmi-rend-valtozas-a-gyorgyi-denes-iskola-zeneiskola-ovoda-es-bolcsode-kornyeken / * 2023 August 17 07:22 vasony Reactivated:  / * 2023 August 17 07:23 vasony Updated: rosszat zártam le, ez épp marad 2023.08.25-től várhatő / * 2023 August 27 16:46 vasony Resolved: táblák kikerültek, osm-en átvezettem</title>
-        <link>https://www.openstreetmap.org/note/3730706#c8370698</link>
-        <guid>https://www.openstreetmap.org/note/3730706#c8370698</guid>
-        <pubDate>Sun, 27 Aug 2023 16:46:35 +0000</pubDate>
       </item>
   </channel>
 </rss>
