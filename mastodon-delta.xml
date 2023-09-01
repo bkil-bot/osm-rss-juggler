@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>The T-Rex collage from @jarwski is back on our little 700+ accounts community https://testrun.org/ chat-mail instance ... True to the motto we are plotting new rounds of &amp;quot;experiments with the future of email&amp;quot; using a proven project practise : go back to inflection points of history and try fork into a different reality ... None of what is typically believed about email is neccessarily true or unavoidable :) Maybe we have some surprises to show at #ccc congress end this year in hamburg ... A colorful collage picture with a zepelin, a trex dinosaur, projection of planet earth and a retro style sysadmin setup with the caption &quot;test run.org&quot; and sub caption &quot;experimenting with the future of.email&quot;</title>
+        <link>https://chaos.social/@delta/110986996178676024</link>
+        <guid>https://chaos.social/@delta/110986996178676024</guid>
+        <pubDate>Fri, 01 Sep 2023 00:12:43 +0000</pubDate>
+      </item><item>
         <title>The talk from @hpk about &amp;quot;Delta Chat and WebXDC&amp;quot; at #cccamp23 is online at https://media.ccc.de/v/camp2023-57191-delta_chat_messenger -- at our camp village a lot of people onboarded from hackspaces around the world and we&amp;#39;ve had many fun discussions with various people, among them Paul and Niklas from @briar , @ninabreznik from wizardamigos and DAT, security trainers from the &amp;quot;Cybersyn&amp;quot; project in latin america, @maxigas from CILAB Amsterdam, @okdistribute to name just a few ... #cccamp23 was wonderful time, thanks everybody! picture of Delta Chat tent at #cccamp23 along with a painted &quot;Delta&quot; picture from Mona</title>
         <link>https://chaos.social/@delta/110973471566588639</link>
         <guid>https://chaos.social/@delta/110973471566588639</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/110242489687290418</link>
         <guid>https://chaos.social/@delta/110242489687290418</guid>
         <pubDate>Sat, 22 Apr 2023 12:34:55 +0000</pubDate>
-      </item><item>
-        <title>For programmers who are interested in #Golang and/or #bots , you may checkout https://github.com/deltachat-bot/deltabot-cli-go -- The new statically linked deltachat-rpc-server can run on 32/64 bit and be used from any programming language by calling async RPC requests via stdin/stdout to a deltachat-rpc-server running in a subprocess. As released Desktop uses this jsonrpc-API it&amp;#39;s also pretty complete.</title>
-        <link>https://chaos.social/@delta/110124628301466341</link>
-        <guid>https://chaos.social/@delta/110124628301466341</guid>
-        <pubDate>Sat, 01 Apr 2023 17:01:13 +0000</pubDate>
       </item>
   </channel>
 </rss>
