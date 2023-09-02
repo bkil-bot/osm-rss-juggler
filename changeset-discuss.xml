@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Szia! Ne haragudj, nem tudtam. Megnéztem és nekem nem tölti be a FÖMI ortofotót, így nem tudom összevetni, hogy mennyire rosszul csináltam meg. Legközelebb alkalmazom a légifelvétel elcsúszásának korrigálását, igazodva a már elkészült adatokhoz. Üdv:Dan -SDan_41587</title>
+        <link>https://www.openstreetmap.org/changeset/140607785</link>
+        <guid>https://www.openstreetmap.org/changeset/140607785#comment_2</guid>
+        <pubDate>2023-09-02T17:57:34+02:00</pubDate>
+      </item><item>
         <title>Szia Zsolt! Mi a forrása a dűlő neveknek? Mert amiket megadtál forrásnak azok csak műholdképek. Amennyiben utakra kerül a dűlő név, úgy helyesírásilag hibás, mert a közterület jelleget szóközzel kell elválasztani és nem kötőjellel. A place point az jó, mert ott pedig a kötőjeles írásmód a helyes. Tamás -vasony</title>
         <link>https://www.openstreetmap.org/changeset/140192513</link>
         <guid>https://www.openstreetmap.org/changeset/140192513#comment_1</guid>
         <pubDate>2023-09-02T11:17:02+02:00</pubDate>
-      </item><item>
-        <title>Szia! A Bing műholdképe Balatongyörökön (is) el van csúszva. Új épületek hozzáadása előtt szükséges pl. a FÖMI ortofotóhoz igazítani. https://wiki.openstreetmap.org/wiki/Hu:Beginners_Guide_1.3.5#M%C5%B1holdk%C3%A9p_v%C3%A1laszt%C3%A1sa Tamás -vasony</title>
-        <link>https://www.openstreetmap.org/changeset/140607785</link>
-        <guid>https://www.openstreetmap.org/changeset/140607785#comment_1</guid>
-        <pubDate>2023-09-02T10:00:41+02:00</pubDate>
       </item><item>
         <title>Szia! Raksányi Gellért utca. Légy szíves a határozat számát legközelebb írd be, ahogy beszéltük, köszi. Tamás -vasony</title>
         <link>https://www.openstreetmap.org/changeset/139437740</link>
@@ -72,11 +72,6 @@
         <link>https://www.openstreetmap.org/changeset/138956188</link>
         <guid>https://www.openstreetmap.org/changeset/138956188#comment_7</guid>
         <pubDate>2023-08-27T19:17:37+02:00</pubDate>
-      </item><item>
-        <title>Szia! Algyőből nem lesz soha &quot;light_rail&quot; csak azért, mert jelenleg menetrend szerint a tram-train vonatai állnak meg. Ugyanolyan nagyvasúti állomás, mint a többi a MÁV hálózatán. Ugyanazok a nagyvasúti jelzési, forgalmi, végrehajtási utasítások stb. vonatkoznak rá, nem a HÉV jellegű vasutak egyszerűsített szabályozása. Továbbá rendes nagyvasúti vonatokat is kiszolgál. Lehet, hogy nem állnak meg a csabai személyek itt, de az áthaladásukat Algyőnek ki kell szolgálnia. És még tehervonatot is fogad. Végül a tram-train ezen a szakaszon rendes nagyvasútnak számít, a járművek rajta vonatban, vonatszámmal közlekednek, a nagyvasút szabályozása érvényes rá. Hisz láthattad, a nagyvasúti F1 alól a vasútvillamos sem menekült, március 31-ig még pakolták fel rá a zártárcsákat, a motorvonatok meg nagyvasúti vontatójármű pályaszámot kaptak. Ezért nem lesz Algyő light rail, hanem rendes rail. Tovább is mehetek, Algyő egy nyílt hozzáférésű állomás, bármely vasúttársaság bármelyik pillanatban tud kapacitást foglalni oda, és akkor már meg is van a lehetőség, hogy más vonat is megálljon. A light rail rendszerek ezzel szemben nem nyíltak, láthatod is a HÉV-en, hogy egy magánvasút se mehetett oda árufuvarozni. -balint36</title>
-        <link>https://www.openstreetmap.org/changeset/134277484</link>
-        <guid>https://www.openstreetmap.org/changeset/134277484#comment_1</guid>
-        <pubDate>2023-08-26T20:04:46+02:00</pubDate>
       </item>
   </channel>
 </rss>
