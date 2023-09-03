@@ -67,11 +67,6 @@
         <link>https://www.openstreetmap.org/changeset/140441832</link>
         <guid>https://www.openstreetmap.org/changeset/140441832#comment_2</guid>
         <pubDate>2023-08-28T09:31:47+02:00</pubDate>
-      </item><item>
-        <title>There are a lot of walking/hiking routes through Hungary, but they are usually go on streets without sidewalks drawn separately. See them in this website, from osm data: https://hiking.waymarkedtrails.org/#?map=10.0/47.4583/19.2334 Other option would be to not use sidewalks in the relation, use the streets instead, and the walkers can select their side of sidewalks as they wish. E.g. this hiking route uses a similar route in Budapest, and it doesn't use the sidewalk, but Pauler Street: https://www.osm.org/relation/1715049 Another option is to raise issues, feature requests on the developers of routers. I think it's possible to query the name of the street from a sidewalk based on geometry. Streets have the tag sidewalk=separate as should be. And lastly when you will walk this route you can bring a map, not solely use the list of textual instructions. -infeeeee</title>
-        <link>https://www.openstreetmap.org/changeset/138956188</link>
-        <guid>https://www.openstreetmap.org/changeset/138956188#comment_7</guid>
-        <pubDate>2023-08-27T19:17:37+02:00</pubDate>
       </item>
   </channel>
 </rss>
