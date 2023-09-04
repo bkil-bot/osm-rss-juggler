@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3840740 (near Central Hungary, 1112, Hungary) / * 2023 August 18 13:08 vasony Created: KCR hirdetmény szerint a Beregszász út 42/a,b,c házszámokból -&amp;gt; A,B,C épület lett, ellenőrizendő / * 2023 September 4 20:45 vasony Resolved: 42 alatta A,B,C a kapun, pernek nyoma sincs úgyhogy átírtam</title>
+        <link>https://www.openstreetmap.org/note/3840740#c8401438</link>
+        <guid>https://www.openstreetmap.org/note/3840740#c8401438</guid>
+        <pubDate>Mon, 04 Sep 2023 20:45:37 +0000</pubDate>
+      </item><item>
+        <title>new comment 3840726 (near Central Hungary, 1112, Hungary) / * 2023 August 18 13:00 vasony Created: KCR szerint 48/a, 48/b, 48/c ellenőrizendő / * 2023 September 4 20:42 vasony Updated: kerítésen 48, alatta A/B/C. kukán 48.</title>
+        <link>https://www.openstreetmap.org/note/3840726#c8401425</link>
+        <guid>https://www.openstreetmap.org/note/3840726#c8401425</guid>
+        <pubDate>Mon, 04 Sep 2023 20:42:07 +0000</pubDate>
+      </item><item>
+        <title>new note 3871647 (near Central Hungary, 1112, Hungary) / * 2023 September 4 20:39 vasony Created: ellenőrizendő a házszám</title>
+        <link>https://www.openstreetmap.org/note/3871647#c8401414</link>
+        <guid>https://www.openstreetmap.org/note/3871647#c8401414</guid>
+        <pubDate>Mon, 04 Sep 2023 20:39:34 +0000</pubDate>
+      </item><item>
+        <title>new comment 3793100 (near Central Hungary, 1056, Hungary) / * 2023 July 22 16:50 masaka67 Created: Unable to answer &amp;quot;Which bank operates this ATM?&amp;quot; for https://osm.org/node/3662409964 via StreetComplete 53.3: / Nincs név kiírva / * 2023 September 4 20:21 sfphoton Updated: Nem lehet, hogy Euronet? A Váci utcában sok van belőlük, ilyen kék-sárga gépek, mint a linkelt képen, és jellemzőan sokkal észrevehetőbb rajtuk az EUR HUF felirat, mint a cég logója. / https://i.redd.it/zqy8qrqgbhn31.jpg</title>
+        <link>https://www.openstreetmap.org/note/3793100#c8401352</link>
+        <guid>https://www.openstreetmap.org/note/3793100#c8401352</guid>
+        <pubDate>Mon, 04 Sep 2023 20:21:43 +0000</pubDate>
+      </item><item>
         <title>closed note 3524804 (near Western Transdanubia, 9224, Hungary) / * 2023 January 19 19:57 efi99 Created: cím? / * 2023 September 4 19:36 efi99 Resolved: Ady 30</title>
         <link>https://www.openstreetmap.org/note/3524804#c8401241</link>
         <guid>https://www.openstreetmap.org/note/3524804#c8401241</guid>
@@ -197,21 +217,6 @@
         <link>https://www.openstreetmap.org/note/3867567#c8394020</link>
         <guid>https://www.openstreetmap.org/note/3867567#c8394020</guid>
         <pubDate>Sat, 02 Sep 2023 19:29:15 +0000</pubDate>
-      </item><item>
-        <title>new note 3867567 (near Central Transdanubia, 8200, Hungary) / * 2023 September 2 16:54 ironalloy Created: hiányzik 3db 5 emeletes társashaz</title>
-        <link>https://www.openstreetmap.org/note/3867567#c8393489</link>
-        <guid>https://www.openstreetmap.org/note/3867567#c8393489</guid>
-        <pubDate>Sat, 02 Sep 2023 16:54:29 +0000</pubDate>
-      </item><item>
-        <title>closed note 3443485 (near Southern Transdanubia, 7629, Hungary) / * 2022 November 15 18:41 Havasi Ferenc Created: Ideiglenesen bezárt / * 2023 September 2 16:47 Spush Resolved: Már véglegesen is. Már rögzítette valaki.</title>
-        <link>https://www.openstreetmap.org/note/3443485#c8393468</link>
-        <guid>https://www.openstreetmap.org/note/3443485#c8393468</guid>
-        <pubDate>Sat, 02 Sep 2023 16:47:33 +0000</pubDate>
-      </item><item>
-        <title>closed note 3489784 (near Southern Transdanubia, 7636, Hungary) / * 2022 December 24 17:55 Spush Created: Posta újranyitásáról döntöttek. / * 2023 June 11 16:54 fancsali Updated: Nemrég óta újra nyitva. / * 2023 September 2 16:41 Spush Resolved: Újranyitottam.</title>
-        <link>https://www.openstreetmap.org/note/3489784#c8393441</link>
-        <guid>https://www.openstreetmap.org/note/3489784#c8393441</guid>
-        <pubDate>Sat, 02 Sep 2023 16:41:18 +0000</pubDate>
       </item>
   </channel>
 </rss>
