@@ -3,6 +3,16 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Do you sometimes hesitate to give out your Whatsapp or Signal address for work, project or private uses respectively? Indeed, it&amp;#39;s not always easy to keep social contexts separated but all #deltachat apps offer proven multi-account support. Just create another :) Tired of platform notification mails and having to go to some weird web mail interface with lots of ads? Just create another account in Delta Chat for platform spam/notifications, and receive it all in a convenient chat app.</title>
+        <link>https://chaos.social/@delta/111013982837256929</link>
+        <guid>https://chaos.social/@delta/111013982837256929</guid>
+        <pubDate>Tue, 05 Sep 2023 18:35:47 +0000</pubDate>
+      </item><item>
+        <title>@ravage just contributed a &amp;quot;snap&amp;quot; version of Delta Chat desktop -- https://snapcraft.io/deltachat-desktop -- confirmation that it works (along with the platform you are using) would be welcome.</title>
+        <link>https://chaos.social/@delta/111012115753882653</link>
+        <guid>https://chaos.social/@delta/111012115753882653</guid>
+        <pubDate>Tue, 05 Sep 2023 10:40:57 +0000</pubDate>
+      </item><item>
         <title>The T-Rex collage from @jarwski is back on our little 700+ accounts community https://testrun.org/ chat-mail instance ... True to the motto we are plotting new rounds of &amp;quot;experiments with the future of email&amp;quot; using a proven project practise : go back to inflection points of history and try fork into a different reality ... None of what is typically believed about email is neccessarily true or unavoidable :) Maybe we have some surprises to show at #ccc congress end this year in hamburg ... A colorful collage picture with a zepelin, a trex dinosaur, projection of planet earth and a retro style sysadmin setup with the caption &quot;test run.org&quot; and sub caption &quot;experimenting with the future of.email&quot;</title>
         <link>https://chaos.social/@delta/110986996178676024</link>
         <guid>https://chaos.social/@delta/110986996178676024</guid>
@@ -92,16 +102,6 @@
         <link>https://chaos.social/@delta/110559792208628884</link>
         <guid>https://chaos.social/@delta/110559792208628884</guid>
         <pubDate>Sat, 17 Jun 2023 13:29:08 +0000</pubDate>
-      </item><item>
-        <title>Earlier this year we got into a surprising and somewhat annoying struggle with Web browser sandboxing failures related to our &amp;quot;web apps shared in a chat&amp;quot; feature. After much background work we released the hardened Delta Chat 1.36 series, also addressing a dedicated fourth independent security audit, and can finally share more of what was going on behind the scenes https://delta.chat/en/2023-05-22-webxdc-security #chromium #deltachat #security #webxdc</title>
-        <link>https://chaos.social/@delta/110412649302291193</link>
-        <guid>https://chaos.social/@delta/110412649302291193</guid>
-        <pubDate>Mon, 22 May 2023 13:48:45 +0000</pubDate>
-      </item><item>
-        <title>End-to-End encryption is one of the good things we have with the current internet and app ecosystems. But it is under constant threat -- be it from EU&amp;#39;s #chatcontrol, UK&amp;#39;s &amp;quot;online safety bill&amp;quot; or the current renewed &amp;quot;EARN IT&amp;quot; effort in the US: https://www.eff.org/deeplinks/2023/04/earn-it-bill-back-again-seeking-scan-our-messages-and-photos .... anyone of these efforts succeeding would be a dangerous dam break. Let&amp;#39;s collectively make sure all these governmental anti-privacy efforts fail!</title>
-        <link>https://chaos.social/@delta/110242489687290418</link>
-        <guid>https://chaos.social/@delta/110242489687290418</guid>
-        <pubDate>Sat, 22 Apr 2023 12:34:55 +0000</pubDate>
       </item>
   </channel>
 </rss>
