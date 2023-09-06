@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3874253 (near Central Hungary, 1024, Hungary) / * 2023 September 6 13:10 OSM KAMI Created: Unable to answer &amp;quot;Is smoking allowed here?&amp;quot; for https://osm.org/node/4288516545 via StreetComplete 54.0: / nincs itt, szerintem valami rendezvénykor volt ott</title>
+        <link>https://www.openstreetmap.org/note/3874253#c8407202</link>
+        <guid>https://www.openstreetmap.org/note/3874253#c8407202</guid>
+        <pubDate>Wed, 06 Sep 2023 13:10:07 +0000</pubDate>
+      </item><item>
         <title>closed note 3744528 (near Central Hungary, 1103, Hungary) / * 2023 June 21 10:32 vasony Created: A 606/2022. (VI. 29.) Főv. Kgy. határozat átnevezte ezt a szakaszt is Robert Bosch utcára, lecserélték már a táblákat? / * 2023 September 6 11:03 bkil Resolved: Igen, minden sarkon le vannak cserélve az utcatáblák és néhány nagyobb gyár kirakta az új számtábláját is. Ellenben van sok olyan telek amelyiken még mindig a régi szám és közterületnév szerepel.  https://osm.org/changeset/140889625</title>
         <link>https://www.openstreetmap.org/note/3744528#c8406775</link>
         <guid>https://www.openstreetmap.org/note/3744528#c8406775</guid>
@@ -172,21 +177,6 @@
         <link>https://www.openstreetmap.org/note/3790312#c8398873</link>
         <guid>https://www.openstreetmap.org/note/3790312#c8398873</guid>
         <pubDate>Mon, 04 Sep 2023 08:28:33 +0000</pubDate>
-      </item><item>
-        <title>new note 3870088 (near Western Transdanubia, 9111, Hungary) / * 2023 September 4 05:51 Tajtrdlik Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;There is located Atombunker és tanösvény&amp;quot;.</title>
-        <link>https://www.openstreetmap.org/note/3870088#c8398394</link>
-        <guid>https://www.openstreetmap.org/note/3870088#c8398394</guid>
-        <pubDate>Mon, 04 Sep 2023 05:51:12 +0000</pubDate>
-      </item><item>
-        <title>new note 3869708 (near Central Hungary, 2092, Hungary) / * 2023 September 3 20:06 John7555 Created: &amp;quot;Not there&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-08-14T02:00:17Z / POI has no name / POI types: emergency-fire_hydrant / #organicmaps android</title>
-        <link>https://www.openstreetmap.org/note/3869708#c8397612</link>
-        <guid>https://www.openstreetmap.org/note/3869708#c8397612</guid>
-        <pubDate>Sun, 03 Sep 2023 20:06:30 +0000</pubDate>
-      </item><item>
-        <title>new note 3869707 (near Central Hungary, 2092, Hungary) / * 2023 September 3 20:06 John7555 Created: &amp;quot;Not there&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-08-14T02:00:17Z / POI name: Boglárka Szépségszalon / POI types: shop-beauty / #organicmaps android</title>
-        <link>https://www.openstreetmap.org/note/3869707#c8397611</link>
-        <guid>https://www.openstreetmap.org/note/3869707#c8397611</guid>
-        <pubDate>Sun, 03 Sep 2023 20:06:30 +0000</pubDate>
       </item>
   </channel>
 </rss>
