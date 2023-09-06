@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3744528 (near Central Hungary, 1103, Hungary) / * 2023 June 21 10:32 vasony Created: A 606/2022. (VI. 29.) Főv. Kgy. határozat átnevezte ezt a szakaszt is Robert Bosch utcára, lecserélték már a táblákat? / * 2023 September 6 11:03 bkil Resolved: Igen, minden sarkon le vannak cserélve az utcatáblák és néhány nagyobb gyár kirakta az új számtábláját is. Ellenben van sok olyan telek amelyiken még mindig a régi szám és közterületnév szerepel.  https://osm.org/changeset/140889625</title>
+        <link>https://www.openstreetmap.org/note/3744528#c8406775</link>
+        <guid>https://www.openstreetmap.org/note/3744528#c8406775</guid>
+        <pubDate>Wed, 06 Sep 2023 11:03:45 +0000</pubDate>
+      </item><item>
         <title>new note 3873861 (near Western Transdanubia, 9400, Hungary) / * 2023 September 6 09:45 Created: onosm.org submitted note from a business: / Name: Lőrincz-Véger Szakfordító Bt. / addr:housenumber=13 / addr:street=SOPRON, BÉKE 13 / addr:city=Sopron / addr:postcode=9400 / Phone number: +36703111779 / Website: https://www.lorincz-veger.hu / Opening Hours: H-P 8.30-1200 és 14.00-17.00 / Category: Translation Services / Accepted payment methods: Cash,Wire transfer,Bank card / takeaway=undefined</title>
         <link>https://www.openstreetmap.org/note/3873861#c8406598</link>
         <guid>https://www.openstreetmap.org/note/3873861#c8406598</guid>
@@ -182,11 +187,6 @@
         <link>https://www.openstreetmap.org/note/3869707#c8397611</link>
         <guid>https://www.openstreetmap.org/note/3869707#c8397611</guid>
         <pubDate>Sun, 03 Sep 2023 20:06:30 +0000</pubDate>
-      </item><item>
-        <title>new note 3869693 (near Central Transdanubia, 8226, Hungary) / * 2023 September 3 19:45 vasony Created: A villamosítás óta a vágányok már nem így mennek, át kell rajzolni</title>
-        <link>https://www.openstreetmap.org/note/3869693#c8397547</link>
-        <guid>https://www.openstreetmap.org/note/3869693#c8397547</guid>
-        <pubDate>Sun, 03 Sep 2023 19:45:00 +0000</pubDate>
       </item>
   </channel>
 </rss>
