@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment 3875907 (near Central Hungary, 1202, Hungary) / * 2023 September 7 21:16 bkil Updated: Az ötlet jó, de mi a forrása? Látszólag a Wikidata kerül a vaktérképre ami nincs referálva: / https://www.wikidata.org/w/index.php?title=Q1233385&amp;amp;diff=prev&amp;amp;oldid=149822498 Ezt legjobb lenne források alapján ellenőrizni, de sok utcatáblán is feltüntetik. Találomra egy helyi gyülekezet weboldala a régi elhelyezkedést támasztja alá ráadásul: http://szabotelep.hu/ https://osm.org/node/1764289745#map=19/47.44042/19.12631</title>
+        <link>https://www.openstreetmap.org/note/3875907#c8412162</link>
+        <guid>https://www.openstreetmap.org/note/3875907#c8412162</guid>
+        <pubDate>Thu, 07 Sep 2023 21:16:11 +0000</pubDate>
+      </item><item>
         <title>closed note 3823498 (near Western Transdanubia, 9700, Hungary) / * 2023 August 8 17:34 kogutowicz-mano Created: Technikailag kész a körforgalom. A zebrák is felfestve. Már csak csinosítják a területet. / * 2023 September 7 17:36 kogutowicz-mano Resolved: </title>
         <link>https://www.openstreetmap.org/note/3823498#c8411616</link>
         <guid>https://www.openstreetmap.org/note/3823498#c8411616</guid>
@@ -207,11 +212,6 @@
         <link>https://www.openstreetmap.org/note/3524804#c8401241</link>
         <guid>https://www.openstreetmap.org/note/3524804#c8401241</guid>
         <pubDate>Mon, 04 Sep 2023 19:36:42 +0000</pubDate>
-      </item><item>
-        <title>closed note 3524805 (near Western Transdanubia, 9224, Hungary) / * 2023 January 19 19:58 efi99 Created: cím? / * 2023 September 4 19:36 efi99 Resolved: Ady 26</title>
-        <link>https://www.openstreetmap.org/note/3524805#c8401239</link>
-        <guid>https://www.openstreetmap.org/note/3524805#c8401239</guid>
-        <pubDate>Mon, 04 Sep 2023 19:36:02 +0000</pubDate>
       </item>
   </channel>
 </rss>
