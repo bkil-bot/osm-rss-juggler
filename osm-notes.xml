@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3864795 (near Central Hungary, 1112, Hungary) / * 2023 September 1 06:53 vasony Created: 35/a, 35/b még mindig kint van? KCR szerint csak 35. / ellenőrizendő / * 2023 September 8 06:00 vasony Resolved: kint van</title>
+        <link>https://www.openstreetmap.org/note/3864795#c8412675</link>
+        <guid>https://www.openstreetmap.org/note/3864795#c8412675</guid>
+        <pubDate>Fri, 08 Sep 2023 06:00:21 +0000</pubDate>
+      </item><item>
         <title>new comment 3875907 (near Central Hungary, 1202, Hungary) / * 2023 September 7 21:16 bkil Updated: Az ötlet jó, de mi a forrása? Látszólag a Wikidata kerül a vaktérképre ami nincs referálva: / https://www.wikidata.org/w/index.php?title=Q1233385&amp;amp;diff=prev&amp;amp;oldid=149822498 Ezt legjobb lenne források alapján ellenőrizni, de sok utcatáblán is feltüntetik. Találomra egy helyi gyülekezet weboldala a régi elhelyezkedést támasztja alá ráadásul: http://szabotelep.hu/ https://osm.org/node/1764289745#map=19/47.44042/19.12631</title>
         <link>https://www.openstreetmap.org/note/3875907#c8412162</link>
         <guid>https://www.openstreetmap.org/note/3875907#c8412162</guid>
@@ -187,31 +192,6 @@
         <link>https://www.openstreetmap.org/note/3864797#c8402628</link>
         <guid>https://www.openstreetmap.org/note/3864797#c8402628</guid>
         <pubDate>Tue, 05 Sep 2023 07:42:07 +0000</pubDate>
-      </item><item>
-        <title>closed note 3840740 (near Central Hungary, 1112, Hungary) / * 2023 August 18 13:08 vasony Created: KCR hirdetmény szerint a Beregszász út 42/a,b,c házszámokból -&amp;gt; A,B,C épület lett, ellenőrizendő / * 2023 September 4 20:45 vasony Resolved: 42 alatta A,B,C a kapun, pernek nyoma sincs úgyhogy átírtam</title>
-        <link>https://www.openstreetmap.org/note/3840740#c8401438</link>
-        <guid>https://www.openstreetmap.org/note/3840740#c8401438</guid>
-        <pubDate>Mon, 04 Sep 2023 20:45:37 +0000</pubDate>
-      </item><item>
-        <title>new comment 3840726 (near Central Hungary, 1112, Hungary) / * 2023 August 18 13:00 vasony Created: KCR szerint 48/a, 48/b, 48/c ellenőrizendő / * 2023 September 4 20:42 vasony Updated: kerítésen 48, alatta A/B/C. kukán 48.</title>
-        <link>https://www.openstreetmap.org/note/3840726#c8401425</link>
-        <guid>https://www.openstreetmap.org/note/3840726#c8401425</guid>
-        <pubDate>Mon, 04 Sep 2023 20:42:07 +0000</pubDate>
-      </item><item>
-        <title>new note 3871647 (near Central Hungary, 1112, Hungary) / * 2023 September 4 20:39 vasony Created: ellenőrizendő a házszám</title>
-        <link>https://www.openstreetmap.org/note/3871647#c8401414</link>
-        <guid>https://www.openstreetmap.org/note/3871647#c8401414</guid>
-        <pubDate>Mon, 04 Sep 2023 20:39:34 +0000</pubDate>
-      </item><item>
-        <title>new comment 3793100 (near Central Hungary, 1056, Hungary) / * 2023 July 22 16:50 masaka67 Created: Unable to answer &amp;quot;Which bank operates this ATM?&amp;quot; for https://osm.org/node/3662409964 via StreetComplete 53.3: / Nincs név kiírva / * 2023 September 4 20:21 sfphoton Updated: Nem lehet, hogy Euronet? A Váci utcában sok van belőlük, ilyen kék-sárga gépek, mint a linkelt képen, és jellemzőan sokkal észrevehetőbb rajtuk az EUR HUF felirat, mint a cég logója. / https://i.redd.it/zqy8qrqgbhn31.jpg</title>
-        <link>https://www.openstreetmap.org/note/3793100#c8401352</link>
-        <guid>https://www.openstreetmap.org/note/3793100#c8401352</guid>
-        <pubDate>Mon, 04 Sep 2023 20:21:43 +0000</pubDate>
-      </item><item>
-        <title>closed note 3524804 (near Western Transdanubia, 9224, Hungary) / * 2023 January 19 19:57 efi99 Created: cím? / * 2023 September 4 19:36 efi99 Resolved: Ady 30</title>
-        <link>https://www.openstreetmap.org/note/3524804#c8401241</link>
-        <guid>https://www.openstreetmap.org/note/3524804#c8401241</guid>
-        <pubDate>Mon, 04 Sep 2023 19:36:42 +0000</pubDate>
       </item>
   </channel>
 </rss>
