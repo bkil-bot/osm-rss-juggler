@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Köszi, beírtam forrásnak a kozkutak.hu-t, és fixmebe a sejtésemet. Jövőre járok erre, ha még emlékezni fogok rá, megnézem. -BáthoryPéter</title>
+        <link>https://www.openstreetmap.org/changeset/84914299</link>
+        <guid>https://www.openstreetmap.org/changeset/84914299#comment_3</guid>
+        <pubDate>2023-09-09T20:39:55+02:00</pubDate>
+      </item><item>
         <title>Valószínűtlennek tartom azt az egy szakaszt aszfaltos borításúnak, ha a rész amihez kapcsolódik földút. (Az fel lett mérve) -HungarianVoyager</title>
         <link>https://www.openstreetmap.org/changeset/141028784</link>
         <guid>https://www.openstreetmap.org/changeset/141028784#comment_1</guid>
@@ -12,11 +17,6 @@
         <link>https://www.openstreetmap.org/changeset/140183727</link>
         <guid>https://www.openstreetmap.org/changeset/140183727#comment_1</guid>
         <pubDate>2023-09-09T12:31:28+02:00</pubDate>
-      </item><item>
-        <title>Nem tudom, kozkutak.hu bejelentés alapján vehettem fel.. -Petró Tamás</title>
-        <link>https://www.openstreetmap.org/changeset/84914299</link>
-        <guid>https://www.openstreetmap.org/changeset/84914299#comment_2</guid>
-        <pubDate>2023-09-09T09:05:12+02:00</pubDate>
       </item><item>
         <title>Köszi! Nem túl felhasználóbarát ez a formátum. A sulikat OM azonosító alapján lehet egyszerűbb lenne felvenni, akkor elég csak felrajzolni a körvonalat és majd később szkripttel rá tudod rakni az adatokat. Egyébként ez hatalmas munka, csak Szegeden heteket el lehet tölteni az intézmények bogarászásával, nemhogy az országban... Szólj, ha tudok valamiben segíteni. Ebből talán lesz valami, nem úgy, mint kami jónak ígérkező rendszeres importjaiból :( -gabro00</title>
         <link>https://www.openstreetmap.org/changeset/140942549</link>
