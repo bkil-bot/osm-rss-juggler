@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Valószínűtlennek tartom azt az egy szakaszt aszfaltos borításúnak, ha a rész amihez kapcsolódik földút. (Az fel lett mérve) -HungarianVoyager</title>
+        <link>https://www.openstreetmap.org/changeset/141028784</link>
+        <guid>https://www.openstreetmap.org/changeset/141028784#comment_1</guid>
+        <pubDate>2023-09-09T15:23:32+02:00</pubDate>
+      </item><item>
         <title>Az általad szerkesztett körforgalom javításra szorul. oneway=yes nem helyes, helyette a kör minden szakaszára a junction=roundabout tag szükséges -Spush</title>
         <link>https://www.openstreetmap.org/changeset/140183727</link>
         <guid>https://www.openstreetmap.org/changeset/140183727#comment_1</guid>
@@ -47,11 +52,6 @@
         <link>https://www.openstreetmap.org/changeset/139490098</link>
         <guid>https://www.openstreetmap.org/changeset/139490098#comment_3</guid>
         <pubDate>2023-09-03T18:25:12+02:00</pubDate>
-      </item><item>
-        <title>Szia! Ne haragudj, nem tudtam. Megnéztem és nekem nem tölti be a FÖMI ortofotót, így nem tudom összevetni, hogy mennyire rosszul csináltam meg. Legközelebb alkalmazom a légifelvétel elcsúszásának korrigálását, igazodva a már elkészült adatokhoz. Üdv:Dan -SDan_41587</title>
-        <link>https://www.openstreetmap.org/changeset/140607785</link>
-        <guid>https://www.openstreetmap.org/changeset/140607785#comment_2</guid>
-        <pubDate>2023-09-02T17:57:34+02:00</pubDate>
       </item>
   </channel>
 </rss>
