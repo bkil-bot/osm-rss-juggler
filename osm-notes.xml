@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3886478 (near Elviramajor, Érd) / * 2023 September 13 06:02 AKomarac Created: Ez egy elhagyatott terület, jelenleg nincs itt semmilyen ipari park.</title>
+        <link>https://www.openstreetmap.org/note/3886478#c8434369</link>
+        <guid>https://www.openstreetmap.org/note/3886478#c8434369</guid>
+        <pubDate>Wed, 13 Sep 2023 06:02:33 +0000</pubDate>
+      </item><item>
         <title>new note 3886230 (near Central Hungary, 1113, Hungary) / * 2023 September 12 21:03 vasony Created: 6a, 6b ellenőrizendő</title>
         <link>https://www.openstreetmap.org/note/3886230#c8433207</link>
         <guid>https://www.openstreetmap.org/note/3886230#c8433207</guid>
@@ -147,26 +152,6 @@
         <link>https://www.openstreetmap.org/note/1151852#c8425753</link>
         <guid>https://www.openstreetmap.org/note/1151852#c8425753</guid>
         <pubDate>Mon, 11 Sep 2023 11:52:25 +0000</pubDate>
-      </item><item>
-        <title>closed note 1371575 (near Fehérmalom, Pápa) / * 2018 April 24 21:28 Created: Ez park / * 2023 September 11 11:46 infeeeee Resolved: Műholdképek alapján itt egy ház áll.</title>
-        <link>https://www.openstreetmap.org/note/1371575#c8425719</link>
-        <guid>https://www.openstreetmap.org/note/1371575#c8425719</guid>
-        <pubDate>Mon, 11 Sep 2023 11:46:59 +0000</pubDate>
-      </item><item>
-        <title>closed note 774330 (near North Great Plain, 5000, Hungary) / * 2016 November 6 13:10 Eceteszencia Created: The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. (OSM data version: 2016-10-10T15:13:03Z) #mapsme / * 2023 September 11 11:40 infeeeee Resolved: Tags updated: https://www.openstreetmap.org/changeset/141107776</title>
-        <link>https://www.openstreetmap.org/note/774330#c8425702</link>
-        <guid>https://www.openstreetmap.org/note/774330#c8425702</guid>
-        <pubDate>Mon, 11 Sep 2023 11:40:39 +0000</pubDate>
-      </item><item>
-        <title>closed note 278575 (near North Hungary, 3821, Hungary) / * 2014 November 30 17:04 nagy_balint Created: Landuse updates requested. / * 2023 September 11 11:30 infeeeee Resolved: Friss légifotók alapján is erdő van itt, azóta feltételezem ez javítva lett</title>
-        <link>https://www.openstreetmap.org/note/278575#c8425656</link>
-        <guid>https://www.openstreetmap.org/note/278575#c8425656</guid>
-        <pubDate>Mon, 11 Sep 2023 11:30:08 +0000</pubDate>
-      </item><item>
-        <title>closed note 340325 (near Southern Transdanubia, 7751, Hungary) / * 2015 March 31 13:42 nagy_balint Created: Check offset in the are / * 2023 September 11 11:23 infeeeee Resolved: FŐMI alapján jó helyen vannak az épületek Szederkényben</title>
-        <link>https://www.openstreetmap.org/note/340325#c8425624</link>
-        <guid>https://www.openstreetmap.org/note/340325#c8425624</guid>
-        <pubDate>Mon, 11 Sep 2023 11:23:50 +0000</pubDate>
       </item>
   </channel>
 </rss>
