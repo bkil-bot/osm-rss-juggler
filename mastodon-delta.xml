@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>We are currently revising the FAQ regarding common questions about E2E-encryption and OpenPGP Security, Metadata protection, verified groups etc. in this PR https://github.com/deltachat/deltachat-pages/pull/727/files feedback welcome at best on the PR but here is fine as well. You also can glimpse in this PR some of the security improvements we are aiming for in the next couple months.</title>
+        <link>https://chaos.social/@delta/111059101594526796</link>
+        <guid>https://chaos.social/@delta/111059101594526796</guid>
+        <pubDate>Wed, 13 Sep 2023 17:50:04 +0000</pubDate>
+      </item><item>
         <title>it&amp;#39;s the year two thousand and 23: happy 42nd birth day, dear Chaos Computer Club! See you all at congress end of the year? illuminated windows on a skyscraper showing a CCC sign</title>
         <link>https://chaos.social/@delta/111051379747898318</link>
         <guid>https://chaos.social/@delta/111051379747898318</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/110621944095573330</link>
         <guid>https://chaos.social/@delta/110621944095573330</guid>
         <pubDate>Wed, 28 Jun 2023 12:55:10 +0000</pubDate>
-      </item><item>
-        <title>We were very happy when we heard that the XMPP-based https://cheogram.com/ experimentally adopted https://webxdc.org -- so that the same web apps run on Cheogram and Delta Chat. We started communicating with Cheogram&amp;#39;s main dev through matterbridge in a group chat about upcoming webxdc improvements ... #interoperability ftw :) A screenshot of the Android Cheogram messenger apps showing the &quot;2048&quot; and &quot;checklist&quot; apps running inside a cheogram conversation.</title>
-        <link>https://chaos.social/@delta/110577372845834642</link>
-        <guid>https://chaos.social/@delta/110577372845834642</guid>
-        <pubDate>Tue, 20 Jun 2023 16:00:07 +0000</pubDate>
       </item>
   </channel>
 </rss>
