@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>We just published the new &amp;quot;Encryption and Security&amp;quot; FAQ section: https://delta.chat/en/help#encryption-and-security We also added more info regarding &amp;quot;verfiied groups&amp;quot; that guarantee safe E2E-encryption even if servers are malfeasant or compromised: https://delta.chat/en/help#verifiedchats #deltachat #security</title>
+        <link>https://chaos.social/@delta/111064803824610765</link>
+        <guid>https://chaos.social/@delta/111064803824610765</guid>
+        <pubDate>Thu, 14 Sep 2023 18:00:13 +0000</pubDate>
+      </item><item>
         <title>We are currently revising the FAQ regarding common questions about E2E-encryption and OpenPGP Security, Metadata protection, verified groups etc. in this PR https://github.com/deltachat/deltachat-pages/pull/727/files feedback welcome at best on the PR but here is fine as well. You also can glimpse in this PR some of the security improvements we are aiming for in the next couple months.</title>
         <link>https://chaos.social/@delta/111059101594526796</link>
         <guid>https://chaos.social/@delta/111059101594526796</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/110650443882930357</link>
         <guid>https://chaos.social/@delta/110650443882930357</guid>
         <pubDate>Mon, 03 Jul 2023 13:43:02 +0000</pubDate>
-      </item><item>
-        <title>Delta Chat 1.38 releases: WebXDC apps can now exchange data with other tools and run on other messengers! We&amp;#39;ve implemented a little Calendar and Draw app to showcase the two new APIs and besides have other good news for the nascent privacy-guaranteeing Next-Generation-Internet ... just a &amp;quot;start&amp;quot; button for chat-shared apps with no GDPR or cookie-consents, no coins, no app or account hosting and thus no logins ;) https://delta.chat/en/2023-06-28-webxdc-import-export</title>
-        <link>https://chaos.social/@delta/110621944095573330</link>
-        <guid>https://chaos.social/@delta/110621944095573330</guid>
-        <pubDate>Wed, 28 Jun 2023 12:55:10 +0000</pubDate>
       </item>
   </channel>
 </rss>
