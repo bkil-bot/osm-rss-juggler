@@ -3,6 +3,41 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3754569 (near Central Hungary, 1107, Hungary) / * 2023 June 27 19:54 maximilianvesper Created: Unable to answer &amp;quot;Is there a shelter at this stop?&amp;quot; for https://osm.org/way/673320465 via StreetComplete 53.2: / This doesn&amp;#39;t seem like a bus platform / * 2023 June 29 15:36 infeeeee Updated: A user 4 years ago mapped all bus stops as platforms in Budapest... It wasn&amp;#39;t noticeable until StreetComplete quests, so you will see this on a lot of places. / * 2023 September 16 10:08 infeeeee Resolved: Fixed: https://www.openstreetmap.org/changeset/141334371</title>
+        <link>https://www.openstreetmap.org/note/3754569#c8445007</link>
+        <guid>https://www.openstreetmap.org/note/3754569#c8445007</guid>
+        <pubDate>Sat, 16 Sep 2023 10:08:27 +0000</pubDate>
+      </item><item>
+        <title>closed note 3173038 (near Central Hungary, 2220, Hungary) / * 2022 May 10 07:00 Sonja Emilie Created: Unable to answer &amp;quot;How does this road cross the barrier here?&amp;quot; for https://osm.org/node/4280949433 via StreetComplete 43.0: / There&amp;#39;s no barrier here. / * 2023 September 16 09:52 infeeeee Resolved: Removed: https://www.openstreetmap.org/changeset/141333750</title>
+        <link>https://www.openstreetmap.org/note/3173038#c8444958</link>
+        <guid>https://www.openstreetmap.org/note/3173038#c8444958</guid>
+        <pubDate>Sat, 16 Sep 2023 09:52:13 +0000</pubDate>
+      </item><item>
+        <title>closed note 3173032 (near Central Hungary, 2220, Hungary) / * 2022 May 10 07:00 Sonja Emilie Created: Unable to answer &amp;quot;What’s the topic of this information board?&amp;quot; for https://osm.org/node/5796259841 via StreetComplete 43.0: / It&amp;#39;s more of a street sign. / * 2023 September 16 09:52 infeeeee Resolved: Fixed: https://www.openstreetmap.org/changeset/141333750</title>
+        <link>https://www.openstreetmap.org/note/3173032#c8444957</link>
+        <guid>https://www.openstreetmap.org/note/3173032#c8444957</guid>
+        <pubDate>Sat, 16 Sep 2023 09:52:05 +0000</pubDate>
+      </item><item>
+        <title>closed note 2574983 (near Kispesti Textilgyár, Rendessytelep, 18th district) / * 2021 March 11 15:22 Created: Kispesti Textilgyár / * 2023 September 16 09:34 infeeeee Resolved: Hozzáadtam mint old_name: https://www.openstreetmap.org/changeset/141333145</title>
+        <link>https://www.openstreetmap.org/note/2574983#c8444927</link>
+        <guid>https://www.openstreetmap.org/note/2574983#c8444927</guid>
+        <pubDate>Sat, 16 Sep 2023 09:34:45 +0000</pubDate>
+      </item><item>
+        <title>closed note 3173033 (near Central Hungary, 2220, Hungary) / * 2022 May 10 07:00 Sonja Emilie Created: This road is basically closed. / via StreetComplete 43.0 / * 2023 September 16 09:33 infeeeee Resolved: Mapped as construction</title>
+        <link>https://www.openstreetmap.org/note/3173033#c8444923</link>
+        <guid>https://www.openstreetmap.org/note/3173033#c8444923</guid>
+        <pubDate>Sat, 16 Sep 2023 09:33:28 +0000</pubDate>
+      </item><item>
+        <title>closed note 3173034 (near Central Hungary, 2220, Hungary) / * 2022 May 10 07:00 Sonja Emilie Created: There&amp;#39;s a T-crossing of paved walking paths here. / via StreetComplete 43.0 / * 2023 September 16 09:32 infeeeee Resolved: Added since: https://www.openstreetmap.org/node/4802280460</title>
+        <link>https://www.openstreetmap.org/note/3173034#c8444919</link>
+        <guid>https://www.openstreetmap.org/note/3173034#c8444919</guid>
+        <pubDate>Sat, 16 Sep 2023 09:32:47 +0000</pubDate>
+      </item><item>
+        <title>new note 3891285 (near South Great Plain, 6400, Hungary) / * 2023 September 16 09:31 Spush Created: Ez biztos, hogy lakóövezeti út? / Nem inkább highway=tertiary?</title>
+        <link>https://www.openstreetmap.org/note/3891285#c8444912</link>
+        <guid>https://www.openstreetmap.org/note/3891285#c8444912</guid>
+        <pubDate>Sat, 16 Sep 2023 09:31:17 +0000</pubDate>
+      </item><item>
         <title>closed note 3885956 (near Central Hungary, 2220, Hungary) / * 2023 September 12 16:51 Mateusz Konieczny Created: name=Triplex Targo Kft. / https://www.openstreetmap.org/node/6231290830 / shop=targo ? What is the meaning of that shop value? What kind of services or products are sold here? Is anything from https://wiki.openstreetmap.org/wiki/Key:shop fitting? Maybe new value needs to be invented? Maybe this data is wrong and there is no shop here? Maybe it is not a shop but something else? / * 2023 September 14 11:17 infeeeee Updated: They are repairing and selling forklifts. &amp;quot;Targonca&amp;quot; is the Hungarian word for Forklift. https://triplex-targo.hu/ / * 2023 September 16 09:19 infeeeee Resolved: Fixed: https://www.openstreetmap.org/changeset/141332567</title>
         <link>https://www.openstreetmap.org/note/3885956#c8444865</link>
         <guid>https://www.openstreetmap.org/note/3885956#c8444865</guid>
@@ -297,51 +332,6 @@
         <link>https://www.openstreetmap.org/note/3888755#c8438960</link>
         <guid>https://www.openstreetmap.org/note/3888755#c8438960</guid>
         <pubDate>Thu, 14 Sep 2023 15:03:39 +0000</pubDate>
-      </item><item>
-        <title>new note 3888539 (near Bikahegy, Örkény) / * 2023 September 14 13:07 Beroesz Created: Ültetett CO2-nyelő erdő. (Greenfinity kezdeményezés)</title>
-        <link>https://www.openstreetmap.org/note/3888539#c8438590</link>
-        <guid>https://www.openstreetmap.org/note/3888539#c8438590</guid>
-        <pubDate>Thu, 14 Sep 2023 13:07:08 +0000</pubDate>
-      </item><item>
-        <title>new note 3888533 (near Ruditanya, Örkény) / * 2023 September 14 13:04 Beroesz Created: Piac elköltözött. Már nem kereskedelmi rendeltetésű, hanem zöldterület.</title>
-        <link>https://www.openstreetmap.org/note/3888533#c8438582</link>
-        <guid>https://www.openstreetmap.org/note/3888533#c8438582</guid>
-        <pubDate>Thu, 14 Sep 2023 13:04:44 +0000</pubDate>
-      </item><item>
-        <title>new note 3888526 (near Central Hungary, 1188, Hungary) / * 2023 September 14 13:01 Tajtrdlik Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;There is no more wter tap&amp;quot;. / https://www.openstreetmap.org/node/5309378227</title>
-        <link>https://www.openstreetmap.org/note/3888526#c8438573</link>
-        <guid>https://www.openstreetmap.org/note/3888526#c8438573</guid>
-        <pubDate>Thu, 14 Sep 2023 13:01:35 +0000</pubDate>
-      </item><item>
-        <title>new note 3888523 (near Ilonamajor, Örkény) / * 2023 September 14 13:00 Beroesz Created: Játszótér megszüntetve. Egyszerű füves zöldterület maradt.</title>
-        <link>https://www.openstreetmap.org/note/3888523#c8438569</link>
-        <guid>https://www.openstreetmap.org/note/3888523#c8438569</guid>
-        <pubDate>Thu, 14 Sep 2023 13:00:38 +0000</pubDate>
-      </item><item>
-        <title>new note 3888495 (near South Great Plain, 6724, Hungary) / * 2023 September 14 12:41 Beroesz Created: Az itt lévő épületet letúrták és a helyére 2023 nyarára társasház épült.</title>
-        <link>https://www.openstreetmap.org/note/3888495#c8438524</link>
-        <guid>https://www.openstreetmap.org/note/3888495#c8438524</guid>
-        <pubDate>Thu, 14 Sep 2023 12:41:58 +0000</pubDate>
-      </item><item>
-        <title>new comment 3486413 (near South Great Plain, 6033, Hungary) / * 2022 December 21 21:22 vasony Created: Ez az ÁG. központ lakótelep? / * 2023 September 14 12:39 Beroesz Updated: Igen.</title>
-        <link>https://www.openstreetmap.org/note/3486413#c8438515</link>
-        <guid>https://www.openstreetmap.org/note/3486413#c8438515</guid>
-        <pubDate>Thu, 14 Sep 2023 12:39:40 +0000</pubDate>
-      </item><item>
-        <title>closed note 2392007 (near South Great Plain, 6033, Hungary) / * 2020 October 19 15:47 Created: Kmét városhatár / * 2023 September 14 12:39 Beroesz Resolved: Nem igényel módosítást</title>
-        <link>https://www.openstreetmap.org/note/2392007#c8438514</link>
-        <guid>https://www.openstreetmap.org/note/2392007#c8438514</guid>
-        <pubDate>Thu, 14 Sep 2023 12:39:05 +0000</pubDate>
-      </item><item>
-        <title>closed note 2571613 (near Ilonamajor, Örkény) / * 2021 March 9 10:37 vasony-qa Created: Piac tér vagy Piactér utca? / * 2023 September 14 12:36 Beroesz Resolved: utóbbi</title>
-        <link>https://www.openstreetmap.org/note/2571613#c8438507</link>
-        <guid>https://www.openstreetmap.org/note/2571613#c8438507</guid>
-        <pubDate>Thu, 14 Sep 2023 12:36:22 +0000</pubDate>
-      </item><item>
-        <title>closed note 2630648 (near Ilonamajor, Örkény) / * 2021 April 20 06:42 Created: A könyvtár ezen a helyen megszűnt, 2021 márciusában átköltöztették a művházba. Az épület új funkciója bizonytalan. / * 2023 September 14 12:35 Beroesz Resolved: Az épület valóban üres, a könyvtár a művházba költözött.</title>
-        <link>https://www.openstreetmap.org/note/2630648#c8438505</link>
-        <guid>https://www.openstreetmap.org/note/2630648#c8438505</guid>
-        <pubDate>Thu, 14 Sep 2023 12:35:29 +0000</pubDate>
       </item>
   </channel>
 </rss>
