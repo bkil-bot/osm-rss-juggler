@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3892016 (near Móró Birtok, Etyek) / * 2023 September 16 15:48 Created: Ciganysag</title>
+        <link>https://www.openstreetmap.org/note/3892016#c8446305</link>
+        <guid>https://www.openstreetmap.org/note/3892016#c8446305</guid>
+        <pubDate>Sat, 16 Sep 2023 15:48:08 +0000</pubDate>
+      </item><item>
         <title>new note 3891905 (near North Hungary, 3944, Hungary) / * 2023 September 16 14:41 OSM KAMI Created: itt van egy kereszteződés / via StreetComplete 54.0</title>
         <link>https://www.openstreetmap.org/note/3891905#c8446014</link>
         <guid>https://www.openstreetmap.org/note/3891905#c8446014</guid>
@@ -232,21 +237,6 @@
         <link>https://www.openstreetmap.org/note/3889936#c8441977</link>
         <guid>https://www.openstreetmap.org/note/3889936#c8441977</guid>
         <pubDate>Fri, 15 Sep 2023 11:24:55 +0000</pubDate>
-      </item><item>
-        <title>new note 3889902 (near Kasztellmajor, Fegyvernek) / * 2023 September 15 11:03 ITineris Created: Még ezek az épületek is az iskolához tartoznak? Legalábbis a felújításnál itt is kint van a projekt tábla az iskola nevére.</title>
-        <link>https://www.openstreetmap.org/note/3889902#c8441922</link>
-        <guid>https://www.openstreetmap.org/note/3889902#c8441922</guid>
-        <pubDate>Fri, 15 Sep 2023 11:03:30 +0000</pubDate>
-      </item><item>
-        <title>closed note 2902072 (near Goldberger Textilgyár, Óbuda, 3rd district) / * 2021 October 19 13:19 Created: volt Goldberger Textilgyár / * 2023 September 15 09:56 infeeeee Resolved: Hozzáadtam mint old_name a landuse-hoz: https://www.openstreetmap.org/changeset/141294920</title>
-        <link>https://www.openstreetmap.org/note/2902072#c8441749</link>
-        <guid>https://www.openstreetmap.org/note/2902072#c8441749</guid>
-        <pubDate>Fri, 15 Sep 2023 09:56:17 +0000</pubDate>
-      </item><item>
-        <title>closed note 3874868 (near Central Hungary, 1033, Hungary) / * 2023 September 6 21:02 envagyokabela Created: Unable to answer &amp;quot;What kind of seating does this place have?&amp;quot; for https://osm.org/node/3209524645 via StreetComplete_ee 53.32: / bkv jegypénztár / * 2023 September 7 08:16 infeeeee Updated: A pénztár szerepel a térképen (https://www.osm.org/node/4543685625), ez a kérdés a Fornettire vonatkozik mellette. Esetleg a Fornetti már nincs itt? / * 2023 September 14 19:10 envagyokabela Updated: Igen, az egész épület a jegypénztáré. Nincs Fornetti. / * 2023 September 15 09:29 infeeeee Resolved: frissítve: / https://www.osm.org/changeset/141293782</title>
-        <link>https://www.openstreetmap.org/note/3874868#c8441679</link>
-        <guid>https://www.openstreetmap.org/note/3874868#c8441679</guid>
-        <pubDate>Fri, 15 Sep 2023 09:29:54 +0000</pubDate>
       </item>
   </channel>
 </rss>
