@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3757592 (near Central Hungary, 1084, Hungary) / * 2023 June 29 17:55 Redono Created: Unable to answer &amp;quot;What kind of parking is this?&amp;quot; for https://osm.org/relation/15982005 via StreetComplete_ee 53.2: / Ház épült ide / * 2023 September 16 10:35 infeeeee Resolved: Hivatalosan csak jövőre lesz kész, építkezésként felvittem: / https://www.openstreetmap.org/changeset/141335434</title>
+        <link>https://www.openstreetmap.org/note/3757592#c8445102</link>
+        <guid>https://www.openstreetmap.org/note/3757592#c8445102</guid>
+        <pubDate>Sat, 16 Sep 2023 10:35:58 +0000</pubDate>
+      </item><item>
+        <title>closed note 3685160 (near Central Hungary, 1082, Hungary) / * 2023 May 12 08:43 Mikheil Orjonikidze Created: &amp;quot;Hotel&amp;quot; / OSM snapshot date: 2023-03-29T15:44:03Z / POI has no name / POI types: building-address / #organicmaps / * 2023 September 16 10:35 infeeeee Resolved: Added: https://www.openstreetmap.org/changeset/141335434</title>
+        <link>https://www.openstreetmap.org/note/3685160#c8445101</link>
+        <guid>https://www.openstreetmap.org/note/3685160#c8445101</guid>
+        <pubDate>Sat, 16 Sep 2023 10:35:34 +0000</pubDate>
+      </item><item>
         <title>closed note 3754569 (near Central Hungary, 1107, Hungary) / * 2023 June 27 19:54 maximilianvesper Created: Unable to answer &amp;quot;Is there a shelter at this stop?&amp;quot; for https://osm.org/way/673320465 via StreetComplete 53.2: / This doesn&amp;#39;t seem like a bus platform / * 2023 June 29 15:36 infeeeee Updated: A user 4 years ago mapped all bus stops as platforms in Budapest... It wasn&amp;#39;t noticeable until StreetComplete quests, so you will see this on a lot of places. / * 2023 September 16 10:08 infeeeee Resolved: Fixed: https://www.openstreetmap.org/changeset/141334371</title>
         <link>https://www.openstreetmap.org/note/3754569#c8445007</link>
         <guid>https://www.openstreetmap.org/note/3754569#c8445007</guid>
@@ -322,16 +332,6 @@
         <link>https://www.openstreetmap.org/note/3854457#c8439067</link>
         <guid>https://www.openstreetmap.org/note/3854457#c8439067</guid>
         <pubDate>Thu, 14 Sep 2023 15:45:36 +0000</pubDate>
-      </item><item>
-        <title>closed note 3714482 (near Central Hungary, 2022, Hungary) / * 2023 May 31 17:07 fancsali Created: Itt van egy forrás, ha jól emlékszem a neve &amp;quot;Hetvályús-forrás&amp;quot; / * 2023 September 14 15:43 sfphoton Resolved: Úgy nézem, ezt már jelöli a térkép, nem tudom, nálad miért nem látszott. Szóval lezárom. Köszi azért!</title>
-        <link>https://www.openstreetmap.org/note/3714482#c8439060</link>
-        <guid>https://www.openstreetmap.org/note/3714482#c8439060</guid>
-        <pubDate>Thu, 14 Sep 2023 15:43:16 +0000</pubDate>
-      </item><item>
-        <title>new note 3888755 (near Southern Transdanubia, 8640, Hungary) / * 2023 September 14 15:03 Created: Panoráma sétány</title>
-        <link>https://www.openstreetmap.org/note/3888755#c8438960</link>
-        <guid>https://www.openstreetmap.org/note/3888755#c8438960</guid>
-        <pubDate>Thu, 14 Sep 2023 15:03:39 +0000</pubDate>
       </item>
   </channel>
 </rss>
