@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3893903 (near Central Hungary, 1171, Hungary) / * 2023 September 17 15:43 Created: A tábla szerint ez a Nyomdok utca</title>
+        <link>https://www.openstreetmap.org/note/3893903#c8450076</link>
+        <guid>https://www.openstreetmap.org/note/3893903#c8450076</guid>
+        <pubDate>Sun, 17 Sep 2023 15:43:09 +0000</pubDate>
+      </item><item>
+        <title>closed note 3791442 (near Central Transdanubia, 8172, Hungary) / * 2023 July 21 16:43 Johanna707 Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/232522341 via StreetComplete 53.3: / Strand pénztár, mosdók, éttermek, raktár. / * 2023 September 17 15:40 urbalazs Resolved: Ha egy épületen belül több funkciót is betöltő üzlet vagy kiszolgálóhely van, akkor az épületet nem lehet besorolni. Mivel a mosdó, az étterem és a bejárat már fent van, a raktárat pedig nem jelöljük, ezért lezárom ezt a jegyzetet.</title>
+        <link>https://www.openstreetmap.org/note/3791442#c8450069</link>
+        <guid>https://www.openstreetmap.org/note/3791442#c8450069</guid>
+        <pubDate>Sun, 17 Sep 2023 15:40:43 +0000</pubDate>
+      </item><item>
+        <title>new comment 3893866 (near Central Transdanubia, 8226, Hungary) / * 2023 September 17 15:23 vasony Updated: itt nincs út</title>
+        <link>https://www.openstreetmap.org/note/3893866#c8449999</link>
+        <guid>https://www.openstreetmap.org/note/3893866#c8449999</guid>
+        <pubDate>Sun, 17 Sep 2023 15:23:19 +0000</pubDate>
+      </item><item>
+        <title>new note 3893866 (near Central Transdanubia, 8226, Hungary) / * 2023 September 17 15:22 vasony Created: délebbre</title>
+        <link>https://www.openstreetmap.org/note/3893866#c8449994</link>
+        <guid>https://www.openstreetmap.org/note/3893866#c8449994</guid>
+        <pubDate>Sun, 17 Sep 2023 15:22:17 +0000</pubDate>
+      </item><item>
         <title>closed note 3783748 (near Central Transdanubia, 8226, Hungary) / * 2023 July 16 19:30 vasony Created: ez az út itt létezik? / * 2023 September 17 14:45 vasony Resolved: nem</title>
         <link>https://www.openstreetmap.org/note/3783748#c8449897</link>
         <guid>https://www.openstreetmap.org/note/3783748#c8449897</guid>
@@ -137,21 +157,6 @@
         <link>https://www.openstreetmap.org/note/3173032#c8444957</link>
         <guid>https://www.openstreetmap.org/note/3173032#c8444957</guid>
         <pubDate>Sat, 16 Sep 2023 09:52:05 +0000</pubDate>
-      </item><item>
-        <title>closed note 2574983 (near Kispesti Textilgyár, Rendessytelep, 18th district) / * 2021 March 11 15:22 Created: Kispesti Textilgyár / * 2023 September 16 09:34 infeeeee Resolved: Hozzáadtam mint old_name: https://www.openstreetmap.org/changeset/141333145</title>
-        <link>https://www.openstreetmap.org/note/2574983#c8444927</link>
-        <guid>https://www.openstreetmap.org/note/2574983#c8444927</guid>
-        <pubDate>Sat, 16 Sep 2023 09:34:45 +0000</pubDate>
-      </item><item>
-        <title>closed note 3173033 (near Central Hungary, 2220, Hungary) / * 2022 May 10 07:00 Sonja Emilie Created: This road is basically closed. / via StreetComplete 43.0 / * 2023 September 16 09:33 infeeeee Resolved: Mapped as construction</title>
-        <link>https://www.openstreetmap.org/note/3173033#c8444923</link>
-        <guid>https://www.openstreetmap.org/note/3173033#c8444923</guid>
-        <pubDate>Sat, 16 Sep 2023 09:33:28 +0000</pubDate>
-      </item><item>
-        <title>closed note 3173034 (near Central Hungary, 2220, Hungary) / * 2022 May 10 07:00 Sonja Emilie Created: There&amp;#39;s a T-crossing of paved walking paths here. / via StreetComplete 43.0 / * 2023 September 16 09:32 infeeeee Resolved: Added since: https://www.openstreetmap.org/node/4802280460</title>
-        <link>https://www.openstreetmap.org/note/3173034#c8444919</link>
-        <guid>https://www.openstreetmap.org/note/3173034#c8444919</guid>
-        <pubDate>Sat, 16 Sep 2023 09:32:47 +0000</pubDate>
       </item>
   </channel>
 </rss>
