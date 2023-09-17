@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3893421 (near Central Transdanubia, 8226, Hungary) / * 2023 September 17 19:50 vasony Resolved: van út, a végén van a 3-as szám, illetve 1 ház épül</title>
+        <link>https://www.openstreetmap.org/note/3893421#c8450768</link>
+        <guid>https://www.openstreetmap.org/note/3893421#c8450768</guid>
+        <pubDate>Sun, 17 Sep 2023 19:50:35 +0000</pubDate>
+      </item><item>
         <title>new note 3893903 (near Central Hungary, 1171, Hungary) / * 2023 September 17 15:43 Created: A tábla szerint ez a Nyomdok utca</title>
         <link>https://www.openstreetmap.org/note/3893903#c8450076</link>
         <guid>https://www.openstreetmap.org/note/3893903#c8450076</guid>
@@ -132,31 +137,6 @@
         <link>https://www.openstreetmap.org/note/3891823#c8445842</link>
         <guid>https://www.openstreetmap.org/note/3891823#c8445842</guid>
         <pubDate>Sat, 16 Sep 2023 14:05:48 +0000</pubDate>
-      </item><item>
-        <title>closed note 3757592 (near Central Hungary, 1084, Hungary) / * 2023 June 29 17:55 Redono Created: Unable to answer &amp;quot;What kind of parking is this?&amp;quot; for https://osm.org/relation/15982005 via StreetComplete_ee 53.2: / Ház épült ide / * 2023 September 16 10:35 infeeeee Resolved: Hivatalosan csak jövőre lesz kész, építkezésként felvittem: / https://www.openstreetmap.org/changeset/141335434</title>
-        <link>https://www.openstreetmap.org/note/3757592#c8445102</link>
-        <guid>https://www.openstreetmap.org/note/3757592#c8445102</guid>
-        <pubDate>Sat, 16 Sep 2023 10:35:58 +0000</pubDate>
-      </item><item>
-        <title>closed note 3685160 (near Central Hungary, 1082, Hungary) / * 2023 May 12 08:43 Mikheil Orjonikidze Created: &amp;quot;Hotel&amp;quot; / OSM snapshot date: 2023-03-29T15:44:03Z / POI has no name / POI types: building-address / #organicmaps / * 2023 September 16 10:35 infeeeee Resolved: Added: https://www.openstreetmap.org/changeset/141335434</title>
-        <link>https://www.openstreetmap.org/note/3685160#c8445101</link>
-        <guid>https://www.openstreetmap.org/note/3685160#c8445101</guid>
-        <pubDate>Sat, 16 Sep 2023 10:35:34 +0000</pubDate>
-      </item><item>
-        <title>closed note 3754569 (near Central Hungary, 1107, Hungary) / * 2023 June 27 19:54 maximilianvesper Created: Unable to answer &amp;quot;Is there a shelter at this stop?&amp;quot; for https://osm.org/way/673320465 via StreetComplete 53.2: / This doesn&amp;#39;t seem like a bus platform / * 2023 June 29 15:36 infeeeee Updated: A user 4 years ago mapped all bus stops as platforms in Budapest... It wasn&amp;#39;t noticeable until StreetComplete quests, so you will see this on a lot of places. / * 2023 September 16 10:08 infeeeee Resolved: Fixed: https://www.openstreetmap.org/changeset/141334371</title>
-        <link>https://www.openstreetmap.org/note/3754569#c8445007</link>
-        <guid>https://www.openstreetmap.org/note/3754569#c8445007</guid>
-        <pubDate>Sat, 16 Sep 2023 10:08:27 +0000</pubDate>
-      </item><item>
-        <title>closed note 3173038 (near Central Hungary, 2220, Hungary) / * 2022 May 10 07:00 Sonja Emilie Created: Unable to answer &amp;quot;How does this road cross the barrier here?&amp;quot; for https://osm.org/node/4280949433 via StreetComplete 43.0: / There&amp;#39;s no barrier here. / * 2023 September 16 09:52 infeeeee Resolved: Removed: https://www.openstreetmap.org/changeset/141333750</title>
-        <link>https://www.openstreetmap.org/note/3173038#c8444958</link>
-        <guid>https://www.openstreetmap.org/note/3173038#c8444958</guid>
-        <pubDate>Sat, 16 Sep 2023 09:52:13 +0000</pubDate>
-      </item><item>
-        <title>closed note 3173032 (near Central Hungary, 2220, Hungary) / * 2022 May 10 07:00 Sonja Emilie Created: Unable to answer &amp;quot;What’s the topic of this information board?&amp;quot; for https://osm.org/node/5796259841 via StreetComplete 43.0: / It&amp;#39;s more of a street sign. / * 2023 September 16 09:52 infeeeee Resolved: Fixed: https://www.openstreetmap.org/changeset/141333750</title>
-        <link>https://www.openstreetmap.org/note/3173032#c8444957</link>
-        <guid>https://www.openstreetmap.org/note/3173032#c8444957</guid>
-        <pubDate>Sat, 16 Sep 2023 09:52:05 +0000</pubDate>
       </item>
   </channel>
 </rss>
