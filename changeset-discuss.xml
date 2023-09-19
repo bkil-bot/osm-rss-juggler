@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Szia! Mi a pontos korlátozás az utcán? Mert ha csak sima &quot;Behajtani tilos kivéve célforgalom&quot; akkor a motor_vehicle=yes az nem jó, mert az átenged minden gépjárművet. Tény, hogy az eredeti címke is rossz volt, sejtem mit akartál csinálni. Kivéve célforgalom jelölése helyesen: vehicle=destination. És ha bicikli is bemehet akkor annak kell egyedül extra címke: bicycle=yes Van egyéb kivétel a célforgalom mellett? -infeeeee</title>
+        <link>https://www.openstreetmap.org/changeset/141468588</link>
+        <guid>https://www.openstreetmap.org/changeset/141468588#comment_1</guid>
+        <pubDate>2023-09-19T16:32:26+02:00</pubDate>
+      </item><item>
         <title>Hi, you seemed to delete settlement Siget in Serbia. It is tagged as &quot;relation&quot; and you put some tags to way. We like to keep relations with internal references (&quot;ref:RS:naselje&quot;) as separate objects from ways. I fixed it in https://www.openstreetmap.org/changeset/141443033, but please watch out. Thanks! -Branko Kokanovic</title>
         <link>https://www.openstreetmap.org/changeset/140958503</link>
         <guid>https://www.openstreetmap.org/changeset/140958503#comment_1</guid>
