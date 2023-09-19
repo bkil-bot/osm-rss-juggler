@@ -3,6 +3,26 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>@Firefishy Mappers in the USA should now see their map changes more quickly.</title>
+        <link>https://en.osm.town/@openstreetmap/111092011846796652</link>
+        <guid>https://en.osm.town/@openstreetmap/111092011846796652</guid>
+        <pubDate>Tue, 19 Sep 2023 13:19:35 +0000</pubDate>
+      </item><item>
+        <title>#OSM&amp;#39;s senior SRE, @Firefishy, tells us that the new server was required because we were running out of capacity in the US. It will be used for renderings/updating the default map style used on https://osm.org. Here are the hardware specs: &amp;lt;https://hardware.openstreetmap.org/servers/piasa.openstreetmap.org/&amp;gt;</title>
+        <link>https://en.osm.town/@openstreetmap/111092010675952429</link>
+        <guid>https://en.osm.town/@openstreetmap/111092010675952429</guid>
+        <pubDate>Tue, 19 Sep 2023 13:19:17 +0000</pubDate>
+      </item><item>
+        <title>The new #OpenStreetMap server&amp;#39;s name is Piasa, because the OSMF names its servers for dragons, because “there be dragons”. &amp;lt;https://en.wikipedia.org/wiki/Piasa&amp;gt; Piasa cost the OSMF €3,846.</title>
+        <link>https://en.osm.town/@openstreetmap/111092000033387980</link>
+        <guid>https://en.osm.town/@openstreetmap/111092000033387980</guid>
+        <pubDate>Tue, 19 Sep 2023 13:16:35 +0000</pubDate>
+      </item><item>
+        <title>Good news for US mappers! We&amp;#39;ve added a new tile render server in the US. Big thanks to OregonState OpenSource Lab (OSUOSL) for hosting it (and other OSM servers since 2011!) Thank you, also, AWS Cloud for the credits.</title>
+        <link>https://en.osm.town/@openstreetmap/111091995494620664</link>
+        <guid>https://en.osm.town/@openstreetmap/111091995494620664</guid>
+        <pubDate>Tue, 19 Sep 2023 13:15:25 +0000</pubDate>
+      </item><item>
         <title>PSA: you don&amp;#39;t have to be in the Communications Working Group to suggest/write a story for the OSM blog or social media. Email your idea or draft to the CWG communication@osmfoundation.org or drop a comment below! We want to tell many more stories from across the #OSM community. #OpenStreetMap</title>
         <link>https://en.osm.town/@openstreetmap/111046396029641671</link>
         <guid>https://en.osm.town/@openstreetmap/111046396029641671</guid>
@@ -82,26 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/110894335582380746</link>
         <guid>https://en.osm.town/@openstreetmap/110894335582380746</guid>
         <pubDate>Tue, 15 Aug 2023 15:27:54 +0000</pubDate>
-      </item><item>
-        <title>Remember you can be https://Supporting.OpenStreetMap.org! Screenshot of the OpenStreetMap Mastodon account profile showing the verificated supporting.osm.org link</title>
-        <link>https://en.osm.town/@openstreetmap/110865711060679670</link>
-        <guid>https://en.osm.town/@openstreetmap/110865711060679670</guid>
-        <pubDate>Thu, 10 Aug 2023 14:08:19 +0000</pubDate>
-      </item><item>
-        <title>OSM is 19 years old: we’re launching an online fundraising campaign to support its future Blog Post: https://blog.openstreetmap.org/2023/08/09/happy-birthday-openstreetmap-2/ Support here: https://supporting.openstreetmap.org/ #OpenStreetMap #OSM #gischat</title>
-        <link>https://en.osm.town/@openstreetmap/110860892025388394</link>
-        <guid>https://en.osm.town/@openstreetmap/110860892025388394</guid>
-        <pubDate>Wed, 09 Aug 2023 17:42:46 +0000</pubDate>
-      </item><item>
-        <title>It&amp;#39;s OpenStreetMap&amp;#39;s Birthday today! 🎂🥳 #HappyBirthdayOSM #OpenStreetMap #OSM #gischat Graphic with the OSM logo in the middle and various benefits of OSM</title>
-        <link>https://en.osm.town/@openstreetmap/110858602177475961</link>
-        <guid>https://en.osm.town/@openstreetmap/110858602177475961</guid>
-        <pubDate>Wed, 09 Aug 2023 08:00:26 +0000</pubDate>
-      </item><item>
-        <title>Happy 19th Birthday, OpenStreetMap! #OpenStreetMap It's time to celebrate</title>
-        <link>https://en.osm.town/@openstreetmap/110858011331322898</link>
-        <guid>https://en.osm.town/@openstreetmap/110858011331322898</guid>
-        <pubDate>Wed, 09 Aug 2023 05:30:10 +0000</pubDate>
       </item>
   </channel>
 </rss>
