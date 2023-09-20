@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>If you want to feel good about the #OpenStreetMap mapping world, go to https://Supporting.OpenStreetMap.org/donate and read the comments left by the people who have made a gift to #OSM.</title>
+        <link>https://en.osm.town/@openstreetmap/111097553928090367</link>
+        <guid>https://en.osm.town/@openstreetmap/111097553928090367</guid>
+        <pubDate>Wed, 20 Sep 2023 12:49:00 +0000</pubDate>
+      </item><item>
         <title>Did you know that on 1st Aug 2023, which was a typical day for #OpenStreetMap, there were 2.8 BILLION requests served at a rate of about 32 thousand a second? You would if you read @pnormanss diary post! Thankfully, the OSM tile service is underwritten by https://www.fastly.com/ Read more... &amp;lt;https://www.openstreetmap.org/user/pnorman/diary/402291&amp;gt; #OSM #DataPorn</title>
         <link>https://en.osm.town/@openstreetmap/111096488322508875</link>
         <guid>https://en.osm.town/@openstreetmap/111096488322508875</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/110937623710443952</link>
         <guid>https://en.osm.town/@openstreetmap/110937623710443952</guid>
         <pubDate>Wed, 23 Aug 2023 06:56:39 +0000</pubDate>
-      </item><item>
-        <title>A great reason donate to OSM is to support OSM&amp;#39;s site stability engineer. OSM is the greatest volunteer community of all time (!), but the project is too large not to have a paid admin: https://supporting.openstreetmap.org/ Read about @Firefishy&amp;#39;s first year: https://blog.openstreetmap.org/2023/05/22/powering-openstreetmaps-future-a-year-of-improvements-from-openstreetmap-foundations-site-reliability-engineer/ #OpenStreetMap #OSM #SupportingOSM</title>
-        <link>https://en.osm.town/@openstreetmap/110920578977294210</link>
-        <guid>https://en.osm.town/@openstreetmap/110920578977294210</guid>
-        <pubDate>Sun, 20 Aug 2023 06:41:57 +0000</pubDate>
       </item>
   </channel>
 </rss>
