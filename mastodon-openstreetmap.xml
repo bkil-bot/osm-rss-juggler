@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>Did you know that on 1st Aug 2023, which was a typical day for #OpenStreetMap, there were 2.8 BILLION requests served at a rate of about 32 thousand a second? You would if you read @pnormanss diary post! Thankfully, the OSM tile service is underwritten by https://www.fastly.com/ Read more... &amp;lt;https://www.openstreetmap.org/user/pnorman/diary/402291&amp;gt; #OSM #DataPorn</title>
+        <link>https://en.osm.town/@openstreetmap/111096488322508875</link>
+        <guid>https://en.osm.town/@openstreetmap/111096488322508875</guid>
+        <pubDate>Wed, 20 Sep 2023 08:18:00 +0000</pubDate>
+      </item><item>
         <title>@Firefishy Mappers in the USA should now see their map changes more quickly.</title>
         <link>https://en.osm.town/@openstreetmap/111092011846796652</link>
         <guid>https://en.osm.town/@openstreetmap/111092011846796652</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/110920578977294210</link>
         <guid>https://en.osm.town/@openstreetmap/110920578977294210</guid>
         <pubDate>Sun, 20 Aug 2023 06:41:57 +0000</pubDate>
-      </item><item>
-        <title>The global conference of the OpenStreetMap community, State of the Map (SotM), will be making its way to Nairobi, Kenya from September 6th-8th 2024! &amp;lt;https://blog.openstreetmap.org/2023/08/14/announcing-state-of-the-map-2024-september-6-to-8-2024-join-us-in-nairobi-and-online/&amp;gt; #OSM #gischat #OpenStreetMap #StateOfTheMap #SotM #sotm2024</title>
-        <link>https://en.osm.town/@openstreetmap/110894335582380746</link>
-        <guid>https://en.osm.town/@openstreetmap/110894335582380746</guid>
-        <pubDate>Tue, 15 Aug 2023 15:27:54 +0000</pubDate>
       </item>
   </channel>
 </rss>

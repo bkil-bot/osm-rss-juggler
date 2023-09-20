@@ -3,6 +3,31 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3744366 (near Western Transdanubia, 9030, Hungary) / * 2023 June 21 08:14 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: Track no longer exists. / * 2023 September 20 08:00 NightH Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3744366#c8459304</link>
+        <guid>https://www.openstreetmap.org/note/3744366#c8459304</guid>
+        <pubDate>Wed, 20 Sep 2023 08:00:47 +0000</pubDate>
+      </item><item>
+        <title>closed note 3898353 (near South Great Plain, 5600, Hungary) / * 2023 September 20 07:49 Sallai András Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3898353#c8459284</link>
+        <guid>https://www.openstreetmap.org/note/3898353#c8459284</guid>
+        <pubDate>Wed, 20 Sep 2023 07:49:03 +0000</pubDate>
+      </item><item>
+        <title>new note 3898353 (near South Great Plain, 5600, Hungary) / * 2023 September 20 07:48 Sallai András Created: gallyazás</title>
+        <link>https://www.openstreetmap.org/note/3898353#c8459283</link>
+        <guid>https://www.openstreetmap.org/note/3898353#c8459283</guid>
+        <pubDate>Wed, 20 Sep 2023 07:48:52 +0000</pubDate>
+      </item><item>
+        <title>new note 3898345 (near Western Transdanubia, 8774, Hungary) / * 2023 September 20 07:40 Matyjace Created: Forwarding anonymous report from #mapycz user, please verify: &amp;quot;closed&amp;quot;</title>
+        <link>https://www.openstreetmap.org/note/3898345#c8459270</link>
+        <guid>https://www.openstreetmap.org/note/3898345#c8459270</guid>
+        <pubDate>Wed, 20 Sep 2023 07:40:47 +0000</pubDate>
+      </item><item>
+        <title>closed note 3897925 (near Central Hungary, 2194, Hungary) / * 2023 September 19 21:42 Created: Miki / * 2023 September 20 07:27 bkil Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3897925#c8459237</link>
+        <guid>https://www.openstreetmap.org/note/3897925#c8459237</guid>
+        <pubDate>Wed, 20 Sep 2023 07:27:48 +0000</pubDate>
+      </item><item>
         <title>new note 3898256 (near Peregház, Fertőd) / * 2023 September 20 06:52 Matyjace Created: Forwarding anonymous report from #mapycz user, please verify: &amp;quot;memorial&amp;quot;</title>
         <link>https://www.openstreetmap.org/note/3898256#c8459091</link>
         <guid>https://www.openstreetmap.org/note/3898256#c8459091</guid>
@@ -267,16 +292,6 @@
         <link>https://www.openstreetmap.org/note/3895516#c8453372</link>
         <guid>https://www.openstreetmap.org/note/3895516#c8453372</guid>
         <pubDate>Mon, 18 Sep 2023 13:32:17 +0000</pubDate>
-      </item><item>
-        <title>new comment 3875907 (near Central Hungary, 1202, Hungary) / * 2023 September 7 13:03 Created: Szabótelep nem itt található, ez Kossuthfalva. / * 2023 September 7 16:11 bkil Updated: Akkor hol található Szabótelep? / * 2023 September 7 17:08 infeeeee Updated: Igaza van Wiki alapján, ott fent van mindkettőnek a határa: https://hu.wikipedia.org/wiki/Szab%C3%B3telep_(Pesterzs%C3%A9bet) / https://hu.wikipedia.org/wiki/Kossuthfalva / * 2023 September 7 21:16 bkil Updated: Az ötlet jó, de mi a forrása? Látszólag a Wikidata kerül a vaktérképre ami nincs referálva: / https://www.wikidata.org/w/index.php?title=Q1233385&amp;amp;diff=prev&amp;amp;oldid=149822498 Ezt legjobb lenne források alapján ellenőrizni, de sok utcatáblán is feltüntetik. Találomra egy helyi gyülekezet weboldala a régi elhelyezkedést támasztja alá ráadásul: http://szabotelep.hu/ https://osm.org/node/1764289745#map=19/47.44042/19.12631 / * 2023 September 14 16:20 sfphoton Updated: Az utcatáblákra a környéken sajnos csak annyit írtak rá, hogy Pesterzsébet, szóval ezzel nem vagyunk beljebb. Gyenge nyom lehet még viszont a közelben található Kossuthfalva utca, Kossuthfalva tér. / * 2023 September 14 16:37 sfphoton Updated: A helyzetet bonyolítja, hogy a BKK Szabótelep nevű villamosmegállója (https://go.bkk.hu/stop/BKK_F04106?routeIds=|BKK_3022 ) Nem ott van, ahol most az OSM a Szabótelepet jelöli, de nem is ott, ahol a Wikipédia szerint a Szabótelep van. / A helyi gyülekezet a weboldala szerint 1937-ben alakult, de Kossuthfalva Wikipédia oldala szerint a Kossuthfalva nevet ekkoriban nem használták, csak a rendszerváltáskor kezdték újra használni. Szóval lehet, hogy a megalakuláskor a Kossthfalva nevet nem is ismerték. / * 2023 September 14 16:56 sfphoton Updated: Megtaláltam a kerület Településképi Arculati Kézikönyvét, amiben egész sok hasznos és megbízható infó van: / https://pesterzsebet.hu/wp-content/uploads/hirdetmenyek/kifuggesztett-tervek/1500629658_Telep%C3%BCl%C3%A9sk%C3%A9pi_Arculati_K%C3%A9zik%C3%B6nyv_elfogadott.pdf / - 8. oldal: régi térkép, rajta jelölve Kossuthfalva / - 12. oldal: fotó a (Kossuthfalva téren álló) Jézus Szíve templomról, ami a doksi szerint Szabótelepen van / - 15. oldal: Kossuthfalva központja a Szent Lajos tér; Kossuthfalván nagyobbak a telkek, mint Szabótelepen / * 2023 September 18 12:45 bkil Updated: Nincs helyismeretem. Amit találtam megosztottam illetve az általános gondolkodásmenetet. Amennyiben sem Szabótelep, sem Kossuthfalva régi és új utcatábláin nem szerepel a kerületrész megnevezése, máshogy nem tudok segíteni sajnos ebben a pillanatban, úgyhogy rátok bízom a megoldást. Nem szeretném megakasztani a javítást.</title>
-        <link>https://www.openstreetmap.org/note/3875907#c8453168</link>
-        <guid>https://www.openstreetmap.org/note/3875907#c8453168</guid>
-        <pubDate>Mon, 18 Sep 2023 12:45:05 +0000</pubDate>
-      </item><item>
-        <title>closed note 3353384 (near Central Hungary, 1056, Hungary) / * 2022 September 10 10:19 MCLU Created: Unable to answer &amp;quot;Are these opening hours still correct?&amp;quot; for https://osm.org/node/735750293 via StreetComplete 45.2: / Under construction / * 2023 September 18 10:38 infeeeee Resolved: It&amp;#39;s been set as disused since this issue. No official reopening date yet.</title>
-        <link>https://www.openstreetmap.org/note/3353384#c8452697</link>
-        <guid>https://www.openstreetmap.org/note/3353384#c8452697</guid>
-        <pubDate>Mon, 18 Sep 2023 10:38:32 +0000</pubDate>
       </item>
   </channel>
 </rss>
