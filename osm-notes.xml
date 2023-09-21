@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3900223 (near North Hungary, 3291, Hungary) / * 2023 September 21 19:18 utvonalfelmeresek Resolved: Ok</title>
+        <link>https://www.openstreetmap.org/note/3900223#c8465678</link>
+        <guid>https://www.openstreetmap.org/note/3900223#c8465678</guid>
+        <pubDate>Thu, 21 Sep 2023 19:18:46 +0000</pubDate>
+      </item><item>
+        <title>closed note 3900221 (near North Hungary, 3291, Hungary) / * 2023 September 21 19:17 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/141574276</title>
+        <link>https://www.openstreetmap.org/note/3900221#c8465673</link>
+        <guid>https://www.openstreetmap.org/note/3900221#c8465673</guid>
+        <pubDate>Thu, 21 Sep 2023 19:17:20 +0000</pubDate>
+      </item><item>
         <title>new note 3900844 (near Central Hungary, 1026, Hungary) / * 2023 September 21 13:33 OSM KAMI Created: épület / via StreetComplete 54.0 / Attached photo(s): / https://westnordost.de/p/176103.jpg</title>
         <link>https://www.openstreetmap.org/note/3900844#c8464374</link>
         <guid>https://www.openstreetmap.org/note/3900844#c8464374</guid>
@@ -177,11 +187,6 @@
         <link>https://www.openstreetmap.org/note/3899258#c8461028</link>
         <guid>https://www.openstreetmap.org/note/3899258#c8461028</guid>
         <pubDate>Wed, 20 Sep 2023 16:03:38 +0000</pubDate>
-      </item><item>
-        <title>new note 3898551 (near North Hungary, 3395, Hungary) / * 2023 September 20 09:53 Pan Perníček Created: Forwarding anonymous report from #Mapycz user, please verify: Pub no longer exists. / https://www.openstreetmap.org/way/512874874</title>
-        <link>https://www.openstreetmap.org/note/3898551#c8459654</link>
-        <guid>https://www.openstreetmap.org/note/3898551#c8459654</guid>
-        <pubDate>Wed, 20 Sep 2023 09:53:05 +0000</pubDate>
       </item>
   </channel>
 </rss>
