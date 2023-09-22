@@ -3,6 +3,11 @@
   <channel>
     <title>Wireless News (via bkil-bot)</title>
       <item>
+        <title>Re: Help with network adapter on monitor mode.: Just came across this post.. better late than never NetworkManager will usually interfere with monitor mode. Your description of related services suddenly quitting is a good indication as NetworkManager will revert your adapter settings. This can be avoided by using --&amp;gt; airmon-ng check kill. After killing those interfering process, you can run --&amp;gt; airmon-ng start wlan0 to place the adapter in monitor mode.. if your wireless adapter supports this feature. Try using iwlist in order to explore the capabilities of the adapter. -Stratt3000</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11873#p11873</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11873#p11873</guid>
+        <pubDate>2023-09-22T11:53:06</pubDate>
+      </item><item>
         <title>Re: Help with network adapter on monitor mode.: google search these, it's your fastest way to find out. the answer is NO -toothpaste</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11662#p11662</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11662#p11662</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=10165#p10165</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=10165#p10165</guid>
         <pubDate>2019-05-28T21:37:26</pubDate>
-      </item><item>
-        <title>Re: Wifi Blocking Wallpaper: It can only attenuate a portion. Any good antenna will compensate!And you have the signals coming from below and upper floor. Can travel three floors easily. Plus the windows. What are they doing this for ? Just buy a professional jammer and all is gone. Or they have electomagnetic-illness ? Do we know the real purpose of this wallpaper ? Ciao -mpeg4ever</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=10164#p10164</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=10164#p10164</guid>
-        <pubDate>2019-05-27T07:48:46</pubDate>
       </item>
   </channel>
 </rss>
