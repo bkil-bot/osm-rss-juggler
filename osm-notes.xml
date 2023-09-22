@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3736199 (near Central Hungary, 1111, Hungary) / * 2023 June 15 12:47 kogutowicz-mano Created: Június 30-val megszűnik a kocsma. / https://24.hu/belfold/2023/06/15/aranykorso-zaras-bezar-keruletet-okoljak-budai-kocsma/ / * 2023 August 7 17:44 infeeeee Updated: Még augusztus végéig biztosan nyitva vannak, utána kell majd ellenőrizni. Bővebb infó facebook oldalukon: https://www.facebook.com/profile.php?id=100063621983990, és irl is láttam, hogy még üzemel. / * 2023 September 22 07:55 infeeeee Resolved: Beszéltem a pultossal, úgy néz ki maradhatnak még, nincs hivatalos zárási dátum, nyitvatartást frissítettem.</title>
+        <link>https://www.openstreetmap.org/note/3736199#c8466911</link>
+        <guid>https://www.openstreetmap.org/note/3736199#c8466911</guid>
+        <pubDate>Fri, 22 Sep 2023 07:55:33 +0000</pubDate>
+      </item><item>
         <title>new note 3901999 (near North Great Plain, 4060, Hungary) / * 2023 September 22 07:10 ssummoner1 Created: Balmazújváros, Hímes utca 4. - később ezt is megszerkesztem</title>
         <link>https://www.openstreetmap.org/note/3901999#c8466815</link>
         <guid>https://www.openstreetmap.org/note/3901999#c8466815</guid>
@@ -212,26 +217,6 @@
         <link>https://www.openstreetmap.org/note/3796540#c8461804</link>
         <guid>https://www.openstreetmap.org/note/3796540#c8461804</guid>
         <pubDate>Wed, 20 Sep 2023 18:46:48 +0000</pubDate>
-      </item><item>
-        <title>closed note 3888495 (near South Great Plain, 6724, Hungary) / * 2023 September 14 12:41 Beroesz Created: Az itt lévő épületet letúrták és a helyére 2023 nyarára társasház épült. / * 2023 September 20 18:38 gabro00 Resolved: Köszi, felvettem https://www.openstreetmap.org/changeset/141527019</title>
-        <link>https://www.openstreetmap.org/note/3888495#c8461778</link>
-        <guid>https://www.openstreetmap.org/note/3888495#c8461778</guid>
-        <pubDate>Wed, 20 Sep 2023 18:38:16 +0000</pubDate>
-      </item><item>
-        <title>new comment 3757756 (near South Great Plain, 6720, Hungary) / * 2023 June 29 19:53 ITineris Created: Ez a rész a Vármúzeumtól a körforgalomig osztott pályás lett; így kellene átrajzolni. / Ja, és már igazi körforgalom van, azt pedig ennek megfelelően. / * 2023 July 8 23:37 gabro00 Updated: Nagyon jó... nem is olyan rég, a https://www.openstreetmap.org/changeset/94509694 módosításcsomagban alakítottam mini körforgalomra, lehet megér egy próbát a visszavonás újrarajzolás helyett. / * 2023 July 16 12:55 ITineris Updated: Sajnos a trolis kapcsolatok miatt nem triviális. / * 2023 September 20 18:27 gabro00 Updated: Csináltam már hasonlót, előtúrom a szkriptemet.</title>
-        <link>https://www.openstreetmap.org/note/3757756#c8461753</link>
-        <guid>https://www.openstreetmap.org/note/3757756#c8461753</guid>
-        <pubDate>Wed, 20 Sep 2023 18:27:37 +0000</pubDate>
-      </item><item>
-        <title>closed note 3270415 (near South Great Plain, 6720, Hungary) / * 2022 July 17 00:31 CopperOppositeKindred Created: Unable to answer &amp;quot;What are the opening hours here?&amp;quot; for https://osm.org/way/487813848 via StreetComplete 43.2: / Elköltözött ide: Rákóczi 1 / Attached photo(s): / https://westnordost.de/p/102858.jpg / * 2023 September 20 18:26 gabro00 Resolved: Levettem, a Kormányablak címkézés kielégítő kell legyen a Rákóczi téren / https://www.openstreetmap.org/changeset/141526630</title>
-        <link>https://www.openstreetmap.org/note/3270415#c8461751</link>
-        <guid>https://www.openstreetmap.org/note/3270415#c8461751</guid>
-        <pubDate>Wed, 20 Sep 2023 18:26:30 +0000</pubDate>
-      </item><item>
-        <title>closed note 3813853 (near South Great Plain, 6725, Hungary) / * 2023 August 3 09:21 GBAB Created: There is a new building=apartement here. Draw using recent imagery / * 2023 September 20 18:21 gabro00 Resolved: https://www.openstreetmap.org/changeset/141526484</title>
-        <link>https://www.openstreetmap.org/note/3813853#c8461733</link>
-        <guid>https://www.openstreetmap.org/note/3813853#c8461733</guid>
-        <pubDate>Wed, 20 Sep 2023 18:21:14 +0000</pubDate>
       </item>
   </channel>
 </rss>
