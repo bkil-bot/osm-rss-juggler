@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3904051 (near Koricsánszkytanya, Pécel) / * 2023 September 23 15:20 vasony Resolved: javítva</title>
+        <link>https://www.openstreetmap.org/note/3904051#c8471714</link>
+        <guid>https://www.openstreetmap.org/note/3904051#c8471714</guid>
+        <pubDate>Sat, 23 Sep 2023 15:20:11 +0000</pubDate>
+      </item><item>
         <title>new note 3904144 (near North Hungary, 2671, Hungary) / * 2023 September 23 13:43 balint36 Created: Új Ipoly-hídhoz vezető út nyomvonala / via StreetComplete 54.0 / GPS Trace: https://www.openstreetmap.org/user/balint36/traces/10452945</title>
         <link>https://www.openstreetmap.org/note/3904144#c8471252</link>
         <guid>https://www.openstreetmap.org/note/3904144#c8471252</guid>
@@ -227,11 +232,6 @@
         <link>https://www.openstreetmap.org/note/3900221#c8465673</link>
         <guid>https://www.openstreetmap.org/note/3900221#c8465673</guid>
         <pubDate>Thu, 21 Sep 2023 19:17:20 +0000</pubDate>
-      </item><item>
-        <title>new note 3900844 (near Central Hungary, 1026, Hungary) / * 2023 September 21 13:33 OSM KAMI Created: épület / via StreetComplete 54.0 / Attached photo(s): / https://westnordost.de/p/176103.jpg</title>
-        <link>https://www.openstreetmap.org/note/3900844#c8464374</link>
-        <guid>https://www.openstreetmap.org/note/3900844#c8464374</guid>
-        <pubDate>Thu, 21 Sep 2023 13:33:37 +0000</pubDate>
       </item>
   </channel>
 </rss>
