@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment 3891016 (near Central Transdanubia, 8174, Hungary) / * 2023 September 16 05:35 vasony Created: Ez a Soós-hegy utca vagy Sóshegyi utca? / * 2023 September 16 09:08 vasony Updated: nincs tábla / * 2023 September 24 09:16 vasony Updated: Földhivatal szerint ez a Soós hegy utca, önkormányzat vagyonrendelete szerint ez és a Vízmű köz is Soós-hegy utca.</title>
+        <link>https://www.openstreetmap.org/note/3891016#c8473825</link>
+        <guid>https://www.openstreetmap.org/note/3891016#c8473825</guid>
+        <pubDate>Sun, 24 Sep 2023 09:16:17 +0000</pubDate>
+      </item><item>
+        <title>new comment 3757756 (near South Great Plain, 6720, Hungary) / * 2023 September 24 08:58 gabro00 Updated: Igen-igen, a geometria és a kapcsolatok már jónak tűnnek, a kerékpáros címkéket bogozom még...</title>
+        <link>https://www.openstreetmap.org/note/3757756#c8473750</link>
+        <guid>https://www.openstreetmap.org/note/3757756#c8473750</guid>
+        <pubDate>Sun, 24 Sep 2023 08:58:37 +0000</pubDate>
+      </item><item>
+        <title>new comment 3757756 (near South Great Plain, 6720, Hungary) / * 2023 September 24 08:40 ITineris Updated: Akkor fel is töltöd az OSM-be, és lezárod ezt? ;)</title>
+        <link>https://www.openstreetmap.org/note/3757756#c8473686</link>
+        <guid>https://www.openstreetmap.org/note/3757756#c8473686</guid>
+        <pubDate>Sun, 24 Sep 2023 08:40:15 +0000</pubDate>
+      </item><item>
+        <title>new comment 3757756 (near South Great Plain, 6720, Hungary) / * 2023 June 29 19:53 ITineris Created: Ez a rész a Vármúzeumtól a körforgalomig osztott pályás lett; így kellene átrajzolni. / Ja, és már igazi körforgalom van, azt pedig ennek megfelelően. / * 2023 July 8 23:37 gabro00 Updated: Nagyon jó... nem is olyan rég, a https://www.openstreetmap.org/changeset/94509694 módosításcsomagban alakítottam mini körforgalomra, lehet megér egy próbát a visszavonás újrarajzolás helyett. / * 2023 July 16 12:55 ITineris Updated: Sajnos a trolis kapcsolatok miatt nem triviális. / * 2023 September 20 18:27 gabro00 Updated: Csináltam már hasonlót, előtúrom a szkriptemet. / * 2023 September 23 09:50 gabro00 Updated: Meddig legyen külön vonal, amíg fizikai elválasztás van? / * 2023 September 23 10:09 ITineris Updated: Általában az az alapszabály, hogy a fizikailag átjárható (akár záróvonalas) utak legyenek egy vonallal, a fizikailag elválasztottak kettővel. / * 2023 September 24 08:35 gabro00 Updated: A Vörösmarty utca felől akkor nem lesz flare, mert ott nincs semmi fizikai elválasztás, járdasziget vagy hasonló. / Kicsit több időbe telt átírni a szkriptet, de úgy tűnik jól működik, kb. 10 perc alatt sikerült átrakni az összes kapcsolatot az új utakra.</title>
+        <link>https://www.openstreetmap.org/note/3757756#c8473662</link>
+        <guid>https://www.openstreetmap.org/note/3757756#c8473662</guid>
+        <pubDate>Sun, 24 Sep 2023 08:35:00 +0000</pubDate>
+      </item><item>
         <title>closed note 3768588 (near South Great Plain, 6727, Hungary) / * 2023 July 6 21:00 borazslo Created: A Lidicei tér 1. szám alatt mintha két iskola is lenne: / https://szegedips.edupage.org/contact/ / és http://sobszeged.hu/cpg/168545/Iskolankrol / Melyik igaz? Illetve melyik hol van? Fel lehetne tenni mindkettőt? / * 2023 July 8 23:25 gabro00 Updated: Szegedi Szent Benedek School of Business Technikum - 6721 Szeged, Osztrovszky utca 5. (https://www.openstreetmap.org/way/699158713, egy frissítés ráférne) / Szeged International Primary School pedig magániskolának tűnik Lidicei tér 1. szám alatt. / * 2023 July 8 23:58 borazslo Updated: A Bencések iskolájának központja valóban az Osztrovszky utcában van. De ez mintha annak lenne egy telephelye. A Szent Benedek School of Business honlapján a képen a Lidicei téri épület van: http://sobszeged.hu/cpg/168545/Iskolankrol  és a Lidicei tér van megadva címnek. / * 2023 July 9 00:04 borazslo Updated: A Google Street View képen - tudom az OSM forrásnak nem oké - mintha az egyetlen épületen rajta lenne a SzentBenedek feliratai és az International Primary School logója. Egy épületben ketten? / * 2023 July 9 07:39 gabro00 Updated: Igen, az oldalon található működési szabályzatában említi mindkét címet, Osztrovszky utcai központtal és Lidicei téri telephellyel. Ez alapján a feltételezés, miszerint egy épületben két suli működik, megállja a helyét. http://sobszeged.hu/ordered/64169/pic/SZMSZ.pdf / További információ további telephelyekről (az Olajbányász teret és az Agyagos utcát is említik) https://www.oktatas.hu/hivatali_ugyek/kir_intezmenykereso és / https://szir.nive.hu/publikus/intezmeny-reszletes / oldalakon 203366 OM azonosítóval található. / * 2023 September 24 07:15 gabro00 Resolved: Úgy tűnik ITineris nemrég rendet rakott, mindkét iskola felkerült a térképre.</title>
         <link>https://www.openstreetmap.org/note/3768588#c8473497</link>
         <guid>https://www.openstreetmap.org/note/3768588#c8473497</guid>
@@ -177,26 +197,6 @@
         <link>https://www.openstreetmap.org/note/3901997#c8466812</link>
         <guid>https://www.openstreetmap.org/note/3901997#c8466812</guid>
         <pubDate>Fri, 22 Sep 2023 07:09:45 +0000</pubDate>
-      </item><item>
-        <title>new note 3901612 (near Central Hungary, 1093, Hungary) / * 2023 September 21 22:39 freebeer Created: these two lodging POIs need cleaning up</title>
-        <link>https://www.openstreetmap.org/note/3901612#c8466134</link>
-        <guid>https://www.openstreetmap.org/note/3901612#c8466134</guid>
-        <pubDate>Thu, 21 Sep 2023 22:39:49 +0000</pubDate>
-      </item><item>
-        <title>new note 3901611 (near Central Hungary, 1067, Hungary) / * 2023 September 21 22:39 freebeer Created: is this really here, or does it refer to deep guest house next door?</title>
-        <link>https://www.openstreetmap.org/note/3901611#c8466133</link>
-        <guid>https://www.openstreetmap.org/note/3901611#c8466133</guid>
-        <pubDate>Thu, 21 Sep 2023 22:39:39 +0000</pubDate>
-      </item><item>
-        <title>new note 3901610 (near Central Hungary, 1072, Hungary) / * 2023 September 21 22:39 freebeer Created: is this real, where, and what is its signed name, or is this a date?</title>
-        <link>https://www.openstreetmap.org/note/3901610#c8466132</link>
-        <guid>https://www.openstreetmap.org/note/3901610#c8466132</guid>
-        <pubDate>Thu, 21 Sep 2023 22:39:30 +0000</pubDate>
-      </item><item>
-        <title>new note 3901609 (near Central Hungary, 1052, Hungary) / * 2023 September 21 22:39 freebeer Created: where and what is this?</title>
-        <link>https://www.openstreetmap.org/note/3901609#c8466130</link>
-        <guid>https://www.openstreetmap.org/note/3901609#c8466130</guid>
-        <pubDate>Thu, 21 Sep 2023 22:39:20 +0000</pubDate>
       </item>
   </channel>
 </rss>
