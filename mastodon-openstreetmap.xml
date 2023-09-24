@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>There&amp;#39;s a new map style on OpenStreetMap.org! The Tracestrack Topo map from @tracestrack. It&amp;#39;s a mix of osm-carto and OpenTopoMap. It has many improvements: more tag support (busway, embankment, cuisine, solar plants, aquaculture, pitch, sea, tree etc.), CJK fonts, etc. There is also better internationalisation: country specific road shields, peaks using imperial system in the US, hierarchical place rendering in China, etc. #OpenStreetMap #OSM #gischat #maps A screenshot of OSM.org showing the map layer sector open and showing tracesstrack Topo map selected and that as a map shown</title>
+        <link>https://en.osm.town/@openstreetmap/111120663721969898</link>
+        <guid>https://en.osm.town/@openstreetmap/111120663721969898</guid>
+        <pubDate>Sun, 24 Sep 2023 14:46:08 +0000</pubDate>
+      </item><item>
         <title>If you want to feel good about the #OpenStreetMap mapping world, go to https://Supporting.OpenStreetMap.org/donate and read the comments left by the people who have made a gift to #OSM.</title>
         <link>https://en.osm.town/@openstreetmap/111097553928090367</link>
         <guid>https://en.osm.town/@openstreetmap/111097553928090367</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/110967762514614668</link>
         <guid>https://en.osm.town/@openstreetmap/110967762514614668</guid>
         <pubDate>Mon, 28 Aug 2023 14:41:20 +0000</pubDate>
-      </item><item>
-        <title>We should point out that @Firefishy is the OSMF&amp;#39;s Site *Reliability* Engineer. Sorry for the typo! mea culpa.</title>
-        <link>https://en.osm.town/@openstreetmap/110937623710443952</link>
-        <guid>https://en.osm.town/@openstreetmap/110937623710443952</guid>
-        <pubDate>Wed, 23 Aug 2023 06:56:39 +0000</pubDate>
       </item>
   </channel>
 </rss>
