@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3768588 (near South Great Plain, 6727, Hungary) / * 2023 July 6 21:00 borazslo Created: A Lidicei tér 1. szám alatt mintha két iskola is lenne: / https://szegedips.edupage.org/contact/ / és http://sobszeged.hu/cpg/168545/Iskolankrol / Melyik igaz? Illetve melyik hol van? Fel lehetne tenni mindkettőt? / * 2023 July 8 23:25 gabro00 Updated: Szegedi Szent Benedek School of Business Technikum - 6721 Szeged, Osztrovszky utca 5. (https://www.openstreetmap.org/way/699158713, egy frissítés ráférne) / Szeged International Primary School pedig magániskolának tűnik Lidicei tér 1. szám alatt. / * 2023 July 8 23:58 borazslo Updated: A Bencések iskolájának központja valóban az Osztrovszky utcában van. De ez mintha annak lenne egy telephelye. A Szent Benedek School of Business honlapján a képen a Lidicei téri épület van: http://sobszeged.hu/cpg/168545/Iskolankrol  és a Lidicei tér van megadva címnek. / * 2023 July 9 00:04 borazslo Updated: A Google Street View képen - tudom az OSM forrásnak nem oké - mintha az egyetlen épületen rajta lenne a SzentBenedek feliratai és az International Primary School logója. Egy épületben ketten? / * 2023 July 9 07:39 gabro00 Updated: Igen, az oldalon található működési szabályzatában említi mindkét címet, Osztrovszky utcai központtal és Lidicei téri telephellyel. Ez alapján a feltételezés, miszerint egy épületben két suli működik, megállja a helyét. http://sobszeged.hu/ordered/64169/pic/SZMSZ.pdf / További információ további telephelyekről (az Olajbányász teret és az Agyagos utcát is említik) https://www.oktatas.hu/hivatali_ugyek/kir_intezmenykereso és / https://szir.nive.hu/publikus/intezmeny-reszletes / oldalakon 203366 OM azonosítóval található. / * 2023 September 24 07:15 gabro00 Resolved: Úgy tűnik ITineris nemrég rendet rakott, mindkét iskola felkerült a térképre.</title>
+        <link>https://www.openstreetmap.org/note/3768588#c8473497</link>
+        <guid>https://www.openstreetmap.org/note/3768588#c8473497</guid>
+        <pubDate>Sun, 24 Sep 2023 07:15:08 +0000</pubDate>
+      </item><item>
+        <title>new comment 3056465 (near North Hungary, 3580, Hungary) / * 2022 February 18 15:20 kogutowicz-mano Created: Itt tényleg elágaznak a 132 kV-os vezetékek? Ez nagyon nem szokás. / * 2023 September 24 07:10 kogutowicz-mano Updated: Szokás, de ez esetben nincs rá bizonyíték. Pár  részletes fotó jól jönne.</title>
+        <link>https://www.openstreetmap.org/note/3056465#c8473489</link>
+        <guid>https://www.openstreetmap.org/note/3056465#c8473489</guid>
+        <pubDate>Sun, 24 Sep 2023 07:10:40 +0000</pubDate>
+      </item><item>
+        <title>new note 3905221 (near North Hungary, 3580, Hungary) / * 2023 September 24 06:41 kogutowicz-mano Created: Hogy kócolódnak itt összevissza a vezetékek? Sok részletes fotó kellene az oszlopokról.</title>
+        <link>https://www.openstreetmap.org/note/3905221#c8473455</link>
+        <guid>https://www.openstreetmap.org/note/3905221#c8473455</guid>
+        <pubDate>Sun, 24 Sep 2023 06:41:24 +0000</pubDate>
+      </item><item>
         <title>new note 3905163 (near Central Transdanubia, 8174, Hungary) / * 2023 September 24 05:44 vasony Created: Lakó-pihenő övezet felülvizsgálatndó, az Alteleki úton már 30-as zóna van kint a lakó-pihenő övezet tábla helyettt.</title>
         <link>https://www.openstreetmap.org/note/3905163#c8473349</link>
         <guid>https://www.openstreetmap.org/note/3905163#c8473349</guid>
@@ -182,21 +197,6 @@
         <link>https://www.openstreetmap.org/note/3901609#c8466130</link>
         <guid>https://www.openstreetmap.org/note/3901609#c8466130</guid>
         <pubDate>Thu, 21 Sep 2023 22:39:20 +0000</pubDate>
-      </item><item>
-        <title>new note 3901608 (near Central Hungary, 1027, Hungary) / * 2023 September 21 22:39 freebeer Created: is this real and not a maps.me personal bookmark, and where?</title>
-        <link>https://www.openstreetmap.org/note/3901608#c8466129</link>
-        <guid>https://www.openstreetmap.org/note/3901608#c8466129</guid>
-        <pubDate>Thu, 21 Sep 2023 22:39:11 +0000</pubDate>
-      </item><item>
-        <title>new note 3901607 (near Central Hungary, 1011, Hungary) / * 2023 September 21 22:39 freebeer Created: what is the signed name of this and where, or does this refer to nearby boutique hotel victoria b&amp;#39;pest?</title>
-        <link>https://www.openstreetmap.org/note/3901607#c8466128</link>
-        <guid>https://www.openstreetmap.org/note/3901607#c8466128</guid>
-        <pubDate>Thu, 21 Sep 2023 22:39:01 +0000</pubDate>
-      </item><item>
-        <title>new note 3901603 (near Central Hungary, 1085, Hungary) / * 2023 September 21 22:38 freebeer Created: is this real and where, or the childcare?</title>
-        <link>https://www.openstreetmap.org/note/3901603#c8466124</link>
-        <guid>https://www.openstreetmap.org/note/3901603#c8466124</guid>
-        <pubDate>Thu, 21 Sep 2023 22:38:20 +0000</pubDate>
       </item>
   </channel>
 </rss>
