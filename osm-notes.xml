@@ -3,6 +3,46 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment 3905982 (near South Great Plain, 6726, Hungary) / * 2023 September 24 13:02 ITineris Updated: Én voltam.</title>
+        <link>https://www.openstreetmap.org/note/3905982#c8474715</link>
+        <guid>https://www.openstreetmap.org/note/3905982#c8474715</guid>
+        <pubDate>Sun, 24 Sep 2023 13:02:12 +0000</pubDate>
+      </item><item>
+        <title>new note 3905982 (near South Great Plain, 6726, Hungary) / * 2023 September 24 13:02 Created: A weblapjuk szerint az egyik nagy (téglalap) medencében is van termál. Melyikben? / A címkézéseket ennek megfelelően kellene módosítani mindkettőn.</title>
+        <link>https://www.openstreetmap.org/note/3905982#c8474713</link>
+        <guid>https://www.openstreetmap.org/note/3905982#c8474713</guid>
+        <pubDate>Sun, 24 Sep 2023 13:02:03 +0000</pubDate>
+      </item><item>
+        <title>closed note 3757756 (near South Great Plain, 6720, Hungary) / * 2023 September 24 12:59 gabro00 Resolved: Nyitva szoktam hagyni, mert szerkesztés után még double/triple checkelni szoktam, pl. egy renderre ránézve kijöhetnek hibák, ami felett elsiklottam. / Most a https://www.openstreetmap.org/way/1210535493 (és a párja) maradt tertiary, de mivel még nyitva volt a changeset, gyors hozzá tudtam dobni még a javítást residential-ra. / Egyébként a körforgalmat nem daraboltam, a pt_assistant pluginnek van körforgalomdaraboló funkciója, de valamiért nem működik rendesen.</title>
+        <link>https://www.openstreetmap.org/note/3757756#c8474700</link>
+        <guid>https://www.openstreetmap.org/note/3757756#c8474700</guid>
+        <pubDate>Sun, 24 Sep 2023 12:59:33 +0000</pubDate>
+      </item><item>
+        <title>reactivated note 3757756 (near South Great Plain, 6720, Hungary) / * 2023 September 24 12:55 gabro00 Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/3757756#c8474688</link>
+        <guid>https://www.openstreetmap.org/note/3757756#c8474688</guid>
+        <pubDate>Sun, 24 Sep 2023 12:55:20 +0000</pubDate>
+      </item><item>
+        <title>closed note 3757756 (near South Great Plain, 6720, Hungary) / * 2023 September 24 12:54 ITineris Resolved: Szuper! / (Az OSM azt írja nekem, még nyitva van a changeset.)</title>
+        <link>https://www.openstreetmap.org/note/3757756#c8474681</link>
+        <guid>https://www.openstreetmap.org/note/3757756#c8474681</guid>
+        <pubDate>Sun, 24 Sep 2023 12:54:12 +0000</pubDate>
+      </item><item>
+        <title>new comment 3757756 (near South Great Plain, 6720, Hungary) / * 2023 September 24 12:50 gabro00 Updated: Felraktam https://www.openstreetmap.org/changeset/141681032</title>
+        <link>https://www.openstreetmap.org/note/3757756#c8474664</link>
+        <guid>https://www.openstreetmap.org/note/3757756#c8474664</guid>
+        <pubDate>Sun, 24 Sep 2023 12:50:38 +0000</pubDate>
+      </item><item>
+        <title>new note 3905944 (near Central Transdanubia, 8174, Hungary) / * 2023 September 24 12:42 vasony Created: Ez a Muskátli utca?</title>
+        <link>https://www.openstreetmap.org/note/3905944#c8474642</link>
+        <guid>https://www.openstreetmap.org/note/3905944#c8474642</guid>
+        <pubDate>Sun, 24 Sep 2023 12:42:44 +0000</pubDate>
+      </item><item>
+        <title>new note 3905918 (near Central Hungary, 1147, Hungary) / * 2023 September 24 12:25 meskobalazs Created: Unable to answer &amp;quot;What’s the name of this place?&amp;quot; for https://osm.org/node/3512044781 via StreetComplete 54.0: / Megszűnt</title>
+        <link>https://www.openstreetmap.org/note/3905918#c8474596</link>
+        <guid>https://www.openstreetmap.org/note/3905918#c8474596</guid>
+        <pubDate>Sun, 24 Sep 2023 12:25:32 +0000</pubDate>
+      </item><item>
         <title>new note 3905763 (near Western Transdanubia, 9141, Hungary) / * 2023 September 24 11:56 efi99 Created: cím?</title>
         <link>https://www.openstreetmap.org/note/3905763#c8474415</link>
         <guid>https://www.openstreetmap.org/note/3905763#c8474415</guid>
@@ -172,41 +212,6 @@
         <link>https://www.openstreetmap.org/note/3901999#c8467431</link>
         <guid>https://www.openstreetmap.org/note/3901999#c8467431</guid>
         <pubDate>Fri, 22 Sep 2023 11:11:34 +0000</pubDate>
-      </item><item>
-        <title>closed note 3722405 (near Central Transdanubia, 2500, Hungary) / * 2023 June 6 06:59 Spush Created: Is it correct maxweight=3.5? / I think maxweightrating:hgv=3.5 is a better tag, because buses can use the bridge over 3.5 T. / * 2023 September 22 10:20 infeeeee Resolved: Fixed: https://www.openstreetmap.org/changeset/141597822</title>
-        <link>https://www.openstreetmap.org/note/3722405#c8467327</link>
-        <guid>https://www.openstreetmap.org/note/3722405#c8467327</guid>
-        <pubDate>Fri, 22 Sep 2023 10:20:33 +0000</pubDate>
-      </item><item>
-        <title>closed note 3901601 (near Central Hungary, 1074, Hungary) / * 2023 September 21 22:38 freebeer Created: where is this, it needs a name too.  the URL contains a typo as well / * 2023 September 22 08:51 infeeeee Resolved: Updated: https://www.openstreetmap.org/changeset/141593990</title>
-        <link>https://www.openstreetmap.org/note/3901601#c8467054</link>
-        <guid>https://www.openstreetmap.org/note/3901601#c8467054</guid>
-        <pubDate>Fri, 22 Sep 2023 08:51:32 +0000</pubDate>
-      </item><item>
-        <title>closed note 3901602 (near Central Hungary, 1066, Hungary) / * 2023 September 21 22:38 freebeer Created: okay, where is this really? / * 2023 September 22 08:51 infeeeee Resolved: There is an apartment in the address written in this node, I think it&amp;#39;s a duplicate, deleted: https://www.openstreetmap.org/changeset/141593990</title>
-        <link>https://www.openstreetmap.org/note/3901602#c8467053</link>
-        <guid>https://www.openstreetmap.org/note/3901602#c8467053</guid>
-        <pubDate>Fri, 22 Sep 2023 08:51:20 +0000</pubDate>
-      </item><item>
-        <title>closed note 3468472 (near Central Hungary, 1112, Hungary) / * 2022 December 5 22:03 vasony Created: A, B, C épületek. melyik melyik? / * 2023 September 22 08:34 vasony Resolved: Magánterület, nem lehet bejutni</title>
-        <link>https://www.openstreetmap.org/note/3468472#c8467023</link>
-        <guid>https://www.openstreetmap.org/note/3468472#c8467023</guid>
-        <pubDate>Fri, 22 Sep 2023 08:34:38 +0000</pubDate>
-      </item><item>
-        <title>closed note 3864788 (near Central Hungary, 1118, Hungary) / * 2023 September 1 06:52 vasony Created: Hivatalosan Budaörsi út 44/a? / Forrás KCR, ellenőrizendő. / * 2023 September 22 08:34 vasony Resolved: Ellenőrizve</title>
-        <link>https://www.openstreetmap.org/note/3864788#c8467020</link>
-        <guid>https://www.openstreetmap.org/note/3864788#c8467020</guid>
-        <pubDate>Fri, 22 Sep 2023 08:34:21 +0000</pubDate>
-      </item><item>
-        <title>closed note 3901594 (near Central Hungary, 1084, Hungary) / * 2023 September 21 22:35 freebeer Created: either this should be named like Beatrice (and needs info), or someone of that name lives here / * 2023 September 22 08:28 infeeeee Resolved: Updated based on info on the internet. Beatrice is the name of the owner, not the name of the apartment... https://www.osm.org/changeset/141593043</title>
-        <link>https://www.openstreetmap.org/note/3901594#c8467007</link>
-        <guid>https://www.openstreetmap.org/note/3901594#c8467007</guid>
-        <pubDate>Fri, 22 Sep 2023 08:28:26 +0000</pubDate>
-      </item><item>
-        <title>closed note 3736199 (near Central Hungary, 1111, Hungary) / * 2023 June 15 12:47 kogutowicz-mano Created: Június 30-val megszűnik a kocsma. / https://24.hu/belfold/2023/06/15/aranykorso-zaras-bezar-keruletet-okoljak-budai-kocsma/ / * 2023 August 7 17:44 infeeeee Updated: Még augusztus végéig biztosan nyitva vannak, utána kell majd ellenőrizni. Bővebb infó facebook oldalukon: https://www.facebook.com/profile.php?id=100063621983990, és irl is láttam, hogy még üzemel. / * 2023 September 22 07:55 infeeeee Resolved: Beszéltem a pultossal, úgy néz ki maradhatnak még, nincs hivatalos zárási dátum, nyitvatartást frissítettem.</title>
-        <link>https://www.openstreetmap.org/note/3736199#c8466911</link>
-        <guid>https://www.openstreetmap.org/note/3736199#c8466911</guid>
-        <pubDate>Fri, 22 Sep 2023 07:55:33 +0000</pubDate>
       </item>
   </channel>
 </rss>
