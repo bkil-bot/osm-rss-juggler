@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Javítva: https://www.openstreetmap.org/changeset/141723661 -infeeeee</title>
+        <link>https://www.openstreetmap.org/changeset/140977267</link>
+        <guid>https://www.openstreetmap.org/changeset/140977267#comment_5</guid>
+        <pubDate>2023-09-25T10:09:12+02:00</pubDate>
+      </item><item>
         <title>Szia! Ez a Jugoszlávia most működik vagy sem? Mert az étterem pontot meghagytad. Illetve az épület nem lehet disused, vagy van vagy nincs, ha nincs, akkor demolished:building, ha van. akkor building és célszerű csak az épületet körbe rajzolni, nem az egész telket ha building címkét teszel rá Tamás -vasony</title>
         <link>https://www.openstreetmap.org/changeset/141680334</link>
         <guid>https://www.openstreetmap.org/changeset/141680334#comment_1</guid>
         <pubDate>2023-09-25T07:57:06+02:00</pubDate>
-      </item><item>
-        <title>Szia! A Kaszap utcán jelez pár hibát a JOSM, rá tudnál nézni? -gabro00</title>
-        <link>https://www.openstreetmap.org/changeset/140977267</link>
-        <guid>https://www.openstreetmap.org/changeset/140977267#comment_1</guid>
-        <pubDate>2023-09-24T20:45:16+02:00</pubDate>
       </item><item>
         <title>DWG revert https://www.openstreetmap.org/changeset/141666791 -Fizzie41</title>
         <link>https://www.openstreetmap.org/changeset/140860626</link>
@@ -62,11 +62,6 @@
         <link>https://www.openstreetmap.org/changeset/122412751</link>
         <guid>https://www.openstreetmap.org/changeset/122412751#comment_2</guid>
         <pubDate>2023-09-18T17:23:37+02:00</pubDate>
-      </item><item>
-        <title>Igen, leírja utána az okokat, hogy sok esetben nem jó ez a címke, és akkor inkább, legyen egy olyan címke ami minden esetre jó mint kettő a külön esetekre. &quot;Deprecated&quot;-et &quot;elavult&quot;-nak szokták fordítani, nem rossz, csak van jobb is. Te szoktad egységesítgetni a címkéket országszerte, ez valahogy annak kicsit szembemegy szerintem. Amit viszont ír a végén kiemelve, hogy a prefixet használd emellett is, csak akkor már minek két címke ugyanarra a dologra? &gt; Therefore, you must also make any tags which no longer have current meaning as a result of the abandonment unavailable to software which doesn't know about the abandoned=yes tag -infeeeee</title>
-        <link>https://www.openstreetmap.org/changeset/141344653</link>
-        <guid>https://www.openstreetmap.org/changeset/141344653#comment_3</guid>
-        <pubDate>2023-09-18T10:29:49+02:00</pubDate>
       </item>
   </channel>
 </rss>
