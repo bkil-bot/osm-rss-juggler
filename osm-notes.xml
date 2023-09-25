@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3906537 (near Southern Transdanubia, 7636, Hungary) / * 2023 September 24 17:40 Created: Az utcának már ez a része is Malom-hegyi út? / * 2023 September 24 17:40 ITineris Updated: Én voltam. / * 2023 September 25 05:43 ITineris Resolved: Az építési szabályzaton kb. az egész környék az, a füves részen átvezető ösvénnyel egyetemben.</title>
+        <link>https://www.openstreetmap.org/note/3906537#c8477231</link>
+        <guid>https://www.openstreetmap.org/note/3906537#c8477231</guid>
+        <pubDate>Mon, 25 Sep 2023 05:43:54 +0000</pubDate>
+      </item><item>
         <title>new comment 3905982 (near South Great Plain, 6726, Hungary) / * 2023 September 24 13:02 Created: A weblapjuk szerint az egyik nagy (téglalap) medencében is van termál. Melyikben? / A címkézéseket ennek megfelelően kellene módosítani mindkettőn. / * 2023 September 24 13:02 ITineris Updated: Én voltam. / * 2023 September 24 13:42 gabro00 Updated: Ez a termálvizes medence https://www.openstreetmap.org/way/283180059 / * 2023 September 24 13:42 gabro00 Updated: Ja pardon, téglalap, tudni kéne olvasni :) / * 2023 September 24 13:47 ITineris Updated: Igen, az amorffal együtt összesen 2 termál medence. / * 2023 September 24 20:00 gabro00 Updated: Töltő-ürítő rendszerű mindhárom medence, ez alapján mindhárom termálvizes (közműből nem győznék fizetni). / A Wiki ezt írja a termálvízről: termálvíz vagy hévíz az a felszín alatti víz, amelynek hőmérséklete meghaladja a 20 °C-ot / https://hu.wikipedia.org/wiki/Term%C3%A1lv%C3%ADz / * 2023 September 24 20:02 gabro00 Updated: Ráadásul a háromból csak kettő üzemel, tehát pont meg is van a két termálvizes medence. / * 2023 September 25 04:45 ITineris Updated: Búúú. Tisztában vagyok a termálvíz definíciójával, itt nem ez a kérdés. (Ráadásul anno a fiaimmal voltunk is ezekben a medencékben.) / Azt láttam, hogy van három körvonal. De a két téglalapból jelenleg az egyik disused (a note-hoz közelebbi), ezt a renderelők sem rakják ki. Viszont a másik is access=no, és a megjegyzés szerint nem üzemel. / Ha a nyugatabbi medence működik, akkor az access=no-t le kell szedni róla. / Ha a keleti medence működik (ez lenne a logikusabb), akkor a disused-et kell leszedni róla az access=no-val egyetemben.</title>
         <link>https://www.openstreetmap.org/note/3905982#c8477164</link>
         <guid>https://www.openstreetmap.org/note/3905982#c8477164</guid>
@@ -292,11 +297,6 @@
         <link>https://www.openstreetmap.org/note/3903165#c8469280</link>
         <guid>https://www.openstreetmap.org/note/3903165#c8469280</guid>
         <pubDate>Fri, 22 Sep 2023 20:05:18 +0000</pubDate>
-      </item><item>
-        <title>new note 3903163 (near Southern Transdanubia, 7349, Hungary) / * 2023 September 22 20:04 Created: Itt behajtani tilos kivéve célforgalom tábla van a Diófa utcán az Arany János utca irányába</title>
-        <link>https://www.openstreetmap.org/note/3903163#c8469277</link>
-        <guid>https://www.openstreetmap.org/note/3903163#c8469277</guid>
-        <pubDate>Fri, 22 Sep 2023 20:04:32 +0000</pubDate>
       </item>
   </channel>
 </rss>
