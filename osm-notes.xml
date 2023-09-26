@@ -3,6 +3,36 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3490506 (near 2141, Central Hungary, 2141, Hungary) / * 2022 December 25 12:09 Datguymarkus Created: Twin houses, addresses may differ. / Ikerház, a házszámok eltérhetnek. / via StreetComplete 50.0 / * 2023 September 26 21:08 infeeeee Resolved: Szétvágva, fixme, hogy a házszámok megerősítésére: https://www.osm.org/changeset/141792039</title>
+        <link>https://www.openstreetmap.org/note/3490506#c8484570</link>
+        <guid>https://www.openstreetmap.org/note/3490506#c8484570</guid>
+        <pubDate>Tue, 26 Sep 2023 21:08:52 +0000</pubDate>
+      </item><item>
+        <title>closed note 3903808 (near Central Hungary, 1164, Hungary) / * 2023 September 23 10:47 maximilianvesper Created: Unable to answer &amp;quot;Is there a shelter at this stop?&amp;quot; for https://osm.org/way/99059714 via StreetComplete 54.0: / The shelter is the small building seperately mapped. / * 2023 September 26 21:07 infeeeee Resolved: Tags fixed: https://www.osm.org/changeset/141792039</title>
+        <link>https://www.openstreetmap.org/note/3903808#c8484567</link>
+        <guid>https://www.openstreetmap.org/note/3903808#c8484567</guid>
+        <pubDate>Tue, 26 Sep 2023 21:07:56 +0000</pubDate>
+      </item><item>
+        <title>closed note 3534870 (near 2112, Central Hungary, 2112, Hungary) / * 2023 January 27 21:42 Weisz Ádám Created: Épületek egyesítése szükséges. / via StreetComplete 50.2 / * 2023 September 26 21:07 infeeeee Resolved: Javítva: https://www.osm.org/changeset/141792039</title>
+        <link>https://www.openstreetmap.org/note/3534870#c8484564</link>
+        <guid>https://www.openstreetmap.org/note/3534870#c8484564</guid>
+        <pubDate>Tue, 26 Sep 2023 21:07:09 +0000</pubDate>
+      </item><item>
+        <title>closed note 3534862 (near 2112, Central Hungary, 2112, Hungary) / * 2023 January 27 21:24 Weisz Ádám Created: Épületek egyesítése szükséges / via StreetComplete 50.2 / * 2023 September 26 21:07 infeeeee Resolved: Javítva: https://www.osm.org/changeset/141792039</title>
+        <link>https://www.openstreetmap.org/note/3534862#c8484562</link>
+        <guid>https://www.openstreetmap.org/note/3534862#c8484562</guid>
+        <pubDate>Tue, 26 Sep 2023 21:07:03 +0000</pubDate>
+      </item><item>
+        <title>closed note 3582380 (near 1164, Central Hungary, 1164, Hungary) / * 2023 March 3 10:38 Tajtrdlik Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;This sweet-shop is called Végvári Cukrászda&amp;quot;. / * 2023 September 26 21:02 infeeeee Resolved: Already on the map: https://www.openstreetmap.org/node/4342944592</title>
+        <link>https://www.openstreetmap.org/note/3582380#c8484538</link>
+        <guid>https://www.openstreetmap.org/note/3582380#c8484538</guid>
+        <pubDate>Tue, 26 Sep 2023 21:02:46 +0000</pubDate>
+      </item><item>
+        <title>closed note 3576320 (near 2112, Central Hungary, 2112, Hungary) / * 2023 February 26 21:43 Weisz Ádám Created: Épületek egyesítése szükséges // Unification of buildings is necessary / via StreetComplete 51.0 / * 2023 September 26 20:56 infeeeee Resolved: Azóta javítva lett már</title>
+        <link>https://www.openstreetmap.org/note/3576320#c8484524</link>
+        <guid>https://www.openstreetmap.org/note/3576320#c8484524</guid>
+        <pubDate>Tue, 26 Sep 2023 20:56:30 +0000</pubDate>
+      </item><item>
         <title>new note 3910185 (near Western Transdanubia, 8800, Hungary) / * 2023 September 26 19:30 Created: fgfdgfdg</title>
         <link>https://www.openstreetmap.org/note/3910185#c8484323</link>
         <guid>https://www.openstreetmap.org/note/3910185#c8484323</guid>
@@ -232,41 +262,6 @@
         <link>https://www.openstreetmap.org/note/3905982#c8474715</link>
         <guid>https://www.openstreetmap.org/note/3905982#c8474715</guid>
         <pubDate>Sun, 24 Sep 2023 13:02:12 +0000</pubDate>
-      </item><item>
-        <title>new note 3905982 (near South Great Plain, 6726, Hungary) / * 2023 September 24 13:02 Created: A weblapjuk szerint az egyik nagy (téglalap) medencében is van termál. Melyikben? / A címkézéseket ennek megfelelően kellene módosítani mindkettőn.</title>
-        <link>https://www.openstreetmap.org/note/3905982#c8474713</link>
-        <guid>https://www.openstreetmap.org/note/3905982#c8474713</guid>
-        <pubDate>Sun, 24 Sep 2023 13:02:03 +0000</pubDate>
-      </item><item>
-        <title>closed note 3757756 (near South Great Plain, 6720, Hungary) / * 2023 September 24 12:59 gabro00 Resolved: Nyitva szoktam hagyni, mert szerkesztés után még double/triple checkelni szoktam, pl. egy renderre ránézve kijöhetnek hibák, ami felett elsiklottam. / Most a https://www.openstreetmap.org/way/1210535493 (és a párja) maradt tertiary, de mivel még nyitva volt a changeset, gyors hozzá tudtam dobni még a javítást residential-ra. / Egyébként a körforgalmat nem daraboltam, a pt_assistant pluginnek van körforgalomdaraboló funkciója, de valamiért nem működik rendesen.</title>
-        <link>https://www.openstreetmap.org/note/3757756#c8474700</link>
-        <guid>https://www.openstreetmap.org/note/3757756#c8474700</guid>
-        <pubDate>Sun, 24 Sep 2023 12:59:33 +0000</pubDate>
-      </item><item>
-        <title>reactivated note 3757756 (near South Great Plain, 6720, Hungary) / * 2023 September 24 12:55 gabro00 Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/3757756#c8474688</link>
-        <guid>https://www.openstreetmap.org/note/3757756#c8474688</guid>
-        <pubDate>Sun, 24 Sep 2023 12:55:20 +0000</pubDate>
-      </item><item>
-        <title>closed note 3757756 (near South Great Plain, 6720, Hungary) / * 2023 September 24 12:54 ITineris Resolved: Szuper! / (Az OSM azt írja nekem, még nyitva van a changeset.)</title>
-        <link>https://www.openstreetmap.org/note/3757756#c8474681</link>
-        <guid>https://www.openstreetmap.org/note/3757756#c8474681</guid>
-        <pubDate>Sun, 24 Sep 2023 12:54:12 +0000</pubDate>
-      </item><item>
-        <title>new comment 3757756 (near South Great Plain, 6720, Hungary) / * 2023 September 24 12:50 gabro00 Updated: Felraktam https://www.openstreetmap.org/changeset/141681032</title>
-        <link>https://www.openstreetmap.org/note/3757756#c8474664</link>
-        <guid>https://www.openstreetmap.org/note/3757756#c8474664</guid>
-        <pubDate>Sun, 24 Sep 2023 12:50:38 +0000</pubDate>
-      </item><item>
-        <title>new note 3905944 (near Central Transdanubia, 8174, Hungary) / * 2023 September 24 12:42 vasony Created: Ez a Muskátli utca?</title>
-        <link>https://www.openstreetmap.org/note/3905944#c8474642</link>
-        <guid>https://www.openstreetmap.org/note/3905944#c8474642</guid>
-        <pubDate>Sun, 24 Sep 2023 12:42:44 +0000</pubDate>
-      </item><item>
-        <title>new note 3905918 (near Central Hungary, 1147, Hungary) / * 2023 September 24 12:25 meskobalazs Created: Unable to answer &amp;quot;What’s the name of this place?&amp;quot; for https://osm.org/node/3512044781 via StreetComplete 54.0: / Megszűnt</title>
-        <link>https://www.openstreetmap.org/note/3905918#c8474596</link>
-        <guid>https://www.openstreetmap.org/note/3905918#c8474596</guid>
-        <pubDate>Sun, 24 Sep 2023 12:25:32 +0000</pubDate>
       </item>
   </channel>
 </rss>
