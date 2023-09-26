@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>What #OpenStreetMap map style do you like? 🗺🤔 reply with nice examples of #OSM maps! 😊</title>
+        <link>https://en.osm.town/@openstreetmap/111131231131837896</link>
+        <guid>https://en.osm.town/@openstreetmap/111131231131837896</guid>
+        <pubDate>Tue, 26 Sep 2023 11:33:34 +0000</pubDate>
+      </item><item>
         <title>There&amp;#39;s a new map style on OpenStreetMap.org! The Tracestrack Topo map from @tracestrack. It&amp;#39;s a mix of osm-carto and OpenTopoMap. It has many improvements: more tag support (busway, embankment, cuisine, solar plants, aquaculture, pitch, sea, tree etc.), CJK fonts, etc. There is also better internationalisation: country specific road shields, peaks using imperial system in the US, hierarchical place rendering in China, etc. #OpenStreetMap #OSM #gischat #maps A screenshot of OSM.org showing the map layer sector open and showing tracesstrack Topo map selected and that as a map shown</title>
         <link>https://en.osm.town/@openstreetmap/111120663721969898</link>
         <guid>https://en.osm.town/@openstreetmap/111120663721969898</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/110967766099164212</link>
         <guid>https://en.osm.town/@openstreetmap/110967766099164212</guid>
         <pubDate>Mon, 28 Aug 2023 14:42:15 +0000</pubDate>
-      </item><item>
-        <title>The response to our online giving campaign has been extraordinary! As of this morning, 962 people have made donations from all over the world. Let&amp;#39;s get to 1000 this week! Give to support #OpenStreetMap and maybe you will be the 1000th donor. link: https://Supporting.OpenStreetMap.org/</title>
-        <link>https://en.osm.town/@openstreetmap/110967762514614668</link>
-        <guid>https://en.osm.town/@openstreetmap/110967762514614668</guid>
-        <pubDate>Mon, 28 Aug 2023 14:41:20 +0000</pubDate>
       </item>
   </channel>
 </rss>
