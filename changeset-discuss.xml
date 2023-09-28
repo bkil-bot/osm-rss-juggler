@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Ebben a szerkesztésben van egy járda a bécsi körútnál ami nem kapcsolódik más vonalhoz és egy pont mellette ami nem vonal része és nincs rajta semmi tag. Szerintem ez véletlen lehet ebben a csomagban benne. A vespucciban van olyan funkció, hogy &quot;törlés és jelenlegi nézet letöltése&quot; amivel a korábbi fen nem töltött változásokat kitörli egy szerkesztés elött a program. Önmagában ha nem töltessz fel valamit akkor azt megjegyzi és a következő indításkor betölti. Ha ilyenkor csinálsz egy másik szerkesztést akkor ahhoz hozzáadódik a korábbi feltöltetlen változtatás (ha nem törlöd ki). -fawkes2</title>
+        <link>https://www.openstreetmap.org/changeset/141853456</link>
+        <guid>https://www.openstreetmap.org/changeset/141853456#comment_1</guid>
+        <pubDate>2023-09-28T08:52:40+02:00</pubDate>
+      </item><item>
         <title>A Palota úton a kerékpáros címkézés pontatlan volt, javítottam. (cycleway=yes címke nem használatos, kerékpársáv esetén a cycleway=lane a helyes) -airdace</title>
         <link>https://www.openstreetmap.org/changeset/139848182</link>
         <guid>https://www.openstreetmap.org/changeset/139848182#comment_1</guid>
