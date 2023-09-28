@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Increasing accuracy after scan: you can write a custom program to refine the accuracy of your Wi-Fi scan data using triangulation retro bowl and signal strength techniques. While WiGLE.net and some existing tools may help, the specific implementation would likely depend on your data and requirements. -timothyferriss</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11881#p11881</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11881#p11881</guid>
+        <pubDate>2023-09-28T03:43:16</pubDate>
+      </item><item>
         <title>Re: My RPi Setup: Looks like the wardriving mode docs for Kismet moved - https://www.kismetwireless.net/docs/rea ... /wardrive/ is the new locationNearly a year on, hows the rig and your goals coming along? -HolidayGuy</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11877#p11877</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11877#p11877</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11799#p11799</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11799#p11799</guid>
         <pubDate>2023-08-02T04:56:01</pubDate>
-      </item><item>
-        <title>Re: Custom ROMs for wardriving?: You shouldn't need to re-run every time, but installing updates MAY require it. Keep us posted about your results? -arkasha</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11765#p11765</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11765#p11765</guid>
-        <pubDate>2023-07-10T15:50:06</pubDate>
       </item>
   </channel>
 </rss>
