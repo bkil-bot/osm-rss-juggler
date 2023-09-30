@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Last month was cleanup-time with Delta Chat Android and Desktop development -- lots of triaging, resolving and closing of issues and pull requests ... Android: 26 merged PRs, 5 open PRs, 49 closed issues Desktop: 42 merged PRs, 2 open PRs, 25 closed issues, 4 new issues many thanks to @r10s @treefit and @adbenitez who drove the efforts, as well as to all the helpers! rumors have it that we are preparing for some bigger things to arrive in the next couple of months ;) github activity screen for deltachat-desktop showing: - 42 merged pull requests - 2 opened pull requests - 25 closed issues - 4 new issues</title>
+        <link>https://chaos.social/@delta/111155262034725904</link>
+        <guid>https://chaos.social/@delta/111155262034725904</guid>
+        <pubDate>Sat, 30 Sep 2023 17:24:56 +0000</pubDate>
+      </item><item>
         <title>We just published the new &amp;quot;Encryption and Security&amp;quot; FAQ section: https://delta.chat/en/help#encryption-and-security We also added more info regarding &amp;quot;verfiied groups&amp;quot; that guarantee safe E2E-encryption even if servers are malfeasant or compromised: https://delta.chat/en/help#verifiedchats #deltachat #security</title>
         <link>https://chaos.social/@delta/111064803824610765</link>
         <guid>https://chaos.social/@delta/111064803824610765</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/110677487475437662</link>
         <guid>https://chaos.social/@delta/110677487475437662</guid>
         <pubDate>Sat, 08 Jul 2023 08:20:35 +0000</pubDate>
-      </item><item>
-        <title>Nice surprise! Thanks to @lk108 we now have &amp;quot;DeltaTouch&amp;quot;, the Ubuntu-Touch/UBports version of Delta Chat! It&amp;#39;s pretty usable already .... read more on https://delta.chat/en/2023-07-02-deltatouch about the journey of bringing #deltachat to a non-Android/iOS mobile platform 🎉 cc @linmob</title>
-        <link>https://chaos.social/@delta/110650443882930357</link>
-        <guid>https://chaos.social/@delta/110650443882930357</guid>
-        <pubDate>Mon, 03 Jul 2023 13:43:02 +0000</pubDate>
       </item>
   </channel>
 </rss>
