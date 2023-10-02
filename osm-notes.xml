@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3694234 (near 1073, Central Hungary, 1073, Hungary) / * 2023 May 18 09:31 Matyjace Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;closed&amp;quot; / * 2023 October 2 10:32 infeeeee Resolved: Nothing on the map here</title>
+        <link>https://www.openstreetmap.org/note/3694234#c8505615</link>
+        <guid>https://www.openstreetmap.org/note/3694234#c8505615</guid>
+        <pubDate>Mon, 02 Oct 2023 10:32:29 +0000</pubDate>
+      </item><item>
         <title>new note 3919253 (near 1161, Central Hungary, 1161, Hungary) / * 2023 October 2 08:59 Datguymarkus Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/878704342 via StreetComplete 54.1: / Már nincs itt.</title>
         <link>https://www.openstreetmap.org/note/3919253#c8505300</link>
         <guid>https://www.openstreetmap.org/note/3919253#c8505300</guid>
@@ -212,36 +217,6 @@
         <link>https://www.openstreetmap.org/note/3777562#c8501269</link>
         <guid>https://www.openstreetmap.org/note/3777562#c8501269</guid>
         <pubDate>Sun, 01 Oct 2023 09:28:32 +0000</pubDate>
-      </item><item>
-        <title>closed note 3706634 (near 4032, North Great Plain, 4032, Hungary) / * 2023 May 26 11:54 fruzs Created: &amp;quot;It&amp;#39;s a large 3-story triangular building that was built recently. Wifi is only accessible to university students because it&amp;#39;s the eduroam network. The buildings don&amp;#39;t have numbers here, it&amp;#39;s just called Learning Center. It has a coffee shop, bike parking and universal prayer rooms.&amp;quot; / OSM snapshot date: 2023-02-10T21:44:03Z / POI name: Debreceni Egyetem Learning Center / POI types: amenity-school internet_access-wlan / #organicmaps / * 2023 October 1 09:26 kmpoppe Resolved: Duplicate of https://www.openstreetmap.org/note/3706635</title>
-        <link>https://www.openstreetmap.org/note/3706634#c8501264</link>
-        <guid>https://www.openstreetmap.org/note/3706634#c8501264</guid>
-        <pubDate>Sun, 01 Oct 2023 09:26:44 +0000</pubDate>
-      </item><item>
-        <title>closed note 3491955 (near 3529, North Hungary, 3529, Hungary) / * 2022 December 26 14:02 November Alfa Created: &amp;quot;It doesn&amp;#39;t exist anymore&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2022-12-16T15:17:23Z / POI name: Napóra / POI types: tourism-attraction / #organicmaps / * 2023 October 1 09:26 kmpoppe Resolved: Duplicate of https://www.openstreetmap.org/note/3491935</title>
-        <link>https://www.openstreetmap.org/note/3491955#c8501260</link>
-        <guid>https://www.openstreetmap.org/note/3491955#c8501260</guid>
-        <pubDate>Sun, 01 Oct 2023 09:26:09 +0000</pubDate>
-      </item><item>
-        <title>new note 3917325 (near 1116, Central Hungary, 1116, Hungary) / * 2023 October 1 08:39 vasony Created: Elbontották ezt az utat, padokat, kukákat. Majd felmérendő ha kész van mi maradt itt</title>
-        <link>https://www.openstreetmap.org/note/3917325#c8501150</link>
-        <guid>https://www.openstreetmap.org/note/3917325#c8501150</guid>
-        <pubDate>Sun, 01 Oct 2023 08:39:48 +0000</pubDate>
-      </item><item>
-        <title>new note 3917304 (near 1118, Central Hungary, 1118, Hungary) / * 2023 October 1 08:13 vasony Created: ez a lenti szakasz nem lesz egyirányú</title>
-        <link>https://www.openstreetmap.org/note/3917304#c8501047</link>
-        <guid>https://www.openstreetmap.org/note/3917304#c8501047</guid>
-        <pubDate>Sun, 01 Oct 2023 08:13:47 +0000</pubDate>
-      </item><item>
-        <title>new note 3917300 (near 1118, Central Hungary, 1118, Hungary) / * 2023 October 1 08:10 vasony Created: hidak újra felmérendők, a Lidl mélygarázsba kell itt legyen híd</title>
-        <link>https://www.openstreetmap.org/note/3917300#c8501037</link>
-        <guid>https://www.openstreetmap.org/note/3917300#c8501037</guid>
-        <pubDate>Sun, 01 Oct 2023 08:10:19 +0000</pubDate>
-      </item><item>
-        <title>new note 3917263 (near 1094, Central Hungary, 1094, Hungary) / * 2023 October 1 07:37 lomapur Created: &amp;quot;Miradoor has moved.&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-09-20T00:34:57Z / POI name: Miradoor / POI types: amenity-community_centre / #organicmaps android</title>
-        <link>https://www.openstreetmap.org/note/3917263#c8500942</link>
-        <guid>https://www.openstreetmap.org/note/3917263#c8500942</guid>
-        <pubDate>Sun, 01 Oct 2023 07:37:00 +0000</pubDate>
       </item>
   </channel>
 </rss>
