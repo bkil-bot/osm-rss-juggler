@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>https://wiki.openstreetmap.org/wiki/Abbreviations Grófot visszaírtam, a Gr. nem egy közhasználatú rövidítés mint a Dr. -vasony</title>
+        <link>https://www.openstreetmap.org/changeset/141907646</link>
+        <guid>https://www.openstreetmap.org/changeset/141907646#comment_1</guid>
+        <pubDate>2023-10-02T05:23:55+02:00</pubDate>
+      </item><item>
         <title>még utána nézek, valószínűleg már az eredeti házszám sem volt jó. -vasony</title>
         <link>https://www.openstreetmap.org/changeset/141977382</link>
         <guid>https://www.openstreetmap.org/changeset/141977382#comment_2</guid>
@@ -62,11 +67,6 @@
         <link>https://www.openstreetmap.org/changeset/140977267</link>
         <guid>https://www.openstreetmap.org/changeset/140977267#comment_5</guid>
         <pubDate>2023-09-25T10:09:12+02:00</pubDate>
-      </item><item>
-        <title>Szia! Ez a Jugoszlávia most működik vagy sem? Mert az étterem pontot meghagytad. Illetve az épület nem lehet disused, vagy van vagy nincs, ha nincs, akkor demolished:building, ha van. akkor building és célszerű csak az épületet körbe rajzolni, nem az egész telket ha building címkét teszel rá Tamás -vasony</title>
-        <link>https://www.openstreetmap.org/changeset/141680334</link>
-        <guid>https://www.openstreetmap.org/changeset/141680334#comment_1</guid>
-        <pubDate>2023-09-25T07:57:06+02:00</pubDate>
       </item>
   </channel>
 </rss>
