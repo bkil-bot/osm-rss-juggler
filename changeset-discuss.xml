@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Ha precedenst keresünk, akkor vizsgáld meg az első tram-train rendszerek egyikét, Karlsruhe-t (mármint OSM-en). Ott még bejön egy stadtbahn szakasz is, ami a light rail-nek felel meg, de ugyanúgy megvannak az éles határok. -balint36</title>
+        <link>https://www.openstreetmap.org/changeset/134277484</link>
+        <guid>https://www.openstreetmap.org/changeset/134277484#comment_4</guid>
+        <pubDate>2023-10-04T11:25:24+02:00</pubDate>
+      </item><item>
         <title>Kitöröltél pár pontot. Például https://www.openstreetmap.org/node/1903783331/history Ezért csúszott el a nyomvonal. -kogutowicz-mano</title>
         <link>https://www.openstreetmap.org/changeset/139367561</link>
         <guid>https://www.openstreetmap.org/changeset/139367561#comment_3</guid>
         <pubDate>2023-10-04T10:43:52+02:00</pubDate>
-      </item><item>
-        <title>Szia! Félig érzem jogosnak az észrevételeid, szerintem nincs jobb megoldás jelenleg a &quot;light_rail&quot; értéknél. Azért esett erre a választás, mert hiába minősül a nagyvasúti szakaszon minden szempontból vonatnak a tram-train és hasonlóan a városokban villamosnak, a light_rail valahol a kettő között foglal helyet. Lehetne az egész route villamos, de a járat jellege éppen a nagyvasúti szakasz miatt inkább light_rail. A HÉV mint példa félig állja meg a helyét, az arra vonatkozó szabályok jóval közelebb állnak az országos pályahálózathoz, mint a közúti vasúthoz. HÉV járművek teljes joggal közlekedhetnek az egész országban, mint ahogy erre néha van is példa Budapesten belül szállításkor, de járt HÉV jármű Szombathelyen és a Balaton északi partján is. A HÉV hálózatra pedig szintén bejárnak nagyvasúti járművek, karbantartáskor vagy valamilyen különleges alkalommal. Ettől persze nem lesz egyik HÉV állomás, megállóhely sem nagyvasúti, mint ahogy az utazóközönség számára is mellékes, hogy az elvi lehetősége megvan, hogy a RegioJet (pontosabban CRS) megáll Algyőn. Én nem bánom, ha lekerül a station=light_rail, de a megállási helyekről semmiképp nem venném le hogy train=no és light_rail=yes. Ez ugyanis a mindennapok rendje, a kivételt helyén kell kezelni, nem lesz a kivételből soha jó szabály. Az, hogy tehervonatok jönnek-mennek, szerintem kompatibilis a light_rail kategóriával. Olyan kérdéskör ez, mint hogy az elvileg létező vasútállomás hogyan jelenjen meg a térképen, ha ott amúgy egyetlen vonat sem áll meg utascsere céljából, például: Gyömöre; Győrszemere; Ménfőcsanak. Tulajdonképpen azt kellene eldönteni hogy a térkép a valóságot tükrözze-e minél pontosabban, vagy az elvi kategóriákat, lehetőségeket. Szintén kapcsolódik a vonalkategóriák kérdése... Folytassuk szerintem több szerkesztő, vélemény bevonásával a megoldás keresését, remélem tudunk egy olyat találni ami mindenkinek megfelel. -leveskockaa</title>
-        <link>https://www.openstreetmap.org/changeset/134277484</link>
-        <guid>https://www.openstreetmap.org/changeset/134277484#comment_2</guid>
-        <pubDate>2023-10-04T10:22:41+02:00</pubDate>
       </item><item>
         <title>Köszönöm! -leveskockaa</title>
         <link>https://www.openstreetmap.org/changeset/139848182</link>
