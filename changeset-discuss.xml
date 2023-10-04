@@ -3,6 +3,21 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Köszönöm! -leveskockaa</title>
+        <link>https://www.openstreetmap.org/changeset/139848182</link>
+        <guid>https://www.openstreetmap.org/changeset/139848182#comment_2</guid>
+        <pubDate>2023-10-04T10:02:26+02:00</pubDate>
+      </item><item>
+        <title>Szia! Szerintem nem én mozgattam el, mert nem is volt okom rá: a ,,négyes&quot; talán a legpontosabban rajzolt metróvonal. Ugyan mutatja, hogy szerkesztettem a vonali alagutakat, de lehet hogy azért, mert töröltem egy-egy pontot: össze volt kapcsolva a felszíni búra magával az alagúttal, de ezeknek az OSM logikája szerint nem kellene hogy közös pontja legyen. Hozzáadtam ugyanakkor egyet-egyet mert felvettem szelvényeket. -leveskockaa</title>
+        <link>https://www.openstreetmap.org/changeset/139367561</link>
+        <guid>https://www.openstreetmap.org/changeset/139367561#comment_2</guid>
+        <pubDate>2023-10-04T10:01:49+02:00</pubDate>
+      </item><item>
+        <title>This is not a multipolygon: https://www.openstreetmap.org/relation/11807772 Please retag relation type -kartler175</title>
+        <link>https://www.openstreetmap.org/changeset/141804735</link>
+        <guid>https://www.openstreetmap.org/changeset/141804735#comment_1</guid>
+        <pubDate>2023-10-04T09:20:05+02:00</pubDate>
+      </item><item>
         <title>DWG revert https://www.openstreetmap.org/changeset/142077566 -Fizzie41</title>
         <link>https://www.openstreetmap.org/changeset/142071381</link>
         <guid>https://www.openstreetmap.org/changeset/142071381#comment_1</guid>
@@ -37,11 +52,6 @@
         <link>https://www.openstreetmap.org/changeset/141853456</link>
         <guid>https://www.openstreetmap.org/changeset/141853456#comment_3</guid>
         <pubDate>2023-09-29T09:15:29+02:00</pubDate>
-      </item><item>
-        <title>Szervusz! Úgy nézem arrébb húztad a metróvonalat. A Bikás parknál feltűnően pontatlan lett. A valóságban teljesen szimmetrikusan helyezkednek el a megállót fedő üvegbuborék hossztengelyére nézve. -kogutowicz-mano</title>
-        <link>https://www.openstreetmap.org/changeset/139367561</link>
-        <guid>https://www.openstreetmap.org/changeset/139367561#comment_1</guid>
-        <pubDate>2023-09-29T04:37:50+02:00</pubDate>
       </item>
   </channel>
 </rss>
