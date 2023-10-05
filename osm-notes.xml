@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment 2751056 (near 5309, North Great Plain, 5309, Hungary) / * 2021 July 11 19:07 bkil Created: A légifelvételek alapján itt valami nagyon izgalmas objektum lehet. / * 2022 April 21 03:24 Zsolt Beringer Updated: Helyesen van tagelve a víztározó vagy melyik publikusan elérhető légi felvételt nézed és milyen nagyításon? / * 2022 April 21 06:55 bkil Updated: Azután lett ide _bármi_ berajzolva miután felhívtam a figyelmet és felvettem a hibajegyet. Megjegyzem: én innen távolról azt mondanám, hogy szerintem nem lett jól berajzolva, mert szerintem ez egy hatalmas domb lesz valamiféle leselkedővel a tetején, és nem egy bokorgyűrű és egy vízgyűrű középen. Ezt csak földközeli fotókból vagy bejárásból lehet majd eldönteni, ezért ez a jegy. / * 2023 October 5 14:46 kogutowicz-mano Updated: Ha tippelhetek, egy fél focipályányi, két méter magas &amp;quot;domb&amp;quot;, közepén egy O alakú, fehér falú medence, a közepére vezető híddal. (A bokorgyűrűt nem értem. Azt már letörölte valaki?)</title>
+        <link>https://www.openstreetmap.org/note/2751056#c8517869</link>
+        <guid>https://www.openstreetmap.org/note/2751056#c8517869</guid>
+        <pubDate>Thu, 05 Oct 2023 14:46:32 +0000</pubDate>
+      </item><item>
+        <title>new comment 3824385 (near Central Hungary, 1144, Hungary) / * 2023 October 5 14:34 kogutowicz-mano Updated: Nem, hanem hanyagság. A háromnegyedéves útfelújítás végeztével nem lett visszaállítva.</title>
+        <link>https://www.openstreetmap.org/note/3824385#c8517783</link>
+        <guid>https://www.openstreetmap.org/note/3824385#c8517783</guid>
+        <pubDate>Thu, 05 Oct 2023 14:34:13 +0000</pubDate>
+      </item><item>
+        <title>new comment 3824385 (near Central Hungary, 1144, Hungary) / * 2023 October 5 14:26 infeeeee Updated: Amúgy te állítottad disused-ra először: https://osmlab.github.io/osm-deep-history/#/node/1388337677 / Ebben a changesetben: https://www.openstreetmap.org/changeset/123905611 / Akkor ez tévedés volt?</title>
+        <link>https://www.openstreetmap.org/note/3824385#c8517743</link>
+        <guid>https://www.openstreetmap.org/note/3824385#c8517743</guid>
+        <pubDate>Thu, 05 Oct 2023 14:26:57 +0000</pubDate>
+      </item><item>
+        <title>new comment 3824385 (near Central Hungary, 1144, Hungary) / * 2023 August 9 09:38 infeeeee Created: https://www.osm.org/node/1388337677 / BKK honlapja szerint ez a megálló használható, buszok, trolik megállnak itt. Mi az igazszág? / * 2023 October 5 14:23 kogutowicz-mano Updated: Ez. / A buszok és a trolik megállnak itt.</title>
+        <link>https://www.openstreetmap.org/note/3824385#c8517721</link>
+        <guid>https://www.openstreetmap.org/note/3824385#c8517721</guid>
+        <pubDate>Thu, 05 Oct 2023 14:23:16 +0000</pubDate>
+      </item><item>
         <title>closed note 3648345 (near 2500, Central Transdanubia, 2500, Hungary) / * 2023 April 18 12:24 Created: Ez a magánút a lenti kapunknak vezet neki. / * 2023 October 5 14:20 kogutowicz-mano Resolved: Nincs vele teendő.</title>
         <link>https://www.openstreetmap.org/note/3648345#c8517675</link>
         <guid>https://www.openstreetmap.org/note/3648345#c8517675</guid>
@@ -187,16 +207,6 @@
         <link>https://www.openstreetmap.org/note/3920931#c8509151</link>
         <guid>https://www.openstreetmap.org/note/3920931#c8509151</guid>
         <pubDate>Tue, 03 Oct 2023 11:21:32 +0000</pubDate>
-      </item><item>
-        <title>closed note 3130518 (near 1126, Central Hungary, 1126, Hungary) / * 2022 April 12 14:01 dbrezo Created: A Böszörményi oldala a tömbnek az egy külön épület, a Böszörményi út 3A-s házszámmal / * 2023 October 3 04:57 kogutowicz-mano Resolved: Kettévágtam.</title>
-        <link>https://www.openstreetmap.org/note/3130518#c8508322</link>
-        <guid>https://www.openstreetmap.org/note/3130518#c8508322</guid>
-        <pubDate>Tue, 03 Oct 2023 04:57:37 +0000</pubDate>
-      </item><item>
-        <title>new note 3920381 (near 6000, South Great Plain, 6000, Hungary) / * 2023 October 2 22:43 Csúzi László Created: &amp;quot;Elbontották, új gyárcsarnok épült a helyére&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-09-20T00:34:57Z / POI has no name / POI types: amenity-parking / #organicmaps android</title>
-        <link>https://www.openstreetmap.org/note/3920381#c8507973</link>
-        <guid>https://www.openstreetmap.org/note/3920381#c8507973</guid>
-        <pubDate>Mon, 02 Oct 2023 22:43:24 +0000</pubDate>
       </item>
   </channel>
 </rss>
