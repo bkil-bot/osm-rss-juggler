@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3648345 (near 2500, Central Transdanubia, 2500, Hungary) / * 2023 April 18 12:24 Created: Ez a magánút a lenti kapunknak vezet neki. / * 2023 October 5 14:20 kogutowicz-mano Resolved: Nincs vele teendő.</title>
+        <link>https://www.openstreetmap.org/note/3648345#c8517675</link>
+        <guid>https://www.openstreetmap.org/note/3648345#c8517675</guid>
+        <pubDate>Thu, 05 Oct 2023 14:20:22 +0000</pubDate>
+      </item><item>
+        <title>new note 3924943 (near 4024, North Great Plain, 4024, Hungary) / * 2023 October 5 14:19 DrGonzo_hu Created: Unable to answer &amp;quot;Is there a shelter at this stop?&amp;quot; for https://osm.org/node/1535120798 via StreetComplete 54.1: / Itt már jó ideje nincs buszmegálló. / Attached photo(s): / https://westnordost.de/p/179255.jpg</title>
+        <link>https://www.openstreetmap.org/note/3924943#c8517668</link>
+        <guid>https://www.openstreetmap.org/note/3924943#c8517668</guid>
+        <pubDate>Thu, 05 Oct 2023 14:19:19 +0000</pubDate>
+      </item><item>
+        <title>new comment 3781651 (near 5000, North Great Plain, 5000, Hungary) / * 2023 October 5 13:39 kogutowicz-mano Updated: 1. Szívemből szóltál. De mivel ilyen irányú törekvéseim kudarcot vallottak, hát én is úgy használom a jegyzeteket, mint bárki más. / 2. Az alállomás kissé bonyolultabb struktúrájú, nem csak egy négyzet. Az általad javasolt megoldás nem kielégítő. / 3. Amúgy meg miért lenne személyes? Annak szól, aki épp a helyszínen jár. Mint a jegyzetek általában. / Folytathatjuk magánban?</title>
+        <link>https://www.openstreetmap.org/note/3781651#c8517444</link>
+        <guid>https://www.openstreetmap.org/note/3781651#c8517444</guid>
+        <pubDate>Thu, 05 Oct 2023 13:39:21 +0000</pubDate>
+      </item><item>
+        <title>new comment 3781651 (near 5000, North Great Plain, 5000, Hungary) / * 2023 October 5 13:31 bkil Updated: Jobb lenne ha behúznál egy négyzetet és ráraknád hogy fixme=geometry. Majd aki GPX húzással körberajzolja vagy drónnal lefotózza az eldönti, hogy mikor rajzolja be. De a térképjegyzetek közösek, azok nem a te személyes emlékeztetőid, pláne nem évekig. Ez a funkció azt szolgálja, hogy aki nem ért az OSM-hez, esetleg nincs is OSM fiókja annak a bejelentését egy tapasztaltabb szerkesztő megnézze, utána nézzen valahonnan, kijavítsa. Olyan magánjegyzetekkel nem vagyunk előrébb amivel nincs teendő (mert nincs mit tenni vagy forrás), az csak a többi jegyzettől veszi el a figyelmet. Ráadásul jegyzeteket még úgy leszűrni sem lehet mint fixme-ket.</title>
+        <link>https://www.openstreetmap.org/note/3781651#c8517430</link>
+        <guid>https://www.openstreetmap.org/note/3781651#c8517430</guid>
+        <pubDate>Thu, 05 Oct 2023 13:31:42 +0000</pubDate>
+      </item><item>
         <title>new note 3924635 (near 4030, North Great Plain, 4030, Hungary) / * 2023 October 5 11:17 DrGonzo_hu Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/1042027919 via StreetComplete 54.1: / Fauwé Car Kft szerelőműhelye</title>
         <link>https://www.openstreetmap.org/note/3924635#c8517040</link>
         <guid>https://www.openstreetmap.org/note/3924635#c8517040</guid>
@@ -177,16 +197,6 @@
         <link>https://www.openstreetmap.org/note/3920381#c8507973</link>
         <guid>https://www.openstreetmap.org/note/3920381#c8507973</guid>
         <pubDate>Mon, 02 Oct 2023 22:43:24 +0000</pubDate>
-      </item><item>
-        <title>closed note 3917304 (near 1118, Central Hungary, 1118, Hungary) / * 2023 October 1 08:13 vasony Created: ez a lenti szakasz nem lesz egyirányú / * 2023 October 2 21:41 vasony Resolved: már semennyire sem az</title>
-        <link>https://www.openstreetmap.org/note/3917304#c8507887</link>
-        <guid>https://www.openstreetmap.org/note/3917304#c8507887</guid>
-        <pubDate>Mon, 02 Oct 2023 21:41:11 +0000</pubDate>
-      </item><item>
-        <title>closed note 3917300 (near 1118, Central Hungary, 1118, Hungary) / * 2023 October 1 08:10 vasony Created: hidak újra felmérendők, a Lidl mélygarázsba kell itt legyen híd / * 2023 October 2 21:37 vasony Resolved: be van temetve az egész</title>
-        <link>https://www.openstreetmap.org/note/3917300#c8507882</link>
-        <guid>https://www.openstreetmap.org/note/3917300#c8507882</guid>
-        <pubDate>Mon, 02 Oct 2023 21:37:48 +0000</pubDate>
       </item>
   </channel>
 </rss>
