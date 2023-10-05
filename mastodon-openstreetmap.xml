@@ -3,6 +3,16 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>In the #OpenStreetMap data model, linear features are (mostly) represented by the `way` data type, which can have at most 2,000 `node`s. Can you find a way for OpenStreetMap to have more than 2,000 donations by going https://supporting.openstreetmap.org/donate/ 🥺🥺 #OSM</title>
+        <link>https://en.osm.town/@openstreetmap/111183581803611553</link>
+        <guid>https://en.osm.town/@openstreetmap/111183581803611553</guid>
+        <pubDate>Thu, 05 Oct 2023 17:27:01 +0000</pubDate>
+      </item><item>
+        <title>The #OpenStreetMap Donation drive is almost at 2,000 donations! 😍 Can you find a way to make it over 2,000?🥺🥺 https://supporting.openstreetmap.org/donate/</title>
+        <link>https://en.osm.town/@openstreetmap/111183569539660151</link>
+        <guid>https://en.osm.town/@openstreetmap/111183569539660151</guid>
+        <pubDate>Thu, 05 Oct 2023 17:23:54 +0000</pubDate>
+      </item><item>
         <title>What #OpenStreetMap map style do you like? 🗺🤔 reply with nice examples of #OSM maps! 😊</title>
         <link>https://en.osm.town/@openstreetmap/111131231131837896</link>
         <guid>https://en.osm.town/@openstreetmap/111131231131837896</guid>
@@ -92,16 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/111002434528741626</link>
         <guid>https://en.osm.town/@openstreetmap/111002434528741626</guid>
         <pubDate>Sun, 03 Sep 2023 17:38:53 +0000</pubDate>
-      </item><item>
-        <title>Look at all the people from all the different countries who have visited https://Supporting.OpenStreetMap.org ! 🤩 #OpenStrretMap really is an international project! 🤩🤩🤩 A screenshot of a web analytics showing many countries, number 1 is USA, 2 is Germany</title>
-        <link>https://en.osm.town/@openstreetmap/110974213781710355</link>
-        <guid>https://en.osm.town/@openstreetmap/110974213781710355</guid>
-        <pubDate>Tue, 29 Aug 2023 18:01:59 +0000</pubDate>
-      </item><item>
-        <title>If you want to feel great about the mapping community, take a look at the comments that our donors are leaving on the #OpenStreetMap donation page. There are so many gifts that you have to page through to see their remarks, but they&amp;#39;re there. https://supporting.openstreetmap.org/donate/</title>
-        <link>https://en.osm.town/@openstreetmap/110967766099164212</link>
-        <guid>https://en.osm.town/@openstreetmap/110967766099164212</guid>
-        <pubDate>Mon, 28 Aug 2023 14:42:15 +0000</pubDate>
       </item>
   </channel>
 </rss>

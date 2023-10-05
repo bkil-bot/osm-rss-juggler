@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Jaj igen és elvileg a kanyarodási korlátozások is így vannak. A navi nem fordít meg most már. Többször is átnéztem a korlátozásokat. Azok most így a jók. Amikor utoljára teszteltem nem találtam bennük hibát. A navi minden iránybóp jól működött. Utána a buszútvonalakat szerkesztettem rá. És annak is így kell jónak lennie. A kis és nagymacsi buszok így közlekednek rajta. Meg van ott elvileg még az auchan-os busz meg ami kimegy a nyugati ipariba meg szepesre meg ondódra. Így jöttek ki jól a kereszteződések. -ssummoner1</title>
+        <title>Végül már sejtettem, hogy ezért nevezhetted így el a linkeket, arra viszont a destination címke megfelelőbb lenne a name helyett. Amit linkeltem wiki oldal is konkrétan így említi, hogy nincs neve, és navigációs célra pedig javasolt a destination. Próbáld ki, hátha úgy is kimondja a navigációs szoftver, illene neki tudnia, ha esetleg nem, akkor pedig a szoftvert lenne jó rávenni. A szalagkorlát helyett pedig szerintem amit keresel az talán inkább ez lesz: https://wiki.openstreetmap.org/wiki/Tag:traffic_calming%3Disland A leírás alapján a mellette futó útpályákra kerül a traffic_calming=island címke. Látványelemként pedig a köztes területet meg lehet rajzolni mint area:highway=traffic_island, úgy ellékszem arrafelé kavicsos felülettel. Itt találsz egy példát is, én is most javítottam a wiki szerint megfelelőre: https://www.openstreetmap.org/way/1153446640 https://www.openstreetmap.org/way/1153446639 -nslxndr</title>
         <link>https://www.openstreetmap.org/changeset/140005226</link>
-        <guid>https://www.openstreetmap.org/changeset/140005226#comment_3</guid>
-        <pubDate>2023-10-05T17:11:47+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/140005226#comment_5</guid>
+        <pubDate>2023-10-05T18:00:46+02:00</pubDate>
       </item><item>
-        <title>Jogos a felvetés. Ezt a csúcspontot 6 éve vette fel egy azóta törölt szerkesztő a mostani helyzetétől kb 10 méterre. Tavaly én csak a pozíciót igaztottam a GPS bemérés alapján a földrajzi csúcspontra. Megnézve egy XIX. századi térképet, ezt a csúcsot &quot;Nagy Saskő bérc&quot; néven említették, a jelenlegi emlékműnél álló csúcs pedig &quot;Nagy Saskő&quot; néven szerepelt. A Kis-Saskő csúcsot innen a észak-keletre, a gerinc letörése előttre helyezték. Ezért hajlok arra, hogy a Cartographia által is jelölt pont az igazi Kis-Saskő, ez pedig egy jelenleg név nélküli csúcs -mgpx</title>
+        <title>Szia! Sajnos holnap reggel lejár a szabadságom, indulok haza, pedig szívesen megkerestem volna az &quot;igazi&quot; Kis-Sas-követ. SRTM alapján be fogom rajzolni a Cartographia-féle Kis-Sas-kő csúcsot, a jelenlegiről pedig törlöm a nevet. A pontot meghagyom a helyén (bár én 2 méterrel keletebbre mértem*), de látom, hogy te RTK-t használtál :-) * Garmin 66s, GPS + GLONASS + DGPS, 7 perces átlagolás -- Zsolt (&quot;Müszi&quot;) -Müszi</title>
         <link>https://www.openstreetmap.org/changeset/121108487</link>
-        <guid>https://www.openstreetmap.org/changeset/121108487#comment_2</guid>
-        <pubDate>2023-10-04T21:51:54+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/121108487#comment_3</guid>
+        <pubDate>2023-10-05T17:30:14+02:00</pubDate>
       </item><item>
         <title>Köszi! -gabro00</title>
         <link>https://www.openstreetmap.org/changeset/140977267</link>
