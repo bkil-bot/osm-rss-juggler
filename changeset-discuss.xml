@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Szia! Ezzel a szerkesztéseddel 29 buszjárat relációját szakítottad meg. A kanyarodási korlátozásokat nem címkeként, hanem kapcsolatként jelöljük, mert így egyértelmű, az utakra helyezett restriction=only_straight_on címkék nem egyértelműek, hogy melyik irányra, honnan hova vonatkoznak: https://wiki.openstreetmap.org/wiki/Relation:restriction Sávokat nem jelöljük külön vonalként, a lanes és turn:lanes címkékkel kell jelölni ha fizikai elválasztás nincs köztük, Szabadság útra való kanyaródósáv jól volt felrajzolva, csak címkézni kellett volna. https://wiki.openstreetmap.org/wiki/Key:turn A felrajzolt épületkontúrjaid sem a legpontosabbak, de ahogy látom egész Dabas kicsit össze-vissza el van cs úszva, nem lett rosszabb mint volt. Figyelj a Bing eltolására, hozzá kell igazítani a FŐMI-hez, Légifelvétel-&gt;Légifelvétel-eltolás menüvel. Megpróbálod kijavítani ezeket a hibákat, vagy javítsam helyetted? Látom nem sokat szerkesztettél még, és ezek nem feltétlenül kezdőknek való megoldandó problémák, segítek. Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! -infeeeee</title>
+        <title>Javíttottam a legnagyobb hibákat: https://www.openstreetmap.org/changeset/142227142 -infeeeee</title>
         <link>https://www.openstreetmap.org/changeset/142193022</link>
-        <guid>https://www.openstreetmap.org/changeset/142193022#comment_1</guid>
-        <pubDate>2023-10-06T09:43:01+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/142193022#comment_2</guid>
+        <pubDate>2023-10-06T10:56:57+02:00</pubDate>
       </item><item>
         <title>Szerintem is ez a jó megoldás. Az &quot;igazi&quot; Kis-Sas-kő pontra esetleg érdemes egy fixme=resurvey-t is tenni, míg valaki nem pontosítja a helyét. Igen, néha viszek magammal egy Ublox F9P-t, ami RTK-t is tud. Az RTK csak ott tud pontosan beállni, ahol szabad a rálátás az égboltra. Ilyen lombkoronával fedett részeken 0.5-1 méter körüli a pontossága, már ahol van mobil térerő és kapja az NTRIP csomagokat. Ahol nincs térerő, ott csak sima kétfrekvenciás GPS-ként lokalizál. -mgpx</title>
         <link>https://www.openstreetmap.org/changeset/121108487</link>
