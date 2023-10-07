@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3928664 (near 2096, Central Hungary, 2096, Hungary) / * 2023 October 7 13:46 Created: A tábla szerint Fenyves sétány.</title>
+        <link>https://www.openstreetmap.org/note/3928664#c8526053</link>
+        <guid>https://www.openstreetmap.org/note/3928664#c8526053</guid>
+        <pubDate>Sat, 07 Oct 2023 13:46:11 +0000</pubDate>
+      </item><item>
         <title>new comment 2645812 (near Central Hungary, 1139, Hungary) / * 2021 April 30 12:57 grozsa11 Created: Ez csak egy két oldalú reklémtábla épitmeny / via StreetComplete 31.3 / * 2023 June 29 16:15 infeeeee Updated: Ez mire vonatkozhatott? Se műholdképen, se mapillary-n nem látok itt semmit / * 2023 June 29 16:22 grozsa11 Updated: A Levéltár felőli sarkon van egy olyan óriási reklámfelület, ami már-már épület, de lehet hogy &amp;quot;óriásplakát&amp;quot;-ként lehetne definiálni... / * 2023 June 29 16:26 infeeeee Updated: Ez? https://www.openstreetmap.org/way/679089003 / * 2023 October 7 12:39 balint36 Updated: @infeeeee Igen, ez nem épület, hanem két fal (pontosabban acélszerkezet, ami üvegpaneleket tart), rajtuk &amp;quot;BUDAPEST FŐVÁROS LEVÉLTÁRA&amp;quot; felirat. Mögötte egy füves-fás rész van.</title>
         <link>https://www.openstreetmap.org/note/2645812#c8525865</link>
         <guid>https://www.openstreetmap.org/note/2645812#c8525865</guid>
@@ -367,16 +372,6 @@
         <link>https://www.openstreetmap.org/note/3924943#c8517668</link>
         <guid>https://www.openstreetmap.org/note/3924943#c8517668</guid>
         <pubDate>Thu, 05 Oct 2023 14:19:19 +0000</pubDate>
-      </item><item>
-        <title>new comment 3781651 (near 5000, North Great Plain, 5000, Hungary) / * 2023 October 5 13:39 kogutowicz-mano Updated: 1. Szívemből szóltál. De mivel ilyen irányú törekvéseim kudarcot vallottak, hát én is úgy használom a jegyzeteket, mint bárki más. / 2. Az alállomás kissé bonyolultabb struktúrájú, nem csak egy négyzet. Az általad javasolt megoldás nem kielégítő. / 3. Amúgy meg miért lenne személyes? Annak szól, aki épp a helyszínen jár. Mint a jegyzetek általában. / Folytathatjuk magánban?</title>
-        <link>https://www.openstreetmap.org/note/3781651#c8517444</link>
-        <guid>https://www.openstreetmap.org/note/3781651#c8517444</guid>
-        <pubDate>Thu, 05 Oct 2023 13:39:21 +0000</pubDate>
-      </item><item>
-        <title>new comment 3781651 (near 5000, North Great Plain, 5000, Hungary) / * 2023 October 5 13:31 bkil Updated: Jobb lenne ha behúznál egy négyzetet és ráraknád hogy fixme=geometry. Majd aki GPX húzással körberajzolja vagy drónnal lefotózza az eldönti, hogy mikor rajzolja be. De a térképjegyzetek közösek, azok nem a te személyes emlékeztetőid, pláne nem évekig. Ez a funkció azt szolgálja, hogy aki nem ért az OSM-hez, esetleg nincs is OSM fiókja annak a bejelentését egy tapasztaltabb szerkesztő megnézze, utána nézzen valahonnan, kijavítsa. Olyan magánjegyzetekkel nem vagyunk előrébb amivel nincs teendő (mert nincs mit tenni vagy forrás), az csak a többi jegyzettől veszi el a figyelmet. Ráadásul jegyzeteket még úgy leszűrni sem lehet mint fixme-ket.</title>
-        <link>https://www.openstreetmap.org/note/3781651#c8517430</link>
-        <guid>https://www.openstreetmap.org/note/3781651#c8517430</guid>
-        <pubDate>Thu, 05 Oct 2023 13:31:42 +0000</pubDate>
       </item>
   </channel>
 </rss>
