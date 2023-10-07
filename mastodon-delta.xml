@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>If you like delta chat and know somebody experienced with iOS developments please send them our way, retoots welcome. With all other platforms.we have at least two devs engaged but would like to up our iOS game .... Even advising on a day-per-week or loose pro-bono basis could be helpful but someone who gets their hand dirty would be even better. Remote paid job available. For more background see https://delta.chat/en/2022-12-15-uidevjob and adjacent recent blog posts.</title>
+        <link>https://chaos.social/@delta/111194512214036910</link>
+        <guid>https://chaos.social/@delta/111194512214036910</guid>
+        <pubDate>Sat, 07 Oct 2023 15:46:46 +0000</pubDate>
+      </item><item>
         <title>Last month was cleanup-time with Delta Chat Android and Desktop development -- lots of triaging, resolving and closing of issues and pull requests ... Android: 26 merged PRs, 5 open PRs, 49 closed issues Desktop: 42 merged PRs, 2 open PRs, 25 closed issues, 4 new issues many thanks to @r10s @treefit and @adbenitez who drove the efforts, as well as to all the helpers! rumors have it that we are preparing for some bigger things to arrive in the next couple of months ;) github activity screen for deltachat-desktop showing: - 42 merged pull requests - 2 opened pull requests - 25 closed issues - 4 new issues</title>
         <link>https://chaos.social/@delta/111155262034725904</link>
         <guid>https://chaos.social/@delta/111155262034725904</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/110737421138565489</link>
         <guid>https://chaos.social/@delta/110737421138565489</guid>
         <pubDate>Tue, 18 Jul 2023 22:22:30 +0000</pubDate>
-      </item><item>
-        <title>Delta Chat is not as popular as other messengers but with decentralized messaging it&amp;#39;s not doing so bad, is it? Or which decentral messengers do you know that - have an as strong Usability driven development model, - are available on many platforms and stores, - spearheads unique concepts like https://webxdc.org (web apps shared in a chat) or https://countermitm.readthedocs.io/en/latest/new.html (Verified securely encrypted chats safe against active attacks), - is constantly reaching out for cross-project collab ?</title>
-        <link>https://chaos.social/@delta/110677487475437662</link>
-        <guid>https://chaos.social/@delta/110677487475437662</guid>
-        <pubDate>Sat, 08 Jul 2023 08:20:35 +0000</pubDate>
       </item>
   </channel>
 </rss>
