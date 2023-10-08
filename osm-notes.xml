@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3767563 (near 4032, North Great Plain, 4032, Hungary) / * 2023 October 8 18:53 nslxndr Resolved: Cseréltem peronra: https://www.openstreetmap.org/changeset/142317010</title>
+        <link>https://www.openstreetmap.org/note/3767563#c8531952</link>
+        <guid>https://www.openstreetmap.org/note/3767563#c8531952</guid>
+        <pubDate>Sun, 08 Oct 2023 18:53:39 +0000</pubDate>
+      </item><item>
+        <title>closed note 3929241 (near 4027, North Great Plain, 4027, Hungary) / * 2023 October 8 18:38 nslxndr Resolved: Kiegészítettem a neveket illetve megjegyzésbe is beírtam, így talán egyértelműbb lesz: https://www.openstreetmap.org/changeset/142316499</title>
+        <link>https://www.openstreetmap.org/note/3929241#c8531888</link>
+        <guid>https://www.openstreetmap.org/note/3929241#c8531888</guid>
+        <pubDate>Sun, 08 Oct 2023 18:38:53 +0000</pubDate>
+      </item><item>
         <title>new note 3930422 (near 1125, Central Hungary, 1125, Hungary) / * 2023 October 8 16:14 Created: This is number 5</title>
         <link>https://www.openstreetmap.org/note/3930422#c8531237</link>
         <guid>https://www.openstreetmap.org/note/3930422#c8531237</guid>
@@ -282,81 +292,6 @@
         <link>https://www.openstreetmap.org/note/3917587#c8523281</link>
         <guid>https://www.openstreetmap.org/note/3917587#c8523281</guid>
         <pubDate>Fri, 06 Oct 2023 15:56:38 +0000</pubDate>
-      </item><item>
-        <title>closed note 3917592 (near 4400, North Great Plain, 4400, Hungary) / * 2023 October 1 10:38 DrGonzo_hu Created: Unable to answer &amp;quot;Is this stop lit?&amp;quot; for https://osm.org/node/3086613082 via StreetComplete 54.1: / Az kivilágítottnak minősül, ha szembe oldalon van közvilágítás? / Attached photo(s): / https://westnordost.de/p/178215.jpg / * 2023 October 6 15:55 vasony Resolved: ha nem vaksötétben kell várni, akkor igen</title>
-        <link>https://www.openstreetmap.org/note/3917592#c8523275</link>
-        <guid>https://www.openstreetmap.org/note/3917592#c8523275</guid>
-        <pubDate>Fri, 06 Oct 2023 15:55:41 +0000</pubDate>
-      </item><item>
-        <title>closed note 3917596 (near 4400, North Great Plain, 4400, Hungary) / * 2023 October 1 10:40 DrGonzo_hu Created: Unable to answer &amp;quot;What’s the name of this place?&amp;quot; for https://osm.org/node/4530255055 via StreetComplete 54.1: / Nyíregyházi MJV Önkormányzat, 13.számú részönkormányzat / Attached photo(s): / https://westnordost.de/p/178216.jpg / * 2023 October 6 15:55 vasony Resolved: javítva</title>
-        <link>https://www.openstreetmap.org/note/3917596#c8523271</link>
-        <guid>https://www.openstreetmap.org/note/3917596#c8523271</guid>
-        <pubDate>Fri, 06 Oct 2023 15:55:06 +0000</pubDate>
-      </item><item>
-        <title>closed note 3917613 (near 4400, North Great Plain, 4400, Hungary) / * 2023 October 1 10:50 DrGonzo_hu Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/740752977 via StreetComplete 54.1: / Régi neve Tulipán utca,de már Rozsrétbokor út. Ez a Rozsrétbokor utca 17. számhoz tartozó garázs, amiben szerelőműhely van jelenleg. Ezek az infok a tulajdonostól valók / Attached photo(s): / https://westnordost.de/p/178217.jpg / * 2023 October 6 15:51 vasony Resolved: felvittem a műhelyt, old_name-et az utcára</title>
-        <link>https://www.openstreetmap.org/note/3917613#c8523256</link>
-        <guid>https://www.openstreetmap.org/note/3917613#c8523256</guid>
-        <pubDate>Fri, 06 Oct 2023 15:51:53 +0000</pubDate>
-      </item><item>
-        <title>closed note 3917505 (near 4400, North Great Plain, 4400, Hungary) / * 2023 October 1 10:26 DrGonzo_hu Created: Unable to answer &amp;quot;Is this still here?&amp;quot; for https://osm.org/node/3086572126 via StreetComplete 54.1: / Ez egy vízműves, kerítéssel körbezárt helység, kb7*7m. Szerintem vízműves átemelő, lehet ivóvizes,de itt szalagozott munkálatokon szennyvízes szalag van, s véleményem szerint szennyvizes átemelő pont / Attached photo(s): / https://westnordost.de/p/178172.jpg / * 2023 October 6 15:45 vasony Resolved: A kép alapján szenyvítátemelő, javítva.</title>
-        <link>https://www.openstreetmap.org/note/3917505#c8523240</link>
-        <guid>https://www.openstreetmap.org/note/3917505#c8523240</guid>
-        <pubDate>Fri, 06 Oct 2023 15:45:33 +0000</pubDate>
-      </item><item>
-        <title>new note 3927266 (near Bajtner puszta, Balassagyarmat) / * 2023 October 6 15:17 balint36 Created: Kuka + infó tábla készül / via StreetComplete 54.1 / Attached photo(s): / https://westnordost.de/p/179517.jpg</title>
-        <link>https://www.openstreetmap.org/note/3927266#c8523123</link>
-        <guid>https://www.openstreetmap.org/note/3927266#c8523123</guid>
-        <pubDate>Fri, 06 Oct 2023 15:17:24 +0000</pubDate>
-      </item><item>
-        <title>closed note 1804781 (near Halászházak, Biatorbágy) / * 2019 June 7 18:45 grin Created: MP2019: autofordulo? / * 2022 January 6 07:53 Ciglikara Resolved:  / * 2022 January 10 18:06 grin Reactivated:  / * 2022 January 10 18:06 grin Updated: Ne haragudj, de beleírnád, hogy milyen alapon vagy okból zárod le? Köszönöm! / * 2022 January 10 18:49 Ciglikara Resolved: Sorry, tévedés volt. / * 2022 January 10 19:35 grin Reactivated:  / * 2022 January 10 19:35 grin Updated: ÉS MEGINT?? :-( / * 2022 January 10 20:16 Ciglikara Updated: Neeem, itt sem voltam. Valaki más lehetett. Most kilépek. / * 2023 May 9 20:00 balint36 Updated: Úgy nézem, itt már építkezés van, így a forduló is már csak a múlté. / * 2023 October 6 13:19 infeeeee Resolved: Iskola van itt, ami jelölve is van a térképen</title>
-        <link>https://www.openstreetmap.org/note/1804781#c8522658</link>
-        <guid>https://www.openstreetmap.org/note/1804781#c8522658</guid>
-        <pubDate>Fri, 06 Oct 2023 13:19:49 +0000</pubDate>
-      </item><item>
-        <title>closed note 2545736 (near Kossuth-telep, Nyáregyháza) / * 2023 October 6 12:57 kogutowicz-mano Resolved: Át is írtam őket.</title>
-        <link>https://www.openstreetmap.org/note/2545736#c8522595</link>
-        <guid>https://www.openstreetmap.org/note/2545736#c8522595</guid>
-        <pubDate>Fri, 06 Oct 2023 12:57:27 +0000</pubDate>
-      </item><item>
-        <title>new comment 2545736 (near Kossuth-telep, Nyáregyháza) / * 2023 October 6 12:44 kogutowicz-mano Updated: Nekem tetszik. Meg van véve! :-) / Kösz!</title>
-        <link>https://www.openstreetmap.org/note/2545736#c8522525</link>
-        <guid>https://www.openstreetmap.org/note/2545736#c8522525</guid>
-        <pubDate>Fri, 06 Oct 2023 12:44:27 +0000</pubDate>
-      </item><item>
-        <title>closed note 3926863 (near 4440, North Great Plain, 4440, Hungary) / * 2023 October 6 12:36 bkil Resolved: Added. Do you have any other information about the POI? Facebook page, wifi, sandwiches, games, outdoor seating, etc? See all related tags linked to from this section https://wiki.openstreetmap.org/wiki/Hungary/Kommunik%C3%A1ci%C3%B3/Prom%C3%B3ci%C3%B3s_anyagok#Hely_ahov%C3%A1_bet%C3%A9rni_%C3%A9rdemes_1</title>
-        <link>https://www.openstreetmap.org/note/3926863#c8522453</link>
-        <guid>https://www.openstreetmap.org/note/3926863#c8522453</guid>
-        <pubDate>Fri, 06 Oct 2023 12:36:40 +0000</pubDate>
-      </item><item>
-        <title>new comment 2545736 (near Kossuth-telep, Nyáregyháza) / * 2023 October 6 12:35 infeeeee Updated: man_made=guy_wire ezt találtam: https://wiki.openstreetmap.org/wiki/Tag:man_made%3Dguy_wire / Magyarországon egyelőre nincs használva, szóval Lakihegyet is át kellene címkézni, ott is szép megoldások vannak: https://www.openstreetmap.org/way/480742456</title>
-        <link>https://www.openstreetmap.org/note/2545736#c8522437</link>
-        <guid>https://www.openstreetmap.org/note/2545736#c8522437</guid>
-        <pubDate>Fri, 06 Oct 2023 12:35:17 +0000</pubDate>
-      </item><item>
-        <title>new note 3926906 (near 1051, Central Hungary, 1051, Hungary) / * 2023 October 6 12:27 Created: I could not find this place, especially no wheelchair toilet. Maybe someone has more time than me and can verify and check.</title>
-        <link>https://www.openstreetmap.org/note/3926906#c8522413</link>
-        <guid>https://www.openstreetmap.org/note/3926906#c8522413</guid>
-        <pubDate>Fri, 06 Oct 2023 12:27:59 +0000</pubDate>
-      </item><item>
-        <title>new comment 2545736 (near Kossuth-telep, Nyáregyháza) / * 2023 October 6 12:24 kogutowicz-mano Updated: Nem volt kivel. Te vagy az első, aki reagált. :-) / Igen, ez a nagybetűs HA. / A tower=cable eléggé hasraütésszerűnek tűnik.</title>
-        <link>https://www.openstreetmap.org/note/2545736#c8522396</link>
-        <guid>https://www.openstreetmap.org/note/2545736#c8522396</guid>
-        <pubDate>Fri, 06 Oct 2023 12:24:12 +0000</pubDate>
-      </item><item>
-        <title>new comment 2545736 (near Kossuth-telep, Nyáregyháza) / * 2021 February 20 09:58 kogutowicz-mano Created: Azt hiszem az antennaárbócok pányvái nem külön térképi ojjektumok. (Úgy emlékszem van erre attribútuma a toronynak.) De vitassuk meg! / * 2023 October 6 12:10 infeeeee Updated: Mire jutottatok, megvitattátok? / tower:construction=*  ami ezt tartalmazza, de szerintem nem probléma jelölni a pányvákat külön is, ha jól vannak címkézve. / https://wiki.openstreetmap.org/wiki/Key:tower:construction</title>
-        <link>https://www.openstreetmap.org/note/2545736#c8522362</link>
-        <guid>https://www.openstreetmap.org/note/2545736#c8522362</guid>
-        <pubDate>Fri, 06 Oct 2023 12:10:42 +0000</pubDate>
-      </item><item>
-        <title>new note 3926863 (near 4440, North Great Plain, 4440, Hungary) / * 2023 October 6 12:07 Pan Perníček Created: Forwarding anonymous report from #Mapycz user, please verify: This is Fehérló italbolt. / https://www.openstreetmap.org/node/4382529620</title>
-        <link>https://www.openstreetmap.org/note/3926863#c8522349</link>
-        <guid>https://www.openstreetmap.org/note/3926863#c8522349</guid>
-        <pubDate>Fri, 06 Oct 2023 12:07:04 +0000</pubDate>
-      </item><item>
-        <title>closed note 3691884 (near 6088, South Great Plain, 6088, Hungary) / * 2023 May 16 13:17 Kelenföldi Szent Gellért Plébánia Created: 123 / * 2023 October 6 11:55 infeeeee Resolved: Legközelebb bővebb információkat kérünk.</title>
-        <link>https://www.openstreetmap.org/note/3691884#c8522324</link>
-        <guid>https://www.openstreetmap.org/note/3691884#c8522324</guid>
-        <pubDate>Fri, 06 Oct 2023 11:55:20 +0000</pubDate>
       </item>
   </channel>
 </rss>
