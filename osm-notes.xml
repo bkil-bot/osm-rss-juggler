@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment 3767563 (near 4032, North Great Plain, 4032, Hungary) / * 2023 July 6 09:25 Created: Ez a buszmegálló nem létezik, az elmúlt bő 10 évben nem is létezett soha / * 2023 October 8 11:19 nslxndr Updated: Szabályosan kitáblázott, menetrendszerű (helyi, távolsági) buszmegálló valóban nincs. Viszont úgy tudom, hogy van kialakítva egy peron a járdával összeköttetésben a kiránduló egy egyéb turista buszokról van le- és felszállást megkönnyítendő. Talán ezt szerette volna egykoron kifejezni a szerkesztő is, így törlés helyett célszerűbb lehet arra átalakítva egyértelműsíteni.</title>
+        <link>https://www.openstreetmap.org/note/3767563#c8529955</link>
+        <guid>https://www.openstreetmap.org/note/3767563#c8529955</guid>
+        <pubDate>Sun, 08 Oct 2023 11:19:13 +0000</pubDate>
+      </item><item>
+        <title>new note 3929957 (near 1114, Central Hungary, 1114, Hungary) / * 2023 October 8 11:17 Created: Hotel Gellert is closed / since December 2021.</title>
+        <link>https://www.openstreetmap.org/note/3929957#c8529952</link>
+        <guid>https://www.openstreetmap.org/note/3929957#c8529952</guid>
+        <pubDate>Sun, 08 Oct 2023 11:17:06 +0000</pubDate>
+      </item><item>
+        <title>new comment 3929241 (near 4027, North Great Plain, 4027, Hungary) / * 2023 October 7 19:06 DrGonzo_hu Created: Unable to answer &amp;quot;Is there a shelter at this stop?&amp;quot; for https://osm.org/node/10682562315 via StreetComplete 54.1: / Ez a buszmegálló már nincs itt. / * 2023 October 8 11:04 nslxndr Updated: Ez egy ideiglenesen (azaz inkább időszakosan, pl. idén januártól májusig energiamegtakarítás, nyaranta a pályakarbantartás és egyéb rendkívüli helyzet alatt - a Bem tér felújításához talán nem volt köze) üzemelő megálló, az 1V villamospótló megállója: https://menetrend.derke.hu/?getlines=1Vleall,1 / Főszabály szerint ezért nem annyira szerencsés ideiglenes dolgokat felvinni, mert aztán fennmarad, illetve utólag a helyszínen nem értik és hibának tűnik. Kitáblázva megkockáztatom lehet akkor sincs, amikor használják, ilyenkor pedig tudom, hogy nincs. Talán némi térkő lerakás enged rá következtetni, így ebből a szempontból a felvetés valahol jogos. / Mivel fent van az egész vonal (https://www.openstreetmap.org/relation/15514749) nem törölném más munkáját, de azért sem, mert alkalmilag visszatérő jelleggel szerintem használják, és ugyan eléggé eseti jelleggel, de hasznos infó lehet. / A megoldást talán abban látom, hogy a jelenlegi &amp;quot;Bem tér (ideiglenes)&amp;quot; nevet átrakni az official_name címkébe, mert hivatalosan elvileg ez a neve, elsődleges névnek pedig (ami megjelenik) azt adni meg, hogy &amp;quot;Bem tér (villamospótló)&amp;quot;. Így talán nem okoz félreértést a helyszínen, ha úgy tűnik, hogy adott pillanatban ott nincs aktívan használt megálló.</title>
+        <link>https://www.openstreetmap.org/note/3929241#c8529917</link>
+        <guid>https://www.openstreetmap.org/note/3929241#c8529917</guid>
+        <pubDate>Sun, 08 Oct 2023 11:04:47 +0000</pubDate>
+      </item><item>
         <title>new note 3929617 (near 4954, North Great Plain, 4954, Hungary) / * 2023 October 8 06:19 DrGonzo_hu Created: Unable to answer &amp;quot;What’s the house number of this building?&amp;quot; for https://osm.org/way/802207321 via StreetComplete 54.1: / Sonkád 0124/114 hrsz. / Kis-Túr Kemping / Attached photo(s): / https://westnordost.de/p/179960.jpg</title>
         <link>https://www.openstreetmap.org/note/3929617#c8529128</link>
         <guid>https://www.openstreetmap.org/note/3929617#c8529128</guid>
@@ -327,26 +342,6 @@
         <link>https://www.openstreetmap.org/note/3748525#c8521241</link>
         <guid>https://www.openstreetmap.org/note/3748525#c8521241</guid>
         <pubDate>Fri, 06 Oct 2023 05:53:08 +0000</pubDate>
-      </item><item>
-        <title>closed note 3748526 (near 6500, South Great Plain, 6500, Hungary) / * 2023 June 24 07:25 Johanna707 Created: Unable to answer &amp;quot;Is there a bench at this stop?&amp;quot; for https://osm.org/node/9065426629 via StreetComplete 53.1: / Nem létezik. / * 2023 October 6 05:53 vasony Resolved: Törölve</title>
-        <link>https://www.openstreetmap.org/note/3748526#c8521240</link>
-        <guid>https://www.openstreetmap.org/note/3748526#c8521240</guid>
-        <pubDate>Fri, 06 Oct 2023 05:53:08 +0000</pubDate>
-      </item><item>
-        <title>closed note 3748528 (near 6500, South Great Plain, 6500, Hungary) / * 2023 June 24 07:26 Johanna707 Created: Unable to answer &amp;quot;What’s the topic of this information board?&amp;quot; for https://osm.org/node/3561907553 via StreetComplete 53.1: / Üzleti reklám. / * 2023 October 6 05:53 vasony Resolved: javítva</title>
-        <link>https://www.openstreetmap.org/note/3748528#c8521239</link>
-        <guid>https://www.openstreetmap.org/note/3748528#c8521239</guid>
-        <pubDate>Fri, 06 Oct 2023 05:53:07 +0000</pubDate>
-      </item><item>
-        <title>new note 3926346 (near 6500, South Great Plain, 6500, Hungary) / * 2023 October 6 05:35 vasony Created: Itt van utca a Vodica utca?</title>
-        <link>https://www.openstreetmap.org/note/3926346#c8521221</link>
-        <guid>https://www.openstreetmap.org/note/3926346#c8521221</guid>
-        <pubDate>Fri, 06 Oct 2023 05:35:11 +0000</pubDate>
-      </item><item>
-        <title>new note 3926345 (near Livoda, Kiscsávoly, Baja) / * 2023 October 6 05:33 vasony Created: Utcanevek hiányoznak: / - Szitakötő köz / - Teknős köz / - Sikló köz</title>
-        <link>https://www.openstreetmap.org/note/3926345#c8521220</link>
-        <guid>https://www.openstreetmap.org/note/3926345#c8521220</guid>
-        <pubDate>Fri, 06 Oct 2023 05:33:46 +0000</pubDate>
       </item>
   </channel>
 </rss>
