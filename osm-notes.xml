@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3929597 (near 1025, Central Hungary, 1025, Hungary) / * 2023 October 8 12:18 infeeeee Resolved: Zsolt azóta visszanevezte: https://www.openstreetmap.org/changeset/142294206 / Mondjuk ő is állította el 2 évvel ezelőtt... / Keselyű út biztosan létezik, Választás.hu-n is szerepel mint egy utca valahol errefele: https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-002-033?tab=data</title>
+        <link>https://www.openstreetmap.org/note/3929597#c8530142</link>
+        <guid>https://www.openstreetmap.org/note/3929597#c8530142</guid>
+        <pubDate>Sun, 08 Oct 2023 12:18:18 +0000</pubDate>
+      </item><item>
+        <title>new note 3930034 (near 6720, South Great Plain, 6720, Hungary) / * 2023 October 8 12:16 fawkes2 Created: A Lufthansa elköltözött a a Bocskai utcába úgy látom. (Az osztrák konzulátus után). / Viszont hogy ott van-e A Deutsch Telekom IT solution még abban az épületben, vagy az elköltözött valahova máshova, és esetleg helyettük lett-e ott a Lufthansa azt nem tudom.</title>
+        <link>https://www.openstreetmap.org/note/3930034#c8530131</link>
+        <guid>https://www.openstreetmap.org/note/3930034#c8530131</guid>
+        <pubDate>Sun, 08 Oct 2023 12:16:08 +0000</pubDate>
+      </item><item>
         <title>new comment 3767563 (near 4032, North Great Plain, 4032, Hungary) / * 2023 July 6 09:25 Created: Ez a buszmegálló nem létezik, az elmúlt bő 10 évben nem is létezett soha / * 2023 October 8 11:19 nslxndr Updated: Szabályosan kitáblázott, menetrendszerű (helyi, távolsági) buszmegálló valóban nincs. Viszont úgy tudom, hogy van kialakítva egy peron a járdával összeköttetésben a kiránduló egy egyéb turista buszokról van le- és felszállást megkönnyítendő. Talán ezt szerette volna egykoron kifejezni a szerkesztő is, így törlés helyett célszerűbb lehet arra átalakítva egyértelműsíteni.</title>
         <link>https://www.openstreetmap.org/note/3767563#c8529955</link>
         <guid>https://www.openstreetmap.org/note/3767563#c8529955</guid>
@@ -332,16 +342,6 @@
         <link>https://www.openstreetmap.org/note/3473468#c8521483</link>
         <guid>https://www.openstreetmap.org/note/3473468#c8521483</guid>
         <pubDate>Fri, 06 Oct 2023 07:31:03 +0000</pubDate>
-      </item><item>
-        <title>closed note 3473467 (near Erdőszél Lakópark, Nagyszentjános) / * 2022 December 10 21:35 vasony Created: Melyik a Vadvirág utca? / * 2023 October 6 07:30 BeenniB Resolved: Nincs ilyen utca</title>
-        <link>https://www.openstreetmap.org/note/3473467#c8521482</link>
-        <guid>https://www.openstreetmap.org/note/3473467#c8521482</guid>
-        <pubDate>Fri, 06 Oct 2023 07:30:45 +0000</pubDate>
-      </item><item>
-        <title>closed note 3748525 (near 6500, South Great Plain, 6500, Hungary) / * 2023 June 24 07:24 Johanna707 Created: Unable to answer &amp;quot;Is there a bench at this stop?&amp;quot; for https://osm.org/node/1948127571 via StreetComplete 53.1: / Nem létezik. / * 2023 October 6 05:53 vasony Resolved: Törölve</title>
-        <link>https://www.openstreetmap.org/note/3748525#c8521241</link>
-        <guid>https://www.openstreetmap.org/note/3748525#c8521241</guid>
-        <pubDate>Fri, 06 Oct 2023 05:53:08 +0000</pubDate>
       </item>
   </channel>
 </rss>
