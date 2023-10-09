@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3377928 (near 70, Péntek tanya, Budakalász) / * 2022 September 28 19:57 Mateusz Konieczny Created: https://www.openstreetmap.org/node/5418420882 / Is there drinking water available here or not? It can be water fountain, water tap, maybe even hand pump, spring and so on. / It is marked as / amenity = drinking_water / disused:amenity = drinking_water / so it is marked as both active and disused at the same time. / If it is closed during winter then seasonal=yes would be much better / * 2023 October 9 14:37 infeeeee Resolved: The poi was removed since this note</title>
+        <link>https://www.openstreetmap.org/note/3377928#c8535385</link>
+        <guid>https://www.openstreetmap.org/note/3377928#c8535385</guid>
+        <pubDate>Mon, 09 Oct 2023 14:37:47 +0000</pubDate>
+      </item><item>
+        <title>closed note 2597771 (near 2011, Central Hungary, 2011, Hungary) / * 2021 March 28 11:51 mtoth Created: there is not water (river), but land, as you can see on the OSM map / * 2021 April 1 18:17 vasony Updated: nem látok itt folyót, mi a konkrét probléma amit javítani a térképen? / (i can see no river here, please provide more detailed information on the issue you would like to report.) / * 2021 April 1 18:19 vasony Updated: Erről lenen szó? / https://www.openstreetmap.org/way/303946657 / * 2021 April 4 06:02 mtoth Updated: A locus map térképen látható a hiba. (nem jöttem rá, hogyan lehet azt a térkép részletet csatolni.) / * 2021 April 4 07:13 vasony Updated: Feltöltöd valahova a screenshot-ot, és az url-jét csatolod ide.vagy privátban. / * 2021 April 4 07:22 mtoth Updated: No, talán így: https://drive.google.com/file/d/1-mNohdyj8IogzRQanSvF5lk4EpefM5w7/view?usp=sharing / * 2021 April 4 07:26 mtoth Updated: Köszi, közben magam is eljutottam ezen &amp;quot;hihehetlenül bonyolult&amp;quot; megoldáshoz. :) Most aza akérdés, hogy jól csináltam, de majd biztosan megmondod. Köszi a támogatást! (BTW : privátban hogyan?) / * 2021 April 4 07:50 vasony Updated: Privát: pl. itt a nevemre kattintva &amp;quot;send message&amp;quot;. Küldtem üzeneten. / * 2021 April 4 09:02 mtoth Updated: A küldött üzenetedre válaszoltam / * 2021 July 17 15:25 grozsa11 Updated: Jé... ott a Duna körvonalát nálam is rosszul rajzolja ki a Locus... nem lehet hogy az OSM Duna vonala sérült vagy &amp;quot;túl bonyolult&amp;quot; ott? Lett szerintetek megoldás erre? A szaggatott vonal nyilván a bicikliút... úgyhogy hiba szerintem csak a Duna megrajzolásával van... / Nálam pl meg így néz ki: https://photos.app.goo.gl/bxizmDmr4qtogxNg6 / * 2021 July 18 16:07 mtoth Resolved:  / * 2021 July 18 16:07 mtoth Reactivated:  / * 2021 July 18 16:09 mtoth Updated: A Locushoz is eljutott a probléma:  Ehgyelőre nem tudják a hiba okát. &amp;quot;dolgoznak rajta&amp;quot;... Bármit is jelentsem ez. / * 2023 October 9 14:33 infeeeee Resolved: Renderelő hiba, a térkép jó, a kérdéses megjelenítő azóta meg lett javítva, ez szerintem zárható.</title>
+        <link>https://www.openstreetmap.org/note/2597771#c8535375</link>
+        <guid>https://www.openstreetmap.org/note/2597771#c8535375</guid>
+        <pubDate>Mon, 09 Oct 2023 14:33:20 +0000</pubDate>
+      </item><item>
         <title>closed note 3927929 (near 3200, North Hungary, 3200, Hungary) / * 2023 October 7 05:55 Created: játszótér / * 2023 October 9 09:38 bkil Resolved: Felvettem</title>
         <link>https://www.openstreetmap.org/note/3927929#c8534445</link>
         <guid>https://www.openstreetmap.org/note/3927929#c8534445</guid>
@@ -257,21 +267,6 @@
         <link>https://www.openstreetmap.org/note/2645812#c8525865</link>
         <guid>https://www.openstreetmap.org/note/2645812#c8525865</guid>
         <pubDate>Sat, 07 Oct 2023 12:39:22 +0000</pubDate>
-      </item><item>
-        <title>new note 3928390 (near 4800, North Great Plain, 4800, Hungary) / * 2023 October 7 10:53 Qunor Created: általános iskola kis épülete</title>
-        <link>https://www.openstreetmap.org/note/3928390#c8525588</link>
-        <guid>https://www.openstreetmap.org/note/3928390#c8525588</guid>
-        <pubDate>Sat, 07 Oct 2023 10:53:11 +0000</pubDate>
-      </item><item>
-        <title>new note 3928355 (near 4800, North Great Plain, 4800, Hungary) / * 2023 October 7 10:46 Qunor Created: Nincsen használatban.</title>
-        <link>https://www.openstreetmap.org/note/3928355#c8525545</link>
-        <guid>https://www.openstreetmap.org/note/3928355#c8525545</guid>
-        <pubDate>Sat, 07 Oct 2023 10:46:43 +0000</pubDate>
-      </item><item>
-        <title>closed note 3750850 (near 8237, Central Transdanubia, 8237, Hungary) / * 2023 June 25 15:58 Mesehordo Created: A múzeum bezárt! / via StreetComplete_ee 53.2 / * 2023 October 7 10:00 vasony Resolved: duplikált jegyzet</title>
-        <link>https://www.openstreetmap.org/note/3750850#c8525362</link>
-        <guid>https://www.openstreetmap.org/note/3750850#c8525362</guid>
-        <pubDate>Sat, 07 Oct 2023 10:00:07 +0000</pubDate>
       </item>
   </channel>
 </rss>
