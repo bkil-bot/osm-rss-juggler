@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3931066 (near 7627, Southern Transdanubia, 7627, Hungary) / * 2023 October 9 02:50 Boxos Created: Kiss</title>
+        <link>https://www.openstreetmap.org/note/3931066#c8533479</link>
+        <guid>https://www.openstreetmap.org/note/3931066#c8533479</guid>
+        <pubDate>Mon, 09 Oct 2023 02:50:56 +0000</pubDate>
+      </item><item>
         <title>closed note 3925157 (near 4032, North Great Plain, 4032, Hungary) / * 2023 October 5 16:42 DrGonzo_hu Created: Unable to answer &amp;quot;Who is allowed to use this playground?&amp;quot; for https://osm.org/way/278623901 via StreetComplete 54.1: / Már Szigetkék a neve a játszótérnek. Bárki használhatja, nyitvatartási ido is van, de azt nem tudom. / * 2023 October 8 20:20 nslxndr Resolved: Átneveztem: https://www.openstreetmap.org/changeset/142319409 / A nyitvatartási ideje annyira komplex (https://szigetkek.eu/nyitvatartas/), hogy a megfelelő szintaxissal leírva nem fér bele a max. 255 karakteres értékhatárba (467 karakternél tartottam, és még nem volt 100%-osan lefedve, szóval a limit duplája is épp csak elég lenne), így csak az url került be.</title>
         <link>https://www.openstreetmap.org/note/3925157#c8532257</link>
         <guid>https://www.openstreetmap.org/note/3925157#c8532257</guid>
@@ -282,11 +287,6 @@
         <link>https://www.openstreetmap.org/note/3357105#c8524801</link>
         <guid>https://www.openstreetmap.org/note/3357105#c8524801</guid>
         <pubDate>Sat, 07 Oct 2023 05:47:22 +0000</pubDate>
-      </item><item>
-        <title>closed note 3923532 (near 8636, Southern Transdanubia, 8636, Hungary) / * 2023 October 4 16:47 lumixa112 Created: Unable to answer &amp;quot;How is drinking water provided here?&amp;quot; for https://osm.org/node/4721781670 via StreetComplete 54.0: / A szökőkút csapjának karja hiányzik.  Nem működik. / Attached photo(s): / https://westnordost.de/p/179157.jpg / * 2023 October 6 19:32 urbalazs Resolved: 2 éve állítottam be nem működőre. Nem értem, hogy a SC miért kérdezte meg. A térkép a valóságnak megfelel, nincs vele teendő.</title>
-        <link>https://www.openstreetmap.org/note/3923532#c8523904</link>
-        <guid>https://www.openstreetmap.org/note/3923532#c8523904</guid>
-        <pubDate>Fri, 06 Oct 2023 19:32:51 +0000</pubDate>
       </item>
   </channel>
 </rss>
