@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 2914196 (near 9, Dóczy-park, Auguszta, Debrecen) / * 2021 October 29 02:26 Zsolt Beringer Created: OSInt alapján A, B valamint C épületeket feltételezek a házszámhoz. / * 2023 October 9 20:31 nslxndr Resolved: A térképet időközben javították (bár az A-B épület fel volt cserélve), jelenleg megfelel a jelzett állapotnak.</title>
+        <link>https://www.openstreetmap.org/note/2914196#c8536369</link>
+        <guid>https://www.openstreetmap.org/note/2914196#c8536369</guid>
+        <pubDate>Mon, 09 Oct 2023 20:31:16 +0000</pubDate>
+      </item><item>
         <title>closed note 3344443 (near Rákópuszta, Kaposkeresztúr) / * 2022 September 3 18:19 kogutowicz-mano Created: Innen a falu északnyugati határáig vadonatúj kerékpárút az országút északi oldalán. / * 2023 October 9 16:42 nargoth Resolved: Berajzoltam.</title>
         <link>https://www.openstreetmap.org/note/3344443#c8535752</link>
         <guid>https://www.openstreetmap.org/note/3344443#c8535752</guid>
@@ -262,16 +267,6 @@
         <link>https://www.openstreetmap.org/note/3142984#c8526303</link>
         <guid>https://www.openstreetmap.org/note/3142984#c8526303</guid>
         <pubDate>Sat, 07 Oct 2023 14:54:08 +0000</pubDate>
-      </item><item>
-        <title>new note 3928664 (near 2096, Central Hungary, 2096, Hungary) / * 2023 October 7 13:46 Created: A tábla szerint Fenyves sétány.</title>
-        <link>https://www.openstreetmap.org/note/3928664#c8526053</link>
-        <guid>https://www.openstreetmap.org/note/3928664#c8526053</guid>
-        <pubDate>Sat, 07 Oct 2023 13:46:11 +0000</pubDate>
-      </item><item>
-        <title>new comment 2645812 (near Central Hungary, 1139, Hungary) / * 2021 April 30 12:57 grozsa11 Created: Ez csak egy két oldalú reklémtábla épitmeny / via StreetComplete 31.3 / * 2023 June 29 16:15 infeeeee Updated: Ez mire vonatkozhatott? Se műholdképen, se mapillary-n nem látok itt semmit / * 2023 June 29 16:22 grozsa11 Updated: A Levéltár felőli sarkon van egy olyan óriási reklámfelület, ami már-már épület, de lehet hogy &amp;quot;óriásplakát&amp;quot;-ként lehetne definiálni... / * 2023 June 29 16:26 infeeeee Updated: Ez? https://www.openstreetmap.org/way/679089003 / * 2023 October 7 12:39 balint36 Updated: @infeeeee Igen, ez nem épület, hanem két fal (pontosabban acélszerkezet, ami üvegpaneleket tart), rajtuk &amp;quot;BUDAPEST FŐVÁROS LEVÉLTÁRA&amp;quot; felirat. Mögötte egy füves-fás rész van.</title>
-        <link>https://www.openstreetmap.org/note/2645812#c8525865</link>
-        <guid>https://www.openstreetmap.org/note/2645812#c8525865</guid>
-        <pubDate>Sat, 07 Oct 2023 12:39:22 +0000</pubDate>
       </item>
   </channel>
 </rss>
