@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>memorial=column? Nem látok ilyet a wikiben. https://wiki.openstreetmap.org/wiki/Key:memorial Nem szívesen írnék be ilyet. -kogutowicz-mano</title>
+        <link>https://www.openstreetmap.org/changeset/142305251</link>
+        <guid>https://www.openstreetmap.org/changeset/142305251#comment_5</guid>
+        <pubDate>2023-10-10T04:09:49+02:00</pubDate>
+      </item><item>
         <title>Szia! A közműtérkép adatait használtam: https://ekozmu.e-epites.hu/alkalmazas/lakossag/menu/terkep/tajekoztatas/kozmuterkep -Térképszerkesztő</title>
         <link>https://www.openstreetmap.org/changeset/137608632</link>
         <guid>https://www.openstreetmap.org/changeset/137608632#comment_2</guid>
         <pubDate>2023-10-09T10:37:47+02:00</pubDate>
-      </item><item>
-        <title>Ugyanazon az oldalon kicsit lejjebb csak ennyi van, hogy historic=memorial kell rájuk. Nézegetve az eddigi értékeket, material=wood és memorial=column még biztosan jó. Wikidata adatlapján is kopjafa az angol nevük: https://www.wikidata.org/wiki/Q904172 , szóval szerintem akár a memorial=kopjafa is elfogadható lehetne, máshol is használnak lefordíthatatlan helyi dolgokat ebben a kulcsban, de megkérdezem a matrix csoportban. -infeeeee</title>
-        <link>https://www.openstreetmap.org/changeset/142305251</link>
-        <guid>https://www.openstreetmap.org/changeset/142305251#comment_4</guid>
-        <pubDate>2023-10-09T10:04:20+02:00</pubDate>
       </item><item>
         <title>DWG revert https://www.openstreetmap.org/changeset/142331509 -Fizzie41</title>
         <link>https://www.openstreetmap.org/changeset/142323457</link>
@@ -72,11 +72,6 @@
         <link>https://www.openstreetmap.org/changeset/141804735</link>
         <guid>https://www.openstreetmap.org/changeset/141804735#comment_1</guid>
         <pubDate>2023-10-04T09:20:05+02:00</pubDate>
-      </item><item>
-        <title>DWG revert https://www.openstreetmap.org/changeset/142077566 -Fizzie41</title>
-        <link>https://www.openstreetmap.org/changeset/142071381</link>
-        <guid>https://www.openstreetmap.org/changeset/142071381#comment_1</guid>
-        <pubDate>2023-10-03T04:14:08+02:00</pubDate>
       </item>
   </channel>
 </rss>
