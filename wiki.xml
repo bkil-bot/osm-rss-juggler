@@ -2,6 +2,31 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      
+      <item>
+        <title>Hungary/20231012: links -Bkil</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20231012&amp;diff=2603680&amp;oldid=2603674</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20231012&amp;diff=2603680</guid>
+        <pubDate>Wed, 11 Oct 2023 19:15:37 GMT</pubDate>
+      </item><item>
+        <title>Hungary/20231014: links -Bkil</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20231014&amp;diff=2603679&amp;oldid=2603673</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20231014&amp;diff=2603679</guid>
+        <pubDate>Wed, 11 Oct 2023 19:15:34 GMT</pubDate>
+      </item><item>
+        <title>Hungary/20231012: links -Bkil</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20231012&amp;diff=2603674&amp;oldid=2603664</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20231012&amp;diff=2603674</guid>
+        <pubDate>Wed, 11 Oct 2023 19:06:09 GMT</pubDate>
+      </item><item>
+        <title>Hungary/20231014: links -Bkil</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20231014&amp;diff=2603673&amp;oldid=2603665</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20231014&amp;diff=2603673</guid>
+        <pubDate>Wed, 11 Oct 2023 19:06:04 GMT</pubDate>
+      </item><item>
+        <title>Hungary/Találkozók: 2023: 20231012, 20231014 -Bkil</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Tal%C3%A1lkoz%C3%B3k&amp;diff=2603668&amp;oldid=2600329</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Tal%C3%A1lkoz%C3%B3k&amp;diff=2603668</guid>
+        <pubDate>Wed, 11 Oct 2023 18:32:38 GMT</pubDate>
+      </item>
   </channel>
 </rss>
