@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>Do you like maps? Why am I asking, of course you do! Have you made your own map? Yay! Would you like to show it off at @sotmeu, the annual european #OpenStreetMap conference? You&amp;#39;re in luck! Read more here: &amp;lt;https://stateofthemap.eu/call-for-maps&amp;gt; #OpenStreetMap #OSM #SotM #SotMEU #maps #gischat</title>
+        <link>https://en.osm.town/@openstreetmap/111216972750970885</link>
+        <guid>https://en.osm.town/@openstreetmap/111216972750970885</guid>
+        <pubDate>Wed, 11 Oct 2023 14:58:47 +0000</pubDate>
+      </item><item>
         <title>In the #OpenStreetMap data model, linear features are (mostly) represented by the `way` data type, which can have at most 2,000 `node`s. Can you find a way for OpenStreetMap to have more than 2,000 donations by going https://supporting.openstreetmap.org/donate/ 🥺🥺 #OSM</title>
         <link>https://en.osm.town/@openstreetmap/111183581803611553</link>
         <guid>https://en.osm.town/@openstreetmap/111183581803611553</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/111012548530663645</link>
         <guid>https://en.osm.town/@openstreetmap/111012548530663645</guid>
         <pubDate>Tue, 05 Sep 2023 12:31:01 +0000</pubDate>
-      </item><item>
-        <title>The members of the OpenStreetMap Foundation (OSMF) will vote to elect a new board in December. Voting will start on 2 Dec 2023 and the results will be announced on 9 December 2023, during the 2023 Annual General Meeting. &amp;lt;https://blog.openstreetmap.org/2023/09/01/osm-foundation-board-elections-2023/&amp;gt;</title>
-        <link>https://en.osm.town/@openstreetmap/111002434528741626</link>
-        <guid>https://en.osm.town/@openstreetmap/111002434528741626</guid>
-        <pubDate>Sun, 03 Sep 2023 17:38:53 +0000</pubDate>
       </item>
   </channel>
 </rss>
