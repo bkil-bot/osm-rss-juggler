@@ -47,11 +47,6 @@
         <link>https://www.openstreetmap.org/changeset/142193022</link>
         <guid>https://www.openstreetmap.org/changeset/142193022#comment_2</guid>
         <pubDate>2023-10-06T10:56:57+02:00</pubDate>
-      </item><item>
-        <title>Végül már sejtettem, hogy ezért nevezhetted így el a linkeket, arra viszont a destination címke megfelelőbb lenne a name helyett. Amit linkeltem wiki oldal is konkrétan így említi, hogy nincs neve, és navigációs célra pedig javasolt a destination. Próbáld ki, hátha úgy is kimondja a navigációs szoftver, illene neki tudnia, ha esetleg nem, akkor pedig a szoftvert lenne jó rávenni. A szalagkorlát helyett pedig szerintem amit keresel az talán inkább ez lesz: https://wiki.openstreetmap.org/wiki/Tag:traffic_calming%3Disland A leírás alapján a mellette futó útpályákra kerül a traffic_calming=island címke. Látványelemként pedig a köztes területet meg lehet rajzolni mint area:highway=traffic_island, úgy ellékszem arrafelé kavicsos felülettel. Itt találsz egy példát is, én is most javítottam a wiki szerint megfelelőre: https://www.openstreetmap.org/way/1153446640 https://www.openstreetmap.org/way/1153446639 -nslxndr</title>
-        <link>https://www.openstreetmap.org/changeset/140005226</link>
-        <guid>https://www.openstreetmap.org/changeset/140005226#comment_5</guid>
-        <pubDate>2023-10-05T18:00:46+02:00</pubDate>
       </item>
   </channel>
 </rss>

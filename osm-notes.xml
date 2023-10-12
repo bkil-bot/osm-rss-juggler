@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3937129 (near 9400, Western Transdanubia, 9400, Hungary) / * 2023 October 12 16:34 efi99 Created: címek?</title>
+        <link>https://www.openstreetmap.org/note/3937129#c8546727</link>
+        <guid>https://www.openstreetmap.org/note/3937129#c8546727</guid>
+        <pubDate>Thu, 12 Oct 2023 16:34:16 +0000</pubDate>
+      </item><item>
         <title>new note 3937004 (near 2112, Central Hungary, 2112, Hungary) / * 2023 October 12 15:17 Mateusz Konieczny Created: name=Dogs in Style Kutyakozmetikus / animal=wellness / https://www.openstreetmap.org/node/8912070246 / ? Is it shop=pet_grooming or something else? See https://wiki.openstreetmap.org/wiki/Tag:shop%3Dpet_grooming / (if yes, it should be retagged, if not it may need to be edited or wiki edited to remove that claim that animal=wellness means the same as shop=pet_grooming and that shop=pet_grooming is preferable tagging) / Or is it maybe veterinary?</title>
         <link>https://www.openstreetmap.org/note/3937004#c8546394</link>
         <guid>https://www.openstreetmap.org/note/3937004#c8546394</guid>
@@ -157,11 +162,6 @@
         <link>https://www.openstreetmap.org/note/3933973#c8539421</link>
         <guid>https://www.openstreetmap.org/note/3933973#c8539421</guid>
         <pubDate>Tue, 10 Oct 2023 15:35:26 +0000</pubDate>
-      </item><item>
-        <title>new note 3933595 (near 6758, South Great Plain, 6758, Hungary) / * 2023 October 10 12:53 Heidrich Attila Created: Innen szerintem Tiszavirág utca, de legközelebb, ha jövök, akkor fixálom. / https://www.roszke.hu/?module=news&amp;amp;action=show&amp;amp;nid=139455 / ebből nem ez következne, hanem a Rákóczi másik vége, de a falakon (ha van egyáltalán bármilyen névtábla) akkor ez van</title>
-        <link>https://www.openstreetmap.org/note/3933595#c8538733</link>
-        <guid>https://www.openstreetmap.org/note/3933595#c8538733</guid>
-        <pubDate>Tue, 10 Oct 2023 12:53:06 +0000</pubDate>
       </item>
   </channel>
 </rss>
