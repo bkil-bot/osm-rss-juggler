@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment 3935399 (near 1138, Central Hungary, 1138, Hungary) / * 2023 October 11 14:35 OSM KAMI Created: nd / via StreetComplete 54.1 / Attached photo(s): / https://westnordost.de/p/180630.jpg / * 2023 October 12 04:18 Mateusz Konieczny Updated: I would treat it as missing opening hours sign</title>
+        <link>https://www.openstreetmap.org/note/3935399#c8544319</link>
+        <guid>https://www.openstreetmap.org/note/3935399#c8544319</guid>
+        <pubDate>Thu, 12 Oct 2023 04:18:13 +0000</pubDate>
+      </item><item>
         <title>closed note 3795070 (near 2500, Central Transdanubia, 2500, Hungary) / * 2023 July 23 16:40 Persevere1454 Created: Unable to answer &amp;quot;What type of shop is this?&amp;quot; for https://osm.org/node/7237378222 via StreetComplete 53.1: / It looks as if it&amp;#39;s a gallery of antique store considering the poster mentions paintings donated by a private party and also exhibitions. / Attached photo(s): / https://westnordost.de/p/162902.jpg / * 2023 October 11 21:42 urbalazs Resolved: Beállítottam galériának.</title>
         <link>https://www.openstreetmap.org/note/3795070#c8543866</link>
         <guid>https://www.openstreetmap.org/note/3795070#c8543866</guid>
@@ -197,16 +202,6 @@
         <link>https://www.openstreetmap.org/note/2914196#c8536369</link>
         <guid>https://www.openstreetmap.org/note/2914196#c8536369</guid>
         <pubDate>Mon, 09 Oct 2023 20:31:16 +0000</pubDate>
-      </item><item>
-        <title>closed note 3344443 (near Rákópuszta, Kaposkeresztúr) / * 2022 September 3 18:19 kogutowicz-mano Created: Innen a falu északnyugati határáig vadonatúj kerékpárút az országút északi oldalán. / * 2023 October 9 16:42 nargoth Resolved: Berajzoltam.</title>
-        <link>https://www.openstreetmap.org/note/3344443#c8535752</link>
-        <guid>https://www.openstreetmap.org/note/3344443#c8535752</guid>
-        <pubDate>Mon, 09 Oct 2023 16:42:20 +0000</pubDate>
-      </item><item>
-        <title>closed note 3377928 (near 70, Péntek tanya, Budakalász) / * 2022 September 28 19:57 Mateusz Konieczny Created: https://www.openstreetmap.org/node/5418420882 / Is there drinking water available here or not? It can be water fountain, water tap, maybe even hand pump, spring and so on. / It is marked as / amenity = drinking_water / disused:amenity = drinking_water / so it is marked as both active and disused at the same time. / If it is closed during winter then seasonal=yes would be much better / * 2023 October 9 14:37 infeeeee Resolved: The poi was removed since this note</title>
-        <link>https://www.openstreetmap.org/note/3377928#c8535385</link>
-        <guid>https://www.openstreetmap.org/note/3377928#c8535385</guid>
-        <pubDate>Mon, 09 Oct 2023 14:37:47 +0000</pubDate>
       </item>
   </channel>
 </rss>
