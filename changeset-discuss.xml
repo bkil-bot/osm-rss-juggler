@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Igen, házszámot csak olyanra veszünk fel amiről a helyszínen leolvasható házszám. Házszáma ráadásul nem is szokott trafónak, esetleg a teleknek amin elhelyezték, bár az is legtöbbször közterületen. -bkil</title>
+        <link>https://www.openstreetmap.org/changeset/130508921</link>
+        <guid>https://www.openstreetmap.org/changeset/130508921#comment_3</guid>
+        <pubDate>2023-10-14T16:52:11+02:00</pubDate>
+      </item><item>
         <title>I apologise I noticed the ref tags were not changed and I meant to sort everything later -Badojo</title>
         <link>https://www.openstreetmap.org/changeset/142115586</link>
         <guid>https://www.openstreetmap.org/changeset/142115586#comment_3</guid>
@@ -12,11 +17,6 @@
         <link>https://www.openstreetmap.org/changeset/142363405</link>
         <guid>https://www.openstreetmap.org/changeset/142363405#comment_3</guid>
         <pubDate>2023-10-14T15:22:46+02:00</pubDate>
-      </item><item>
-        <title>Vespucci ajánlja fel az utcát és a házszámot – gondolom, a legközelebbi épületét. Arra gondolsz, hogy hagyjuk el az ilyen adatokat a transzformátor-házikónál, hiszen azokon nem szerepel házszám? =László + -f_laszlo</title>
-        <link>https://www.openstreetmap.org/changeset/130508921</link>
-        <guid>https://www.openstreetmap.org/changeset/130508921#comment_2</guid>
-        <pubDate>2023-10-14T12:53:13+02:00</pubDate>
       </item><item>
         <title>Apropó, a Magyar Posta illetve Postapont ki szokott lenni függesztve az épület oldalán markáns feliratként. Hasonlóan bár a &quot;Csemege&quot;, &quot;Vegyesbolt&quot;, &quot;ABC&quot; mind redundáns azzal, hogy shop=convenience, egy átutazó külföldi biztos nem tudhatja ez alapján, hogy a térképen lévő boltot hol keresse amennyiben a betűre pontos felirat lemarad. -bkil</title>
         <link>https://www.openstreetmap.org/changeset/142305251</link>
