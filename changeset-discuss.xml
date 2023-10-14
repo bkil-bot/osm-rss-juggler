@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Apropó, a Magyar Posta illetve Postapont ki szokott lenni függesztve az épület oldalán markáns feliratként. Hasonlóan bár a &quot;Csemege&quot;, &quot;Vegyesbolt&quot;, &quot;ABC&quot; mind redundáns azzal, hogy shop=convenience, egy átutazó külföldi biztos nem tudhatja ez alapján, hogy a térképen lévő boltot hol keresse amennyiben a betűre pontos felirat lemarad. -bkil</title>
+        <link>https://www.openstreetmap.org/changeset/142305251</link>
+        <guid>https://www.openstreetmap.org/changeset/142305251#comment_11</guid>
+        <pubDate>2023-10-14T07:25:02+02:00</pubDate>
+      </item><item>
         <title>Szia! Lehet, hogy kérdeztem már, de ezek az alállomás címek honnan jönnek? Tamás -vasony</title>
         <link>https://www.openstreetmap.org/changeset/130508921</link>
         <guid>https://www.openstreetmap.org/changeset/130508921#comment_1</guid>
@@ -12,11 +17,6 @@
         <link>https://www.openstreetmap.org/changeset/142363405</link>
         <guid>https://www.openstreetmap.org/changeset/142363405#comment_1</guid>
         <pubDate>2023-10-14T06:11:55+02:00</pubDate>
-      </item><item>
-        <title>Itt jegyezném meg, hogy a name=Posta az importból jön. Ha ebből párat letörölsz annak semmi értelme, mert a következő import vissza fogja állítani, ellenkező intézkedés hiányában. (nem én határoztam meg a címkéket, mielőtt velem kezdesz vitatkozni, hogy nem helyes) -vasony</title>
-        <link>https://www.openstreetmap.org/changeset/142305251</link>
-        <guid>https://www.openstreetmap.org/changeset/142305251#comment_10</guid>
-        <pubDate>2023-10-14T05:12:26+02:00</pubDate>
       </item><item>
         <title>You said you have fixed rail names. However you made a mess and many mistakes at Gyékényes station. Please redo rhem. -balint36</title>
         <link>https://www.openstreetmap.org/changeset/142115586</link>
