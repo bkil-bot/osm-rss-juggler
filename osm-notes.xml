@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3886163 (near North Great Plain, 4220, Hungary) / * 2023 September 12 20:14 Bakancs Created: Itt nincs Foxpost csomagautomata. / There is no Foxpost parcel machine here. / * 2023 October 16 12:50 nslxndr Resolved: Köszönjük a jelentést. A térképet időközben javították, jelenleg megfelel a jelzett állapotnak. / https://www.openstreetmap.org/changeset/140342205</title>
+        <link>https://www.openstreetmap.org/note/3886163#c8561291</link>
+        <guid>https://www.openstreetmap.org/note/3886163#c8561291</guid>
+        <pubDate>Mon, 16 Oct 2023 12:50:07 +0000</pubDate>
+      </item><item>
+        <title>closed note 3886159 (near North Great Plain, 4220, Hungary) / * 2023 September 12 20:10 Bakancs Created: Ez nem &amp;quot;Balthazár&amp;quot;, hanem &amp;quot;Baltazár&amp;quot; Dezső utca. / Lásd képet: https://kepkuldes.com/images/2f0ebe5756ab6c43f402256788d0e8a7.png / This is not &amp;quot;Balthazár&amp;quot;, but &amp;quot;Baltazár&amp;quot; Dezső street. / See picture: https://kepkuldes.com/images/2f0ebe5756ab6c43f402256788d0e8a7.png / * 2023 October 16 12:47 nslxndr Resolved: Köszönjük a jelentést és az utcanévtábla fotóval történő megerősítést. A térképet javítottam: https://www.openstreetmap.org/changeset/142664500</title>
+        <link>https://www.openstreetmap.org/note/3886159#c8561286</link>
+        <guid>https://www.openstreetmap.org/note/3886159#c8561286</guid>
+        <pubDate>Mon, 16 Oct 2023 12:47:47 +0000</pubDate>
+      </item><item>
         <title>new note 3943228 (near 1011, Central Hungary, 1011, Hungary) / * 2023 October 16 11:52 Pan Perníček Created: Forwarding anonymous report from #Mapycz user, please verify: There&amp;#39;s a parking.</title>
         <link>https://www.openstreetmap.org/note/3943228#c8561097</link>
         <guid>https://www.openstreetmap.org/note/3943228#c8561097</guid>
@@ -237,16 +247,6 @@
         <link>https://www.openstreetmap.org/note/3941095#c8556237</link>
         <guid>https://www.openstreetmap.org/note/3941095#c8556237</guid>
         <pubDate>Sun, 15 Oct 2023 09:18:41 +0000</pubDate>
-      </item><item>
-        <title>new note 3941092 (near 3466, North Hungary, 3466, Hungary) / * 2023 October 15 09:15 OSM KAMI Created: . / via StreetComplete 54.1 / Attached photo(s): / https://westnordost.de/p/181331.jpg / https://westnordost.de/p/181332.jpg / https://westnordost.de/p/181333.jpg / https://westnordost.de/p/181334.jpg / https://westnordost.de/p/181335.jpg / https://westnordost.de/p/181336.jpg</title>
-        <link>https://www.openstreetmap.org/note/3941092#c8556229</link>
-        <guid>https://www.openstreetmap.org/note/3941092#c8556229</guid>
-        <pubDate>Sun, 15 Oct 2023 09:15:32 +0000</pubDate>
-      </item><item>
-        <title>new note 3941091 (near 3466, North Hungary, 3466, Hungary) / * 2023 October 15 09:13 OSM KAMI Created: másik megálló / via StreetComplete 54.1 / Attached photo(s): / https://westnordost.de/p/181328.jpg / https://westnordost.de/p/181329.jpg / https://westnordost.de/p/181330.jpg</title>
-        <link>https://www.openstreetmap.org/note/3941091#c8556227</link>
-        <guid>https://www.openstreetmap.org/note/3941091#c8556227</guid>
-        <pubDate>Sun, 15 Oct 2023 09:13:51 +0000</pubDate>
       </item>
   </channel>
 </rss>
