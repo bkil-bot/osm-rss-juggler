@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3467636 (near South Great Plain, 6000, Hungary) / * 2022 December 5 09:29 Created: Ezek a belső kis utcák is táblázás szerint a Matkói út részei, elnevezhetőek így. / * 2023 September 13 12:16 movingbishop Resolved:  / * 2023 September 13 12:21 movingbishop Reactivated:  / * 2023 October 16 07:20 dastanfury Resolved: Átnevezve.</title>
+        <link>https://www.openstreetmap.org/note/3467636#c8560359</link>
+        <guid>https://www.openstreetmap.org/note/3467636#c8560359</guid>
+        <pubDate>Mon, 16 Oct 2023 07:20:29 +0000</pubDate>
+      </item><item>
+        <title>closed note 2675444 (near Déli ipartelep, Nyugati ipartelepek, Kecskemét) / * 2021 May 19 12:42 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: A1 Automobile Kft. is here. / * 2023 October 16 07:17 dastanfury Resolved: Already exist: https://www.openstreetmap.org/node/9178563379</title>
+        <link>https://www.openstreetmap.org/note/2675444#c8560357</link>
+        <guid>https://www.openstreetmap.org/note/2675444#c8560357</guid>
+        <pubDate>Mon, 16 Oct 2023 07:17:27 +0000</pubDate>
+      </item><item>
         <title>closed note 3678051 (near 8200, Central Transdanubia, 8200, Hungary) / * 2023 May 7 08:03 vasony-qa Created: Dupla házszám, talán 75/1, 77/2 ? / * 2023 October 16 05:35 wertol Resolved: A 77 szerintem csak a kis házra vonatkozik. A nagyobb épületben több cég is a 75-ös szám alatt van. Talán még az L-alakú épület hosszabb része is 75 lehet...</title>
         <link>https://www.openstreetmap.org/note/3678051#c8560106</link>
         <guid>https://www.openstreetmap.org/note/3678051#c8560106</guid>
@@ -227,11 +237,6 @@
         <link>https://www.openstreetmap.org/note/3643264#c8554564</link>
         <guid>https://www.openstreetmap.org/note/3643264#c8554564</guid>
         <pubDate>Sat, 14 Oct 2023 17:41:40 +0000</pubDate>
-      </item><item>
-        <title>new note 3940184 (near 2931, Central Transdanubia, 2931, Hungary) / * 2023 October 14 15:10 Created: A gyógyszertár határozatlan ideig nem működik. / http://almasfuzito.hu/gyogyszertar-hasznositasa/</title>
-        <link>https://www.openstreetmap.org/note/3940184#c8553901</link>
-        <guid>https://www.openstreetmap.org/note/3940184#c8553901</guid>
-        <pubDate>Sat, 14 Oct 2023 15:10:10 +0000</pubDate>
       </item>
   </channel>
 </rss>
