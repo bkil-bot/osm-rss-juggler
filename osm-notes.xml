@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 363173 (near 6525, South Great Plain, 6525, Hungary) / * 2015 May 13 20:20 nagy_balint Created: Check offset in the town. / * 2023 October 15 23:48 infeeeee Resolved: FŐMI alapján jó helyen van ez a település, gondolom a jegyzet keletkezésekor 8 éve nem ez volt a helyzet,</title>
+        <link>https://www.openstreetmap.org/note/363173#c8559801</link>
+        <guid>https://www.openstreetmap.org/note/363173#c8559801</guid>
+        <pubDate>Sun, 15 Oct 2023 23:48:35 +0000</pubDate>
+      </item><item>
+        <title>closed note 3415312 (near 5321, North Great Plain, 5321, Hungary) / * 2022 October 27 12:45 kogutowicz-mano Created: Valahol a reptér környékén új naperőmű készül. / https://24.hu/belfold/2022/10/27/naperomu-epul-szolnok-megyeben-mvm/ / * 2023 October 15 23:44 infeeeee Resolved: Jelölve van már, ez és társai: https://www.openstreetmap.org/way/1197960756</title>
+        <link>https://www.openstreetmap.org/note/3415312#c8559785</link>
+        <guid>https://www.openstreetmap.org/note/3415312#c8559785</guid>
+        <pubDate>Sun, 15 Oct 2023 23:44:41 +0000</pubDate>
+      </item><item>
+        <title>closed note 3935782 (near 2071, Central Hungary, 2071, Hungary) / * 2023 October 11 19:37 Kádár Iván Created: fiktív körforgalom? / * 2023 October 15 23:42 infeeeee Resolved: Bálint törölte két napja a körforgalmat: https://www.openstreetmap.org/changeset/142521315 / Ezzel addig nincs teendő, amíg át nem adják az utat.</title>
+        <link>https://www.openstreetmap.org/note/3935782#c8559776</link>
+        <guid>https://www.openstreetmap.org/note/3935782#c8559776</guid>
+        <pubDate>Sun, 15 Oct 2023 23:42:09 +0000</pubDate>
+      </item><item>
+        <title>closed note 3940628 (near 2146, Central Hungary, 2146, Hungary) / * 2023 October 14 19:59 Created: LAKE FOREST VILLAPARK / * 2023 October 15 23:34 infeeeee Resolved: Szerepel a térképen</title>
+        <link>https://www.openstreetmap.org/note/3940628#c8559764</link>
+        <guid>https://www.openstreetmap.org/note/3940628#c8559764</guid>
+        <pubDate>Sun, 15 Oct 2023 23:34:14 +0000</pubDate>
+      </item><item>
         <title>closed note 3275944 (near 1075, Central Hungary, 1075, Hungary) / * 2022 July 20 17:24 OSM KAMI Created: Unable to answer &amp;quot;What are the opening hours here?&amp;quot; for https://osm.org/node/6122614485 via StreetComplete 45.1: / Remma&amp;#39;s valami bár / * 2023 October 15 22:14 infeeeee Resolved: Remma&amp;#39;s bistro, és már szerepelt a térképen: https://www.openstreetmap.org/node/9963197817 / Javítottam, egyesítettem: https://www.openstreetmap.org/changeset/142637448</title>
         <link>https://www.openstreetmap.org/note/3275944#c8559555</link>
         <guid>https://www.openstreetmap.org/note/3275944#c8559555</guid>
@@ -192,21 +212,6 @@
         <link>https://www.openstreetmap.org/note/3940040#c8553641</link>
         <guid>https://www.openstreetmap.org/note/3940040#c8553641</guid>
         <pubDate>Sat, 14 Oct 2023 14:16:24 +0000</pubDate>
-      </item><item>
-        <title>closed note 3624063 (near 2040, Central Hungary, 2040, Hungary) / * 2023 April 2 08:38 vasony Created: 2023-04-01: járda vagy parkoló épül, az út fel van ásva, később felmérendő / y / * 2023 June 12 21:02 BáthoryPéter Updated: Egy rövid parkoló épült az északi oldalon. / * 2023 October 14 14:11 vasony Resolved: felvettem a parkolót</title>
-        <link>https://www.openstreetmap.org/note/3624063#c8553626</link>
-        <guid>https://www.openstreetmap.org/note/3624063#c8553626</guid>
-        <pubDate>Sat, 14 Oct 2023 14:11:56 +0000</pubDate>
-      </item><item>
-        <title>new comment 3901608 (near Central Hungary, 1027, Hungary) / * 2023 September 21 22:39 freebeer Created: is this real and not a maps.me personal bookmark, and where? / * 2023 October 14 14:06 infeeeee Updated: Online I found only one apartment in this street, but it&amp;#39;s 4 houses away, must be checked irl: https://www.booking.com/hotel/hu/riverland-renovated-apartment.en-gb.html</title>
-        <link>https://www.openstreetmap.org/note/3901608#c8553612</link>
-        <guid>https://www.openstreetmap.org/note/3901608#c8553612</guid>
-        <pubDate>Sat, 14 Oct 2023 14:06:06 +0000</pubDate>
-      </item><item>
-        <title>new note 3939820 (near 3388, North Hungary, 3388, Hungary) / * 2023 October 14 12:38 OSM KAMI Created: felveszem majd ezt a pályát / via StreetComplete 54.1 / Attached photo(s): / https://westnordost.de/p/181145.jpg</title>
-        <link>https://www.openstreetmap.org/note/3939820#c8552903</link>
-        <guid>https://www.openstreetmap.org/note/3939820#c8552903</guid>
-        <pubDate>Sat, 14 Oct 2023 12:38:08 +0000</pubDate>
       </item>
   </channel>
 </rss>
