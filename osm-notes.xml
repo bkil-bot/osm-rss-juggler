@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment 2960880 (near 9028, Western Transdanubia, 9028, Hungary) / * 2021 December 6 08:55 Berci75 Created: Az épülő útbővítést valaki győri megcsinálná / * 2023 October 16 09:18 infeeeee Updated: Ez azóta meg lett oldva?</title>
+        <link>https://www.openstreetmap.org/note/2960880#c8560614</link>
+        <guid>https://www.openstreetmap.org/note/2960880#c8560614</guid>
+        <pubDate>Mon, 16 Oct 2023 09:18:55 +0000</pubDate>
+      </item><item>
+        <title>reactivated note 2872387 (near Aligvári szőlő, Iszkaszentgyörgy) / * 2023 October 16 09:17 kogutowicz-mano Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/2872387#c8560610</link>
+        <guid>https://www.openstreetmap.org/note/2872387#c8560610</guid>
+        <pubDate>Mon, 16 Oct 2023 09:17:19 +0000</pubDate>
+      </item><item>
+        <title>closed note 2808245 (near Györgymajor, Iszkaszentgyörgy) / * 2021 August 17 20:21 vasony Created: Mándi Márton István tér hiányzik a térképről. / Ennek itt kellene valahol lennie: / https://www.vackorovi-iszka.hu/ / * 2023 October 16 09:09 infeeeee Resolved: Felkerült a térképre azóta: https://www.openstreetmap.org/way/339923767</title>
+        <link>https://www.openstreetmap.org/note/2808245#c8560596</link>
+        <guid>https://www.openstreetmap.org/note/2808245#c8560596</guid>
+        <pubDate>Mon, 16 Oct 2023 09:09:14 +0000</pubDate>
+      </item><item>
+        <title>closed note 2872387 (near Aligvári szőlő, Iszkaszentgyörgy) / * 2021 September 28 10:43 kogutowicz-mano Created: Itt meg kellene nézni, sőt lefotózni, hogy merre kunkorodnak pontosan a 132 kV-os kábelek. Melyik oszlopról melyik oszlopra? Hogy kapcsolódik a délről és északról jövő két-két áramkör a keletről és nyugatról érkezőkhöz? / * 2022 September 7 13:19 ks00 Updated: Fotózva / Attached photo(s): / https://westnordost.de/p/111639.jpg / https://westnordost.de/p/111640.jpg / https://westnordost.de/p/111641.jpg / * 2022 September 7 13:43 kogutowicz-mano Updated: Ó! Kösz! / Ilyet még sosem láttam. (Na jó, egyszer. :-) / A kereszteződéstől délkeletre volt a kamera, ugye? / * 2022 September 12 13:42 ks00 Updated: Igen, délkelet írányból állva északnyugati irányba fényképezve. / * 2023 October 16 09:08 infeeeee Resolved: Ha jól látom a térkép a fotóknak megfelelő, ez zárható</title>
+        <link>https://www.openstreetmap.org/note/2872387#c8560593</link>
+        <guid>https://www.openstreetmap.org/note/2872387#c8560593</guid>
+        <pubDate>Mon, 16 Oct 2023 09:08:24 +0000</pubDate>
+      </item><item>
         <title>new note 3942964 (near 1038, Central Hungary, 1038, Hungary) / * 2023 October 16 08:09 BáthoryPéter Created: Terepen ellenőrizendő: valahol itt kéne legyen a Róka-hegyi Kristály-barlang. / https://termeszetvedelem.hu/talalati-oldal/?type=barlang&amp;amp;id=4810-10 / https://hu.wikipedia.org/wiki/R%C3%B3ka-hegyi_Krist%C3%A1ly-barlang</title>
         <link>https://www.openstreetmap.org/note/3942964#c8560457</link>
         <guid>https://www.openstreetmap.org/note/3942964#c8560457</guid>
@@ -227,36 +247,6 @@
         <link>https://www.openstreetmap.org/note/2489120#c8555105</link>
         <guid>https://www.openstreetmap.org/note/2489120#c8555105</guid>
         <pubDate>Sat, 14 Oct 2023 20:35:16 +0000</pubDate>
-      </item><item>
-        <title>closed note 2900577 (near 2500, Central Transdanubia, 2500, Hungary) / * 2021 October 18 10:39 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: There&amp;#39;s OTP Bank ATM. / * 2023 October 14 20:30 urbalazs Resolved: I added it to the map.</title>
-        <link>https://www.openstreetmap.org/note/2900577#c8555076</link>
-        <guid>https://www.openstreetmap.org/note/2900577#c8555076</guid>
-        <pubDate>Sat, 14 Oct 2023 20:30:31 +0000</pubDate>
-      </item><item>
-        <title>closed note 2400233 (near 2500, Central Transdanubia, 2500, Hungary) / * 2020 October 26 12:00 Pan Perníček Created: #Mapy.cz user reports: Szent János kút doesn&amp;#39;t exist. / * 2023 October 14 20:30 urbalazs Resolved: I can confirm. Szent János kút is removed.</title>
-        <link>https://www.openstreetmap.org/note/2400233#c8555075</link>
-        <guid>https://www.openstreetmap.org/note/2400233#c8555075</guid>
-        <pubDate>Sat, 14 Oct 2023 20:30:15 +0000</pubDate>
-      </item><item>
-        <title>closed note 2489110 (near 2500, Central Transdanubia, 2500, Hungary) / * 2021 January 7 16:09 Created: A buszvégállomás elköltözött a vasútállomás közvetlen szomszédságába! / * 2021 January 9 17:33 vasony Updated: Az új helyre már fel van rajzolva, ez még itt pucolandó. / * 2021 January 17 18:22 ITineris Updated: Részben elpucoltam. Kérdés, hogy az összes buszjárat megszűnt-e innen. Csak mert a Magyar utca felőli beállók elég sok útvonal részeiként szerepelnek még. / * 2023 October 14 20:29 urbalazs Resolved: Az összes megszűnt. Már az útvonalak sincsenek itt. Nincs vele további teendő, lezárom.</title>
-        <link>https://www.openstreetmap.org/note/2489110#c8555073</link>
-        <guid>https://www.openstreetmap.org/note/2489110#c8555073</guid>
-        <pubDate>Sat, 14 Oct 2023 20:29:46 +0000</pubDate>
-      </item><item>
-        <title>closed note 2060198 (near 2500, Central Transdanubia, 2500, Hungary) / * 2020 January 17 14:15 Created: Esztergom Barber Shop / * 2023 October 14 20:28 urbalazs Resolved: Ez a jegyzet 3 éves. Most Apple szerviz van a helyén. Felvittem a térképre.</title>
-        <link>https://www.openstreetmap.org/note/2060198#c8555070</link>
-        <guid>https://www.openstreetmap.org/note/2060198#c8555070</guid>
-        <pubDate>Sat, 14 Oct 2023 20:28:28 +0000</pubDate>
-      </item><item>
-        <title>new note 3940628 (near 2146, Central Hungary, 2146, Hungary) / * 2023 October 14 19:59 Created: LAKE FOREST VILLAPARK</title>
-        <link>https://www.openstreetmap.org/note/3940628#c8555000</link>
-        <guid>https://www.openstreetmap.org/note/3940628#c8555000</guid>
-        <pubDate>Sat, 14 Oct 2023 19:59:03 +0000</pubDate>
-      </item><item>
-        <title>closed note 3643264 (near 3200, North Hungary, 3200, Hungary) / * 2023 April 15 05:58 sfphoton Created: Unable to answer &amp;quot;What kind of parking is this?&amp;quot; for https://osm.org/way/1116912217 via StreetComplete 52.0: / Párhuzamos és merőleges parkoló is van / * 2023 October 14 17:41 infeeeee Resolved: Mapillary és műholdképek alapján nekem úgy tűnik, hogy ez a kis szakasz merőleges, jelöltem is: https://www.osm.org/changeset/142586694</title>
-        <link>https://www.openstreetmap.org/note/3643264#c8554564</link>
-        <guid>https://www.openstreetmap.org/note/3643264#c8554564</guid>
-        <pubDate>Sat, 14 Oct 2023 17:41:40 +0000</pubDate>
       </item>
   </channel>
 </rss>
