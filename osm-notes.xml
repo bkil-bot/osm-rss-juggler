@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3945357 (near 6758, South Great Plain, 6758, Hungary) / * 2023 October 17 18:15 vasony Created: Ez működik vagy sem?</title>
+        <link>https://www.openstreetmap.org/note/3945357#c8566638</link>
+        <guid>https://www.openstreetmap.org/note/3945357#c8566638</guid>
+        <pubDate>Tue, 17 Oct 2023 18:15:48 +0000</pubDate>
+      </item><item>
         <title>new note 3944636 (near 1027, Central Hungary, 1027, Hungary) / * 2023 October 17 10:36 OSM KAMI Created: átalakítása de ide jönnek vissza / via StreetComplete 54.1 / Attached photo(s): / https://westnordost.de/p/181698.jpg</title>
         <link>https://www.openstreetmap.org/note/3944636#c8564766</link>
         <guid>https://www.openstreetmap.org/note/3944636#c8564766</guid>
@@ -167,21 +172,6 @@
         <link>https://www.openstreetmap.org/note/3409769#c8560368</link>
         <guid>https://www.openstreetmap.org/note/3409769#c8560368</guid>
         <pubDate>Mon, 16 Oct 2023 07:25:33 +0000</pubDate>
-      </item><item>
-        <title>closed note 3409771 (near 6000, South Great Plain, 6000, Hungary) / * 2022 October 22 22:53 Created: Kerékpártároló / * 2023 October 16 07:23 dastanfury Resolved: Hozzáadva: https://www.openstreetmap.org/node/11266175379</title>
-        <link>https://www.openstreetmap.org/note/3409771#c8560366</link>
-        <guid>https://www.openstreetmap.org/note/3409771#c8560366</guid>
-        <pubDate>Mon, 16 Oct 2023 07:23:45 +0000</pubDate>
-      </item><item>
-        <title>closed note 3467636 (near South Great Plain, 6000, Hungary) / * 2022 December 5 09:29 Created: Ezek a belső kis utcák is táblázás szerint a Matkói út részei, elnevezhetőek így. / * 2023 September 13 12:16 movingbishop Resolved:  / * 2023 September 13 12:21 movingbishop Reactivated:  / * 2023 October 16 07:20 dastanfury Resolved: Átnevezve.</title>
-        <link>https://www.openstreetmap.org/note/3467636#c8560359</link>
-        <guid>https://www.openstreetmap.org/note/3467636#c8560359</guid>
-        <pubDate>Mon, 16 Oct 2023 07:20:29 +0000</pubDate>
-      </item><item>
-        <title>closed note 2675444 (near Déli ipartelep, Nyugati ipartelepek, Kecskemét) / * 2021 May 19 12:42 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: A1 Automobile Kft. is here. / * 2023 October 16 07:17 dastanfury Resolved: Already exist: https://www.openstreetmap.org/node/9178563379</title>
-        <link>https://www.openstreetmap.org/note/2675444#c8560357</link>
-        <guid>https://www.openstreetmap.org/note/2675444#c8560357</guid>
-        <pubDate>Mon, 16 Oct 2023 07:17:27 +0000</pubDate>
       </item>
   </channel>
 </rss>
