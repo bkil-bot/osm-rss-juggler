@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Szia! Az ilyen típus az gyakorlatilag private nem permit, és ez igazából 1 utca ami középen le van zárva, egy betontömmbel, nem egy tipikus kocsibehajtó, ezért én visszaraknám residential-ra még ha nem is mehet be mindenki. T -vasony</title>
+        <link>https://www.openstreetmap.org/changeset/142522484</link>
+        <guid>https://www.openstreetmap.org/changeset/142522484#comment_3</guid>
+        <pubDate>2023-10-17T18:19:20+02:00</pubDate>
+      </item><item>
         <title>Úgy látom mostanra kiderült, egyirányú felhajtó lett. -vasony</title>
         <link>https://www.openstreetmap.org/changeset/137067704</link>
         <guid>https://www.openstreetmap.org/changeset/137067704#comment_2</guid>
@@ -37,11 +42,6 @@
         <link>https://www.openstreetmap.org/changeset/142637139</link>
         <guid>https://www.openstreetmap.org/changeset/142637139#comment_1</guid>
         <pubDate>2023-10-16T12:26:17+02:00</pubDate>
-      </item><item>
-        <title>Szia! A kint lévő tábla szerint az &quot;Iskolai ételszállítás&quot; behajthat, így a korábbi &quot;no&quot; accesst &quot;permit&quot;-re cseréltem. A wiki alapján a &quot;service&quot; tag írja le legjobban ezt a szakaszt: &quot;The highway=service tag denotes ways used for vehicle access to a building, service station, industrial estate, business park, [...] and may sometimes be inaccessible to the general public&quot;. Ha nem találod megfelelőnek, nyugodtan módosítsd. Bálint -Bálint</title>
-        <link>https://www.openstreetmap.org/changeset/142522484</link>
-        <guid>https://www.openstreetmap.org/changeset/142522484#comment_2</guid>
-        <pubDate>2023-10-16T09:35:50+02:00</pubDate>
       </item><item>
         <title>Szia! Amíg a Bingen látszik vagy nem építették felül addig az épület törlése helyett a demolished:building a megfelelő eljárás. Tamás -vasony</title>
         <link>https://www.openstreetmap.org/changeset/142630116</link>
