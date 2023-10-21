@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Továbbá addr:hrsz helyett addr:conscriptionnumber használatos, javítottam. -vasony</title>
+        <link>https://www.openstreetmap.org/changeset/142193022</link>
+        <guid>https://www.openstreetmap.org/changeset/142193022#comment_3</guid>
+        <pubDate>2023-10-21T13:34:08+02:00</pubDate>
+      </item><item>
         <title>Akicó? :-o -kogutowicz-mano</title>
         <link>https://www.openstreetmap.org/changeset/49892180</link>
         <guid>https://www.openstreetmap.org/changeset/49892180#comment_1</guid>
@@ -82,11 +87,6 @@
         <link>https://www.openstreetmap.org/changeset/130508921</link>
         <guid>https://www.openstreetmap.org/changeset/130508921#comment_4</guid>
         <pubDate>2023-10-14T19:55:56+02:00</pubDate>
-      </item><item>
-        <title>I apologise I noticed the ref tags were not changed and I meant to sort everything later -Badojo</title>
-        <link>https://www.openstreetmap.org/changeset/142115586</link>
-        <guid>https://www.openstreetmap.org/changeset/142115586#comment_3</guid>
-        <pubDate>2023-10-14T15:45:04+02:00</pubDate>
       </item>
   </channel>
 </rss>
