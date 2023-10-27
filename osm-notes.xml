@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 2718560 (near 1225, Central Hungary, 1225, Hungary) / * 2021 June 18 15:17 bkil Created: Van a lakótelepen futókör, illetve ivókút valahol a futókör körül? https://budafokteteny.hu/hir/hosegriado-2021-06 / * 2021 June 18 15:18 bkil Updated: Kell lennie egy másodiknak is magán a játszótéren. / * 2023 May 31 08:22 Ironrat1 Updated: Futókör nincs, de ivókút van / * 2023 October 7 15:21 infeeeee Updated: Kút jelölve, ez zárható? https://www.openstreetmap.org/node/9026928625 / * 2023 October 27 20:08 bkil Resolved: Erre gondoltam amit azóta felvettek és itt van a futókör is https://www.openstreetmap.org/node/9865961184</title>
+        <link>https://www.openstreetmap.org/note/2718560#c8603364</link>
+        <guid>https://www.openstreetmap.org/note/2718560#c8603364</guid>
+        <pubDate>Fri, 27 Oct 2023 20:08:07 +0000</pubDate>
+      </item><item>
         <title>new note 3960590 (near 8083, Central Transdanubia, 8083, Hungary) / * 2023 October 27 15:30 utvonalfelmeresek Created: gls automata</title>
         <link>https://www.openstreetmap.org/note/3960590#c8602410</link>
         <guid>https://www.openstreetmap.org/note/3960590#c8602410</guid>
@@ -252,26 +257,6 @@
         <link>https://www.openstreetmap.org/note/3957318#c8595497</link>
         <guid>https://www.openstreetmap.org/note/3957318#c8595497</guid>
         <pubDate>Wed, 25 Oct 2023 12:30:55 +0000</pubDate>
-      </item><item>
-        <title>new comment 3957326 (near 5600, South Great Plain, 5600, Hungary) / * 2023 October 25 12:29 bkil Updated: Pontosan mi a teendő ezzel a jegyzettel?</title>
-        <link>https://www.openstreetmap.org/note/3957326#c8595491</link>
-        <guid>https://www.openstreetmap.org/note/3957326#c8595491</guid>
-        <pubDate>Wed, 25 Oct 2023 12:29:52 +0000</pubDate>
-      </item><item>
-        <title>new note 3957326 (near 5600, South Great Plain, 5600, Hungary) / * 2023 October 25 12:05 balint36 Created: Békéscsaba VP bejár 5 / via StreetComplete 54.1 / GPS Trace: https://www.openstreetmap.org/user/balint36/traces/11141814</title>
-        <link>https://www.openstreetmap.org/note/3957326#c8595407</link>
-        <guid>https://www.openstreetmap.org/note/3957326#c8595407</guid>
-        <pubDate>Wed, 25 Oct 2023 12:05:25 +0000</pubDate>
-      </item><item>
-        <title>new note 3957319 (near 5600, South Great Plain, 5600, Hungary) / * 2023 October 25 12:01 balint36 Created: Unable to answer &amp;quot;What barriers are used at this railway crossing?&amp;quot; for https://osm.org/node/2424581476 via StreetComplete 54.1: / Nincs átjáró</title>
-        <link>https://www.openstreetmap.org/note/3957319#c8595393</link>
-        <guid>https://www.openstreetmap.org/note/3957319#c8595393</guid>
-        <pubDate>Wed, 25 Oct 2023 12:01:25 +0000</pubDate>
-      </item><item>
-        <title>new note 3957318 (near 5712, South Great Plain, 5712, Hungary) / * 2023 October 25 12:00 balint36 Created: Szabadkígyós KP kijárat / via StreetComplete 54.1 / GPS Trace: https://www.openstreetmap.org/user/balint36/traces/11141803</title>
-        <link>https://www.openstreetmap.org/note/3957318#c8595391</link>
-        <guid>https://www.openstreetmap.org/note/3957318#c8595391</guid>
-        <pubDate>Wed, 25 Oct 2023 12:00:02 +0000</pubDate>
       </item>
   </channel>
 </rss>
