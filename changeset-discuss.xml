@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Kedves Koszab! Ahogy az előzményekben vasony is írta, az OpenStreetMapre felvitt adatok elsődleges forrása a helyszíni adatgyűjtés. Jelen esetben ha az utca Lévaiként van kitáblázva (I-vel, és nem Y-nal), akkor az utcának ez a neve. Teljesen mindegy, hogy kiről nevezték el, és az eredeti személy I-val vagy Y-nal írta a nevét. Ha meghagynák az Y-os változatot, akkor egy másik szerkesztő a helyszínen járva vissza fogja javítani I-re, mert ez szerepel a táblán. Nem egyedi ez a probléma. A jól bevált megoldás, hogy jelezni kell az önkormányzatnak, hogy hibás az utcanévtábla, és kezdeményezni kell a táblák cseréjét. Ha megtörtént a táblák cseréje, akkor át lehet írni a nevet Y-on változatra. Ha az utcában laksz, és a lakcímkártyádon Y-nal szerepel, akkor pedig a te érdeked is, hogy ez a következetlenség megszűnjön. Most visszavontam a módosításcsomagodat, hogy a térkép a helyszínen lévő állapotot tartalmazza. Kérlek, hogy a táblák cseréjéig az legyen OpenStreetMapen is, ami a helyszínen ki van táblázva. -urbalazs</title>
+        <link>https://www.openstreetmap.org/changeset/143178159</link>
+        <guid>https://www.openstreetmap.org/changeset/143178159#comment_6</guid>
+        <pubDate>2023-10-27T17:36:14+02:00</pubDate>
+      </item><item>
         <title>Ja, értem. Azt hittem mindkettő létezett egyazon időben. -bkil</title>
         <link>https://www.openstreetmap.org/changeset/143205462</link>
         <guid>https://www.openstreetmap.org/changeset/143205462#comment_3</guid>
         <pubDate>2023-10-27T13:55:32+02:00</pubDate>
-      </item><item>
-        <title>Most akkor rossz a tábla vagy sem, előbb azt mondtad, hogy y-nal vannak a táblák kint. Mert osm szempontból nem mindegy, hogy csak szerinted y-os és az összes tábla i, vagy tényleg van kint olyen tábla ami y-nal és van ami i-vel van. osm a tényadatokat rögzíti amit a helyszínen látni, nem azt hogy minek kellene lennie. -vasony</title>
-        <link>https://www.openstreetmap.org/changeset/143178159</link>
-        <guid>https://www.openstreetmap.org/changeset/143178159#comment_5</guid>
-        <pubDate>2023-10-27T12:41:14+02:00</pubDate>
       </item><item>
         <title>Szia! Üdv az OpenStreetMapen! Ez így nem jó mert ilyen magyar nyelvű wikipédia szócikk nem létezik. Azért volt a francia belinkelve, mert csak az van: https://wiki.openstreetmap.org/wiki/Key:wikipedia Szóval vagy a francia legyen linkelve, vagy egyik se. Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! -infeeeee</title>
         <link>https://www.openstreetmap.org/changeset/143203670</link>
