@@ -3,6 +3,21 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>A magyar helyesírás és a magyarországi vasutak címkézése (https://wiki.openstreetmap.org/wiki/Hungary/Vas%C3%BAt) alapján a helyes írási mód GYSEV (végig nagybetűvel). Kérlek, ügyelj erre! Köszönöm! -balint36</title>
+        <link>https://www.openstreetmap.org/changeset/139695338</link>
+        <guid>https://www.openstreetmap.org/changeset/139695338#comment_1</guid>
+        <pubDate>2023-10-28T11:20:20+02:00</pubDate>
+      </item><item>
+        <title>A magyar helyesírás és a magyarországi vasutak címkézése (https://wiki.openstreetmap.org/wiki/Hungary/Vas%C3%BAt) alapján a helyes írási mód GYSEV (végig nagybetűvel). Kérlek, ügyelj erre! Köszönöm! -balint36</title>
+        <link>https://www.openstreetmap.org/changeset/140290485</link>
+        <guid>https://www.openstreetmap.org/changeset/140290485#comment_1</guid>
+        <pubDate>2023-10-28T11:20:16+02:00</pubDate>
+      </item><item>
+        <title>A magyar helyesírás és a magyarországi vasutak címkézése (https://wiki.openstreetmap.org/wiki/Hungary/Vas%C3%BAt) alapján a helyes írási mód GYSEV (végig nagybetűvel). Kérlek, ügyelj erre! Köszönöm! -balint36</title>
+        <link>https://www.openstreetmap.org/changeset/139070606</link>
+        <guid>https://www.openstreetmap.org/changeset/139070606#comment_1</guid>
+        <pubDate>2023-10-28T11:20:14+02:00</pubDate>
+      </item><item>
         <title>Kedves Koszab! Ahogy az előzményekben vasony is írta, az OpenStreetMapre felvitt adatok elsődleges forrása a helyszíni adatgyűjtés. Jelen esetben ha az utca Lévaiként van kitáblázva (I-vel, és nem Y-nal), akkor az utcának ez a neve. Teljesen mindegy, hogy kiről nevezték el, és az eredeti személy I-val vagy Y-nal írta a nevét. Ha meghagynák az Y-os változatot, akkor egy másik szerkesztő a helyszínen járva vissza fogja javítani I-re, mert ez szerepel a táblán. Nem egyedi ez a probléma. A jól bevált megoldás, hogy jelezni kell az önkormányzatnak, hogy hibás az utcanévtábla, és kezdeményezni kell a táblák cseréjét. Ha megtörtént a táblák cseréje, akkor át lehet írni a nevet Y-on változatra. Ha az utcában laksz, és a lakcímkártyádon Y-nal szerepel, akkor pedig a te érdeked is, hogy ez a következetlenség megszűnjön. Most visszavontam a módosításcsomagodat, hogy a térkép a helyszínen lévő állapotot tartalmazza. Kérlek, hogy a táblák cseréjéig az legyen OpenStreetMapen is, ami a helyszínen ki van táblázva. -urbalazs</title>
         <link>https://www.openstreetmap.org/changeset/143178159</link>
         <guid>https://www.openstreetmap.org/changeset/143178159#comment_6</guid>
@@ -42,11 +57,6 @@
         <link>https://www.openstreetmap.org/changeset/96737785</link>
         <guid>https://www.openstreetmap.org/changeset/96737785#comment_1</guid>
         <pubDate>2023-10-22T19:43:09+02:00</pubDate>
-      </item><item>
-        <title>Továbbá addr:hrsz helyett addr:conscriptionnumber használatos, javítottam. -vasony</title>
-        <link>https://www.openstreetmap.org/changeset/142193022</link>
-        <guid>https://www.openstreetmap.org/changeset/142193022#comment_3</guid>
-        <pubDate>2023-10-21T13:34:08+02:00</pubDate>
       </item>
   </channel>
 </rss>
