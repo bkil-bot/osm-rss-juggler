@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3957326 (near 5600, South Great Plain, 5600, Hungary) / * 2023 October 25 12:05 balint36 Created: Békéscsaba VP bejár 5 / via StreetComplete 54.1 / GPS Trace: https://www.openstreetmap.org/user/balint36/traces/11141814 / * 2023 October 25 12:29 bkil Updated: Pontosan mi a teendő ezzel a jegyzettel? / * 2023 October 28 09:37 balint36 Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3957326#c8604544</link>
+        <guid>https://www.openstreetmap.org/note/3957326#c8604544</guid>
+        <pubDate>Sat, 28 Oct 2023 09:37:04 +0000</pubDate>
+      </item><item>
+        <title>closed note 3957318 (near 5712, South Great Plain, 5712, Hungary) / * 2023 October 25 12:00 balint36 Created: Szabadkígyós KP kijárat / via StreetComplete 54.1 / GPS Trace: https://www.openstreetmap.org/user/balint36/traces/11141803 / * 2023 October 25 12:30 bkil Updated: Pontosan mi a teendő ezzel a jegyzettel? Errefelé amúgy tényleg egyvágányú a vasút? / * 2023 October 25 13:08 balint36 Updated: Békéscsaba - Kétegyháza szakaszon még mindig épülőben van a második vágány (Kétegyháza - Lőkösháza oh. szakaszon már megvan). Nem tudom, hogy az OSM-re milyen állapot van feltöltve, ezért ha már kint végeztem ellenőrzést, feltöltöttem két nyomvonalat, hogy később ellenőrizni tudjam az eltéréseket. / * 2023 October 28 09:37 balint36 Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3957318#c8604543</link>
+        <guid>https://www.openstreetmap.org/note/3957318#c8604543</guid>
+        <pubDate>Sat, 28 Oct 2023 09:37:00 +0000</pubDate>
+      </item><item>
         <title>closed note 2718560 (near 1225, Central Hungary, 1225, Hungary) / * 2021 June 18 15:17 bkil Created: Van a lakótelepen futókör, illetve ivókút valahol a futókör körül? https://budafokteteny.hu/hir/hosegriado-2021-06 / * 2021 June 18 15:18 bkil Updated: Kell lennie egy másodiknak is magán a játszótéren. / * 2023 May 31 08:22 Ironrat1 Updated: Futókör nincs, de ivókút van / * 2023 October 7 15:21 infeeeee Updated: Kút jelölve, ez zárható? https://www.openstreetmap.org/node/9026928625 / * 2023 October 27 20:08 bkil Resolved: Erre gondoltam amit azóta felvettek és itt van a futókör is https://www.openstreetmap.org/node/9865961184</title>
         <link>https://www.openstreetmap.org/note/2718560#c8603364</link>
         <guid>https://www.openstreetmap.org/note/2718560#c8603364</guid>
@@ -247,11 +257,6 @@
         <link>https://www.openstreetmap.org/note/3957609#c8596014</link>
         <guid>https://www.openstreetmap.org/note/3957609#c8596014</guid>
         <pubDate>Wed, 25 Oct 2023 15:36:26 +0000</pubDate>
-      </item><item>
-        <title>new comment 3957318 (near 5712, South Great Plain, 5712, Hungary) / * 2023 October 25 13:08 balint36 Updated: Békéscsaba - Kétegyháza szakaszon még mindig épülőben van a második vágány (Kétegyháza - Lőkösháza oh. szakaszon már megvan). Nem tudom, hogy az OSM-re milyen állapot van feltöltve, ezért ha már kint végeztem ellenőrzést, feltöltöttem két nyomvonalat, hogy később ellenőrizni tudjam az eltéréseket.</title>
-        <link>https://www.openstreetmap.org/note/3957318#c8595561</link>
-        <guid>https://www.openstreetmap.org/note/3957318#c8595561</guid>
-        <pubDate>Wed, 25 Oct 2023 13:08:48 +0000</pubDate>
       </item>
   </channel>
 </rss>
