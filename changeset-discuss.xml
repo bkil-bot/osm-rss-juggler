@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Hello! Please have a look on https://www.osm.org/node/7442914018. What ist the mean of the tag street_plate=yes? Likewise, I assume that the sign does not have the name, but that the label of the sign is in the name. Please also look at the key addr:interpolation. This is only set if the individual addresses are not already known. -user_5359</title>
+        <link>https://www.openstreetmap.org/changeset/142836892</link>
+        <guid>https://www.openstreetmap.org/changeset/142836892#comment_1</guid>
+        <pubDate>2023-10-29T17:12:19+01:00</pubDate>
+      </item><item>
         <title>Szia! Sikondán az összes házat &quot;tourism=chalet&quot; taggel jelölted. Ez azt jelenti, hogy bérelhető házról van szó. Ezeket a házakat szerintem inkább building=house címkével lenne érdemes jelölni, kivéve azokat, amelyekről tudjuk, hogy bérelhetők. A Wiki magyar fordításban: Az idegenforgalomban működő, általában különálló szálláshelyek típusa. A &quot;chalet&quot; egy önálló konyhával és fürdőszobával rendelkező nyaralót vagy üdülőházat ír le. Ez vonatkozhat egyetlen faházra vagy faházak csoportjára. Nem tévesztendő össze a francia &quot;chalet&quot; kifejezéssel, amit a magántulajdonban lévő hegyi faházakra használnak, ezek esetében helyette inkább a building=cabin vagy building=house címkét kell használni. -andrashann</title>
         <link>https://www.openstreetmap.org/changeset/143023993</link>
         <guid>https://www.openstreetmap.org/changeset/143023993#comment_1</guid>
