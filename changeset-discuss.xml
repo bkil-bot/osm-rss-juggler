@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Szia! Csak gondoltam, ha te hánytad tele az adatbázist olyan objektumokkal, amikért sírnak a QA eszközök, akkor segíthetnél ezeket kitakarítani is. Ha majd lesz valamikor telek objektum, az egyszeres kerítésekből ezt már elég könnyű lesz létrehozni. Üdv: Ákos -ITineris</title>
+        <link>https://www.openstreetmap.org/changeset/31497106</link>
+        <guid>https://www.openstreetmap.org/changeset/31497106#comment_3</guid>
+        <pubDate>2023-10-30T09:03:17+01:00</pubDate>
+      </item><item>
         <title>Szia! Köszönöm a visszajelzésedet, a fordítás megtévesztő, javítottam! -Spoonisher</title>
         <link>https://www.openstreetmap.org/changeset/143023993</link>
         <guid>https://www.openstreetmap.org/changeset/143023993#comment_2</guid>
@@ -27,11 +32,6 @@
         <link>https://www.openstreetmap.org/changeset/123762832</link>
         <guid>https://www.openstreetmap.org/changeset/123762832#comment_1</guid>
         <pubDate>2023-10-30T06:46:24+01:00</pubDate>
-      </item><item>
-        <title>Szia! Nem érzel kedvet hozzá, hogy a duplán berajzolt kerítéseidből egyet csinálj? Üdv: Ákos -ITineris</title>
-        <link>https://www.openstreetmap.org/changeset/31497106</link>
-        <guid>https://www.openstreetmap.org/changeset/31497106#comment_1</guid>
-        <pubDate>2023-10-30T06:44:59+01:00</pubDate>
       </item><item>
         <title>Szia! A legjobb lenne ezekből rendes addr:interpolation-t csinálni. Üdv: Ákos -ITineris</title>
         <link>https://www.openstreetmap.org/changeset/142836892</link>
