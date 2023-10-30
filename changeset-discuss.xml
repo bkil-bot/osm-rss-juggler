@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Szia! Csak gondoltam, ha te hánytad tele az adatbázist olyan objektumokkal, amikért sírnak a QA eszközök, akkor segíthetnél ezeket kitakarítani is. Ha majd lesz valamikor telek objektum, az egyszeres kerítésekből ezt már elég könnyű lesz létrehozni. Üdv: Ákos -ITineris</title>
+        <title>Biztosan könnyű lesz létrehozni (létezik egyébként a Tag:place=plot), de akkor meg a duplikált elemeket is könnyű megszüntetni automatikus funkciókkal. Vagy nevezd át az összes kerítéssel zárt elememet place=plot -ra, ha úgy már jó lesz a QA-nak. Talán érzed, hogy csak a III. kerületben ezt a több ezer elemet nem kézzel kellene rendbe tenni, ha ugyan kell. -efemm</title>
         <link>https://www.openstreetmap.org/changeset/31497106</link>
-        <guid>https://www.openstreetmap.org/changeset/31497106#comment_3</guid>
-        <pubDate>2023-10-30T09:03:17+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/31497106#comment_4</guid>
+        <pubDate>2023-10-30T09:17:50+01:00</pubDate>
       </item><item>
         <title>Szia! Köszönöm a visszajelzésedet, a fordítás megtévesztő, javítottam! -Spoonisher</title>
         <link>https://www.openstreetmap.org/changeset/143023993</link>
