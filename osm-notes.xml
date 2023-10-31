@@ -3,6 +3,31 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 3966846 (near 1061, Central Hungary, 1061, Hungary) / * 2023 October 31 19:29 ironalloy Created: &amp;quot;duplicate&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-10-09T16:37:32Z / POI name: Porto di Pest / POI types: amenity-restaurant / #organicmaps android</title>
+        <link>https://www.openstreetmap.org/note/3966846#c8618986</link>
+        <guid>https://www.openstreetmap.org/note/3966846#c8618986</guid>
+        <pubDate>Tue, 31 Oct 2023 19:29:50 +0000</pubDate>
+      </item><item>
+        <title>new note 3966845 (near 1061, Central Hungary, 1061, Hungary) / * 2023 October 31 19:29 ironalloy Created: &amp;quot;megszunt&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-10-09T16:37:32Z / POI name: Gusto / POI types: cuisine-italian amenity-restaurant / #organicmaps android</title>
+        <link>https://www.openstreetmap.org/note/3966845#c8618984</link>
+        <guid>https://www.openstreetmap.org/note/3966845#c8618984</guid>
+        <pubDate>Tue, 31 Oct 2023 19:29:46 +0000</pubDate>
+      </item><item>
+        <title>closed note 3937001 (near 2112, Central Hungary, 2112, Hungary) / * 2023 October 12 15:17 Mateusz Konieczny Created: name=Veresi Mi-Ju kutyakozmetika / animal=wellness / https://www.openstreetmap.org/node/9893891692 / ? Is it shop=pet_grooming or something else? See https://wiki.openstreetmap.org/wiki/Tag:shop%3Dpet_grooming / (if yes, it should be retagged, if not it may need to be edited or wiki edited to remove that claim that animal=wellness means the same as shop=pet_grooming and that shop=pet_grooming is preferable tagging) / Or is it maybe veterinary? / * 2023 October 31 19:25 kempelen Resolved: fixed, thanks :)</title>
+        <link>https://www.openstreetmap.org/note/3937001#c8618949</link>
+        <guid>https://www.openstreetmap.org/note/3937001#c8618949</guid>
+        <pubDate>Tue, 31 Oct 2023 19:25:23 +0000</pubDate>
+      </item><item>
+        <title>closed note 3937004 (near 2112, Central Hungary, 2112, Hungary) / * 2023 October 12 15:17 Mateusz Konieczny Created: name=Dogs in Style Kutyakozmetikus / animal=wellness / https://www.openstreetmap.org/node/8912070246 / ? Is it shop=pet_grooming or something else? See https://wiki.openstreetmap.org/wiki/Tag:shop%3Dpet_grooming / (if yes, it should be retagged, if not it may need to be edited or wiki edited to remove that claim that animal=wellness means the same as shop=pet_grooming and that shop=pet_grooming is preferable tagging) / Or is it maybe veterinary? / * 2023 October 31 19:25 kempelen Resolved: fixed thanks</title>
+        <link>https://www.openstreetmap.org/note/3937004#c8618946</link>
+        <guid>https://www.openstreetmap.org/note/3937004#c8618946</guid>
+        <pubDate>Tue, 31 Oct 2023 19:25:12 +0000</pubDate>
+      </item><item>
+        <title>closed note 3937003 (near 2112, Central Hungary, 2112, Hungary) / * 2023 October 12 15:17 Mateusz Konieczny Created: animal=wellness / https://www.openstreetmap.org/node/8933914446 / ? Is it shop=pet_grooming or something else? See https://wiki.openstreetmap.org/wiki/Tag:shop%3Dpet_grooming / (if yes, it should be retagged, if not it may need to be edited or wiki edited to remove that claim that animal=wellness means the same as shop=pet_grooming and that shop=pet_grooming is preferable tagging) / Or is it maybe veterinary? / * 2023 October 31 19:25 kempelen Resolved: Hi Mateusz, yes, it&amp;#39;s pet_grooming,thanks for your notes. I fixed all 3 in this city.</title>
+        <link>https://www.openstreetmap.org/note/3937003#c8618945</link>
+        <guid>https://www.openstreetmap.org/note/3937003#c8618945</guid>
+        <pubDate>Tue, 31 Oct 2023 19:25:01 +0000</pubDate>
+      </item><item>
         <title>new note 3966503 (near 1083, Central Hungary, 1083, Hungary) / * 2023 October 31 15:43 ironalloy Created: &amp;quot;Semmelweis Egyetem parkoló a helyén &amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-10-09T16:37:32Z / POI name: Grundk3rt / POI types: leisure-garden / #organicmaps android</title>
         <link>https://www.openstreetmap.org/note/3966503#c8617983</link>
         <guid>https://www.openstreetmap.org/note/3966503#c8617983</guid>
@@ -187,16 +212,6 @@
         <link>https://www.openstreetmap.org/note/3855436#c8612858</link>
         <guid>https://www.openstreetmap.org/note/3855436#c8612858</guid>
         <pubDate>Mon, 30 Oct 2023 09:35:50 +0000</pubDate>
-      </item><item>
-        <title>new note 3963869 (near 2000, Central Hungary, 2000, Hungary) / * 2023 October 29 20:54 vasony Created: Ez a Róbert sétány itt létezik?</title>
-        <link>https://www.openstreetmap.org/note/3963869#c8610833</link>
-        <guid>https://www.openstreetmap.org/note/3963869#c8610833</guid>
-        <pubDate>Sun, 29 Oct 2023 20:54:56 +0000</pubDate>
-      </item><item>
-        <title>new note 3963830 (near Táltos lovastanya, Szentendre) / * 2023 October 29 20:24 vasony Created: Ez a Vihar utca?</title>
-        <link>https://www.openstreetmap.org/note/3963830#c8610717</link>
-        <guid>https://www.openstreetmap.org/note/3963830#c8610717</guid>
-        <pubDate>Sun, 29 Oct 2023 20:24:51 +0000</pubDate>
       </item>
   </channel>
 </rss>
