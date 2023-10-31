@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Osmose, OSMI. És a hiba szempontjából az esetleges telkek léte irreleváns: a kerítés vonalak duplán vannak. Fizikailag két kerítés van egymáson? Nem. Akkor vonalból is csak egy legyen! Üdv: Ákos -ITineris</title>
-        <link>https://www.openstreetmap.org/changeset/31497106</link>
-        <guid>https://www.openstreetmap.org/changeset/31497106#comment_7</guid>
-        <pubDate>2023-10-31T08:01:52+01:00</pubDate>
-      </item><item>
-        <title>Szia! Úgy látom, hogy átrajzoltál egy pár utat Dóc környékén – gyanítom, hogy valami régi műholdkép alapján &quot;pontosítottad&quot; a GPS track alapján berajzolt utat (way #398028180), és sikerült 15-20 méterrel arrébb költöztetni. Arra kérlek, hogy rajzoláskor mindig töltsd le a GPS trackeket is (tudom, sok idő), főleg akkor, ha a módosítandó út tulajdonságainál az szerepel, hogy felmérés alapján lett berajzolva (source=survey), mert ilyenkor a feltöltött GPS trackek a mérvadóak. Emellett természetesen használhatod a műholdképet is, de előtte mindenképpen kalibrálni kell a GPS trackekhez. A kérdéses utat kijavítottam. -- Zsolt (&quot;Müszi&quot;) -Müszi</title>
+        <title>Igen, illetve amennyiben nem földútról van szó (aminek nyomvonala évről évre perturbálódik), akkor a FÖMI légifelvételére érdemes vetni egy pillantást aminek kalibráltsága nagyon jó. -bkil</title>
         <link>https://www.openstreetmap.org/changeset/124272615</link>
-        <guid>https://www.openstreetmap.org/changeset/124272615#comment_1</guid>
-        <pubDate>2023-10-31T04:12:26+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/124272615#comment_2</guid>
+        <pubDate>2023-10-31T08:42:22+01:00</pubDate>
+      </item><item>
+        <title>Javaslatom: https://matrix.to/#/#osm-jeloles:matrix.org -bkil</title>
+        <link>https://www.openstreetmap.org/changeset/31497106</link>
+        <guid>https://www.openstreetmap.org/changeset/31497106#comment_10</guid>
+        <pubDate>2023-10-31T08:29:37+01:00</pubDate>
       </item><item>
         <title>A kis kunkori, amit te hozzáadtál a 2-es főúthoz, az nem része a 2-es főútnak. Forrás: KIRA -balint36</title>
         <link>https://www.openstreetmap.org/changeset/143008027</link>
