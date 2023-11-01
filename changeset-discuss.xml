@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>This changeset was a quick fix for wrongly mapped features. A user also mapped the block-end street plates (along with actual house numbers), but tagged them with tourism=information + information=board. This two tag was what I deleted. The plates looks like this one: https://www.mapillary.com/app/?pKey=219871839614924&amp;focus=photo In this area buildings at street corners were not mapped with address, but other buildings has properly set address. So there is no need to add interpolation lines. These nodes still holds some information, but needs manual work and sometimes resurvey. The street_plate=yes tag helps to find the problematic nodes. -BáthoryPéter</title>
+        <link>https://www.openstreetmap.org/changeset/142836892</link>
+        <guid>https://www.openstreetmap.org/changeset/142836892#comment_3</guid>
+        <pubDate>2023-10-31T23:49:48+01:00</pubDate>
+      </item><item>
         <title>Abból kiindulva, hogy azt térképezünk, amit látunk. Nem. Mivel gyakran járok erre, teljes biztossággal elmondhatom, hogy nincs kitáblázva, hogy a hurok a 2-es főút része. Sőt, én csak M2-t láttam. Az oldalt látható kis zöld szelvénytáblák is lefelé vezetik a 2-es szelvényezését, fent teljesen más van, ami azt jelenti, hogy az máshoz tartozik. Nem látom, hogy utazásban mit segít az, hogy kapcsolatot viszünk arra, mert a megfelelően címkézett vonalak (way) feladata lenne. Csupán azért szeretnéd, hogy bármilyen OSM-lekérdezés során láthass egy utat, akkor az egy rossz hozzáállás, mert nem a megjelenítés lenne fontos, hanem a helyes információátadás. -balint36</title>
         <link>https://www.openstreetmap.org/changeset/143008027</link>
         <guid>https://www.openstreetmap.org/changeset/143008027#comment_3</guid>
@@ -47,11 +52,6 @@
         <link>https://www.openstreetmap.org/changeset/123762832</link>
         <guid>https://www.openstreetmap.org/changeset/123762832#comment_1</guid>
         <pubDate>2023-10-30T06:46:24+01:00</pubDate>
-      </item><item>
-        <title>Szia! A legjobb lenne ezekből rendes addr:interpolation-t csinálni. Üdv: Ákos -ITineris</title>
-        <link>https://www.openstreetmap.org/changeset/142836892</link>
-        <guid>https://www.openstreetmap.org/changeset/142836892#comment_2</guid>
-        <pubDate>2023-10-30T06:27:16+01:00</pubDate>
       </item><item>
         <title>A magyar helyesírás és a magyarországi vasutak címkézése (https://wiki.openstreetmap.org/wiki/Hungary/Vas%C3%BAt) alapján a helyes írási mód GYSEV (végig nagybetűvel). Kérlek, ügyelj erre! Köszönöm! -balint36</title>
         <link>https://www.openstreetmap.org/changeset/139695338</link>
