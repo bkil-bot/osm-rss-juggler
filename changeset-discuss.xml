@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Igazad lehet. https://www.openstreetmap.org/node/11303440346 Ez a fűtésbolt viszont Hunyadi 1-nek hazudja magát minden hivatalos elérhetőségén. Kerestem egy darabig mire meglett, és valahol közben találtam egy Hunyadi 1 táblát, de már nem tudom hogy hol (szakadt az eső, nem ideális idő bringás felméréshez). Az E épület előtti gyalogos kapun biztos 2/a van. -BáthoryPéter</title>
+        <link>https://www.openstreetmap.org/changeset/143444703</link>
+        <guid>https://www.openstreetmap.org/changeset/143444703#comment_2</guid>
+        <pubDate>2023-11-01T21:38:58+01:00</pubDate>
+      </item><item>
         <title>Szia! Ennek mi értelme? Az interpoláció pont erre való, hogy ne kelljen egyesével létrehozni a házszámokat. Most fiktíven létrehoztad a házszámokat, amik lehet nem is léteznek és így nem fog kiderülni, hogy nincs pontosan felmérve az utca. Tamás -vasony</title>
         <link>https://www.openstreetmap.org/changeset/143315462</link>
         <guid>https://www.openstreetmap.org/changeset/143315462#comment_1</guid>
         <pubDate>2023-11-01T20:52:17+01:00</pubDate>
-      </item><item>
-        <title>https://www.openstreetmap.org/node/3235037362 Ezen a kapun Kondorosi 2/a-van kiírva nem Hunyadi János 1, 2 hete voltam itt. -vasony</title>
-        <link>https://www.openstreetmap.org/changeset/143444703</link>
-        <guid>https://www.openstreetmap.org/changeset/143444703#comment_1</guid>
-        <pubDate>2023-11-01T20:39:08+01:00</pubDate>
       </item><item>
         <title>This changeset was a quick fix for wrongly mapped features. A user also mapped the block-end street plates (along with actual house numbers), but tagged them with tourism=information + information=board. This two tag was what I deleted. The plates looks like this one: https://www.mapillary.com/app/?pKey=219871839614924&amp;focus=photo In this area buildings at street corners were not mapped with address, but other buildings has properly set address. So there is no need to add interpolation lines. These nodes still holds some information, but needs manual work and sometimes resurvey. The street_plate=yes tag helps to find the problematic nodes. -BáthoryPéter</title>
         <link>https://www.openstreetmap.org/changeset/142836892</link>
