@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>https://www.osm.org/node/6936105326 Hibás, ez a neve az üzletnek a Török utcában, ez szerepel a táblán, láthatod mapillary-n is: https://www.mapillary.com/app/?pKey=1682194098886629 Vagy akár inscription-be rakhatod, de szerintem ebben az esetben ez elfogadható mint név. Már megint olyat módosítasz amit csak a helyszíni ellenőrzés alapján lehetne tudni.... FŐMI-n ezt nem látod, pedig azt adtad meg forrásnak. -infeeeee</title>
+        <title>Nem &quot;csak úgy&quot;. Alapos mérlegelés előzte meg. A name=* attribútum nyilvánvalóan hibás volt. Nincs helye. -kogutowicz-mano</title>
         <link>https://www.openstreetmap.org/changeset/143480214</link>
-        <guid>https://www.openstreetmap.org/changeset/143480214#comment_1</guid>
-        <pubDate>2023-11-02T11:22:07+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/143480214#comment_4</guid>
+        <pubDate>2023-11-02T12:47:48+01:00</pubDate>
       </item><item>
-        <title>Lehet az egész blokknak mindkettő utcáról házszáma. -bkil</title>
+        <title>Mint minden sarokteleknek Budapesten, de kiírva nincs. Én a fűtésbolton hagynám az 1-es számot, a kapukról meg leszedném, mert az ipari parkon úgyis rajta van. -vasony</title>
         <link>https://www.openstreetmap.org/changeset/143444703</link>
-        <guid>https://www.openstreetmap.org/changeset/143444703#comment_3</guid>
-        <pubDate>2023-11-02T09:08:48+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/143444703#comment_4</guid>
+        <pubDate>2023-11-02T12:45:07+01:00</pubDate>
       </item><item>
         <title>Szia! Ennek mi értelme? Az interpoláció pont erre való, hogy ne kelljen egyesével létrehozni a házszámokat. Most fiktíven létrehoztad a házszámokat, amik lehet nem is léteznek és így nem fog kiderülni, hogy nincs pontosan felmérve az utca. Tamás -vasony</title>
         <link>https://www.openstreetmap.org/changeset/143315462</link>
