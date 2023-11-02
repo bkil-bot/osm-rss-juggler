@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: File Formats: KML vs CSV vs Magic8Ball vs SQLite: Kml is keyhole markup language it's kinda like xml it's the format that Googlemaps uses Csv comma separated values is kinda the standard for transferring data between different databases and spreadsheets. You can view this one alot of different ways as is in a text editor in most spreadsheet programs excel ,Google sheets ,libre office calc idk what apple uses but that to or it can be uploaded natively into many SQL databases Magic8ball idk I'll look it up ok wiggle made kinda location anomyzor so exact location and exact time are not displayed I'm not 100%on this Sqlite3 least I assume it's 3 is a on disk or embedded db so there is no server it's just a file like another but you can use SQL language to search it and do other things -Space-$hoot088</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11901#p11901</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11901#p11901</guid>
+        <pubDate>2023-11-02T11:04:03</pubDate>
+      </item><item>
         <title>Re: My RPi Setup: Looks like the wardriving mode docs for Kismet moved - https://www.kismetwireless.net/docs/rea ... /wardrive/ is the new locationNearly a year on, hows the rig and your goals coming along? -HolidayGuy</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11877#p11877</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11877#p11877</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11799#p11799</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11799#p11799</guid>
         <pubDate>2023-08-02T04:56:01</pubDate>
-      </item><item>
-        <title>Re: Custom ROMs for wardriving?: You shouldn't need to re-run every time, but installing updates MAY require it. Keep us posted about your results? -arkasha</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11765#p11765</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11765#p11765</guid>
-        <pubDate>2023-07-10T15:50:06</pubDate>
       </item>
   </channel>
 </rss>
