@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>visszatettem, bocsánat! -AdorHUN</title>
+        <link>https://www.openstreetmap.org/changeset/142828869</link>
+        <guid>https://www.openstreetmap.org/changeset/142828869#comment_2</guid>
+        <pubDate>2023-11-03T22:40:38+01:00</pubDate>
+      </item><item>
         <title>Ezt csak helyszíni bejárás alapján lehet eldönteni, kérlek ne változtassatok POI kategóriát úgy, hogy nincs helyismeretetek. Néhányan a sarki újságost, zöldségest is trafiknak hívják. Lazán kapcsolódik, hogy most láttam egy &quot;Presszót&quot; amit valaki amenity=cafe címkével vett fel... Szóval ha lehet, olyanon se változtassatok, amiről nem tudjátok biztosan, hogy micsoda. -bkil</title>
         <link>https://www.openstreetmap.org/changeset/143571916</link>
         <guid>https://www.openstreetmap.org/changeset/143571916#comment_2</guid>
@@ -17,11 +22,6 @@
         <link>https://www.openstreetmap.org/changeset/143480214</link>
         <guid>https://www.openstreetmap.org/changeset/143480214#comment_15</guid>
         <pubDate>2023-11-03T12:59:33+01:00</pubDate>
-      </item><item>
-        <title>Palotabozsoknál a vasúti pályát egy egyesület muzeális célra használja. Ez címkékkel meg is volt jelölve: https://www.openstreetmap.org/way/755856694 https://www.openstreetmap.org/way/1189623122 Kétlek, ebben a két esetben állítsd vissza az megelőző helyes állapotot! Köszönöm! -balint36</title>
-        <link>https://www.openstreetmap.org/changeset/142828869</link>
-        <guid>https://www.openstreetmap.org/changeset/142828869#comment_1</guid>
-        <pubDate>2023-11-03T09:08:37+01:00</pubDate>
       </item><item>
         <title>Szia! Nem azzal van bajom, hogy felkerültek egyesével, hanem hogy nem derült ki, hogy most ellenőrizted ez ezeket, vagy sem. Ha ellenőrizted az összes felvett házszámot (vagy tervben van) , akkor rendben van, egyéb esetben továbbra is tartom, hogy esetleg nem létező házszámokat veszel fel, épp az általad említett kimaradó vagy dupla telkes házszámokról van szó. Most csak azt látom hogy egyenlő távolságra vannak kettesével, de lehet én látom rosszul. Egyként a nem ellenőrzött házszámok kaphatnának egy fixme-t, hogy lássa az ember, hogy a pontos helyét fel kell mérni a házszámoknak, mert ezt az információt most így elvesztjük, és akkor pipa. Tamás -vasony</title>
         <link>https://www.openstreetmap.org/changeset/143315462</link>
