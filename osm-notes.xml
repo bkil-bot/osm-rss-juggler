@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3957609 (near 1087, Central Hungary, 1087, Hungary) / * 2023 October 25 15:36 balint36 Created: Unable to answer &amp;quot;What’s the name of this place?&amp;quot; for https://osm.org/node/2477271545 via StreetComplete 54.1: / A csarnokban, sem előtte nincs ilyen / * 2023 November 5 08:47 sfphoton Resolved: Kitöröltem, köszi!</title>
+        <link>https://www.openstreetmap.org/note/3957609#c8639047</link>
+        <guid>https://www.openstreetmap.org/note/3957609#c8639047</guid>
+        <pubDate>Sun, 05 Nov 2023 08:47:23 +0000</pubDate>
+      </item><item>
         <title>new note 3973208 (near Marcalmajor, Celldömölk) / * 2023 November 4 22:50 Created: Hiányzó útszéli fakereszt. Nem tudom mi a hivatalos neve, de pár helyi &amp;quot;vörös kereszt&amp;quot;-ként hivatkozik rá a keresztfa vöröses színe miatt.</title>
         <link>https://www.openstreetmap.org/note/3973208#c8638351</link>
         <guid>https://www.openstreetmap.org/note/3973208#c8638351</guid>
@@ -317,16 +322,6 @@
         <link>https://www.openstreetmap.org/note/3970068#c8630066</link>
         <guid>https://www.openstreetmap.org/note/3970068#c8630066</guid>
         <pubDate>Thu, 02 Nov 2023 18:16:07 +0000</pubDate>
-      </item><item>
-        <title>closed note 3966015 (near 1082, Central Hungary, 1082, Hungary) / * 2023 October 31 10:29 ironalloy Created: &amp;quot;minden nap 9-20 nyitva&amp;quot; / OSM snapshot date: 2023-10-09T16:37:32Z / POI name: Arizona Lottózó / POI types: shop-lottery / #organicmaps android / * 2023 November 2 18:13 ironalloy Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3966015#c8630059</link>
-        <guid>https://www.openstreetmap.org/note/3966015#c8630059</guid>
-        <pubDate>Thu, 02 Nov 2023 18:13:16 +0000</pubDate>
-      </item><item>
-        <title>closed note 3966503 (near 1083, Central Hungary, 1083, Hungary) / * 2023 October 31 15:43 ironalloy Created: &amp;quot;Semmelweis Egyetem parkoló a helyén &amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-10-09T16:37:32Z / POI name: Grundk3rt / POI types: leisure-garden / #organicmaps android / * 2023 November 2 18:05 ironalloy Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3966503#c8630022</link>
-        <guid>https://www.openstreetmap.org/note/3966503#c8630022</guid>
-        <pubDate>Thu, 02 Nov 2023 18:05:30 +0000</pubDate>
       </item>
   </channel>
 </rss>
