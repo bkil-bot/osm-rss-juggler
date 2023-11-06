@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Mik a forrásaid ennél a változácsomagnál? A &quot;forrás&quot; mezőt nem töltötted ki: https://wiki.openstreetmap.org/wiki/Key:source#How_to_use_on_changesets -infeeeee</title>
+        <link>https://www.openstreetmap.org/changeset/143571916</link>
+        <guid>https://www.openstreetmap.org/changeset/143571916#comment_4</guid>
+        <pubDate>2023-11-06T18:35:51+01:00</pubDate>
+      </item><item>
         <title>Nagyon köszönöm az válaszodat és az Openstreetmap Wiki oldalt is elolvasom. -peetair_</title>
         <link>https://www.openstreetmap.org/changeset/143645900</link>
         <guid>https://www.openstreetmap.org/changeset/143645900#comment_5</guid>
@@ -27,11 +32,6 @@
         <link>https://www.openstreetmap.org/changeset/142828869</link>
         <guid>https://www.openstreetmap.org/changeset/142828869#comment_2</guid>
         <pubDate>2023-11-03T22:40:38+01:00</pubDate>
-      </item><item>
-        <title>Ezt csak helyszíni bejárás alapján lehet eldönteni, kérlek ne változtassatok POI kategóriát úgy, hogy nincs helyismeretetek. Néhányan a sarki újságost, zöldségest is trafiknak hívják. Lazán kapcsolódik, hogy most láttam egy &quot;Presszót&quot; amit valaki amenity=cafe címkével vett fel... Szóval ha lehet, olyanon se változtassatok, amiről nem tudjátok biztosan, hogy micsoda. -bkil</title>
-        <link>https://www.openstreetmap.org/changeset/143571916</link>
-        <guid>https://www.openstreetmap.org/changeset/143571916#comment_2</guid>
-        <pubDate>2023-11-03T18:22:16+01:00</pubDate>
       </item><item>
         <title>Szia! Légy szíves csak akkor töröld az interpolációt, ha az alatta lévő épületeket felszámoztad. Ld. Futár utca 11-41. Eddig meg lehetett találni a címet, most már nem. Tamás -vasony</title>
         <link>https://www.openstreetmap.org/changeset/143302498</link>
@@ -72,11 +72,6 @@
         <link>https://www.openstreetmap.org/changeset/124272615</link>
         <guid>https://www.openstreetmap.org/changeset/124272615#comment_2</guid>
         <pubDate>2023-10-31T08:42:22+01:00</pubDate>
-      </item><item>
-        <title>Az átmenő fővágányok a szolgálati helyre egyenes állású váltók mellett futnak be. Nem fognak a váltókörzetben kereszt bemenni csak azért, hogy vizuálisan szépen megjelenjen. Kelenföld középvonalában (a 40-es vonal 00+00 hm szelvényében) már ki lett alakítva egy tökéletes vágánytengely ugrás. A 30-as vonal Déli (kezdőpont) felől egyenes irányban a 4. és 5. vágányokra jár be, így azok átmenő fővágányok lesznek. A 30-as vonal Nagytétény (végpont) felől egyenes irányban a 3. és 4. vágányokra jár be, így azok is átmenő fővágányok lesznek. A 40-es vonal Háros (végpont) felől egyenes irányban az 5. és 6. vágányokra jár be, így azok átmenő fővágányok lesznek. Átnézeti Kelenföldről: https://www.kapella2.hu/map/trackwork/get-szolg-hely-helyszinrajz?p=eyJzem9sZ0hlbHlJZCI6NzIwMjY5MzM1fQ== -balint36</title>
-        <link>https://www.openstreetmap.org/changeset/139574551</link>
-        <guid>https://www.openstreetmap.org/changeset/139574551#comment_3</guid>
-        <pubDate>2023-10-30T20:14:07+01:00</pubDate>
       </item>
   </channel>
 </rss>
