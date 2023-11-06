@@ -3,6 +3,12 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3963268 (near 4002, North Great Plain, 4002, Hungary) / * 2023 October 29 13:46 jancsi00 Created: fdfd / &lt;span class=&quot;translation_missing&quot; title=&quot;translation missing: en.api.notes.comment.hidden_at_by_html, when: &amp;lt;span title=&amp;quot;29 October 2023 at 13:47&amp;quot;&amp;gt;8 days ago&amp;lt;/span&amp;gt;, user: &amp;lt;a href=&amp;quot;https://www.openstreetmap.org/user/woodpeck&amp;quot;&amp;gt;woodpeck&amp;lt;/a&amp;gt;&quot;&gt;Hidden At By Html&lt;/span&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt; / * 2023 November 1 12:42 woodpeck Reactivated:  / * 2023 November 1 12:42 woodpeck Updated: this note was accidentally hidden (sorry) and has now been reopened. / * 2023 November 6 19:47 Mateusz Konieczny - bot account Resolved: Closing note as not containing report of mistakes in OSM data. Note text was &amp;quot;fdfd&amp;quot; / If you wanted to report problems with OSM data please open a more clear note. / See https://wiki.openstreetmap.org/wiki/Dev_Server_Account for how test notes can be created at a separate server. / Such notes for closure are found automatically, with all closures reviewed by human.</title>
+        <link>https://www.openstreetmap.org/note/3963268#c8646166</link>
+        <guid>https://www.openstreetmap.org/note/3963268#c8646166</guid>
+        <pubDate>Mon, 06 Nov 2023 19:47:03 +0000</pubDate>
+      </item><item>
         <title>new note 3975558 (near 1082, Central Hungary, 1082, Hungary) / * 2023 November 6 15:24 bolserslon Created: Unable to answer &amp;quot;What are the opening hours here?&amp;quot; for https://osm.org/node/11302066369 via StreetComplete 55.0: / The real name is &amp;quot;Madame Pho&amp;quot; / Attached photo(s): / https://westnordost.de/p/185194.jpg</title>
         <link>https://www.openstreetmap.org/note/3975558#c8645127</link>
         <guid>https://www.openstreetmap.org/note/3975558#c8645127</guid>
