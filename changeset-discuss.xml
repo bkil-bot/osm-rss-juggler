@@ -3,6 +3,21 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Elkészült, de nem adták át. (Végigteketem.) A szentkirályi bringautat, amin végigmentem bringával, valaki átállította const.-ra. Ezért rajzoltam így. Fene se igazodik ki néha ezen, kinek mi a jó. :) -nargoth</title>
+        <link>https://www.openstreetmap.org/changeset/142727356</link>
+        <guid>https://www.openstreetmap.org/changeset/142727356#comment_2</guid>
+        <pubDate>2023-11-07T10:09:41+01:00</pubDate>
+      </item><item>
+        <title>Szia! Ha megnyitották, legközelebb a construction címkét, és a behajtási korlátozást is szedd le róla! A dátumokat pedig éééé-hh-nn formában kell megadni az OSM-en. Ezt javítottam. Üdv: Ákos -ITineris</title>
+        <link>https://www.openstreetmap.org/changeset/139248078</link>
+        <guid>https://www.openstreetmap.org/changeset/139248078#comment_1</guid>
+        <pubDate>2023-11-07T09:38:08+01:00</pubDate>
+      </item><item>
+        <title>Szia! Te élesítetted a körforgalmat, ugyanakkor rajta hagytad a construction címkét is, ami így biztosan nem jó. Most akkor az általad beírt átadási idővel szemben máris használható, vagy még nem? Ha nem, pontosan hogy halad itt át a forgalom? Üdv: Ákos -ITineris</title>
+        <link>https://www.openstreetmap.org/changeset/143485765</link>
+        <guid>https://www.openstreetmap.org/changeset/143485765#comment_1</guid>
+        <pubDate>2023-11-07T09:23:26+01:00</pubDate>
+      </item><item>
         <title>Szia Tamás! Keszthely város önkormányzatának honlapján elég következetesen hosszú í-vel írják, márpedig ők hiteles forrás, hiszen ők nevezték el: https://www.google.com/search?q=&quot;hévizi+utca&quot;+site%3Akeszthely.hu Üdv: Gábor -GBAB</title>
         <link>https://www.openstreetmap.org/changeset/143665357</link>
         <guid>https://www.openstreetmap.org/changeset/143665357#comment_2</guid>
@@ -72,11 +87,6 @@
         <link>https://www.openstreetmap.org/changeset/143008027</link>
         <guid>https://www.openstreetmap.org/changeset/143008027#comment_3</guid>
         <pubDate>2023-10-31T14:12:23+01:00</pubDate>
-      </item><item>
-        <title>Ott megírtam, de bemásolom ide is. Kinyitottam ezt, Budapest III. Hunyadi 35-József-Kincses körül: https://osmose.openstreetmap.fr/en/map/#zoom=18&amp;lat=47.587965&amp;lon=19.057969&amp;item=xxxx&amp;level=1&amp;issue_uuid=6c8a7d8a-e0b0-9fd6-38af-fb5b5203dbbc A hibát nem az okozza, hogy két téglalap összeér, hanem konkrétan valaki szakaszokra bontotta és kétszer ugyanazt a pici szakaszt egymásra rajzolta. Ez nyilván hiba bárki szerint. A miheztartás végett kissé nyugatra görgetve nem ad ki hibát, azaz nem zavarják a téglalapok. Nálam OSMI alatt nem jött elő hiba ennek kapcsán https://tools.geofabrik.de/osmi/ -bkil</title>
-        <link>https://www.openstreetmap.org/changeset/31497106</link>
-        <guid>https://www.openstreetmap.org/changeset/31497106#comment_11</guid>
-        <pubDate>2023-10-31T09:50:20+01:00</pubDate>
       </item>
   </channel>
 </rss>
