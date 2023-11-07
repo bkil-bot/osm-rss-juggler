@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Szia! A zebra, amikor vonal, akkor highway=footway és footway=crossing. Amikor pont, és ahol az előző vonal keresztezi az autóutat, akkor highway=crossing. Valahogy ezt a kétfajta címkézést keverted a Nyugati térnél. https://wiki.openstreetmap.org/wiki/Tag:highway=crossing Bevezetőben írja ezt a különbséget. -infeeeee</title>
+        <link>https://www.openstreetmap.org/changeset/143727733</link>
+        <guid>https://www.openstreetmap.org/changeset/143727733#comment_1</guid>
+        <pubDate>2023-11-07T15:09:51+01:00</pubDate>
+      </item><item>
         <title>Szia! Köszi az észrevételt! Igen, már átadták és használtam is a körforgalmat. Kérlek javítsad ki a hibámat, mert most dolgozom és nem érek rá. Nézz rá a kapcsolatokra is, mert valószínűleg megszakadtak. A városban létesült még egy, -amit szintén átadtak- amit viszont nem én rajzoltam, de ránézésre &quot;gagyi&quot; Itt van: 47.84425° N, 17.28353° E -Berci75</title>
         <link>https://www.openstreetmap.org/changeset/143485765</link>
         <guid>https://www.openstreetmap.org/changeset/143485765#comment_2</guid>
