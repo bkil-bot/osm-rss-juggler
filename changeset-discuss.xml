@@ -82,11 +82,6 @@
         <link>https://www.openstreetmap.org/changeset/143444703</link>
         <guid>https://www.openstreetmap.org/changeset/143444703#comment_4</guid>
         <pubDate>2023-11-02T12:45:07+01:00</pubDate>
-      </item><item>
-        <title>This changeset was a quick fix for wrongly mapped features. A user also mapped the block-end street plates (along with actual house numbers), but tagged them with tourism=information + information=board. This two tag was what I deleted. The plates looks like this one: https://www.mapillary.com/app/?pKey=219871839614924&amp;focus=photo In this area buildings at street corners were not mapped with address, but other buildings has properly set address. So there is no need to add interpolation lines. These nodes still holds some information, but needs manual work and sometimes resurvey. The street_plate=yes tag helps to find the problematic nodes. -BáthoryPéter</title>
-        <link>https://www.openstreetmap.org/changeset/142836892</link>
-        <guid>https://www.openstreetmap.org/changeset/142836892#comment_3</guid>
-        <pubDate>2023-10-31T23:49:48+01:00</pubDate>
       </item>
   </channel>
 </rss>
