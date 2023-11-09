@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: BU 353N not working on PI: It seems some users have encountered problems using the 353N on Linux systems, especially with gpsd. One possible reason is that the 353N uses a different chipset than the 353-S4, which may not be compatible with the current gpsd version. You may need to update your gpsd software or use a different driver to get the 353N to work on your system. Additionally, you might consider using another GPS receiver that is known to work well with Linux and gpsd. -EthanKuphal</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11914#p11914</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11914#p11914</guid>
+        <pubDate>2023-11-09T07:27:02</pubDate>
+      </item><item>
         <title>Re: Car antenna mount position suggestions?: Hi At one moment, I was putting the gps on the roof of my car; I was closing the door on the cable. There is rubber to make joint. So it is not too much compressed. But it is a little anyway. I coulnd't have done that too often without damaging the cable I guess. but this is a USB cable. May be your antenna cable is thinner and would sustain less damaged when taken in the door joint.May be try with a diffrent cable too see how it goes first... but not I never mounted a wifi antenna on the roof. as it is not a very discrete setup Dinosaur Game Roof-mounted antennas are a popular choice because they provide a clear line of sight for radio signals. They are often installed near the rear of the roof to minimize wind resistance and maintain a clean look. However, be cautious about parking garages and low clearances, as roof-mounted antennas can be vulnerable in these situations. -fararea</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11911#p11911</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11911#p11911</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11806#p11806</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11806#p11806</guid>
         <pubDate>2023-08-02T10:17:29</pubDate>
-      </item><item>
-        <title>Re: Increasing accuracy after scan: Does accuracy get improved by other users observations? -computerb0y</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11805#p11805</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11805#p11805</guid>
-        <pubDate>2023-08-02T10:13:38</pubDate>
       </item>
   </channel>
 </rss>
