@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3371907 (near Virágtanya, Törökbálint) / * 2022 September 24 13:07 Pallinger Péter Created: itt kerítés van / * 2023 March 18 23:15 grin Updated: felvettem, de oda kell menni felrajzolni pontosan / * 2023 November 10 21:22 tregec Resolved: Felrajzoltam, a meglévő rész megegyezik az ortofotón látható állapottal. Egyik oldalon se ér végig.</title>
+        <link>https://www.openstreetmap.org/note/3371907#c8661155</link>
+        <guid>https://www.openstreetmap.org/note/3371907#c8661155</guid>
+        <pubDate>Fri, 10 Nov 2023 21:22:09 +0000</pubDate>
+      </item><item>
         <title>new comment 3981749 (near 4025, North Great Plain, 4025, Hungary) / * 2023 November 10 20:14 nslxndr Updated: A zebrák helye látszólag megfelel a jelenlegi valós állapotnak. A térképjegyzet ebben a formában hiányos, mert nem derül ki belőle, hogy miért gondolja úgy, hogy rossz helyen vannak vagy hol lennének megfelelő helyen. Adjon részletesebb leírást arról a problémáról, amit jelenteni szeretne.</title>
         <link>https://www.openstreetmap.org/note/3981749#c8661058</link>
         <guid>https://www.openstreetmap.org/note/3981749#c8661058</guid>
@@ -187,11 +192,6 @@
         <link>https://www.openstreetmap.org/note/3694223#c8656398</link>
         <guid>https://www.openstreetmap.org/note/3694223#c8656398</guid>
         <pubDate>Thu, 09 Nov 2023 15:37:09 +0000</pubDate>
-      </item><item>
-        <title>closed note 3978368 (near 1192, Central Hungary, 1192, Hungary) / * 2023 November 8 12:33 sfphoton Created: Unable to answer &amp;quot;What’s the topic of this information board?&amp;quot; for https://osm.org/node/10087584878 via StreetComplete 55.0: / Hirdetőtábla / * 2023 November 9 09:56 sfphoton Resolved: Megoldva.</title>
-        <link>https://www.openstreetmap.org/note/3978368#c8654762</link>
-        <guid>https://www.openstreetmap.org/note/3978368#c8654762</guid>
-        <pubDate>Thu, 09 Nov 2023 09:56:43 +0000</pubDate>
       </item>
   </channel>
 </rss>
