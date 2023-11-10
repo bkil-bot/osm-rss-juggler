@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment 3981749 (near 4025, North Great Plain, 4025, Hungary) / * 2023 November 10 20:14 nslxndr Updated: A zebrák helye látszólag megfelel a jelenlegi valós állapotnak. A térképjegyzet ebben a formában hiányos, mert nem derül ki belőle, hogy miért gondolja úgy, hogy rossz helyen vannak vagy hol lennének megfelelő helyen. Adjon részletesebb leírást arról a problémáról, amit jelenteni szeretne.</title>
+        <link>https://www.openstreetmap.org/note/3981749#c8661058</link>
+        <guid>https://www.openstreetmap.org/note/3981749#c8661058</guid>
+        <pubDate>Fri, 10 Nov 2023 20:14:17 +0000</pubDate>
+      </item><item>
+        <title>closed note 3981681 (near 4025, North Great Plain, 4025, Hungary) / * 2023 November 10 20:02 nslxndr Resolved: A StreetComplete által feltett kérdésre a válasz az, hogy nincs (nálunk nem jellemző, legalábbis én még nem láttam). További információért lásd a traffic_signals:vibration címkét a wikiben: https://wiki.openstreetmap.org/wiki/Key:traffic_signals:vibration / Mindemellett ez a funkció az OpenStreetMap térkép hibáinak jelzésére szolgál. Ha jelölt csomópontban a jelzőlámpa pillanatnyilag nem megfelelően működő állapotban van, azt a balesetveszély mielőbbi elhárítása érdekében az üzemeltető (DMJV városüzemeltési osztály vagy Zöldfény Kft. vagy jarokelo.hu) kellene jelezni. A jegyzetet lezárom, mivel nem térképhibát jelez.</title>
+        <link>https://www.openstreetmap.org/note/3981681#c8661037</link>
+        <guid>https://www.openstreetmap.org/note/3981681#c8661037</guid>
+        <pubDate>Fri, 10 Nov 2023 20:02:22 +0000</pubDate>
+      </item><item>
+        <title>new note 3981749 (near 4025, North Great Plain, 4025, Hungary) / * 2023 November 10 19:26 tabtomi Created: Unable to answer &amp;quot;What’s the surface here?&amp;quot; for https://osm.org/way/375209293 via StreetComplete 55.0: / Rossz helyen vannak a zebrák</title>
+        <link>https://www.openstreetmap.org/note/3981749#c8660949</link>
+        <guid>https://www.openstreetmap.org/note/3981749#c8660949</guid>
+        <pubDate>Fri, 10 Nov 2023 19:26:30 +0000</pubDate>
+      </item><item>
         <title>new note 3981681 (near 4025, North Great Plain, 4025, Hungary) / * 2023 November 10 18:16 tabtomi Created: Unable to answer &amp;quot;Do these traffic lights have a tactile indication for blind people for when it’s safe to cross?&amp;quot; for https://osm.org/node/2969934860 via StreetComplete 54.0: / A jelzőgomb mindig be van nyomva, percenként vált zöldre a lámpa</title>
         <link>https://www.openstreetmap.org/note/3981681#c8660811</link>
         <guid>https://www.openstreetmap.org/note/3981681#c8660811</guid>
@@ -177,11 +192,6 @@
         <link>https://www.openstreetmap.org/note/3978368#c8654762</link>
         <guid>https://www.openstreetmap.org/note/3978368#c8654762</guid>
         <pubDate>Thu, 09 Nov 2023 09:56:43 +0000</pubDate>
-      </item><item>
-        <title>closed note 3976771 (near 1192, Central Hungary, 1192, Hungary) / * 2023 November 7 12:15 sfphoton Created: Szerintem ez a zebra (https://www.openstreetmap.org/node/6796311033) már nincs meg. A két közeli sarkon van kijelölt gyalogátkelő, amit a térkép is jelez. / Majd elmegyek megnézni pár nap múlva, ha addig senki nem oldja meg. Ha valaki ezt egy hét múlva is itt látja, legyen szíves válaszban megpingelni. / * 2023 November 9 09:52 sfphoton Resolved: Megnéztem, nincs meg.</title>
-        <link>https://www.openstreetmap.org/note/3976771#c8654738</link>
-        <guid>https://www.openstreetmap.org/note/3976771#c8654738</guid>
-        <pubDate>Thu, 09 Nov 2023 09:52:45 +0000</pubDate>
       </item>
   </channel>
 </rss>
