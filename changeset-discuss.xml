@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Ha két épület is egy intézmény, és körülhatárolható a területük, akkor terület amenity, és oda kerülnek a címkék (név, elérhetőség). Ha a két épület nem határolható körül (talán mint itt is, egy parkban, más intézményekkel együtt), akkor én egy multipolygon kapcsolatot csinálnék belőlük, mint ahogyan a budapesti Szent Gellért suli is van. -ITineris</title>
+        <link>https://www.openstreetmap.org/changeset/143110799</link>
+        <guid>https://www.openstreetmap.org/changeset/143110799#comment_2</guid>
+        <pubDate>2023-11-11T10:33:16+01:00</pubDate>
+      </item><item>
         <title>a felszedett sínek voltak kicsit kérdésesek. Mivel semmilyen nyomuk sem maradt, ezért az &quot;abandoned&quot; nem állta meg a helyét, így lett &quot;razed&quot;. Ha valaki törölné se állítanám meg, de egyelőre maradhat jó kompromisszum. -niederl</title>
         <link>https://www.openstreetmap.org/changeset/143880115</link>
         <guid>https://www.openstreetmap.org/changeset/143880115#comment_1</guid>
         <pubDate>2023-11-10T21:34:12+01:00</pubDate>
-      </item><item>
-        <title>Szia! https://www.openstreetmap.org/way/307010433 Ez a suli valahogy úgy van, hogy ez az épület is (a Waldorf volt itt), meg ami nódot kicsit délebbre egy másik épületbe beleraktam korábban (korábban csak ott volt). Nem tudom van-e más épületük is. Hogy jelölnéd, hogy 2 független épület ugyanaz a suli? Te most ebbe úgyis belejöttél. :) Ezer köszi egyébként ezt a rengeteg intézmény javítást! Köszi, Feri -kempelen</title>
-        <link>https://www.openstreetmap.org/changeset/143110799</link>
-        <guid>https://www.openstreetmap.org/changeset/143110799#comment_1</guid>
-        <pubDate>2023-11-10T19:59:43+01:00</pubDate>
       </item><item>
         <title>Köszönöm! -airdace</title>
         <link>https://www.openstreetmap.org/changeset/143727733</link>
