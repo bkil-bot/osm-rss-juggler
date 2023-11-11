@@ -3,6 +3,36 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment 3976533 (near 6722, South Great Plain, 6722, Hungary) / * 2023 November 7 10:00 sbruhse Created: Unable to answer &amp;quot;What are the opening hours here?&amp;quot; for https://osm.org/node/4803685486 via StreetComplete 55.0: / Seems like the Testamentum took over the space of the shop. / * 2023 November 11 18:09 gabro00 Updated: Do you have a picture of the second door? / I tried to position the POIs better.</title>
+        <link>https://www.openstreetmap.org/note/3976533#c8664151</link>
+        <guid>https://www.openstreetmap.org/note/3976533#c8664151</guid>
+        <pubDate>Sat, 11 Nov 2023 18:09:13 +0000</pubDate>
+      </item><item>
+        <title>closed note 3982465 (near 6725, South Great Plain, 6725, Hungary) / * 2023 November 11 18:03 gabro00 Resolved: https://www.openstreetmap.org/changeset/143909869</title>
+        <link>https://www.openstreetmap.org/note/3982465#c8664134</link>
+        <guid>https://www.openstreetmap.org/note/3982465#c8664134</guid>
+        <pubDate>Sat, 11 Nov 2023 18:03:34 +0000</pubDate>
+      </item><item>
+        <title>new comment 3982873 (near 6724, South Great Plain, 6724, Hungary) / * 2023 November 11 17:57 gabro00 Updated: Should I add it as a path or footway?</title>
+        <link>https://www.openstreetmap.org/note/3982873#c8664103</link>
+        <guid>https://www.openstreetmap.org/note/3982873#c8664103</guid>
+        <pubDate>Sat, 11 Nov 2023 17:57:02 +0000</pubDate>
+      </item><item>
+        <title>closed note 3976517 (near 6722, South Great Plain, 6722, Hungary) / * 2023 November 7 09:56 sbruhse Created: It seems that the whole square around the playground and the sport pitches are called Bartok Ter, not just the one street. / via StreetComplete 55.0 / Attached photo(s): / https://westnordost.de/p/185262.jpg / * 2023 November 11 17:55 gabro00 Resolved: Good catch, thank you! Fixed in https://www.openstreetmap.org/changeset/143909608</title>
+        <link>https://www.openstreetmap.org/note/3976517#c8664097</link>
+        <guid>https://www.openstreetmap.org/note/3976517#c8664097</guid>
+        <pubDate>Sat, 11 Nov 2023 17:55:59 +0000</pubDate>
+      </item><item>
+        <title>new comment 3977197 (near 6725, South Great Plain, 6725, Hungary) / * 2023 November 7 16:08 Mateusz Konieczny Created: https://www.openstreetmap.org/way/1037695874 / surface=parquet? Is it surface=wood? See https://wiki.openstreetmap.org/wiki/Tag:surface%3Dwood / * 2023 November 11 17:39 gabro00 Updated: Hmm, I don&amp;#39;t know. Paving stones are made from concrete. / A bridge can have wooden finish. Is it comparable to a closed sports centre&amp;#39;s surface like the example?</title>
+        <link>https://www.openstreetmap.org/note/3977197#c8664040</link>
+        <guid>https://www.openstreetmap.org/note/3977197#c8664040</guid>
+        <pubDate>Sat, 11 Nov 2023 17:39:40 +0000</pubDate>
+      </item><item>
+        <title>closed note 3980208 (near 1111, Central Hungary, 1111, Hungary) / * 2023 November 9 16:48 utvonalfelmeresek Created: vsb / * 2023 November 11 17:25 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/143908689</title>
+        <link>https://www.openstreetmap.org/note/3980208#c8664013</link>
+        <guid>https://www.openstreetmap.org/note/3980208#c8664013</guid>
+        <pubDate>Sat, 11 Nov 2023 17:25:42 +0000</pubDate>
+      </item><item>
         <title>closed note 3892952 (near Central Transdanubia, 8172, Hungary) / * 2023 September 17 08:31 vasony Created: Aligai út vagy Aligai utca szerepel a táblán? / * 2023 September 18 09:11 vasony Updated: leginkább a másik végén kellene keresni a táblát / * 2023 November 11 15:16 vasony Resolved: nincs tábla sehol, egyik házon Aligai u. a felirat</title>
         <link>https://www.openstreetmap.org/note/3892952#c8663585</link>
         <guid>https://www.openstreetmap.org/note/3892952#c8663585</guid>
@@ -227,11 +257,6 @@
         <link>https://www.openstreetmap.org/note/3981283#c8659923</link>
         <guid>https://www.openstreetmap.org/note/3981283#c8659923</guid>
         <pubDate>Fri, 10 Nov 2023 13:20:01 +0000</pubDate>
-      </item><item>
-        <title>new note 3981071 (near 9740, Western Transdanubia, 9740, Hungary) / * 2023 November 10 10:22 Matyjace Created: Forwarding anonymous report from #mapycz user, please verify: &amp;quot;restaurant&amp;quot;</title>
-        <link>https://www.openstreetmap.org/note/3981071#c8658911</link>
-        <guid>https://www.openstreetmap.org/note/3981071#c8658911</guid>
-        <pubDate>Fri, 10 Nov 2023 10:22:21 +0000</pubDate>
       </item>
   </channel>
 </rss>
