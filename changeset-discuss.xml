@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Ha két épület is egy intézmény, és körülhatárolható a területük, akkor terület amenity, és oda kerülnek a címkék (név, elérhetőség). Ha a két épület nem határolható körül (talán mint itt is, egy parkban, más intézményekkel együtt), akkor én egy multipolygon kapcsolatot csinálnék belőlük, mint ahogyan a budapesti Szent Gellért suli is van. -ITineris</title>
+        <title>Igen, azért a konkrét esetet kérdeztem, mert nem lehet &quot;értelmesen&quot; fizikailag körülhatárolni. Átraktam most multipoligonnak, így legalább az megoldódik, hogy nincs két egyforma iskola. Viszont a 3. épületet nem tudom belerakni, mert összeérnek és akkor azt mondja, hogy két &quot;outer&quot; vonal nem érhet össze. Persze összevonhatnám az épületet egy hülye alakú épületté, de az is értelmetlen, mert valójában két négyszög. Jó lett volna, ha a SITE relation elterjed, de sajnos ez nem lett, úgy tudom. Az nem ilyen főként geometriai(!) elem, mint a type=multipolygon. Nem lennének ilyen bajai, hogy mi ér össze meg mi nem... Szerintem jó így akkor egyelőre. Köszi! https://www.openstreetmap.org/changeset/143927046 -kempelen</title>
         <link>https://www.openstreetmap.org/changeset/143110799</link>
-        <guid>https://www.openstreetmap.org/changeset/143110799#comment_2</guid>
-        <pubDate>2023-11-11T10:33:16+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/143110799#comment_3</guid>
+        <pubDate>2023-11-12T10:40:24+01:00</pubDate>
       </item><item>
         <title>a felszedett sínek voltak kicsit kérdésesek. Mivel semmilyen nyomuk sem maradt, ezért az &quot;abandoned&quot; nem állta meg a helyét, így lett &quot;razed&quot;. Ha valaki törölné se állítanám meg, de egyelőre maradhat jó kompromisszum. -niederl</title>
         <link>https://www.openstreetmap.org/changeset/143880115</link>
