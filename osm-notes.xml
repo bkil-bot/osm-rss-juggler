@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3983414 (near 1028, Central Hungary, 1028, Hungary) / * 2023 November 11 20:01 Created: Hármashatár-hegy / * 2023 November 12 12:41 infeeeee Resolved: Szerepel a térképen</title>
+        <link>https://www.openstreetmap.org/note/3983414#c8666358</link>
+        <guid>https://www.openstreetmap.org/note/3983414#c8666358</guid>
+        <pubDate>Sun, 12 Nov 2023 12:41:55 +0000</pubDate>
+      </item><item>
         <title>closed note 3891018 (near Central Transdanubia, 8175, Hungary) / * 2023 September 16 05:39 vasony Created: Bajcsy-Zsilinszky Endre utca vagy Bajcsy-Zsilinszky utca szerepel az utcatáblán? / * 2023 November 12 11:01 vasony Resolved: Endre nélkül</title>
         <link>https://www.openstreetmap.org/note/3891018#c8666054</link>
         <guid>https://www.openstreetmap.org/note/3891018#c8666054</guid>
@@ -247,11 +252,6 @@
         <link>https://www.openstreetmap.org/note/3981749#c8661058</link>
         <guid>https://www.openstreetmap.org/note/3981749#c8661058</guid>
         <pubDate>Fri, 10 Nov 2023 20:14:17 +0000</pubDate>
-      </item><item>
-        <title>closed note 3981681 (near 4025, North Great Plain, 4025, Hungary) / * 2023 November 10 20:02 nslxndr Resolved: A StreetComplete által feltett kérdésre a válasz az, hogy nincs (nálunk nem jellemző, legalábbis én még nem láttam). További információért lásd a traffic_signals:vibration címkét a wikiben: https://wiki.openstreetmap.org/wiki/Key:traffic_signals:vibration / Mindemellett ez a funkció az OpenStreetMap térkép hibáinak jelzésére szolgál. Ha jelölt csomópontban a jelzőlámpa pillanatnyilag nem megfelelően működő állapotban van, azt a balesetveszély mielőbbi elhárítása érdekében az üzemeltető (DMJV városüzemeltési osztály vagy Zöldfény Kft. vagy jarokelo.hu) kellene jelezni. A jegyzetet lezárom, mivel nem térképhibát jelez.</title>
-        <link>https://www.openstreetmap.org/note/3981681#c8661037</link>
-        <guid>https://www.openstreetmap.org/note/3981681#c8661037</guid>
-        <pubDate>Fri, 10 Nov 2023 20:02:22 +0000</pubDate>
       </item>
   </channel>
 </rss>
