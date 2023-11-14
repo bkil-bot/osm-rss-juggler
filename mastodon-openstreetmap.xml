@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>State of the Map Asia is happening in Bangkok in a few days @sotmasia #SotMAsia2023 #sotmasia &amp;lt;https://stateofthemap.asia/&amp;gt;</title>
+        <link>https://en.osm.town/@openstreetmap/111405832308860186</link>
+        <guid>https://en.osm.town/@openstreetmap/111405832308860186</guid>
+        <pubDate>Mon, 13 Nov 2023 23:28:15 +0000</pubDate>
+      </item><item>
         <title>how it started : how it ended State of the Map Europe 2023 edition @sotmeu #OpenStreetMap #OSM #sotmeu Collage of two photos. Upper half is a jigsaw not done with slogan &quot;how it started&quot; Bottom half is the jigsaw done (it's a map) with caption &quot;how it ended&quot; In the the middle is the icon for state of the Map Europe 2023 icon</title>
         <link>https://en.osm.town/@openstreetmap/111403104030581544</link>
         <guid>https://en.osm.town/@openstreetmap/111403104030581544</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/111092011846796652</link>
         <guid>https://en.osm.town/@openstreetmap/111092011846796652</guid>
         <pubDate>Tue, 19 Sep 2023 13:19:35 +0000</pubDate>
-      </item><item>
-        <title>#OSM&amp;#39;s senior SRE, @Firefishy, tells us that the new server was required because we were running out of capacity in the US. It will be used for renderings/updating the default map style used on https://osm.org. Here are the hardware specs: &amp;lt;https://hardware.openstreetmap.org/servers/piasa.openstreetmap.org/&amp;gt;</title>
-        <link>https://en.osm.town/@openstreetmap/111092010675952429</link>
-        <guid>https://en.osm.town/@openstreetmap/111092010675952429</guid>
-        <pubDate>Tue, 19 Sep 2023 13:19:17 +0000</pubDate>
       </item>
   </channel>
 </rss>
