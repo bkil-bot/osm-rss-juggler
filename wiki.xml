@@ -2,11 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      <item>
-        <title>Hungary/20231204: Mastodon -Bkil</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20231204&amp;diff=2616685&amp;oldid=2616311</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/20231204&amp;diff=2616685</guid>
-        <pubDate>Tue, 14 Nov 2023 12:58:48 GMT</pubDate>
-      </item>
+      
   </channel>
 </rss>
