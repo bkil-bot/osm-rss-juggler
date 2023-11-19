@@ -117,11 +117,6 @@
         <link>https://www.openstreetmap.org/changeset/142523818</link>
         <guid>https://www.openstreetmap.org/changeset/142523818#comment_1</guid>
         <pubDate>2023-11-12T12:11:20+01:00</pubDate>
-      </item><item>
-        <title>Contributor: kempelen Discussion Comment No.: 3 Comment: Igen, azért a konkrét esetet kérdeztem, mert nem lehet &quot;értelmesen&quot; fizikailag körülhatárolni. Átraktam most multipoligonnak, így legalább az megoldódik, hogy nincs két egyforma iskola. Viszont a 3. épületet nem tudom belerakni, mert összeérnek és akkor azt mondja, hogy két &quot;outer&quot; vonal nem érhet össze. Persze összevonhatnám az épületet egy hülye alakú épületté, de az is értelmetlen, mert valójában két négyszög. Jó lett volna, ha a SITE relation elterjed, de sajnos ez nem lett, úgy tudom. Az nem ilyen főként geometriai(!) elem, mint a type=multipolygon. Nem lennének ilyen bajai, hogy mi ér össze meg mi nem... Szerintem jó így akkor egyelőre. Köszi! https://www.openstreetmap.org/changeset/143927046 Date: 2023-11-12T10:40:24+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/143110799</link>
-        <guid>https://www.openstreetmap.org/changeset/143110799#comment_3</guid>
-        <pubDate>2023-11-12T10:40:24+01:00</pubDate>
       </item>
   </channel>
 </rss>
