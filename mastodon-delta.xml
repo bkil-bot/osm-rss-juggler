@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>The 1.42 app releases are rolling into the stores, providing a major security upgrade that was long in the brewing and testing: guaranteed end-to-end encryption, protecting against compromised servers or networks (MITM attacks). The releases also enable multi-device synchronization of pinned/accepted/blocked/muted chat states, a new global gallery for desktop and many bug fixes and little improvements .... https://delta.chat/en/2023-11-23-jumbo-42 a checkmark on a green background the shape of a flower or cloud.</title>
+        <link>https://chaos.social/@delta/111460913692845091</link>
+        <guid>https://chaos.social/@delta/111460913692845091</guid>
+        <pubDate>Thu, 23 Nov 2023 16:56:10 +0000</pubDate>
+      </item><item>
         <title>new heise article (german), with this translated summary: &amp;quot;Delta Chat is definitely worth a longer look. The app harmoniously combines chat as a form of communication with the tried-and-tested medium of email and even offers some features that you won&amp;#39;t find in other messengers, such as small &amp;quot;webxdc&amp;quot; apps that you can embed directly in chats and use with conversation partners. It&amp;#39;s a shame that Delta Chat didn&amp;#39;t exist before WhatsApp and the like.&amp;quot; Paywalled link: https://www.heise.de/ratgeber/Per-E-Mail-chatten-Delta-Chat-als-Messenger-und-Mailsoftware-nutzen-9432335.html Fazit Delta Chat stellt eine interessante Alternative oder Erganzung zu traditioneller Chat- und Mailsoftware dar. Gegeniiber anderen Messengern sind die wichtigsten Vorteile der App ihre Dezentralitiit und dass man per E-Mail praktisch jeden erreicht. Ob Delta Chat Ihre Mail-App ganz oder teilweise ersetzen kann, héngt vor allem davon ab, wie Sie E-Mails nutzen. Einen langeren Blick ist Delta Chat jedenfalls wert. Die App verheiratet die Kommunikationsform Chat und das bewahrte Medium E-Mail harmonisch und bietet sogar einige Features, die man bei anderen Messengern vergeblich sucht, etwa kleine &quot;webxdc&quot;-Apps, die man direkt in Chats einbetten und mit Gesprachspartnern nutzen kann. Schade, dass Delta Chat nicht schon vor WhatsApp und Co. existierte. (syt)</title>
         <link>https://chaos.social/@delta/111454694903470186</link>
         <guid>https://chaos.social/@delta/111454694903470186</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/110814750392878576</link>
         <guid>https://chaos.social/@delta/110814750392878576</guid>
         <pubDate>Tue, 01 Aug 2023 14:08:21 +0000</pubDate>
-      </item><item>
-        <title>We don&amp;#39;t do telemetry but are curious: what kind of e-mail account do you use for Delta Chat? Thanks for any feedback, also in the comments! #deltachat dedicated chat e-mail my regular e-mail a secondary e-mail</title>
-        <link>https://chaos.social/@delta/110791375796018768</link>
-        <guid>https://chaos.social/@delta/110791375796018768</guid>
-        <pubDate>Fri, 28 Jul 2023 11:03:53 +0000</pubDate>
       </item>
   </channel>
 </rss>
