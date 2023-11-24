@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>Some work for the OpenStreetMap community in 2024… 😀🚰 “Free drinking water soon available in Belgium&amp;#39;s 100 largest train stations”: https://www.brusselstimes.com/belgium/810782/free-drinking-water-soon-available-in-belgiums-100-largest-train-stations-tbtb So, how would you tag this ? amenity=drinking_water fountain=bottle_refill access=yes wheelchair=yes fee=no operator=NMBS/SNCB #OpenStreetMap #Belgium #water #SNCB #NMBS cc: @openstreetmap</title>
+        <link>https://en.osm.town/@Doudouosm/111466407883691108</link>
+        <guid>https://en.osm.town/@Doudouosm/111466407883691108</guid>
+        <pubDate>Fri, 24 Nov 2023 16:13:25 +0000</pubDate>
+      </item><item>
         <title>A little how-to on mapping playgrounds in #OpenStreetMap, courtesy of Klenje: https://www.openstreetmap.org/user/Klenje/diary/402616.</title>
         <link>https://en.osm.town/@Doudouosm/111250333807901313</link>
         <guid>https://en.osm.town/@Doudouosm/111250333807901313</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/110085233991959514</link>
         <guid>https://en.osm.town/@Doudouosm/110085233991959514</guid>
         <pubDate>Sat, 25 Mar 2023 18:02:44 +0000</pubDate>
-      </item><item>
-        <title>DIY Wi-Fi sensor, no programming, no soldering required. This project combines two ideas: no-code/low-code software platform and a quick, robust prototyping system that requires no soldering. https://galopago.github.io/english/wifi-sensor-nocode-nosoldering/ #Arduino #IoT #DIY #ESP32 #DS18B20 #I2C #ESPHome #Misistemita</title>
-        <link>https://en.osm.town/@Doudouosm/109895656578701336</link>
-        <guid>https://en.osm.town/@Doudouosm/109895656578701336</guid>
-        <pubDate>Mon, 20 Feb 2023 06:30:42 +0000</pubDate>
       </item>
   </channel>
 </rss>
