@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>We have reports from people for whom delta chat works while signal shows &amp;quot;no internet&amp;quot; ... Various states are throttling traffic all across the planet and you need to have a robust networking layer to provide service. Delta Chat is offline-first, ignores DNS outages, can be combined with Tor or Tails. It is trying to make live easier for people who are already in stress and need a reliable messenging experience. It is project practise to keep the least wealthily connected in focus.</title>
+        <link>https://chaos.social/@delta/111471516437632965</link>
+        <guid>https://chaos.social/@delta/111471516437632965</guid>
+        <pubDate>Sat, 25 Nov 2023 13:52:35 +0000</pubDate>
+      </item><item>
         <title>The 1.42 app releases are rolling into the stores, providing a major security upgrade that was long in the brewing and testing: guaranteed end-to-end encryption, protecting against compromised servers or networks (MITM attacks). The releases also enable multi-device synchronization of pinned/accepted/blocked/muted chat states, a new global gallery for desktop and many bug fixes and little improvements .... #deltachat https://delta.chat/en/2023-11-23-jumbo-42 a checkmark on a green background the shape of a flower or cloud.</title>
         <link>https://chaos.social/@delta/111460913692845091</link>
         <guid>https://chaos.social/@delta/111460913692845091</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/110870357553341495</link>
         <guid>https://chaos.social/@delta/110870357553341495</guid>
         <pubDate>Fri, 11 Aug 2023 09:49:59 +0000</pubDate>
-      </item><item>
-        <title>Many of us are looking forward to #cccamp23 -- the wonderful four-yearly chaos communication camp. We&amp;#39;ll do sessions and talks and will also announce where we are to be found (somewhere around Kommona is the best bet currently) -- we&amp;#39;ll bring a nice new set of stickers and maybe other gimmicks .... big and small Delta Chat and Webxdc stickers sitting on a wooden plate that fits on a club-mate crate</title>
-        <link>https://chaos.social/@delta/110814750392878576</link>
-        <guid>https://chaos.social/@delta/110814750392878576</guid>
-        <pubDate>Tue, 01 Aug 2023 14:08:21 +0000</pubDate>
       </item>
   </channel>
 </rss>
