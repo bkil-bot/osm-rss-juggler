@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: File Formats: KML vs CSV vs Magic8Ball vs SQLite: KML commonly used for visualizing spatial data such as maps, 3D models, and other geospatial information. CSV is a plain text file that separates values with commas and lines with newlines. CSV files can be easily opened and edited in a text editor or spreadsheet program. getting over it SQLite is commonly used in mobile apps, web browsers, and other applications that require a lightweight, file-based database system. -DeshaunBruen</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11936#p11936</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11936#p11936</guid>
+        <pubDate>2023-11-26T10:35:16</pubDate>
+      </item><item>
         <title>Re: Need advice on building a full spectrum wifi wardriving rig: Does Vistumbler allow for this? Why can't I just plug in two USB Wifi adapters and let Vistumbler do the rest? -pretenda</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11909#p11909</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11909#p11909</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11805#p11805</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11805#p11805</guid>
         <pubDate>2023-08-02T10:13:38</pubDate>
-      </item><item>
-        <title>Re: Hak5 WiFi Coconut: The coconut appears to have an IPEX (IPX) connector where all the radios come together into a top patch antenna near the fan, so in theory, one could remove that and add an IPX to female SMA bulkhead with an external antenna and be off to the races. It's unknown if there are additional amplifiers in-line with each radio, as a 1:14 splitter will reduce the signal strength by around 12dB in losses with one input antenna. There are also 14 smaller Rf test ports/switches for each radio, however these RF connectors do not appear to be IPX and maybe Murata. Be carefully pulling up the one main antenna off the board, as I accidentally ripped the IPX female connector off the board while attempting to gently pull up the IPX male connector out of the female soldered socket with equal pressure from both sides. An old salty dog friend said it might have been a cold solder joint, as the connector should have popped off the connector before ripping the solder joint, so be careful if you go this method. Some flux and hot air might be able to re-attach it. Now if only dragorn or mkershaw come out with a Win x64 Coconut binary that support a generic GPS/NMEA GPS input, then anyone could Wardrive in style with Windows and 14 radios. I bet it would be the fastest setup for a multi-radio war-driving rig ever.... Hopefully by now we should have some performance reports... anyone? -computerb0y</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11804#p11804</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11804#p11804</guid>
-        <pubDate>2023-08-02T10:06:58</pubDate>
       </item>
   </channel>
 </rss>
