@@ -3,10 +3,20 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Hello! Why did you deleted the wiki tags? Date: 2023-11-28T12:57:21+01:00</title>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Hello! The exact same text was written in the official_name, I will revert this as well. Date: 2023-11-28T13:48:38+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/144542802</link>
+        <guid>https://www.openstreetmap.org/changeset/144542802#comment_1</guid>
+        <pubDate>2023-11-28T13:48:38+01:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: This was already mapped: https://www.openstreetmap.org/relation/8180339 I will revert this changeset Date: 2023-11-28T13:43:11+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/144542543</link>
+        <guid>https://www.openstreetmap.org/changeset/144542543#comment_1</guid>
+        <pubDate>2023-11-28T13:43:11+01:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 4 Comment: And to change the name, it clearly says, you have to change the wikidata page. You can overwrite the name without messing up other tags, if you scroll down a bit under &quot;Tags&quot; in iD, the editor you use. But I think these names should go to official_name tag instead. Common people not necessarily call them this way: https://wiki.openstreetmap.org/wiki/Key:official_name Do you speak Hungarian? Date: 2023-11-28T13:39:06+01:00</title>
         <link>https://www.openstreetmap.org/changeset/144542512</link>
-        <guid>https://www.openstreetmap.org/changeset/144542512#comment_1</guid>
-        <pubDate>2023-11-28T12:57:21+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/144542512#comment_4</guid>
+        <pubDate>2023-11-28T13:39:06+01:00</pubDate>
       </item><item>
         <title>Contributor: user_5359 Discussion Comment No.: 1 Comment: Hello! Please have a look on http://www.osm.org/node/11377801733 (one of three objects). What is the mean of the tag Nixbród dűlő = Kertváros? Date: 2023-11-28T09:27:52+01:00</title>
         <link>https://www.openstreetmap.org/changeset/144473788</link>
