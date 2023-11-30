@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>State of the Map Africa has kicked off. If you can&amp;#39;t get there in person, you can watch the live stream: https://www.youtube.com/@sotmafrica #OpenStreetMap #OSM #SotMAfrica2023 #SotM</title>
+        <link>https://en.osm.town/@openstreetmap/111500221235214544</link>
+        <guid>https://en.osm.town/@openstreetmap/111500221235214544</guid>
+        <pubDate>Thu, 30 Nov 2023 15:32:36 +0000</pubDate>
+      </item><item>
         <title>State of the Map Africa is taking place this week in Yaounde, Cameroon. Read more: https://2023.stateofthemap.africa/ #OpenStreetMap #OSM #SOTMAfrica</title>
         <link>https://en.osm.town/@openstreetmap/111487234422801103</link>
         <guid>https://en.osm.town/@openstreetmap/111487234422801103</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/111131231131837896</link>
         <guid>https://en.osm.town/@openstreetmap/111131231131837896</guid>
         <pubDate>Tue, 26 Sep 2023 11:33:34 +0000</pubDate>
-      </item><item>
-        <title>There&amp;#39;s a new map style on OpenStreetMap.org! The Tracestrack Topo map from @tracestrack. It&amp;#39;s a mix of osm-carto and OpenTopoMap. It has many improvements: more tag support (busway, embankment, cuisine, solar plants, aquaculture, pitch, sea, tree etc.), CJK fonts, etc. There is also better internationalisation: country specific road shields, peaks using imperial system in the US, hierarchical place rendering in China, etc. #OpenStreetMap #OSM #gischat #maps A screenshot of OSM.org showing the map layer sector open and showing tracesstrack Topo map selected and that as a map shown</title>
-        <link>https://en.osm.town/@openstreetmap/111120663721969898</link>
-        <guid>https://en.osm.town/@openstreetmap/111120663721969898</guid>
-        <pubDate>Sun, 24 Sep 2023 14:46:08 +0000</pubDate>
       </item>
   </channel>
 </rss>
