@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3777556 (near 9500, Western Transdanubia, 9500, Hungary) / * 2023 July 13 06:23 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: There&amp;#39;s JUFA Vulkan Camping-Resort. / * 2023 December 1 10:20 sfphoton Resolved: The campsite had already been marked on the map, I have updated the name. Thanks for the info!</title>
+        <link>https://www.openstreetmap.org/note/3777556#c8728274</link>
+        <guid>https://www.openstreetmap.org/note/3777556#c8728274</guid>
+        <pubDate>Fri, 01 Dec 2023 10:20:16 +0000</pubDate>
+      </item><item>
+        <title>closed note 3968896 (near 9500, Western Transdanubia, 9500, Hungary) / * 2023 November 1 21:27 Created: Hiányzó ellentétes irányú buszmegálló. A megállót átnevezték &amp;quot;Alsóság, iskola&amp;quot; névre. / * 2023 December 1 10:17 sfphoton Resolved: Javítva.</title>
+        <link>https://www.openstreetmap.org/note/3968896#c8728256</link>
+        <guid>https://www.openstreetmap.org/note/3968896#c8728256</guid>
+        <pubDate>Fri, 01 Dec 2023 10:17:39 +0000</pubDate>
+      </item><item>
+        <title>closed note 3970105 (near 9500, Western Transdanubia, 9500, Hungary) / * 2023 November 2 18:40 Created: A Krisztina csárda bezárt, a tulaj nyugdíjba ment. / * 2023 December 1 10:15 sfphoton Resolved: Rátettem a disused jelzést. Köszi!</title>
+        <link>https://www.openstreetmap.org/note/3970105#c8728237</link>
+        <guid>https://www.openstreetmap.org/note/3970105#c8728237</guid>
+        <pubDate>Fri, 01 Dec 2023 10:15:32 +0000</pubDate>
+      </item><item>
         <title>new note 4010528 (near 9408, Western Transdanubia, 9408, Hungary) / * 2023 December 1 08:37 Created: A Rimbacher kilátópont, egy önkényes, semmiféle közösségi, történelmi, jogszabályi alapon nem létező elnevezés. A földrajzi nevek elnevezéséről jogszabály rendelkezik. Ez a pont generációk óta csak a Kopasz nevet viseli.</title>
         <link>https://www.openstreetmap.org/note/4010528#c8727886</link>
         <guid>https://www.openstreetmap.org/note/4010528#c8727886</guid>
@@ -172,26 +187,6 @@
         <link>https://www.openstreetmap.org/note/4005835#c8717235</link>
         <guid>https://www.openstreetmap.org/note/4005835#c8717235</guid>
         <pubDate>Mon, 27 Nov 2023 18:09:55 +0000</pubDate>
-      </item><item>
-        <title>new note 4005876 (near 9200, Western Transdanubia, 9200, Hungary) / * 2023 November 27 17:43 efi99 Created: cím jó?</title>
-        <link>https://www.openstreetmap.org/note/4005876#c8717137</link>
-        <guid>https://www.openstreetmap.org/note/4005876#c8717137</guid>
-        <pubDate>Mon, 27 Nov 2023 17:43:56 +0000</pubDate>
-      </item><item>
-        <title>new note 4005835 (near 9200, Western Transdanubia, 9200, Hungary) / * 2023 November 27 17:30 efi99 Created: cím?</title>
-        <link>https://www.openstreetmap.org/note/4005835#c8717076</link>
-        <guid>https://www.openstreetmap.org/note/4005835#c8717076</guid>
-        <pubDate>Mon, 27 Nov 2023 17:30:35 +0000</pubDate>
-      </item><item>
-        <title>new note 4005831 (near 1065, Central Hungary, 1065, Hungary) / * 2023 November 27 17:30 chocolatecookies Created: &amp;quot;This shop is gone&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-11-13T21:29:23Z / POI name: Hús-hentesáru / POI types: wheelchair-limited shop-butcher / #organicmaps android</title>
-        <link>https://www.openstreetmap.org/note/4005831#c8717072</link>
-        <guid>https://www.openstreetmap.org/note/4005831#c8717072</guid>
-        <pubDate>Mon, 27 Nov 2023 17:30:04 +0000</pubDate>
-      </item><item>
-        <title>new note 4005830 (near 1065, Central Hungary, 1065, Hungary) / * 2023 November 27 17:30 chocolatecookies Created: &amp;quot;Does not exist anymore&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-11-13T21:29:23Z / POI name: Yogurt Fabbrica / POI types: amenity-cafe / #organicmaps android</title>
-        <link>https://www.openstreetmap.org/note/4005830#c8717071</link>
-        <guid>https://www.openstreetmap.org/note/4005830#c8717071</guid>
-        <pubDate>Mon, 27 Nov 2023 17:30:04 +0000</pubDate>
       </item>
   </channel>
 </rss>
