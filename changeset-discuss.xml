@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: Spush Discussion Comment No.: 2 Comment: Boltok vannak de ott nincsenek automaták és az import során automata ként kerültek az adatbázisba. A boltok melyek csomagpontként üzemelnek ott a bolt notes tagja tartalmazza az infót. Date: 2023-12-01T13:02:26+01:00</title>
+        <title>Contributor: vasony Discussion Comment No.: 3 Comment: pl. https://www.openstreetmap.org/node/11350894527/history Ez nem automatakent volt már fent a törlés pillanatában, és nem kerültek át a címkék a boltra. A notes cimke a szerkesztőknek való információ, nem strukturált, a végfelhasználónak alkalmatlan. A csomagpont helyes címkézését a törölt pontban látod. shop=yes kivételével. Date: 2023-12-01T14:18:55+01:00</title>
         <link>https://www.openstreetmap.org/changeset/144641658</link>
-        <guid>https://www.openstreetmap.org/changeset/144641658#comment_2</guid>
-        <pubDate>2023-12-01T13:02:26+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/144641658#comment_3</guid>
+        <pubDate>2023-12-01T14:18:55+01:00</pubDate>
       </item><item>
         <title>Contributor: BáthoryPéter Discussion Comment No.: 7 Comment: Sejtettem, hogy ilyesmi lehet a háttérben ;) De ez most egy jó megoldásnak tűnik. Date: 2023-12-01T11:53:40+01:00</title>
         <link>https://www.openstreetmap.org/changeset/144619616</link>
