@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4012678 (near 7720, Southern Transdanubia, 7720, Hungary) / * 2023 December 2 18:44 Brúnó Created: Az esőbeálló átköltözött.</title>
+        <link>https://www.openstreetmap.org/note/4012678#c8733995</link>
+        <guid>https://www.openstreetmap.org/note/4012678#c8733995</guid>
+        <pubDate>Sat, 02 Dec 2023 18:44:23 +0000</pubDate>
+      </item><item>
         <title>new comment 3986280 (near Erzsébetpuszta, Hegyeshalom) / * 2023 November 13 20:50 kogutowicz-mano Created: Bontják az épületeket. / https://24.hu/kulfold/2023/11/13/hegyeshalom-hataratkelo-foepulet-bontas/ / * 2023 December 2 16:07 kogutowicz-mano Updated: A nagy része már el is tűnt. / https://telex.hu/belfold/2023/12/02/hataratkelo-hegyeshalom-bontas-polgarmester</title>
         <link>https://www.openstreetmap.org/note/3986280#c8733437</link>
         <guid>https://www.openstreetmap.org/note/3986280#c8733437</guid>
@@ -217,11 +222,6 @@
         <link>https://www.openstreetmap.org/note/4008729#c8724196</link>
         <guid>https://www.openstreetmap.org/note/4008729#c8724196</guid>
         <pubDate>Wed, 29 Nov 2023 22:00:07 +0000</pubDate>
-      </item><item>
-        <title>closed note 4007557 (near Virágtanya, Törökbálint) / * 2023 November 28 22:38 tregec Created: nyiladék jelzése hibás / * 2023 November 29 20:32 tregec Resolved: Átrajzoltam egy vonallá, és megadtam vastagságot.</title>
-        <link>https://www.openstreetmap.org/note/4007557#c8723997</link>
-        <guid>https://www.openstreetmap.org/note/4007557#c8723997</guid>
-        <pubDate>Wed, 29 Nov 2023 20:32:01 +0000</pubDate>
       </item>
   </channel>
 </rss>
