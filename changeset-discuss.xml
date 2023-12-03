@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: vasony Discussion Comment No.: 5 Comment: OK. Érdekes, hogy nem adott ütközést ilyen esetben, szerintem kellett volna. Date: 2023-12-03T19:56:14+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/144641658</link>
+        <guid>https://www.openstreetmap.org/changeset/144641658#comment_5</guid>
+        <pubDate>2023-12-03T19:56:14+01:00</pubDate>
+      </item><item>
         <title>Contributor: Spush Discussion Comment No.: 5 Comment: Megnéztem és zárva van, de a tábla valóban kint van. A POI-ból csinálok egy Zöldségest, ami 10 méterrel odébb van. 1 órát sétáltam a környéken. Date: 2023-12-02T17:26:23+01:00</title>
         <link>https://www.openstreetmap.org/changeset/144612889</link>
         <guid>https://www.openstreetmap.org/changeset/144612889#comment_5</guid>
         <pubDate>2023-12-02T17:26:23+01:00</pubDate>
-      </item><item>
-        <title>Contributor: Spush Discussion Comment No.: 4 Comment: A JOSM-ben még akkor töröltem, mikor automataként volt fent az adatbázisban, csak a a módosításcsomagot hó végén szoktam feltölteni. Date: 2023-12-02T17:24:12+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/144641658</link>
-        <guid>https://www.openstreetmap.org/changeset/144641658#comment_4</guid>
-        <pubDate>2023-12-02T17:24:12+01:00</pubDate>
       </item><item>
         <title>Contributor: bkil Discussion Comment No.: 1 Comment: Ki is van táblázva a terepen a változás? Ha nem, official_name is lehet. Kérjük, hogy mindig szerepeljen az old_name alatt az előző név. Date: 2023-12-02T11:45:26+01:00</title>
         <link>https://www.openstreetmap.org/changeset/144686677</link>
@@ -77,21 +77,6 @@
         <link>https://www.openstreetmap.org/changeset/144478118</link>
         <guid>https://www.openstreetmap.org/changeset/144478118#comment_1</guid>
         <pubDate>2023-11-27T21:08:47+01:00</pubDate>
-      </item><item>
-        <title>Contributor: balint36 Discussion Comment No.: 1 Comment: Thank you for contributing but next time please be more aware because you made many mistakes at Kisújszállás station. Date: 2023-11-26T19:49:26+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/140105495</link>
-        <guid>https://www.openstreetmap.org/changeset/140105495#comment_1</guid>
-        <pubDate>2023-11-26T19:49:26+01:00</pubDate>
-      </item><item>
-        <title>Contributor: balint36 Discussion Comment No.: 1 Comment: Thank you for contributing but next time please be more aware because you made many mistake at Karcag station. Date: 2023-11-26T19:44:02+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/141521333</link>
-        <guid>https://www.openstreetmap.org/changeset/141521333#comment_1</guid>
-        <pubDate>2023-11-26T19:44:02+01:00</pubDate>
-      </item><item>
-        <title>Contributor: balint36 Discussion Comment No.: 1 Comment: Thank you for contributing but next time please be more aware because you made many mistake at Szolnok station. Date: 2023-11-26T17:12:47+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/140100118</link>
-        <guid>https://www.openstreetmap.org/changeset/140100118#comment_1</guid>
-        <pubDate>2023-11-26T17:12:47+01:00</pubDate>
       </item>
   </channel>
 </rss>
