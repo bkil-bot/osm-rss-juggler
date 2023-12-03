@@ -3,6 +3,11 @@
   <channel>
     <title>WiGLE Frontpage (via bkil-bot)</title>
       <item>
+        <title>Email verification changes: Due to extensive abuse, we've had make changes, including switching to an email-verification model on registration. This isn't our preferred solution, recent events have made it necessary. As always, if you have a specific use in mind, reach out to us, and please understand that the EULA applies to every user and exists entirely so that we can continue to make this project work. -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11954#p11954</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11954#p11954</guid>
+        <pubDate>2023-12-03T08:48:08</pubDate>
+      </item><item>
         <title>Re: Billion Mapped WiFi Networks: Congrats!! -Rouregre</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11790#p11790</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11790#p11790</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11415#p11415</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11415#p11415</guid>
         <pubDate>2023-01-16T04:08:04</pubDate>
-      </item><item>
-        <title>Re: Sex Toy Security and WiGLE popularity: arkasha wrote: &amp;gt; thank you - there should be one if you're logged in I just checked, and you have it enabled in all other forums, but not in this one, the WiGLE Frontpage. Posts here lack a `Report` button for me. -kurz</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11370#p11370</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11370#p11370</guid>
-        <pubDate>2022-11-03T15:32:23</pubDate>
       </item>
   </channel>
 </rss>
