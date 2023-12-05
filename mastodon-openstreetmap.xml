@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>The #OpenStreetMap Operations team (@osm_tech) is seeking feedback on what sort of #OSM editing software should be included on OSM.org. draft policy on the forum: https://community.openstreetmap.org/t/proposal-osm-org-editor-inclusion-policy/106589 https://en.osm.town/@osm_tech/111500996659373393</title>
+        <link>https://en.osm.town/@openstreetmap/111526969759636206</link>
+        <guid>https://en.osm.town/@openstreetmap/111526969759636206</guid>
+        <pubDate>Tue, 05 Dec 2023 08:55:06 +0000</pubDate>
+      </item><item>
         <title>Voting for the 2023 OSMF Board Election is now open! If you can vote, check your email for your ballot. Voting is open until 9 Dec 16:00UTC More details on the election: https://wiki.openstreetmap.org/wiki/Foundation/AGM2023/Election_to_Board #OpenStreetMap #OSM #OSMF</title>
         <link>https://en.osm.town/@openstreetmap/111512487176207664</link>
         <guid>https://en.osm.town/@openstreetmap/111512487176207664</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/111183581803611553</link>
         <guid>https://en.osm.town/@openstreetmap/111183581803611553</guid>
         <pubDate>Thu, 05 Oct 2023 17:27:01 +0000</pubDate>
-      </item><item>
-        <title>The #OpenStreetMap Donation drive is almost at 2,000 donations! 😍 Can you find a way to make it over 2,000?🥺🥺 https://supporting.openstreetmap.org/donate/</title>
-        <link>https://en.osm.town/@openstreetmap/111183569539660151</link>
-        <guid>https://en.osm.town/@openstreetmap/111183569539660151</guid>
-        <pubDate>Thu, 05 Oct 2023 17:23:54 +0000</pubDate>
       </item>
   </channel>
 </rss>
