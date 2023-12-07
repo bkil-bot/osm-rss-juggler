@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3293786 (near 7822, Southern Transdanubia, 7822, Hungary) / * 2022 August 1 11:12 Created: Naponta 14 és 04 óra között lezárják a kereszteződést / * 2023 September 9 15:52 HungarianVoyager Resolved: Jelenlegi módszereink szerint ezen jegyzet kielégítése lehetetlen, mivel nem állnak rendelkezésünkre a megfelelő eszközök ilyen típusú adatok felvitelére / * 2023 September 9 16:44 infeeeee Reactivated:  / * 2023 September 9 16:46 infeeeee Updated: De, van, access conditional: https://wiki.openstreetmap.org/wiki/Key:access#Access_time_and_other_conditional_restrictions / Az más kérdés, hogy a jegyzet ehhez nem tartalmaz elég infót. Csak gépjárműveknek? gyalogosoknak is? minden irányban? engedéllyel be lehet menni, vagy fizikailag zárják le stb. De az osm oldaláról lehet ilyet csinálni, ne fogd arra. / * 2023 December 7 12:38 BáthoryPéter Resolved: A jegyzet dátuma megegyezik az Ördögkatlan fesztivál az évi nyitónapjával, tehát a forgalmirend-változás arra vonatkozott. / Lezárom.</title>
+        <link>https://www.openstreetmap.org/note/3293786#c8747063</link>
+        <guid>https://www.openstreetmap.org/note/3293786#c8747063</guid>
+        <pubDate>Thu, 07 Dec 2023 12:38:53 +0000</pubDate>
+      </item><item>
         <title>new note 4018118 (near 1223, Central Hungary, 1223, Hungary) / * 2023 December 7 10:38 vasony Created: Makó László utca hivatalosan nem létezik, ellenőrizendő</title>
         <link>https://www.openstreetmap.org/note/4018118#c8746704</link>
         <guid>https://www.openstreetmap.org/note/4018118#c8746704</guid>
@@ -252,11 +257,6 @@
         <link>https://www.openstreetmap.org/note/3915170#c8728395</link>
         <guid>https://www.openstreetmap.org/note/3915170#c8728395</guid>
         <pubDate>Fri, 01 Dec 2023 10:41:27 +0000</pubDate>
-      </item><item>
-        <title>closed note 3971998 (near 9532, Central Transdanubia, 9532, Hungary) / * 2023 November 4 01:38 Created: A kápolna mellett az aszfaltozott lehajtóból csináltak egy harmadik buszmegállót. / * 2023 December 1 10:39 sfphoton Resolved: Megjelöltem, köszi!</title>
-        <link>https://www.openstreetmap.org/note/3971998#c8728387</link>
-        <guid>https://www.openstreetmap.org/note/3971998#c8728387</guid>
-        <pubDate>Fri, 01 Dec 2023 10:39:00 +0000</pubDate>
       </item>
   </channel>
 </rss>

@@ -3,6 +3,26 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>Don&amp;#39;t forget to vote in the OSMF Board elections! You should have received your ballot via email. Some web extensions can break the ballot page and cause you to unwittingly “vote for nothing”. Read more: https://osmfoundation.org/wiki/Annual_General_Meetings/2023/Voting_Information_and_Instructions</title>
+        <link>https://en.osm.town/@openstreetmap/111539213122410979</link>
+        <guid>https://en.osm.town/@openstreetmap/111539213122410979</guid>
+        <pubDate>Thu, 07 Dec 2023 12:48:45 +0000</pubDate>
+      </item><item>
+        <title>The OSMF AGM will take place at 16:00 UTC. Use this page &amp;lt;https://www.timeanddate.com/worldclock/fixedtime.html?msg=OSMF+17th+Annual+General+Meeting+-+9th+December+2023&amp;amp;iso=20231209T16&amp;amp;p1=1440&amp;gt; to see what time that is for you. Here&amp;#39;s a countdown to when it starts: &amp;lt;https://www.timeanddate.com/countdown/generic?p0=1440&amp;amp;iso=20231209T16&amp;amp;msg=OSMF%2017th%20Annual%20General%20Meeting%20-%209th%20December%2020232&amp;gt;</title>
+        <link>https://en.osm.town/@openstreetmap/111539206799155789</link>
+        <guid>https://en.osm.town/@openstreetmap/111539206799155789</guid>
+        <pubDate>Thu, 07 Dec 2023 12:47:08 +0000</pubDate>
+      </item><item>
+        <title>The OSMF AGM will take place, like every year, on IRC, on the `#osmf-gm` channel on the OFTC network. You can join with a IRC client, using the web page, or via a Matrix client https://osmfoundation.org/wiki/Annual_General_Meetings/2023#Join</title>
+        <link>https://en.osm.town/@openstreetmap/111539201906751745</link>
+        <guid>https://en.osm.town/@openstreetmap/111539201906751745</guid>
+        <pubDate>Thu, 07 Dec 2023 12:45:54 +0000</pubDate>
+      </item><item>
+        <title>The Annual General Meeting of the OpenStreetMap Foundation will take place on Sat. 9th Dec. 2023, at 16:00 UTC. read more: https://osmfoundation.org/wiki/Annual_General_Meetings/2023 #OpenStreetMap #OSM #OSMF</title>
+        <link>https://en.osm.town/@openstreetmap/111539196528965952</link>
+        <guid>https://en.osm.town/@openstreetmap/111539196528965952</guid>
+        <pubDate>Thu, 07 Dec 2023 12:44:32 +0000</pubDate>
+      </item><item>
         <title>The #OpenStreetMap Operations team (@osm_tech) is seeking feedback on what sort of #OSM editing software should be included on OSM.org. draft policy on the forum: https://community.openstreetmap.org/t/proposal-osm-org-editor-inclusion-policy/106589 https://en.osm.town/@osm_tech/111500996659373393</title>
         <link>https://en.osm.town/@openstreetmap/111526969759636206</link>
         <guid>https://en.osm.town/@openstreetmap/111526969759636206</guid>
@@ -82,26 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/111249655015727005</link>
         <guid>https://en.osm.town/@openstreetmap/111249655015727005</guid>
         <pubDate>Tue, 17 Oct 2023 09:30:19 +0000</pubDate>
-      </item><item>
-        <title>3 days left! 📢 Call for Maps: State of the Map Europe 2023 🗺 What&amp;#39;s it going to be? Map of your country or city? Bike trails? Mini libraries? Wind turbines? Submit your #OSM-based map by Oct. 18th to be displayed in Antwerp on Nov. 10-12! 😎 🌐 https://stateofthemap.eu/call-for-maps #OpenStreetMap #gischat #maps #map #SotMEU2023 #SotM #SotMEU</title>
-        <link>https://en.osm.town/@openstreetmap/111237737061965830</link>
-        <guid>https://en.osm.town/@openstreetmap/111237737061965830</guid>
-        <pubDate>Sun, 15 Oct 2023 06:59:25 +0000</pubDate>
-      </item><item>
-        <title>🌍 Preparing for #SotMAfrica2023 in Cameroon? If you require a visa for Cameroon🇨🇲, easily apply for an e-visa here: https://evisacam.cm/ords/dl_portal/r/public_portal/home ✈️ Safe travels! see more: &amp;lt;https://twitter.com/sotmafrica/status/1709848703484203063&amp;gt;</title>
-        <link>https://en.osm.town/@openstreetmap/111222305150995611</link>
-        <guid>https://en.osm.town/@openstreetmap/111222305150995611</guid>
-        <pubDate>Thu, 12 Oct 2023 13:34:53 +0000</pubDate>
-      </item><item>
-        <title>Do you like maps? Why am I asking, of course you do! Have you made your own map? Yay! Would you like to show it off at @sotmeu, the annual european #OpenStreetMap conference? You&amp;#39;re in luck! Read more here: &amp;lt;https://stateofthemap.eu/call-for-maps&amp;gt; #OpenStreetMap #OSM #SotM #SotMEU #maps #gischat</title>
-        <link>https://en.osm.town/@openstreetmap/111216972750970885</link>
-        <guid>https://en.osm.town/@openstreetmap/111216972750970885</guid>
-        <pubDate>Wed, 11 Oct 2023 14:58:47 +0000</pubDate>
-      </item><item>
-        <title>In the #OpenStreetMap data model, linear features are (mostly) represented by the `way` data type, which can have at most 2,000 `node`s. Can you find a way for OpenStreetMap to have more than 2,000 donations by going https://supporting.openstreetmap.org/donate/ 🥺🥺 #OSM</title>
-        <link>https://en.osm.town/@openstreetmap/111183581803611553</link>
-        <guid>https://en.osm.town/@openstreetmap/111183581803611553</guid>
-        <pubDate>Thu, 05 Oct 2023 17:27:01 +0000</pubDate>
       </item>
   </channel>
 </rss>
