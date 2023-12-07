@@ -3,7 +3,7 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
-        <title>Seems google/apple&amp;#39;s push notifications services are regularly queried by state authorities for obtaining user data -- see this german #netzpolitik article https://netzpolitik.org/2023/push-dienste-behoerden-fragen-apple-und-google-nach-nutzern-von-messenger-apps/ -- #deltachat only uses apple&amp;#39;s push notifications on iOS for &amp;quot;heartbeat&amp;quot; services -- to ensure the app can show messages for their user (and many users are asking for tighter integration). On Android, Desktop and #ubuntutouch platforms no push notifications are used or needed, also no heartbeat ones.</title>
+        <title>Seems google/apple&amp;#39;s push notifications services are regularly queried by state authorities for obtaining user data -- see this german @netzpolitik_feed https://netzpolitik.org/2023/push-dienste-behoerden-fragen-apple-und-google-nach-nutzern-von-messenger-apps/ -- #deltachat only uses apple&amp;#39;s push notifications on iOS for &amp;quot;heartbeat&amp;quot; services -- to ensure the app can show messages for their user (and many users are asking for tighter integration). On Android, Desktop and #ubuntutouch platforms currently no push notifications are used or needed, also no heartbeat ones.</title>
         <link>https://chaos.social/@delta/111538544523935897</link>
         <guid>https://chaos.social/@delta/111538544523935897</guid>
         <pubDate>Thu, 07 Dec 2023 09:58:43 +0000</pubDate>
