@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4017950 (near 6000, South Great Plain, 6000, Hungary) / * 2023 December 7 08:04 vasony Created: Helikon utca név megszűnt a 445-ös úttal, vagy ennek a szakaszank ez a neve?</title>
+        <link>https://www.openstreetmap.org/note/4017950#c8746364</link>
+        <guid>https://www.openstreetmap.org/note/4017950#c8746364</guid>
+        <pubDate>Thu, 07 Dec 2023 08:04:57 +0000</pubDate>
+      </item><item>
+        <title>closed note 3767991 (near 4030, North Great Plain, 4030, Hungary) / * 2023 December 7 07:22 ssummoner1 Resolved: Rendben. Lezártam.</title>
+        <link>https://www.openstreetmap.org/note/3767991#c8746294</link>
+        <guid>https://www.openstreetmap.org/note/3767991#c8746294</guid>
+        <pubDate>Thu, 07 Dec 2023 07:22:45 +0000</pubDate>
+      </item><item>
         <title>new comment 3767991 (near 4030, North Great Plain, 4030, Hungary) / * 2023 July 6 14:15 ssummoner1 Created: Az épület felújítás alatt áll! Szép lesz. https://civishir.hu/helyben-jaro/2022/12/megmenekul-debrecen-egyetlen-kastelya / * 2023 December 6 13:29 nslxndr Resolved: A felújításra van construction címke, ami korábban fel is került az épületre (néhány napja pedig lekerült róla, eszerint vélhetően be is fejeződött a felújítás) , így ezt a jegyzetet most már lezárom, mivel térképhiba nem áll fenn, a térkép megfelel a jelzett vagy aktuális állapotnak. / * 2023 December 6 14:34 ssummoner1 Reactivated: Nincs még kész. Ma jártam arra. Csak a tető van kész. A hírekben azt hallottam hogy készen van, azért vettem le a construction cimkét, de igazából csak a tető van készen. Tatarozás, nyílászárók ilyenek hiányoznak az épületről, de ahogy néztem azok is folyamatban vannak. / * 2023 December 7 07:16 nslxndr Updated: Ez rendben van, viszont akárhol is tartanak vele részleteiben, az OSM és a szerkesztők szempontjából végeredményében annyi a releváns és címkézhető, azt lehet eldönteni, hogy a construction címkét ráteszed vagy sem. / De akár folyamatban van még, akár nem, ha a térkép az adott állapotában megfelel a valóságnak, onnantól igazából nincs további elvégezhető tennivaló. (Ha mégsem egyezik a valósággal, akkor pedig az eltérést mint problémát kellene megfogalmazza, aminek beleszerkesztése megoldásra vár.) Emiatt nem tűnt indokoltnak a hibajegyzetet hónapokig fenntartani akkor sem, ha mégis dolgoznak rajta (max. visszatenni a construction címkét), mivel térképhiba nem áll fenn. Így egyértelműen lezárhatónak tartottam, gondolván csak megfeledkeztél róla. / De ha egyfajta személyes todo-ként szükséged van rá, mert figyelemmel kíséred, végül is elférek tőle, csak tényleg kissé határeset, mert akkor ugyebár minden építkezésnél lehetne.</title>
         <link>https://www.openstreetmap.org/note/3767991#c8746287</link>
         <guid>https://www.openstreetmap.org/note/3767991#c8746287</guid>
@@ -267,11 +277,6 @@
         <link>https://www.openstreetmap.org/note/3973193#c8728321</link>
         <guid>https://www.openstreetmap.org/note/3973193#c8728321</guid>
         <pubDate>Fri, 01 Dec 2023 10:29:20 +0000</pubDate>
-      </item><item>
-        <title>closed note 3973208 (near Marcalmajor, Celldömölk) / * 2023 November 4 22:50 Created: Hiányzó útszéli fakereszt. Nem tudom mi a hivatalos neve, de pár helyi &amp;quot;vörös kereszt&amp;quot;-ként hivatkozik rá a keresztfa vöröses színe miatt. / * 2023 December 1 10:27 sfphoton Resolved: Hozzáadtam: https://www.openstreetmap.org/changeset/144656665</title>
-        <link>https://www.openstreetmap.org/note/3973208#c8728314</link>
-        <guid>https://www.openstreetmap.org/note/3973208#c8728314</guid>
-        <pubDate>Fri, 01 Dec 2023 10:27:08 +0000</pubDate>
       </item>
   </channel>
 </rss>
