@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4018118 (near 1223, Central Hungary, 1223, Hungary) / * 2023 December 7 10:38 vasony Created: Makó László utca hivatalosan nem létezik, ellenőrizendő</title>
+        <link>https://www.openstreetmap.org/note/4018118#c8746704</link>
+        <guid>https://www.openstreetmap.org/note/4018118#c8746704</guid>
+        <pubDate>Thu, 07 Dec 2023 10:38:19 +0000</pubDate>
+      </item><item>
         <title>new note 4017950 (near 6000, South Great Plain, 6000, Hungary) / * 2023 December 7 08:04 vasony Created: Helikon utca név megszűnt a 445-ös úttal, vagy ennek a szakaszank ez a neve?</title>
         <link>https://www.openstreetmap.org/note/4017950#c8746364</link>
         <guid>https://www.openstreetmap.org/note/4017950#c8746364</guid>
@@ -252,11 +257,6 @@
         <link>https://www.openstreetmap.org/note/3971998#c8728387</link>
         <guid>https://www.openstreetmap.org/note/3971998#c8728387</guid>
         <pubDate>Fri, 01 Dec 2023 10:39:00 +0000</pubDate>
-      </item><item>
-        <title>closed note 3060217 (near 9531, Western Transdanubia, 9531, Hungary) / * 2022 February 21 16:50 Created: Hiányzó horgászparkoló. / * 2023 December 1 10:37 sfphoton Resolved: Már nem hiányzik, köszi az infót!</title>
-        <link>https://www.openstreetmap.org/note/3060217#c8728366</link>
-        <guid>https://www.openstreetmap.org/note/3060217#c8728366</guid>
-        <pubDate>Fri, 01 Dec 2023 10:37:03 +0000</pubDate>
       </item>
   </channel>
 </rss>
