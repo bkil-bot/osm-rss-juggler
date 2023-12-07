@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Seems google/apple&amp;#39;s push notifications services are regularly queried by state authorities for obtaining user data -- see this german #netzpolitik article https://netzpolitik.org/2023/push-dienste-behoerden-fragen-apple-und-google-nach-nutzern-von-messenger-apps/ -- #deltachat only uses apple&amp;#39;s push notifications on iOS for &amp;quot;heartbeat&amp;quot; services -- to ensure the app can show messages for their user (and many users are asking for tighter integration). On Android, Desktop and #ubuntutouch platforms no push notifications are used or needed, also no heartbeat ones.</title>
+        <link>https://chaos.social/@delta/111538544523935897</link>
+        <guid>https://chaos.social/@delta/111538544523935897</guid>
+        <pubDate>Thu, 07 Dec 2023 09:58:43 +0000</pubDate>
+      </item><item>
         <title>If you are looking for alternatives to Android, then #ubuntutouch from https://mastodon.social/@ubports is a mobile platform where @lk108 implemented the nicely working DeltaTouch app which also just released guaranteed end-to-end encryption, being very much on par with the other platforms, see https://social.tchncs.de/@lk108/111517563343219731 Pixel3a phone with UbuntuTouch operating system and running DeltaTouch app showing a chatlist with Lothar, a deltatouch group, a registration chat with ubuntuone, and some other chats.</title>
         <link>https://chaos.social/@delta/111532647776044900</link>
         <guid>https://chaos.social/@delta/111532647776044900</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/110918087625661807</link>
         <guid>https://chaos.social/@delta/110918087625661807</guid>
         <pubDate>Sat, 19 Aug 2023 20:08:22 +0000</pubDate>
-      </item><item>
-        <title>It seems that the fdroid 1.40 fdroid #deltachat built is broken. Sorry about that. We are trying to mitigate and fix. You can mark this 1.40.0 update to be ignored in the fdroid app. If you already installed the new version then try downgrading. Greetings from #cccamp23</title>
-        <link>https://chaos.social/@delta/110915279693737147</link>
-        <guid>https://chaos.social/@delta/110915279693737147</guid>
-        <pubDate>Sat, 19 Aug 2023 08:14:16 +0000</pubDate>
       </item>
   </channel>
 </rss>
