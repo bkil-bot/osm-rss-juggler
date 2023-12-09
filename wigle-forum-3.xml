@@ -3,6 +3,16 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Incentivization of infrequently visited tiles: I use an app called &quot;Fog of World&quot; to keep track of where I have previously been. It can be set to use a &quot;fog of war&quot; opaqueness effect to areas of the map that haven't been &quot;discovered&quot;. It's been fun riding around places I still haven't been to in over 15 years of living in my city! I use it on my iPhone (https://itunes.apple.com/app/fog-of-world/id505367096) as there are no wardriving apps for iOS, but it's also available on the Google Play Store: https://play.google.com/store/apps/deta ... fogofworld -computerb0y</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11959#p11959</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11959#p11959</guid>
+        <pubDate>2023-12-09T04:59:02</pubDate>
+      </item><item>
+        <title>Re: Wigle Wifi Wardriving for Android: The benevolent bobzilla has released version 2.82 of Wigle Wifi Wardriving for Android. Changelog entry: * 2.81 - 2.82 (11/28/2023) Bluetooth is now in text-to-speech Roaming Consortium ID's added to local DB and file upload (thanks MarkG!) Added GNSS full tracking option (impacts battery, use with power source) Upload file at 1.6 version with UTF-8 support Distance now shown on list view Refactor DB search fragments Silence notification sounds Various bug fixes Thanks for your past and continuing hard work. I often think about all the old android phones that would be e-waste if they weren't part of someone's wardriving setup, so I really appreciate the compatibility with older models which are naturally easier to find in electronic graveyards and dormant collections. -computerb0y</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11958#p11958</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11958#p11958</guid>
+        <pubDate>2023-12-09T04:30:58</pubDate>
+      </item><item>
         <title>Re: File Formats: KML vs CSV vs Magic8Ball vs SQLite: KML commonly used for visualizing spatial data such as maps, 3D models, and other geospatial information. CSV is a plain text file that separates values with commas and lines with newlines. CSV files can be easily opened and edited in a text editor or spreadsheet program. getting over it SQLite is commonly used in mobile apps, web browsers, and other applications that require a lightweight, file-based database system. -DeshaunBruen</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11936#p11936</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11936#p11936</guid>
@@ -67,16 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11809#p11809</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11809#p11809</guid>
         <pubDate>2023-08-02T16:05:27</pubDate>
-      </item><item>
-        <title>Re: GPS accuracy: mostly - we also do cluster detection - points should &quot;snap&quot; not drift in a perfect world. When you se things in weird places, it generally means: 1. they were reported there, improbable though it may be 2. they're PRECISELY POISED between two clusters, or have a very small number of observations. 3. they haven't been seen in a while and were last trilaterated before cluster detection was implemented.Perfect explanation -computerb0y</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11806#p11806</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11806#p11806</guid>
-        <pubDate>2023-08-02T10:17:29</pubDate>
-      </item><item>
-        <title>Re: Increasing accuracy after scan: Does accuracy get improved by other users observations? -computerb0y</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11805#p11805</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11805#p11805</guid>
-        <pubDate>2023-08-02T10:13:38</pubDate>
       </item>
   </channel>
 </rss>

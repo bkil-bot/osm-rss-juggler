@@ -3,6 +3,11 @@
   <channel>
     <title>WiGLE Frontpage (via bkil-bot)</title>
       <item>
+        <title>Re: Email verification changes: thanks for looking after Wigle for us :) -computerb0y</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11956#p11956</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11956#p11956</guid>
+        <pubDate>2023-12-09T04:21:07</pubDate>
+      </item><item>
         <title>Email verification changes: Due to extensive abuse, we've had make changes, including switching to an email-verification model on registration. This isn't our preferred solution, recent events have made it necessary. As always, if you have a specific use in mind, reach out to us, and please understand that the EULA applies to every user and exists entirely so that we can continue to make this project work. -arkasha</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11954#p11954</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11954#p11954</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11443#p11443</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11443#p11443</guid>
         <pubDate>2023-01-25T15:12:03</pubDate>
-      </item><item>
-        <title>Recent spam wave: recently, we received a wave of spam forum posts from users in good standing and active stumblers. If your account has been blocked, or if you find yourself unable to post to the forums, please contact us at the WiGLE-admin[at]wigle.net from your registration email, or reach out to us via other media to restore your account. Note: we assume this has been due to compromised credentials - we'll need you the change you password. -arkasha</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11415#p11415</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11415#p11415</guid>
-        <pubDate>2023-01-16T04:08:04</pubDate>
       </item>
   </channel>
 </rss>
