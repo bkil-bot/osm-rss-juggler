@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4021457 (near 2100, Central Hungary, 2100, Hungary) / * 2023 December 9 18:17 SzGabor101 Created: Fence and closed gate. It is not possible to enter the arboretum.</title>
+        <link>https://www.openstreetmap.org/note/4021457#c8754730</link>
+        <guid>https://www.openstreetmap.org/note/4021457#c8754730</guid>
+        <pubDate>Sat, 09 Dec 2023 18:17:57 +0000</pubDate>
+      </item><item>
         <title>closed note 3371101 (near 1075, Central Hungary, 1075, Hungary) / * 2022 September 23 20:41 Created: Go Active / * 2023 December 9 14:10 urbalazs Resolved: Sorry, but this map note is incomplete. Please provide detailed information on the issue you would like to report.</title>
         <link>https://www.openstreetmap.org/note/3371101#c8754083</link>
         <guid>https://www.openstreetmap.org/note/3371101#c8754083</guid>
@@ -97,126 +102,6 @@
         <link>https://www.openstreetmap.org/note/4019989#c8751137</link>
         <guid>https://www.openstreetmap.org/note/4019989#c8751137</guid>
         <pubDate>Fri, 08 Dec 2023 14:02:59 +0000</pubDate>
-      </item><item>
-        <title>closed note 3293786 (near 7822, Southern Transdanubia, 7822, Hungary) / * 2022 August 1 11:12 Created: Naponta 14 és 04 óra között lezárják a kereszteződést / * 2023 September 9 15:52 HungarianVoyager Resolved: Jelenlegi módszereink szerint ezen jegyzet kielégítése lehetetlen, mivel nem állnak rendelkezésünkre a megfelelő eszközök ilyen típusú adatok felvitelére / * 2023 September 9 16:44 infeeeee Reactivated:  / * 2023 September 9 16:46 infeeeee Updated: De, van, access conditional: https://wiki.openstreetmap.org/wiki/Key:access#Access_time_and_other_conditional_restrictions / Az más kérdés, hogy a jegyzet ehhez nem tartalmaz elég infót. Csak gépjárműveknek? gyalogosoknak is? minden irányban? engedéllyel be lehet menni, vagy fizikailag zárják le stb. De az osm oldaláról lehet ilyet csinálni, ne fogd arra. / * 2023 December 7 12:38 BáthoryPéter Resolved: A jegyzet dátuma megegyezik az Ördögkatlan fesztivál az évi nyitónapjával, tehát a forgalmirend-változás arra vonatkozott. / Lezárom.</title>
-        <link>https://www.openstreetmap.org/note/3293786#c8747063</link>
-        <guid>https://www.openstreetmap.org/note/3293786#c8747063</guid>
-        <pubDate>Thu, 07 Dec 2023 12:38:53 +0000</pubDate>
-      </item><item>
-        <title>new note 4018118 (near 1223, Central Hungary, 1223, Hungary) / * 2023 December 7 10:38 vasony Created: Makó László utca hivatalosan nem létezik, ellenőrizendő</title>
-        <link>https://www.openstreetmap.org/note/4018118#c8746704</link>
-        <guid>https://www.openstreetmap.org/note/4018118#c8746704</guid>
-        <pubDate>Thu, 07 Dec 2023 10:38:19 +0000</pubDate>
-      </item><item>
-        <title>new note 4017950 (near 6000, South Great Plain, 6000, Hungary) / * 2023 December 7 08:04 vasony Created: Helikon utca név megszűnt a 445-ös úttal, vagy ennek a szakaszank ez a neve?</title>
-        <link>https://www.openstreetmap.org/note/4017950#c8746364</link>
-        <guid>https://www.openstreetmap.org/note/4017950#c8746364</guid>
-        <pubDate>Thu, 07 Dec 2023 08:04:57 +0000</pubDate>
-      </item><item>
-        <title>closed note 3767991 (near 4030, North Great Plain, 4030, Hungary) / * 2023 December 7 07:22 ssummoner1 Resolved: Rendben. Lezártam.</title>
-        <link>https://www.openstreetmap.org/note/3767991#c8746294</link>
-        <guid>https://www.openstreetmap.org/note/3767991#c8746294</guid>
-        <pubDate>Thu, 07 Dec 2023 07:22:45 +0000</pubDate>
-      </item><item>
-        <title>new comment 3767991 (near 4030, North Great Plain, 4030, Hungary) / * 2023 July 6 14:15 ssummoner1 Created: Az épület felújítás alatt áll! Szép lesz. https://civishir.hu/helyben-jaro/2022/12/megmenekul-debrecen-egyetlen-kastelya / * 2023 December 6 13:29 nslxndr Resolved: A felújításra van construction címke, ami korábban fel is került az épületre (néhány napja pedig lekerült róla, eszerint vélhetően be is fejeződött a felújítás) , így ezt a jegyzetet most már lezárom, mivel térképhiba nem áll fenn, a térkép megfelel a jelzett vagy aktuális állapotnak. / * 2023 December 6 14:34 ssummoner1 Reactivated: Nincs még kész. Ma jártam arra. Csak a tető van kész. A hírekben azt hallottam hogy készen van, azért vettem le a construction cimkét, de igazából csak a tető van készen. Tatarozás, nyílászárók ilyenek hiányoznak az épületről, de ahogy néztem azok is folyamatban vannak. / * 2023 December 7 07:16 nslxndr Updated: Ez rendben van, viszont akárhol is tartanak vele részleteiben, az OSM és a szerkesztők szempontjából végeredményében annyi a releváns és címkézhető, azt lehet eldönteni, hogy a construction címkét ráteszed vagy sem. / De akár folyamatban van még, akár nem, ha a térkép az adott állapotában megfelel a valóságnak, onnantól igazából nincs további elvégezhető tennivaló. (Ha mégsem egyezik a valósággal, akkor pedig az eltérést mint problémát kellene megfogalmazza, aminek beleszerkesztése megoldásra vár.) Emiatt nem tűnt indokoltnak a hibajegyzetet hónapokig fenntartani akkor sem, ha mégis dolgoznak rajta (max. visszatenni a construction címkét), mivel térképhiba nem áll fenn. Így egyértelműen lezárhatónak tartottam, gondolván csak megfeledkeztél róla. / De ha egyfajta személyes todo-ként szükséged van rá, mert figyelemmel kíséred, végül is elférek tőle, csak tényleg kissé határeset, mert akkor ugyebár minden építkezésnél lehetne.</title>
-        <link>https://www.openstreetmap.org/note/3767991#c8746287</link>
-        <guid>https://www.openstreetmap.org/note/3767991#c8746287</guid>
-        <pubDate>Thu, 07 Dec 2023 07:16:42 +0000</pubDate>
-      </item><item>
-        <title>closed note 4017658 (near 8100, Central Transdanubia, 8100, Hungary) / * 2023 December 6 21:57 LehoGeo Mérnökiroda Kft Resolved: </title>
-        <link>https://www.openstreetmap.org/note/4017658#c8745468</link>
-        <guid>https://www.openstreetmap.org/note/4017658#c8745468</guid>
-        <pubDate>Wed, 06 Dec 2023 21:57:20 +0000</pubDate>
-      </item><item>
-        <title>new note 4017658 (near 8100, Central Transdanubia, 8100, Hungary) / * 2023 December 6 21:56 LehoGeo Mérnökiroda Kft Created: LehoGeo Mérnökiroda Kft.</title>
-        <link>https://www.openstreetmap.org/note/4017658#c8745465</link>
-        <guid>https://www.openstreetmap.org/note/4017658#c8745465</guid>
-        <pubDate>Wed, 06 Dec 2023 21:56:45 +0000</pubDate>
-      </item><item>
-        <title>closed note 3940184 (near 2931, Central Transdanubia, 2931, Hungary) / * 2023 October 14 15:10 Created: A gyógyszertár határozatlan ideig nem működik. / http://almasfuzito.hu/gyogyszertar-hasznositasa/ / * 2023 December 6 20:52 sfphoton Resolved: disused taget tettem rá</title>
-        <link>https://www.openstreetmap.org/note/3940184#c8745346</link>
-        <guid>https://www.openstreetmap.org/note/3940184#c8745346</guid>
-        <pubDate>Wed, 06 Dec 2023 20:52:38 +0000</pubDate>
-      </item><item>
-        <title>closed note 3940164 (near 2931, Central Transdanubia, 2931, Hungary) / * 2023 October 14 15:01 Created: A COOP éleémiszerbolt itt található, és nem a művelődési ház épületében. / * 2023 December 6 20:52 sfphoton Resolved: Átmozgattam.</title>
-        <link>https://www.openstreetmap.org/note/3940164#c8745345</link>
-        <guid>https://www.openstreetmap.org/note/3940164#c8745345</guid>
-        <pubDate>Wed, 06 Dec 2023 20:52:27 +0000</pubDate>
-      </item><item>
-        <title>closed note 3940160 (near 2931, Central Transdanubia, 2931, Hungary) / * 2023 October 14 14:59 Created: Nem CBA bolt, hanem COOP, és nem itt van, hanem a Petőfi tér 4-5 alatt. / * 2023 December 6 20:52 sfphoton Resolved: Átmozgattam, átneveztem.</title>
-        <link>https://www.openstreetmap.org/note/3940160#c8745343</link>
-        <guid>https://www.openstreetmap.org/note/3940160#c8745343</guid>
-        <pubDate>Wed, 06 Dec 2023 20:52:17 +0000</pubDate>
-      </item><item>
-        <title>new note 4017333 (near 8200, Central Transdanubia, 8200, Hungary) / * 2023 December 6 16:09 Created: &amp;quot;bezárt&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-11-13T21:29:23Z / POI name: Lipóti Pékség / POI types: shop-bakery / #organicmaps android</title>
-        <link>https://www.openstreetmap.org/note/4017333#c8744771</link>
-        <guid>https://www.openstreetmap.org/note/4017333#c8744771</guid>
-        <pubDate>Wed, 06 Dec 2023 16:09:46 +0000</pubDate>
-      </item><item>
-        <title>new note 4017332 (near 8200, Central Transdanubia, 8200, Hungary) / * 2023 December 6 16:09 Created: &amp;quot;megszűnt&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-11-13T21:29:23Z / POI name: Éjjel-nappali / POI types: shop-convenience / #organicmaps android</title>
-        <link>https://www.openstreetmap.org/note/4017332#c8744770</link>
-        <guid>https://www.openstreetmap.org/note/4017332#c8744770</guid>
-        <pubDate>Wed, 06 Dec 2023 16:09:46 +0000</pubDate>
-      </item><item>
-        <title>new note 4017331 (near 8200, Central Transdanubia, 8200, Hungary) / * 2023 December 6 16:09 Created: &amp;quot;megszűnt&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-11-13T21:29:23Z / POI name: Zirci takarék / POI types: amenity-atm amenity-bank / #organicmaps android</title>
-        <link>https://www.openstreetmap.org/note/4017331#c8744769</link>
-        <guid>https://www.openstreetmap.org/note/4017331#c8744769</guid>
-        <pubDate>Wed, 06 Dec 2023 16:09:45 +0000</pubDate>
-      </item><item>
-        <title>closed note 3900844 (near 1026, Central Hungary, 1026, Hungary) / * 2023 September 21 13:33 OSM KAMI Created: épület / via StreetComplete 54.0 / Attached photo(s): / https://westnordost.de/p/176103.jpg / * 2023 December 6 15:20 infeeeee Resolved: Manzárd tető jelölve: https://www.openstreetmap.org/changeset/144832998</title>
-        <link>https://www.openstreetmap.org/note/3900844#c8744662</link>
-        <guid>https://www.openstreetmap.org/note/3900844#c8744662</guid>
-        <pubDate>Wed, 06 Dec 2023 15:20:44 +0000</pubDate>
-      </item><item>
-        <title>closed note 4017236 (near 8254, Central Transdanubia, 8254, Hungary) / * 2023 December 6 14:40 lbreniko Resolved: </title>
-        <link>https://www.openstreetmap.org/note/4017236#c8744585</link>
-        <guid>https://www.openstreetmap.org/note/4017236#c8744585</guid>
-        <pubDate>Wed, 06 Dec 2023 14:40:14 +0000</pubDate>
-      </item><item>
-        <title>new note 4017236 (near 8254, Central Transdanubia, 8254, Hungary) / * 2023 December 6 14:39 lbreniko Created: Ecséri templomrom</title>
-        <link>https://www.openstreetmap.org/note/4017236#c8744582</link>
-        <guid>https://www.openstreetmap.org/note/4017236#c8744582</guid>
-        <pubDate>Wed, 06 Dec 2023 14:39:31 +0000</pubDate>
-      </item><item>
-        <title>reactivated note 3767991 (near 4030, North Great Plain, 4030, Hungary) / * 2023 December 6 14:34 ssummoner1 Reactivated: Nincs még kész. Ma jártam arra. Csak a tető van kész. A hírekben azt hallottam hogy készen van, azért vettem le a construction cimkét, de igazából csak a tető van készen. Tatarozás, nyílászárók ilyenek hiányoznak az épületről, de ahogy néztem azok is folyamatban vannak.</title>
-        <link>https://www.openstreetmap.org/note/3767991#c8744572</link>
-        <guid>https://www.openstreetmap.org/note/3767991#c8744572</guid>
-        <pubDate>Wed, 06 Dec 2023 14:34:14 +0000</pubDate>
-      </item><item>
-        <title>closed note 4014713 (near 4002, North Great Plain, 4002, Hungary) / * 2023 December 4 15:16 ssummoner1 Created: Majd meg kell nézni, hogy ezt az utat becsatolták-e a Diószegi útba az átalakítás után mert itt most emlékeim szerint az új híd hosszabb lett és korlátokkal van biztosítva. Korábban becsatlakozott. / * 2023 December 6 13:55 nslxndr Resolved: Becsatlakozik, a híd korlátjának vége mellett fut közvetlenül, tehát hozzáférhető, a kerékpárút építése során az első néhány métere aszfaltot is kapott. Összekapcsoltam őket: https://www.openstreetmap.org/changeset/144829863</title>
-        <link>https://www.openstreetmap.org/note/4014713#c8744495</link>
-        <guid>https://www.openstreetmap.org/note/4014713#c8744495</guid>
-        <pubDate>Wed, 06 Dec 2023 13:55:08 +0000</pubDate>
-      </item><item>
-        <title>closed note 3767991 (near 4030, North Great Plain, 4030, Hungary) / * 2023 July 6 14:15 ssummoner1 Created: Az épület felújítás alatt áll! Szép lesz. https://civishir.hu/helyben-jaro/2022/12/megmenekul-debrecen-egyetlen-kastelya / * 2023 December 6 13:29 nslxndr Resolved: A felújításra van construction címke, ami korábban fel is került az épületre (néhány napja pedig lekerült róla, eszerint vélhetően be is fejeződött a felújítás) , így ezt a jegyzetet most már lezárom, mivel térképhiba nem áll fenn, a térkép megfelel a jelzett vagy aktuális állapotnak.</title>
-        <link>https://www.openstreetmap.org/note/3767991#c8744372</link>
-        <guid>https://www.openstreetmap.org/note/3767991#c8744372</guid>
-        <pubDate>Wed, 06 Dec 2023 13:29:57 +0000</pubDate>
-      </item><item>
-        <title>new note 4016273 (near 2541, Central Transdanubia, 2541, Hungary) / * 2023 December 5 18:02 László Senkár Created: Nincs a térképen szövegesen,hogy a Pisznice fokozottan védett terület. Belépés külön engedélyhez kötött.kérem aki tudja a hibát orvosolja.</title>
-        <link>https://www.openstreetmap.org/note/4016273#c8742459</link>
-        <guid>https://www.openstreetmap.org/note/4016273#c8742459</guid>
-        <pubDate>Tue, 05 Dec 2023 18:02:05 +0000</pubDate>
-      </item><item>
-        <title>new comment 3905944 (near 8174, Central Transdanubia, 8174, Hungary) / * 2023 September 24 12:42 vasony Created: Ez a Muskátli utca? / * 2023 November 11 12:06 vasony Updated: zsákutca a Muskátli,  itt van egy Szerviz utca tábla / * 2023 December 4 22:48 infeeeee Updated: Ez zárható? / * 2023 December 5 14:01 vasony Updated: maradjon, mert most vizsgálták felül az utcákat és új táblák lesznek 2024. jan végéig.  utána megnézem.</title>
-        <link>https://www.openstreetmap.org/note/3905944#c8741805</link>
-        <guid>https://www.openstreetmap.org/note/3905944#c8741805</guid>
-        <pubDate>Tue, 05 Dec 2023 14:01:48 +0000</pubDate>
-      </item><item>
-        <title>closed note 4015771 (near Csámpapuszta, Paks) / * 2023 December 5 13:57 bkil Resolved: </title>
-        <link>https://www.openstreetmap.org/note/4015771#c8741783</link>
-        <guid>https://www.openstreetmap.org/note/4015771#c8741783</guid>
-        <pubDate>Tue, 05 Dec 2023 13:57:00 +0000</pubDate>
-      </item><item>
-        <title>closed note 4008928 (near 7140, Southern Transdanubia, 7140, Hungary) / * 2023 November 30 06:45 Created: &amp;quot;nem találtam&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-11-13T21:29:23Z / POI name: Itldiszkont / POI types: wheelchair-no shop-convenience / #organicmaps android / * 2023 December 5 12:13 Spush Resolved: Megszűnt és a helyén szépségstúdió üzemel amit rögzítettem.</title>
-        <link>https://www.openstreetmap.org/note/4008928#c8741490</link>
-        <guid>https://www.openstreetmap.org/note/4008928#c8741490</guid>
-        <pubDate>Tue, 05 Dec 2023 12:13:56 +0000</pubDate>
-      </item><item>
-        <title>new note 4015771 (near Csámpapuszta, Paks) / * 2023 December 5 11:52 Created: Csámpa mp1</title>
-        <link>https://www.openstreetmap.org/note/4015771#c8741439</link>
-        <guid>https://www.openstreetmap.org/note/4015771#c8741439</guid>
-        <pubDate>Tue, 05 Dec 2023 11:52:39 +0000</pubDate>
       </item>
   </channel>
 </rss>
