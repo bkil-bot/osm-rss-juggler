@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: Faller Gyula Discussion Comment No.: 4 Comment: A második kommentedet sajnos nem értem :( Date: 2023-12-09T12:02:28+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/144765138</link>
+        <guid>https://www.openstreetmap.org/changeset/144765138#comment_4</guid>
+        <pubDate>2023-12-09T12:02:28+01:00</pubDate>
+      </item><item>
         <title>Contributor: gabro00 Discussion Comment No.: 1 Comment: Szia! Ha jól nézem a maxspeed:type kulcs a StreetComplete-ből származik, érdemes lehet a fejlesztőjének írni egy üzenetet, hogy itthon más a preferencia, különben újra meg fognak jelenni és szélmalomharc lesz :/ Date: 2023-12-09T09:31:34+01:00</title>
         <link>https://www.openstreetmap.org/changeset/144870503</link>
         <guid>https://www.openstreetmap.org/changeset/144870503#comment_1</guid>
@@ -63,11 +68,6 @@
         <guid>https://www.openstreetmap.org/changeset/125033584#comment_3</guid>
         <pubDate>2023-12-05T14:33:43+01:00</pubDate>
       </item><item>
-        <title>Contributor: Faller Gyula Discussion Comment No.: 3 Comment: Párhuzamosan szerkesztettünk, és nem vettük észre, hogy ütközni fogunk. Kiakasztó emiatt elveszteni rengeteg munkát! Ha észrevettem volna, hogy ütközés várható, elkerültem volna. Date: 2023-12-05T06:08:58+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/144765138</link>
-        <guid>https://www.openstreetmap.org/changeset/144765138#comment_3</guid>
-        <pubDate>2023-12-05T06:08:58+01:00</pubDate>
-      </item><item>
         <title>Contributor: Faller Gyula Discussion Comment No.: 3 Comment: Ja, már át is állítottad! Rendben! :) Date: 2023-12-05T06:02:45+01:00</title>
         <link>https://www.openstreetmap.org/changeset/144445331</link>
         <guid>https://www.openstreetmap.org/changeset/144445331#comment_3</guid>
@@ -82,11 +82,6 @@
         <link>https://www.openstreetmap.org/changeset/144612889</link>
         <guid>https://www.openstreetmap.org/changeset/144612889#comment_5</guid>
         <pubDate>2023-12-02T17:26:23+01:00</pubDate>
-      </item><item>
-        <title>Contributor: bkil Discussion Comment No.: 1 Comment: Do you speak Hungarian? This path was checked recently and still existed back then. It was marked as smoothness=horrible. Maybe it has poor visibility? I have reverted this until you respond. Date: 2023-12-02T11:41:44+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/144659392</link>
-        <guid>https://www.openstreetmap.org/changeset/144659392#comment_1</guid>
-        <pubDate>2023-12-02T11:41:44+01:00</pubDate>
       </item>
   </channel>
 </rss>
