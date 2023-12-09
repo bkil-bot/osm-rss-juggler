@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>OSMF AGM news: Unfortunately, we&amp;#39;ve found a bug in recording all OSMF membership renewals, so people who are entitled to vote might not have received their ballot yet. At the OSMF AGM later today, the members will be asked to postpone the GM for a week, until 15:00 UTC Saturday, 16th December 2023, to allow people to vote. More on this as it develops. read more: https://lists.openstreetmap.org/pipermail/osmf-talk/2023-December/008807.html https://community.openstreetmap.org/t/osmf-board-election-irregularities-in-sending-out-election-ballots/106827 #OpenStreetMap #OSM #OSMF</title>
+        <link>https://en.osm.town/@openstreetmap/111549537308420432</link>
+        <guid>https://en.osm.town/@openstreetmap/111549537308420432</guid>
+        <pubDate>Sat, 09 Dec 2023 08:34:19 +0000</pubDate>
+      </item><item>
         <title>Only 24 hours left to vote in the #OpenStreetMap Foundation AGM! https://wiki.openstreetmap.org/wiki/Foundation/AGM2023/Election_to_Board</title>
         <link>https://en.osm.town/@openstreetmap/111545627864911782</link>
         <guid>https://en.osm.town/@openstreetmap/111545627864911782</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/111289006968347346</link>
         <guid>https://en.osm.town/@openstreetmap/111289006968347346</guid>
         <pubDate>Tue, 24 Oct 2023 08:18:02 +0000</pubDate>
-      </item><item>
-        <title>And they&amp;#39;re off! 🏇! The #OpenStreetMap Foundation Board election in Dec. has 3 open seats, and 6 candidates. List of candidates: &amp;lt;https://wiki.openstreetmap.org/wiki/Foundation/AGM2023/Election_to_Board#List_of_board_candidates&amp;gt;</title>
-        <link>https://en.osm.town/@openstreetmap/111284075641336959</link>
-        <guid>https://en.osm.town/@openstreetmap/111284075641336959</guid>
-        <pubDate>Mon, 23 Oct 2023 11:23:56 +0000</pubDate>
       </item>
   </channel>
 </rss>
