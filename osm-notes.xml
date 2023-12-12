@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3827279 (near 8226, Central Transdanubia, 8226, Hungary) / * 2023 August 11 06:46 vasony-qa Created: ez itt milyen 24? / * 2023 December 12 13:04 urbalazs Resolved: 3 hónappal ezelőtt megoldva a bejelentő által.</title>
+        <link>https://www.openstreetmap.org/note/3827279#c8762475</link>
+        <guid>https://www.openstreetmap.org/note/3827279#c8762475</guid>
+        <pubDate>Tue, 12 Dec 2023 13:04:04 +0000</pubDate>
+      </item><item>
+        <title>closed note 4024506 (near 1054, Central Hungary, 1054, Hungary) / * 2023 December 12 12:50 infeeeee Resolved: No, this is the &amp;quot;B&amp;quot; akna, the &amp;quot;A&amp;quot; akna is already mapped: https://www.openstreetmap.org/way/1230582052</title>
+        <link>https://www.openstreetmap.org/note/4024506#c8762446</link>
+        <guid>https://www.openstreetmap.org/note/4024506#c8762446</guid>
+        <pubDate>Tue, 12 Dec 2023 12:50:15 +0000</pubDate>
+      </item><item>
         <title>new note 4024506 (near 1054, Central Hungary, 1054, Hungary) / * 2023 December 12 07:40 Tajtrdlik Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;Rákosi bunker A akna&amp;quot;.</title>
         <link>https://www.openstreetmap.org/note/4024506#c8761642</link>
         <guid>https://www.openstreetmap.org/note/4024506#c8761642</guid>
@@ -162,16 +172,6 @@
         <link>https://www.openstreetmap.org/note/2024235#c8755373</link>
         <guid>https://www.openstreetmap.org/note/2024235#c8755373</guid>
         <pubDate>Sun, 10 Dec 2023 00:50:08 +0000</pubDate>
-      </item><item>
-        <title>closed note 4017331 (near 8200, Central Transdanubia, 8200, Hungary) / * 2023 December 6 16:09 Created: &amp;quot;megszűnt&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-11-13T21:29:23Z / POI name: Zirci takarék / POI types: amenity-atm amenity-bank / #organicmaps android / * 2023 December 9 19:45 ironalloy Resolved: </title>
-        <link>https://www.openstreetmap.org/note/4017331#c8754925</link>
-        <guid>https://www.openstreetmap.org/note/4017331#c8754925</guid>
-        <pubDate>Sat, 09 Dec 2023 19:45:54 +0000</pubDate>
-      </item><item>
-        <title>closed note 4017332 (near 8200, Central Transdanubia, 8200, Hungary) / * 2023 December 6 16:09 Created: &amp;quot;megszűnt&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-11-13T21:29:23Z / POI name: Éjjel-nappali / POI types: shop-convenience / #organicmaps android / * 2023 December 9 19:45 ironalloy Resolved: </title>
-        <link>https://www.openstreetmap.org/note/4017332#c8754923</link>
-        <guid>https://www.openstreetmap.org/note/4017332#c8754923</guid>
-        <pubDate>Sat, 09 Dec 2023 19:45:39 +0000</pubDate>
       </item>
   </channel>
 </rss>
