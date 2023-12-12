@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3640286 (near 9422, Western Transdanubia, 9422, Hungary) / * 2023 April 13 07:15 efi99 Created: cím innentől jó? / * 2023 December 12 19:36 DusiNr1 Resolved: igen, ez a 25. szám</title>
+        <link>https://www.openstreetmap.org/note/3640286#c8763446</link>
+        <guid>https://www.openstreetmap.org/note/3640286#c8763446</guid>
+        <pubDate>Tue, 12 Dec 2023 19:36:10 +0000</pubDate>
+      </item><item>
+        <title>closed note 3444520 (near 1053, Central Hungary, 1053, Hungary) / * 2023 December 12 19:30 kogutowicz-mano Resolved: Ez maga a kézzelfogható valóság. Pontosan ennek van keresnivalója az OSM-ben. / Berajzoltam. Helyes attribútumokkal.</title>
+        <link>https://www.openstreetmap.org/note/3444520#c8763439</link>
+        <guid>https://www.openstreetmap.org/note/3444520#c8763439</guid>
+        <pubDate>Tue, 12 Dec 2023 19:30:49 +0000</pubDate>
+      </item><item>
+        <title>reactivated note 3444520 (near 1053, Central Hungary, 1053, Hungary) / * 2022 November 16 16:45 pihentagy Created: Unable to answer &amp;quot;What’s the height limit here?&amp;quot; for https://osm.org/node/4586674685 via StreetComplete 49.0: / Nem létezik itt parkolóház / * 2022 November 18 12:06 infeeeee Updated: Egy magán mélygarázs bejárata, amire a kérdés vonatkozik, nincs itt parkolóház jelölve. Ott van valami magassági korlátozás? Ezt kérdezi a kérdés. / * 2022 November 18 12:25 pihentagy Updated: Itt nincs semmilyen autóbejárat. / * 2022 November 18 12:37 infeeeee Updated: Magyar utca 36. egy új építésű irodaház, rákeresve az épületre, több fényképen  is azt látom, hogy van neki egy mélygarázs lejárata a jelölt helyen. Biztos nem keverted össze az épületeket? / * 2022 November 23 19:19 pihentagy Updated: Valóban van lejárat, én utat kerestem. Nincs tábla. Lőttem fényképet, de utólag már nem tudom itt csatolni. 😕 / * 2023 December 11 22:50 urbalazs Resolved: Megnéztem én is, ez valóban egy magán mélygarázs. A hozzá vezető szervizútnak nincs semmi keresnivalója az OSM-en. Töröltem, így többet nem fogja megkérdezni a StreetComplete. / * 2023 December 12 19:29 kogutowicz-mano Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/3444520#c8763437</link>
+        <guid>https://www.openstreetmap.org/note/3444520#c8763437</guid>
+        <pubDate>Tue, 12 Dec 2023 19:29:27 +0000</pubDate>
+      </item><item>
         <title>closed note 3827279 (near 8226, Central Transdanubia, 8226, Hungary) / * 2023 August 11 06:46 vasony-qa Created: ez itt milyen 24? / * 2023 December 12 13:04 urbalazs Resolved: 3 hónappal ezelőtt megoldva a bejelentő által.</title>
         <link>https://www.openstreetmap.org/note/3827279#c8762475</link>
         <guid>https://www.openstreetmap.org/note/3827279#c8762475</guid>
@@ -152,26 +167,6 @@
         <link>https://www.openstreetmap.org/note/4022223#c8756802</link>
         <guid>https://www.openstreetmap.org/note/4022223#c8756802</guid>
         <pubDate>Sun, 10 Dec 2023 13:40:14 +0000</pubDate>
-      </item><item>
-        <title>new comment 3823580 (near 9700, Western Transdanubia, 9700, Hungary) / * 2023 August 8 19:09 kogutowicz-mano Created: A körforgalom technikailag kész. A zebrák is felfestve. Már csak a járdákat farigcsálják mellette. / * 2023 September 7 17:19 Tuodom Resolved:  / * 2023 September 8 12:30 Spush Reactivated:  / * 2023 September 8 12:31 Spush Updated: Szintén gyanús, hogy ez így nem körforgalom. junction=roundabout nincs rajta / * 2023 December 10 11:34 tzakota Updated: kész van már teljesen</title>
-        <link>https://www.openstreetmap.org/note/3823580#c8756456</link>
-        <guid>https://www.openstreetmap.org/note/3823580#c8756456</guid>
-        <pubDate>Sun, 10 Dec 2023 11:34:02 +0000</pubDate>
-      </item><item>
-        <title>new note 4022061 (near 9200, Western Transdanubia, 9200, Hungary) / * 2023 December 10 11:32 tzakota Created: Márti borozó Ady Endre utca 24 / online forrás hitelesítéshez: / Potyondi Edina is megemlítette egyik videójában, hogy milyen pletyka kering róla itt / https://www.google.com/maps/place/M%C3%A1rti+Boroz%C3%B3/@47.8782258,17.2674964,17.75z/data=!4m6!3m5!1s0x476c77a8184e280f:0x49e8f0c7a854882!8m2!3d47.8782217!4d17.2686834!16s%2Fg%2F11jf50347g?entry=ttu / https://www.facebook.com/p/M%C3%A1rti-Boroz%C3%B3-100063545771756/?paipv=0&amp;amp;eav=Afbr8v06rMuRIjjLLVoWFnSymcpTCUvBZ7BwHb6FLMCrM8pwaJidQXPqZJ08kP3zRnA&amp;amp;_rdr</title>
-        <link>https://www.openstreetmap.org/note/4022061#c8756454</link>
-        <guid>https://www.openstreetmap.org/note/4022061#c8756454</guid>
-        <pubDate>Sun, 10 Dec 2023 11:32:23 +0000</pubDate>
-      </item><item>
-        <title>new comment 4020347 (near 1116, Central Hungary, 1116, Hungary) / * 2023 December 8 19:20 vasony Created: Beton helyett zöld. A gyalogutakat átalakították, felmérendő / * 2023 December 10 08:11 vasony Updated: a terület egy része még le van még zárva</title>
-        <link>https://www.openstreetmap.org/note/4020347#c8755856</link>
-        <guid>https://www.openstreetmap.org/note/4020347#c8755856</guid>
-        <pubDate>Sun, 10 Dec 2023 08:11:02 +0000</pubDate>
-      </item><item>
-        <title>closed note 2024235 (near 5500, South Great Plain, 5500, Hungary) / * 2019 December 12 20:30 Created: onosm.org submitted note from a business: / name: GAZDIBOLT KFT / phone: 06702755726 / website: facebook.com/gazdiboltgyoma / twitter: undefined / hours: Monday-Friday 8-18 / category: ,Accessories Stores / address: 5500 Gyomaendrőd / * 2023 December 10 00:50 Kiss_Karoly Resolved: Személyesen meggyőződtem róla. Az állateledel- és felszerelés bolt valóban létezik. Térképre vittem.</title>
-        <link>https://www.openstreetmap.org/note/2024235#c8755373</link>
-        <guid>https://www.openstreetmap.org/note/2024235#c8755373</guid>
-        <pubDate>Sun, 10 Dec 2023 00:50:08 +0000</pubDate>
       </item>
   </channel>
 </rss>
