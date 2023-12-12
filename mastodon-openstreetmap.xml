@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>Are you an OSM Foundation member (or assoc. member)? Have you received your election ballot? (If you&amp;#39;re entitled to vote). If not, please contact the OSMF MWG: membership@osmfoundation.org #OpenStreetMap #OSM #OSMF #OSMFoundation</title>
+        <link>https://en.osm.town/@openstreetmap/111566960317041805</link>
+        <guid>https://en.osm.town/@openstreetmap/111566960317041805</guid>
+        <pubDate>Tue, 12 Dec 2023 10:25:13 +0000</pubDate>
+      </item><item>
         <title>OSMF AGM news: Unfortunately, we&amp;#39;ve found a bug in recording all OSMF membership renewals, so people who are entitled to vote might not have received their ballot yet. At the OSMF AGM later today, the members will be asked to postpone the GM for a week, until 15:00 UTC Saturday, 16th December 2023, to allow people to vote. More on this as it develops. read more: https://lists.openstreetmap.org/pipermail/osmf-talk/2023-December/008807.html https://community.openstreetmap.org/t/osmf-board-election-irregularities-in-sending-out-election-ballots/106827 #OpenStreetMap #OSM #OSMF</title>
         <link>https://en.osm.town/@openstreetmap/111549537308420432</link>
         <guid>https://en.osm.town/@openstreetmap/111549537308420432</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/111296095908466107</link>
         <guid>https://en.osm.town/@openstreetmap/111296095908466107</guid>
         <pubDate>Wed, 25 Oct 2023 14:20:50 +0000</pubDate>
-      </item><item>
-        <title>The OpenStreetMap Foundation is a global organisation for the main OpenStreetMap IP, but the OSMF can&amp;#39;t do everything. Local Chapters are an important part of the OpenStreetMap project. Read more about how to become an OSMF Local Chapter: https://blog.openstreetmap.org/2023/10/12/local-chapters-what-to-know-and-how-to-join/ #OpenStreetMap #OSM</title>
-        <link>https://en.osm.town/@openstreetmap/111289006968347346</link>
-        <guid>https://en.osm.town/@openstreetmap/111289006968347346</guid>
-        <pubDate>Tue, 24 Oct 2023 08:18:02 +0000</pubDate>
       </item>
   </channel>
 </rss>
