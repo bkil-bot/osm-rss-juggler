@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: Balint Kardos Discussion Comment No.: 3 Comment: Helló, bocs a késésért - költöztünk épp ide a Pelikán Imre utcába, ami a valóságban a Makó Imre utca átnevezésével jött létre, és a Térey-re merőleges. https://i.imgur.com/D2fsv2a.jpeg - ez a Térey - Makó / Pelikán sarkon készült, ott van kitáblázva. Az Exif szerint innen fotóztam: 47°24'48.9&quot;N 19°00'05.2&quot;E 47.413575, 19.001442 @vasony a 229204 -helyrajzi számú hivatkozást honnan másoltad? az épületek alaprajzai hogy kerülnek fel a térképre? Date: 2023-12-12T14:44:10+01:00</title>
+        <title>Contributor: bkil Discussion Comment No.: 4 Comment: Légifelvételek alapján lehet a házakat körberajzolni. Pár évet várni kell építkezés után mire elérhető lesz. Vagy lézeres távolságmérő, teodolit, RTK GPS. Amíg az nincs, lehet becsülni nagyjából, hogy darabra meglegyen 1-1 négyzet, bár ekkor a building=yes node is elég az én szám íze szerint. Date: 2023-12-12T15:53:37+01:00</title>
         <link>https://www.openstreetmap.org/changeset/144686677</link>
-        <guid>https://www.openstreetmap.org/changeset/144686677#comment_3</guid>
-        <pubDate>2023-12-12T14:44:10+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/144686677#comment_4</guid>
+        <pubDate>2023-12-12T15:53:37+01:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Hello and welcome to Hungary! Bing imagery's offsets are huge in some places in Hungary, the maximum offset other editors found were around 15 meters. Please, if you edit from Bing imagery make sure the offset is set up correctly. The correct, georeferenced imagery is called &quot;FÖMI ortofotó 2007-2010&quot; available in all of Hungary. Thank you! Date: 2023-12-12T12:13:14+01:00</title>
         <link>https://www.openstreetmap.org/changeset/145001523</link>
