@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4026115 (near 9200, Western Transdanubia, 9200, Hungary) / * 2023 December 13 10:06 efi99 Created: cím jó?</title>
+        <link>https://www.openstreetmap.org/note/4026115#c8764856</link>
+        <guid>https://www.openstreetmap.org/note/4026115#c8764856</guid>
+        <pubDate>Wed, 13 Dec 2023 10:06:32 +0000</pubDate>
+      </item><item>
         <title>new note 4025884 (near 2120, Central Hungary, 2120, Hungary) / * 2023 December 13 06:38 andrew85 Created: Unable to answer &amp;quot;What’s the topic of this information board?&amp;quot; for https://osm.org/node/3593180791 via StreetComplete 55.1: / Hirdetés</title>
         <link>https://www.openstreetmap.org/note/4025884#c8764310</link>
         <guid>https://www.openstreetmap.org/note/4025884#c8764310</guid>
@@ -187,21 +192,6 @@
         <link>https://www.openstreetmap.org/note/4022822#c8758144</link>
         <guid>https://www.openstreetmap.org/note/4022822#c8758144</guid>
         <pubDate>Sun, 10 Dec 2023 21:57:11 +0000</pubDate>
-      </item><item>
-        <title>new comment 3879870 (near 1051, Central Hungary, 1051, Hungary) / * 2023 September 9 20:30 infeeeee Created: Jár még a Lánchíd átkelőhajó? / * 2023 December 10 20:58 balint36 Updated: Nem, a budapesti hajókból már csak a D14-es komp maradt meg.</title>
-        <link>https://www.openstreetmap.org/note/3879870#c8757951</link>
-        <guid>https://www.openstreetmap.org/note/3879870#c8757951</guid>
-        <pubDate>Sun, 10 Dec 2023 20:58:20 +0000</pubDate>
-      </item><item>
-        <title>new comment 3985576 (near 1055, Central Hungary, 1055, Hungary) / * 2023 November 13 09:38 Tajtrdlik Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;NO fountain here&amp;quot;. / https://www.openstreetmap.org/way/607766431 / * 2023 December 10 20:56 balint36 Updated: Gondolom a párásítót akarták így jelölni.</title>
-        <link>https://www.openstreetmap.org/note/3985576#c8757947</link>
-        <guid>https://www.openstreetmap.org/note/3985576#c8757947</guid>
-        <pubDate>Sun, 10 Dec 2023 20:56:06 +0000</pubDate>
-      </item><item>
-        <title>closed note 3986495 (near 1044, Central Hungary, 1044, Hungary) / * 2023 November 14 04:45 andrew85 Created: Unable to answer &amp;quot;What’s the height of the curbs at this crossing?&amp;quot; for https://osm.org/node/682211570 via StreetComplete 55.0: / Nem létezik. / * 2023 December 10 20:53 balint36 Resolved: törölve</title>
-        <link>https://www.openstreetmap.org/note/3986495#c8757941</link>
-        <guid>https://www.openstreetmap.org/note/3986495#c8757941</guid>
-        <pubDate>Sun, 10 Dec 2023 20:53:31 +0000</pubDate>
       </item>
   </channel>
 </rss>
