@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Today, we are unveiling chatmail services, making onboarding with #deltachat a breeze, with peace of mind. #chatmail marks a major milestone, answering the practical question of &amp;quot;where can i get a deltachat-ready account&amp;quot; for myself and friends? Read more on https://delta.chat/en/2023-12-13-chatmail</title>
+        <link>https://chaos.social/@delta/111574517097362272</link>
+        <guid>https://chaos.social/@delta/111574517097362272</guid>
+        <pubDate>Wed, 13 Dec 2023 18:27:01 +0000</pubDate>
+      </item><item>
         <title>Seems google/apple&amp;#39;s push notifications services are regularly queried by state authorities for obtaining user data -- see this german @netzpolitik_feed https://netzpolitik.org/2023/push-dienste-behoerden-fragen-apple-und-google-nach-nutzern-von-messenger-apps/ -- #deltachat only uses apple&amp;#39;s push notifications on iOS for &amp;quot;heartbeat&amp;quot; services -- to ensure the app can show messages for their user (and many users are asking for tighter integration). On Android, Desktop and #ubuntutouch platforms currently no push notifications are used or needed, also no heartbeat ones.</title>
         <link>https://chaos.social/@delta/111538544523935897</link>
         <guid>https://chaos.social/@delta/111538544523935897</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/110919460959334898</link>
         <guid>https://chaos.social/@delta/110919460959334898</guid>
         <pubDate>Sun, 20 Aug 2023 01:57:37 +0000</pubDate>
-      </item><item>
-        <title>1.40.0 should be delisted soon, but it takes some time between the PR (https://gitlab.com/fdroid/fdroiddata/-/merge_requests/13586) and app index at https://f-droid.org/en/packages/com.b44t.messenger/ update, more for 1.40.1 to be built.</title>
-        <link>https://chaos.social/@delta/110918087625661807</link>
-        <guid>https://chaos.social/@delta/110918087625661807</guid>
-        <pubDate>Sat, 19 Aug 2023 20:08:22 +0000</pubDate>
       </item>
   </channel>
 </rss>
