@@ -2,6 +2,11 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      
+      <item>
+        <title>Hungary/videok: PeerTube: update with peertube2wiki.sh -Bkil</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/videok&amp;diff=2631087&amp;oldid=2616281</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/videok&amp;diff=2631087</guid>
+        <pubDate>Thu, 14 Dec 2023 23:18:32 GMT</pubDate>
+      </item>
   </channel>
 </rss>
