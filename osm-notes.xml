@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment 2864058 (near 2638, Central Hungary, 2638, Hungary) / * 2021 September 22 11:26 vasony-qa Created: Ez itt biztos Rákóczi Ferenc utca? / * 2023 May 9 19:35 balint36 Updated: A KIRA szerint a Petőfi Sándor utca és a Kossuth utca közötti jelenleg névtelen utcának kéne lennie a Rákóczi utcának. / * 2023 December 13 16:50 balint36 Updated: Eljutottam végül ide is; és ez nem Rákóczi Ferenc utca. A sarki ház (https://www.openstreetmap.org/way/512683689) kerítésén szerepel az, hogy Fő út, lejjebb (https://www.openstreetmap.org/way/512683691) pedig Fő út 37. tábla van kint. / * 2023 December 14 16:01 vasony Updated: A másik utcát megnézted esetleg amit feljebb írtál?</title>
+        <link>https://www.openstreetmap.org/note/2864058#c8769054</link>
+        <guid>https://www.openstreetmap.org/note/2864058#c8769054</guid>
+        <pubDate>Thu, 14 Dec 2023 16:01:52 +0000</pubDate>
+      </item><item>
         <title>closed note 3991894 (near 2890, Central Transdanubia, 2890, Hungary) / * 2023 November 18 07:05 vasony-qa Created: Melyik közterület a Piac tér? / * 2023 December 14 12:39 urbalazs Resolved: Duplikált, már van itt egy ilyen jegyzet.</title>
         <link>https://www.openstreetmap.org/note/3991894#c8768426</link>
         <guid>https://www.openstreetmap.org/note/3991894#c8768426</guid>
@@ -162,11 +167,6 @@
         <link>https://www.openstreetmap.org/note/4024506#c8762446</link>
         <guid>https://www.openstreetmap.org/note/4024506#c8762446</guid>
         <pubDate>Tue, 12 Dec 2023 12:50:15 +0000</pubDate>
-      </item><item>
-        <title>new note 4024506 (near 1054, Central Hungary, 1054, Hungary) / * 2023 December 12 07:40 Tajtrdlik Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;Rákosi bunker A akna&amp;quot;.</title>
-        <link>https://www.openstreetmap.org/note/4024506#c8761642</link>
-        <guid>https://www.openstreetmap.org/note/4024506#c8761642</guid>
-        <pubDate>Tue, 12 Dec 2023 07:40:55 +0000</pubDate>
       </item>
   </channel>
 </rss>
