@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: Kádár Iván Discussion Comment No.: 11 Comment: Péter: JOSM távirányító link: https://pastebin.com/n4ZtHAcf Településlista: https://pastebin.com/buPYrJLg Semmi szűrést nem végeztem, csak a pozíció nem egyezik meg. Date: 2023-12-15T13:47:48+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/145063731</link>
+        <guid>https://www.openstreetmap.org/changeset/145063731#comment_11</guid>
+        <pubDate>2023-12-15T13:47:48+01:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Milyen táblák szerepelnek pontosan az út két végén? Ahogy eddig jelölve volt az se volt jó. Date: 2023-12-15T12:05:21+01:00</title>
         <link>https://www.openstreetmap.org/changeset/145140953</link>
         <guid>https://www.openstreetmap.org/changeset/145140953#comment_1</guid>
         <pubDate>2023-12-15T12:05:21+01:00</pubDate>
-      </item><item>
-        <title>Contributor: kogutowicz-mano Discussion Comment No.: 10 Comment: &gt; Tudatosan szoktam szerkeszteni, úgyhogy erre a sértésre inkább nem írok semmit. Mellesleg nem látok semmi sértést az eredeti felvetésben. Date: 2023-12-15T10:05:34+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/145063731</link>
-        <guid>https://www.openstreetmap.org/changeset/145063731#comment_10</guid>
-        <pubDate>2023-12-15T10:05:34+01:00</pubDate>
       </item><item>
         <title>Contributor: GeoLaci Discussion Comment No.: 2 Comment: Szia! Én is utána néztem, a wikipedia is úgy írja ahogy linkelted. Az általánosan elterjedt gyakorlat szerint jártam el, és azt látom hogy csak autópályák highway=motorway+highway=motorway_link és az autóutak esetében highway=trunk+highway=trunk_link címkézést alkalmazzák, illetve az úgynevezett “emelt szintű” főút ami lehet osztott és osztatlan pályás út, különszintű és szintebli kereszteződésekkel csatlakoznak más utakhoz. Ilyen a 21-es főút. Ezeknek az utaknak nincs külön saját címkéje ezért highway=primary+highway=primary_link címkéket alkalmazzák. ilyen még a számozatlan főutak highway=secondary_road címke használatos. Ez is egy furcsa helyzet mert KRESZ szerint az is főút. Date: 2023-12-15T06:36:49+01:00</title>
         <link>https://www.openstreetmap.org/changeset/145062867</link>
