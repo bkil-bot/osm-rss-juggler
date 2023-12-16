@@ -3,6 +3,61 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3969080 (near 1092, Central Hungary, 1092, Hungary) / * 2023 November 2 06:38 orthocircular Created: A user reported trouble navigating from Üllői út to Kálvin tér (westbound) via this intersection. I agree I can&amp;#39;t see a route in OSM for that, there are too many one-way paths in preventing travel in that direction. Can a local user double check this complex intersection? / * 2023 December 9 14:07 urbalazs Resolved: I fixed the intersection. It should be good now. / * 2023 December 13 14:35 infeeeee Reactivated:  / * 2023 December 13 14:36 infeeeee Updated: Needs an extra double check, sources are contradicting / * 2023 December 14 20:29 orthocircular Updated: Thanks for all your work! Local users appreciate it. / * 2023 December 16 18:19 infeeeee Resolved: I surveyed the intersection today: https://www.osm.org/changeset/145193082 / Your user was not right: currently you can only turn right from Üllői út, it&amp;#39;s forbidden to turn westbound, so the map was correct at the time of the creation of this note, now I reverted to the previous state, and made some other fixes.</title>
+        <link>https://www.openstreetmap.org/note/3969080#c8775320</link>
+        <guid>https://www.openstreetmap.org/note/3969080#c8775320</guid>
+        <pubDate>Sat, 16 Dec 2023 18:19:24 +0000</pubDate>
+      </item><item>
+        <title>closed note 2611059 (near 4211, North Great Plain, 4211, Hungary) / * 2021 April 6 11:27 vasony-qa Created: Melyik közterület a Széchenyi tér? / * 2023 December 16 18:16 nslxndr Resolved: Időközben megoldódott: https://www.openstreetmap.org/way/991323423</title>
+        <link>https://www.openstreetmap.org/note/2611059#c8775315</link>
+        <guid>https://www.openstreetmap.org/note/2611059#c8775315</guid>
+        <pubDate>Sat, 16 Dec 2023 18:16:48 +0000</pubDate>
+      </item><item>
+        <title>new note 4030774 (near 9200, Western Transdanubia, 9200, Hungary) / * 2023 December 16 18:10 efi99 Created: cím?</title>
+        <link>https://www.openstreetmap.org/note/4030774#c8775296</link>
+        <guid>https://www.openstreetmap.org/note/4030774#c8775296</guid>
+        <pubDate>Sat, 16 Dec 2023 18:10:46 +0000</pubDate>
+      </item><item>
+        <title>closed note 4020704 (near 8623, Southern Transdanubia, 8623, Hungary) / * 2023 December 9 06:02 kogutowicz-mano Created: Mi az utca pontos neve? / Az önkormányzat nem rakott ki táblát, a néhány feltüntetett házszámon pedig hol Camping, hol Kemping van. / * 2023 December 16 18:09 urbalazs Resolved: Kint van a tábla, Camping utca van rajta.</title>
+        <link>https://www.openstreetmap.org/note/4020704#c8775291</link>
+        <guid>https://www.openstreetmap.org/note/4020704#c8775291</guid>
+        <pubDate>Sat, 16 Dec 2023 18:09:23 +0000</pubDate>
+      </item><item>
+        <title>closed note 3982061 (near 8242, Central Transdanubia, 8242, Hungary) / * 2023 November 11 07:19 OSM KAMI Created: idén nem volt nyitva / via StreetComplete 55.0 / Attached photo(s): / https://westnordost.de/p/185848.jpg / * 2023 December 16 18:08 urbalazs Resolved: Duplikált</title>
+        <link>https://www.openstreetmap.org/note/3982061#c8775289</link>
+        <guid>https://www.openstreetmap.org/note/3982061#c8775289</guid>
+        <pubDate>Sat, 16 Dec 2023 18:08:24 +0000</pubDate>
+      </item><item>
+        <title>closed note 3894940 (near 8242, Central Transdanubia, 8242, Hungary) / * 2023 September 18 09:07 Matyjace Created: Forwarding anonymous report from #mapycz user, please verify: &amp;quot;closed&amp;quot; / * 2023 December 16 18:08 urbalazs Resolved: I set is as disused.</title>
+        <link>https://www.openstreetmap.org/note/3894940#c8775287</link>
+        <guid>https://www.openstreetmap.org/note/3894940#c8775287</guid>
+        <pubDate>Sat, 16 Dec 2023 18:08:08 +0000</pubDate>
+      </item><item>
+        <title>new comment 3541222 (near 4183, North Great Plain, 4183, Hungary) / * 2023 December 16 18:07 nslxndr Updated: My previous comment is a standard response as member of the Hungary Community in case of reporting missing map features. See our wiki page: https://wiki.openstreetmap.org/wiki/Hungary/T%C3%A9rk%C3%A9pjegyzetek-Bejelent%C3%A9sek / My personal opinion is same. This note is quite old and not resolved for a long time. It does not provide enough information for a map editor to add it to the map or fix it in the map (in contrast of mentioned street name, address, which can be added/fixed by editing). We are working hard on the improvement of the map, but our resources are limited. We are very welcomed your help for the adding of the missing map features. If you want, you can decide to add memorial indicating the source of information (optionally tagging with fixme=resurvey if unsure). Map notes are not for marking probably existing items, otherwise without awareness their count increases to an unmanageable amount.</title>
+        <link>https://www.openstreetmap.org/note/3541222#c8775286</link>
+        <guid>https://www.openstreetmap.org/note/3541222#c8775286</guid>
+        <pubDate>Sat, 16 Dec 2023 18:07:45 +0000</pubDate>
+      </item><item>
+        <title>new note 4030769 (near 9200, Western Transdanubia, 9200, Hungary) / * 2023 December 16 18:04 efi99 Created: cím jó?</title>
+        <link>https://www.openstreetmap.org/note/4030769#c8775281</link>
+        <guid>https://www.openstreetmap.org/note/4030769#c8775281</guid>
+        <pubDate>Sat, 16 Dec 2023 18:04:36 +0000</pubDate>
+      </item><item>
+        <title>closed note 3791214 (near Rigótanya, Aszófő) / * 2023 July 21 12:44 capsule_man Created: &amp;quot;Closed&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-07-10T17:38:00Z / POI name: Kerékpáros majdnem kemping / POI types: internet_access-wlan tourism-camp_site / #organicmaps / * 2023 December 16 18:03 urbalazs Resolved: 2 hónapja OSM-en is bezárt.</title>
+        <link>https://www.openstreetmap.org/note/3791214#c8775278</link>
+        <guid>https://www.openstreetmap.org/note/3791214#c8775278</guid>
+        <pubDate>Sat, 16 Dec 2023 18:03:21 +0000</pubDate>
+      </item><item>
+        <title>closed note 3969471 (near 8241, Central Transdanubia, 8241, Hungary) / * 2023 November 2 11:17 ironalloy Created: &amp;quot;nincs itt&amp;quot; / OSM snapshot date: 2023-10-09T16:37:32Z / POI name: Sétarepülés / POI types: tourism-attraction / #organicmaps android / * 2023 December 16 18:02 urbalazs Resolved: Benne van a leírásban, hogy szezonális. Nyilván októberben nincs ott, csak nyáron érhető el.</title>
+        <link>https://www.openstreetmap.org/note/3969471#c8775275</link>
+        <guid>https://www.openstreetmap.org/note/3969471#c8775275</guid>
+        <pubDate>Sat, 16 Dec 2023 18:02:41 +0000</pubDate>
+      </item><item>
+        <title>new comment 3541222 (near 4183, North Great Plain, 4183, Hungary) / * 2023 December 16 18:01 bkil Updated: In this specific case, as described above, we had to consider the given information null for legal reasons. If you have no further information from a source we are allowed to use, we should either resurvey this or close the note.</title>
+        <link>https://www.openstreetmap.org/note/3541222#c8775270</link>
+        <guid>https://www.openstreetmap.org/note/3541222#c8775270</guid>
+        <pubDate>Sat, 16 Dec 2023 18:01:57 +0000</pubDate>
+      </item><item>
         <title>new comment 3541222 (near 4183, North Great Plain, 4183, Hungary) / * 2023 December 16 17:04 ivanbranco Updated: Though notes are not only to report map defects? / &amp;quot;Use this feature to report an error in the data or to give some additional information, for instance the name of a street or an address etc.&amp;quot; / I think this note is part of the &amp;quot;give additional information&amp;quot;, the information being that there&amp;#39;s probably a memorial to be added. Don&amp;#39;t you agree?</title>
         <link>https://www.openstreetmap.org/note/3541222#c8775048</link>
         <guid>https://www.openstreetmap.org/note/3541222#c8775048</guid>
@@ -252,61 +307,6 @@
         <link>https://www.openstreetmap.org/note/3653013#c8770218</link>
         <guid>https://www.openstreetmap.org/note/3653013#c8770218</guid>
         <pubDate>Fri, 15 Dec 2023 01:13:18 +0000</pubDate>
-      </item><item>
-        <title>closed note 1887392 (near 2700, Central Hungary, 2700, Hungary) / * 2019 August 16 19:28 gabro00 Created: Ez nem ilyen kiskertes rész? (landuse=allotments) / * 2023 December 15 01:02 infeeeee Resolved: Azóta úgy is lett jelölve: https://www.openstreetmap.org/relation/16261326</title>
-        <link>https://www.openstreetmap.org/note/1887392#c8770216</link>
-        <guid>https://www.openstreetmap.org/note/1887392#c8770216</guid>
-        <pubDate>Fri, 15 Dec 2023 01:02:39 +0000</pubDate>
-      </item><item>
-        <title>closed note 2164676 (near Nyulak-tanya, Kustánszeg) / * 2020 April 19 09:18 Created: Gombászó hely / * 2023 December 15 00:55 infeeeee Resolved: Ez nem felel meg a helyszínen való ellenőrizhetőség követelményének, ezért nem szerepelhet a térképen: https://wiki.openstreetmap.org/wiki/Verifiability</title>
-        <link>https://www.openstreetmap.org/note/2164676#c8770214</link>
-        <guid>https://www.openstreetmap.org/note/2164676#c8770214</guid>
-        <pubDate>Fri, 15 Dec 2023 00:55:43 +0000</pubDate>
-      </item><item>
-        <title>closed note 2152751 (near 9922, Western Transdanubia, 9922, Hungary) / * 2020 April 8 18:47 Orsós Sándor Created: Régi vasútvonal feletti völgyhíd. / * 2023 December 15 00:52 infeeeee Resolved: Azóta felkerült: https://www.openstreetmap.org/way/1053645191</title>
-        <link>https://www.openstreetmap.org/note/2152751#c8770213</link>
-        <guid>https://www.openstreetmap.org/note/2152751#c8770213</guid>
-        <pubDate>Fri, 15 Dec 2023 00:52:57 +0000</pubDate>
-      </item><item>
-        <title>closed note 3588301 (near 8300, Central Transdanubia, 8300, Hungary) / * 2023 March 7 09:59 jf_simon Created: here are overlapping streets. See josm errors. / * 2023 December 15 00:48 infeeeee Resolved: I think this was already fixed</title>
-        <link>https://www.openstreetmap.org/note/3588301#c8770210</link>
-        <guid>https://www.openstreetmap.org/note/3588301#c8770210</guid>
-        <pubDate>Fri, 15 Dec 2023 00:48:15 +0000</pubDate>
-      </item><item>
-        <title>closed note 3275275 (near 8445, Central Transdanubia, 8445, Hungary) / * 2022 July 20 10:16 Misiiiiiii Created: Between these points a road is missing / * 2023 December 15 00:39 infeeeee Resolved: Added, based on Strava Heatmap: https://www.osm.org/changeset/145131729</title>
-        <link>https://www.openstreetmap.org/note/3275275#c8770198</link>
-        <guid>https://www.openstreetmap.org/note/3275275#c8770198</guid>
-        <pubDate>Fri, 15 Dec 2023 00:39:47 +0000</pubDate>
-      </item><item>
-        <title>closed note 3275287 (near 8445, Central Transdanubia, 8445, Hungary) / * 2022 July 20 10:21 Misiiiiiii Created: Between these points a road is missing / * 2023 December 15 00:39 infeeeee Resolved: Added, based on Strava Heatmap: https://www.osm.org/changeset/145131729</title>
-        <link>https://www.openstreetmap.org/note/3275287#c8770197</link>
-        <guid>https://www.openstreetmap.org/note/3275287#c8770197</guid>
-        <pubDate>Fri, 15 Dec 2023 00:39:43 +0000</pubDate>
-      </item><item>
-        <title>closed note 3275316 (near 8445, Central Transdanubia, 8445, Hungary) / * 2022 July 20 10:49 Misiiiiiii Created: Between these points a road is missing / * 2023 December 15 00:39 infeeeee Resolved: Added, based on Strava Heatmap: https://www.osm.org/changeset/145131729</title>
-        <link>https://www.openstreetmap.org/note/3275316#c8770196</link>
-        <guid>https://www.openstreetmap.org/note/3275316#c8770196</guid>
-        <pubDate>Fri, 15 Dec 2023 00:39:38 +0000</pubDate>
-      </item><item>
-        <title>closed note 3275288 (near 8445, Central Transdanubia, 8445, Hungary) / * 2022 July 20 10:22 Misiiiiiii Created: Between these points a road is missing / * 2023 December 15 00:39 infeeeee Resolved: Added, based on Strava Heatmap: https://www.osm.org/changeset/145131729</title>
-        <link>https://www.openstreetmap.org/note/3275288#c8770195</link>
-        <guid>https://www.openstreetmap.org/note/3275288#c8770195</guid>
-        <pubDate>Fri, 15 Dec 2023 00:39:34 +0000</pubDate>
-      </item><item>
-        <title>closed note 3275290 (near 8445, Central Transdanubia, 8445, Hungary) / * 2022 July 20 10:23 Misiiiiiii Created: Between these points a road is missing / * 2022 July 20 10:23 Misiiiiiii Resolved:  / * 2022 July 20 10:23 Misiiiiiii Reactivated:  / * 2023 December 15 00:39 infeeeee Resolved: Added, based on Strava Heatmap: https://www.osm.org/changeset/145131729</title>
-        <link>https://www.openstreetmap.org/note/3275290#c8770194</link>
-        <guid>https://www.openstreetmap.org/note/3275290#c8770194</guid>
-        <pubDate>Fri, 15 Dec 2023 00:39:30 +0000</pubDate>
-      </item><item>
-        <title>closed note 2675999 (near Erdészlak, Márkó) / * 2021 May 19 18:09 kogutowicz-mano Created: Ez nem &amp;quot;park&amp;quot;. / Kellene neki valami jó besorolás. / (Mellesleg &amp;quot;Hajag Vidéki...&amp;quot;.) / * 2023 December 15 00:34 infeeeee Resolved: Szerintem így jó lesz: https://www.openstreetmap.org/changeset/145131687</title>
-        <link>https://www.openstreetmap.org/note/2675999#c8770191</link>
-        <guid>https://www.openstreetmap.org/note/2675999#c8770191</guid>
-        <pubDate>Fri, 15 Dec 2023 00:34:04 +0000</pubDate>
-      </item><item>
-        <title>closed note 3756814 (near 6000, South Great Plain, 6000, Hungary) / * 2023 June 29 10:22 ssummoner1 Created: Ez a körforgalom és az utak elkészültek már? Mert, ha nem akkor érdemes lenne proposed-ra állítani. / * 2023 July 2 19:09 akos1 Updated: Már kész vannak / * 2023 December 15 00:19 infeeeee Resolved: Akkor ezzel nincs tennivaló.</title>
-        <link>https://www.openstreetmap.org/note/3756814#c8770175</link>
-        <guid>https://www.openstreetmap.org/note/3756814#c8770175</guid>
-        <pubDate>Fri, 15 Dec 2023 00:19:54 +0000</pubDate>
       </item>
   </channel>
 </rss>
