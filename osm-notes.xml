@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3879870 (near 1051, Central Hungary, 1051, Hungary) / * 2023 September 9 20:30 infeeeee Created: Jár még a Lánchíd átkelőhajó? / * 2023 December 10 20:58 balint36 Updated: Nem, a budapesti hajókból már csak a D14-es komp maradt meg. / * 2023 December 17 22:15 infeeeee Resolved: Túloldali stég megmaradt, de az Európa rendezvényhajó van ott kikötve, az útvonalat disused-ra raktam. https://www.openstreetmap.org/changeset/145230737</title>
+        <link>https://www.openstreetmap.org/note/3879870#c8779005</link>
+        <guid>https://www.openstreetmap.org/note/3879870#c8779005</guid>
+        <pubDate>Sun, 17 Dec 2023 22:15:22 +0000</pubDate>
+      </item><item>
+        <title>closed note 3901607 (near 1011, Central Hungary, 1011, Hungary) / * 2023 September 21 22:39 freebeer Created: what is the signed name of this and where, or does this refer to nearby boutique hotel victoria b&amp;#39;pest? / * 2023 December 17 22:12 infeeeee Resolved: Surveyed the area, couldn&amp;#39;t find it, deleted: https://www.openstreetmap.org/changeset/145230737</title>
+        <link>https://www.openstreetmap.org/note/3901607#c8778998</link>
+        <guid>https://www.openstreetmap.org/note/3901607#c8778998</guid>
+        <pubDate>Sun, 17 Dec 2023 22:12:46 +0000</pubDate>
+      </item><item>
+        <title>closed note 4004345 (near 1011, Central Hungary, 1011, Hungary) / * 2023 November 26 14:34 Created: onosm.org submitted note from a business: / Name: Venus Health Club / addr:housenumber=10 / addr:street=Fő utca / addr:city=Budapest / addr:postcode=1011 / Category: Fitness &amp;amp; Instruction / Accepted payment methods: / takeaway=no / * 2023 December 17 22:11 infeeeee Resolved: Felvittem: https://www.openstreetmap.org/changeset/145230737</title>
+        <link>https://www.openstreetmap.org/note/4004345#c8778995</link>
+        <guid>https://www.openstreetmap.org/note/4004345#c8778995</guid>
+        <pubDate>Sun, 17 Dec 2023 22:11:18 +0000</pubDate>
+      </item><item>
         <title>new note 4032043 (near 1121, Central Hungary, 1121, Hungary) / * 2023 December 17 20:55 Created: The tree is gone. :(</title>
         <link>https://www.openstreetmap.org/note/4032043#c8778776</link>
         <guid>https://www.openstreetmap.org/note/4032043#c8778776</guid>
@@ -337,11 +352,6 @@
         <link>https://www.openstreetmap.org/note/4029374#c8772338</link>
         <guid>https://www.openstreetmap.org/note/4029374#c8772338</guid>
         <pubDate>Fri, 15 Dec 2023 19:14:41 +0000</pubDate>
-      </item><item>
-        <title>new note 4029371 (near 7624, Southern Transdanubia, 7624, Hungary) / * 2023 December 15 19:09 Created: &amp;quot;elköltözött&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-11-13T21:29:23Z / POI name: Bőr-, Nemikórtani és Onkodermatológiai Klinika / POI types: amenity-hospital / #organicmaps ios</title>
-        <link>https://www.openstreetmap.org/note/4029371#c8772329</link>
-        <guid>https://www.openstreetmap.org/note/4029371#c8772329</guid>
-        <pubDate>Fri, 15 Dec 2023 19:09:34 +0000</pubDate>
       </item>
   </channel>
 </rss>

@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: nslxndr Discussion Comment No.: 5 Comment: Az Overpass Turbo link már előremutató hozzáállásról tanúskodik, akkor remélhetőleg megtaláltuk a közös hangot. Ha úgy látod, hogy sokak számára nem nyilvánvaló a wiki állítása, tömeges átcímkézés előtt érdemes lehet megfontolni egy rövid kérdést a közösség valamely elérhetőségén (levlista vagy Matrix szoba), hogy mi áll a wikiben a highway link oldalakon és mi a pillanatnyi állapot illetve a tervezett változtatás. Azon túl, hogy ha potenciálisan többekhez eljut és csökken a visszaszerkesztések száma, ezzel elejét veheted a későbbi vitáknak vagy csak elég lesz rá hivatkozni. Date: 2023-12-17T21:39:24+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/139996716</link>
+        <guid>https://www.openstreetmap.org/changeset/139996716#comment_5</guid>
+        <pubDate>2023-12-17T21:39:24+01:00</pubDate>
+      </item><item>
         <title>Contributor: ITineris Discussion Comment No.: 4 Comment: Nekem ezzel a változáscsomagoddal az a problémám, miért szedted le a 35-ös számozást a 35-ös főút 4-es és 33-as (Szoboszlói út és Füredi út) közötti részéről, valamint miért soroltad vissza tertiary-nak. https://www.google.hu/maps/@47.5248396,21.6183775,3a,75y,320.16h,80.79t/data=!3m6!1e1!3m4!1sZY0XCYGf7j0QFex5P8T_jw!2e0!7i16384!8i8192?entry=ttu Ha esetleg a KIRÁt használnád referenciának, nem árt tudnod azt az apróságot, hogy a Magyar Közút csak a lakott területeken kívül kezelője az utaknak, azaz a városon belüli szakaszok nem feltétlenül vannak meg az ő térképükön. Tehát attól még, hogy náluk nem lila, lehet valami számozott, országos főút része. És végül: Ugyan leszedted a számozást a Böszörményi utcáról, de a 35-ös főút kapcsolatában https://www.openstreetmap.org/relation/51851 benne hagytad. Remélem, a fentiekből egyértelmű, miért állítom vissza a módosításaidat. Üdv: Ákos Date: 2023-12-17T19:59:56+01:00</title>
         <link>https://www.openstreetmap.org/changeset/145062867</link>
         <guid>https://www.openstreetmap.org/changeset/145062867#comment_4</guid>
         <pubDate>2023-12-17T19:59:56+01:00</pubDate>
-      </item><item>
-        <title>Contributor: NightH Discussion Comment No.: 3 Comment: Segítségképpen itt van egy overpass-turbo lekérdezés, ami listázza az összes olyan pontot, ahol highway=primary és highway=secondary_link/tertiary_link vonalaknak van közös node-ja: https://overpass-turbo.eu/s/1EVf Jelenleg 381 pont, nem egy nagy szám, ha lesz érkezésem, akkor végignyálazom. Addig más előtt is nyitva van a lehetőség a javításra. Date: 2023-12-17T19:47:56+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/139996716</link>
-        <guid>https://www.openstreetmap.org/changeset/139996716#comment_3</guid>
-        <pubDate>2023-12-17T19:47:56+01:00</pubDate>
       </item><item>
         <title>Contributor: ITineris Discussion Comment No.: 1 Comment: Szia! A Graphisoft parkba felszórt ötezer cégnek nem kellene az addr:*-jait is kitölteni az őket tartalmazó épületből? Üdv: Ákos Date: 2023-12-17T08:19:32+01:00</title>
         <link>https://www.openstreetmap.org/changeset/112907515</link>
