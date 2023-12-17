@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>Learn Overpass through fun interactive exercises. From beginner to established developer, learn how to utilize the Overpass API and query language. https://osmlab.github.io/learnoverpass//en/ #OpenStreetMap #OverpassTurbo #LearnOverpass @openstreetmap</title>
+        <link>https://en.osm.town/@Doudouosm/111596049579752579</link>
+        <guid>https://en.osm.town/@Doudouosm/111596049579752579</guid>
+        <pubDate>Sun, 17 Dec 2023 13:43:00 +0000</pubDate>
+      </item><item>
         <title>Some work for the OpenStreetMap community in 2024… 😀🚰 “Free drinking water soon available in Belgium&amp;#39;s 100 largest train stations”: https://www.brusselstimes.com/belgium/810782/free-drinking-water-soon-available-in-belgiums-100-largest-train-stations-tbtb So, how would you tag this ? amenity=drinking_water fountain=bottle_refill access=yes wheelchair=yes fee=no operator=NMBS/SNCB #OpenStreetMap #Belgium #water #SNCB #NMBS cc: @openstreetmap</title>
         <link>https://en.osm.town/@Doudouosm/111466407883691108</link>
         <guid>https://en.osm.town/@Doudouosm/111466407883691108</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/110278486747184296</link>
         <guid>https://en.osm.town/@Doudouosm/110278486747184296</guid>
         <pubDate>Fri, 28 Apr 2023 21:09:27 +0000</pubDate>
-      </item><item>
-        <title>A nice collection of free resources to learn #GIS (geographic information system) with #MOOC, self-guided learning, university courses, and more. https://www.gislounge.com/learn-gis-for-free/ #GISLounge</title>
-        <link>https://en.osm.town/@Doudouosm/110085233991959514</link>
-        <guid>https://en.osm.town/@Doudouosm/110085233991959514</guid>
-        <pubDate>Sat, 25 Mar 2023 18:02:44 +0000</pubDate>
       </item>
   </channel>
 </rss>
