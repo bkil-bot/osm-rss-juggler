@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: NightH Discussion Comment No.: 2 Comment: Szia! Nem igaz, hogy az említett útszakaszt primary_link-ből átállítottam volna tertiary_link-re, ezt könnyen lehet ellenőrizni is: https://www.openstreetmap.org/way/168280963/history A changeset lényege az volt, hogy rendbe rakjam a Pécset ötletszerűen secondary-ba sorolt utakat és a helyükre kerüljenek, mint tertiary. Ennek megfelelően kerültek a secondary_linkek tertiary_link kategóriába. Igen, valóban javíthattam volna a hibás secondary_linkeket primary_link-re, de feltételeztem, hogy azok helyesek voltak. Legközelebb majd erre is figyelek, köszönöm a hosszas leírást. Megkérdezhetem, hogy az említett, 11 éve hibásan szereplő útszakasz összes szerkesztőjének megírtad ezt az észrevételedet, vagy csak nekem, az utolsó szerkesztőnek? Lehet a többiek is értékelnék a hasznos tudnivalókat. Date: 2023-12-17T11:52:30+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/139996716</link>
+        <guid>https://www.openstreetmap.org/changeset/139996716#comment_2</guid>
+        <pubDate>2023-12-17T11:52:30+01:00</pubDate>
+      </item><item>
         <title>Contributor: ITineris Discussion Comment No.: 1 Comment: Szia! A Graphisoft parkba felszórt ötezer cégnek nem kellene az addr:*-jait is kitölteni az őket tartalmazó épületből? Üdv: Ákos Date: 2023-12-17T08:19:32+01:00</title>
         <link>https://www.openstreetmap.org/changeset/112907515</link>
         <guid>https://www.openstreetmap.org/changeset/112907515#comment_1</guid>
@@ -12,11 +17,6 @@
         <link>https://www.openstreetmap.org/changeset/145201074</link>
         <guid>https://www.openstreetmap.org/changeset/145201074#comment_1</guid>
         <pubDate>2023-12-17T04:54:28+01:00</pubDate>
-      </item><item>
-        <title>Contributor: nslxndr Discussion Comment No.: 1 Comment: Szia! A nemzetközi wiki szerint egy olyan út között, ami highway=primary és egy olyan út között, ami highway=tertiary, a highway link highway=primary_link kellene legyen. Ez így konkrétan le van írva a highway=primary_link wiki oldalán, illetve a https://wiki.openstreetmap.org/wiki/Highway_link gyűjtő oldal és minden konkrét _link oldala is írja, hogy a két összekötött út közül a magasabb osztályú szerinti link alkalmazandó. Az 168280963 azonosítójú út kapcsán vettem észre (de valószínűleg több másik is érintett), hogy a primary_link helyett átsoroltad tertiary_link értékűre. Ez csak véletlenül, tévedésből sikerült így, vagy érhető el esetleg olyan magyar vonatkozású wiki oldal, ami a nemzetközivel szembemenő gyakorlatot fogalmaz meg? Látom ugyan a changeset kommentben említett forrást, de azon túl, hogy a használata vitatott, nem vagyok róla meggyőződve, hogy ha ott valamiként be is vannak osztályozva ezek az ún. önálló kanyarodósávok, az felülírja a nemzetközi OSM irányelvet, hacsak nem született valamiféle magyar közösségi konszenzus, aminek eredménye összegezve bekerült legalább a magyar wikibe. (Hiszen úgy lesz hivatkozható, mindenki által fellelhető, egységesen értelmezett, és következetesen eldönthető, hogy mikor és miért járunk el másként. Különben pl. az adatbázis felhasználó szoftverek fejlesztői sem tudhatják, hogy mifelénk más a módi.) Date: 2023-12-16T20:53:17+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/139996716</link>
-        <guid>https://www.openstreetmap.org/changeset/139996716#comment_1</guid>
-        <pubDate>2023-12-16T20:53:17+01:00</pubDate>
       </item><item>
         <title>Contributor: Hungarian_user Discussion Comment No.: 3 Comment: Azt hittem elfelejtetted áthelyezni a településnevet, hogy egy útra essen. Ezek szerint nincs is ilyen szabály? Date: 2023-12-16T05:27:29+01:00</title>
         <link>https://www.openstreetmap.org/changeset/145124890</link>
