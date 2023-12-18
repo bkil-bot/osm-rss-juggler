@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4032670 (near 3395, Hungary) / * 2023 December 18 11:11 Matyjace Created: Forwarding anonymous report from #mapycz user, please verify: &amp;quot;via ferrata&amp;quot;</title>
+        <link>https://www.openstreetmap.org/note/4032670#c8780225</link>
+        <guid>https://www.openstreetmap.org/note/4032670#c8780225</guid>
+        <pubDate>Mon, 18 Dec 2023 11:11:17 +0000</pubDate>
+      </item><item>
+        <title>new note 4032661 (near 2120, Central Hungary, 2120, Hungary) / * 2023 December 18 11:05 utvonalfelmeresek Created: otp + atm</title>
+        <link>https://www.openstreetmap.org/note/4032661#c8780212</link>
+        <guid>https://www.openstreetmap.org/note/4032661#c8780212</guid>
+        <pubDate>Mon, 18 Dec 2023 11:05:22 +0000</pubDate>
+      </item><item>
+        <title>closed note 3677232 (near 9200, Western Transdanubia, 9200, Hungary) / * 2023 May 6 14:58 vasony-qa Created: Dr. Gyárfás utca vagy Gyárfás József utca szerepel az utcatáblán? / * 2023 December 18 10:34 efi99 Resolved: Dr. Gyárfás utca</title>
+        <link>https://www.openstreetmap.org/note/3677232#c8780120</link>
+        <guid>https://www.openstreetmap.org/note/3677232#c8780120</guid>
+        <pubDate>Mon, 18 Dec 2023 10:34:31 +0000</pubDate>
+      </item><item>
         <title>new note 4032592 (near 9200, Western Transdanubia, 9200, Hungary) / * 2023 December 18 10:20 efi99 Created: cím?</title>
         <link>https://www.openstreetmap.org/note/4032592#c8780069</link>
         <guid>https://www.openstreetmap.org/note/4032592#c8780069</guid>
@@ -277,66 +292,6 @@
         <link>https://www.openstreetmap.org/note/3894940#c8775287</link>
         <guid>https://www.openstreetmap.org/note/3894940#c8775287</guid>
         <pubDate>Sat, 16 Dec 2023 18:08:08 +0000</pubDate>
-      </item><item>
-        <title>new comment 3541222 (near 4183, North Great Plain, 4183, Hungary) / * 2023 December 16 18:07 nslxndr Updated: My previous comment is a standard response as member of the Hungary Community in case of reporting missing map features. See our wiki page: https://wiki.openstreetmap.org/wiki/Hungary/T%C3%A9rk%C3%A9pjegyzetek-Bejelent%C3%A9sek / My personal opinion is same. This note is quite old and not resolved for a long time. It does not provide enough information for a map editor to add it to the map or fix it in the map (in contrast of mentioned street name, address, which can be added/fixed by editing). We are working hard on the improvement of the map, but our resources are limited. We are very welcomed your help for the adding of the missing map features. If you want, you can decide to add memorial indicating the source of information (optionally tagging with fixme=resurvey if unsure). Map notes are not for marking probably existing items, otherwise without awareness their count increases to an unmanageable amount.</title>
-        <link>https://www.openstreetmap.org/note/3541222#c8775286</link>
-        <guid>https://www.openstreetmap.org/note/3541222#c8775286</guid>
-        <pubDate>Sat, 16 Dec 2023 18:07:45 +0000</pubDate>
-      </item><item>
-        <title>new note 4030769 (near 9200, Western Transdanubia, 9200, Hungary) / * 2023 December 16 18:04 efi99 Created: cím jó?</title>
-        <link>https://www.openstreetmap.org/note/4030769#c8775281</link>
-        <guid>https://www.openstreetmap.org/note/4030769#c8775281</guid>
-        <pubDate>Sat, 16 Dec 2023 18:04:36 +0000</pubDate>
-      </item><item>
-        <title>closed note 3791214 (near Rigótanya, Aszófő) / * 2023 July 21 12:44 capsule_man Created: &amp;quot;Closed&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-07-10T17:38:00Z / POI name: Kerékpáros majdnem kemping / POI types: internet_access-wlan tourism-camp_site / #organicmaps / * 2023 December 16 18:03 urbalazs Resolved: 2 hónapja OSM-en is bezárt.</title>
-        <link>https://www.openstreetmap.org/note/3791214#c8775278</link>
-        <guid>https://www.openstreetmap.org/note/3791214#c8775278</guid>
-        <pubDate>Sat, 16 Dec 2023 18:03:21 +0000</pubDate>
-      </item><item>
-        <title>closed note 3969471 (near 8241, Central Transdanubia, 8241, Hungary) / * 2023 November 2 11:17 ironalloy Created: &amp;quot;nincs itt&amp;quot; / OSM snapshot date: 2023-10-09T16:37:32Z / POI name: Sétarepülés / POI types: tourism-attraction / #organicmaps android / * 2023 December 16 18:02 urbalazs Resolved: Benne van a leírásban, hogy szezonális. Nyilván októberben nincs ott, csak nyáron érhető el.</title>
-        <link>https://www.openstreetmap.org/note/3969471#c8775275</link>
-        <guid>https://www.openstreetmap.org/note/3969471#c8775275</guid>
-        <pubDate>Sat, 16 Dec 2023 18:02:41 +0000</pubDate>
-      </item><item>
-        <title>new comment 3541222 (near 4183, North Great Plain, 4183, Hungary) / * 2023 December 16 18:01 bkil Updated: In this specific case, as described above, we had to consider the given information null for legal reasons. If you have no further information from a source we are allowed to use, we should either resurvey this or close the note.</title>
-        <link>https://www.openstreetmap.org/note/3541222#c8775270</link>
-        <guid>https://www.openstreetmap.org/note/3541222#c8775270</guid>
-        <pubDate>Sat, 16 Dec 2023 18:01:57 +0000</pubDate>
-      </item><item>
-        <title>new comment 3541222 (near 4183, North Great Plain, 4183, Hungary) / * 2023 December 16 17:04 ivanbranco Updated: Though notes are not only to report map defects? / &amp;quot;Use this feature to report an error in the data or to give some additional information, for instance the name of a street or an address etc.&amp;quot; / I think this note is part of the &amp;quot;give additional information&amp;quot;, the information being that there&amp;#39;s probably a memorial to be added. Don&amp;#39;t you agree?</title>
-        <link>https://www.openstreetmap.org/note/3541222#c8775048</link>
-        <guid>https://www.openstreetmap.org/note/3541222#c8775048</guid>
-        <pubDate>Sat, 16 Dec 2023 17:04:17 +0000</pubDate>
-      </item><item>
-        <title>reactivated note 3541222 (near 4183, North Great Plain, 4183, Hungary) / * 2023 December 16 17:02 ivanbranco Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/3541222#c8775046</link>
-        <guid>https://www.openstreetmap.org/note/3541222#c8775046</guid>
-        <pubDate>Sat, 16 Dec 2023 17:02:46 +0000</pubDate>
-      </item><item>
-        <title>closed note 3541222 (near 4183, North Great Plain, 4183, Hungary) / * 2023 February 1 21:13 ivanbranco Created: https://commons.wikimedia.org/wiki/File:Kaba_hull%C3%A1s-hely(1)(1).jpg / commons says there&amp;#39;s a stone memorial around here, could someone verify it? / * 2023 April 13 12:12 Megya Updated: Yes, it is there.  You can see it in this Google Street photo in the centre: https://www.google.com/maps/@47.3792995,21.2766447,3a,15y,0.15h,89.6t/data=!3m6!1e1!3m4!1sdLHICdAcy6jDoXudX30nCw!2e0!7i16384!8i8192 / * 2023 April 13 12:19 ivanbranco Updated: Unfortunately Google Street can&amp;#39;t be used as a source to map in OSM / * 2023 April 13 13:47 Megya Updated: You mean, should I supply another evidence of the existence of the object, otherwise it cannot be treated as _verified_? / * 2023 April 13 14:56 bkil Updated: Yes. https://wiki.osm.org/Street-level_imagery_services https://en.wikipedia.org/wiki/Trap_street / * 2023 December 16 16:59 nslxndr Resolved: Dear Reporter, thank you for your request, but unfortunately the missing map features are not map defect. Not only this area, but many area in the country has a lot of missing map features. I close this report now, because this is not a map defect.</title>
-        <link>https://www.openstreetmap.org/note/3541222#c8775037</link>
-        <guid>https://www.openstreetmap.org/note/3541222#c8775037</guid>
-        <pubDate>Sat, 16 Dec 2023 16:59:25 +0000</pubDate>
-      </item><item>
-        <title>new note 4030672 (near 2151, Central Hungary, 2151, Hungary) / * 2023 December 16 16:44 urbalazs Created: A turistautak.hu szerint a főút Szabó Dezső út. Mi van kitáblázva?</title>
-        <link>https://www.openstreetmap.org/note/4030672#c8774989</link>
-        <guid>https://www.openstreetmap.org/note/4030672#c8774989</guid>
-        <pubDate>Sat, 16 Dec 2023 16:44:21 +0000</pubDate>
-      </item><item>
-        <title>closed note 4029376 (near 7624, Southern Transdanubia, 7624, Hungary) / * 2023 December 15 19:16 Created: &amp;quot;elköltözött&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-11-13T21:29:23Z / POI name: Bőr-, Nemikórtani és Onkodermatológiai Klinika / POI types: amenity-hospital / #organicmaps ios / * 2023 December 16 11:51 zluuzki Resolved: duplicate note</title>
-        <link>https://www.openstreetmap.org/note/4029376#c8774255</link>
-        <guid>https://www.openstreetmap.org/note/4029376#c8774255</guid>
-        <pubDate>Sat, 16 Dec 2023 11:51:48 +0000</pubDate>
-      </item><item>
-        <title>closed note 4029375 (near 7624, Southern Transdanubia, 7624, Hungary) / * 2023 December 15 19:15 Created: &amp;quot;elköltözött&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-11-13T21:29:23Z / POI name: Bőr-, Nemikórtani és Onkodermatológiai Klinika / POI types: amenity-hospital / #organicmaps ios / * 2023 December 16 11:51 zluuzki Resolved: duplicate note</title>
-        <link>https://www.openstreetmap.org/note/4029375#c8774254</link>
-        <guid>https://www.openstreetmap.org/note/4029375#c8774254</guid>
-        <pubDate>Sat, 16 Dec 2023 11:51:46 +0000</pubDate>
-      </item><item>
-        <title>closed note 4029374 (near 7624, Southern Transdanubia, 7624, Hungary) / * 2023 December 15 19:14 Created: &amp;quot;elköltözött&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-11-13T21:29:23Z / POI name: Bőr-, Nemikórtani és Onkodermatológiai Klinika / POI types: amenity-hospital / #organicmaps ios / * 2023 December 16 11:51 zluuzki Resolved: duplicate note</title>
-        <link>https://www.openstreetmap.org/note/4029374#c8774253</link>
-        <guid>https://www.openstreetmap.org/note/4029374#c8774253</guid>
-        <pubDate>Sat, 16 Dec 2023 11:51:45 +0000</pubDate>
       </item>
   </channel>
 </rss>
