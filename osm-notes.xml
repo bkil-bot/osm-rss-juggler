@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3984023 (near 1038, Central Hungary, 1038, Hungary) / * 2023 November 12 09:44 utvonalfelmeresek Created: 26 / * 2023 December 17 23:52 infeeeee Resolved: 26 fel lett véve a jegyzet létrehozása után egy nappal: https://www.openstreetmap.org/way/346973887</title>
+        <link>https://www.openstreetmap.org/note/3984023#c8779121</link>
+        <guid>https://www.openstreetmap.org/note/3984023#c8779121</guid>
+        <pubDate>Sun, 17 Dec 2023 23:52:22 +0000</pubDate>
+      </item><item>
+        <title>closed note 3984025 (near 1038, Central Hungary, 1038, Hungary) / * 2023 November 12 09:46 utvonalfelmeresek Created: 41 / * 2023 December 17 23:50 infeeeee Resolved: Felvitted: https://www.openstreetmap.org/way/346965335</title>
+        <link>https://www.openstreetmap.org/note/3984025#c8779119</link>
+        <guid>https://www.openstreetmap.org/note/3984025#c8779119</guid>
+        <pubDate>Sun, 17 Dec 2023 23:50:40 +0000</pubDate>
+      </item><item>
         <title>closed note 3879870 (near 1051, Central Hungary, 1051, Hungary) / * 2023 September 9 20:30 infeeeee Created: Jár még a Lánchíd átkelőhajó? / * 2023 December 10 20:58 balint36 Updated: Nem, a budapesti hajókból már csak a D14-es komp maradt meg. / * 2023 December 17 22:15 infeeeee Resolved: Túloldali stég megmaradt, de az Európa rendezvényhajó van ott kikötve, az útvonalat disused-ra raktam. https://www.openstreetmap.org/changeset/145230737</title>
         <link>https://www.openstreetmap.org/note/3879870#c8779005</link>
         <guid>https://www.openstreetmap.org/note/3879870#c8779005</guid>
@@ -342,16 +352,6 @@
         <link>https://www.openstreetmap.org/note/4029376#c8772346</link>
         <guid>https://www.openstreetmap.org/note/4029376#c8772346</guid>
         <pubDate>Fri, 15 Dec 2023 19:16:15 +0000</pubDate>
-      </item><item>
-        <title>new note 4029375 (near 7624, Southern Transdanubia, 7624, Hungary) / * 2023 December 15 19:15 Created: &amp;quot;elköltözött&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-11-13T21:29:23Z / POI name: Bőr-, Nemikórtani és Onkodermatológiai Klinika / POI types: amenity-hospital / #organicmaps ios</title>
-        <link>https://www.openstreetmap.org/note/4029375#c8772344</link>
-        <guid>https://www.openstreetmap.org/note/4029375#c8772344</guid>
-        <pubDate>Fri, 15 Dec 2023 19:15:36 +0000</pubDate>
-      </item><item>
-        <title>new note 4029374 (near 7624, Southern Transdanubia, 7624, Hungary) / * 2023 December 15 19:14 Created: &amp;quot;elköltözött&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-11-13T21:29:23Z / POI name: Bőr-, Nemikórtani és Onkodermatológiai Klinika / POI types: amenity-hospital / #organicmaps ios</title>
-        <link>https://www.openstreetmap.org/note/4029374#c8772338</link>
-        <guid>https://www.openstreetmap.org/note/4029374#c8772338</guid>
-        <pubDate>Fri, 15 Dec 2023 19:14:41 +0000</pubDate>
       </item>
   </channel>
 </rss>
