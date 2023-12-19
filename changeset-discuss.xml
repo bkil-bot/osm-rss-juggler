@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: efi99 Discussion Comment No.: 3 Comment: Illetve innen: https://www.google.com/url?sa=t&amp;source=web&amp;rct=j&amp;opi=89978449&amp;url=https://www.nyilvantarto.hu/letoltes/statisztikak/kozerdeku_lakossag_2023.xlsx&amp;ved=2ahUKEwj915yM8ZqDAxVd7LsIHXegDZoQFnoECBQQAQ&amp;usg=AOvVaw2uKS96miOmVcnCITXCPLT8 Date: 2023-12-19T06:37:31+01:00</title>
+        <title>Contributor: BáthoryPéter Discussion Comment No.: 4 Comment: OSM-en (és Wikipédián) a KSH helységnévtárat használjuk forrásként: https://www.ksh.hu/apps/hntr.telepules illetve egyben: https://www.ksh.hu/docs/helysegnevtar/hnt_letoltes_2023.ods Az általad linkelt a BM nyilvántartása (és nem KSH!), és valószínűleg más a módszertana. A letöltőoldalon ezt írják: „Lakossági számadatok a személyiadat- és lakcímnyilvántartás alapján.” Viszont a lakcímnyilvántartás nem mutat teljesen valós képet, mivel sokan nem a bejelentett lakcímükön laknak. Gondolom a KSH ezt valamilyen módon korrigálja (feltételezem népszámlálás). Date: 2023-12-19T08:44:53+01:00</title>
         <link>https://www.openstreetmap.org/changeset/145230420</link>
-        <guid>https://www.openstreetmap.org/changeset/145230420#comment_3</guid>
-        <pubDate>2023-12-19T06:37:31+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/145230420#comment_4</guid>
+        <pubDate>2023-12-19T08:44:53+01:00</pubDate>
       </item><item>
         <title>Contributor: vasony Discussion Comment No.: 3 Comment: Ez akkor is így helyesírási hibás, bár nem egyedi eset. A másik 2 szakaszt is átjavítottam. Date: 2023-12-18T21:45:00+01:00</title>
         <link>https://www.openstreetmap.org/changeset/145192929</link>
@@ -102,11 +102,6 @@
         <link>https://www.openstreetmap.org/changeset/144911432</link>
         <guid>https://www.openstreetmap.org/changeset/144911432#comment_4</guid>
         <pubDate>2023-12-12T11:32:28+01:00</pubDate>
-      </item><item>
-        <title>Contributor: NightH Discussion Comment No.: 1 Comment: The road 83 is not a trunk, it is a primary road. Yes it has 2x2 lanes and separated junctions, but it still is a primary road by the national authorities. Please do not tag it otherwise. Date: 2023-12-12T10:18:13+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/145007920</link>
-        <guid>https://www.openstreetmap.org/changeset/145007920#comment_1</guid>
-        <pubDate>2023-12-12T10:18:13+01:00</pubDate>
       </item>
   </channel>
 </rss>
