@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>The OSM Foundation has chosen it&amp;#39;s new round of officers. Guillaume Rischard (@grischard) is Chairperson, Roland Olbricht is Treasurer, and Craig Allan is Secretary 🔗 https://osmfoundation.org/wiki/Board/Minutes/2023-12 #OpenStreetMap #OSM #OSMF</title>
+        <link>https://en.osm.town/@openstreetmap/111624666280701016</link>
+        <guid>https://en.osm.town/@openstreetmap/111624666280701016</guid>
+        <pubDate>Fri, 22 Dec 2023 15:00:36 +0000</pubDate>
+      </item><item>
         <title>The OpenStreetMap Foundation and the Humanitarian OpenStreetMap Team have signed a trademark license agreement, allowing HOT to use the “OpenStreetMap” name. #OpenStreetMap #OSM #OSMF #HOT #hotosm</title>
         <link>https://en.osm.town/@openstreetmap/111619001665702242</link>
         <guid>https://en.osm.town/@openstreetmap/111619001665702242</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/111500221235214544</link>
         <guid>https://en.osm.town/@openstreetmap/111500221235214544</guid>
         <pubDate>Thu, 30 Nov 2023 15:32:36 +0000</pubDate>
-      </item><item>
-        <title>State of the Map Africa is taking place this week in Yaounde, Cameroon. Read more: https://2023.stateofthemap.africa/ #OpenStreetMap #OSM #SOTMAfrica</title>
-        <link>https://en.osm.town/@openstreetmap/111487234422801103</link>
-        <guid>https://en.osm.town/@openstreetmap/111487234422801103</guid>
-        <pubDate>Tue, 28 Nov 2023 08:29:53 +0000</pubDate>
       </item>
   </channel>
 </rss>
