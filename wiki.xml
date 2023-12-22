@@ -2,6 +2,16 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      
+      <item>
+        <title>Hungary/Jelölési példák: További lehetőségek: Korrektúra -ITinerisKft</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Jel%C3%B6l%C3%A9si_p%C3%A9ld%C3%A1k&amp;diff=2633687&amp;oldid=2633685</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Jel%C3%B6l%C3%A9si_p%C3%A9ld%C3%A1k&amp;diff=2633687</guid>
+        <pubDate>Fri, 22 Dec 2023 08:03:25 GMT</pubDate>
+      </item><item>
+        <title>Hungary/Jelölési példák: Címek -Vasony</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Jel%C3%B6l%C3%A9si_p%C3%A9ld%C3%A1k&amp;diff=2633685&amp;oldid=2628504</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Jel%C3%B6l%C3%A9si_p%C3%A9ld%C3%A1k&amp;diff=2633685</guid>
+        <pubDate>Fri, 22 Dec 2023 07:37:57 GMT</pubDate>
+      </item>
   </channel>
 </rss>
