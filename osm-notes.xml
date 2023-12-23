@@ -3,6 +3,36 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3811532 (near 2631, Central Hungary, 2631, Hungary) / * 2023 August 1 20:48 Created: A hidat átadták a közúti közlekedésnek, 3,5 tonna súlykorlátozással. / https://www.napi.hu/gazdasag/uj-ipoly-hid-helemba-ipolydamasd-szijjarto-atado-kapcsolat-atkelo.774892.html / * 2023 December 23 17:58 mappinglander Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3811532#c8793222</link>
+        <guid>https://www.openstreetmap.org/note/3811532#c8793222</guid>
+        <pubDate>Sat, 23 Dec 2023 17:58:26 +0000</pubDate>
+      </item><item>
+        <title>closed note 3570260 (near 2631, Central Hungary, 2631, Hungary) / * 2023 February 22 14:05 Created: This bridge will NOT be open / for traffic until April 2023. / * 2023 December 23 17:58 mappinglander Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3570260#c8793221</link>
+        <guid>https://www.openstreetmap.org/note/3570260#c8793221</guid>
+        <pubDate>Sat, 23 Dec 2023 17:58:11 +0000</pubDate>
+      </item><item>
+        <title>new note 4038337 (near 6725, South Great Plain, 6725, Hungary) / * 2023 December 23 17:54 kogutowicz-mano Created: Lebontották már a víztornyot? / https://szegeder.hu/helyi/2023-10-12/lebontja-a-mav-a-szazeves-maglya-sori-viztornyot/6526e1d847d3c05a237516d0</title>
+        <link>https://www.openstreetmap.org/note/4038337#c8793212</link>
+        <guid>https://www.openstreetmap.org/note/4038337#c8793212</guid>
+        <pubDate>Sat, 23 Dec 2023 17:54:50 +0000</pubDate>
+      </item><item>
+        <title>closed note 3196654 (near 3529, Hungary) / * 2022 May 26 21:58 Created: Már nem népkonyha, hanem ruházati bolt. / * 2023 December 23 17:41 infeeeee Resolved: Már rég javítva: https://www.openstreetmap.org/node/4692258198</title>
+        <link>https://www.openstreetmap.org/note/3196654#c8793193</link>
+        <guid>https://www.openstreetmap.org/note/3196654#c8793193</guid>
+        <pubDate>Sat, 23 Dec 2023 17:41:00 +0000</pubDate>
+      </item><item>
+        <title>closed note 1564238 (near 3529, Hungary) / * 2018 October 18 07:45 Created: 18 / * 2019 October 12 20:59 kempelen Updated: Ez az iskola nagyon rosszul van berajzolva, kellene helyi segítség a pontosításhoz. / * 2019 November 17 14:20 ITineris Updated: Mi a gond vele? Jók a kontúrok. Mondjuk kb. egész Miskolc 10-20 méterrel el van csúszva a műholdképekhez (és a GPS-hez) képest, nem csak ezek az épületek. / * 2019 November 17 20:32 kempelen Updated: Az iskolát fel kellene venni egy körvonallal ami amenity=school és tartalmazza a paramétereket. De ehhez kéne, hogy meddig van a területe. Az épületekre akkor már nem kell mindre az iskola neve. Az iskola pont se kell ami az út végén van és TUHU-ról jött át. Az északi épület pedig egy általános iskola területén van de az is a szakképző iskola. Zavaros. / * 2023 December 23 17:40 infeeeee Resolved: Ez azóta javítva lett: https://www.openstreetmap.org/way/1174585311</title>
+        <link>https://www.openstreetmap.org/note/1564238#c8793192</link>
+        <guid>https://www.openstreetmap.org/note/1564238#c8793192</guid>
+        <pubDate>Sat, 23 Dec 2023 17:40:02 +0000</pubDate>
+      </item><item>
+        <title>closed note 2983216 (near 3530, Hungary) / * 2021 December 25 20:34 egy miskolci Created: Unable to answer &amp;quot;Do you have to pay to use this restroom?&amp;quot; for https://osm.org/node/5081664553 via StreetComplete 34.1: / bezárt? / * 2023 September 8 09:02 meskobalazs Updated: Bezártként szerepel a térképen is. Ha a StreetComplete ezt megkérdezi, akkor az hiba is lehet. / * 2023 December 23 17:36 infeeeee Resolved: Akkor jó a térkép ezek szerint, ezzel nincs teendő, valami StreetComplete bug lehetett</title>
+        <link>https://www.openstreetmap.org/note/2983216#c8793185</link>
+        <guid>https://www.openstreetmap.org/note/2983216#c8793185</guid>
+        <pubDate>Sat, 23 Dec 2023 17:36:43 +0000</pubDate>
+      </item><item>
         <title>new note 4038067 (near Molnártanya, Mosonmagyaróvár) / * 2023 December 23 13:01 vasony Created: Ez a Tölgy utca?</title>
         <link>https://www.openstreetmap.org/note/4038067#c8792626</link>
         <guid>https://www.openstreetmap.org/note/4038067#c8792626</guid>
@@ -117,11 +147,6 @@
         <link>https://www.openstreetmap.org/note/3639007#c8785422</link>
         <guid>https://www.openstreetmap.org/note/3639007#c8785422</guid>
         <pubDate>Wed, 20 Dec 2023 12:36:54 +0000</pubDate>
-      </item><item>
-        <title>closed note 4034311 (near 1051, Central Hungary, 1051, Hungary) / * 2023 December 19 21:53 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/145308307</title>
-        <link>https://www.openstreetmap.org/note/4034311#c8784182</link>
-        <guid>https://www.openstreetmap.org/note/4034311#c8784182</guid>
-        <pubDate>Tue, 19 Dec 2023 21:53:36 +0000</pubDate>
       </item>
   </channel>
 </rss>
