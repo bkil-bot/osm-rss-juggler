@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4029377 (near 7624, Southern Transdanubia, 7624, Hungary) / * 2023 December 15 19:17 Created: &amp;quot;elköltözött&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-11-13T21:29:23Z / POI name: Bőr-, Nemikórtani és Onkodermatológiai Klinika / POI types: amenity-hospital / #organicmaps ios / * 2023 December 24 15:59 zluuzki Resolved: duplicate note</title>
+        <link>https://www.openstreetmap.org/note/4029377#c8795364</link>
+        <guid>https://www.openstreetmap.org/note/4029377#c8795364</guid>
+        <pubDate>Sun, 24 Dec 2023 15:59:34 +0000</pubDate>
+      </item><item>
         <title>closed note 4027108 (near 8174, Central Transdanubia, 8174, Hungary) / * 2023 December 13 20:12 vasony Created: Ez a szakasz is tényleg Kosztolányi Dezső utca? / * 2023 December 24 15:06 vasony Resolved: stimmel</title>
         <link>https://www.openstreetmap.org/note/4027108#c8794925</link>
         <guid>https://www.openstreetmap.org/note/4027108#c8794925</guid>
@@ -407,16 +412,6 @@
         <link>https://www.openstreetmap.org/note/4038023#c8792556</link>
         <guid>https://www.openstreetmap.org/note/4038023#c8792556</guid>
         <pubDate>Sat, 23 Dec 2023 12:21:34 +0000</pubDate>
-      </item><item>
-        <title>new note 4037844 (near Krisztinamajor, Mosonmagyaróvár) / * 2023 December 23 08:48 vasony Created: Ez itt az Ipartelep 60 megnevezésű ingatlan?</title>
-        <link>https://www.openstreetmap.org/note/4037844#c8792242</link>
-        <guid>https://www.openstreetmap.org/note/4037844#c8792242</guid>
-        <pubDate>Sat, 23 Dec 2023 08:48:27 +0000</pubDate>
-      </item><item>
-        <title>new note 4037836 (near Molnártanya, Mosonmagyaróvár) / * 2023 December 23 08:43 vasony Created: ez a Borostány köz?</title>
-        <link>https://www.openstreetmap.org/note/4037836#c8792229</link>
-        <guid>https://www.openstreetmap.org/note/4037836#c8792229</guid>
-        <pubDate>Sat, 23 Dec 2023 08:43:39 +0000</pubDate>
       </item>
   </channel>
 </rss>
