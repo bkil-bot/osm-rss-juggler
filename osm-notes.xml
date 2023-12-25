@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4040270 (near 1146, Central Hungary, 1146, Hungary) / * 2023 December 25 18:56 vasony Created: Ez tényleg Kneipp vagy csak mezitlábas? (vizes elem van-e benne?)</title>
+        <link>https://www.openstreetmap.org/note/4040270#c8797820</link>
+        <guid>https://www.openstreetmap.org/note/4040270#c8797820</guid>
+        <pubDate>Mon, 25 Dec 2023 18:56:29 +0000</pubDate>
+      </item><item>
         <title>new note 4040179 (near 5350, North Great Plain, 5350, Hungary) / * 2023 December 25 16:49 Created: Tiszafüred Sarkantyú utca 6.</title>
         <link>https://www.openstreetmap.org/note/4040179#c8797609</link>
         <guid>https://www.openstreetmap.org/note/4040179#c8797609</guid>
@@ -347,36 +352,6 @@
         <link>https://www.openstreetmap.org/note/3747337#c8793695</link>
         <guid>https://www.openstreetmap.org/note/3747337#c8793695</guid>
         <pubDate>Sat, 23 Dec 2023 22:16:24 +0000</pubDate>
-      </item><item>
-        <title>closed note 3748966 (near 7142, Southern Transdanubia, 7142, Hungary) / * 2023 June 24 12:32 Johanna707 Created: Unable to answer &amp;quot;Who is allowed to park here? Parking may be free or paid.&amp;quot; for https://osm.org/way/992061227 via StreetComplete 53.1: / Az út déli oldalán van, 7 szgk, ingyenes. / * 2023 December 23 22:16 infeeeee Resolved: Frissítve: https://www.openstreetmap.org/changeset/145452054</title>
-        <link>https://www.openstreetmap.org/note/3748966#c8793694</link>
-        <guid>https://www.openstreetmap.org/note/3748966#c8793694</guid>
-        <pubDate>Sat, 23 Dec 2023 22:16:20 +0000</pubDate>
-      </item><item>
-        <title>new comment 3748794 (near 6500, South Great Plain, 6500, Hungary) / * 2023 June 24 10:28 Johanna707 Created: Unable to answer &amp;quot;What barriers are used at this railway crossing?&amp;quot; for https://osm.org/node/9542899016 via StreetComplete 53.1: / Nincs is kereszteződés. / * 2023 December 23 21:59 infeeeee Updated: Pedig Strava alapján valahol kell itt lennie egy átkelőnek a kisvasúton.</title>
-        <link>https://www.openstreetmap.org/note/3748794#c8793670</link>
-        <guid>https://www.openstreetmap.org/note/3748794#c8793670</guid>
-        <pubDate>Sat, 23 Dec 2023 21:59:24 +0000</pubDate>
-      </item><item>
-        <title>closed note 4011934 (near 6448, South Great Plain, 6448, Hungary) / * 2023 December 2 09:31 Falusi Csaba Created: A hirdetés valós idejű helye. / * 2023 December 23 21:57 infeeeee Resolved: Kedves Csaba! Üdv az OpenStreetMapen! Ez a funkció a térkép esetleges hibáinak jelzésére szolgál. Ha hibás a térkép kérlek aktiváld újra a jegyzetet, és adj bővebb információt mi a hiba.</title>
-        <link>https://www.openstreetmap.org/note/4011934#c8793667</link>
-        <guid>https://www.openstreetmap.org/note/4011934#c8793667</guid>
-        <pubDate>Sat, 23 Dec 2023 21:57:18 +0000</pubDate>
-      </item><item>
-        <title>closed note 3950070 (near Tóparttanya, Fegyvernek) / * 2023 October 20 15:53 Mateusz Konieczny Created: name=Fischer Tüzép / https://www.openstreetmap.org/node/11249008989 / shop=építőanyag ? What is the meaning of that shop value? What kind of services or products are sold here? Is anything from https://wiki.openstreetmap.org/wiki/Key:shop fitting? Maybe new value needs to be invented? Maybe this data is wrong and there is no shop here? Maybe it is not a shop but something else? / (if anyone wants I can provide list of weird shop values in some country/area - let me know if you are interested) / * 2023 December 23 21:52 infeeeee Resolved: Fixed: https://www.openstreetmap.org/changeset/145451544</title>
-        <link>https://www.openstreetmap.org/note/3950070#c8793666</link>
-        <guid>https://www.openstreetmap.org/note/3950070#c8793666</guid>
-        <pubDate>Sat, 23 Dec 2023 21:52:28 +0000</pubDate>
-      </item><item>
-        <title>closed note 3466917 (near Iparterület, Karcag) / * 2022 December 4 14:57 Spush Created: Ellentmondás a terület elnevezése és a területfunkció között. Ha ipari, akkor landuse=industrial, ha kereskedelmi akkor landuse=commercial. / * 2023 December 23 21:50 infeeeee Resolved: Javítva: https://www.openstreetmap.org/changeset/145451506</title>
-        <link>https://www.openstreetmap.org/note/3466917#c8793664</link>
-        <guid>https://www.openstreetmap.org/note/3466917#c8793664</guid>
-        <pubDate>Sat, 23 Dec 2023 21:50:20 +0000</pubDate>
-      </item><item>
-        <title>closed note 2111207 (near 4200, North Great Plain, 4200, Hungary) / * 2020 March 5 09:16 grin Created: Hotel aqua blue / * 2023 December 23 21:47 infeeeee Resolved: Felvittem: https://www.openstreetmap.org/changeset/145451434</title>
-        <link>https://www.openstreetmap.org/note/2111207#c8793661</link>
-        <guid>https://www.openstreetmap.org/note/2111207#c8793661</guid>
-        <pubDate>Sat, 23 Dec 2023 21:47:19 +0000</pubDate>
       </item>
   </channel>
 </rss>
