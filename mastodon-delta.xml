@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>More #deltachat folks are arriving at #37c3 today and tomorrow .... We I&amp;#39;ll be around #komona in hall H ... On day 1 we intend to do a #chatmail hands on session probably in the evening. There is usually a #komona billboard with planned sessions .... Anyways, everyone, please have enjoyable travels and a wonderful (as can be these days, for some it&amp;#39;s gruesome) beginnings of 2024 ... See you at 37c3 or elsewhere!</title>
+        <link>https://chaos.social/@delta/111641006313294038</link>
+        <guid>https://chaos.social/@delta/111641006313294038</guid>
+        <pubDate>Mon, 25 Dec 2023 12:16:06 +0000</pubDate>
+      </item><item>
         <title>#chatmail is not a replacement for Whatsapp in the traditional sense. It&amp;#39;s a small machine that can be tweaked in many ways. The tweakability of the e-mail system is in it&amp;#39;s DNA and practises ... that is the antithesis to WA if you like :) What drives nine.testrun.org, the first public chatmail service, is fully visible at https://github.com/deltachat/chatmail -- a minimalist config and setup, some python modules and tests, standard postfix/dovecot. co-incidentally pretty fast but there is a twist ;) Delta Chat messaging screen with echo-bot: One said says &quot;Hi&quot;, the bot answers &quot;Hi&quot;. One sight says &quot;Oh!&quot; and 0.24 seconds later the bot says &quot;Oh!&quot; One says &quot;That was fast&quot; and the bot answers. All 6 messages were typed, received and seen in 4.16 seconds overall.</title>
         <link>https://chaos.social/@delta/111586633840591278</link>
         <guid>https://chaos.social/@delta/111586633840591278</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/110972698180741306</link>
         <guid>https://chaos.social/@delta/110972698180741306</guid>
         <pubDate>Tue, 29 Aug 2023 11:36:33 +0000</pubDate>
-      </item><item>
-        <title>We are waiting since 8 days on @fdroidorg to publish a) our disabling of the 1.40.0 release b) our 1.40.1 fdroid release that we did a few hours after users reported crashes. Status is tracked here https://github.com/deltachat/deltachat-android/issues/2639#issuecomment-1692416810 .... We had dozens of users reporting that their fdroid #deltachat install became unusable and we are very sorry about it but also can&amp;#39;t do much else than wait. Don&amp;#39;t deinstall anything, please, but wait for fdroid to publish the update after which things will function again.</title>
-        <link>https://chaos.social/@delta/110954560630376414</link>
-        <guid>https://chaos.social/@delta/110954560630376414</guid>
-        <pubDate>Sat, 26 Aug 2023 06:43:56 +0000</pubDate>
       </item>
   </channel>
 </rss>
