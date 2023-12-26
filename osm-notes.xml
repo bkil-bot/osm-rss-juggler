@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3719292 (near Vásártéri malomház, Karcag) / * 2023 June 4 08:45 ScornfulFerret Created: The buildings are not aligned with any of the available imagery. / * 2023 December 25 23:41 urbalazs Resolved: I can confirm this, but the offset is not bigger than in other towns. The current buildings are good enough. I close this note for now, but if you still think that the offset is wrong, feel free to move the buildings.</title>
+        <link>https://www.openstreetmap.org/note/3719292#c8798587</link>
+        <guid>https://www.openstreetmap.org/note/3719292#c8798587</guid>
+        <pubDate>Mon, 25 Dec 2023 23:41:21 +0000</pubDate>
+      </item><item>
         <title>new note 4040318 (near 1165, Central Hungary, 1165, Hungary) / * 2023 December 25 19:42 vasony Created: Ez a szakasz is még Íjász utca?</title>
         <link>https://www.openstreetmap.org/note/4040318#c8797969</link>
         <guid>https://www.openstreetmap.org/note/4040318#c8797969</guid>
@@ -302,16 +307,6 @@
         <link>https://www.openstreetmap.org/note/3293590#c8793776</link>
         <guid>https://www.openstreetmap.org/note/3293590#c8793776</guid>
         <pubDate>Sat, 23 Dec 2023 23:16:05 +0000</pubDate>
-      </item><item>
-        <title>closed note 2359768 (near 2627, Central Hungary, 2627, Hungary) / * 2020 September 23 09:52 Mamutinka Created: #Mapy.cz user reports: Magán terület, ugatós kutyák! / * 2023 December 23 23:04 infeeeee Resolved: Be lett jelölve azóta mint magánút. / Solved since</title>
-        <link>https://www.openstreetmap.org/note/2359768#c8793764</link>
-        <guid>https://www.openstreetmap.org/note/2359768#c8793764</guid>
-        <pubDate>Sat, 23 Dec 2023 23:04:29 +0000</pubDate>
-      </item><item>
-        <title>closed note 2892996 (near 7588, Southern Transdanubia, 7588, Hungary) / * 2021 October 13 06:53 Mateusz Konieczny Created: https://www.openstreetmap.org/node/3468119973 - imported at wrong location / Is it safe to drag it onto building? Or is it going to only mask data quality issue? / * 2023 December 23 22:37 infeeeee Resolved: Fixed: https://www.openstreetmap.org/changeset/145452451</title>
-        <link>https://www.openstreetmap.org/note/2892996#c8793734</link>
-        <guid>https://www.openstreetmap.org/note/2892996#c8793734</guid>
-        <pubDate>Sat, 23 Dec 2023 22:37:33 +0000</pubDate>
       </item>
   </channel>
 </rss>
