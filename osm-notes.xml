@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4041139 (near 8230, Central Transdanubia, 8230, Hungary) / * 2023 December 26 14:27 Created: &amp;quot;megszűnt&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-12-13T18:30:01Z / POI has no name / POI types: amenity-telephone / #organicmaps android</title>
+        <link>https://www.openstreetmap.org/note/4041139#c8800159</link>
+        <guid>https://www.openstreetmap.org/note/4041139#c8800159</guid>
+        <pubDate>Tue, 26 Dec 2023 14:27:01 +0000</pubDate>
+      </item><item>
+        <title>new note 4041138 (near 8230, Central Transdanubia, 8230, Hungary) / * 2023 December 26 14:27 Created: &amp;quot;A Kis Bergmann cukrászda van kiírva,&amp;quot; / OSM snapshot date: 2023-12-13T18:30:01Z / POI name: Bergmann cukrászda / POI types: wheelchair-no shop-pastry / #organicmaps android</title>
+        <link>https://www.openstreetmap.org/note/4041138#c8800158</link>
+        <guid>https://www.openstreetmap.org/note/4041138#c8800158</guid>
+        <pubDate>Tue, 26 Dec 2023 14:27:01 +0000</pubDate>
+      </item><item>
+        <title>new note 4041137 (near 6725, South Great Plain, 6725, Hungary) / * 2023 December 26 14:25 GBAB Created: Update using recent imagery / #OsmAnd</title>
+        <link>https://www.openstreetmap.org/note/4041137#c8800154</link>
+        <guid>https://www.openstreetmap.org/note/4041137#c8800154</guid>
+        <pubDate>Tue, 26 Dec 2023 14:25:38 +0000</pubDate>
+      </item><item>
         <title>new note 4041122 (near 8230, Central Transdanubia, 8230, Hungary) / * 2023 December 26 14:13 Created: &amp;quot;Kerektemplom&amp;quot; / OSM snapshot date: 2023-12-13T18:30:01Z / POI name: Kerek templom / POI types: building wheelchair-no amenity-place_of_worship-christian / #organicmaps android</title>
         <link>https://www.openstreetmap.org/note/4041122#c8800059</link>
         <guid>https://www.openstreetmap.org/note/4041122#c8800059</guid>
@@ -242,26 +257,6 @@
         <link>https://www.openstreetmap.org/note/3905944#c8796657</link>
         <guid>https://www.openstreetmap.org/note/3905944#c8796657</guid>
         <pubDate>Mon, 25 Dec 2023 11:32:19 +0000</pubDate>
-      </item><item>
-        <title>reactivated note 3905944 (near 8174, Central Transdanubia, 8174, Hungary) / * 2023 September 24 12:42 vasony Created: Ez a Muskátli utca? / * 2023 November 11 12:06 vasony Updated: zsákutca a Muskátli,  itt van egy Szerviz utca tábla / * 2023 December 4 22:48 infeeeee Updated: Ez zárható? / * 2023 December 5 14:01 vasony Updated: maradjon, mert most vizsgálták felül az utcákat és új táblák lesznek 2024. jan végéig.  utána megnézem. / * 2023 December 24 14:06 vasony Resolved: nincs változás,  leszarom,  majd úgyis egyben vegig nézem. / * 2023 December 25 11:32 vasony Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/3905944#c8796656</link>
-        <guid>https://www.openstreetmap.org/note/3905944#c8796656</guid>
-        <pubDate>Mon, 25 Dec 2023 11:32:08 +0000</pubDate>
-      </item><item>
-        <title>closed note 3982312 (near 8174, Central Transdanubia, 8174, Hungary) / * 2023 December 25 11:31 vasony Resolved: A vége Őzike utca, a kanyarban van tábla.</title>
-        <link>https://www.openstreetmap.org/note/3982312#c8796652</link>
-        <guid>https://www.openstreetmap.org/note/3982312#c8796652</guid>
-        <pubDate>Mon, 25 Dec 2023 11:31:33 +0000</pubDate>
-      </item><item>
-        <title>reactivated note 3982312 (near 8174, Central Transdanubia, 8174, Hungary) / * 2023 November 11 09:27 vasony Created: Őzike utca ki van táblázva? / * 2023 November 11 12:38 vasony Resolved: ez a Busuloló Juhász utca / * 2023 December 25 11:31 vasony Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/3982312#c8796651</link>
-        <guid>https://www.openstreetmap.org/note/3982312#c8796651</guid>
-        <pubDate>Mon, 25 Dec 2023 11:31:16 +0000</pubDate>
-      </item><item>
-        <title>closed note 4038995 (near 8174, Central Transdanubia, 8174, Hungary) / * 2023 December 24 13:12 vasony Created: Hivatalosan Sólyom utca, ki van építve? / * 2023 December 24 14:44 vasony Updated: van utca, mindkét iranyban / * 2023 December 25 11:30 vasony Resolved: berajzolva</title>
-        <link>https://www.openstreetmap.org/note/4038995#c8796648</link>
-        <guid>https://www.openstreetmap.org/note/4038995#c8796648</guid>
-        <pubDate>Mon, 25 Dec 2023 11:30:10 +0000</pubDate>
       </item>
   </channel>
 </rss>
