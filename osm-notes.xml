@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 2579344 (near 7632, Southern Transdanubia, 7632, Hungary) / * 2021 March 14 22:14 Richardrrrr Created: &amp;quot;permanently turned off&amp;quot; / The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI name: Kút / POI types: amenity-drinking_water / OSM data version: 2021-02-01T11:34:17Z / #mapsme / * 2023 December 26 09:38 ef64 Resolved: Changed tag from &amp;quot;amenity&amp;quot; to &amp;quot;disused:amenity&amp;quot;...</title>
+        <link>https://www.openstreetmap.org/note/2579344#c8799259</link>
+        <guid>https://www.openstreetmap.org/note/2579344#c8799259</guid>
+        <pubDate>Tue, 26 Dec 2023 09:38:07 +0000</pubDate>
+      </item><item>
+        <title>new comment 3829048 (near 7634, Southern Transdanubia, 7634, Hungary) / * 2023 August 12 09:13 utvonalfelmeresek Created: étlap / via StreetComplete 53.3 / Attached photo(s): / https://westnordost.de/p/167384.jpg / https://westnordost.de/p/167385.jpg / * 2023 August 24 06:51 vasony Updated: mi a cél az étlappal? / * 2023 August 24 15:41 utvonalfelmeresek Updated: Hogy fel lehessen vinni pl. van melegszendvics, magyaros ételek, hal ételek, meg mindenkinek mi a kedvence, illetve milyen az étterem árfekvése / * 2023 December 26 09:24 ef64 Updated: Szerintem nem reális a teljes étlapot felvinni; különben is, milyen klienssel nézegetjük majd? / De a megfelelő &amp;quot;cuisine&amp;quot; cimkéket feltehetnénk: https://wiki.openstreetmap.org/wiki/Key:cuisine.</title>
+        <link>https://www.openstreetmap.org/note/3829048#c8799223</link>
+        <guid>https://www.openstreetmap.org/note/3829048#c8799223</guid>
+        <pubDate>Tue, 26 Dec 2023 09:24:33 +0000</pubDate>
+      </item><item>
         <title>new note 4040756 (near 7635, Southern Transdanubia, 7635, Hungary) / * 2023 December 26 08:54 ef64 Created: Track seems to start at the intersection to the east... / ... needs a GPX trace to be moved to the correct/actual position(s).</title>
         <link>https://www.openstreetmap.org/note/4040756#c8799149</link>
         <guid>https://www.openstreetmap.org/note/4040756#c8799149</guid>
@@ -277,21 +287,6 @@
         <link>https://www.openstreetmap.org/note/4038993#c8794594</link>
         <guid>https://www.openstreetmap.org/note/4038993#c8794594</guid>
         <pubDate>Sun, 24 Dec 2023 13:10:33 +0000</pubDate>
-      </item><item>
-        <title>new note 4038990 (near 8174, Central Transdanubia, 8174, Hungary) / * 2023 December 24 13:08 vasony Created: Öregtó park itt kellene legyen, ellenőrizendő</title>
-        <link>https://www.openstreetmap.org/note/4038990#c8794588</link>
-        <guid>https://www.openstreetmap.org/note/4038990#c8794588</guid>
-        <pubDate>Sun, 24 Dec 2023 13:08:55 +0000</pubDate>
-      </item><item>
-        <title>closed note 3431675 (near 4115, North Great Plain, 4115, Hungary) / * 2022 November 7 10:53 vasony-qa Created: Melyik közterület a Határ út? / * 2023 December 24 13:07 infeeeee Resolved: 3 jegyzet ugyanarra vonatkozik, 2-t lezárok.</title>
-        <link>https://www.openstreetmap.org/note/3431675#c8794585</link>
-        <guid>https://www.openstreetmap.org/note/3431675#c8794585</guid>
-        <pubDate>Sun, 24 Dec 2023 13:07:48 +0000</pubDate>
-      </item><item>
-        <title>closed note 3441812 (near 4115, North Great Plain, 4115, Hungary) / * 2022 November 14 12:52 vasony-qa Created: Melyik közterület a Határ út? / * 2023 December 24 13:07 infeeeee Resolved: 3 jegyzet ugyanarra vonatkozik, 2-t lezárok.</title>
-        <link>https://www.openstreetmap.org/note/3441812#c8794584</link>
-        <guid>https://www.openstreetmap.org/note/3441812#c8794584</guid>
-        <pubDate>Sun, 24 Dec 2023 13:07:42 +0000</pubDate>
       </item>
   </channel>
 </rss>
