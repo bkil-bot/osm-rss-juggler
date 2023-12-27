@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4042223 (near 1071, Central Hungary, 1071, Hungary) / * 2023 December 27 13:53 vasony Resolved: Fixed</title>
+        <link>https://www.openstreetmap.org/note/4042223#c8803671</link>
+        <guid>https://www.openstreetmap.org/note/4042223#c8803671</guid>
+        <pubDate>Wed, 27 Dec 2023 13:53:34 +0000</pubDate>
+      </item><item>
+        <title>closed note 3831601 (near 4031, North Great Plain, 4031, Hungary) / * 2023 August 13 17:09 vasony Created: 252/2015 (XII. 17.) határozat szerint a Gólyahír és Tőzike utcák neve is Kishegyesi útra változott, ellenőrizendő a helyszínen / * 2023 December 27 13:25 nslxndr Resolved: Utcanévtáblák a jegyzetben jelzettnek megfelelőek, az egykori Tőzike utca mindkét  végén kint van még a régi név is. Új név felvéve a régit is megtartva:  https://www.openstreetmap.org/changeset/145574625</title>
+        <link>https://www.openstreetmap.org/note/3831601#c8803624</link>
+        <guid>https://www.openstreetmap.org/note/3831601#c8803624</guid>
+        <pubDate>Wed, 27 Dec 2023 13:25:20 +0000</pubDate>
+      </item><item>
         <title>new note 4042289 (near 3950, Hungary) / * 2023 December 27 11:37 Matyjace Created: Forwarding anonymous report from #mapycz user, please verify: &amp;quot;it is ruin&amp;quot;</title>
         <link>https://www.openstreetmap.org/note/4042289#c8803395</link>
         <guid>https://www.openstreetmap.org/note/4042289#c8803395</guid>
@@ -297,31 +307,6 @@
         <link>https://www.openstreetmap.org/note/2399586#c8799504</link>
         <guid>https://www.openstreetmap.org/note/2399586#c8799504</guid>
         <pubDate>Tue, 26 Dec 2023 11:32:31 +0000</pubDate>
-      </item><item>
-        <title>new comment 2399586 (near 5650, South Great Plain, 5650, Hungary) / * 2020 October 25 20:16 vasony Created: Kossuth tér vagy Kossuth Lajos tér? / * 2023 December 26 11:01 Kiss_Karoly Updated: Kossuth Lajos tér</title>
-        <link>https://www.openstreetmap.org/note/2399586#c8799407</link>
-        <guid>https://www.openstreetmap.org/note/2399586#c8799407</guid>
-        <pubDate>Tue, 26 Dec 2023 11:01:02 +0000</pubDate>
-      </item><item>
-        <title>closed note 2579344 (near 7632, Southern Transdanubia, 7632, Hungary) / * 2021 March 14 22:14 Richardrrrr Created: &amp;quot;permanently turned off&amp;quot; / The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. / POI name: Kút / POI types: amenity-drinking_water / OSM data version: 2021-02-01T11:34:17Z / #mapsme / * 2023 December 26 09:38 ef64 Resolved: Changed tag from &amp;quot;amenity&amp;quot; to &amp;quot;disused:amenity&amp;quot;...</title>
-        <link>https://www.openstreetmap.org/note/2579344#c8799259</link>
-        <guid>https://www.openstreetmap.org/note/2579344#c8799259</guid>
-        <pubDate>Tue, 26 Dec 2023 09:38:07 +0000</pubDate>
-      </item><item>
-        <title>new comment 3829048 (near 7634, Southern Transdanubia, 7634, Hungary) / * 2023 August 12 09:13 utvonalfelmeresek Created: étlap / via StreetComplete 53.3 / Attached photo(s): / https://westnordost.de/p/167384.jpg / https://westnordost.de/p/167385.jpg / * 2023 August 24 06:51 vasony Updated: mi a cél az étlappal? / * 2023 August 24 15:41 utvonalfelmeresek Updated: Hogy fel lehessen vinni pl. van melegszendvics, magyaros ételek, hal ételek, meg mindenkinek mi a kedvence, illetve milyen az étterem árfekvése / * 2023 December 26 09:24 ef64 Updated: Szerintem nem reális a teljes étlapot felvinni; különben is, milyen klienssel nézegetjük majd? / De a megfelelő &amp;quot;cuisine&amp;quot; cimkéket feltehetnénk: https://wiki.openstreetmap.org/wiki/Key:cuisine.</title>
-        <link>https://www.openstreetmap.org/note/3829048#c8799223</link>
-        <guid>https://www.openstreetmap.org/note/3829048#c8799223</guid>
-        <pubDate>Tue, 26 Dec 2023 09:24:33 +0000</pubDate>
-      </item><item>
-        <title>new note 4040756 (near 7635, Southern Transdanubia, 7635, Hungary) / * 2023 December 26 08:54 ef64 Created: Track seems to start at the intersection to the east... / ... needs a GPX trace to be moved to the correct/actual position(s).</title>
-        <link>https://www.openstreetmap.org/note/4040756#c8799149</link>
-        <guid>https://www.openstreetmap.org/note/4040756#c8799149</guid>
-        <pubDate>Tue, 26 Dec 2023 08:54:26 +0000</pubDate>
-      </item><item>
-        <title>closed note 3719292 (near Vásártéri malomház, Karcag) / * 2023 June 4 08:45 ScornfulFerret Created: The buildings are not aligned with any of the available imagery. / * 2023 December 25 23:41 urbalazs Resolved: I can confirm this, but the offset is not bigger than in other towns. The current buildings are good enough. I close this note for now, but if you still think that the offset is wrong, feel free to move the buildings.</title>
-        <link>https://www.openstreetmap.org/note/3719292#c8798587</link>
-        <guid>https://www.openstreetmap.org/note/3719292#c8798587</guid>
-        <pubDate>Mon, 25 Dec 2023 23:41:21 +0000</pubDate>
       </item>
   </channel>
 </rss>
