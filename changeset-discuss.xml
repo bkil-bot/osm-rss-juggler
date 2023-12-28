@@ -2,6 +2,86 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
-      
+      <item>
+        <title>Contributor: SomeoneElse Discussion Comment No.: 7 Comment: @Oha80 Törölte a https://www.openstreetmap.org/way/634493386/history oldalt. Meg tudod magyarázni, hogy miért? Date: 2023-12-27T20:20:40+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/145504664</link>
+        <guid>https://www.openstreetmap.org/changeset/145504664#comment_7</guid>
+        <pubDate>2023-12-27T20:20:40+01:00</pubDate>
+      </item><item>
+        <title>Contributor: Oha80 Discussion Comment No.: 2 Comment: Jah, vissza szoktam nézni idővel overpasson, csak még nem került rá sor. Date: 2023-12-27T16:48:18+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/145503663</link>
+        <guid>https://www.openstreetmap.org/changeset/145503663#comment_2</guid>
+        <pubDate>2023-12-27T16:48:18+01:00</pubDate>
+      </item><item>
+        <title>Contributor: Eino81 Discussion Comment No.: 1 Comment: Szia, kitöröltem ezt a Liget utcát Mendén. 44 éve írtad, hogy kérdéses mág a helye... Hát, ma voltam ott, nem lett ott utca. De job, ha nem létező utcák nem kerülnek fel az OSMre, max ha már épülnek, de akkor is még csak &quot;útépítés&quot; címkével... Date: 2023-12-27T15:09:12+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/70081718</link>
+        <guid>https://www.openstreetmap.org/changeset/70081718#comment_1</guid>
+        <pubDate>2023-12-27T15:09:12+01:00</pubDate>
+      </item><item>
+        <title>Contributor: Eino81 Discussion Comment No.: 1 Comment: Szia Paula, szép és jó, hogy lesznek új utcák Mendén, de jobb lett volna ezeket még &quot;útépítés&quot; címke alatt hozzáadni, mivel a nagy részük még nem létezik és nem járható... Csak szóltam neked :) Mindjárt frissítem őket... Ma voltam arra... Date: 2023-12-27T15:03:44+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/124471507</link>
+        <guid>https://www.openstreetmap.org/changeset/124471507#comment_1</guid>
+        <pubDate>2023-12-27T15:03:44+01:00</pubDate>
+      </item><item>
+        <title>Contributor: BáthoryPéter Discussion Comment No.: 3 Comment: Köszönöm, javítottam! https://www.openstreetmap.org/changeset/145552118 Date: 2023-12-26T22:59:48+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/138034369</link>
+        <guid>https://www.openstreetmap.org/changeset/138034369#comment_3</guid>
+        <pubDate>2023-12-26T22:59:48+01:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Üdv az OpenStreetMapen! Itt valamit félreértettél a kérdésben, mert nincs bicikliút a villamossín és a Dél felé tartó oldal között. A többpályás utak több vonalként vannak ábrázolva, a kérdés csak a Bartók Béla út egyik oldalára vonatkozott. Ezt a változást vissza fogom vonni. Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! Hi Welcome to OpenStreetMap! You misunderstood something in this quest, there is no bicycle lane next to the tram tracks here. Bartók Béla út is mapped as multiple parallel lines, you only edited the Southbound part. I will revert this change. If you have more question you can find links to the Hungarian community here: https://openstreetmap.community/?map=47.19213,19.66905&amp;zoom=7.19 Date: 2023-12-26T17:36:50+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/145506979</link>
+        <guid>https://www.openstreetmap.org/changeset/145506979#comment_1</guid>
+        <pubDate>2023-12-26T17:36:50+01:00</pubDate>
+      </item><item>
+        <title>Contributor: balint36 Discussion Comment No.: 1 Comment: Nem használtnak jelölted ezt a vonalat: https://www.openstreetmap.org/way/574811209/history Milyen információval rendelkezel efelől, amivel mi nem? A vonatbefolyásolást is törölted. Miért? Date: 2023-12-26T00:31:09+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/142827264</link>
+        <guid>https://www.openstreetmap.org/changeset/142827264#comment_1</guid>
+        <pubDate>2023-12-26T00:31:09+01:00</pubDate>
+      </item><item>
+        <title>Contributor: ITineris Discussion Comment No.: 1 Comment: Szia! Honnan vetted a &quot;Meszes-park&quot; nevet a Meszes-hegy mellett? Üdv: Ákos Date: 2023-12-25T20:59:36+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/112664755</link>
+        <guid>https://www.openstreetmap.org/changeset/112664755#comment_1</guid>
+        <pubDate>2023-12-25T20:59:36+01:00</pubDate>
+      </item><item>
+        <title>Contributor: balint36 Discussion Comment No.: 1 Comment: Nem tudom, hogy a #00AFF0 színkód honnan jött, de a korábbi szín teljes mértékben helyes volt. Szeretnék rámutatni erre a doksira: https://mosz.co.hu/images/a2930/MAV-START-Ertesito-2017-21.pdf 5. oldal, 2. hasáb közepe táján leírja, hogy a személyvonatok a RGB 0, 160, 227 színkódot használják, ami nem a #00AFF0, sokkal inkább a korábban is használt #00A0E3. A többi színezést nem ellőriztem, hogy módosítottál-e azokon. Ezért megkérlek, hogy az általad júniusban módosított színeket állítsd vissza az eredetire az alábbi módon: Személy #00AFF0 (RGB: 0, 160, 227) Gyorsított: #B0CB1F (RGB: 176, 203, 31) Zónázó: #FECC00 (RGB: 254, 204, 0) Köszönöm. Date: 2023-12-25T14:55:38+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/137105688</link>
+        <guid>https://www.openstreetmap.org/changeset/137105688#comment_1</guid>
+        <pubDate>2023-12-25T14:55:38+01:00</pubDate>
+      </item><item>
+        <title>Contributor: balint36 Discussion Comment No.: 1 Comment: Szia! Kecel állomás vágányai nem véletlenül voltak úgy címkézve, ahogy eddig voltak. Tekintettel arra, hogy Kecel állomáson vágánytengely ugrás, ezért az átmenő fővágányban a valóságban is szakadás van, a címkézés eszerint készült. A vágánytengely ugrást leellenőrizheted magad is egy állomásrajzon, látni fogod, hogy a nyíltvonalról egyenes váltókon való bejárást követően az állomás túloldalán csak kitérő irányban lehet kijárni a nyíltvonalra. Öregcsertőnél szintén ez az eset. Date: 2023-12-24T19:36:04+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/144832637</link>
+        <guid>https://www.openstreetmap.org/changeset/144832637#comment_1</guid>
+        <pubDate>2023-12-24T19:36:04+01:00</pubDate>
+      </item><item>
+        <title>Contributor: gabro00 Discussion Comment No.: 4 Comment: Töröld nyugodtan. Covid mintavételi pont volt. Date: 2023-12-23T18:23:12+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/100913450</link>
+        <guid>https://www.openstreetmap.org/changeset/100913450#comment_4</guid>
+        <pubDate>2023-12-23T18:23:12+01:00</pubDate>
+      </item><item>
+        <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szerintem ez egyértelműen táblahiba, én visszaírnám Kurucok útjára. Date: 2023-12-23T17:31:01+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/144485034</link>
+        <guid>https://www.openstreetmap.org/changeset/144485034#comment_1</guid>
+        <pubDate>2023-12-23T17:31:01+01:00</pubDate>
+      </item><item>
+        <title>Contributor: efi99 Discussion Comment No.: 2 Comment: De. Date: 2023-12-23T10:31:46+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/145371396</link>
+        <guid>https://www.openstreetmap.org/changeset/145371396#comment_2</guid>
+        <pubDate>2023-12-23T10:31:46+01:00</pubDate>
+      </item><item>
+        <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szia! Leszedted a Radnóti Mikós utcát a kerékpárútról, viszont most van egy csomó ház Radnóti Miklós utcára számozva. Tamás Date: 2023-12-22T21:07:40+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/145040034</link>
+        <guid>https://www.openstreetmap.org/changeset/145040034#comment_1</guid>
+        <pubDate>2023-12-22T21:07:40+01:00</pubDate>
+      </item><item>
+        <title>Contributor: vasony Discussion Comment No.: 2 Comment: ennek kapcsán: https://www.openstreetmap.org/changeset/145323275 Date: 2023-12-22T20:29:56+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/145366722</link>
+        <guid>https://www.openstreetmap.org/changeset/145366722#comment_2</guid>
+        <pubDate>2023-12-22T20:29:56+01:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: source=survey elfelejtetten beírni Date: 2023-12-22T14:38:50+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/145409271</link>
+        <guid>https://www.openstreetmap.org/changeset/145409271#comment_1</guid>
+        <pubDate>2023-12-22T14:38:50+01:00</pubDate>
+      </item>
   </channel>
 </rss>
