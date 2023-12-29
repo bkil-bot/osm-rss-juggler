@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3923548 (near 8200, Central Transdanubia, 8200, Hungary) / * 2023 October 4 16:52 Created: A 12-es busz már nem jön be ide a parkolóba. Lásd: https://vbusz.hu/2023/08/24/modosul-a-menetrend-2023-09-01-tol/ / * 2023 December 29 17:41 vasony Resolved: javítva</title>
+        <link>https://www.openstreetmap.org/note/3923548#c8812532</link>
+        <guid>https://www.openstreetmap.org/note/3923548#c8812532</guid>
+        <pubDate>Fri, 29 Dec 2023 17:41:25 +0000</pubDate>
+      </item><item>
+        <title>closed note 3739633 (near 8200, Central Transdanubia, 8200, Hungary) / * 2023 June 17 21:40 ironalloy Created: Nem lenne jobb eltávolítani a lépcsőt teljesen? benőtte a növényzet, rádőltek a fák stb. / * 2023 October 15 17:05 wertol Updated: A Galamb utcai vége korláttal van lezárva, ha jól láttam, de szerintem előbb-utóbb felújítják... / * 2023 December 29 17:21 vasony Resolved: Célszerű lett volna abandoned: prefix-szel ellátni, nem csak törölni, így a térképen nem jelenik meg, de nem lesz visszarajzolva. Ezt most pótoltam. / A jegyzet így lezárható, ha fel lesz újítva akkor csak át kell címkézni.</title>
+        <link>https://www.openstreetmap.org/note/3739633#c8812452</link>
+        <guid>https://www.openstreetmap.org/note/3739633#c8812452</guid>
+        <pubDate>Fri, 29 Dec 2023 17:21:09 +0000</pubDate>
+      </item><item>
         <title>closed note 4005185 (near 8200, Central Transdanubia, 8200, Hungary) / * 2023 December 29 17:14 vasony Resolved: Marad így az újabb tábla és a földhivatal szerint is Szegfű.</title>
         <link>https://www.openstreetmap.org/note/4005185#c8812411</link>
         <guid>https://www.openstreetmap.org/note/4005185#c8812411</guid>
@@ -192,11 +202,6 @@
         <link>https://www.openstreetmap.org/note/4012678#c8806729</link>
         <guid>https://www.openstreetmap.org/note/4012678#c8806729</guid>
         <pubDate>Thu, 28 Dec 2023 12:36:13 +0000</pubDate>
-      </item><item>
-        <title>new comment 4043526 (near 1024, Central Hungary, 1024, Hungary) / * 2023 December 28 12:33 bkil Updated: Hány méter magas, mekkora az átmérője, milyen anyagból készült, kivilágított-e, milyen információ szerepel rajta, hangos-e, melegít-e, van-e valami más funkciója rajta?</title>
-        <link>https://www.openstreetmap.org/note/4043526#c8806699</link>
-        <guid>https://www.openstreetmap.org/note/4043526#c8806699</guid>
-        <pubDate>Thu, 28 Dec 2023 12:33:36 +0000</pubDate>
       </item>
   </channel>
 </rss>
