@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: urbalazs Discussion Comment No.: 4 Comment: Ez a vágánytengely ugrás olyan dolog, amit a szerkesztők kis része ismer csak. Ha nem én rontom el, akkor jön más, aki a validátor alapján „megjavítja”. Azt javaslom, hogy ahol vágánytengely ugrás van, tegyél egy `note=Ne kösd össze, vágánytengely ugrás` címkét a mindkét sínpálya utolsó pontjaira. Így a szerkesztőprogram jelezni fogja, hogy ott van valami, te pedig bármikor rá tudsz keresni ezekre a `note`-okra, és ellenőrizheted a meglétüket. Date: 2023-12-29T07:33:55+01:00</title>
+        <title>Contributor: balint36 Discussion Comment No.: 5 Comment: Van jobb ötletem. Szerintem az elvárható, hogy mindenki nézze meg, hogy az elvégzendő módosítás helyes-e egyáltalán. Vagy hogy korábban miért is csinálták úgy, és indokolt-e attól eltérni. Gondold csak végig. Most te a korábbi #73121 számú, Tokodi elágazás-Almásfüzitő viszonylatot kissé önkényes módon átalakítottad Esztergom-Almásfüzitő viszonylattá. Az OSM-en kívül csomó helyen van hivatkozás az OSM-kapcsolatokra, a Wikidatába is töltögetjük a vasútvonalakhoz a megfelelő kapcsolatot. Most te az egyik kapcsolatot teljesen átpakoltad, így a korábbi összekötések sérülhetnek. De ugyanígy nem gondoltad át a 16-os vonal átcímkézését sem. A kapcsolatban ott virít a mai napig, hogy a kapcsolatra a forrás a VPE. A VPE ezen adatai nyílt hozzáférhetésűek, így mindenki számára látható, hogy oda az van írva, hogy Hegyeshalomtól Porpácig tart. Ehhez képest te szemrebbenés nélkül átírtad Porpácot Szombathelyre, ami ügye ellent mond a hivatkozott forrásnak. Augusztusban megígérted a javítását, de azóta arra se szagoltál. Most már nem is kell, mert októberben megcsináltam helyetted, miközben kijavíttattam azt a hibát is, hogy a szerkesztő helytelenül felajánlja a &quot;GYSEV&quot;-&gt;&quot;GySEV&quot; cseréket. Csak kis odafigyelésre van szükség... Date: 2023-12-29T11:09:27+01:00</title>
         <link>https://www.openstreetmap.org/changeset/139586126</link>
-        <guid>https://www.openstreetmap.org/changeset/139586126#comment_4</guid>
-        <pubDate>2023-12-29T07:33:55+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/139586126#comment_5</guid>
+        <pubDate>2023-12-29T11:09:27+01:00</pubDate>
       </item><item>
         <title>Contributor: balint36 Discussion Comment No.: 3 Comment: És továbbra is várom, hogy Nyugat-Magyarországon az elrontott kapcsolatokat visszajavítsd... Ja, várhatok én hónapokat, úgyse válaszolsz... Date: 2023-12-28T19:06:42+01:00</title>
         <link>https://www.openstreetmap.org/changeset/139520268</link>
