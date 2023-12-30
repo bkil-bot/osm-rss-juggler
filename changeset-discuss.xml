@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: balint36 Discussion Comment No.: 9 Comment: https://osmlab.github.io/changeset-map/#145504664 Nyilvánvaló, hogy letöröltél egy vágányt. Az az R.III. vágány feletti csonka. https://www.kapella2.hu/map/trackwork/get-szolg-hely-helyszinrajz?p=eyJzem9sZ0hlbHlJZCI6NzY0OTE3OTA5fQ== Ezentúl az e-Migen is leellenőrizheted ezt a vágányt. Ha a jelenlegi állapotával van bajod, akkor azt törlés helyett címkézéssel jelölhetted volna. // It is obvious you deleted a track. This is the track above trarck R.III. https://www.kapella2.hu/map/trackwork/get-szolg-hely-helyszinrajz?p=eyJzem9sZ0hlbHlJZCI6NzY0OTE3OTA5fQ== Furthermore you can checj it on e-Mig. If you had problem with its current condtition instead deleting you could tag according the tagging scheme. Date: 2023-12-30T10:11:54+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/145504664</link>
+        <guid>https://www.openstreetmap.org/changeset/145504664#comment_9</guid>
+        <pubDate>2023-12-30T10:11:54+01:00</pubDate>
+      </item><item>
+        <title>Contributor: Kiss_Karoly Discussion Comment No.: 2 Comment: Szia! Persze, visszaírhatom. Azért írtam nagy betűre, mert így volt kiírva. Ezek városokban jellemző, nagy többszintes, épülettömbök, ahol a nagy betűk épületrészeket választanak el. Mindegyikben panellakásokkal. Nem tudom, mennyire mondtam érthetően. Date: 2023-12-30T09:40:15+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/145681623</link>
+        <guid>https://www.openstreetmap.org/changeset/145681623#comment_2</guid>
+        <pubDate>2023-12-30T09:40:15+01:00</pubDate>
+      </item><item>
         <title>Contributor: Filip009 Discussion Comment No.: 1 Comment: Hello, I think you created a duplicity to https://www.openstreetmap.org/node/457332410/history Date: 2023-12-30T09:17:11+01:00</title>
         <link>https://www.openstreetmap.org/changeset/136947217</link>
         <guid>https://www.openstreetmap.org/changeset/136947217#comment_1</guid>
@@ -52,11 +62,6 @@
         <link>https://www.openstreetmap.org/changeset/138664515</link>
         <guid>https://www.openstreetmap.org/changeset/138664515#comment_1</guid>
         <pubDate>2023-12-28T18:25:05+01:00</pubDate>
-      </item><item>
-        <title>Contributor: SomeoneElse Discussion Comment No.: 7 Comment: @Oha80 Törölte a https://www.openstreetmap.org/way/634493386/history oldalt. Meg tudod magyarázni, hogy miért? Date: 2023-12-27T20:20:40+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/145504664</link>
-        <guid>https://www.openstreetmap.org/changeset/145504664#comment_7</guid>
-        <pubDate>2023-12-27T20:20:40+01:00</pubDate>
       </item><item>
         <title>Contributor: Oha80 Discussion Comment No.: 2 Comment: Jah, vissza szoktam nézni idővel overpasson, csak még nem került rá sor. Date: 2023-12-27T16:48:18+01:00</title>
         <link>https://www.openstreetmap.org/changeset/145503663</link>
@@ -112,11 +117,6 @@
         <link>https://www.openstreetmap.org/changeset/144485034</link>
         <guid>https://www.openstreetmap.org/changeset/144485034#comment_1</guid>
         <pubDate>2023-12-23T17:31:01+01:00</pubDate>
-      </item><item>
-        <title>Contributor: efi99 Discussion Comment No.: 2 Comment: De. Date: 2023-12-23T10:31:46+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/145371396</link>
-        <guid>https://www.openstreetmap.org/changeset/145371396#comment_2</guid>
-        <pubDate>2023-12-23T10:31:46+01:00</pubDate>
       </item>
   </channel>
 </rss>
