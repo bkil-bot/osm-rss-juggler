@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: vasony Discussion Comment No.: 4 Comment: pl: If a sign is obviously in error, use not:name=* to prevent mappers without local knowledge from propagating the error in OpenStreetMap. Date: 2023-12-31T17:38:23+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/144485034</link>
+        <guid>https://www.openstreetmap.org/changeset/144485034#comment_4</guid>
+        <pubDate>2023-12-31T17:38:23+01:00</pubDate>
+      </item><item>
         <title>Contributor: balint36 Discussion Comment No.: 3 Comment: Az alábbi kapcsolatok elemét is törölted felelőtlen módon: https://www.openstreetmap.org/relation/7806439 https://www.openstreetmap.org/relation/9640002 https://www.openstreetmap.org/relation/9640005 https://www.openstreetmap.org/relation/9640011 https://www.openstreetmap.org/relation/9640012 https://www.openstreetmap.org/relation/9640016 https://www.openstreetmap.org/relation/9640018 https://www.openstreetmap.org/relation/9640025 https://www.openstreetmap.org/relation/9640027 https://www.openstreetmap.org/relation/9640086 https://www.openstreetmap.org/relation/2023086 Tulajdonképpen az egész módosítást vissza lehetne vonni, annyi kárt tettél... Date: 2023-12-31T17:16:22+01:00</title>
         <link>https://www.openstreetmap.org/changeset/145366078</link>
         <guid>https://www.openstreetmap.org/changeset/145366078#comment_3</guid>
@@ -32,11 +37,6 @@
         <link>https://www.openstreetmap.org/changeset/145698698</link>
         <guid>https://www.openstreetmap.org/changeset/145698698#comment_1</guid>
         <pubDate>2023-12-31T07:58:09+01:00</pubDate>
-      </item><item>
-        <title>Contributor: bkil Discussion Comment No.: 3 Comment: Valamilyen címkében jó volna jelölni a terepen olvasható szöveget. Date: 2023-12-30T20:29:58+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/144485034</link>
-        <guid>https://www.openstreetmap.org/changeset/144485034#comment_3</guid>
-        <pubDate>2023-12-30T20:29:58+01:00</pubDate>
       </item><item>
         <title>Contributor: SomeoneElse Discussion Comment No.: 14 Comment: To visualise the changes in this changeset, see https://overpass-api.de/achavi/?changeset=145504664 . There, where https://www.openstreetmap.org/way/634493386/history was deleted can be seen https://overpass-turbo.eu/s/1Fo1 . However, the Bing imagery doesn't show any track there. Date: 2023-12-30T13:04:21+01:00</title>
         <link>https://www.openstreetmap.org/changeset/145504664</link>
