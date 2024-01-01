@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: doktorszike Discussion Comment No.: 2 Comment: Szia Tamás! Köszi szépen és köszi szépen az infót is, legközelebb így fogom csinálni. Date: 2024-01-01T14:04:24+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/145728317</link>
+        <guid>https://www.openstreetmap.org/changeset/145728317#comment_2</guid>
+        <pubDate>2024-01-01T14:04:24+01:00</pubDate>
+      </item><item>
         <title>Contributor: bkil Discussion Comment No.: 5 Comment: Igen, ezért javasoltam, hogy legyen rajta is ami kielégíti a mesterséges intelligenciát (a fő szám) míg valahol máshol is legyen egy, ebben pedig a másik, amennyiben az eltér. Az pedig kézenfekvő, hogyha ugyanarra a logikai entitásra vonatkozik a két eltérő szám akkor legyen valahogy összekötve, ezért javasoltam, hogy az egyik maga a síkidomon (&quot;épület&quot;) jellemzője legyen, míg a másik a síkidom egy pontjának jellemzőjeként, mivel ez egy erős kötés adatbázis és jövőbeni lekérdezések szempontjából. Date: 2024-01-01T11:38:54+01:00</title>
         <link>https://www.openstreetmap.org/changeset/145679099</link>
         <guid>https://www.openstreetmap.org/changeset/145679099#comment_5</guid>
         <pubDate>2024-01-01T11:38:54+01:00</pubDate>
-      </item><item>
-        <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szia! A házszámok mellé legalább az utcát is fel kell vinni. Ezeket most pótolom. Tamás Date: 2024-01-01T07:54:47+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/145728317</link>
-        <guid>https://www.openstreetmap.org/changeset/145728317#comment_1</guid>
-        <pubDate>2024-01-01T07:54:47+01:00</pubDate>
       </item><item>
         <title>Contributor: vasony Discussion Comment No.: 7 Comment: A 2-es főutat visszaállítottam. Date: 2023-12-31T21:06:12+01:00</title>
         <link>https://www.openstreetmap.org/changeset/145366078</link>
@@ -147,11 +147,6 @@
         <link>https://www.openstreetmap.org/changeset/112664755</link>
         <guid>https://www.openstreetmap.org/changeset/112664755#comment_1</guid>
         <pubDate>2023-12-25T20:59:36+01:00</pubDate>
-      </item><item>
-        <title>Contributor: balint36 Discussion Comment No.: 1 Comment: Nem tudom, hogy a #00AFF0 színkód honnan jött, de a korábbi szín teljes mértékben helyes volt. Szeretnék rámutatni erre a doksira: https://mosz.co.hu/images/a2930/MAV-START-Ertesito-2017-21.pdf 5. oldal, 2. hasáb közepe táján leírja, hogy a személyvonatok a RGB 0, 160, 227 színkódot használják, ami nem a #00AFF0, sokkal inkább a korábban is használt #00A0E3. A többi színezést nem ellőriztem, hogy módosítottál-e azokon. Ezért megkérlek, hogy az általad júniusban módosított színeket állítsd vissza az eredetire az alábbi módon: Személy #00AFF0 (RGB: 0, 160, 227) Gyorsított: #B0CB1F (RGB: 176, 203, 31) Zónázó: #FECC00 (RGB: 254, 204, 0) Köszönöm. Date: 2023-12-25T14:55:38+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/137105688</link>
-        <guid>https://www.openstreetmap.org/changeset/137105688#comment_1</guid>
-        <pubDate>2023-12-25T14:55:38+01:00</pubDate>
       </item>
   </channel>
 </rss>
