@@ -3,6 +3,21 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Master list of WiFi AuthMODES?: Yep AuthMode is the thing! Working on the AtomGPS with Luke and trying to homogenize various approaches and naming. Will take a closer look at your info, thanks! -pejacoby</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11992#p11992</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11992#p11992</guid>
+        <pubDate>2024-01-02T03:20:39</pubDate>
+      </item><item>
+        <title>Re: Master list of WiFi AuthTypes?: A couple of things: 1. there is no AuthType field - I think you mean AuthMode? 2. There is not a master list, nor is there likely to be: per https://api.wigle.net/csvFormat.html and https://api.wigle.net/csvFormat-1_6.html: https://developer.android.com/reference ... pabilities describes but does not enumerate the accepted values. https://github.com/wiglenet/wigle-wifi- ... java#L193 (the whole file, but that's how we decide which icon to show) shows you how we use the values client-side -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11991#p11991</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11991#p11991</guid>
+        <pubDate>2024-01-02T03:06:26</pubDate>
+      </item><item>
+        <title>Master list of WiFi AuthTypes?: Hi guys, I asked privately and then thought to search the Board, but found nothing. Q: Is there a list of ‘standard’ naming for AuthType entries that Wigle expects or tolerates for inputs in the wigle.csv? Comparing code from JHewitt, LyndLabs, and other efforts there are some variations and also some items in &amp;lt;wifi.h&amp;gt; that aren’t in anyone's code yet. I have browsed the WigleWiFi Android app GIT but am not smart enough to find the fountain of truth. Any pointers? And so as to not be obtuse, this is the stuff I'm talking about: const char* getAuthType(uint8_t wifiAuth) { switch (wifiAuth) { case WIFI_AUTH_OPEN: return &quot;[OPEN]&quot;; case WIFI_AUTH_WEP: return &quot;[WEP]&quot;; case WIFI_AUTH_WPA_PSK: return &quot;[WPA_PSK]&quot;; case WIFI_AUTH_WPA2_PSK: return &quot;[WPA2_PSK]&quot;; case WIFI_AUTH_WPA_WPA2_PSK: return &quot;[WPA_WPA2_PSK]&quot;; case WIFI_AUTH_WPA2_ENTERPRISE: return &quot;[WPA2_ENTERPRISE]&quot;; case WIFI_AUTH_WPA3_PSK: return &quot;[WPA3_PSK]&quot;; case WIFI_AUTH_WPA2_WPA3_PSK: return &quot;[WPA2_WPA3_PSK]&quot;; case WIFI_AUTH_WAPI_PSK: return &quot;[WAPI_PSK]&quot;; default: return &quot;[UNDEFINED]&quot;; } -pejacoby</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11990#p11990</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11990#p11990</guid>
+        <pubDate>2024-01-02T02:23:17</pubDate>
+      </item><item>
         <title>Re: Need advice on building a full spectrum wifi wardriving rig: Howdy! I'm a long time lurker but noob War Driving Grey Hat Shenanigans causing script kiddy if you will and I'm recieving my first WiFi Pineapple monday and I was wondering if anyone could/would give me any advice on how best to utilize it along with my phone and pc. I know that I can hook up the pineapple to my phone so it'll have GPS attatched to the data, and as I plan on doing my War Driving while riding the bus to no particular place I was wanting advice/tips/fun things to do with my new hardware -baker.techie</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11981#p11981</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11981#p11981</guid>
@@ -62,21 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11841#p11841</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11841#p11841</guid>
         <pubDate>2023-08-26T20:55:10</pubDate>
-      </item><item>
-        <title>Re: Best Android for WigleWifi: I have an android phone, it's a five year old model and when it gets hot it shuts down the apps I'm using on its own, even it can't turn on location now, is there a way to fix this? I need navigation badly when I'm out and about. And I can't replace my phone at the moment. https://yowhatsapp.org Thanks in advance, and sorry for the intrusion. -yowhatsapp</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11824#p11824</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11824#p11824</guid>
-        <pubDate>2023-08-11T02:25:52</pubDate>
-      </item><item>
-        <title>Re: Best Android for WigleWifi: Just remember to disable throttling on 10 and up.This is how I found out my phones been throttling my scans. I knew it wasnt getting as many as I thought there were but at least I know now hundreds of miles down the roads rather than thousands. Thanks arkasha! -ziggyshenene</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11823#p11823</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11823#p11823</guid>
-        <pubDate>2023-08-09T17:53:06</pubDate>
-      </item><item>
-        <title>Re: Increasing accuracy after scan: in the centralized database, we apply the trilateration techniques described elsewhere in this forum to the network record you see in the search interface/maps/APIs. We don't modify the individual observations. -arkasha</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11811#p11811</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11811#p11811</guid>
-        <pubDate>2023-08-02T16:08:07</pubDate>
       </item>
   </channel>
 </rss>
