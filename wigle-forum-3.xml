@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: File Formats: KML vs CSV vs Magic8Ball vs SQLite: In order to transfer information between databases, comma-separated values (CSV) is a popular format. You may view this in a text editor in most spreadsheet systems, such as Google Sheets, Libra Office Calcul, and Excel, among many others. Many SQL databases support its direct usage, and I'm not sure what Apple utilizes. Since Wiggle blocked location services, you will not be able to view your exact location or time when playing Magic8ball. However, I will find a solution. My understanding is that SQLite 3 does not necessitate a server since it is either an embedded database or an on-disc database. It looks like any other file, but it can be searched and processed using the SQL language. -carterodell</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11993#p11993</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11993#p11993</guid>
+        <pubDate>2024-01-02T03:39:39</pubDate>
+      </item><item>
         <title>Re: Master list of WiFi AuthMODES?: Yep AuthMode is the thing! Working on the AtomGPS with Luke and trying to homogenize various approaches and naming. Will take a closer look at your info, thanks! -pejacoby</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11992#p11992</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11992#p11992</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11842#p11842</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11842#p11842</guid>
         <pubDate>2023-08-29T08:36:31</pubDate>
-      </item><item>
-        <title>BU 353N not working on PI: Has anybody tried using the 353-S4 replacement 353N? It works fine in Windows but can not seem to get gpsd to take the input. -superfan321</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11841#p11841</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11841#p11841</guid>
-        <pubDate>2023-08-26T20:55:10</pubDate>
       </item>
   </channel>
 </rss>
