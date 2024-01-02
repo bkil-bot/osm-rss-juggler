@@ -3,6 +3,11 @@
   <channel>
     <title>WiGLE Frontpage (via bkil-bot)</title>
       <item>
+        <title>Re: Email verification changes: We're not currently requiring older accounts to verify. If the abuse attempts continue, we may revisit that decision, but if we do, we'll provide a clear path for verification. -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=11995#p11995</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=11995#p11995</guid>
+        <pubDate>2024-01-02T16:08:27</pubDate>
+      </item><item>
         <title>Re: Email verification changes: Who tf uses throwaway email accounts? This isn't r/confessions or the dating app you're hiding from your significant other. By the way, I don't see it mentioned, is this something that ONLY affects new account registration, or are you sending verification emails to existing accounts as well? -vsa77</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11994#p11994</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11994#p11994</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11780#p11780</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11780#p11780</guid>
         <pubDate>2023-07-19T20:44:06</pubDate>
-      </item><item>
-        <title>Re: RF Hacker Sanctuary DEF CON 31 World Wide Wardrive: Can we get some sort of clarification or further explanation on how the scoring works? It says that it is based on &quot;coverage&quot;. Can we have more detail on what that means please. My inference is that the data submitted during the contest time frame will be compared with existing data that has already been submitted and our score will be based on how much of a percentage of our data matches to the existing data. Is this correct? -K0R41</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11779#p11779</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11779#p11779</guid>
-        <pubDate>2023-07-19T17:56:14</pubDate>
       </item>
   </channel>
 </rss>
