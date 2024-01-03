@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>Do you use #OpenStreetMap as part of your job? Is your employer an OSMF Corporate Member? Here&amp;#39;s how a company can join, and give back to the OSM project! https://osmfoundation.org/wiki/Join_as_a_corporate_member #OSM #OSMF</title>
+        <link>https://en.osm.town/@openstreetmap/111692624959866713</link>
+        <guid>https://en.osm.town/@openstreetmap/111692624959866713</guid>
+        <pubDate>Wed, 03 Jan 2024 15:03:24 +0000</pubDate>
+      </item><item>
         <title>🎉 Cheers to another year of mapping adventures! May your New Year be filled with exciting mapping challenges and successful contributions. Let&amp;#39;s map a brighter future together! 🌐🚀 #OpenStreetMap #maps #gischat #map #geo #gis</title>
         <link>https://en.osm.town/@openstreetmap/111678046991486507</link>
         <guid>https://en.osm.town/@openstreetmap/111678046991486507</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/111539206799155789</link>
         <guid>https://en.osm.town/@openstreetmap/111539206799155789</guid>
         <pubDate>Thu, 07 Dec 2023 12:47:08 +0000</pubDate>
-      </item><item>
-        <title>The OSMF AGM will take place, like every year, on IRC, on the `#osmf-gm` channel on the OFTC network. You can join with a IRC client, using the web page, or via a Matrix client https://osmfoundation.org/wiki/Annual_General_Meetings/2023#Join</title>
-        <link>https://en.osm.town/@openstreetmap/111539201906751745</link>
-        <guid>https://en.osm.town/@openstreetmap/111539201906751745</guid>
-        <pubDate>Thu, 07 Dec 2023 12:45:54 +0000</pubDate>
       </item>
   </channel>
 </rss>
