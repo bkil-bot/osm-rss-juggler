@@ -3,6 +3,21 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: Filip009 Discussion Comment No.: 3 Comment: Okay, thanks fo informations. I have also find 3 more in my area, so I will delete them all. https://resultmaps.neis-one.org/osm-discussion-comments?uid=18781095 Date: 2024-01-03T20:15:34+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/136947217</link>
+        <guid>https://www.openstreetmap.org/changeset/136947217#comment_3</guid>
+        <pubDate>2024-01-03T20:15:34+01:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 3 Comment: Ezt mondd a microsoftos szerkesztőknek akik Bing alapján kontárkodnak... iD-ben meg valamiért a 2021-es újbuda az alapértelmezett. Amíg Bingen látszik, és nincs a helyén más, addig megéri fennhagyni, de igazából mindegy. Date: 2024-01-03T20:14:36+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/145667320</link>
+        <guid>https://www.openstreetmap.org/changeset/145667320#comment_3</guid>
+        <pubDate>2024-01-03T20:14:36+01:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 3 Comment: A disused: pontosan ezt jelenti: ott van az elem, de nem használják már arra amire eredetileg szánták. Wiki szócikk ezt írja le, egy bezárt kocsmával szemléltetve: https://wiki.openstreetmap.org/wiki/Key:disused:amenity Esetleg egy landuse=cemetery még rákerülhet a disused:amenity mellé, mert az még továbbra is igaz. Az old_name name-re javítása szerintem ok. Date: 2024-01-03T19:34:26+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/145667054</link>
+        <guid>https://www.openstreetmap.org/changeset/145667054#comment_3</guid>
+        <pubDate>2024-01-03T19:34:26+01:00</pubDate>
+      </item><item>
         <title>Contributor: urbalazs Discussion Comment No.: 1 Comment: Szia Turboscsiga! Kérlek, hogy ne szedd le az épületekről a házszámokat, ha már egyszer rajtuk van. Amiket most leszedtél, azok egy részét én mértem fel, és nekem nem tetszik az, hogy különálló pontként szerepelteted a házszámot. Ez felvet egy további problémát is, miszerint ha valaki erre jár a StreetComplete alkalmazással, akkor a program megkérdezi tőle, hogy mi az épület házszáma, mert nincs az épületen szám. Kérlek, hogy tedd vissza a házszámokat az épületere, és ne csinálj felesleges munkát a többi szerkesztőnek. Date: 2024-01-03T08:38:21+01:00</title>
         <link>https://www.openstreetmap.org/changeset/145789821</link>
         <guid>https://www.openstreetmap.org/changeset/145789821#comment_1</guid>
@@ -107,21 +122,6 @@
         <link>https://www.openstreetmap.org/changeset/145681623</link>
         <guid>https://www.openstreetmap.org/changeset/145681623#comment_4</guid>
         <pubDate>2023-12-30T10:35:54+01:00</pubDate>
-      </item><item>
-        <title>Contributor: Filip009 Discussion Comment No.: 1 Comment: Hello, I think you created a duplicity to https://www.openstreetmap.org/node/457332410/history Date: 2023-12-30T09:17:11+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/136947217</link>
-        <guid>https://www.openstreetmap.org/changeset/136947217#comment_1</guid>
-        <pubDate>2023-12-30T09:17:11+01:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Újranyitott a temető? Van erről valami hír? Én úgy tudom 1945 óta nem használják, mi volt a baj a régi címkékkel? Date: 2023-12-29T18:44:28+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/145667054</link>
-        <guid>https://www.openstreetmap.org/changeset/145667054#comment_1</guid>
-        <pubDate>2023-12-29T18:44:28+01:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! A demolished: prefixű dolgokat jó fennhagyni amíg nincs semmi a helyükön. Ezzel megelőzöd, hogy valaki véletlenül visszarajzolja őket egy régi műholdkép alapján. Date: 2023-12-29T18:41:01+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/145667320</link>
-        <guid>https://www.openstreetmap.org/changeset/145667320#comment_1</guid>
-        <pubDate>2023-12-29T18:41:01+01:00</pubDate>
       </item><item>
         <title>Contributor: balint36 Discussion Comment No.: 1 Comment: Ózdi úti körforgalom miért ilyen? Középen van kereszteződés? A körforgalom közepén át lehet menni? Date: 2023-12-29T12:11:18+01:00</title>
         <link>https://www.openstreetmap.org/changeset/145547741</link>
