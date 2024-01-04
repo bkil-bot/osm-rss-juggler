@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4052385 (near 1117, Central Hungary, 1117, Hungary) / * 2024 January 4 07:57 kogutowicz-mano Resolved: </title>
+        <link>https://www.openstreetmap.org/note/4052385#c8831876</link>
+        <guid>https://www.openstreetmap.org/note/4052385#c8831876</guid>
+        <pubDate>Thu, 04 Jan 2024 07:57:58 +0000</pubDate>
+      </item><item>
+        <title>new note 4052385 (near 1117, Central Hungary, 1117, Hungary) / * 2024 January 4 07:57 kogutowicz-mano Created: Ez a kép hasznos lehet pár év múlva. / https://telex.hu/gazdasag/2024/01/04/kopaszi-gat-mav-volan-asz-garancsi-hernadi-szekhaz-iroda-berles-budapart</title>
+        <link>https://www.openstreetmap.org/note/4052385#c8831875</link>
+        <guid>https://www.openstreetmap.org/note/4052385#c8831875</guid>
+        <pubDate>Thu, 04 Jan 2024 07:57:56 +0000</pubDate>
+      </item><item>
         <title>new note 4052243 (near 1201, Central Hungary, 1201, Hungary) / * 2024 January 4 03:08 Hungarian_user Created: 64-es sor / #EveryDoor</title>
         <link>https://www.openstreetmap.org/note/4052243#c8831631</link>
         <guid>https://www.openstreetmap.org/note/4052243#c8831631</guid>
@@ -127,11 +137,6 @@
         <link>https://www.openstreetmap.org/note/4050416#c8826678</link>
         <guid>https://www.openstreetmap.org/note/4050416#c8826678</guid>
         <pubDate>Tue, 02 Jan 2024 17:47:02 +0000</pubDate>
-      </item><item>
-        <title>new comment 3307808 (near 9700, Western Transdanubia, 9700, Hungary) / * 2022 August 10 08:00 CopperOppositeKindred Created: Unable to answer &amp;quot;Who is allowed to park here? Parking may be free or paid.&amp;quot; for https://osm.org/way/355324054 via StreetComplete 45.2: / Bizonytalan, hogy a &amp;quot;kizárólag engedéllyel rendelkezők&amp;quot; kategóriába tartozik-e / Attached photo(s): / https://westnordost.de/p/107205.jpg / * 2023 August 17 05:07 kogutowicz-mano Resolved: 5 parkolóhely kizárólag mozgáskorlátozottaknak. Más megszorítás nincs. / Attribútumok pontosítva. / * 2023 August 17 20:54 vasony Reactivated:  / * 2023 August 17 20:55 vasony Updated: azért a táblán ott egy mind2 irányból behajtani tilos, a szervizútra azért rá kell kerülön vmi access / * 2023 August 17 21:00 vasony Resolved: felkerült / * 2023 August 18 05:44 kogutowicz-mano Reactivated:  / * 2023 August 18 06:05 kogutowicz-mano Resolved: A táblának semmi értelme mivel nincs két irány. Autóval zsákutca. A biciklisek meg nem foglalkoznak vele. Nincs is párja a &amp;quot;másik&amp;quot; oldal felől. / A vehicle=private nem helytálló. Bármely mozgáskorlátozott beparkolhat. / Átszerkeztettem. / * 2023 August 18 11:42 vasony Reactivated:  / * 2023 August 18 11:44 vasony Updated: A mindkét irányból behajtani tilos, kivéve engedéllyen (jelen esetben üzemeltető) jelölése vehicle=private. / A kivéve mozgáskorlátozott jelölése disabled=yes. Ezeket mind ráraktam. Az hogy te nem látod értelmét, jelezd a közútkezelőnek, én a tábla alapján vittem fel. / * 2023 August 18 11:48 vasony Updated: de nagyobb baj, hogy letörölted az utat így a szerkesztés történet sincs meg, és most a parkoló a levegőben lóg, nincs kapcsolata egyik úttal sem / * 2023 August 19 05:41 kogutowicz-mano Updated: Ott van az! / https://www.openstreetmap.org/way/315228006/history / * 2023 August 19 06:14 vasony Updated: Ok, akkor csak bénán lett elvágva. / A többit fenntartom, a parkoló a levegőben lóg (nem érintkezik úttal) és az úton nincs jelölve a behajtani tilos amit a képen látni / * 2023 August 19 16:22 kogutowicz-mano Updated: Bénán? / Úgy tudtam, csak egyféleképpen lehet elvágni egy vonalat. Kijelölök egy pontot, és kiadom rajta a vágás parancsot. / * 2023 August 19 17:17 vasony Updated: iD-ban csak bénán, josm-ben lehet választani melyik örökölje. / * 2024 January 2 17:39 infeeeee Updated: Van ezzel a jegyzettel még valami teendő?</title>
-        <link>https://www.openstreetmap.org/note/3307808#c8826658</link>
-        <guid>https://www.openstreetmap.org/note/3307808#c8826658</guid>
-        <pubDate>Tue, 02 Jan 2024 17:39:21 +0000</pubDate>
       </item>
   </channel>
 </rss>
