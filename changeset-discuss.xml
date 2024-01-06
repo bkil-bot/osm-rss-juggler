@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: urbalazs Discussion Comment No.: 1 Comment: Szia efi99! Nem tudom, hogy Mosonmagyaróváron van-e helyi rendelet a házszámozásra, de amelyik településen van (például Budapesten), ott az épületek házszámaiban lévő alátöréseket kisbetűvel (azaz Gorkij utca 5/a), az azonos telken álló különböző épületeket pedig nagybetűvel (például Petőfi út 1/b. A épület) kell jelölni. Hogy egységes legyen a térkép, azt javasolnám, hogy te is kövesd ezt a jelölést. Date: 2024-01-06T08:50:19+01:00</title>
+        <title>Contributor: efi99 Discussion Comment No.: 2 Comment: Üdv. A móvári rendeletben pont nem szabályozzák ezt a kérdést, de az eddig általam számozott településeken a helyi rendelet mindenhol nagybetűt írt alátörésnek. Keverni viszont egyik sem keverte. Nem mellesleg a Gorkij utcában az 5/a kicsi, az 5/D nagy (a helyszínen). Szerintem ennek nincs nagy jelentősége, sok naviban nem is lehet választani a bevitelnél, csak egyik fajta van. Sokkal nagyobb baj továbbá, hogy a foldhivatal.hu-n eltérések vannak a helyszíniekkel, vagy egyenesen nem ad meg(!) házszámot. Pl a Pacsirta u 1/A az a Földhivatalnál Gorkij 5... Az sem zavar senkit, hogy az UFM Aréna címe sok helyen megegyezik a gimnáziuméval (pl a saját fb oldalán is), ami nyilvánvalóan értelmetlen, hiába egy telek, teljesen különböző funkciójú épületek, közük nincs egymáshoz. Date: 2024-01-06T11:05:12+01:00</title>
         <link>https://www.openstreetmap.org/changeset/145938649</link>
-        <guid>https://www.openstreetmap.org/changeset/145938649#comment_1</guid>
-        <pubDate>2024-01-06T08:50:19+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/145938649#comment_2</guid>
+        <pubDate>2024-01-06T11:05:12+01:00</pubDate>
       </item><item>
         <title>Contributor: ITineris Discussion Comment No.: 2 Comment: Szia! Az Ilona-lakhoz a Hosszú-völgyből felvezető ösvényre egyrészt visszaraktad a highway=path címkét, de rajtahagytad az abandoned:highway-t és az access=no-t (ami a note-ban is szereplő &quot;járhatatlan&quot;). Ezek ellentmondanak egymásnak. Másrészt most akkor ez az ösvény járható (van róla nem túl régi GPX tracked), vagy sem? Üdv: Ákos Date: 2024-01-05T18:00:32+01:00</title>
         <link>https://www.openstreetmap.org/changeset/131010332</link>
