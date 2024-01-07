@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3790861 (near 2083, Central Hungary, 2083, Hungary) / * 2023 July 21 08:56 vasony-qa Created: valószínű el vannak csúszva a számok, újra felmérendő / * 2023 August 19 13:21 easimer Updated: Bejártam az utcát 1-től 48-ig, a páratlan oldalon nem volt hiba a házszámoknál, csak a páros oldal volt elcsúszva, mert a &amp;quot;Schultz söröző&amp;quot; a Mátyás királyra volt rakva, pedig az a Hősök 2, ami eddig Hősök 2 volt, az valójában 2/a és a mostani 2/b épülete elé két address feature volt helyezve (pedig csak egy cím), hibás számokkal. / * 2023 August 24 05:59 vasony Updated: Akkor még az 48 és 45 fölötti számokat kell megnézni, mert több szám van mint ház, illetve a 43-43/a a kérdéses / * 2024 January 6 23:54 urbalazs Resolved: A páros oldalon van 50/b, a páratlan oldalon nincs 45. Ezek miatt voltak az elcsúszások és a nem egyező darabszámok. Javítottam.</title>
+        <link>https://www.openstreetmap.org/note/3790861#c8842590</link>
+        <guid>https://www.openstreetmap.org/note/3790861#c8842590</guid>
+        <pubDate>Sat, 06 Jan 2024 23:54:25 +0000</pubDate>
+      </item><item>
         <title>closed note 4038028 (near Molnártanya, Mosonmagyaróvár) / * 2023 December 23 12:24 vasony Created: Ez a Levendula köz? / * 2024 January 6 21:15 efi99 Resolved: igen</title>
         <link>https://www.openstreetmap.org/note/4038028#c8842179</link>
         <guid>https://www.openstreetmap.org/note/4038028#c8842179</guid>
@@ -262,26 +267,6 @@
         <link>https://www.openstreetmap.org/note/3701571#c8839414</link>
         <guid>https://www.openstreetmap.org/note/3701571#c8839414</guid>
         <pubDate>Sat, 06 Jan 2024 08:32:59 +0000</pubDate>
-      </item><item>
-        <title>new comment 3704633 (near 2030, Central Hungary, 2030, Hungary) / * 2023 May 24 23:38 urbalazs Created: Ez a Fogarasi utca? / * 2024 January 6 08:21 vasony Updated: igen, utcatabla nincs, de a 8/2 hazon kint van</title>
-        <link>https://www.openstreetmap.org/note/3704633#c8839396</link>
-        <guid>https://www.openstreetmap.org/note/3704633#c8839396</guid>
-        <pubDate>Sat, 06 Jan 2024 08:21:45 +0000</pubDate>
-      </item><item>
-        <title>new note 4055045 (near 7200, Southern Transdanubia, 7200, Hungary) / * 2024 January 6 05:59 kogutowicz-mano Created: Itt valahol új szervizút. / https://computerworld.hu/cwex/ipari-teruletet-bovitenek-dombovaron-351296.html</title>
-        <link>https://www.openstreetmap.org/note/4055045#c8839205</link>
-        <guid>https://www.openstreetmap.org/note/4055045#c8839205</guid>
-        <pubDate>Sat, 06 Jan 2024 05:59:19 +0000</pubDate>
-      </item><item>
-        <title>new note 4055044 (near 7200, Southern Transdanubia, 7200, Hungary) / * 2024 January 6 05:58 kogutowicz-mano Created: Parcellázás, utak, parkolók, egyéb infrastruktúra. / https://computerworld.hu/cwex/ipari-teruletet-bovitenek-dombovaron-351296.html</title>
-        <link>https://www.openstreetmap.org/note/4055044#c8839204</link>
-        <guid>https://www.openstreetmap.org/note/4055044#c8839204</guid>
-        <pubDate>Sat, 06 Jan 2024 05:58:48 +0000</pubDate>
-      </item><item>
-        <title>new note 4054747 (near 1092, Central Hungary, 1092, Hungary) / * 2024 January 5 23:38 Nagy Ferenc László Created: Unable to answer &amp;quot;Are the pickup times of this collection box still correct?&amp;quot; for https://osm.org/node/2766675248 via StreetComplete 55.1: / Passz. / Attached photo(s): / https://westnordost.de/p/191928.jpg</title>
-        <link>https://www.openstreetmap.org/note/4054747#c8838623</link>
-        <guid>https://www.openstreetmap.org/note/4054747#c8838623</guid>
-        <pubDate>Fri, 05 Jan 2024 23:38:18 +0000</pubDate>
       </item>
   </channel>
 </rss>
