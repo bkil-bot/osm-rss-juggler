@@ -3,6 +3,21 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: vasony Discussion Comment No.: 1 Comment: Kedves György! Mi az Ibolya lépcső forrása? Budapest közterület jegyzékében ilyen nem szerepel. Tamás Date: 2024-01-07T22:13:02+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/145902143</link>
+        <guid>https://www.openstreetmap.org/changeset/145902143#comment_1</guid>
+        <pubDate>2024-01-07T22:13:02+01:00</pubDate>
+      </item><item>
+        <title>Contributor: vasony Discussion Comment No.: 1 Comment: Az addr:street-be továbbra is az utcanév megy amit az osm tartalmaz, nem az ami a ház táblájára van írva. Ha átjavítod, csak nekünk csinálsz vele plusz munkát. Date: 2024-01-07T21:53:09+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/145890370</link>
+        <guid>https://www.openstreetmap.org/changeset/145890370#comment_1</guid>
+        <pubDate>2024-01-07T21:53:09+01:00</pubDate>
+      </item><item>
+        <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szia! A csomagpont az üzlet egy tulajdonsága. Az összevonás azt jelentette volna, hogy rámásolod a kulcsokat a coopra és törlöd ezt a csomagpontot, nem azt hogy postát csinálsz belőle. Most javítottam. Tamás Date: 2024-01-07T21:49:16+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/145899470</link>
+        <guid>https://www.openstreetmap.org/changeset/145899470#comment_1</guid>
+        <pubDate>2024-01-07T21:49:16+01:00</pubDate>
+      </item><item>
         <title>Contributor: balint36 Discussion Comment No.: 1 Comment: Habár arról van szó, hogy &quot;Pusztaszabolcs kapcsolatok helyreállítása&quot;, szabad megkérdeznem, miért tűnt el e szerkesztés következtében több kapcsolat több tagja is? Például itt van ez: https://www.openstreetmap.org/relation/5189506 Pusztaszabolcsról induló személy valamiért nem áll meg Pusztaszabolcson. Date: 2024-01-07T11:08:16+01:00</title>
         <link>https://www.openstreetmap.org/changeset/139513269</link>
         <guid>https://www.openstreetmap.org/changeset/139513269#comment_1</guid>
@@ -87,11 +102,6 @@
         <link>https://www.openstreetmap.org/changeset/145679099</link>
         <guid>https://www.openstreetmap.org/changeset/145679099#comment_5</guid>
         <pubDate>2024-01-01T11:38:54+01:00</pubDate>
-      </item><item>
-        <title>Contributor: vasony Discussion Comment No.: 7 Comment: A 2-es főutat visszaállítottam. Date: 2023-12-31T21:06:12+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/145366078</link>
-        <guid>https://www.openstreetmap.org/changeset/145366078#comment_7</guid>
-        <pubDate>2023-12-31T21:06:12+01:00</pubDate>
       </item>
   </channel>
 </rss>
