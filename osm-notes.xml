@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4056640 (near 3800, Hungary) / * 2024 January 7 07:34 vasony Created: Pázmány tér vagy Pázmány Péter tér szerepel az utcatáblán? (mindkető volt itt jelölve)</title>
+        <link>https://www.openstreetmap.org/note/4056640#c8843179</link>
+        <guid>https://www.openstreetmap.org/note/4056640#c8843179</guid>
+        <pubDate>Sun, 07 Jan 2024 07:34:40 +0000</pubDate>
+      </item><item>
         <title>closed note 3790861 (near 2083, Central Hungary, 2083, Hungary) / * 2023 July 21 08:56 vasony-qa Created: valószínű el vannak csúszva a számok, újra felmérendő / * 2023 August 19 13:21 easimer Updated: Bejártam az utcát 1-től 48-ig, a páratlan oldalon nem volt hiba a házszámoknál, csak a páros oldal volt elcsúszva, mert a &amp;quot;Schultz söröző&amp;quot; a Mátyás királyra volt rakva, pedig az a Hősök 2, ami eddig Hősök 2 volt, az valójában 2/a és a mostani 2/b épülete elé két address feature volt helyezve (pedig csak egy cím), hibás számokkal. / * 2023 August 24 05:59 vasony Updated: Akkor még az 48 és 45 fölötti számokat kell megnézni, mert több szám van mint ház, illetve a 43-43/a a kérdéses / * 2024 January 6 23:54 urbalazs Resolved: A páros oldalon van 50/b, a páratlan oldalon nincs 45. Ezek miatt voltak az elcsúszások és a nem egyező darabszámok. Javítottam.</title>
         <link>https://www.openstreetmap.org/note/3790861#c8842590</link>
         <guid>https://www.openstreetmap.org/note/3790861#c8842590</guid>
@@ -252,16 +257,6 @@
         <link>https://www.openstreetmap.org/note/3786349#c8839717</link>
         <guid>https://www.openstreetmap.org/note/3786349#c8839717</guid>
         <pubDate>Sat, 06 Jan 2024 10:16:56 +0000</pubDate>
-      </item><item>
-        <title>new comment 4033648 (near 8095, Central Transdanubia, 8095, Hungary) / * 2023 December 19 09:28 Matyjace Created: Forwarding anonymous report from #mapycz user, please verify: &amp;quot;closed&amp;quot; / * 2024 January 6 09:33 vasony Updated: az étterem van zárva, a pihenőhely nyitva</title>
-        <link>https://www.openstreetmap.org/note/4033648#c8839542</link>
-        <guid>https://www.openstreetmap.org/note/4033648#c8839542</guid>
-        <pubDate>Sat, 06 Jan 2024 09:33:56 +0000</pubDate>
-      </item><item>
-        <title>closed note 3761822 (near 2481, Central Transdanubia, 2481, Hungary) / * 2023 July 2 14:11 vasony Created: Boróka út vagy Boróka utca szerepel az utcatáblán? / * 2024 January 6 09:18 vasony Resolved: utca, de nem csak ennek a szakasznak a neve</title>
-        <link>https://www.openstreetmap.org/note/3761822#c8839506</link>
-        <guid>https://www.openstreetmap.org/note/3761822#c8839506</guid>
-        <pubDate>Sat, 06 Jan 2024 09:18:18 +0000</pubDate>
       </item>
   </channel>
 </rss>
