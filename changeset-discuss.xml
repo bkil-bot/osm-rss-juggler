@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: hildgyorgy Discussion Comment No.: 2 Comment: Kedves Tamás! Köszönöm szépen az észrevételt! Nagyon érdekes, én sem tudtam róla. Furcsa, hogy az Apple Maps jelöli így! Utánanéztem, és valóban hivatalosan nincs, ez a közterület nem létezik. De a lépcső - ugyan nagyon rossz állapotban - de ott van. Az 1929-es Tisza István liget felosztási térképén szerepel ez a név, de a forrásokl szerint akkor is inkább a környékbeli lakók adták neki ezt a nevet. Mit javasolsz? Szeretném megőrizni az elnevezést, hogy ne menjen feledésbe és miután nincs másik neve azóta se, ezért jónak tartanám az Ibolya-lépcső nevet. De természetesen szívesen teszek valamilyen megjegyzést, vagy egy “old-name” tag-et. Üdv, Gyuri Date: 2024-01-08T07:27:23+01:00</title>
+        <title>Contributor: vasony Discussion Comment No.: 4 Comment: Szia! Annyi kiegészítésként, hogy a noname=yes címke is szükséges ha nincs neve a loc_name mellé. Illetve, ha rossz állapotú, akkor ezt a smoothness/trail_visibility címkében érdemes lenne jelezni. Szerintem az Ady lépcső kicsit odébb is hasonló kategória lehet (bár nem voltam ott, nem tudom van-e ott bármi felirat), súlyosbítva azzal, hogy ott a buszmegállónak legalább ez a neve, erről mit gondolsz? Tamás Date: 2024-01-08T09:31:27+01:00</title>
         <link>https://www.openstreetmap.org/changeset/145902143</link>
-        <guid>https://www.openstreetmap.org/changeset/145902143#comment_2</guid>
-        <pubDate>2024-01-08T07:27:23+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/145902143#comment_4</guid>
+        <pubDate>2024-01-08T09:31:27+01:00</pubDate>
       </item><item>
         <title>Contributor: utvonalfelmeresek Discussion Comment No.: 2 Comment: Én azt teszem fel, amit a terepen tapasztalok. Ha az utca neve más, az arra a problémára figyelmeztet, hogy valami nem jó, tehát vagy az utca nevét kell változtatni, vagy az önkormányzatnál megtudakolni mi a helyzet, mindenesetre ha az utcanév forrása tisztázott, akkor azt érdemes lenne feltüntetni a source tagban valahogy. Vagy valami megjegyzésként, hogy ugyan a terepen utca van, de valójában az út. Date: 2024-01-08T06:30:01+01:00</title>
         <link>https://www.openstreetmap.org/changeset/145890370</link>
