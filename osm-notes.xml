@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment 3912529 (near 4100, North Great Plain, 4100, Hungary) / * 2024 January 8 20:59 DrGonzo_hu Updated: Szia, ez a közvetlen út melletti link sajnos rosszul került le, még akkor csináltam amikor próbálgattam mobilról az OSMand-el feltenni pontokat. Viszont a telefon gps-e rossz helyre tette a vízműtelepet, amit felvittem. / Ide kellett volna tennie: https://www.openstreetmap.org/way/708160637#map=18/47.22437/21.51702 / De nem tudtam visszavonni ezt a pontot, kérlek töröld. / Viszont ebben a rendszer által küldött emailben egy turistautas link is bekerült, ami ettől a ponttól délre, a Berettyó-folyó partján lévő házakra mutat. A gátőrház valós, a többi épület a gátőrséghez tartozik, de másfajta ingatlanok, s akkor se tudtam, hogy gátőrházként vagy mondjuk pajtaként vigyem fel. Ha kell pontosítás, megkérdezek volt viziges kollégákat, hogy melyik épület micsoda, vagy az egész csapat kerüljön gátőrház alá. Várom válaszod, segítséged köszönöm.</title>
+        <link>https://www.openstreetmap.org/note/3912529#c8849219</link>
+        <guid>https://www.openstreetmap.org/note/3912529#c8849219</guid>
+        <pubDate>Mon, 08 Jan 2024 20:59:44 +0000</pubDate>
+      </item><item>
         <title>new note 4058775 (near 1053, Central Hungary, 1053, Hungary) / * 2024 January 8 20:18 Created: Ferencnek tere</title>
         <link>https://www.openstreetmap.org/note/4058775#c8849137</link>
         <guid>https://www.openstreetmap.org/note/4058775#c8849137</guid>
@@ -292,11 +297,6 @@
         <link>https://www.openstreetmap.org/note/4055259#c8844353</link>
         <guid>https://www.openstreetmap.org/note/4055259#c8844353</guid>
         <pubDate>Sun, 07 Jan 2024 13:17:50 +0000</pubDate>
-      </item><item>
-        <title>closed note 2664410 (near 2081, Central Hungary, 2081, Hungary) / * 2021 May 11 11:08 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: Klotild statue is here. / * 2024 January 7 13:05 infeeeee Resolved: Added: https://www.openstreetmap.org/changeset/145990210</title>
-        <link>https://www.openstreetmap.org/note/2664410#c8844331</link>
-        <guid>https://www.openstreetmap.org/note/2664410#c8844331</guid>
-        <pubDate>Sun, 07 Jan 2024 13:05:27 +0000</pubDate>
       </item>
   </channel>
 </rss>
