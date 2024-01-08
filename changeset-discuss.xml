@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: bernardifeanyi1 Discussion Comment No.: 4 Comment: Thanx you all for repairing my mistakes Date: 2024-01-08T11:01:54+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/136947217</link>
+        <guid>https://www.openstreetmap.org/changeset/136947217#comment_4</guid>
+        <pubDate>2024-01-08T11:01:54+01:00</pubDate>
+      </item><item>
         <title>Contributor: vasony Discussion Comment No.: 4 Comment: Szia! Annyi kiegészítésként, hogy a noname=yes címke is szükséges ha nincs neve a loc_name mellé. Illetve, ha rossz állapotú, akkor ezt a smoothness/trail_visibility címkében érdemes lenne jelezni. Szerintem az Ady lépcső kicsit odébb is hasonló kategória lehet (bár nem voltam ott, nem tudom van-e ott bármi felirat), súlyosbítva azzal, hogy ott a buszmegállónak legalább ez a neve, erről mit gondolsz? Tamás Date: 2024-01-08T09:31:27+01:00</title>
         <link>https://www.openstreetmap.org/changeset/145902143</link>
         <guid>https://www.openstreetmap.org/changeset/145902143#comment_4</guid>
@@ -42,11 +47,6 @@
         <link>https://www.openstreetmap.org/changeset/142649690</link>
         <guid>https://www.openstreetmap.org/changeset/142649690#comment_4</guid>
         <pubDate>2024-01-03T22:51:45+01:00</pubDate>
-      </item><item>
-        <title>Contributor: Filip009 Discussion Comment No.: 3 Comment: Okay, thanks fo informations. I have also find 3 more in my area, so I will delete them all. https://resultmaps.neis-one.org/osm-discussion-comments?uid=18781095 Date: 2024-01-03T20:15:34+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/136947217</link>
-        <guid>https://www.openstreetmap.org/changeset/136947217#comment_3</guid>
-        <pubDate>2024-01-03T20:15:34+01:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 3 Comment: Ezt mondd a microsoftos szerkesztőknek akik Bing alapján kontárkodnak... iD-ben meg valamiért a 2021-es újbuda az alapértelmezett. Amíg Bingen látszik, és nincs a helyén más, addig megéri fennhagyni, de igazából mindegy. Date: 2024-01-03T20:14:36+01:00</title>
         <link>https://www.openstreetmap.org/changeset/145667320</link>
@@ -97,11 +97,6 @@
         <link>https://www.openstreetmap.org/changeset/145728317</link>
         <guid>https://www.openstreetmap.org/changeset/145728317#comment_2</guid>
         <pubDate>2024-01-01T14:04:24+01:00</pubDate>
-      </item><item>
-        <title>Contributor: bkil Discussion Comment No.: 5 Comment: Igen, ezért javasoltam, hogy legyen rajta is ami kielégíti a mesterséges intelligenciát (a fő szám) míg valahol máshol is legyen egy, ebben pedig a másik, amennyiben az eltér. Az pedig kézenfekvő, hogyha ugyanarra a logikai entitásra vonatkozik a két eltérő szám akkor legyen valahogy összekötve, ezért javasoltam, hogy az egyik maga a síkidomon (&quot;épület&quot;) jellemzője legyen, míg a másik a síkidom egy pontjának jellemzőjeként, mivel ez egy erős kötés adatbázis és jövőbeni lekérdezések szempontjából. Date: 2024-01-01T11:38:54+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/145679099</link>
-        <guid>https://www.openstreetmap.org/changeset/145679099#comment_5</guid>
-        <pubDate>2024-01-01T11:38:54+01:00</pubDate>
       </item>
   </channel>
 </rss>
