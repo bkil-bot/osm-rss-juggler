@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: utvonalfelmeresek Discussion Comment No.: 4 Comment: Az természetes, ha van gyaníthatóan az önkormányzat által kitett utcanév tábla, akkor azt veszem alapul! A kérdés, hogy ha nincs utcanév tábla, csak a házszám mellé van odabiggyesztve az út/utca, akkor jobb híján csak azt tudom figyelembe venni! Ha nincs egyéb információ forrás, akkor viszont az utca nevét kell módosítani. A további bonyolítást meg az lehet, ha csak házszámokon van út/utca és nem egységesen, akkor mi a túrót csináljon az ember! Erre mondom azt, hogy nem a hibakeresőnek térképezünk, hogy ne sípoljon a hibáért, hanem a hiba okát tárjuk fel, jelöljük meg a forrást, majd ha több forrás mást jelöl, döntsük el, melyiket tekintsük hivatalosnak, bár szerintem a hibakeresőt is lehetne javítani, hogy ne sípoljon ezért, hiszen nem a mi rendszerünkben van a hiba, hanem a valóságban is ez van, de megértem az egységességre való törekvést! Date: 2024-01-09T21:49:17+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/145890370</link>
+        <guid>https://www.openstreetmap.org/changeset/145890370#comment_4</guid>
+        <pubDate>2024-01-09T21:49:17+01:00</pubDate>
+      </item><item>
         <title>Contributor: bkil Discussion Comment No.: 1 Comment: A name:en címke az adott üzlet angolul kiejthető és közzétett (például kitáblázott, honlapon feltüntetett) változatának tárolására szolgál. Amennyiben ilyen nincs, javaslom, hogy töröljük a címkét. Date: 2024-01-09T19:44:11+01:00</title>
         <link>https://www.openstreetmap.org/changeset/56436928</link>
         <guid>https://www.openstreetmap.org/changeset/56436928#comment_1</guid>
@@ -12,11 +17,6 @@
         <link>https://www.openstreetmap.org/changeset/146078271</link>
         <guid>https://www.openstreetmap.org/changeset/146078271#comment_1</guid>
         <pubDate>2024-01-09T19:31:17+01:00</pubDate>
-      </item><item>
-        <title>Contributor: vasony Discussion Comment No.: 3 Comment: A gyakorlatod hibás. A házszámtáblán lévő utca írásmód a lakók döntése, semmi köze nincs a hivatalos vagy táblázott utcanévhez. Ha az egyik házon Kossuth út van a másikon Kossuth Lajos utca és ezt így rögzíted, akkor mindenképp hibát viszel a rendszerbe. Kérlek úgy vidd fel a címet, ahogy az utcatáblán szerepel, és ez szerepeljen az osm highway name címkéjében és az addr:street-ben, a kettő nem térhet el. Azt hogy a note-ba beírod, azzal nincs probléma. Javasolt áttekinteni: https://wiki.openstreetmap.org/wiki/Hungary/Jel%c3%b6l%c3%a9si_p%c3%a9ld%c3%a1k#C%C3%ADmek Date: 2024-01-09T19:26:14+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/145890370</link>
-        <guid>https://www.openstreetmap.org/changeset/145890370#comment_3</guid>
-        <pubDate>2024-01-09T19:26:14+01:00</pubDate>
       </item><item>
         <title>Contributor: efi99 Discussion Comment No.: 7 Comment: Nem kell ezt ennyire túlpolírozni. A használat során a cél az, hogy valakinek van egy címe és az alapján meg akarja találni az épületet. Ehhez mérten próbálom beszámozni a lehető legjobban. Hiába merülünk el a világ házszámozásainak rejtelmeiben, meg a címkézésekben, az alapproblémám az volt - és ezt nem oldja meg az OSM wikije - hogy egyes önkormányzatok ill tulajdonosok következetlenül vagy, ahol pedig indokolt lenne, sehogy nem számoznak. Esetleg nem lehet kideríteni mi a szám még a hivatalos nyilvántartásokból sem, pedig az épület áll és laknak is benne. Az UFM Aréna esetén senki azt keresgélőt nem érdekli, hogy hány telken van, meg mi a precíz szabály, ő azt szeretné, hogy az ominózus cím alapján, ne a gimnázium portása mondja el 100.-szor is, hogy nem ez az Aréna, hanem az ott van hátul a tulajdonképpen másik utcában. Kizárólag jegyzői döntés kérdése lenne, hogy kijelentené, hogy az a Kapucinius utca 4 és kész. Date: 2024-01-09T18:32:00+01:00</title>
         <link>https://www.openstreetmap.org/changeset/145938649</link>
