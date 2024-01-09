@@ -3,25 +3,25 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: BáthoryPéter Discussion Comment No.: 3 Comment: Szia Gyuri! Köszi a pozitív hozzáállást! Igen, ahol indokolt, ott nyugodtan rajzold vissza. Ha valahol csak rövid szakaszon van fizikai elválasztás, vagy jelentéktelenül kicsi, ott nem érdemes a különrajzolással vacakolni, nem ad hozzá sokat a végeredményhez – bár ez inkább magánvéleményem. Ha funkcionális oldalról nézed a kérdést, ahol az utca egyik oldaláról a másikra akadálytalanul át tudsz kelni, ott nem indokolt a külön járda. Ha bármi kérdésed van, a magyar közösséget Matrix chaten, levelezőlistán, vagy Facebookon tudod elérni: https://wiki.openstreetmap.org/wiki/Hungary És még egy tipp: a módosításcsomagoknak adhatnál beszédesebb leírást, mint a &quot;corrections&quot;. Nyugodtan lehet magyarul pár szóban összefoglalni, hogy mit miért módosítottál. Neked is könnyebb visszanézni, és mások is hamarabb átlátják. Date: 2024-01-09T09:09:10+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/145834718</link>
+        <guid>https://www.openstreetmap.org/changeset/145834718#comment_3</guid>
+        <pubDate>2024-01-09T09:09:10+01:00</pubDate>
+      </item><item>
+        <title>Contributor: hildgyorgy Discussion Comment No.: 6 Comment: És Balázsnak is köszönöm! Üdv, Gyuri Date: 2024-01-09T08:56:56+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/145902143</link>
+        <guid>https://www.openstreetmap.org/changeset/145902143#comment_6</guid>
+        <pubDate>2024-01-09T08:56:56+01:00</pubDate>
+      </item><item>
         <title>Contributor: Kiss_Karoly Discussion Comment No.: 2 Comment: Bocs. Javítom. Date: 2024-01-09T07:13:47+01:00</title>
         <link>https://www.openstreetmap.org/changeset/146043418</link>
         <guid>https://www.openstreetmap.org/changeset/146043418#comment_2</guid>
         <pubDate>2024-01-09T07:13:47+01:00</pubDate>
       </item><item>
-        <title>Contributor: BáthoryPéter Discussion Comment No.: 1 Comment: Szia! Az úttesttől fizikailag nem elválasztott járdákat nem kell külön felrajzolni. Ha megnézed ezeket az utcákat, mindegyiken rajta van a sidewalk=both címke, az elég. Mivel ebben a módosításcsomagban csak járdákat szerkesztettél, ezt visszavontam. A XI. kerületben elérhető egy szuper minőségű ortofotó, a Bing helyett ezt használd. üdv, Péter Date: 2024-01-08T13:48:08+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/145834718</link>
-        <guid>https://www.openstreetmap.org/changeset/145834718#comment_1</guid>
-        <pubDate>2024-01-08T13:48:08+01:00</pubDate>
-      </item><item>
         <title>Contributor: bernardifeanyi1 Discussion Comment No.: 4 Comment: Thanx you all for repairing my mistakes Date: 2024-01-08T11:01:54+01:00</title>
         <link>https://www.openstreetmap.org/changeset/136947217</link>
         <guid>https://www.openstreetmap.org/changeset/136947217#comment_4</guid>
         <pubDate>2024-01-08T11:01:54+01:00</pubDate>
-      </item><item>
-        <title>Contributor: vasony Discussion Comment No.: 4 Comment: Szia! Annyi kiegészítésként, hogy a noname=yes címke is szükséges ha nincs neve a loc_name mellé. Illetve, ha rossz állapotú, akkor ezt a smoothness/trail_visibility címkében érdemes lenne jelezni. Szerintem az Ady lépcső kicsit odébb is hasonló kategória lehet (bár nem voltam ott, nem tudom van-e ott bármi felirat), súlyosbítva azzal, hogy ott a buszmegállónak legalább ez a neve, erről mit gondolsz? Tamás Date: 2024-01-08T09:31:27+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/145902143</link>
-        <guid>https://www.openstreetmap.org/changeset/145902143#comment_4</guid>
-        <pubDate>2024-01-08T09:31:27+01:00</pubDate>
       </item><item>
         <title>Contributor: utvonalfelmeresek Discussion Comment No.: 2 Comment: Én azt teszem fel, amit a terepen tapasztalok. Ha az utca neve más, az arra a problémára figyelmeztet, hogy valami nem jó, tehát vagy az utca nevét kell változtatni, vagy az önkormányzatnál megtudakolni mi a helyzet, mindenesetre ha az utcanév forrása tisztázott, akkor azt érdemes lenne feltüntetni a source tagban valahogy. Vagy valami megjegyzésként, hogy ugyan a terepen utca van, de valójában az út. Date: 2024-01-08T06:30:01+01:00</title>
         <link>https://www.openstreetmap.org/changeset/145890370</link>

@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 1233821 (near 2220, Central Hungary, 2220, Hungary) / * 2017 December 9 12:24 KAMI Created: Ez a hely már nincs itt nyitva. Itt vannak https://m.facebook.com/halmy.faloda / * 2020 October 7 17:12 unacceptium Updated: az oldal nem létezik / * 2022 December 12 17:21 Spush Updated: A legújabb Maxar kép alapján már a játszótér sincsen meg, beépítették. / * 2024 January 9 09:06 urbalazs Resolved: Átrajzoltam a teret a legújabb Esri alapján.</title>
+        <link>https://www.openstreetmap.org/note/1233821#c8850498</link>
+        <guid>https://www.openstreetmap.org/note/1233821#c8850498</guid>
+        <pubDate>Tue, 09 Jan 2024 09:06:59 +0000</pubDate>
+      </item><item>
+        <title>closed note 3647933 (near 2220, Central Hungary, 2220, Hungary) / * 2023 April 18 06:57 Created: Dobó Katica utca / * 2024 January 9 08:26 urbalazs Resolved: Javítva: https://www.openstreetmap.org/changeset/146056433</title>
+        <link>https://www.openstreetmap.org/note/3647933#c8850381</link>
+        <guid>https://www.openstreetmap.org/note/3647933#c8850381</guid>
+        <pubDate>Tue, 09 Jan 2024 08:26:07 +0000</pubDate>
+      </item><item>
         <title>closed note 3532436 (near 1185, Central Hungary, 1185, Hungary) / * 2023 January 26 09:40 kogutowicz-mano Created: Ide hamarosan visszacsinálják a parkolót. / https://hvg.hu/cegauto/20230126_5_ev_utan_ujra_lehet_majd_parkolni_a_budapesti_repter_foparkolojaban_mutatjuk_a_munkalatokat / * 2024 January 9 08:14 urbalazs Resolved: Úgy látom, visszacsinálták OSM-en is.</title>
         <link>https://www.openstreetmap.org/note/3532436#c8850365</link>
         <guid>https://www.openstreetmap.org/note/3532436#c8850365</guid>
@@ -212,36 +222,6 @@
         <link>https://www.openstreetmap.org/note/4057931#c8846773</link>
         <guid>https://www.openstreetmap.org/note/4057931#c8846773</guid>
         <pubDate>Mon, 08 Jan 2024 05:39:01 +0000</pubDate>
-      </item><item>
-        <title>new note 4057928 (near 9023, Western Transdanubia, 9023, Hungary) / * 2024 January 8 05:28 Matyjace Created: Forwarding anonymous report from #mapycz user, please verify: &amp;quot;closed&amp;quot;</title>
-        <link>https://www.openstreetmap.org/note/4057928#c8846763</link>
-        <guid>https://www.openstreetmap.org/note/4057928#c8846763</guid>
-        <pubDate>Mon, 08 Jan 2024 05:28:26 +0000</pubDate>
-      </item><item>
-        <title>closed note 3786349 (near Sándorkapuszta, Füle) / * 2023 July 18 13:09 vasony Created: Páskom liget van táblázva? / * 2024 January 6 10:16 vasony Updated: nincs,  Máriavölgy utca / * 2024 January 7 23:26 urbalazs Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3786349#c8846362</link>
-        <guid>https://www.openstreetmap.org/note/3786349#c8846362</guid>
-        <pubDate>Sun, 07 Jan 2024 23:26:31 +0000</pubDate>
-      </item><item>
-        <title>closed note 3963751 (near Közép-Európai Cserkészpark, Csobánka) / * 2023 October 29 19:15 vasony Created: Gólyahír utca 2x van, ez nem a Kelta-árok utca? / * 2024 January 7 18:10 urbalazs Resolved: 10 napja javítva lett.</title>
-        <link>https://www.openstreetmap.org/note/3963751#c8845209</link>
-        <guid>https://www.openstreetmap.org/note/3963751#c8845209</guid>
-        <pubDate>Sun, 07 Jan 2024 18:10:26 +0000</pubDate>
-      </item><item>
-        <title>new note 4057439 (near 1051, Central Hungary, 1051, Hungary) / * 2024 January 7 17:04 Created: &amp;quot;Seems the place changed name (hands?)&amp;quot; / OSM snapshot date: 2023-03-29T15:44:03Z / POI name: Cafe Frei / POI types: wheelchair-no amenity-cafe / #organicmaps ios</title>
-        <link>https://www.openstreetmap.org/note/4057439#c8845021</link>
-        <guid>https://www.openstreetmap.org/note/4057439#c8845021</guid>
-        <pubDate>Sun, 07 Jan 2024 17:04:49 +0000</pubDate>
-      </item><item>
-        <title>new note 4057438 (near 1073, Central Hungary, 1073, Hungary) / * 2024 January 7 17:04 Created: &amp;quot;Indian restaurant “Rajdhani” rajdhanibudapest.hu&amp;quot; / OSM snapshot date: 2023-03-29T15:44:03Z / POI has no name / POI types: building / #organicmaps ios</title>
-        <link>https://www.openstreetmap.org/note/4057438#c8845020</link>
-        <guid>https://www.openstreetmap.org/note/4057438#c8845020</guid>
-        <pubDate>Sun, 07 Jan 2024 17:04:49 +0000</pubDate>
-      </item><item>
-        <title>closed note 3994347 (near 1037, Central Hungary, 1037, Hungary) / * 2024 January 7 16:45 ITineris Resolved: Én is arra értettem. Probléma megoldva.</title>
-        <link>https://www.openstreetmap.org/note/3994347#c8844981</link>
-        <guid>https://www.openstreetmap.org/note/3994347#c8844981</guid>
-        <pubDate>Sun, 07 Jan 2024 16:45:22 +0000</pubDate>
       </item>
   </channel>
 </rss>
