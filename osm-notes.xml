@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4060566 (near 6726, South Great Plain, 6726, Hungary) / * 2024 January 10 09:15 Stuart Ward Created: 8/A / #OsmAnd</title>
+        <link>https://www.openstreetmap.org/note/4060566#c8853734</link>
+        <guid>https://www.openstreetmap.org/note/4060566#c8853734</guid>
+        <pubDate>Wed, 10 Jan 2024 09:15:39 +0000</pubDate>
+      </item><item>
+        <title>closed note 2099123 (near 1173, Central Hungary, 1173, Hungary) / * 2020 February 22 21:28 sutonagy Created: néhány napja 30-as zóna lett / via StreetComplete 17.3 / * 2020 October 13 20:33 ITineris Updated: Pontosan mettől meddig? / * 2024 January 9 10:30 infeeeee Updated: Mapillary alapján az egész környék, fel kell mérni a pontos határokat / * 2024 January 10 08:54 ITineris Resolved: A Pesti út és a Ferihegyi út/Csabai út felől van zónahatár. Felvittem. / A Sportközpont előtti rész felújításakor egy ideig nem voltak kint a táblák, de előtte-utána igen.</title>
+        <link>https://www.openstreetmap.org/note/2099123#c8853665</link>
+        <guid>https://www.openstreetmap.org/note/2099123#c8853665</guid>
+        <pubDate>Wed, 10 Jan 2024 08:54:48 +0000</pubDate>
+      </item><item>
         <title>closed note 3998314 (near 3133, Hungary) / * 2023 November 22 21:39 utvonalfelmeresek Created: A tó melyik felén vezet jelenleg a jelzett turistaút? / * 2023 December 30 22:17 utvonalfelmeresek Updated: az ÉK i felén / * 2024 January 9 22:40 infeeeee Updated: Ezt zárható, nem? Ez az útvonal a tó keleti oldalán megy: https://www.osm.org/relation/3848246/ / * 2024 January 10 06:07 utvonalfelmeresek Resolved: Igen, azóta felmértem és javítottam is, csak elfelejtettem lezárni!</title>
         <link>https://www.openstreetmap.org/note/3998314#c8853503</link>
         <guid>https://www.openstreetmap.org/note/3998314#c8853503</guid>
@@ -162,11 +172,6 @@
         <link>https://www.openstreetmap.org/note/3985703#c8850718</link>
         <guid>https://www.openstreetmap.org/note/3985703#c8850718</guid>
         <pubDate>Tue, 09 Jan 2024 09:55:37 +0000</pubDate>
-      </item><item>
-        <title>closed note 3934377 (near 1107, Central Hungary, 1107, Hungary) / * 2023 October 10 21:48 Sqoop Created: Magyar Iszlám Kulturális Egyesület / * 2024 January 9 09:55 infeeeee Resolved: Hozzáadva: https://www.openstreetmap.org/changeset/146059665</title>
-        <link>https://www.openstreetmap.org/note/3934377#c8850717</link>
-        <guid>https://www.openstreetmap.org/note/3934377#c8850717</guid>
-        <pubDate>Tue, 09 Jan 2024 09:55:30 +0000</pubDate>
       </item>
   </channel>
 </rss>
