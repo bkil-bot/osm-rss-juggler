@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: zolikonta Discussion Comment No.: 2 Comment: Szia. Én mindig is ezen a néven ismertem, ahogyan más térképeken, online bejelentéseken is így hivatkoznak rá. Ha neked ennél biztosabb információd van, nyugodtan írd vissza az utcanevet, a továbbiakban nem fogok hozzányúlni. A módosításcsomag nem kizárólag az utcanév módosítását tartalmazta, ezért nem úgy lett elnevezve, ahogyan javasolod. A térkép pontosan megmutatja, mely területet érinti a módosításcsomag, így nem látom értelmét azt kézzel odaírni, pláne nem magyarul, amit csak mi értünk. De ha van erre vonatkozó iránymutatás, hogy mit kell kötelezően tartalmazzon egy ilyen changeset nevének, azt szívesen veszem, eddig nem zavart senkit. Date: 2024-01-12T16:53:25+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/146139622</link>
+        <guid>https://www.openstreetmap.org/changeset/146139622#comment_2</guid>
+        <pubDate>2024-01-12T16:53:25+01:00</pubDate>
+      </item><item>
+        <title>Contributor: balint36 Discussion Comment No.: 1 Comment: 11511444933 Date: 2024-01-12T16:42:15+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/146188286</link>
+        <guid>https://www.openstreetmap.org/changeset/146188286#comment_1</guid>
+        <pubDate>2024-01-12T16:42:15+01:00</pubDate>
+      </item><item>
         <title>Contributor: balint36 Discussion Comment No.: 12 Comment: Illetve szabad megtudakolnom, hogy a 12-es és 2-es főút 6 elemből álló körforgalmának (mint csomópont) miért csak 4 eleme tartozik a 2-es főút kapcsolatához annak ellenére, hogy csomópontként ez is egészben a 2-es főút része? https://www.openstreetmap.org/way/693633724 https://www.openstreetmap.org/way/693633723 https://www.openstreetmap.org/way/94879814 https://www.openstreetmap.org/way/693633713 https://www.openstreetmap.org/way/693633722 https://www.openstreetmap.org/way/693633727 Date: 2024-01-12T16:15:38+01:00</title>
         <link>https://www.openstreetmap.org/changeset/146113780</link>
         <guid>https://www.openstreetmap.org/changeset/146113780#comment_12</guid>
@@ -12,11 +22,6 @@
         <link>https://www.openstreetmap.org/changeset/143283955</link>
         <guid>https://www.openstreetmap.org/changeset/143283955#comment_13</guid>
         <pubDate>2024-01-12T15:17:54+01:00</pubDate>
-      </item><item>
-        <title>Contributor: urbalazs Discussion Comment No.: 1 Comment: Szia zolikonta! Honnan van a Jó szerencsét út elnevezésének forrása? Én voltam ott, a helyszínen nem láttam kitáblázva, és a helyiekkel beszélve azt az információt kaptam, hogy a Szák utca régi elnevezése volt a Jószerencsét utca. Ezenkívül arra kérlek, hogy bővebben add meg a módosításcsomagok megjegyzéseit. A „fix features” nem írja le, hogy mit szerkesztettél. Nézd meg az én szerkesztéseim megjegyzését. Mindig a településsel kezdem, majd leírom, hogy mit változtattam. Ennek a módosításcsomagnak a megjegyzése nálam úgy lenne, hogy „Budapest XXI. kerület: Jó szerencsét út elnevezésének pontosítása.” Date: 2024-01-12T07:19:08+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/146139622</link>
-        <guid>https://www.openstreetmap.org/changeset/146139622#comment_1</guid>
-        <pubDate>2024-01-12T07:19:08+01:00</pubDate>
       </item><item>
         <title>Contributor: hildgyorgy Discussion Comment No.: 6 Comment: Köszönöm!!!! Date: 2024-01-11T13:26:14+01:00</title>
         <link>https://www.openstreetmap.org/changeset/145764633</link>
@@ -87,11 +92,6 @@
         <link>https://www.openstreetmap.org/changeset/135001937</link>
         <guid>https://www.openstreetmap.org/changeset/135001937#comment_5</guid>
         <pubDate>2024-01-06T19:14:10+01:00</pubDate>
-      </item><item>
-        <title>Contributor: ITineris Discussion Comment No.: 2 Comment: Szia! Az Ilona-lakhoz a Hosszú-völgyből felvezető ösvényre egyrészt visszaraktad a highway=path címkét, de rajtahagytad az abandoned:highway-t és az access=no-t (ami a note-ban is szereplő &quot;járhatatlan&quot;). Ezek ellentmondanak egymásnak. Másrészt most akkor ez az ösvény járható (van róla nem túl régi GPX tracked), vagy sem? Üdv: Ákos Date: 2024-01-05T18:00:32+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/131010332</link>
-        <guid>https://www.openstreetmap.org/changeset/131010332#comment_2</guid>
-        <pubDate>2024-01-05T18:00:32+01:00</pubDate>
       </item>
   </channel>
 </rss>
