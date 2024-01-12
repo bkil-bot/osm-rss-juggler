@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Soft for collecting full beacon frames: is there a software that collects complete beacon frames as seen by wireshark on wifi card at monitor mode only with geodata also? -wauzzz</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=12006#p12006</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=12006#p12006</guid>
+        <pubDate>2024-01-12T11:28:18</pubDate>
+      </item><item>
         <title>Re: Master list of WiFi AuthMODES?: Yep AuthMode is the thing! Working on the AtomGPS with Luke and trying to homogenize various approaches and naming. Will take a closer look at your info, thanks! -pejacoby</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11992#p11992</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11992#p11992</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11842#p11842</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11842#p11842</guid>
         <pubDate>2023-08-29T08:36:31</pubDate>
-      </item><item>
-        <title>BU 353N not working on PI: Has anybody tried using the 353-S4 replacement 353N? It works fine in Windows but can not seem to get gpsd to take the input. -superfan321</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11841#p11841</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11841#p11841</guid>
-        <pubDate>2023-08-26T20:55:10</pubDate>
       </item>
   </channel>
 </rss>
