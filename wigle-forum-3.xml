@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Soft for collecting full beacon frames: check out kismet (https://www.kismetwireless.net/) They're pretty darn good at that. -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=12007#p12007</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=12007#p12007</guid>
+        <pubDate>2024-01-12T16:01:16</pubDate>
+      </item><item>
         <title>Soft for collecting full beacon frames: is there a software that collects complete beacon frames as seen by wireshark on wifi card at monitor mode only with geodata also? -wauzzz</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12006#p12006</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12006#p12006</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11864#p11864</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11864#p11864</guid>
         <pubDate>2023-09-14T19:38:22</pubDate>
-      </item><item>
-        <title>Re: Kismet drone on wireless router? (e.g. Linksys WRT54GL): I've just dusted off two Linksys WRT54GL, and noticed some older posts enthusiastic about their radio capabilities. However, for setting up Kismet on this hardware, I only found decade-old instructions and Kismet MIPS binaries from 2004...mini crossword Has anybody recently set up a WRT54GL as a Kismet drone and could give me some pointers? Thanks.An outdated wireless router with only 4M/32M (ram/flash) might host a kismet drone instead of a Raspberry Pi + wifi card. If you can get Kismet running on your WRT54GL, you could theoretically try cross-compiling a drone for it. -originamidships</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11842#p11842</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11842#p11842</guid>
-        <pubDate>2023-08-29T08:36:31</pubDate>
       </item>
   </channel>
 </rss>
