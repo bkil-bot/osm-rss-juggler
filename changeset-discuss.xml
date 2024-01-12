@@ -3,10 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: BáthoryPéter Discussion Comment No.: 8 Comment: Nézd meg a közút másik felületén, az útszámkeresőben: https://utszamkereso.kozut.hu/?section=31;0;81;867 &quot;31/32 közös szakasz&quot; Egyébként egy hete jártam itt, kint van a 31 és 32 is. Date: 2024-01-12T13:44:53+01:00</title>
+        <title>Contributor: BáthoryPéter Discussion Comment No.: 12 Comment: Kérlek hagyd abba a személyeskedést. Date: 2024-01-12T15:06:12+01:00</title>
         <link>https://www.openstreetmap.org/changeset/143283955</link>
-        <guid>https://www.openstreetmap.org/changeset/143283955#comment_8</guid>
-        <pubDate>2024-01-12T13:44:53+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/143283955#comment_12</guid>
+        <pubDate>2024-01-12T15:06:12+01:00</pubDate>
+      </item><item>
+        <title>Contributor: balint36 Discussion Comment No.: 11 Comment: Utolsó felhívás. Legyél kedves a források szerinti állapotot visszaállítani! Date: 2024-01-12T15:00:37+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/146113780</link>
+        <guid>https://www.openstreetmap.org/changeset/146113780#comment_11</guid>
+        <pubDate>2024-01-12T15:00:37+01:00</pubDate>
       </item><item>
         <title>Contributor: urbalazs Discussion Comment No.: 1 Comment: Szia zolikonta! Honnan van a Jó szerencsét út elnevezésének forrása? Én voltam ott, a helyszínen nem láttam kitáblázva, és a helyiekkel beszélve azt az információt kaptam, hogy a Szák utca régi elnevezése volt a Jószerencsét utca. Ezenkívül arra kérlek, hogy bővebben add meg a módosításcsomagok megjegyzéseit. A „fix features” nem írja le, hogy mit szerkesztettél. Nézd meg az én szerkesztéseim megjegyzését. Mindig a településsel kezdem, majd leírom, hogy mit változtattam. Ennek a módosításcsomagnak a megjegyzése nálam úgy lenne, hogy „Budapest XXI. kerület: Jó szerencsét út elnevezésének pontosítása.” Date: 2024-01-12T07:19:08+01:00</title>
         <link>https://www.openstreetmap.org/changeset/146139622</link>
@@ -22,11 +27,6 @@
         <link>https://www.openstreetmap.org/changeset/146098244</link>
         <guid>https://www.openstreetmap.org/changeset/146098244#comment_1</guid>
         <pubDate>2024-01-11T07:37:57+01:00</pubDate>
-      </item><item>
-        <title>Contributor: balint36 Discussion Comment No.: 10 Comment: A te - OSM-en nem felhasználható - forrásod a 20424-es számozású útra mutat: https://www.openstreetmap.org/way/94879817 A tábla útirányokat mutat (hacsak nem költöztették át Budapestet és Rétságot is a körforgalom mellé), ezáltal helyes megállapítás, hogy cél útirányt mutat, így az a megállapításod is helyes, hogy destination:ref=M2 (meg 2 és E 77-re is igaz, de címkézve is van), hiszen később a 20425-öt valóban elérhető Budapest irányában az M2. Vagy esetleg azt mondod, hogy Rétság és Budapest valóban elköltözött volna? Date: 2024-01-10T22:20:34+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/146113780</link>
-        <guid>https://www.openstreetmap.org/changeset/146113780#comment_10</guid>
-        <pubDate>2024-01-10T22:20:34+01:00</pubDate>
       </item><item>
         <title>Contributor: ITineris Discussion Comment No.: 1 Comment: Szia! A Nyíregyházi út kétpályásításánál a régin hagytad az előre-hátra sávok számát stb. Kérlek, ezeket a menetiránynak megfelelően javítsd, illetve vidd át az általad berajzolt új pályára! Köszönöm: Ákos Date: 2024-01-10T18:16:30+01:00</title>
         <link>https://www.openstreetmap.org/changeset/129146277</link>
