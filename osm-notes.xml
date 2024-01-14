@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3576591 (near 1137, Central Hungary, 1137, Hungary) / * 2023 February 27 07:33 ha5vsa Created: Unable to answer &amp;quot;Is this still here?&amp;quot; for https://osm.org/node/5646042048 via StreetComplete 51.0: / Óra akkor is, ha a forgó kocka egyik oldalán sincs számlap? / * 2023 February 27 12:47 bkil Updated: Amennyiben az idő múlásával arányban olyan folyamatos és ismétlődő változás figyelhető meg az objektum kapcsán melyből a helyi pontos időre enged következtetni az megalapozza az óra funkciónak való megfelelést. A részleteket a vonatkozó alkulcsokban illetve a description és description:en alatt lehet feltüntetni. https://wiki.osm.org/Tag:amenity%3Dclock / * 2024 January 14 14:26 infeeeee Resolved: Pénteken láttam, hogy két oldalán is a pontos időt jelezte az óra, mutatók segítségével. A jelenlegi címkék megfelelnek a valóságnak</title>
+        <link>https://www.openstreetmap.org/note/3576591#c8871924</link>
+        <guid>https://www.openstreetmap.org/note/3576591#c8871924</guid>
+        <pubDate>Sun, 14 Jan 2024 14:26:38 +0000</pubDate>
+      </item><item>
+        <title>new note 4067935 (near 6800, South Great Plain, 6800, Hungary) / * 2024 January 14 14:23 gabro00 Created: Területrendezési tervben Pepere néven szerepel. Szóval Papere vagy Pepere?</title>
+        <link>https://www.openstreetmap.org/note/4067935#c8871911</link>
+        <guid>https://www.openstreetmap.org/note/4067935#c8871911</guid>
+        <pubDate>Sun, 14 Jan 2024 14:23:06 +0000</pubDate>
+      </item><item>
         <title>closed note 621965 (near 7773, Southern Transdanubia, 7773, Hungary) / * 2016 July 9 18:18 Bence Kontar Created: The place has gone or never existed. This is an auto-generated note from MAPS.ME application: a user reports a POI that is visible on a map (which can be outdated), but cannot be found on the ground. User comments: &amp;quot;the 5th and 7th is one single house &amp;quot; (OSM data version: 2016-06-20T05:57:02Z) #mapsme / * 2024 January 14 12:57 NightH Resolved: </title>
         <link>https://www.openstreetmap.org/note/621965#c8871576</link>
         <guid>https://www.openstreetmap.org/note/621965#c8871576</guid>
@@ -33,12 +43,12 @@
         <guid>https://www.openstreetmap.org/note/2278972#c8870079</guid>
         <pubDate>Sun, 14 Jan 2024 10:22:41 +0000</pubDate>
       </item><item>
-        <title>new comment 3523163 (near 7960, Southern Transdanubia, 7960, Hungary) / * 2023 January 18 11:56 Created: 5 / * 2024 January 13 19:08 ContributionReviewer Updated: Hi, / Thank you for creating this note. / However, we would need a bit more information to edit the map. What exactly is missing? Unfortunately, the existing text contains only a single character. / #JustOneCharacter</title>
+        <title>new comment 3523163 (near 7960, Southern Transdanubia, 7960, Hungary) / * 2023 January 18 11:56 Created: 5 / * 2024 January 13 19:08 NeisBot Updated: Hi, / Thank you for creating this note. / However, we would need a bit more information to edit the map. What exactly is missing? Unfortunately, the existing text contains only a single character. / #JustOneCharacter</title>
         <link>https://www.openstreetmap.org/note/3523163#c8866556</link>
         <guid>https://www.openstreetmap.org/note/3523163#c8866556</guid>
         <pubDate>Sat, 13 Jan 2024 19:08:21 +0000</pubDate>
       </item><item>
-        <title>new comment 3865275 (near 6525, South Great Plain, 6525, Hungary) / * 2023 September 1 13:10 Created: 1 / * 2024 January 13 19:01 ContributionReviewer Updated: Hi, / Thank you for creating this note. / However, we would need a bit more information to edit the map. What exactly is missing? Unfortunately, the existing text contains only a single character. / #JustOneCharacter</title>
+        <title>new comment 3865275 (near 6525, South Great Plain, 6525, Hungary) / * 2023 September 1 13:10 Created: 1 / * 2024 January 13 19:01 NeisBot Updated: Hi, / Thank you for creating this note. / However, we would need a bit more information to edit the map. What exactly is missing? Unfortunately, the existing text contains only a single character. / #JustOneCharacter</title>
         <link>https://www.openstreetmap.org/note/3865275#c8866440</link>
         <guid>https://www.openstreetmap.org/note/3865275#c8866440</guid>
         <pubDate>Sat, 13 Jan 2024 19:01:56 +0000</pubDate>
@@ -162,21 +172,6 @@
         <link>https://www.openstreetmap.org/note/4063489#c8860719</link>
         <guid>https://www.openstreetmap.org/note/4063489#c8860719</guid>
         <pubDate>Fri, 12 Jan 2024 14:26:29 +0000</pubDate>
-      </item><item>
-        <title>new comment 4063489 (near Alag, Tóváros (Barackos), Dunakeszi) / * 2024 January 12 13:52 igor2 Updated: A legifotok alapjan nekem is ez a gyanum, de helyszinen kene megnezni, hogy valojaban mi ez. Lehet, hogy ez is valami koz, mint a Foti egy sarokkal arrebb.</title>
-        <link>https://www.openstreetmap.org/note/4063489#c8860639</link>
-        <guid>https://www.openstreetmap.org/note/4063489#c8860639</guid>
-        <pubDate>Fri, 12 Jan 2024 13:52:07 +0000</pubDate>
-      </item><item>
-        <title>new comment 4063489 (near Alag, Tóváros (Barackos), Dunakeszi) / * 2024 January 12 13:45 bkil Updated: Kontextus alapján ránézésre ez az alsó telek bejárója.</title>
-        <link>https://www.openstreetmap.org/note/4063489#c8860624</link>
-        <guid>https://www.openstreetmap.org/note/4063489#c8860624</guid>
-        <pubDate>Fri, 12 Jan 2024 13:45:17 +0000</pubDate>
-      </item><item>
-        <title>new note 4063555 (near 1044, Central Hungary, 1044, Hungary) / * 2024 January 12 13:42 balint36 Created: Nem teljesen kör, inkább csak annak a háromnegyede. Azt a célt szolgálja, hogy nagy jármű egy szűk jobb kanyar helyett egy balos 270°-os fordulással kényelmesen be tudjon kanyarodni hátra. A forgalmi rend (a táblák alapján) is így van kialakítva. / via StreetComplete 56.0</title>
-        <link>https://www.openstreetmap.org/note/4063555#c8860615</link>
-        <guid>https://www.openstreetmap.org/note/4063555#c8860615</guid>
-        <pubDate>Fri, 12 Jan 2024 13:42:13 +0000</pubDate>
       </item>
   </channel>
 </rss>
