@@ -3,6 +3,36 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment 3877279 (near 1023, Central Hungary, 1023, Hungary) / * 2023 September 8 11:27 infeeeee Created: Behajtási korlátozás gyanús (vehicle=no), helyszínen ellenőrizendő, pontosítandó / * 2024 January 16 10:17 BáthoryPéter Updated: Az út első pontján van traffic_sign=DE:250 címke, ami a mindkét irányból behajtani tilos. A címkézés ez alapján nekem jónak tűnik.</title>
+        <link>https://www.openstreetmap.org/note/3877279#c8879267</link>
+        <guid>https://www.openstreetmap.org/note/3877279#c8879267</guid>
+        <pubDate>Tue, 16 Jan 2024 10:17:18 +0000</pubDate>
+      </item><item>
+        <title>new comment 3579096 (near 1027, Central Hungary, 1027, Hungary) / * 2024 January 16 10:04 kogutowicz-mano Updated: Pontosan ez az oka, hogy nem az objektumot módosítottam, hanem egy jegyzetet tettem fel, miszerint ez figyelmet érdemel, foglalkozni kell vele.</title>
+        <link>https://www.openstreetmap.org/note/3579096#c8879206</link>
+        <guid>https://www.openstreetmap.org/note/3579096#c8879206</guid>
+        <pubDate>Tue, 16 Jan 2024 10:04:41 +0000</pubDate>
+      </item><item>
+        <title>new comment 3755284 (near 1027, Central Hungary, 1027, Hungary) / * 2024 January 16 10:04 BáthoryPéter Updated: Ez egy jegyzet arról, hogy érdemes figyelni a tábla kihelyezését. Teljesen jogosan van nyitva.</title>
+        <link>https://www.openstreetmap.org/note/3755284#c8879205</link>
+        <guid>https://www.openstreetmap.org/note/3755284#c8879205</guid>
+        <pubDate>Tue, 16 Jan 2024 10:04:31 +0000</pubDate>
+      </item><item>
+        <title>reactivated note 3755284 (near 1027, Central Hungary, 1027, Hungary) / * 2024 January 16 10:03 BáthoryPéter Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/3755284#c8879201</link>
+        <guid>https://www.openstreetmap.org/note/3755284#c8879201</guid>
+        <pubDate>Tue, 16 Jan 2024 10:03:35 +0000</pubDate>
+      </item><item>
+        <title>reactivated note 3579096 (near 1027, Central Hungary, 1027, Hungary) / * 2024 January 16 10:03 kogutowicz-mano Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/3579096#c8879200</link>
+        <guid>https://www.openstreetmap.org/note/3579096#c8879200</guid>
+        <pubDate>Tue, 16 Jan 2024 10:03:28 +0000</pubDate>
+      </item><item>
+        <title>new note 4071316 (near 4600, North Great Plain, 4600, Hungary) / * 2024 January 16 09:38 Created: Innentől a Szent László utca a sétálóutca irányába (a kereszteződésig, de maga a kereszteződés már nem) macskaköves lett.</title>
+        <link>https://www.openstreetmap.org/note/4071316#c8879120</link>
+        <guid>https://www.openstreetmap.org/note/4071316#c8879120</guid>
+        <pubDate>Tue, 16 Jan 2024 09:38:28 +0000</pubDate>
+      </item><item>
         <title>new note 4071275 (near 1101, Central Hungary, 1101, Hungary) / * 2024 January 16 09:18 Created: Hiányzó járdaszakasz</title>
         <link>https://www.openstreetmap.org/note/4071275#c8879020</link>
         <guid>https://www.openstreetmap.org/note/4071275#c8879020</guid>
@@ -152,11 +182,6 @@
         <link>https://www.openstreetmap.org/note/4069447#c8874859</link>
         <guid>https://www.openstreetmap.org/note/4069447#c8874859</guid>
         <pubDate>Mon, 15 Jan 2024 09:39:47 +0000</pubDate>
-      </item><item>
-        <title>closed note 3576591 (near 1137, Central Hungary, 1137, Hungary) / * 2023 February 27 07:33 ha5vsa Created: Unable to answer &amp;quot;Is this still here?&amp;quot; for https://osm.org/node/5646042048 via StreetComplete 51.0: / Óra akkor is, ha a forgó kocka egyik oldalán sincs számlap? / * 2023 February 27 12:47 bkil Updated: Amennyiben az idő múlásával arányban olyan folyamatos és ismétlődő változás figyelhető meg az objektum kapcsán melyből a helyi pontos időre enged következtetni az megalapozza az óra funkciónak való megfelelést. A részleteket a vonatkozó alkulcsokban illetve a description és description:en alatt lehet feltüntetni. https://wiki.osm.org/Tag:amenity%3Dclock / * 2024 January 14 14:26 infeeeee Resolved: Pénteken láttam, hogy két oldalán is a pontos időt jelezte az óra, mutatók segítségével. A jelenlegi címkék megfelelnek a valóságnak</title>
-        <link>https://www.openstreetmap.org/note/3576591#c8871924</link>
-        <guid>https://www.openstreetmap.org/note/3576591#c8871924</guid>
-        <pubDate>Sun, 14 Jan 2024 14:26:38 +0000</pubDate>
       </item>
   </channel>
 </rss>
