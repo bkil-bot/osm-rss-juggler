@@ -3,6 +3,31 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3704763 (near 1024, Central Hungary, 1024, Hungary) / * 2023 May 25 05:41 OSM KAMI Created: Unable to answer &amp;quot;Are these opening hours still correct?&amp;quot; for https://osm.org/node/6806570329 via StreetComplete 53.0: / A cégér lekerült, már nincsen kiírva nyitvatartás / * 2024 January 8 08:48 infeeeee Updated: Júniusban még szerkesztetted ezt a boltot: https://www.openstreetmap.org/changeset/137773878 / Meg más is azóta. Ez most megszűnt vagy nem? Van bármi teendő ezzel a jegyzettel? / * 2024 January 16 12:00 urbalazs Resolved: 3 hónapja frissítették. Tekintsük azt utolsó állapotnak, ami alapján létezik.</title>
+        <link>https://www.openstreetmap.org/note/3704763#c8879656</link>
+        <guid>https://www.openstreetmap.org/note/3704763#c8879656</guid>
+        <pubDate>Tue, 16 Jan 2024 12:00:12 +0000</pubDate>
+      </item><item>
+        <title>closed note 4071273 (near 1101, Central Hungary, 1101, Hungary) / * 2024 January 16 11:58 infeeeee Resolved: Javítva: https://www.openstreetmap.org/changeset/146320919</title>
+        <link>https://www.openstreetmap.org/note/4071273#c8879652</link>
+        <guid>https://www.openstreetmap.org/note/4071273#c8879652</guid>
+        <pubDate>Tue, 16 Jan 2024 11:58:39 +0000</pubDate>
+      </item><item>
+        <title>closed note 4071275 (near 1101, Central Hungary, 1101, Hungary) / * 2024 January 16 11:58 infeeeee Resolved: Javítva: https://www.openstreetmap.org/changeset/146320919</title>
+        <link>https://www.openstreetmap.org/note/4071275#c8879651</link>
+        <guid>https://www.openstreetmap.org/note/4071275#c8879651</guid>
+        <pubDate>Tue, 16 Jan 2024 11:58:36 +0000</pubDate>
+      </item><item>
+        <title>new comment 3877279 (near 1023, Central Hungary, 1023, Hungary) / * 2024 January 16 11:46 BáthoryPéter Updated: Így már mindjárt egész más a kérdés :)</title>
+        <link>https://www.openstreetmap.org/note/3877279#c8879614</link>
+        <guid>https://www.openstreetmap.org/note/3877279#c8879614</guid>
+        <pubDate>Tue, 16 Jan 2024 11:46:38 +0000</pubDate>
+      </item><item>
+        <title>new comment 3877279 (near 1023, Central Hungary, 1023, Hungary) / * 2024 January 16 11:24 infeeeee Updated: A következő úton van egy access=no: https://www.openstreetmap.org/way/476081708 / Meg ezen a kis darabkán is, de itt legalább foot=yes: https://www.openstreetmap.org/way/1162404521 / Itt valamennyire meg van magyarázva ez a káosz: https://www.openstreetmap.org/node/432361125 De már 9 hónapja, azóta hátha frissült, helyszínen kéne megnézni.</title>
+        <link>https://www.openstreetmap.org/note/3877279#c8879538</link>
+        <guid>https://www.openstreetmap.org/note/3877279#c8879538</guid>
+        <pubDate>Tue, 16 Jan 2024 11:24:40 +0000</pubDate>
+      </item><item>
         <title>new comment 3877279 (near 1023, Central Hungary, 1023, Hungary) / * 2023 September 8 11:27 infeeeee Created: Behajtási korlátozás gyanús (vehicle=no), helyszínen ellenőrizendő, pontosítandó / * 2024 January 16 10:17 BáthoryPéter Updated: Az út első pontján van traffic_sign=DE:250 címke, ami a mindkét irányból behajtani tilos. A címkézés ez alapján nekem jónak tűnik.</title>
         <link>https://www.openstreetmap.org/note/3877279#c8879267</link>
         <guid>https://www.openstreetmap.org/note/3877279#c8879267</guid>
