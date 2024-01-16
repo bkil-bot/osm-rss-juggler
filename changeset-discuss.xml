@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: vasony Discussion Comment No.: 2 Comment: Szia! Attól, hogy nincs kint a tábla, még létezhet. Közhiteles nyilvántartás: https://budapest.hu/Lapok/Szolgaltatas/fovarosi-kozteruletnev-jegyzek.aspx Ez a helyszínt nem írja, az régebbi Budapesti utcanevek című könyvben illetve az 1989-es utcajegyzékben néztem meg. Az ott szereplő helyszín egyezik ezzel, ezért nem láttam indokoltnak a törlését. Tamás Date: 2024-01-16T05:58:11+01:00</title>
+        <title>Contributor: hildgyorgy Discussion Comment No.: 4 Comment: Egyébként érdekes, hogy a TomTom térképen, ahonnan az Apple is szedi az adatokat, szerepel az Ibolya lépcső és az Arany János tér is...:) Hogy ők honnan szedik az adatot, az nem tudom. Date: 2024-01-16T07:33:16+01:00</title>
         <link>https://www.openstreetmap.org/changeset/145757060</link>
-        <guid>https://www.openstreetmap.org/changeset/145757060#comment_2</guid>
-        <pubDate>2024-01-16T05:58:11+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/145757060#comment_4</guid>
+        <pubDate>2024-01-16T07:33:16+01:00</pubDate>
       </item><item>
         <title>Contributor: andrashann Discussion Comment No.: 1 Comment: Szia! Pusztán azért, mert (fizikailag) nem lehet gyorsan menni a szakaszon, kérlek, ne tageld maxspeed címkével. Ez ugyanis tévedés: nincs konkrét sebességkorlátozás ezeken a szakaszokon. Ez a tévedés befolyásolja a tervezőket és a térképalkalmazásokat is, amelyek mindenkire _kötelező_ limitnek veszik ezt az értékeket, így téves utazási időket jeleznek, esetleg rosszul tervezik az útvonalat. Date: 2024-01-15T22:29:38+01:00</title>
         <link>https://www.openstreetmap.org/changeset/96228144</link>
@@ -132,11 +132,6 @@
         <link>https://www.openstreetmap.org/changeset/145834718</link>
         <guid>https://www.openstreetmap.org/changeset/145834718#comment_6</guid>
         <pubDate>2024-01-09T09:49:55+01:00</pubDate>
-      </item><item>
-        <title>Contributor: hildgyorgy Discussion Comment No.: 6 Comment: És Balázsnak is köszönöm! Üdv, Gyuri Date: 2024-01-09T08:56:56+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/145902143</link>
-        <guid>https://www.openstreetmap.org/changeset/145902143#comment_6</guid>
-        <pubDate>2024-01-09T08:56:56+01:00</pubDate>
       </item>
   </channel>
 </rss>
