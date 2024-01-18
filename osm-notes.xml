@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4046779 (near 6775, South Great Plain, 6775, Hungary) / * 2023 December 30 13:55 Created: &amp;quot;tatarozás miatt elköltözött.&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-12-13T18:30:01Z / POI name: Irisz temetkezés / POI types: shop-funeral_directors / #organicmaps ios / * 2024 January 18 16:05 NeisBot Resolved: This note has the identical location and text / as note https://osm.org/note/4046778 / Therefore, it will be closed. / #DuplicateNote</title>
+        <link>https://www.openstreetmap.org/note/4046779#c8890333</link>
+        <guid>https://www.openstreetmap.org/note/4046779#c8890333</guid>
+        <pubDate>Thu, 18 Jan 2024 16:05:35 +0000</pubDate>
+      </item><item>
         <title>new note 4075407 (near 1152, Central Hungary, 1152, Hungary) / * 2024 January 18 10:52 Tajtrdlik Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;This convenience is permanently closed&amp;quot;. / https://www.openstreetmap.org/way/779268573</title>
         <link>https://www.openstreetmap.org/note/4075407#c8889142</link>
         <guid>https://www.openstreetmap.org/note/4075407#c8889142</guid>
@@ -242,26 +247,6 @@
         <link>https://www.openstreetmap.org/note/3685333#c8881254</link>
         <guid>https://www.openstreetmap.org/note/3685333#c8881254</guid>
         <pubDate>Tue, 16 Jan 2024 20:11:38 +0000</pubDate>
-      </item><item>
-        <title>closed note 4024143 (near 3994, North Hungary, 3994, Hungary) / * 2023 December 11 20:13 Tajtrdlik Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;There is located a viewpoint&amp;quot;. / * 2024 January 16 20:09 mgpx Resolved: Thanks, added</title>
-        <link>https://www.openstreetmap.org/note/4024143#c8881246</link>
-        <guid>https://www.openstreetmap.org/note/4024143#c8881246</guid>
-        <pubDate>Tue, 16 Jan 2024 20:09:11 +0000</pubDate>
-      </item><item>
-        <title>new comment 3986290 (near Királyháza vendégház, Kemence) / * 2023 November 13 21:00 sugarbotond Created: A valóságban nem találtuk meg, felmérendő, hogy létezik e. / * 2024 January 16 19:57 mgpx Updated: Sok évvel ezelőtt, a jegesedés okozta tömeges fakidőlés idején ez volt a turistaút terelőútja. Könnyen lehet, hogy azóta visszavette a természet</title>
-        <link>https://www.openstreetmap.org/note/3986290#c8881201</link>
-        <guid>https://www.openstreetmap.org/note/3986290#c8881201</guid>
-        <pubDate>Tue, 16 Jan 2024 19:57:17 +0000</pubDate>
-      </item><item>
-        <title>new comment 3815592 (near Nagyirtáspuszta, Nagybörzsöny) / * 2023 August 4 09:06 sfphoton Created: Unable to answer &amp;quot;What’s the topic of this information board?&amp;quot; for https://osm.org/node/3388458617 via StreetComplete 53.3: / This is a guide post / * 2023 August 23 11:43 sfphoton Updated: Hmm, átraktam, és most vettem észre, hogy már jelölve van ide egy guidepost. Szerintem nem volt ott kettő, de utána kell nézni. / * 2024 January 16 19:54 mgpx Updated: Nem, ez nem iránytábla. Egy nagyméretű feliratozott panorámafelvétel mutatja be  a Börzsöny ezen részét</title>
-        <link>https://www.openstreetmap.org/note/3815592#c8881189</link>
-        <guid>https://www.openstreetmap.org/note/3815592#c8881189</guid>
-        <pubDate>Tue, 16 Jan 2024 19:54:47 +0000</pubDate>
-      </item><item>
-        <title>new comment 3877279 (near 1023, Central Hungary, 1023, Hungary) / * 2024 January 16 13:55 bkil Updated: Végig le lehet gurulni kerékpárral Turbán-Türbe-Gül Baba - lépcső útvonalon</title>
-        <link>https://www.openstreetmap.org/note/3877279#c8879948</link>
-        <guid>https://www.openstreetmap.org/note/3877279#c8879948</guid>
-        <pubDate>Tue, 16 Jan 2024 13:55:28 +0000</pubDate>
       </item>
   </channel>
 </rss>
