@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: urbalazs Discussion Comment No.: 1 Comment: Miért alakítod át az épületeket multipoligonná? Nem indokolja semmi ezt. Date: 2024-01-18T07:47:34+01:00</title>
+        <title>Contributor: Gaurdein Discussion Comment No.: 2 Comment: Ahogy láttam, ha egy melléképület és egy lakóház egymás mellé van rajzolva az area eszközzel (iD), akkor a közös falnál 2 vonal van egymáson. Az ilyen épületeknél igyekeztem ezt elkerülni egy darab közös vonallal, split esetén meg automatikusan multipoligon lesz belőlük. Nem így kellene cselekedjek? Date: 2024-01-18T09:22:59+01:00</title>
         <link>https://www.openstreetmap.org/changeset/146381009</link>
-        <guid>https://www.openstreetmap.org/changeset/146381009#comment_1</guid>
-        <pubDate>2024-01-18T07:47:34+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/146381009#comment_2</guid>
+        <pubDate>2024-01-18T09:22:59+01:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 5 Comment: Különböző changeset ellenőrzők kijelzik, ha valaki nézi ezeket, akkor észreveszi. Nagyon sok eszköz van erre: https://wiki.openstreetmap.org/wiki/Quality_assurance#Monitoring_tools Én osmcha-n nézem a Budapesti változásokat, amiket ő gyanúsnak jelöl. Ha bejelölöd, hogy ellenőrzést kérsz az akkor az automatikusan &quot;gyanús&quot;. https://wiki.openstreetmap.org/wiki/OSMCha Pl itt van ez a changeseted, ha belépsz osm fiókoddal, akkor kiírja kékkel, hogy &quot;review requested&quot;: https://osmcha.org/changesets/146330418 De semmi garancia nincs arra, hogy ezt valaki tényleg megnézi, csak felhívja rá a figyelmet. Date: 2024-01-16T22:31:35+01:00</title>
         <link>https://www.openstreetmap.org/changeset/146330418</link>
