@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: urbalazs Discussion Comment No.: 3 Comment: Egymást érintő épületeknél nem szoktunk ilyet csinálni. A multipologont akkor használjuk, ha több száz pont közös két objektumon, például egy szántóföld találkozik egy erdővel és több száz méteren keresztül kanyarog a közös vonaluk. Épületeket egyszerűen megrajzolunk egyetlen vonallal. Date: 2024-01-18T10:45:25+01:00</title>
+        <title>Contributor: Gaurdein Discussion Comment No.: 7 Comment: Mindenképpen felnézek, köszi a válaszokért! Közben itt https://wiki.openstreetmap.org/wiki/Hu:Relation:multipolygon megtaláltam az oldal alján ezt a bizonyos A módszer vs B módszer vitát, gondolom itt is ez a helyzet. Date: 2024-01-18T12:01:45+01:00</title>
         <link>https://www.openstreetmap.org/changeset/146381009</link>
-        <guid>https://www.openstreetmap.org/changeset/146381009#comment_3</guid>
-        <pubDate>2024-01-18T10:45:25+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/146381009#comment_7</guid>
+        <pubDate>2024-01-18T12:01:45+01:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 5 Comment: Különböző changeset ellenőrzők kijelzik, ha valaki nézi ezeket, akkor észreveszi. Nagyon sok eszköz van erre: https://wiki.openstreetmap.org/wiki/Quality_assurance#Monitoring_tools Én osmcha-n nézem a Budapesti változásokat, amiket ő gyanúsnak jelöl. Ha bejelölöd, hogy ellenőrzést kérsz az akkor az automatikusan &quot;gyanús&quot;. https://wiki.openstreetmap.org/wiki/OSMCha Pl itt van ez a changeseted, ha belépsz osm fiókoddal, akkor kiírja kékkel, hogy &quot;review requested&quot;: https://osmcha.org/changesets/146330418 De semmi garancia nincs arra, hogy ezt valaki tényleg megnézi, csak felhívja rá a figyelmet. Date: 2024-01-16T22:31:35+01:00</title>
         <link>https://www.openstreetmap.org/changeset/146330418</link>
