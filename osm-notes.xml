@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4076981 (near 1039, Central Hungary, 1039, Hungary) / * 2024 January 19 10:53 Pan Perníček Created: Forwarding anonymous report from #Mapycz user, please verify: Theres BKV Sportcentrum.</title>
+        <link>https://www.openstreetmap.org/note/4076981#c8893185</link>
+        <guid>https://www.openstreetmap.org/note/4076981#c8893185</guid>
+        <pubDate>Fri, 19 Jan 2024 10:53:15 +0000</pubDate>
+      </item><item>
         <title>new comment 3957319 (near 5600, South Great Plain, 5600, Hungary) / * 2024 January 18 21:01 balint36 Updated: Tudomásom szerint egyedül a Maxar/Google rendelkezik viszonylag friss felvétellel. Erről úgy lehet megbizonyosodni, hogy Békéscsaba – Lőkösháza oh. szakaszon lefektették az eredeti pálya bal oldalára az új vágányt, majd a régit elkezdték felújítani. A viszonylag friss műholdképeken ennek látható kell lennie. / Viszont én ezt a megállapítást nem műholdkép alapján tettem meg. Az átjáró hiányát a látottak alapján állapítottam meg, hiszen a vonatról (pontosabban mozdonyról) jól ráláttam. / Az útátjárót viszont jelen esetben nem lehet egyszerűen kitörölni, mert akkor rendezni kell a mezőgazdasági utat is. Viszont ennek a földútnak kereszteződése van egy új építésű lakóúttal (https://www.openstreetmap.org/way/1163708866). Erre az útra a mozdonyról nem láttam rá, úgyhogy a létezését se megerősíteni, se cáfolni nem tudom, így a földút megváltozott vonalát sem tudom. / Szükséges lenne egy újabb helyszíni felmérés (vagy egy friss műholdkép) a keresztező földútra vonatkozólag, ami alapján át lehet alakítani a megszüntetett átjáró környékét.</title>
         <link>https://www.openstreetmap.org/note/3957319#c8891679</link>
         <guid>https://www.openstreetmap.org/note/3957319#c8891679</guid>
@@ -197,16 +202,6 @@
         <link>https://www.openstreetmap.org/note/4072553#c8881685</link>
         <guid>https://www.openstreetmap.org/note/4072553#c8881685</guid>
         <pubDate>Tue, 16 Jan 2024 22:41:49 +0000</pubDate>
-      </item><item>
-        <title>new note 4072553 (near 1064, Central Hungary, 1064, Hungary) / * 2024 January 16 22:09 pihentagy Created: Unable to answer &amp;quot;Is there a shelter at this stop?&amp;quot; for https://osm.org/node/602996567 via StreetComplete 56.0: / Nincs, de a ház árkádja biztosít védelmet</title>
-        <link>https://www.openstreetmap.org/note/4072553#c8881638</link>
-        <guid>https://www.openstreetmap.org/note/4072553#c8881638</guid>
-        <pubDate>Tue, 16 Jan 2024 22:09:51 +0000</pubDate>
-      </item><item>
-        <title>closed note 4054198 (near 2651, Hungary) / * 2024 January 5 14:27 balint36 Created: Ebből az irányból behajtani tilos / via StreetComplete 56.0 / * 2024 January 16 21:32 balint36 Resolved: </title>
-        <link>https://www.openstreetmap.org/note/4054198#c8881546</link>
-        <guid>https://www.openstreetmap.org/note/4054198#c8881546</guid>
-        <pubDate>Tue, 16 Jan 2024 21:32:39 +0000</pubDate>
       </item>
   </channel>
 </rss>
