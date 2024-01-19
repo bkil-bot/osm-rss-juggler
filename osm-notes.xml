@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4040270 (near 1146, Central Hungary, 1146, Hungary) / * 2023 December 25 18:56 vasony Created: Ez tényleg Kneipp vagy csak mezitlábas? (vizes elem van-e benne?) / * 2024 January 19 13:04 ITineris Resolved: zsolt d megint elszabadult. Nem, a Mőcsényin belül azok csak sima ösvények, ahogyan anno RTK-val felvittem őket. / A billentyűzetéről szedjük le a Shift+R-t! / Kneipp csak a Piknik Kert mellett van. Alapvetően mezítlábas, különböző burkolatokkal, talán néha víz is van egy kavicsos szakaszon. / Visszajavítottam.</title>
+        <link>https://www.openstreetmap.org/note/4040270#c8893536</link>
+        <guid>https://www.openstreetmap.org/note/4040270#c8893536</guid>
+        <pubDate>Fri, 19 Jan 2024 13:04:54 +0000</pubDate>
+      </item><item>
+        <title>new note 4077122 (near 1043, Central Hungary, 1043, Hungary) / * 2024 January 19 12:31 balint36 Created: Ha még nincs jelölve, akkor itt kerékpáros szemből behajthat az egyirányúba. Kerékpáros nyom is jelöli. / via StreetComplete 56.0</title>
+        <link>https://www.openstreetmap.org/note/4077122#c8893453</link>
+        <guid>https://www.openstreetmap.org/note/4077122#c8893453</guid>
+        <pubDate>Fri, 19 Jan 2024 12:31:47 +0000</pubDate>
+      </item><item>
+        <title>new note 4077121 (near 1028, Central Hungary, 1028, Hungary) / * 2024 January 19 12:29 sugarbotond Created: A Pozsonyi utca és a Bükkfa utca Máriaremetei útra csatlakozó alsó szakasza hétköznap 7-9 között mindkét irányból behajtani tilos, kivéve célforgalom és kerékpár.</title>
+        <link>https://www.openstreetmap.org/note/4077121#c8893452</link>
+        <guid>https://www.openstreetmap.org/note/4077121#c8893452</guid>
+        <pubDate>Fri, 19 Jan 2024 12:29:53 +0000</pubDate>
+      </item><item>
         <title>new note 4076981 (near 1039, Central Hungary, 1039, Hungary) / * 2024 January 19 10:53 Pan Perníček Created: Forwarding anonymous report from #Mapycz user, please verify: Theres BKV Sportcentrum.</title>
         <link>https://www.openstreetmap.org/note/4076981#c8893185</link>
         <guid>https://www.openstreetmap.org/note/4076981#c8893185</guid>
@@ -187,21 +202,6 @@
         <link>https://www.openstreetmap.org/note/4072482#c8882124</link>
         <guid>https://www.openstreetmap.org/note/4072482#c8882124</guid>
         <pubDate>Wed, 17 Jan 2024 05:22:21 +0000</pubDate>
-      </item><item>
-        <title>new comment 4072482 (near 4027, North Great Plain, 4027, Hungary) / * 2024 January 16 23:25 BáthoryPéter Updated: Mapillaryt szabad használni. / https://www.mapillary.com/app/?lat=47.541732&amp;amp;lng=21.608463&amp;amp;z=17&amp;amp;pKey=965697084239526&amp;amp;focus=photo</title>
-        <link>https://www.openstreetmap.org/note/4072482#c8881753</link>
-        <guid>https://www.openstreetmap.org/note/4072482#c8881753</guid>
-        <pubDate>Tue, 16 Jan 2024 23:25:00 +0000</pubDate>
-      </item><item>
-        <title>new note 4072618 (near 1055, Central Hungary, 1055, Hungary) / * 2024 January 16 23:13 Created: &amp;quot;Quinn got tattooed here&amp;quot; / OSM snapshot date: 2024-01-05T19:06:54Z / POI has no name / POI types: building-address wheelchair-no / #organicmaps ios</title>
-        <link>https://www.openstreetmap.org/note/4072618#c8881742</link>
-        <guid>https://www.openstreetmap.org/note/4072618#c8881742</guid>
-        <pubDate>Tue, 16 Jan 2024 23:13:55 +0000</pubDate>
-      </item><item>
-        <title>closed note 4072553 (near 1064, Central Hungary, 1064, Hungary) / * 2024 January 16 22:41 bkil Resolved: Felvettem https://osm.org/changeset/146341299#map=19/47.51117/19.06265</title>
-        <link>https://www.openstreetmap.org/note/4072553#c8881685</link>
-        <guid>https://www.openstreetmap.org/note/4072553#c8881685</guid>
-        <pubDate>Tue, 16 Jan 2024 22:41:49 +0000</pubDate>
       </item>
   </channel>
 </rss>
