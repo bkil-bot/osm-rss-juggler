@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>OpenStreetMap strives to be open &amp;amp; accessible to as many as possible, and remain independent. In 2020, the OSMF made a commitment that essential communications will always be accessible through an open, preferably self-hosted platform, i.e. accessible through open-source software and open protocols, and do not require an account at a third-party service to access. https://osmfoundation.org/wiki/Commitment_to_Open_Communication_Channels #OpenStreetMap #OSM #open #OSMF</title>
+        <link>https://en.osm.town/@openstreetmap/111788873795376237</link>
+        <guid>https://en.osm.town/@openstreetmap/111788873795376237</guid>
+        <pubDate>Sat, 20 Jan 2024 15:00:44 +0000</pubDate>
+      </item><item>
         <title>OpenStreetMap data is free, we only ask that you tell people about us in exchange¹. Some site use OSM without attribution, *and* hotlink to OSMF tile servers. 😭 Our data is free, but our servers cost time &amp;amp; money. 🖥 It&amp;#39;s now even easier for you to report naughty sites like that. 📝 They can (eventually) be blocked from freeloading. We hope this will increase visibility of OSM! 👍 🎉 Read more: https://github.com/openstreetmap/tile-attribution/blob/main/README.md #OpenStreetMap #OSM ¹ to simplify the OSM licence req&amp;#39;s.</title>
         <link>https://en.osm.town/@openstreetmap/111749237204284048</link>
         <guid>https://en.osm.town/@openstreetmap/111749237204284048</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/111568050994324133</link>
         <guid>https://en.osm.town/@openstreetmap/111568050994324133</guid>
         <pubDate>Tue, 12 Dec 2023 15:02:36 +0000</pubDate>
-      </item><item>
-        <title>Are you an OSM Foundation member (or assoc. member)? Have you received your election ballot? (If you&amp;#39;re entitled to vote). If not, please contact the OSMF MWG: membership@osmfoundation.org #OpenStreetMap #OSM #OSMF #OSMFoundation</title>
-        <link>https://en.osm.town/@openstreetmap/111566960317041805</link>
-        <guid>https://en.osm.town/@openstreetmap/111566960317041805</guid>
-        <pubDate>Tue, 12 Dec 2023 10:25:13 +0000</pubDate>
       </item>
   </channel>
 </rss>
