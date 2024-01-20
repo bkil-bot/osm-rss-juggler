@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: SomeoneElse Discussion Comment No.: 9 Comment: szia d zsolt! Először is – ez a módosításkészlet eltávolította a tagi módokat a 23096-ból – ezt láthatja, ha az alábbi &quot;osmChange XML&quot;-re kattint, és megnézi az XML végét. Látható, hogy az utolsó néhány kapcsolatnak nincsenek tagjai. Ez persze nem magyarázza meg a történteket. Biztos vagyok benne, hogy nem volt rosszindulatú (tehát a balint36 erre vonatkozó javaslatai nem hasznosak), de valami elromlott, és ha nem próbálja meg kideríteni, hogy mi volt az, előfordulhat, hogy újra megtörténik. Amikor feltölt a JOSM-mel, összefoglalót kap arról, hogy mit változtatott. Talán segítene, ha gyakrabban töltenéd fel, kevesebb változtatással az egyes changesetekben? Üdvözlettel, Andy Date: 2024-01-19T23:29:56+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/145366078</link>
+        <guid>https://www.openstreetmap.org/changeset/145366078#comment_9</guid>
+        <pubDate>2024-01-19T23:29:56+01:00</pubDate>
+      </item><item>
         <title>Contributor: Weborate Discussion Comment No.: 2 Comment: Hi, thank you. I though it doesn't allow me to merge when two roads having different parameters, since I saw an alert saying just that when I tried to merge something else. Sorry for the mistake, I'll be more careful in the future. Date: 2024-01-19T05:44:10+01:00</title>
         <link>https://www.openstreetmap.org/changeset/146286583</link>
         <guid>https://www.openstreetmap.org/changeset/146286583#comment_2</guid>
@@ -92,16 +97,6 @@
         <link>https://www.openstreetmap.org/changeset/146209088</link>
         <guid>https://www.openstreetmap.org/changeset/146209088#comment_1</guid>
         <pubDate>2024-01-13T10:32:31+01:00</pubDate>
-      </item><item>
-        <title>Contributor: balint36 Discussion Comment No.: 14 Comment: Mégis te kötözködsz. De semmi baj, van ennél jobb megoldás is, úgy látszik te most azt választottad. Balázs nemrég még csípőből összevont egy körforgalmat vonalakkal és kapcsolatokkal egyetemben (amivel amúgy gondot is okozott a meglévő kapcsolatokban), valamint több ízben hónapok óta nem ad választ, ezért nem vagyok meggyőzve. Date: 2024-01-13T00:05:32+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/146113780</link>
-        <guid>https://www.openstreetmap.org/changeset/146113780#comment_14</guid>
-        <pubDate>2024-01-13T00:05:32+01:00</pubDate>
-      </item><item>
-        <title>Contributor: bkil Discussion Comment No.: 5 Comment: Apropó, ebből szintén következik, hogy egy adott módosításcsomagban érdemes csak hasonló környéken illetve hasonló típusú módosításokat végezni, mert ezek között szintén hamarabb észre lehet venni a bakit mint egy olyanban ami országszerte mindenféle dolgot módosít, hozzáad, töröl, mozgat egyszerre még akkor is ha a megjegyzésben tételesen fel van sorolva Date: 2024-01-12T21:44:46+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/146139622</link>
-        <guid>https://www.openstreetmap.org/changeset/146139622#comment_5</guid>
-        <pubDate>2024-01-12T21:44:46+01:00</pubDate>
       </item>
   </channel>
 </rss>
