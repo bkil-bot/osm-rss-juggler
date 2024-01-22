@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4081186 (near 6060, South Great Plain, 6060, Hungary) / * 2024 January 22 10:08 Tajtrdlik Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;There is located Márti virág - florist shop&amp;quot;.</title>
+        <link>https://www.openstreetmap.org/note/4081186#c8902924</link>
+        <guid>https://www.openstreetmap.org/note/4081186#c8902924</guid>
+        <pubDate>Mon, 22 Jan 2024 10:08:07 +0000</pubDate>
+      </item><item>
         <title>new note 4080949 (near 6348, South Great Plain, 6348, Hungary) / * 2024 January 22 06:25 Matyjace Created: Forwarding anonymous report from #mapycz user, please verify: &amp;quot;Érsekhalmi földvár&amp;quot;,</title>
         <link>https://www.openstreetmap.org/note/4080949#c8902424</link>
         <guid>https://www.openstreetmap.org/note/4080949#c8902424</guid>
@@ -222,16 +227,6 @@
         <link>https://www.openstreetmap.org/note/3957319#c8891480</link>
         <guid>https://www.openstreetmap.org/note/3957319#c8891480</guid>
         <pubDate>Thu, 18 Jan 2024 19:51:07 +0000</pubDate>
-      </item><item>
-        <title>closed note 4046778 (near 6775, South Great Plain, 6775, Hungary) / * 2023 December 30 13:54 Created: &amp;quot;tatarozás miatt elköltözött.&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-12-13T18:30:01Z / POI name: Irisz temetkezés / POI types: shop-funeral_directors / #organicmaps ios / * 2024 January 18 19:39 infeeeee Resolved: Szerepel a térképen: https://www.openstreetmap.org/node/10054104333</title>
-        <link>https://www.openstreetmap.org/note/4046778#c8891452</link>
-        <guid>https://www.openstreetmap.org/note/4046778#c8891452</guid>
-        <pubDate>Thu, 18 Jan 2024 19:39:40 +0000</pubDate>
-      </item><item>
-        <title>closed note 4046779 (near 6775, South Great Plain, 6775, Hungary) / * 2023 December 30 13:55 Created: &amp;quot;tatarozás miatt elköltözött.&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2023-12-13T18:30:01Z / POI name: Irisz temetkezés / POI types: shop-funeral_directors / #organicmaps ios / * 2024 January 18 16:05 NeisBot Resolved: This note has the identical location and text / as note https://osm.org/note/4046778 / Therefore, it will be closed. / #DuplicateNote</title>
-        <link>https://www.openstreetmap.org/note/4046779#c8890333</link>
-        <guid>https://www.openstreetmap.org/note/4046779#c8890333</guid>
-        <pubDate>Thu, 18 Jan 2024 16:05:35 +0000</pubDate>
       </item>
   </channel>
 </rss>
