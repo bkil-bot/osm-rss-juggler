@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4083970 (near 1114, Central Hungary, 1114, Hungary) / * 2024 January 23 22:12 Created: This hotel is closed from / late 2021until 2027.</title>
+        <link>https://www.openstreetmap.org/note/4083970#c8909276</link>
+        <guid>https://www.openstreetmap.org/note/4083970#c8909276</guid>
+        <pubDate>Tue, 23 Jan 2024 22:12:55 +0000</pubDate>
+      </item><item>
+        <title>closed note 4045389 (near 1013, Central Hungary, 1013, Hungary) / * 2023 December 29 14:05 Daborbor Created: There are benches around the sculpture / via StreetComplete_ee 55.11 / * 2024 January 23 22:05 urbalazs Resolved: Benches are added now with changeset 146610102.</title>
+        <link>https://www.openstreetmap.org/note/4045389#c8909254</link>
+        <guid>https://www.openstreetmap.org/note/4045389#c8909254</guid>
+        <pubDate>Tue, 23 Jan 2024 22:05:51 +0000</pubDate>
+      </item><item>
+        <title>closed note 3824800 (near 1011, Central Hungary, 1011, Hungary) / * 2023 August 9 13:35 Harfeur Created: Please redraw everything. The paths are inaccurate. / * 2024 January 23 21:50 urbalazs Resolved: Well, redraw everything would be a huge work since OSM contains millions of thousands nodes. But I could try to align the footways here to the latest imagery. You can check the result in changeset 146609574.</title>
+        <link>https://www.openstreetmap.org/note/3824800#c8909202</link>
+        <guid>https://www.openstreetmap.org/note/3824800#c8909202</guid>
+        <pubDate>Tue, 23 Jan 2024 21:50:13 +0000</pubDate>
+      </item><item>
+        <title>closed note 4081223 (near 3069, Hungary) / * 2024 January 22 10:31 Tajtrdlik Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;There is located Bablevescsárda - restaurant&amp;quot;. / * 2024 January 23 21:45 mgpx Resolved: No, the Bableves csárda is not here but apx 1km in South-East direction, at road 2122. It is already indicated in the map</title>
+        <link>https://www.openstreetmap.org/note/4081223#c8909196</link>
+        <guid>https://www.openstreetmap.org/note/4081223#c8909196</guid>
+        <pubDate>Tue, 23 Jan 2024 21:45:40 +0000</pubDate>
+      </item><item>
         <title>closed note 3926906 (near 1051, Central Hungary, 1051, Hungary) / * 2023 October 6 12:27 Created: I could not find this place, especially no wheelchair toilet. Maybe someone has more time than me and can verify and check. / * 2024 January 23 20:22 urbalazs Resolved: There is no toilet here. I guess it was a temporary feature during local market. Removed.</title>
         <link>https://www.openstreetmap.org/note/3926906#c8909005</link>
         <guid>https://www.openstreetmap.org/note/3926906#c8909005</guid>
@@ -182,26 +202,6 @@
         <link>https://www.openstreetmap.org/note/4078090#c8895540</link>
         <guid>https://www.openstreetmap.org/note/4078090#c8895540</guid>
         <pubDate>Sat, 20 Jan 2024 06:05:08 +0000</pubDate>
-      </item><item>
-        <title>closed note 3914267 (near 1138, Central Hungary, 1138, Hungary) / * 2023 September 29 13:14 balint36 Created: 2 automata van itt: E01 és D67. / via StreetComplete 54.1 / Attached photo(s): / https://westnordost.de/p/177817.jpg / * 2024 January 19 17:48 balint36 Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3914267#c8894270</link>
-        <guid>https://www.openstreetmap.org/note/3914267#c8894270</guid>
-        <pubDate>Fri, 19 Jan 2024 17:48:59 +0000</pubDate>
-      </item><item>
-        <title>new note 4077474 (near 1043, Central Hungary, 1043, Hungary) / * 2024 January 19 17:41 balint36 Created: A Berda József utca kétirányú szakasza és az egyirányú szakasz között összekötésként létesítettek egy rövid kerékpárutat, valamint az Aradi utca rész kapott egy szigetet. / Emlékezetből ezeket nem tudtam felvinni. A mostani műholdképeken még nincsenek rajta ezek, ezért látogatás után vagy újabb műholdkép alapján lehet majd felvenni.</title>
-        <link>https://www.openstreetmap.org/note/4077474#c8894264</link>
-        <guid>https://www.openstreetmap.org/note/4077474#c8894264</guid>
-        <pubDate>Fri, 19 Jan 2024 17:41:42 +0000</pubDate>
-      </item><item>
-        <title>closed note 4077122 (near 1043, Central Hungary, 1043, Hungary) / * 2024 January 19 17:35 balint36 Resolved: Hopp, véletlen aktiváltam. / Mindenesetre pont most néztem én is, és én is most akartam lezárni, miután nyugtáztam.</title>
-        <link>https://www.openstreetmap.org/note/4077122#c8894256</link>
-        <guid>https://www.openstreetmap.org/note/4077122#c8894256</guid>
-        <pubDate>Fri, 19 Jan 2024 17:35:04 +0000</pubDate>
-      </item><item>
-        <title>reactivated note 4077122 (near 1043, Central Hungary, 1043, Hungary) / * 2024 January 19 17:33 balint36 Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/4077122#c8894255</link>
-        <guid>https://www.openstreetmap.org/note/4077122#c8894255</guid>
-        <pubDate>Fri, 19 Jan 2024 17:33:57 +0000</pubDate>
       </item>
   </channel>
 </rss>

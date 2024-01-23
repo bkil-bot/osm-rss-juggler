@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: Harfeur Discussion Comment No.: 1 Comment: Thanks ! Date: 2024-01-23T21:56:27+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/146609574</link>
+        <guid>https://www.openstreetmap.org/changeset/146609574#comment_1</guid>
+        <pubDate>2024-01-23T21:56:27+01:00</pubDate>
+      </item><item>
         <title>Contributor: balint36 Discussion Comment No.: 3 Comment: De úgy egyébként amikor ti okoztatok nagyobb gondot, akkor valahogy az már nem volt félrevezető. Semmi baj, elfogadom, hogy kettős mérce van, de akkor az én hozzáállásom is ilyen lesz. Date: 2024-01-23T18:51:07+01:00</title>
         <link>https://www.openstreetmap.org/changeset/144335531</link>
         <guid>https://www.openstreetmap.org/changeset/144335531#comment_3</guid>
@@ -47,11 +52,6 @@
         <link>https://www.openstreetmap.org/changeset/146381009</link>
         <guid>https://www.openstreetmap.org/changeset/146381009#comment_7</guid>
         <pubDate>2024-01-18T12:01:45+01:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 5 Comment: Különböző changeset ellenőrzők kijelzik, ha valaki nézi ezeket, akkor észreveszi. Nagyon sok eszköz van erre: https://wiki.openstreetmap.org/wiki/Quality_assurance#Monitoring_tools Én osmcha-n nézem a Budapesti változásokat, amiket ő gyanúsnak jelöl. Ha bejelölöd, hogy ellenőrzést kérsz az akkor az automatikusan &quot;gyanús&quot;. https://wiki.openstreetmap.org/wiki/OSMCha Pl itt van ez a changeseted, ha belépsz osm fiókoddal, akkor kiírja kékkel, hogy &quot;review requested&quot;: https://osmcha.org/changesets/146330418 De semmi garancia nincs arra, hogy ezt valaki tényleg megnézi, csak felhívja rá a figyelmet. Date: 2024-01-16T22:31:35+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/146330418</link>
-        <guid>https://www.openstreetmap.org/changeset/146330418#comment_5</guid>
-        <pubDate>2024-01-16T22:31:35+01:00</pubDate>
       </item>
   </channel>
 </rss>
