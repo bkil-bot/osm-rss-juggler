@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3693530 (near 2081, Central Hungary, 2081, Hungary) / * 2024 January 25 18:43 vasony Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3693530#c8915448</link>
+        <guid>https://www.openstreetmap.org/note/3693530#c8915448</guid>
+        <pubDate>Thu, 25 Jan 2024 18:43:26 +0000</pubDate>
+      </item><item>
         <title>new comment 3693530 (near 2081, Central Hungary, 2081, Hungary) / * 2024 January 25 17:35 urbalazs Updated: Nyilván nem rohant mindenki táblát cserélni. Ha a térképező a helyszínen ezt látta, érthető, hogy átírta. Én lezárnám ezt a jegyzetet, mert erre a helyzetre nincs jó megoldás. Ha egyetértesz, zárd le. Ha nem, hagyd nyitva.</title>
         <link>https://www.openstreetmap.org/note/3693530#c8915322</link>
         <guid>https://www.openstreetmap.org/note/3693530#c8915322</guid>
@@ -237,11 +242,6 @@
         <link>https://www.openstreetmap.org/note/3522183#c8902064</link>
         <guid>https://www.openstreetmap.org/note/3522183#c8902064</guid>
         <pubDate>Mon, 22 Jan 2024 00:05:24 +0000</pubDate>
-      </item><item>
-        <title>closed note 3724953 (near 1121, Central Hungary, 1121, Hungary) / * 2023 June 7 17:32 Kovács Zsófi Created: Unable to answer &amp;quot;What’s the surface here?&amp;quot; for https://osm.org/way/645623639 via StreetComplete 53.1: / Aszfalt és térkő. / * 2023 July 28 20:26 sfphoton Updated: Mit jelent, hogy aszfalt és térkő? Mintha kát párhuzamos út lenne (pl. gyalog- és bicikliút) vagy csak simán össze van mixelve? Vagy egy szakaszon aszfalt, később meg térkő? / * 2024 January 21 23:33 urbalazs Resolved: A Mátyás király út járdája térkő, a megállóhoz vezető járda aszfalt. OSM szempontjából ez a szakasz aszfalt. Beállítottam.</title>
-        <link>https://www.openstreetmap.org/note/3724953#c8902040</link>
-        <guid>https://www.openstreetmap.org/note/3724953#c8902040</guid>
-        <pubDate>Sun, 21 Jan 2024 23:33:25 +0000</pubDate>
       </item>
   </channel>
 </rss>
