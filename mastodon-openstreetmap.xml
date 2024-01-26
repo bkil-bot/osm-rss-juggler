@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>Do you use the OSM API directly? Make an OSM App? We&amp;#39;re dropping support for certain insecure, legacy authentication methods. If you&amp;#39;re using them in your app, it risks breaking! _(If this is gibberish to you, you&amp;#39;re probably not affected)_ OSM API will remove support for HTTP Basic Auth, &amp;amp; OAuth 1.0a. You&amp;#39;ll have to migrate to the modern OAuth 2.0 feature, which is very well supported. read more: https://community.openstreetmap.org/t/oauth-1-0a-and-http-basic-auth-shutdown/108490 #OpenStreetMap #OSM cc: @osm_tech@osm.town</title>
+        <link>https://en.osm.town/@openstreetmap/111821868082326620</link>
+        <guid>https://en.osm.town/@openstreetmap/111821868082326620</guid>
+        <pubDate>Fri, 26 Jan 2024 10:51:37 +0000</pubDate>
+      </item><item>
         <title>Later this year OpenStreetMap is 20 years old! Planning an OSM Birthday Party? Put it on the list! https://wiki.openstreetmap.org/wiki/OpenStreetMap_20th_Anniversary_Birthday_party</title>
         <link>https://en.osm.town/@openstreetmap/111800202812068264</link>
         <guid>https://en.osm.town/@openstreetmap/111800202812068264</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/111579375513055283</link>
         <guid>https://en.osm.town/@openstreetmap/111579375513055283</guid>
         <pubDate>Thu, 14 Dec 2023 15:02:34 +0000</pubDate>
-      </item><item>
-        <title>The 2023 report from the OSMF&amp;#39;s Personnel Committee is here https://osmfoundation.org/wiki/Annual_General_Meetings/2023/Personnel_committee&amp;#39;s_report #OpenStreetMap #OSM #OSMF #OSMFoundation</title>
-        <link>https://en.osm.town/@openstreetmap/111573703303029908</link>
-        <guid>https://en.osm.town/@openstreetmap/111573703303029908</guid>
-        <pubDate>Wed, 13 Dec 2023 15:00:03 +0000</pubDate>
       </item>
   </channel>
 </rss>
