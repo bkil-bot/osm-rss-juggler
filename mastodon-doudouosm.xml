@@ -3,11 +3,6 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
-        <title>@birb https://www.osnews.com/feed/</title>
-        <link>https://en.osm.town/@Doudouosm/111697519610042584</link>
-        <guid>https://en.osm.town/@Doudouosm/111697519610042584</guid>
-        <pubDate>Thu, 04 Jan 2024 11:48:10 +0000</pubDate>
-      </item><item>
         <title>Learn Overpass through fun interactive exercises From beginner to established developer, learn how to utilize the Overpass API and query language https://osmlab.github.io/learnoverpass//en/ #OpenStreetMap #OverpassTurbo #LearnOverpass @openstreetmap Via: https://weeklyosm.eu/archives/16926</title>
         <link>https://en.osm.town/@Doudouosm/111596049579752579</link>
         <guid>https://en.osm.town/@Doudouosm/111596049579752579</guid>
@@ -102,6 +97,11 @@
         <link>https://en.osm.town/@Doudouosm/110292760698033169</link>
         <guid>https://en.osm.town/@Doudouosm/110292760698033169</guid>
         <pubDate>Mon, 01 May 2023 09:39:30 +0000</pubDate>
+      </item><item>
+        <title>#OpenStreetMap mapper ivanbranco shares his list of favourite OSM-related tools/websites/apps: https://www.openstreetmap.org/user/ivanbranco/diary/401437. There are certainly some you’ll discover or rediscover.</title>
+        <link>https://en.osm.town/@Doudouosm/110278486747184296</link>
+        <guid>https://en.osm.town/@Doudouosm/110278486747184296</guid>
+        <pubDate>Fri, 28 Apr 2023 21:09:27 +0000</pubDate>
       </item>
   </channel>
 </rss>
