@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: balint36 Discussion Comment No.: 1 Comment: akarom mondani, kerékpáros Date: 2024-01-27T10:50:32+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/146563136</link>
+        <guid>https://www.openstreetmap.org/changeset/146563136#comment_1</guid>
+        <pubDate>2024-01-27T10:50:32+01:00</pubDate>
+      </item><item>
         <title>Contributor: BáthoryPéter Discussion Comment No.: 1 Comment: Ebben a módosításcsomagban a 1111-es út nyomvonalát ráigazítottad a Bingre, ezzel az addig pontos nyomvonal 6-10 méterre elmászott. A Bing pontatlan, sose igazíts hozzá semmilyen meglévő objektumot. Se utat se mást. Válts át FÖMI 2010 ortofotóra, mielőtt valamit arrébb mozgatsz. Date: 2024-01-26T22:08:17+01:00</title>
         <link>https://www.openstreetmap.org/changeset/145127722</link>
         <guid>https://www.openstreetmap.org/changeset/145127722#comment_1</guid>
@@ -77,11 +82,6 @@
         <link>https://www.openstreetmap.org/changeset/145366078</link>
         <guid>https://www.openstreetmap.org/changeset/145366078#comment_10</guid>
         <pubDate>2024-01-20T19:05:57+01:00</pubDate>
-      </item><item>
-        <title>Contributor: BáthoryPéter Discussion Comment No.: 2 Comment: Szia! Amit a wiki írt, az nekem is dilemma volt. A településhatár tábla minden esetben olyan változásokat hordoz magában, ami miatt mindenképp el kell vágni a vonalat. A sebességhatár a leglátványosabb, de a KRESZ szerint kismillió dolog vonatkozik máshogy a lakott és külterületi szakaszokra, elég csak tompított fényszóróra gondolni. Ez utóbbi információ nálunk egyébként hiányzik a térképről, megadunk ugyan source:maxspeed címkét, de ennél jóval több értelme volna a zone:traffic traffic címkének, aminek értékei megegyeznek a nálunk használt source:maxspeed értékekkel. Majd tervezem is felvetni a témát chaten. A település tábla jelentősége nem magyar specialitás, minden országban így működik. Én emiatt a wiki ajánlását értelmetlennek tartom. Ebben a changesetben kipróbáltam, hogy milyen, ha egyértelmű esetekben kitöltöm, de például Alcsútdoboz arborétum felől végén ez túl nagy áldozatokkal járna a megadott stop tábla és hu-go szakaszok miatt. Ha a navigációs programok felől nézzük, ők a zone:traffic alapján meg tudják határozni az irányt (ha meg van adva), egyértelműbb mint a végpontra rakott direction. Ha nincs megadva, akkor lehet tippelni az utcanév meglétéből (ezt a navigációk meg is szokták tenni maxspeed hiányában), vagy maxspeedből. Érdemes volna a problémát felvetni a tag vitalapján. Date: 2024-01-20T10:44:38+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/146460097</link>
-        <guid>https://www.openstreetmap.org/changeset/146460097#comment_2</guid>
-        <pubDate>2024-01-20T10:44:38+01:00</pubDate>
       </item>
   </channel>
 </rss>
