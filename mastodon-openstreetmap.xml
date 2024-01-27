@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>Do you develop open source software around OpenStreetMap? Would you like to take part in Google Summer of Code? Are you willing to be a mentor for students? We&amp;#39;re looking for project ideas and mentors from OpenStreetMap’s open source software ecosystem. If you have suitable projects and/or are willing to mentor a contributor, please add to the 2024 Project ideas wiki page. https://community.openstreetmap.org/t/google-summer-of-code-2024-call-for-project-ideas-and-mentors/108515 https://wiki.openstreetmap.org/wiki/Google_Summer_of_Code/2024/Project_ideas #OpenStreetMap #OSM #GSoC #FLOSS #OpenSource</title>
+        <link>https://en.osm.town/@openstreetmap/111828507929887036</link>
+        <guid>https://en.osm.town/@openstreetmap/111828507929887036</guid>
+        <pubDate>Sat, 27 Jan 2024 15:00:13 +0000</pubDate>
+      </item><item>
         <title>Do you use the OSM API directly? Make an OSM App? We&amp;#39;re dropping support for certain insecure, legacy authentication methods. If you&amp;#39;re using them in your app, it risks breaking! _(If this is gibberish to you, you&amp;#39;re probably not affected)_ OSM API will remove support for HTTP Basic Auth, &amp;amp; OAuth 1.0a. You&amp;#39;ll have to migrate to the modern OAuth 2.0 feature, which is very well supported. read more: https://community.openstreetmap.org/t/oauth-1-0a-and-http-basic-auth-shutdown/108490 #OpenStreetMap #OSM cc: @osm_tech@osm.town</title>
         <link>https://en.osm.town/@openstreetmap/111821868082326620</link>
         <guid>https://en.osm.town/@openstreetmap/111821868082326620</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/111585042603964623</link>
         <guid>https://en.osm.town/@openstreetmap/111585042603964623</guid>
         <pubDate>Fri, 15 Dec 2023 15:03:47 +0000</pubDate>
-      </item><item>
-        <title>Are you going to the Chaos Communications Congress in Hamburg this year (#37c3 Unlocked)? OpenStreetMappers will be there, why not help out? 🙂 More on the OSM wiki: https://wiki.openstreetmap.org/wiki/Chaos_Communication_Congress/37C3 Forum: https://community.openstreetmap.org/t/osm-auf-dem-37c3-in-hamburg/105092 @CCC #OpenStreetMap #OSM #ccc</title>
-        <link>https://en.osm.town/@openstreetmap/111579375513055283</link>
-        <guid>https://en.osm.town/@openstreetmap/111579375513055283</guid>
-        <pubDate>Thu, 14 Dec 2023 15:02:34 +0000</pubDate>
       </item>
   </channel>
 </rss>
