@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: Mateusz Konieczny Discussion Comment No.: 1 Comment: Hello! You used waste=trash;1 on https://www.openstreetmap.org/node/10790213647/history Have you maybe meant waste=trash ? I am pretty sure that it is a typo, but not sure enough to just replace it (I edited some objects where situation seemed more clear to me). Or have you used this value deliberately? In such case, what was the intended meaning? Date: 2024-01-31T16:07:11+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/134579015</link>
+        <guid>https://www.openstreetmap.org/changeset/134579015#comment_1</guid>
+        <pubDate>2024-01-31T16:07:11+01:00</pubDate>
+      </item><item>
         <title>Contributor: bkil Discussion Comment No.: 1 Comment: Köszönjük a frissítést. Látom Strava alatt is van forgalom már a Székely utcán. Viszont az új utcákon a surface=ground illetve a Tamási Áron elején a surface=sand kicsit gyanúsnak látszik. Biztosan nem surface=compacted való ide (réteges, murvával szórt, úthengerrel tömörített)? Date: 2024-01-31T11:59:20+01:00</title>
         <link>https://www.openstreetmap.org/changeset/146900358</link>
         <guid>https://www.openstreetmap.org/changeset/146900358#comment_1</guid>
@@ -107,11 +112,6 @@
         <link>https://www.openstreetmap.org/changeset/146644133</link>
         <guid>https://www.openstreetmap.org/changeset/146644133#comment_1</guid>
         <pubDate>2024-01-24T19:29:44+01:00</pubDate>
-      </item><item>
-        <title>Contributor: balint36 Discussion Comment No.: 6 Comment: De amúgy ha csak az a bajod, hogy iD-ben nem lett hozzáadva, hogy source=survey (amit udvariasabban is elő lehetett volna adni), akkor megígérhetem, hogy a kedvedért ellátom azokat ezzel, amik esetében a saját két szememmel látottakat használom fel. Csak remélni tudom, hogy mindenkivel ilyen &quot;kedves&quot; módon bánsz, aki csak egy kicsit is nézett valamit félre. Date: 2024-01-24T14:45:45+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/144335531</link>
-        <guid>https://www.openstreetmap.org/changeset/144335531#comment_6</guid>
-        <pubDate>2024-01-24T14:45:45+01:00</pubDate>
       </item>
   </channel>
 </rss>
