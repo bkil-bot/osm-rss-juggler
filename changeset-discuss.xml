@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: ha5vsa Discussion Comment No.: 3 Comment: Már visszavonta az egyetlen releváns változtatást: https://www.openstreetmap.org/changeset/146945970 Date: 2024-02-01T20:46:06+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/146922474</link>
+        <guid>https://www.openstreetmap.org/changeset/146922474#comment_3</guid>
+        <pubDate>2024-02-01T20:46:06+01:00</pubDate>
+      </item><item>
         <title>Contributor: Mateusz Konieczny Discussion Comment No.: 1 Comment: Hello! https://www.openstreetmap.org/node/2926282526/history has sport=team_handball that was added in this edit (if I checked things correctly) Would sport=handball (see https://wiki.openstreetmap.org/wiki/Tag:sport%3Dhandball ) be fitting at least equally well? Date: 2024-02-01T15:36:54+01:00</title>
         <link>https://www.openstreetmap.org/changeset/23066206</link>
         <guid>https://www.openstreetmap.org/changeset/23066206#comment_1</guid>
         <pubDate>2024-02-01T15:36:54+01:00</pubDate>
-      </item><item>
-        <title>Contributor: Narvik2 Discussion Comment No.: 1 Comment: Szia! A kelenföldi alállomás területét megnyitották és parkosították, az Esri rétegen látszik a frissebb állapot Date: 2024-02-01T13:27:47+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/146922474</link>
-        <guid>https://www.openstreetmap.org/changeset/146922474#comment_1</guid>
-        <pubDate>2024-02-01T13:27:47+01:00</pubDate>
       </item><item>
         <title>Contributor: BáthoryPéter Discussion Comment No.: 1 Comment: Összefoglaló helyesen: Babál-barlang átmozgatása a barlangnyilvántartás szerinti helyére. (valami JOSM hiba miatt maradt benne rossz összefoglaló) Date: 2024-02-01T11:35:03+01:00</title>
         <link>https://www.openstreetmap.org/changeset/146942226</link>
@@ -97,11 +97,6 @@
         <link>https://www.openstreetmap.org/changeset/145127722</link>
         <guid>https://www.openstreetmap.org/changeset/145127722#comment_1</guid>
         <pubDate>2024-01-26T22:08:17+01:00</pubDate>
-      </item><item>
-        <title>Contributor: Hungarian_user Discussion Comment No.: 3 Comment: Néhányat töröltem. Nézd meg, hogy számodra elfogadható-e a többi. Ha nagyon nem, akkor nyugodtan törölj belőlük. Egy rövid értesítést kérnék (az épületre mutató linkkel), hogy lássam melyikkel volt problémád. Ennél amorfabb javaslatok is szoktak lenni, azokat természetesen mindig elutasítom. Sokszor azonban nehéz kijelenteni, hogy hol végződik az egyik épület és hol kezdődik a másik, ezért adódnak többnyire szabályos, de furcsa formájú épületek, amiket én 1 db-nak rajzolok fel. Date: 2024-01-25T20:20:29+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/145096085</link>
-        <guid>https://www.openstreetmap.org/changeset/145096085#comment_3</guid>
-        <pubDate>2024-01-25T20:20:29+01:00</pubDate>
       </item>
   </channel>
 </rss>
