@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>JiGLE Kismet connection error message: I'm currently attempting to establish a connection between JiGLE (version 0.7.5.200) and Kismet (specifically NewCore, the latest version). Although Kismet initially recognizes the client connection successfully, it subsequently presents the following error message: &quot;Failed Kismet client command: Unknown field signal.&quot; If anyone has any suggestions or advice regarding this issue, please feel free to contribute. Additionally, please let me know if there is any additional information that would be beneficial in diagnosing and resolving this matter. -michelewolf</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=12041#p12041</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=12041#p12041</guid>
+        <pubDate>2024-02-01T06:27:09</pubDate>
+      </item><item>
         <title>Re: Soft for collecting full beacon frames: check out kismet (https://www.kismetwireless.net/) They're pretty darn good at that.Yes, this is what I need, it remains only to master that and screw the hardware)) -wauzzz</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12010#p12010</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12010#p12010</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11901#p11901</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11901#p11901</guid>
         <pubDate>2023-11-02T11:04:03</pubDate>
-      </item><item>
-        <title>Re: My RPi Setup: Looks like the wardriving mode docs for Kismet moved - https://www.kismetwireless.net/docs/rea ... /wardrive/ is the new locationNearly a year on, hows the rig and your goals coming along? -HolidayGuy</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11877#p11877</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11877#p11877</guid>
-        <pubDate>2023-09-25T14:52:17</pubDate>
       </item>
   </channel>
 </rss>
