@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>When you are interacting with this account here you are actually interacting with a bunch of folks involved in various ways in project happenings, who are often following interactions via a deltachat mastodon bot that relays messages into a chat group from where the reply is triggered. Many of the @delta members have an #offlinefirst approach to networking so mostly use the chat group to interact. #didyouknowdepartment</title>
+        <link>https://chaos.social/@delta/111855645754971836</link>
+        <guid>https://chaos.social/@delta/111855645754971836</guid>
+        <pubDate>Thu, 01 Feb 2024 10:01:44 +0000</pubDate>
+      </item><item>
         <title>We just refined the user facing &amp;quot;download&amp;quot; page to include instant #chatmail onboarding instructions https://get.delta.chat Did you know there also are first independent #chatmail setups from friendly third parties, eg https://mehl.cloud and https://mailchat.pl/ all nicely interoperable and fast? #chatmail actively develops here https://github.com/deltachat/chatmail/pulse/monthly ....</title>
         <link>https://chaos.social/@delta/111773270512978381</link>
         <guid>https://chaos.social/@delta/111773270512978381</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/111059101594526796</link>
         <guid>https://chaos.social/@delta/111059101594526796</guid>
         <pubDate>Wed, 13 Sep 2023 17:50:04 +0000</pubDate>
-      </item><item>
-        <title>it&amp;#39;s the year two thousand and 23: happy 42nd birth day, dear Chaos Computer Club! See you all at congress end of the year? illuminated windows on a skyscraper showing a CCC sign</title>
-        <link>https://chaos.social/@delta/111051379747898318</link>
-        <guid>https://chaos.social/@delta/111051379747898318</guid>
-        <pubDate>Tue, 12 Sep 2023 09:06:18 +0000</pubDate>
       </item>
   </channel>
 </rss>
