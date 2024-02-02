@@ -2,6 +2,11 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      
+      <item>
+        <title>Hungary/Gyakran elkövetett hibák: vesszők -ITinerisKft</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Gyakran_elk%C3%B6vetett_hib%C3%A1k&amp;diff=2657399&amp;oldid=1957444</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Gyakran_elk%C3%B6vetett_hib%C3%A1k&amp;diff=2657399</guid>
+        <pubDate>Fri, 02 Feb 2024 09:45:43 GMT</pubDate>
+      </item>
   </channel>
 </rss>
