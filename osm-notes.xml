@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3868073 (near 8226, Central Transdanubia, 8226, Hungary) / * 2023 September 2 23:22 vasony Created: földhivatal szerint 6 és 8 fordítva, még egyszer meg kell nézni a helyszínen / * 2024 February 2 17:24 vasony Resolved: A 8-as azon a házon van, ahol jelölve van osm-en, nincs teendő.</title>
+        <link>https://www.openstreetmap.org/note/3868073#c8941470</link>
+        <guid>https://www.openstreetmap.org/note/3868073#c8941470</guid>
+        <pubDate>Fri, 02 Feb 2024 17:24:54 +0000</pubDate>
+      </item><item>
         <title>new note 4097351 (near 1171, Central Hungary, 1171, Hungary) / * 2024 February 2 17:12 Created: Új megálló: Sport tér (A járat a Nemesbük utca térségét csak a Zimonyi utca felé érinti, Rákoscsaba vasútállomás felé változatlan útvonalon közlekedik a 298-as busz.)</title>
         <link>https://www.openstreetmap.org/note/4097351#c8941419</link>
         <guid>https://www.openstreetmap.org/note/4097351#c8941419</guid>
@@ -157,16 +162,6 @@
         <link>https://www.openstreetmap.org/note/4094993#c8936851</link>
         <guid>https://www.openstreetmap.org/note/4094993#c8936851</guid>
         <pubDate>Thu, 01 Feb 2024 08:50:01 +0000</pubDate>
-      </item><item>
-        <title>new comment 4094995 (near 2523, Central Transdanubia, 2523, Hungary) / * 2024 January 31 21:27 Created: Egykori Kaolinvasút alagútjának Sárisáp felőli bejárata / * 2024 February 1 08:48 BáthoryPéter Updated: Már rajta van a térképen, bár nem biztos, hogy helyesen címkézve: / https://www.openstreetmap.org/node/10302392979 / Merre ment a vasúti pálya? Van róla valami forrásod?</title>
-        <link>https://www.openstreetmap.org/note/4094995#c8936847</link>
-        <guid>https://www.openstreetmap.org/note/4094995#c8936847</guid>
-        <pubDate>Thu, 01 Feb 2024 08:48:56 +0000</pubDate>
-      </item><item>
-        <title>closed note 4094986 (near 2500, Central Transdanubia, 2500, Hungary) / * 2024 January 31 21:13 Created: Dorogi Szénbányák egykori dunai szénrakodója / * 2024 February 1 08:45 BáthoryPéter Resolved: Már rajta volt a térképen szénrakodó néven.</title>
-        <link>https://www.openstreetmap.org/note/4094986#c8936843</link>
-        <guid>https://www.openstreetmap.org/note/4094986#c8936843</guid>
-        <pubDate>Thu, 01 Feb 2024 08:45:49 +0000</pubDate>
       </item>
   </channel>
 </rss>
