@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment 3899677 (near 1118, Central Hungary, 1118, Hungary) / * 2023 September 20 20:22 ITineris Created: Hosszas megjegyzés van itt az utcanévvel kapcsolatban. A konklúzió: &amp;quot;mivel mindkét hivatalos tábla egyeírja, az 1-es számnál lévőt választottam&amp;quot;. / Ezen árnyalnék annyit, hogy a 8-as, 18-as és 26-os sarkán is kint van még a régi tábla, a kötőjeles írásmóddal. Mint ahogyan az 1-8 tömb házszám tábláin is kötőjellel látható. Mivel a hivataloson is így szerepel, én sokkal inkább hajlok arra, hogy az új utcanév táblákat gyártották le hibásan. / Plusz egy szavazat arra, hogy az OSM-en is kötőjellel legyen a &amp;quot;name&amp;quot;, és a kötőjeltelen lehet valami más, pl. loc_name. / * 2024 February 4 21:41 BáthoryPéter Updated: https://e-nyelv.hu/2017-10-27/csikihegyek-utca/</title>
+        <link>https://www.openstreetmap.org/note/3899677#c8948425</link>
+        <guid>https://www.openstreetmap.org/note/3899677#c8948425</guid>
+        <pubDate>Sun, 04 Feb 2024 21:41:58 +0000</pubDate>
+      </item><item>
         <title>new note 4099916 (near 1153, Central Hungary, 1153, Hungary) / * 2024 February 4 15:58 igor2 Created: 30-as zona, de meddig?</title>
         <link>https://www.openstreetmap.org/note/4099916#c8947264</link>
         <guid>https://www.openstreetmap.org/note/4099916#c8947264</guid>
@@ -132,26 +137,6 @@
         <link>https://www.openstreetmap.org/note/2187409#c8938757</link>
         <guid>https://www.openstreetmap.org/note/2187409#c8938757</guid>
         <pubDate>Thu, 01 Feb 2024 21:03:15 +0000</pubDate>
-      </item><item>
-        <title>closed note 4094094 (near 7630, Southern Transdanubia, 7630, Hungary) / * 2024 January 31 09:37 Created: The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2024-01-05T19:06:54Z / POI has no name / POI types: man_made-tower-communication / #organicmaps ios / * 2024 February 1 21:02 urbalazs Resolved: Kettőzött víztorony törölve a 146962089 számú módosításcsomagban.</title>
-        <link>https://www.openstreetmap.org/note/4094094#c8938754</link>
-        <guid>https://www.openstreetmap.org/note/4094094#c8938754</guid>
-        <pubDate>Thu, 01 Feb 2024 21:02:33 +0000</pubDate>
-      </item><item>
-        <title>closed note 2187413 (near Csobántanya, Tokod) / * 2020 May 10 07:48 Created: áteresz / * 2024 February 1 21:02 BáthoryPéter Resolved: Nem azonosítható be ortofotókról.</title>
-        <link>https://www.openstreetmap.org/note/2187413#c8938753</link>
-        <guid>https://www.openstreetmap.org/note/2187413#c8938753</guid>
-        <pubDate>Thu, 01 Feb 2024 21:02:19 +0000</pubDate>
-      </item><item>
-        <title>closed note 2187363 (near Csobántanya, Tokod) / * 2020 May 10 07:01 Created: homokvasút töltés / * 2024 February 1 21:01 BáthoryPéter Resolved: A korabeli ortofotók alapján innen 80 méterre északkeletre volt a töltés. Rajta van a térépen.</title>
-        <link>https://www.openstreetmap.org/note/2187363#c8938751</link>
-        <guid>https://www.openstreetmap.org/note/2187363#c8938751</guid>
-        <pubDate>Thu, 01 Feb 2024 21:01:54 +0000</pubDate>
-      </item><item>
-        <title>closed note 4057941 (near 7630, Southern Transdanubia, 7630, Hungary) / * 2024 January 8 06:21 Created: &amp;quot;Nyitva tartás: / H-P: 8:00 – 16:30 / Szo: 8:00 – 12:00&amp;quot; / OSM snapshot date: 2023-12-13T18:30:01Z / POI has no name / POI types: shop-agrarian / #organicmaps ios / * 2024 February 1 20:58 urbalazs Resolved: Megadtam a nyitva tartást.</title>
-        <link>https://www.openstreetmap.org/note/4057941#c8938743</link>
-        <guid>https://www.openstreetmap.org/note/4057941#c8938743</guid>
-        <pubDate>Thu, 01 Feb 2024 20:58:59 +0000</pubDate>
       </item>
   </channel>
 </rss>
