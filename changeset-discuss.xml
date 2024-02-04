@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: mcliquid Discussion Comment No.: 1 Comment: Hi, please note: changesets should be local. To avoid conflicts and as a courtesy to reviewers, it is recommended to: • combine changes in a small geographical area (within a city, district or province) • keep changes within the same country • upload/save changes before moving on to map in a different area Why? Have a look at the section &quot;Geographical size of changesets&quot; on this wiki page: https://wiki.openstreetmap.org/wiki/Changeset Thanks for considering, have a nice day and happy mapping! Date: 2024-02-04T10:16:38+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/147046470</link>
+        <guid>https://www.openstreetmap.org/changeset/147046470#comment_1</guid>
+        <pubDate>2024-02-04T10:16:38+01:00</pubDate>
+      </item><item>
         <title>Contributor: balint36 Discussion Comment No.: 1 Comment: *Győrszentiván állomáson Date: 2024-02-03T11:22:37+01:00</title>
         <link>https://www.openstreetmap.org/changeset/147003556</link>
         <guid>https://www.openstreetmap.org/changeset/147003556#comment_1</guid>
@@ -82,11 +87,6 @@
         <link>https://www.openstreetmap.org/changeset/146774658</link>
         <guid>https://www.openstreetmap.org/changeset/146774658#comment_1</guid>
         <pubDate>2024-01-28T13:51:57+01:00</pubDate>
-      </item><item>
-        <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szia! Milyen forrásban van Munkácsi téri az y-os írásmód helyett? Itt csak Munkácsy téri székhelyre hivatkoznak, ha ez ugyanaz: https://lachazaiskola.hu/munkatarsaink-munkacsy/ Tamás Date: 2024-01-28T11:09:37+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/146749082</link>
-        <guid>https://www.openstreetmap.org/changeset/146749082#comment_1</guid>
-        <pubDate>2024-01-28T11:09:37+01:00</pubDate>
       </item>
   </channel>
 </rss>
