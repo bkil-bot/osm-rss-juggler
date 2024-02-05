@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Was an eventful and enjoyable #offdem24 and #fossdem24 .... Ranging from intermingling with people operating security-sensitiv helplines using #chatmail to discussing email standards like the evolving openpgp cryptorefresh ... And then several more underground happenings which might lead to even more surprises than are already developing .... with many of us agreeing and appreciating that we are rather engaged with lots interesting communities and folks rather than corporate structures.</title>
+        <link>https://chaos.social/@delta/111880788029950808</link>
+        <guid>https://chaos.social/@delta/111880788029950808</guid>
+        <pubDate>Mon, 05 Feb 2024 20:35:44 +0000</pubDate>
+      </item><item>
         <title>When you are interacting with this account here you are actually interacting with a bunch of folks involved in various ways in project happenings, who are often following interactions via a deltachat mastodon bot that relays messages into a chat group from where the reply is triggered. Many of the @delta members have an #offlinefirst approach to networking so mostly use the chat group to interact. #DidYouKnowDepartment</title>
         <link>https://chaos.social/@delta/111855645754971836</link>
         <guid>https://chaos.social/@delta/111855645754971836</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/111064803824610765</link>
         <guid>https://chaos.social/@delta/111064803824610765</guid>
         <pubDate>Thu, 14 Sep 2023 18:00:13 +0000</pubDate>
-      </item><item>
-        <title>We are currently revising the FAQ regarding common questions about E2E-encryption and OpenPGP Security, Metadata protection, verified groups etc. in this PR https://github.com/deltachat/deltachat-pages/pull/727/files feedback welcome at best on the PR but here is fine as well. You also can glimpse in this PR some of the security improvements we are aiming for in the next couple months.</title>
-        <link>https://chaos.social/@delta/111059101594526796</link>
-        <guid>https://chaos.social/@delta/111059101594526796</guid>
-        <pubDate>Wed, 13 Sep 2023 17:50:04 +0000</pubDate>
       </item>
   </channel>
 </rss>
