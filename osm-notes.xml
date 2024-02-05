@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4100697 (near 6000, South Great Plain, 6000, Hungary) / * 2024 February 5 08:04 Created: Plastic-Line Kft.</title>
+        <link>https://www.openstreetmap.org/note/4100697#c8949145</link>
+        <guid>https://www.openstreetmap.org/note/4100697#c8949145</guid>
+        <pubDate>Mon, 05 Feb 2024 08:04:36 +0000</pubDate>
+      </item><item>
+        <title>new comment 3899677 (near 1118, Central Hungary, 1118, Hungary) / * 2023 September 20 20:22 ITineris Created: Hosszas megjegyzés van itt az utcanévvel kapcsolatban. A konklúzió: &amp;quot;mivel mindkét hivatalos tábla egyeírja, az 1-es számnál lévőt választottam&amp;quot;. / Ezen árnyalnék annyit, hogy a 8-as, 18-as és 26-os sarkán is kint van még a régi tábla, a kötőjeles írásmóddal. Mint ahogyan az 1-8 tömb házszám tábláin is kötőjellel látható. Mivel a hivataloson is így szerepel, én sokkal inkább hajlok arra, hogy az új utcanév táblákat gyártották le hibásan. / Plusz egy szavazat arra, hogy az OSM-en is kötőjellel legyen a &amp;quot;name&amp;quot;, és a kötőjeltelen lehet valami más, pl. loc_name. / * 2024 February 4 21:41 BáthoryPéter Updated: https://e-nyelv.hu/2017-10-27/csikihegyek-utca/ / * 2024 February 5 07:29 ITineris Updated: A helyesírási szabályokat nem hoztam ide, csak a táblák számossága alapján igyekeztem okoskodni (illetve nem elégségesnek tartani a pár új tábla miatti ground truth érvelést). / A KCR-ben &amp;quot;persze&amp;quot; rövid i-vel és kötőjelesen van, ha az bárkinek is számít.</title>
+        <link>https://www.openstreetmap.org/note/3899677#c8949082</link>
+        <guid>https://www.openstreetmap.org/note/3899677#c8949082</guid>
+        <pubDate>Mon, 05 Feb 2024 07:29:39 +0000</pubDate>
+      </item><item>
         <title>new comment 3899677 (near 1118, Central Hungary, 1118, Hungary) / * 2023 September 20 20:22 ITineris Created: Hosszas megjegyzés van itt az utcanévvel kapcsolatban. A konklúzió: &amp;quot;mivel mindkét hivatalos tábla egyeírja, az 1-es számnál lévőt választottam&amp;quot;. / Ezen árnyalnék annyit, hogy a 8-as, 18-as és 26-os sarkán is kint van még a régi tábla, a kötőjeles írásmóddal. Mint ahogyan az 1-8 tömb házszám tábláin is kötőjellel látható. Mivel a hivataloson is így szerepel, én sokkal inkább hajlok arra, hogy az új utcanév táblákat gyártották le hibásan. / Plusz egy szavazat arra, hogy az OSM-en is kötőjellel legyen a &amp;quot;name&amp;quot;, és a kötőjeltelen lehet valami más, pl. loc_name. / * 2024 February 4 21:41 BáthoryPéter Updated: https://e-nyelv.hu/2017-10-27/csikihegyek-utca/</title>
         <link>https://www.openstreetmap.org/note/3899677#c8948425</link>
         <guid>https://www.openstreetmap.org/note/3899677#c8948425</guid>
@@ -132,11 +142,6 @@
         <link>https://www.openstreetmap.org/note/2236594#c8938975</link>
         <guid>https://www.openstreetmap.org/note/2236594#c8938975</guid>
         <pubDate>Thu, 01 Feb 2024 22:43:42 +0000</pubDate>
-      </item><item>
-        <title>closed note 2187409 (near Csobántanya, Tokod) / * 2020 May 10 07:45 Created: homokvasút árok / * 2024 February 1 21:03 BáthoryPéter Resolved: Be van rajzolva itt is a homokvasút. / https://www.openrailwaymap.org/?style=standard&amp;amp;lat=47.70644417386328&amp;amp;lon=18.66398513317108&amp;amp;zoom=17</title>
-        <link>https://www.openstreetmap.org/note/2187409#c8938757</link>
-        <guid>https://www.openstreetmap.org/note/2187409#c8938757</guid>
-        <pubDate>Thu, 01 Feb 2024 21:03:15 +0000</pubDate>
       </item>
   </channel>
 </rss>
