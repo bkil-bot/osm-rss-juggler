@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4054747 (near 1092, Central Hungary, 1092, Hungary) / * 2024 January 5 23:38 Nagy Ferenc László Created: Unable to answer &amp;quot;Are the pickup times of this collection box still correct?&amp;quot; for https://osm.org/node/2766675248 via StreetComplete 55.1: / Passz. / Attached photo(s): / https://westnordost.de/p/191928.jpg / * 2024 February 6 13:53 sfphoton Resolved: Hát, ezzel szerintem a szerkesztők közül senki nem fog tudni semmit kezdeni. Szóval ezt a note-ot most lezárom, hogy a StreetComplete feldobja máskor is, hátha addigra újra kiírják rá. Azért köszi a bejelentést!</title>
+        <link>https://www.openstreetmap.org/note/4054747#c8953083</link>
+        <guid>https://www.openstreetmap.org/note/4054747#c8953083</guid>
+        <pubDate>Tue, 06 Feb 2024 13:53:26 +0000</pubDate>
+      </item><item>
+        <title>closed note 4085481 (near 1105, Central Hungary, 1105, Hungary) / * 2024 January 25 07:42 Kecsege Created: Unable to answer &amp;quot;What’s the surface here?&amp;quot; for https://osm.org/way/572800620 via StreetComplete 56.0: / A lépcső csempéből van. / * 2024 February 5 20:25 sfphoton Resolved: Nem lehet, hogy térkőből vagy valami kültéri járólapból? A csempe (nekem) kicsit tág értelmezés. Ha a térkő nem illik rá, akkor szerintem használjuk az általános &amp;quot;paved&amp;quot; surface-t. / * 2024 February 5 20:25 sfphoton Reactivated:  / * 2024 February 5 20:25 sfphoton Updated: Bocsánat, csak véletlenül zártam le. / * 2024 February 5 20:59 Kecsege Updated: Hát a csempe igazából járólap. Attól nem csempe, hogy a talajra rakjuk nem a falra. De ha jól emlékszem úgy néz ki mintha beltérre lenne kitalálva, ezért írtam csempét. / Szerintem a térkővel nagyon nem lövünk mellé. / * 2024 February 6 13:46 sfphoton Resolved: Akkor beírtam egyelőre járólapnak. Ha később találsz rá jobbat, akkor szerkeszd át nyugodtan. Köszi!</title>
+        <link>https://www.openstreetmap.org/note/4085481#c8953053</link>
+        <guid>https://www.openstreetmap.org/note/4085481#c8953053</guid>
+        <pubDate>Tue, 06 Feb 2024 13:46:50 +0000</pubDate>
+      </item><item>
         <title>new note 4102247 (near 1117, Central Hungary, 1117, Hungary) / * 2024 February 6 12:41 Created: A Baranyai utcától eddig a járdáig, szerintem rosszul van a közút paraméterezve. Az útra van téve a járda, pedig külön van, úgy mint ahogy a térkép is jelzi. Tehát ezen a szakaszon duplikálva van a járda. Úgy kellene beállítani, mint innen az Október huszonharmadika utca felé vezető úton van, tehát nem az úton van a járda, hanem tőle elválasztva mellette.</title>
         <link>https://www.openstreetmap.org/note/4102247#c8952843</link>
         <guid>https://www.openstreetmap.org/note/4102247#c8952843</guid>
@@ -142,11 +152,6 @@
         <link>https://www.openstreetmap.org/note/4097469#c8941792</link>
         <guid>https://www.openstreetmap.org/note/4097469#c8941792</guid>
         <pubDate>Fri, 02 Feb 2024 19:01:54 +0000</pubDate>
-      </item><item>
-        <title>closed note 3868073 (near 8226, Central Transdanubia, 8226, Hungary) / * 2023 September 2 23:22 vasony Created: földhivatal szerint 6 és 8 fordítva, még egyszer meg kell nézni a helyszínen / * 2024 February 2 17:24 vasony Resolved: A 8-as azon a házon van, ahol jelölve van osm-en, nincs teendő.</title>
-        <link>https://www.openstreetmap.org/note/3868073#c8941470</link>
-        <guid>https://www.openstreetmap.org/note/3868073#c8941470</guid>
-        <pubDate>Fri, 02 Feb 2024 17:24:54 +0000</pubDate>
       </item>
   </channel>
 </rss>
