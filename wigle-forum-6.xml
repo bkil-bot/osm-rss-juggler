@@ -3,6 +3,11 @@
   <channel>
     <title>WiGLE Frontpage (via bkil-bot)</title>
       <item>
+        <title>Re: Email verification changes: Yesterday, I attempted to set up an account and successfully received and clicked on the verification link. However, when I tried to log in today, I encountered issues and didn't receive an email to reset my password. Consequently, I had to register for a new account, but I'm yet again not receiving the verification email. I'm using my Gmail for this, and my internet connection is through a 4G modem with a shared IP address. Could this connectivity setup be causing the problem? -jamers5</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=12052#p12052</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=12052#p12052</guid>
+        <pubDate>2024-02-07T15:00:06</pubDate>
+      </item><item>
         <title>Re: Reminder: Query Limits and responsible use: for a start, don't register multiple accounts - that will get you flagged permanently. -arkasha</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12043#p12043</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12043#p12043</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11972#p11972</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11972#p11972</guid>
         <pubDate>2023-12-22T07:15:56</pubDate>
-      </item><item>
-        <title>Re: Email verification changes: as disposable email providers get used in attempts to abuse the system, they'll cease to work for registration. -arkasha</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11967#p11967</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11967#p11967</guid>
-        <pubDate>2023-12-16T21:59:58</pubDate>
       </item>
   </channel>
 </rss>
