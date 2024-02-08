@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4104700 (near 1088, Central Hungary, 1088, Hungary) / * 2024 February 8 11:00 infeeeee Created: Ideiglenes forgalmi rend és lezárások kb 2024 Júniusáig. Ebben a változáscsomagban találhatóak a módosított utcák: https://www.openstreetmap.org/changeset/147212185 / Forrás: https://rev8.hu/krudy-maria/ / Elkészültekor az utcák helyszínen felmérendők.</title>
+        <link>https://www.openstreetmap.org/note/4104700#c8958571</link>
+        <guid>https://www.openstreetmap.org/note/4104700#c8958571</guid>
+        <pubDate>Thu, 08 Feb 2024 11:00:32 +0000</pubDate>
+      </item><item>
+        <title>closed note 4103670 (near 1088, Central Hungary, 1088, Hungary) / * 2024 February 7 13:26 Created: Street under reconstruction / * 2024 February 7 18:07 infeeeee Updated: Official news: https://rev8.hu/krudy-maria/ / It&amp;#39;s expected to be finished in June 2024, Is 5 month temporary? / https://wiki.openstreetmap.org/wiki/Good_practice#Don&amp;#39;t_map_temporary_events_and_temporary_features / * 2024 February 8 10:58 infeeeee Resolved: I will create a new note as a reminder. https://www.openstreetmap.org/changeset/147212185</title>
+        <link>https://www.openstreetmap.org/note/4103670#c8958563</link>
+        <guid>https://www.openstreetmap.org/note/4103670#c8958563</guid>
+        <pubDate>Thu, 08 Feb 2024 10:58:52 +0000</pubDate>
+      </item><item>
         <title>new note 4104427 (near 2120, Central Hungary, 2120, Hungary) / * 2024 February 8 03:35 igor2 Created: Ezeket az uzleteket ossze kene parositani az epuletekkel</title>
         <link>https://www.openstreetmap.org/note/4104427#c8957880</link>
         <guid>https://www.openstreetmap.org/note/4104427#c8957880</guid>
@@ -217,16 +227,6 @@
         <link>https://www.openstreetmap.org/note/4099900#c8947224</link>
         <guid>https://www.openstreetmap.org/note/4099900#c8947224</guid>
         <pubDate>Sun, 04 Feb 2024 15:48:42 +0000</pubDate>
-      </item><item>
-        <title>new note 4099526 (near 2040, Central Hungary, 2040, Hungary) / * 2024 February 4 11:34 BáthoryPéter Created: &amp;quot;Ázsiai wok, nyitás februárban&amp;quot; tábla a bolt és az ételbár között / #OsmAnd</title>
-        <link>https://www.openstreetmap.org/note/4099526#c8946460</link>
-        <guid>https://www.openstreetmap.org/note/4099526#c8946460</guid>
-        <pubDate>Sun, 04 Feb 2024 11:34:21 +0000</pubDate>
-      </item><item>
-        <title>new note 4099482 (near Bajtner puszta, Balassagyarmat) / * 2024 February 4 10:51 balint36 Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; for https://osm.org/way/682753166 via StreetComplete 56.0: / MÁV SZK Budapest Ferencváros Raktárbázis</title>
-        <link>https://www.openstreetmap.org/note/4099482#c8946375</link>
-        <guid>https://www.openstreetmap.org/note/4099482#c8946375</guid>
-        <pubDate>Sun, 04 Feb 2024 10:51:52 +0000</pubDate>
       </item>
   </channel>
 </rss>
