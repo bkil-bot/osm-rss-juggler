@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: igor2 Discussion Comment No.: 2 Comment: Szia, koszi az eszrevetelt es a linket, ezeket javitani fogom. Lehet az osm inspectorral exportalni a talalatokat? Azt hiszem az lenne a leghatekonyabb, ha be tudnam tolteni csak a cimkezetlen objektumokat egy retegre. A tomeges szerkesztesi hiba oka amugy az, hogy meg nem implementaltam ellenorzot, amit commit elott futtatna a program, ezert ha sok hasonlo dolgot (hazat, keritest) rajzolok egyszerre es nemelyiket elfelejtem cimkezni, akkor az gond nelkul felmegy ugy. Azt hiszem mostmar ideje megcsinalnom az ellenorzot is. Date: 2024-02-08T14:32:19+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/146615035</link>
+        <guid>https://www.openstreetmap.org/changeset/146615035#comment_2</guid>
+        <pubDate>2024-02-08T14:32:19+01:00</pubDate>
+      </item><item>
         <title>Contributor: bkil Discussion Comment No.: 1 Comment: Köszönjük a közreműködést. Felhívjuk a figyelmet, hogy a házszám, lakcím és postacím formátuma speciális bontást igényelhet https://wiki.osm.org/Hungary/Jel%C3%B6l%C3%A9si_p%C3%A9ld%C3%A1k#Javasolt_c%C3%ADm_elemek Date: 2024-02-07T17:56:54+01:00</title>
         <link>https://www.openstreetmap.org/changeset/147110939</link>
         <guid>https://www.openstreetmap.org/changeset/147110939#comment_1</guid>
@@ -42,11 +47,6 @@
         <link>https://www.openstreetmap.org/changeset/146922474</link>
         <guid>https://www.openstreetmap.org/changeset/146922474#comment_3</guid>
         <pubDate>2024-02-01T20:46:06+01:00</pubDate>
-      </item><item>
-        <title>Contributor: Mateusz Konieczny Discussion Comment No.: 1 Comment: Hello! https://www.openstreetmap.org/node/2926282526/history has sport=team_handball that was added in this edit (if I checked things correctly) Would sport=handball (see https://wiki.openstreetmap.org/wiki/Tag:sport%3Dhandball ) be fitting at least equally well? Date: 2024-02-01T15:36:54+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/23066206</link>
-        <guid>https://www.openstreetmap.org/changeset/23066206#comment_1</guid>
-        <pubDate>2024-02-01T15:36:54+01:00</pubDate>
       </item>
   </channel>
 </rss>
