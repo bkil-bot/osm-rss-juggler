@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: BáthoryPéter Discussion Comment No.: 10 Comment: Gondolom innen: https://github.com/openstreetmap/iD/tree/develop/modules/validations De nem nagyon használok iD-t, nem tudom ezek mennyire jók. A JOSM-é nagyon alapos, még olyanokra is figyel, ha felveszek turn:lanes-be három kanyarodósávot, de abba az irányba csak 2 lanes van jelölve. Milliónyi dologra kell figyelni, azért javasoltam meglévő lista használatát, mert jót egy-két ember nem fog tudni összerakni. Date: 2024-02-09T12:12:02+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/146615035</link>
+        <guid>https://www.openstreetmap.org/changeset/146615035#comment_10</guid>
+        <pubDate>2024-02-09T12:12:02+01:00</pubDate>
+      </item><item>
         <title>Contributor: NightH Discussion Comment No.: 2 Comment: Szia! Itt nincs tüzép. Jópár éve megvette a Colas a telephelyet, akkor szűnt meg a tüzép funkció, azóta csak egy telephely. Az elmúlt néhány évben jártam ezen az útvonalon, innen tudom. A területhasználat maradéka (a terület több, mint fele mezőgazdasági) meg be lett rajzolva a Bingről. Date: 2024-02-09T11:03:07+01:00</title>
         <link>https://www.openstreetmap.org/changeset/147248939</link>
         <guid>https://www.openstreetmap.org/changeset/147248939#comment_2</guid>
@@ -12,11 +17,6 @@
         <link>https://www.openstreetmap.org/changeset/136911892</link>
         <guid>https://www.openstreetmap.org/changeset/136911892#comment_1</guid>
         <pubDate>2024-02-09T05:41:32+01:00</pubDate>
-      </item><item>
-        <title>Contributor: BáthoryPéter Discussion Comment No.: 5 Comment: Érdemes volna a JOSM vagy az iD hibakeresőjét újraimplementálnod, hogy kész listákat tudj átvenni. Date: 2024-02-08T21:35:12+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/146615035</link>
-        <guid>https://www.openstreetmap.org/changeset/146615035#comment_5</guid>
-        <pubDate>2024-02-08T21:35:12+01:00</pubDate>
       </item><item>
         <title>Contributor: bkil Discussion Comment No.: 1 Comment: Köszönjük a közreműködést. Felhívjuk a figyelmet, hogy a házszám, lakcím és postacím formátuma speciális bontást igényelhet https://wiki.osm.org/Hungary/Jel%C3%B6l%C3%A9si_p%C3%A9ld%C3%A1k#Javasolt_c%C3%ADm_elemek Date: 2024-02-07T17:56:54+01:00</title>
         <link>https://www.openstreetmap.org/changeset/147110939</link>
