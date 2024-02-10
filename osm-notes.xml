@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3914799 (near 1112, Central Hungary, 1112, Hungary) / * 2023 September 29 19:09 vasony Created: Ez az épület még megvan? / * 2024 February 10 14:57 urbalazs Resolved: Már teljesen üres a telek. Lebontottam az épületet a 147295951 számú módosításcsomagban.</title>
+        <link>https://www.openstreetmap.org/note/3914799#c8965296</link>
+        <guid>https://www.openstreetmap.org/note/3914799#c8965296</guid>
+        <pubDate>Sat, 10 Feb 2024 14:57:10 +0000</pubDate>
+      </item><item>
+        <title>closed note 3949702 (near 1116, Central Hungary, 1116, Hungary) / * 2023 October 20 12:43 BáthoryPéter Created: Jelentősebb forgalmi változás készül a környéken, főleg a hegy felé, minden utca tele van letakart új táblákkal (október 18-i állapot). Aki tud, nézzen vissza pár hét múlva. / * 2023 October 25 21:28 BáthoryPéter Updated: Citera u lefelé egyirányú lesz (kivéve kerékpár?), de még le van takarva. / * 2024 February 10 14:48 urbalazs Resolved: A Torma utcából dél felé nyíló utcák mindegyike lakó-pihenő övezet lett. Egyik sem egyirányú. Javítva a 147295474 számú módosításcsomagban.</title>
+        <link>https://www.openstreetmap.org/note/3949702#c8965272</link>
+        <guid>https://www.openstreetmap.org/note/3949702#c8965272</guid>
+        <pubDate>Sat, 10 Feb 2024 14:48:32 +0000</pubDate>
+      </item><item>
         <title>new note 4106986 (near 7630, Southern Transdanubia, 7630, Hungary) / * 2024 February 10 12:04 Spush Created: Burger King</title>
         <link>https://www.openstreetmap.org/note/4106986#c8964872</link>
         <guid>https://www.openstreetmap.org/note/4106986#c8964872</guid>
@@ -242,16 +252,6 @@
         <link>https://www.openstreetmap.org/note/4102247#c8952843</link>
         <guid>https://www.openstreetmap.org/note/4102247#c8952843</guid>
         <pubDate>Tue, 06 Feb 2024 12:41:55 +0000</pubDate>
-      </item><item>
-        <title>new comment 3679617 (near Alag, Tóváros (Barackos), Dunakeszi) / * 2024 February 6 05:02 igor2 Updated: https://fejlesztesek.dunakeszi.hu/fejlesztesek/varosi-utak-felujitasa/ / Itt ugy hivatkoznak ra, mint a Kossuth Lajos utca vegere, ez is azt sugallja, hogy a korforgalom lehet az. / Itt pedig a Foti ut vegekent: / https://fejlesztesek.dunakeszi.hu/fejlesztesek/jardaepitesi-program/</title>
-        <link>https://www.openstreetmap.org/note/3679617#c8951952</link>
-        <guid>https://www.openstreetmap.org/note/3679617#c8951952</guid>
-        <pubDate>Tue, 06 Feb 2024 05:02:13 +0000</pubDate>
-      </item><item>
-        <title>new comment 3679617 (near Alag, Tóváros (Barackos), Dunakeszi) / * 2023 May 8 06:47 vasony Created: Luther Márton tér itt van valahol? / * 2024 February 5 17:42 igor2 Updated: Igen, a templom elotti resz lehet az, gondolom a korforgalommal. A posta kicsit delre mar Verseny utca 4,tehat valahol a ketto kozott lehet vege a ternek. / Javaslat: jeloljuk a korforgalmat es a Verseny utca abbol haromszog alakban kiagazo reszet Luther Marton ternek. / Helyszini fotok: / https://archive.org/details/osm-dunakeszi-luther/ / * 2024 February 6 04:49 igor2 Updated: igazabol jobb lenne csak a korforgalmat ternek jelolni</title>
-        <link>https://www.openstreetmap.org/note/3679617#c8951941</link>
-        <guid>https://www.openstreetmap.org/note/3679617#c8951941</guid>
-        <pubDate>Tue, 06 Feb 2024 04:49:01 +0000</pubDate>
       </item>
   </channel>
 </rss>
