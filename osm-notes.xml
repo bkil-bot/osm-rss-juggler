@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4108788 (near 7632, Southern Transdanubia, 7632, Hungary) / * 2024 February 11 21:07 vasony Resolved: Tökéletesen megfelel az is ha nincs megadva a surface, ugyanazt jelenti -&amp;gt; felmérendő. Töröltem a hibás értéket.</title>
+        <link>https://www.openstreetmap.org/note/4108788#c8969791</link>
+        <guid>https://www.openstreetmap.org/note/4108788#c8969791</guid>
+        <pubDate>Sun, 11 Feb 2024 21:07:36 +0000</pubDate>
+      </item><item>
         <title>new note 4108844 (near 3100, North Hungary, 3100, Hungary) / * 2024 February 11 18:11 Created: Pálya surface-t érdemes lenne felmérni.</title>
         <link>https://www.openstreetmap.org/note/4108844#c8969270</link>
         <guid>https://www.openstreetmap.org/note/4108844#c8969270</guid>
@@ -177,31 +182,6 @@
         <link>https://www.openstreetmap.org/note/4107486#c8966040</link>
         <guid>https://www.openstreetmap.org/note/4107486#c8966040</guid>
         <pubDate>Sat, 10 Feb 2024 19:28:58 +0000</pubDate>
-      </item><item>
-        <title>closed note 3699842 (near 8227, Central Transdanubia, 8227, Hungary) / * 2023 May 21 19:31 vasony Created: Ez a szakasz neve nem Szürkebarát utca? / * 2024 February 10 18:35 vasony Resolved: de, viszont a számozás még a Szőlősorra vannak</title>
-        <link>https://www.openstreetmap.org/note/3699842#c8965943</link>
-        <guid>https://www.openstreetmap.org/note/3699842#c8965943</guid>
-        <pubDate>Sat, 10 Feb 2024 18:35:07 +0000</pubDate>
-      </item><item>
-        <title>new note 4107335 (near Téglagyár, Balatonszentgyörgy) / * 2024 February 10 16:55 Created: Balatonszentgyörgy, nem Vörs</title>
-        <link>https://www.openstreetmap.org/note/4107335#c8965622</link>
-        <guid>https://www.openstreetmap.org/note/4107335#c8965622</guid>
-        <pubDate>Sat, 10 Feb 2024 16:55:53 +0000</pubDate>
-      </item><item>
-        <title>closed note 3914799 (near 1112, Central Hungary, 1112, Hungary) / * 2023 September 29 19:09 vasony Created: Ez az épület még megvan? / * 2024 February 10 14:57 urbalazs Resolved: Már teljesen üres a telek. Lebontottam az épületet a 147295951 számú módosításcsomagban.</title>
-        <link>https://www.openstreetmap.org/note/3914799#c8965296</link>
-        <guid>https://www.openstreetmap.org/note/3914799#c8965296</guid>
-        <pubDate>Sat, 10 Feb 2024 14:57:10 +0000</pubDate>
-      </item><item>
-        <title>closed note 3949702 (near 1116, Central Hungary, 1116, Hungary) / * 2023 October 20 12:43 BáthoryPéter Created: Jelentősebb forgalmi változás készül a környéken, főleg a hegy felé, minden utca tele van letakart új táblákkal (október 18-i állapot). Aki tud, nézzen vissza pár hét múlva. / * 2023 October 25 21:28 BáthoryPéter Updated: Citera u lefelé egyirányú lesz (kivéve kerékpár?), de még le van takarva. / * 2024 February 10 14:48 urbalazs Resolved: A Torma utcából dél felé nyíló utcák mindegyike lakó-pihenő övezet lett. Egyik sem egyirányú. Javítva a 147295474 számú módosításcsomagban.</title>
-        <link>https://www.openstreetmap.org/note/3949702#c8965272</link>
-        <guid>https://www.openstreetmap.org/note/3949702#c8965272</guid>
-        <pubDate>Sat, 10 Feb 2024 14:48:32 +0000</pubDate>
-      </item><item>
-        <title>new note 4106986 (near 7630, Southern Transdanubia, 7630, Hungary) / * 2024 February 10 12:04 Spush Created: Burger King</title>
-        <link>https://www.openstreetmap.org/note/4106986#c8964872</link>
-        <guid>https://www.openstreetmap.org/note/4106986#c8964872</guid>
-        <pubDate>Sat, 10 Feb 2024 12:04:36 +0000</pubDate>
       </item>
   </channel>
 </rss>
