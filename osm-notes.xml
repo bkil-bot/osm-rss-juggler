@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4108695 (near 8630, Southern Transdanubia, 8630, Hungary) / * 2024 February 11 16:13 Created: Balaton átúszás útvonala surface:víz mennyire megfelelő? Nem láttam még ilyet, hogy ez jelölve lenne.</title>
+        <link>https://www.openstreetmap.org/note/4108695#c8968839</link>
+        <guid>https://www.openstreetmap.org/note/4108695#c8968839</guid>
+        <pubDate>Sun, 11 Feb 2024 16:13:32 +0000</pubDate>
+      </item><item>
+        <title>new note 4108672 (near 8630, Southern Transdanubia, 8630, Hungary) / * 2024 February 11 15:57 Created: Le kellene venni a „surface:Kutyás_fürdőhely”-t. / Illetve utána kellene nézni, hogy ez tényleg kutyás strand-e, mert én online nem találtam rá utalást.</title>
+        <link>https://www.openstreetmap.org/note/4108672#c8968796</link>
+        <guid>https://www.openstreetmap.org/note/4108672#c8968796</guid>
+        <pubDate>Sun, 11 Feb 2024 15:57:45 +0000</pubDate>
+      </item><item>
+        <title>new note 4108623 (near 1013, Central Hungary, 1013, Hungary) / * 2024 February 11 15:28 Created: A Pauler utca ezen része „lit : automatic” beállítást kapott. Kétlem, hogy itt mozgásérzékelős közvilágítás lenne. Szerintem csak tévedésből került rá ez a „yes” helyett. Mindenesetre, meg kellene nézni.</title>
+        <link>https://www.openstreetmap.org/note/4108623#c8968676</link>
+        <guid>https://www.openstreetmap.org/note/4108623#c8968676</guid>
+        <pubDate>Sun, 11 Feb 2024 15:28:56 +0000</pubDate>
+      </item><item>
         <title>new note 4108615 (near Steiner kamionparkoló, Bicske) / * 2024 February 11 15:20 Created: Itt a „lit” címke „Mo-Su 00:00-24:00”-re van állítva. Ezt 24/7-el kell inkább jelölni. De meg kellene személyesen nézni, szerintem erre a node-ra nem kellene ezt a címkét használni.</title>
         <link>https://www.openstreetmap.org/note/4108615#c8968657</link>
         <guid>https://www.openstreetmap.org/note/4108615#c8968657</guid>
@@ -182,31 +197,6 @@
         <link>https://www.openstreetmap.org/note/4106091#c8962534</link>
         <guid>https://www.openstreetmap.org/note/4106091#c8962534</guid>
         <pubDate>Fri, 09 Feb 2024 14:04:32 +0000</pubDate>
-      </item><item>
-        <title>closed note 4057225 (near 9022, Western Transdanubia, 9022, Hungary) / * 2024 January 7 13:35 vasony Created: 24 vagy 25? 25-ös bejárat van a másik házon / * 2024 February 9 13:28 NightH Resolved: 25. A másik házon hibásan szerepelt a 25ös bejárat. A 25ös számmal jelzett bejárati kapu a két ház között van, és ehhez az épülethez tartozik.</title>
-        <link>https://www.openstreetmap.org/note/4057225#c8962442</link>
-        <guid>https://www.openstreetmap.org/note/4057225#c8962442</guid>
-        <pubDate>Fri, 09 Feb 2024 13:28:36 +0000</pubDate>
-      </item><item>
-        <title>closed note 181901 (near 2541, Central Transdanubia, 2541, Hungary) / * 2014 June 10 13:30 Plutoz Created: tourism = hotel / hostel / motel? / * 2014 June 30 00:04 ImreSamu Updated: nem használt ... / * 2024 February 9 13:18 NightH Resolved: The former hotel here is no longer functioning. The sign Zrínyi Szálló is gone too.</title>
-        <link>https://www.openstreetmap.org/note/181901#c8962431</link>
-        <guid>https://www.openstreetmap.org/note/181901#c8962431</guid>
-        <pubDate>Fri, 09 Feb 2024 13:18:56 +0000</pubDate>
-      </item><item>
-        <title>new note 4105964 (near 9026, Western Transdanubia, 9026, Hungary) / * 2024 February 9 12:09 balint36 Created: Győr 7 postapartner / via StreetComplete 56.1</title>
-        <link>https://www.openstreetmap.org/note/4105964#c8962242</link>
-        <guid>https://www.openstreetmap.org/note/4105964#c8962242</guid>
-        <pubDate>Fri, 09 Feb 2024 12:09:41 +0000</pubDate>
-      </item><item>
-        <title>closed note 500077 (near 2840, Central Transdanubia, 2840, Hungary) / * 2016 January 18 09:19 Qme001 Created: Kormány ablak. / arégi Arany János állt. iskola helyén. / * 2024 February 9 10:22 NightH Resolved: Innen már elköltözött a kormányablak, felvettem a mostani helyén.</title>
-        <link>https://www.openstreetmap.org/note/500077#c8961750</link>
-        <guid>https://www.openstreetmap.org/note/500077#c8961750</guid>
-        <pubDate>Fri, 09 Feb 2024 10:22:32 +0000</pubDate>
-      </item><item>
-        <title>closed note 308040 (near 9685, Western Transdanubia, 9685, Hungary) / * 2015 January 27 19:48 Created: Kovácsműhely / * 2024 February 9 10:13 NightH Resolved: Hozzáadva.</title>
-        <link>https://www.openstreetmap.org/note/308040#c8961715</link>
-        <guid>https://www.openstreetmap.org/note/308040#c8961715</guid>
-        <pubDate>Fri, 09 Feb 2024 10:13:40 +0000</pubDate>
       </item>
   </channel>
 </rss>
