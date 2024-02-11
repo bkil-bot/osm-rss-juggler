@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4108308 (near 1157, Central Hungary, 1157, Hungary) / * 2024 February 11 12:39 igor2parents Created: hol a ejarat?</title>
+        <link>https://www.openstreetmap.org/note/4108308#c8968078</link>
+        <guid>https://www.openstreetmap.org/note/4108308#c8968078</guid>
+        <pubDate>Sun, 11 Feb 2024 12:39:34 +0000</pubDate>
+      </item><item>
         <title>new note 4108103 (near 1141, Central Hungary, 1141, Hungary) / * 2024 February 11 09:45 Created: Megszűnt buszmegálló.</title>
         <link>https://www.openstreetmap.org/note/4108103#c8967548</link>
         <guid>https://www.openstreetmap.org/note/4108103#c8967548</guid>
@@ -192,21 +197,6 @@
         <link>https://www.openstreetmap.org/note/4105736#c8960763</link>
         <guid>https://www.openstreetmap.org/note/4105736#c8960763</guid>
         <pubDate>Fri, 09 Feb 2024 07:19:43 +0000</pubDate>
-      </item><item>
-        <title>closed note 4070805 (near 1115, Central Hungary, 1115, Hungary) / * 2024 January 15 21:54 Created: Itt rendbe kellene tenni a kerékpársávot. Egészen az Etele plázáig hiányos. / * 2024 February 8 18:51 Kecsege Resolved: Már jelölve van az úton.</title>
-        <link>https://www.openstreetmap.org/note/4070805#c8959619</link>
-        <guid>https://www.openstreetmap.org/note/4070805#c8959619</guid>
-        <pubDate>Thu, 08 Feb 2024 18:51:03 +0000</pubDate>
-      </item><item>
-        <title>closed note 4102247 (near 1117, Central Hungary, 1117, Hungary) / * 2024 February 6 12:41 Created: A Baranyai utcától eddig a járdáig, szerintem rosszul van a közút paraméterezve. Az útra van téve a járda, pedig külön van, úgy mint ahogy a térkép is jelzi. Tehát ezen a szakaszon duplikálva van a járda. Úgy kellene beállítani, mint innen az Október huszonharmadika utca felé vezető úton van, tehát nem az úton van a járda, hanem tőle elválasztva mellette. / * 2024 February 8 18:48 Kecsege Resolved: Javítottam. Separete-re állítottam az útra vonatkozó címkét.</title>
-        <link>https://www.openstreetmap.org/note/4102247#c8959610</link>
-        <guid>https://www.openstreetmap.org/note/4102247#c8959610</guid>
-        <pubDate>Thu, 08 Feb 2024 18:48:15 +0000</pubDate>
-      </item><item>
-        <title>new note 4105137 (near 1089, Central Hungary, 1089, Hungary) / * 2024 February 8 18:25 urbalazs Created: A benzinkút 2024. május 31-én bezár, és elbontják. Lásd: https://index.hu/belfold/2024/02/08/benzinkut-jozsefvaros-piko-andras-megszunes-kalvaria-ter/</title>
-        <link>https://www.openstreetmap.org/note/4105137#c8959570</link>
-        <guid>https://www.openstreetmap.org/note/4105137#c8959570</guid>
-        <pubDate>Thu, 08 Feb 2024 18:25:25 +0000</pubDate>
       </item>
   </channel>
 </rss>
