@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>OpenStreetMap will take a large leap forward with the introduction of vector tiles on openstreetmap.org in 2024. https://blog.openstreetmap.org/2024/02/11/2024-announcing-the-year-of-the-openstreetmap-vector-maps/ #OpenStreetMap #OSM #gis #maps #map</title>
+        <link>https://en.osm.town/@openstreetmap/111920634419959150</link>
+        <guid>https://en.osm.town/@openstreetmap/111920634419959150</guid>
+        <pubDate>Mon, 12 Feb 2024 21:29:12 +0000</pubDate>
+      </item><item>
         <title>OSM has improved our anti-spam &amp;amp; anti-vandalism methods. We&amp;#39;ve added very generous rate limits to map edits for new account. By reducing vandalism, your map gets better. Life is easier for the rest of the volunteers who fix spam &amp;amp; vandalism. If you&amp;#39;re hitting this limit, then just slow down, take it easy, and continue mapping at a sensible speed. 🙂 Don&amp;#39;t run before you can walk! &amp;lt;https://wiki.openstreetmap.org/wiki/Rate_limiting&amp;gt; #OpenStreetMap #OSM</title>
         <link>https://en.osm.town/@openstreetmap/111919104056767098</link>
         <guid>https://en.osm.town/@openstreetmap/111919104056767098</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/111651563379591002</link>
         <guid>https://en.osm.town/@openstreetmap/111651563379591002</guid>
         <pubDate>Wed, 27 Dec 2023 09:00:54 +0000</pubDate>
-      </item><item>
-        <title>Mappy Christmas! *(if it&amp;#39;s your thing)* #OpenStreetMap #Christmas</title>
-        <link>https://en.osm.town/@openstreetmap/111641431745609442</link>
-        <guid>https://en.osm.town/@openstreetmap/111641431745609442</guid>
-        <pubDate>Mon, 25 Dec 2023 14:04:17 +0000</pubDate>
       </item>
   </channel>
 </rss>
