@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>After a short break, OpenStreetMap Belgium (@osm_be) is back as an official Local Chapter of the OpenStreetMap Foundation for Belgium. https://blog.openstreetmap.org/2024/02/14/welcome-openstreetmap-belgium-the-newest-and-returning-osmf-local-chapter/ #OpenStreetMap #OSM #belgium</title>
+        <link>https://en.osm.town/@openstreetmap/111930429282040321</link>
+        <guid>https://en.osm.town/@openstreetmap/111930429282040321</guid>
+        <pubDate>Wed, 14 Feb 2024 15:00:10 +0000</pubDate>
+      </item><item>
         <title>OpenStreetMap will take a large leap forward with the introduction of vector tiles on openstreetmap.org in 2024. https://blog.openstreetmap.org/2024/02/11/2024-announcing-the-year-of-the-openstreetmap-vector-maps/ #OpenStreetMap #OSM #gis #maps #map</title>
         <link>https://en.osm.town/@openstreetmap/111920634419959150</link>
         <guid>https://en.osm.town/@openstreetmap/111920634419959150</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/111678046991486507</link>
         <guid>https://en.osm.town/@openstreetmap/111678046991486507</guid>
         <pubDate>Mon, 01 Jan 2024 01:16:01 +0000</pubDate>
-      </item><item>
-        <title>Come visit the #OpenStreetMap stand at #37c3! /cc @gislars Photo of a large printer from an angle. Underneath is a OpenStreetMap banner.Side view of a printer showing a few stacks of square OpenStreetMap stickers, and flyers</title>
-        <link>https://en.osm.town/@openstreetmap/111651563379591002</link>
-        <guid>https://en.osm.town/@openstreetmap/111651563379591002</guid>
-        <pubDate>Wed, 27 Dec 2023 09:00:54 +0000</pubDate>
       </item>
   </channel>
 </rss>
