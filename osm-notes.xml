@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4108623 (near 1013, Central Hungary, 1013, Hungary) / * 2024 February 11 15:28 Created: A Pauler utca ezen része „lit : automatic” beállítást kapott. Kétlem, hogy itt mozgásérzékelős közvilágítás lenne. Szerintem csak tévedésből került rá ez a „yes” helyett. Mindenesetre, meg kellene nézni. / * 2024 February 13 23:26 infeeeee Updated: Így van, láttam ma, pontosan ugyanolyan a kivilágítása mint a környékbeli összes utcának / * 2024 February 14 14:06 infeeeee Resolved: Javítva: https://www.openstreetmap.org/changeset/147452654</title>
+        <link>https://www.openstreetmap.org/note/4108623#c8978204</link>
+        <guid>https://www.openstreetmap.org/note/4108623#c8978204</guid>
+        <pubDate>Wed, 14 Feb 2024 14:06:25 +0000</pubDate>
+      </item><item>
+        <title>closed note 4111993 (near 1016, Central Hungary, 1016, Hungary) / * 2024 February 14 13:43 infeeeee Resolved: A nem létező parkot töröltem, adtam még hozzá pár infót, így már nekem is tetszik: https://www.openstreetmap.org/changeset/147451811</title>
+        <link>https://www.openstreetmap.org/note/4111993#c8978145</link>
+        <guid>https://www.openstreetmap.org/note/4111993#c8978145</guid>
+        <pubDate>Wed, 14 Feb 2024 13:43:47 +0000</pubDate>
+      </item><item>
         <title>new comment 4111993 (near 1016, Central Hungary, 1016, Hungary) / * 2024 February 14 11:36 infeeeee Updated: Ha valami hivatalosan nem létezik akkor azt nem jelöljük: https://wiki.openstreetmap.org/wiki/Good_practice#Map_what&amp;#39;s_on_the_ground</title>
         <link>https://www.openstreetmap.org/note/4111993#c8977767</link>
         <guid>https://www.openstreetmap.org/note/4111993#c8977767</guid>
@@ -327,11 +337,6 @@
         <link>https://www.openstreetmap.org/note/4106790#c8970442</link>
         <guid>https://www.openstreetmap.org/note/4106790#c8970442</guid>
         <pubDate>Mon, 12 Feb 2024 03:02:42 +0000</pubDate>
-      </item><item>
-        <title>closed note 4106792 (near 1203, Central Hungary, 1203, Hungary) / * 2024 February 10 08:53 Hungarian_user Created: Benu gyógyszertár - a pozíciója pontosítandó / * 2024 February 12 02:49 Hungarian_user Resolved: kész</title>
-        <link>https://www.openstreetmap.org/note/4106792#c8970414</link>
-        <guid>https://www.openstreetmap.org/note/4106792#c8970414</guid>
-        <pubDate>Mon, 12 Feb 2024 02:49:03 +0000</pubDate>
       </item>
   </channel>
 </rss>
