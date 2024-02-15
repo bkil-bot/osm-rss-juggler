@@ -3,6 +3,36 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3216782 (near 4600, North Great Plain, 4600, Hungary) / * 2022 June 9 08:14 Created: Kétszer lett felvéve az autómosó? / * 2024 February 15 22:07 Kecsege Resolved: Javítva: #: 147509637</title>
+        <link>https://www.openstreetmap.org/note/3216782#c8982433</link>
+        <guid>https://www.openstreetmap.org/note/3216782#c8982433</guid>
+        <pubDate>Thu, 15 Feb 2024 22:07:50 +0000</pubDate>
+      </item><item>
+        <title>new comment 3899677 (near 1118, Central Hungary, 1118, Hungary) / * 2024 February 15 22:02 vasony Updated: Visszanyitom, úgy láttam időközben lecserélték az új  táblákat is kötőjelesre, csekkolom még 1x.</title>
+        <link>https://www.openstreetmap.org/note/3899677#c8982423</link>
+        <guid>https://www.openstreetmap.org/note/3899677#c8982423</guid>
+        <pubDate>Thu, 15 Feb 2024 22:02:00 +0000</pubDate>
+      </item><item>
+        <title>closed note 2913972 (near 4600, North Great Plain, 4600, Hungary) / * 2021 October 28 18:45 Created: Parkolók / * 2024 February 15 22:01 Kecsege Resolved: Megoldva itt: 147509507</title>
+        <link>https://www.openstreetmap.org/note/2913972#c8982422</link>
+        <guid>https://www.openstreetmap.org/note/2913972#c8982422</guid>
+        <pubDate>Thu, 15 Feb 2024 22:01:14 +0000</pubDate>
+      </item><item>
+        <title>reactivated note 3899677 (near 1118, Central Hungary, 1118, Hungary) / * 2023 September 20 20:22 ITineris Created: Hosszas megjegyzés van itt az utcanévvel kapcsolatban. A konklúzió: &amp;quot;mivel mindkét hivatalos tábla egyeírja, az 1-es számnál lévőt választottam&amp;quot;. / Ezen árnyalnék annyit, hogy a 8-as, 18-as és 26-os sarkán is kint van még a régi tábla, a kötőjeles írásmóddal. Mint ahogyan az 1-8 tömb házszám tábláin is kötőjellel látható. Mivel a hivataloson is így szerepel, én sokkal inkább hajlok arra, hogy az új utcanév táblákat gyártották le hibásan. / Plusz egy szavazat arra, hogy az OSM-en is kötőjellel legyen a &amp;quot;name&amp;quot;, és a kötőjeltelen lehet valami más, pl. loc_name. / * 2024 February 4 21:41 BáthoryPéter Updated: https://e-nyelv.hu/2017-10-27/csikihegyek-utca/ / * 2024 February 5 07:29 ITineris Updated: A helyesírási szabályokat nem hoztam ide, csak a táblák számossága alapján igyekeztem okoskodni (illetve nem elégségesnek tartani a pár új tábla miatti ground truth érvelést). / A KCR-ben &amp;quot;persze&amp;quot; rövid i-vel és kötőjelesen van, ha az bárkinek is számít. / * 2024 February 11 21:35 vasony Resolved: Mit szeretnél elérni ezzel a jegyzettel? Nincs mit felmérni a helyszínen, amire az osm note való. Végképp nem arra, hogy itt vitassuk meg. / Világosan le van írva mi a helyzet, illetve szerepel az official_name is az utcán. / * 2024 February 15 22:00 vasony Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/3899677#c8982420</link>
+        <guid>https://www.openstreetmap.org/note/3899677#c8982420</guid>
+        <pubDate>Thu, 15 Feb 2024 22:00:39 +0000</pubDate>
+      </item><item>
+        <title>new comment 4107486 (near 6347, South Great Plain, 6347, Hungary) / * 2024 February 10 19:28 Created: Budai nagyantal / Uca / * 2024 February 15 21:49 vasony Updated: Eltekintve a helyesírástól, a műholdképen itt egy erdő látszik!</title>
+        <link>https://www.openstreetmap.org/note/4107486#c8982384</link>
+        <guid>https://www.openstreetmap.org/note/4107486#c8982384</guid>
+        <pubDate>Thu, 15 Feb 2024 21:49:12 +0000</pubDate>
+      </item><item>
+        <title>new note 4114744 (near 1039, Central Hungary, 1039, Hungary) / * 2024 February 15 21:43 Kecsege Created: Ezen a környéken biztos jó a házszámozás? Pl.: ez a medence bolt a weboldala szerint más házszámon van, de a helyszín stimmel.</title>
+        <link>https://www.openstreetmap.org/note/4114744#c8982359</link>
+        <guid>https://www.openstreetmap.org/note/4114744#c8982359</guid>
+        <pubDate>Thu, 15 Feb 2024 21:43:14 +0000</pubDate>
+      </item><item>
         <title>new note 4114671 (near 7555, Southern Transdanubia, 7555, Hungary) / * 2024 February 15 20:19 Created: Talán meadow akart lenni, csak elgépelte, viszont 13 évvel ezelőtt volt. Fel kellene mérni, hogy ma is érvényes-e.</title>
         <link>https://www.openstreetmap.org/note/4114671#c8982178</link>
         <guid>https://www.openstreetmap.org/note/4114671#c8982178</guid>
@@ -252,36 +282,6 @@
         <link>https://www.openstreetmap.org/note/4110219#c8974905</link>
         <guid>https://www.openstreetmap.org/note/4110219#c8974905</guid>
         <pubDate>Tue, 13 Feb 2024 11:30:29 +0000</pubDate>
-      </item><item>
-        <title>closed note 4057439 (near 1051, Central Hungary, 1051, Hungary) / * 2024 January 7 17:04 Created: &amp;quot;Seems the place changed name (hands?)&amp;quot; / OSM snapshot date: 2023-03-29T15:44:03Z / POI name: Cafe Frei / POI types: wheelchair-no amenity-cafe / #organicmaps ios / * 2024 February 13 11:25 infeeeee Resolved: It was changed from Cafe Frei to Blueberry, please update Organic Maps on your phone</title>
-        <link>https://www.openstreetmap.org/note/4057439#c8974894</link>
-        <guid>https://www.openstreetmap.org/note/4057439#c8974894</guid>
-        <pubDate>Tue, 13 Feb 2024 11:25:43 +0000</pubDate>
-      </item><item>
-        <title>closed note 4110547 (near 1066, Central Hungary, 1066, Hungary) / * 2024 February 13 11:03 infeeeee Resolved: Javítva: https://www.openstreetmap.org/changeset/147403721</title>
-        <link>https://www.openstreetmap.org/note/4110547#c8974800</link>
-        <guid>https://www.openstreetmap.org/note/4110547#c8974800</guid>
-        <pubDate>Tue, 13 Feb 2024 11:03:29 +0000</pubDate>
-      </item><item>
-        <title>new note 4111177 (near 2000, Central Hungary, 2000, Hungary) / * 2024 February 13 11:02 Tajtrdlik Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;Small bridge does not exist anymore.&amp;quot; / https://www.openstreetmap.org/way/390532234</title>
-        <link>https://www.openstreetmap.org/note/4111177#c8974794</link>
-        <guid>https://www.openstreetmap.org/note/4111177#c8974794</guid>
-        <pubDate>Tue, 13 Feb 2024 11:02:20 +0000</pubDate>
-      </item><item>
-        <title>new comment 4110547 (near 1066, Central Hungary, 1066, Hungary) / * 2024 February 12 22:14 balint36 Created: A Szondi utca kis rövid szakasza a Teréz körútnál (https://www.openstreetmap.org/way/262026865) úgy van jelölve, hogy délnyugati irányban egyirányú. / Ez az egyirányú szakasz alapján a térképen az látszik, hogy a Szondi utca elejéről (https://www.openstreetmap.org/way/25094694) a Teréz körútra csak jobb irányba (az Oktogon felé) lehet kanyarodni, balra (a Nyugati felé) pedig nem. / Ez a forgalmi rend a valóságban is így van? A Szondi utca első szakaszán valóban korlátozva vannak a kanyarodási lehetőségek? / * 2024 February 13 10:51 infeeeee Updated: Mapillaryn van egy viszonylag friss fotó a lámpáról, nincs rajta kanyarodást tiltó tábla: https://www.mapillary.com/app/?pKey=446183911026187 / Másik irányból sincs semmilyen tiltás egy egész friss fotó szerint: https://www.mapillary.com/app/?pKey=898816588249280 Ugyanebben a sorozatban később egy Délről, szemből jövő autó balra indexel, szóval eszerint is lehet balra kanyarodni: https://www.mapillary.com/app/?pKey=862341915398874 / Szóval igazad van, javítom a csomópontot</title>
-        <link>https://www.openstreetmap.org/note/4110547#c8974738</link>
-        <guid>https://www.openstreetmap.org/note/4110547#c8974738</guid>
-        <pubDate>Tue, 13 Feb 2024 10:51:04 +0000</pubDate>
-      </item><item>
-        <title>new comment 3451005 (near Mária Anna-puszta, Vál) / * 2022 November 21 20:34 kogutowicz-mano Created: Fotók kellenének erről a két oszlopról, amiken jól kivehetőek a vezetékek. / * 2024 February 12 20:43 tregec Updated: Megpróbáltam csinálni egy képet, hogy nagyjából látszódjon hova csatlakoznak a két oszlop közötti vezetékek. Délkeleti irányból van fotózva: / https://kepkuldes.com/image/PGuIkm / Továbbá a két villanyoszlop közül a délebbi össze van kötve a tőle délkeletre lévő villanyoszloppal is. Ez csak egy darab vezeték a villanyoszlopok csúcsán, nem tudom, hogy releváns-e: / https://kepkuldes.com/image/PGudgt / * 2024 February 12 20:49 tregec Updated: Természetesen elrontottam, mind a két leírásomhoz a másik kép tartozik, mint kellene. / * 2024 February 13 08:58 kogutowicz-mano Updated: Köszönöm! Most aztán kaptam egy újabb fejtörőt. Nagyon nem úgy van, ahogy elképzeltem. :-) Bámulom egy darabig, aztán esetleg kérdezek még. / Az a bizonyos felső drót csak villámhárító, nem játszik.</title>
-        <link>https://www.openstreetmap.org/note/3451005#c8974366</link>
-        <guid>https://www.openstreetmap.org/note/3451005#c8974366</guid>
-        <pubDate>Tue, 13 Feb 2024 08:58:13 +0000</pubDate>
-      </item><item>
-        <title>new note 4110997 (near 4033, North Great Plain, 4033, Hungary) / * 2024 February 13 08:49 ssummoner1 Created: itt van egy kék törpekút / #OsmAnd</title>
-        <link>https://www.openstreetmap.org/note/4110997#c8974348</link>
-        <guid>https://www.openstreetmap.org/note/4110997#c8974348</guid>
-        <pubDate>Tue, 13 Feb 2024 08:49:12 +0000</pubDate>
       </item>
   </channel>
 </rss>
