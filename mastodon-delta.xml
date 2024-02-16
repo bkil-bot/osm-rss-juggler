@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>In whichever area of #deltachat related developments you look, you will find different people and communities -- even if there are several individuals who appear in multiple contexts as key contributors or drivers. There is no single person who gets to decide about everything even if we do have lead roles for particular aspects. Our experimental community approaches respect Convays Law: https://en.wikipedia.org/wiki/Conway%27s_law -- meaning: our #decentralization tech will be only as good as our social practises</title>
+        <link>https://chaos.social/@delta/111941241080798882</link>
+        <guid>https://chaos.social/@delta/111941241080798882</guid>
+        <pubDate>Fri, 16 Feb 2024 12:49:45 +0000</pubDate>
+      </item><item>
         <title>Reclaiming Peer-to-Peer Web technology with #webxdc out of the ashes of &amp;quot;Web3&amp;quot;: our 2024 opening post on the topic :) https://delta.chat/en/2024-02-15-webxdc-m3 Psst: we are looking for more folks experienced with Web app development with a knack for P2P technology .... #deltachat A snapshot picture of delta chat contributors partying in Kyiv in 2019</title>
         <link>https://chaos.social/@delta/111935038589329716</link>
         <guid>https://chaos.social/@delta/111935038589329716</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/111194512214036910</link>
         <guid>https://chaos.social/@delta/111194512214036910</guid>
         <pubDate>Sat, 07 Oct 2023 15:46:46 +0000</pubDate>
-      </item><item>
-        <title>Last month was cleanup-time with Delta Chat Android and Desktop development -- lots of triaging, resolving and closing of issues and pull requests ... Android: 26 merged PRs, 5 open PRs, 49 closed issues Desktop: 42 merged PRs, 2 open PRs, 25 closed issues, 4 new issues many thanks to @r10s @treefit and @adbenitez who drove the efforts, as well as to all the helpers! rumors have it that we are preparing for some bigger things to arrive in the next couple of months ;) github activity screen for deltachat-desktop showing: - 42 merged pull requests - 2 opened pull requests - 25 closed issues - 4 new issues</title>
-        <link>https://chaos.social/@delta/111155262034725904</link>
-        <guid>https://chaos.social/@delta/111155262034725904</guid>
-        <pubDate>Sat, 30 Sep 2023 17:24:56 +0000</pubDate>
       </item>
   </channel>
 </rss>
