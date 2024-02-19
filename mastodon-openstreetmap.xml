@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>The OpenStreetMap website got a new feature: OSMers can now mute other users. If another OSMer is sending you too many messages, you can “mute them”, leaving you free to continue mapping! The source code adding this: &amp;lt;https://github.com/openstreetmap/openstreetmap-website/pull/4284&amp;gt; #OpenStreetMap #OSM</title>
+        <link>https://en.osm.town/@openstreetmap/111958752365984976</link>
+        <guid>https://en.osm.town/@openstreetmap/111958752365984976</guid>
+        <pubDate>Mon, 19 Feb 2024 15:03:06 +0000</pubDate>
+      </item><item>
         <title>Wow! Last year, OSMF had a fundraising drive. Individual people donated over £113,000 in 3,000 individual donations, on average £35 each! 😍 Thank you all so much!! 🙏 🙇 read more: &amp;lt;https://blog.openstreetmap.org/2024/02/13/mappers-universities-companies-and-nonprofits-contributed-over-373000-to-support-osm-in-2023/&amp;gt; We also recieved hundreds of thousands of pounds from dozens of corporations, both cash to OSMF, to regional groups, to regional conferences, and in kind. 🙏 (BTW you can still donate 😉 : &amp;lt;https://supporting.openstreetmap.org/donate/&amp;gt;) #OpenStreetMap #OSM</title>
         <link>https://en.osm.town/@openstreetmap/111947416630250370</link>
         <guid>https://en.osm.town/@openstreetmap/111947416630250370</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/111703949635308792</link>
         <guid>https://en.osm.town/@openstreetmap/111703949635308792</guid>
         <pubDate>Fri, 05 Jan 2024 15:03:24 +0000</pubDate>
-      </item><item>
-        <title>Do you use #OpenStreetMap as part of your job? Is your employer an OSMF Corporate Member? Here&amp;#39;s how a company can join, and give back to the OSM project! https://osmfoundation.org/wiki/Join_as_a_corporate_member #OSM #OSMF</title>
-        <link>https://en.osm.town/@openstreetmap/111692624959866713</link>
-        <guid>https://en.osm.town/@openstreetmap/111692624959866713</guid>
-        <pubDate>Wed, 03 Jan 2024 15:03:24 +0000</pubDate>
       </item>
   </channel>
 </rss>
