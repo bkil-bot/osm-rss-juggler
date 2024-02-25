@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: ITineris Discussion Comment No.: 2 Comment: Szia! Alapvetően a pontosítás közben szólt a JOSM, hogy szintben metszi egymást az autópálya és a földút. A használt ortofotón pedig nem látszott az autópálya magasított töltése, így feltételeztem, hogy a többiek vannak besüllyesztve alá. Javítottam. Ákos Date: 2024-02-25T08:53:35+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/147402883</link>
+        <guid>https://www.openstreetmap.org/changeset/147402883#comment_2</guid>
+        <pubDate>2024-02-25T08:53:35+01:00</pubDate>
+      </item><item>
         <title>Contributor: vasony Discussion Comment No.: 3 Comment: Hozta magával a házszám táblát a XV. kerületből :) Egyébként hivatalosan 2051 BIATORBÁGY Borbarátok útja 82. az a telek. A 147 egyezik földhivatallal, de itt véget is ér a jóság. A 63, 90/b, 102 telkeknek nincs a földhivatalnál címe. a 106 meg 114 kéne legyen. Vannak kétségeim mennyire jó a nyilvántartás, mert a 147-től 2 házzal tovább a földhivatal szerint 110/B van. Egyik sem felülvizsgálat alatt, szerintem nem fogsz megvilágosodni a terepen sem. Date: 2024-02-24T18:38:32+01:00</title>
         <link>https://www.openstreetmap.org/changeset/147837384</link>
         <guid>https://www.openstreetmap.org/changeset/147837384#comment_3</guid>
@@ -22,11 +27,6 @@
         <link>https://www.openstreetmap.org/changeset/140712750</link>
         <guid>https://www.openstreetmap.org/changeset/140712750#comment_2</guid>
         <pubDate>2024-02-23T20:56:17+01:00</pubDate>
-      </item><item>
-        <title>Contributor: balint36 Discussion Comment No.: 1 Comment: Ebből a két vonalszakaszból miért lett tunnel=yes és layer=-1? https://www.openstreetmap.org/way/1136258291 https://www.openstreetmap.org/way/26453229 Ha az M5 miatt, akkor ott nem alagút van, hanem gerendahíd. A hidat meg is tudod nézni: https://www.mapillary.com/app/?lat=47.409104813194006&amp;lng=19.157068194473936&amp;z=18.98504031932759&amp;pKey=941662716595271&amp;focus=photo&amp;menu=false&amp;x=0.7713784115586098&amp;y=0.4813471335155569&amp;zoom=1.9296870931554286 Date: 2024-02-22T22:18:48+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/147402883</link>
-        <guid>https://www.openstreetmap.org/changeset/147402883#comment_1</guid>
-        <pubDate>2024-02-22T22:18:48+01:00</pubDate>
       </item><item>
         <title>Contributor: balint36 Discussion Comment No.: 1 Comment: https://wiki.openstreetmap.org/wiki/Tag:generator:source%3Dsolar Date: 2024-02-22T17:43:00+01:00</title>
         <link>https://www.openstreetmap.org/changeset/147783145</link>
