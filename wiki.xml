@@ -2,6 +2,11 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      
+      <item>
+        <title>Hungary/Szerszámzat: Fejlesztési ötlet hozzáadása települések távolságának megállapításához -Urbalazs</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Szersz%C3%A1mzat&amp;diff=2670378&amp;oldid=2662453</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Szersz%C3%A1mzat&amp;diff=2670378</guid>
+        <pubDate>Mon, 26 Feb 2024 18:40:32 GMT</pubDate>
+      </item>
   </channel>
 </rss>
