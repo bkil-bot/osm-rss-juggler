@@ -3,15 +3,20 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Ez a szerkesztésed ellentmond magának. Mit akartál jelölni, itt van lámpa, vagy nincs? crossing=marked azt jelenti, hogy nincs lámpa, csak felfestés crossing=traffic_signals azt jelenti, hogy van lámpa is. https://wiki.openstreetmap.org/wiki/Key:crossing traffic_signals=* pedig csak a lámpa típusát részletezi, szóval crossing=marked mellett nincs értelme, egyik címkében azt mondod van lámpa, a másikban meg hogy nincs. https://wiki.openstreetmap.org/wiki/Key:traffic signals Itt található egy általános magyar nyelvű leírás a gyalogosközlekedés jelöléséről: https://wiki.openstreetmap.org/wiki/Hungary/Gyalogos_közlekedés Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! Date: 2024-02-27T09:37:24+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/147962763</link>
-        <guid>https://www.openstreetmap.org/changeset/147962763#comment_1</guid>
-        <pubDate>2024-02-27T09:37:24+01:00</pubDate>
+        <title>Contributor: airdace Discussion Comment No.: 3 Comment: Ja értem akkor. Mindkét oldalon kerékpársávot festettek fel, én ezt láttam és jelöltem. Akkor rendben. Date: 2024-02-27T10:54:40+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/147959010</link>
+        <guid>https://www.openstreetmap.org/changeset/147959010#comment_3</guid>
+        <pubDate>2024-02-27T10:54:40+01:00</pubDate>
       </item><item>
-        <title>Contributor: Kecsege Discussion Comment No.: 3 Comment: Igen, de a hospital egy létező building típus is. Ezt a halottasházat úgy találtam, hogy Magyarországon csak itt volt building mortuary-nak jelölve. A taginfo szerint a világon is kb csak a németek használják így. De nem akkora probléma ha így marad gondolom, szóval ha úgy érzed maradhat így. Date: 2024-02-26T22:24:45+01:00</title>
+        <title>Contributor: Gaurdein Discussion Comment No.: 4 Comment: Gondolom (de csak szerintem) sok tag hiányos, mert mindenki csakis a dokumentáció szerint térképezik, így ha valamire lenne esetleg jobb tagelés, akkor se használják, lásd Buildings oldal a wiki-n, CTRL+F mortuary és 0 találat, ezért marad a B terv, azaz building=yes. Sok tag nem is hivatalos csak annyian használják, hogy de facto lesz: hivatalosan akármilyen címke=érték kombináció engedélyezett, ámbár mindenkinek érdemes tartania a jól beválthoz, hisz azt az adatfelhasználók is ismerik, ha a világon csak 30 building=mortuary van, akkor senki nem fogja ezt megfelelően feldolgozni, ellenben az amenity=mortuary ami dokumentált és gyakran használt; szóval ebben teljesen igazad van. Részemről: remélem többen elkezdik majd használni, ezt a döntést is inkább csak az OCD-m és kis részben az egóm védi :) Date: 2024-02-27T10:48:09+01:00</title>
         <link>https://www.openstreetmap.org/changeset/146021505</link>
-        <guid>https://www.openstreetmap.org/changeset/146021505#comment_3</guid>
-        <pubDate>2024-02-26T22:24:45+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/146021505#comment_4</guid>
+        <pubDate>2024-02-27T10:48:09+01:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 2 Comment: Visszavonva https://www.openstreetmap.org/changeset/147967078 Date: 2024-02-27T10:32:15+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/147962763</link>
+        <guid>https://www.openstreetmap.org/changeset/147962763#comment_2</guid>
+        <pubDate>2024-02-27T10:32:15+01:00</pubDate>
       </item><item>
         <title>Contributor: ITineris Discussion Comment No.: 2 Comment: Igen, javítottam. Köszi! Date: 2024-02-26T20:25:26+01:00</title>
         <link>https://www.openstreetmap.org/changeset/147615135</link>
