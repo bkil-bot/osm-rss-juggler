@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Huawei P20 Android 10: I noticed on the App FAQAnrdoid 10 + Hauwei - Throttle switch not available: Huawei has removed this developer option; no known work-around at present.Seems I found it. -BaKeH</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=12094#p12094</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=12094#p12094</guid>
+        <pubDate>2024-02-29T03:08:26</pubDate>
+      </item><item>
         <title>Re: Huawei P20 Android 10: So I have two P20 pro devices. I settled on the idea I couldn't fix the missing setting for the WIFI scan throttle, till I realised one of my devices wasn't throttling, while the other was. So I used ADB to read the settings, like this: Code: adb shell settings get global wifi_scan_throttle_enabledI found the device that was scanning fine returned null, while the device that was throttling was returning 0. so I used Code: adb shell settings delete global wifi_scan_throttle_enabled read the variable, it was null, tested it, and it was no longer throttling! Just thought I'd share this just in case anyone else used this adb command and found it was still not working, being I noticed EVERYONE tells you to set it to 0. (not that this makes a huge amount of sense as to why it would read 0 as a positive, a random Huawei thing I guess.) -BaKeH</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12093#p12093</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12093#p12093</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11908#p11908</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11908#p11908</guid>
         <pubDate>2023-11-08T00:01:22</pubDate>
-      </item><item>
-        <title>Re: File Formats: KML vs CSV vs Magic8Ball vs SQLite: Kml is keyhole markup language it's kinda like xml it's the format that Googlemaps uses Csv comma separated values is kinda the standard for transferring data between different databases and spreadsheets. You can view this one alot of different ways as is in a text editor in most spreadsheet programs excel ,Google sheets ,libre office calc idk what apple uses but that to or it can be uploaded natively into many SQL databases Magic8ball idk I'll look it up ok wiggle made kinda location anomyzor so exact location and exact time are not displayed I'm not 100%on this Sqlite3 least I assume it's 3 is a on disk or embedded db so there is no server it's just a file like another but you can use SQL language to search it and do other things -Space-$hoot088</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11901#p11901</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11901#p11901</guid>
-        <pubDate>2023-11-02T11:04:03</pubDate>
       </item>
   </channel>
 </rss>
