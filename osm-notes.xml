@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4134565 (near Tölösmajor, Vitnyéd) / * 2024 March 1 20:03 efi99 Created: cím?</title>
+        <link>https://www.openstreetmap.org/note/4134565#c9028614</link>
+        <guid>https://www.openstreetmap.org/note/4134565#c9028614</guid>
+        <pubDate>Fri, 01 Mar 2024 20:03:48 +0000</pubDate>
+      </item><item>
+        <title>new note 4134549 (near 9441, Western Transdanubia, 9441, Hungary) / * 2024 March 1 19:47 efi99 Created: cím?</title>
+        <link>https://www.openstreetmap.org/note/4134549#c9028570</link>
+        <guid>https://www.openstreetmap.org/note/4134549#c9028570</guid>
+        <pubDate>Fri, 01 Mar 2024 19:47:28 +0000</pubDate>
+      </item><item>
+        <title>new note 4134532 (near 9441, Western Transdanubia, 9441, Hungary) / * 2024 March 1 19:33 efi99 Created: cím?</title>
+        <link>https://www.openstreetmap.org/note/4134532#c9028550</link>
+        <guid>https://www.openstreetmap.org/note/4134532#c9028550</guid>
+        <pubDate>Fri, 01 Mar 2024 19:33:32 +0000</pubDate>
+      </item><item>
         <title>closed note 4048599 (near 1142, Central Hungary, 1142, Hungary) / * 2024 January 1 03:38 Created: Ratio / * 2024 March 1 17:27 ITineris Resolved: Nem tudom, ez mi akarhatott lenni. Semmi ilyet nem találtam a környéken. Sem az Erzsébet királyné, sem a Szatmár utca felől.</title>
         <link>https://www.openstreetmap.org/note/4048599#c9028313</link>
         <guid>https://www.openstreetmap.org/note/4048599#c9028313</guid>
@@ -182,71 +197,6 @@
         <link>https://www.openstreetmap.org/note/3985576#c9024559</link>
         <guid>https://www.openstreetmap.org/note/3985576#c9024559</guid>
         <pubDate>Thu, 29 Feb 2024 14:03:56 +0000</pubDate>
-      </item><item>
-        <title>new note 4132828 (near 3526, North Hungary, 3526, Hungary) / * 2024 February 29 14:00 meskobalazs Created: Unable to answer &amp;quot;What’s the surface here?&amp;quot; – Foot Path – https://osm.org/way/717875925 via StreetComplete 56.1: / Nem létezik / Attached photo(s): / https://westnordost.de/p/198021.jpg</title>
-        <link>https://www.openstreetmap.org/note/4132828#c9024537</link>
-        <guid>https://www.openstreetmap.org/note/4132828#c9024537</guid>
-        <pubDate>Thu, 29 Feb 2024 14:00:10 +0000</pubDate>
-      </item><item>
-        <title>new note 4132817 (near 3526, North Hungary, 3526, Hungary) / * 2024 February 29 13:56 meskobalazs Created: Unable to answer &amp;quot;What kind of building is this?&amp;quot; – https://osm.org/way/120458416 via StreetComplete 56.1: / Ez egy üres placc</title>
-        <link>https://www.openstreetmap.org/note/4132817#c9024520</link>
-        <guid>https://www.openstreetmap.org/note/4132817#c9024520</guid>
-        <pubDate>Thu, 29 Feb 2024 13:56:53 +0000</pubDate>
-      </item><item>
-        <title>closed note 4132395 (near 1138, Central Hungary, 1138, Hungary) / * 2024 February 29 11:57 infeeeee Resolved: A képek alapján ez van megrajzolva, Bing-en már szerkezetkész állapotban szerepelnek, és szerintem az alapján lettek felrajzolva. / Az az épület kontúrja osm-en, ahol a földszinten épület van, ha jobban megnézed a képeket sok helyen a kert a földszint felett van, tehát épületként kell jelölni. Természetesen building:part-tal lehet őket részletezni, de ez a budapesti épületek jelentős részére igaz, nem kell rá külön jegyzet, és ezek alapján a képek alapján nem is lehet,  mert nem látszik minden, mindegyik kép majdnem ugyanabból az irányból készült. Ráadásul nem hiszem, hogy felhasználhatnánk őket, jogvédett tartalom. / Látványtervek meg teljesen irrelevánsak osm szempontjából, semmi nem garantálja, hogy van közük a valósághoz, nem is ez a céljuk.</title>
-        <link>https://www.openstreetmap.org/note/4132395#c9023972</link>
-        <guid>https://www.openstreetmap.org/note/4132395#c9023972</guid>
-        <pubDate>Thu, 29 Feb 2024 11:57:54 +0000</pubDate>
-      </item><item>
-        <title>new note 4132435 (near 1174, Central Hungary, 1174, Hungary) / * 2024 February 29 10:20 Created: A megálló neve megváltozott, az új név: / Lőrinci út</title>
-        <link>https://www.openstreetmap.org/note/4132435#c9023729</link>
-        <guid>https://www.openstreetmap.org/note/4132435#c9023729</guid>
-        <pubDate>Thu, 29 Feb 2024 10:20:55 +0000</pubDate>
-      </item><item>
-        <title>new note 4132434 (near 1174, Central Hungary, 1174, Hungary) / * 2024 February 29 10:20 Created: A megálló neve megváltozott, az új név: / Lőrinci út</title>
-        <link>https://www.openstreetmap.org/note/4132434#c9023728</link>
-        <guid>https://www.openstreetmap.org/note/4132434#c9023728</guid>
-        <pubDate>Thu, 29 Feb 2024 10:20:51 +0000</pubDate>
-      </item><item>
-        <title>new note 4132433 (near 1174, Central Hungary, 1174, Hungary) / * 2024 February 29 10:19 Created: A megálló neve megváltozott, az új név: / Melczer utca / Baross utca</title>
-        <link>https://www.openstreetmap.org/note/4132433#c9023727</link>
-        <guid>https://www.openstreetmap.org/note/4132433#c9023727</guid>
-        <pubDate>Thu, 29 Feb 2024 10:19:53 +0000</pubDate>
-      </item><item>
-        <title>new note 4132432 (near 1174, Central Hungary, 1174, Hungary) / * 2024 February 29 10:19 Created: A megálló neve megváltozott, az új név: / Melczer utca / Baross utca</title>
-        <link>https://www.openstreetmap.org/note/4132432#c9023726</link>
-        <guid>https://www.openstreetmap.org/note/4132432#c9023726</guid>
-        <pubDate>Thu, 29 Feb 2024 10:19:49 +0000</pubDate>
-      </item><item>
-        <title>new note 4132430 (near 1173, Central Hungary, 1173, Hungary) / * 2024 February 29 10:18 Created: A megálló neve megváltozott, az új név: / Bulyovszky utca / Ferihegyi út</title>
-        <link>https://www.openstreetmap.org/note/4132430#c9023723</link>
-        <guid>https://www.openstreetmap.org/note/4132430#c9023723</guid>
-        <pubDate>Thu, 29 Feb 2024 10:18:53 +0000</pubDate>
-      </item><item>
-        <title>new note 4132429 (near 1174, Central Hungary, 1174, Hungary) / * 2024 February 29 10:18 Created: A megálló neve megváltozott, az új név: / Bulyovszky utca / Ferihegyi út</title>
-        <link>https://www.openstreetmap.org/note/4132429#c9023722</link>
-        <guid>https://www.openstreetmap.org/note/4132429#c9023722</guid>
-        <pubDate>Thu, 29 Feb 2024 10:18:48 +0000</pubDate>
-      </item><item>
-        <title>new note 4132428 (near 1172, Central Hungary, 1172, Hungary) / * 2024 February 29 10:17 Created: A megálló neve megváltozott, az új név: Tura utca / Diadal utca</title>
-        <link>https://www.openstreetmap.org/note/4132428#c9023718</link>
-        <guid>https://www.openstreetmap.org/note/4132428#c9023718</guid>
-        <pubDate>Thu, 29 Feb 2024 10:17:25 +0000</pubDate>
-      </item><item>
-        <title>new note 4132426 (near 1172, Central Hungary, 1172, Hungary) / * 2024 February 29 10:16 Created: A megálló neve megváltozott, az új név: Ananász utca / Ároktő út</title>
-        <link>https://www.openstreetmap.org/note/4132426#c9023715</link>
-        <guid>https://www.openstreetmap.org/note/4132426#c9023715</guid>
-        <pubDate>Thu, 29 Feb 2024 10:16:44 +0000</pubDate>
-      </item><item>
-        <title>new note 4132424 (near 1172, Central Hungary, 1172, Hungary) / * 2024 February 29 10:16 Created: A megálló neve megváltozott, az új név: Ananász utca / Ároktő út</title>
-        <link>https://www.openstreetmap.org/note/4132424#c9023713</link>
-        <guid>https://www.openstreetmap.org/note/4132424#c9023713</guid>
-        <pubDate>Thu, 29 Feb 2024 10:16:26 +0000</pubDate>
-      </item><item>
-        <title>new note 4132395 (near 1138, Central Hungary, 1138, Hungary) / * 2024 February 29 09:48 kogutowicz-mano Created: Újra kell rajzolni a házakat. / https://www.keszgroup.com/sites/default/files/styles/gallery/public/references/gallery/2023-02/DTG_10-Fin_0010-print.jpg?itok=HGCgF-V2 / https://kep.cdn.indexvas.hu/1/0/4144/41441/414417/41441703_1d06801d1dde4b8d999eb8caf5c1b016_wm.jpg / https://www.adampm.hu/duna-terasz-grande-2-2/</title>
-        <link>https://www.openstreetmap.org/note/4132395#c9023648</link>
-        <guid>https://www.openstreetmap.org/note/4132395#c9023648</guid>
-        <pubDate>Thu, 29 Feb 2024 09:48:01 +0000</pubDate>
       </item>
   </channel>
 </rss>
