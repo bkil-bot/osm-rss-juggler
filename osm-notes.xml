@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4106929 (near 1024, Central Hungary, 1024, Hungary) / * 2024 February 10 11:28 infeeeee Created: 2 töltő egymás mellett, valószínüleg ugyanaz: https://www.openstreetmap.org/node/6297793287 / https://www.openstreetmap.org/node/8099990305 / * 2024 March 1 23:46 infeeeee Resolved: Azóta javítva lett</title>
+        <link>https://www.openstreetmap.org/note/4106929#c9029018</link>
+        <guid>https://www.openstreetmap.org/note/4106929#c9029018</guid>
+        <pubDate>Fri, 01 Mar 2024 23:46:06 +0000</pubDate>
+      </item><item>
         <title>new note 4134565 (near Tölösmajor, Vitnyéd) / * 2024 March 1 20:03 efi99 Created: cím?</title>
         <link>https://www.openstreetmap.org/note/4134565#c9028614</link>
         <guid>https://www.openstreetmap.org/note/4134565#c9028614</guid>
@@ -182,21 +187,6 @@
         <link>https://www.openstreetmap.org/note/3985576#c9025901</link>
         <guid>https://www.openstreetmap.org/note/3985576#c9025901</guid>
         <pubDate>Thu, 29 Feb 2024 21:03:53 +0000</pubDate>
-      </item><item>
-        <title>new note 4132986 (near 3532, Hungary) / * 2024 February 29 15:01 meskobalazs Created: Esőbeállótól keletre néhány méterre e-roller-lerakópont / via StreetComplete 56.1</title>
-        <link>https://www.openstreetmap.org/note/4132986#c9024902</link>
-        <guid>https://www.openstreetmap.org/note/4132986#c9024902</guid>
-        <pubDate>Thu, 29 Feb 2024 15:01:55 +0000</pubDate>
-      </item><item>
-        <title>new comment 3985576 (near 1055, Central Hungary, 1055, Hungary) / * 2024 February 29 14:04 Kecsege Updated: Igen párásító van itt. Wiki szerint lehet jelölni így: / amenity=mist_spraying_cooler / mist_spraying_cooler=ground</title>
-        <link>https://www.openstreetmap.org/note/3985576#c9024577</link>
-        <guid>https://www.openstreetmap.org/note/3985576#c9024577</guid>
-        <pubDate>Thu, 29 Feb 2024 14:04:41 +0000</pubDate>
-      </item><item>
-        <title>reactivated note 3985576 (near 1055, Central Hungary, 1055, Hungary) / * 2023 November 13 09:38 Tajtrdlik Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;NO fountain here&amp;quot;. / https://www.openstreetmap.org/way/607766431 / * 2023 December 10 20:56 balint36 Updated: Gondolom a párásítót akarták így jelölni. / * 2024 February 24 12:16 tregec Resolved: Gondolom törlendő. / * 2024 February 29 14:03 Kecsege Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/3985576#c9024559</link>
-        <guid>https://www.openstreetmap.org/note/3985576#c9024559</guid>
-        <pubDate>Thu, 29 Feb 2024 14:03:56 +0000</pubDate>
       </item>
   </channel>
 </rss>
