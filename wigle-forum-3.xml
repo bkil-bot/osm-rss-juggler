@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Supports WPS: you can click (as a logged in user), or you can use the Basic and Advanced search functionality to get al the information regarding the point. WPS will be listed in the capabilities, which aren't part of the site rendering - check out the API for more details. -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=12112#p12112</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=12112#p12112</guid>
+        <pubDate>2024-03-04T16:57:44</pubDate>
+      </item><item>
         <title>Supports WPS: As I'm a noob to this, despite appearances, I'm not deliberately trying to be stupid but . . . . On the map, it is possible to zoom in on a particular SSID and get more info on it such as whether it supports WPS? If I can't get that info by zooming in, then how else can I get it - without going to that physical address in person? -Rouregre</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12107#p12107</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12107#p12107</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11959#p11959</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11959#p11959</guid>
         <pubDate>2023-12-09T04:59:02</pubDate>
-      </item><item>
-        <title>Re: Wigle Wifi Wardriving for Android: The benevolent bobzilla has released version 2.82 of Wigle Wifi Wardriving for Android. Changelog entry: * 2.81 - 2.82 (11/28/2023) Bluetooth is now in text-to-speech Roaming Consortium ID's added to local DB and file upload (thanks MarkG!) Added GNSS full tracking option (impacts battery, use with power source) Upload file at 1.6 version with UTF-8 support Distance now shown on list view Refactor DB search fragments Silence notification sounds Various bug fixes Thanks for your past and continuing hard work. I often think about all the old android phones that would be e-waste if they weren't part of someone's wardriving setup, so I really appreciate the compatibility with older models which are naturally easier to find in electronic graveyards and dormant collections. -computerb0y</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11958#p11958</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11958#p11958</guid>
-        <pubDate>2023-12-09T04:30:58</pubDate>
       </item>
   </channel>
 </rss>
