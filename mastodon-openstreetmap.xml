@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>Did you know? The #OpenStreetMap Foundation has loads of corporate members! Check out the full list here: https://osmfoundation.org/wiki/Corporate_Member #OpenStreetMap #OSM #OSMF</title>
+        <link>https://en.osm.town/@openstreetmap/112038014650143955</link>
+        <guid>https://en.osm.town/@openstreetmap/112038014650143955</guid>
+        <pubDate>Mon, 04 Mar 2024 15:00:32 +0000</pubDate>
+      </item><item>
         <title>WIthin OpenStreetMap, many like to use a structured proposal process for new OSM tags. At the end of the day, OSM still allows you to use “Any tags you like”, and skipping any formal tag voting proposal. Just start mapping with the tags you want! https://wiki.openstreetmap.org/wiki/Any_tags_you_like #OpenStreetMap</title>
         <link>https://en.osm.town/@openstreetmap/112026690251283239</link>
         <guid>https://en.osm.town/@openstreetmap/112026690251283239</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/111788873795376237</link>
         <guid>https://en.osm.town/@openstreetmap/111788873795376237</guid>
         <pubDate>Sat, 20 Jan 2024 15:00:44 +0000</pubDate>
-      </item><item>
-        <title>OpenStreetMap data is free, we only ask that you tell people about us in exchange¹. Some site use OSM without attribution, *and* hotlink to OSMF tile servers. 😭 Our data is free, but our servers cost time &amp;amp; money. 🖥 It&amp;#39;s now even easier for you to report naughty sites like that. 📝 They can (eventually) be blocked from freeloading. We hope this will increase visibility of OSM! 👍 🎉 Read more: https://github.com/openstreetmap/tile-attribution/blob/main/README.md #OpenStreetMap #OSM ¹ to simplify the OSM licence req&amp;#39;s.</title>
-        <link>https://en.osm.town/@openstreetmap/111749237204284048</link>
-        <guid>https://en.osm.town/@openstreetmap/111749237204284048</guid>
-        <pubDate>Sat, 13 Jan 2024 15:00:38 +0000</pubDate>
       </item>
   </channel>
 </rss>
