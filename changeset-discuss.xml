@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: Narvik2 Discussion Comment No.: 2 Comment: Szia! A Róma és a Dorottya az épületek tulajdonnevei, azért írjuk külön. Ha jelöletlen birtokviszonyban vannak, akkor kell kötőjel, pl. Jókai villája = Jókai-villa. https://e-nyelv.hu/2020-03-19/kovacs-lakas/ Date: 2024-03-04T07:41:35+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/148012084</link>
+        <guid>https://www.openstreetmap.org/changeset/148012084#comment_2</guid>
+        <pubDate>2024-03-04T07:41:35+01:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! A mobil adótornyot miért törölted? Mi a forrásod, hogy nincs ott? Műholdképen ez nem látszik. Kérlek válaszolj a változáscsomag hozzászólásokra, ez egy közösségi térkép, köszi! További jó térképezést! Date: 2024-03-03T19:35:39+01:00</title>
         <link>https://www.openstreetmap.org/changeset/148132861</link>
         <guid>https://www.openstreetmap.org/changeset/148132861#comment_1</guid>
@@ -17,11 +22,6 @@
         <link>https://www.openstreetmap.org/changeset/147559433</link>
         <guid>https://www.openstreetmap.org/changeset/147559433#comment_6</guid>
         <pubDate>2024-03-03T08:56:04+01:00</pubDate>
-      </item><item>
-        <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szia! Nem biztos hogy a kötőjeles a helyes forma épület neveknél. Vö: https://e-nyelv.hu/2015-04-18/roma-villa-dorottya-haz/ T. Date: 2024-03-02T21:38:44+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/148012084</link>
-        <guid>https://www.openstreetmap.org/changeset/148012084#comment_1</guid>
-        <pubDate>2024-03-02T21:38:44+01:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Amint látom multipolygonokat akartál létrehozni ebben a változáscsomagban. Ilyen szituációkban nem feltétlenül ez a legjobb megoldás, ráadásul nem is sikerült hibátlanul létrehozni ezeket. A szerkesztő felület elvileg figyelmeztetett, de te ignoráltad, kérlek ne tégy ilyet, ezt ebből a címkéből látom: warnings:mismatched_geometry:unclosed_multipolygon_part=2 Példákat találsz a wiki oldalon: https://wiki.openstreetmap.org/wiki/Relation:multipolygon Az iD szerkesztő amit használsz, nem is a legideálisabb erre a feladatra, ha ilyen bonyolultabb szerkesztésekkel szeretnél foglalkozni, akkor a JOSM lesz a barátod. Ezeket a hibákat javítom. Változáscsomag kommentjének is kérlek használj valami pontosabbat, hol, mit szerkesztesz, van helyismereted, vagy csak műholdról stb. Nem kell kisregény, csak ezzel, hogy ugyanazt írod az összes szerkesztésedhez pont ugyanennyit ér mintha nem írnál semmit. https://wiki.openstreetmap.org/wiki/Good_changeset_comments Pl én erre a változáscsomagodra én valami ilyesmit írtam volna: &quot;Zugló építkezés pontosítása&quot; Ez azért fontos, mert minden elemnél vissza lehet nézni, hogy ki, mikor, mit csinált vele. Persze össze lehet hasonlítani, hogy milyen adatok változtak, de ezt jelentősen megkönnyíted ha összefoglalod a változtatásaidat. Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! Date: 2024-03-02T11:55:43+01:00</title>
         <link>https://www.openstreetmap.org/changeset/147986019</link>
