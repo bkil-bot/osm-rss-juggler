@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>News from the machine room: our pure #Rust core library underlying all #deltachat apps now has reproducible builds for &amp;quot;deltachat-rpc-server&amp;quot;, used by bots and soon also the Desktop app a screenshot of this chat-message from a core dev: deltachat-rpc-server binaries in the latest release 1.136.2 are actually reproducible. $ nix build . #deltachat-rpc-server-armveklinux § sha256sum result/bin/deltachat-rpc-server 0OefS6ccd194ed68673d75cca38b56096fd67e87a469bcabbaase6d54baf9204c result/bin/deltachat-rpc-server This is the same as what GitHub actions built and uploaded to the release: $ curl -sL https://github.com/deltachat/deltachat-core- rust/releases/download/v1.136.2/deltachat-rpc-server-ar mv6Hinux | sha256sum 0ef56ccd194ed68673d75cca38b56096d67e87a469bcabbaaSe6d54baf9204c - — o 4 HOURS</title>
+        <link>https://chaos.social/@delta/112047758353026678</link>
+        <guid>https://chaos.social/@delta/112047758353026678</guid>
+        <pubDate>Wed, 06 Mar 2024 08:18:29 +0000</pubDate>
+      </item><item>
         <title>Given the experiences of the last decade it&amp;#39;s healthy to distrust #decentralized tech if - it&amp;#39;s mainly developed by a centralized power structure - the involved technology is very complex - there is coin or VC funding involved #deltachat has 1/100th, if even that, of what other popular messenging projects have in terms of moneys. But our distributed top-notch expertise in UI, crypto, networking tech and our federated collaborative practises across these concerns, try to make up for it ...</title>
         <link>https://chaos.social/@delta/112025677314593608</link>
         <guid>https://chaos.social/@delta/112025677314593608</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/111504693729563998</link>
         <guid>https://chaos.social/@delta/111504693729563998</guid>
         <pubDate>Fri, 01 Dec 2023 10:30:01 +0000</pubDate>
-      </item><item>
-        <title>We have reports from people for whom delta chat works while signal shows &amp;quot;no internet&amp;quot; ... Various states are throttling traffic all across the planet and you need to have a robust networking layer to provide service. Delta Chat is offline-first, ignores DNS outages, can be combined with Tor or Tails. It is trying to make live easier for people who are already in stress and need a reliable messenging experience. It is project practise to keep the least wealthily connected in focus.</title>
-        <link>https://chaos.social/@delta/111471516437632965</link>
-        <guid>https://chaos.social/@delta/111471516437632965</guid>
-        <pubDate>Sat, 25 Nov 2023 13:52:35 +0000</pubDate>
       </item>
   </channel>
 </rss>

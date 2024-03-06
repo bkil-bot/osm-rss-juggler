@@ -3,6 +3,41 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: NightH Discussion Comment No.: 5 Comment: Ismétlem még egyszer: felmérésen alapuló adatot mozgatsz el hibásan. A jövőben ne tedd. Date: 2024-03-06T20:18:53+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/148282493</link>
+        <guid>https://www.openstreetmap.org/changeset/148282493#comment_5</guid>
+        <pubDate>2024-03-06T20:18:53+01:00</pubDate>
+      </item><item>
+        <title>Contributor: NightH Discussion Comment No.: 3 Comment: A folyón levő virtuális táblának a helyét a parti tábla sodorvonalra történő vetítése adja meg. Bár technikailag egymástól függetlenül szerkeszthetőek, de a valóságban egymástól egyáltalán nem függetlenek. Ha már a precizitásról beszélünk: A Dunán korábban nem &quot;elhelyeztél&quot;, hanem áthelyeztél folyamkilométer jeleket, hiszen azokat én helyeztem el, felmérés alapján. Remélem megérted a felháborodásomat, amikor komoly munkát fektettem abba, hogy pontos hajózási adatok legyenek fent az OSM adatbázisába, majd te egy egyébként felhasználásra nem engedélyezett adatbázis alapján hibás helyre mozgatod a pontos adatokat. Date: 2024-03-06T20:07:10+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/113037688</link>
+        <guid>https://www.openstreetmap.org/changeset/113037688#comment_3</guid>
+        <pubDate>2024-03-06T20:07:10+01:00</pubDate>
+      </item><item>
+        <title>Contributor: Mateusz Konieczny Discussion Comment No.: 1 Comment: name=Állatijó Állateledel https://www.openstreetmap.org/node/9241692900 shop=pet_food ? What kind of shop, if any is here? Is it intentionally used instead of https://wiki.openstreetmap.org/wiki/Tag:shop=pet ? If yes, what is the difference? Should we document this shop value as distinct, valid and useful? Or maybe it is so obvious duplicate that I should have replaced it with an automatic edit rather than making a note? Date: 2024-03-06T17:09:14+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/120315103</link>
+        <guid>https://www.openstreetmap.org/changeset/120315103#comment_1</guid>
+        <pubDate>2024-03-06T17:09:14+01:00</pubDate>
+      </item><item>
+        <title>Contributor: BáthoryPéter Discussion Comment No.: 1 Comment: Szia! A Pilis-oldal Erdőrezervátum geometriája honnan származik? Kerestem a megadott weboldalakon, de ott csak pár kép van. Date: 2024-03-06T10:03:44+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/130529905</link>
+        <guid>https://www.openstreetmap.org/changeset/130529905#comment_1</guid>
+        <pubDate>2024-03-06T10:03:44+01:00</pubDate>
+      </item><item>
+        <title>Contributor: GBAB Discussion Comment No.: 1 Comment: Ó, köszönöm! ;-) Date: 2024-03-05T20:43:03+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/148248639</link>
+        <guid>https://www.openstreetmap.org/changeset/148248639#comment_1</guid>
+        <pubDate>2024-03-05T20:43:03+01:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Továbbra is kérlek használj specifikusabb changeset kommenteket. Kérlek válaszolj az én hozzászólásaimra a változácsomagjaidon, ez már a harmadik. A footway=sidewalk az azt jelenti hogy járda, azaz olyan gyalogút, ami egy autóút mellett fut párhuzamosan, a házak közötti gyalogútra nem kell rárakni, ott elég a highway=footway. Ez vonatkozik a következő szerkesztésedben rajzolt gyalogutakra is. Egy parkolót illetve egy házat is kitöröltél majd újrarajzoltál. Lehetőleg az ilyen törlés/újrarajzolásokat kerülni kell, inkább a meglévő elemet módosítsd! Törléskor elveszik az elem története, és az hasznos információkat is tartalmazhat: https://wiki.openstreetmap.org/wiki/Keep_the_history Ráadásul a parkolónál nem is raktál vissza minden adatot, szóval a &quot;Hibajavítás&quot; címét rontottál is a térképen. Kérlek válaszolj, írtam üzenetet is. Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség Date: 2024-03-05T19:20:40+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/148252508</link>
+        <guid>https://www.openstreetmap.org/changeset/148252508#comment_1</guid>
+        <pubDate>2024-03-05T19:20:40+01:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Ez az automata már szerepelt a térképen, csak rossz helyen: https://www.openstreetmap.org/node/11350895985 Ennek a helyére húzom és törlöm. Date: 2024-03-05T12:22:17+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/148214838</link>
+        <guid>https://www.openstreetmap.org/changeset/148214838#comment_1</guid>
+        <pubDate>2024-03-05T12:22:17+01:00</pubDate>
+      </item><item>
         <title>Contributor: Hungarian_user Discussion Comment No.: 2 Comment: Válaszoltam OSM emailen. Kérlek ott folytassuk. A hibát nem látom. Date: 2024-03-05T05:45:56+01:00</title>
         <link>https://www.openstreetmap.org/changeset/123681110</link>
         <guid>https://www.openstreetmap.org/changeset/123681110#comment_2</guid>
@@ -57,41 +92,6 @@
         <link>https://www.openstreetmap.org/changeset/131142777</link>
         <guid>https://www.openstreetmap.org/changeset/131142777#comment_2</guid>
         <pubDate>2024-02-29T10:27:29+01:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Házszámokat, címeket nem így kell jelölni. Itt a jelölési példák lapon részletesen ki van fejtve, mit hova kell írni: https://wiki.openstreetmap.org/wiki/Hungary/Jelölési_példák#Címek Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! Date: 2024-02-28T14:38:21+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/148014280</link>
-        <guid>https://www.openstreetmap.org/changeset/148014280#comment_1</guid>
-        <pubDate>2024-02-28T14:38:21+01:00</pubDate>
-      </item><item>
-        <title>Contributor: meskobalazs Discussion Comment No.: 1 Comment: Szia! Itt valamit elnézhettél, mert ez a poligon hatalmas lett: https://www.openstreetmap.org/way/215224881 Az egészet toronyként címkézted, de ennek a poligonnak egy területfunkciónak kellene lennie, amelyen található egy pontszerű torony. Date: 2024-02-28T14:28:44+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/147986996</link>
-        <guid>https://www.openstreetmap.org/changeset/147986996#comment_1</guid>
-        <pubDate>2024-02-28T14:28:44+01:00</pubDate>
-      </item><item>
-        <title>Contributor: Tomas_J Discussion Comment No.: 3 Comment: Predĺžil som linku a pridal stanice. Ak chýbalo stop position v Maďarsku na väčších staniciach tak som dal namiesto neho platform. Date: 2024-02-28T13:42:14+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/144933901</link>
-        <guid>https://www.openstreetmap.org/changeset/144933901#comment_3</guid>
-        <pubDate>2024-02-28T13:42:14+01:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 6 Comment: Linkeket elrontottam a végén, ez akart lenni: https://overpass-api.de/achavi/?changeset=147944318&amp;relations=true https://osmcha.org/changesets/147944318 Date: 2024-02-27T22:14:08+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/147944318</link>
-        <guid>https://www.openstreetmap.org/changeset/147944318#comment_6</guid>
-        <pubDate>2024-02-27T22:14:08+01:00</pubDate>
-      </item><item>
-        <title>Contributor: airdace Discussion Comment No.: 3 Comment: Ja értem akkor. Mindkét oldalon kerékpársávot festettek fel, én ezt láttam és jelöltem. Akkor rendben. Date: 2024-02-27T10:54:40+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/147959010</link>
-        <guid>https://www.openstreetmap.org/changeset/147959010#comment_3</guid>
-        <pubDate>2024-02-27T10:54:40+01:00</pubDate>
-      </item><item>
-        <title>Contributor: Gaurdein Discussion Comment No.: 4 Comment: Gondolom (de csak szerintem) sok tag hiányos, mert mindenki csakis a dokumentáció szerint térképezik, így ha valamire lenne esetleg jobb tagelés, akkor se használják, lásd Buildings oldal a wiki-n, CTRL+F mortuary és 0 találat, ezért marad a B terv, azaz building=yes. Sok tag nem is hivatalos csak annyian használják, hogy de facto lesz: hivatalosan akármilyen címke=érték kombináció engedélyezett, ámbár mindenkinek érdemes tartania a jól beválthoz, hisz azt az adatfelhasználók is ismerik, ha a világon csak 30 building=mortuary van, akkor senki nem fogja ezt megfelelően feldolgozni, ellenben az amenity=mortuary ami dokumentált és gyakran használt; szóval ebben teljesen igazad van. Részemről: remélem többen elkezdik majd használni, ezt a döntést is inkább csak az OCD-m és kis részben az egóm védi :) Date: 2024-02-27T10:48:09+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/146021505</link>
-        <guid>https://www.openstreetmap.org/changeset/146021505#comment_4</guid>
-        <pubDate>2024-02-27T10:48:09+01:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 2 Comment: Visszavonva https://www.openstreetmap.org/changeset/147967078 Date: 2024-02-27T10:32:15+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/147962763</link>
-        <guid>https://www.openstreetmap.org/changeset/147962763#comment_2</guid>
-        <pubDate>2024-02-27T10:32:15+01:00</pubDate>
       </item>
   </channel>
 </rss>

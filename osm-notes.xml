@@ -3,6 +3,106 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4141864 (near 1052, Belváros, 5th district) / * 2024 March 6 14:50 Pan Perníček Created: Forwarding anonymous report from #Mapycz user, please verify: There&amp;#39;s infopoint.</title>
+        <link>https://www.openstreetmap.org/note/4141864#c9046170</link>
+        <guid>https://www.openstreetmap.org/note/4141864#c9046170</guid>
+        <pubDate>Wed, 06 Mar 2024 14:50:32 +0000</pubDate>
+      </item><item>
+        <title>new note 4141548 (near 1024, Országút, 2nd district) / * 2024 March 6 10:47 OSM KAMI Created: betegség miatt zárva / via StreetComplete 57.0 / Attached photo(s): / https://westnordost.de/p/200174.jpg / https://westnordost.de/p/200175.jpg</title>
+        <link>https://www.openstreetmap.org/note/4141548#c9045203</link>
+        <guid>https://www.openstreetmap.org/note/4141548#c9045203</guid>
+        <pubDate>Wed, 06 Mar 2024 10:47:33 +0000</pubDate>
+      </item><item>
+        <title>new note 4141336 (near 3213, Atkár) / * 2024 March 6 08:31 utvonalfelmeresek Created: utmenti feszulet</title>
+        <link>https://www.openstreetmap.org/note/4141336#c9044779</link>
+        <guid>https://www.openstreetmap.org/note/4141336#c9044779</guid>
+        <pubDate>Wed, 06 Mar 2024 08:31:15 +0000</pubDate>
+      </item><item>
+        <title>new note 4141321 (near 3014, Hort) / * 2024 March 6 08:19 utvonalfelmeresek Created: trianoni kereszt</title>
+        <link>https://www.openstreetmap.org/note/4141321#c9044747</link>
+        <guid>https://www.openstreetmap.org/note/4141321#c9044747</guid>
+        <pubDate>Wed, 06 Mar 2024 08:19:03 +0000</pubDate>
+      </item><item>
+        <title>new comment 3267813 (near 2637, Central Hungary, 2637, Hungary) / * 2024 March 6 06:52 aceman444 Updated: No, it is not a rendering issue. It is intentional rendering at osm.org, of there is forest an meadow at the same place, then both trees and meadow are rendered. If there are should be no trees then the area of the meadow needs to be cut out of the multipolygon. / There are cases where both should be rendered, e.g. some swamp areas with trees inside a lake. / I will not open notes for each meadow, but try to fix more than just the one meadow I pointed out. There are many wrong meadows in this area so please try to clean them up. / You can see wrong (not &amp;#39;inner&amp;#39; members) polygons like https://www.openstreetmap.org/way/715104976 , https://www.openstreetmap.org/way/1020104401 , https://www.openstreetmap.org/way/1040342661 , https://www.openstreetmap.org/way/715102653 and many others.</title>
+        <link>https://www.openstreetmap.org/note/3267813#c9044603</link>
+        <guid>https://www.openstreetmap.org/note/3267813#c9044603</guid>
+        <pubDate>Wed, 06 Mar 2024 06:52:18 +0000</pubDate>
+      </item><item>
+        <title>reactivated note 3267813 (near 2637, Central Hungary, 2637, Hungary) / * 2022 July 15 06:26 aceman444 Created: Many of the meadows missing as inner members of the forest multipolygon. / * 2023 May 2 10:12 urbalazs Resolved: Looks good now. / * 2023 August 11 16:14 aceman444 Reactivated:  / * 2023 August 11 16:15 aceman444 Updated: No, nothing has changed and the data is still wrong. Forests still span over meadows. / * 2024 March 3 12:25 tregec Updated: Van ilyen szabály, hogy egy rét az erdőpoligon belső tagja kell legyen? / * 2024 March 5 17:05 infeeeee Resolved: Updated: https://www.openstreetmap.org/changeset/148259730 / But this shouldn&amp;#39;t be necessary, it sounds like a rendering issue. Please don&amp;#39;t open a new issue for each meadow. / * 2024 March 6 06:46 aceman444 Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/3267813#c9044593</link>
+        <guid>https://www.openstreetmap.org/note/3267813#c9044593</guid>
+        <pubDate>Wed, 06 Mar 2024 06:46:50 +0000</pubDate>
+      </item><item>
+        <title>closed note 4140968 (near 1133, Újlipótváros, 13th district) / * 2024 March 5 21:42 Levente92 Resolved: </title>
+        <link>https://www.openstreetmap.org/note/4140968#c9043971</link>
+        <guid>https://www.openstreetmap.org/note/4140968#c9043971</guid>
+        <pubDate>Tue, 05 Mar 2024 21:42:46 +0000</pubDate>
+      </item><item>
+        <title>new note 4140968 (near 1133, Újlipótváros, 13th district) / * 2024 March 5 21:40 Levente92 Created: Zsilip utca 4 cleaq aqao</title>
+        <link>https://www.openstreetmap.org/note/4140968#c9043959</link>
+        <guid>https://www.openstreetmap.org/note/4140968#c9043959</guid>
+        <pubDate>Tue, 05 Mar 2024 21:40:40 +0000</pubDate>
+      </item><item>
+        <title>closed note 3986290 (near Királyháza vendégház, Kemence) / * 2023 November 13 21:00 sugarbotond Created: A valóságban nem találtuk meg, felmérendő, hogy létezik e. / * 2024 January 16 19:57 mgpx Updated: Sok évvel ezelőtt, a jegesedés okozta tömeges fakidőlés idején ez volt a turistaút terelőútja. Könnyen lehet, hogy azóta visszavette a természet / * 2024 March 5 20:58 tregec Resolved: Csak középen maradt egy kis nyoma. Eltűntre állítottam.</title>
+        <link>https://www.openstreetmap.org/note/3986290#c9043822</link>
+        <guid>https://www.openstreetmap.org/note/3986290#c9043822</guid>
+        <pubDate>Tue, 05 Mar 2024 20:58:22 +0000</pubDate>
+      </item><item>
+        <title>closed note 3267813 (near 2637, Central Hungary, 2637, Hungary) / * 2022 July 15 06:26 aceman444 Created: Many of the meadows missing as inner members of the forest multipolygon. / * 2023 May 2 10:12 urbalazs Resolved: Looks good now. / * 2023 August 11 16:14 aceman444 Reactivated:  / * 2023 August 11 16:15 aceman444 Updated: No, nothing has changed and the data is still wrong. Forests still span over meadows. / * 2024 March 3 12:25 tregec Updated: Van ilyen szabály, hogy egy rét az erdőpoligon belső tagja kell legyen? / * 2024 March 5 17:05 infeeeee Resolved: Updated: https://www.openstreetmap.org/changeset/148259730 / But this shouldn&amp;#39;t be necessary, it sounds like a rendering issue. Please don&amp;#39;t open a new issue for each meadow.</title>
+        <link>https://www.openstreetmap.org/note/3267813#c9043229</link>
+        <guid>https://www.openstreetmap.org/note/3267813#c9043229</guid>
+        <pubDate>Tue, 05 Mar 2024 17:05:26 +0000</pubDate>
+      </item><item>
+        <title>closed note 4053095 (near 7668, Southern Transdanubia, 7668, Hungary) / * 2024 January 4 15:55 Spush Created: Kerítés átmegy több épületen. Valószínűleg szerkesztési hiba. / * 2024 March 5 16:59 infeeeee Resolved: Javítva: https://www.openstreetmap.org/changeset/148259615</title>
+        <link>https://www.openstreetmap.org/note/4053095#c9043219</link>
+        <guid>https://www.openstreetmap.org/note/4053095#c9043219</guid>
+        <pubDate>Tue, 05 Mar 2024 16:59:38 +0000</pubDate>
+      </item><item>
+        <title>closed note 4064079 (near 7741, Southern Transdanubia, 7741, Hungary) / * 2024 January 12 20:44 Created: onosm.org submitted note from a business: / Name: ۲۴شرکت تجهیزات سینمائی پرولایت / addr:housenumber=شرکت پرولایت ۲۴ / addr:street=زکریای رازی / addr:city=Karaj / addr:postcode=19 / Phone number: 09121328958 / Website: WWW.RINGLIGHT24.IR / Social Network: WWW.RINGLIGHT24.IR / Opening Hours: خدمات ۲۴ ساعته با تعیین وقت قبلی / Wheelchair accessibility: limited / Category: Electronics Repair / Description: تنها مرکز فوق تخصصی ۲۴ساعته تعمیرات تجهیزات سینمائی و عکاسی/رینگ لایت/ تجهیزات سالن های زیبایی / Accepted payment methods: Cash / takeaway=undefined / * 2024 March 5 16:56 infeeeee Resolved: Ez egy iráni üzlet, honlapjuk alapján Los Angelesben van a központjuk, több mint gyanús, hogy spam vagy tévedés</title>
+        <link>https://www.openstreetmap.org/note/4064079#c9043212</link>
+        <guid>https://www.openstreetmap.org/note/4064079#c9043212</guid>
+        <pubDate>Tue, 05 Mar 2024 16:56:04 +0000</pubDate>
+      </item><item>
+        <title>closed note 3587969 (near 1078, Erzsébetváros, 7th district) / * 2023 March 7 06:18 Tajtrdlik Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;There is located Oriental Bar restaurant&amp;quot;. / * 2024 March 5 13:45 infeeeee Resolved: Added: https://www.openstreetmap.org/changeset/148251463</title>
+        <link>https://www.openstreetmap.org/note/3587969#c9042752</link>
+        <guid>https://www.openstreetmap.org/note/3587969#c9042752</guid>
+        <pubDate>Tue, 05 Mar 2024 13:45:08 +0000</pubDate>
+      </item><item>
+        <title>closed note 4132242 (near 1016, Tabán, 1st district) / * 2024 February 29 07:23 ITineris Created: Innen a Hegyalja útig sok minden változott: Az egyenesen menő helyett az Attila út felől jövő kapott elsőbbségadás kötelező táblát. A sávok kiosztása is változott; van, ahol a kettőből az egyiket lezárták. / * 2024 March 5 13:11 infeeeee Resolved: Elsőbbségadást átraktam: https://www.openstreetmap.org/changeset/148250012 / Szerintem a sávok jól vannak, azt már itt korábban frissítettem, de előfordulhat, hogy valamit nem vettem észre.</title>
+        <link>https://www.openstreetmap.org/note/4132242#c9042639</link>
+        <guid>https://www.openstreetmap.org/note/4132242#c9042639</guid>
+        <pubDate>Tue, 05 Mar 2024 13:11:27 +0000</pubDate>
+      </item><item>
+        <title>closed note 4140159 (near 2100, Egyetem, Gödöllő) / * 2024 March 5 09:16 GaborGabor Resolved: </title>
+        <link>https://www.openstreetmap.org/note/4140159#c9042064</link>
+        <guid>https://www.openstreetmap.org/note/4140159#c9042064</guid>
+        <pubDate>Tue, 05 Mar 2024 09:16:36 +0000</pubDate>
+      </item><item>
+        <title>reactivated note 4140159 (near 2100, Egyetem, Gödöllő) / * 2024 March 5 09:16 GaborGabor Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/4140159#c9042063</link>
+        <guid>https://www.openstreetmap.org/note/4140159#c9042063</guid>
+        <pubDate>Tue, 05 Mar 2024 09:16:25 +0000</pubDate>
+      </item><item>
+        <title>closed note 4140159 (near 2100, Egyetem, Gödöllő) / * 2024 March 5 09:15 GaborGabor Resolved: </title>
+        <link>https://www.openstreetmap.org/note/4140159#c9042062</link>
+        <guid>https://www.openstreetmap.org/note/4140159#c9042062</guid>
+        <pubDate>Tue, 05 Mar 2024 09:15:44 +0000</pubDate>
+      </item><item>
+        <title>reactivated note 4140159 (near 2100, Egyetem, Gödöllő) / * 2024 March 5 09:15 GaborGabor Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/4140159#c9042061</link>
+        <guid>https://www.openstreetmap.org/note/4140159#c9042061</guid>
+        <pubDate>Tue, 05 Mar 2024 09:15:33 +0000</pubDate>
+      </item><item>
+        <title>closed note 4140159 (near 2100, Egyetem, Gödöllő) / * 2024 March 5 09:14 GaborGabor Resolved: </title>
+        <link>https://www.openstreetmap.org/note/4140159#c9042059</link>
+        <guid>https://www.openstreetmap.org/note/4140159#c9042059</guid>
+        <pubDate>Tue, 05 Mar 2024 09:14:45 +0000</pubDate>
+      </item><item>
+        <title>new note 4140159 (near 2100, Egyetem, Gödöllő) / * 2024 March 5 09:14 GaborGabor Created: DataMiner Kft.</title>
+        <link>https://www.openstreetmap.org/note/4140159#c9042058</link>
+        <guid>https://www.openstreetmap.org/note/4140159#c9042058</guid>
+        <pubDate>Tue, 05 Mar 2024 09:14:29 +0000</pubDate>
+      </item><item>
         <title>reactivated note 4106986 (near 7630, Southern Transdanubia, 7630, Hungary) / * 2024 March 4 19:46 mjanosbacsi Reactivated: </title>
         <link>https://www.openstreetmap.org/note/4106986#c9040828</link>
         <guid>https://www.openstreetmap.org/note/4106986#c9040828</guid>
@@ -38,7 +138,7 @@
         <guid>https://www.openstreetmap.org/note/4139170#c9039732</guid>
         <pubDate>Mon, 04 Mar 2024 11:10:55 +0000</pubDate>
       </item><item>
-        <title>closed note 4119264 (near 1117, Central Hungary, 1117, Hungary) / * 2024 February 19 10:37 Created: Már nincs itt a MOL / * 2024 March 3 17:58 infeeeee Resolved: Javítva: https://www.openstreetmap.org/changeset/148176330</title>
+        <title>closed note 4119264 (near 1117, Kelenföld, 11th district) / * 2024 February 19 10:37 Created: Már nincs itt a MOL / * 2024 March 3 17:58 infeeeee Resolved: Javítva: https://www.openstreetmap.org/changeset/148176330</title>
         <link>https://www.openstreetmap.org/note/4119264#c9036666</link>
         <guid>https://www.openstreetmap.org/note/4119264#c9036666</guid>
         <pubDate>Sun, 03 Mar 2024 17:58:10 +0000</pubDate>
@@ -47,106 +147,6 @@
         <link>https://www.openstreetmap.org/note/4138012#c9034882</link>
         <guid>https://www.openstreetmap.org/note/4138012#c9034882</guid>
         <pubDate>Sun, 03 Mar 2024 16:04:37 +0000</pubDate>
-      </item><item>
-        <title>new note 4137841 (near 2314, Central Hungary, 2314, Hungary) / * 2024 March 3 14:58 Created: Léna utca (a Melinda utca csak a Júlia utcáig tart.)</title>
-        <link>https://www.openstreetmap.org/note/4137841#c9034592</link>
-        <guid>https://www.openstreetmap.org/note/4137841#c9034592</guid>
-        <pubDate>Sun, 03 Mar 2024 14:58:04 +0000</pubDate>
-      </item><item>
-        <title>new comment 3267813 (near 2637, Central Hungary, 2637, Hungary) / * 2022 July 15 06:26 aceman444 Created: Many of the meadows missing as inner members of the forest multipolygon. / * 2023 May 2 10:12 urbalazs Resolved: Looks good now. / * 2023 August 11 16:14 aceman444 Reactivated:  / * 2023 August 11 16:15 aceman444 Updated: No, nothing has changed and the data is still wrong. Forests still span over meadows. / * 2024 March 3 12:25 tregec Updated: Van ilyen szabály, hogy egy rét az erdőpoligon belső tagja kell legyen?</title>
-        <link>https://www.openstreetmap.org/note/3267813#c9034055</link>
-        <guid>https://www.openstreetmap.org/note/3267813#c9034055</guid>
-        <pubDate>Sun, 03 Mar 2024 12:25:43 +0000</pubDate>
-      </item><item>
-        <title>reactivated note 4136701 (near 7625, Southern Transdanubia, 7625, Hungary) / * 2024 March 2 21:03 szelenyit Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/4136701#c9032438</link>
-        <guid>https://www.openstreetmap.org/note/4136701#c9032438</guid>
-        <pubDate>Sat, 02 Mar 2024 21:03:35 +0000</pubDate>
-      </item><item>
-        <title>closed note 4136701 (near 7625, Southern Transdanubia, 7625, Hungary) / * 2024 March 2 21:03 szelenyit Resolved: Coop bezárt</title>
-        <link>https://www.openstreetmap.org/note/4136701#c9032437</link>
-        <guid>https://www.openstreetmap.org/note/4136701#c9032437</guid>
-        <pubDate>Sat, 02 Mar 2024 21:03:26 +0000</pubDate>
-      </item><item>
-        <title>new note 4136701 (near 7625, Southern Transdanubia, 7625, Hungary) / * 2024 March 2 21:02 szelenyit Created: Bezárt</title>
-        <link>https://www.openstreetmap.org/note/4136701#c9032432</link>
-        <guid>https://www.openstreetmap.org/note/4136701#c9032432</guid>
-        <pubDate>Sat, 02 Mar 2024 21:02:24 +0000</pubDate>
-      </item><item>
-        <title>new note 4136688 (near 7625, Southern Transdanubia, 7625, Hungary) / * 2024 March 2 20:49 szelenyit Created: Bezárt</title>
-        <link>https://www.openstreetmap.org/note/4136688#c9032399</link>
-        <guid>https://www.openstreetmap.org/note/4136688#c9032399</guid>
-        <pubDate>Sat, 02 Mar 2024 20:49:10 +0000</pubDate>
-      </item><item>
-        <title>new comment 4136681 (near 2116, Central Hungary, 2116, Hungary) / * 2024 March 2 20:45 balint36 Updated: Egyébként az e-közmű sem jelöli.</title>
-        <link>https://www.openstreetmap.org/note/4136681#c9032380</link>
-        <guid>https://www.openstreetmap.org/note/4136681#c9032380</guid>
-        <pubDate>Sat, 02 Mar 2024 20:45:25 +0000</pubDate>
-      </item><item>
-        <title>new note 4136681 (near 2116, Central Hungary, 2116, Hungary) / * 2024 March 2 20:45 balint36 Created: https://www.openstreetmap.org/way/491008848 / Ez a középfeszültségű vezeték biztos, hogy létezik? / Több releváns  műholdepét is végig néztem, egyiken sem látszódnak az állítólagos távvezetékoszlopok. A mapillary-n nem látszódik ez a vezeték (csak a másik).</title>
-        <link>https://www.openstreetmap.org/note/4136681#c9032378</link>
-        <guid>https://www.openstreetmap.org/note/4136681#c9032378</guid>
-        <pubDate>Sat, 02 Mar 2024 20:45:03 +0000</pubDate>
-      </item><item>
-        <title>closed note 4101570 (near 4271, North Great Plain, 4271, Hungary) / * 2024 March 2 16:32 vasony Resolved: Köszi, akkor ezt zárom a helyszínen ennél többet nem lehet tenni.</title>
-        <link>https://www.openstreetmap.org/note/4101570#c9031525</link>
-        <guid>https://www.openstreetmap.org/note/4101570#c9031525</guid>
-        <pubDate>Sat, 02 Mar 2024 16:32:11 +0000</pubDate>
-      </item><item>
-        <title>new note 4135561 (near 8500, Central Transdanubia, 8500, Hungary) / * 2024 March 2 13:57 vasony Created: Rohonczi utca vagy Rohonczy János utca szerepel a táblán?</title>
-        <link>https://www.openstreetmap.org/note/4135561#c9030567</link>
-        <guid>https://www.openstreetmap.org/note/4135561#c9030567</guid>
-        <pubDate>Sat, 02 Mar 2024 13:57:26 +0000</pubDate>
-      </item><item>
-        <title>new note 4135453 (near 98, SUBAN Kéziműszer Hungary Zrt., Csigekert, Debrecen) / * 2024 March 2 12:32 Created: SARAY Szőnyegház</title>
-        <link>https://www.openstreetmap.org/note/4135453#c9030398</link>
-        <guid>https://www.openstreetmap.org/note/4135453#c9030398</guid>
-        <pubDate>Sat, 02 Mar 2024 12:32:38 +0000</pubDate>
-      </item><item>
-        <title>new note 4135242 (near 4271, North Great Plain, 4271, Hungary) / * 2024 March 2 11:13 ssummoner1 Created: Majd ha lesz műholdkép akkor ezt az épületet rá kell igazítani.</title>
-        <link>https://www.openstreetmap.org/note/4135242#c9030095</link>
-        <guid>https://www.openstreetmap.org/note/4135242#c9030095</guid>
-        <pubDate>Sat, 02 Mar 2024 11:13:25 +0000</pubDate>
-      </item><item>
-        <title>new comment 4101570 (near 4271, North Great Plain, 4271, Hungary) / * 2024 February 5 20:16 vasony Created: VH/55/2021. (VI. 11.) SZÁMÚ POLGÁRMESTERI HATÁROZAT szeinrt az alábbi utcáknak kell itt lennie, felmérendő: / - Sinay utca, / - Tormay Cecile utca, / - Szabó Magda utca, / - Béres András utca, / - Benedek Elek utca, / - Ipartelep utca. / * 2024 March 2 11:06 ssummoner1 Updated: Voltam a környéken. Nincs kitéve utcatábla, de felvettem a cégeket, amelyeknek kint volt a nevük, meg a címük. Az már egy kiindulási pont lehet.</title>
-        <link>https://www.openstreetmap.org/note/4101570#c9030071</link>
-        <guid>https://www.openstreetmap.org/note/4101570#c9030071</guid>
-        <pubDate>Sat, 02 Mar 2024 11:06:55 +0000</pubDate>
-      </item><item>
-        <title>closed note 4101572 (near 4271, North Great Plain, 4271, Hungary) / * 2024 February 5 20:21 vasony Created: Ez a Benedek Elek utca 28? / https://www.etdr.gov.hu/Nyilvanos/202400004540 / * 2024 March 2 11:06 ssummoner1 Resolved: Igen ez az.</title>
-        <link>https://www.openstreetmap.org/note/4101572#c9030070</link>
-        <guid>https://www.openstreetmap.org/note/4101572#c9030070</guid>
-        <pubDate>Sat, 02 Mar 2024 11:06:54 +0000</pubDate>
-      </item><item>
-        <title>new note 4135056 (near Attyapuszta, Pápakovácsi) / * 2024 March 2 08:49 Created: Alteó széltorony</title>
-        <link>https://www.openstreetmap.org/note/4135056#c9029697</link>
-        <guid>https://www.openstreetmap.org/note/4135056#c9029697</guid>
-        <pubDate>Sat, 02 Mar 2024 08:49:07 +0000</pubDate>
-      </item><item>
-        <title>new note 4134926 (near 9200, Western Transdanubia, 9200, Hungary) / * 2024 March 2 07:14 vasony-qa Created: Melyik közterület a Vár tér, amire ez számozva van?</title>
-        <link>https://www.openstreetmap.org/note/4134926#c9029421</link>
-        <guid>https://www.openstreetmap.org/note/4134926#c9029421</guid>
-        <pubDate>Sat, 02 Mar 2024 07:14:24 +0000</pubDate>
-      </item><item>
-        <title>new note 4134922 (near 9091, Western Transdanubia, 9091, Hungary) / * 2024 March 2 07:13 vasony-qa Created: Melyik közterület a Radnóti Miklós udvar, amire ez számozva van?</title>
-        <link>https://www.openstreetmap.org/note/4134922#c9029417</link>
-        <guid>https://www.openstreetmap.org/note/4134922#c9029417</guid>
-        <pubDate>Sat, 02 Mar 2024 07:13:24 +0000</pubDate>
-      </item><item>
-        <title>new note 4134919 (near 8000, Central Transdanubia, 8000, Hungary) / * 2024 March 2 07:10 vasony-qa Created: Ez a Jezsuita utca?</title>
-        <link>https://www.openstreetmap.org/note/4134919#c9029413</link>
-        <guid>https://www.openstreetmap.org/note/4134919#c9029413</guid>
-        <pubDate>Sat, 02 Mar 2024 07:10:39 +0000</pubDate>
-      </item><item>
-        <title>new note 4134915 (near 6344, South Great Plain, 6344, Hungary) / * 2024 March 2 07:03 vasony-qa Created: Melyik köztterület az Anna Maria Hall tér? Csak címként van fent.</title>
-        <link>https://www.openstreetmap.org/note/4134915#c9029405</link>
-        <guid>https://www.openstreetmap.org/note/4134915#c9029405</guid>
-        <pubDate>Sat, 02 Mar 2024 07:03:57 +0000</pubDate>
-      </item><item>
-        <title>new note 4134909 (near Alsómajor, Biatorbágy) / * 2024 March 2 06:45 vasony Created: Beller Imre utca utcanév tisztázandó</title>
-        <link>https://www.openstreetmap.org/note/4134909#c9029399</link>
-        <guid>https://www.openstreetmap.org/note/4134909#c9029399</guid>
-        <pubDate>Sat, 02 Mar 2024 06:45:09 +0000</pubDate>
       </item>
   </channel>
 </rss>
