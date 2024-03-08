@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 2206846 (near 2634, Nagybörzsöny) / * 2020 May 26 09:42 toroki Created: Ezt téves hely, kérem törölni. / * 2023 May 2 12:59 urbalazs Updated: Mi a téves itt? Mit kellene törölni? / * 2024 March 8 20:18 tregec Resolved: Az utak teljesen rosszul voltak itt, ezeket javítottam, azonban az itt lévő megszűnt vasútvonalak korábbi helyzetét nem ismerem. Erről nyitok egy új jegyzetet.</title>
+        <link>https://www.openstreetmap.org/note/2206846#c9052496</link>
+        <guid>https://www.openstreetmap.org/note/2206846#c9052496</guid>
+        <pubDate>Fri, 08 Mar 2024 20:18:01 +0000</pubDate>
+      </item><item>
+        <title>new comment 4142409 (near 1087, Kerepesdűlő, 8th district) / * 2024 March 6 22:34 balint36 Created: In context of overlay &amp;quot;Things&amp;quot; – inside: MÁV [JKA-061] (Transit Ticket Vending Machine) – https://osm.org/node/5916174872 via StreetComplete 57.0: / JKA-594 / * 2024 March 8 20:01 balint36 Updated: A déli csarnokrész jegyautomatái közül ennél az egynél nem lehet készpénzzel fizetni.</title>
+        <link>https://www.openstreetmap.org/note/4142409#c9052468</link>
+        <guid>https://www.openstreetmap.org/note/4142409#c9052468</guid>
+        <pubDate>Fri, 08 Mar 2024 20:01:58 +0000</pubDate>
+      </item><item>
+        <title>new note 4144786 (near 1087, Kerepesdűlő, 8th district) / * 2024 March 8 19:56 balint36 Created: 8 darab automata, a vágányok felé nézve sorrendben: / JKA-523 (kártya) | JKA-131 / JKA-132 | JKA-524 (kártya) / JKA-599 (kártya) | JKA-331 / JKA-595 (kártya) | JKA-596 (kártya) / via StreetComplete 57.1</title>
+        <link>https://www.openstreetmap.org/note/4144786#c9052460</link>
+        <guid>https://www.openstreetmap.org/note/4144786#c9052460</guid>
+        <pubDate>Fri, 08 Mar 2024 19:56:42 +0000</pubDate>
+      </item><item>
         <title>new note 4144745 (near Gerecse Kapuja, Tatabánya) / * 2024 March 8 19:01 balint36 Created: Tata állomás kedőponti végében feltűnt, hogy habár a vonaton voltam, a helymeghatározás (a megelőző szakaszhoz képest) elég messze jelölt a felrajzolt vasúthoz képest. / Ez az útvonal Tata (kiz.) - Tatabánya (bez.) vonalszakasz bal vágány mérését tartalmazza. / A nyomvonalat össze szeretném hasonlítani a térképelemekkel, műholdképekkel és egyéb más adatokkal. / via StreetComplete 57.1 / GPS Trace: https://www.openstreetmap.org/user/balint36/traces/11301966</title>
         <link>https://www.openstreetmap.org/note/4144745#c9052359</link>
         <guid>https://www.openstreetmap.org/note/4144745#c9052359</guid>
@@ -147,16 +162,6 @@
         <link>https://www.openstreetmap.org/note/4064079#c9043212</link>
         <guid>https://www.openstreetmap.org/note/4064079#c9043212</guid>
         <pubDate>Tue, 05 Mar 2024 16:56:04 +0000</pubDate>
-      </item><item>
-        <title>closed note 3587969 (near 1078, Erzsébetváros, 7th district) / * 2023 March 7 06:18 Tajtrdlik Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;There is located Oriental Bar restaurant&amp;quot;. / * 2024 March 5 13:45 infeeeee Resolved: Added: https://www.openstreetmap.org/changeset/148251463</title>
-        <link>https://www.openstreetmap.org/note/3587969#c9042752</link>
-        <guid>https://www.openstreetmap.org/note/3587969#c9042752</guid>
-        <pubDate>Tue, 05 Mar 2024 13:45:08 +0000</pubDate>
-      </item><item>
-        <title>closed note 4132242 (near 1016, Tabán, 1st district) / * 2024 February 29 07:23 ITineris Created: Innen a Hegyalja útig sok minden változott: Az egyenesen menő helyett az Attila út felől jövő kapott elsőbbségadás kötelező táblát. A sávok kiosztása is változott; van, ahol a kettőből az egyiket lezárták. / * 2024 March 5 13:11 infeeeee Resolved: Elsőbbségadást átraktam: https://www.openstreetmap.org/changeset/148250012 / Szerintem a sávok jól vannak, azt már itt korábban frissítettem, de előfordulhat, hogy valamit nem vettem észre.</title>
-        <link>https://www.openstreetmap.org/note/4132242#c9042639</link>
-        <guid>https://www.openstreetmap.org/note/4132242#c9042639</guid>
-        <pubDate>Tue, 05 Mar 2024 13:11:27 +0000</pubDate>
       </item>
   </channel>
 </rss>
