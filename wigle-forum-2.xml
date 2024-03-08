@@ -3,6 +3,11 @@
   <channel>
     <title>WiGLE News (via bkil-bot)</title>
       <item>
+        <title>Re: Wigle Database: Its my understanding that &quot;first seen&quot; takes priority. They timestamp &quot;first seen&quot; on the the first upload. Thats what shows aswell but all I know is they do store subsequent uploads by the first seen &quot;first seen&quot; which is the primary reference point for the database. Hopefully thats what you meant. -TZz222zZT</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=12127#p12127</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=12127#p12127</guid>
+        <pubDate>2024-03-08T07:20:28</pubDate>
+      </item><item>
         <title>Wigle Database: How does the wigle database process files? Is this first seen or first uploaded? What takes priority? -toothpaste</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12126#p12126</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12126#p12126</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=10451#p10451</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=10451#p10451</guid>
         <pubDate>2020-01-04T14:35:46</pubDate>
-      </item><item>
-        <title>Re: Android Pie and WiGLE - news articles about scan-throttling: This is from my quote above: &quot;Android Pie is still fresh on everyone’s mind and we’re only starting to experience some of the changes that Google has made with its latest update. Android has always been criticized for having poor battery life compared to other mobile operating systems, but this was a double-edged sword. Sure, Android used more battery life than others, but it allowed for a lot more unique and diverse applications to be exclusive to the platform. Google has done a lot to help improve the overall battery life usage on Android, but this latest change to WiFi scanning is interfering with a number of network applications.&quot; This claim, the one by Google, is foolish. When I am wardriving, I am almost always connecting my phone(s) to a Turbocharger plugin in the cigarette lighter, so power consumption is essentially irrelevant. -32894156</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=10433#p10433</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=10433#p10433</guid>
-        <pubDate>2019-12-23T00:56:08</pubDate>
       </item>
   </channel>
 </rss>
