@@ -217,11 +217,6 @@
         <link>https://www.openstreetmap.org/note/4141321#c9044747</link>
         <guid>https://www.openstreetmap.org/note/4141321#c9044747</guid>
         <pubDate>Wed, 06 Mar 2024 08:19:03 +0000</pubDate>
-      </item><item>
-        <title>new comment 3267813 (near 2637, Central Hungary, 2637, Hungary) / * 2024 March 6 06:52 aceman444 Updated: No, it is not a rendering issue. It is intentional rendering at osm.org, of there is forest an meadow at the same place, then both trees and meadow are rendered. If there are should be no trees then the area of the meadow needs to be cut out of the multipolygon. / There are cases where both should be rendered, e.g. some swamp areas with trees inside a lake. / I will not open notes for each meadow, but try to fix more than just the one meadow I pointed out. There are many wrong meadows in this area so please try to clean them up. / You can see wrong (not &amp;#39;inner&amp;#39; members) polygons like https://www.openstreetmap.org/way/715104976 , https://www.openstreetmap.org/way/1020104401 , https://www.openstreetmap.org/way/1040342661 , https://www.openstreetmap.org/way/715102653 and many others.</title>
-        <link>https://www.openstreetmap.org/note/3267813#c9044603</link>
-        <guid>https://www.openstreetmap.org/note/3267813#c9044603</guid>
-        <pubDate>Wed, 06 Mar 2024 06:52:18 +0000</pubDate>
       </item>
   </channel>
 </rss>
