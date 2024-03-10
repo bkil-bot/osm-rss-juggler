@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4147725 (near Halászházak, Biatorbágy) / * 2024 March 10 20:49 Kecsege Resolved: Javítva, felkerült a temető mellé. Pozíciót majd pontosítani kell.</title>
+        <link>https://www.openstreetmap.org/note/4147725#c9059548</link>
+        <guid>https://www.openstreetmap.org/note/4147725#c9059548</guid>
+        <pubDate>Sun, 10 Mar 2024 20:49:44 +0000</pubDate>
+      </item><item>
+        <title>closed note 3680463 (near 8746, Nagyrada) / * 2024 March 10 20:39 vasony Resolved: Javítva ahol kellett, official_name megadva.</title>
+        <link>https://www.openstreetmap.org/note/3680463#c9059528</link>
+        <guid>https://www.openstreetmap.org/note/3680463#c9059528</guid>
+        <pubDate>Sun, 10 Mar 2024 20:39:22 +0000</pubDate>
+      </item><item>
+        <title>closed note 3431303 (near 1158, Central Hungary, 1158, Hungary) / * 2022 November 7 05:29 kogutowicz-mano Created: 2023-ig tart Kerepes Alállomás kibővítése. Ezzel összefüggésben átépítik a Zugló-Kerepes szakaszt. Folyamatosan figyelemmel kellene kísérni a változásokat (pl. most milyen hosszan bontották le a vezetéket az oszlopokról), de hát ki jár erre csak úgy magától? :-) / * 2023 May 19 07:22 ITineris Updated: Én tudok erre járni csak úgy magamtól. De pontosan mit nézzek? / Az OSM-en a negyedik ág vezetéke törölve van Kerepesig, csak az oszlopok vannak meghagyva. Viszont ott a semmi közepétől újra folytatódik a vezeték Maglód felé. / * 2023 May 19 07:56 kogutowicz-mano Updated: Addig töröltem, ameddig elláttam a buszról. De Kerepesig lebontják az egészet, és újat építenek. Kétrendszerűt, a mostani szimpla áramkör helyett. Azaz az eddig három drót helyett 6 lesz. Ezt kellene figyelni. Hol van három, hat illetve nulla vezeték. / A másik, ami nagyon átalakul, a Zugló Alállomás és a VEIKI közti rész, amit e jegyzet markere jelöl. Itt minden bizonnyal új oszlopokat állítanak majd, de vajon hol férnek el? (Vagy megszűnik a VEIKI 220 kV-ja?) / * 2023 May 19 07:59 ITineris Updated: Na, ez pl. azt jelenti, hogy nem elég csak úgy kimennem, hanem célszerű az RTK-s vevőt is magammal vinnem az esetleges új oszlopok miatt. / * 2023 July 5 13:28 ITineris Updated: Már vannak magas, kettőskereszt alakú oszlopok, drótok is mennek tovább Kerepes felé. / A VEIKIből 3 drótpár jön ki, és hegyesszögben kanyarodik Zugló felé, a pilon egyik oldalán. A másik három drótpár ugyanazon pilon másik oldaláról megy át a Késmárk utca felett (plusz a csúcson egy drót). / Tőle északra háromemeletes tartókon 6 drótpár (plusz a széles tetején 1-1). Közvetlenül a Késmárk utcánál egy nagy PI alakú tartón. / Végül a legészakabbi két nyomvonal Y tartókon 3 drótpár. / Szép kis kötögetés megy itt; majd rajzolgatom, ha felvettem az oszlopokat. / * 2024 January 9 10:05 infeeeee Updated: Sziasztok, van még ezzel valami tennivaló, vagy már elkészült? / * 2024 January 9 10:19 ITineris Updated: Az oszlopok nincsenek pontosan felmérve. Legalább a Vasgolyó utcáról ellenőrizni kellene a nyomvonalakat, és hogy melyik hány vezetékes. / A VEIKIs elágazásnál gyanús, hogy nem jól vannak berajzolva a kötések. / * 2024 January 9 10:26 kogutowicz-mano Updated: Farigcsálom, amikor csak arra buszozván látok valami változást. Legutóbb pár hete nyúltam hozzá. De a Késmárk utca és az alállomás közti részt jó lenne gyalogos bejárással ellenőrizni. / Gyanús, nem gyanús: logikailag ez volt az egyetlen megoldás az ócsai vezeték kétrendszerűsítése után. Persze tévedhetek, ezért kell ellenőrizni. / * 2024 March 10 20:35 kogutowicz-mano Resolved: Felmérve, kiigazítva. Kész.</title>
+        <link>https://www.openstreetmap.org/note/3431303#c9059520</link>
+        <guid>https://www.openstreetmap.org/note/3431303#c9059520</guid>
+        <pubDate>Sun, 10 Mar 2024 20:35:58 +0000</pubDate>
+      </item><item>
         <title>new comment 2396968 (near 1122, Krisztinaváros, 12th district) / * 2020 October 23 18:23 vasony Created: Elvileg leaszfaltozták: / https://index.hu/belfold/2020/10/23/ketszazadik_aszfaltozott_foldut_budapest/ / * 2020 October 23 18:23 vasony Updated: Nekem térkőnek tűnik, fel kell mérni / * 2020 November 13 19:30 ITineris Updated: A cikkben &amp;quot;burkolás&amp;quot; szerepel, a címben van csak &amp;quot;aszfaltozott&amp;quot; - felteszem, a nem-földút pongyola megfogalmazásaként. / * 2021 January 30 16:20 urbalazs Updated: Ma néztem meg, és akkora volt a sár, hogy gyalog nem lehetett végigmenni rajta. A szakasz elején van kb. 20-30 méternyi aszfalt, de utána burkolatlan. Építés zajlik, lehet, hogy onnan került rá a sár és valójában aszfaltos vagy térköves, ahogy a térképen szerepel? A ma látottak alapján én azt mondanám, hogy burkolatlan, eső után teljesen járhatatlan. A linkelt hírben lévő fénykép biztosan nem ezen a szakaszon készült, ahol a jelölő van. / * 2021 January 30 19:38 vasony Updated: Az a fehér fal ami a képen van, lehetne tájékozódási pont, lehet hogy a felső szakaszról van szó. / * 2021 January 30 19:47 vasony Updated: A kép innen készült, és felfelé néz / https://www.openstreetmap.org/node/4651923029 / * 2024 March 10 19:34 ITineris Updated: &amp;quot;a most átadott út speciális kövezetburkolatot kapott. Ugyanis az utcának nem megoldható a vízelvezetése, ezért az út alatt kell „elszikkasztani” az esővizet.&amp;quot; / Ez lehet eufemisztikus megfogalmazása a tapasztalt állapotoknak. / (A &amp;quot;nem megoldható&amp;quot; egyértelmű kamu.)</title>
         <link>https://www.openstreetmap.org/note/2396968#c9059352</link>
         <guid>https://www.openstreetmap.org/note/2396968#c9059352</guid>
@@ -272,36 +287,6 @@
         <link>https://www.openstreetmap.org/note/2206846#c9052496</link>
         <guid>https://www.openstreetmap.org/note/2206846#c9052496</guid>
         <pubDate>Fri, 08 Mar 2024 20:18:01 +0000</pubDate>
-      </item><item>
-        <title>new comment 4142409 (near 1087, Kerepesdűlő, 8th district) / * 2024 March 6 22:34 balint36 Created: In context of overlay &amp;quot;Things&amp;quot; – inside: MÁV [JKA-061] (Transit Ticket Vending Machine) – https://osm.org/node/5916174872 via StreetComplete 57.0: / JKA-594 / * 2024 March 8 20:01 balint36 Updated: A déli csarnokrész jegyautomatái közül ennél az egynél nem lehet készpénzzel fizetni.</title>
-        <link>https://www.openstreetmap.org/note/4142409#c9052468</link>
-        <guid>https://www.openstreetmap.org/note/4142409#c9052468</guid>
-        <pubDate>Fri, 08 Mar 2024 20:01:58 +0000</pubDate>
-      </item><item>
-        <title>new note 4144786 (near 1087, Kerepesdűlő, 8th district) / * 2024 March 8 19:56 balint36 Created: 8 darab automata, a vágányok felé nézve sorrendben: / JKA-523 (kártya) | JKA-131 / JKA-132 | JKA-524 (kártya) / JKA-599 (kártya) | JKA-331 / JKA-595 (kártya) | JKA-596 (kártya) / via StreetComplete 57.1</title>
-        <link>https://www.openstreetmap.org/note/4144786#c9052460</link>
-        <guid>https://www.openstreetmap.org/note/4144786#c9052460</guid>
-        <pubDate>Fri, 08 Mar 2024 19:56:42 +0000</pubDate>
-      </item><item>
-        <title>new note 4144745 (near Gerecse Kapuja, Tatabánya) / * 2024 March 8 19:01 balint36 Created: Tata állomás kedőponti végében feltűnt, hogy habár a vonaton voltam, a helymeghatározás (a megelőző szakaszhoz képest) elég messze jelölt a felrajzolt vasúthoz képest. / Ez az útvonal Tata (kiz.) - Tatabánya (bez.) vonalszakasz bal vágány mérését tartalmazza. / A nyomvonalat össze szeretném hasonlítani a térképelemekkel, műholdképekkel és egyéb más adatokkal. / via StreetComplete 57.1 / GPS Trace: https://www.openstreetmap.org/user/balint36/traces/11301966</title>
-        <link>https://www.openstreetmap.org/note/4144745#c9052359</link>
-        <guid>https://www.openstreetmap.org/note/4144745#c9052359</guid>
-        <pubDate>Fri, 08 Mar 2024 19:01:36 +0000</pubDate>
-      </item><item>
-        <title>new note 4144741 (near 4060, Balmazújváros) / * 2024 March 8 18:58 Created: Hiányzó zsákutca.</title>
-        <link>https://www.openstreetmap.org/note/4144741#c9052354</link>
-        <guid>https://www.openstreetmap.org/note/4144741#c9052354</guid>
-        <pubDate>Fri, 08 Mar 2024 18:58:52 +0000</pubDate>
-      </item><item>
-        <title>new note 4144661 (near 9021, Belváros, Gyor) / * 2024 March 8 18:00 balint36 Created: Automaták: / Balra: JKA-347 / Jobbra: JKA-590 (csak kártya) / via StreetComplete 57.1</title>
-        <link>https://www.openstreetmap.org/note/4144661#c9052231</link>
-        <guid>https://www.openstreetmap.org/note/4144661#c9052231</guid>
-        <pubDate>Fri, 08 Mar 2024 18:00:27 +0000</pubDate>
-      </item><item>
-        <title>new note 4144656 (near 9021, Belváros, Gyor) / * 2024 March 8 17:58 balint36 Created: Automaták: / Balra: JKA-589 (csak kártya) / Jobbra: JKA-346 / via StreetComplete 57.1</title>
-        <link>https://www.openstreetmap.org/note/4144656#c9052225</link>
-        <guid>https://www.openstreetmap.org/note/4144656#c9052225</guid>
-        <pubDate>Fri, 08 Mar 2024 17:58:51 +0000</pubDate>
       </item>
   </channel>
 </rss>
