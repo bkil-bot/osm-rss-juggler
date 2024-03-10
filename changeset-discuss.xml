@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: Tompika Discussion Comment No.: 2 Comment: Hello. I can not speak in English. I wrote this answer using a translator. I think the label shop=pet is misleading. This store does not sell animals, only pet food. If this current tag bothers you, feel free to correct it, just avoid the shop=yes tag. Hi. Date: 2024-03-10T13:14:28+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/120315103</link>
+        <guid>https://www.openstreetmap.org/changeset/120315103#comment_2</guid>
+        <pubDate>2024-03-10T13:14:28+01:00</pubDate>
+      </item><item>
         <title>Contributor: Kiss_Karoly Discussion Comment No.: 1 Comment: Az útvonal csak a Békéscsaba-Szeged szakaszon pontosítva. A 47. sz. főút szakaszait vettem alapul (https://www.openstreetmap.org/relation/66036#map=8/46.895/20.897), így még hibákat tartalmaz. Az ütközések elkerülése érdekében feltöttem. Date: 2024-03-10T03:39:27+01:00</title>
         <link>https://www.openstreetmap.org/changeset/148446988</link>
         <guid>https://www.openstreetmap.org/changeset/148446988#comment_1</guid>
@@ -57,11 +62,6 @@
         <link>https://www.openstreetmap.org/changeset/113037688</link>
         <guid>https://www.openstreetmap.org/changeset/113037688#comment_3</guid>
         <pubDate>2024-03-06T20:07:10+01:00</pubDate>
-      </item><item>
-        <title>Contributor: Mateusz Konieczny Discussion Comment No.: 1 Comment: name=Állatijó Állateledel https://www.openstreetmap.org/node/9241692900 shop=pet_food ? What kind of shop, if any is here? Is it intentionally used instead of https://wiki.openstreetmap.org/wiki/Tag:shop=pet ? If yes, what is the difference? Should we document this shop value as distinct, valid and useful? Or maybe it is so obvious duplicate that I should have replaced it with an automatic edit rather than making a note? Date: 2024-03-06T17:09:14+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/120315103</link>
-        <guid>https://www.openstreetmap.org/changeset/120315103#comment_1</guid>
-        <pubDate>2024-03-06T17:09:14+01:00</pubDate>
       </item><item>
         <title>Contributor: GBAB Discussion Comment No.: 1 Comment: Ó, köszönöm! ;-) Date: 2024-03-05T20:43:03+01:00</title>
         <link>https://www.openstreetmap.org/changeset/148248639</link>
