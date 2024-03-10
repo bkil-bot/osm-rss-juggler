@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4148071 (near 5430, Tiszaföldvár) / * 2024 March 10 22:19 KSLK Garage Kft Created: Ez az üzlet megszűnt,  jelenleg a KSLK Garage Kft. Telephelye.</title>
+        <link>https://www.openstreetmap.org/note/4148071#c9059737</link>
+        <guid>https://www.openstreetmap.org/note/4148071#c9059737</guid>
+        <pubDate>Sun, 10 Mar 2024 22:19:35 +0000</pubDate>
+      </item><item>
+        <title>closed note 3964769 (near Homokdűlő, Vác) / * 2023 October 30 12:58 ironalloy Created: &amp;quot;Linortex Design&amp;quot; / OSM snapshot date: 2023-10-09T16:37:32Z / POI has no name / POI types: shop-curtain / #organicmaps android / * 2024 March 10 21:47 infeeeee Resolved: Resolved with changeset https://www.openstreetmap.org/changeset/148481229 by noteSolver_plugin/0.5.0</title>
+        <link>https://www.openstreetmap.org/note/3964769#c9059673</link>
+        <guid>https://www.openstreetmap.org/note/3964769#c9059673</guid>
+        <pubDate>Sun, 10 Mar 2024 21:47:09 +0000</pubDate>
+      </item><item>
+        <title>closed note 4077121 (near 1028, Kővár, 2nd district) / * 2024 January 19 12:29 sugarbotond Created: A Pozsonyi utca és a Bükkfa utca Máriaremetei útra csatlakozó alsó szakasza hétköznap 7-9 között mindkét irányból behajtani tilos, kivéve célforgalom és kerékpár. / * 2024 March 10 21:37 infeeeee Resolved: Azóta Bálint frissítette: https://www.openstreetmap.org/changeset/146680905</title>
+        <link>https://www.openstreetmap.org/note/4077121#c9059655</link>
+        <guid>https://www.openstreetmap.org/note/4077121#c9059655</guid>
+        <pubDate>Sun, 10 Mar 2024 21:37:44 +0000</pubDate>
+      </item><item>
         <title>closed note 4147725 (near Halászházak, Biatorbágy) / * 2024 March 10 20:49 Kecsege Resolved: Javítva, felkerült a temető mellé. Pozíciót majd pontosítani kell.</title>
         <link>https://www.openstreetmap.org/note/4147725#c9059548</link>
         <guid>https://www.openstreetmap.org/note/4147725#c9059548</guid>
@@ -267,26 +282,6 @@
         <link>https://www.openstreetmap.org/note/3894634#c9052635</link>
         <guid>https://www.openstreetmap.org/note/3894634#c9052635</guid>
         <pubDate>Fri, 08 Mar 2024 21:17:52 +0000</pubDate>
-      </item><item>
-        <title>new comment 4144808 (near 2634, Nagybörzsöny) / * 2024 March 8 20:45 tregec Updated: Honnan lehet tudni ennyire pontosan a nyomvonalat? Gyanús, hogy mindenhol közösen megy valami más úttal. Valószínűtlennek tartom, hogy a vonal teljes hosszán nincs olyan rész, ahol nincs út.</title>
-        <link>https://www.openstreetmap.org/note/4144808#c9052560</link>
-        <guid>https://www.openstreetmap.org/note/4144808#c9052560</guid>
-        <pubDate>Fri, 08 Mar 2024 20:45:57 +0000</pubDate>
-      </item><item>
-        <title>closed note 4144745 (near Gerecse Kapuja, Tatabánya) / * 2024 March 8 20:41 balint36 Resolved: A bemérés volt a rossz.</title>
-        <link>https://www.openstreetmap.org/note/4144745#c9052539</link>
-        <guid>https://www.openstreetmap.org/note/4144745#c9052539</guid>
-        <pubDate>Fri, 08 Mar 2024 20:41:54 +0000</pubDate>
-      </item><item>
-        <title>new note 4144808 (near 2634, Nagybörzsöny) / * 2024 March 8 20:28 tregec Created: Fel van tüntetve a korábbi kisvasút végpontja, de ennek ellenére még legalább fél km-en keresztül jelölve van. Helyes ez így? / Egyéb dolog, hogy a Kammerhof feliratot szerintem a vasútvonal teljes hosszában le kellene szedni ott, ahol a vasút az erdészeti úttal közösen fut, mert így azt sugallja, hogy Kammerhof az út neve. Pedig az csak a megszűnt vasútvonal neve volt. Ezt a problémát máshol is tapasztaltam már megszűnt kisvasutaknál.</title>
-        <link>https://www.openstreetmap.org/note/4144808#c9052518</link>
-        <guid>https://www.openstreetmap.org/note/4144808#c9052518</guid>
-        <pubDate>Fri, 08 Mar 2024 20:28:48 +0000</pubDate>
-      </item><item>
-        <title>closed note 2206846 (near 2634, Nagybörzsöny) / * 2020 May 26 09:42 toroki Created: Ezt téves hely, kérem törölni. / * 2023 May 2 12:59 urbalazs Updated: Mi a téves itt? Mit kellene törölni? / * 2024 March 8 20:18 tregec Resolved: Az utak teljesen rosszul voltak itt, ezeket javítottam, azonban az itt lévő megszűnt vasútvonalak korábbi helyzetét nem ismerem. Erről nyitok egy új jegyzetet.</title>
-        <link>https://www.openstreetmap.org/note/2206846#c9052496</link>
-        <guid>https://www.openstreetmap.org/note/2206846#c9052496</guid>
-        <pubDate>Fri, 08 Mar 2024 20:18:01 +0000</pubDate>
       </item>
   </channel>
 </rss>
