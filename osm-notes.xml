@@ -3,6 +3,36 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4127366 (near 1157, Újpalota, 15th district) / * 2024 February 25 13:36 igor2parents Created: Itt nincs jelzolampa / * 2024 March 10 12:15 ITineris Resolved: Valóban. Javítottam.</title>
+        <link>https://www.openstreetmap.org/note/4127366#c9057735</link>
+        <guid>https://www.openstreetmap.org/note/4127366#c9057735</guid>
+        <pubDate>Sun, 10 Mar 2024 12:15:21 +0000</pubDate>
+      </item><item>
+        <title>closed note 4058335 (near 1158, Central Hungary, 1158, Hungary) / * 2024 January 8 12:21 ITineris Created: Üzemel még? Délelőtt 11 után még csak nagy üresség volt. / * 2024 March 10 12:12 ITineris Resolved: Igen, ettem is benne.</title>
+        <link>https://www.openstreetmap.org/note/4058335#c9057729</link>
+        <guid>https://www.openstreetmap.org/note/4058335#c9057729</guid>
+        <pubDate>Sun, 10 Mar 2024 12:12:03 +0000</pubDate>
+      </item><item>
+        <title>closed note 3181138 (near 9372, Csapod) / * 2022 May 15 19:46 efi99 Created: cím? / * 2024 March 10 12:10 efi99 Resolved: Ciráki 2</title>
+        <link>https://www.openstreetmap.org/note/3181138#c9057725</link>
+        <guid>https://www.openstreetmap.org/note/3181138#c9057725</guid>
+        <pubDate>Sun, 10 Mar 2024 12:10:46 +0000</pubDate>
+      </item><item>
+        <title>closed note 3905918 (near 1147, Alsórákos, 14th district) / * 2023 September 24 12:25 meskobalazs Created: Unable to answer &amp;quot;What’s the name of this place?&amp;quot; for https://osm.org/node/3512044781 via StreetComplete 54.0: / Megszűnt / * 2023 November 19 09:25 ITineris Updated: Valahogyan azt kellene jelölni, hogy szezonális. Néha muskátlis, néha epres, néha dinnyés, néha karácsonyfa-árus. / * 2023 November 19 22:25 bkil Updated: seasonal=yes shop=garden_centre organic=yes artisan=yes description=&amp;quot;Idényben lévő palánták, helyi bogyós gyümölcsök, karácsonyfa&amp;quot; Vagy: seasonal=yes / shop=farm organic=yes artisan=yes produce=seedling;ornamental_plants;strawberry;pine_tree;christmas_tree https://wiki.osm.org/Tag:shop%3Dfarm / * 2024 March 10 12:07 ITineris Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3905918#c9057715</link>
+        <guid>https://www.openstreetmap.org/note/3905918#c9057715</guid>
+        <pubDate>Sun, 10 Mar 2024 12:07:13 +0000</pubDate>
+      </item><item>
+        <title>closed note 3686160 (near Lovasiskola, Keszthely) / * 2023 May 12 17:30 vasony Created: Ez az új Hattyú utca nyomvonal ellenőrizendő / * 2024 March 10 11:52 ITineris Resolved: Remélem, kellő pontossággal sikerült berajzolnom.</title>
+        <link>https://www.openstreetmap.org/note/3686160#c9057678</link>
+        <guid>https://www.openstreetmap.org/note/3686160#c9057678</guid>
+        <pubDate>Sun, 10 Mar 2024 11:52:39 +0000</pubDate>
+      </item><item>
+        <title>new note 4147175 (near 1066, Terézváros, 6th district) / * 2024 March 10 11:27 OSM KAMI Created: Unable to answer &amp;quot;Is this place wheelchair accessible?&amp;quot; – Nefelejts autósbolt (Car Parts Store) – https://osm.org/node/2394680133 via StreetComplete 57.1: / talán a Rabbit Hole lett a helyén?</title>
+        <link>https://www.openstreetmap.org/note/4147175#c9057626</link>
+        <guid>https://www.openstreetmap.org/note/4147175#c9057626</guid>
+        <pubDate>Sun, 10 Mar 2024 11:27:56 +0000</pubDate>
+      </item><item>
         <title>new comment 4146775 (near 8893, Szentliszló) / * 2024 March 10 08:29 ITineris Updated: Én voltam.</title>
         <link>https://www.openstreetmap.org/note/4146775#c9056880</link>
         <guid>https://www.openstreetmap.org/note/4146775#c9056880</guid>
@@ -242,16 +272,6 @@
         <link>https://www.openstreetmap.org/note/4142408#c9047510</link>
         <guid>https://www.openstreetmap.org/note/4142408#c9047510</guid>
         <pubDate>Wed, 06 Mar 2024 22:33:52 +0000</pubDate>
-      </item><item>
-        <title>new comment 4141548 (near 1024, Országút, 2nd district) / * 2024 March 6 21:17 infeeeee Updated: Gondolom erre a cipészre vonatkozik: https://www.osm.org/node/10168759468</title>
-        <link>https://www.openstreetmap.org/note/4141548#c9047315</link>
-        <guid>https://www.openstreetmap.org/note/4141548#c9047315</guid>
-        <pubDate>Wed, 06 Mar 2024 21:17:13 +0000</pubDate>
-      </item><item>
-        <title>closed note 4069447 (near 1012, Central Hungary, 1012, Hungary) / * 2024 January 15 09:39 Matyjace Created: Forwarding anonymous report from #mapycz user, please verify: &amp;quot;closed&amp;quot; / * 2024 March 6 20:35 bkil Resolved: fixed</title>
-        <link>https://www.openstreetmap.org/note/4069447#c9047201</link>
-        <guid>https://www.openstreetmap.org/note/4069447#c9047201</guid>
-        <pubDate>Wed, 06 Mar 2024 20:35:21 +0000</pubDate>
       </item>
   </channel>
 </rss>
