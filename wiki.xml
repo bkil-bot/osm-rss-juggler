@@ -2,21 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      <item>
-        <title>Hungary/Találkozók/Meetup 2024-03-11: Élő közvetítés: linkek frissítése -ImreSamu</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Tal%C3%A1lkoz%C3%B3k/Meetup_2024-03-11&amp;diff=2677647&amp;oldid=2674103</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Tal%C3%A1lkoz%C3%B3k/Meetup_2024-03-11&amp;diff=2677647</guid>
-        <pubDate>Sun, 10 Mar 2024 15:02:58 GMT</pubDate>
-      </item><item>
-        <title>Hungary/Kommunikáció/Promóciós anyagok: bkil ötletek: bkil színpalettás névjegy -Bkil</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Kommunik%C3%A1ci%C3%B3/Prom%C3%B3ci%C3%B3s_anyagok&amp;diff=2677719&amp;oldid=2595885</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Kommunik%C3%A1ci%C3%B3/Prom%C3%B3ci%C3%B3s_anyagok&amp;diff=2677719</guid>
-        <pubDate>Sun, 10 Mar 2024 19:22:40 GMT</pubDate>
-      </item><item>
-        <title>Hungary/videok: 2024-02-12 OSM Meetup -ITinerisKft</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/videok&amp;diff=2677661&amp;oldid=2667222</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/videok&amp;diff=2677661</guid>
-        <pubDate>Sun, 10 Mar 2024 15:43:21 GMT</pubDate>
-      </item>
+      
   </channel>
 </rss>
