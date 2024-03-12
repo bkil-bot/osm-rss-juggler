@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>#deltachat just got four major usability improvements as the 1.44 releases are rolling out 💗 Reactions on all platforms 💗 iOS Push notifications 💗 Multi-account desktop sidebar 💗 share invite links via other messengers. Enjoy :) https://delta.chat/en/2024-03-12-jumbo44</title>
+        <link>https://chaos.social/@delta/112084571969847132</link>
+        <guid>https://chaos.social/@delta/112084571969847132</guid>
+        <pubDate>Tue, 12 Mar 2024 20:20:40 +0000</pubDate>
+      </item><item>
         <title>News from the machine room: our pure #Rust core library underlying all #deltachat apps now has reproducible builds for &amp;quot;deltachat-rpc-server&amp;quot;, used by bots and soon also the Desktop app a screenshot of this chat-message from a core dev: deltachat-rpc-server binaries in the latest release 1.136.2 are actually reproducible. $ nix build . #deltachat-rpc-server-armveklinux § sha256sum result/bin/deltachat-rpc-server 0OefS6ccd194ed68673d75cca38b56096fd67e87a469bcabbaase6d54baf9204c result/bin/deltachat-rpc-server This is the same as what GitHub actions built and uploaded to the release: $ curl -sL https://github.com/deltachat/deltachat-core- rust/releases/download/v1.136.2/deltachat-rpc-server-ar mv6Hinux | sha256sum 0ef56ccd194ed68673d75cca38b56096d67e87a469bcabbaaSe6d54baf9204c - — o 4 HOURS</title>
         <link>https://chaos.social/@delta/112047758353026678</link>
         <guid>https://chaos.social/@delta/112047758353026678</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/111532647776044900</link>
         <guid>https://chaos.social/@delta/111532647776044900</guid>
         <pubDate>Wed, 06 Dec 2023 08:59:05 +0000</pubDate>
-      </item><item>
-        <title>Some in our communities are apparently having fun ... taking no sides ;) (Credits: @matiu_bidule) Two fighting, one saying &quot;i prefer signal&quot;, the other &quot;i prefer signal&quot; and a third sitting on a chair with popcorn saying &quot;je prefer delta chat&quot;</title>
-        <link>https://chaos.social/@delta/111504693729563998</link>
-        <guid>https://chaos.social/@delta/111504693729563998</guid>
-        <pubDate>Fri, 01 Dec 2023 10:30:01 +0000</pubDate>
       </item>
   </channel>
 </rss>
