@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>The OpenStreetMap Foundation Board looks ahead to 2024. Following the “tradition” of the collective post in 2023, here are a few sentences from each of the Board members on where they want to contribute in 2023. https://blog.openstreetmap.org/2024/03/12/the-openstreetmap-foundation-board-looks-ahead-to-2024/ #OpenStreetMap #OSM #OSMF #OSMFoundation</title>
+        <link>https://en.osm.town/@openstreetmap/112087518178990598</link>
+        <guid>https://en.osm.town/@openstreetmap/112087518178990598</guid>
+        <pubDate>Wed, 13 Mar 2024 08:49:56 +0000</pubDate>
+      </item><item>
         <title>“Help Us Grow and Diversify OSMF Membership Worldwide” Hundreds of thousands of people have contributed map data to #OpenStreetMap, but just under 2,000 of them are members of the OpenStreetMap Foundation, the legal body which supports (but does not control) the OSM project. Why not change that? Join today! Join the OSMF here: https://supporting.openstreetmap.org/#Membership-Categories read more: https://blog.openstreetmap.org/2024/03/12/call-to-action-help-us-grow-and-diversify-osmf-membership/ #OpenStreetMap #OSM #gischat</title>
         <link>https://en.osm.town/@openstreetmap/112081516441688354</link>
         <guid>https://en.osm.town/@openstreetmap/112081516441688354</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/111828507929887036</link>
         <guid>https://en.osm.town/@openstreetmap/111828507929887036</guid>
         <pubDate>Sat, 27 Jan 2024 15:00:13 +0000</pubDate>
-      </item><item>
-        <title>Do you use the OSM API directly? Make an OSM App? We&amp;#39;re dropping support for certain insecure, legacy authentication methods. If you&amp;#39;re using them in your app, it risks breaking! _(If this is gibberish to you, you&amp;#39;re probably not affected)_ OSM API will remove support for HTTP Basic Auth, &amp;amp; OAuth 1.0a. You&amp;#39;ll have to migrate to the modern OAuth 2.0 feature, which is very well supported. read more: https://community.openstreetmap.org/t/oauth-1-0a-and-http-basic-auth-shutdown/108490 #OpenStreetMap #OSM cc: @osm_tech@osm.town</title>
-        <link>https://en.osm.town/@openstreetmap/111821868082326620</link>
-        <guid>https://en.osm.town/@openstreetmap/111821868082326620</guid>
-        <pubDate>Fri, 26 Jan 2024 10:51:37 +0000</pubDate>
       </item>
   </channel>
 </rss>

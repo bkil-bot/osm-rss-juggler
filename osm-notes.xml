@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4150995 (near 6500, Rókusváros, Baja) / * 2024 March 13 08:42 Pan Perníček Created: Forwarding anonymous report from #Mapycz user, please verify: There&amp;#39;s a parking.</title>
+        <link>https://www.openstreetmap.org/note/4150995#c9066209</link>
+        <guid>https://www.openstreetmap.org/note/4150995#c9066209</guid>
+        <pubDate>Wed, 13 Mar 2024 08:42:35 +0000</pubDate>
+      </item><item>
+        <title>new note 4150958 (near 6500, Rókusváros, Baja) / * 2024 March 13 08:23 Pan Perníček Created: Forwarding anonymous report from #Mapycz user, please verify: There&amp;#39;s Magyar Zarándokút kiindulási pont.</title>
+        <link>https://www.openstreetmap.org/note/4150958#c9066141</link>
+        <guid>https://www.openstreetmap.org/note/4150958#c9066141</guid>
+        <pubDate>Wed, 13 Mar 2024 08:23:37 +0000</pubDate>
+      </item><item>
         <title>new note 4150878 (near 1142, Alsórákos, 14th district) / * 2024 March 13 06:10 igor2 Created: Ezt a blokkot majd figyelni kell a kovetkezo honapokban, ledozerolhatjak: / https://rtl.hu/hirado/2024/03/12/mini-dubaj-zuglo-kitelepitett-csaladok-mav-tatai-ut</title>
         <link>https://www.openstreetmap.org/note/4150878#c9065971</link>
         <guid>https://www.openstreetmap.org/note/4150878#c9065971</guid>
@@ -142,21 +152,6 @@
         <link>https://www.openstreetmap.org/note/3181138#c9057725</link>
         <guid>https://www.openstreetmap.org/note/3181138#c9057725</guid>
         <pubDate>Sun, 10 Mar 2024 12:10:46 +0000</pubDate>
-      </item><item>
-        <title>closed note 3905918 (near 1147, Alsórákos, 14th district) / * 2023 September 24 12:25 meskobalazs Created: Unable to answer &amp;quot;What’s the name of this place?&amp;quot; for https://osm.org/node/3512044781 via StreetComplete 54.0: / Megszűnt / * 2023 November 19 09:25 ITineris Updated: Valahogyan azt kellene jelölni, hogy szezonális. Néha muskátlis, néha epres, néha dinnyés, néha karácsonyfa-árus. / * 2023 November 19 22:25 bkil Updated: seasonal=yes shop=garden_centre organic=yes artisan=yes description=&amp;quot;Idényben lévő palánták, helyi bogyós gyümölcsök, karácsonyfa&amp;quot; Vagy: seasonal=yes / shop=farm organic=yes artisan=yes produce=seedling;ornamental_plants;strawberry;pine_tree;christmas_tree https://wiki.osm.org/Tag:shop%3Dfarm / * 2024 March 10 12:07 ITineris Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3905918#c9057715</link>
-        <guid>https://www.openstreetmap.org/note/3905918#c9057715</guid>
-        <pubDate>Sun, 10 Mar 2024 12:07:13 +0000</pubDate>
-      </item><item>
-        <title>closed note 3686160 (near Lovasiskola, Keszthely) / * 2023 May 12 17:30 vasony Created: Ez az új Hattyú utca nyomvonal ellenőrizendő / * 2024 March 10 11:52 ITineris Resolved: Remélem, kellő pontossággal sikerült berajzolnom.</title>
-        <link>https://www.openstreetmap.org/note/3686160#c9057678</link>
-        <guid>https://www.openstreetmap.org/note/3686160#c9057678</guid>
-        <pubDate>Sun, 10 Mar 2024 11:52:39 +0000</pubDate>
-      </item><item>
-        <title>new note 4147175 (near 1066, Terézváros, 6th district) / * 2024 March 10 11:27 OSM KAMI Created: Unable to answer &amp;quot;Is this place wheelchair accessible?&amp;quot; – Nefelejts autósbolt (Car Parts Store) – https://osm.org/node/2394680133 via StreetComplete 57.1: / talán a Rabbit Hole lett a helyén?</title>
-        <link>https://www.openstreetmap.org/note/4147175#c9057626</link>
-        <guid>https://www.openstreetmap.org/note/4147175#c9057626</guid>
-        <pubDate>Sun, 10 Mar 2024 11:27:56 +0000</pubDate>
       </item>
   </channel>
 </rss>
