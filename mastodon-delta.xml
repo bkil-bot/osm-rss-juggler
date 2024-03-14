@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>The default setup of #chatmail is for open signups (anyone can get an address) but some operators implement a private signup protocol and that&amp;#39;s fine and easy enough to do because https://github.com/deltachat/chatmail/ is a small machine. Chatmail addresses should be abundant and safe to use for anyone , and cheap to operate with basic skills .... A few thousand chatmail routers might already cover adresses for 10 billion people, with less resource/energy usage than a single VC funded LLM startup :)</title>
+        <link>https://chaos.social/@delta/112094711706110799</link>
+        <guid>https://chaos.social/@delta/112094711706110799</guid>
+        <pubDate>Thu, 14 Mar 2024 15:19:20 +0000</pubDate>
+      </item><item>
         <title>#deltachat just got four major usability improvements as the 1.44 releases are rolling out 💗 Reactions on all platforms 💗 iOS Push notifications 💗 Multi-account desktop sidebar 💗 share invite links via other messengers. Enjoy :) https://delta.chat/en/2024-03-12-jumbo44</title>
         <link>https://chaos.social/@delta/112084571969847132</link>
         <guid>https://chaos.social/@delta/112084571969847132</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/111538544523935897</link>
         <guid>https://chaos.social/@delta/111538544523935897</guid>
         <pubDate>Thu, 07 Dec 2023 09:58:43 +0000</pubDate>
-      </item><item>
-        <title>If you are looking for alternatives to Android, then #ubuntutouch from https://mastodon.social/@ubports is a mobile platform where @lk108 implemented the nicely working DeltaTouch app which also just released guaranteed end-to-end encryption, being very much on par with the other platforms, see https://social.tchncs.de/@lk108/111517563343219731 Pixel3a phone with UbuntuTouch operating system and running DeltaTouch app showing a chatlist with Lothar, a deltatouch group, a registration chat with ubuntuone, and some other chats.</title>
-        <link>https://chaos.social/@delta/111532647776044900</link>
-        <guid>https://chaos.social/@delta/111532647776044900</guid>
-        <pubDate>Wed, 06 Dec 2023 08:59:05 +0000</pubDate>
       </item>
   </channel>
 </rss>
