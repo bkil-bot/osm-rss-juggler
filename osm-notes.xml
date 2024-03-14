@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>reactivated note 4152595 (near Kálócfapuszta, Kiskutas) / * 2024 March 14 09:49 Geszta Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/4152595#c9069623</link>
+        <guid>https://www.openstreetmap.org/note/4152595#c9069623</guid>
+        <pubDate>Thu, 14 Mar 2024 09:49:47 +0000</pubDate>
+      </item><item>
+        <title>closed note 4152595 (near Kálócfapuszta, Kiskutas) / * 2024 March 14 09:48 Geszta Resolved: </title>
+        <link>https://www.openstreetmap.org/note/4152595#c9069620</link>
+        <guid>https://www.openstreetmap.org/note/4152595#c9069620</guid>
+        <pubDate>Thu, 14 Mar 2024 09:48:57 +0000</pubDate>
+      </item><item>
+        <title>new note 4152595 (near Kálócfapuszta, Kiskutas) / * 2024 March 14 09:45 Geszta Created: Kiskutas temető</title>
+        <link>https://www.openstreetmap.org/note/4152595#c9069607</link>
+        <guid>https://www.openstreetmap.org/note/4152595#c9069607</guid>
+        <pubDate>Thu, 14 Mar 2024 09:45:19 +0000</pubDate>
+      </item><item>
         <title>closed note 2710614 (near 1117, Kelenföld, 11th district) / * 2021 June 12 16:24 pudleinere Created: 3×5 wall loop es 2db toitoi , pancake planet / * 2024 March 13 15:06 infeeeee Resolved: Nagyrészt már szerepelt a térképen, hiányzó dolgokat hozzáadtam: https://www.osm.org/changeset/148598451</title>
         <link>https://www.openstreetmap.org/note/2710614#c9067315</link>
         <guid>https://www.openstreetmap.org/note/2710614#c9067315</guid>
@@ -72,41 +87,6 @@
         <link>https://www.openstreetmap.org/note/3964769#c9059673</link>
         <guid>https://www.openstreetmap.org/note/3964769#c9059673</guid>
         <pubDate>Sun, 10 Mar 2024 21:47:09 +0000</pubDate>
-      </item><item>
-        <title>closed note 4077121 (near 1028, Kővár, 2nd district) / * 2024 January 19 12:29 sugarbotond Created: A Pozsonyi utca és a Bükkfa utca Máriaremetei útra csatlakozó alsó szakasza hétköznap 7-9 között mindkét irányból behajtani tilos, kivéve célforgalom és kerékpár. / * 2024 March 10 21:37 infeeeee Resolved: Azóta Bálint frissítette: https://www.openstreetmap.org/changeset/146680905</title>
-        <link>https://www.openstreetmap.org/note/4077121#c9059655</link>
-        <guid>https://www.openstreetmap.org/note/4077121#c9059655</guid>
-        <pubDate>Sun, 10 Mar 2024 21:37:44 +0000</pubDate>
-      </item><item>
-        <title>closed note 4147725 (near Halászházak, Biatorbágy) / * 2024 March 10 20:49 Kecsege Resolved: Javítva, felkerült a temető mellé. Pozíciót majd pontosítani kell.</title>
-        <link>https://www.openstreetmap.org/note/4147725#c9059548</link>
-        <guid>https://www.openstreetmap.org/note/4147725#c9059548</guid>
-        <pubDate>Sun, 10 Mar 2024 20:49:44 +0000</pubDate>
-      </item><item>
-        <title>closed note 3680463 (near 8746, Nagyrada) / * 2024 March 10 20:39 vasony Resolved: Javítva ahol kellett, official_name megadva.</title>
-        <link>https://www.openstreetmap.org/note/3680463#c9059528</link>
-        <guid>https://www.openstreetmap.org/note/3680463#c9059528</guid>
-        <pubDate>Sun, 10 Mar 2024 20:39:22 +0000</pubDate>
-      </item><item>
-        <title>closed note 3431303 (near 1158, Central Hungary, 1158, Hungary) / * 2022 November 7 05:29 kogutowicz-mano Created: 2023-ig tart Kerepes Alállomás kibővítése. Ezzel összefüggésben átépítik a Zugló-Kerepes szakaszt. Folyamatosan figyelemmel kellene kísérni a változásokat (pl. most milyen hosszan bontották le a vezetéket az oszlopokról), de hát ki jár erre csak úgy magától? :-) / * 2023 May 19 07:22 ITineris Updated: Én tudok erre járni csak úgy magamtól. De pontosan mit nézzek? / Az OSM-en a negyedik ág vezetéke törölve van Kerepesig, csak az oszlopok vannak meghagyva. Viszont ott a semmi közepétől újra folytatódik a vezeték Maglód felé. / * 2023 May 19 07:56 kogutowicz-mano Updated: Addig töröltem, ameddig elláttam a buszról. De Kerepesig lebontják az egészet, és újat építenek. Kétrendszerűt, a mostani szimpla áramkör helyett. Azaz az eddig három drót helyett 6 lesz. Ezt kellene figyelni. Hol van három, hat illetve nulla vezeték. / A másik, ami nagyon átalakul, a Zugló Alállomás és a VEIKI közti rész, amit e jegyzet markere jelöl. Itt minden bizonnyal új oszlopokat állítanak majd, de vajon hol férnek el? (Vagy megszűnik a VEIKI 220 kV-ja?) / * 2023 May 19 07:59 ITineris Updated: Na, ez pl. azt jelenti, hogy nem elég csak úgy kimennem, hanem célszerű az RTK-s vevőt is magammal vinnem az esetleges új oszlopok miatt. / * 2023 July 5 13:28 ITineris Updated: Már vannak magas, kettőskereszt alakú oszlopok, drótok is mennek tovább Kerepes felé. / A VEIKIből 3 drótpár jön ki, és hegyesszögben kanyarodik Zugló felé, a pilon egyik oldalán. A másik három drótpár ugyanazon pilon másik oldaláról megy át a Késmárk utca felett (plusz a csúcson egy drót). / Tőle északra háromemeletes tartókon 6 drótpár (plusz a széles tetején 1-1). Közvetlenül a Késmárk utcánál egy nagy PI alakú tartón. / Végül a legészakabbi két nyomvonal Y tartókon 3 drótpár. / Szép kis kötögetés megy itt; majd rajzolgatom, ha felvettem az oszlopokat. / * 2024 January 9 10:05 infeeeee Updated: Sziasztok, van még ezzel valami tennivaló, vagy már elkészült? / * 2024 January 9 10:19 ITineris Updated: Az oszlopok nincsenek pontosan felmérve. Legalább a Vasgolyó utcáról ellenőrizni kellene a nyomvonalakat, és hogy melyik hány vezetékes. / A VEIKIs elágazásnál gyanús, hogy nem jól vannak berajzolva a kötések. / * 2024 January 9 10:26 kogutowicz-mano Updated: Farigcsálom, amikor csak arra buszozván látok valami változást. Legutóbb pár hete nyúltam hozzá. De a Késmárk utca és az alállomás közti részt jó lenne gyalogos bejárással ellenőrizni. / Gyanús, nem gyanús: logikailag ez volt az egyetlen megoldás az ócsai vezeték kétrendszerűsítése után. Persze tévedhetek, ezért kell ellenőrizni. / * 2024 March 10 20:35 kogutowicz-mano Resolved: Felmérve, kiigazítva. Kész.</title>
-        <link>https://www.openstreetmap.org/note/3431303#c9059520</link>
-        <guid>https://www.openstreetmap.org/note/3431303#c9059520</guid>
-        <pubDate>Sun, 10 Mar 2024 20:35:58 +0000</pubDate>
-      </item><item>
-        <title>new comment 2396968 (near 1122, Krisztinaváros, 12th district) / * 2020 October 23 18:23 vasony Created: Elvileg leaszfaltozták: / https://index.hu/belfold/2020/10/23/ketszazadik_aszfaltozott_foldut_budapest/ / * 2020 October 23 18:23 vasony Updated: Nekem térkőnek tűnik, fel kell mérni / * 2020 November 13 19:30 ITineris Updated: A cikkben &amp;quot;burkolás&amp;quot; szerepel, a címben van csak &amp;quot;aszfaltozott&amp;quot; - felteszem, a nem-földút pongyola megfogalmazásaként. / * 2021 January 30 16:20 urbalazs Updated: Ma néztem meg, és akkora volt a sár, hogy gyalog nem lehetett végigmenni rajta. A szakasz elején van kb. 20-30 méternyi aszfalt, de utána burkolatlan. Építés zajlik, lehet, hogy onnan került rá a sár és valójában aszfaltos vagy térköves, ahogy a térképen szerepel? A ma látottak alapján én azt mondanám, hogy burkolatlan, eső után teljesen járhatatlan. A linkelt hírben lévő fénykép biztosan nem ezen a szakaszon készült, ahol a jelölő van. / * 2021 January 30 19:38 vasony Updated: Az a fehér fal ami a képen van, lehetne tájékozódási pont, lehet hogy a felső szakaszról van szó. / * 2021 January 30 19:47 vasony Updated: A kép innen készült, és felfelé néz / https://www.openstreetmap.org/node/4651923029 / * 2024 March 10 19:34 ITineris Updated: &amp;quot;a most átadott út speciális kövezetburkolatot kapott. Ugyanis az utcának nem megoldható a vízelvezetése, ezért az út alatt kell „elszikkasztani” az esővizet.&amp;quot; / Ez lehet eufemisztikus megfogalmazása a tapasztalt állapotoknak. / (A &amp;quot;nem megoldható&amp;quot; egyértelmű kamu.)</title>
-        <link>https://www.openstreetmap.org/note/2396968#c9059352</link>
-        <guid>https://www.openstreetmap.org/note/2396968#c9059352</guid>
-        <pubDate>Sun, 10 Mar 2024 19:34:54 +0000</pubDate>
-      </item><item>
-        <title>new note 4147767 (near 8800, Belváros, Nagykanizsa) / * 2024 March 10 17:50 Created: Itt egy autómata benzinkút nyilt. / 601,90 Ft  1L</title>
-        <link>https://www.openstreetmap.org/note/4147767#c9058959</link>
-        <guid>https://www.openstreetmap.org/note/4147767#c9058959</guid>
-        <pubDate>Sun, 10 Mar 2024 17:50:53 +0000</pubDate>
-      </item><item>
-        <title>new note 4147725 (near Halászházak, Biatorbágy) / * 2024 March 10 17:05 Kecsege Created: Unable to answer &amp;quot;Is there a shelter at this stop?&amp;quot; – Biai katolikus temető (Bus Stop) – https://osm.org/node/7047003551 via StreetComplete 56.1: / Ezen az oldalon nincs buszmegálló / Attached photo(s): / https://westnordost.de/p/201028.jpg</title>
-        <link>https://www.openstreetmap.org/note/4147725#c9058832</link>
-        <guid>https://www.openstreetmap.org/note/4147725#c9058832</guid>
-        <pubDate>Sun, 10 Mar 2024 17:05:23 +0000</pubDate>
       </item>
   </channel>
 </rss>
