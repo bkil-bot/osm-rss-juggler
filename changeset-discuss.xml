@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: gymate Discussion Comment No.: 1 Comment: Köszi, a 1443986212-es node-dal jelzett problémát bejelentettem a Járókelőn: https://jarokelo.hu/bejelentesek/budapest/140950/hibas-utcanevtablak Date: 2024-03-15T20:58:50+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/9381266</link>
+        <guid>https://www.openstreetmap.org/changeset/9381266#comment_1</guid>
+        <pubDate>2024-03-15T20:58:50+01:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 3 Comment: Egy ilyen átcímkézés 5 kattintás kb, de dönteni kell előtte, és dokumentálni a címkét, az a meló. Itt egyszerűen vissza tudod vonni ezt, írhatsz overpass query-t, hogy az etetők megmaradjanak: https://revert.monicz.dev Vagy megcsináljam én? Aztán írhatsz a levlistára a gémeskutak miatt. Ha van döntés, és le lett dokumentálva wikiben, akkor mehet. EZ a workflow, így kéne csinálni ilyeneket. Vannak nekem saját projektjeim, nem kell a tied is mellé, csak tartsd be a szabályokat mint mindenki más. Date: 2024-03-15T16:57:51+01:00</title>
         <link>https://www.openstreetmap.org/changeset/148659795</link>
         <guid>https://www.openstreetmap.org/changeset/148659795#comment_3</guid>
@@ -52,11 +57,6 @@
         <link>https://www.openstreetmap.org/changeset/148413781</link>
         <guid>https://www.openstreetmap.org/changeset/148413781#comment_1</guid>
         <pubDate>2024-03-09T09:28:17+01:00</pubDate>
-      </item><item>
-        <title>Contributor: bkil Discussion Comment No.: 5 Comment: Tavaly kerültek újra szóba az automaták és pár hónapja került sorra a parkolóautomaták kérdése. Nemrég volt egy felmérés is ennek kapcsán és éppen egyeztetünk az egységesítéséről - így került ez a szerkesztés is látótérbe. Várunk szeretettel https://wiki.osm.org/Talk:Hungary/Jel%C3%B6l%C3%A9si_p%C3%A9ld%C3%A1k https://matrix.to/#/#osm-jeloles:matrix.org Jabber/XMPP MUC: osm-jeloles@conference.movim.eu Date: 2024-03-08T21:09:23+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/148306626</link>
-        <guid>https://www.openstreetmap.org/changeset/148306626#comment_5</guid>
-        <pubDate>2024-03-08T21:09:23+01:00</pubDate>
       </item>
   </channel>
 </rss>
