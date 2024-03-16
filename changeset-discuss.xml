@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Gyalog se szabad bemenni, vagy csak autóval? Date: 2024-03-16T22:03:52+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/148746732</link>
+        <guid>https://www.openstreetmap.org/changeset/148746732#comment_1</guid>
+        <pubDate>2024-03-16T22:03:52+01:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 22 Comment: Javítottam mindent: https://www.openstreetmap.org/changeset/148750109 Ilyet szeretném ha nem csinálnál, jobban kezelhetőbb lenne, ha mondjuk típusonként külön changesetbe szednéd, pl külön az etetők, gémeskutak, szobrok, stb, mert akkor jobban lehetne beszélni is róla, és akik ellenőrzéssel foglalkoznak, azoknak is könnyítenéd a munkáját, és konkrétabb changeset kommentet is tudnál így írni. A célod amiért csinálod, azt én is támogatom, a megvalósítással van probléma, mint ezt már többször leírtam. Sok helyen csak egyszerűen átmásoltad a name-et a description-be, ez szerintem egy teljesen korrekt megoldás, ha nem találsz rá jó címkét. Pl gémeskutaknál is elfogadhatóbb lett volna. Viszont ha csak letörlöd a name-et nagyon sokszor adatvesztést okozol. Pl volt, hogy letörölted, hogy &quot;Általános Iskola&quot;, pedig erre vannak címkék, hogy a gyerekek korát beírhatnád, és akkor már is nincs adatvesztés, hanem ugyanaz az infó egy jobb címkébe került. Amúgy a legjobb az lenne, ha amikor ezeket törlöd, akkor utánanézel az adott elemnek. Iskoláknak manapság van honlapja, az alapján törlés helyett beírhatnád a valós nevét, akár a honlapját is. Szobroknál köztérképről a nevet, alkotót, felállítás idejét át szabad vennünk, csak a kommentekben levő szövegből nem szabad másolni, a legtöbb magyar szobor ott megtalálható, így tudtam megtalálni, hogy az általad törölt nevű &quot;faszobor&quot; hivatalos neve Trianon emlékmű. Ha egy szobornak átírod a nevét, akkor ne csak magyarul írd át, hanem a többi nyelven is, ha meg van adva. Amúgy szerintem a nem embert ábrázoló szobroknál a &quot;-szobor&quot; a névben elfogadható, pl &quot;Szentháromság-szobor&quot;, de ez most másodlagos. Gondolj úgy ezekre a name-ekre, mintha egy jegyzetként szerepelne a térképen. Azokat sem zárjuk le csak úgy utánajárás nélkül, ezeket se töröld ha nem tökéletesen egyértelmű. Másik, ha már hozzányúlsz ezekhez, más hibákat is javíthatnál, pl. volt ahol otthagytál hibás wikipedia linket, korábbi szerkesztésednél duplikátumot (most ebben ilyen nem volt), megkerested a nevét az egyik turistaháznak, de a honlapját nem linkelted, stb... Ezt a name-&gt; description átírást akár egy bot is meg tudná csinálni. Te azért ennél nagyobb tapasztalattal rendelkezel, használd ki, hogy nem csak a legegyszerűbb hibákat javítod, és akkor nem köthetünk bele a szerkesztésedbe és sokkal jobb is lesz a térkép, nem csak ugyanolyan állapotú, de más. Gémeskutakról meg írj a levlistára, ott folytathatjuk róluk a megbeszélést, és kicsit több emberhez juthat el mint itt vitatkozni róla. Lehet, hogy van már valami címkéje, csak nincs dokumentálva, és csak nem találtuk meg. További jó térképezést! Date: 2024-03-16T21:52:48+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/148659795</link>
+        <guid>https://www.openstreetmap.org/changeset/148659795#comment_22</guid>
+        <pubDate>2024-03-16T21:52:48+01:00</pubDate>
+      </item><item>
         <title>Contributor: efi99 Discussion Comment No.: 2 Comment: Jogos, javítva. Date: 2024-03-16T18:30:45+01:00</title>
         <link>https://www.openstreetmap.org/changeset/148665811</link>
         <guid>https://www.openstreetmap.org/changeset/148665811#comment_2</guid>
@@ -22,11 +32,6 @@
         <link>https://www.openstreetmap.org/changeset/148552001</link>
         <guid>https://www.openstreetmap.org/changeset/148552001#comment_1</guid>
         <pubDate>2024-03-16T16:27:12+01:00</pubDate>
-      </item><item>
-        <title>Contributor: kogutowicz-mano Discussion Comment No.: 21 Comment: Nem csak a gémeskutakról van szó. Egyébként name=Gémeskút is van olyan, ami teljesen jogosnak tűnik. Tehát még a látszólag egyértelmű esetekben sem lehet automatizáltan törölni, hanem egyenként kell végignézni. És ettől akkora kitolás másokkal a szemetelés. Date: 2024-03-16T15:15:58+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/148659795</link>
-        <guid>https://www.openstreetmap.org/changeset/148659795#comment_21</guid>
-        <pubDate>2024-03-16T15:15:58+01:00</pubDate>
       </item><item>
         <title>Contributor: gymate Discussion Comment No.: 1 Comment: Köszi, a 1443986212-es node-dal jelzett problémát bejelentettem a Járókelőn: https://jarokelo.hu/bejelentesek/budapest/140950/hibas-utcanevtablak Date: 2024-03-15T20:58:50+01:00</title>
         <link>https://www.openstreetmap.org/changeset/9381266</link>
