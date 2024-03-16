@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: Kecsege Discussion Comment No.: 18 Comment: Hoppá, mégiscsak elindultunk egy irányba. Felvetetted, hogy a description mezőbe kellene ezeket írni. Akkor miért nem így csinálod? Csak simán adatot törölsz, pontatlanabbá teszed az adatbázist. Date: 2024-03-16T14:04:38+01:00</title>
+        <title>Contributor: kogutowicz-mano Discussion Comment No.: 21 Comment: Nem csak a gémeskutakról van szó. Egyébként name=Gémeskút is van olyan, ami teljesen jogosnak tűnik. Tehát még a látszólag egyértelmű esetekben sem lehet automatizáltan törölni, hanem egyenként kell végignézni. És ettől akkora kitolás másokkal a szemetelés. Date: 2024-03-16T15:15:58+01:00</title>
         <link>https://www.openstreetmap.org/changeset/148659795</link>
-        <guid>https://www.openstreetmap.org/changeset/148659795#comment_18</guid>
-        <pubDate>2024-03-16T14:04:38+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/148659795#comment_21</guid>
+        <pubDate>2024-03-16T15:15:58+01:00</pubDate>
       </item><item>
         <title>Contributor: gymate Discussion Comment No.: 1 Comment: Köszi, a 1443986212-es node-dal jelzett problémát bejelentettem a Járókelőn: https://jarokelo.hu/bejelentesek/budapest/140950/hibas-utcanevtablak Date: 2024-03-15T20:58:50+01:00</title>
         <link>https://www.openstreetmap.org/changeset/9381266</link>
@@ -47,11 +47,6 @@
         <link>https://www.openstreetmap.org/changeset/120315103</link>
         <guid>https://www.openstreetmap.org/changeset/120315103#comment_2</guid>
         <pubDate>2024-03-10T13:14:28+01:00</pubDate>
-      </item><item>
-        <title>Contributor: igor2 Discussion Comment No.: 2 Comment: Yes, it's definitely a typo, thank you! I'm going to fix it. Date: 2024-03-09T15:34:51+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/146718467</link>
-        <guid>https://www.openstreetmap.org/changeset/146718467#comment_2</guid>
-        <pubDate>2024-03-09T15:34:51+01:00</pubDate>
       </item>
   </channel>
 </rss>
