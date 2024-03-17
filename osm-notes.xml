@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment 4156835 (near 2461, Ófalu, Tárnok) / * 2024 March 17 12:40 balint36 Updated: Ezeken kívül léteznek olyan vonatok, amik Tárnokra érkeznek, vagy onnan indulnak. Ezek Tárnok 4. vágányát használják, azaz a kezdőponti váltókörzeten át járnak meg (vagy éppen ki), azokat nem kell hasonló módon módosítani.</title>
+        <link>https://www.openstreetmap.org/note/4156835#c9078909</link>
+        <guid>https://www.openstreetmap.org/note/4156835#c9078909</guid>
+        <pubDate>Sun, 17 Mar 2024 12:40:14 +0000</pubDate>
+      </item><item>
+        <title>new comment 4156835 (near 2461, Ófalu, Tárnok) / * 2024 March 17 12:38 balint36 Updated: Érintett kapcsolatok: / https://www.openstreetmap.org/relation/5189456 / https://www.openstreetmap.org/relation/8021091 / https://www.openstreetmap.org/relation/5189455 / https://www.openstreetmap.org/relation/5189498 / https://www.openstreetmap.org/relation/8059889</title>
+        <link>https://www.openstreetmap.org/note/4156835#c9078903</link>
+        <guid>https://www.openstreetmap.org/note/4156835#c9078903</guid>
+        <pubDate>Sun, 17 Mar 2024 12:38:23 +0000</pubDate>
+      </item><item>
+        <title>new note 4156835 (near 2461, Ófalu, Tárnok) / * 2024 March 17 12:36 balint36 Created: A 30M vonalon át közlekedő vonatok (jellemzően) Tárnokon az 1. vágányt használják. Ezzel összefüggően a 30M és a 30-as vonalak között az átjárást nem Tárnok kezdőponti (páros) váltókörzetében teszik meg (mint ahogy most a kapcsolatokban meg van adva), hanem a végponti (páratlan) váltókörzetet, ahol még az is biztosított, hogy a jobb-bal vágányt 120 km/h mellett járhassák be. / Ennek megfelelően a kapcsolatokat is úgy kell módosítani, hogy azok nem a kezdőponti váltókörzeten, hanem a végpontin vezessenek át.</title>
+        <link>https://www.openstreetmap.org/note/4156835#c9078886</link>
+        <guid>https://www.openstreetmap.org/note/4156835#c9078886</guid>
+        <pubDate>Sun, 17 Mar 2024 12:36:15 +0000</pubDate>
+      </item><item>
         <title>new note 4156725 (near 6000, Déli ipartelep, Kecskemét) / * 2024 March 17 10:48 OSM KAMI Created: . / via StreetComplete_ee 57.0 / Attached photo(s): / https://westnordost.de/p/202048.jpg</title>
         <link>https://www.openstreetmap.org/note/4156725#c9078549</link>
         <guid>https://www.openstreetmap.org/note/4156725#c9078549</guid>
