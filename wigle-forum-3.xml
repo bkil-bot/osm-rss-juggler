@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Kismet drone on wireless router? (e.g. Linksys WRT54GL): I built one 10+ years ago. Recently found that digital signage PCs are more suitable. I've rescued three Giada VM23 boxes from the e-waste. Add a cheap USB GPS and you are good as bluetooth and wifi is built in. Three additional USB ports for more wifi adapters. Runs of 12v with a barrel plug. Easy to make a cigarette power plug adapter. I see many go for about $20. Many was sold with only 1 year Windows 10 IOT, so quickly EOL. Kali runs well on it, even with three radios, two gps and graphical user interface.It's impressive how you repurposed older hardware effectively for digital signage. The Giada VM23 boxes, coupled with USB GPS and additional WiFi adapters, offer versatile functionality. Kali Linux's compatibility breathes new life into these devices, extending their utility beyond their original scope. -Sunnyle</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=12143#p12143</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=12143#p12143</guid>
+        <pubDate>2024-03-19T20:23:37</pubDate>
+      </item><item>
         <title>Re: Supports WPS: you can click (as a logged in user), or you can use the Basic and Advanced search functionality to get al the information regarding the point. WPS will be listed in the capabilities, which aren't part of the site rendering - check out the API for more details. -arkasha</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12112#p12112</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12112#p12112</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11973#p11973</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11973#p11973</guid>
         <pubDate>2023-12-24T03:47:12</pubDate>
-      </item><item>
-        <title>Re: Incentivization of infrequently visited tiles: I use an app called &quot;Fog of World&quot; to keep track of where I have previously been. It can be set to use a &quot;fog of war&quot; opaqueness effect to areas of the map that haven't been &quot;discovered&quot;. It's been fun riding around places I still haven't been to in over 15 years of living in my city! I use it on my iPhone (https://itunes.apple.com/app/fog-of-world/id505367096) as there are no wardriving apps for iOS, but it's also available on the Google Play Store: https://play.google.com/store/apps/deta ... fogofworld -computerb0y</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11959#p11959</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11959#p11959</guid>
-        <pubDate>2023-12-09T04:59:02</pubDate>
       </item>
   </channel>
 </rss>
