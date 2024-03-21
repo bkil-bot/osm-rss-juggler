@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4162450 (near Tücsök-major, Szombathely) / * 2024 March 21 20:31 Created: LaBor / Klub a LaBorban / Betongyár</title>
+        <link>https://www.openstreetmap.org/note/4162450#c9091745</link>
+        <guid>https://www.openstreetmap.org/note/4162450#c9091745</guid>
+        <pubDate>Thu, 21 Mar 2024 20:31:55 +0000</pubDate>
+      </item><item>
+        <title>closed note 3400055 (near 1132, Újlipótváros, 13th district) / * 2022 October 15 11:00 pihentagy Created: Unable to answer &amp;quot;What are the opening hours here?&amp;quot; for https://osm.org/node/4965536722 via StreetComplete 47.1: / Bezárt. Nincs kiírva semmi. / * 2023 January 8 20:46 infeeeee Updated: Ez egy egyesület irodája egy irodaházban, hivatalos honlapjuk szerint még itt vannak: https://www.ifrc.org/who-we-are/people-and-structures/global-leadership-team/regional-director-europe / * 2023 January 9 12:43 pihentagy Updated: Oh, hát ha kintről nem látható, akkor lehet, hogy tényleg ott vannak. Ez a SC-ben ki tudom valahogy szúrni, hogy olyan helyről van szó, ami másik helyen belül van, vagy ott nincs esélyem? / * 2023 January 9 13:01 infeeeee Updated: További válaszok -&amp;gt; nincs kiírva, ha amúgy látod hogy ott van az iroda. Vagy további válaszok -&amp;gt; nem tudom -&amp;gt; legyen rejtve. Aztán ha valaki jobban tudja, megoldja. Amikor rányomsz a kérdésre, ott van zárójelben, hogy milyen objektum amit szerkesztesz, ha valamilyen iroda, akkor kicsit jobban meg kell nézni. Ennél is elvileg kiírta, hogy &amp;quot;Civil szervezet irodája&amp;quot; / * 2023 January 9 13:04 pihentagy Updated: Köszi / * 2024 March 21 20:31 infeeeee Resolved: Az iroda ott van, nyitvatartás nincs kiírva, ráraktam egy opening_hours:signed=no címkét</title>
+        <link>https://www.openstreetmap.org/note/3400055#c9091743</link>
+        <guid>https://www.openstreetmap.org/note/3400055#c9091743</guid>
+        <pubDate>Thu, 21 Mar 2024 20:31:20 +0000</pubDate>
+      </item><item>
+        <title>closed note 3398560 (near 1132, Újlipótváros, 13th district) / * 2022 October 14 06:35 pihentagy Created: Unable to answer &amp;quot;What are the opening hours here?&amp;quot; for https://osm.org/node/3485792216 via StreetComplete 47.1: / Más üzlet / * 2024 March 21 20:30 infeeeee Resolved: Frissítve: https://www.openstreetmap.org/changeset/148985392</title>
+        <link>https://www.openstreetmap.org/note/3398560#c9091739</link>
+        <guid>https://www.openstreetmap.org/note/3398560#c9091739</guid>
+        <pubDate>Thu, 21 Mar 2024 20:30:35 +0000</pubDate>
+      </item><item>
         <title>new note 4162395 (near 1106, Kőbánya-Kertváros, 10th district) / * 2024 March 21 19:31 Created: Van itt felnött háziorvosi rendelő is</title>
         <link>https://www.openstreetmap.org/note/4162395#c9091609</link>
         <guid>https://www.openstreetmap.org/note/4162395#c9091609</guid>
@@ -262,16 +277,6 @@
         <link>https://www.openstreetmap.org/note/4159569#c9085116</link>
         <guid>https://www.openstreetmap.org/note/4159569#c9085116</guid>
         <pubDate>Tue, 19 Mar 2024 16:04:13 +0000</pubDate>
-      </item><item>
-        <title>closed note 4142431 (near 1146, City Park, 14th district) / * 2024 March 6 23:04 balint36 Created: A szerelvényt elvontatták. / via StreetComplete 57.0 / * 2024 March 19 14:00 infeeeee Resolved: Csak demolished-ra állítottam, ha máshol felbukkan át lehet vinni a címkéket oda: https://www.osm.org/changeset/148862771</title>
-        <link>https://www.openstreetmap.org/note/4142431#c9084836</link>
-        <guid>https://www.openstreetmap.org/note/4142431#c9084836</guid>
-        <pubDate>Tue, 19 Mar 2024 14:00:06 +0000</pubDate>
-      </item><item>
-        <title>closed note 4071267 (near 1105, Central Hungary, 1105, Hungary) / * 2024 January 16 09:16 Created: Az utcában a „jobb” oldali járda nincs berajzolva. / * 2024 March 19 13:59 infeeeee Resolved: Címkeként felvittem: https://www.osm.org/changeset/148862771</title>
-        <link>https://www.openstreetmap.org/note/4071267#c9084835</link>
-        <guid>https://www.openstreetmap.org/note/4071267#c9084835</guid>
-        <pubDate>Tue, 19 Mar 2024 13:59:16 +0000</pubDate>
       </item>
   </channel>
 </rss>
