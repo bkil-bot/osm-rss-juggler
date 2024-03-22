@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 2611557 (near 3000, Óhatvan, Hatvan) / * 2021 April 6 17:56 gabro00 Created: Cső-híd? https://www.openstreetmap.org/way/453366866 / * 2024 March 22 20:15 balint36 Resolved: Úgy nézem, már törölted.</title>
+        <link>https://www.openstreetmap.org/note/2611557#c9094570</link>
+        <guid>https://www.openstreetmap.org/note/2611557#c9094570</guid>
+        <pubDate>Fri, 22 Mar 2024 20:15:18 +0000</pubDate>
+      </item><item>
         <title>closed note 4163587 (near 1117, Kelenföld, 11th district) / * 2024 March 22 18:16 Kecsege Resolved: Azonosító hozzáadva: / https://www.openstreetmap.org/changeset/149025971</title>
         <link>https://www.openstreetmap.org/note/4163587#c9094288</link>
         <guid>https://www.openstreetmap.org/note/4163587#c9094288</guid>
@@ -307,11 +312,6 @@
         <link>https://www.openstreetmap.org/note/2959229#c9086725</link>
         <guid>https://www.openstreetmap.org/note/2959229#c9086725</guid>
         <pubDate>Wed, 20 Mar 2024 07:36:50 +0000</pubDate>
-      </item><item>
-        <title>new comment 4072482 (near 4027, North Great Plain, 4027, Hungary) / * 2024 March 20 07:01 balint36 Updated: https://njt.hu/jogszabaly/2021-26-20-7Q / Ez alapján látható, hogy két nagy egység van: országos közúthálózat és helyi közúthálózat. Ebből a kettőből az országos közúthálózat kapott számozást, ahogy a KIRA és az Útszámkeresőn is látható. Ez a szakasz nem része az országos közúthálózatnak, hivatalosan számot nem viselhet. / De mivel az OSM alapelve az, hogy azt térképezünk, amit látunk, ha valami oknál fogva az számpajzsok továbbra is kint vannak, akkor csak ebben az esetben lehet őket felvinni. / Ha igény van rá, megkereshetem a közútkezelőket, hogy segítsenek az ellentmondás feloldásában.</title>
-        <link>https://www.openstreetmap.org/note/4072482#c9086657</link>
-        <guid>https://www.openstreetmap.org/note/4072482#c9086657</guid>
-        <pubDate>Wed, 20 Mar 2024 07:01:15 +0000</pubDate>
       </item>
   </channel>
 </rss>
