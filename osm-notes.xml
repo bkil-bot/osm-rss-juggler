@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4164031 (near 1118, Sashegy, 11th district) / * 2024 March 23 07:08 vasony Created: Ellenőrizendő, hogy lecserélték-e már a táblát Citadella út-ra, mert alul már igen.</title>
+        <link>https://www.openstreetmap.org/note/4164031#c9095229</link>
+        <guid>https://www.openstreetmap.org/note/4164031#c9095229</guid>
+        <pubDate>Sat, 23 Mar 2024 07:08:30 +0000</pubDate>
+      </item><item>
         <title>new note 4163982 (near 1118, Sashegy, 11th district) / * 2024 March 23 06:17 vasony Created: 2024. árpilis 2-től fizetős lesz a parkolás, automaták felmérendők. / https://wiki.openstreetmap.org/wiki/Hungary/Jel%c3%b6l%c3%a9si_p%c3%a9ld%c3%a1k#Parkol%C3%B3automata</title>
         <link>https://www.openstreetmap.org/note/4163982#c9095160</link>
         <guid>https://www.openstreetmap.org/note/4163982#c9095160</guid>
@@ -312,11 +317,6 @@
         <link>https://www.openstreetmap.org/note/2646455#c9087171</link>
         <guid>https://www.openstreetmap.org/note/2646455#c9087171</guid>
         <pubDate>Wed, 20 Mar 2024 10:42:25 +0000</pubDate>
-      </item><item>
-        <title>closed note 3798820 (near 2840, Oroszlány) / * 2023 July 25 15:57 GBAB Created: Verify cutlines on recent aerial imagery / * 2024 March 19 20:13 infeeeee Updated: Nem látszanak friss Esri Worldon, mi legyen, töröljem őket? / * 2024 March 20 07:52 GBAB Resolved: Igazad van, letöröltem őket. / https://www.openstreetmap.org/changeset/148896792</title>
-        <link>https://www.openstreetmap.org/note/3798820#c9086757</link>
-        <guid>https://www.openstreetmap.org/note/3798820#c9086757</guid>
-        <pubDate>Wed, 20 Mar 2024 07:52:54 +0000</pubDate>
       </item>
   </channel>
 </rss>
