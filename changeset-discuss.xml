@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: balint36 Discussion Comment No.: 1 Comment: &quot;Úgy látom, a 42-es nem áll meg a forgalmi iroda előtt hanem becsatlakozik a 40-esbe, ezért volt a vége is &quot;main&quot; track.&quot; Bocsánat, de ezt te miből állapítottad meg? Mit láttál? Egy elágazó vasútvonalat miért kell bekötni az állomás túlsó végén? Arról nem is beszélve, hogy a nullás szelvénykő történetesen pont a forgalmi iroda előtt van. Ha még jobban tetszik, akkor a korábbi 41-es kitérő helyett visszavághatom a 0+00 hm szelvényig. A változtatás még ütközéseket is okozott a címkézésben, ezért visszavonom. Date: 2024-03-23T16:20:01+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/146549247</link>
+        <guid>https://www.openstreetmap.org/changeset/146549247#comment_1</guid>
+        <pubDate>2024-03-23T16:20:01+01:00</pubDate>
+      </item><item>
         <title>Contributor: Nakaner Discussion Comment No.: 1 Comment: Hi, welcome to OpenStreetMap. OpenStreetMap is a community project. Other members of the community review changesets and would like to understand what and why you edited things. Therefore, I ask you to provide a meaningful changeset comment when you upload changests. https://wiki.openstreetmap.org/wiki/Good_changeset_comments Best regards Michael Date: 2024-03-22T14:35:56+01:00</title>
         <link>https://www.openstreetmap.org/changeset/149003278</link>
         <guid>https://www.openstreetmap.org/changeset/149003278#comment_1</guid>
@@ -77,11 +82,6 @@
         <link>https://www.openstreetmap.org/changeset/148665811</link>
         <guid>https://www.openstreetmap.org/changeset/148665811#comment_2</guid>
         <pubDate>2024-03-16T18:30:45+01:00</pubDate>
-      </item><item>
-        <title>Contributor: vasony Discussion Comment No.: 2 Comment: Visszaállítottam Date: 2024-03-16T17:41:42+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/148302202</link>
-        <guid>https://www.openstreetmap.org/changeset/148302202#comment_2</guid>
-        <pubDate>2024-03-16T17:41:42+01:00</pubDate>
       </item>
   </channel>
 </rss>
