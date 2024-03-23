@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4164201 (near 1147, Alsórákos, 14th district) / * 2024 March 23 09:58 ITineris Created: Itt már felépült két társasház. Fel kellene rajzolni őket. / (Öv utca 164. és Huszt utca 12.)</title>
+        <link>https://www.openstreetmap.org/note/4164201#c9095530</link>
+        <guid>https://www.openstreetmap.org/note/4164201#c9095530</guid>
+        <pubDate>Sat, 23 Mar 2024 09:58:40 +0000</pubDate>
+      </item><item>
         <title>new note 4164048 (near 8300, Kertváros, Tapolca) / * 2024 March 23 07:37 Created: A Halápi út 31/b mutató nyíl nem volt jó helyen, a pontos helye a városból kifelé vezető úton van jobb oldalon a második épület.</title>
         <link>https://www.openstreetmap.org/note/4164048#c9095256</link>
         <guid>https://www.openstreetmap.org/note/4164048#c9095256</guid>
@@ -312,16 +317,6 @@
         <link>https://www.openstreetmap.org/note/4135453#c9088106</link>
         <guid>https://www.openstreetmap.org/note/4135453#c9088106</guid>
         <pubDate>Wed, 20 Mar 2024 16:27:04 +0000</pubDate>
-      </item><item>
-        <title>closed note 3049625 (near Péntek tanya, Budakalász) / * 2022 February 13 10:45 grozsa11 Created: Kert u. 3845 hrsz van ráirva / via StreetComplete 39.1 / * 2024 March 19 19:58 infeeeee Updated: Na melyik a jó? Ez a jegyzet, vagy amit egy évvel korábban hagytál itt: https://www.osm.org/note/2646455 / Különböző szám van bennük. / Ha nem emlékszel, akkor feltételezem az újabb a jó / * 2024 March 20 10:53 grozsa11 Resolved: Ú, de jó szemed van :- ) Csakugyan kissé szétapróztam az adatokat :- )) / A valódi HRSz-t betettem &amp;quot;note=HRSz 3845/1&amp;quot;-be és mivel már kapott ez a cím is valódi utca és házszámot, hát rögzíttettem rá azt is. / Köszi!</title>
-        <link>https://www.openstreetmap.org/note/3049625#c9087205</link>
-        <guid>https://www.openstreetmap.org/note/3049625#c9087205</guid>
-        <pubDate>Wed, 20 Mar 2024 10:53:51 +0000</pubDate>
-      </item><item>
-        <title>closed note 2646455 (near Péntek tanya, Budakalász) / * 2021 April 30 16:31 grozsa11 Created: Hrsz 3841 kert utca / via StreetComplete 31.3 / * 2024 March 20 10:42 grozsa11 Resolved: A helyes HRSz 3845/1, bocs.</title>
-        <link>https://www.openstreetmap.org/note/2646455#c9087171</link>
-        <guid>https://www.openstreetmap.org/note/2646455#c9087171</guid>
-        <pubDate>Wed, 20 Mar 2024 10:42:25 +0000</pubDate>
       </item>
   </channel>
 </rss>
