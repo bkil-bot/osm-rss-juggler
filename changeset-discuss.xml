@@ -3,10 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: Hungarian_user Discussion Comment No.: 2 Comment: Szia! Az tételesen nem igaz, hogy &quot;emiatt az úton vannak a házak&quot;, mert ilyet az iD editor nem enged meg, azaz észreveszem, ha ütközés lett volna. Közel vannak, de csak látszólag érintkeznek. Ha a böngészőben rákattintasz akár az útra, akár az épületre, azt az editor jelzi, ha átfedés van köztük (gondolom a JOSM is jelezné). A múltkor is mondtam, hogy ha szerinted nagy az elcsúszás valahol, azt nyugodtan javíthatod. Kb. annyi idő alatt, amíg nekem üzenetet küldtél, már készen is vagy vele. Egyébként azért nem igazítottam a FÖMI-hez, mert nem volt ütközés az épület és az út között. A többit OSM emailben írom meg. Date: 2024-03-24T14:26:53+01:00</title>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Ez a tábla a templom falán van? Ha igen, akkor a templom poligonjába be szoktuk foglalni. Ha nem a falon van akkor minden rendben. Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! Date: 2024-03-24T15:52:54+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/149031629</link>
+        <guid>https://www.openstreetmap.org/changeset/149031629#comment_1</guid>
+        <pubDate>2024-03-24T15:52:54+01:00</pubDate>
+      </item><item>
+        <title>Contributor: Kecsege Discussion Comment No.: 3 Comment: Azért írtam és nem javítottam, mert ha egymásra illesztenéd a Bing-et és a Fömit, akkor ugyan olyan gyorsan tudnál haladni, cserébe Fömihez lenne igazítva az épület. Másrészt célszerű lenne elsőre nem tűpontos, de nem ennyire elcsúszott rajzokat készíteni, mert így többször kell vele dolgozni, hogy pontosabb legyen. Ezzel másnak adod a munkát. Igen, tök jó, hogy sok épületet felrajzolsz, de még jobb lenne, ha utána nem kellene javítgatni. Természetesen válaszolok a privát üzenetedre is. Date: 2024-03-24T15:41:15+01:00</title>
         <link>https://www.openstreetmap.org/changeset/148621404</link>
-        <guid>https://www.openstreetmap.org/changeset/148621404#comment_2</guid>
-        <pubDate>2024-03-24T14:26:53+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/148621404#comment_3</guid>
+        <pubDate>2024-03-24T15:41:15+01:00</pubDate>
       </item><item>
         <title>Contributor: balint36 Discussion Comment No.: 1 Comment: &quot;Úgy látom, a 42-es nem áll meg a forgalmi iroda előtt hanem becsatlakozik a 40-esbe, ezért volt a vége is &quot;main&quot; track.&quot; Bocsánat, de ezt te miből állapítottad meg? Mit láttál? Egy elágazó vasútvonalat miért kell bekötni az állomás túlsó végén? Arról nem is beszélve, hogy a nullás szelvénykő történetesen pont a forgalmi iroda előtt van. Ha még jobban tetszik, akkor a korábbi 41-es kitérő helyett visszavághatom a 0+00 hm szelvényig. A változtatás még ütközéseket is okozott a címkézésben, ezért visszavonom. Date: 2024-03-23T16:20:01+01:00</title>
         <link>https://www.openstreetmap.org/changeset/146549247</link>
@@ -57,16 +62,6 @@
         <link>https://www.openstreetmap.org/changeset/148789110</link>
         <guid>https://www.openstreetmap.org/changeset/148789110#comment_2</guid>
         <pubDate>2024-03-18T10:12:19+01:00</pubDate>
-      </item><item>
-        <title>Contributor: MyFudalli Discussion Comment No.: 3 Comment: Bocs, csak tévedtem, utca van írva és visszaszerkesztettem. Előtte össze-vissza volt az út és az utca elnevezés a különböző szakaszokon, és megtartottam az egyiket (betippeltem, rosszul, mert a másik volt), utca van írva Date: 2024-03-17T17:11:16+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/148478092</link>
-        <guid>https://www.openstreetmap.org/changeset/148478092#comment_3</guid>
-        <pubDate>2024-03-17T17:11:16+01:00</pubDate>
-      </item><item>
-        <title>Contributor: ITineris Discussion Comment No.: 1 Comment: Szia! Felszínen nem látható régészeti dolgokat (itt) nem térképezünk, arra ott az OpenHistoricalMap. Márpedig itt semmi sem látszik, még műholdképről sem, csak a szántóföld. A közepére tett &quot;Turisztikai látványosság&quot; pedig egyenesen félrevezető. Üdv: Ákos Date: 2024-03-17T16:47:05+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/87223519</link>
-        <guid>https://www.openstreetmap.org/changeset/87223519#comment_1</guid>
-        <pubDate>2024-03-17T16:47:05+01:00</pubDate>
       </item>
   </channel>
 </rss>
