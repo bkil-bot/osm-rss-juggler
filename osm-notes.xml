@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment 3910701 (near 2100, Egyetem, Gödöllő) / * 2023 September 27 06:57 kogutowicz-mano Created: Megszűnik a kisvasút. / https://telex.hu/belfold/2023/09/27/godolloi-kisvasut-bezaras / * 2024 March 24 18:11 balint36 Updated: Fel is szedték már a vágányokat, vagy csak bezárt?</title>
+        <link>https://www.openstreetmap.org/note/3910701#c9101371</link>
+        <guid>https://www.openstreetmap.org/note/3910701#c9101371</guid>
+        <pubDate>Sun, 24 Mar 2024 18:11:28 +0000</pubDate>
+      </item><item>
+        <title>new comment 3912446 (near 2100, Egyetem, Gödöllő) / * 2023 September 28 09:01 GBAB Created: 2023-10-02 a kisvasút megszűnt: https://www.facebook.com/photo/?fbid=705527244948821&amp;amp;set=a.464997389001809 / * 2024 March 24 18:11 balint36 Updated: Fel is szedték már a vágányokat, vagy csak bezárt?</title>
+        <link>https://www.openstreetmap.org/note/3912446#c9101370</link>
+        <guid>https://www.openstreetmap.org/note/3912446#c9101370</guid>
+        <pubDate>Sun, 24 Mar 2024 18:11:25 +0000</pubDate>
+      </item><item>
         <title>new comment 4072482 (near 4027, North Great Plain, 4027, Hungary) / * 2024 January 16 21:26 balint36 Created: A KIRA (kira.kozut.hu) és az Útszámkereső (utszamkereso.kozut.hu) szerint innen délre eső útszakasz már nem a 35-ös főút része. / Ezért ellenőrizni kéne, hogy jelenleg kint vannak-e a számpajzsok. StreetView nem megfelelő! / * 2024 January 16 23:25 BáthoryPéter Updated: Mapillaryt szabad használni. / https://www.mapillary.com/app/?lat=47.541732&amp;amp;lng=21.608463&amp;amp;z=17&amp;amp;pKey=965697084239526&amp;amp;focus=photo / * 2024 January 17 05:22 balint36 Updated: Mikori a felvétel? / * 2024 January 17 07:43 BáthoryPéter Updated: Jobb alsó sarokban írja. De választhatsz másik képsorozatot is, katt a térképen egy zöld pöttyre. / * 2024 January 17 09:05 balint36 Updated: Akkor gondolom te is látod, hogy mi a gond. / Egy ehhez hasonló számpajzs megléte vagy nem létére lenne szükség a Böszörményi úton: https://www.mapillary.com/app/?lat=47.541661666667&amp;amp;lng=21.610183333333&amp;amp;z=17&amp;amp;pKey=1146423879164023&amp;amp;focus=photo&amp;amp;x=0.709055753085648&amp;amp;y=0.4278484309324005&amp;amp;zoom=2.695204730228231 / A Böszörményi út ezen szakaszán a legfrissebb felvétel 2020-as, vagyis már 3 éves. / * 2024 January 17 09:11 BáthoryPéter Updated: Én nem néztem semmit, csak javasoltam egy szabadon felhasználható eszközt. / Ha gondolod, írhatsz Ivánnak, hogy nézze meg a közút nyilvántartásában. / * 2024 March 20 05:52 nslxndr Resolved: Ki van táblázva végig több helyen is. / A KIRA a Magyar Közút által kezelt utakat tartalmazza, ezért abból nem következik, hogy egyéb út ne lehetne az országos, számozott főúthálózat része pl. lakott területen belül önkormányzati fenntartásban. Néhány havonta visszatérő félreértés ez. / * 2024 March 20 06:14 balint36 Reactivated:  / * 2024 March 20 06:21 balint36 Updated: … / Hova látod írva, hogy a KIRA a MK útjait listázza? A KIRA az országos közút és gyorsforgalmi úthálózatot listázza. Úgyhogy igenis, ha nincs benne, akkor nem része az országos számozott főúthálózatnak. Önkormányzati utak meg nem része ennek, azok sosem lesznek számozott utak. / Már bocsánat, de ha a közúthálózttal kapcsolatos ismereteid nem stabilak, akkor nem értem, miért kellett most olyan kitalációt előadnod, hogy önkormányzati utak lehetnek számozott főutak. Majd előkeresem neked az ide vonatkozó közutas irományt. / Addig is, most arra van szükség, hogy valaki leellenőrizte a számpajzsokat, és nem az, hogy elméleteket épísünk. / * 2024 March 20 07:01 balint36 Updated: https://njt.hu/jogszabaly/2021-26-20-7Q / Ez alapján látható, hogy két nagy egység van: országos közúthálózat és helyi közúthálózat. Ebből a kettőből az országos közúthálózat kapott számozást, ahogy a KIRA és az Útszámkeresőn is látható. Ez a szakasz nem része az országos közúthálózatnak, hivatalosan számot nem viselhet. / De mivel az OSM alapelve az, hogy azt térképezünk, amit látunk, ha valami oknál fogva az számpajzsok továbbra is kint vannak, akkor csak ebben az esetben lehet őket felvinni. / Ha igény van rá, megkereshetem a közútkezelőket, hogy segítsenek az ellentmondás feloldásában. / * 2024 March 22 16:36 nslxndr Updated: Azzal kezdtem, hogy ki van táblázva végig, ami a kiegészítő magyarázat szakszerűségétől független tény. Onnantól pedig az OSM szempontjából megoldott jegyzet, mert mint te is írtad, az OSM a valóságot térképezi, abban a tekintetben pedig eltérés nem áll fenn. / A tényekre alapuló szerkesztés előnye, hogy nyilatkozatokra alapozni miközben nem úgy van táblázva, vagy az (esetlegesen ellentmondó vagy hézagos) jogszabályokat elemezni, illetve  a valóság és a KIRA közötti eltérést vizsgálni, feloldani (biztosan van KIRA hibajelentő is, ha ellentmond a valóságnak) nem az OSM szerkesztők feladata. Ettől függetlenül kölcsönösen hasznos együttműködés lehet, sőt én is örülnék, ha sikerülne mindenki számára nyilvánvalóan feloldani az ellentmondást, és immár a KIRA és leszármazottai népszerűségéből adódóan nem nyitná újra ismét ezt a vitát mostanra néhány havonta valaki távolról újbóli friss felmérésre várva, mert különben nem hiszi. (Vagy rosszabb esetben távszerkesztené is át a KIRA-ra hivatkozva, mintha KIRA másolatot szeretnénk készíteni.) / Egyébként tudomásom szerint már megnézték az útnyilvántartásban 30 évre visszamenőleg sosem volt országos közút, a 35-ös útszámot jelző számpajzsokat mégis kint látom most is, sőt kint láttam legalább 12 évvel ezelőtt is. Persze az útnyilvántartást sem tudom közokiratként meghivatkozni, szintén csak más szerkesztőktől hallottam, mint a visszavonásoknál elhangzó, racionálisnak tűnő magyarázatot. Az útnyilvántartás vizsgálat után viszont kevésbé valószínű, hogy a KIRA tévedne, mint ahogy a több mint 5 db számpajzs (+ útirányjelzőn) sem téveséből lehet kihelyezve 10+ éve, így potenciálisan mégiscsak az ismeretek stabilitásában lehet a válasz, hogy ez mégis miért valósulhat meg így. De hátha csak sosem járt a végére senki, addig viszont részemről helyszíni felmérés alapján lezárt ügy. / * 2024 March 24 16:38 balint36 Updated: Hát, úgy valóban sose lehet jutni semminek sem a végére, ha olyan módon, mint te, a háttér ismerete nélkül teljes kitalációkat hoznak elő egyes emberek.</title>
         <link>https://www.openstreetmap.org/note/4072482#c9101056</link>
         <guid>https://www.openstreetmap.org/note/4072482#c9101056</guid>
@@ -112,26 +122,6 @@
         <link>https://www.openstreetmap.org/note/4164048#c9095256</link>
         <guid>https://www.openstreetmap.org/note/4164048#c9095256</guid>
         <pubDate>Sat, 23 Mar 2024 07:37:21 +0000</pubDate>
-      </item><item>
-        <title>new note 4164031 (near 1118, Sashegy, 11th district) / * 2024 March 23 07:08 vasony Created: Ellenőrizendő, hogy lecserélték-e már a táblát Citadella út-ra, mert alul már igen.</title>
-        <link>https://www.openstreetmap.org/note/4164031#c9095229</link>
-        <guid>https://www.openstreetmap.org/note/4164031#c9095229</guid>
-        <pubDate>Sat, 23 Mar 2024 07:08:30 +0000</pubDate>
-      </item><item>
-        <title>new note 4163982 (near 1118, Sashegy, 11th district) / * 2024 March 23 06:17 vasony Created: 2024. árpilis 2-től fizetős lesz a parkolás, automaták felmérendők. / https://wiki.openstreetmap.org/wiki/Hungary/Jel%c3%b6l%c3%a9si_p%c3%a9ld%c3%a1k#Parkol%C3%B3automata</title>
-        <link>https://www.openstreetmap.org/note/4163982#c9095160</link>
-        <guid>https://www.openstreetmap.org/note/4163982#c9095160</guid>
-        <pubDate>Sat, 23 Mar 2024 06:17:02 +0000</pubDate>
-      </item><item>
-        <title>new note 4163968 (near 1113, Kelenföld, 11th district) / * 2024 March 23 05:37 vasony Created: Játszóteret felújítják, tervezett felújítás vége: 2024. 05.</title>
-        <link>https://www.openstreetmap.org/note/4163968#c9095120</link>
-        <guid>https://www.openstreetmap.org/note/4163968#c9095120</guid>
-        <pubDate>Sat, 23 Mar 2024 05:37:19 +0000</pubDate>
-      </item><item>
-        <title>closed note 2611557 (near 3000, Óhatvan, Hatvan) / * 2021 April 6 17:56 gabro00 Created: Cső-híd? https://www.openstreetmap.org/way/453366866 / * 2024 March 22 20:15 balint36 Resolved: Úgy nézem, már törölted.</title>
-        <link>https://www.openstreetmap.org/note/2611557#c9094570</link>
-        <guid>https://www.openstreetmap.org/note/2611557#c9094570</guid>
-        <pubDate>Fri, 22 Mar 2024 20:15:18 +0000</pubDate>
       </item>
   </channel>
 </rss>
