@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>The last 1.44 release round did not only contain a lot of UI/UX milestones but also 20 security fixes based on a deep analysis from Yuanming Song and colleagues of the Applied Cryptography group at ETH Zuerich https://delta.chat/en/2024-03-25-crypto-analysis-securejoin a 3d-picture of a green-checkmark with a chain around it.</title>
+        <link>https://chaos.social/@delta/112156902140296303</link>
+        <guid>https://chaos.social/@delta/112156902140296303</guid>
+        <pubDate>Mon, 25 Mar 2024 14:55:11 +0000</pubDate>
+      </item><item>
         <title>The default setup of #chatmail is for open signups (anyone can get an address) but some operators implement a private signup protocol and that&amp;#39;s fine and easy enough to do because https://github.com/deltachat/chatmail/ is a small machine. Chatmail addresses should be abundant and safe to use for anyone , and cheap to operate with basic skills .... A few thousand chatmail routers might already cover adresses for 10 billion people, with less resource/energy usage than a single VC funded LLM startup :)</title>
         <link>https://chaos.social/@delta/112094711706110799</link>
         <guid>https://chaos.social/@delta/112094711706110799</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/111574517097362272</link>
         <guid>https://chaos.social/@delta/111574517097362272</guid>
         <pubDate>Wed, 13 Dec 2023 18:27:01 +0000</pubDate>
-      </item><item>
-        <title>Seems google/apple&amp;#39;s push notifications services are regularly queried by state authorities for obtaining user data -- see this german @netzpolitik_feed https://netzpolitik.org/2023/push-dienste-behoerden-fragen-apple-und-google-nach-nutzern-von-messenger-apps/ -- #deltachat only uses apple&amp;#39;s push notifications on iOS for &amp;quot;heartbeat&amp;quot; services -- to ensure the app can show messages for their user (and many users are asking for tighter integration). On Android, Desktop and #ubuntutouch platforms currently no push notifications are used or needed, also no heartbeat ones.</title>
-        <link>https://chaos.social/@delta/111538544523935897</link>
-        <guid>https://chaos.social/@delta/111538544523935897</guid>
-        <pubDate>Thu, 07 Dec 2023 09:58:43 +0000</pubDate>
       </item>
   </channel>
 </rss>
