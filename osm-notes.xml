@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4165983 (near 4024, Wesselényi-lakótelep, Debrecen) / * 2024 March 24 13:48 Created: &amp;quot;На беларускай будзе Дэбрэцэн&amp;quot; / OSM snapshot date: 2024-02-28T20:33:36Z / POI name: Debrecen / POI types: place-city-capital-6 / #organicmaps android / * 2024 March 26 14:05 nslxndr Resolved: </title>
+        <link>https://www.openstreetmap.org/note/4165983#c9107047</link>
+        <guid>https://www.openstreetmap.org/note/4165983#c9107047</guid>
+        <pubDate>Tue, 26 Mar 2024 14:05:33 +0000</pubDate>
+      </item><item>
         <title>closed note 4133837 (near 1098, József Attila-lakótelep, 9th district) / * 2024 March 1 08:44 sfphoton Created: Unable to answer &amp;quot;What surface does this piece of road have?&amp;quot; – Valéria tér (Service Road) – https://osm.org/way/725784024 via StreetComplete 56.1: / Átépítették ezt az utat, egy része már térköves gyalogút / * 2024 March 26 11:58 sfphoton Resolved: Újra felmértem, frissítettem.</title>
         <link>https://www.openstreetmap.org/note/4133837#c9106611</link>
         <guid>https://www.openstreetmap.org/note/4133837#c9106611</guid>
@@ -92,71 +97,6 @@
         <link>https://www.openstreetmap.org/note/3912446#c9101370</link>
         <guid>https://www.openstreetmap.org/note/3912446#c9101370</guid>
         <pubDate>Sun, 24 Mar 2024 18:11:25 +0000</pubDate>
-      </item><item>
-        <title>new comment 4072482 (near 4027, North Great Plain, 4027, Hungary) / * 2024 January 16 21:26 balint36 Created: A KIRA (kira.kozut.hu) és az Útszámkereső (utszamkereso.kozut.hu) szerint innen délre eső útszakasz már nem a 35-ös főút része. / Ezért ellenőrizni kéne, hogy jelenleg kint vannak-e a számpajzsok. StreetView nem megfelelő! / * 2024 January 16 23:25 BáthoryPéter Updated: Mapillaryt szabad használni. / https://www.mapillary.com/app/?lat=47.541732&amp;amp;lng=21.608463&amp;amp;z=17&amp;amp;pKey=965697084239526&amp;amp;focus=photo / * 2024 January 17 05:22 balint36 Updated: Mikori a felvétel? / * 2024 January 17 07:43 BáthoryPéter Updated: Jobb alsó sarokban írja. De választhatsz másik képsorozatot is, katt a térképen egy zöld pöttyre. / * 2024 January 17 09:05 balint36 Updated: Akkor gondolom te is látod, hogy mi a gond. / Egy ehhez hasonló számpajzs megléte vagy nem létére lenne szükség a Böszörményi úton: https://www.mapillary.com/app/?lat=47.541661666667&amp;amp;lng=21.610183333333&amp;amp;z=17&amp;amp;pKey=1146423879164023&amp;amp;focus=photo&amp;amp;x=0.709055753085648&amp;amp;y=0.4278484309324005&amp;amp;zoom=2.695204730228231 / A Böszörményi út ezen szakaszán a legfrissebb felvétel 2020-as, vagyis már 3 éves. / * 2024 January 17 09:11 BáthoryPéter Updated: Én nem néztem semmit, csak javasoltam egy szabadon felhasználható eszközt. / Ha gondolod, írhatsz Ivánnak, hogy nézze meg a közút nyilvántartásában. / * 2024 March 20 05:52 nslxndr Resolved: Ki van táblázva végig több helyen is. / A KIRA a Magyar Közút által kezelt utakat tartalmazza, ezért abból nem következik, hogy egyéb út ne lehetne az országos, számozott főúthálózat része pl. lakott területen belül önkormányzati fenntartásban. Néhány havonta visszatérő félreértés ez. / * 2024 March 20 06:14 balint36 Reactivated:  / * 2024 March 20 06:21 balint36 Updated: … / Hova látod írva, hogy a KIRA a MK útjait listázza? A KIRA az országos közút és gyorsforgalmi úthálózatot listázza. Úgyhogy igenis, ha nincs benne, akkor nem része az országos számozott főúthálózatnak. Önkormányzati utak meg nem része ennek, azok sosem lesznek számozott utak. / Már bocsánat, de ha a közúthálózttal kapcsolatos ismereteid nem stabilak, akkor nem értem, miért kellett most olyan kitalációt előadnod, hogy önkormányzati utak lehetnek számozott főutak. Majd előkeresem neked az ide vonatkozó közutas irományt. / Addig is, most arra van szükség, hogy valaki leellenőrizte a számpajzsokat, és nem az, hogy elméleteket épísünk. / * 2024 March 20 07:01 balint36 Updated: https://njt.hu/jogszabaly/2021-26-20-7Q / Ez alapján látható, hogy két nagy egység van: országos közúthálózat és helyi közúthálózat. Ebből a kettőből az országos közúthálózat kapott számozást, ahogy a KIRA és az Útszámkeresőn is látható. Ez a szakasz nem része az országos közúthálózatnak, hivatalosan számot nem viselhet. / De mivel az OSM alapelve az, hogy azt térképezünk, amit látunk, ha valami oknál fogva az számpajzsok továbbra is kint vannak, akkor csak ebben az esetben lehet őket felvinni. / Ha igény van rá, megkereshetem a közútkezelőket, hogy segítsenek az ellentmondás feloldásában. / * 2024 March 22 16:36 nslxndr Updated: Azzal kezdtem, hogy ki van táblázva végig, ami a kiegészítő magyarázat szakszerűségétől független tény. Onnantól pedig az OSM szempontjából megoldott jegyzet, mert mint te is írtad, az OSM a valóságot térképezi, abban a tekintetben pedig eltérés nem áll fenn. / A tényekre alapuló szerkesztés előnye, hogy nyilatkozatokra alapozni miközben nem úgy van táblázva, vagy az (esetlegesen ellentmondó vagy hézagos) jogszabályokat elemezni, illetve  a valóság és a KIRA közötti eltérést vizsgálni, feloldani (biztosan van KIRA hibajelentő is, ha ellentmond a valóságnak) nem az OSM szerkesztők feladata. Ettől függetlenül kölcsönösen hasznos együttműködés lehet, sőt én is örülnék, ha sikerülne mindenki számára nyilvánvalóan feloldani az ellentmondást, és immár a KIRA és leszármazottai népszerűségéből adódóan nem nyitná újra ismét ezt a vitát mostanra néhány havonta valaki távolról újbóli friss felmérésre várva, mert különben nem hiszi. (Vagy rosszabb esetben távszerkesztené is át a KIRA-ra hivatkozva, mintha KIRA másolatot szeretnénk készíteni.) / Egyébként tudomásom szerint már megnézték az útnyilvántartásban 30 évre visszamenőleg sosem volt országos közút, a 35-ös útszámot jelző számpajzsokat mégis kint látom most is, sőt kint láttam legalább 12 évvel ezelőtt is. Persze az útnyilvántartást sem tudom közokiratként meghivatkozni, szintén csak más szerkesztőktől hallottam, mint a visszavonásoknál elhangzó, racionálisnak tűnő magyarázatot. Az útnyilvántartás vizsgálat után viszont kevésbé valószínű, hogy a KIRA tévedne, mint ahogy a több mint 5 db számpajzs (+ útirányjelzőn) sem téveséből lehet kihelyezve 10+ éve, így potenciálisan mégiscsak az ismeretek stabilitásában lehet a válasz, hogy ez mégis miért valósulhat meg így. De hátha csak sosem járt a végére senki, addig viszont részemről helyszíni felmérés alapján lezárt ügy. / * 2024 March 24 16:38 balint36 Updated: Hát, úgy valóban sose lehet jutni semminek sem a végére, ha olyan módon, mint te, a háttér ismerete nélkül teljes kitalációkat hoznak elő egyes emberek.</title>
-        <link>https://www.openstreetmap.org/note/4072482#c9101056</link>
-        <guid>https://www.openstreetmap.org/note/4072482#c9101056</guid>
-        <pubDate>Sun, 24 Mar 2024 16:38:31 +0000</pubDate>
-      </item><item>
-        <title>closed note 4149645 (near 9934, Hegyhátszentjakab) / * 2024 March 12 06:32 sfphoton Created: Unable to answer &amp;quot;Is this still here?&amp;quot; – Szoba kiadó (Guest House) – https://osm.org/node/3459863000 via StreetComplete 57.0: / Maradt simán lakóház, már nem adnak ki szobát. A node-ot ki kellene venni, nem akarom vacantnak jelölni. / * 2024 March 24 15:12 sfphoton Resolved: Done.</title>
-        <link>https://www.openstreetmap.org/note/4149645#c9100626</link>
-        <guid>https://www.openstreetmap.org/note/4149645#c9100626</guid>
-        <pubDate>Sun, 24 Mar 2024 15:12:20 +0000</pubDate>
-      </item><item>
-        <title>closed note 4164680 (near Belányi-telep, Dorog) / * 2024 March 23 15:45 sfphoton Created: Unable to answer &amp;quot;Is there a shelter at this stop?&amp;quot; – Bus Platform – https://osm.org/way/932431329 via StreetComplete 57.1: / K+R, nem buszmegálló / Attached photo(s): / https://westnordost.de/p/202922.jpg / * 2024 March 24 14:52 sfphoton Resolved: Done</title>
-        <link>https://www.openstreetmap.org/note/4164680#c9100550</link>
-        <guid>https://www.openstreetmap.org/note/4164680#c9100550</guid>
-        <pubDate>Sun, 24 Mar 2024 14:52:28 +0000</pubDate>
-      </item><item>
-        <title>closed note 4164681 (near Belányi-telep, Dorog) / * 2024 March 23 15:45 sfphoton Created: Unable to answer &amp;quot;Is there a shelter at this stop?&amp;quot; – Bus Platform – https://osm.org/way/932431331 via StreetComplete 57.1: / K+R, nem buszmegálló / * 2024 March 24 14:52 sfphoton Resolved: Done</title>
-        <link>https://www.openstreetmap.org/note/4164681#c9100549</link>
-        <guid>https://www.openstreetmap.org/note/4164681#c9100549</guid>
-        <pubDate>Sun, 24 Mar 2024 14:52:20 +0000</pubDate>
-      </item><item>
-        <title>closed note 4144108 (near Richter Gedeon Nyrt., Ipari- gazdasági terület, Dorog) / * 2024 March 8 10:03 utvonalfelmeresek Created: vendégparkoló 4db / * 2024 March 24 14:40 sfphoton Resolved: Hozzáadtam, köszi!</title>
-        <link>https://www.openstreetmap.org/note/4144108#c9100524</link>
-        <guid>https://www.openstreetmap.org/note/4144108#c9100524</guid>
-        <pubDate>Sun, 24 Mar 2024 14:40:11 +0000</pubDate>
-      </item><item>
-        <title>closed note 4114428 (near Csepel-Gyártelep, 21st district) / * 2024 February 15 17:03 Created: Alumínium-Hengermű utca / * 2024 March 24 14:37 sfphoton Resolved: Átneveztem. Köszi!</title>
-        <link>https://www.openstreetmap.org/note/4114428#c9100516</link>
-        <guid>https://www.openstreetmap.org/note/4114428#c9100516</guid>
-        <pubDate>Sun, 24 Mar 2024 14:37:12 +0000</pubDate>
-      </item><item>
-        <title>closed note 4155795 (near 1211, Csepel-Ófalu, 21st district) / * 2024 March 16 14:54 sfphoton Created: Unable to answer &amp;quot;What’s the name of this place?&amp;quot; – Ice Cream Shop – https://osm.org/way/1065949155 via StreetComplete 57.1: / Már Generali iroda / * 2024 March 24 14:36 sfphoton Resolved: Csináltam belőle Generalit.</title>
-        <link>https://www.openstreetmap.org/note/4155795#c9100513</link>
-        <guid>https://www.openstreetmap.org/note/4155795#c9100513</guid>
-        <pubDate>Sun, 24 Mar 2024 14:36:05 +0000</pubDate>
-      </item><item>
-        <title>new note 4165983 (near 4024, Wesselényi-lakótelep, Debrecen) / * 2024 March 24 13:48 Created: &amp;quot;На беларускай будзе Дэбрэцэн&amp;quot; / OSM snapshot date: 2024-02-28T20:33:36Z / POI name: Debrecen / POI types: place-city-capital-6 / #organicmaps android</title>
-        <link>https://www.openstreetmap.org/note/4165983#c9100285</link>
-        <guid>https://www.openstreetmap.org/note/4165983#c9100285</guid>
-        <pubDate>Sun, 24 Mar 2024 13:48:02 +0000</pubDate>
-      </item><item>
-        <title>new note 4165902 (near 3517, Miskolc) / * 2024 March 24 12:29 OSM KAMI Created: . / via StreetComplete_ee 57.0 / Attached photo(s): / https://westnordost.de/p/203000.jpg</title>
-        <link>https://www.openstreetmap.org/note/4165902#c9099891</link>
-        <guid>https://www.openstreetmap.org/note/4165902#c9099891</guid>
-        <pubDate>Sun, 24 Mar 2024 12:29:24 +0000</pubDate>
-      </item><item>
-        <title>new note 4165892 (near 3517, Miskolc) / * 2024 March 24 12:20 Kovács Zsófi Created: Unable to answer &amp;quot;What are the opening hours here?&amp;quot; – Anna-barlang jegypénztár (Ticket Seller) – https://osm.org/node/5645486630 via StreetComplete 57.1: / . / Attached photo(s): / https://westnordost.de/p/202998.jpg</title>
-        <link>https://www.openstreetmap.org/note/4165892#c9099822</link>
-        <guid>https://www.openstreetmap.org/note/4165892#c9099822</guid>
-        <pubDate>Sun, 24 Mar 2024 12:20:28 +0000</pubDate>
-      </item><item>
-        <title>new note 4165891 (near 3517, Miskolc) / * 2024 March 24 12:20 OSM KAMI Created: . / via StreetComplete_ee 57.0 / Attached photo(s): / https://westnordost.de/p/202997.jpg</title>
-        <link>https://www.openstreetmap.org/note/4165891#c9099820</link>
-        <guid>https://www.openstreetmap.org/note/4165891#c9099820</guid>
-        <pubDate>Sun, 24 Mar 2024 12:20:06 +0000</pubDate>
-      </item><item>
-        <title>new note 4165881 (near 3517, Miskolc) / * 2024 March 24 12:09 OSM KAMI Created: . / via StreetComplete_ee 57.0 / Attached photo(s): / https://westnordost.de/p/202996.jpg</title>
-        <link>https://www.openstreetmap.org/note/4165881#c9099787</link>
-        <guid>https://www.openstreetmap.org/note/4165881#c9099787</guid>
-        <pubDate>Sun, 24 Mar 2024 12:09:51 +0000</pubDate>
-      </item><item>
-        <title>new note 4165868 (near 3517, Miskolc) / * 2024 March 24 12:04 OSM KAMI Created: . / via StreetComplete_ee 57.0 / Attached photo(s): / https://westnordost.de/p/202994.jpg</title>
-        <link>https://www.openstreetmap.org/note/4165868#c9099759</link>
-        <guid>https://www.openstreetmap.org/note/4165868#c9099759</guid>
-        <pubDate>Sun, 24 Mar 2024 12:04:01 +0000</pubDate>
       </item>
   </channel>
 </rss>
