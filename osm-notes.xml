@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4167057 (near 6727, Tápéi kiskertek, Szeged) / * 2024 March 25 11:19 Created: itt újépítésű házak vannak a házszámaikat amik, ki voltak írva felvettem / * 2024 March 27 17:20 gabro00 Resolved: Javítottam https://www.openstreetmap.org/changeset/149235901</title>
+        <link>https://www.openstreetmap.org/note/4167057#c9111036</link>
+        <guid>https://www.openstreetmap.org/note/4167057#c9111036</guid>
+        <pubDate>Wed, 27 Mar 2024 17:20:21 +0000</pubDate>
+      </item><item>
+        <title>closed note 4157146 (near 6727, Tápéi kiskertek, Szeged) / * 2024 March 17 15:07 fawkes2 Created: In context of overlay &amp;quot;Addresses&amp;quot; – https://osm.org/way/606452973 via StreetComplete 57.1: / Nincs itt az épület / * 2024 March 23 12:53 gabro00 Updated: Na igen, felül kellene vizsgálni az épületeket Szegeden, a Bing szerintem alkalmas erre. / * 2024 March 27 17:16 gabro00 Resolved: https://www.openstreetmap.org/changeset/149235901</title>
+        <link>https://www.openstreetmap.org/note/4157146#c9111022</link>
+        <guid>https://www.openstreetmap.org/note/4157146#c9111022</guid>
+        <pubDate>Wed, 27 Mar 2024 17:16:33 +0000</pubDate>
+      </item><item>
         <title>closed note 4127726 (near 2330, Central Hungary, 2330, Hungary) / * 2024 February 25 18:14 Created: Áthelyezésre került a megálló, a kereszteződés utáni illetve a Móricz Zs. utcában található pedig megszűnt. / * 2024 March 27 16:04 sfphoton Resolved: Úgy nézem, ez csak egy ideiglenes változás a vasút felújítása miatt. Mint ilyet, én nem térképezném, mert csak elfelejtősik és úgy marad. / Forrás: https://dunaharaszti.hu/cikk/igy-valtozik-a-kozlekedes-januar-15-tol-dunaharasztin</title>
         <link>https://www.openstreetmap.org/note/4127726#c9110759</link>
         <guid>https://www.openstreetmap.org/note/4127726#c9110759</guid>
@@ -102,16 +112,6 @@
         <link>https://www.openstreetmap.org/note/4167318#c9103914</link>
         <guid>https://www.openstreetmap.org/note/4167318#c9103914</guid>
         <pubDate>Mon, 25 Mar 2024 14:43:46 +0000</pubDate>
-      </item><item>
-        <title>closed note 4167318 (near 9700, KISZ-lakótelep, Szombathely) / * 2024 March 25 14:43 Marci0210 Resolved: Parkoló</title>
-        <link>https://www.openstreetmap.org/note/4167318#c9103913</link>
-        <guid>https://www.openstreetmap.org/note/4167318#c9103913</guid>
-        <pubDate>Mon, 25 Mar 2024 14:43:31 +0000</pubDate>
-      </item><item>
-        <title>new note 4167318 (near 9700, KISZ-lakótelep, Szombathely) / * 2024 March 25 14:41 Created: Parkolóépítés</title>
-        <link>https://www.openstreetmap.org/note/4167318#c9103903</link>
-        <guid>https://www.openstreetmap.org/note/4167318#c9103903</guid>
-        <pubDate>Mon, 25 Mar 2024 14:41:38 +0000</pubDate>
       </item>
   </channel>
 </rss>
