@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3918717 (near 1119, Kelenföld, 11th district) / * 2023 October 1 20:49 vasony Created: valószínű ezeket is le fogják dózerolni hamarosan / * 2024 March 27 21:18 tregec Resolved: Lebontották, kiszedtem.</title>
+        <link>https://www.openstreetmap.org/note/3918717#c9111899</link>
+        <guid>https://www.openstreetmap.org/note/3918717#c9111899</guid>
+        <pubDate>Wed, 27 Mar 2024 21:18:17 +0000</pubDate>
+      </item><item>
         <title>closed note 4167057 (near 6727, Tápéi kiskertek, Szeged) / * 2024 March 25 11:19 Created: itt újépítésű házak vannak a házszámaikat amik, ki voltak írva felvettem / * 2024 March 27 17:20 gabro00 Resolved: Javítottam https://www.openstreetmap.org/changeset/149235901</title>
         <link>https://www.openstreetmap.org/note/4167057#c9111036</link>
         <guid>https://www.openstreetmap.org/note/4167057#c9111036</guid>
@@ -102,11 +107,6 @@
         <link>https://www.openstreetmap.org/note/4167758#c9104888</link>
         <guid>https://www.openstreetmap.org/note/4167758#c9104888</guid>
         <pubDate>Mon, 25 Mar 2024 19:33:24 +0000</pubDate>
-      </item><item>
-        <title>new note 4167380 (near 9400, Ösvény utcai lakópark, Sopron) / * 2024 March 25 15:38 Created: onosm.org submitted note from a business: / Name: Origo-Sánta Építő Zrt / addr:housenumber=32 / addr:street=Győri út / addr:city=Sopron / addr:postcode=9400 / Phone number: +3699511540 / Website: origo-santa.hu / Category: Real Estate / Description: befektetési és prémium ingatlanok / Accepted payment methods: / takeaway=no</title>
-        <link>https://www.openstreetmap.org/note/4167380#c9104060</link>
-        <guid>https://www.openstreetmap.org/note/4167380#c9104060</guid>
-        <pubDate>Mon, 25 Mar 2024 15:38:01 +0000</pubDate>
       </item>
   </channel>
 </rss>
