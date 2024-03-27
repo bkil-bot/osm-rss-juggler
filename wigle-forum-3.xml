@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: WarFlying: Hopping in to re-invigorate a newly necro'd thread, but just today I started putting together the bag of parts to go warflying with a small fixed wing drone, hauling not much more than a Pi Zero W, GPS, and a LoRa link. If I get anywhere at all, I'll be improving the antenna later. -brockhold</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=12161#p12161</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=12161#p12161</guid>
+        <pubDate>2024-03-26T23:29:48</pubDate>
+      </item><item>
         <title>Re: Kismet drone on wireless router? (e.g. Linksys WRT54GL): I built one 10+ years ago. Recently found that digital signage PCs are more suitable. I've rescued three Giada VM23 boxes from the e-waste. Add a cheap USB GPS and you are good as bluetooth and wifi is built in. Three additional USB ports for more wifi adapters. Runs of 12v with a barrel plug. Easy to make a cigarette power plug adapter. I see many go for about $20. Many was sold with only 1 year Windows 10 IOT, so quickly EOL. Kali runs well on it, even with three radios, two gps and graphical user interface.It's impressive how you repurposed older hardware effectively for digital signage. The Giada VM23 boxes, coupled with USB GPS and additional WiFi adapters, offer versatile functionality. Kali Linux's compatibility breathes new life into these devices, extending their utility beyond their original scope. -Sunnyle</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12143#p12143</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12143#p12143</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11981#p11981</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11981#p11981</guid>
         <pubDate>2023-12-27T14:56:11</pubDate>
-      </item><item>
-        <title>Re: Car antenna mount position suggestions?: The 7dB directional antenna with a magnetic base can be mounted on the roof of the vehicle for optimal performance and signal reception. Quick Draw -polinkuer12</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11973#p11973</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11973#p11973</guid>
-        <pubDate>2023-12-24T03:47:12</pubDate>
       </item>
   </channel>
 </rss>
