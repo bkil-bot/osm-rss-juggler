@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment 3322286 (near Disznós-tanya, Répáshuta) / * 2024 March 29 19:53 vasony Updated: válasz hiányában újranyitom.</title>
+        <link>https://www.openstreetmap.org/note/3322286#c9117341</link>
+        <guid>https://www.openstreetmap.org/note/3322286#c9117341</guid>
+        <pubDate>Fri, 29 Mar 2024 19:53:49 +0000</pubDate>
+      </item><item>
+        <title>reactivated note 3322286 (near Disznós-tanya, Répáshuta) / * 2024 March 29 19:53 vasony Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/3322286#c9117340</link>
+        <guid>https://www.openstreetmap.org/note/3322286#c9117340</guid>
+        <pubDate>Fri, 29 Mar 2024 19:53:39 +0000</pubDate>
+      </item><item>
+        <title>closed note 2602187 (near 9724, Kiscsömöte, Lukácsháza) / * 2021 March 31 13:16 vasony-qa Created: Melyik közterület a Kiscsömötei út? / * 2024 March 29 19:36 vasony Resolved: Már szerepel utcaként</title>
+        <link>https://www.openstreetmap.org/note/2602187#c9117313</link>
+        <guid>https://www.openstreetmap.org/note/2602187#c9117313</guid>
+        <pubDate>Fri, 29 Mar 2024 19:36:35 +0000</pubDate>
+      </item><item>
         <title>closed note 3240021 (near 1117, Kelenföld, 11th district) / * 2022 June 25 15:11 bkil Created: resurvey exact position: benches, picnic tables, fire pits, shade, information signs / * 2022 October 8 09:10 Zsolt Beringer Updated: Only fire pits have immutable position. / * 2024 March 29 18:30 urbalazs Resolved: Arrébb húztam kicsit a mostani helyére. Nemcsak a piknikasztalok mozognak, hanem a tűzrakóhely is, ha elviszi az árvíz. Jó lesz ez így egyetlen POI-val, mert folyamatosan változik, hogy mi hol van éppen.</title>
         <link>https://www.openstreetmap.org/note/3240021#c9117179</link>
         <guid>https://www.openstreetmap.org/note/3240021#c9117179</guid>
@@ -227,16 +242,6 @@
         <link>https://www.openstreetmap.org/note/4170217#c9110545</link>
         <guid>https://www.openstreetmap.org/note/4170217#c9110545</guid>
         <pubDate>Wed, 27 Mar 2024 15:12:03 +0000</pubDate>
-      </item><item>
-        <title>new note 4169833 (near 9700, KISZ-lakótelep, Szombathely) / * 2024 March 27 11:04 Created: Blaguss Agora Hungary Kft.</title>
-        <link>https://www.openstreetmap.org/note/4169833#c9109827</link>
-        <guid>https://www.openstreetmap.org/note/4169833#c9109827</guid>
-        <pubDate>Wed, 27 Mar 2024 11:04:40 +0000</pubDate>
-      </item><item>
-        <title>new note 4169829 (near 9700, KISZ-lakótelep, Szombathely) / * 2024 March 27 11:03 Created: Blaguss Agora Hungary Kft.</title>
-        <link>https://www.openstreetmap.org/note/4169829#c9109819</link>
-        <guid>https://www.openstreetmap.org/note/4169829#c9109819</guid>
-        <pubDate>Wed, 27 Mar 2024 11:03:03 +0000</pubDate>
       </item>
   </channel>
 </rss>
