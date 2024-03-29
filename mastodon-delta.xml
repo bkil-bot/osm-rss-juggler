@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>How many people do you know that have lost their messaging history on Whatsapp or Signal, photos etc during mobile phone transitions or breakage or through other shenenigans? With #deltachat you can: - export &amp;quot;everything&amp;quot; to a file and import it on any of the many different devices - or just setup a second device through a QR code scan -- which was happily discovered here after an accidental factory reset https://libranet.de/display/0b6b25a8-2066-0695-ca24-081964494389</title>
+        <link>https://chaos.social/@delta/112180528987313206</link>
+        <guid>https://chaos.social/@delta/112180528987313206</guid>
+        <pubDate>Fri, 29 Mar 2024 19:03:48 +0000</pubDate>
+      </item><item>
         <title>The last #deltachat 1.44 release round did not only contain a lot of UI/UX milestones but also 20 security fixes based on a deep analysis from Yuanming Song and colleagues of the Applied Cryptography group at ETH Zuerich https://delta.chat/en/2024-03-25-crypto-analysis-securejoin a 3d-picture of a green-checkmark with a chain around it.</title>
         <link>https://chaos.social/@delta/112156902140296303</link>
         <guid>https://chaos.social/@delta/112156902140296303</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/111586633840591278</link>
         <guid>https://chaos.social/@delta/111586633840591278</guid>
         <pubDate>Fri, 15 Dec 2023 21:48:27 +0000</pubDate>
-      </item><item>
-        <title>Today, we are unveiling chatmail services, making onboarding with #deltachat a breeze, with peace of mind. #chatmail marks a major milestone, answering the practical question of &amp;quot;where can i get a deltachat-ready account&amp;quot; for myself and friends? Read more on https://delta.chat/en/2023-12-13-chatmail The chatmail logo, an @ with a speech bubble.</title>
-        <link>https://chaos.social/@delta/111574517097362272</link>
-        <guid>https://chaos.social/@delta/111574517097362272</guid>
-        <pubDate>Wed, 13 Dec 2023 18:27:01 +0000</pubDate>
       </item>
   </channel>
 </rss>
