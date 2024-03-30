@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4174196 (near 1225, Nagytétény, 22nd district) / * 2024 March 30 13:16 balint36 Created: Nem találtam, hogyan lehetne címkézni az ehhez hasonló állomási kapcsolókerteket. Majd kéne találni, hogyan lehetne címkézni őket, és akkor nem csak itt, hanem máshol is lehet alkalmazni.</title>
+        <link>https://www.openstreetmap.org/note/4174196#c9118928</link>
+        <guid>https://www.openstreetmap.org/note/4174196#c9118928</guid>
+        <pubDate>Sat, 30 Mar 2024 13:16:00 +0000</pubDate>
+      </item><item>
         <title>closed note 4154206 (near 6721, Belváros, Szeged) / * 2024 March 15 12:34 fawkes2 Created: In context of overlay &amp;quot;Buildings&amp;quot; – https://osm.org/way/505914566 via StreetComplete 57.1: / Lebontva / * 2024 March 30 11:01 gabro00 Resolved: https://www.openstreetmap.org/changeset/149346118</title>
         <link>https://www.openstreetmap.org/note/4154206#c9118530</link>
         <guid>https://www.openstreetmap.org/note/4154206#c9118530</guid>
@@ -207,16 +212,6 @@
         <link>https://www.openstreetmap.org/note/3918717#c9111899</link>
         <guid>https://www.openstreetmap.org/note/3918717#c9111899</guid>
         <pubDate>Wed, 27 Mar 2024 21:18:17 +0000</pubDate>
-      </item><item>
-        <title>closed note 4167057 (near 6727, Tápéi kiskertek, Szeged) / * 2024 March 25 11:19 Created: itt újépítésű házak vannak a házszámaikat amik, ki voltak írva felvettem / * 2024 March 27 17:20 gabro00 Resolved: Javítottam https://www.openstreetmap.org/changeset/149235901</title>
-        <link>https://www.openstreetmap.org/note/4167057#c9111036</link>
-        <guid>https://www.openstreetmap.org/note/4167057#c9111036</guid>
-        <pubDate>Wed, 27 Mar 2024 17:20:21 +0000</pubDate>
-      </item><item>
-        <title>closed note 4157146 (near 6727, Tápéi kiskertek, Szeged) / * 2024 March 17 15:07 fawkes2 Created: In context of overlay &amp;quot;Addresses&amp;quot; – https://osm.org/way/606452973 via StreetComplete 57.1: / Nincs itt az épület / * 2024 March 23 12:53 gabro00 Updated: Na igen, felül kellene vizsgálni az épületeket Szegeden, a Bing szerintem alkalmas erre. / * 2024 March 27 17:16 gabro00 Resolved: https://www.openstreetmap.org/changeset/149235901</title>
-        <link>https://www.openstreetmap.org/note/4157146#c9111022</link>
-        <guid>https://www.openstreetmap.org/note/4157146#c9111022</guid>
-        <pubDate>Wed, 27 Mar 2024 17:16:33 +0000</pubDate>
       </item>
   </channel>
 </rss>
