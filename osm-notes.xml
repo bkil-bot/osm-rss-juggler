@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4154206 (near 6721, Belváros, Szeged) / * 2024 March 15 12:34 fawkes2 Created: In context of overlay &amp;quot;Buildings&amp;quot; – https://osm.org/way/505914566 via StreetComplete 57.1: / Lebontva / * 2024 March 30 11:01 gabro00 Resolved: https://www.openstreetmap.org/changeset/149346118</title>
+        <link>https://www.openstreetmap.org/note/4154206#c9118530</link>
+        <guid>https://www.openstreetmap.org/note/4154206#c9118530</guid>
+        <pubDate>Sat, 30 Mar 2024 11:01:06 +0000</pubDate>
+      </item><item>
+        <title>closed note 4173174 (near 6721, Belváros, Szeged) / * 2024 March 29 16:25 fawkes2 Created: Hiányzik itt egy épület / via StreetComplete 57.1 / * 2024 March 30 10:40 gabro00 Resolved: Kettő is, felvettem https://www.openstreetmap.org/changeset/149345408</title>
+        <link>https://www.openstreetmap.org/note/4173174#c9118480</link>
+        <guid>https://www.openstreetmap.org/note/4173174#c9118480</guid>
+        <pubDate>Sat, 30 Mar 2024 10:40:16 +0000</pubDate>
+      </item><item>
         <title>new note 4173845 (near 2687, Bercel) / * 2024 March 30 09:16 Created: Nidec GPM Hugary Kft.</title>
         <link>https://www.openstreetmap.org/note/4173845#c9118302</link>
         <guid>https://www.openstreetmap.org/note/4173845#c9118302</guid>
@@ -207,21 +217,6 @@
         <link>https://www.openstreetmap.org/note/4157146#c9111022</link>
         <guid>https://www.openstreetmap.org/note/4157146#c9111022</guid>
         <pubDate>Wed, 27 Mar 2024 17:16:33 +0000</pubDate>
-      </item><item>
-        <title>closed note 4127726 (near 2330, Central Hungary, 2330, Hungary) / * 2024 February 25 18:14 Created: Áthelyezésre került a megálló, a kereszteződés utáni illetve a Móricz Zs. utcában található pedig megszűnt. / * 2024 March 27 16:04 sfphoton Resolved: Úgy nézem, ez csak egy ideiglenes változás a vasút felújítása miatt. Mint ilyet, én nem térképezném, mert csak elfelejtősik és úgy marad. / Forrás: https://dunaharaszti.hu/cikk/igy-valtozik-a-kozlekedes-januar-15-tol-dunaharasztin</title>
-        <link>https://www.openstreetmap.org/note/4127726#c9110759</link>
-        <guid>https://www.openstreetmap.org/note/4127726#c9110759</guid>
-        <pubDate>Wed, 27 Mar 2024 16:04:17 +0000</pubDate>
-      </item><item>
-        <title>closed note 4127588 (near 2330, Central Hungary, 2330, Hungary) / * 2024 February 25 16:19 Created: Helyijáratos buszmegálló (Paradicsom sziget) / * 2024 February 28 20:16 sfphoton Updated: Tud róla bárki több részletet? A BudapestGO itt nem jelöl BKK-s vagy Volános megállót. / * 2024 March 27 16:00 sfphoton Resolved: Utánanéztem egy kicsit jobban, / - a megállót nem jelöli az utas.hu sem, / - Dunaharaszti helyi közlekedésében sincs feltüntetve (helyi járatok térképe: https://dunaharaszti.hu/intezmeny_dokumentumok/146_dunaharaszti-t-.pdf elérhető innen: https://dunaharaszti.hu/helyi-buszkozlekedes ) / Szóval jó eséllyel ez a megálló nem létezik. Ezt a kommentet lezárom. Ha valaki mégis tud itt megállót, és van is több infója, bátran nyissa ezt újra, és akkor szívesen beszerkesztem!</title>
-        <link>https://www.openstreetmap.org/note/4127588#c9110738</link>
-        <guid>https://www.openstreetmap.org/note/4127588#c9110738</guid>
-        <pubDate>Wed, 27 Mar 2024 16:00:37 +0000</pubDate>
-      </item><item>
-        <title>closed note 4170217 (near 1094, Középső-Ferencváros, 9th district) / * 2024 March 27 15:45 Kecsege Resolved: Adatok megadva: / https://www.openstreetmap.org/changeset/149231995</title>
-        <link>https://www.openstreetmap.org/note/4170217#c9110687</link>
-        <guid>https://www.openstreetmap.org/note/4170217#c9110687</guid>
-        <pubDate>Wed, 27 Mar 2024 15:45:33 +0000</pubDate>
       </item>
   </channel>
 </rss>
