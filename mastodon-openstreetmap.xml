@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>📣 Calling OSM Brazil! On 2 Apr, at 7 pm (Brasília time), the Brazilian community will hold its monthly virtual meeting. Discussions will cover current and future projects. Details are here: https://buff.ly/4adjQ2B</title>
+        <link>https://en.osm.town/@openstreetmap/112192608209362542</link>
+        <guid>https://en.osm.town/@openstreetmap/112192608209362542</guid>
+        <pubDate>Sun, 31 Mar 2024 22:15:43 +0000</pubDate>
+      </item><item>
         <title>Happy Trans* Day of Visibility! Trans people are mappers, and hackers, and cartographers, and have always been a part of the OpenStreetMap community. The OpenStreetMap project is creating a freely licenced map of the world, based on how things actually are, based on how they act, and appear, not based on what some government says. OSM is trans positive. #OpenStreetMap #OSM #TDoV #TransDayOfVisibility #Trans https://wiki.openstreetmap.org/w/images/thumb/2/2f/2019_v1_OSM_Logo_trans.svg/480px-2019_v1_OSM_Logo_trans.svg.png</title>
         <link>https://en.osm.town/@openstreetmap/112189086189578851</link>
         <guid>https://en.osm.town/@openstreetmap/112189086189578851</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/111907781017901137</link>
         <guid>https://en.osm.town/@openstreetmap/111907781017901137</guid>
         <pubDate>Sat, 10 Feb 2024 15:00:25 +0000</pubDate>
-      </item><item>
-        <title>State of the Map Europe 2024 will take place in Łódź, Poland 🇵🇱 from 18 → 21 July 2024! 🗺 🔎 🌍 🇪🇺 🥳 #OpenStreetMap #OSM #SotMEU #SotMEU2024 @sotmeu https://wiki.openstreetmap.org/wiki/State_of_the_Map_Europe_2024</title>
-        <link>https://en.osm.town/@openstreetmap/111890794129095642</link>
-        <guid>https://en.osm.town/@openstreetmap/111890794129095642</guid>
-        <pubDate>Wed, 07 Feb 2024 15:00:25 +0000</pubDate>
       </item>
   </channel>
 </rss>
