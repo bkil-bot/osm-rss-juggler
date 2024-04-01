@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4164031 (near 1118, Sashegy, 11th district) / * 2024 April 1 17:24 vasony Resolved: Átírtam.</title>
+        <link>https://www.openstreetmap.org/note/4164031#c9126535</link>
+        <guid>https://www.openstreetmap.org/note/4164031#c9126535</guid>
+        <pubDate>Mon, 01 Apr 2024 17:24:47 +0000</pubDate>
+      </item><item>
+        <title>new comment 4177906 (near 1202, Gubacsipuszta, 20th district) / * 2024 April 1 17:21 infeeeee Updated: Járda/gyalogút keresztezi az autóutat, padka le van süllyesztve, ennek a címkéje crossing=unmarked: / https://wiki.openstreetmap.org/wiki/Tag:crossing%3Dunmarked / Ha a padka nem lenne lesüllyesztve, akkor az ilyet crossing=informal címkével kellene jelölni: https://wiki.openstreetmap.org/wiki/Tag:crossing%3Dinformal</title>
+        <link>https://www.openstreetmap.org/note/4177906#c9126526</link>
+        <guid>https://www.openstreetmap.org/note/4177906#c9126526</guid>
+        <pubDate>Mon, 01 Apr 2024 17:21:43 +0000</pubDate>
+      </item><item>
         <title>closed note 4176722 (near 1084, Csarnok negyed, 8th district) / * 2024 March 31 21:05 Created: Biztos, hogy három címnek is kell itt lennie? Itt nincsenek épületek. / * 2024 April 1 17:13 infeeeee Resolved: Nem csak épületeknek lehet házszáma.</title>
         <link>https://www.openstreetmap.org/note/4176722#c9126510</link>
         <guid>https://www.openstreetmap.org/note/4176722#c9126510</guid>
@@ -222,16 +232,6 @@
         <link>https://www.openstreetmap.org/note/2485312#c9123742</link>
         <guid>https://www.openstreetmap.org/note/2485312#c9123742</guid>
         <pubDate>Sun, 31 Mar 2024 22:05:09 +0000</pubDate>
-      </item><item>
-        <title>reactivated note 2485312 (near 5350, Buda, Tiszafüred) / * 2021 January 4 17:19 vasony-qa Created: Valószínű megváltozott az Aradi út neve Pankotay Jósa György útra, ellenőrizendő / * 2024 March 30 21:00 Kecsege Resolved: Igen, Pankotay... lett annyi, hogy nem út, hanem utca szerepelt a utcatáblán. Átírtam. / https://www.openstreetmap.org/changeset/149368279 / * 2024 March 31 22:04 vasony Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/2485312#c9123741</link>
-        <guid>https://www.openstreetmap.org/note/2485312#c9123741</guid>
-        <pubDate>Sun, 31 Mar 2024 22:04:54 +0000</pubDate>
-      </item><item>
-        <title>new note 4176722 (near 1084, Csarnok negyed, 8th district) / * 2024 March 31 21:05 Created: Biztos, hogy három címnek is kell itt lennie? Itt nincsenek épületek.</title>
-        <link>https://www.openstreetmap.org/note/4176722#c9123585</link>
-        <guid>https://www.openstreetmap.org/note/4176722#c9123585</guid>
-        <pubDate>Sun, 31 Mar 2024 21:05:27 +0000</pubDate>
       </item>
   </channel>
 </rss>
