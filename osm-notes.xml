@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4177942 (near 1202, Gubacsipuszta, 20th district) / * 2024 April 1 16:11 nubiai Created: Itt nincs kút. / via StreetComplete 57.1 / Attached photo(s): / https://westnordost.de/p/204586.jpg / * 2024 April 2 07:20 sfphoton Resolved: Kár érte, jó ügynök volt. Leszedtem, köszi!</title>
+        <link>https://www.openstreetmap.org/note/4177942#c9127859</link>
+        <guid>https://www.openstreetmap.org/note/4177942#c9127859</guid>
+        <pubDate>Tue, 02 Apr 2024 07:20:32 +0000</pubDate>
+      </item><item>
+        <title>closed note 4177906 (near 1202, Gubacsipuszta, 20th district) / * 2024 April 1 15:47 nubiai Created: Ez nem gyalogátkelő hely, hanem a benzinkút kijárata az autók számára. / via StreetComplete 57.1 / Attached photo(s): / https://westnordost.de/p/204581.jpg / * 2024 April 1 17:21 infeeeee Updated: Járda/gyalogút keresztezi az autóutat, padka le van süllyesztve, ennek a címkéje crossing=unmarked: / https://wiki.openstreetmap.org/wiki/Tag:crossing%3Dunmarked / Ha a padka nem lenne lesüllyesztve, akkor az ilyet crossing=informal címkével kellene jelölni: https://wiki.openstreetmap.org/wiki/Tag:crossing%3Dinformal / * 2024 April 2 07:17 sfphoton Resolved: A fotó alapján rátettem egy crossing=unmarked-et. Köszi!</title>
+        <link>https://www.openstreetmap.org/note/4177906#c9127852</link>
+        <guid>https://www.openstreetmap.org/note/4177906#c9127852</guid>
+        <pubDate>Tue, 02 Apr 2024 07:17:28 +0000</pubDate>
+      </item><item>
         <title>new note 4178397 (near 1095, Külső-Ferencváros, 9th district) / * 2024 April 2 00:07 infeeeee Created: Ez a szakasz tényleg le van zárva? access=no van rajta: https://www.openstreetmap.org/way/577189666</title>
         <link>https://www.openstreetmap.org/note/4178397#c9127381</link>
         <guid>https://www.openstreetmap.org/note/4178397#c9127381</guid>
@@ -142,121 +152,6 @@
         <link>https://www.openstreetmap.org/note/4177960#c9126291</link>
         <guid>https://www.openstreetmap.org/note/4177960#c9126291</guid>
         <pubDate>Mon, 01 Apr 2024 16:14:11 +0000</pubDate>
-      </item><item>
-        <title>new note 4177942 (near 1202, Gubacsipuszta, 20th district) / * 2024 April 1 16:11 nubiai Created: Itt nincs kút. / via StreetComplete 57.1 / Attached photo(s): / https://westnordost.de/p/204586.jpg</title>
-        <link>https://www.openstreetmap.org/note/4177942#c9126265</link>
-        <guid>https://www.openstreetmap.org/note/4177942#c9126265</guid>
-        <pubDate>Mon, 01 Apr 2024 16:11:31 +0000</pubDate>
-      </item><item>
-        <title>new note 4177939 (near 6721, Belváros, Szeged) / * 2024 April 1 16:09 fawkes2 Created: Hiányzó épület / via StreetComplete 57.1</title>
-        <link>https://www.openstreetmap.org/note/4177939#c9126259</link>
-        <guid>https://www.openstreetmap.org/note/4177939#c9126259</guid>
-        <pubDate>Mon, 01 Apr 2024 16:09:40 +0000</pubDate>
-      </item><item>
-        <title>new note 4177938 (near 6721, Belváros, Szeged) / * 2024 April 1 16:09 fawkes2 Created: Hiányzó épület / via StreetComplete 57.1</title>
-        <link>https://www.openstreetmap.org/note/4177938#c9126258</link>
-        <guid>https://www.openstreetmap.org/note/4177938#c9126258</guid>
-        <pubDate>Mon, 01 Apr 2024 16:09:40 +0000</pubDate>
-      </item><item>
-        <title>new note 4177930 (near 6721, Belváros, Szeged) / * 2024 April 1 16:02 fawkes2 Created: Hiányzik egy ház innen / via StreetComplete 57.1</title>
-        <link>https://www.openstreetmap.org/note/4177930#c9126234</link>
-        <guid>https://www.openstreetmap.org/note/4177930#c9126234</guid>
-        <pubDate>Mon, 01 Apr 2024 16:02:14 +0000</pubDate>
-      </item><item>
-        <title>new note 4177906 (near 1202, Gubacsipuszta, 20th district) / * 2024 April 1 15:47 nubiai Created: Ez nem gyalogátkelő hely, hanem a benzinkút kijárata az autók számára. / via StreetComplete 57.1 / Attached photo(s): / https://westnordost.de/p/204581.jpg</title>
-        <link>https://www.openstreetmap.org/note/4177906#c9126178</link>
-        <guid>https://www.openstreetmap.org/note/4177906#c9126178</guid>
-        <pubDate>Mon, 01 Apr 2024 15:47:41 +0000</pubDate>
-      </item><item>
-        <title>new note 4177849 (near 1202, Gubacsipuszta, 20th district) / * 2024 April 1 15:17 nubiai Created: Két házszám tartozik ehhez a sarki épülethez, mert mindkét utca felől van bejárat. / via StreetComplete 57.1 / Attached photo(s): / https://westnordost.de/p/204575.jpg / https://westnordost.de/p/204576.jpg / https://westnordost.de/p/204577.jpg / https://westnordost.de/p/204578.jpg</title>
-        <link>https://www.openstreetmap.org/note/4177849#c9126050</link>
-        <guid>https://www.openstreetmap.org/note/4177849#c9126050</guid>
-        <pubDate>Mon, 01 Apr 2024 15:17:18 +0000</pubDate>
-      </item><item>
-        <title>new note 4177806 (near 1202, Gubacsipuszta, 20th district) / * 2024 April 1 14:52 nubiai Created: Unable to answer &amp;quot;What are the pickup times of this collection box?&amp;quot; – Magyar posta zrt. – https://osm.org/node/6617029335 via StreetComplete 57.1: / Itt (már) nincs postaláda. / Attached photo(s): / https://westnordost.de/p/204561.jpg</title>
-        <link>https://www.openstreetmap.org/note/4177806#c9125964</link>
-        <guid>https://www.openstreetmap.org/note/4177806#c9125964</guid>
-        <pubDate>Mon, 01 Apr 2024 14:52:27 +0000</pubDate>
-      </item><item>
-        <title>new note 4177796 (near 1202, Gubacsipuszta, 20th district) / * 2024 April 1 14:48 nubiai Created: Térképen nem jelölt tűzcsap. / via StreetComplete 57.1 / Attached photo(s): / https://westnordost.de/p/204559.jpg</title>
-        <link>https://www.openstreetmap.org/note/4177796#c9125942</link>
-        <guid>https://www.openstreetmap.org/note/4177796#c9125942</guid>
-        <pubDate>Mon, 01 Apr 2024 14:48:38 +0000</pubDate>
-      </item><item>
-        <title>new note 4177792 (near 1202, Gubacsipuszta, 20th district) / * 2024 April 1 14:47 nubiai Created: Itt nincs kút. / via StreetComplete 57.1 / Attached photo(s): / https://westnordost.de/p/204557.jpg / https://westnordost.de/p/204558.jpg</title>
-        <link>https://www.openstreetmap.org/note/4177792#c9125933</link>
-        <guid>https://www.openstreetmap.org/note/4177792#c9125933</guid>
-        <pubDate>Mon, 01 Apr 2024 14:47:05 +0000</pubDate>
-      </item><item>
-        <title>new comment 3951396 (near 1202, Gubacsipuszta, 20th district) / * 2024 April 1 14:45 vasony Updated: Ezek a régiek... Az új név i nélkül van.</title>
-        <link>https://www.openstreetmap.org/note/3951396#c9125924</link>
-        <guid>https://www.openstreetmap.org/note/3951396#c9125924</guid>
-        <pubDate>Mon, 01 Apr 2024 14:45:45 +0000</pubDate>
-      </item><item>
-        <title>new note 4177765 (near 1202, Gubacsipuszta, 20th district) / * 2024 April 1 14:36 nubiai Created: Ez a ház nem 18-as, hanem 16-os házszámú. / via StreetComplete 57.1 / Attached photo(s): / https://westnordost.de/p/204552.jpg</title>
-        <link>https://www.openstreetmap.org/note/4177765#c9125860</link>
-        <guid>https://www.openstreetmap.org/note/4177765#c9125860</guid>
-        <pubDate>Mon, 01 Apr 2024 14:36:15 +0000</pubDate>
-      </item><item>
-        <title>new note 4177762 (near 1202, Gubacsipuszta, 20th district) / * 2024 April 1 14:35 nubiai Created: Ikerház Losonc utca felőli oldala, Losonc utca 18. / via StreetComplete 57.1 / Attached photo(s): / https://westnordost.de/p/204551.jpg</title>
-        <link>https://www.openstreetmap.org/note/4177762#c9125856</link>
-        <guid>https://www.openstreetmap.org/note/4177762#c9125856</guid>
-        <pubDate>Mon, 01 Apr 2024 14:35:05 +0000</pubDate>
-      </item><item>
-        <title>new note 4177758 (near 1202, Gubacsipuszta, 20th district) / * 2024 April 1 14:33 nubiai Created: Ezt itt egy ikerház. Ez a fele Ipolyság utca 11. A túlsó fele Losonc utca 18. / via StreetComplete 57.1 / Attached photo(s): / https://westnordost.de/p/204550.jpg</title>
-        <link>https://www.openstreetmap.org/note/4177758#c9125850</link>
-        <guid>https://www.openstreetmap.org/note/4177758#c9125850</guid>
-        <pubDate>Mon, 01 Apr 2024 14:33:10 +0000</pubDate>
-      </item><item>
-        <title>new note 4177743 (near 1202, Gubacsipuszta, 20th district) / * 2024 April 1 14:26 nubiai Created: Ikerház Losonc utca felőli része (Losonc utca 7.) / via StreetComplete 57.1 / Attached photo(s): / https://westnordost.de/p/204548.jpg / https://westnordost.de/p/204549.jpg</title>
-        <link>https://www.openstreetmap.org/note/4177743#c9125813</link>
-        <guid>https://www.openstreetmap.org/note/4177743#c9125813</guid>
-        <pubDate>Mon, 01 Apr 2024 14:26:24 +0000</pubDate>
-      </item><item>
-        <title>closed note 4165502 (near 2081, Csabagyöngye, Piliscsaba) / * 2024 March 24 07:11 utvonalfelmeresek Created: bezárt a kiskopár / #OsmAnd / * 2024 April 1 14:24 utvonalfelmeresek Resolved: https://www.openstreetmap.org/user/utvonalfelmeresek</title>
-        <link>https://www.openstreetmap.org/note/4165502#c9125805</link>
-        <guid>https://www.openstreetmap.org/note/4165502#c9125805</guid>
-        <pubDate>Mon, 01 Apr 2024 14:24:53 +0000</pubDate>
-      </item><item>
-        <title>new note 4177738 (near 1202, Gubacsipuszta, 20th district) / * 2024 April 1 14:24 nubiai Created: Ikerház Nagyvárad utca felőli része. (Nagyvárad utca 2.) Az ikerház másik fele Losonc utca 7. / via StreetComplete 57.1 / Attached photo(s): / https://westnordost.de/p/204545.jpg / https://westnordost.de/p/204546.jpg</title>
-        <link>https://www.openstreetmap.org/note/4177738#c9125801</link>
-        <guid>https://www.openstreetmap.org/note/4177738#c9125801</guid>
-        <pubDate>Mon, 01 Apr 2024 14:24:18 +0000</pubDate>
-      </item><item>
-        <title>closed note 4176112 (near 2000, Izbég, Szentendre) / * 2024 March 31 13:49 utvonalfelmeresek Created: tukor / #OsmAnd / * 2024 April 1 14:23 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/149437819</title>
-        <link>https://www.openstreetmap.org/note/4176112#c9125797</link>
-        <guid>https://www.openstreetmap.org/note/4176112#c9125797</guid>
-        <pubDate>Mon, 01 Apr 2024 14:23:48 +0000</pubDate>
-      </item><item>
-        <title>closed note 4176134 (near 2000, Izbég, Szentendre) / * 2024 March 31 13:56 utvonalfelmeresek Created: szagló gáz / #OsmAnd / * 2024 April 1 14:23 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/149437819</title>
-        <link>https://www.openstreetmap.org/note/4176134#c9125796</link>
-        <guid>https://www.openstreetmap.org/note/4176134#c9125796</guid>
-        <pubDate>Mon, 01 Apr 2024 14:23:33 +0000</pubDate>
-      </item><item>
-        <title>closed note 4176146 (near 2011, Ófalu, Budakalász) / * 2024 March 31 14:05 utvonalfelmeresek Created: t100 / #OsmAnd / * 2024 April 1 14:23 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/149437819</title>
-        <link>https://www.openstreetmap.org/note/4176146#c9125791</link>
-        <guid>https://www.openstreetmap.org/note/4176146#c9125791</guid>
-        <pubDate>Mon, 01 Apr 2024 14:23:06 +0000</pubDate>
-      </item><item>
-        <title>new note 4177725 (near 1202, Gubacsipuszta, 20th district) / * 2024 April 1 14:17 nubiai Created: Ez itt egy ikerház, de a térképen csak egy házszámon szerepel. Hasznos lenne megosztani. / via StreetComplete 57.1 / Attached photo(s): / https://westnordost.de/p/204543.jpg</title>
-        <link>https://www.openstreetmap.org/note/4177725#c9125764</link>
-        <guid>https://www.openstreetmap.org/note/4177725#c9125764</guid>
-        <pubDate>Mon, 01 Apr 2024 14:17:45 +0000</pubDate>
-      </item><item>
-        <title>new comment 3951396 (near 1202, Gubacsipuszta, 20th district) / * 2023 October 21 14:38 vasony-qa Created: 133/2023. (II. 22.) Főv. Kgy. határozat szerint az új neve Verecke utca, kikerültek már az új táblák? / * 2024 April 1 14:16 nubiai Updated: Kikerültek az új táblák. / Attached photo(s): / https://westnordost.de/p/204541.jpg / https://westnordost.de/p/204542.jpg</title>
-        <link>https://www.openstreetmap.org/note/3951396#c9125756</link>
-        <guid>https://www.openstreetmap.org/note/3951396#c9125756</guid>
-        <pubDate>Mon, 01 Apr 2024 14:16:06 +0000</pubDate>
-      </item><item>
-        <title>new note 4177702 (near 1202, Gubacsipuszta, 20th district) / * 2024 April 1 14:05 nubiai Created: Unable to answer &amp;quot;Is the water potable here?&amp;quot; – outside: Fővárosi Vízművek Zrt. (Water Tap) – https://osm.org/node/6600848935 via StreetComplete 57.1: / Itt nincs utcai kút. / Attached photo(s): / https://westnordost.de/p/204529.jpg / https://westnordost.de/p/204530.jpg</title>
-        <link>https://www.openstreetmap.org/note/4177702#c9125702</link>
-        <guid>https://www.openstreetmap.org/note/4177702#c9125702</guid>
-        <pubDate>Mon, 01 Apr 2024 14:05:46 +0000</pubDate>
-      </item><item>
-        <title>new note 4177295 (near 5000, Meggyesitelep, Szolnok) / * 2024 April 1 09:46 Created: Sztrájk utca</title>
-        <link>https://www.openstreetmap.org/note/4177295#c9124838</link>
-        <guid>https://www.openstreetmap.org/note/4177295#c9124838</guid>
-        <pubDate>Mon, 01 Apr 2024 09:46:56 +0000</pubDate>
       </item>
   </channel>
 </rss>
