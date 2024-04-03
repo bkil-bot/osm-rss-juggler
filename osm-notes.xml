@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3079360 (near 1138, Vizafogó, 13th district) / * 2022 March 8 15:34 ITineris Created: Itt épület egy új park, fel kellene mérni. / https://telex.hu/belfold/2022/03/08/uj-parkot-adtak-at-a-xiii-keruletben / * 2024 April 3 12:14 urbalazs Resolved: Fel lett mérve.</title>
+        <link>https://www.openstreetmap.org/note/3079360#c9132211</link>
+        <guid>https://www.openstreetmap.org/note/3079360#c9132211</guid>
+        <pubDate>Wed, 03 Apr 2024 12:14:39 +0000</pubDate>
+      </item><item>
         <title>new note 4180535 (near Téglagyár, Balatonszentgyörgy) / * 2024 April 3 10:25 Created: Zoe és Milo</title>
         <link>https://www.openstreetmap.org/note/4180535#c9131827</link>
         <guid>https://www.openstreetmap.org/note/4180535#c9131827</guid>
@@ -257,11 +262,6 @@
         <link>https://www.openstreetmap.org/note/4177762#c9127910</link>
         <guid>https://www.openstreetmap.org/note/4177762#c9127910</guid>
         <pubDate>Tue, 02 Apr 2024 07:35:14 +0000</pubDate>
-      </item><item>
-        <title>closed note 4177758 (near 1202, Gubacsipuszta, 20th district) / * 2024 April 1 14:33 nubiai Created: Ezt itt egy ikerház. Ez a fele Ipolyság utca 11. A túlsó fele Losonc utca 18. / via StreetComplete 57.1 / Attached photo(s): / https://westnordost.de/p/204550.jpg / * 2024 April 2 07:35 sfphoton Resolved: A házra beállítottam a semi-deteched house típust. A ház az Ipolyság utcai címet viseli, szóval külön címnek felvettem külön node-ba a Losonc utca 18-at.</title>
-        <link>https://www.openstreetmap.org/note/4177758#c9127909</link>
-        <guid>https://www.openstreetmap.org/note/4177758#c9127909</guid>
-        <pubDate>Tue, 02 Apr 2024 07:35:08 +0000</pubDate>
       </item>
   </channel>
 </rss>
