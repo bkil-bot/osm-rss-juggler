@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4180535 (near Téglagyár, Balatonszentgyörgy) / * 2024 April 3 12:24 bkil Resolved: </title>
+        <link>https://www.openstreetmap.org/note/4180535#c9132227</link>
+        <guid>https://www.openstreetmap.org/note/4180535#c9132227</guid>
+        <pubDate>Wed, 03 Apr 2024 12:24:10 +0000</pubDate>
+      </item><item>
         <title>closed note 3079360 (near 1138, Vizafogó, 13th district) / * 2022 March 8 15:34 ITineris Created: Itt épület egy új park, fel kellene mérni. / https://telex.hu/belfold/2022/03/08/uj-parkot-adtak-at-a-xiii-keruletben / * 2024 April 3 12:14 urbalazs Resolved: Fel lett mérve.</title>
         <link>https://www.openstreetmap.org/note/3079360#c9132211</link>
         <guid>https://www.openstreetmap.org/note/3079360#c9132211</guid>
@@ -252,16 +257,6 @@
         <link>https://www.openstreetmap.org/note/4177738#c9127922</link>
         <guid>https://www.openstreetmap.org/note/4177738#c9127922</guid>
         <pubDate>Tue, 02 Apr 2024 07:39:24 +0000</pubDate>
-      </item><item>
-        <title>closed note 4177765 (near 1202, Gubacsipuszta, 20th district) / * 2024 April 1 14:36 nubiai Created: Ez a ház nem 18-as, hanem 16-os házszámú. / via StreetComplete 57.1 / Attached photo(s): / https://westnordost.de/p/204552.jpg / * 2024 April 2 07:36 sfphoton Resolved: Javítottam, köszi!</title>
-        <link>https://www.openstreetmap.org/note/4177765#c9127913</link>
-        <guid>https://www.openstreetmap.org/note/4177765#c9127913</guid>
-        <pubDate>Tue, 02 Apr 2024 07:36:17 +0000</pubDate>
-      </item><item>
-        <title>closed note 4177762 (near 1202, Gubacsipuszta, 20th district) / * 2024 April 1 14:35 nubiai Created: Ikerház Losonc utca felőli oldala, Losonc utca 18. / via StreetComplete 57.1 / Attached photo(s): / https://westnordost.de/p/204551.jpg / * 2024 April 2 07:35 sfphoton Resolved: A házra beállítottam a semi-deteched house típust. A ház az Ipolyság utcai címet viseli, szóval külön címnek felvettem külön node-ba a Losonc utca 18-at.</title>
-        <link>https://www.openstreetmap.org/note/4177762#c9127910</link>
-        <guid>https://www.openstreetmap.org/note/4177762#c9127910</guid>
-        <pubDate>Tue, 02 Apr 2024 07:35:14 +0000</pubDate>
       </item>
   </channel>
 </rss>
