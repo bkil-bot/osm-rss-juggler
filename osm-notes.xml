@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4182392 (near 1081, Népszínház negyed, 8th district) / * 2024 April 4 15:26 Fischyke Created: Ivókút</title>
+        <link>https://www.openstreetmap.org/note/4182392#c9136239</link>
+        <guid>https://www.openstreetmap.org/note/4182392#c9136239</guid>
+        <pubDate>Thu, 04 Apr 2024 15:26:33 +0000</pubDate>
+      </item><item>
         <title>new comment 3671553 (near 2120, Alag, Dunakeszi) / * 2023 May 2 21:34 vasony Created: Csörsz-árok köz vagy Csörsz árok köz szerepel az utcatáblán, illetve ez tényleg szervizút névvel? / * 2024 April 4 10:12 vasony Updated: A Csörsz Árok utca elétrő írásmóddal van, ez is ellenőrizendő.</title>
         <link>https://www.openstreetmap.org/note/3671553#c9135218</link>
         <guid>https://www.openstreetmap.org/note/3671553#c9135218</guid>
@@ -47,41 +52,6 @@
         <link>https://www.openstreetmap.org/note/4181524#c9134569</link>
         <guid>https://www.openstreetmap.org/note/4181524#c9134569</guid>
         <pubDate>Thu, 04 Apr 2024 05:51:37 +0000</pubDate>
-      </item><item>
-        <title>closed note 4178004 (near 6721, Belváros, Szeged) / * 2024 April 1 16:31 fawkes2 Created: Hiányzik egy épület / via StreetComplete 57.1 / * 2024 April 1 20:02 vasony Resolved: felvittem, a 4-es épület nem látszik fentről. / * 2024 April 1 20:02 vasony Reactivated: viszont így most 2 6db -os szám van / * 2024 April 3 14:59 gabro00 Resolved: https://www.openstreetmap.org/changeset/149529578</title>
-        <link>https://www.openstreetmap.org/note/4178004#c9132686</link>
-        <guid>https://www.openstreetmap.org/note/4178004#c9132686</guid>
-        <pubDate>Wed, 03 Apr 2024 14:59:41 +0000</pubDate>
-      </item><item>
-        <title>closed note 4177973 (near 6721, Belváros, Szeged) / * 2024 April 1 16:19 fawkes2 Created: Hiányzó épület / via StreetComplete 57.1 / * 2024 April 3 14:57 gabro00 Resolved: https://www.openstreetmap.org/changeset/149529578</title>
-        <link>https://www.openstreetmap.org/note/4177973#c9132679</link>
-        <guid>https://www.openstreetmap.org/note/4177973#c9132679</guid>
-        <pubDate>Wed, 03 Apr 2024 14:57:08 +0000</pubDate>
-      </item><item>
-        <title>closed note 4177965 (near 6721, Belváros, Szeged) / * 2024 April 1 16:16 fawkes2 Created: Hiányzó épület / via StreetComplete 57.1 / * 2024 April 3 14:57 gabro00 Resolved: https://www.openstreetmap.org/changeset/149529578</title>
-        <link>https://www.openstreetmap.org/note/4177965#c9132678</link>
-        <guid>https://www.openstreetmap.org/note/4177965#c9132678</guid>
-        <pubDate>Wed, 03 Apr 2024 14:57:03 +0000</pubDate>
-      </item><item>
-        <title>closed note 4177962 (near 6721, Belváros, Szeged) / * 2024 April 1 16:15 fawkes2 Created: Hiányzó épület / via StreetComplete 57.1 / * 2024 April 3 14:57 gabro00 Resolved: https://www.openstreetmap.org/changeset/149529578</title>
-        <link>https://www.openstreetmap.org/note/4177962#c9132677</link>
-        <guid>https://www.openstreetmap.org/note/4177962#c9132677</guid>
-        <pubDate>Wed, 03 Apr 2024 14:57:00 +0000</pubDate>
-      </item><item>
-        <title>closed note 4177938 (near 6721, Belváros, Szeged) / * 2024 April 1 16:09 fawkes2 Created: Hiányzó épület / via StreetComplete 57.1 / * 2024 April 3 14:56 gabro00 Resolved: https://www.openstreetmap.org/changeset/149529578</title>
-        <link>https://www.openstreetmap.org/note/4177938#c9132676</link>
-        <guid>https://www.openstreetmap.org/note/4177938#c9132676</guid>
-        <pubDate>Wed, 03 Apr 2024 14:56:57 +0000</pubDate>
-      </item><item>
-        <title>closed note 4177939 (near 6721, Belváros, Szeged) / * 2024 April 1 16:09 fawkes2 Created: Hiányzó épület / via StreetComplete 57.1 / * 2024 April 3 14:56 gabro00 Resolved: https://www.openstreetmap.org/changeset/149529578</title>
-        <link>https://www.openstreetmap.org/note/4177939#c9132675</link>
-        <guid>https://www.openstreetmap.org/note/4177939#c9132675</guid>
-        <pubDate>Wed, 03 Apr 2024 14:56:55 +0000</pubDate>
-      </item><item>
-        <title>closed note 4177930 (near 6721, Belváros, Szeged) / * 2024 April 1 16:02 fawkes2 Created: Hiányzik egy ház innen / via StreetComplete 57.1 / * 2024 April 3 14:56 gabro00 Resolved: https://www.openstreetmap.org/changeset/149529578</title>
-        <link>https://www.openstreetmap.org/note/4177930#c9132674</link>
-        <guid>https://www.openstreetmap.org/note/4177930#c9132674</guid>
-        <pubDate>Wed, 03 Apr 2024 14:56:49 +0000</pubDate>
       </item>
   </channel>
 </rss>
