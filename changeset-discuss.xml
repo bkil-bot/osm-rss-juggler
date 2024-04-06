@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! A check_date címkébe kellene a dátumot írni a note helyett: https://wiki.openstreetmap.org/wiki/Key:check_date Más programok, pl StreetComplete értelmezni tudják ezt a címkét, és megkérik a felhasználókat bizonyos időközönként, hogy ellenőrizzék, igaz-e még. A &quot;nem működik&quot; infó is felesleges, ez már jelölve van azzal, hogy disused-ra raktad. Date: 2024-04-06T16:01:03+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/149641999</link>
+        <guid>https://www.openstreetmap.org/changeset/149641999#comment_1</guid>
+        <pubDate>2024-04-06T16:01:03+02:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Az a szabály, hogy azt térképezzük ami a terepen látszik, ha ellentmondás van a hivatalos és a táblázott név között, akkor a hivatalos nevet az official_name címkébe írjuk: https://wiki.openstreetmap.org/wiki/Key:name#Variants További jó térképezést! Date: 2024-04-06T11:55:06+02:00</title>
         <link>https://www.openstreetmap.org/changeset/149513709</link>
         <guid>https://www.openstreetmap.org/changeset/149513709#comment_1</guid>
