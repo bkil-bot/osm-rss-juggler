@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment 3079360 (near 1138, Vizafogó, 13th district) / * 2022 March 8 15:34 ITineris Created: Itt épület egy új park, fel kellene mérni. / https://telex.hu/belfold/2022/03/08/uj-parkot-adtak-at-a-xiii-keruletben / * 2024 April 3 12:14 urbalazs Resolved: Fel lett mérve. / * 2024 April 5 08:43 ITineris Reactivated:  / * 2024 April 5 08:49 ITineris Updated: Azt nem tudom, a park déli része tényleg ennyire teljesen üresen maradt-e (kijelölt kutyafuttató sincs?), de: / - Hiányolom a 35 db Xeon wifis lámpát (legalább egy hotspotot jó lenne jelölni) https://hofeka.hu/budapest-vizafogo-park/ / - Kerékpártámaszból elvileg 31 van, nem 42. https://www.budapest13.hu/2022/03/08/atadtuk-a-vizafogo-parkot/ / - Van összesen 24 pad, 9 nyugágy és 17 szemetes is. / * 2024 April 6 10:02 infeeeee Updated: Nem lett felmérve, én rajzoltam be  Esri alapján ami ott látszott, ezért nem is zártam le a jegyzetet, még mindig ez az utolsó changeset a legtöbb ponton: https://www.osm.org/changeset/148284486</title>
+        <link>https://www.openstreetmap.org/note/3079360#c9141806</link>
+        <guid>https://www.openstreetmap.org/note/3079360#c9141806</guid>
+        <pubDate>Sat, 06 Apr 2024 10:02:01 +0000</pubDate>
+      </item><item>
         <title>new note 4184753 (near 8019, Börgönd, Székesfehérvár) / * 2024 April 6 08:51 Spush Created: Az épületek jelentősen el vannak csúszva a Fömi 2007-2010-es Ortofotójához képest.</title>
         <link>https://www.openstreetmap.org/note/4184753#c9141606</link>
         <guid>https://www.openstreetmap.org/note/4184753#c9141606</guid>
@@ -217,11 +222,6 @@
         <link>https://www.openstreetmap.org/note/4133735#c9136840</link>
         <guid>https://www.openstreetmap.org/note/4133735#c9136840</guid>
         <pubDate>Thu, 04 Apr 2024 18:34:51 +0000</pubDate>
-      </item><item>
-        <title>closed note 3754993 (near 5435, Martfű) / * 2023 June 28 06:55 Created: Itt nincs OTP bank! / * 2024 April 4 17:51 Spush Resolved: Már nincs. Köszönjük a bejelentést a térkép frissült.</title>
-        <link>https://www.openstreetmap.org/note/3754993#c9136720</link>
-        <guid>https://www.openstreetmap.org/note/3754993#c9136720</guid>
-        <pubDate>Thu, 04 Apr 2024 17:51:37 +0000</pubDate>
       </item>
   </channel>
 </rss>
