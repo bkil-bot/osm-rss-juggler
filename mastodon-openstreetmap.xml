@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>#SotM2024: Call for Academic Track Abstracts! This year’s State of the Map conference will feature OSM Science 2024, the 7th edition of the Academic Track of State of the Map – a full day of sessions dedicated to academic research about, and with, OpenStreetMap. Authors are invited to submit abstracts (800-1200 words in plain text, without figures) using the OSM Science 2024 Pretalx submission system by 10 May 2024 https://blog.openstreetmap.org/2024/04/04/sotm-2024-call-for-academic-track-abstracts/ @sotm #OpenStreetMap #OSM #OSMScience #OpenScience</title>
+        <link>https://en.osm.town/@openstreetmap/112230976724320412</link>
+        <guid>https://en.osm.town/@openstreetmap/112230976724320412</guid>
+        <pubDate>Sun, 07 Apr 2024 16:53:20 +0000</pubDate>
+      </item><item>
         <title>another highlight from WeeklyOSM #714 OSM user SeverinGeo advocated for introducing new contributors to OpenStreetMap through field mapping in this diary entry, https://www.openstreetmap.org/user/SeverinGeo/diary/403778, listing many reasons why the field mapping approach is a good one. &amp;quot;</title>
         <link>https://en.osm.town/@openstreetmap/112200418672332133</link>
         <guid>https://en.osm.town/@openstreetmap/112200418672332133</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/111930429282040321</link>
         <guid>https://en.osm.town/@openstreetmap/111930429282040321</guid>
         <pubDate>Wed, 14 Feb 2024 15:00:10 +0000</pubDate>
-      </item><item>
-        <title>OpenStreetMap will take a large leap forward with the introduction of vector tiles on openstreetmap.org in 2024. https://blog.openstreetmap.org/2024/02/11/2024-announcing-the-year-of-the-openstreetmap-vector-maps/ #OpenStreetMap #OSM #gis #maps #map</title>
-        <link>https://en.osm.town/@openstreetmap/111920634419959150</link>
-        <guid>https://en.osm.town/@openstreetmap/111920634419959150</guid>
-        <pubDate>Mon, 12 Feb 2024 21:29:12 +0000</pubDate>
       </item>
   </channel>
 </rss>
