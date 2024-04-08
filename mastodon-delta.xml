@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>#cryptography news: rpgp, the pure Rust #OpenPGP encryption engine used in all #deltachat apps, got quite some love lately, including a revamp of the main entry point for developers: https://github.com/rpgp/rpgp . You may regard rpgp as an extension of the #rustcrypto effort where a lot of the base code lives and is co-maintained by the wonderful diginifiedquire who also just landed a long awaited sha1-collision detector -- as one of the few people officially allowed to write crypto code :)</title>
+        <link>https://chaos.social/@delta/112237664230834484</link>
+        <guid>https://chaos.social/@delta/112237664230834484</guid>
+        <pubDate>Mon, 08 Apr 2024 21:14:03 +0000</pubDate>
+      </item><item>
         <title>How many people do you know that have lost their messaging history on Whatsapp or Signal, photos etc during mobile phone transitions or breakage or through other shenenigans? With #deltachat you can: - export &amp;quot;everything&amp;quot; to a file and import it on any of the many different devices - or just setup a second device through a QR code scan -- which was happily discovered here after an accidental factory reset https://libranet.de/display/0b6b25a8-2066-0695-ca24-081964494389</title>
         <link>https://chaos.social/@delta/112180528987313206</link>
         <guid>https://chaos.social/@delta/112180528987313206</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/111641006313294038</link>
         <guid>https://chaos.social/@delta/111641006313294038</guid>
         <pubDate>Mon, 25 Dec 2023 12:16:06 +0000</pubDate>
-      </item><item>
-        <title>#chatmail is not a replacement for Whatsapp in the traditional sense. It&amp;#39;s a small machine that can be tweaked in many ways. The tweakability of the e-mail system is in it&amp;#39;s DNA and practises ... that is the antithesis to WA if you like :) What drives nine.testrun.org, the first public chatmail service, is fully visible at https://github.com/deltachat/chatmail -- a minimalist config and setup, some python modules and tests, standard postfix/dovecot. co-incidentally pretty fast but there is a twist ;) Delta Chat messaging screen with echo-bot: One said says &quot;Hi&quot;, the bot answers &quot;Hi&quot;. One sight says &quot;Oh!&quot; and 0.24 seconds later the bot says &quot;Oh!&quot; One says &quot;That was fast&quot; and the bot answers. All 6 messages were typed, received and seen in 4.16 seconds overall.</title>
-        <link>https://chaos.social/@delta/111586633840591278</link>
-        <guid>https://chaos.social/@delta/111586633840591278</guid>
-        <pubDate>Fri, 15 Dec 2023 21:48:27 +0000</pubDate>
       </item>
   </channel>
 </rss>

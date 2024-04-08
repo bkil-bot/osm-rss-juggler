@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4189665 (near 1061, Terézváros, 6th district) / * 2024 April 8 21:04 NeisBot Resolved: This note has the identical location and text / as note https://osm.org/note/4175409 / Therefore, it will be closed. / #DuplicateNote</title>
+        <link>https://www.openstreetmap.org/note/4189665#c9152949</link>
+        <guid>https://www.openstreetmap.org/note/4189665#c9152949</guid>
+        <pubDate>Mon, 08 Apr 2024 21:04:44 +0000</pubDate>
+      </item><item>
+        <title>new note 4189665 (near 1061, Terézváros, 6th district) / * 2024 April 8 20:40 Created: &amp;quot;this place was permanently closed and the kern coffee collective is now in its place &amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2024-02-28T20:33:36Z / POI name: Melon / POI types: amenity-bar / #organicmaps ios</title>
+        <link>https://www.openstreetmap.org/note/4189665#c9152896</link>
+        <guid>https://www.openstreetmap.org/note/4189665#c9152896</guid>
+        <pubDate>Mon, 08 Apr 2024 20:40:25 +0000</pubDate>
+      </item><item>
         <title>new note 4189446 (near 1139, Angyalföld, 13th district) / * 2024 April 8 17:26 OSM KAMI Created: artkonyha.hu / via StreetComplete_ee 57.0</title>
         <link>https://www.openstreetmap.org/note/4189446#c9151877</link>
         <guid>https://www.openstreetmap.org/note/4189446#c9151877</guid>
@@ -287,21 +297,6 @@
         <link>https://www.openstreetmap.org/note/4187259#c9146875</link>
         <guid>https://www.openstreetmap.org/note/4187259#c9146875</guid>
         <pubDate>Sun, 07 Apr 2024 14:47:15 +0000</pubDate>
-      </item><item>
-        <title>new note 4187258 (near 1089, Tisztviselőtelep, 8th district) / * 2024 April 7 14:47 Kecsege Created: Szürke fém kuka / via StreetComplete 57.1</title>
-        <link>https://www.openstreetmap.org/note/4187258#c9146874</link>
-        <guid>https://www.openstreetmap.org/note/4187258#c9146874</guid>
-        <pubDate>Sun, 07 Apr 2024 14:47:15 +0000</pubDate>
-      </item><item>
-        <title>new note 4187257 (near 1089, Tisztviselőtelep, 8th district) / * 2024 April 7 14:47 Kecsege Created: Posta levélszekrény / via StreetComplete 57.1 / Attached photo(s): / https://westnordost.de/p/205793.jpg</title>
-        <link>https://www.openstreetmap.org/note/4187257#c9146873</link>
-        <guid>https://www.openstreetmap.org/note/4187257#c9146873</guid>
-        <pubDate>Sun, 07 Apr 2024 14:47:14 +0000</pubDate>
-      </item><item>
-        <title>new note 4187256 (near 1083, Losonci negyed, 8th district) / * 2024 April 7 14:47 Kecsege Created: Zöld műanyag kuka / via StreetComplete 57.1</title>
-        <link>https://www.openstreetmap.org/note/4187256#c9146872</link>
-        <guid>https://www.openstreetmap.org/note/4187256#c9146872</guid>
-        <pubDate>Sun, 07 Apr 2024 14:47:14 +0000</pubDate>
       </item>
   </channel>
 </rss>
