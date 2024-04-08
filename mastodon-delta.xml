@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>for those interested, there also is a recent hackernews discussion around rpgp: https://news.ycombinator.com/item?id=39961994</title>
+        <link>https://chaos.social/@delta/112237770175658010</link>
+        <guid>https://chaos.social/@delta/112237770175658010</guid>
+        <pubDate>Mon, 08 Apr 2024 21:40:59 +0000</pubDate>
+      </item><item>
         <title>#cryptography news: rpgp, the pure Rust #OpenPGP encryption engine used in all #deltachat apps, got quite some love lately, including a revamp of the main entry point for developers: https://github.com/rpgp/rpgp . You may regard rpgp as an extension of the #rustcrypto effort where a lot of the base code lives and is co-maintained by the wonderful diginifiedquire who also just landed a long awaited sha1-collision detector -- as one of the few people officially allowed to write crypto code :)</title>
         <link>https://chaos.social/@delta/112237664230834484</link>
         <guid>https://chaos.social/@delta/112237664230834484</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/111662918305095365</link>
         <guid>https://chaos.social/@delta/111662918305095365</guid>
         <pubDate>Fri, 29 Dec 2023 09:08:36 +0000</pubDate>
-      </item><item>
-        <title>More #deltachat folks are arriving at #37c3 today and tomorrow .... We I&amp;#39;ll be around #komona in hall H ... On day 1 we intend to do a #chatmail hands on session probably in the evening. There is usually a #komona billboard with planned sessions .... Anyways, everyone, please have enjoyable travels and a wonderful (as can be these days, for some it&amp;#39;s gruesome) beginnings of 2024 ... See you at 37c3 or elsewhere!</title>
-        <link>https://chaos.social/@delta/111641006313294038</link>
-        <guid>https://chaos.social/@delta/111641006313294038</guid>
-        <pubDate>Mon, 25 Dec 2023 12:16:06 +0000</pubDate>
       </item>
   </channel>
 </rss>
