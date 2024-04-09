@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4184946 (near 5130, Jászapáti) / * 2024 April 6 10:22 Freygrilledcheese Created: &amp;quot;The store has permanently closed.&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2024-02-28T20:33:36Z / POI name: Vegyesbolt / POI types: shop-convenience / #organicmaps android / * 2024 April 9 12:26 Kecsege Resolved: Deleted. / https://www.openstreetmap.org/changeset/149775302</title>
+        <link>https://www.openstreetmap.org/note/4184946#c9154712</link>
+        <guid>https://www.openstreetmap.org/note/4184946#c9154712</guid>
+        <pubDate>Tue, 09 Apr 2024 12:26:01 +0000</pubDate>
+      </item><item>
         <title>closed note 4183621 (near 4100, Berettyószentmárton, Berettyóújfalu) / * 2024 April 5 12:23 Pan Perníček Created: Forwarding anonymous report from #Mapycz user, please verify: COOP is definitively closed. / https://www.openstreetmap.org/node/3432034619 / * 2024 April 9 12:20 Kecsege Resolved: Changed it to disused. / https://www.openstreetmap.org/changeset/149775074</title>
         <link>https://www.openstreetmap.org/note/4183621#c9154705</link>
         <guid>https://www.openstreetmap.org/note/4183621#c9154705</guid>
@@ -282,11 +287,6 @@
         <link>https://www.openstreetmap.org/note/4187261#c9147312</link>
         <guid>https://www.openstreetmap.org/note/4187261#c9147312</guid>
         <pubDate>Sun, 07 Apr 2024 16:05:17 +0000</pubDate>
-      </item><item>
-        <title>closed note 4187263 (near 1083, Losonci negyed, 8th district) / * 2024 April 7 16:00 Kecsege Resolved: Hozzáadva: / https://www.openstreetmap.org/changeset/149699284</title>
-        <link>https://www.openstreetmap.org/note/4187263#c9147297</link>
-        <guid>https://www.openstreetmap.org/note/4187263#c9147297</guid>
-        <pubDate>Sun, 07 Apr 2024 16:00:07 +0000</pubDate>
       </item>
   </channel>
 </rss>
