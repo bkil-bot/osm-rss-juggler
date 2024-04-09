@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4183621 (near 4100, Berettyószentmárton, Berettyóújfalu) / * 2024 April 5 12:23 Pan Perníček Created: Forwarding anonymous report from #Mapycz user, please verify: COOP is definitively closed. / https://www.openstreetmap.org/node/3432034619 / * 2024 April 9 12:20 Kecsege Resolved: Changed it to disused. / https://www.openstreetmap.org/changeset/149775074</title>
+        <link>https://www.openstreetmap.org/note/4183621#c9154705</link>
+        <guid>https://www.openstreetmap.org/note/4183621#c9154705</guid>
+        <pubDate>Tue, 09 Apr 2024 12:20:43 +0000</pubDate>
+      </item><item>
+        <title>closed note 4183629 (near 4100, Berettyószentmárton, Berettyóújfalu) / * 2024 April 5 12:26 Pan Perníček Created: Forwarding anonymous report from #Mapycz user, please verify: 	Fészek Presszó is definitively closed. / https://www.openstreetmap.org/way/1097453563 / * 2024 April 9 12:16 Kecsege Resolved: Change amenity to disused. / https://www.openstreetmap.org/changeset/149774906</title>
+        <link>https://www.openstreetmap.org/note/4183629#c9154685</link>
+        <guid>https://www.openstreetmap.org/note/4183629#c9154685</guid>
+        <pubDate>Tue, 09 Apr 2024 12:16:55 +0000</pubDate>
+      </item><item>
+        <title>closed note 4189095 (near 3441, Mezőkeresztes) / * 2024 April 8 13:41 Created: Tankstelle / * 2024 April 9 12:01 Kecsege Resolved: Gas station added. If you have additional information, for example about opening hours, please add a note again. / https://www.openstreetmap.org/changeset/149774243</title>
+        <link>https://www.openstreetmap.org/note/4189095#c9154630</link>
+        <guid>https://www.openstreetmap.org/note/4189095#c9154630</guid>
+        <pubDate>Tue, 09 Apr 2024 12:01:49 +0000</pubDate>
+      </item><item>
         <title>closed note 4078884 (near Mihálydomb, Bonyhád) / * 2024 January 20 17:27 Created: OTP Bank ATM Non stop. / * 2024 April 9 10:57 Spush Resolved: </title>
         <link>https://www.openstreetmap.org/note/4078884#c9154420</link>
         <guid>https://www.openstreetmap.org/note/4078884#c9154420</guid>
@@ -272,16 +287,6 @@
         <link>https://www.openstreetmap.org/note/4187263#c9147297</link>
         <guid>https://www.openstreetmap.org/note/4187263#c9147297</guid>
         <pubDate>Sun, 07 Apr 2024 16:00:07 +0000</pubDate>
-      </item><item>
-        <title>new note 4187268 (near 1082, Corvin negyed, 8th district) / * 2024 April 7 14:47 Kecsege Created: Szobor, falon. Kiss Kovács Gyula, Anya Gyermekével 1959 / via StreetComplete 57.1 / Attached photo(s): / https://westnordost.de/p/205798.jpg</title>
-        <link>https://www.openstreetmap.org/note/4187268#c9146884</link>
-        <guid>https://www.openstreetmap.org/note/4187268#c9146884</guid>
-        <pubDate>Sun, 07 Apr 2024 14:47:20 +0000</pubDate>
-      </item><item>
-        <title>new note 4187267 (near 1082, Corvin negyed, 8th district) / * 2024 April 7 14:47 Kecsege Created: Zöld sáv, 6 kerékpár férőhely roller piktogran / via StreetComplete 57.1 / Attached photo(s): / https://westnordost.de/p/205797.jpg</title>
-        <link>https://www.openstreetmap.org/note/4187267#c9146883</link>
-        <guid>https://www.openstreetmap.org/note/4187267#c9146883</guid>
-        <pubDate>Sun, 07 Apr 2024 14:47:20 +0000</pubDate>
       </item>
   </channel>
 </rss>
