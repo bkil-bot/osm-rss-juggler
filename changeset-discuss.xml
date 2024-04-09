@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: sfphoton Discussion Comment No.: 1 Comment: Szia! Nem tudom, hogy te észrevetted-e, de nekem most tűnt fel, hogy az openstreetmap.org-on nem jelenik meg a Mátra nevű erdő, amit ebben a changeset-ben is szerkesztettél. ( https://www.openstreetmap.org/relation/3334074 ) Én is jártam már így egy hasonló landuse multipolygonnal, nekem az volt a gond, hogy iD-ben úgy pakoltam a határoló vonalakat, hogy egy picike helyen két landuse relation átfedett egymással, és eltűnt az erdő. A problémáról így tudsz meggyőződni: 1. menj fel openstreetmap.org-ra, és nézd meg a Mátrát 2. zoomolj bele legalább 14-es szintig (közvetlen link: https://www.openstreetmap.org/#map=14/47.8947/19.8507 ) 3. nyomd meg a Ctrl+F5 kombót, hogy tuti a legfrissebb képet lásd Azt sajnos nem tudom, hogy ebben a changeset-ben van-e a hiba, vagy hogy egyáltalán te okoztad-e. Én csak most vettem észre, és nem tudom, hogy hogyan lehetne kideríteni. De meg tudod esetleg nézni a dolgot? Date: 2024-04-09T08:53:46+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/149763265</link>
+        <guid>https://www.openstreetmap.org/changeset/149763265#comment_1</guid>
+        <pubDate>2024-04-09T08:53:46+02:00</pubDate>
+      </item><item>
         <title>Contributor: sfphoton Discussion Comment No.: 2 Comment: Nyomjad, köszi az észrevételt! Azt kérlek csekkold előtte, hogy az adatok amúgy helyesek-e, én nem néztem most meg. Date: 2024-04-08T17:06:10+02:00</title>
         <link>https://www.openstreetmap.org/changeset/149173539</link>
         <guid>https://www.openstreetmap.org/changeset/149173539#comment_2</guid>
