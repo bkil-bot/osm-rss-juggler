@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>The OSMF is hosting a webinar / panel discussion touching on OSMF membership overview, experiences, challenges and opportunities on 13 April. Sign up here: https://us06web.zoom.us/meeting/register/tZ0qc--vrTspGt1scDZIXxLAhDRacI4j7noY#/registration #OpenStreetMap #OSM #OSMFMembershipCampaign #OSMFoundation #OSMF</title>
+        <link>https://en.osm.town/@openstreetmap/112253906481368646</link>
+        <guid>https://en.osm.town/@openstreetmap/112253906481368646</guid>
+        <pubDate>Thu, 11 Apr 2024 18:04:40 +0000</pubDate>
+      </item><item>
         <title>Eid Mubarak! #OpenStreetMap is making a map of all the things in the world. You can help and map things like Mosques &amp;lt;https://wiki.openstreetmap.org/wiki/Mosque&amp;gt;, Islamic places of worship &amp;lt;https://wiki.openstreetmap.org/wiki/Tag:religion%3Dmuslim&amp;gt;, or the availability of #Halal food &amp;lt;https://wiki.openstreetmap.org/wiki/Key:diet:halal&amp;gt; #musilim #islam #eid #eidmubarak #ramadan</title>
         <link>https://en.osm.town/@openstreetmap/112245866602711648</link>
         <guid>https://en.osm.town/@openstreetmap/112245866602711648</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/111970072119156010</link>
         <guid>https://en.osm.town/@openstreetmap/111970072119156010</guid>
         <pubDate>Wed, 21 Feb 2024 15:01:51 +0000</pubDate>
-      </item><item>
-        <title>The OpenStreetMap website got a new feature: OSMers can now mute other users. If another OSMer is sending you too many messages, you can “mute them”, leaving you free to continue mapping! The source code adding this: &amp;lt;https://github.com/openstreetmap/openstreetmap-website/pull/4284&amp;gt; #OpenStreetMap #OSM</title>
-        <link>https://en.osm.town/@openstreetmap/111958752365984976</link>
-        <guid>https://en.osm.town/@openstreetmap/111958752365984976</guid>
-        <pubDate>Mon, 19 Feb 2024 15:03:06 +0000</pubDate>
       </item>
   </channel>
 </rss>
