@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment 3854448 (near 2500, Esztergom) / * 2024 April 12 17:02 infeeeee Updated: Ok, jogos. / Felrajzolod, vagy megcsináljam?</title>
+        <link>https://www.openstreetmap.org/note/3854448#c9165646</link>
+        <guid>https://www.openstreetmap.org/note/3854448#c9165646</guid>
+        <pubDate>Fri, 12 Apr 2024 17:02:23 +0000</pubDate>
+      </item><item>
+        <title>new comment 3854448 (near 2500, Esztergom) / * 2024 April 12 16:49 ef64 Updated: Azért gondolom, hogy kellene, mert a térképen az ember azért számolja a kereszteződéseket, amolyan ellenőrzés gyanánt...</title>
+        <link>https://www.openstreetmap.org/note/3854448#c9165608</link>
+        <guid>https://www.openstreetmap.org/note/3854448#c9165608</guid>
+        <pubDate>Fri, 12 Apr 2024 16:49:42 +0000</pubDate>
+      </item><item>
+        <title>reactivated note 3854448 (near 2500, Esztergom) / * 2024 April 12 16:48 ef64 Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/3854448#c9165605</link>
+        <guid>https://www.openstreetmap.org/note/3854448#c9165605</guid>
+        <pubDate>Fri, 12 Apr 2024 16:48:12 +0000</pubDate>
+      </item><item>
+        <title>new note 4195080 (near 2721, Pilis) / * 2024 April 12 16:46 Zsolt Takács Created: Infótábla, asztal, pad</title>
+        <link>https://www.openstreetmap.org/note/4195080#c9165599</link>
+        <guid>https://www.openstreetmap.org/note/4195080#c9165599</guid>
+        <pubDate>Fri, 12 Apr 2024 16:46:16 +0000</pubDate>
+      </item><item>
         <title>new note 4195035 (near 2721, Pilis) / * 2024 April 12 16:14 Created: Tisztás</title>
         <link>https://www.openstreetmap.org/note/4195035#c9165518</link>
         <guid>https://www.openstreetmap.org/note/4195035#c9165518</guid>
@@ -197,26 +217,6 @@
         <link>https://www.openstreetmap.org/note/4191106#c9156724</link>
         <guid>https://www.openstreetmap.org/note/4191106#c9156724</guid>
         <pubDate>Wed, 10 Apr 2024 06:46:47 +0000</pubDate>
-      </item><item>
-        <title>closed note 4184946 (near 5130, Jászapáti) / * 2024 April 6 10:22 Freygrilledcheese Created: &amp;quot;The store has permanently closed.&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2024-02-28T20:33:36Z / POI name: Vegyesbolt / POI types: shop-convenience / #organicmaps android / * 2024 April 9 12:26 Kecsege Resolved: Deleted. / https://www.openstreetmap.org/changeset/149775302</title>
-        <link>https://www.openstreetmap.org/note/4184946#c9154712</link>
-        <guid>https://www.openstreetmap.org/note/4184946#c9154712</guid>
-        <pubDate>Tue, 09 Apr 2024 12:26:01 +0000</pubDate>
-      </item><item>
-        <title>closed note 4183621 (near 4100, Berettyószentmárton, Berettyóújfalu) / * 2024 April 5 12:23 Pan Perníček Created: Forwarding anonymous report from #Mapycz user, please verify: COOP is definitively closed. / https://www.openstreetmap.org/node/3432034619 / * 2024 April 9 12:20 Kecsege Resolved: Changed it to disused. / https://www.openstreetmap.org/changeset/149775074</title>
-        <link>https://www.openstreetmap.org/note/4183621#c9154705</link>
-        <guid>https://www.openstreetmap.org/note/4183621#c9154705</guid>
-        <pubDate>Tue, 09 Apr 2024 12:20:43 +0000</pubDate>
-      </item><item>
-        <title>closed note 4183629 (near 4100, Berettyószentmárton, Berettyóújfalu) / * 2024 April 5 12:26 Pan Perníček Created: Forwarding anonymous report from #Mapycz user, please verify: 	Fészek Presszó is definitively closed. / https://www.openstreetmap.org/way/1097453563 / * 2024 April 9 12:16 Kecsege Resolved: Change amenity to disused. / https://www.openstreetmap.org/changeset/149774906</title>
-        <link>https://www.openstreetmap.org/note/4183629#c9154685</link>
-        <guid>https://www.openstreetmap.org/note/4183629#c9154685</guid>
-        <pubDate>Tue, 09 Apr 2024 12:16:55 +0000</pubDate>
-      </item><item>
-        <title>closed note 4189095 (near 3441, Mezőkeresztes) / * 2024 April 8 13:41 Created: Tankstelle / * 2024 April 9 12:01 Kecsege Resolved: Gas station added. If you have additional information, for example about opening hours, please add a note again. / https://www.openstreetmap.org/changeset/149774243</title>
-        <link>https://www.openstreetmap.org/note/4189095#c9154630</link>
-        <guid>https://www.openstreetmap.org/note/4189095#c9154630</guid>
-        <pubDate>Tue, 09 Apr 2024 12:01:49 +0000</pubDate>
       </item>
   </channel>
 </rss>
