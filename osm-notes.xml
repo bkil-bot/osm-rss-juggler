@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4194834 (near 8220, Almádi, Balatonalmádi) / * 2024 April 12 13:42 B988 Created: Ez nem bánya hanem szeméttelep volt, amit lezártak, és foldtakarót húztak rá. / This wasn&amp;#39;t a mine / quary but a dump what has been closed and covered.</title>
+        <link>https://www.openstreetmap.org/note/4194834#c9165121</link>
+        <guid>https://www.openstreetmap.org/note/4194834#c9165121</guid>
+        <pubDate>Fri, 12 Apr 2024 13:42:50 +0000</pubDate>
+      </item><item>
         <title>closed note 4109383 (near 4002, North Great Plain, 4002, Hungary) / * 2024 April 12 12:14 ITineris Resolved: Felvittem. Köszönöm.</title>
         <link>https://www.openstreetmap.org/note/4109383#c9164881</link>
         <guid>https://www.openstreetmap.org/note/4109383#c9164881</guid>
@@ -222,16 +227,6 @@
         <link>https://www.openstreetmap.org/note/3216305#c9153853</link>
         <guid>https://www.openstreetmap.org/note/3216305#c9153853</guid>
         <pubDate>Tue, 09 Apr 2024 08:01:43 +0000</pubDate>
-      </item><item>
-        <title>closed note 4189665 (near 1061, Terézváros, 6th district) / * 2024 April 8 21:04 NeisBot Resolved: This note has the identical location and text / as note https://osm.org/note/4175409 / Therefore, it will be closed. / #DuplicateNote</title>
-        <link>https://www.openstreetmap.org/note/4189665#c9152949</link>
-        <guid>https://www.openstreetmap.org/note/4189665#c9152949</guid>
-        <pubDate>Mon, 08 Apr 2024 21:04:44 +0000</pubDate>
-      </item><item>
-        <title>new note 4189665 (near 1061, Terézváros, 6th district) / * 2024 April 8 20:40 Created: &amp;quot;this place was permanently closed and the kern coffee collective is now in its place &amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2024-02-28T20:33:36Z / POI name: Melon / POI types: amenity-bar / #organicmaps ios</title>
-        <link>https://www.openstreetmap.org/note/4189665#c9152896</link>
-        <guid>https://www.openstreetmap.org/note/4189665#c9152896</guid>
-        <pubDate>Mon, 08 Apr 2024 20:40:25 +0000</pubDate>
       </item>
   </channel>
 </rss>
