@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: urbalazs Discussion Comment No.: 1 Comment: A https://www.openstreetmap.org/node/10597078025 parkolójegy-kiadó automata NAV regisztrációs számából kimaradt egy szám. Meg tudnád nézni? Date: 2024-04-12T23:18:09+02:00</title>
+        <title>Contributor: infeeeee Discussion Comment No.: 2 Comment: Javítva, volt róla fotóm, tényleg elgépépeltem: https://www.openstreetmap.org/changeset/149943650 Date: 2024-04-13T09:51:53+02:00</title>
         <link>https://www.openstreetmap.org/changeset/148015153</link>
-        <guid>https://www.openstreetmap.org/changeset/148015153#comment_1</guid>
-        <pubDate>2024-04-12T23:18:09+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/148015153#comment_2</guid>
+        <pubDate>2024-04-13T09:51:53+02:00</pubDate>
       </item><item>
         <title>Contributor: balint36 Discussion Comment No.: 6 Comment: Ma voltam arra, felmértem. A térképen átrajzoltam. Szerencsére az Esri World viszonylag friss. Date: 2024-04-12T19:04:16+02:00</title>
         <link>https://www.openstreetmap.org/changeset/147703184</link>
@@ -97,11 +97,6 @@
         <link>https://www.openstreetmap.org/changeset/149641999</link>
         <guid>https://www.openstreetmap.org/changeset/149641999#comment_1</guid>
         <pubDate>2024-04-06T16:01:03+02:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Az a szabály, hogy azt térképezzük ami a terepen látszik, ha ellentmondás van a hivatalos és a táblázott név között, akkor a hivatalos nevet az official_name címkébe írjuk: https://wiki.openstreetmap.org/wiki/Key:name#Variants További jó térképezést! Date: 2024-04-06T11:55:06+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/149513709</link>
-        <guid>https://www.openstreetmap.org/changeset/149513709#comment_1</guid>
-        <pubDate>2024-04-06T11:55:06+02:00</pubDate>
       </item>
   </channel>
 </rss>
