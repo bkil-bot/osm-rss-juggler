@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>&amp;quot;but e-mail !1!!!&amp;quot; Is probably still a number one objection from experts and power users who refuse to fathom that e-mail protocols are a viable option for instant messaging even if it demonstrably works, is fast and secure :) We&amp;#39;d be happy if someone engaged in a proper comparison with xmpp and matrix specs and impls, really the only three messenging protocols deployed and implemented at scale. (Can&amp;#39;t compare that with Signal or WhatsApp which don&amp;#39;t have wire specs!). https://github.com/deltachat/deltachat-core-rust/blob/main/standards.md</title>
+        <link>https://chaos.social/@delta/112262757654186464</link>
+        <guid>https://chaos.social/@delta/112262757654186464</guid>
+        <pubDate>Sat, 13 Apr 2024 07:35:38 +0000</pubDate>
+      </item><item>
         <title>for those interested, there also is a recent hackernews discussion around rpgp: https://news.ycombinator.com/item?id=39961994</title>
         <link>https://chaos.social/@delta/112237770175658010</link>
         <guid>https://chaos.social/@delta/112237770175658010</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/111666157750901070</link>
         <guid>https://chaos.social/@delta/111666157750901070</guid>
         <pubDate>Fri, 29 Dec 2023 22:52:26 +0000</pubDate>
-      </item><item>
-        <title>The #37c3 delta chat group has now 48 members, all using guaranteed end to end encryption and several games and apps .... So far without a glitch, no &amp;quot;couldn&amp;#39;t decrypt&amp;quot; errors, everything lightning fast, some people using multiple devices with their account, 30 people joining during live onboarding on day1 and using a editor together in the chat (like cryptpad without a server basically). Seems like all the milestones of 2023 (guaranteed e2ee, web apps, chatmail) are ... Actually playing out ;)</title>
-        <link>https://chaos.social/@delta/111662918305095365</link>
-        <guid>https://chaos.social/@delta/111662918305095365</guid>
-        <pubDate>Fri, 29 Dec 2023 09:08:36 +0000</pubDate>
       </item>
   </channel>
 </rss>
