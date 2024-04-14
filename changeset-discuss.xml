@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: Tómas Ingi Discussion Comment No.: 3 Comment: Hi! I have some thoughts on this retagging, mostly in terms of deciding what is a part of the station and what not. As an example, why is this (https://www.openstreetmap.org/node/10379253912) node a part of Keleti, but not this (https://www.openstreetmap.org/way/228385724) area? This seems to be a rather arbitrary distinction; an artefact of how the different landuse=railway areas happened to be split. I can see how mapping railway stations as areas could be useful in some circumstances. That being said, how would you justify the choice in where to map the boundaries of the station, both in this context and in general? Would you agree that the borders extend too far in this case, or is there a sound reason for them? Date: 2024-04-14T17:42:18+02:00</title>
+        <title>Contributor: gymate Discussion Comment No.: 5 Comment: Hi Tómas! &gt; why is this node a part of Keleti, but not this area? You're right, I haven't noticed that entry signals are already on the map. Therefore I guessed their positions. This is why the linked node was incorrectly part of the station. &gt; Would you agree that the borders extend too far in this case Yes—thanks for the heads-up. I've adjusted the station boundaries accordingly: https://www.openstreetmap.org/changeset/150006448 &gt; how would you justify the choice in where to map the boundaries of the station The area of a railway station is between its entry signals on both sides (or, in this case, the only side). See: https://wiki.openstreetmap.org/wiki/Tag:railway%3Dstation#As_an_area Date: 2024-04-14T19:10:19+02:00</title>
         <link>https://www.openstreetmap.org/changeset/149631914</link>
-        <guid>https://www.openstreetmap.org/changeset/149631914#comment_3</guid>
-        <pubDate>2024-04-14T17:42:18+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/149631914#comment_5</guid>
+        <pubDate>2024-04-14T19:10:19+02:00</pubDate>
       </item><item>
         <title>Contributor: gymate Discussion Comment No.: 7 Comment: Köszi szépen! :) Date: 2024-04-14T12:07:31+02:00</title>
         <link>https://www.openstreetmap.org/changeset/147703184</link>
