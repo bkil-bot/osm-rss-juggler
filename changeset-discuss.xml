@@ -77,16 +77,6 @@
         <link>https://www.openstreetmap.org/changeset/149440365</link>
         <guid>https://www.openstreetmap.org/changeset/149440365#comment_1</guid>
         <pubDate>2024-04-07T12:52:53+02:00</pubDate>
-      </item><item>
-        <title>Contributor: gymate Discussion Comment No.: 2 Comment: Szia! Volt egy hosszú vitám a Community Forumon az állomások jelöléséről (https://community.openstreetmap.org/t/railway-station-as-an-area/104839/), és arra jutottunk, hogy amikor csak lehet, érdemes areaként jelölni az állomásokat, mivel több információval bír. Az area használatával egy geometriai kapcsolat képezhető az állomás és annak vágányai, váltói, jelzői stb. között. Továbbá így egyértelműen lekérdezhető az állomás (infrastrukturális) kiterjedése is. Egyetértek azzal, hogy a jelölőnek a csarnoknál kellene lennie. Azzal viszont nem, hogy ezt az area node-dá való visszafokozásával kellene elérni, hiszen ez egy 'tagging for the renderer' lenne. Az OSM Carto fejlesztői nyitottak a probléma orvoslására (https://github.com/gravitystorm/openstreetmap-carto/issues/105#issuecomment-22244012), küldtem is nekik egy javaslatot (https://github.com/gravitystorm/openstreetmap-carto/issues/4946#issuecomment-2030223085). Ezt azonban egyelőre elutasították, többek között a `railway=station` tag areákon való használatának ritkasága miatt. Amint elterjedtebb lesz – ezen szerintem egy proposal is segítene a `railway=station` taggel kapcsolatban, amit később lehet, hogy be tudok vállalni –, vissza lehet majd térni erre a kérdésre. A GraphHoppernél pedig már tavaly leadtak egy feature requestet a multipolygonoktól / -hoz való útvonaltervezésre (https://github.com/graphhopper/graphhopper/issues/2857). Date: 2024-04-07T11:56:41+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/149631914</link>
-        <guid>https://www.openstreetmap.org/changeset/149631914#comment_2</guid>
-        <pubDate>2024-04-07T11:56:41+02:00</pubDate>
-      </item><item>
-        <title>Contributor: indigomc Discussion Comment No.: 2 Comment: I see that the changeset went through with no comment, this was somewhat careless but not something I do often. Maybe dinner was ready or something! For naming rivers, I understand the point of the rule. I was following other common practice, which is to match each name. This may be more important when there are different local names for many longer rivers or trans national rivers. Date: 2024-04-07T09:29:51+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/149605680</link>
-        <guid>https://www.openstreetmap.org/changeset/149605680#comment_2</guid>
-        <pubDate>2024-04-07T09:29:51+02:00</pubDate>
       </item>
   </channel>
 </rss>
