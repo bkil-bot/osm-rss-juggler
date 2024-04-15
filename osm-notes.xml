@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4200232 (near 4232, Lovastanya, Geszteréd) / * 2024 April 15 20:13 Created: Geszteréd település belelóg Érpatakba, délen pedig túl közel van Bökönyhöz. Ez tényleg így van? Valószínűleg nem, javítani kellene.</title>
+        <link>https://www.openstreetmap.org/note/4200232#c9176586</link>
+        <guid>https://www.openstreetmap.org/note/4200232#c9176586</guid>
+        <pubDate>Mon, 15 Apr 2024 20:13:14 +0000</pubDate>
+      </item><item>
+        <title>closed note 4196700 (near 4600, Kisvárda) / * 2024 April 13 18:45 Kecsege Created: Zöld, fém szemetes / via StreetComplete 57.1 / * 2024 April 15 20:10 Kecsege Resolved: Módosítva: / https://www.openstreetmap.org/changeset/150056668</title>
+        <link>https://www.openstreetmap.org/note/4196700#c9176584</link>
+        <guid>https://www.openstreetmap.org/note/4196700#c9176584</guid>
+        <pubDate>Mon, 15 Apr 2024 20:10:12 +0000</pubDate>
+      </item><item>
         <title>closed note 3216154 (near 4600, Kisvárda) / * 2022 June 8 18:19 Kecsege Created: A MOL-on belül az úton nincs 300-as tábla. / * 2024 April 15 15:34 Kecsege Resolved: Beállítva: / https://www.openstreetmap.org/changeset/150044935</title>
         <link>https://www.openstreetmap.org/note/3216154#c9175815</link>
         <guid>https://www.openstreetmap.org/note/3216154#c9175815</guid>
@@ -327,16 +337,6 @@
         <link>https://www.openstreetmap.org/note/4198497#c9172594</link>
         <guid>https://www.openstreetmap.org/note/4198497#c9172594</guid>
         <pubDate>Sun, 14 Apr 2024 19:24:30 +0000</pubDate>
-      </item><item>
-        <title>closed note 3884328 (near 2040, Intézményi Városközpont és lakótelep, Budaörs) / * 2023 September 12 04:58 vasony Created: Elvileg már látogatható a Mooncity, bár az épület mögött ez nem derül ki, felmérendő az úthálózatból mi van megnyitva, kerítések stb. / * 2024 April 14 18:27 vasony Resolved: itt már nem lesz út, le van zárva kerítéssel</title>
-        <link>https://www.openstreetmap.org/note/3884328#c9172371</link>
-        <guid>https://www.openstreetmap.org/note/3884328#c9172371</guid>
-        <pubDate>Sun, 14 Apr 2024 18:27:02 +0000</pubDate>
-      </item><item>
-        <title>closed note 3915343 (near 2040, Intézményi Városközpont és lakótelep, Budaörs) / * 2024 April 14 18:04 vasony Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3915343#c9172273</link>
-        <guid>https://www.openstreetmap.org/note/3915343#c9172273</guid>
-        <pubDate>Sun, 14 Apr 2024 18:04:44 +0000</pubDate>
       </item>
   </channel>
 </rss>
