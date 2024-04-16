@@ -3,6 +3,16 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>That being said, matrix offers room management like IRC did and fits better, and is developed for corporate environments, whereas delta is focused on private messenging purposes. Evolving delta to have discoverable many-user channels is feasible and there are promising experiments (using good old mailman) but it&amp;#39;s not a primary focus for now. We have a strong focus on stability and improving the base experience to rival WhatsApp ... But we also prepare some surprises for the next release :)</title>
+        <link>https://chaos.social/@delta/112282885555599002</link>
+        <guid>https://chaos.social/@delta/112282885555599002</guid>
+        <pubDate>Tue, 16 Apr 2024 20:54:26 +0000</pubDate>
+      </item><item>
+        <title>Messaging transports better be dumb and do the bare minimum to get the job done for end-to-end encrypting apps. Compared to #matrix homeservers #chatmail servers are two orders of magnitude more dumb, consume two orders of magnitude less resources and are blazing fast and don&amp;#39;t require extra (central?!) identity and integration servers. With delta all intelligence, including general purpose https://webxdc.org/apps and protection against compromised networks and servers, lives on the end device.</title>
+        <link>https://chaos.social/@delta/112282803654469654</link>
+        <guid>https://chaos.social/@delta/112282803654469654</guid>
+        <pubDate>Tue, 16 Apr 2024 20:33:36 +0000</pubDate>
+      </item><item>
         <title>&amp;quot;but e-mail !1!!!&amp;quot; Is probably still a number one objection from experts and power users who refuse to fathom that e-mail protocols are a viable option for instant messaging even if it demonstrably works, is fast and secure :) We&amp;#39;d be happy if someone engaged in a proper comparison with xmpp and matrix specs and impls, really the only three messenging protocols deployed and implemented at scale. (Can&amp;#39;t compare that with Signal or WhatsApp which don&amp;#39;t have wire specs!). https://github.com/deltachat/deltachat-core-rust/blob/main/standards.md</title>
         <link>https://chaos.social/@delta/112262757654186464</link>
         <guid>https://chaos.social/@delta/112262757654186464</guid>
@@ -92,16 +102,6 @@
         <link>https://chaos.social/@delta/111726355777273276</link>
         <guid>https://chaos.social/@delta/111726355777273276</guid>
         <pubDate>Tue, 09 Jan 2024 14:01:35 +0000</pubDate>
-      </item><item>
-        <title>#37c3 was a blast ... Lots of enjoyable and surprising chats and developments and new collabs, affinities and synergies .... Wishing you all happy transitions and phasings into new beginnings with accelerated escape velocities from the many mainsteam catastrophical developments 💜 ( generated image was removed due to fair critique ... Peace :)</title>
-        <link>https://chaos.social/@delta/111676122232845942</link>
-        <guid>https://chaos.social/@delta/111676122232845942</guid>
-        <pubDate>Sun, 31 Dec 2023 17:06:32 +0000</pubDate>
-      </item><item>
-        <title>The #37c3 delta chat group size is now at 67 members ... Still no glitches except a bit of confusion with someone switching from one account to another and then another :) You can indeed #migrate from a https://nine.testrun.org account to another email address and keep all your guaranteed encrypted chats ....Other will notice and autoaccept your mail adress change ... See https://delta.chat/en/2022-09-14-aeap for how this works. #RightToExit #RightToMigrate</title>
-        <link>https://chaos.social/@delta/111666157750901070</link>
-        <guid>https://chaos.social/@delta/111666157750901070</guid>
-        <pubDate>Fri, 29 Dec 2023 22:52:26 +0000</pubDate>
       </item>
   </channel>
 </rss>
