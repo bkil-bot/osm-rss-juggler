@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>OpenStreetMap.org is retiring OAuth 1.0a and HTTP Basic Auth on June 1st 2024. Are you developing software that uses one of these authentication methods to log in to the #openstreetmap website? Here&amp;#39;s some guidance to help you switch to OAuth 2.0: https://blog.openstreetmap.org/2024/04/17/oauth-1-0a-and-http-basic-auth-shutdown-on-openstreetmap-org/</title>
+        <link>https://en.osm.town/@openstreetmap/112285994296917032</link>
+        <guid>https://en.osm.town/@openstreetmap/112285994296917032</guid>
+        <pubDate>Wed, 17 Apr 2024 10:05:01 +0000</pubDate>
+      </item><item>
         <title>💡 Suggest topics to be discussed at OSMF board strategy meeting 🤝 The OpenStreetMap Foundation Board will meet in person in April. The Board will be holding discussions on a range of topics to do with the current and future operations of the Board, and invites the members of the Foundation to suggest topics that you think are important and that should be discussed, resolved or advanced in some way. 💬 Feeback form → &amp;lt;https://community.openstreetmap.org/t/suggest-topics-to-be-discussed-at-osmf-board-strategy-meeting/111742&amp;gt;</title>
         <link>https://en.osm.town/@openstreetmap/112282435810658738</link>
         <guid>https://en.osm.town/@openstreetmap/112282435810658738</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/112026690251283239</link>
         <guid>https://en.osm.town/@openstreetmap/112026690251283239</guid>
         <pubDate>Sat, 02 Mar 2024 15:00:35 +0000</pubDate>
-      </item><item>
-        <title>The Local Chapters &amp;amp; Communities Congress will take place in a few days! Read More: https://wiki.openstreetmap.org/wiki/Foundation/Local_Chapters/Local_Chapters_Congress/2024 #osmlccc24 #OpenStreetMap #OSM #OSMLCCC</title>
-        <link>https://en.osm.town/@openstreetmap/112009705939700448</link>
-        <guid>https://en.osm.town/@openstreetmap/112009705939700448</guid>
-        <pubDate>Wed, 28 Feb 2024 15:01:15 +0000</pubDate>
       </item>
   </channel>
 </rss>
