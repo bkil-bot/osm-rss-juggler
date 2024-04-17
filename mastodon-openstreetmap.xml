@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>📬 You&amp;#39;ve got mail! Germany&amp;#39;s national postal service (Deutsche Post/DHL) has switched to OpenStreetMap for their public facing websites, https://deutschepost.de, https://dhl.de. 🎉🥳🎊🎁 #SwitchToOpenStreetMap #OpenStreetMap #OSM</title>
+        <link>https://en.osm.town/@openstreetmap/112286919512307217</link>
+        <guid>https://en.osm.town/@openstreetmap/112286919512307217</guid>
+        <pubDate>Wed, 17 Apr 2024 14:00:19 +0000</pubDate>
+      </item><item>
         <title>OpenStreetMap.org is retiring OAuth 1.0a and HTTP Basic Auth on June 1st 2024. Are you developing software that uses one of these authentication methods to log in to the #openstreetmap website? Here&amp;#39;s some guidance to help you switch to OAuth 2.0: https://blog.openstreetmap.org/2024/04/17/oauth-1-0a-and-http-basic-auth-shutdown-on-openstreetmap-org/</title>
         <link>https://en.osm.town/@openstreetmap/112285994296917032</link>
         <guid>https://en.osm.town/@openstreetmap/112285994296917032</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/112038014650143955</link>
         <guid>https://en.osm.town/@openstreetmap/112038014650143955</guid>
         <pubDate>Mon, 04 Mar 2024 15:00:32 +0000</pubDate>
-      </item><item>
-        <title>WIthin OpenStreetMap, many like to use a structured proposal process for new OSM tags. At the end of the day, OSM still allows you to use “Any tags you like”, and skipping any formal tag voting proposal. Just start mapping with the tags you want! https://wiki.openstreetmap.org/wiki/Any_tags_you_like #OpenStreetMap</title>
-        <link>https://en.osm.town/@openstreetmap/112026690251283239</link>
-        <guid>https://en.osm.town/@openstreetmap/112026690251283239</guid>
-        <pubDate>Sat, 02 Mar 2024 15:00:35 +0000</pubDate>
       </item>
   </channel>
 </rss>
