@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Üdv az OpenStreetMapen! Kitöröltél, és újrarajzoltál egy elemet a jó helyen. Lehetőleg az ilyen törlés/újrarajzolásokat kerülni kell, inkább a meglévő elemet módosítsd! Törléskor elveszik az elem története, és az hasznos információkat is tartalmazhat: https://wiki.openstreetmap.org/wiki/Keep_the_history Javítom ezt, kérlek figyelj erre a továbbiakban. Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! Date: 2024-04-19T07:53:01+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/150189429</link>
+        <guid>https://www.openstreetmap.org/changeset/150189429#comment_1</guid>
+        <pubDate>2024-04-19T07:53:01+02:00</pubDate>
+      </item><item>
         <title>Contributor: Spaghetti Monster🍝 Discussion Comment No.: 1 Comment: This changeset added duplicate geometries. Date: 2024-04-19T01:05:31+02:00</title>
         <link>https://www.openstreetmap.org/changeset/150112882</link>
         <guid>https://www.openstreetmap.org/changeset/150112882#comment_1</guid>
@@ -37,11 +42,6 @@
         <link>https://www.openstreetmap.org/changeset/149880839</link>
         <guid>https://www.openstreetmap.org/changeset/149880839#comment_1</guid>
         <pubDate>2024-04-12T15:46:39+02:00</pubDate>
-      </item><item>
-        <title>Contributor: bkil Discussion Comment No.: 4 Comment: Azt nem mondta, hogy itt az OSM közreműködő, a Gmaps közreműködő vagy a Google maga volt rosszindulatú. Lehetett bármely upstream az, vagy lehetett véletlen is - a lényeg, hogy bíróságon erre lehet hivatkozni a Trap street koncepciója szerint, és nekünk elég ezt tudnunk. A más térképekről való minden másolás ezért nem megengedhető. Date: 2024-04-12T09:29:51+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/149804627</link>
-        <guid>https://www.openstreetmap.org/changeset/149804627#comment_4</guid>
-        <pubDate>2024-04-12T09:29:51+02:00</pubDate>
       </item>
   </channel>
 </rss>
