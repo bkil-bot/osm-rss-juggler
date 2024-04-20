@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Let&amp;#39;s do fun statistics! How many times did you encounter &amp;quot;failed to decrypt&amp;quot; errors in a Delta Chat app in 2024? Maybe add a comment for context if you like. (sidenote: you can send anonymous statistics in advanced settings on Android -- it helps us to assess the state of things and where our efforts are best spent. Thanks!) No failed to decrypt at all Got it but proper multi-device setup fixed it Got it sometimes Get it all the time</title>
+        <link>https://chaos.social/@delta/112303586833566219</link>
+        <guid>https://chaos.social/@delta/112303586833566219</guid>
+        <pubDate>Sat, 20 Apr 2024 12:39:02 +0000</pubDate>
+      </item><item>
         <title>Within #deltachat teams and with many collaborating experts and projects around us, we somewhat stubbornly cling to &amp;quot;working code wins&amp;quot; .... But don&amp;#39;t forget it&amp;#39;s powerful sibling: &amp;quot;maintenable code wins&amp;quot;, especially in the longer term. Our automated testing culture, our use of #rustlang at the heart of things and our usability-first focus all help maintenanbility. We don&amp;#39;t have the treacherous luxury of vc-funding which means we must be a hundred times more economical in our approaches.</title>
         <link>https://chaos.social/@delta/112302281555146925</link>
         <guid>https://chaos.social/@delta/112302281555146925</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/111855645754971836</link>
         <guid>https://chaos.social/@delta/111855645754971836</guid>
         <pubDate>Thu, 01 Feb 2024 10:01:44 +0000</pubDate>
-      </item><item>
-        <title>We just refined the user facing &amp;quot;download&amp;quot; page to include instant #chatmail onboarding instructions https://get.delta.chat Did you know there also are first independent #chatmail setups from friendly third parties, eg https://mehl.cloud and https://mailchat.pl/ all nicely interoperable and fast? #chatmail actively develops here https://github.com/deltachat/chatmail/pulse/monthly ....</title>
-        <link>https://chaos.social/@delta/111773270512978381</link>
-        <guid>https://chaos.social/@delta/111773270512978381</guid>
-        <pubDate>Wed, 17 Jan 2024 20:52:37 +0000</pubDate>
       </item>
   </channel>
 </rss>
