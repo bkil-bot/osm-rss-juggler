@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment 4205704 (near 2500, Esztergom) / * 2024 April 19 15:35 Created: the house numbers are wrong/shifted / a házszámok helytelenek/el vannak csúszva / * 2024 April 20 06:55 BáthoryPéter Updated: Az OSM-et bárki szerkesztheti. Ha a valóságban másak a házszámok, mint ami most a térképen van, javítsd ki bátran!</title>
+        <link>https://www.openstreetmap.org/note/4205704#c9191939</link>
+        <guid>https://www.openstreetmap.org/note/4205704#c9191939</guid>
+        <pubDate>Sat, 20 Apr 2024 06:55:44 +0000</pubDate>
+      </item><item>
         <title>new note 4205927 (near Csukavölgy, Visegrád) / * 2024 April 19 18:55 Las Wolski Created: I added a station to the north of the cross as I could see it. But there are 15 stations now. Is this number correct? Are they properly added to the map?</title>
         <link>https://www.openstreetmap.org/note/4205927#c9190669</link>
         <guid>https://www.openstreetmap.org/note/4205927#c9190669</guid>
@@ -212,21 +217,6 @@
         <link>https://www.openstreetmap.org/note/4202977#c9182542</link>
         <guid>https://www.openstreetmap.org/note/4202977#c9182542</guid>
         <pubDate>Wed, 17 Apr 2024 13:15:13 +0000</pubDate>
-      </item><item>
-        <title>new comment 4202833 (near 9941, Siskaszer, Őriszentpéter) / * 2024 April 17 12:46 bkil Updated: https://wiki.osm.org/Tag:information%3Dmap / tourism=information / information=map;board / map_type=scheme / map_size=region / board:title=Árpád-kori templomok / board_type=history / subject=churches / message=religion / subject:wikidata=Q16970</title>
-        <link>https://www.openstreetmap.org/note/4202833#c9182415</link>
-        <guid>https://www.openstreetmap.org/note/4202833#c9182415</guid>
-        <pubDate>Wed, 17 Apr 2024 12:46:00 +0000</pubDate>
-      </item><item>
-        <title>new note 4202900 (near 9941, Siskaszer, Őriszentpéter) / * 2024 April 17 12:14 OSM KAMI Created: mise, vasárnap 8:30 / via StreetComplete_ee 57.0 / Attached photo(s): / https://westnordost.de/p/207541.jpg</title>
-        <link>https://www.openstreetmap.org/note/4202900#c9182290</link>
-        <guid>https://www.openstreetmap.org/note/4202900#c9182290</guid>
-        <pubDate>Wed, 17 Apr 2024 12:14:28 +0000</pubDate>
-      </item><item>
-        <title>new note 4202886 (near 9941, Siskaszer, Őriszentpéter) / * 2024 April 17 12:05 OSM KAMI Created: Várárok, már nem látok itt vizet / via StreetComplete_ee 57.0 / Attached photo(s): / https://westnordost.de/p/207538.jpg / https://westnordost.de/p/207539.jpg</title>
-        <link>https://www.openstreetmap.org/note/4202886#c9182261</link>
-        <guid>https://www.openstreetmap.org/note/4202886#c9182261</guid>
-        <pubDate>Wed, 17 Apr 2024 12:05:20 +0000</pubDate>
       </item>
   </channel>
 </rss>

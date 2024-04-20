@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Within #deltachat teams and with many collaborating experts and projects around us, we somewhat stubbornly cling to &amp;quot;working code wins&amp;quot; .... But don&amp;#39;t forget it&amp;#39;s powerful sibling: &amp;quot;maintenable code wins&amp;quot;, especially in the longer term. Our automated testing culture, our use of #rustlang at the heart of things and our usability-first focus all help maintenanbility. We don&amp;#39;t have the treacherous luxury of vc-funding which means we must be a hundred times more economical in our approaches.</title>
+        <link>https://chaos.social/@delta/112302281555146925</link>
+        <guid>https://chaos.social/@delta/112302281555146925</guid>
+        <pubDate>Sat, 20 Apr 2024 07:07:05 +0000</pubDate>
+      </item><item>
         <title>That being said, matrix offers room management like IRC did and fits better, and is developed for corporate environments, whereas delta is focused on private messenging purposes. Evolving delta to have discoverable many-user channels is feasible and there are promising experiments (using good old mailman) but it&amp;#39;s not a primary focus for now. We have a strong focus on stability and improving the base experience to rival WhatsApp ... But we also prepare some surprises for the next release :)</title>
         <link>https://chaos.social/@delta/112282885555599002</link>
         <guid>https://chaos.social/@delta/112282885555599002</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/111773270512978381</link>
         <guid>https://chaos.social/@delta/111773270512978381</guid>
         <pubDate>Wed, 17 Jan 2024 20:52:37 +0000</pubDate>
-      </item><item>
-        <title>Not only are we user-testing app release candidates with various groups ahead of putting it to stores (thanks to the many helpers from across the globe!) but we are also intertwining design decisions with early user-testing with actual groups in risk (big shoutout to @Xeniax !) -- see here for an example which showcases that the question on which &amp;quot;attacker&amp;quot; to focus on is a fundamental question and you can not meaningfully discuss &amp;quot;security&amp;quot; without it. https://github.com/deltachat/deltachat-android/pull/2916#issuecomment-1883086981</title>
-        <link>https://chaos.social/@delta/111726355777273276</link>
-        <guid>https://chaos.social/@delta/111726355777273276</guid>
-        <pubDate>Tue, 09 Jan 2024 14:01:35 +0000</pubDate>
       </item>
   </channel>
 </rss>
