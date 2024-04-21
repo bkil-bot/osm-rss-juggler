@@ -3,6 +3,11 @@
   <channel>
     <title>WiGLE News (via bkil-bot)</title>
       <item>
+        <title>Re: Wigle Database: [quote=TZz222zZT post_id=12127 time=1709882428 user_id=340020] Its my understanding that &quot;first seen&quot; takes priority. They timestamp &quot;first seen&quot; details on the the first upload whenever. [/quote] I'm pretty sure the first seen name is the first upload of the BSSID online. Not the date of the scan. Otherwise you would be able to get your account deleted over stupid stats on a scoreboard that most people don't care about. The local DB is just that...local. I don't understand the Samsung question. Make sure to disable the wifi scan restriction in developer options. Tap the build number in about phone 10 times to enable the menu. I have an old phone hanging by its micro usb cable from my rearview mirror and plugged into the car. Another goes in a pouch in my bike bag with a battery. To login on the mobile you have to use the qr code available on the api tab of the hamburger on the web. -i_do_dew</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=12192#p12192</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=12192#p12192</guid>
+        <pubDate>2024-04-21T21:10:08</pubDate>
+      </item><item>
         <title>Re: Wigle Database: Its my understanding that &quot;first seen&quot; takes priority. They timestamp &quot;first seen&quot; details on the the first upload whenever that upload might occur. Thats what shows aswell in the DB but all I know is they also store subsequent uploads but the first seen &quot;first seen&quot; which is the primary reference point for the database. Hopefully thats what you meant. Have any tips for someone new to Samsung Galaxy btw?hah. Im used to Motorola. Im curious given we started arpund the same time, how much time do you put into wardriving if you dont mind me asking. Thanks! tz222zt -TZz222zZT</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12127#p12127</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12127#p12127</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=10452#p10452</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=10452#p10452</guid>
         <pubDate>2020-01-05T01:13:51</pubDate>
-      </item><item>
-        <title>Settings? We've heard of them.: Looking at the Google Play Android page I saw &quot;Thanks for your interest! While the app is a bit of an expert tool, maybe the forums at https://wigle.net can provide some insight! Feel free to reach out with questions there or in email&quot; so here I am (LOL) just to see if there is anything here and after looking around, I think a new user would just be lost. I play with the various options in the app settings page from time to time but a lot of them have very little information for users that describes their functions so new users have their hands tied behind their backs; just what does &quot;Display routes for execution&quot; do? I think it might be useful to have an app settings help page option here that describes the settings and features in detail with information about how they work and why you might want to turn them on. Otherwise all you can do is turn it on or off and drive around the block and see if you can figure out what happened. It's not too difficult for me , but it's a hassle for a first time user who might just give up in confusion. I've been training &quot;new users&quot; in computers for 40 years now and I think that new users these days have much less patience and higher expectations than users 10 or more years ago. -ecramp</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=10451#p10451</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=10451#p10451</guid>
-        <pubDate>2020-01-04T14:35:46</pubDate>
       </item>
   </channel>
 </rss>
