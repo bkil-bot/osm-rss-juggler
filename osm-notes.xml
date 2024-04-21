@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4208446 (near 7822, Nagyharsány) / * 2024 April 21 19:37 vasony Resolved: A Kossuth Lajos utcának, reméljük azért ennyire nem rossz a helyzet. Kérjük jobban kifejteni legközelebb.</title>
+        <link>https://www.openstreetmap.org/note/4208446#c9197790</link>
+        <guid>https://www.openstreetmap.org/note/4208446#c9197790</guid>
+        <pubDate>Sun, 21 Apr 2024 19:37:40 +0000</pubDate>
+      </item><item>
+        <title>new comment 4208028 (near 1112, Örsöd, 11th district) / * 2024 April 21 19:22 vasony Updated: Ha nincs tiltó tábla csak sorompó, akkor csak járművekre vonatkozik. / Megnéztem én motor_vehicle=private-et, valaki access-t tett rá mert &amp;quot;teljes szélességében van sorompó&amp;quot;, be is van kommentelve a changesetbe. / Én szerintem simán be tudtam menni gyalogosan, különben nem lennének felvive a parcellák. / Egyébként a Zsák utca nincs külön helyrajzi számon, az egész egy telek.  (hivatalosan nincs is ilyen utca)</title>
+        <link>https://www.openstreetmap.org/note/4208028#c9197745</link>
+        <guid>https://www.openstreetmap.org/note/4208028#c9197745</guid>
+        <pubDate>Sun, 21 Apr 2024 19:22:29 +0000</pubDate>
+      </item><item>
         <title>new note 4208885 (near 6445, Borota) / * 2024 April 21 18:46 Hungarian_user Created: &amp;quot;Csendes-köz&amp;quot; nevű utca meglétét helyszínen ellenőrizni.</title>
         <link>https://www.openstreetmap.org/note/4208885#c9197447</link>
         <guid>https://www.openstreetmap.org/note/4208885#c9197447</guid>
@@ -237,11 +247,6 @@
         <link>https://www.openstreetmap.org/note/4207425#c9194069</link>
         <guid>https://www.openstreetmap.org/note/4207425#c9194069</guid>
         <pubDate>Sat, 20 Apr 2024 19:55:38 +0000</pubDate>
-      </item><item>
-        <title>closed note 3145226 (near 9400, Ösvény utcai lakópark, Sopron) / * 2022 April 20 20:21 efi99 Created: cím jó? / * 2024 April 20 16:53 efi99 Resolved: </title>
-        <link>https://www.openstreetmap.org/note/3145226#c9193553</link>
-        <guid>https://www.openstreetmap.org/note/3145226#c9193553</guid>
-        <pubDate>Sat, 20 Apr 2024 16:53:22 +0000</pubDate>
       </item>
   </channel>
 </rss>
