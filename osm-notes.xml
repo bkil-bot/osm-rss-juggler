@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4208523 (near 8226, Alsóörs) / * 2024 April 21 14:14 vasony Created: 2024-03-17 aszfaltozásra előkészítve, ellenőrizendő</title>
+        <link>https://www.openstreetmap.org/note/4208523#c9196563</link>
+        <guid>https://www.openstreetmap.org/note/4208523#c9196563</guid>
+        <pubDate>Sun, 21 Apr 2024 14:14:29 +0000</pubDate>
+      </item><item>
+        <title>new comment 4208028 (near 1112, Örsöd, 11th district) / * 2024 April 21 13:34 vasony Updated: Ennek hol van jelentősége osm szempontból? Erre nem utal semmi a helyszínen. / Egyébként az önkormányzat által bérbe adott parcellák vannak, ebből én arra következtetek, hogy nem. / Random megnéztem egy utcát a földhivatalnál, ott azt írja: &amp;quot;Kivett közút&amp;quot; / Az lehet, hogy egyes belső utaknak nincs külön helyrajzi száma, azokat akár le is zárhatnák a bérlők vagy az önkormányzat.</title>
+        <link>https://www.openstreetmap.org/note/4208028#c9196435</link>
+        <guid>https://www.openstreetmap.org/note/4208028#c9196435</guid>
+        <pubDate>Sun, 21 Apr 2024 13:34:17 +0000</pubDate>
+      </item><item>
+        <title>new note 4208446 (near 7822, Nagyharsány) / * 2024 April 21 13:27 Created: bauxit, kora kréta</title>
+        <link>https://www.openstreetmap.org/note/4208446#c9196421</link>
+        <guid>https://www.openstreetmap.org/note/4208446#c9196421</guid>
+        <pubDate>Sun, 21 Apr 2024 13:27:23 +0000</pubDate>
+      </item><item>
         <title>new note 4208227 (near 9422, Harka) / * 2024 April 21 11:27 efi99 Created: cím jó?</title>
         <link>https://www.openstreetmap.org/note/4208227#c9195970</link>
         <guid>https://www.openstreetmap.org/note/4208227#c9195970</guid>
@@ -252,21 +267,6 @@
         <link>https://www.openstreetmap.org/note/4207137#c9193426</link>
         <guid>https://www.openstreetmap.org/note/4207137#c9193426</guid>
         <pubDate>Sat, 20 Apr 2024 16:18:00 +0000</pubDate>
-      </item><item>
-        <title>closed note 4004847 (near 1119, Kelenföld, 11th district) / * 2023 November 26 21:54 vasony Created: átépítették, nyomvonalat korrigálni kellene / * 2024 February 23 22:40 BáthoryPéter Updated: Nyomvonalat korrigáltam, de padokat, asztalokat, _kukákat_ még nem. / Ezek további pontosításához tudom ajánlani az alább letölthető, a tervekről készült georeferált fényképet: / https://big.grin.hu/DuBjfN/m%C3%A9rn%C3%B6k%20utcai%20park.zip / * 2024 February 24 06:56 vasony Updated: Kukákat és a padok egy részét helyre húztam, de megnéztem a november végi képeimet, ott padok nagy része még nem volt meg, ezért a valóság és a terv egyeztetendő. / * 2024 February 24 22:23 BáthoryPéter Updated: Majd visszamegyek friss térképpel ellenőrizni. A kukák és padok nagy része emlékeim szerint stimmel, de például a parkolóba vezető rövid ösvényre nem emlékszem. / * 2024 April 13 20:20 vasony Updated: Egy pár pad azért nem került ki, ahol dupla volt tervezve ott néhol csak 1 van, a nyugati rész lemarat, kiment a fejemnből az ösvénnyel együtt, majd még nekifutok / * 2024 April 20 16:15 vasony Resolved: Felmérve</title>
-        <link>https://www.openstreetmap.org/note/4004847#c9193413</link>
-        <guid>https://www.openstreetmap.org/note/4004847#c9193413</guid>
-        <pubDate>Sat, 20 Apr 2024 16:15:16 +0000</pubDate>
-      </item><item>
-        <title>new note 4207128 (near 8900, Belváros, Zalaegerszeg) / * 2024 April 20 16:13 OSM KAMI Created: . / via StreetComplete_ee 57.0 / Attached photo(s): / https://westnordost.de/p/207961.jpg</title>
-        <link>https://www.openstreetmap.org/note/4207128#c9193404</link>
-        <guid>https://www.openstreetmap.org/note/4207128#c9193404</guid>
-        <pubDate>Sat, 20 Apr 2024 16:13:51 +0000</pubDate>
-      </item><item>
-        <title>closed note 3090910 (near 9408, Sopron) / * 2022 March 16 17:34 efi99 Created: házszám jó? / * 2024 April 20 16:11 efi99 Resolved: 34</title>
-        <link>https://www.openstreetmap.org/note/3090910#c9193394</link>
-        <guid>https://www.openstreetmap.org/note/3090910#c9193394</guid>
-        <pubDate>Sat, 20 Apr 2024 16:11:08 +0000</pubDate>
       </item>
   </channel>
 </rss>
