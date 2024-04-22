@@ -3,6 +3,46 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4210357 (near 1117, Kelenföld, 11th district) / * 2024 April 22 20:08 Kecsege Resolved: Hozzáadás: / https://www.openstreetmap.org/changeset/150364304</title>
+        <link>https://www.openstreetmap.org/note/4210357#c9201411</link>
+        <guid>https://www.openstreetmap.org/note/4210357#c9201411</guid>
+        <pubDate>Mon, 22 Apr 2024 20:08:57 +0000</pubDate>
+      </item><item>
+        <title>closed note 4210358 (near 1117, Kelenföld, 11th district) / * 2024 April 22 20:08 Kecsege Resolved: Hozzáadás: / https://www.openstreetmap.org/changeset/150364304</title>
+        <link>https://www.openstreetmap.org/note/4210358#c9201410</link>
+        <guid>https://www.openstreetmap.org/note/4210358#c9201410</guid>
+        <pubDate>Mon, 22 Apr 2024 20:08:54 +0000</pubDate>
+      </item><item>
+        <title>closed note 4210359 (near 1117, Kelenföld, 11th district) / * 2024 April 22 20:08 Kecsege Resolved: Hozzáadás: / https://www.openstreetmap.org/changeset/150364304</title>
+        <link>https://www.openstreetmap.org/note/4210359#c9201409</link>
+        <guid>https://www.openstreetmap.org/note/4210359#c9201409</guid>
+        <pubDate>Mon, 22 Apr 2024 20:08:49 +0000</pubDate>
+      </item><item>
+        <title>closed note 4208028 (near 1112, Örsöd, 11th district) / * 2024 April 21 10:31 tregec Created: Ez az egész környék a Balatoni út és a Vadász-hegy között magánterület? Ha akarnák, a gyalogosok elől is lezárhatnák? / * 2024 April 21 13:34 vasony Updated: Ennek hol van jelentősége osm szempontból? Erre nem utal semmi a helyszínen. / Egyébként az önkormányzat által bérbe adott parcellák vannak, ebből én arra következtetek, hogy nem. / Random megnéztem egy utcát a földhivatalnál, ott azt írja: &amp;quot;Kivett közút&amp;quot; / Az lehet, hogy egyes belső utaknak nincs külön helyrajzi száma, azokat akár le is zárhatnák a bérlők vagy az önkormányzat. / * 2024 April 21 16:27 tregec Resolved: Helyesen jelölni kellene, hogy hova szabad belépni/behajtani és hova nem, ugyanis a területen számos sorompó van. A Fenyves utca északi vége és a Pázsit utca el van zárva egy sorompóval, de nem derül ki, hogy gyalogosok vagy biciklisek átmehetnek-e. Az Erdő utca erdő felőli vége is el van zárva sorompóval, private megjelöléssel, ami azt jelenti, hogy gyalogosok nem mehetnek be itt az erdőbe kirándulni. A Zsák utca teljes hosszában le van zárva sorompóval, private megjelöléssel, ide se léphetnek be gyalogosok? Vannak nyitott sorompós utcák is, azoknál jelölni kellene, hogy szabadon átjárhatók-e, vagy csak permissive-en. / * 2024 April 21 16:27 tregec Reactivated:  / * 2024 April 21 19:22 vasony Updated: Ha nincs tiltó tábla csak sorompó, akkor csak járművekre vonatkozik. / Megnéztem én motor_vehicle=private-et, valaki access-t tett rá mert &amp;quot;teljes szélességében van sorompó&amp;quot;, be is van kommentelve a changesetbe. / Én szerintem simán be tudtam menni gyalogosan, különben nem lennének felvive a parcellák. / Egyébként a Zsák utca nincs külön helyrajzi számon, az egész egy telek.  (hivatalosan nincs is ilyen utca) / * 2024 April 22 19:58 tregec Resolved: Átvariáltam kicsit, ha valakinek nem tetszik, majd módosítja.</title>
+        <link>https://www.openstreetmap.org/note/4208028#c9201397</link>
+        <guid>https://www.openstreetmap.org/note/4208028#c9201397</guid>
+        <pubDate>Mon, 22 Apr 2024 19:58:01 +0000</pubDate>
+      </item><item>
+        <title>closed note 4204644 (near 1116, Albertfalva, 11th district) / * 2024 April 18 18:46 vasony Created: 2024. március végén elő volt készítve aszfaltozásra, ellenőrizendő / * 2024 April 22 19:57 Kecsege Resolved: Már leaszfaltozták, beállítottam: / https://www.openstreetmap.org/changeset/150363809</title>
+        <link>https://www.openstreetmap.org/note/4204644#c9201396</link>
+        <guid>https://www.openstreetmap.org/note/4204644#c9201396</guid>
+        <pubDate>Mon, 22 Apr 2024 19:57:01 +0000</pubDate>
+      </item><item>
+        <title>new note 4210359 (near 1117, Kelenföld, 11th district) / * 2024 April 22 19:54 Kecsege Created: Fém szemetes, kód: 996 / via StreetComplete 57.1</title>
+        <link>https://www.openstreetmap.org/note/4210359#c9201390</link>
+        <guid>https://www.openstreetmap.org/note/4210359#c9201390</guid>
+        <pubDate>Mon, 22 Apr 2024 19:54:04 +0000</pubDate>
+      </item><item>
+        <title>new note 4210358 (near 1117, Kelenföld, 11th district) / * 2024 April 22 19:54 Kecsege Created: Streetworkout / via StreetComplete 57.1</title>
+        <link>https://www.openstreetmap.org/note/4210358#c9201389</link>
+        <guid>https://www.openstreetmap.org/note/4210358#c9201389</guid>
+        <pubDate>Mon, 22 Apr 2024 19:54:03 +0000</pubDate>
+      </item><item>
+        <title>new note 4210357 (near 1117, Kelenföld, 11th district) / * 2024 April 22 19:54 Kecsege Created: Teqball asztal / via StreetComplete 57.1</title>
+        <link>https://www.openstreetmap.org/note/4210357#c9201388</link>
+        <guid>https://www.openstreetmap.org/note/4210357#c9201388</guid>
+        <pubDate>Mon, 22 Apr 2024 19:54:03 +0000</pubDate>
+      </item><item>
         <title>closed note 4209885 (near 5124, Jászágó) / * 2024 April 22 12:53 gvaszko Resolved: CsendÉlet Vendégház</title>
         <link>https://www.openstreetmap.org/note/4209885#c9200114</link>
         <guid>https://www.openstreetmap.org/note/4209885#c9200114</guid>
@@ -247,11 +287,6 @@
         <link>https://www.openstreetmap.org/note/3261091#c9194769</link>
         <guid>https://www.openstreetmap.org/note/3261091#c9194769</guid>
         <pubDate>Sun, 21 Apr 2024 04:05:58 +0000</pubDate>
-      </item><item>
-        <title>new note 4207440 (near 2100, Egyetem, Gödöllő) / * 2024 April 20 20:10 vasony Created: Ez a Cserkész köz?</title>
-        <link>https://www.openstreetmap.org/note/4207440#c9194111</link>
-        <guid>https://www.openstreetmap.org/note/4207440#c9194111</guid>
-        <pubDate>Sat, 20 Apr 2024 20:10:12 +0000</pubDate>
       </item>
   </channel>
 </rss>
