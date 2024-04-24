@@ -2,6 +2,16 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      
+      <item>
+        <title>Hungary/Jelölési példák: Parkolóautomata: NAV elemiszer szerszámzat -Bkil</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Jel%C3%B6l%C3%A9si_p%C3%A9ld%C3%A1k&amp;diff=2699589&amp;oldid=2698167</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Jel%C3%B6l%C3%A9si_p%C3%A9ld%C3%A1k&amp;diff=2699589</guid>
+        <pubDate>Wed, 24 Apr 2024 19:42:09 GMT</pubDate>
+      </item><item>
+        <title>Hungary/Szerszámzat: NAV elemiszer: fogalmazás -Bkil</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Szersz%C3%A1mzat&amp;diff=2699588&amp;oldid=2676920</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Szersz%C3%A1mzat&amp;diff=2699588</guid>
+        <pubDate>Wed, 24 Apr 2024 19:39:11 GMT</pubDate>
+      </item>
   </channel>
 </rss>
