@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment 4213812 (near 1115, Kelenföld, 11th district) / * 2024 April 25 04:58 vasony Created: Elektromos autós töltés van már itt, nem buszmegálló / * 2024 April 26 14:57 Kecsege Updated: Ez nem inkább csak megosztott közösségi autó parkoló lett? Ami mellesleg tartalmaz(hat) elektromos autó töltőket is. Vagy az nem itt van?</title>
+        <link>https://www.openstreetmap.org/note/4213812#c9214981</link>
+        <guid>https://www.openstreetmap.org/note/4213812#c9214981</guid>
+        <pubDate>Fri, 26 Apr 2024 14:57:33 +0000</pubDate>
+      </item><item>
         <title>new note 4215541 (near 3533, Vargahegy, Miskolc) / * 2024 April 26 08:54 ITineris Created: Pontosan hol van a váltás az Andrássy utca és a Kiss tábornok utca között? Nem valamelyik kereszteződésben? Utcatáblát egyet sem láttam. :(</title>
         <link>https://www.openstreetmap.org/note/4215541#c9213651</link>
         <guid>https://www.openstreetmap.org/note/4215541#c9213651</guid>
@@ -257,16 +262,6 @@
         <link>https://www.openstreetmap.org/note/4209882#c9200079</link>
         <guid>https://www.openstreetmap.org/note/4209882#c9200079</guid>
         <pubDate>Mon, 22 Apr 2024 12:47:53 +0000</pubDate>
-      </item><item>
-        <title>closed note 4208446 (near 7822, Nagyharsány) / * 2024 April 21 19:37 vasony Resolved: A Kossuth Lajos utcának, reméljük azért ennyire nem rossz a helyzet. Kérjük jobban kifejteni legközelebb.</title>
-        <link>https://www.openstreetmap.org/note/4208446#c9197790</link>
-        <guid>https://www.openstreetmap.org/note/4208446#c9197790</guid>
-        <pubDate>Sun, 21 Apr 2024 19:37:40 +0000</pubDate>
-      </item><item>
-        <title>new comment 4208028 (near 1112, Örsöd, 11th district) / * 2024 April 21 19:22 vasony Updated: Ha nincs tiltó tábla csak sorompó, akkor csak járművekre vonatkozik. / Megnéztem én motor_vehicle=private-et, valaki access-t tett rá mert &amp;quot;teljes szélességében van sorompó&amp;quot;, be is van kommentelve a changesetbe. / Én szerintem simán be tudtam menni gyalogosan, különben nem lennének felvive a parcellák. / Egyébként a Zsák utca nincs külön helyrajzi számon, az egész egy telek.  (hivatalosan nincs is ilyen utca)</title>
-        <link>https://www.openstreetmap.org/note/4208028#c9197745</link>
-        <guid>https://www.openstreetmap.org/note/4208028#c9197745</guid>
-        <pubDate>Sun, 21 Apr 2024 19:22:29 +0000</pubDate>
       </item>
   </channel>
 </rss>
