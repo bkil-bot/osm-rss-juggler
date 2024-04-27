@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: gabro00 Discussion Comment No.: 1 Comment: Szia! A man_made=communications_tower címke olyan nagy kommunikációs tornyokra használatos, mint ami a Kékesen vagy Pécsen áll, ez nem az: https://www.openstreetmap.org/node/11769825892 Csak azért írok, mert elég kevés van ilyen az országban és elkezdtek szaporodni a téves címkézések. Date: 2024-04-27T06:52:29+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/149286797</link>
+        <guid>https://www.openstreetmap.org/changeset/149286797#comment_1</guid>
+        <pubDate>2024-04-27T06:52:29+02:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 3 Comment: Ilyenkor egy fixme=continue vagy valami hasonló címkével ajánlott ezt jelezni, hogy ezt más rajzolók is lássák, hogy ez direkt van így, nem csak elfelejtette valaki folytatni: https://wiki.openstreetmap.org/wiki/Key:fixme Date: 2024-04-25T09:12:31+02:00</title>
         <link>https://www.openstreetmap.org/changeset/150239116</link>
         <guid>https://www.openstreetmap.org/changeset/150239116#comment_3</guid>
@@ -42,16 +47,6 @@
         <link>https://www.openstreetmap.org/changeset/149852281</link>
         <guid>https://www.openstreetmap.org/changeset/149852281#comment_2</guid>
         <pubDate>2024-04-20T13:37:40+02:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Ezek beltéri folyosók? Ha igen, akkor highway=corridor egy jobb címke lenne: https://wiki.openstreetmap.org/wiki/Tag:highway%3Dcorridor Ha még részletesebben akarsz beltéri dolgokat térképezni, akkor itt a leírás a Simple Indoor Tagging sémáról: https://wiki.openstreetmap.org/wiki/Simple_Indoor_Tagging További jó térképezést! Date: 2024-04-20T08:31:45+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/150101253</link>
-        <guid>https://www.openstreetmap.org/changeset/150101253#comment_1</guid>
-        <pubDate>2024-04-20T08:31:45+02:00</pubDate>
-      </item><item>
-        <title>Contributor: ITineris Discussion Comment No.: 1 Comment: Szia! Kérlek, rajzolás előtt a FÖMI-hez igazítsd a kedvenc rétegedet! Pl. itt most semmivel sem stimmelsz. Ajánlom még figyelmedbe az iD-ben a Q gombot, amivel négyszögesítheted az alakzataid. Üdv: Ákos Date: 2024-04-20T07:56:28+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/145701984</link>
-        <guid>https://www.openstreetmap.org/changeset/145701984#comment_1</guid>
-        <pubDate>2024-04-20T07:56:28+02:00</pubDate>
       </item>
   </channel>
 </rss>
