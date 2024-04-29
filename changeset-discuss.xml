@@ -3,10 +3,20 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: infeeeee Discussion Comment No.: 2 Comment: Szia! Semmi baj nem volt a régi számozással, nagyon sok dupla házszám van az országban, validálók is tévedhetnek, nem kell mindig igazat adni nekik. Ez a valami amit köréjük felvettél szerintem nem ideális, a telekhatárra gondolt a wiki mint lehetőség, mint körülrajzolható, vagy ez az akart lenni? Még ami lehet: összevonni az épületeket egy épületté, és az üzleteket pontként rakni rá, és cím csak az épületen marad. A különböző tetőformákat meg building:part-ként veszed fel: https://wiki.openstreetmap.org/wiki/Simple_3D_Buildings Közös kulcsokat meg nem kell átvinni. Ne higgy el mindent amit a számítógéped kiír. Date: 2024-04-29T18:45:52+02:00</title>
+        <title>Contributor: CopperOppositeKindred Discussion Comment No.: 3 Comment: &gt; validálók is tévedhetnek erre nem jeleztek, csak jobban tetszett a wiki módszere mint hogy többször meg van adva. &gt; a telekhatárra gondolt a wiki mint lehetőség, mint körülrajzolható, vagy ez az akart lenni? nem, a telekhatár elhelyezkedését nem ismerem Viszont ez valóban furcsán néz ki, nemsokára visszaállítom. Date: 2024-04-29T20:17:05+02:00</title>
         <link>https://www.openstreetmap.org/changeset/150637512</link>
-        <guid>https://www.openstreetmap.org/changeset/150637512#comment_2</guid>
-        <pubDate>2024-04-29T18:45:52+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/150637512#comment_3</guid>
+        <pubDate>2024-04-29T20:17:05+02:00</pubDate>
+      </item><item>
+        <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szia! A Mély utca táblázva van, vagy honnan van az utcanév? Budapesti utcanév szerint nincs ilyen. Tamás Date: 2024-04-29T19:46:32+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/150310012</link>
+        <guid>https://www.openstreetmap.org/changeset/150310012#comment_1</guid>
+        <pubDate>2024-04-29T19:46:32+02:00</pubDate>
+      </item><item>
+        <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szia! A place nem ilyenekre való, az persze hiba hogy nincs felrajzolva a tér, de attól a Szent Antal térnek az addr:street-ben a helye. Tamás Date: 2024-04-29T19:24:27+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/150638342</link>
+        <guid>https://www.openstreetmap.org/changeset/150638342#comment_1</guid>
+        <pubDate>2024-04-29T19:24:27+02:00</pubDate>
       </item><item>
         <title>Contributor: okatus Discussion Comment No.: 2 Comment: Kedves infeeeee! Nem azért tageltem meg a helyet standként, mert Pokémon Go-znék, hanem mert ott valóban egy strand van - a hotel saját, zárt, csak vendégeknek fenntartott magán strandja. Ha szeretnéd, szívesen küldök képet (ha a műholdfelvételből nem egyértelmű). Nem vandalizmusnak szánom a módosítást, de ha ez ennyire problémás, akkor nyugodtan visszavonhatjátok. Üdv Date: 2024-04-29T18:09:57+02:00</title>
         <link>https://www.openstreetmap.org/changeset/150500862</link>
