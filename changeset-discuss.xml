@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 2 Comment: Szia! Semmi baj nem volt a régi számozással, nagyon sok dupla házszám van az országban, validálók is tévedhetnek, nem kell mindig igazat adni nekik. Ez a valami amit köréjük felvettél szerintem nem ideális, a telekhatárra gondolt a wiki mint lehetőség, mint körülrajzolható, vagy ez az akart lenni? Még ami lehet: összevonni az épületeket egy épületté, és az üzleteket pontként rakni rá, és cím csak az épületen marad. A különböző tetőformákat meg building:part-ként veszed fel: https://wiki.openstreetmap.org/wiki/Simple_3D_Buildings Közös kulcsokat meg nem kell átvinni. Ne higgy el mindent amit a számítógéped kiír. Date: 2024-04-29T18:45:52+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/150637512</link>
+        <guid>https://www.openstreetmap.org/changeset/150637512#comment_2</guid>
+        <pubDate>2024-04-29T18:45:52+02:00</pubDate>
+      </item><item>
         <title>Contributor: okatus Discussion Comment No.: 2 Comment: Kedves infeeeee! Nem azért tageltem meg a helyet standként, mert Pokémon Go-znék, hanem mert ott valóban egy strand van - a hotel saját, zárt, csak vendégeknek fenntartott magán strandja. Ha szeretnéd, szívesen küldök képet (ha a műholdfelvételből nem egyértelmű). Nem vandalizmusnak szánom a módosítást, de ha ez ennyire problémás, akkor nyugodtan visszavonhatjátok. Üdv Date: 2024-04-29T18:09:57+02:00</title>
         <link>https://www.openstreetmap.org/changeset/150500862</link>
         <guid>https://www.openstreetmap.org/changeset/150500862#comment_2</guid>
         <pubDate>2024-04-29T18:09:57+02:00</pubDate>
-      </item><item>
-        <title>Contributor: CopperOppositeKindred Discussion Comment No.: 1 Comment: Ez alapján csináltam: https://wiki.openstreetmap.org/wiki/Addresses#Multiple_buildings_for_one_housenumber Rendben van? Erre gondol a cikk &quot;perimeter&quot; alatt? Mind a sok bódénak ugyan az a házszáma az egyik tulajdonosa szerint, mert technikailag egy telken vannak. Pár közös kulcsot a cikk ajánlásának ellenére nem vittem át, mert a validáló panaszolta a building:valami kulcsok használatát a sima building nélkül, amit viszont nem hoztam ki mert az változó. Date: 2024-04-28T21:36:05+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/150637512</link>
-        <guid>https://www.openstreetmap.org/changeset/150637512#comment_1</guid>
-        <pubDate>2024-04-28T21:36:05+02:00</pubDate>
       </item><item>
         <title>Contributor: hangyabalazs Discussion Comment No.: 3 Comment: Sziasztok! Köszönöm a megerősítést. Igen, a helyszínen járva sincs nyoma, és a műhold képen sem látszik már, talán egy pázsitcsík sejthető némi fantáziával. Date: 2024-04-28T08:53:09+02:00</title>
         <link>https://www.openstreetmap.org/changeset/150584140</link>
