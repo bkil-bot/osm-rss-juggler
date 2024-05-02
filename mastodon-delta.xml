@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Seems the french surveillance practises (Hadopi) identifying people behind IP addresses have been legalized by a top EU court. Fwiw #chatmail servers remove any IP address traces after two days and collect no personal data whatsoever. Maybe it&amp;#39;s time for a french themed chatmail server similar to the de,pl,us ones? https://delta.chat/en/chatmail</title>
+        <link>https://chaos.social/@delta/112370973721050239</link>
+        <guid>https://chaos.social/@delta/112370973721050239</guid>
+        <pubDate>Thu, 02 May 2024 10:16:24 +0000</pubDate>
+      </item><item>
         <title>See https://mastodon.social/@adbenitez/112355770657658005 and surrounding toots for more info</title>
         <link>https://chaos.social/@delta/112367782647302438</link>
         <guid>https://chaos.social/@delta/112367782647302438</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/112025677314593608</link>
         <guid>https://chaos.social/@delta/112025677314593608</guid>
         <pubDate>Sat, 02 Mar 2024 10:42:59 +0000</pubDate>
-      </item><item>
-        <title>News from the machine room: the pure #rust end-to-end encryption engine, &amp;quot;rpgp&amp;quot;, saw quite some work and a new release in recent weeks and now @hko released a higher level &amp;quot;rpgpie&amp;quot; interface for application developers ( see https://fosstodon.org/@hko/111997998005869515 ) which also powers running the IETF #OpenPGP #interoperability test suite quite successfully .... Delta Chat&amp;#39;s security-audited encryption engine is in fact used from several other projects and in other contexts these days and we are happy about it!</title>
-        <link>https://chaos.social/@delta/111998115487596818</link>
-        <guid>https://chaos.social/@delta/111998115487596818</guid>
-        <pubDate>Mon, 26 Feb 2024 13:53:39 +0000</pubDate>
       </item>
   </channel>
 </rss>
