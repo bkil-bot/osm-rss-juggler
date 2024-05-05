@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3422435 (near 3758, Jósvafő) / * 2022 October 31 18:53 Kabóca Created: Hiányzó épület / * 2024 May 5 08:20 Jujuapi Resolved: Megoldva</title>
+        <link>https://www.openstreetmap.org/note/3422435#c9249088</link>
+        <guid>https://www.openstreetmap.org/note/3422435#c9249088</guid>
+        <pubDate>Sun, 05 May 2024 08:20:47 +0000</pubDate>
+      </item><item>
+        <title>closed note 3418274 (near 3758, Jósvafő) / * 2022 October 29 11:52 Kabóca Created: KÚRIA Oktatóközpont - milyen kategóriát kell megadni az épületnek? / via StreetComplete 48.0 / * 2024 May 5 08:19 Jujuapi Resolved: Megadtam neki az tourism=attraction-t ez jó lesz. El kabrus del badrei</title>
+        <link>https://www.openstreetmap.org/note/3418274#c9249086</link>
+        <guid>https://www.openstreetmap.org/note/3418274#c9249086</guid>
+        <pubDate>Sun, 05 May 2024 08:19:18 +0000</pubDate>
+      </item><item>
+        <title>closed note 4219031 (near 3778, Varbó) / * 2024 April 28 10:11 Jujuapi Created: Itt nincs út otton pontosítom, szerkesztem: Jujuapi / #OsmAnd / * 2024 May 5 08:12 Jujuapi Resolved: Megoldva</title>
+        <link>https://www.openstreetmap.org/note/4219031#c9249065</link>
+        <guid>https://www.openstreetmap.org/note/4219031#c9249065</guid>
+        <pubDate>Sun, 05 May 2024 08:12:56 +0000</pubDate>
+      </item><item>
         <title>new note 4230342 (near 2459, Rácalmás) / * 2024 May 4 23:36 Created: www.zenkucko.hu</title>
         <link>https://www.openstreetmap.org/note/4230342#c9248407</link>
         <guid>https://www.openstreetmap.org/note/4230342#c9248407</guid>
@@ -277,16 +292,6 @@
         <link>https://www.openstreetmap.org/note/3464654#c9237319</link>
         <guid>https://www.openstreetmap.org/note/3464654#c9237319</guid>
         <pubDate>Thu, 02 May 2024 09:59:36 +0000</pubDate>
-      </item><item>
-        <title>new note 4225670 (near 9400, Ösvény utcai lakópark, Sopron) / * 2024 May 2 08:48 efi99 Created: cím?</title>
-        <link>https://www.openstreetmap.org/note/4225670#c9237029</link>
-        <guid>https://www.openstreetmap.org/note/4225670#c9237029</guid>
-        <pubDate>Thu, 02 May 2024 08:48:11 +0000</pubDate>
-      </item><item>
-        <title>new note 4225669 (near 9400, Ösvény utcai lakópark, Sopron) / * 2024 May 2 08:48 efi99 Created: cím?</title>
-        <link>https://www.openstreetmap.org/note/4225669#c9237027</link>
-        <guid>https://www.openstreetmap.org/note/4225669#c9237027</guid>
-        <pubDate>Thu, 02 May 2024 08:48:03 +0000</pubDate>
       </item>
   </channel>
 </rss>
