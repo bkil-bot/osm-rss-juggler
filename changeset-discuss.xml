@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: urbalazs Discussion Comment No.: 1 Comment: Miért törölted a Barátok köz elnevezést? Date: 2024-05-05T06:28:19+02:00</title>
+        <title>Contributor: zolikonta Discussion Comment No.: 2 Comment: Nem szerepel a közterületnév-jegyzékben, nincsenek ilyen utcanév táblák, az innen nyíló intézmények címe Nagytétényi út. Valamint nem töröltem, hanem a name attribútumról loc_name-re állítottam. Ezt egy másik szerkesztő javasolta egy hasonló ügy kapcsán. Date: 2024-05-05T08:23:25+02:00</title>
         <link>https://www.openstreetmap.org/changeset/150872522</link>
-        <guid>https://www.openstreetmap.org/changeset/150872522#comment_1</guid>
-        <pubDate>2024-05-05T06:28:19+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/150872522#comment_2</guid>
+        <pubDate>2024-05-05T08:23:25+02:00</pubDate>
       </item><item>
         <title>Contributor: BáthoryPéter Discussion Comment No.: 1 Comment: Szia! Ebben a módosításcsomagban az utakat igazítottad a Bing műholdképre. A műholdképek sokszor jelentősen el vannak csúszva a valósághoz képest, a Bing itt például kb 7 méterrel. Mindig érdemes valamilyen megbízhatóbb forráshoz hozzáigazítani, például GPS-nyomvonalakhoz, vagy ortofotóhoz. Ha igazítani akarsz, a FÖMI orfotó például ilyen célra kiváló. Ezt a módosításcsomagot visszavontam, az út most jó. Date: 2024-05-03T20:51:50+02:00</title>
         <link>https://www.openstreetmap.org/changeset/146119887</link>
