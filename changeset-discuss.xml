@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: ITineris Discussion Comment No.: 3 Comment: Ezért érdemes néha a terepen is felmérni, vagy legalább utánaolvasni. (A 8-as Várpalotáig sem autóút, csak osztott pályás, 110-es sebességhatáros főút.) Date: 2024-05-07T19:04:39+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/136053238</link>
+        <guid>https://www.openstreetmap.org/changeset/136053238#comment_3</guid>
+        <pubDate>2024-05-07T19:04:39+02:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 3 Comment: Ez nem az, a címke amit keresel a maxweightrating:hgv: https://wiki.openstreetmap.org/wiki/Key:maxweightrating:hgv illetve: https://wiki.openstreetmap.org/wiki/Key:maxweightrating A maxweight az fizikai korlátozás, ami minden járműre vonatkozik, ennek a tábláján nincs kis teherautó: https://wiki.openstreetmap.org/wiki/Key:maxweight A bkk térképen jelölt övezetek szerepelnek a térképen, mint reláció, pl ez itt a 3.5-ös Pesti: https://www.openstreetmap.org/relation/11177810 Ebben a változáscsomagban lettek felvéve, itt láthatod mindegyiket felsorolva: https://www.openstreetmap.org/changeset/86281810 Az, hogy miért az utak a relációk tagjai és nem külön vonallal lettek rajzolva azt nem tudom, (és nem is értek vele egyet) de nagyon nagy meló lenne újrarajzolni mindet. Én ahol más miatt módosítom ezeket ott át szoktam rakni úttal párhuzamos vonalra, amivel egyértelművé válik, hogy a határoló út melyik zónába tartozik. Ezt a változáscsomagot visszavonom, mert rossz címkébe vitted fel az adatot, ami amúgy is már szerepelt a térképen máshol. A legtöbb ilyen jellegű adat már szerepel errefele, Budapest elég jó állapotban van az ország többi részéhez képest. Lépj be a matrix szobába a fenti linkről és ott ilyen kérdésekre sokan tudunk egyből válaszolni. Date: 2024-05-07T13:09:14+02:00</title>
         <link>https://www.openstreetmap.org/changeset/150961287</link>
         <guid>https://www.openstreetmap.org/changeset/150961287#comment_3</guid>
