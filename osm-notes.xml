@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4230933 (near 1015, Víziváros, 1st district) / * 2024 May 7 05:57 OSM KAMI Resolved: Gyanús,  hogy amikor a Várfok utcát újították,  akkor volt ott valami, de az évekkel ezelőtt volt és valószínűleg ideiglenesen.</title>
+        <link>https://www.openstreetmap.org/note/4230933#c9256641</link>
+        <guid>https://www.openstreetmap.org/note/4230933#c9256641</guid>
+        <pubDate>Tue, 07 May 2024 05:57:40 +0000</pubDate>
+      </item><item>
+        <title>reactivated note 4230933 (near 1015, Víziváros, 1st district) / * 2024 May 5 11:54 OSM KAMI Created: Unable to answer &amp;quot;Is this still here?&amp;quot; – Széll Kálmán tér M (Bus Stop) – https://osm.org/node/8105364531 via StreetComplete_ee 57.0: / Nem látok megálljt itt / * 2024 May 6 20:59 urbalazs Resolved: Itt sose volt megálló, legfeljebb valami ideiglenes megálló lehetett egy felújítás során. Töröltem, és töröltem az 50 méterrel délnyugat felé esőt is, ott sincs megálló. / * 2024 May 7 05:56 OSM KAMI Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/4230933#c9256636</link>
+        <guid>https://www.openstreetmap.org/note/4230933#c9256636</guid>
+        <pubDate>Tue, 07 May 2024 05:56:21 +0000</pubDate>
+      </item><item>
         <title>closed note 4227952 (near 1124, Németvölgy, 12th district) / * 2024 May 3 17:12 Spush Created: Medencén outdoor van az épület mégis rá van húzva? / * 2024 May 6 21:01 urbalazs Resolved: Van rajta covered=seasonal címke is. Esri műholdképen épp nyitva van, látszik a medence.</title>
         <link>https://www.openstreetmap.org/note/4227952#c9255894</link>
         <guid>https://www.openstreetmap.org/note/4227952#c9255894</guid>
@@ -272,26 +282,6 @@
         <link>https://www.openstreetmap.org/note/4228847#c9244932</link>
         <guid>https://www.openstreetmap.org/note/4228847#c9244932</guid>
         <pubDate>Sat, 04 May 2024 08:48:57 +0000</pubDate>
-      </item><item>
-        <title>closed note 4119318 (near 1092, Belső-Ferencváros, 9th district) / * 2024 February 19 11:08 Created: 2022-ben megújult a Bakáts tér. Megérne egy felmérést. / * 2024 May 3 23:27 urbalazs Resolved: Felmérve.</title>
-        <link>https://www.openstreetmap.org/note/4119318#c9244021</link>
-        <guid>https://www.openstreetmap.org/note/4119318#c9244021</guid>
-        <pubDate>Fri, 03 May 2024 23:27:08 +0000</pubDate>
-      </item><item>
-        <title>closed note 4195470 (near 1087, Kerepesdűlő, 8th district) / * 2024 April 13 04:26 balint36 Created: In context of overlay &amp;quot;Things&amp;quot; – on level 0: MÁV-Start [JKA-131] (Transit Ticket Vending Machine) – https://osm.org/node/11709207246 via StreetComplete 57.1: / JKA v7 (K&amp;amp;B) / U75320986 / * 2024 May 3 18:05 urbalazs Resolved: Hozzáadtam a 150850482 számú módosításcsomaggal.</title>
-        <link>https://www.openstreetmap.org/note/4195470#c9243155</link>
-        <guid>https://www.openstreetmap.org/note/4195470#c9243155</guid>
-        <pubDate>Fri, 03 May 2024 18:05:01 +0000</pubDate>
-      </item><item>
-        <title>closed note 4195458 (near 1087, Kerepesdűlő, 8th district) / * 2024 April 13 04:21 balint36 Created: In context of overlay &amp;quot;Things&amp;quot; – on level 0: MÁV-Start [JKA-524] (Transit Ticket Vending Machine) – https://osm.org/node/11709207253 via StreetComplete 57.1: / JKA v7 (B) / U91317321 / * 2024 May 3 18:04 urbalazs Resolved: Hozzáadtam a 150850482 számú módosításcsomaggal.</title>
-        <link>https://www.openstreetmap.org/note/4195458#c9243154</link>
-        <guid>https://www.openstreetmap.org/note/4195458#c9243154</guid>
-        <pubDate>Fri, 03 May 2024 18:04:49 +0000</pubDate>
-      </item><item>
-        <title>closed note 4195471 (near 1087, Kerepesdűlő, 8th district) / * 2024 April 13 04:27 balint36 Created: In context of overlay &amp;quot;Things&amp;quot; – on level 0: MÁV-Start [JKA-523] (Transit Ticket Vending Machine) – https://osm.org/node/11709207249 via StreetComplete 57.1: / JKA v7 (B) / U85858033 / * 2024 May 3 18:04 urbalazs Resolved: Hozzáadtam a 150850482 számú módosításcsomaggal.</title>
-        <link>https://www.openstreetmap.org/note/4195471#c9243153</link>
-        <guid>https://www.openstreetmap.org/note/4195471#c9243153</guid>
-        <pubDate>Fri, 03 May 2024 18:04:42 +0000</pubDate>
       </item>
   </channel>
 </rss>
