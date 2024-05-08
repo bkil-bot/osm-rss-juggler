@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: ITineris Discussion Comment No.: 1 Comment: Hi, Please do not draw streets/footways over existing buildings! Though buildings were/are offset here by large, your sidewalks are also very inaccurate. To align your satellite imagery first, please use FÖMI layers in Hungary. Greets, Ákos Date: 2024-05-08T09:51:49+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/144151674</link>
+        <guid>https://www.openstreetmap.org/changeset/144151674#comment_1</guid>
+        <pubDate>2024-05-08T09:51:49+02:00</pubDate>
+      </item><item>
         <title>Contributor: gscholz Discussion Comment No.: 1 Comment: Hi PosanPatrik, this changeset has created errors in the OSM database regarding self intersecting ways: https://tools.geofabrik.de/osmi/?view=geometry&amp;lon=21.82305&amp;lat=47.89030&amp;zoom=12&amp;baselayer=Geofabrik%20Standard&amp;overlays=self_intersection_ways%2Cself_intersection_points%2Csingle_node_in_way%2Cduplicate_node_in_way https://overpass-api.de/achavi/?changeset=150399870 Can you please fix this? You may also like to educate yourself about how to edit bus routes properly: https://wiki.openstreetmap.org/wiki/Buses Kind regards Guido Date: 2024-05-08T06:01:39+02:00</title>
         <link>https://www.openstreetmap.org/changeset/150399870</link>
         <guid>https://www.openstreetmap.org/changeset/150399870#comment_1</guid>
@@ -42,11 +47,6 @@
         <link>https://www.openstreetmap.org/changeset/150741262</link>
         <guid>https://www.openstreetmap.org/changeset/150741262#comment_4</guid>
         <pubDate>2024-05-01T18:33:56+02:00</pubDate>
-      </item><item>
-        <title>Contributor: zolikonta Discussion Comment No.: 4 Comment: Köszi Date: 2024-05-01T09:46:53+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/150310012</link>
-        <guid>https://www.openstreetmap.org/changeset/150310012#comment_4</guid>
-        <pubDate>2024-05-01T09:46:53+02:00</pubDate>
       </item>
   </channel>
 </rss>
