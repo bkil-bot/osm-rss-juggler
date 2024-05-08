@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: gscholz Discussion Comment No.: 1 Comment: Hi PosanPatrik, this changeset has created errors in the OSM database regarding self intersecting ways: https://tools.geofabrik.de/osmi/?view=geometry&amp;lon=21.82305&amp;lat=47.89030&amp;zoom=12&amp;baselayer=Geofabrik%20Standard&amp;overlays=self_intersection_ways%2Cself_intersection_points%2Csingle_node_in_way%2Cduplicate_node_in_way https://overpass-api.de/achavi/?changeset=150399870 Can you please fix this? You may also like to educate yourself about how to edit bus routes properly: https://wiki.openstreetmap.org/wiki/Buses Kind regards Guido Date: 2024-05-08T06:01:39+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/150399870</link>
+        <guid>https://www.openstreetmap.org/changeset/150399870#comment_1</guid>
+        <pubDate>2024-05-08T06:01:39+02:00</pubDate>
+      </item><item>
         <title>Contributor: ITineris Discussion Comment No.: 3 Comment: Ezért érdemes néha a terepen is felmérni, vagy legalább utánaolvasni. (A 8-as Várpalotáig sem autóút, csak osztott pályás, 110-es sebességhatáros főút.) Date: 2024-05-07T19:04:39+02:00</title>
         <link>https://www.openstreetmap.org/changeset/136053238</link>
         <guid>https://www.openstreetmap.org/changeset/136053238#comment_3</guid>
@@ -42,11 +47,6 @@
         <link>https://www.openstreetmap.org/changeset/150310012</link>
         <guid>https://www.openstreetmap.org/changeset/150310012#comment_4</guid>
         <pubDate>2024-05-01T09:46:53+02:00</pubDate>
-      </item><item>
-        <title>Contributor: urbalazs Discussion Comment No.: 1 Comment: Miért változtattad meg az utak típusát „unclassified” értékre? Településeken belül ezt a típust nem használjuk. Az utakat a helyi építési szabályzat alapján soroljuk be. Lásd: https://wiki.openstreetmap.org/wiki/Hungary/F%C5%91%C3%BAt Date: 2024-05-01T06:55:27+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/150705100</link>
-        <guid>https://www.openstreetmap.org/changeset/150705100#comment_1</guid>
-        <pubDate>2024-05-01T06:55:27+02:00</pubDate>
       </item>
   </channel>
 </rss>
