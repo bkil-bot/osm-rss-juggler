@@ -3,6 +3,16 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>The problem with asking the experts about something genuinely new is, according to Heinz von Foerster, that they will only explain to you why it can&amp;#39;t work or why it is a bad idea. We had no shortage of such experts in the past years :) However, common objections like &amp;quot;e-mail is too slow&amp;quot;, &amp;quot;secure e-mail is not possible&amp;quot;, &amp;quot;you can not do a Whatsapp-style interface on top of e-mail&amp;quot; are having an increasingly hard time to be upheld because of the reality of Delta Chat apps working :)</title>
+        <link>https://chaos.social/@delta/112411787878434489</link>
+        <guid>https://chaos.social/@delta/112411787878434489</guid>
+        <pubDate>Thu, 09 May 2024 15:15:59 +0000</pubDate>
+      </item><item>
+        <title>Delta Chat is an in-between project: often ignored as a messenger by e-mail companies/experts and then ignored by messenger companies/experts because of its use and interoperability with e-mail. As Heinz von Foerster once said: &amp;quot;If you are doing something genuinely new then don&amp;#39;t ask the experts. If you do something that has already been done, then, by all means, ask the experts.&amp;quot; FWIW many experts have verified Delta Chat&amp;#39;s security mechanics https://delta.chat/en/help#security-audits :)</title>
+        <link>https://chaos.social/@delta/112411736243400781</link>
+        <guid>https://chaos.social/@delta/112411736243400781</guid>
+        <pubDate>Thu, 09 May 2024 15:02:51 +0000</pubDate>
+      </item><item>
         <title>The &amp;quot;webxdc evolve&amp;quot; project is now official and was just announced from one of our early followers and advisers, @ansuz , but it&amp;#39;s not just a boilerplate announcement! Ansuz dives deep starting from his yearslong cryptpad maintainership history, his early involvement in #webxdc up to the present and future .... Very good reading if you want to understand some.foundational considerations around evolving an end-to-end encrypted, decentralized web app platform ... https://cryptography.dog/blog/announcing-webxdc-evolve/</title>
         <link>https://chaos.social/@delta/112384429386840883</link>
         <guid>https://chaos.social/@delta/112384429386840883</guid>
@@ -92,16 +102,6 @@
         <link>https://chaos.social/@delta/112094711706110799</link>
         <guid>https://chaos.social/@delta/112094711706110799</guid>
         <pubDate>Thu, 14 Mar 2024 15:19:20 +0000</pubDate>
-      </item><item>
-        <title>#deltachat just got four major usability improvements as the 1.44 releases are rolling out 💗 Reactions on all platforms 💗 iOS Push notifications 💗 Multi-account desktop sidebar 💗 share invite links via other messengers. Enjoy :) https://delta.chat/en/2024-03-12-jumbo44</title>
-        <link>https://chaos.social/@delta/112084571969847132</link>
-        <guid>https://chaos.social/@delta/112084571969847132</guid>
-        <pubDate>Tue, 12 Mar 2024 20:20:40 +0000</pubDate>
-      </item><item>
-        <title>News from the machine room: our pure #Rust core library underlying all #deltachat apps now has reproducible builds for &amp;quot;deltachat-rpc-server&amp;quot;, used by bots and soon also the Desktop app a screenshot of this chat-message from a core dev: deltachat-rpc-server binaries in the latest release 1.136.2 are actually reproducible. $ nix build . #deltachat-rpc-server-armveklinux § sha256sum result/bin/deltachat-rpc-server 0OefS6ccd194ed68673d75cca38b56096fd67e87a469bcabbaase6d54baf9204c result/bin/deltachat-rpc-server This is the same as what GitHub actions built and uploaded to the release: $ curl -sL https://github.com/deltachat/deltachat-core- rust/releases/download/v1.136.2/deltachat-rpc-server-ar mv6Hinux | sha256sum 0ef56ccd194ed68673d75cca38b56096d67e87a469bcabbaaSe6d54baf9204c - — o 4 HOURS</title>
-        <link>https://chaos.social/@delta/112047758353026678</link>
-        <guid>https://chaos.social/@delta/112047758353026678</guid>
-        <pubDate>Wed, 06 Mar 2024 08:18:29 +0000</pubDate>
       </item>
   </channel>
 </rss>
