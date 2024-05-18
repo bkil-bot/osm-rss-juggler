@@ -3,6 +3,51 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>WhatsApp introduces &amp;quot;ask meta ai&amp;quot; in the local chat search bar, and Slack auto-feeds messages to train their LLM robots https://eigenmagic.net/@NewtonMark/112455578857917485 ... Delta Chat is among the shrinking number of messaging applications that does not look at your data except to end-to-end encrypt it and send it over interoperable message transport servers chosen by yourselves and your contacts. #decentralization #security #privacy ftw!</title>
+        <link>https://chaos.social/@delta/112460581138408023</link>
+        <guid>https://chaos.social/@delta/112460581138408023</guid>
+        <pubDate>Sat, 18 May 2024 06:04:45 +0000</pubDate>
+      </item><item>
+        <title>The surprising developments in our teams happen &amp;quot;in between&amp;quot; when someone makes an &amp;quot;argument in code&amp;quot; after some inspirational chatting with others, often in cross project and cross-concern manners. Chaotic some might say, not unfittingly. Challenge is to sync it with our release scheduling and reliability discipline. There is this nice saying &amp;quot;you have to become disciplined to be undisciplined&amp;quot; which mirrors practises of how larger #ccc events are arranged in which delta chat grew up :)</title>
+        <link>https://chaos.social/@delta/112456657357156774</link>
+        <guid>https://chaos.social/@delta/112456657357156774</guid>
+        <pubDate>Fri, 17 May 2024 13:26:53 +0000</pubDate>
+      </item><item>
+        <title>#DeltaTouch, the native #UbuntuTouch version of delta chat just announced they are going for full webxdc app support in the summer .... There also is an experimental way to run it on #nixos to get a desktop that is not based on Elektron. Shout-out to @lk108 who is heading this great work even if it&amp;#39;s &amp;quot;niche&amp;quot; for now .... DeltaTouch is pretty close to mainline features and arguably the best messenger on that os! https://social.tchncs.de/@deltatouch/112446568813809144</title>
+        <link>https://chaos.social/@delta/112446625623024005</link>
+        <guid>https://chaos.social/@delta/112446625623024005</guid>
+        <pubDate>Wed, 15 May 2024 18:55:41 +0000</pubDate>
+      </item><item>
+        <title>Often overlooked from our &amp;quot;but e-mail!&amp;quot; skeptics: Any sufficiently advanced P2P messenger will eventually re-invent a custom, partial form of e-mail ... because users want to communicate when their apps are offline or not foregrounded and active at the same time. See https://briarproject.org/download-briar-mailbox/ for a recent example. Delta Chat goes the reverse route by providing a secure and interoperable e-mail based messaging experience and then adds P2P tech like https://webxdc.org on top.</title>
+        <link>https://chaos.social/@delta/112436163856034976</link>
+        <guid>https://chaos.social/@delta/112436163856034976</guid>
+        <pubDate>Mon, 13 May 2024 22:35:07 +0000</pubDate>
+      </item><item>
+        <title>Just to be clear: we value our time and will not engage deeply with people who have a lot of random suggestions and ideas... We don&amp;#39;t have a lack of those on any day :) we are doing continuous user studies, interviews and research with people in repressive, dangerous situations who are using delta chat today. These efforts are usually lead by @Xeniax and entail some scientific rigor as you can expect from a venerable PhD in user research :)</title>
+        <link>https://chaos.social/@delta/112427371753153431</link>
+        <guid>https://chaos.social/@delta/112427371753153431</guid>
+        <pubDate>Sun, 12 May 2024 09:19:10 +0000</pubDate>
+      </item><item>
+        <title>So far, our marketing department is mostly our development coordination department ... And it shows, right ? :) Indeed, we are marketing for early adopters, devs and collaborating experts in neighboring fields and projects to join what we believe is a unique collaborative effort, a fediverse of interactive messengers if you will :) Our project evolves around who shows up, who thinks and does things with us, not on some ideal conception of how things should be and then trying to hire for that.</title>
+        <link>https://chaos.social/@delta/112427314590040572</link>
+        <guid>https://chaos.social/@delta/112427314590040572</guid>
+        <pubDate>Sun, 12 May 2024 09:04:38 +0000</pubDate>
+      </item><item>
+        <title>Delta Chat may be criticized for not being the most secure messenger in some sense or not the most feature rich. When it comes to interoperability, however, our efforts and collaborations are the biggest game in town, no? The two biggest sets of internet standards revolve and operate at massive scale around E-Mail and the Web. Our approach fully engages and takes up these extremely impactful sets of standards, and reliably rewires them into a modern UI #deltachat #webxdc #chatmail #xkcd927</title>
+        <link>https://chaos.social/@delta/112422007157098940</link>
+        <guid>https://chaos.social/@delta/112422007157098940</guid>
+        <pubDate>Sat, 11 May 2024 10:34:53 +0000</pubDate>
+      </item><item>
+        <title>A quick note as a friendly project follower/user told us they perceived our toot to diminish Signal -- that&amp;#39;s not our intention. Signal has Post-quantum safe algorithms, PFS, Sealed sender -- some pretty advanced mechanisms that have no Delta equivalent. However, Signal&amp;#39;s key distribution is centralized and ours is decentralized which we consider fair game to highlight. Moreover DC has guaranteed e2ee encryption protecting from server compromise, allowing to not overly have to trust server ops.</title>
+        <link>https://chaos.social/@delta/112418014615996641</link>
+        <guid>https://chaos.social/@delta/112418014615996641</guid>
+        <pubDate>Fri, 10 May 2024 17:39:31 +0000</pubDate>
+      </item><item>
+        <title>Did you know that Delta Chat is the only mature, cross-platform secure messaging app that does not use or need a key server? Signal, Matrix, Proton, Whatsapp all effectively operate key servers that reveal the cryptographic identity (a very strong identifier) behind an address. Delta Chat uses decentralized specs and protocols that reveal your cryptographic identity only to those you choose to interact with. Nothing can be publically queried. Background link: https://delta.chat/en/help#encryption-and-security</title>
+        <link>https://chaos.social/@delta/112416216211151577</link>
+        <guid>https://chaos.social/@delta/112416216211151577</guid>
+        <pubDate>Fri, 10 May 2024 10:02:10 +0000</pubDate>
+      </item><item>
         <title>The problem with asking the experts about something genuinely new is, according to Heinz von Foerster, that they will only explain to you why it can&amp;#39;t work or why it is a bad idea. We had no shortage of such experts in the past years :) However, common objections like &amp;quot;e-mail is too slow&amp;quot;, &amp;quot;secure e-mail is not possible&amp;quot;, &amp;quot;you can not do a Whatsapp-style interface on top of e-mail&amp;quot; are having an increasingly hard time to be upheld because of the reality of Delta Chat apps working :)</title>
         <link>https://chaos.social/@delta/112411787878434489</link>
         <guid>https://chaos.social/@delta/112411787878434489</guid>
@@ -57,51 +102,6 @@
         <link>https://chaos.social/@delta/112303586833566219</link>
         <guid>https://chaos.social/@delta/112303586833566219</guid>
         <pubDate>Sat, 20 Apr 2024 12:39:02 +0000</pubDate>
-      </item><item>
-        <title>Within #deltachat teams and with many collaborating experts and projects around us, we somewhat stubbornly cling to &amp;quot;working code wins&amp;quot; .... But don&amp;#39;t forget it&amp;#39;s powerful sibling: &amp;quot;maintenable code wins&amp;quot;, especially in the longer term. Our automated testing culture, our use of #rustlang at the heart of things and our usability-first focus all help maintenanbility. We don&amp;#39;t have the treacherous luxury of vc-funding which means we must be a hundred times more economical in our approaches.</title>
-        <link>https://chaos.social/@delta/112302281555146925</link>
-        <guid>https://chaos.social/@delta/112302281555146925</guid>
-        <pubDate>Sat, 20 Apr 2024 07:07:05 +0000</pubDate>
-      </item><item>
-        <title>That being said, matrix offers room management like IRC did and fits better, and is developed for corporate environments, whereas delta is focused on private messenging purposes. Evolving delta to have discoverable many-user channels is feasible and there are promising experiments (using good old mailman) but it&amp;#39;s not a primary focus for now. We have a strong focus on stability and improving the base experience to rival WhatsApp ... But we also prepare some surprises for the next release :)</title>
-        <link>https://chaos.social/@delta/112282885555599002</link>
-        <guid>https://chaos.social/@delta/112282885555599002</guid>
-        <pubDate>Tue, 16 Apr 2024 20:54:26 +0000</pubDate>
-      </item><item>
-        <title>Messaging transports better be dumb and do the bare minimum to get the job done for end-to-end encrypting apps. Compared to #matrix homeservers #chatmail servers are two orders of magnitude more dumb, consume two orders of magnitude less resources and are blazing fast and don&amp;#39;t require extra (central?!) identity and integration servers. With delta all intelligence, including general purpose https://webxdc.org/apps and protection against compromised networks and servers, lives on the end device.</title>
-        <link>https://chaos.social/@delta/112282803654469654</link>
-        <guid>https://chaos.social/@delta/112282803654469654</guid>
-        <pubDate>Tue, 16 Apr 2024 20:33:36 +0000</pubDate>
-      </item><item>
-        <title>&amp;quot;but e-mail !1!!!&amp;quot; Is probably still a number one objection from experts and power users who refuse to fathom that e-mail protocols are a viable option for instant messaging even if it demonstrably works, is fast and secure :) We&amp;#39;d be happy if someone engaged in a proper comparison with xmpp and matrix specs and impls, really the only three messenging protocols deployed and implemented at scale. (Can&amp;#39;t compare that with Signal or WhatsApp which don&amp;#39;t have wire specs!). https://github.com/deltachat/deltachat-core-rust/blob/main/standards.md</title>
-        <link>https://chaos.social/@delta/112262757654186464</link>
-        <guid>https://chaos.social/@delta/112262757654186464</guid>
-        <pubDate>Sat, 13 Apr 2024 07:35:38 +0000</pubDate>
-      </item><item>
-        <title>for those interested, there also is a recent hackernews discussion around rpgp: https://news.ycombinator.com/item?id=39961994</title>
-        <link>https://chaos.social/@delta/112237770175658010</link>
-        <guid>https://chaos.social/@delta/112237770175658010</guid>
-        <pubDate>Mon, 08 Apr 2024 21:40:59 +0000</pubDate>
-      </item><item>
-        <title>#cryptography news: rpgp, the pure Rust #OpenPGP encryption engine used in all #deltachat apps, got quite some love lately, including a revamp of the main entry point for developers: https://github.com/rpgp/rpgp . You may regard rpgp as an extension of the #rustcrypto effort where a lot of the base code lives and is co-maintained by the wonderful diginifiedquire who also just landed a long awaited sha1-collision detector -- as one of the few people officially allowed to write crypto code :)</title>
-        <link>https://chaos.social/@delta/112237664230834484</link>
-        <guid>https://chaos.social/@delta/112237664230834484</guid>
-        <pubDate>Mon, 08 Apr 2024 21:14:03 +0000</pubDate>
-      </item><item>
-        <title>How many people do you know that have lost their messaging history on Whatsapp or Signal, photos etc during mobile phone transitions or breakage or through other shenenigans? With #deltachat you can: - export &amp;quot;everything&amp;quot; to a file and import it on any of the many different devices - or just setup a second device through a QR code scan -- which was happily discovered here after an accidental factory reset https://libranet.de/display/0b6b25a8-2066-0695-ca24-081964494389</title>
-        <link>https://chaos.social/@delta/112180528987313206</link>
-        <guid>https://chaos.social/@delta/112180528987313206</guid>
-        <pubDate>Fri, 29 Mar 2024 19:03:48 +0000</pubDate>
-      </item><item>
-        <title>The last #deltachat 1.44 release round did not only contain a lot of UI/UX milestones but also 20 security fixes based on a deep analysis from Yuanming Song and colleagues of the Applied Cryptography group at ETH Zuerich https://delta.chat/en/2024-03-25-crypto-analysis-securejoin a 3d-picture of a green-checkmark with a chain around it.</title>
-        <link>https://chaos.social/@delta/112156902140296303</link>
-        <guid>https://chaos.social/@delta/112156902140296303</guid>
-        <pubDate>Mon, 25 Mar 2024 14:55:11 +0000</pubDate>
-      </item><item>
-        <title>The default setup of #chatmail is for open signups (anyone can get an address) but some operators implement a private signup protocol and that&amp;#39;s fine and easy enough to do because https://github.com/deltachat/chatmail/ is a small machine. Chatmail addresses should be abundant and safe to use for anyone , and cheap to operate with basic skills .... A few thousand chatmail routers might already cover adresses for 10 billion people, with less resource/energy usage than a single VC funded LLM startup :)</title>
-        <link>https://chaos.social/@delta/112094711706110799</link>
-        <guid>https://chaos.social/@delta/112094711706110799</guid>
-        <pubDate>Thu, 14 Mar 2024 15:19:20 +0000</pubDate>
       </item>
   </channel>
 </rss>

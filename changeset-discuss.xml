@@ -3,60 +3,45 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: NightH Discussion Comment No.: 1 Comment: Szia! A buszjáratokat ne vonalként, hanem relationként vedd fel. Először érdemes megismerkedni az egyszerűbb elemek szerkesztésével és csak utána ugorj neki ilyen kapcsolatok felvételének. A 4219 járatot javítottam (a legjobb tudásom szerint): https://www.openstreetmap.org/changeset/151127598 Date: 2024-05-10T05:52:06+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/150400511</link>
-        <guid>https://www.openstreetmap.org/changeset/150400511#comment_1</guid>
-        <pubDate>2024-05-10T05:52:06+02:00</pubDate>
+        <title>Contributor: vasony Discussion Comment No.: 3 Comment: Miért nem jó az épületen a shop címke és társai, mint ahogy a többi ilyen üzletnél, miért kell külön? Date: 2024-05-16T15:58:28+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/150740723</link>
+        <guid>https://www.openstreetmap.org/changeset/150740723#comment_3</guid>
+        <pubDate>2024-05-16T15:58:28+02:00</pubDate>
       </item><item>
-        <title>Contributor: ITineris Discussion Comment No.: 1 Comment: Szia! Kérlek, legközelebb az utak keresztezésénél rakj le egy közös pontot, illetve a vizek feletti átvezetésnél is címkézd megfelelően vagy a hidat vagy az átereszt! Köszönöm. Ákos Date: 2024-05-09T14:33:24+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/149660163</link>
-        <guid>https://www.openstreetmap.org/changeset/149660163#comment_1</guid>
-        <pubDate>2024-05-09T14:33:24+02:00</pubDate>
+        <title>Contributor: infeeeee Discussion Comment No.: 3 Comment: Szia! G* Streetview-t nem használhatjuk OpenStreetMap szerkesztésre, szóval mindegy, hogy azon mi látszik, ne hivatkozz rá: https://wiki.openstreetmap.org/wiki/Google Be tudod mozgatni abba a házba amiben tényleg van? Üzleteket inkább úgy szoktuk jelölni, hogy ahol az üzlet fizikailag van, nem ahol be lehet menni hozzá. Most ez úgy néz ki, mintha a járdán lenne, mint egy újságos bódé. Parkolókat meg úgy kellene, mint pl ahogy itt Észak-Csepelen vannak: https://www.openstreetmap.org/#map=18/47.43521/19.07435 Hogy a parkolónak van legalább egy közös pontja valami úttal. Útvonaltervezők az utakon terveznek, nem tudnak &quot;átugorni&quot; egy közeli vonalra. Hogy az összes légifelvétel már nem igaz, esetleg a parkoló note-jába beírhatod, nehogy valaki visszarajzolja helyismeret nélkül: https://wiki.openstreetmap.org/wiki/Key:note De ezek csak finomságok, jó amit csinálsz amúgy, köszi! Date: 2024-05-14T15:43:04+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/151277163</link>
+        <guid>https://www.openstreetmap.org/changeset/151277163#comment_3</guid>
+        <pubDate>2024-05-14T15:43:04+02:00</pubDate>
       </item><item>
-        <title>Contributor: HungarianVoyager Discussion Comment No.: 1 Comment: Köszönöm a segítséget Date: 2024-05-09T12:11:16+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/151078332</link>
-        <guid>https://www.openstreetmap.org/changeset/151078332#comment_1</guid>
-        <pubDate>2024-05-09T12:11:16+02:00</pubDate>
+        <title>Contributor: nslxndr Discussion Comment No.: 1 Comment: Szia! Ez a módosításcsomag a zebrákat a valóságnak megfelelő (a szerkesztés időpontjában 1 éven belüli StreetComplete changesetekkel is rendelkező) állapotot rosszként feltételezve a 10 évvel korábbi (még villamospálya előtti) állapotot szerkesztette vissza potenciálisan a 10+ éves FÖMI műholdkép alapján az utca két oldala közötti gyalogos átjárhatóságot is megszüntetve. Ezért az említett részt helyszíni felmérés alapján visszavontam: https://www.openstreetmap.org/changeset/151284192 Date: 2024-05-13T20:14:49+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/143106477</link>
+        <guid>https://www.openstreetmap.org/changeset/143106477#comment_1</guid>
+        <pubDate>2024-05-13T20:14:49+02:00</pubDate>
       </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Üdv az OpenStreetMapen! A BuildingTools plugint ismered? https://wiki.openstreetmap.org/wiki/JOSM/Plugins/BuildingsTools Egymás melletti épületek általában párhuzamosak egymással. Ezzel a pluginnal ha kijelölsz egy épületet, a következőt vele párhuzamosan fogja rajzolni. Nagyon jó amit csinálsz amúgy, így tovább! Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! Date: 2024-05-08T13:05:00+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/151030362</link>
-        <guid>https://www.openstreetmap.org/changeset/151030362#comment_1</guid>
-        <pubDate>2024-05-08T13:05:00+02:00</pubDate>
+        <title>Contributor: grozsa11 Discussion Comment No.: 2 Comment: Igen, az , úgyhogy javítottam is már erre a ref-re, Köszi! Gza Date: 2024-05-12T20:48:17+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/151044952</link>
+        <guid>https://www.openstreetmap.org/changeset/151044952#comment_2</guid>
+        <pubDate>2024-05-12T20:48:17+02:00</pubDate>
       </item><item>
-        <title>Contributor: ITineris Discussion Comment No.: 1 Comment: Hi, Please do not draw streets/footways over existing buildings! Though buildings were/are offset here by large, your sidewalks are also very inaccurate. To align your satellite imagery first, please use FÖMI layers in Hungary. Greets, Ákos Date: 2024-05-08T09:51:49+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/144151674</link>
-        <guid>https://www.openstreetmap.org/changeset/144151674#comment_1</guid>
-        <pubDate>2024-05-08T09:51:49+02:00</pubDate>
+        <title>Contributor: zolikonta Discussion Comment No.: 2 Comment: Hello. Rendben, köszi. Date: 2024-05-12T10:33:15+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/151194276</link>
+        <guid>https://www.openstreetmap.org/changeset/151194276#comment_2</guid>
+        <pubDate>2024-05-12T10:33:15+02:00</pubDate>
       </item><item>
-        <title>Contributor: gscholz Discussion Comment No.: 1 Comment: Hi PosanPatrik, this changeset has created errors in the OSM database regarding self intersecting ways: https://tools.geofabrik.de/osmi/?view=geometry&amp;lon=21.82305&amp;lat=47.89030&amp;zoom=12&amp;baselayer=Geofabrik%20Standard&amp;overlays=self_intersection_ways%2Cself_intersection_points%2Csingle_node_in_way%2Cduplicate_node_in_way https://overpass-api.de/achavi/?changeset=150399870 Can you please fix this? You may also like to educate yourself about how to edit bus routes properly: https://wiki.openstreetmap.org/wiki/Buses Kind regards Guido Date: 2024-05-08T06:01:39+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/150399870</link>
-        <guid>https://www.openstreetmap.org/changeset/150399870#comment_1</guid>
-        <pubDate>2024-05-08T06:01:39+02:00</pubDate>
+        <title>Contributor: gymate Discussion Comment No.: 2 Comment: Hi! Please open the source link, it includes the explanation. I'm just trying out this tag as the discussion isn't over yet. If you have any thoughts on the topic, please share them (on the Community Forum, if possible)! Date: 2024-05-12T08:34:23+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/151178296</link>
+        <guid>https://www.openstreetmap.org/changeset/151178296#comment_2</guid>
+        <pubDate>2024-05-12T08:34:23+02:00</pubDate>
       </item><item>
-        <title>Contributor: ITineris Discussion Comment No.: 3 Comment: Ezért érdemes néha a terepen is felmérni, vagy legalább utánaolvasni. (A 8-as Várpalotáig sem autóút, csak osztott pályás, 110-es sebességhatáros főút.) Date: 2024-05-07T19:04:39+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/136053238</link>
-        <guid>https://www.openstreetmap.org/changeset/136053238#comment_3</guid>
-        <pubDate>2024-05-07T19:04:39+02:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 3 Comment: Ez nem az, a címke amit keresel a maxweightrating:hgv: https://wiki.openstreetmap.org/wiki/Key:maxweightrating:hgv illetve: https://wiki.openstreetmap.org/wiki/Key:maxweightrating A maxweight az fizikai korlátozás, ami minden járműre vonatkozik, ennek a tábláján nincs kis teherautó: https://wiki.openstreetmap.org/wiki/Key:maxweight A bkk térképen jelölt övezetek szerepelnek a térképen, mint reláció, pl ez itt a 3.5-ös Pesti: https://www.openstreetmap.org/relation/11177810 Ebben a változáscsomagban lettek felvéve, itt láthatod mindegyiket felsorolva: https://www.openstreetmap.org/changeset/86281810 Az, hogy miért az utak a relációk tagjai és nem külön vonallal lettek rajzolva azt nem tudom, (és nem is értek vele egyet) de nagyon nagy meló lenne újrarajzolni mindet. Én ahol más miatt módosítom ezeket ott át szoktam rakni úttal párhuzamos vonalra, amivel egyértelművé válik, hogy a határoló út melyik zónába tartozik. Ezt a változáscsomagot visszavonom, mert rossz címkébe vitted fel az adatot, ami amúgy is már szerepelt a térképen máshol. A legtöbb ilyen jellegű adat már szerepel errefele, Budapest elég jó állapotban van az ország többi részéhez képest. Lépj be a matrix szobába a fenti linkről és ott ilyen kérdésekre sokan tudunk egyből válaszolni. Date: 2024-05-07T13:09:14+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/150961287</link>
-        <guid>https://www.openstreetmap.org/changeset/150961287#comment_3</guid>
-        <pubDate>2024-05-07T13:09:14+02:00</pubDate>
-      </item><item>
-        <title>Contributor: urbalazs Discussion Comment No.: 3 Comment: Az OpenStreetMap térképezés elsődleges forrása a helyszínen látottak. Ha elmész megnézni a helyszínt, akkor a művelődési ház parkolójának délkeleti végével szemben látni fogod a táblát. A Barátok köz ki van táblázva, ezért ennek a szakasznak az a neve, függetlenül attól, hogy az utcanévjegyzékben szerepel-e vagy sem. Kérlek, hogy állítsd vissza a nevet. Date: 2024-05-06T05:53:06+02:00</title>
+        <title>Contributor: vasony Discussion Comment No.: 4 Comment: Én javasoltam a másik ügyben, mert ott azt írtad, hogy nincs utcatábla. Ha kint van a tábla, akkor nem loc_name, függetlenül az utcajegyzéktől. Date: 2024-05-12T07:23:07+02:00</title>
         <link>https://www.openstreetmap.org/changeset/150872522</link>
-        <guid>https://www.openstreetmap.org/changeset/150872522#comment_3</guid>
-        <pubDate>2024-05-06T05:53:06+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/150872522#comment_4</guid>
+        <pubDate>2024-05-12T07:23:07+02:00</pubDate>
       </item><item>
-        <title>Contributor: bkil Discussion Comment No.: 1 Comment: Köszönjük a szerkesztést. Majdnem jó. #hashtag nem szükséges. &quot;restaurant&quot; helyett amenity=fast_food szokott a jele lenni abban az esetben ha nem pincérek hozzák-viszik az ételt. További hasznos kulcsok: air_conditioning=yes internet_access=wlan phone kids_area=yes highchair=yes delivery=yes wheelchair capacity music music_genre https://wiki.osm.org/Tag:amenity%3Dfast_food#Tags_to_use_in_combination Date: 2024-05-05T16:31:26+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/150926397</link>
-        <guid>https://www.openstreetmap.org/changeset/150926397#comment_1</guid>
-        <pubDate>2024-05-05T16:31:26+02:00</pubDate>
-      </item><item>
-        <title>Contributor: BáthoryPéter Discussion Comment No.: 1 Comment: Szia! Ebben a módosításcsomagban az utakat igazítottad a Bing műholdképre. A műholdképek sokszor jelentősen el vannak csúszva a valósághoz képest, a Bing itt például kb 7 méterrel. Mindig érdemes valamilyen megbízhatóbb forráshoz hozzáigazítani, például GPS-nyomvonalakhoz, vagy ortofotóhoz. Ha igazítani akarsz, a FÖMI orfotó például ilyen célra kiváló. Ezt a módosításcsomagot visszavontam, az út most jó. Date: 2024-05-03T20:51:50+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/146119887</link>
-        <guid>https://www.openstreetmap.org/changeset/146119887#comment_1</guid>
-        <pubDate>2024-05-03T20:51:50+02:00</pubDate>
+        <title>Contributor: vasony Discussion Comment No.: 2 Comment: Reverted your changeset, please do not change back. This segment of the park is officialy named &quot;Elvis Presley park&quot;, the remaining sections remains Germanus Gyula park. See the attached documentation and/or the street signs. Date: 2024-05-12T07:13:41+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/150968757</link>
+        <guid>https://www.openstreetmap.org/changeset/150968757#comment_2</guid>
+        <pubDate>2024-05-12T07:13:41+02:00</pubDate>
       </item>
   </channel>
 </rss>
