@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: gabro00 Discussion Comment No.: 1 Comment: Hi, I added back the path as proposed highway, because the name exists so it'll be searchable again. https://www.openstreetmap.org/changeset/151524026 Date: 2024-05-19T08:50:40+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/145826360</link>
+        <guid>https://www.openstreetmap.org/changeset/145826360#comment_1</guid>
+        <pubDate>2024-05-19T08:50:40+02:00</pubDate>
+      </item><item>
         <title>Contributor: Aarogya Pandey Discussion Comment No.: 1 Comment: Thank you for updating the map. Happy Mapping. #OMGuru --- #REVIEWED_GOOD #OSMCHA Published using OSMCha: https://osmcha.org/changesets/144302722 Date: 2024-05-18T15:21:02+02:00</title>
         <link>https://www.openstreetmap.org/changeset/144302722</link>
         <guid>https://www.openstreetmap.org/changeset/144302722#comment_1</guid>
@@ -27,26 +32,6 @@
         <link>https://www.openstreetmap.org/changeset/151044952</link>
         <guid>https://www.openstreetmap.org/changeset/151044952#comment_2</guid>
         <pubDate>2024-05-12T20:48:17+02:00</pubDate>
-      </item><item>
-        <title>Contributor: zolikonta Discussion Comment No.: 2 Comment: Hello. Rendben, köszi. Date: 2024-05-12T10:33:15+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/151194276</link>
-        <guid>https://www.openstreetmap.org/changeset/151194276#comment_2</guid>
-        <pubDate>2024-05-12T10:33:15+02:00</pubDate>
-      </item><item>
-        <title>Contributor: gymate Discussion Comment No.: 2 Comment: Hi! Please open the source link, it includes the explanation. I'm just trying out this tag as the discussion isn't over yet. If you have any thoughts on the topic, please share them (on the Community Forum, if possible)! Date: 2024-05-12T08:34:23+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/151178296</link>
-        <guid>https://www.openstreetmap.org/changeset/151178296#comment_2</guid>
-        <pubDate>2024-05-12T08:34:23+02:00</pubDate>
-      </item><item>
-        <title>Contributor: vasony Discussion Comment No.: 4 Comment: Én javasoltam a másik ügyben, mert ott azt írtad, hogy nincs utcatábla. Ha kint van a tábla, akkor nem loc_name, függetlenül az utcajegyzéktől. Date: 2024-05-12T07:23:07+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/150872522</link>
-        <guid>https://www.openstreetmap.org/changeset/150872522#comment_4</guid>
-        <pubDate>2024-05-12T07:23:07+02:00</pubDate>
-      </item><item>
-        <title>Contributor: vasony Discussion Comment No.: 2 Comment: Reverted your changeset, please do not change back. This segment of the park is officialy named &quot;Elvis Presley park&quot;, the remaining sections remains Germanus Gyula park. See the attached documentation and/or the street signs. Date: 2024-05-12T07:13:41+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/150968757</link>
-        <guid>https://www.openstreetmap.org/changeset/150968757#comment_2</guid>
-        <pubDate>2024-05-12T07:13:41+02:00</pubDate>
       </item>
   </channel>
 </rss>
