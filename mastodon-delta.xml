@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>While we do have criticisms of its centralized architecture and other choices we highly regard Signal for ushering in a decade of popularizing end-to-end encryption. We particularly appreciate @Mer__edith doing excellent communication work there. It&amp;#39;s disingenuous that tech-billionaires Musk/Dorsey fuel attacks on her and another female colleague, hinting at Telegram as a more secure messenger. Comparing security of Signal with Telegram simply results in &amp;quot;Type Error: incompatible arguments&amp;quot;.</title>
+        <link>https://chaos.social/@delta/112472201013655160</link>
+        <guid>https://chaos.social/@delta/112472201013655160</guid>
+        <pubDate>Mon, 20 May 2024 07:19:50 +0000</pubDate>
+      </item><item>
         <title>WhatsApp introduces &amp;quot;ask meta ai&amp;quot; in the local chat search bar, and Slack auto-feeds messages to train their LLM robots https://eigenmagic.net/@NewtonMark/112455578857917485 ... Delta Chat is among the shrinking number of messaging applications that does not look at your data except to end-to-end encrypt it and send it over interoperable message transport servers chosen by yourselves and your contacts. #decentralization #security #privacy ftw!</title>
         <link>https://chaos.social/@delta/112460581138408023</link>
         <guid>https://chaos.social/@delta/112460581138408023</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/112322308828095186</link>
         <guid>https://chaos.social/@delta/112322308828095186</guid>
         <pubDate>Tue, 23 Apr 2024 20:00:17 +0000</pubDate>
-      </item><item>
-        <title>Let&amp;#39;s do fun statistics! How many times did you encounter &amp;quot;failed to decrypt&amp;quot; errors in a Delta Chat app in 2024? Maybe add a comment for context if you like. (sidenote: you can send anonymous statistics in advanced settings on Android -- it helps us to assess the state of things and where our efforts are best spent. Thanks!) No failed to decrypt at all Got it but proper multi-device setup fixed it Got it sometimes Get it all the time</title>
-        <link>https://chaos.social/@delta/112303586833566219</link>
-        <guid>https://chaos.social/@delta/112303586833566219</guid>
-        <pubDate>Sat, 20 Apr 2024 12:39:02 +0000</pubDate>
       </item>
   </channel>
 </rss>
