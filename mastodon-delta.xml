@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>A well running de-googled Android system based on and running #FOSS apps? Some are skeptical about Android fundamentally, others point to the existing mass of compatible devices that could participate. Of course Chromium alone makes &amp;quot;de-googling&amp;quot; a tricky effort, as its dependencies on Google run deep. Nevertheless, we are part of the #mobifree effort officially launched today and discussed here from project partners like @microg @NGIZero @daniel @guardianproject https://fosstodon.org/@microg/112480382433515629</title>
+        <link>https://chaos.social/@delta/112480820963964489</link>
+        <guid>https://chaos.social/@delta/112480820963964489</guid>
+        <pubDate>Tue, 21 May 2024 19:52:00 +0000</pubDate>
+      </item><item>
         <title>While we do have criticisms of its centralized architecture and other choices we highly regard Signal for ushering in a decade of popularizing end-to-end encryption. We particularly appreciate @Mer__edith doing excellent communication work there. It&amp;#39;s disingenuous that tech-billionaires Musk/Dorsey fuel attacks on her and another female colleague, hinting at Telegram as a more secure messenger. Comparing security of Signal with Telegram simply results in &amp;quot;Type Error: incompatible arguments&amp;quot;.</title>
         <link>https://chaos.social/@delta/112472201013655160</link>
         <guid>https://chaos.social/@delta/112472201013655160</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/112322326845849176</link>
         <guid>https://chaos.social/@delta/112322326845849176</guid>
         <pubDate>Tue, 23 Apr 2024 20:04:52 +0000</pubDate>
-      </item><item>
-        <title>https://delta.chat is down .... oh no!!!!!.... do you notice any problems with message deliveries? Of course not because DC apps do not depend on this or another single central server :) Anyways, there is a little planned migration ongoing. Well&amp;#39;be back and hugs to our sysadmin/devops folks :)</title>
-        <link>https://chaos.social/@delta/112322308828095186</link>
-        <guid>https://chaos.social/@delta/112322308828095186</guid>
-        <pubDate>Tue, 23 Apr 2024 20:00:17 +0000</pubDate>
       </item>
   </channel>
 </rss>
