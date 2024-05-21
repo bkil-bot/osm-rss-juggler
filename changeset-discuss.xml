@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: grin Discussion Comment No.: 1 Comment: Szia! Látom, hogy elmozdítottál pár RTK-val mért utat (accuracy=0.5). Megkérdezhetem, hogy milyen eszközzel sikerült az 50 centinél pontosabb mérést korrigálnod, illetve milyen körülmények között? Példa: https://www.openstreetmap.org/way/296194417 Ha esetleg tévedés volt, akkor kérlek, hogy legyél sokkal óvatosabb, és a nagy pontossággal felmért objektumokat csak akkor módosítsd, ha nagy bizonyossággal meggyőződtél róla, hogy a te mérésed pontosabb, vagy az objektum megváltozott a pontos mérés óta. Kérlek jelezz vissza, hogy ez szándékos és valós volt-e! Köszönöm! Date: 2024-05-21T09:59:09+02:00</title>
+        <title>Contributor: tapai Discussion Comment No.: 2 Comment: Szervusz, Szándékos volt a változtatás, de nem szeretném elrontani a térképet ezért ha még megvan a mérésed (mert hiszek az rtk pontosságában) és vissza tudod állítani az eredeti állapotot, akkor légyszíves csináld meg (bocsi). Előszeretettel használom a SrtavaHeatmap és a garmin fenix 7 gps mérését. A Tour de Hongrie alkalmával bringáztam ezen a szakaszon és több helyen észleltem, hogy a térképi vonal eltér a rögzített nyomvonalamtól és ilyenkor ránézek StravaHeatmap-re és javítom a térképet. A StravaHeatmap-et egész jónak találom, sok helyen segíthet, illetve megerősíthet (de ez csak az én véleményem). Mégegyszer bocsi ha belerondítottam. Üdv, Tápai Date: 2024-05-21T10:58:08+02:00</title>
         <link>https://www.openstreetmap.org/changeset/151562921</link>
-        <guid>https://www.openstreetmap.org/changeset/151562921#comment_1</guid>
-        <pubDate>2024-05-21T09:59:09+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/151562921#comment_2</guid>
+        <pubDate>2024-05-21T10:58:08+02:00</pubDate>
       </item><item>
         <title>Contributor: Hufkratzer Discussion Comment No.: 1 Comment: Hi, You have removed the building tag from https://www.openstreetmap.org/way/503180463 and now this building is no longer rendered as a building. It seems you have choosen the wrong tag; there is also a tag for indoor arenas: https://wiki.openstreetmap.org/wiki/Tag:building=riding_hall Date: 2024-05-20T23:00:19+02:00</title>
         <link>https://www.openstreetmap.org/changeset/151601455</link>
