@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Kismet files for upload: In the 'wardriving' mode of Kismet, it generates 2 files. A .kismet and .wiglecsv Last drive the .kismet file was 195.5MB and the .wiglecsv was 8.5MB. The .kismet file doesn't seem to want to upload, but do I need to? Or is the .wiglecsv file all that's needed? -clickwir</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=12213#p12213</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=12213#p12213</guid>
+        <pubDate>2024-05-23T14:00:51</pubDate>
+      </item><item>
         <title>Re: WarFlying: Hopping in to re-invigorate a newly necro'd thread, but just today I started putting together the bag of parts to go warflying with a small fixed wing drone, hauling not much more than a Pi Zero W, GPS, and a LoRa link. If I get anywhere at all, I'll be improving the antenna later. -brockhold</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12161#p12161</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12161#p12161</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11990#p11990</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11990#p11990</guid>
         <pubDate>2024-01-02T02:23:17</pubDate>
-      </item><item>
-        <title>Re: Need advice on building a full spectrum wifi wardriving rig: Howdy! I'm a long time lurker but noob War Driving Grey Hat Shenanigans causing script kiddy if you will and I'm recieving my first WiFi Pineapple monday and I was wondering if anyone could/would give me any advice on how best to utilize it along with my phone and pc. I know that I can hook up the pineapple to my phone so it'll have GPS attatched to the data, and as I plan on doing my War Driving while riding the bus to no particular place I was wanting advice/tips/fun things to do with my new hardware -baker.techie</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11981#p11981</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11981#p11981</guid>
-        <pubDate>2023-12-27T14:56:11</pubDate>
       </item>
   </channel>
 </rss>
