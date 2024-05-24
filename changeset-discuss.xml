@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: balint36 Discussion Comment No.: 4 Comment: Hasonlóságként én a német vasúti kapcsolatokat hoznám fel. Ott sem annyit adnak meg, hogy DB, mert akkor melyik DB? A holding DB AG? A pályavasút DB Netz? A fehér távolsági vonatokat üzemeltető DB Fernverkehr? A piros regionális vonatokat üzemeltető DB Regio? A teherszállító DB Cargo? Ezek is mind különálló, külön feladattal rendelkező cégek. Ezért nem elég a Start üzemeltetését MÁV-val egyszerűen jelölni. Melyik MÁV? A pályavasút MÁV Zrt.? A személyszállító MÁV-START? A HÉV-es MÁV-HÉV? A különcélú utazásokat szervező MÁV Rail Tours? Date: 2024-05-24T08:17:17+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/150743112</link>
+        <guid>https://www.openstreetmap.org/changeset/150743112#comment_4</guid>
+        <pubDate>2024-05-24T08:17:17+02:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Harangtornyokat a man_made=tower, tower:type=bell_tower címkékkel kell jelölni: https://wiki.openstreetmap.org/wiki/Tag:tower:type%3Dbell_tower Se a name, se a building=yes címke nem kell ezek mellé. Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! Date: 2024-05-23T22:51:32+02:00</title>
         <link>https://www.openstreetmap.org/changeset/151721650</link>
         <guid>https://www.openstreetmap.org/changeset/151721650#comment_1</guid>
@@ -12,11 +17,6 @@
         <link>https://www.openstreetmap.org/changeset/151665867</link>
         <guid>https://www.openstreetmap.org/changeset/151665867#comment_2</guid>
         <pubDate>2024-05-23T12:21:29+02:00</pubDate>
-      </item><item>
-        <title>Contributor: balint36 Discussion Comment No.: 1 Comment: operator=MÁV Biztos, hogy a magyar pályavasút üzemelteti a vonatokat, és nem a MÁV-START? Date: 2024-05-23T06:40:07+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/150743112</link>
-        <guid>https://www.openstreetmap.org/changeset/150743112#comment_1</guid>
-        <pubDate>2024-05-23T06:40:07+02:00</pubDate>
       </item><item>
         <title>Contributor: andrashann Discussion Comment No.: 1 Comment: Szia! Ilyen esetben inkább highway=tertiary, surface=dirt, smoothness=very_bad címkéket érdemes használni. A highway=tertiary nem az út minőségét vagy milyenségét, hanem kategóriáját írja le, a másik két címkéből kéne az útvonaltervezőnek kiszámolnia, hogy nem érdemes erre küldeni autókat. Date: 2024-05-22T21:58:29+02:00</title>
         <link>https://www.openstreetmap.org/changeset/150699309</link>
