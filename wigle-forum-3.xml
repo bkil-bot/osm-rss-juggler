@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Kismet files for upload: only the WiGLE .csv file can or should be uploaded. The .kismet file contains additional information we can't use and don't want (for privacy and safety reasons) -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=12214#p12214</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=12214#p12214</guid>
+        <pubDate>2024-05-24T15:14:56</pubDate>
+      </item><item>
         <title>Kismet files for upload: In the 'wardriving' mode of Kismet, it generates 2 files. A .kismet and .wiglecsv Last drive the .kismet file was 195.5MB and the .wiglecsv was 8.5MB. The .kismet file doesn't seem to want to upload, but do I need to? Or is the .wiglecsv file all that's needed? -clickwir</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12213#p12213</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12213#p12213</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11991#p11991</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11991#p11991</guid>
         <pubDate>2024-01-02T03:06:26</pubDate>
-      </item><item>
-        <title>Master list of WiFi AuthTypes?: Hi guys, I asked privately and then thought to search the Board, but found nothing. Q: Is there a list of ‘standard’ naming for AuthType entries that Wigle expects or tolerates for inputs in the wigle.csv? Comparing code from JHewitt, LyndLabs, and other efforts there are some variations and also some items in &amp;lt;wifi.h&amp;gt; that aren’t in anyone's code yet. I have browsed the WigleWiFi Android app GIT but am not smart enough to find the fountain of truth. Any pointers? And so as to not be obtuse, this is the stuff I'm talking about: const char* getAuthType(uint8_t wifiAuth) { switch (wifiAuth) { case WIFI_AUTH_OPEN: return &quot;[OPEN]&quot;; case WIFI_AUTH_WEP: return &quot;[WEP]&quot;; case WIFI_AUTH_WPA_PSK: return &quot;[WPA_PSK]&quot;; case WIFI_AUTH_WPA2_PSK: return &quot;[WPA2_PSK]&quot;; case WIFI_AUTH_WPA_WPA2_PSK: return &quot;[WPA_WPA2_PSK]&quot;; case WIFI_AUTH_WPA2_ENTERPRISE: return &quot;[WPA2_ENTERPRISE]&quot;; case WIFI_AUTH_WPA3_PSK: return &quot;[WPA3_PSK]&quot;; case WIFI_AUTH_WPA2_WPA3_PSK: return &quot;[WPA2_WPA3_PSK]&quot;; case WIFI_AUTH_WAPI_PSK: return &quot;[WAPI_PSK]&quot;; default: return &quot;[UNDEFINED]&quot;; } -pejacoby</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11990#p11990</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11990#p11990</guid>
-        <pubDate>2024-01-02T02:23:17</pubDate>
       </item>
   </channel>
 </rss>
