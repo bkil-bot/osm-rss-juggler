@@ -3,6 +3,11 @@
   <channel>
     <title>WiGLE News (via bkil-bot)</title>
       <item>
+        <title>Read this https://arxiv.org/abs/2405.14975: Wigle.net is cited in this article: https://arxiv.org/abs/2405.14975 -FredR</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=12215#p12215</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=12215#p12215</guid>
+        <pubDate>2024-05-27T21:27:43</pubDate>
+      </item><item>
         <title>Re: Wigle Database: [quote=TZz222zZT post_id=12127 time=1709882428 user_id=340020] Its my understanding that &quot;first seen&quot; takes priority. They timestamp &quot;first seen&quot; details on the the first upload whenever. [/quote] I'm pretty sure the first seen name is the first upload of the BSSID online. Not the date of the scan. Otherwise you would be able to get your account deleted over stupid stats on a scoreboard that most people don't care about. The local DB is just that...local. I don't understand the Samsung question. Make sure to disable the wifi scan restriction in developer options. Tap the build number in about phone 10 times to enable the menu. I have an old phone hanging by its micro usb cable from my rearview mirror and plugged into the car. Another goes in a pouch in my bike bag with a battery. To login on the mobile you have to use the qr code available on the api tab of the hamburger on the web. -i_do_dew</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12192#p12192</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12192#p12192</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=10453#p10453</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=10453#p10453</guid>
         <pubDate>2020-01-05T01:16:08</pubDate>
-      </item><item>
-        <title>Re: Settings? We've heard of them.: that's a good point! the app has grown organically over the years - and it continues to change with each release (including the settings page). Even as a maintainer, sometimes I see the settings page in other languages and go through some cognitive dissonance. does anyone know of a good, dynamic documentation system for mobile apps? we are a small team, and we maintain WiGLE in our free time as a hobby - this means that maintaining docs and tutorials in our already limited time would decrease the number of bugfixes and enhancements we'd have time to work on. -arkasha</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=10452#p10452</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=10452#p10452</guid>
-        <pubDate>2020-01-05T01:13:51</pubDate>
       </item>
   </channel>
 </rss>
