@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: bkil Discussion Comment No.: 1 Comment: Köszönjük a közreműködést. A következőket javítottam: töröltem az üres, címke nélküli pontot a parkoló szélén. A parkolóra felvittem az access=customers jelet ami megadja, hogy ki parkolhat és töröltem a rá felvett címét, mivel lakcíme embereknek van, telekkönyvi házszáma pedig telkeknek. Levettem a building passage útról a parking isle jelet, mivel az a parkoló sávjaira vonatkozik. A landuse-t lecseréltem building-re az épületen, mivel enélkül csak egy &quot;piactérnek&quot; számít. Felvettem egy amenity=parking_entrance pontot az épület bejáratához. Az office=lawyer kulcsot is elhelyeztem az ügyvéden, mivel enélkül nem derül ki a funkciója kereshető formában. Levettem az addr:country=HU kulcsot, mivel az az országban mindenhol egységes és közmegegyezés alapján felvettem rá a Budapest várost. https://osm.org/changeset/151895305 Date: 2024-05-27T12:05:13+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/151890069</link>
+        <guid>https://www.openstreetmap.org/changeset/151890069#comment_1</guid>
+        <pubDate>2024-05-27T12:05:13+02:00</pubDate>
+      </item><item>
         <title>Contributor: BáthoryPéter Discussion Comment No.: 1 Comment: Szia! Ebben a módosításcsomagban Bing műholdképre húztad rá a turistautakat. A műholdképek sokszor el vannak csúszva a valósághoz képest, pláne hegyvidéki területeken. A Bing itt kb. 10 méterrel. Érdemes mindig összevetni GPS-nyomvonalkkal, vagy valamelyik FÖMI ortofotóval (ez pillanatnyilag iD editorban nem működik, remélhetőleg hamarosan újra elérhető lesz). Ez a módosításcsomagot most visszavontam. Date: 2024-05-27T08:27:05+02:00</title>
         <link>https://www.openstreetmap.org/changeset/149709648</link>
         <guid>https://www.openstreetmap.org/changeset/149709648#comment_1</guid>
