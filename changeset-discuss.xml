@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: Supaplex Discussion Comment No.: 4 Comment: Second Block: https://www.openstreetmap.org/user_blocks/16080 Don't challenge the Data Working Group's determination Dennis Raylin Chen Data Working Group data@osmfoundation.org [Ticket#2024052510000087] Date: 2024-05-28T08:24:33+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/151853864</link>
+        <guid>https://www.openstreetmap.org/changeset/151853864#comment_4</guid>
+        <pubDate>2024-05-28T08:24:33+02:00</pubDate>
+      </item><item>
         <title>Contributor: bkil Discussion Comment No.: 1 Comment: Köszönjük a közreműködést. A következőket javítottam: töröltem az üres, címke nélküli pontot a parkoló szélén. A parkolóra felvittem az access=customers jelet ami megadja, hogy ki parkolhat és töröltem a rá felvett címét, mivel lakcíme embereknek van, telekkönyvi házszáma pedig telkeknek. Levettem a building passage útról a parking isle jelet, mivel az a parkoló sávjaira vonatkozik. A landuse-t lecseréltem building-re az épületen, mivel enélkül csak egy &quot;piactérnek&quot; számít. Felvettem egy amenity=parking_entrance pontot az épület bejáratához. Az office=lawyer kulcsot is elhelyeztem az ügyvéden, mivel enélkül nem derül ki a funkciója kereshető formában. Levettem az addr:country=HU kulcsot, mivel az az országban mindenhol egységes és közmegegyezés alapján felvettem rá a Budapest várost. https://osm.org/changeset/151895305 Date: 2024-05-27T12:05:13+02:00</title>
         <link>https://www.openstreetmap.org/changeset/151890069</link>
         <guid>https://www.openstreetmap.org/changeset/151890069#comment_1</guid>
@@ -12,11 +17,6 @@
         <link>https://www.openstreetmap.org/changeset/149709648</link>
         <guid>https://www.openstreetmap.org/changeset/149709648#comment_1</guid>
         <pubDate>2024-05-27T08:27:05+02:00</pubDate>
-      </item><item>
-        <title>Contributor: pitscheplatsch Discussion Comment No.: 3 Comment: Reverted by https://osm.org/changeset/151862507 Date: 2024-05-26T18:16:16+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/151853864</link>
-        <guid>https://www.openstreetmap.org/changeset/151853864#comment_3</guid>
-        <pubDate>2024-05-26T18:16:16+02:00</pubDate>
       </item><item>
         <title>Contributor: kiccsavo Discussion Comment No.: 6 Comment: Köszönöm, ezek szerint fogok eljárni. Date: 2024-05-26T18:11:11+02:00</title>
         <link>https://www.openstreetmap.org/changeset/151806743</link>
@@ -177,11 +177,6 @@
         <link>https://www.openstreetmap.org/changeset/145826360</link>
         <guid>https://www.openstreetmap.org/changeset/145826360#comment_2</guid>
         <pubDate>2024-05-22T10:00:32+02:00</pubDate>
-      </item><item>
-        <title>Contributor: tapai Discussion Comment No.: 2 Comment: Szervusz, Szándékos volt a változtatás, de nem szeretném elrontani a térképet ezért ha még megvan a mérésed (mert hiszek az rtk pontosságában) és vissza tudod állítani az eredeti állapotot, akkor légyszíves csináld meg (bocsi). Előszeretettel használom a SrtavaHeatmap és a garmin fenix 7 gps mérését. A Tour de Hongrie alkalmával bringáztam ezen a szakaszon és több helyen észleltem, hogy a térképi vonal eltér a rögzített nyomvonalamtól és ilyenkor ránézek StravaHeatmap-re és javítom a térképet. A StravaHeatmap-et egész jónak találom, sok helyen segíthet, illetve megerősíthet (de ez csak az én véleményem). Mégegyszer bocsi ha belerondítottam. Üdv, Tápai Date: 2024-05-21T10:58:08+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/151562921</link>
-        <guid>https://www.openstreetmap.org/changeset/151562921#comment_2</guid>
-        <pubDate>2024-05-21T10:58:08+02:00</pubDate>
       </item>
   </channel>
 </rss>
