@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>OSM data powers new and ongoing research all over the world. For example, The United States Census Bureau has developed a socioeconomic profile of the commuters affected by the collapse of the Francis Scott Key Bridge, in Baltimore, based on OSM data and OSRM. https://www.census.gov/library/stories/2024/05/key-bridge-commuters.html</title>
+        <link>https://en.osm.town/@openstreetmap/112517370801896466</link>
+        <guid>https://en.osm.town/@openstreetmap/112517370801896466</guid>
+        <pubDate>Tue, 28 May 2024 06:47:06 +0000</pubDate>
+      </item><item>
         <title>What questions do you have for the OSMF Board about 2024 and beyond? https://blog.openstreetmap.org/2024/05/21/highlights-from-the-osmf-board-spring-2024-meeting</title>
         <link>https://en.osm.town/@openstreetmap/112483255334330502</link>
         <guid>https://en.osm.town/@openstreetmap/112483255334330502</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/112230976724320412</link>
         <guid>https://en.osm.town/@openstreetmap/112230976724320412</guid>
         <pubDate>Sun, 07 Apr 2024 16:53:20 +0000</pubDate>
-      </item><item>
-        <title>another highlight from WeeklyOSM #714 OSM user SeverinGeo advocated for introducing new contributors to OpenStreetMap through field mapping in this diary entry, https://www.openstreetmap.org/user/SeverinGeo/diary/403778, listing many reasons why the field mapping approach is a good one. &amp;quot;</title>
-        <link>https://en.osm.town/@openstreetmap/112200418672332133</link>
-        <guid>https://en.osm.town/@openstreetmap/112200418672332133</guid>
-        <pubDate>Tue, 02 Apr 2024 07:22:01 +0000</pubDate>
       </item>
   </channel>
 </rss>
