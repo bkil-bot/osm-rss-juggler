@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>This Knight Frank (KF) map offers a detailed look at Indonesia’s infrastructure, with a particular focus on Jakarta. It includes data on various property types, facilities, and key infrastructure elements such as toll roads, airports and seaports, facilitating comprehensive urban and regional planning and analysis. (source: https://weeklyosm.eu/archives/17225 ) https://kfmap.asia/maps?lat=-6.185325100668675&amp;amp;lng=106.82867252952241&amp;amp;z=12&amp;amp;sec=1,2,3,5,11,14,15,17,18,22,23,41,42,43,44</title>
+        <link>https://en.osm.town/@openstreetmap/112533905182529344</link>
+        <guid>https://en.osm.town/@openstreetmap/112533905182529344</guid>
+        <pubDate>Fri, 31 May 2024 04:52:01 +0000</pubDate>
+      </item><item>
         <title>OSM data powers new and ongoing research all over the world. For example, The United States Census Bureau has developed a socioeconomic profile of the commuters affected by the collapse of the Francis Scott Key Bridge, in Baltimore, based on OSM data and OSRM. https://www.census.gov/library/stories/2024/05/key-bridge-commuters.html</title>
         <link>https://en.osm.town/@openstreetmap/112517370801896466</link>
         <guid>https://en.osm.town/@openstreetmap/112517370801896466</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/112236052537878955</link>
         <guid>https://en.osm.town/@openstreetmap/112236052537878955</guid>
         <pubDate>Mon, 08 Apr 2024 14:24:10 +0000</pubDate>
-      </item><item>
-        <title>#SotM2024: Call for Academic Track Abstracts! This year’s State of the Map conference will feature OSM Science 2024, the 7th edition of the Academic Track of State of the Map – a full day of sessions dedicated to academic research about, and with, OpenStreetMap. Authors are invited to submit abstracts (800-1200 words in plain text, without figures) using the OSM Science 2024 Pretalx submission system by 10 May 2024 https://blog.openstreetmap.org/2024/04/04/sotm-2024-call-for-academic-track-abstracts/ @sotm #OpenStreetMap #OSM #OSMScience #OpenScience</title>
-        <link>https://en.osm.town/@openstreetmap/112230976724320412</link>
-        <guid>https://en.osm.town/@openstreetmap/112230976724320412</guid>
-        <pubDate>Sun, 07 Apr 2024 16:53:20 +0000</pubDate>
       </item>
   </channel>
 </rss>
