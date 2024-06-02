@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>It&amp;#39;s a crazy property of #chatmail that it practically has zero state: if a Chatmail server is raided, burns to the ground etc but you still have DNS control, you just set it up somewhere and people can continue chatting. In that sense it&amp;#39;s really like a router .... You can turn it off, wipe state, reinstall and turn it on. Theoretically someone might take your address if they arrive first with their login but they would not get readable message content so it would be more annoying than unsafe</title>
+        <link>https://chaos.social/@delta/112546865028184048</link>
+        <guid>https://chaos.social/@delta/112546865028184048</guid>
+        <pubDate>Sun, 02 Jun 2024 11:47:53 +0000</pubDate>
+      </item><item>
         <title>How to get somewhat sufficient funding remains a question, however economic our approach is. We avoided VC funding and rather went for public tax-based funds because our efforts are driven by what we consider to be in the public interest. It is said that humanity can be morally.judged by how well those are doing who are living through the worst. We often focus on users in imminently dangerous situations but this is not where you can or want to earn money from, let alone surplus.</title>
         <link>https://chaos.social/@delta/112546239313363496</link>
         <guid>https://chaos.social/@delta/112546239313363496</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/112370973721050239</link>
         <guid>https://chaos.social/@delta/112370973721050239</guid>
         <pubDate>Thu, 02 May 2024 10:16:24 +0000</pubDate>
-      </item><item>
-        <title>See https://mastodon.social/@adbenitez/112355770657658005 and surrounding toots for more info</title>
-        <link>https://chaos.social/@delta/112367782647302438</link>
-        <guid>https://chaos.social/@delta/112367782647302438</guid>
-        <pubDate>Wed, 01 May 2024 20:44:52 +0000</pubDate>
       </item>
   </channel>
 </rss>
