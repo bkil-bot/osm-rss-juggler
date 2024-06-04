@@ -2,6 +2,11 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      
+      <item>
+        <title>Category:Hungary: Category:Cities in Hungary added to category -Lenochod</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Category:Hungary&amp;diff=2716284&amp;oldid=1563988</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Category:Hungary&amp;diff=2716284</guid>
+        <pubDate>Tue, 04 Jun 2024 19:29:52 GMT</pubDate>
+      </item>
   </channel>
 </rss>
