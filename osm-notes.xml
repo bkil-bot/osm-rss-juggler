@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4244573 (near Ilonatanya, Nyíregyháza) / * 2024 May 13 16:23 Created: Szalag lakópark, egy L betűvel. / * 2024 June 5 10:10 urbalazs Resolved: Javítottam a nevet a 152280368 számú módosításcsomagban.</title>
+        <link>https://www.openstreetmap.org/note/4244573#c9363542</link>
+        <guid>https://www.openstreetmap.org/note/4244573#c9363542</guid>
+        <pubDate>Wed, 05 Jun 2024 10:10:20 +0000</pubDate>
+      </item><item>
+        <title>closed note 4244589 (near Ilonatanya, Nyíregyháza) / * 2024 May 13 16:45 Eric Grosse Created: Construction in progress / via StreetComplete 57.3 / * 2024 June 5 10:08 urbalazs Resolved: Átépítéseket, felújításokat általában nem térképezünk. Ha felépült, akkor a megfelelő módon kell jelölni. Ha csak felújítás, akkor pedig marad így, ahogy van.</title>
+        <link>https://www.openstreetmap.org/note/4244589#c9363537</link>
+        <guid>https://www.openstreetmap.org/note/4244589#c9363537</guid>
+        <pubDate>Wed, 05 Jun 2024 10:08:00 +0000</pubDate>
+      </item><item>
+        <title>closed note 4247058 (near 4400, Újtelekbokor, Nyíregyháza) / * 2024 May 15 09:40 Created: Tábla szerint Hadik András utca. / * 2024 June 5 10:06 urbalazs Resolved: Hozzáadtam a 152280154 számú módosításcsomagban.</title>
+        <link>https://www.openstreetmap.org/note/4247058#c9363530</link>
+        <guid>https://www.openstreetmap.org/note/4247058#c9363530</guid>
+        <pubDate>Wed, 05 Jun 2024 10:06:30 +0000</pubDate>
+      </item><item>
+        <title>closed note 4247647 (near 4400, Újtelekbokor, Nyíregyháza) / * 2024 May 15 16:35 Created: Könyök utca / * 2024 June 5 09:57 urbalazs Resolved: Hozzáadtam a 152279717 számú módosításcsomagban,</title>
+        <link>https://www.openstreetmap.org/note/4247647#c9363497</link>
+        <guid>https://www.openstreetmap.org/note/4247647#c9363497</guid>
+        <pubDate>Wed, 05 Jun 2024 09:57:01 +0000</pubDate>
+      </item><item>
         <title>closed note 4269991 (near 1039, Csillaghegy, 3rd district) / * 2024 May 29 09:09 utvonalfelmeresek Created: nemzeti dohánybolt / #OsmAnd / * 2024 June 5 04:42 utvonalfelmeresek Resolved: https://www.openstreetmap.org/changeset/152269203</title>
         <link>https://www.openstreetmap.org/note/4269991#c9362846</link>
         <guid>https://www.openstreetmap.org/note/4269991#c9362846</guid>
@@ -22,16 +42,6 @@
         <link>https://www.openstreetmap.org/note/3963869#c9362340</link>
         <guid>https://www.openstreetmap.org/note/3963869#c9362340</guid>
         <pubDate>Tue, 04 Jun 2024 20:42:58 +0000</pubDate>
-      </item><item>
-        <title>closed note 4217093 (near 1115, Kelenföld, 11th district) / * 2024 April 27 11:00 vasony Created: elkezdték ezt lebontani, felmérendő mi maradt mi nem / * 2024 June 3 19:17 vasony Resolved: teljesen</title>
-        <link>https://www.openstreetmap.org/note/4217093#c9359028</link>
-        <guid>https://www.openstreetmap.org/note/4217093#c9359028</guid>
-        <pubDate>Mon, 03 Jun 2024 19:17:35 +0000</pubDate>
-      </item><item>
-        <title>closed note 4246212 (near 1146, City Park, 14th district) / * 2024 May 14 17:14 infeeeee Created: Átadták a Kresz parkot: https://www.openstreetmap.org/way/1150381902 / https://pestbuda.hu/cikk/20240514_atadtak_a_megujult_kresz_parkot_a_varosligetben / * 2024 June 3 15:08 infeeeee Resolved: </title>
-        <link>https://www.openstreetmap.org/note/4246212#c9358517</link>
-        <guid>https://www.openstreetmap.org/note/4246212#c9358517</guid>
-        <pubDate>Mon, 03 Jun 2024 15:08:46 +0000</pubDate>
       </item>
   </channel>
 </rss>
