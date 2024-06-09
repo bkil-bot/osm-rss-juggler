@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>An enjoyable and fruitful #OpenPGP email 2024 summit closing up .... with many standardization efforts roughly agreed between several players: maximizing metadata protection (IETF header protection effort), ecosystem transition V4-&amp;gt;V6 and PQ-keys (IETF replacement keys), #autocrypt level 2 possibly involving integration of &amp;quot;in-band&amp;quot; with &amp;quot;out of band&amp;quot; key distribution like WKD/HKP which themselves are bound for integration. Believe it or not .... the eco system is moving ;) Flip chart with a rough list of in-band and out-of-band mechanisms and their properties .... Which served as a basis for &quot;replacement key&quot; and &quot;key migration&quot; use cases. Screenshot of toot at https://social.heise.de/@syt/112579950084148138Projector screenshot of header protection session presented and facilitated by dkg (not pictured)</title>
+        <link>https://chaos.social/@delta/112586666722555707</link>
+        <guid>https://chaos.social/@delta/112586666722555707</guid>
+        <pubDate>Sun, 09 Jun 2024 12:29:58 +0000</pubDate>
+      </item><item>
         <title>The #EUGoingDark 42-point plan for after the election has it all: breaking e2e encryption, &amp;quot;lawful&amp;quot; data retention, prohibiting encrypting metadata, threatening jail to developers for non compliance ..... If we thought authoritarian political currents are moving against privacy then this is an entirely new level ... https://www.patrick-breyer.de/en/first-insight-42-key-points-of-the-secret-eugoingdark-surveillance-plan-for-the-new-eu-commission/ P.s. we need more #chatmail servers and contributors so that our #deltachat app-dev conglomerate provides resilience against such authoritarian pipe dreams</title>
         <link>https://chaos.social/@delta/112585131624556931</link>
         <guid>https://chaos.social/@delta/112585131624556931</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/112418014615996641</link>
         <guid>https://chaos.social/@delta/112418014615996641</guid>
         <pubDate>Fri, 10 May 2024 17:39:31 +0000</pubDate>
-      </item><item>
-        <title>Did you know that Delta Chat is the only mature, cross-platform secure messaging app that does not use or need a key server? Signal, Matrix, Proton, Whatsapp all effectively operate key servers that reveal the cryptographic identity (a very strong identifier) behind an address. Delta Chat uses decentralized specs and protocols that reveal your cryptographic identity only to those you choose to interact with. Nothing can be publically queried. Background link: https://delta.chat/en/help#encryption-and-security</title>
-        <link>https://chaos.social/@delta/112416216211151577</link>
-        <guid>https://chaos.social/@delta/112416216211151577</guid>
-        <pubDate>Fri, 10 May 2024 10:02:10 +0000</pubDate>
       </item>
   </channel>
 </rss>
