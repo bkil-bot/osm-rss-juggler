@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 2 Comment: Reverted https://www.openstreetmap.org/changeset/152497682 Date: 2024-06-10T13:14:09+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/152486410</link>
+        <guid>https://www.openstreetmap.org/changeset/152486410#comment_2</guid>
+        <pubDate>2024-06-10T13:14:09+02:00</pubDate>
+      </item><item>
         <title>Contributor: mgpx Discussion Comment No.: 1 Comment: Valóban létezik a jelölt helyen egy állandó személyzettel rendelkező, élelmet és szállást is nyújtó menedékház ? Date: 2024-06-09T21:38:58+02:00</title>
         <link>https://www.openstreetmap.org/changeset/137851243</link>
         <guid>https://www.openstreetmap.org/changeset/137851243#comment_1</guid>
@@ -32,11 +37,6 @@
         <link>https://www.openstreetmap.org/changeset/150701576</link>
         <guid>https://www.openstreetmap.org/changeset/150701576#comment_1</guid>
         <pubDate>2024-06-04T09:29:17+02:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Van ilyen is, hogy amenity=traffic_park, felújítás előtt ez volt a címkéje. Ez nem illene rá jobban? https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dtraffic_park Date: 2024-06-03T15:08:26+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/152184769</link>
-        <guid>https://www.openstreetmap.org/changeset/152184769#comment_1</guid>
-        <pubDate>2024-06-03T15:08:26+02:00</pubDate>
       </item>
   </channel>
 </rss>
