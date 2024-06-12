@@ -2,21 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      <item>
-        <title>Hungary/Találkozók/Meetup 2024-06-10: Előadás diáinak feltöltése. -Urbalazs</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Tal%C3%A1lkoz%C3%B3k/Meetup_2024-06-10&amp;diff=2718288&amp;oldid=2717645</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Tal%C3%A1lkoz%C3%B3k/Meetup_2024-06-10&amp;diff=2718288</guid>
-        <pubDate>Mon, 10 Jun 2024 22:59:34 GMT</pubDate>
-      </item><item>
-        <title>Hungary/videok: Március-június meetupok -ITinerisKft</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/videok&amp;diff=2718327&amp;oldid=2677661</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/videok&amp;diff=2718327</guid>
-        <pubDate>Tue, 11 Jun 2024 06:09:48 GMT</pubDate>
-      </item><item>
-        <title>Hungary/Szerszámzat: Adószám szintaktikai ellenőrzés megvalósítva. -Urbalazs</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Szersz%C3%A1mzat&amp;diff=2718289&amp;oldid=2714305</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Szersz%C3%A1mzat&amp;diff=2718289</guid>
-        <pubDate>Mon, 10 Jun 2024 23:14:38 GMT</pubDate>
-      </item>
+      
   </channel>
 </rss>
