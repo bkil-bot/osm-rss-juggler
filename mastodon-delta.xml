@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>As you know, governmental forces within the EU, the US, the UK, Russia and others are in a hot competition on who gets to be the first to subvert end-to-end encryption. A few days ago, we got another letter from Roskomnadzor, the #russia telco authority, to help them get at user data or metadata for #deltachat users. But there is no central registry of e-mail addresses, messages or decryption keys. So we declined. Sorry, not sorry. A letter from merlinux GmbH to ROSKOMNADZOR Russian Federal Service for Supervision in the Sphere of Telecom, Information Technologies and Mass Communications per e-mail: 97-fz@rkn.gov.ru Freiburg, June 13th 2024 Your request for registration of Delta Chat regarding provided services in Russia Dear Sirs and Madams, on June 11th 2024 we received your request by e-mail to delta@merlinux.eu to register for provided messaging services in Russia for the application Delta Chat whose developments we indeed facilitate and distribute to app stores and many platforms. If we understand your request correctly, you also requested access to decryption keys and access to user data. However, Delta Chat is an e-mail application which lets users choose their e-mail providers at their own discretion. There is no central registry of e-mail addresses and we have no access to message contents, let alone decryption keys which only exist on user devices. We therefore kindly request that you strike us from your list of service providers. best regards and thanks, holger krekel, managing director, merlinux GmbH</title>
+        <link>https://chaos.social/@delta/112608426988613191</link>
+        <guid>https://chaos.social/@delta/112608426988613191</guid>
+        <pubDate>Thu, 13 Jun 2024 08:43:54 +0000</pubDate>
+      </item><item>
         <title>An enjoyable and fruitful #OpenPGP email 2024 summit closing up .... with many standardization efforts roughly agreed between several players: maximizing metadata protection (IETF header protection effort), ecosystem transition V4-&amp;gt;V6 and PQ-keys (IETF replacement keys), #autocrypt level 2 possibly involving integration of &amp;quot;in-band&amp;quot; with &amp;quot;out of band&amp;quot; key distribution like WKD/HKP which themselves are bound for integration. Believe it or not .... the eco system is moving ;) Flip chart with a rough list of in-band and out-of-band mechanisms and their properties .... Which served as a basis for &quot;replacement key&quot; and &quot;key migration&quot; use cases. Screenshot of toot at https://social.heise.de/@syt/112579950084148138Projector screenshot of header protection session presented and facilitated by dkg (not pictured)</title>
         <link>https://chaos.social/@delta/112586666722555707</link>
         <guid>https://chaos.social/@delta/112586666722555707</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/112422007157098940</link>
         <guid>https://chaos.social/@delta/112422007157098940</guid>
         <pubDate>Sat, 11 May 2024 10:34:53 +0000</pubDate>
-      </item><item>
-        <title>A quick note as a friendly project follower/user told us they perceived our toot to diminish Signal -- that&amp;#39;s not our intention. Signal has Post-quantum safe algorithms, PFS, Sealed sender -- some pretty advanced mechanisms that have no Delta equivalent. However, Signal&amp;#39;s key distribution is centralized and ours is decentralized which we consider fair game to highlight. Moreover DC has guaranteed e2ee encryption protecting from server compromise, allowing to not overly have to trust server ops.</title>
-        <link>https://chaos.social/@delta/112418014615996641</link>
-        <guid>https://chaos.social/@delta/112418014615996641</guid>
-        <pubDate>Fri, 10 May 2024 17:39:31 +0000</pubDate>
       </item>
   </channel>
 </rss>
