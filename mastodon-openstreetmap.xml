@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>Looking to get in touch with other #LGBTQ+ #OpenStreetMap people? Have you heard of MapBeks &amp;lt;https://wiki.openstreetmap.org/wiki/MapBeks&amp;gt; or RainbOSM &amp;lt;https://wiki.openstreetmap.org/wiki/RainbOSM&amp;gt; @rainbosm? Happy Pride 🏳️‍🌈 and Happy Mapping 🗺! #OpenStreetMap #OSM #Pride #PrideMonth #PrideMonth2024</title>
+        <link>https://en.osm.town/@openstreetmap/112619579213214125</link>
+        <guid>https://en.osm.town/@openstreetmap/112619579213214125</guid>
+        <pubDate>Sat, 15 Jun 2024 08:00:03 +0000</pubDate>
+      </item><item>
         <title>The main way to store #LGBTQ+ aspect in #OpenStreetMap is with the `lgbtq` tag. 🏳️‍🌈 `lgbtq=primary` is for locations which cater to an exclusively or predominantly LGBTQ+ audience, either by the managers running it that way, or by overwhelming convention. Subtags (`lgbtq:*=*`) can be used for finer details. Read more on the OSM Wiki 📝 &amp;lt;https://wiki.openstreetmap.org/wiki/Key:lgbtq&amp;gt; Happy Pride 🏳️‍🌈 and Happy Mapping! 🗺 🙂 #OSM #LGB #LGBT #LGBTQ #PrideMonth #Pride #PrideMonth2024</title>
         <link>https://en.osm.town/@openstreetmap/112579943039386761</link>
         <guid>https://en.osm.town/@openstreetmap/112579943039386761</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/112282435810658738</link>
         <guid>https://en.osm.town/@openstreetmap/112282435810658738</guid>
         <pubDate>Tue, 16 Apr 2024 19:00:03 +0000</pubDate>
-      </item><item>
-        <title>Only 1 week left to apply to present at #StateOfTheMap (@sotm), the annual #OpenStreetMap global conference, in Nairobi, Kenya.The Call for Participation is open until 2024-04-23 https://2024.stateofthemap.org/calls/general/ #OSM #sotm2024</title>
-        <link>https://en.osm.town/@openstreetmap/112280549844155937</link>
-        <guid>https://en.osm.town/@openstreetmap/112280549844155937</guid>
-        <pubDate>Tue, 16 Apr 2024 11:00:25 +0000</pubDate>
       </item>
   </channel>
 </rss>
