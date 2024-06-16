@@ -2,6 +2,11 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Notes (via bkil-bot)</title>
-      
+      <item>
+        <title>closed note 4255166 (near 8600, Fokihegy, Siófok) / * 2024 May 20 05:51 OSM KAMI Created: 63? / via StreetComplete_ee 57.0 / Attached photo(s): / https://westnordost.de/p/213740.jpg / * 2024 June 16 18:51 urbalazs Resolved: Megoldva a bejelentő által.</title>
+        <link>https://www.openstreetmap.org/note/4255166#c9400218</link>
+        <guid>https://www.openstreetmap.org/note/4255166#c9400218</guid>
+        <pubDate>Sun, 16 Jun 2024 18:51:56 +0000</pubDate>
+      </item>
   </channel>
 </rss>
