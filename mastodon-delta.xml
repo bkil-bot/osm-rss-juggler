@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>some news regarding rPGP, the minimal #Rust #OpenPGP implementation that stably provides end-to-end encryption for Delta users since many years: - a new FAQ including questions about IETF specs, Post-Quantum cryptography, Autocrypt, LibrePGP, Seqouia etc. https://github.com/rpgp/rpgp/blob/master/docs/FAQ.md - NLNET just granted #OpenPGP V6 work on rPGP: https://nlnet.nl/project/rPGP-cryptorefresh/ rPGP is an independent and stable project which provides good general #OpenPGP interoperability, see &amp;quot;rpgpie&amp;quot; in https://tests.sequoia-pgp.org/</title>
+        <link>https://chaos.social/@delta/112638635012948563</link>
+        <guid>https://chaos.social/@delta/112638635012948563</guid>
+        <pubDate>Tue, 18 Jun 2024 16:46:11 +0000</pubDate>
+      </item><item>
         <title>We got note of three #deltachat articles from different angles the last days: Roskomvoboda, human rights org in russia, interviewing @Xeniax about our recent interaction with the russian telco authorities. https://roskomsvoboda.org/ru/post/delta-chat-snova-otkazal-roskomnadzoru/ @unixtippse about &amp;quot;do&amp;#39;s and don&amp;#39;ts&amp;quot; after re-engaging with Delta Chat happily. https://binblog.de/2024/06/15/deltachat-first-dos-first-donts/ @durian about Signal and &amp;quot;Delta Chat for anarchists&amp;quot; https://phlanticap.noblogs.org/delta-chat-for-anarchists/</title>
         <link>https://chaos.social/@delta/112621284535468799</link>
         <guid>https://chaos.social/@delta/112621284535468799</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/112436163856034976</link>
         <guid>https://chaos.social/@delta/112436163856034976</guid>
         <pubDate>Mon, 13 May 2024 22:35:07 +0000</pubDate>
-      </item><item>
-        <title>Just to be clear: we value our time and will not engage deeply with people who have a lot of random suggestions and ideas... We don&amp;#39;t have a lack of those on any day :) we are doing continuous user studies, interviews and research with people in repressive, dangerous situations who are using delta chat today. These efforts are usually lead by @Xeniax and entail some scientific rigor as you can expect from a venerable PhD in user research :)</title>
-        <link>https://chaos.social/@delta/112427371753153431</link>
-        <guid>https://chaos.social/@delta/112427371753153431</guid>
-        <pubDate>Sun, 12 May 2024 09:19:10 +0000</pubDate>
       </item>
   </channel>
 </rss>
