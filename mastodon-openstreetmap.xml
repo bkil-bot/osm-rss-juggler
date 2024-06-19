@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>OpenStreetMap is a map that everyone can edit and improve, and that&amp;#39;s how we&amp;#39;ve created the best map of the world. 😍 🗺 💪 🥇 Alas, some people just want to vandalise things 😭. If you&amp;#39;ve seen weird things on the map (e.g. lots of crossing white lines), that could be vandalism. Here&amp;#39;s what to do if you see this: https://community.openstreetmap.org/t/have-you-spotted-vandalism-on-openstreetmap-org/114684 with thanks to @SomeoneElse. #OpenStreetMap #OSM #OSMVandalism #Vandalism</title>
+        <link>https://en.osm.town/@openstreetmap/112642700394806455</link>
+        <guid>https://en.osm.town/@openstreetmap/112642700394806455</guid>
+        <pubDate>Wed, 19 Jun 2024 10:00:04 +0000</pubDate>
+      </item><item>
         <title>OSMF at the UN Maps conference! OpenStreetMap Foundation board member Sarah Hoffmann recently joined the 3rd annual UNMaps conference in Valencia, Spain to present about the OpenStreetMap project and participate in a panel discussion about crowd-sourced geodata. read more: https://blog.openstreetmap.org/2024/06/18/openstreetmap-at-the-unmaps-conference-2024/ #OpenStreetMap #OSM #UN &quot;Crowdsourcing Geospatial Information&quot; | Panelists from left to right: (host) Michael Montani (UNMappers; (panelists) Benjamin Herfort (HeiGIT), Sarah Hoffmann (OSMF), Sam Colchester (HOT).</title>
         <link>https://en.osm.town/@openstreetmap/112636924093614859</link>
         <guid>https://en.osm.town/@openstreetmap/112636924093614859</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/112286919512307217</link>
         <guid>https://en.osm.town/@openstreetmap/112286919512307217</guid>
         <pubDate>Wed, 17 Apr 2024 14:00:19 +0000</pubDate>
-      </item><item>
-        <title>OpenStreetMap.org is retiring OAuth 1.0a and HTTP Basic Auth on June 1st 2024. Are you developing software that uses one of these authentication methods to log in to the #openstreetmap website? Here&amp;#39;s some guidance to help you switch to OAuth 2.0: https://blog.openstreetmap.org/2024/04/17/oauth-1-0a-and-http-basic-auth-shutdown-on-openstreetmap-org/</title>
-        <link>https://en.osm.town/@openstreetmap/112285994296917032</link>
-        <guid>https://en.osm.town/@openstreetmap/112285994296917032</guid>
-        <pubDate>Wed, 17 Apr 2024 10:05:01 +0000</pubDate>
       </item>
   </channel>
 </rss>
