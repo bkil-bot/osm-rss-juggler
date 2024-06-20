@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4300641 (near 1214, Csepel-Csillagtelep, 21st district) / * 2024 June 20 21:39 tregec Created: Ez nem inkább lakóövezeti út, mint kocsibeálló? Szilvafa utca vagy Bodzavirág utca?</title>
+        <link>https://www.openstreetmap.org/note/4300641#c9413352</link>
+        <guid>https://www.openstreetmap.org/note/4300641#c9413352</guid>
+        <pubDate>Thu, 20 Jun 2024 21:39:29 +0000</pubDate>
+      </item><item>
         <title>closed note 4120398 (near 1028, Kővár, 2nd district) / * 2024 February 20 08:13 Created: Pepco / * 2024 June 18 10:22 sfphoton Resolved: Felvittem, köszi!</title>
         <link>https://www.openstreetmap.org/note/4120398#c9405488</link>
         <guid>https://www.openstreetmap.org/note/4120398#c9405488</guid>
@@ -22,21 +27,6 @@
         <link>https://www.openstreetmap.org/note/4147175#c9405364</link>
         <guid>https://www.openstreetmap.org/note/4147175#c9405364</guid>
         <pubDate>Tue, 18 Jun 2024 09:47:18 +0000</pubDate>
-      </item><item>
-        <title>closed note 4175409 (near 1061, Terézváros, 6th district) / * 2024 March 31 08:11 Created: &amp;quot;this place was permanently closed and the kern coffee collective is now in its place &amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2024-02-28T20:33:36Z / POI name: Melon / POI types: amenity-bar / #organicmaps ios / * 2024 June 18 09:36 sfphoton Resolved: Deleting it, thanks!</title>
-        <link>https://www.openstreetmap.org/note/4175409#c9405329</link>
-        <guid>https://www.openstreetmap.org/note/4175409#c9405329</guid>
-        <pubDate>Tue, 18 Jun 2024 09:36:22 +0000</pubDate>
-      </item><item>
-        <title>closed note 4117626 (near 1072, Erzsébetváros, 7th district) / * 2024 February 18 01:18 ToffeHoff Created: Unable to answer &amp;quot;What are the opening hours here?&amp;quot; – Thomas Jeans (Clothing Store) – https://osm.org/node/5806730244 via StreetComplete 56.1: / Not sure what else. Probably the W.E.N.S. Wind, a (clothes print shop / * 2024 June 18 09:31 sfphoton Resolved: I&amp;#39;m updating it, thanks! (Couldn&amp;#39;t find a better category than clothing store, though.)</title>
-        <link>https://www.openstreetmap.org/note/4117626#c9405307</link>
-        <guid>https://www.openstreetmap.org/note/4117626#c9405307</guid>
-        <pubDate>Tue, 18 Jun 2024 09:31:36 +0000</pubDate>
-      </item><item>
-        <title>closed note 4182535 (near 1142, Alsórákos, 14th district) / * 2024 April 4 16:49 Created: A könyvtár falán lenni-e kell egy emléktáblának. / * 2024 June 18 09:26 sfphoton Resolved: A térkép azóta jelöli is. Gondolom aki felvitte, nem látta azt a note-ot.</title>
-        <link>https://www.openstreetmap.org/note/4182535#c9405293</link>
-        <guid>https://www.openstreetmap.org/note/4182535#c9405293</guid>
-        <pubDate>Tue, 18 Jun 2024 09:26:55 +0000</pubDate>
       </item>
   </channel>
 </rss>
