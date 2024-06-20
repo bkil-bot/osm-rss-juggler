@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Great, so #chatcontrol was not moving forward today thanks also to various interventions from folks around the fediverse .... In particular thanks @Mer__edith for the clear take from Signals side. But it&amp;#39;s clearly not canceled and Hungary will retry getting it through, and France, having elections soon, might drop out of opposing it? Let&amp;#39;s stay vigilant about #chatcontrol and help eg @netzpolitik_feed and @edri and other groups to help us working against authoritarian #chatcontrol fantasies.</title>
+        <link>https://chaos.social/@delta/112648989842429225</link>
+        <guid>https://chaos.social/@delta/112648989842429225</guid>
+        <pubDate>Thu, 20 Jun 2024 12:39:34 +0000</pubDate>
+      </item><item>
         <title>some news regarding rPGP, the minimal #Rust #OpenPGP implementation that stably provides end-to-end encryption for Delta users since many years: - a new FAQ including questions about IETF specs, Post-Quantum cryptography, Autocrypt, LibrePGP, Seqouia etc. https://github.com/rpgp/rpgp/blob/master/docs/FAQ.md - NLNET just granted #OpenPGP V6 work on rPGP: https://nlnet.nl/project/rPGP-cryptorefresh/ rPGP is an independent and stable project which provides good general #OpenPGP interoperability, see &amp;quot;rpgpie&amp;quot; in https://tests.sequoia-pgp.org/</title>
         <link>https://chaos.social/@delta/112638635012948563</link>
         <guid>https://chaos.social/@delta/112638635012948563</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/112446625623024005</link>
         <guid>https://chaos.social/@delta/112446625623024005</guid>
         <pubDate>Wed, 15 May 2024 18:55:41 +0000</pubDate>
-      </item><item>
-        <title>Often overlooked from our &amp;quot;but e-mail!&amp;quot; skeptics: Any sufficiently advanced P2P messenger will eventually re-invent a custom, partial form of e-mail ... because users want to communicate when their apps are offline or not foregrounded and active at the same time. See https://briarproject.org/download-briar-mailbox/ for a recent example. Delta Chat goes the reverse route by providing a secure and interoperable e-mail based messaging experience and then adds P2P tech like https://webxdc.org on top.</title>
-        <link>https://chaos.social/@delta/112436163856034976</link>
-        <guid>https://chaos.social/@delta/112436163856034976</guid>
-        <pubDate>Mon, 13 May 2024 22:35:07 +0000</pubDate>
       </item>
   </channel>
 </rss>
