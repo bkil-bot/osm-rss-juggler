@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>AddisMapTransit has mapped over 2,300 public transport stops and 443 routes in Addis Ababa, Ethiopia 🇪🇹 . These routes were then converted from OSM to standardised open transport data (GTFS) and submitted to the DigitalTransport4Africa repository. ( 🙏 @weeklyOSM for the write-up) https://www.trufi-association.org/addismaptransit-submits-transport-routes-to-dt4a/ #OpenStreetMap #OSM #PublicTransport #Ethiopia</title>
+        <link>https://en.osm.town/@openstreetmap/112665585384142721</link>
+        <guid>https://en.osm.town/@openstreetmap/112665585384142721</guid>
+        <pubDate>Sun, 23 Jun 2024 11:00:02 +0000</pubDate>
+      </item><item>
         <title>SotMAsia and SotM Bangladesh are looking for enthusiastic Campus Ambassadors to help make the event a grand success. Read more at Shawan Shariar&amp;#39;s diary https://www.openstreetmap.org/user/Sawan%20Shariar/diary/404290 #OpenStreetMap #OSM #SotMAsia @sotmasia</title>
         <link>https://en.osm.town/@openstreetmap/112649306627869117</link>
         <guid>https://en.osm.town/@openstreetmap/112649306627869117</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/112319476794029925</link>
         <guid>https://en.osm.town/@openstreetmap/112319476794029925</guid>
         <pubDate>Tue, 23 Apr 2024 08:00:04 +0000</pubDate>
-      </item><item>
-        <title>Would you like to see your post, project, mapping party, community photo, diary, mapping data viz or other #OSM story on the official OSM social media channels? Here are some guidelines for requesting Communications Working Group support: https://community.openstreetmap.org/t/update-on-how-to-request-social-media-posts-or-other-cwg-support/111482 #OpenStreetMap</title>
-        <link>https://en.osm.town/@openstreetmap/112292581542723510</link>
-        <guid>https://en.osm.town/@openstreetmap/112292581542723510</guid>
-        <pubDate>Thu, 18 Apr 2024 14:00:15 +0000</pubDate>
       </item>
   </channel>
 </rss>
