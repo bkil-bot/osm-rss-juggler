@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Delta Chat collabs are carefully cooking new major features by a series of discussion/coding steps with roughly this recipe mix: - one part: discussing a feature and its step wise implementation - three parts: how does it square with usability outcomes (eg avoiding failure modes in the dialogue trees; who really needs this? what do they say themselves?) - one part: how it can be attacked? Focus on real security outcomes. - two parts: how can we avoid maintenance monsters for future us?</title>
+        <link>https://chaos.social/@delta/112664966963905029</link>
+        <guid>https://chaos.social/@delta/112664966963905029</guid>
+        <pubDate>Sun, 23 Jun 2024 08:22:45 +0000</pubDate>
+      </item><item>
         <title>Great, so #chatcontrol was not moving forward today thanks also to various interventions from folks around the fediverse .... In particular thanks @Mer__edith for the clear take from Signals side. But it&amp;#39;s clearly not canceled and Hungary will retry getting it through, and France, having elections soon, might drop out of opposing it? Let&amp;#39;s stay vigilant about #chatcontrol and help eg @netzpolitik_feed and @edri and other groups to help us working against authoritarian #chatcontrol fantasies.</title>
         <link>https://chaos.social/@delta/112648989842429225</link>
         <guid>https://chaos.social/@delta/112648989842429225</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/112456657357156774</link>
         <guid>https://chaos.social/@delta/112456657357156774</guid>
         <pubDate>Fri, 17 May 2024 13:26:53 +0000</pubDate>
-      </item><item>
-        <title>#DeltaTouch, the native #UbuntuTouch version of delta chat just announced they are going for full webxdc app support in the summer .... There also is an experimental way to run it on #nixos to get a desktop that is not based on Elektron. Shout-out to @lk108 who is heading this great work even if it&amp;#39;s &amp;quot;niche&amp;quot; for now .... DeltaTouch is pretty close to mainline features and arguably the best messenger on that os! https://social.tchncs.de/@deltatouch/112446568813809144</title>
-        <link>https://chaos.social/@delta/112446625623024005</link>
-        <guid>https://chaos.social/@delta/112446625623024005</guid>
-        <pubDate>Wed, 15 May 2024 18:55:41 +0000</pubDate>
       </item>
   </channel>
 </rss>
