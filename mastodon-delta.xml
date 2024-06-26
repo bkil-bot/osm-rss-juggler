@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Third time is a charm! Watch us tirelessly explaining to Roskomnadzor how e-mail works! The three innovations in our third reply are that we a) request the international law their request is grounded on (as if they would care) b) communicate that their assumptions, even according to russian laws, are wrong (as if they would care) c) state explicitly that Delta Chat is unlike WhatsApp, Signal or Telegram (doh!) #chatcontrol-delendam-est A letter from merlinux to Roskomandzor: Regarding registration of Delta Chat provided services in Russia with the following key content: 1) You fail to reference relevant International Law that would give you the authority to request any interaction from us as an organization residing within the legal framework of the European Union. If you don’t reference any international law or treaty, you are required to direct your queries to the german foreign ministry instead, which in turn would get in contact with us. 2) Even if your request was grounded in international law, merlinux is not an „ICO“ or „Information Communication Organizer“ as defined in Section 10.1 of 149-FZ. In particular, we maintain that this base assumption stated in your letter is not correct: „According to the results of the analysis the information resource delta.chat , the owner of which is a foreign organization merlinux GmbH, was found to have the capability to receive, transmit, deliver and (or) process electronic messages of Internet users.“ Unlike Telegram or Whatsapp, the information resource „delta.chat“ does not have the ability to receive, transmit, deliver or process electronic messages. All users of our e-mail client apps choose electronic message processors („e-mail servers“) sovereignly themselves, without our knowledge and without sending their messages through a central server like it happens with Telegram or Whatsapp.</title>
+        <link>https://chaos.social/@delta/112684132304517685</link>
+        <guid>https://chaos.social/@delta/112684132304517685</guid>
+        <pubDate>Wed, 26 Jun 2024 17:36:45 +0000</pubDate>
+      </item><item>
         <title>Delta Chat collabs are carefully cooking new major features by a series of discussion/coding steps with roughly this recipe mix: - one part: discussing a feature and its step wise implementation - three parts: how does it square with usability outcomes (eg avoiding failure modes in the dialogue trees; who really needs this? what do they say themselves?) - one part: how it can be attacked? Focus on real security outcomes. - two parts: how can we avoid maintenance monsters for future us?</title>
         <link>https://chaos.social/@delta/112664966963905029</link>
         <guid>https://chaos.social/@delta/112664966963905029</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/112460581138408023</link>
         <guid>https://chaos.social/@delta/112460581138408023</guid>
         <pubDate>Sat, 18 May 2024 06:04:45 +0000</pubDate>
-      </item><item>
-        <title>The surprising developments in our teams happen &amp;quot;in between&amp;quot; when someone makes an &amp;quot;argument in code&amp;quot; after some inspirational chatting with others, often in cross project and cross-concern manners. Chaotic some might say, not unfittingly. Challenge is to sync it with our release scheduling and reliability discipline. There is this nice saying &amp;quot;you have to become disciplined to be undisciplined&amp;quot; which mirrors practises of how larger #ccc events are arranged in which delta chat grew up :)</title>
-        <link>https://chaos.social/@delta/112456657357156774</link>
-        <guid>https://chaos.social/@delta/112456657357156774</guid>
-        <pubDate>Fri, 17 May 2024 13:26:53 +0000</pubDate>
       </item>
   </channel>
 </rss>
