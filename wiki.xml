@@ -3,10 +3,10 @@
   <channel>
     <title>Wiki (via bkil-bot)</title>
       <item>
-        <title>Template:PlaceLang: update &amp;quot;de&amp;quot;: Earth=auf der Erde; add new &amp;quot;sv&amp;quot; Swedish translation -Chris2map</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Template:PlaceLang&amp;diff=2724152&amp;oldid=2586405</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Template:PlaceLang&amp;diff=2724152</guid>
-        <pubDate>Fri, 28 Jun 2024 16:14:49 GMT</pubDate>
+        <title>Template:PlaceLang: fix &amp;quot;de&amp;quot; {{{area}}} earth; &amp;quot;sv&amp;quot; {{{area}}} earth -Chris2map</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Template:PlaceLang&amp;diff=2724153&amp;oldid=2586405</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Template:PlaceLang&amp;diff=2724153</guid>
+        <pubDate>Fri, 28 Jun 2024 16:29:34 GMT</pubDate>
       </item>
   </channel>
 </rss>
