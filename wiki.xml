@@ -2,6 +2,11 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      
+      <item>
+        <title>Template:PlaceLang: update &amp;quot;de&amp;quot;: Earth=auf der Erde; add new &amp;quot;sv&amp;quot; Swedish translation -Chris2map</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Template:PlaceLang&amp;diff=2724152&amp;oldid=2586405</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Template:PlaceLang&amp;diff=2724152</guid>
+        <pubDate>Fri, 28 Jun 2024 16:14:49 GMT</pubDate>
+      </item>
   </channel>
 </rss>
