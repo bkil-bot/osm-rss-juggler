@@ -2,6 +2,11 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Notes (via bkil-bot)</title>
-      
+      <item>
+        <title>closed note 3216773 (near 4600, Kisvárda) / * 2022 June 9 08:02 Created: Buszmegálló / * 2024 June 29 05:38 vasony Resolved: az úton jelölve van</title>
+        <link>https://www.openstreetmap.org/note/3216773#c9439231</link>
+        <guid>https://www.openstreetmap.org/note/3216773#c9439231</guid>
+        <pubDate>Sat, 29 Jun 2024 05:38:22 +0000</pubDate>
+      </item>
   </channel>
 </rss>
