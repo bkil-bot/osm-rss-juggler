@@ -2,8 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Change QA (via bkil-bot)</title>
-<item><title>KovacsD moved place node 1000687171 hamlet Nagymórichida, 1000687201 hamlet Kismórichida in changeset 152623891</title><link>https://www.openstreetmap.org/changeset/152623891</link><guid>https://www.openstreetmap.org/changeset/152623891</guid><pubDate>Thu, 13 Jun 2024 09:30:52 +0000</pubDate></item>
-<item><title>Arisuaq moved place node 353954468 village Csatár in changeset 152696040</title><link>https://www.openstreetmap.org/changeset/152696040</link><guid>https://www.openstreetmap.org/changeset/152696040</guid><pubDate>Fri, 14 Jun 2024 19:41:18 +0000</pubDate></item>
 <item><title>NightH moved place node 354022414 village Tiszagyulaháza in changeset 152845996</title><link>https://www.openstreetmap.org/changeset/152845996</link><guid>https://www.openstreetmap.org/changeset/152845996</guid><pubDate>Tue, 18 Jun 2024 12:19:29 +0000</pubDate></item>
 <item><title>zsolt_d moved place node 277518685 village Dunasziget in changeset 153089380</title><link>https://www.openstreetmap.org/changeset/153089380</link><guid>https://www.openstreetmap.org/changeset/153089380</guid><pubDate>Sun, 23 Jun 2024 23:57:48 +0000</pubDate></item>
 <item><title>zsolt_d moved place node 999103302 hamlet Nagysziget in changeset 153089774</title><link>https://www.openstreetmap.org/changeset/153089774</link><guid>https://www.openstreetmap.org/changeset/153089774</guid><pubDate>Mon, 24 Jun 2024 00:30:35 +0000</pubDate></item>
@@ -12,5 +10,7 @@
 <item><title>Garmin-User moved place node 88981247 village Pölöske in changeset 153164913</title><link>https://www.openstreetmap.org/changeset/153164913</link><guid>https://www.openstreetmap.org/changeset/153164913</guid><pubDate>Tue, 25 Jun 2024 16:20:26 +0000</pubDate></item>
 <item><title>zsolt_d moved place node 473726330 village Pilisjászfalu in changeset 153165166</title><link>https://www.openstreetmap.org/changeset/153165166</link><guid>https://www.openstreetmap.org/changeset/153165166</guid><pubDate>Tue, 25 Jun 2024 16:26:45 +0000</pubDate></item>
 <item><title>zsolt_d moved place node 268154464 village Vértesacsa in changeset 153333390</title><link>https://www.openstreetmap.org/changeset/153333390</link><guid>https://www.openstreetmap.org/changeset/153333390</guid><pubDate>Sat, 29 Jun 2024 13:53:10 +0000</pubDate></item>
+<item><title>Arisuaq moved place node 353954499 village Egeraracsa in changeset 153424809</title><link>https://www.openstreetmap.org/changeset/153424809</link><guid>https://www.openstreetmap.org/changeset/153424809</guid><pubDate>Mon, 01 Jul 2024 18:41:30 +0000</pubDate></item>
+<item><title>Arisuaq moved place node 353954502 village Dióskál, 1083470397 hamlet Palkonya in changeset 153424777</title><link>https://www.openstreetmap.org/changeset/153424777</link><guid>https://www.openstreetmap.org/changeset/153424777</guid><pubDate>Mon, 01 Jul 2024 18:40:30 +0000</pubDate></item>
   </channel>
 </rss>
