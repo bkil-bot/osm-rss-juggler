@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>If you want to dive deep into guaranteed end-to-end encryption and how green checkmarks protect against compromised servers (&amp;quot;MITM attacks&amp;quot;), the &amp;quot;Cryptographic Analysis of Delta Chat&amp;quot; from Applied Cryptography researchers at ETH Zuerich has been published at https://eprint.iacr.org/2024/918.pdf -- earlier this year we had blogged from our side how we addressed all findings https://delta.chat/en/2024-03-25-crypto-analysis-securejoin #securejoin #deltachat</title>
+        <link>https://chaos.social/@delta/112716006329107667</link>
+        <guid>https://chaos.social/@delta/112716006329107667</guid>
+        <pubDate>Tue, 02 Jul 2024 08:42:44 +0000</pubDate>
+      </item><item>
         <title>Third time is a charm! Watch us tirelessly explaining to Roskomnadzor how e-mail works! The three innovations in our third reply are that we a) request the international law their request is grounded on (as if they would care) b) communicate that their assumptions, even according to russian laws, are wrong (as if they would care) c) state explicitly that Delta Chat is unlike WhatsApp, Signal or Telegram (doh!) #chatcontrol-delenda-est A letter from merlinux to Roskomandzor: Regarding registration of Delta Chat provided services in Russia with the following key content: 1) You fail to reference relevant International Law that would give you the authority to request any interaction from us as an organization residing within the legal framework of the European Union. If you don’t reference any international law or treaty, you are required to direct your queries to the german foreign ministry instead, which in turn would get in contact with us. 2) Even if your request was grounded in international law, merlinux is not an „ICO“ or „Information Communication Organizer“ as defined in Section 10.1 of 149-FZ. In particular, we maintain that this base assumption stated in your letter is not correct: „According to the results of the analysis the information resource delta.chat , the owner of which is a foreign organization merlinux GmbH, was found to have the capability to receive, transmit, deliver and (or) process electronic messages of Internet users.“ Unlike Telegram or Whatsapp, the information resource „delta.chat“ does not have the ability to receive, transmit, deliver or process electronic messages. All users of our e-mail client apps choose electronic message processors („e-mail servers“) sovereignly themselves, without our knowledge and without sending their messages through a central server like it happens with Telegram or Whatsapp.</title>
         <link>https://chaos.social/@delta/112684132304517685</link>
         <guid>https://chaos.social/@delta/112684132304517685</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/112472201013655160</link>
         <guid>https://chaos.social/@delta/112472201013655160</guid>
         <pubDate>Mon, 20 May 2024 07:19:50 +0000</pubDate>
-      </item><item>
-        <title>WhatsApp introduces &amp;quot;ask meta ai&amp;quot; in the local chat search bar, and Slack auto-feeds messages to train their LLM robots https://eigenmagic.net/@NewtonMark/112455578857917485 ... Delta Chat is among the shrinking number of messaging applications that does not look at your data except to end-to-end encrypt it and send it over interoperable message transport servers chosen by yourselves and your contacts. #decentralization #security #privacy ftw!</title>
-        <link>https://chaos.social/@delta/112460581138408023</link>
-        <guid>https://chaos.social/@delta/112460581138408023</guid>
-        <pubDate>Sat, 18 May 2024 06:04:45 +0000</pubDate>
       </item>
   </channel>
 </rss>
