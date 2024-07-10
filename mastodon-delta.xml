@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>More ways to connect! Our dear long-term collaborators at Iroh just entered the Fediverse via @n0iroh -- Delta Chat already uses Iroh happily for multi-device setup on all platforms ... stay tuned for more fruits of this ongoing collaboration with some of the best #rust #p2p coders we know :) Latest in their crazy bi-weekly release rhythm is https://iroh.computer/blog/iroh-0-20-more-ways-to-connect</title>
+        <link>https://chaos.social/@delta/112761333473270752</link>
+        <guid>https://chaos.social/@delta/112761333473270752</guid>
+        <pubDate>Wed, 10 Jul 2024 08:50:01 +0000</pubDate>
+      </item><item>
         <title>If you want to dive deep into guaranteed end-to-end encryption and how green checkmarks protect against compromised servers (&amp;quot;MITM attacks&amp;quot;), the &amp;quot;Cryptographic Analysis of Delta Chat&amp;quot; from Applied Cryptography researchers at ETH Zuerich has been published at https://eprint.iacr.org/2024/918.pdf -- earlier this year we had blogged from our side how we addressed all findings https://delta.chat/en/2024-03-25-crypto-analysis-securejoin #securejoin #deltachat</title>
         <link>https://chaos.social/@delta/112716006329107667</link>
         <guid>https://chaos.social/@delta/112716006329107667</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/112480820963964489</link>
         <guid>https://chaos.social/@delta/112480820963964489</guid>
         <pubDate>Tue, 21 May 2024 19:52:00 +0000</pubDate>
-      </item><item>
-        <title>While we do have criticisms of its centralized architecture and other choices we highly regard Signal for ushering in a decade of popularizing end-to-end encryption. We particularly appreciate @Mer__edith doing excellent communication work there. It&amp;#39;s disingenuous that tech-billionaires Musk/Dorsey fuel attacks on her and another female colleague, hinting at Telegram as a more secure messenger. Comparing security of Signal with Telegram simply results in &amp;quot;Type Error: incompatible arguments&amp;quot;.</title>
-        <link>https://chaos.social/@delta/112472201013655160</link>
-        <guid>https://chaos.social/@delta/112472201013655160</guid>
-        <pubDate>Mon, 20 May 2024 07:19:50 +0000</pubDate>
       </item>
   </channel>
 </rss>
