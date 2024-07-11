@@ -3,6 +3,36 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4329139 (near 7622, Siklósi külváros, Pécs) / * 2024 July 11 19:06 Created: Teljes útzár</title>
+        <link>https://www.openstreetmap.org/note/4329139#c9478737</link>
+        <guid>https://www.openstreetmap.org/note/4329139#c9478737</guid>
+        <pubDate>Thu, 11 Jul 2024 19:06:41 +0000</pubDate>
+      </item><item>
+        <title>new note 4329138 (near 7632, Megyer, Pécs) / * 2024 July 11 19:06 Created: Teljes út levan zárva</title>
+        <link>https://www.openstreetmap.org/note/4329138#c9478735</link>
+        <guid>https://www.openstreetmap.org/note/4329138#c9478735</guid>
+        <pubDate>Thu, 11 Jul 2024 19:06:14 +0000</pubDate>
+      </item><item>
+        <title>new note 4329127 (near 7130, Tolna) / * 2024 July 11 18:54 synalik Created: number 33 / via StreetComplete 57.1</title>
+        <link>https://www.openstreetmap.org/note/4329127#c9478701</link>
+        <guid>https://www.openstreetmap.org/note/4329127#c9478701</guid>
+        <pubDate>Thu, 11 Jul 2024 18:54:34 +0000</pubDate>
+      </item><item>
+        <title>closed note 4328548 (near 1038, Csillaghegy, 3rd district) / * 2024 July 11 18:50 infeeeee Resolved: Kérlek ne linkelj google-ről, tilos használni osm szerkesztéshez: https://wiki.openstreetmap.org/wiki/Google / Itt van legálisan használható utcakép erről a kereszteződésről: https://www.mapillary.com/app/?pKey=477495571890953 / Osm terminológiában a gyalogátkelő más mint amit a kresz hív annak. Osm-en minden eset, ahol egy gyalogút/járda keresztez egy autóutat az gyalogátkelő. Ha nincs jelölve se táblával, se felfestéssel, az a jelöletlen gyalogátkelő: https://wiki.openstreetmap.org/wiki/Tag:crossing%3Dunmarked / Akkor ez a címke használható, ha valamiből következik, hogy itt át lehet kelni, pl le van süllyesztve a szegély. Ez itt szerintem így van. Az is arra enged következtetni, hogy a járda folytatódik a túloldalon. / Ennél egyel &amp;quot;gyengébb&amp;quot; ha semmi nyoma nincs annak, hogy itt valamiféle átkelő lenne, a &amp;quot;nem hivatalos&amp;quot; átkelő: https://wiki.openstreetmap.org/wiki/Tag:crossing%3Dinformal / Nézd meg a képeket mindkét wiki oldalon, példaként, úgy egyértelmű a különbség. Szerintem itt az unmarked címke megfelelő. / Hozzáadtam a crossing:island=no címkét, így nem fog megjelenni ez a kérdés többet SC-ben: https://www.openstreetmap.org/changeset/153825265</title>
+        <link>https://www.openstreetmap.org/note/4328548#c9478668</link>
+        <guid>https://www.openstreetmap.org/note/4328548#c9478668</guid>
+        <pubDate>Thu, 11 Jul 2024 18:50:30 +0000</pubDate>
+      </item><item>
+        <title>closed note 4328951 (near 1028, Kővár, 2nd district) / * 2024 July 11 18:49 infeeeee Resolved: Javítva: https://www.openstreetmap.org/changeset/153825265</title>
+        <link>https://www.openstreetmap.org/note/4328951#c9478657</link>
+        <guid>https://www.openstreetmap.org/note/4328951#c9478657</guid>
+        <pubDate>Thu, 11 Jul 2024 18:49:17 +0000</pubDate>
+      </item><item>
+        <title>new comment 4328951 (near 1028, Kővár, 2nd district) / * 2024 July 11 18:33 infeeeee Updated: facebook oldala már nincs, de itt még megvannak a bejegyzések lementve: https://gastro.hu/helyek/legenykert-vendeglo / Ezek alapján 2021-ben bizonytalan időre bezárt.</title>
+        <link>https://www.openstreetmap.org/note/4328951#c9478630</link>
+        <guid>https://www.openstreetmap.org/note/4328951#c9478630</guid>
+        <pubDate>Thu, 11 Jul 2024 18:33:38 +0000</pubDate>
+      </item><item>
         <title>closed note 4189100 (near 48.171, 16.479) / * 2024 April 8 13:46 majohannsen Created: Unable to answer &amp;quot;Do these steps have a handrail?&amp;quot; – Steps – https://osm.org/way/41946964 via StreetComplete 57.1: / Keine Treppe (mehr) / Attached photo(s): / https://westnordost.de/p/205963.jpg / * 2024 April 11 16:24 derloris Updated: Ist nur temporär und wird derzeit neu errichtet: https://www.facebook.com/ThomasSteinhart1110/posts/pfbid037MbKAu6HUE9RgvZ5fy17Qj9if15V3vH8UYgAEpDifvhpA4uALvgT45pnhQiQvGNzl / * 2024 July 11 17:50 Helium314 Resolved: Treppe existiert</title>
         <link>https://www.openstreetmap.org/note/4189100#c9478551</link>
         <guid>https://www.openstreetmap.org/note/4189100#c9478551</guid>
@@ -132,36 +162,6 @@
         <link>https://www.openstreetmap.org/note/4325930#c9471757</link>
         <guid>https://www.openstreetmap.org/note/4325930#c9471757</guid>
         <pubDate>Tue, 09 Jul 2024 11:39:07 +0000</pubDate>
-      </item><item>
-        <title>new note 4325923 (near 9200, Magyaróvár, Mosonmagyaróvár) / * 2024 July 9 11:30 efi99 Created: cím jó?</title>
-        <link>https://www.openstreetmap.org/note/4325923#c9471741</link>
-        <guid>https://www.openstreetmap.org/note/4325923#c9471741</guid>
-        <pubDate>Tue, 09 Jul 2024 11:30:57 +0000</pubDate>
-      </item><item>
-        <title>closed note 4297118 (near 46.215, 20.475) / * 2024 June 18 13:13 Created: körforgalom elcsúszva / * 2024 July 9 10:41 gabro00 Resolved: https://www.openstreetmap.org/changeset/153738804</title>
-        <link>https://www.openstreetmap.org/note/4297118#c9471593</link>
-        <guid>https://www.openstreetmap.org/note/4297118#c9471593</guid>
-        <pubDate>Tue, 09 Jul 2024 10:41:58 +0000</pubDate>
-      </item><item>
-        <title>new note 4325862 (near 1092, Belső-Ferencváros, 9th district) / * 2024 July 9 10:28 WandererWasOccupied Created: Unable to answer &amp;quot;This shop has been vacant. What’s here now?&amp;quot; – https://osm.org/node/2766675202 via StreetComplete 58.1: / Ott van még</title>
-        <link>https://www.openstreetmap.org/note/4325862#c9471566</link>
-        <guid>https://www.openstreetmap.org/note/4325862#c9471566</guid>
-        <pubDate>Tue, 09 Jul 2024 10:28:04 +0000</pubDate>
-      </item><item>
-        <title>new note 4325690 (near 8630, Balatonboglár) / * 2024 July 9 07:42 Created: Tornác Bogláron</title>
-        <link>https://www.openstreetmap.org/note/4325690#c9471162</link>
-        <guid>https://www.openstreetmap.org/note/4325690#c9471162</guid>
-        <pubDate>Tue, 09 Jul 2024 07:42:26 +0000</pubDate>
-      </item><item>
-        <title>closed note 4322418 (near 6921, Maroslele) / * 2024 July 6 20:41 ntrxm Created: &amp;quot;Buszmegálló&amp;quot; / OSM snapshot date: 2024-03-26T20:04:01Z / POI name: Maroslele Kulturház / POI types: highway-bus_stop / #organicmaps android / * 2024 July 9 07:29 gabro00 Resolved: Felvettem: https://www.openstreetmap.org/changeset/153731770</title>
-        <link>https://www.openstreetmap.org/note/4322418#c9471106</link>
-        <guid>https://www.openstreetmap.org/note/4322418#c9471106</guid>
-        <pubDate>Tue, 09 Jul 2024 07:29:17 +0000</pubDate>
-      </item><item>
-        <title>new note 4325624 (near 48.221, 16.355) / * 2024 July 9 07:05 istefanos Created: Is the post box at the wright location? / https://www.mapillary.com/app/?pKey=792352821917582</title>
-        <link>https://www.openstreetmap.org/note/4325624#c9471031</link>
-        <guid>https://www.openstreetmap.org/note/4325624#c9471031</guid>
-        <pubDate>Tue, 09 Jul 2024 07:05:13 +0000</pubDate>
       </item>
   </channel>
 </rss>
