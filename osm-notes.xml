@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4329720 (near 8226, Alsóörs) / * 2024 July 12 08:10 Rauagi Created: Ivókút</title>
+        <link>https://www.openstreetmap.org/note/4329720#c9479919</link>
+        <guid>https://www.openstreetmap.org/note/4329720#c9479919</guid>
+        <pubDate>Fri, 12 Jul 2024 08:10:38 +0000</pubDate>
+      </item><item>
+        <title>new comment 4328548 (near 1038, Csillaghegy, 3rd district) / * 2024 July 12 07:33 pihentagy Updated: Köszi a részletes választ, bár inkább a StreetComplete-hez kéne valahogy visszacsatornázni, hogy az ott mutatott képek legyenek egyértelműbbek, vagy hogy kb &amp;quot;bármi&amp;quot; lehet jelöletlen gyalogátkelő. / Látom kommentet nem tudok törölni :(</title>
+        <link>https://www.openstreetmap.org/note/4328548#c9479859</link>
+        <guid>https://www.openstreetmap.org/note/4328548#c9479859</guid>
+        <pubDate>Fri, 12 Jul 2024 07:33:24 +0000</pubDate>
+      </item><item>
+        <title>reactivated note 4328548 (near 1038, Csillaghegy, 3rd district) / * 2024 July 11 07:17 pihentagy Created: Unable to answer &amp;quot;Does this crossing have an island?&amp;quot; – Unmarked Crossing – https://osm.org/node/5770407124 via StreetComplete 58.2: / Nincs járdasziget, de ez egy sima jelöletlen sarok / * 2024 July 11 07:56 infeeeee Updated: Jelöletlen gyalogátkelő van itt címkézve, ami azt jelenti, hogy valami utal arra, hogy itt át lehet menni, pl lesüllyed a járda szegélye, de nincs se tábla se felfestés. / Ha ez így van, válaszd a &amp;quot;nincs sziget&amp;quot; válaszlehetőséget. / Magyar nyelvben és osm terminológiában a gyalogátkelő nem pontosan ugyanazt jelenti. / * 2024 July 11 08:52 pihentagy Updated: Konkrétan ennyire semmi nincs itt: https://www.google.com/maps/@47.5810975,19.0465,3a,16.5y,163.03h,80.67t/data=!3m6!1e1!3m4!1sW4dn3ieonq85jEGiqbiOUw!2e0!7i16384!8i8192?coh=205409&amp;amp;entry=ttu / * 2024 July 11 18:50 infeeeee Resolved: Kérlek ne linkelj google-ről, tilos használni osm szerkesztéshez: https://wiki.openstreetmap.org/wiki/Google / Itt van legálisan használható utcakép erről a kereszteződésről: https://www.mapillary.com/app/?pKey=477495571890953 / Osm terminológiában a gyalogátkelő más mint amit a kresz hív annak. Osm-en minden eset, ahol egy gyalogút/járda keresztez egy autóutat az gyalogátkelő. Ha nincs jelölve se táblával, se felfestéssel, az a jelöletlen gyalogátkelő: https://wiki.openstreetmap.org/wiki/Tag:crossing%3Dunmarked / Akkor ez a címke használható, ha valamiből következik, hogy itt át lehet kelni, pl le van süllyesztve a szegély. Ez itt szerintem így van. Az is arra enged következtetni, hogy a járda folytatódik a túloldalon. / Ennél egyel &amp;quot;gyengébb&amp;quot; ha semmi nyoma nincs annak, hogy itt valamiféle átkelő lenne, a &amp;quot;nem hivatalos&amp;quot; átkelő: https://wiki.openstreetmap.org/wiki/Tag:crossing%3Dinformal / Nézd meg a képeket mindkét wiki oldalon, példaként, úgy egyértelmű a különbség. Szerintem itt az unmarked címke megfelelő. / Hozzáadtam a crossing:island=no címkét, így nem fog megjelenni ez a kérdés többet SC-ben: https://www.openstreetmap.org/changeset/153825265 / * 2024 July 12 07:31 pihentagy Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/4328548#c9479852</link>
+        <guid>https://www.openstreetmap.org/note/4328548#c9479852</guid>
+        <pubDate>Fri, 12 Jul 2024 07:31:19 +0000</pubDate>
+      </item><item>
         <title>new comment 4305497 (near 1031, Mocsárosdűlő, 3rd district) / * 2024 June 24 04:30 vasony Created: Duplikált házszám, ellenőrizendő. Prés utca 1 a másik oldalon is van. / * 2024 July 12 06:57 pihentagy Updated: Én itt 2-t láttam</title>
         <link>https://www.openstreetmap.org/note/4305497#c9479767</link>
         <guid>https://www.openstreetmap.org/note/4305497#c9479767</guid>
@@ -152,16 +167,6 @@
         <link>https://www.openstreetmap.org/note/4326172#c9472689</link>
         <guid>https://www.openstreetmap.org/note/4326172#c9472689</guid>
         <pubDate>Tue, 09 Jul 2024 17:09:31 +0000</pubDate>
-      </item><item>
-        <title>new note 4326173 (near 1068, Terézváros, 6th district) / * 2024 July 9 14:39 WandererWasOccupied Created: Unable to answer &amp;quot;This shop has been vacant. What’s here now?&amp;quot; – Lapker Zrt. – https://osm.org/way/364746137 via StreetComplete 58.1: / Lebontották</title>
-        <link>https://www.openstreetmap.org/note/4326173#c9472313</link>
-        <guid>https://www.openstreetmap.org/note/4326173#c9472313</guid>
-        <pubDate>Tue, 09 Jul 2024 14:39:03 +0000</pubDate>
-      </item><item>
-        <title>new note 4326172 (near 1068, Terézváros, 6th district) / * 2024 July 9 14:39 WandererWasOccupied Created: Unable to answer &amp;quot;Is there a crossing here?&amp;quot; – https://osm.org/node/495398791 via StreetComplete 58.1: / Balesetveszélyes, nincs gyalogátkelő és gyorsak az autók.</title>
-        <link>https://www.openstreetmap.org/note/4326172#c9472312</link>
-        <guid>https://www.openstreetmap.org/note/4326172#c9472312</guid>
-        <pubDate>Tue, 09 Jul 2024 14:39:03 +0000</pubDate>
       </item>
   </channel>
 </rss>
