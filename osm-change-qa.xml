@@ -2,7 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Change QA (via bkil-bot)</title>
-<item><title>BáthoryPéter moved place node 999103302 hamlet Nagysziget in changeset 153108974</title><link>https://www.openstreetmap.org/changeset/153108974</link><guid>https://www.openstreetmap.org/changeset/153108974</guid><pubDate>Mon, 24 Jun 2024 11:58:56 +0000</pubDate></item>
 <item><title>Arisuaq moved place node 88981247 village Pölöske in changeset 153161372</title><link>https://www.openstreetmap.org/changeset/153161372</link><guid>https://www.openstreetmap.org/changeset/153161372</guid><pubDate>Tue, 25 Jun 2024 14:53:25 +0000</pubDate></item>
 <item><title>Garmin-User moved place node 88981247 village Pölöske in changeset 153164913</title><link>https://www.openstreetmap.org/changeset/153164913</link><guid>https://www.openstreetmap.org/changeset/153164913</guid><pubDate>Tue, 25 Jun 2024 16:20:26 +0000</pubDate></item>
 <item><title>zsolt_d moved place node 473726330 village Pilisjászfalu in changeset 153165166</title><link>https://www.openstreetmap.org/changeset/153165166</link><guid>https://www.openstreetmap.org/changeset/153165166</guid><pubDate>Tue, 25 Jun 2024 16:26:45 +0000</pubDate></item>
@@ -12,5 +11,6 @@
 <item><title>NightH moved place node 669969869 village Csököly in changeset 153582762</title><link>https://www.openstreetmap.org/changeset/153582762</link><guid>https://www.openstreetmap.org/changeset/153582762</guid><pubDate>Fri, 05 Jul 2024 10:47:14 +0000</pubDate></item>
 <item><title>vasony moved place node 2193202497 hamlet Kiscséripuszta in changeset 153660039</title><link>https://www.openstreetmap.org/changeset/153660039</link><guid>https://www.openstreetmap.org/changeset/153660039</guid><pubDate>Sun, 07 Jul 2024 12:30:29 +0000</pubDate></item>
 <item><title>Szerkesztő moved place node 286999714 village Hetényegyháza in changeset 153735166</title><link>https://www.openstreetmap.org/changeset/153735166</link><guid>https://www.openstreetmap.org/changeset/153735166</guid><pubDate>Tue, 09 Jul 2024 09:05:08 +0000</pubDate></item>
+<item><title>zsolt_d moved place node 7728105479 hamlet Péliföldszentkereszt in changeset 153835239</title><link>https://www.openstreetmap.org/changeset/153835239</link><guid>https://www.openstreetmap.org/changeset/153835239</guid><pubDate>Fri, 12 Jul 2024 02:45:21 +0000</pubDate></item>
   </channel>
 </rss>
