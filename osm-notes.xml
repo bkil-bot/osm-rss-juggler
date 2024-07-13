@@ -3,6 +3,31 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3322323 (near 8451, Csékút, Ajka) / * 2024 July 13 17:47 Menyhárt Máté Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3322323#c9484308</link>
+        <guid>https://www.openstreetmap.org/note/3322323#c9484308</guid>
+        <pubDate>Sat, 13 Jul 2024 17:47:45 +0000</pubDate>
+      </item><item>
+        <title>closed note 3442186 (near 8451, Csékút, Ajka) / * 2024 July 13 17:46 vasony Resolved: ez dupla jegyzet volt ezek szerint</title>
+        <link>https://www.openstreetmap.org/note/3442186#c9484306</link>
+        <guid>https://www.openstreetmap.org/note/3442186#c9484306</guid>
+        <pubDate>Sat, 13 Jul 2024 17:46:30 +0000</pubDate>
+      </item><item>
+        <title>closed note 3285800 (near Tóközpuszta, Zamárdi) / * 2022 July 27 12:36 vasony-qa Created: Ez itt a Domino 2003 Kft (tüzép?) és mi a címe? / Vadkacsa sor 30 vagy Siófoki utcára van számozva. / * 2024 July 11 11:55 urbalazs Updated: A kerítésen két cím szerepel: Vadkacsa sor 30. és Siófoki út 27. Bent az üzletben azt mondták, hogy a hivatalos cím a Vadkacsa sor 30., de mindkét cím érvényes. A szomszédos üzleteken viszont csak Siófoki út van kitáblázva. A sarkokon az utcanévtáblák is vegyesen Vadkacsa sor és Siófoki út. / * 2024 July 13 17:43 urbalazs Resolved: Felvettem az egyik címet az épületre, a másikat pedig POI-ként. A Siófoki útra rátettem alt_name-ként a Vadkacsa sort.</title>
+        <link>https://www.openstreetmap.org/note/3285800#c9484296</link>
+        <guid>https://www.openstreetmap.org/note/3285800#c9484296</guid>
+        <pubDate>Sat, 13 Jul 2024 17:43:23 +0000</pubDate>
+      </item><item>
+        <title>new comment 3322323 (near 8451, Csékút, Ajka) / * 2022 August 19 19:32 vasony-qa Created: Padragi út vagy utca szerepel az utcatáblán? / * 2024 July 13 17:43 Menyhárt Máté Updated: Padragi út.</title>
+        <link>https://www.openstreetmap.org/note/3322323#c9484294</link>
+        <guid>https://www.openstreetmap.org/note/3322323#c9484294</guid>
+        <pubDate>Sat, 13 Jul 2024 17:43:07 +0000</pubDate>
+      </item><item>
+        <title>new comment 3442186 (near 8451, Csékút, Ajka) / * 2022 November 14 17:46 vasony-qa Created: Padragi út vagy utca szerepel az utcatáblán? / * 2024 July 13 17:35 Menyhárt Máté Updated: Padragi út.</title>
+        <link>https://www.openstreetmap.org/note/3442186#c9484271</link>
+        <guid>https://www.openstreetmap.org/note/3442186#c9484271</guid>
+        <pubDate>Sat, 13 Jul 2024 17:35:11 +0000</pubDate>
+      </item><item>
         <title>new note 4331837 (near 6000, Déli ipartelep, Kecskemét) / * 2024 July 13 17:15 Csúzi László Created: &amp;quot;ACPS Automotive&amp;quot; / OSM snapshot date: 2024-06-13T18:38:33Z / POI name: Bosal-Autoflex Kft. / POI types: building man_made-works / #organicmaps android</title>
         <link>https://www.openstreetmap.org/note/4331837#c9484227</link>
         <guid>https://www.openstreetmap.org/note/4331837#c9484227</guid>
@@ -202,31 +227,6 @@
         <link>https://www.openstreetmap.org/note/4329627#c9479726</link>
         <guid>https://www.openstreetmap.org/note/4329627#c9479726</guid>
         <pubDate>Fri, 12 Jul 2024 06:47:22 +0000</pubDate>
-      </item><item>
-        <title>new note 4329139 (near 7622, Siklósi külváros, Pécs) / * 2024 July 11 19:06 Created: Teljes útzár</title>
-        <link>https://www.openstreetmap.org/note/4329139#c9478737</link>
-        <guid>https://www.openstreetmap.org/note/4329139#c9478737</guid>
-        <pubDate>Thu, 11 Jul 2024 19:06:41 +0000</pubDate>
-      </item><item>
-        <title>new note 4329138 (near 7632, Megyer, Pécs) / * 2024 July 11 19:06 Created: Teljes út levan zárva</title>
-        <link>https://www.openstreetmap.org/note/4329138#c9478735</link>
-        <guid>https://www.openstreetmap.org/note/4329138#c9478735</guid>
-        <pubDate>Thu, 11 Jul 2024 19:06:14 +0000</pubDate>
-      </item><item>
-        <title>new note 4329127 (near 7130, Tolna) / * 2024 July 11 18:54 synalik Created: number 33 / via StreetComplete 57.1</title>
-        <link>https://www.openstreetmap.org/note/4329127#c9478701</link>
-        <guid>https://www.openstreetmap.org/note/4329127#c9478701</guid>
-        <pubDate>Thu, 11 Jul 2024 18:54:34 +0000</pubDate>
-      </item><item>
-        <title>closed note 4328548 (near 1038, Csillaghegy, 3rd district) / * 2024 July 11 18:50 infeeeee Resolved: Kérlek ne linkelj google-ről, tilos használni osm szerkesztéshez: https://wiki.openstreetmap.org/wiki/Google / Itt van legálisan használható utcakép erről a kereszteződésről: https://www.mapillary.com/app/?pKey=477495571890953 / Osm terminológiában a gyalogátkelő más mint amit a kresz hív annak. Osm-en minden eset, ahol egy gyalogút/járda keresztez egy autóutat az gyalogátkelő. Ha nincs jelölve se táblával, se felfestéssel, az a jelöletlen gyalogátkelő: https://wiki.openstreetmap.org/wiki/Tag:crossing%3Dunmarked / Akkor ez a címke használható, ha valamiből következik, hogy itt át lehet kelni, pl le van süllyesztve a szegély. Ez itt szerintem így van. Az is arra enged következtetni, hogy a járda folytatódik a túloldalon. / Ennél egyel &amp;quot;gyengébb&amp;quot; ha semmi nyoma nincs annak, hogy itt valamiféle átkelő lenne, a &amp;quot;nem hivatalos&amp;quot; átkelő: https://wiki.openstreetmap.org/wiki/Tag:crossing%3Dinformal / Nézd meg a képeket mindkét wiki oldalon, példaként, úgy egyértelmű a különbség. Szerintem itt az unmarked címke megfelelő. / Hozzáadtam a crossing:island=no címkét, így nem fog megjelenni ez a kérdés többet SC-ben: https://www.openstreetmap.org/changeset/153825265</title>
-        <link>https://www.openstreetmap.org/note/4328548#c9478668</link>
-        <guid>https://www.openstreetmap.org/note/4328548#c9478668</guid>
-        <pubDate>Thu, 11 Jul 2024 18:50:30 +0000</pubDate>
-      </item><item>
-        <title>closed note 4328951 (near 47.545, 18.964) / * 2024 July 11 18:49 infeeeee Resolved: Javítva: https://www.openstreetmap.org/changeset/153825265</title>
-        <link>https://www.openstreetmap.org/note/4328951#c9478657</link>
-        <guid>https://www.openstreetmap.org/note/4328951#c9478657</guid>
-        <pubDate>Thu, 11 Jul 2024 18:49:17 +0000</pubDate>
       </item>
   </channel>
 </rss>
