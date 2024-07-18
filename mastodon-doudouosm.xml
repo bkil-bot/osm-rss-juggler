@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>Nice to see a Belgian national newspaper use #OpenStreetMap base map to illustrate their article, with some 3D buildings even: https://www.lesoir.be/610306/article/2024-07-18/festivites-du-21-juillet-laffiche-du-concert-gratuit-au-cinquantenaire-devoilee #LeSoir Map of July 21st national day celebration events in Brussels using OpenStreetMap as base map</title>
+        <link>https://en.osm.town/@Doudouosm/112807364147413746</link>
+        <guid>https://en.osm.town/@Doudouosm/112807364147413746</guid>
+        <pubDate>Thu, 18 Jul 2024 11:56:14 +0000</pubDate>
+      </item><item>
         <title>@opencage Did you maybe already cover #Peru’s unusual sea borders in a previous #geoweirdness post? It’s not so much about the Chilean–Peruvian maritime dispute than about Peru’ sea border going much farther in the ocean than any other country. https://www.openstreetmap.org/relation/288247#map=5/-9.015/-74.092 https://en.wikipedia.org/wiki/Chilean–Peruvian_maritime_dispute #maps Picture of Peru’s borders showing its sea borders are going much farther away in the ocean than any other country</title>
         <link>https://en.osm.town/@Doudouosm/112585815391649256</link>
         <guid>https://en.osm.town/@Doudouosm/112585815391649256</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/110334681874177846</link>
         <guid>https://en.osm.town/@Doudouosm/110334681874177846</guid>
         <pubDate>Mon, 08 May 2023 19:20:36 +0000</pubDate>
-      </item><item>
-        <title>Is there a public web tool to a draw circle on an #OpenStreetMap map to measure the straight-line distance between places?</title>
-        <link>https://en.osm.town/@Doudouosm/110309808234815574</link>
-        <guid>https://en.osm.town/@Doudouosm/110309808234815574</guid>
-        <pubDate>Thu, 04 May 2023 09:54:55 +0000</pubDate>
       </item>
   </channel>
 </rss>
