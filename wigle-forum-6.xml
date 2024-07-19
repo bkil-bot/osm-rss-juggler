@@ -3,6 +3,11 @@
   <channel>
     <title>WiGLE Frontpage (via bkil-bot)</title>
       <item>
+        <title>Re: DEF CON 32 RFHS World Wide War Drive: that'a US/Pacific &quot;DEF CON&quot; time. uploads go from noon today to the last second of Sunday night in that timezone. -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=12252#p12252</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=12252#p12252</guid>
+        <pubDate>2024-07-19T13:56:19</pubDate>
+      </item><item>
         <title>Re: DEF CON 32 RFHS World Wide War Drive: can you explain the upload times? Contest uploads must be received between 2024-07-19T12:00:00.000-07:00 and 2024-07-22T00:00:00.000-07:00 to be included in scoring. What time zone is that? And there are 2 timeslots each between midnight and 0700 morning on the 19 and on the 22? -d2k2</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12251#p12251</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12251#p12251</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=12042#p12042</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12042#p12042</guid>
         <pubDate>2024-02-03T19:05:22</pubDate>
-      </item><item>
-        <title>Re: Email verification changes: I launch API test from sample of that &quot;curl -i -H 'Accept:application/json' -u AID237*****************4e7a31d:4f6a0d5******************1a0c2c --basic https://api.wigle.net/api/v2/profile/user&quot;, and see at answer that my email is not verified. How to verify it now? {&quot;userid&quot;:&quot;wauzzz&quot;,&quot;email&quot;:&quot;***********ff@gmail.com&quot;,&quot;donate&quot;:&quot;Y&quot;,&quot;joindate&quot;:&quot;2023-04-07T01:45:37.000Z&quot;, &quot;lastlogin&quot;:&quot;2024-01-14T10:32:02.000Z&quot;,&quot;flags&quot;:0,&quot;emailVerified&quot;:false,&quot;session&quot;:null,&quot;success&quot;:&quot;true&quot;}&quot; -wauzzz</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=12014#p12014</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=12014#p12014</guid>
-        <pubDate>2024-01-14T10:43:42</pubDate>
       </item>
   </channel>
 </rss>
