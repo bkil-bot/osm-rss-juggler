@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4342286 (near 3325, Noszvaj) / * 2024 July 20 16:40 vasony Resolved: javítva</title>
+        <link>https://www.openstreetmap.org/note/4342286#c9507220</link>
+        <guid>https://www.openstreetmap.org/note/4342286#c9507220</guid>
+        <pubDate>Sat, 20 Jul 2024 16:40:43 +0000</pubDate>
+      </item><item>
         <title>new note 4342286 (near 3325, Noszvaj) / * 2024 July 20 15:52 Created: Az utca neve Várkút utca. Helytelen elnevezés. / A Cseres utca a saroktól kezdődik.</title>
         <link>https://www.openstreetmap.org/note/4342286#c9507039</link>
         <guid>https://www.openstreetmap.org/note/4342286#c9507039</guid>
@@ -257,16 +262,6 @@
         <link>https://www.openstreetmap.org/note/4335830#c9498892</link>
         <guid>https://www.openstreetmap.org/note/4335830#c9498892</guid>
         <pubDate>Thu, 18 Jul 2024 09:28:19 +0000</pubDate>
-      </item><item>
-        <title>closed note 3761856 (near 2481, Újtelep, Velence) / * 2023 July 2 14:33 vasony Created: Ez tényleg Hajó utca, van tábla? Nincs nyoma hivatalos helyeken. / * 2024 July 18 06:19 urbalazs Resolved: Megkérdeztem az önkormányzatot, ennek az ösvénynek nincs hivatalos elnevezése. Ígérték 1 évvel ezelőtt, hogy kezdeményezik a Hajó utcára való elnevezést, de továbbra sincs utcanévtábla. Áttettem a nevet loc_name-be, mert más térképeken Hajó utcaként hivatkoznak rá.</title>
-        <link>https://www.openstreetmap.org/note/3761856#c9498412</link>
-        <guid>https://www.openstreetmap.org/note/3761856#c9498412</guid>
-        <pubDate>Thu, 18 Jul 2024 06:19:51 +0000</pubDate>
-      </item><item>
-        <title>new comment 4207434 (near 2484, Gárdony) / * 2024 April 20 20:05 vasony Created: Ez a Harkály utca? / * 2024 July 18 06:16 urbalazs Updated: A házak már felépültek, a kerítések is állnak, de az utca még murvás, utcatábla nincs kitéve. Nyitva hagyom, rá kell nézni újra, ha az út is elkészült.</title>
-        <link>https://www.openstreetmap.org/note/4207434#c9498401</link>
-        <guid>https://www.openstreetmap.org/note/4207434#c9498401</guid>
-        <pubDate>Thu, 18 Jul 2024 06:16:47 +0000</pubDate>
       </item>
   </channel>
 </rss>
