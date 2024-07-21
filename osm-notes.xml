@@ -3,6 +3,31 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3701551 (near 2030, Erzsébetváros, Érd) / * 2023 May 22 20:01 vasony Created: Sárgarigó, Seregély, Sirály, Stiglice utcák hivatalosan nem közterületek, itt utcaként vannak, Érd körzetlistáiban meg közként. Van bármi tábla? / * 2023 July 28 10:53 vasony Updated: nincsenek táblák, viszont meg kell nézni, hogy zsákutcák-e / * 2024 July 21 12:20 urbalazs Resolved: Nem zsákutcák, a valóság pontosan az, ami térképezve van. Nincs vele teendő.</title>
+        <link>https://www.openstreetmap.org/note/3701551#c9509193</link>
+        <guid>https://www.openstreetmap.org/note/3701551#c9509193</guid>
+        <pubDate>Sun, 21 Jul 2024 12:20:54 +0000</pubDate>
+      </item><item>
+        <title>closed note 4274830 (near 8154, Polgárdi) / * 2024 June 1 16:48 vasony Created: Ez ki van táblázva? / * 2024 July 21 12:01 vasony Resolved: nincs</title>
+        <link>https://www.openstreetmap.org/note/4274830#c9509153</link>
+        <guid>https://www.openstreetmap.org/note/4274830#c9509153</guid>
+        <pubDate>Sun, 21 Jul 2024 12:01:15 +0000</pubDate>
+      </item><item>
+        <title>closed note 3701453 (near 2030, Erzsébetváros, Érd) / * 2023 May 22 18:55 vasony Created: Ez a Gulyás tanya? / * 2024 July 21 11:56 vasony Resolved: Itt van egy Gulyás tanya 1 tábla</title>
+        <link>https://www.openstreetmap.org/note/3701453#c9509145</link>
+        <guid>https://www.openstreetmap.org/note/3701453#c9509145</guid>
+        <pubDate>Sun, 21 Jul 2024 11:56:54 +0000</pubDate>
+      </item><item>
+        <title>new note 4343223 (near 8660, Sérsekszőlős) / * 2024 July 21 11:28 Gaurdein Created: Unable to answer &amp;quot;What’s this pole made of?&amp;quot; – Power Pole – https://osm.org/node/11483419454 via StreetComplete 57.4: / Nincs itt</title>
+        <link>https://www.openstreetmap.org/note/4343223#c9509078</link>
+        <guid>https://www.openstreetmap.org/note/4343223#c9509078</guid>
+        <pubDate>Sun, 21 Jul 2024 11:28:24 +0000</pubDate>
+      </item><item>
+        <title>new note 4343218 (near 8660, Sérsekszőlős) / * 2024 July 21 11:24 Gaurdein Created: Unable to answer &amp;quot;What’s this pole made of?&amp;quot; – Power Pole – https://osm.org/node/11483419450 via StreetComplete 57.4: / Nincs itt / Attached photo(s): / https://westnordost.de/p/226041.jpg / https://westnordost.de/p/226042.jpg</title>
+        <link>https://www.openstreetmap.org/note/4343218#c9509057</link>
+        <guid>https://www.openstreetmap.org/note/4343218#c9509057</guid>
+        <pubDate>Sun, 21 Jul 2024 11:24:08 +0000</pubDate>
+      </item><item>
         <title>new note 4343032 (near 8237, Tihany) / * 2024 July 21 08:48 gonzoontherun Created: The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2024-06-13T18:38:33Z / POI name: OLIVERLUX / POI types: amenity-restaurant / #organicmaps ios</title>
         <link>https://www.openstreetmap.org/note/4343032#c9508718</link>
         <guid>https://www.openstreetmap.org/note/4343032#c9508718</guid>
@@ -247,36 +272,6 @@
         <link>https://www.openstreetmap.org/note/3351363#c9500363</link>
         <guid>https://www.openstreetmap.org/note/3351363#c9500363</guid>
         <pubDate>Thu, 18 Jul 2024 18:33:03 +0000</pubDate>
-      </item><item>
-        <title>closed note 3483232 (near 3768, Bódvalenke) / * 2022 December 19 12:46 Created: borz kotorék / * 2024 July 18 15:30 Spush Resolved: Nem releváns információ a térképi adatbázis szempontjából.</title>
-        <link>https://www.openstreetmap.org/note/3483232#c9499819</link>
-        <guid>https://www.openstreetmap.org/note/3483232#c9499819</guid>
-        <pubDate>Thu, 18 Jul 2024 15:30:28 +0000</pubDate>
-      </item><item>
-        <title>new note 4338734 (near 2181, Iklad) / * 2024 July 18 14:50 DicseDániel Created: Ikladi piac hiányzik a térképről.</title>
-        <link>https://www.openstreetmap.org/note/4338734#c9499688</link>
-        <guid>https://www.openstreetmap.org/note/4338734#c9499688</guid>
-        <pubDate>Thu, 18 Jul 2024 14:50:14 +0000</pubDate>
-      </item><item>
-        <title>new note 4338575 (near 3321, Egerbakta) / * 2024 July 18 12:52 GBAB Created: Rábca-völgyi erdészház / #OsmAnd</title>
-        <link>https://www.openstreetmap.org/note/4338575#c9499378</link>
-        <guid>https://www.openstreetmap.org/note/4338575#c9499378</guid>
-        <pubDate>Thu, 18 Jul 2024 12:52:11 +0000</pubDate>
-      </item><item>
-        <title>closed note 4315179 (near 8660, Sérsekszőlős) / * 2024 July 1 10:16 Created: Nem létező út / * 2024 July 18 12:01 Spush Resolved: Az útkapcsolat kiiktatva.</title>
-        <link>https://www.openstreetmap.org/note/4315179#c9499250</link>
-        <guid>https://www.openstreetmap.org/note/4315179#c9499250</guid>
-        <pubDate>Thu, 18 Jul 2024 12:01:28 +0000</pubDate>
-      </item><item>
-        <title>new note 4338482 (near 2092, Alvég, Budakeszi) / * 2024 July 18 11:51 DareDJ Created: Our users indicate this street name is: &amp;quot;Huszár utca&amp;quot;. We cannot find any available sources to verify this information. Can any local mapper confirm this? #msftopenmaps</title>
-        <link>https://www.openstreetmap.org/note/4338482#c9499217</link>
-        <guid>https://www.openstreetmap.org/note/4338482#c9499217</guid>
-        <pubDate>Thu, 18 Jul 2024 11:51:28 +0000</pubDate>
-      </item><item>
-        <title>closed note 3579433 (near 8400, Bódé, Ajka) / * 2023 March 1 07:40 Created: Classic Travel utazási iroda / * 2024 July 18 11:23 Spush Resolved: Rögzítve.</title>
-        <link>https://www.openstreetmap.org/note/3579433#c9499152</link>
-        <guid>https://www.openstreetmap.org/note/3579433#c9499152</guid>
-        <pubDate>Thu, 18 Jul 2024 11:23:14 +0000</pubDate>
       </item>
   </channel>
 </rss>
