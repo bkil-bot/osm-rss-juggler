@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4208618 (near 1047, Újpest, 4th district) / * 2024 April 21 15:27 Created: bejarat / * 2024 July 22 16:15 infeeeee Resolved: https://www.openstreetmap.org/changeset/154270749</title>
+        <link>https://www.openstreetmap.org/note/4208618#c9513614</link>
+        <guid>https://www.openstreetmap.org/note/4208618#c9513614</guid>
+        <pubDate>Mon, 22 Jul 2024 16:15:50 +0000</pubDate>
+      </item><item>
+        <title>new comment 4344031 (near 1047, Újpest, 4th district) / * 2024 July 21 18:37 Dave12311 Created: Unable to answer &amp;quot;What’s the name of this street?&amp;quot; – Tertiary Road – https://osm.org/way/511364165 via StreetComplete 58.2: / Kereszteződés / * 2024 July 22 15:57 infeeeee Updated: Szia! / Ez az íves új ház: https://www.osm.org/way/1303109525 / (eddig nem volt felrajzolva de most felrajzoltam) ez melyik utcára van számozva? Valószínűleg az lesz a megoldás, hogy ezeknek az utcaszakaszok ahhoz tartoznak, mint amihez ez a ház is. / Ha nincs kiírva, akkor geometriailag szerintem ezek a a Baross utca folytatásai, és ezeket is annak nevezném. / Ennek a háromszögletű teresedésnek nincs neve ha jól látom Mapillary-n</title>
+        <link>https://www.openstreetmap.org/note/4344031#c9513547</link>
+        <guid>https://www.openstreetmap.org/note/4344031#c9513547</guid>
+        <pubDate>Mon, 22 Jul 2024 15:57:16 +0000</pubDate>
+      </item><item>
         <title>new note 4344934 (near 8649, Balatonberény) / * 2024 July 22 11:47 Created: it works / #OsmAnd</title>
         <link>https://www.openstreetmap.org/note/4344934#c9512700</link>
         <guid>https://www.openstreetmap.org/note/4344934#c9512700</guid>
@@ -327,41 +337,6 @@
         <link>https://www.openstreetmap.org/note/4342115#c9506559</link>
         <guid>https://www.openstreetmap.org/note/4342115#c9506559</guid>
         <pubDate>Sat, 20 Jul 2024 13:40:53 +0000</pubDate>
-      </item><item>
-        <title>new note 4342114 (near Vida tanya, Herend) / * 2024 July 20 13:40 GBAB Created: no highway / #OsmAnd</title>
-        <link>https://www.openstreetmap.org/note/4342114#c9506558</link>
-        <guid>https://www.openstreetmap.org/note/4342114#c9506558</guid>
-        <pubDate>Sat, 20 Jul 2024 13:40:52 +0000</pubDate>
-      </item><item>
-        <title>new note 4342113 (near Vida tanya, Herend) / * 2024 July 20 13:40 GBAB Created: kerítés sarka / #OsmAnd</title>
-        <link>https://www.openstreetmap.org/note/4342113#c9506557</link>
-        <guid>https://www.openstreetmap.org/note/4342113#c9506557</guid>
-        <pubDate>Sat, 20 Jul 2024 13:40:52 +0000</pubDate>
-      </item><item>
-        <title>new note 4342112 (near Vida tanya, Herend) / * 2024 July 20 13:40 GBAB Created: kerítés sarka / #OsmAnd</title>
-        <link>https://www.openstreetmap.org/note/4342112#c9506556</link>
-        <guid>https://www.openstreetmap.org/note/4342112#c9506556</guid>
-        <pubDate>Sat, 20 Jul 2024 13:40:51 +0000</pubDate>
-      </item><item>
-        <title>new note 4342111 (near Vida tanya, Herend) / * 2024 July 20 13:40 GBAB Created: kerítés sarka / #OsmAnd</title>
-        <link>https://www.openstreetmap.org/note/4342111#c9506555</link>
-        <guid>https://www.openstreetmap.org/note/4342111#c9506555</guid>
-        <pubDate>Sat, 20 Jul 2024 13:40:50 +0000</pubDate>
-      </item><item>
-        <title>new note 4342110 (near Vida tanya, Herend) / * 2024 July 20 13:40 GBAB Created: gate / #OsmAnd</title>
-        <link>https://www.openstreetmap.org/note/4342110#c9506554</link>
-        <guid>https://www.openstreetmap.org/note/4342110#c9506554</guid>
-        <pubDate>Sat, 20 Jul 2024 13:40:50 +0000</pubDate>
-      </item><item>
-        <title>new note 4342109 (near Vida tanya, Herend) / * 2024 July 20 13:40 GBAB Created: kerítés sarka / #OsmAnd</title>
-        <link>https://www.openstreetmap.org/note/4342109#c9506553</link>
-        <guid>https://www.openstreetmap.org/note/4342109#c9506553</guid>
-        <pubDate>Sat, 20 Jul 2024 13:40:49 +0000</pubDate>
-      </item><item>
-        <title>new note 4342108 (near Vida tanya, Herend) / * 2024 July 20 13:40 GBAB Created: track / #OsmAnd</title>
-        <link>https://www.openstreetmap.org/note/4342108#c9506552</link>
-        <guid>https://www.openstreetmap.org/note/4342108#c9506552</guid>
-        <pubDate>Sat, 20 Jul 2024 13:40:48 +0000</pubDate>
       </item>
   </channel>
 </rss>
