@@ -3,6 +3,31 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4345601 (near 2181, Iklad) / * 2024 July 22 17:51 DicseDániel Created: Hiányzó játszótér</title>
+        <link>https://www.openstreetmap.org/note/4345601#c9513987</link>
+        <guid>https://www.openstreetmap.org/note/4345601#c9513987</guid>
+        <pubDate>Mon, 22 Jul 2024 17:51:41 +0000</pubDate>
+      </item><item>
+        <title>closed note 4344030 (near 1047, Újpest, 4th district) / * 2024 July 21 18:37 Dave12311 Created: Unable to answer &amp;quot;What’s the name of this street?&amp;quot; – Residential Road – https://osm.org/way/131305992 via StreetComplete 58.2: / Kereszteződés / * 2024 July 22 17:37 infeeeee Resolved: Kész: https://www.osm.org/changeset/154273879</title>
+        <link>https://www.openstreetmap.org/note/4344030#c9513947</link>
+        <guid>https://www.openstreetmap.org/note/4344030#c9513947</guid>
+        <pubDate>Mon, 22 Jul 2024 17:37:39 +0000</pubDate>
+      </item><item>
+        <title>closed note 4344031 (near 1047, Újpest, 4th district) / * 2024 July 22 17:37 infeeeee Resolved: Kész is, köszi: https://www.osm.org/changeset/154273879 / Ha hasonló kérdéses dolgot látsz, akkor hagyj jegyzeteket, nem lehet mindent a StreetCompleteben megcsinálni, ez normális. Páran figyeljük folyamatosan az új jegyzeteket, matrixon ill rss-ben. / Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség / További jó térképezést!</title>
+        <link>https://www.openstreetmap.org/note/4344031#c9513946</link>
+        <guid>https://www.openstreetmap.org/note/4344031#c9513946</guid>
+        <pubDate>Mon, 22 Jul 2024 17:37:31 +0000</pubDate>
+      </item><item>
+        <title>new note 4345564 (near BNPI Borostyán vendégház, Répáshuta) / * 2024 July 22 17:26 Created: Három kő</title>
+        <link>https://www.openstreetmap.org/note/4345564#c9513912</link>
+        <guid>https://www.openstreetmap.org/note/4345564#c9513912</guid>
+        <pubDate>Mon, 22 Jul 2024 17:26:54 +0000</pubDate>
+      </item><item>
+        <title>new comment 4344031 (near 1047, Újpest, 4th district) / * 2024 July 22 17:24 Dave12311 Updated: A házszámot be is írtam, és akkor szerintem inkább a Károlyi mint a Baross.</title>
+        <link>https://www.openstreetmap.org/note/4344031#c9513904</link>
+        <guid>https://www.openstreetmap.org/note/4344031#c9513904</guid>
+        <pubDate>Mon, 22 Jul 2024 17:24:34 +0000</pubDate>
+      </item><item>
         <title>new comment 4344031 (near 1047, Újpest, 4th district) / * 2024 July 22 17:11 infeeeee Updated: Tehát akkor ez is legyen Károlyi István végig? https://www.osm.org/way/511364165 / Az íves ház szám házszámát is mérd majd fel ha arra jársz, így hogy berajzoltam meg is fogja kérdezni StreetComplete</title>
         <link>https://www.openstreetmap.org/note/4344031#c9513878</link>
         <guid>https://www.openstreetmap.org/note/4344031#c9513878</guid>
@@ -327,26 +352,6 @@
         <link>https://www.openstreetmap.org/note/3107827#c9507477</link>
         <guid>https://www.openstreetmap.org/note/3107827#c9507477</guid>
         <pubDate>Sat, 20 Jul 2024 18:17:11 +0000</pubDate>
-      </item><item>
-        <title>closed note 4342286 (near 3325, Noszvaj) / * 2024 July 20 16:40 vasony Resolved: javítva</title>
-        <link>https://www.openstreetmap.org/note/4342286#c9507220</link>
-        <guid>https://www.openstreetmap.org/note/4342286#c9507220</guid>
-        <pubDate>Sat, 20 Jul 2024 16:40:43 +0000</pubDate>
-      </item><item>
-        <title>new note 4342286 (near 3325, Noszvaj) / * 2024 July 20 15:52 Created: Az utca neve Várkút utca. Helytelen elnevezés. / A Cseres utca a saroktól kezdődik.</title>
-        <link>https://www.openstreetmap.org/note/4342286#c9507039</link>
-        <guid>https://www.openstreetmap.org/note/4342286#c9507039</guid>
-        <pubDate>Sat, 20 Jul 2024 15:52:35 +0000</pubDate>
-      </item><item>
-        <title>new note 4342231 (near 2652, Tereske) / * 2024 July 20 15:12 geoexplo Created: Játszótér</title>
-        <link>https://www.openstreetmap.org/note/4342231#c9506938</link>
-        <guid>https://www.openstreetmap.org/note/4342231#c9506938</guid>
-        <pubDate>Sat, 20 Jul 2024 15:12:36 +0000</pubDate>
-      </item><item>
-        <title>new note 4342213 (near 9941, Siskaszer, Őriszentpéter) / * 2024 July 20 15:03 vasony Created: Ez itt a reBorona vendégház? Buszmegálló neve is ellenőrizendő.</title>
-        <link>https://www.openstreetmap.org/note/4342213#c9506909</link>
-        <guid>https://www.openstreetmap.org/note/4342213#c9506909</guid>
-        <pubDate>Sat, 20 Jul 2024 15:03:23 +0000</pubDate>
       </item>
   </channel>
 </rss>

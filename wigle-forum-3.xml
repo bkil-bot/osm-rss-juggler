@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Raspberry Pi for drone and car: I might make a Python script. Right now i can only test it with a rpi 3b+ and 5 (rpi4 will probably work too). It should be pretty easy as the csv format is simple as described here: [url]https://api.wigle.net/csvFormat.html/url] and it could be uploaded via api. So stay tuned -Laqua</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=12257#p12257</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=12257#p12257</guid>
+        <pubDate>2024-07-22T17:40:52</pubDate>
+      </item><item>
         <title>Re: Kismet files for upload: only the WiGLE .csv file can or should be uploaded. The .kismet file contains additional information we can't use and don't want (for privacy and safety reasons) -arkasha</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12214#p12214</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12214#p12214</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=11992#p11992</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11992#p11992</guid>
         <pubDate>2024-01-02T03:20:39</pubDate>
-      </item><item>
-        <title>Re: Master list of WiFi AuthTypes?: A couple of things: 1. there is no AuthType field - I think you mean AuthMode? 2. There is not a master list, nor is there likely to be: per https://api.wigle.net/csvFormat.html and https://api.wigle.net/csvFormat-1_6.html: https://developer.android.com/reference ... pabilities describes but does not enumerate the accepted values. https://github.com/wiglenet/wigle-wifi- ... java#L193 (the whole file, but that's how we decide which icon to show) shows you how we use the values client-side -arkasha</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11991#p11991</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11991#p11991</guid>
-        <pubDate>2024-01-02T03:06:26</pubDate>
       </item>
   </channel>
 </rss>
