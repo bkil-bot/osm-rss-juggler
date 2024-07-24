@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4348534 (near 6331, Foktő) / * 2024 July 24 11:15 Spush Created: Híd északi kerékpárútján nincs bridge=yes a délin meg van. Melyik a helyes?</title>
+        <link>https://www.openstreetmap.org/note/4348534#c9520281</link>
+        <guid>https://www.openstreetmap.org/note/4348534#c9520281</guid>
+        <pubDate>Wed, 24 Jul 2024 11:15:19 +0000</pubDate>
+      </item><item>
         <title>new note 4348218 (near Rigótanya, Aszófő) / * 2024 July 24 08:50 gonzoontherun Created: The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2024-06-13T18:38:33Z / POI name: Kövesd a Mucit! / POI types: amenity-restaurant / #organicmaps ios</title>
         <link>https://www.openstreetmap.org/note/4348218#c9519717</link>
         <guid>https://www.openstreetmap.org/note/4348218#c9519717</guid>
@@ -197,11 +202,6 @@
         <link>https://www.openstreetmap.org/note/3879734#c9514554</link>
         <guid>https://www.openstreetmap.org/note/3879734#c9514554</guid>
         <pubDate>Mon, 22 Jul 2024 20:55:23 +0000</pubDate>
-      </item><item>
-        <title>closed note 3980830 (near 3325, Noszvaj) / * 2023 November 10 07:22 Matyjace Created: Forwarding anonymous report from #mapycz user, please verify: &amp;quot;closed&amp;quot; / * 2024 July 22 19:51 infeeeee Resolved: Done: https://www.openstreetmap.org/changeset/154278770</title>
-        <link>https://www.openstreetmap.org/note/3980830#c9514355</link>
-        <guid>https://www.openstreetmap.org/note/3980830#c9514355</guid>
-        <pubDate>Mon, 22 Jul 2024 19:51:57 +0000</pubDate>
       </item>
   </channel>
 </rss>
