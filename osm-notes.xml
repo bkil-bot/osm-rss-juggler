@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4349265 (near 8230, Belváros, Balatonfüred) / * 2024 July 24 18:12 gonzoontherun Created: The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2024-06-13T18:38:33Z / POI has no name / POI types: shop-bakery / #organicmaps ios</title>
+        <link>https://www.openstreetmap.org/note/4349265#c9521886</link>
+        <guid>https://www.openstreetmap.org/note/4349265#c9521886</guid>
+        <pubDate>Wed, 24 Jul 2024 18:12:32 +0000</pubDate>
+      </item><item>
+        <title>new note 4349211 (near 1089, Tisztviselőtelep, 8th district) / * 2024 July 24 17:32 Created: Parkoló autómata hiányos tagekkel / 10 éves POI. Megvan-e még?</title>
+        <link>https://www.openstreetmap.org/note/4349211#c9521798</link>
+        <guid>https://www.openstreetmap.org/note/4349211#c9521798</guid>
+        <pubDate>Wed, 24 Jul 2024 17:32:59 +0000</pubDate>
+      </item><item>
         <title>closed note 4313152 (near Anasztáziapuszta, Tárnok) / * 2024 June 29 18:49 vasony Created: Ez a vezeték szakasz ellenőrizendő / * 2024 July 24 16:54 urbalazs Resolved: Létezik a vezeték, nincs vele teendő.</title>
         <link>https://www.openstreetmap.org/note/4313152#c9521657</link>
         <guid>https://www.openstreetmap.org/note/4313152#c9521657</guid>
@@ -257,21 +267,6 @@
         <link>https://www.openstreetmap.org/note/4346800#c9516743</link>
         <guid>https://www.openstreetmap.org/note/4346800#c9516743</guid>
         <pubDate>Tue, 23 Jul 2024 13:16:41 +0000</pubDate>
-      </item><item>
-        <title>new note 4346790 (near 8230, Belváros, Balatonfüred) / * 2024 July 23 13:11 gonzoontherun Created: The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2024-06-13T18:38:33Z / POI name: Festék, háztartás / POI types: shop-doityourself / #organicmaps ios</title>
-        <link>https://www.openstreetmap.org/note/4346790#c9516724</link>
-        <guid>https://www.openstreetmap.org/note/4346790#c9516724</guid>
-        <pubDate>Tue, 23 Jul 2024 13:11:22 +0000</pubDate>
-      </item><item>
-        <title>new note 4346789 (near 8230, Belváros, Balatonfüred) / * 2024 July 23 13:11 gonzoontherun Created: The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2024-06-13T18:38:33Z / POI name: ABC / POI types: wheelchair-yes shop-convenience / #organicmaps ios</title>
-        <link>https://www.openstreetmap.org/note/4346789#c9516723</link>
-        <guid>https://www.openstreetmap.org/note/4346789#c9516723</guid>
-        <pubDate>Tue, 23 Jul 2024 13:11:21 +0000</pubDate>
-      </item><item>
-        <title>new note 4346788 (near 8230, Belváros, Balatonfüred) / * 2024 July 23 13:11 gonzoontherun Created: The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2024-06-13T18:38:33Z / POI name: Villanyszerelés / POI types: shop-doityourself / #organicmaps ios</title>
-        <link>https://www.openstreetmap.org/note/4346788#c9516722</link>
-        <guid>https://www.openstreetmap.org/note/4346788#c9516722</guid>
-        <pubDate>Tue, 23 Jul 2024 13:11:21 +0000</pubDate>
       </item>
   </channel>
 </rss>
