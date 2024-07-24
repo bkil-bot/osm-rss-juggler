@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4313152 (near Anasztáziapuszta, Tárnok) / * 2024 June 29 18:49 vasony Created: Ez a vezeték szakasz ellenőrizendő / * 2024 July 24 16:54 urbalazs Resolved: Létezik a vezeték, nincs vele teendő.</title>
+        <link>https://www.openstreetmap.org/note/4313152#c9521657</link>
+        <guid>https://www.openstreetmap.org/note/4313152#c9521657</guid>
+        <pubDate>Wed, 24 Jul 2024 16:54:52 +0000</pubDate>
+      </item><item>
+        <title>closed note 4313139 (near Anasztáziapuszta, Tárnok) / * 2024 June 29 18:45 vasony Created: A Dózsa György utat újraszámozták, felmérendő / * 2024 June 29 18:50 vasony Updated: Illetve ez a szakasz itt Dózsa vagy Petőfi? / * 2024 July 24 16:54 urbalazs Resolved: Felmértem, átszámoztam.</title>
+        <link>https://www.openstreetmap.org/note/4313139#c9521654</link>
+        <guid>https://www.openstreetmap.org/note/4313139#c9521654</guid>
+        <pubDate>Wed, 24 Jul 2024 16:54:36 +0000</pubDate>
+      </item><item>
+        <title>new note 4349152 (near 1095, Külső-Ferencváros, 9th district) / * 2024 July 24 16:49 sfphoton Created: Unable to answer &amp;quot;Is there a shelter at this stop?&amp;quot; – Kén utca (Bus Platform) – https://osm.org/way/108784377 via StreetComplete 58.2: / Ez tuti nem bus platform</title>
+        <link>https://www.openstreetmap.org/note/4349152#c9521638</link>
+        <guid>https://www.openstreetmap.org/note/4349152#c9521638</guid>
+        <pubDate>Wed, 24 Jul 2024 16:49:32 +0000</pubDate>
+      </item><item>
         <title>new note 4349081 (near 4064, Elep, Nagyhegyes) / * 2024 July 24 15:56 Megya Created: A https://hu.wikipedia.org/wiki/Nagyhegyes és a https://hu.wikipedia.org/wiki/Kösely alapján talán inkább &amp;quot;Pece-ér&amp;quot; lehet a neve ennek a vízfolyásnak.</title>
         <link>https://www.openstreetmap.org/note/4349081#c9521497</link>
         <guid>https://www.openstreetmap.org/note/4349081#c9521497</guid>
@@ -257,21 +272,6 @@
         <link>https://www.openstreetmap.org/note/4346788#c9516722</link>
         <guid>https://www.openstreetmap.org/note/4346788#c9516722</guid>
         <pubDate>Tue, 23 Jul 2024 13:11:21 +0000</pubDate>
-      </item><item>
-        <title>new note 4346767 (near 8230, Belváros, Balatonfüred) / * 2024 July 23 13:01 gonzoontherun Created: The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2024-06-13T18:38:33Z / POI has no name / POI types: shop-hairdresser / #organicmaps ios</title>
-        <link>https://www.openstreetmap.org/note/4346767#c9516675</link>
-        <guid>https://www.openstreetmap.org/note/4346767#c9516675</guid>
-        <pubDate>Tue, 23 Jul 2024 13:01:43 +0000</pubDate>
-      </item><item>
-        <title>new note 4346757 (near 8230, Belváros, Balatonfüred) / * 2024 July 23 12:58 gonzoontherun Created: The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2024-06-13T18:38:33Z / POI name: Arany Korona / POI types: amenity-restaurant / #organicmaps ios</title>
-        <link>https://www.openstreetmap.org/note/4346757#c9516660</link>
-        <guid>https://www.openstreetmap.org/note/4346757#c9516660</guid>
-        <pubDate>Tue, 23 Jul 2024 12:58:03 +0000</pubDate>
-      </item><item>
-        <title>new note 4346616 (near 2200, Monor) / * 2024 July 23 11:32 Balázs Szulovszky Created: Az 507-es számú helyi járat 2023 május 1-től megszűnt.</title>
-        <link>https://www.openstreetmap.org/note/4346616#c9516322</link>
-        <guid>https://www.openstreetmap.org/note/4346616#c9516322</guid>
-        <pubDate>Tue, 23 Jul 2024 11:32:10 +0000</pubDate>
       </item>
   </channel>
 </rss>
