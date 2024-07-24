@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3701452 (near Elviramajor, Érd) / * 2023 May 22 18:53 vasony Created: Elviramajor vagy Elvira-puszta? / * 2023 July 28 09:54 urbalazs Updated: A 7-es főúton ÉRD ELVIRA MAJOR van kitáblázva mindkét irányból. Nem mentem be megnézni, hogy van-e egyéb tábla. / * 2024 July 24 18:49 vasony Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3701452#c9521957</link>
+        <guid>https://www.openstreetmap.org/note/3701452#c9521957</guid>
+        <pubDate>Wed, 24 Jul 2024 18:49:30 +0000</pubDate>
+      </item><item>
         <title>new note 4349265 (near 8230, Belváros, Balatonfüred) / * 2024 July 24 18:12 gonzoontherun Created: The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2024-06-13T18:38:33Z / POI has no name / POI types: shop-bakery / #organicmaps ios</title>
         <link>https://www.openstreetmap.org/note/4349265#c9521886</link>
         <guid>https://www.openstreetmap.org/note/4349265#c9521886</guid>
@@ -262,11 +267,6 @@
         <link>https://www.openstreetmap.org/note/4346801#c9516744</link>
         <guid>https://www.openstreetmap.org/note/4346801#c9516744</guid>
         <pubDate>Tue, 23 Jul 2024 13:16:42 +0000</pubDate>
-      </item><item>
-        <title>new note 4346800 (near 8230, Belváros, Balatonfüred) / * 2024 July 23 13:16 gonzoontherun Created: The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2024-06-13T18:38:33Z / POI has no name / POI types: shop-butcher / #organicmaps ios</title>
-        <link>https://www.openstreetmap.org/note/4346800#c9516743</link>
-        <guid>https://www.openstreetmap.org/note/4346800#c9516743</guid>
-        <pubDate>Tue, 23 Jul 2024 13:16:41 +0000</pubDate>
       </item>
   </channel>
 </rss>
