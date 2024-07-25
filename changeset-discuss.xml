@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: urbalazs Discussion Comment No.: 1 Comment: Szia kawics11! Fővárosi helyi rendelet alapján a házszámokban szereplő alátöréseket (azaz 6/a, 6/b, 6/c stb.) kisbetűvel kell írni (azaz addr:housenumber=6/a). Kérlek, hogy ne javítsd át nagybetűkre. Ha vegyesen szerepelnek, akkor a kisbetűs a helyes írásmód, és a nagybetűket kell átírni. Nem összekeverendő az épületek jelzésével, azokat ugyanis nagybetűvel kell írni (azaz 6. A épület, 6. B épület stb.). Ekkor a betű az addr:unit=* kulcsba kerül (azaz addr:housenumber=6 + addr:unit=A) Date: 2024-07-24T09:08:14+02:00</title>
+        <title>Contributor: kawics11 Discussion Comment No.: 2 Comment: Szia! Köszi a visszajelzést! Nem ismertem ezt a rendeletet, és mind a három háznál nagybetű volt kiírva. Máris javítom! Date: 2024-07-25T11:25:30+02:00</title>
         <link>https://www.openstreetmap.org/changeset/154314051</link>
-        <guid>https://www.openstreetmap.org/changeset/154314051#comment_1</guid>
-        <pubDate>2024-07-24T09:08:14+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/154314051#comment_2</guid>
+        <pubDate>2024-07-25T11:25:30+02:00</pubDate>
       </item><item>
         <title>Contributor: Spush Discussion Comment No.: 6 Comment: Rendben. Köszi. Most nem vagyok gép közelben. Nem tudom vissza csinálni. Date: 2024-07-22T20:09:49+02:00</title>
         <link>https://www.openstreetmap.org/changeset/154264801</link>
