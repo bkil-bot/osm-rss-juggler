@@ -3,6 +3,11 @@
   <channel>
     <title>Wireless News (via bkil-bot)</title>
       <item>
+        <title>Re: Help with network adapter on monitor mode.: ZyXEL NWD6605 (Chipset: Realtek RTL8812AU) Alfa AWUS036NHA (Chipset: Atheros AR9271) TP-LINK TL-WN823N (Chipset: Realtek RTL8192CU) TP-LINK TL-WN822N (Chipset: Realtek RTL8192CU) TP-LINK TL-WN821N (Chipset: Realtek RTL8192CU) TP-Link TL-WN722N: Popular among security testers, supports monitoring mode and packet injection. Compatible with Kali Linux and Windows. TP-Link Archer T4U V3: A dual-band USB WiFi adapter that also supports monitoring mode and packet injection. Known for its compatibility with Kali Linux and Windows systems. TP-Link Archer T9UH: A high-gain dual-band USB WiFi adapter with strong signal reception, supporting monitoring mode and packet injection. Compatible with Kali Linux and Windows1. airmon-ng start wlan0 -ebauerico</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=12265#p12265</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=12265#p12265</guid>
+        <pubDate>2024-07-26T17:05:47</pubDate>
+      </item><item>
         <title>What do the main categories of encryption types summarize? PSK, CCMP, ...?: Dear wardrivers and project admins, unfortunately I cannot find any documentation on which encryption types make up the main categories. Am I correct in assuming that all subtypes of the corresponding main encryption categories, such as WPA2 (WPA2-TKIP, WPA2-PSK, WPA2-CCMP, ...) are summarized? What about WPA3 transition mode? Is this also counted as WPA3 (-SAE) in the statistics? Is there a way to get a more precise breakdown by explicit encryption types via the API? Thank you for your time -ubrrcjirp</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12026#p12026</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12026#p12026</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=10293#p10293</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=10293#p10293</guid>
         <pubDate>2019-08-18T08:12:50</pubDate>
-      </item><item>
-        <title>Re: SWardriving. Wireless Wi-Fi Wardriving: Yes obviously..it can sort the database...So no need to worry about it MyBKExperience -robert52</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=10245#p10245</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=10245#p10245</guid>
-        <pubDate>2019-07-10T07:37:14</pubDate>
       </item>
   </channel>
 </rss>
