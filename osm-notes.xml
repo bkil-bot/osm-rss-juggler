@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4355123 (near 1161, Rákosszentmihály, 16th district) / * 2024 July 29 16:07 infeeeee Resolved: Narvik2 már nagyjából javította a hibákat én befejeztem: https://www.openstreetmap.org/changeset/154570078</title>
+        <link>https://www.openstreetmap.org/note/4355123#c9540006</link>
+        <guid>https://www.openstreetmap.org/note/4355123#c9540006</guid>
+        <pubDate>Mon, 29 Jul 2024 16:07:28 +0000</pubDate>
+      </item><item>
+        <title>new note 4357447 (near 8230, Belváros, Balatonfüred) / * 2024 July 29 16:02 ironalloy Created: a jegyzet helyétől az utca végéig gyalogút/ösvény, de végigmegy a Liliom utcáig. a végén 8 lépcsőfok / #EveryDoor</title>
+        <link>https://www.openstreetmap.org/note/4357447#c9539991</link>
+        <guid>https://www.openstreetmap.org/note/4357447#c9539991</guid>
+        <pubDate>Mon, 29 Jul 2024 16:02:35 +0000</pubDate>
+      </item><item>
+        <title>new note 4357393 (near 3353, Aldebrő) / * 2024 July 29 15:33 Spush Created: Itt augusztus elsejétől megszűnik a posta.</title>
+        <link>https://www.openstreetmap.org/note/4357393#c9539903</link>
+        <guid>https://www.openstreetmap.org/note/4357393#c9539903</guid>
+        <pubDate>Mon, 29 Jul 2024 15:33:20 +0000</pubDate>
+      </item><item>
+        <title>new note 4357376 (near 3352, Feldebrő) / * 2024 July 29 15:23 Spush Created: Augusztus elsejétől itt megszűnik a posta.</title>
+        <link>https://www.openstreetmap.org/note/4357376#c9539875</link>
+        <guid>https://www.openstreetmap.org/note/4357376#c9539875</guid>
+        <pubDate>Mon, 29 Jul 2024 15:23:48 +0000</pubDate>
+      </item><item>
         <title>closed note 4342596 (near 1113, Kelenföld, 11th district) / * 2024 July 20 19:19 turrrtl Created: Unable to answer &amp;quot;Is this still here?&amp;quot; – Kutyamánia (Pet Store) – https://osm.org/way/252393416 via StreetComplete 58.2: / Yigsoft &amp;amp; Hepa-com / * 2024 July 29 12:45 infeeeee Resolved: Resolved with changeset https://www.openstreetmap.org/changeset/154561408 by noteSolver_plugin/0.5.0</title>
         <link>https://www.openstreetmap.org/note/4342596#c9539317</link>
         <guid>https://www.openstreetmap.org/note/4342596#c9539317</guid>
@@ -262,36 +282,6 @@
         <link>https://www.openstreetmap.org/note/4157591#c9532816</link>
         <guid>https://www.openstreetmap.org/note/4157591#c9532816</guid>
         <pubDate>Sat, 27 Jul 2024 16:27:08 +0000</pubDate>
-      </item><item>
-        <title>closed note 3982310 (near 8174, Balatonkenese) / * 2023 November 11 09:26 vasony Created: Katóka utca ki van táblázva? / * 2024 July 27 16:17 vasony Resolved: Utcatabla nincs, de több házon is szerepel az utcanev</title>
-        <link>https://www.openstreetmap.org/note/3982310#c9532785</link>
-        <guid>https://www.openstreetmap.org/note/3982310#c9532785</guid>
-        <pubDate>Sat, 27 Jul 2024 16:17:44 +0000</pubDate>
-      </item><item>
-        <title>closed note 4157620 (near 8174, Balatonkenese) / * 2024 March 17 21:17 vasony Created: Mária utca itt kellene legyen, van nyoma? / * 2024 July 27 16:04 vasony Resolved: nincs utca</title>
-        <link>https://www.openstreetmap.org/note/4157620#c9532729</link>
-        <guid>https://www.openstreetmap.org/note/4157620#c9532729</guid>
-        <pubDate>Sat, 27 Jul 2024 16:04:29 +0000</pubDate>
-      </item><item>
-        <title>new note 4354167 (near 6635, Szegvár) / * 2024 July 27 16:03 GBAB Created: Dny felé kisebb a strand / #OsmAnd</title>
-        <link>https://www.openstreetmap.org/note/4354167#c9532726</link>
-        <guid>https://www.openstreetmap.org/note/4354167#c9532726</guid>
-        <pubDate>Sat, 27 Jul 2024 16:03:59 +0000</pubDate>
-      </item><item>
-        <title>closed note 4157609 (near 8174, Balatonkenese) / * 2024 March 17 21:12 vasony Created: Zsuzsanna utcának itt kellene lennie, van nyoma? / * 2024 July 27 16:03 vasony Resolved: utca sincs, egy susnya</title>
-        <link>https://www.openstreetmap.org/note/4157609#c9532722</link>
-        <guid>https://www.openstreetmap.org/note/4157609#c9532722</guid>
-        <pubDate>Sat, 27 Jul 2024 16:03:12 +0000</pubDate>
-      </item><item>
-        <title>new note 4353947 (near 3300, Eger) / * 2024 July 27 14:45 efi99 Created: itt át lehet menni?</title>
-        <link>https://www.openstreetmap.org/note/4353947#c9532328</link>
-        <guid>https://www.openstreetmap.org/note/4353947#c9532328</guid>
-        <pubDate>Sat, 27 Jul 2024 14:45:32 +0000</pubDate>
-      </item><item>
-        <title>closed note 2803223 (near 3300, Eger) / * 2021 August 14 14:55 vasony Created: Pyrker tér vagy Pyrker János tér szerepel az utcatáblán? / * 2024 July 27 14:34 vasony Resolved: Az utolsó módosíás értelmében feltételezem teljes névvel és nem itt</title>
-        <link>https://www.openstreetmap.org/note/2803223#c9532295</link>
-        <guid>https://www.openstreetmap.org/note/2803223#c9532295</guid>
-        <pubDate>Sat, 27 Jul 2024 14:34:17 +0000</pubDate>
       </item>
   </channel>
 </rss>
