@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 2803303 (near 3300, Eger) / * 2021 August 14 15:47 vasony Created: Deák Ferenc út vagy Deák Ferenc utca szerepel az utcatáblán? / * 2024 July 29 19:05 efi99 Resolved: utca</title>
+        <link>https://www.openstreetmap.org/note/2803303#c9540570</link>
+        <guid>https://www.openstreetmap.org/note/2803303#c9540570</guid>
+        <pubDate>Mon, 29 Jul 2024 19:05:10 +0000</pubDate>
+      </item><item>
+        <title>new comment 3778069 (near 3899, Felsőkéked, Kéked) / * 2023 July 13 12:28 Matyjace Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;no path here&amp;quot; / * 2024 July 29 18:46 menganito Updated: There is no road indeed.</title>
+        <link>https://www.openstreetmap.org/note/3778069#c9540505</link>
+        <guid>https://www.openstreetmap.org/note/3778069#c9540505</guid>
+        <pubDate>Mon, 29 Jul 2024 18:46:22 +0000</pubDate>
+      </item><item>
+        <title>new note 4357670 (near 8230, Belváros, Balatonfüred) / * 2024 July 29 18:45 ironalloy Created: &amp;quot;bocs véletlen kettőzés, itt a pontos helye&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2024-07-02T13:27:57Z / POI name: Szerencse Wok / POI types: amenity-restaurant / #organicmaps android</title>
+        <link>https://www.openstreetmap.org/note/4357670#c9540502</link>
+        <guid>https://www.openstreetmap.org/note/4357670#c9540502</guid>
+        <pubDate>Mon, 29 Jul 2024 18:45:35 +0000</pubDate>
+      </item><item>
         <title>new comment 4218005 (near 9441, Agyagosszergény) / * 2024 April 27 17:14 efi99 Created: cím? / * 2024 July 29 18:16 efi99 Updated: hrsz 197/28</title>
         <link>https://www.openstreetmap.org/note/4218005#c9540420</link>
         <guid>https://www.openstreetmap.org/note/4218005#c9540420</guid>
@@ -252,16 +267,6 @@
         <link>https://www.openstreetmap.org/note/4355123#c9535246</link>
         <guid>https://www.openstreetmap.org/note/4355123#c9535246</guid>
         <pubDate>Sun, 28 Jul 2024 11:10:12 +0000</pubDate>
-      </item><item>
-        <title>new note 4354640 (near 1121, Budakeszierdő, 12th district) / * 2024 July 28 01:56 OSM KAMI Created: Szelektív / via StreetComplete_ee 57.0 / Attached photo(s): / https://westnordost.de/p/228012.jpg</title>
-        <link>https://www.openstreetmap.org/note/4354640#c9533940</link>
-        <guid>https://www.openstreetmap.org/note/4354640#c9533940</guid>
-        <pubDate>Sun, 28 Jul 2024 01:56:50 +0000</pubDate>
-      </item><item>
-        <title>new note 4354639 (near 1121, Budakeszierdő, 12th district) / * 2024 July 28 01:56 OSM KAMI Created: P / via StreetComplete_ee 57.0 / Attached photo(s): / https://westnordost.de/p/228009.jpg / https://westnordost.de/p/228010.jpg / https://westnordost.de/p/228011.jpg</title>
-        <link>https://www.openstreetmap.org/note/4354639#c9533939</link>
-        <guid>https://www.openstreetmap.org/note/4354639#c9533939</guid>
-        <pubDate>Sun, 28 Jul 2024 01:56:49 +0000</pubDate>
       </item>
   </channel>
 </rss>
