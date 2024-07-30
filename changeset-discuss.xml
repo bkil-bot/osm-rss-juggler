@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: efi99 Discussion Comment No.: 4 Comment: Teljesen életszerűtlen, hogy egy térképen végül is hibás neveket jelenítünk meg, ha tudjuk a jót is. Nézd, ha gondolod, nevezd vissza, nem fogom visszaírni. 2024 van, manapság már gyorsabban ellenőrizhető online még a helyszínről is sokszor, hogy mi a (hivatalos) neve az utcának, ahol állunk (sokszor kint sincs), a szerkesztésről meg nem is beszélve (utóbbi esetben online biztos, hogy lekérhető, a helyszínen meg biztos van olyan, amit soha senki nem fog megnézni). Ezért az OSM-en is szerencsésebb lenne most már a fordított logika, vagyis az alap utcanév a hivatalos legyen és a táblás névnek (ha eltér) lenne a plusz mező. A navigáció is az általánost használja gondolom, így, ha valaki megadja a hivatalos címét (lakcímkártya alapján), az sem egyezik majd, ha oda mi a táblást írjuk. Szerintem az önkormányzatok slendriánsága miatt nem kéne konzerválnunk a hibáikat, arról nem is beszélve, hogy majd ki veszi észre, ha egyszer cserélik a táblát. Láthatod, hogy még egy megyeszékhelynél is mekkora adathiány van az OSM-en, ezerszám hiányoznak házszámok, soha senki nem fog aztán kiszúrni egy olyat, hogy táblacsere volt, mikor ennyire kevesen tartják karban. Date: 2024-07-29T21:04:09+02:00</title>
+        <title>Contributor: vasony Discussion Comment No.: 5 Comment: A hivatalos név az ami a határozatban van, ez pedig nem azonos azzal amit a földhivatalból kinézel, főleg nem azzal ami a szabályozási terven van. Ez pedig nem triviális. És akkor még a licensz kérdésekről nem beszéltem. Ha jön vki a helyszínre nem azt fogja látni amit te felvittél, és itt megbukik az ellenőrizhetőség, ha én navigálok az a nevet és házszámot szeretném látni a térképen ami a helyszínen szerepel, nem ami valaki szerint hivatalos. Az hogy sok adat hiányzik még nem ok arra hogy nem legális és kérdéses pontosságú forrásokból feltöltsd az osm-et. Date: 2024-07-30T09:03:56+02:00</title>
         <link>https://www.openstreetmap.org/changeset/154488098</link>
-        <guid>https://www.openstreetmap.org/changeset/154488098#comment_4</guid>
-        <pubDate>2024-07-29T21:04:09+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/154488098#comment_5</guid>
+        <pubDate>2024-07-30T09:03:56+02:00</pubDate>
       </item><item>
-        <title>Contributor: Vincenzo Szűcs Árpád Discussion Comment No.: 2 Comment: Hello! Ott van egy sávos út de csak Busznak van fent tartva . És egy irányú . Üdv. Árpád! Date: 2024-07-29T20:52:21+02:00</title>
+        <title>Contributor: vasony Discussion Comment No.: 3 Comment: Szia! Ennek megvan a saját jelölése. psv=designated, ha rárakod a név törölhető. Tamás Date: 2024-07-30T08:38:51+02:00</title>
         <link>https://www.openstreetmap.org/changeset/154473331</link>
-        <guid>https://www.openstreetmap.org/changeset/154473331#comment_2</guid>
-        <pubDate>2024-07-29T20:52:21+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/154473331#comment_3</guid>
+        <pubDate>2024-07-30T08:38:51+02:00</pubDate>
       </item><item>
         <title>Contributor: efi99 Discussion Comment No.: 2 Comment: Az ok ugyanaz (Földhivatal + Rendezési terv). Date: 2024-07-29T20:08:32+02:00</title>
         <link>https://www.openstreetmap.org/changeset/154488437</link>
