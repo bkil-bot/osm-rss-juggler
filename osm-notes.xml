@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4353491 (near Alsómajor, Dörgicse) / * 2024 July 27 10:05 BáthoryPéter Created: Kővölgyi utca / #OsmAnd / * 2024 July 30 21:36 BáthoryPéter Resolved: </title>
+        <link>https://www.openstreetmap.org/note/4353491#c9544403</link>
+        <guid>https://www.openstreetmap.org/note/4353491#c9544403</guid>
+        <pubDate>Tue, 30 Jul 2024 21:36:54 +0000</pubDate>
+      </item><item>
         <title>closed note 4350342 (near 2800, Újtelep, Tatabánya) / * 2024 July 25 12:08 tregec Created: A Térmester utca és Kápolna utca kereszteződésében kirakott tábla szerint Kőbánya alja utca. / * 2024 July 30 20:54 tregec Resolved: Az utcában is ilyen feliratú tábla található, ezért átjavítottam.</title>
         <link>https://www.openstreetmap.org/note/4350342#c9544276</link>
         <guid>https://www.openstreetmap.org/note/4350342#c9544276</guid>
@@ -212,11 +217,6 @@
         <link>https://www.openstreetmap.org/note/4341716#c9539315</link>
         <guid>https://www.openstreetmap.org/note/4341716#c9539315</guid>
         <pubDate>Mon, 29 Jul 2024 12:45:47 +0000</pubDate>
-      </item><item>
-        <title>closed note 4352351 (near 1114, Szentimreváros, 11th district) / * 2024 July 26 14:47 OSM KAMI Created: Szeptemberről, kiwi nincs már  itt / https://www.facebook.com/ResidentArtBudapest/ / via StreetComplete_ee 57.0 / Attached photo(s): / https://westnordost.de/p/227634.jpg / * 2024 July 29 12:45 infeeeee Resolved: Resolved with changeset https://www.openstreetmap.org/changeset/154561408 by noteSolver_plugin/0.5.0</title>
-        <link>https://www.openstreetmap.org/note/4352351#c9539314</link>
-        <guid>https://www.openstreetmap.org/note/4352351#c9539314</guid>
-        <pubDate>Mon, 29 Jul 2024 12:45:46 +0000</pubDate>
       </item>
   </channel>
 </rss>
