@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4348218 (near Rigótanya, Aszófő) / * 2024 July 24 08:50 gonzoontherun Created: The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2024-06-13T18:38:33Z / POI name: Kövesd a Mucit! / POI types: amenity-restaurant / #organicmaps ios / * 2024 August 2 06:29 NeisBot Resolved: This note has the identical location and text / as note https://osm.org/note/4348122 / Therefore, it will be closed. / #DuplicateNote</title>
+        <link>https://www.openstreetmap.org/note/4348218#c9551825</link>
+        <guid>https://www.openstreetmap.org/note/4348218#c9551825</guid>
+        <pubDate>Fri, 02 Aug 2024 06:29:33 +0000</pubDate>
+      </item><item>
         <title>closed note 1460302 (near 8999, Pacsa, Zalalövő) / * 2018 July 19 16:09 Created: Ivókút / * 2019 November 15 16:52 ITineris Updated: Egy ivókút már jelölve van kicsit északabbra, a harangláb felett. Ide is raktak volna egy másikat? / * 2024 August 2 06:18 ITineris Resolved: Nincs másik. (Idén május.) Valószínűleg elfelejtette lezárni a saját jegyzetét.</title>
         <link>https://www.openstreetmap.org/note/1460302#c9551792</link>
         <guid>https://www.openstreetmap.org/note/1460302#c9551792</guid>
@@ -257,11 +262,6 @@
         <link>https://www.openstreetmap.org/note/4359999#c9545671</link>
         <guid>https://www.openstreetmap.org/note/4359999#c9545671</guid>
         <pubDate>Wed, 31 Jul 2024 10:17:30 +0000</pubDate>
-      </item><item>
-        <title>new note 4359998 (near 9400, Ösvény utcai lakópark, Sopron) / * 2024 July 31 10:17 CopperOppositeKindred Created: Unable to answer &amp;quot;Does this street have a sidewalk?&amp;quot; for https://osm.org/way/96814233 via StreetComplete_ee 56.0: / Sétálóutca, parkolóval / Attached photo(s): / https://westnordost.de/p/229000.jpg / https://westnordost.de/p/229001.jpg</title>
-        <link>https://www.openstreetmap.org/note/4359998#c9545670</link>
-        <guid>https://www.openstreetmap.org/note/4359998#c9545670</guid>
-        <pubDate>Wed, 31 Jul 2024 10:17:29 +0000</pubDate>
       </item>
   </channel>
 </rss>
