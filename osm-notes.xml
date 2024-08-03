@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4097469 (near 1023, Újlak, 2nd district) / * 2024 February 2 19:01 infeeeee Created: Ürömi utcába 40-es táblákat raktak ki, helyszínen fel kell mérni melyik szakaszokra, melyik irányban / * 2024 August 3 21:21 infeeeee Resolved: Azóta javítva lett</title>
+        <link>https://www.openstreetmap.org/note/4097469#c9558125</link>
+        <guid>https://www.openstreetmap.org/note/4097469#c9558125</guid>
+        <pubDate>Sat, 03 Aug 2024 21:21:10 +0000</pubDate>
+      </item><item>
+        <title>new note 4365764 (near 3927, Csobaj) / * 2024 August 3 20:52 miserend-hu Created: Két templom entity egy helyen. Van egy node és egy way.</title>
+        <link>https://www.openstreetmap.org/note/4365764#c9558038</link>
+        <guid>https://www.openstreetmap.org/note/4365764#c9558038</guid>
+        <pubDate>Sat, 03 Aug 2024 20:52:23 +0000</pubDate>
+      </item><item>
+        <title>new note 4365763 (near 8191, Öskü) / * 2024 August 3 20:51 miserend-hu Created: Itt két darab templom van az OSM adatbázisban, pedig csak egy van. Össze kéne vonni valahogy (csak ahhoz én nem értek) / way/187243312 / relation/4149604</title>
+        <link>https://www.openstreetmap.org/note/4365763#c9558028</link>
+        <guid>https://www.openstreetmap.org/note/4365763#c9558028</guid>
+        <pubDate>Sat, 03 Aug 2024 20:51:24 +0000</pubDate>
+      </item><item>
+        <title>new note 4365760 (near 1037, Óbuda hegyvidéke, 3rd district) / * 2024 August 3 20:50 Created: 9:00 indulás innen</title>
+        <link>https://www.openstreetmap.org/note/4365760#c9558023</link>
+        <guid>https://www.openstreetmap.org/note/4365760#c9558023</guid>
+        <pubDate>Sat, 03 Aug 2024 20:50:06 +0000</pubDate>
+      </item><item>
         <title>closed note 3170964 (near 6085, Fülöpszállás) / * 2022 May 8 16:30 Created: Aronic Rendszerház Kft. / * 2024 August 3 16:26 zsolt d Resolved: OK, POI létrehozva, adatok ráírva.</title>
         <link>https://www.openstreetmap.org/note/3170964#c9557370</link>
         <guid>https://www.openstreetmap.org/note/3170964#c9557370</guid>
@@ -217,71 +237,6 @@
         <link>https://www.openstreetmap.org/note/4362596#c9551547</link>
         <guid>https://www.openstreetmap.org/note/4362596#c9551547</guid>
         <pubDate>Fri, 02 Aug 2024 03:49:18 +0000</pubDate>
-      </item><item>
-        <title>new note 4362594 (near 8200, Jutaspuszta, Veszprém) / * 2024 August 2 03:48 vasony Created: Létra utca utcanév ellenőrizendő</title>
-        <link>https://www.openstreetmap.org/note/4362594#c9551545</link>
-        <guid>https://www.openstreetmap.org/note/4362594#c9551545</guid>
-        <pubDate>Fri, 02 Aug 2024 03:48:35 +0000</pubDate>
-      </item><item>
-        <title>new note 4362592 (near 8200, Jutaspuszta, Veszprém) / * 2024 August 2 03:46 vasony Created: Hóvirág köz utcanév ellenőrizendő</title>
-        <link>https://www.openstreetmap.org/note/4362592#c9551543</link>
-        <guid>https://www.openstreetmap.org/note/4362592#c9551543</guid>
-        <pubDate>Fri, 02 Aug 2024 03:46:19 +0000</pubDate>
-      </item><item>
-        <title>new note 4362591 (near 8200, Jutaspuszta, Veszprém) / * 2024 August 2 03:45 vasony Created: utcanevek ellenőrizendők</title>
-        <link>https://www.openstreetmap.org/note/4362591#c9551542</link>
-        <guid>https://www.openstreetmap.org/note/4362591#c9551542</guid>
-        <pubDate>Fri, 02 Aug 2024 03:45:46 +0000</pubDate>
-      </item><item>
-        <title>new note 4362590 (near 8200, Jutaspuszta, Veszprém) / * 2024 August 2 03:45 vasony Created: Lépcső név ellenőrizendő</title>
-        <link>https://www.openstreetmap.org/note/4362590#c9551541</link>
-        <guid>https://www.openstreetmap.org/note/4362590#c9551541</guid>
-        <pubDate>Fri, 02 Aug 2024 03:45:04 +0000</pubDate>
-      </item><item>
-        <title>new note 4362589 (near 8200, Jutaspuszta, Veszprém) / * 2024 August 2 03:43 vasony Created: Bagolyvári út vagy utca szerepel a táblán?</title>
-        <link>https://www.openstreetmap.org/note/4362589#c9551540</link>
-        <guid>https://www.openstreetmap.org/note/4362589#c9551540</guid>
-        <pubDate>Fri, 02 Aug 2024 03:43:30 +0000</pubDate>
-      </item><item>
-        <title>new note 4362588 (near 8200, Jutaspuszta, Veszprém) / * 2024 August 2 03:42 vasony Created: Van Táborállás tér is vagy csak Táborállás park?</title>
-        <link>https://www.openstreetmap.org/note/4362588#c9551539</link>
-        <guid>https://www.openstreetmap.org/note/4362588#c9551539</guid>
-        <pubDate>Fri, 02 Aug 2024 03:42:12 +0000</pubDate>
-      </item><item>
-        <title>new note 4362586 (near 8200, Jutaspuszta, Veszprém) / * 2024 August 2 03:37 vasony Created: Ez a Szerelde köz?</title>
-        <link>https://www.openstreetmap.org/note/4362586#c9551536</link>
-        <guid>https://www.openstreetmap.org/note/4362586#c9551536</guid>
-        <pubDate>Fri, 02 Aug 2024 03:37:54 +0000</pubDate>
-      </item><item>
-        <title>new note 4362584 (near 8200, Jutaspuszta, Veszprém) / * 2024 August 2 03:36 vasony Created: Kerekes utca vagy Kerekeskút utca szerepel az utcatáblán?</title>
-        <link>https://www.openstreetmap.org/note/4362584#c9551533</link>
-        <guid>https://www.openstreetmap.org/note/4362584#c9551533</guid>
-        <pubDate>Fri, 02 Aug 2024 03:36:24 +0000</pubDate>
-      </item><item>
-        <title>new note 4362581 (near 8200, Jutaspuszta, Veszprém) / * 2024 August 2 03:34 vasony Created: Kavics utca vagy Kavicsos utca szerepel az utcatáblán?</title>
-        <link>https://www.openstreetmap.org/note/4362581#c9551530</link>
-        <guid>https://www.openstreetmap.org/note/4362581#c9551530</guid>
-        <pubDate>Fri, 02 Aug 2024 03:34:54 +0000</pubDate>
-      </item><item>
-        <title>new note 4362580 (near 8200, Jutaspuszta, Veszprém) / * 2024 August 2 03:32 vasony Created: Hegybíró út vagy utca szerepel az utcatáblán?</title>
-        <link>https://www.openstreetmap.org/note/4362580#c9551529</link>
-        <guid>https://www.openstreetmap.org/note/4362580#c9551529</guid>
-        <pubDate>Fri, 02 Aug 2024 03:32:45 +0000</pubDate>
-      </item><item>
-        <title>new note 4362579 (near 8200, Jutaspuszta, Veszprém) / * 2024 August 2 03:30 vasony Created: Dallos köz vagy Dalos köz szerepel a táblán?</title>
-        <link>https://www.openstreetmap.org/note/4362579#c9551528</link>
-        <guid>https://www.openstreetmap.org/note/4362579#c9551528</guid>
-        <pubDate>Fri, 02 Aug 2024 03:30:19 +0000</pubDate>
-      </item><item>
-        <title>closed note 4319710 (near 8200, Jutaspuszta, Veszprém) / * 2024 July 5 05:35 Fakard Created: Lépcsőházak fordított sorrendben (1/A .. D) / * 2024 August 2 03:23 vasony Resolved: javítva</title>
-        <link>https://www.openstreetmap.org/note/4319710#c9551525</link>
-        <guid>https://www.openstreetmap.org/note/4319710#c9551525</guid>
-        <pubDate>Fri, 02 Aug 2024 03:23:44 +0000</pubDate>
-      </item><item>
-        <title>closed note 4319713 (near 8200, Jutaspuszta, Veszprém) / * 2024 July 5 05:38 Fakard Created: Lépcsőházak fordított sorrendben (3/A .. D) / * 2024 August 2 03:23 vasony Resolved: javítva</title>
-        <link>https://www.openstreetmap.org/note/4319713#c9551524</link>
-        <guid>https://www.openstreetmap.org/note/4319713#c9551524</guid>
-        <pubDate>Fri, 02 Aug 2024 03:23:43 +0000</pubDate>
       </item>
   </channel>
 </rss>
