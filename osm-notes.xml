@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4364275 (near 7014, Sáregres) / * 2024 August 2 23:22 Created: 2024-08-01-től nincs posta. / * 2024 August 3 10:32 bkil Updated: Ennek kapcsán kicsit több lesz a teendő. Biztos, hogy 100 külön térképjegyzetet akarunk erre nyitni? / https://rtl.hu/hirado/2024/08/02/magyar-posta-hivatal-bezaras / https://24.hu/fn/gazdasag/2024/08/01/magyar-posta-postahivatal-postabezaras-kistelepules-mobilposta-level-kuldemeny-csomag-nyugdij/ / * 2024 August 4 16:18 vasony Resolved: itt ennyi a teendő, javítva</title>
+        <link>https://www.openstreetmap.org/note/4364275#c9560760</link>
+        <guid>https://www.openstreetmap.org/note/4364275#c9560760</guid>
+        <pubDate>Sun, 04 Aug 2024 16:18:24 +0000</pubDate>
+      </item><item>
+        <title>closed note 4366296 (near 2173, Kartal) / * 2024 August 4 16:14 vasony Resolved: javítva, de a neveket ellenőrizni kell, mert eltért így az alt_name-be került</title>
+        <link>https://www.openstreetmap.org/note/4366296#c9560749</link>
+        <guid>https://www.openstreetmap.org/note/4366296#c9560749</guid>
+        <pubDate>Sun, 04 Aug 2024 16:14:42 +0000</pubDate>
+      </item><item>
+        <title>closed note 4365764 (near 3927, Csobaj) / * 2024 August 3 20:52 miserend-hu Created: Két templom entity egy helyen. Van egy node és egy way. / * 2024 August 4 16:07 vasony Resolved: javítva</title>
+        <link>https://www.openstreetmap.org/note/4365764#c9560734</link>
+        <guid>https://www.openstreetmap.org/note/4365764#c9560734</guid>
+        <pubDate>Sun, 04 Aug 2024 16:07:29 +0000</pubDate>
+      </item><item>
+        <title>closed note 4365763 (near 8191, Öskü) / * 2024 August 3 20:51 miserend-hu Created: Itt két darab templom van az OSM adatbázisban, pedig csak egy van. Össze kéne vonni valahogy (csak ahhoz én nem értek) / way/187243312 / relation/4149604 / * 2024 August 4 16:00 vasony Resolved: javítva</title>
+        <link>https://www.openstreetmap.org/note/4365763#c9560720</link>
+        <guid>https://www.openstreetmap.org/note/4365763#c9560720</guid>
+        <pubDate>Sun, 04 Aug 2024 16:00:49 +0000</pubDate>
+      </item><item>
         <title>closed note 4335525 (near 1051, Lipótváros, 5th district) / * 2024 July 16 10:57 WandererWasOccupied Created: Unable to answer &amp;quot;What’s the surface of the sidewalk here?&amp;quot; – József Attila utca (Tertiary Road) – https://osm.org/way/125067691 via StreetComplete 58.1: / A metrólejáró felől térköves, a szemben lévő oldalon aszfaltos / * 2024 August 4 15:12 infeeeee Resolved: Resolved with changeset https://www.openstreetmap.org/changeset/154817041 by noteSolver_plugin/0.5.0</title>
         <link>https://www.openstreetmap.org/note/4335525#c9560532</link>
         <guid>https://www.openstreetmap.org/note/4335525#c9560532</guid>
@@ -227,16 +247,6 @@
         <link>https://www.openstreetmap.org/note/3473315#c9555714</link>
         <guid>https://www.openstreetmap.org/note/3473315#c9555714</guid>
         <pubDate>Sat, 03 Aug 2024 08:19:59 +0000</pubDate>
-      </item><item>
-        <title>closed note 4362142 (near 8900, Belváros, Zalaegerszeg) / * 2024 August 1 17:22 Andras998877 Created: Unable to answer &amp;quot;What sport is played here?&amp;quot; – Sport Pitch – https://osm.org/way/1215677784 via StreetComplete 58.2: / Kindergarten, not public / * 2024 August 3 08:11 ITineris Resolved: Címkéztem, az óvodát is.</title>
-        <link>https://www.openstreetmap.org/note/4362142#c9555687</link>
-        <guid>https://www.openstreetmap.org/note/4362142#c9555687</guid>
-        <pubDate>Sat, 03 Aug 2024 08:11:52 +0000</pubDate>
-      </item><item>
-        <title>closed note 4249320 (near 8900, Belváros, Zalaegerszeg) / * 2024 May 16 16:49 Karcsesz Created: Got demolished / via StreetComplete 57.4 / Attached photo(s): / https://westnordost.de/p/212879.jpg / * 2024 August 3 08:08 ITineris Resolved: Leszedtem.</title>
-        <link>https://www.openstreetmap.org/note/4249320#c9555664</link>
-        <guid>https://www.openstreetmap.org/note/4249320#c9555664</guid>
-        <pubDate>Sat, 03 Aug 2024 08:08:50 +0000</pubDate>
       </item>
   </channel>
 </rss>
