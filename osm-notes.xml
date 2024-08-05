@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4323649 (near 8636, Balatonszemes) / * 2024 July 7 16:48 OSM KAMI Created: Jegy / via StreetComplete_ee 57.0 / Attached photo(s): / https://westnordost.de/p/222955.jpg / https://westnordost.de/p/222956.jpg / https://westnordost.de/p/222957.jpg / * 2024 August 5 21:24 urbalazs Resolved: Hozzáadtam az automatákat.</title>
+        <link>https://www.openstreetmap.org/note/4323649#c9565362</link>
+        <guid>https://www.openstreetmap.org/note/4323649#c9565362</guid>
+        <pubDate>Mon, 05 Aug 2024 21:24:30 +0000</pubDate>
+      </item><item>
         <title>new comment 4348685 (near 6722, Belváros, Szeged) / * 2024 August 5 20:26 OSM KAMI Updated: Balázsnak a regisztrációs szám kell, de van ott még  egyéb infó is.</title>
         <link>https://www.openstreetmap.org/note/4348685#c9565161</link>
         <guid>https://www.openstreetmap.org/note/4348685#c9565161</guid>
@@ -252,11 +257,6 @@
         <link>https://www.openstreetmap.org/note/4365763#c9560720</link>
         <guid>https://www.openstreetmap.org/note/4365763#c9560720</guid>
         <pubDate>Sun, 04 Aug 2024 16:00:49 +0000</pubDate>
-      </item><item>
-        <title>closed note 4335525 (near 1051, Lipótváros, 5th district) / * 2024 July 16 10:57 WandererWasOccupied Created: Unable to answer &amp;quot;What’s the surface of the sidewalk here?&amp;quot; – József Attila utca (Tertiary Road) – https://osm.org/way/125067691 via StreetComplete 58.1: / A metrólejáró felől térköves, a szemben lévő oldalon aszfaltos / * 2024 August 4 15:12 infeeeee Resolved: Resolved with changeset https://www.openstreetmap.org/changeset/154817041 by noteSolver_plugin/0.5.0</title>
-        <link>https://www.openstreetmap.org/note/4335525#c9560532</link>
-        <guid>https://www.openstreetmap.org/note/4335525#c9560532</guid>
-        <pubDate>Sun, 04 Aug 2024 15:12:50 +0000</pubDate>
       </item>
   </channel>
 </rss>
