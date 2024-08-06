@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment 4350643 (near 1024, Országút, 2nd district) / * 2024 July 25 15:25 WandererWasOccupied Created: Gyalogos átkelő hely / Felfestett / Pirossal kiemelt / Kivilágított / Nincs jelzőlámpa / via StreetComplete 58.2 / * 2024 August 6 05:56 OSM KAMI Updated: Átkelés / Attached photo(s): / https://westnordost.de/p/230279.jpg</title>
+        <link>https://www.openstreetmap.org/note/4350643#c9566343</link>
+        <guid>https://www.openstreetmap.org/note/4350643#c9566343</guid>
+        <pubDate>Tue, 06 Aug 2024 05:56:53 +0000</pubDate>
+      </item><item>
+        <title>new comment 4350235 (near 1026, Törökvész, 2nd district) / * 2024 July 25 11:03 WandererWasOccupied Created: Unable to answer &amp;quot;Is this place wheelchair accessible?&amp;quot; – Urban Jungle Budapest (Community Center) – https://osm.org/node/10051966561 via StreetComplete 58.2: / VeddAndVidd adománybolt / * 2024 August 6 05:47 OSM KAMI Updated: Magas a küszöb / Attached photo(s): / https://westnordost.de/p/230276.jpg / https://westnordost.de/p/230277.jpg</title>
+        <link>https://www.openstreetmap.org/note/4350235#c9566326</link>
+        <guid>https://www.openstreetmap.org/note/4350235#c9566326</guid>
+        <pubDate>Tue, 06 Aug 2024 05:47:41 +0000</pubDate>
+      </item><item>
         <title>closed note 4323649 (near 8636, Balatonszemes) / * 2024 July 7 16:48 OSM KAMI Created: Jegy / via StreetComplete_ee 57.0 / Attached photo(s): / https://westnordost.de/p/222955.jpg / https://westnordost.de/p/222956.jpg / https://westnordost.de/p/222957.jpg / * 2024 August 5 21:24 urbalazs Resolved: Hozzáadtam az automatákat.</title>
         <link>https://www.openstreetmap.org/note/4323649#c9565362</link>
         <guid>https://www.openstreetmap.org/note/4323649#c9565362</guid>
@@ -227,36 +237,6 @@
         <link>https://www.openstreetmap.org/note/4367088#c9561062</link>
         <guid>https://www.openstreetmap.org/note/4367088#c9561062</guid>
         <pubDate>Sun, 04 Aug 2024 17:48:58 +0000</pubDate>
-      </item><item>
-        <title>new note 4366940 (near 3300, Eger) / * 2024 August 4 16:28 OSM KAMI Created: Innentől 20 / via StreetComplete_ee 58.2</title>
-        <link>https://www.openstreetmap.org/note/4366940#c9560797</link>
-        <guid>https://www.openstreetmap.org/note/4366940#c9560797</guid>
-        <pubDate>Sun, 04 Aug 2024 16:28:19 +0000</pubDate>
-      </item><item>
-        <title>new note 4366939 (near 3300, Eger) / * 2024 August 4 16:28 OSM KAMI Created: Innentől 30 / via StreetComplete_ee 58.2</title>
-        <link>https://www.openstreetmap.org/note/4366939#c9560796</link>
-        <guid>https://www.openstreetmap.org/note/4366939#c9560796</guid>
-        <pubDate>Sun, 04 Aug 2024 16:28:19 +0000</pubDate>
-      </item><item>
-        <title>closed note 4364275 (near 7014, Sáregres) / * 2024 August 2 23:22 Created: 2024-08-01-től nincs posta. / * 2024 August 3 10:32 bkil Updated: Ennek kapcsán kicsit több lesz a teendő. Biztos, hogy 100 külön térképjegyzetet akarunk erre nyitni? / https://rtl.hu/hirado/2024/08/02/magyar-posta-hivatal-bezaras / https://24.hu/fn/gazdasag/2024/08/01/magyar-posta-postahivatal-postabezaras-kistelepules-mobilposta-level-kuldemeny-csomag-nyugdij/ / * 2024 August 4 16:18 vasony Resolved: itt ennyi a teendő, javítva</title>
-        <link>https://www.openstreetmap.org/note/4364275#c9560760</link>
-        <guid>https://www.openstreetmap.org/note/4364275#c9560760</guid>
-        <pubDate>Sun, 04 Aug 2024 16:18:24 +0000</pubDate>
-      </item><item>
-        <title>closed note 4366296 (near 2173, Kartal) / * 2024 August 4 16:14 vasony Resolved: javítva, de a neveket ellenőrizni kell, mert eltért így az alt_name-be került</title>
-        <link>https://www.openstreetmap.org/note/4366296#c9560749</link>
-        <guid>https://www.openstreetmap.org/note/4366296#c9560749</guid>
-        <pubDate>Sun, 04 Aug 2024 16:14:42 +0000</pubDate>
-      </item><item>
-        <title>closed note 4365764 (near 3927, Csobaj) / * 2024 August 3 20:52 miserend-hu Created: Két templom entity egy helyen. Van egy node és egy way. / * 2024 August 4 16:07 vasony Resolved: javítva</title>
-        <link>https://www.openstreetmap.org/note/4365764#c9560734</link>
-        <guid>https://www.openstreetmap.org/note/4365764#c9560734</guid>
-        <pubDate>Sun, 04 Aug 2024 16:07:29 +0000</pubDate>
-      </item><item>
-        <title>closed note 4365763 (near 8191, Öskü) / * 2024 August 3 20:51 miserend-hu Created: Itt két darab templom van az OSM adatbázisban, pedig csak egy van. Össze kéne vonni valahogy (csak ahhoz én nem értek) / way/187243312 / relation/4149604 / * 2024 August 4 16:00 vasony Resolved: javítva</title>
-        <link>https://www.openstreetmap.org/note/4365763#c9560720</link>
-        <guid>https://www.openstreetmap.org/note/4365763#c9560720</guid>
-        <pubDate>Sun, 04 Aug 2024 16:00:49 +0000</pubDate>
       </item>
   </channel>
 </rss>
