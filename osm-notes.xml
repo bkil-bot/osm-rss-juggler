@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4374269 (near 2610, Nőtincs) / * 2024 August 9 21:17 bkil Resolved: Beküldtem egy javítást amit lehet mintaként használni a hasonló esetekben: https://osm.org/changeset/155040857#map=19/47.85878/19.19884</title>
+        <link>https://www.openstreetmap.org/note/4374269#c9580949</link>
+        <guid>https://www.openstreetmap.org/note/4374269#c9580949</guid>
+        <pubDate>Fri, 09 Aug 2024 21:17:19 +0000</pubDate>
+      </item><item>
         <title>new comment 4369865 (near 8660, Sérsekszőlős) / * 2024 August 6 12:40 Gaurdein Created: Unable to answer &amp;quot;What kind of memorial is this?&amp;quot; – Memorial – https://osm.org/node/9747186110 via StreetComplete 57.4: / Szöveg: &amp;quot;MCMXLV MCMLXX&amp;quot; / Attached photo(s): / https://westnordost.de/p/230364.jpg / * 2024 August 7 07:40 urbalazs Resolved: 2 évvel ezelőtt már felkerült a felirat a bejelentő által. / * 2024 August 8 20:18 Gaurdein Reactivated:  / * 2024 August 8 20:19 Gaurdein Updated: Bocsi, az adatokat nem láttam StreetComplete-en, a főbb dolog amit nem tudtam eldönteni, az az emlékmű típusa/fajtája, ezért dobtam a képet meg a feliratot. Ebben kéne egy kis segítség! / * 2024 August 9 13:16 infeeeee Updated: Erről az emlékműről nincs semmi más fotó az interneten, nem akarod ezt feltölteni mondjuk wikimedia commons-ra és onnan visszalinkeljük ide? Köztérképen sincs fent. StreetComplete képeket törlik egy idő után ha le lett zárva a jegyzet. / Amúgy memorial=sculpture illene rá leginkább: https://wiki.openstreetmap.org/wiki/Tag:memorial%3Dsculpture / A dátum alapján szerintem ez egy felszabadulási emlékmű, ha nincs rajta más infó.</title>
         <link>https://www.openstreetmap.org/note/4369865#c9579481</link>
         <guid>https://www.openstreetmap.org/note/4369865#c9579481</guid>
@@ -47,16 +52,6 @@
         <link>https://www.openstreetmap.org/note/4362596#c9577946</link>
         <guid>https://www.openstreetmap.org/note/4362596#c9577946</guid>
         <pubDate>Fri, 09 Aug 2024 05:23:56 +0000</pubDate>
-      </item><item>
-        <title>new comment 4021541 (near 8200, Jutaspuszta, Veszprém) / * 2023 December 9 19:35 ironalloy Created: ez hova vezet? / * 2024 August 9 05:17 vasony Updated: ki a sétányra</title>
-        <link>https://www.openstreetmap.org/note/4021541#c9577942</link>
-        <guid>https://www.openstreetmap.org/note/4021541#c9577942</guid>
-        <pubDate>Fri, 09 Aug 2024 05:17:50 +0000</pubDate>
-      </item><item>
-        <title>closed note 4362592 (near 8200, Jutaspuszta, Veszprém) / * 2024 August 2 03:46 vasony Created: Hóvirág köz utcanév ellenőrizendő / * 2024 August 9 05:13 vasony Resolved: nincs kiirva</title>
-        <link>https://www.openstreetmap.org/note/4362592#c9577939</link>
-        <guid>https://www.openstreetmap.org/note/4362592#c9577939</guid>
-        <pubDate>Fri, 09 Aug 2024 05:13:42 +0000</pubDate>
       </item>
   </channel>
 </rss>
