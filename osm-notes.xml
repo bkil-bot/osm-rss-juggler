@@ -3,6 +3,36 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4381663 (near 6331, Foktő) / * 2024 August 13 12:02 Created: körforgalom átadva</title>
+        <link>https://www.openstreetmap.org/note/4381663#c9594505</link>
+        <guid>https://www.openstreetmap.org/note/4381663#c9594505</guid>
+        <pubDate>Tue, 13 Aug 2024 12:02:59 +0000</pubDate>
+      </item><item>
+        <title>closed note 3939820 (near 3388, Poroszló) / * 2023 October 14 12:38 OSM KAMI Created: felveszem majd ezt a pályát / via StreetComplete 54.1 / Attached photo(s): / https://westnordost.de/p/181145.jpg / * 2024 August 13 11:53 Kecsege Resolved: Hozzáadva: / https://www.openstreetmap.org/changeset/155191849</title>
+        <link>https://www.openstreetmap.org/note/3939820#c9594356</link>
+        <guid>https://www.openstreetmap.org/note/3939820#c9594356</guid>
+        <pubDate>Tue, 13 Aug 2024 11:53:53 +0000</pubDate>
+      </item><item>
+        <title>closed note 3349230 (near Zsohár-tanya, Őriszentpéter) / * 2022 September 7 08:27 Pan Perníček Created: Forwarding anonymous report from #Mapy.cz user, please verify: Horváth kert Panzió is out of order. / https://www.openstreetmap.org/way/362847226 / * 2024 August 13 11:29 Kecsege Resolved: Törölve: / https://www.openstreetmap.org/changeset/155190709</title>
+        <link>https://www.openstreetmap.org/note/3349230#c9594248</link>
+        <guid>https://www.openstreetmap.org/note/3349230#c9594248</guid>
+        <pubDate>Tue, 13 Aug 2024 11:29:53 +0000</pubDate>
+      </item><item>
+        <title>closed note 3210707 (near Centrálé, Tormafölde) / * 2022 June 5 09:47 DrescherJ Created: Magasles / * 2024 August 13 11:29 Kecsege Resolved: Hozzáadva: / https://www.openstreetmap.org/changeset/155190709</title>
+        <link>https://www.openstreetmap.org/note/3210707#c9594246</link>
+        <guid>https://www.openstreetmap.org/note/3210707#c9594246</guid>
+        <pubDate>Tue, 13 Aug 2024 11:29:48 +0000</pubDate>
+      </item><item>
+        <title>closed note 2616950 (near 7400, Rómahegy, Kaposvár) / * 2021 April 10 17:40 Created: Lonkai köz 9. / * 2024 August 13 11:29 Kecsege Resolved: Hozzáadva: / https://www.openstreetmap.org/changeset/155190709</title>
+        <link>https://www.openstreetmap.org/note/2616950#c9594245</link>
+        <guid>https://www.openstreetmap.org/note/2616950#c9594245</guid>
+        <pubDate>Tue, 13 Aug 2024 11:29:46 +0000</pubDate>
+      </item><item>
+        <title>closed note 4352066 (near S Park - Bevásárlóközpont, Kisgát, Kaposvár) / * 2024 July 26 12:59 Created: Használt Sütőolaj gyűjtőpont / * 2024 August 13 11:29 Kecsege Resolved: Hozzáadva: / https://www.openstreetmap.org/changeset/155190709</title>
+        <link>https://www.openstreetmap.org/note/4352066#c9594244</link>
+        <guid>https://www.openstreetmap.org/note/4352066#c9594244</guid>
+        <pubDate>Tue, 13 Aug 2024 11:29:44 +0000</pubDate>
+      </item><item>
         <title>closed note 3814157 (near 8881, Sormás) / * 2023 August 3 12:25 Created: A ház / * 2024 August 13 11:19 Kecsege Resolved: Már térképezve van.</title>
         <link>https://www.openstreetmap.org/note/3814157#c9594206</link>
         <guid>https://www.openstreetmap.org/note/3814157#c9594206</guid>
@@ -362,21 +392,6 @@
         <link>https://www.openstreetmap.org/note/4379711#c9589910</link>
         <guid>https://www.openstreetmap.org/note/4379711#c9589910</guid>
         <pubDate>Mon, 12 Aug 2024 11:26:29 +0000</pubDate>
-      </item><item>
-        <title>closed note 4379416 (near 3348, Szilvásvárad) / * 2024 August 12 10:11 bkil Resolved: </title>
-        <link>https://www.openstreetmap.org/note/4379416#c9589643</link>
-        <guid>https://www.openstreetmap.org/note/4379416#c9589643</guid>
-        <pubDate>Mon, 12 Aug 2024 10:11:31 +0000</pubDate>
-      </item><item>
-        <title>closed note 4379373 (near 3348, Szilvásvárad) / * 2024 August 12 10:11 bkil Resolved: </title>
-        <link>https://www.openstreetmap.org/note/4379373#c9589642</link>
-        <guid>https://www.openstreetmap.org/note/4379373#c9589642</guid>
-        <pubDate>Mon, 12 Aug 2024 10:11:29 +0000</pubDate>
-      </item><item>
-        <title>closed note 4379422 (near 3348, Szilvásvárad) / * 2024 August 12 10:11 bkil Resolved: Ez a funkció publikus térképhibák bejelentésére szolgál a szerkesztők számára. Amennyiben szeretne saját kézzel javítást szerkeszteni a térképbe, szívesen segítünk iránymutatással.</title>
-        <link>https://www.openstreetmap.org/note/4379422#c9589641</link>
-        <guid>https://www.openstreetmap.org/note/4379422#c9589641</guid>
-        <pubDate>Mon, 12 Aug 2024 10:11:26 +0000</pubDate>
       </item>
   </channel>
 </rss>
