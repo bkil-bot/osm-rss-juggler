@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4370278 (near Újvárosiregálé, Mezőtúr) / * 2024 August 14 11:05 Spush Resolved: Oké, rendben. Köszi a tanácsot!</title>
+        <link>https://www.openstreetmap.org/note/4370278#c9598144</link>
+        <guid>https://www.openstreetmap.org/note/4370278#c9598144</guid>
+        <pubDate>Wed, 14 Aug 2024 11:05:05 +0000</pubDate>
+      </item><item>
+        <title>new comment 4370278 (near Újvárosiregálé, Mezőtúr) / * 2024 August 6 18:03 Spush Created: Mik ezek a vasúti átjárók a Lidl Parkolóban és tovább az elhagyott vonal mentén? Nem kéne ezeket törölni? / * 2024 August 14 10:41 infeeeee Updated: Meg lehet razed-re is át kellene címkézni abandoned-ról: https://wiki.openstreetmap.org/wiki/Tag:railway%3Drazed</title>
+        <link>https://www.openstreetmap.org/note/4370278#c9598071</link>
+        <guid>https://www.openstreetmap.org/note/4370278#c9598071</guid>
+        <pubDate>Wed, 14 Aug 2024 10:41:28 +0000</pubDate>
+      </item><item>
         <title>closed note 4346757 (near 8230, Belváros, Balatonfüred) / * 2024 July 23 12:58 gonzoontherun Created: The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2024-06-13T18:38:33Z / POI name: Arany Korona / POI types: amenity-restaurant / #organicmaps ios / * 2024 August 14 07:12 vampire303 Resolved: törölve</title>
         <link>https://www.openstreetmap.org/note/4346757#c9597336</link>
         <guid>https://www.openstreetmap.org/note/4346757#c9597336</guid>
@@ -347,16 +357,6 @@
         <link>https://www.openstreetmap.org/note/4183625#c9593535</link>
         <guid>https://www.openstreetmap.org/note/4183625#c9593535</guid>
         <pubDate>Tue, 13 Aug 2024 08:33:56 +0000</pubDate>
-      </item><item>
-        <title>closed note 4183626 (near 4100, Berettyószentmárton, Berettyóújfalu) / * 2024 April 5 12:25 Pan Perníček Created: Forwarding anonymous report from #Mapycz user, please verify: 	DM is definitively closed. / https://www.openstreetmap.org/node/3000594595 / * 2024 August 13 08:33 Kecsege Resolved: Törölve: / https://www.openstreetmap.org/changeset/155183393</title>
-        <link>https://www.openstreetmap.org/note/4183626#c9593534</link>
-        <guid>https://www.openstreetmap.org/note/4183626#c9593534</guid>
-        <pubDate>Tue, 13 Aug 2024 08:33:50 +0000</pubDate>
-      </item><item>
-        <title>closed note 4183624 (near 4100, Berettyószentmárton, Berettyóújfalu) / * 2024 April 5 12:23 Pan Perníček Created: Forwarding anonymous report from #Mapycz user, please verify: Szin-ház festékbolt is definitively closed. / https://www.openstreetmap.org/node/3432034850 / * 2024 August 13 08:33 Kecsege Resolved: Törölve: / https://www.openstreetmap.org/changeset/155183393</title>
-        <link>https://www.openstreetmap.org/note/4183624#c9593533</link>
-        <guid>https://www.openstreetmap.org/note/4183624#c9593533</guid>
-        <pubDate>Tue, 13 Aug 2024 08:33:45 +0000</pubDate>
       </item>
   </channel>
 </rss>
