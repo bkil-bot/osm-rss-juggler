@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: grin Discussion Comment No.: 1 Comment: Hello! May I ask what kind of device have you used to &quot;fix&quot; the 50 cm accurate RTK measuments? (accuracy=0.5) Thanks! Date: 2024-08-14T08:16:41+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/138963477</link>
+        <guid>https://www.openstreetmap.org/changeset/138963477#comment_1</guid>
+        <pubDate>2024-08-14T08:16:41+02:00</pubDate>
+      </item><item>
+        <title>Contributor: grin Discussion Comment No.: 1 Comment: Szia! Szándékos volt, hogy a Pázmánd-Nadap határon levő 50 cm pontosságra (RTK) bemért utat (accuracy=0.5) eltoltad? Nagyon nem jó ötlet egy pontosan lemért utat egy sokkal rosszabb (5-7 méter!) pontosságú forrás alapján „javítani”. Kérlek, hogy ha lehet, csak *pontosabb* forrás alapján javíts geometriát. Köszönöm! Date: 2024-08-14T08:04:13+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/155195035</link>
+        <guid>https://www.openstreetmap.org/changeset/155195035#comment_1</guid>
+        <pubDate>2024-08-14T08:04:13+02:00</pubDate>
+      </item><item>
         <title>Contributor: gabro00 Discussion Comment No.: 2 Comment: Szia! Itt megpingelheted a fejlesztőket: https://github.com/osmandapp/OsmAnd/issues/17811 https://github.com/openstreetmap/openstreetmap-website/issues/2405 Szerencsére a munka nagy részét elvégeztem, a köztérkép ref alapján könnyű hozzáadni a kedvenc program számára a megfelelő címkét. Mert itt mindenféle címkében voltak ám adatok, tehát adattisztítás is történt, még ha nem is látszik elsőre. Gábor Date: 2024-08-13T16:43:52+02:00</title>
         <link>https://www.openstreetmap.org/changeset/154772371</link>
         <guid>https://www.openstreetmap.org/changeset/154772371#comment_2</guid>
