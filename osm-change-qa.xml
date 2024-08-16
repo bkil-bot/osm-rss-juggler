@@ -2,7 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Change QA (via bkil-bot)</title>
-<item><title>vakulya moved place node 354693589 village Ruzsa in changeset 154522283</title><link>https://www.openstreetmap.org/changeset/154522283</link><guid>https://www.openstreetmap.org/changeset/154522283</guid><pubDate>Sun, 28 Jul 2024 13:53:28 +0000</pubDate></item>
 <item><title>vakulya moved place node 354621860 village Kömpöc in changeset 154528465</title><link>https://www.openstreetmap.org/changeset/154528465</link><guid>https://www.openstreetmap.org/changeset/154528465</guid><pubDate>Sun, 28 Jul 2024 16:14:33 +0000</pubDate></item>
 <item><title>ITineris moved place node 1027856503 hamlet Rábakecskéd in changeset 154653049</title><link>https://www.openstreetmap.org/changeset/154653049</link><guid>https://www.openstreetmap.org/changeset/154653049</guid><pubDate>Wed, 31 Jul 2024 14:32:53 +0000</pubDate></item>
 <item><title>vakulya moved place node 354693536 village Balástya in changeset 154671568</title><link>https://www.openstreetmap.org/changeset/154671568</link><guid>https://www.openstreetmap.org/changeset/154671568</guid><pubDate>Wed, 31 Jul 2024 23:55:36 +0000</pubDate></item>
@@ -12,5 +11,6 @@
 <item><title>NightH moved place node 271316698 village Bolhó in changeset 155144216</title><link>https://www.openstreetmap.org/changeset/155144216</link><guid>https://www.openstreetmap.org/changeset/155144216</guid><pubDate>Mon, 12 Aug 2024 11:38:18 +0000</pubDate></item>
 <item><title>bkil moved place node 354693551 village Zsombó in changeset 155192326</title><link>https://www.openstreetmap.org/changeset/155192326</link><guid>https://www.openstreetmap.org/changeset/155192326</guid><pubDate>Tue, 13 Aug 2024 12:04:58 +0000</pubDate></item>
 <item><title>hunsly moved place node 32188020 town Barcs in changeset 155304422</title><link>https://www.openstreetmap.org/changeset/155304422</link><guid>https://www.openstreetmap.org/changeset/155304422</guid><pubDate>Thu, 15 Aug 2024 23:05:12 +0000</pubDate></item>
+<item><title>GBAB moved place node 282434519 village Ravazd in changeset 155309486</title><link>https://www.openstreetmap.org/changeset/155309486</link><guid>https://www.openstreetmap.org/changeset/155309486</guid><pubDate>Fri, 16 Aug 2024 05:11:48 +0000</pubDate></item>
   </channel>
 </rss>

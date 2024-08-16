@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4362594 (near 8200, Jutaspuszta, Veszprém) / * 2024 August 2 03:48 vasony Created: Létra utca utcanév ellenőrizendő / * 2024 August 16 05:20 vasony Resolved: ez egy behajto</title>
+        <link>https://www.openstreetmap.org/note/4362594#c9604507</link>
+        <guid>https://www.openstreetmap.org/note/4362594#c9604507</guid>
+        <pubDate>Fri, 16 Aug 2024 05:20:48 +0000</pubDate>
+      </item><item>
         <title>closed note 4385152 (near Jánoskert, Balatonlelle) / * 2024 August 15 18:20 bkil Resolved: Már fent volt a térképen, bár javítani kellett https://osm.org/changeset/155296085#map=19/46.78906/17.70213</title>
         <link>https://www.openstreetmap.org/note/4385152#c9603485</link>
         <guid>https://www.openstreetmap.org/note/4385152#c9603485</guid>
@@ -322,11 +327,6 @@
         <link>https://www.openstreetmap.org/note/2804412#c9595590</link>
         <guid>https://www.openstreetmap.org/note/2804412#c9595590</guid>
         <pubDate>Tue, 13 Aug 2024 15:48:15 +0000</pubDate>
-      </item><item>
-        <title>closed note 4023108 (near 9485, Nagycenk) / * 2023 December 11 08:26 Matyjace Created: Forwarding anonymous report from #mapycz user, please verify: &amp;quot;open only on weekends&amp;quot; / * 2024 August 13 15:43 Kecsege Resolved: Hozzáadva: / https://www.openstreetmap.org/changeset/155201991</title>
-        <link>https://www.openstreetmap.org/note/4023108#c9595578</link>
-        <guid>https://www.openstreetmap.org/note/4023108#c9595578</guid>
-        <pubDate>Tue, 13 Aug 2024 15:43:50 +0000</pubDate>
       </item>
   </channel>
 </rss>
