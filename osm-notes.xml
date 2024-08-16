@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4385209 (near 1123, Krisztinaváros, 12th district) / * 2024 August 15 17:58 WandererWasOccupied Created: Megrongálódott a pados esőbeálló, nem lehet használni átmenetileg / via StreetComplete 58.2 / * 2024 August 16 10:00 infeeeee Resolved: Ideiglenes dolgokat nem térképezünk: https://wiki.openstreetmap.org/wiki/Good_practice#Don&amp;#39;t_map_temporary_events_and_temporary_features</title>
+        <link>https://www.openstreetmap.org/note/4385209#c9605310</link>
+        <guid>https://www.openstreetmap.org/note/4385209#c9605310</guid>
+        <pubDate>Fri, 16 Aug 2024 10:00:26 +0000</pubDate>
+      </item><item>
         <title>new note 4385893 (near 8431, Bakonyszentlászló) / * 2024 August 16 08:50 GBAB Created: cutline &amp;gt; power line / #OsmAnd</title>
         <link>https://www.openstreetmap.org/note/4385893#c9605066</link>
         <guid>https://www.openstreetmap.org/note/4385893#c9605066</guid>
@@ -322,11 +327,6 @@
         <link>https://www.openstreetmap.org/note/4346788#c9597332</link>
         <guid>https://www.openstreetmap.org/note/4346788#c9597332</guid>
         <pubDate>Wed, 14 Aug 2024 07:10:31 +0000</pubDate>
-      </item><item>
-        <title>closed note 4346800 (near 8230, Belváros, Balatonfüred) / * 2024 July 23 13:16 gonzoontherun Created: The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2024-06-13T18:38:33Z / POI has no name / POI types: shop-butcher / #organicmaps ios / * 2024 August 14 07:09 vampire303 Resolved: törölve</title>
-        <link>https://www.openstreetmap.org/note/4346800#c9597331</link>
-        <guid>https://www.openstreetmap.org/note/4346800#c9597331</guid>
-        <pubDate>Wed, 14 Aug 2024 07:09:44 +0000</pubDate>
       </item>
   </channel>
 </rss>
