@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4390304 (near 8230, Belváros, Balatonfüred) / * 2024 August 18 16:05 ironalloy Created: &amp;quot;fizető&amp;quot; / OSM snapshot date: 2024-08-10T16:22:45Z / POI has no name / POI types: amenity-parking / #organicmaps android</title>
+        <link>https://www.openstreetmap.org/note/4390304#c9613961</link>
+        <guid>https://www.openstreetmap.org/note/4390304#c9613961</guid>
+        <pubDate>Sun, 18 Aug 2024 16:05:59 +0000</pubDate>
+      </item><item>
+        <title>new note 4390303 (near 8230, Belváros, Balatonfüred) / * 2024 August 18 16:05 ironalloy Created: &amp;quot;duplicate&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2024-08-10T16:22:45Z / POI has no name / POI types: building amenity-nightclub / #organicmaps android</title>
+        <link>https://www.openstreetmap.org/note/4390303#c9613960</link>
+        <guid>https://www.openstreetmap.org/note/4390303#c9613960</guid>
+        <pubDate>Sun, 18 Aug 2024 16:05:59 +0000</pubDate>
+      </item><item>
+        <title>new comment 4390259 (near 1112, Örsöd, 11th district) / * 2024 August 18 15:55 vasony Updated: Nem fog csúszni, mert a mostani 101 és 103-as házak is ez a telek, akkor ez a 95 itt érvénytelen lesz.</title>
+        <link>https://www.openstreetmap.org/note/4390259#c9613881</link>
+        <guid>https://www.openstreetmap.org/note/4390259#c9613881</guid>
+        <pubDate>Sun, 18 Aug 2024 15:55:49 +0000</pubDate>
+      </item><item>
+        <title>new note 4390259 (near 1112, Örsöd, 11th district) / * 2024 August 18 15:52 vasony Created: Ez a telek hivatalosan 101-103 lett , így a többi szám is csúszni fog, később ellenőrizendő. / https://kozigazgatas.ujbuda.hu/sites/default/files/attachments/files/kozigazgatasujbudahu/2024_08/1449_2_24_hatarozat_87_107.pdf</title>
+        <link>https://www.openstreetmap.org/note/4390259#c9613868</link>
+        <guid>https://www.openstreetmap.org/note/4390259#c9613868</guid>
+        <pubDate>Sun, 18 Aug 2024 15:52:40 +0000</pubDate>
+      </item><item>
         <title>closed note 4358620 (near 1039, Csillaghegy, 3rd district) / * 2024 July 30 12:42 WandererWasOccupied Created: Ez egy röplabdapálya / via StreetComplete 58.2 / * 2024 August 18 15:14 Kecsege Resolved: Módosítva: / https://www.openstreetmap.org/changeset/155420129</title>
         <link>https://www.openstreetmap.org/note/4358620#c9613695</link>
         <guid>https://www.openstreetmap.org/note/4358620#c9613695</guid>
@@ -292,16 +312,6 @@
         <link>https://www.openstreetmap.org/note/4388057#c9609788</link>
         <guid>https://www.openstreetmap.org/note/4388057#c9609788</guid>
         <pubDate>Sat, 17 Aug 2024 15:34:20 +0000</pubDate>
-      </item><item>
-        <title>new note 4387997 (near 8230, Belváros, Balatonfüred) / * 2024 August 17 14:58 ironalloy Created: &amp;quot;egyenlőre nem nyitott újra,  nincs itt semmi&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2024-08-10T16:22:45Z / POI name: Mór 24 / POI types: amenity-restaurant / #organicmaps android</title>
-        <link>https://www.openstreetmap.org/note/4387997#c9609615</link>
-        <guid>https://www.openstreetmap.org/note/4387997#c9609615</guid>
-        <pubDate>Sat, 17 Aug 2024 14:58:58 +0000</pubDate>
-      </item><item>
-        <title>new note 4387994 (near 8230, Belváros, Balatonfüred) / * 2024 August 17 14:57 ironalloy Created: &amp;quot;már nincs ilyen hotel&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2024-08-10T16:22:45Z / POI name: Hotel Park / POI types: tourism-hotel / #organicmaps android</title>
-        <link>https://www.openstreetmap.org/note/4387994#c9609609</link>
-        <guid>https://www.openstreetmap.org/note/4387994#c9609609</guid>
-        <pubDate>Sat, 17 Aug 2024 14:57:21 +0000</pubDate>
       </item>
   </channel>
 </rss>
