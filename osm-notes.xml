@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4062813 (near 8617, Borkút, Kőröshegy) / * 2024 January 11 23:35 urbalazs Created: Az Apple térképe szerint ez a Földvári út. Ki van táblázva? / * 2024 August 19 21:52 urbalazs Resolved: Nincs utcatábla.</title>
+        <link>https://www.openstreetmap.org/note/4062813#c9619272</link>
+        <guid>https://www.openstreetmap.org/note/4062813#c9619272</guid>
+        <pubDate>Mon, 19 Aug 2024 21:52:37 +0000</pubDate>
+      </item><item>
+        <title>closed note 4181564 (near 8623, Balatonföldvár) / * 2024 April 4 06:20 vasony Created: Ez a Szabó Lőrinc utca? / * 2024 August 19 21:52 urbalazs Resolved: Középen füves, a keréknyomban murvás út. Utcatábla és házszámtábla nincs, az épületek nem innen számozódnak.</title>
+        <link>https://www.openstreetmap.org/note/4181564#c9619271</link>
+        <guid>https://www.openstreetmap.org/note/4181564#c9619271</guid>
+        <pubDate>Mon, 19 Aug 2024 21:52:15 +0000</pubDate>
+      </item><item>
         <title>closed note 2437643 (near 1138, Vizafogó, 13th district) / * 2024 August 19 20:25 Kecsege Resolved: Hozzáadtam: / https://www.openstreetmap.org/changeset/155480310</title>
         <link>https://www.openstreetmap.org/note/2437643#c9618971</link>
         <guid>https://www.openstreetmap.org/note/2437643#c9618971</guid>
@@ -372,26 +382,6 @@
         <link>https://www.openstreetmap.org/note/4391286#c9616195</link>
         <guid>https://www.openstreetmap.org/note/4391286#c9616195</guid>
         <pubDate>Mon, 19 Aug 2024 07:45:57 +0000</pubDate>
-      </item><item>
-        <title>new note 4391283 (near 8229, Péterhegy, Csopak) / * 2024 August 19 07:43 vasony Created: Kertmög utca itt van valahol?</title>
-        <link>https://www.openstreetmap.org/note/4391283#c9616188</link>
-        <guid>https://www.openstreetmap.org/note/4391283#c9616188</guid>
-        <pubDate>Mon, 19 Aug 2024 07:43:24 +0000</pubDate>
-      </item><item>
-        <title>new note 4391160 (near 8237, Tihany) / * 2024 August 19 06:02 vasony Created: Malom tér utcanév ellenőrizendő!</title>
-        <link>https://www.openstreetmap.org/note/4391160#c9615911</link>
-        <guid>https://www.openstreetmap.org/note/4391160#c9615911</guid>
-        <pubDate>Mon, 19 Aug 2024 06:02:43 +0000</pubDate>
-      </item><item>
-        <title>closed note 4391149 (near 8085, Vértesboglár) / * 2024 August 19 05:52 Akos Szelle Resolved: </title>
-        <link>https://www.openstreetmap.org/note/4391149#c9615878</link>
-        <guid>https://www.openstreetmap.org/note/4391149#c9615878</guid>
-        <pubDate>Mon, 19 Aug 2024 05:52:19 +0000</pubDate>
-      </item><item>
-        <title>new note 4391149 (near 8085, Vértesboglár) / * 2024 August 19 05:52 Akos Szelle Created: Nágl - Szelle Pince ( Weinkeller / Traditional Winecellar / borospince ) / Cím: Vértesboglár, Friedensplatz, 8085 / Telefonszám: 06 20 353 6231 / Nyitvatartás: / Zárva ⋅ Nyitás: Szo, 10:00</title>
-        <link>https://www.openstreetmap.org/note/4391149#c9615877</link>
-        <guid>https://www.openstreetmap.org/note/4391149#c9615877</guid>
-        <pubDate>Mon, 19 Aug 2024 05:52:10 +0000</pubDate>
       </item>
   </channel>
 </rss>
