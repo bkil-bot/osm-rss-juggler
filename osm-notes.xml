@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4391292 (near 8229, Péterhegy, Csopak) / * 2024 August 19 07:48 vasony Created: Nádaskúti utca erre folytatódik? / * 2024 August 19 10:36 vasony Updated: írásmód is ellenőrizendő,  Nagykúti utca vagy Nagykuti utca szerepel az utcatáblán? / * 2024 August 20 10:16 vasony Resolved: igen, rövid u</title>
+        <link>https://www.openstreetmap.org/note/4391292#c9620832</link>
+        <guid>https://www.openstreetmap.org/note/4391292#c9620832</guid>
+        <pubDate>Tue, 20 Aug 2024 10:16:08 +0000</pubDate>
+      </item><item>
+        <title>new note 4393206 (near Közép-Európai Cserkészpark, Csobánka) / * 2024 August 20 10:02 Created: 2024.08.20 Nem jön belőle víz</title>
+        <link>https://www.openstreetmap.org/note/4393206#c9620775</link>
+        <guid>https://www.openstreetmap.org/note/4393206#c9620775</guid>
+        <pubDate>Tue, 20 Aug 2024 10:02:51 +0000</pubDate>
+      </item><item>
+        <title>closed note 4391539 (near 8229, Péterhegy, Csopak) / * 2024 August 19 10:33 vasony Created: Lápotai út vagy Lápotai utca szerepel az utcatáblán? / * 2024 August 20 09:26 vasony Resolved: út</title>
+        <link>https://www.openstreetmap.org/note/4391539#c9620620</link>
+        <guid>https://www.openstreetmap.org/note/4391539#c9620620</guid>
+        <pubDate>Tue, 20 Aug 2024 09:26:04 +0000</pubDate>
+      </item><item>
         <title>new note 4393085 (near 2013, Messelia, Pomáz) / * 2024 August 20 08:46 Created: 2024.08.20 Elzárva</title>
         <link>https://www.openstreetmap.org/note/4393085#c9620442</link>
         <guid>https://www.openstreetmap.org/note/4393085#c9620442</guid>
@@ -322,21 +337,6 @@
         <link>https://www.openstreetmap.org/note/4391473#c9616618</link>
         <guid>https://www.openstreetmap.org/note/4391473#c9616618</guid>
         <pubDate>Mon, 19 Aug 2024 10:02:00 +0000</pubDate>
-      </item><item>
-        <title>closed note 3305952 (near 8229, Paloznak) / * 2022 August 8 22:08 Created: Diófa utca / * 2024 August 19 09:33 vasony Resolved: javítva</title>
-        <link>https://www.openstreetmap.org/note/3305952#c9616547</link>
-        <guid>https://www.openstreetmap.org/note/3305952#c9616547</guid>
-        <pubDate>Mon, 19 Aug 2024 09:33:39 +0000</pubDate>
-      </item><item>
-        <title>closed note 3164516 (near Vadkert Major, Sárvár) / * 2022 May 4 08:20 Tajtrdlik Created: &amp;quot;Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;Here misses dirt road to parking area next to teh cementary&amp;quot;. / * 2024 August 19 09:18 Kecsege Resolved: Hozzáadva: / https://www.openstreetmap.org/changeset/155450122</title>
-        <link>https://www.openstreetmap.org/note/3164516#c9616497</link>
-        <guid>https://www.openstreetmap.org/note/3164516#c9616497</guid>
-        <pubDate>Mon, 19 Aug 2024 09:18:07 +0000</pubDate>
-      </item><item>
-        <title>closed note 3592093 (near Alkotmány úti lakótelep, Sárvár) / * 2023 March 10 07:50 Matyjace Created: Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;Statue - name of the city&amp;quot; / * 2024 August 19 09:18 Kecsege Resolved: Hozzáadva: / https://www.openstreetmap.org/changeset/155450122</title>
-        <link>https://www.openstreetmap.org/note/3592093#c9616496</link>
-        <guid>https://www.openstreetmap.org/note/3592093#c9616496</guid>
-        <pubDate>Mon, 19 Aug 2024 09:18:03 +0000</pubDate>
       </item>
   </channel>
 </rss>
