@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4387171 (near Öreghegy, Zalacsány) / * 2024 August 17 05:13 Created: Tábla / * 2024 August 17 10:41 Kecsege Updated: Itt a közelben már van jelölve egy információs tábla. Vagy ez más lenne? / https://www.openstreetmap.org/node/3454648867 / * 2024 August 21 09:07 Zsolt Takács Resolved: Nem, ez lesz az, csak nem láttam a térképen jelölve.</title>
+        <link>https://www.openstreetmap.org/note/4387171#c9624348</link>
+        <guid>https://www.openstreetmap.org/note/4387171#c9624348</guid>
+        <pubDate>Wed, 21 Aug 2024 09:07:46 +0000</pubDate>
+      </item><item>
         <title>new comment 4307331 (near 1089, Tisztviselőtelep, 8th district) / * 2024 June 25 11:54 Created: Mérőpont / * 2024 August 20 19:24 Kecsege Updated: Mit mér?</title>
         <link>https://www.openstreetmap.org/note/4307331#c9622774</link>
         <guid>https://www.openstreetmap.org/note/4307331#c9622774</guid>
@@ -307,26 +312,6 @@
         <link>https://www.openstreetmap.org/note/4393054#c9620374</link>
         <guid>https://www.openstreetmap.org/note/4393054#c9620374</guid>
         <pubDate>Tue, 20 Aug 2024 08:34:05 +0000</pubDate>
-      </item><item>
-        <title>closed note 4391502 (near 8229, Péterhegy, Csopak) / * 2024 August 19 10:16 vasony Created: Ifjúság sétány vagy Ifjúsági sétány szerepel az utcatáblán? / * 2024 August 20 08:00 vasony Resolved: Ifjúsági sétány</title>
-        <link>https://www.openstreetmap.org/note/4391502#c9620215</link>
-        <guid>https://www.openstreetmap.org/note/4391502#c9620215</guid>
-        <pubDate>Tue, 20 Aug 2024 08:00:37 +0000</pubDate>
-      </item><item>
-        <title>new note 4392991 (near 2089, Szőlőhegy, Telki) / * 2024 August 20 07:57 Created: 45 / #OsmAnd</title>
-        <link>https://www.openstreetmap.org/note/4392991#c9620204</link>
-        <guid>https://www.openstreetmap.org/note/4392991#c9620204</guid>
-        <pubDate>Tue, 20 Aug 2024 07:57:39 +0000</pubDate>
-      </item><item>
-        <title>new note 4392963 (near Anna-vadászház, Telki) / * 2024 August 20 07:45 Created: 12 / #OsmAnd</title>
-        <link>https://www.openstreetmap.org/note/4392963#c9620149</link>
-        <guid>https://www.openstreetmap.org/note/4392963#c9620149</guid>
-        <pubDate>Tue, 20 Aug 2024 07:45:01 +0000</pubDate>
-      </item><item>
-        <title>closed note 4391473 (near 8229, Péterhegy, Csopak) / * 2024 August 19 10:02 vasony Created: Balatoni utca vagy Balaton utca szerepel az utcatáblán? / * 2024 August 20 07:38 vasony Resolved: Balaton utca</title>
-        <link>https://www.openstreetmap.org/note/4391473#c9620114</link>
-        <guid>https://www.openstreetmap.org/note/4391473#c9620114</guid>
-        <pubDate>Tue, 20 Aug 2024 07:38:03 +0000</pubDate>
       </item>
   </channel>
 </rss>
