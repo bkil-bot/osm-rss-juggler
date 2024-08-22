@@ -6,77 +6,77 @@
         <title>Re: Help with network adapter on monitor mode.: ZyXEL NWD6605 (Chipset: Realtek RTL8812AU) Alfa AWUS036NHA (Chipset: Atheros AR9271) TP-LINK TL-WN823N (Chipset: Realtek RTL8192CU) TP-LINK TL-WN822N (Chipset: Realtek RTL8192CU) TP-LINK TL-WN821N (Chipset: Realtek RTL8192CU) TP-Link TL-WN722N: Popular among security testers, supports monitoring mode and packet injection. Compatible with Kali Linux and Windows. TP-Link Archer T4U V3: A dual-band USB WiFi adapter that also supports monitoring mode and packet injection. Known for its compatibility with Kali Linux and Windows systems. TP-Link Archer T9UH: A high-gain dual-band USB WiFi adapter with strong signal reception, supporting monitoring mode and packet injection. Compatible with Kali Linux and Windows1. airmon-ng start wlan0 -ebauerico</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12265#p12265</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12265#p12265</guid>
-        <pubDate>2024-07-26T17:05:47</pubDate>
+        <pubDate>2024-07-26T17:05:47+00:00</pubDate>
       </item><item>
         <title>What do the main categories of encryption types summarize? PSK, CCMP, ...?: Dear wardrivers and project admins, unfortunately I cannot find any documentation on which encryption types make up the main categories. Am I correct in assuming that all subtypes of the corresponding main encryption categories, such as WPA2 (WPA2-TKIP, WPA2-PSK, WPA2-CCMP, ...) are summarized? What about WPA3 transition mode? Is this also counted as WPA3 (-SAE) in the statistics? Is there a way to get a more precise breakdown by explicit encryption types via the API? Thank you for your time -ubrrcjirp</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12026#p12026</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12026#p12026</guid>
-        <pubDate>2024-01-21T11:55:04</pubDate>
+        <pubDate>2024-01-21T11:55:04+00:00</pubDate>
       </item><item>
         <title>Re: Help with network adapter on monitor mode.: Just came across this post.. better late than never NetworkManager will usually interfere with monitor mode. Your description of related services suddenly quitting is a good indication as NetworkManager will revert your adapter settings. This can be avoided by using --&amp;gt; airmon-ng check kill. After killing those interfering process, you can run --&amp;gt; airmon-ng start wlan0 to place the adapter in monitor mode.. if your wireless adapter supports this feature. Try using iwlist in order to explore the capabilities of the adapter. -Stratt3000</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11873#p11873</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11873#p11873</guid>
-        <pubDate>2023-09-22T11:53:06</pubDate>
+        <pubDate>2023-09-22T11:53:06+00:00</pubDate>
       </item><item>
         <title>Re: Help with network adapter on monitor mode.: google search these, it's your fastest way to find out. the answer is NO -toothpaste</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11662#p11662</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11662#p11662</guid>
-        <pubDate>2023-04-27T17:01:01</pubDate>
+        <pubDate>2023-04-27T17:01:01+00:00</pubDate>
       </item><item>
         <title>Re: Help with network adapter on monitor mode.: Years later I'll answer it. Your WiFi adaptor must support monitor mode. Most adaptors built into laptops and devices Do not support Monitor Mode -romanf</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11300#p11300</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11300#p11300</guid>
-        <pubDate>2022-08-03T14:37:56</pubDate>
+        <pubDate>2022-08-03T14:37:56+00:00</pubDate>
       </item><item>
         <title>Re: Detecting Gas Pump Skimmers by Bluetooth signature (Bluetana / SkimPlus): This Android app will specifically scan for skimmers and give you the opportunity to block them. I hate to recommend the app. I paid for the upgrade, the app forgets about it as soon as you leave the page and the Dev has ignored all my attempts to resolve the issue. The app is called Signils Bluetooth Manager and here are some screenshots of it giving you the opportunity to block unrecognized devices. -Tom_Sawyer</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11233#p11233</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11233#p11233</guid>
-        <pubDate>2022-05-01T20:44:47</pubDate>
+        <pubDate>2022-05-01T20:44:47+00:00</pubDate>
       </item><item>
         <title>Re: Detecting Gas Pump Skimmers by Bluetooth signature (Bluetana / SkimPlus): the wigle search links from the first post now bring up a lot more hits (47). The tricky part would now be to cross this with a database from gas stations Searching a bit around it does not look like there is one, but an alternative approach came up! The google maps api can be used to find the closest gas station to a given location. And assuming that gas station owners want to be found, google maps should be pretty up do date. So by searching the distance from the 47 potential skimmers to the closest gas station a list could be made. Then, lets say if the gas station is closer than a certain distance its worth to check it manually. -d2k2</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11178#p11178</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11178#p11178</guid>
-        <pubDate>2022-02-14T19:26:56</pubDate>
+        <pubDate>2022-02-14T19:26:56+00:00</pubDate>
       </item><item>
         <title>Re: Detecting Gas Pump Skimmers by Bluetooth signature (Bluetana / SkimPlus): I would definitely be interested in a program like this. -rage19945@gmail.com</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11176#p11176</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11176#p11176</guid>
-        <pubDate>2022-02-13T16:56:09</pubDate>
+        <pubDate>2022-02-13T16:56:09+00:00</pubDate>
       </item><item>
         <title>Re: Detecting Gas Pump Skimmers by Bluetooth signature (Bluetana / SkimPlus): Are there any updates to this very interesting topic? -BW777</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11152#p11152</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11152#p11152</guid>
-        <pubDate>2022-01-12T00:44:08</pubDate>
+        <pubDate>2022-01-12T00:44:08+00:00</pubDate>
       </item><item>
         <title>Re: SSID Statistics per country: Often requested, but still not implemented - we'll add your vote to the feature queue! -arkasha</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=10909#p10909</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=10909#p10909</guid>
-        <pubDate>2021-06-06T01:40:46</pubDate>
+        <pubDate>2021-06-06T01:40:46+00:00</pubDate>
       </item><item>
         <title>SSID Statistics per country: Hey what's the simple way to get the most popular SSID's in a specific country? like https://wigle.net/stats#ssidstats but for a specific country. TNX! -ssdir</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=10584#p10584</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=10584#p10584</guid>
-        <pubDate>2020-06-14T14:51:18</pubDate>
+        <pubDate>2020-06-14T14:51:18+00:00</pubDate>
       </item><item>
         <title>Re: SSID a9f1bdf1dab1nvt4f4f59: doing a google search of a9f1bdf1dab1nvt4f4f59 shows others trying to solve the same question. as m86 suggests, this is most likely a Wifi enabled NEC projector -afterm4th</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=10509#p10509</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=10509#p10509</guid>
-        <pubDate>2020-03-06T11:08:14</pubDate>
+        <pubDate>2020-03-06T11:08:14+00:00</pubDate>
       </item><item>
         <title>Re: Detecting Gas Pump Skimmers by Bluetooth signature (Bluetana / SkimPlus): I would expect that the Wigle app could be modified to provide an alert when a specific ID is found but the problem is that Wigle can then be used for hunting. -ecramp</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=10436#p10436</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=10436#p10436</guid>
-        <pubDate>2019-12-23T17:43:50</pubDate>
+        <pubDate>2019-12-23T17:43:50+00:00</pubDate>
       </item><item>
         <title>Re: Detecting Gas Pump Skimmers by Bluetooth signature (Bluetana / SkimPlus): this is an *awesome* use of the project - how can we support this?? -arkasha</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=10298#p10298</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=10298#p10298</guid>
-        <pubDate>2019-08-19T17:16:51</pubDate>
+        <pubDate>2019-08-19T17:16:51+00:00</pubDate>
       </item><item>
         <title>Detecting Gas Pump Skimmers by Bluetooth signature (Bluetana / SkimPlus): Hello, take a look at this: https://thehackernews.com/2019/08/credi ... ector.html They use a sequence of steps to see if a bluetooth device is a skimmer inside a ATM / Gas pump. Bluetana paper: http://cseweb.ucsd.edu/~schulman/docs/s ... uetana.pdf Basically they see if the MAC prefix (Section 3.1 on the paper above) of the bluetooth device is fitting a list of known skimmers, then if the name is default. As WiGLE also scans bluetooth, it should be possible to filter out such &quot;strange&quot; devices? (Actually, im wondering why they did not mention WiGLE in their paper) EDIT: some sample searches: HC-05 devices in the US (10 results!) https://api.wigle.net/api/v2/bluetooth/ ... country=US HC-06 devices in the US (2 results) https://api.wigle.net/api/v2/bluetooth/ ... country=US All the results match the given &quot;capabilities&quot; = &quot;Uncategorized&quot; by Bluetana, but the current WiGLE Api does not have a option to give this a search parameter So if this 12 Results would be seen on a map, and they are located at a gas station = win ? -d2k2</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=10293#p10293</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=10293#p10293</guid>
-        <pubDate>2019-08-18T08:12:50</pubDate>
+        <pubDate>2019-08-18T08:12:50+00:00</pubDate>
       </item>
   </channel>
 </rss>

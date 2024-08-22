@@ -6,77 +6,77 @@
         <title>Re: Raspberry Pi for drone and car: I might make a Python script. Right now i can only test it with a rpi 3b+ and 5 (rpi4 will probably work too). It should be pretty easy as the csv format is simple as described here: [url]https://api.wigle.net/csvFormat.html/url] and it could be uploaded via api. So stay tuned -Laqua</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12257#p12257</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12257#p12257</guid>
-        <pubDate>2024-07-22T17:40:52</pubDate>
+        <pubDate>2024-07-22T17:40:52+00:00</pubDate>
       </item><item>
         <title>Re: Kismet files for upload: only the WiGLE .csv file can or should be uploaded. The .kismet file contains additional information we can't use and don't want (for privacy and safety reasons) -arkasha</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12214#p12214</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12214#p12214</guid>
-        <pubDate>2024-05-24T15:14:56</pubDate>
+        <pubDate>2024-05-24T15:14:56+00:00</pubDate>
       </item><item>
         <title>Kismet files for upload: In the 'wardriving' mode of Kismet, it generates 2 files. A .kismet and .wiglecsv Last drive the .kismet file was 195.5MB and the .wiglecsv was 8.5MB. The .kismet file doesn't seem to want to upload, but do I need to? Or is the .wiglecsv file all that's needed? -clickwir</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12213#p12213</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12213#p12213</guid>
-        <pubDate>2024-05-23T14:00:51</pubDate>
+        <pubDate>2024-05-23T14:00:51+00:00</pubDate>
       </item><item>
         <title>Re: WarFlying: Hopping in to re-invigorate a newly necro'd thread, but just today I started putting together the bag of parts to go warflying with a small fixed wing drone, hauling not much more than a Pi Zero W, GPS, and a LoRa link. If I get anywhere at all, I'll be improving the antenna later. -brockhold</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12161#p12161</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12161#p12161</guid>
-        <pubDate>2024-03-26T23:29:48</pubDate>
+        <pubDate>2024-03-26T23:29:48+00:00</pubDate>
       </item><item>
         <title>Re: Kismet drone on wireless router? (e.g. Linksys WRT54GL): I built one 10+ years ago. Recently found that digital signage PCs are more suitable. I've rescued three Giada VM23 boxes from the e-waste. Add a cheap USB GPS and you are good as bluetooth and wifi is built in. Three additional USB ports for more wifi adapters. Runs of 12v with a barrel plug. Easy to make a cigarette power plug adapter. I see many go for about $20. Many was sold with only 1 year Windows 10 IOT, so quickly EOL. Kali runs well on it, even with three radios, two gps and graphical user interface.It's impressive how you repurposed older hardware effectively for digital signage. The Giada VM23 boxes, coupled with USB GPS and additional WiFi adapters, offer versatile functionality. Kali Linux's compatibility breathes new life into these devices, extending their utility beyond their original scope. -Sunnyle</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12143#p12143</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12143#p12143</guid>
-        <pubDate>2024-03-19T20:23:37</pubDate>
+        <pubDate>2024-03-19T20:23:37+00:00</pubDate>
       </item><item>
         <title>Re: Supports WPS: you can click (as a logged in user), or you can use the Basic and Advanced search functionality to get al the information regarding the point. WPS will be listed in the capabilities, which aren't part of the site rendering - check out the API for more details. -arkasha</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12112#p12112</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12112#p12112</guid>
-        <pubDate>2024-03-04T16:57:44</pubDate>
+        <pubDate>2024-03-04T16:57:44+00:00</pubDate>
       </item><item>
         <title>Supports WPS: As I'm a noob to this, despite appearances, I'm not deliberately trying to be stupid but . . . . On the map, it is possible to zoom in on a particular SSID and get more info on it such as whether it supports WPS? If I can't get that info by zooming in, then how else can I get it - without going to that physical address in person? -Rouregre</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12107#p12107</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12107#p12107</guid>
-        <pubDate>2024-03-04T06:25:59</pubDate>
+        <pubDate>2024-03-04T06:25:59+00:00</pubDate>
       </item><item>
         <title>Re: WarFlying: Almost 10 years later and I have been giving it another try again though this time with the more stable platform of a delta wing kite. I used one of those smartphone clips to clamp it to the back of the center of the wing on the underside and near the keel to try and keep it as balanced as possible still. I'm using the Prism Zenith 7 for it's extreme portability when packed I just added a third party winder to it that has a longer 600 foot dyneema line and a nylon strap on the outside with carabiner to make tethering down easier and more convenient. Taking inspiration from what DNR1 said and someone else doing the same but targeting commercial areas I'm tempted to do the same once the winds are a little less extreme. For now I just did a couple afternoon monitoring sessions in an empty field with clear view of the freeway to log and mobile hotspots and all the bluetooth traveler devices that are passing through town. -Wolfess</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12105#p12105</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12105#p12105</guid>
-        <pubDate>2024-03-02T21:03:54</pubDate>
+        <pubDate>2024-03-02T21:03:54+00:00</pubDate>
       </item><item>
         <title>Re: Huawei P20 Android 10: updating the FAQ with your find! the Huawei/Redmi users thank you! (now, if we could just figure out what they've done to maps) -arkasha</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12098#p12098</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12098#p12098</guid>
-        <pubDate>2024-02-29T18:27:18</pubDate>
+        <pubDate>2024-02-29T18:27:18+00:00</pubDate>
       </item><item>
         <title>Re: Huawei P20 Android 10: I noticed on the App FAQAnrdoid 10 + Hauwei - Throttle switch not available: Huawei has removed this developer option; no known work-around at present.Seems I found it. -BaKeH</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12094#p12094</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12094#p12094</guid>
-        <pubDate>2024-02-29T03:08:26</pubDate>
+        <pubDate>2024-02-29T03:08:26+00:00</pubDate>
       </item><item>
         <title>Re: Huawei P20 Android 10: So I have two P20 pro devices. I settled on the idea I couldn't fix the missing setting for the WIFI scan throttle, till I realised one of my devices wasn't throttling, while the other was. So I used ADB to read the settings, like this: Code: adb shell settings get global wifi_scan_throttle_enabledI found the device that was scanning fine returned null, while the device that was throttling was returning 0. so I used Code: adb shell settings delete global wifi_scan_throttle_enabled read the variable, it was null, tested it, and it was no longer throttling! Just thought I'd share this just in case anyone else used this adb command and found it was still not working, being I noticed EVERYONE tells you to set it to 0. (not that this makes a huge amount of sense as to why it would read 0 as a positive, a random Huawei thing I guess.) -BaKeH</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12093#p12093</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12093#p12093</guid>
-        <pubDate>2024-02-29T02:19:16</pubDate>
+        <pubDate>2024-02-29T02:19:16+00:00</pubDate>
       </item><item>
         <title>Re: Soft for collecting full beacon frames: check out kismet (https://www.kismetwireless.net/) They're pretty darn good at that.Yes, this is what I need, it remains only to master that and screw the hardware)) -wauzzz</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12010#p12010</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12010#p12010</guid>
-        <pubDate>2024-01-13T16:50:26</pubDate>
+        <pubDate>2024-01-13T16:50:26+00:00</pubDate>
       </item><item>
         <title>Re: Soft for collecting full beacon frames: check out kismet (https://www.kismetwireless.net/) They're pretty darn good at that. -arkasha</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12007#p12007</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12007#p12007</guid>
-        <pubDate>2024-01-12T16:01:16</pubDate>
+        <pubDate>2024-01-12T16:01:16+00:00</pubDate>
       </item><item>
         <title>Soft for collecting full beacon frames: is there a software that collects complete beacon frames as seen by wireshark on wifi card at monitor mode only with geodata also? -wauzzz</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12006#p12006</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12006#p12006</guid>
-        <pubDate>2024-01-12T11:28:18</pubDate>
+        <pubDate>2024-01-12T11:28:18+00:00</pubDate>
       </item><item>
         <title>Re: Master list of WiFi AuthMODES?: Yep AuthMode is the thing! Working on the AtomGPS with Luke and trying to homogenize various approaches and naming. Will take a closer look at your info, thanks! -pejacoby</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=11992#p11992</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=11992#p11992</guid>
-        <pubDate>2024-01-02T03:20:39</pubDate>
+        <pubDate>2024-01-02T03:20:39+00:00</pubDate>
       </item>
   </channel>
 </rss>
