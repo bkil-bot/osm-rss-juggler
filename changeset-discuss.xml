@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Hello! Welcome to OpenStreetMap! If you can't speak Hungarian reply, and I will translate this to English. Szia! Üdv az OpenStreetMapen! Bezárt éttermeknél, üzleteknél a disused: prefix használata ajánlott a pont törlése helyett. https://wiki.openstreetmap.org/wiki/Key:disused:* Tehát elég lett volna, ha csak az amenity=fast_food címkét átjavítod disused:amenity=fast_food-ra, így már nem jelenítik meg a megjelenítők. Ez azért is hasznos, mert ha később más üzlet vagy étterem nyílik ugyanott, akkor nem kell új pontot létrehozni, és visszakövethető lesz az üzlethelyiség története, mi nyílt minek a helyén. Every Door-ban is van erre egy gomb &quot;Make Defunct&quot;. Üres üzleteknél inkább ezt használd inkább. Ráadásul disused: üzleteket is töröltél, ez azt jelentené, hogy az üzletet, vagy a házat lebontották, nincs is már nyoma se. Legközelebb eszerint járj el kérlek. Ezt javítom, a törölt elemeket visszaállítom. Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! Date: 2024-08-22T21:17:31+02:00</title>
+        <title>Contributor: tragopan Discussion Comment No.: 2 Comment: Koszonom! Date: 2024-08-23T07:57:07+02:00</title>
         <link>https://www.openstreetmap.org/changeset/155494277</link>
-        <guid>https://www.openstreetmap.org/changeset/155494277#comment_1</guid>
-        <pubDate>2024-08-22T21:17:31+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/155494277#comment_2</guid>
+        <pubDate>2024-08-23T07:57:07+02:00</pubDate>
       </item><item>
         <title>Contributor: ITineris Discussion Comment No.: 1 Comment: Szia! A buszmegállón kint levő, ősrégi iránymutató táblák alapján: Nem a Sárvíz-tó régi neve az Olimpia (&quot;Strand, Jetsky&quot; [sic]), és ami most az OSM-en Olimpia, az a Moby Dick-tó (&quot;Horgászparadicsom, Paradies für Angler&quot;)? Date: 2024-08-21T17:11:05+02:00</title>
         <link>https://www.openstreetmap.org/changeset/65142639</link>
