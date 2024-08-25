@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment 4372082 (near 9970, Zsida, Szentgotthárd) / * 2024 August 7 21:05 GBAB Created: water=pond / * 2024 August 25 16:06 ITineris Updated: Már felmértem RTK-val, de a berajzolással még nem jutottam el idáig.</title>
+        <link>https://www.openstreetmap.org/note/4372082#c9641156</link>
+        <guid>https://www.openstreetmap.org/note/4372082#c9641156</guid>
+        <pubDate>Sun, 25 Aug 2024 16:06:00 +0000</pubDate>
+      </item><item>
+        <title>closed note 3721406 (near Rheinmetall Hungary Zrt., Zalaegerszeg) / * 2023 June 5 11:15 Created: A beruházás befejeződött, az üzem már gyárt, a barna háttér szürkére cserélendő. / * 2023 August 17 09:47 sfphoton Updated: Megoldottam, de az épületet még fel kell térképezni. / * 2024 August 25 16:04 ITineris Resolved: Berajzoltam, a mellette menő szervizúttal együtt.</title>
+        <link>https://www.openstreetmap.org/note/3721406#c9641146</link>
+        <guid>https://www.openstreetmap.org/note/3721406#c9641146</guid>
+        <pubDate>Sun, 25 Aug 2024 16:04:21 +0000</pubDate>
+      </item><item>
+        <title>closed note 2655980 (near 9814, Külsőhalastó, Halastó) / * 2021 May 5 15:12 vasony-qa Created: Melyik közterület a Csarit utca? Illetve melyik ház a Csarit utca 1? / Most 2 házon is szerepel ez a cím / * 2024 August 25 15:44 ITineris Resolved: Megnéztem, megkérdeztem, javítottam.</title>
+        <link>https://www.openstreetmap.org/note/2655980#c9641091</link>
+        <guid>https://www.openstreetmap.org/note/2655980#c9641091</guid>
+        <pubDate>Sun, 25 Aug 2024 15:44:30 +0000</pubDate>
+      </item><item>
         <title>closed note 4401471 (near 6600, Szentes) / * 2024 August 25 13:35 bkil Resolved: Javítva https://osm.org/changeset/155737556#map=16/46.65772/20.26642</title>
         <link>https://www.openstreetmap.org/note/4401471#c9640508</link>
         <guid>https://www.openstreetmap.org/note/4401471#c9640508</guid>
@@ -177,26 +192,6 @@
         <link>https://www.openstreetmap.org/note/4362097#c9635506</link>
         <guid>https://www.openstreetmap.org/note/4362097#c9635506</guid>
         <pubDate>Sat, 24 Aug 2024 05:42:26 +0000</pubDate>
-      </item><item>
-        <title>reactivated note 4362097 (near 1039, Csillaghegy, 3rd district) / * 2024 August 1 16:39 utvonalfelmeresek Created: kameradoboz / via StreetComplete 58.2 / Attached photo(s): / https://westnordost.de/p/229274.jpg / * 2024 August 23 15:08 infeeeee Resolved: SzilSzab már felvitte: https://www.osm.org/changeset/154580369 / Ezt azóta leszerelték Mapillary szerint, törlöm: https://www.osm.org/node/6061300380 / * 2024 August 24 05:40 utvonalfelmeresek Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/4362097#c9635504</link>
-        <guid>https://www.openstreetmap.org/note/4362097#c9635504</guid>
-        <pubDate>Sat, 24 Aug 2024 05:40:15 +0000</pubDate>
-      </item><item>
-        <title>new comment 3473281 (near 8646, Balatonfenyves) / * 2022 December 10 17:49 vasony Created: Itt új épületek és utcák épülnek, femérendő. / Vincellér utca, Présház utca / * 2024 August 24 00:28 JueBo42 Updated: added Vincellér utca and Présház utca</title>
-        <link>https://www.openstreetmap.org/note/3473281#c9635149</link>
-        <guid>https://www.openstreetmap.org/note/3473281#c9635149</guid>
-        <pubDate>Sat, 24 Aug 2024 00:28:18 +0000</pubDate>
-      </item><item>
-        <title>closed note 3832295 (near 3525, Bábonyibérc, Miskolc) / * 2023 August 14 04:03 meskobalazs Created: Két épület, a keleti fele a BOKIK-é, és másik utca / via StreetComplete 53.3 / * 2024 August 23 20:44 infeeeee Resolved: https://www.openstreetmap.org/changeset/155671948</title>
-        <link>https://www.openstreetmap.org/note/3832295#c9634506</link>
-        <guid>https://www.openstreetmap.org/note/3832295#c9634506</guid>
-        <pubDate>Fri, 23 Aug 2024 20:44:38 +0000</pubDate>
-      </item><item>
-        <title>closed note 4116580 (near 3535, Majláth, Miskolc) / * 2024 February 17 12:52 meskobalazs Created: Sikátor / via StreetComplete 56.1 / Attached photo(s): / https://westnordost.de/p/196518.jpg / * 2024 August 23 20:44 infeeeee Resolved: https://www.openstreetmap.org/changeset/155671948</title>
-        <link>https://www.openstreetmap.org/note/4116580#c9634505</link>
-        <guid>https://www.openstreetmap.org/note/4116580#c9634505</guid>
-        <pubDate>Fri, 23 Aug 2024 20:44:28 +0000</pubDate>
       </item>
   </channel>
 </rss>
