@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4362097 (near 1039, Csillaghegy, 3rd district) / * 2024 August 1 16:39 utvonalfelmeresek Created: kameradoboz / via StreetComplete 58.2 / Attached photo(s): / https://westnordost.de/p/229274.jpg / * 2024 August 23 15:08 infeeeee Resolved: SzilSzab már felvitte: https://www.osm.org/changeset/154580369 / Ezt azóta leszerelték Mapillary szerint, törlöm: https://www.osm.org/node/6061300380 / * 2024 August 24 05:40 utvonalfelmeresek Reactivated:  / * 2024 August 24 05:42 utvonalfelmeresek Updated: Melyik mapillary fotó alapján látod, hogy leszerelték? / Csak pár hete tették ki, miért szerelték volna le? / * 2024 August 24 06:54 infeeeee Updated: 3 kamera volt jelölve a kereszteződésben, amit töröltem azmár 6 éve ott volt, kicsit odébb: https://osmlab.github.io/osm-deep-history/#/node/6061300380 / Szerintem most jó minden. / * 2024 August 24 07:33 utvonalfelmeresek Updated: Most 2 kamera van jelölve a lámpákban, holott 1 kamera doboz van középen. / Ezt lehet másképpen kéne jelölni! / * 2024 August 24 07:46 infeeeee Updated: Nem a lámpában van jelölve, külön pontja van a lámpának és a mérőnek is mindkét irányban. / Ezt máshol is így jelölték korábban, ahol egy doboz van, de elvileg bármikor elfordíthatják, hogy a másik irányba mérjen, pl ez a kettő: https://www.osm.org/node/5538681281 https://www.osm.org/node/1828622746 / Wiki azt mondja, hogy ezt átalakíthatod relációvá: https://wiki.openstreetmap.org/wiki/Relation:enforcement / Lehet másképp jelölni, de ez az egyszerűbb, és a végeredmény ugyanaz lesz. Abból se problémázik senki, hogy a sebességkorlátozást az úton jelöljük, nem a fizikai helyén ahol a tábla van, itt ez miért probléma. / * 2024 August 24 11:19 utvonalfelmeresek Updated: Ha jó így, akkor rendben, csak felmerült bennem a kérdés, hogy nem találom a doboz helyét a térképen. / * 2024 August 25 12:33 infeeeee Resolved: </title>
+        <link>https://www.openstreetmap.org/note/4362097#c9640302</link>
+        <guid>https://www.openstreetmap.org/note/4362097#c9640302</guid>
+        <pubDate>Sun, 25 Aug 2024 12:33:05 +0000</pubDate>
+      </item><item>
         <title>closed note 4398004 (near Endremajor, Kiskunfélegyháza) / * 2024 August 23 09:13 Created: Harmadik / * 2024 August 25 10:05 gabro00 Resolved: </title>
         <link>https://www.openstreetmap.org/note/4398004#c9639827</link>
         <guid>https://www.openstreetmap.org/note/4398004#c9639827</guid>
@@ -187,96 +192,6 @@
         <link>https://www.openstreetmap.org/note/4116580#c9634505</link>
         <guid>https://www.openstreetmap.org/note/4116580#c9634505</guid>
         <pubDate>Fri, 23 Aug 2024 20:44:28 +0000</pubDate>
-      </item><item>
-        <title>closed note 3686794 (near 2013, Messelia, Pomáz) / * 2024 August 23 17:17 vasony Resolved: Akkor ezzel nincs teendő.</title>
-        <link>https://www.openstreetmap.org/note/3686794#c9633948</link>
-        <guid>https://www.openstreetmap.org/note/3686794#c9633948</guid>
-        <pubDate>Fri, 23 Aug 2024 17:17:00 +0000</pubDate>
-      </item><item>
-        <title>new comment 3686794 (near 2013, Messelia, Pomáz) / * 2023 May 13 06:11 vasony Created: Bajcsy-Zsilinszky utca vagy Bajcsy-Zsilinszky Endre utca szerepe az utcatáblán? / * 2024 August 23 17:07 memeboi69 Updated: Bajcsy-Zsilinszky utca / Attached photo(s): / https://westnordost.de/p/234952.jpg</title>
-        <link>https://www.openstreetmap.org/note/3686794#c9633916</link>
-        <guid>https://www.openstreetmap.org/note/3686794#c9633916</guid>
-        <pubDate>Fri, 23 Aug 2024 17:07:45 +0000</pubDate>
-      </item><item>
-        <title>closed note 4207667 (near 5700, Gyula) / * 2024 August 23 17:07 vasony Resolved: Látom felvitted, akkor ez a jegyzet zárható.</title>
-        <link>https://www.openstreetmap.org/note/4207667#c9633914</link>
-        <guid>https://www.openstreetmap.org/note/4207667#c9633914</guid>
-        <pubDate>Fri, 23 Aug 2024 17:07:24 +0000</pubDate>
-      </item><item>
-        <title>closed note 4351691 (near 1107, Gyárdűlő, 10th district) / * 2024 July 26 09:10 Created: This Nemzeti dohánybolt is no longer here. / * 2024 August 23 17:04 infeeeee Resolved: https://www.osm.org/changeset/155663568</title>
-        <link>https://www.openstreetmap.org/note/4351691#c9633901</link>
-        <guid>https://www.openstreetmap.org/note/4351691#c9633901</guid>
-        <pubDate>Fri, 23 Aug 2024 17:04:09 +0000</pubDate>
-      </item><item>
-        <title>closed note 4370088 (near 1075, Erzsébetváros, 7th district) / * 2024 August 6 15:47 Created: Moto Pizza végleg bezárt / * 2024 August 23 17:03 infeeeee Resolved: https://www.osm.org/changeset/155663568</title>
-        <link>https://www.openstreetmap.org/note/4370088#c9633898</link>
-        <guid>https://www.openstreetmap.org/note/4370088#c9633898</guid>
-        <pubDate>Fri, 23 Aug 2024 17:03:48 +0000</pubDate>
-      </item><item>
-        <title>closed note 4351707 (near 1107, Gyárdűlő, 10th district) / * 2024 July 26 09:19 Created: Az épület felülről tekintve nem így néz ki. / A terület Dél-keleti oldalán található a Kőbányai Gézengúz óvoda, az Északnyugati épület pedig egy DOWN alapítvány. / * 2024 August 23 17:03 infeeeee Resolved: https://www.osm.org/changeset/155663568</title>
-        <link>https://www.openstreetmap.org/note/4351707#c9633897</link>
-        <guid>https://www.openstreetmap.org/note/4351707#c9633897</guid>
-        <pubDate>Fri, 23 Aug 2024 17:03:28 +0000</pubDate>
-      </item><item>
-        <title>closed note 4351694 (near 1098, József Attila-lakótelep, 9th district) / * 2024 July 26 09:12 Created: There should be an OTP automata here / * 2024 August 23 17:03 infeeeee Resolved: https://www.osm.org/changeset/155663568</title>
-        <link>https://www.openstreetmap.org/note/4351694#c9633896</link>
-        <guid>https://www.openstreetmap.org/note/4351694#c9633896</guid>
-        <pubDate>Fri, 23 Aug 2024 17:03:22 +0000</pubDate>
-      </item><item>
-        <title>closed note 4398164 (near 1086, 8th district) / * 2024 August 23 17:03 infeeeee Resolved: https://www.osm.org/changeset/155663568</title>
-        <link>https://www.openstreetmap.org/note/4398164#c9633894</link>
-        <guid>https://www.openstreetmap.org/note/4398164#c9633894</guid>
-        <pubDate>Fri, 23 Aug 2024 17:03:04 +0000</pubDate>
-      </item><item>
-        <title>closed note 4398248 (near 1061, Terézváros, 6th district) / * 2024 August 23 17:02 infeeeee Resolved: https://www.osm.org/changeset/155663568</title>
-        <link>https://www.openstreetmap.org/note/4398248#c9633892</link>
-        <guid>https://www.openstreetmap.org/note/4398248#c9633892</guid>
-        <pubDate>Fri, 23 Aug 2024 17:02:46 +0000</pubDate>
-      </item><item>
-        <title>new comment 4307331 (near 1089, Tisztviselőtelep, 8th district) / * 2024 June 25 11:54 Created: Mérőpont / * 2024 August 20 19:24 Kecsege Updated: Mit mér? / * 2024 August 23 16:11 infeeeee Updated: 4-et is lerakott az Orczy park köré. Válaszolni nem fog, nekem személyes jegyzetnek tűnik, szerintem zárjuk mind a 4-et</title>
-        <link>https://www.openstreetmap.org/note/4307331#c9633709</link>
-        <guid>https://www.openstreetmap.org/note/4307331#c9633709</guid>
-        <pubDate>Fri, 23 Aug 2024 16:11:47 +0000</pubDate>
-      </item><item>
-        <title>closed note 4132828 (near 3526, Szentpéteri kapu, Miskolc) / * 2024 February 29 14:00 meskobalazs Created: Unable to answer &amp;quot;What’s the surface here?&amp;quot; – Foot Path – https://osm.org/way/717875925 via StreetComplete 56.1: / Nem létezik / Attached photo(s): / https://westnordost.de/p/198021.jpg / * 2024 August 23 15:33 infeeeee Resolved: Kaput látom a bal oldalon a képen, a járda nincs külön rajzolva, ebben az esetben ezt így kell jelölni.</title>
-        <link>https://www.openstreetmap.org/note/4132828#c9633562</link>
-        <guid>https://www.openstreetmap.org/note/4132828#c9633562</guid>
-        <pubDate>Fri, 23 Aug 2024 15:33:34 +0000</pubDate>
-      </item><item>
-        <title>closed note 4263766 (near 1039, Csillaghegy, 3rd district) / * 2024 May 25 09:08 utvonalfelmeresek Created: bejárat a batthyany felől / via StreetComplete 57.3 / Attached photo(s): / https://westnordost.de/p/214761.jpg / * 2024 August 23 15:17 infeeeee Resolved: Kész: https://www.openstreetmap.org/changeset/155658756</title>
-        <link>https://www.openstreetmap.org/note/4263766#c9633508</link>
-        <guid>https://www.openstreetmap.org/note/4263766#c9633508</guid>
-        <pubDate>Fri, 23 Aug 2024 15:17:30 +0000</pubDate>
-      </item><item>
-        <title>closed note 4114744 (near 1039, Csillaghegy, 3rd district) / * 2024 February 15 21:43 Kecsege Created: Ezen a környéken biztos jó a házszámozás? Pl.: ez a medence bolt a weboldala szerint más házszámon van, de a helyszín stimmel. / * 2024 August 23 15:17 infeeeee Resolved: Két házszáma is van a teleknek, megcseréltem, hogy melyik legyen a fő: https://www.openstreetmap.org/changeset/155658756</title>
-        <link>https://www.openstreetmap.org/note/4114744#c9633507</link>
-        <guid>https://www.openstreetmap.org/note/4114744#c9633507</guid>
-        <pubDate>Fri, 23 Aug 2024 15:17:21 +0000</pubDate>
-      </item><item>
-        <title>closed note 4362097 (near 1039, Csillaghegy, 3rd district) / * 2024 August 1 16:39 utvonalfelmeresek Created: kameradoboz / via StreetComplete 58.2 / Attached photo(s): / https://westnordost.de/p/229274.jpg / * 2024 August 23 15:08 infeeeee Resolved: SzilSzab már felvitte: https://www.osm.org/changeset/154580369 / Ezt azóta leszerelték Mapillary szerint, törlöm: https://www.osm.org/node/6061300380</title>
-        <link>https://www.openstreetmap.org/note/4362097#c9633464</link>
-        <guid>https://www.openstreetmap.org/note/4362097#c9633464</guid>
-        <pubDate>Fri, 23 Aug 2024 15:08:00 +0000</pubDate>
-      </item><item>
-        <title>new comment 4207667 (near 5700, Gyula) / * 2024 April 21 04:49 vasony Created: Ez az Álmos vezér utca? / * 2024 August 23 15:00 reedcourty Updated: Bárdos elején tábla szerint igen / Attached photo(s): / https://westnordost.de/p/234911.jpg</title>
-        <link>https://www.openstreetmap.org/note/4207667#c9633416</link>
-        <guid>https://www.openstreetmap.org/note/4207667#c9633416</guid>
-        <pubDate>Fri, 23 Aug 2024 15:00:56 +0000</pubDate>
-      </item><item>
-        <title>new note 4398248 (near 1061, Terézváros, 6th district) / * 2024 August 23 12:05 ScooterScotty Created: &amp;quot;Made by accident&amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2024-07-23T19:32:09Z / POI name: Bonbonier Chocolate / POI types: shop-confectionery / #organicmaps android</title>
-        <link>https://www.openstreetmap.org/note/4398248#c9632627</link>
-        <guid>https://www.openstreetmap.org/note/4398248#c9632627</guid>
-        <pubDate>Fri, 23 Aug 2024 12:05:58 +0000</pubDate>
-      </item><item>
-        <title>new note 4398169 (near 1086, 8th district) / * 2024 August 23 10:55 Created: Valahova a Dankó udvarba kihelyeztek okosasztalt. Ingyenes Wifi, 4 usb töltő, indukciós töltő: / https://jozsefvaros.hu/otthon/hirdetotabla/hirek/2024/08/kihelyeztuk-az-elso-jozsefvarosi-kozteri-okosbutort-napelemes-okosasztal-a-danko-udvarban/</title>
-        <link>https://www.openstreetmap.org/note/4398169#c9632438</link>
-        <guid>https://www.openstreetmap.org/note/4398169#c9632438</guid>
-        <pubDate>Fri, 23 Aug 2024 10:55:28 +0000</pubDate>
-      </item><item>
-        <title>new note 4398164 (near 1086, 8th district) / * 2024 August 23 10:51 Created: Ez itt a Dankó udvar: / https://www.dankoudvar.hu/</title>
-        <link>https://www.openstreetmap.org/note/4398164#c9632427</link>
-        <guid>https://www.openstreetmap.org/note/4398164#c9632427</guid>
-        <pubDate>Fri, 23 Aug 2024 10:51:56 +0000</pubDate>
       </item>
   </channel>
 </rss>
