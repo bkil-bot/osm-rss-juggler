@@ -3,25 +3,25 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: NightH Discussion Comment No.: 2 Comment: Továbbá korábban helyes _link highway-eket állítottál át helytelen értékekre. Ez már rövid időn belül a második olyan (egyébként nagyon nagy területű) changeset-ed, ahol korábban kijavított hibákat hoztál vissza az adatbázisba. Kérlek ne írd át a highway tag-eket, besorolásokat anélkül, hogy 100%-ig biztos lennél a dolgodban. Date: 2024-08-25T19:18:04+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/155454186</link>
+        <guid>https://www.openstreetmap.org/changeset/155454186#comment_2</guid>
+        <pubDate>2024-08-25T19:18:04+02:00</pubDate>
+      </item><item>
+        <title>Contributor: vasony Discussion Comment No.: 4 Comment: Szia! Itt alapvetően akkor, az volt a gond, hogy a házat és a házszámát törölted nem a tevékenységet. Most akkor a ház vissza lett állítva, a tevékenység nem látszik már, mindenki boldog. Tamás Date: 2024-08-25T18:51:51+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/155214207</link>
+        <guid>https://www.openstreetmap.org/changeset/155214207#comment_4</guid>
+        <pubDate>2024-08-25T18:51:51+02:00</pubDate>
+      </item><item>
         <title>Contributor: ssummoner1 Discussion Comment No.: 1 Comment: Ohhh ezt már én is akartam. Teljesen elfelejtkeztem róla. Köszi! Date: 2024-08-25T17:49:06+02:00</title>
         <link>https://www.openstreetmap.org/changeset/155744648</link>
         <guid>https://www.openstreetmap.org/changeset/155744648#comment_1</guid>
         <pubDate>2024-08-25T17:49:06+02:00</pubDate>
       </item><item>
-        <title>Contributor: bkil Discussion Comment No.: 3 Comment: A következőre kérünk figyelni a jövőben: https://wiki.osm.org/wiki/Hungary/Fontos_szempontok#Life_cycle_prefix Visszavontam és átírtam lifecycle prefix használatára: https://osm.org/changeset/155737900#map=19/46.231296/17.614370 Date: 2024-08-25T13:43:51+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/155214207</link>
-        <guid>https://www.openstreetmap.org/changeset/155214207#comment_3</guid>
-        <pubDate>2024-08-25T13:43:51+02:00</pubDate>
-      </item><item>
         <title>Contributor: gymate Discussion Comment No.: 2 Comment: Bocsánat, és köszi a javítást! Ezt nem tudtam. (Kapcsolódó linkek magamnak: https://net.jogtar.hu/rendelet?council=fovaros&amp;docid=A1200094.FOV&amp;celpara=21&amp;timeshift=20230307&amp;goto=97 https://helyesiras.mta.hu/helyesiras/default/akh12#292 ) Date: 2024-08-24T12:54:49+02:00</title>
         <link>https://www.openstreetmap.org/changeset/155391140</link>
         <guid>https://www.openstreetmap.org/changeset/155391140#comment_2</guid>
         <pubDate>2024-08-24T12:54:49+02:00</pubDate>
-      </item><item>
-        <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szia! Nem túl szerencsés hogy ekkora changesetet csináltál, mert a leírásod alapján az utak átminősítését nem emíted. A konkért kérdésem, hogy mi alapján minősítetted át Budaörs, Bretzfeld és Sport utcákat tertiaryról secondaryre, mert forrást nem adtál meg. Tamás Date: 2024-08-24T07:47:18+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/155454186</link>
-        <guid>https://www.openstreetmap.org/changeset/155454186#comment_1</guid>
-        <pubDate>2024-08-24T07:47:18+02:00</pubDate>
       </item><item>
         <title>Contributor: vasony Discussion Comment No.: 1 Comment: Please provide street name for house number 12 of nng building if not Szépvölgyi út 35-37 otherwise merge existing address point. Date: 2024-08-24T06:02:32+02:00</title>
         <link>https://www.openstreetmap.org/changeset/155290272</link>
