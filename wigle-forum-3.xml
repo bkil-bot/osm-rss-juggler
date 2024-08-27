@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>USB C antenna for phones: Hi, I’m happy to contribute to this project, but only with my phone in my pocket. Does anyone knows of a USB C wifi antenna compatible with android? 15-20€ would be a nice price range. Thanks! -Thor3333</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=12285#p12285</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=12285#p12285</guid>
+        <pubDate>2024-08-27T14:55:43+00:00</pubDate>
+      </item><item>
         <title>Re: Raspberry Pi for drone and car: I might make a Python script. Right now i can only test it with a rpi 3b+ and 5 (rpi4 will probably work too). It should be pretty easy as the csv format is simple as described here: [url]https://api.wigle.net/csvFormat.html/url] and it could be uploaded via api. So stay tuned -Laqua</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12257#p12257</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12257#p12257</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=12006#p12006</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12006#p12006</guid>
         <pubDate>2024-01-12T11:28:18+00:00</pubDate>
-      </item><item>
-        <title>Re: Master list of WiFi AuthMODES?: Yep AuthMode is the thing! Working on the AtomGPS with Luke and trying to homogenize various approaches and naming. Will take a closer look at your info, thanks! -pejacoby</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=11992#p11992</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=11992#p11992</guid>
-        <pubDate>2024-01-02T03:20:39+00:00</pubDate>
       </item>
   </channel>
 </rss>
