@@ -3,6 +3,16 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: USB C antenna for phones: Thanks for the answer. I was searching for something simple and effective. Rooting my phone is not what i had in mind I will continue having it in my pocket then! -Thor3333</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=12289#p12289</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=12289#p12289</guid>
+        <pubDate>2024-08-27T15:29:20+00:00</pubDate>
+      </item><item>
+        <title>Re: USB C antenna for phones: It's not possible to attach an external antenna to most (all?) phone WiFi chips, nor is it necessary or advisable for stumbling. Most of us just use our phones in our pockets/backpacks/running armbands. If you're talking about external radios, it's possible to do this, but requires rooting your phone and installing an OS that allows you to use the USB OTG connector to act as host for that device - again, not necessary or advisable unless your phone is supported by one of those OSes and you don't really care to use it as a phone any longer. -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=12287#p12287</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=12287#p12287</guid>
+        <pubDate>2024-08-27T15:22:34+00:00</pubDate>
+      </item><item>
         <title>USB C antenna for phones: Hi, I’m happy to contribute to this project, but only with my phone in my pocket. Does anyone knows of a USB C wifi antenna compatible with android? 15-20€ would be a nice price range. Thanks! -Thor3333</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12285#p12285</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12285#p12285</guid>
@@ -67,16 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=12010#p12010</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12010#p12010</guid>
         <pubDate>2024-01-13T16:50:26+00:00</pubDate>
-      </item><item>
-        <title>Re: Soft for collecting full beacon frames: check out kismet (https://www.kismetwireless.net/) They're pretty darn good at that. -arkasha</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=12007#p12007</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=12007#p12007</guid>
-        <pubDate>2024-01-12T16:01:16+00:00</pubDate>
-      </item><item>
-        <title>Soft for collecting full beacon frames: is there a software that collects complete beacon frames as seen by wireshark on wifi card at monitor mode only with geodata also? -wauzzz</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=12006#p12006</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=12006#p12006</guid>
-        <pubDate>2024-01-12T11:28:18+00:00</pubDate>
       </item>
   </channel>
 </rss>
