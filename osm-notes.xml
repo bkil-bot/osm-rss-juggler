@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4389396 (near 1038, Csillaghegy, 3rd district) / * 2024 August 18 10:04 Kecsege Created: Helyes itt a 315 házszám? A másik oldalt van a páratlan oldal, illetve az ide jelzett iroda más címen van jelölve. (Más utcanév, házszám) / * 2024 August 30 00:12 gymate Resolved: Valóban nem helyes. Javítottam.</title>
+        <link>https://www.openstreetmap.org/note/4389396#c9658926</link>
+        <guid>https://www.openstreetmap.org/note/4389396#c9658926</guid>
+        <pubDate>Fri, 30 Aug 2024 00:12:24 +0000</pubDate>
+      </item><item>
         <title>closed note 3670186 (near Csalogánytanya, Törökbálint) / * 2023 May 2 06:59 prgrmzz Created: &amp;quot;It isn’t working. &amp;quot; / OSM snapshot date: 2023-03-29T15:44:03Z / POI has no name / POI types: man_made-water_well / #organicmaps / * 2024 August 25 18:23 grin Resolved: it&amp;#39;s a monument / * 2024 August 26 10:56 infeeeee Reactivated:  / * 2024 August 26 10:57 infeeeee Updated: De a kutat rajta hagytad. Akkor ez kút vagy nem? / Illetve a historic=monument nagyobb dolog, biztos nem inkább memorial? / https://wiki.openstreetmap.org/wiki/Tag:historic=monument / https://wiki.openstreetmap.org/wiki/Tag:historic%3Dmemorial / * 2024 August 29 18:34 grin Resolved: Ez egy régi, lezárt kút, kvázi műemlék. Van belőle 4-5 a környéken.</title>
         <link>https://www.openstreetmap.org/note/3670186#c9658281</link>
         <guid>https://www.openstreetmap.org/note/3670186#c9658281</guid>
@@ -182,16 +187,6 @@
         <link>https://www.openstreetmap.org/note/4405425#c9648808</link>
         <guid>https://www.openstreetmap.org/note/4405425#c9648808</guid>
         <pubDate>Tue, 27 Aug 2024 12:51:31 +0000</pubDate>
-      </item><item>
-        <title>new note 4405380 (near 8622, Fürdőtelep, Szántód) / * 2024 August 27 12:31 Created: Csak Kisfaludy utca</title>
-        <link>https://www.openstreetmap.org/note/4405380#c9648691</link>
-        <guid>https://www.openstreetmap.org/note/4405380#c9648691</guid>
-        <pubDate>Tue, 27 Aug 2024 12:31:57 +0000</pubDate>
-      </item><item>
-        <title>new note 4405343 (near 8230, Belváros, Balatonfüred) / * 2024 August 27 12:15 ironalloy Created: a parkoló magán / #EveryDoor</title>
-        <link>https://www.openstreetmap.org/note/4405343#c9648602</link>
-        <guid>https://www.openstreetmap.org/note/4405343#c9648602</guid>
-        <pubDate>Tue, 27 Aug 2024 12:15:57 +0000</pubDate>
       </item>
   </channel>
 </rss>
