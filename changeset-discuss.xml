@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: miserend-hu Discussion Comment No.: 4 Comment: OK. Formálom akkor tovább a created_by -t. Meg a akkor a comment -t is hogy jobban érthető legyen. A bot=yes/no-t néztem. Azt hiszem nem vagyok bot mert mindegyik változtatást konkrét személy hozza létre, egyesével minden változást. Köszi a velem foglalkozást. Date: 2024-09-01T21:25:57+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/156063024</link>
+        <guid>https://www.openstreetmap.org/changeset/156063024#comment_4</guid>
+        <pubDate>2024-09-01T21:25:57+02:00</pubDate>
+      </item><item>
         <title>Contributor: kempelen Discussion Comment No.: 2 Comment: :-D Wow, köszi a gyors jelzést. Szerintem nem automata, picike a bolt, de megkérdezem azt aki küldte. Akkor másik korábbi szerkesztéseimet is javítani kell, de szerencsére fejből tudom azt a 4-5 ilyet amit csináltam eddig. :) Köszi! Date: 2024-09-01T20:11:45+02:00</title>
         <link>https://www.openstreetmap.org/changeset/156070533</link>
         <guid>https://www.openstreetmap.org/changeset/156070533#comment_2</guid>
         <pubDate>2024-09-01T20:11:45+02:00</pubDate>
-      </item><item>
-        <title>Contributor: gabro00 Discussion Comment No.: 3 Comment: Azt mondanám a &quot;miserend.hu&quot; önmagában még kevés. Valami olyat érdemes megadni, ami egyértelműen azonosítja a feltöltőszkriptet és adott esetben szólni tudunk, hogy ezzel a konkrét verzióval volt gond. Én ezt venném alapul: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent Pl. miserend/ (). További érdekes címke lehet a bot=yes/no, attól függően átnézed-e mielőtt felkerül az adatbázisba. Erről itt olvashatsz: https://wiki.openstreetmap.org/wiki/Automated_edits Date: 2024-09-01T20:10:53+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/156063024</link>
-        <guid>https://www.openstreetmap.org/changeset/156063024#comment_3</guid>
-        <pubDate>2024-09-01T20:10:53+02:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 2 Comment: Javítottam mindent, itt: https://www.openstreetmap.org/changeset/156014100 Szerintem most jónak kell lennie mindenhol, jelezd ha valamelyik útvonaltervező nem akar még mindig felmenni a hídra. Date: 2024-08-31T13:00:20+02:00</title>
         <link>https://www.openstreetmap.org/changeset/155971890</link>
