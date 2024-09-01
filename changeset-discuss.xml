@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: gabro00 Discussion Comment No.: 1 Comment: Szia! A created_by címke a szerkesztőprogram HTTP agent OSM megfelelője. Lásd még itt: https://wiki.openstreetmap.org/wiki/Key:created%20by Kérlek ne írd felül ilyen formában :) Date: 2024-09-01T16:59:20+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/156063024</link>
+        <guid>https://www.openstreetmap.org/changeset/156063024#comment_1</guid>
+        <pubDate>2024-09-01T16:59:20+02:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 2 Comment: Javítottam mindent, itt: https://www.openstreetmap.org/changeset/156014100 Szerintem most jónak kell lennie mindenhol, jelezd ha valamelyik útvonaltervező nem akar még mindig felmenni a hídra. Date: 2024-08-31T13:00:20+02:00</title>
         <link>https://www.openstreetmap.org/changeset/155971890</link>
         <guid>https://www.openstreetmap.org/changeset/155971890#comment_2</guid>
@@ -52,21 +57,6 @@
         <link>https://www.openstreetmap.org/changeset/155290272</link>
         <guid>https://www.openstreetmap.org/changeset/155290272#comment_2</guid>
         <pubDate>2024-08-26T08:41:03+02:00</pubDate>
-      </item><item>
-        <title>Contributor: NightH Discussion Comment No.: 2 Comment: Továbbá korábban helyes _link highway-eket állítottál át helytelen értékekre. Ez már rövid időn belül a második olyan (egyébként nagyon nagy területű) changeset-ed, ahol korábban kijavított hibákat hoztál vissza az adatbázisba. Kérlek ne írd át a highway tag-eket, besorolásokat anélkül, hogy 100%-ig biztos lennél a dolgodban. Date: 2024-08-25T19:18:04+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/155454186</link>
-        <guid>https://www.openstreetmap.org/changeset/155454186#comment_2</guid>
-        <pubDate>2024-08-25T19:18:04+02:00</pubDate>
-      </item><item>
-        <title>Contributor: vasony Discussion Comment No.: 4 Comment: Szia! Itt alapvetően akkor, az volt a gond, hogy a házat és a házszámát törölted nem a tevékenységet. Most akkor a ház vissza lett állítva, a tevékenység nem látszik már, mindenki boldog. Tamás Date: 2024-08-25T18:51:51+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/155214207</link>
-        <guid>https://www.openstreetmap.org/changeset/155214207#comment_4</guid>
-        <pubDate>2024-08-25T18:51:51+02:00</pubDate>
-      </item><item>
-        <title>Contributor: ssummoner1 Discussion Comment No.: 1 Comment: Ohhh ezt már én is akartam. Teljesen elfelejtkeztem róla. Köszi! Date: 2024-08-25T17:49:06+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/155744648</link>
-        <guid>https://www.openstreetmap.org/changeset/155744648#comment_1</guid>
-        <pubDate>2024-08-25T17:49:06+02:00</pubDate>
       </item>
   </channel>
 </rss>
