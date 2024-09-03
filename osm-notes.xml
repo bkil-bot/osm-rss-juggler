@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4418137 (near 8618, Amáliapuszta, Kereki) / * 2024 September 3 17:26 OSM KAMI Created: Szine, anyaga / via StreetComplete_ee 58.22 / Attached photo(s): / https://westnordost.de/p/237873.jpg / https://westnordost.de/p/237874.jpg / https://westnordost.de/p/237875.jpg / https://westnordost.de/p/237876.jpg</title>
+        <link>https://www.openstreetmap.org/note/4418137#c9677478</link>
+        <guid>https://www.openstreetmap.org/note/4418137#c9677478</guid>
+        <pubDate>Tue, 03 Sep 2024 17:26:42 +0000</pubDate>
+      </item><item>
         <title>new note 4418117 (near 8618, Amáliapuszta, Kereki) / * 2024 September 3 17:06 OSM KAMI Created: Dózsa utca / via StreetComplete_ee 58.22 / Attached photo(s): / https://westnordost.de/p/237865.jpg</title>
         <link>https://www.openstreetmap.org/note/4418117#c9677418</link>
         <guid>https://www.openstreetmap.org/note/4418117#c9677418</guid>
@@ -277,26 +282,6 @@
         <link>https://www.openstreetmap.org/note/3514046#c9670335</link>
         <guid>https://www.openstreetmap.org/note/3514046#c9670335</guid>
         <pubDate>Sun, 01 Sep 2024 22:17:26 +0000</pubDate>
-      </item><item>
-        <title>closed note 3786926 (near Matonyaitanya, Gárdony) / * 2023 July 18 18:14 vasony Created: ez itt aszfaltos? / * 2024 September 1 22:17 urbalazs Resolved: Aszfaltos, viszont nem Bikavölgyi út, hanem Bikavölgyi utca van az utcatáblán, épp a jelölőnél. Átírtam a nevet.</title>
-        <link>https://www.openstreetmap.org/note/3786926#c9670334</link>
-        <guid>https://www.openstreetmap.org/note/3786926#c9670334</guid>
-        <pubDate>Sun, 01 Sep 2024 22:17:11 +0000</pubDate>
-      </item><item>
-        <title>new note 4414773 (near Disznós-tanya, Répáshuta) / * 2024 September 1 21:46 miserend-hu Created: Itt egy régi kápolna mellé épült egy templom. De kéne helyi információ, hogy mindkettő megmaradt különálló place_of_worship-nek, vagy ez most már egyetlen vallásos épület?</title>
-        <link>https://www.openstreetmap.org/note/4414773#c9670218</link>
-        <guid>https://www.openstreetmap.org/note/4414773#c9670218</guid>
-        <pubDate>Sun, 01 Sep 2024 21:46:53 +0000</pubDate>
-      </item><item>
-        <title>new note 4414769 (near 4800, Északi Ipari Park, Vásárosnamény) / * 2024 September 1 21:45 miserend-hu Created: Két Szent Kereszt templom entity van a térképen, de valóságban csak egy van. Össze kéne vonni a kettő adatait és a node-t törölni. Csak törölni én még nem merek. Köszönöm.</title>
-        <link>https://www.openstreetmap.org/note/4414769#c9670209</link>
-        <guid>https://www.openstreetmap.org/note/4414769#c9670209</guid>
-        <pubDate>Sun, 01 Sep 2024 21:45:12 +0000</pubDate>
-      </item><item>
-        <title>closed note 4405380 (near 8622, Fürdőtelep, Szántód) / * 2024 August 27 12:31 Created: Csak Kisfaludy utca / * 2024 September 1 20:10 urbalazs Resolved: Az utca elején teljes névvel szerepel az utcatáblán.</title>
-        <link>https://www.openstreetmap.org/note/4405380#c9669896</link>
-        <guid>https://www.openstreetmap.org/note/4405380#c9669896</guid>
-        <pubDate>Sun, 01 Sep 2024 20:10:24 +0000</pubDate>
       </item>
   </channel>
 </rss>
