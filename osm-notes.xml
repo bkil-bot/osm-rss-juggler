@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4286223 (near 1033, Óbudai-sziget, 3rd district) / * 2024 September 3 12:53 bkil Resolved: Rendben. Évente párszor elzárják ezeket, és van aki lelkesen nyitja minden alkalommal a jegyzeteket, esetleg törli is az egész objektumot.</title>
+        <link>https://www.openstreetmap.org/note/4286223#c9676228</link>
+        <guid>https://www.openstreetmap.org/note/4286223#c9676228</guid>
+        <pubDate>Tue, 03 Sep 2024 12:53:54 +0000</pubDate>
+      </item><item>
         <title>new comment 4286223 (near 1033, Óbudai-sziget, 3rd district) / * 2024 June 10 08:53 Matyjace Created: Forwarding anonymous report from #mapycz user, please verify: &amp;quot;closed&amp;quot; / * 2024 September 3 11:25 envagyokabela Updated: Amennyiben ez az ivókútra vonatkozik, az jelenleg jól működik</title>
         <link>https://www.openstreetmap.org/note/4286223#c9675983</link>
         <guid>https://www.openstreetmap.org/note/4286223#c9675983</guid>
@@ -252,11 +257,6 @@
         <link>https://www.openstreetmap.org/note/4413637#c9667364</link>
         <guid>https://www.openstreetmap.org/note/4413637#c9667364</guid>
         <pubDate>Sun, 01 Sep 2024 12:09:14 +0000</pubDate>
-      </item><item>
-        <title>closed note 4382532 (near 6723, Tarján, Szeged) / * 2024 August 13 20:23 gabro00 Created: Közelgő közlekedési rend módosítások: / https://szegeder.hu/helyi/2024-08-08/egyiranyusitanak-nehany-felsovarosi-utcat/66b46ae747d3c002f0044c88 (https://szegeder.hu/pix/71257068.jpeg) / * 2024 September 1 08:19 gabro00 Resolved: https://www.openstreetmap.org/changeset/156043246</title>
-        <link>https://www.openstreetmap.org/note/4382532#c9666605</link>
-        <guid>https://www.openstreetmap.org/note/4382532#c9666605</guid>
-        <pubDate>Sun, 01 Sep 2024 08:19:36 +0000</pubDate>
       </item>
   </channel>
 </rss>
