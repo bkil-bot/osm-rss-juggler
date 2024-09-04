@@ -3,6 +3,31 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 2805027 (near 8230, Belváros, Balatonfüred) / * 2021 August 15 20:00 Created: Tisztázni kell a büféket / * 2024 September 3 23:47 urbalazs Resolved: 6 nappal ezelőtt frissítve lettek.</title>
+        <link>https://www.openstreetmap.org/note/2805027#c9678650</link>
+        <guid>https://www.openstreetmap.org/note/2805027#c9678650</guid>
+        <pubDate>Tue, 03 Sep 2024 23:47:03 +0000</pubDate>
+      </item><item>
+        <title>closed note 4348122 (near Rigótanya, Aszófő) / * 2024 July 24 08:13 gonzoontherun Created: The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2024-06-13T18:38:33Z / POI name: Kövesd a Mucit! / POI types: amenity-restaurant / #organicmaps ios / * 2024 September 3 23:44 urbalazs Resolved: Törölve.</title>
+        <link>https://www.openstreetmap.org/note/4348122#c9678644</link>
+        <guid>https://www.openstreetmap.org/note/4348122#c9678644</guid>
+        <pubDate>Tue, 03 Sep 2024 23:44:45 +0000</pubDate>
+      </item><item>
+        <title>closed note 3682175 (near Rigótanya, Aszófő) / * 2023 May 9 20:46 vasony Created: újabb épületek, ha lesz felhasználható kép, akkor felrajzolandó / * 2024 September 3 23:44 urbalazs Resolved: Esriről felrajzoltam őket.</title>
+        <link>https://www.openstreetmap.org/note/3682175#c9678643</link>
+        <guid>https://www.openstreetmap.org/note/3682175#c9678643</guid>
+        <pubDate>Tue, 03 Sep 2024 23:44:35 +0000</pubDate>
+      </item><item>
+        <title>closed note 3888755 (near 8640, Fürdőtelep, Fonyód) / * 2023 September 14 15:03 Created: Panoráma sétány / * 2024 September 3 23:27 urbalazs Resolved: Ez csak egy tábla, hogy errefelé van a Panoráma sétány.</title>
+        <link>https://www.openstreetmap.org/note/3888755#c9678575</link>
+        <guid>https://www.openstreetmap.org/note/3888755#c9678575</guid>
+        <pubDate>Tue, 03 Sep 2024 23:27:15 +0000</pubDate>
+      </item><item>
+        <title>closed note 3286451 (near Tót-hegy, Balatonlelle) / * 2022 July 27 20:13 vasony Created: Panoráma utca vagy Kishegy telep? / * 2024 September 3 23:21 urbalazs Resolved: Panoráma utca van kitáblázva.</title>
+        <link>https://www.openstreetmap.org/note/3286451#c9678569</link>
+        <guid>https://www.openstreetmap.org/note/3286451#c9678569</guid>
+        <pubDate>Tue, 03 Sep 2024 23:21:36 +0000</pubDate>
+      </item><item>
         <title>closed note 4416014 (near 8600, Fokihegy, Siófok) / * 2024 September 2 15:51 OSM KAMI Created: . / via StreetComplete_ee 58.21 / Attached photo(s): / https://westnordost.de/p/237695.jpg / * 2024 September 3 23:20 urbalazs Resolved: Pontosítottam a 156162640 számú módosításcsomagban.</title>
         <link>https://www.openstreetmap.org/note/4416014#c9678568</link>
         <guid>https://www.openstreetmap.org/note/4416014#c9678568</guid>
@@ -257,11 +282,6 @@
         <link>https://www.openstreetmap.org/note/4415770#c9672327</link>
         <guid>https://www.openstreetmap.org/note/4415770#c9672327</guid>
         <pubDate>Mon, 02 Sep 2024 13:38:59 +0000</pubDate>
-      </item><item>
-        <title>new note 4415151 (near 1131, Angyalföld, 13th district) / * 2024 September 2 08:08 Tylla Created: Itt nincs épület, vagy nem is volt, vagy lebontották. / via StreetComplete 58.2</title>
-        <link>https://www.openstreetmap.org/note/4415151#c9671023</link>
-        <guid>https://www.openstreetmap.org/note/4415151#c9671023</guid>
-        <pubDate>Mon, 02 Sep 2024 08:08:00 +0000</pubDate>
       </item>
   </channel>
 </rss>
