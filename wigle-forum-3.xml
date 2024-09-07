@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Best Android for WigleWifi: I have a Motorola Droid 2 that I was using just for Wigle (no cell service), but lately it won't get a GPS lock. Are there any recommendations for low cost Android phones that could be picked up on eBay that work great with Wigle. I'm looking for something that doesn't take a year to get GPS lock and has serious battery life. Also if you had one of the CDMA/GSM world phones would that detect both towers?For a low-cost Android phone with good GPS performance, I'd recommend looking at older models like the Moto G series or Samsung Galaxy S5. They usually have reliable GPS and decent battery life, and you can find them for a good price on eBay. As for the CDMA/GSM world phones, yes, they should be able to detect both types of towers, which could enhance your Wigle experience. Just make sure GPS performance is solid on the model you choose! -husnain11221</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=12303#p12303</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=12303#p12303</guid>
+        <pubDate>2024-09-07T04:49:18+00:00</pubDate>
+      </item><item>
         <title>Re: BU 353N not working on PI: I was only able to get my unit working by applying the &quot;-b&quot; to GPSD.conf gps options. Ive tested several times, and unless this option is in place, which is basically a type of read only mode from the sensor, GPSD doesn't communicate with it properly. I am replacing the unit in any case because it was just one I used temporarily, and it only has access to US GPS constellation vs a GNSS model. I also had to restart gpsd.service, and gpsd.socket each time I unplugged the unit. Linux was creating a /dev/ttyUSB1 at times instead of the /dev/ttyUSB0 I have entered into the config files for everything. When I notice /dev/tty1 instead of ttyUSB0, I unplug/plug again and recheck to make sure it has reverted back. -chronos7</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12296#p12296</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12296#p12296</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=12098#p12098</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12098#p12098</guid>
         <pubDate>2024-02-29T18:27:18+00:00</pubDate>
-      </item><item>
-        <title>Re: Huawei P20 Android 10: I noticed on the App FAQAnrdoid 10 + Hauwei - Throttle switch not available: Huawei has removed this developer option; no known work-around at present.Seems I found it. -BaKeH</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=12094#p12094</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=12094#p12094</guid>
-        <pubDate>2024-02-29T03:08:26+00:00</pubDate>
       </item>
   </channel>
 </rss>
