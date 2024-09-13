@@ -2,7 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Change QA (via bkil-bot)</title>
-<item><title>Lokalfuerst moved place node 285887003 village Cserszegtomaj in changeset 155663249</title><link>https://www.openstreetmap.org/changeset/155663249</link><guid>https://www.openstreetmap.org/changeset/155663249</guid><pubDate>Fri, 23 Aug 2024 16:53:52 +0000</pubDate></item>
 <item><title>bkil moved place node 285887003 village Cserszegtomaj in changeset 155671916</title><link>https://www.openstreetmap.org/changeset/155671916</link><guid>https://www.openstreetmap.org/changeset/155671916</guid><pubDate>Fri, 23 Aug 2024 20:43:14 +0000</pubDate></item>
 <item><title>zsolt_d moved place node 904020221 hamlet Szelcepuszta in changeset 156021678</title><link>https://www.openstreetmap.org/changeset/156021678</link><guid>https://www.openstreetmap.org/changeset/156021678</guid><pubDate>Sat, 31 Aug 2024 15:52:29 +0000</pubDate></item>
 <item><title>zsolt_d moved place node 134495162 village Budajenő in changeset 156092975</title><link>https://www.openstreetmap.org/changeset/156092975</link><guid>https://www.openstreetmap.org/changeset/156092975</guid><pubDate>Mon, 02 Sep 2024 11:12:50 +0000</pubDate></item>
@@ -12,5 +11,6 @@
 <item><title>ITineris moved place node 552737345 village Tekenye in changeset 156277382</title><link>https://www.openstreetmap.org/changeset/156277382</link><guid>https://www.openstreetmap.org/changeset/156277382</guid><pubDate>Fri, 06 Sep 2024 14:11:22 +0000</pubDate></item>
 <item><title>zsolt_d moved place node 2211707555 hamlet Kövesgyűrpuszta in changeset 156415709</title><link>https://www.openstreetmap.org/changeset/156415709</link><guid>https://www.openstreetmap.org/changeset/156415709</guid><pubDate>Mon, 09 Sep 2024 22:09:30 +0000</pubDate></item>
 <item><title>zsolt_d moved place node 298024096 village Nyirád in changeset 156542501</title><link>https://www.openstreetmap.org/changeset/156542501</link><guid>https://www.openstreetmap.org/changeset/156542501</guid><pubDate>Thu, 12 Sep 2024 18:55:33 +0000</pubDate></item>
+<item><title>NightH moved place node 288068899 village Dunaegyháza in changeset 156557078</title><link>https://www.openstreetmap.org/changeset/156557078</link><guid>https://www.openstreetmap.org/changeset/156557078</guid><pubDate>Fri, 13 Sep 2024 06:26:07 +0000</pubDate></item>
   </channel>
 </rss>
