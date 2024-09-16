@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Shout out to AccessNow folks and @Xeniax who helped to convince Meta to unblock #deltachat invite URLs in Facebook. Previously delta invite-links on Facebook were marked as &amp;quot;dangerous&amp;quot; and didn&amp;#39;t work. sidenote: if you send someone an invite-link, they can click it directly after they installed Delta Chat because they will be guided through the &amp;quot;create-profile&amp;quot; flow automatically and then be dropped into a chat with the inviter. Screenshot of a Facebook message containing an invite-link. It shows a Delta Chat logo and the &quot;Message privately on Delta Chat&quot; with a &quot;tap the invite link to start&quot; text.</title>
+        <link>https://chaos.social/@delta/113147751152965469</link>
+        <guid>https://chaos.social/@delta/113147751152965469</guid>
+        <pubDate>Mon, 16 Sep 2024 14:41:07 +0000</pubDate>
+      </item><item>
         <title>Some complain about the lack of PFS but there are good reasons for not employing it and we have a well working &amp;quot;guaranteed end-to-end encryption&amp;quot; system. Others complain about the lack of some Telegram features but Durov&amp;#39;s project keep data of a. biIllion users in cleartext. When shit hits the fan, we want delta chat apps to be mass-ready, provide secure and reliable private messaging service even in authoritarian environments. Easier said than done. Lots of details to care for.</title>
         <link>https://chaos.social/@delta/113104301490882060</link>
         <guid>https://chaos.social/@delta/113104301490882060</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/112546239313363496</link>
         <guid>https://chaos.social/@delta/112546239313363496</guid>
         <pubDate>Sun, 02 Jun 2024 09:08:45 +0000</pubDate>
-      </item><item>
-        <title>Delta Chat has &amp;quot;use but minimize&amp;quot; in its DNA when engaging with specs and standards. Autocrypt and #securejoin for guaranteed e2ee, #Chatmail servers with secure chat focus, #webxdc apps with html/css focus .... are the strategic examples of engaging with real internet standards but carefully curating the subset to go for .... Almost all standards are way too complex and unfitting for real world issues ... Our approach is neccessarily pragmatic because we lack resources to be idealism driven</title>
-        <link>https://chaos.social/@delta/112546158609872476</link>
-        <guid>https://chaos.social/@delta/112546158609872476</guid>
-        <pubDate>Sun, 02 Jun 2024 08:48:14 +0000</pubDate>
       </item>
   </channel>
 </rss>
