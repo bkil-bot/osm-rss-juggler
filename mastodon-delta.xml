@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Did you know that #deltachat does not need and does not use key servers? Most other messengers (wa/signal/matrix/threema/...) actually operate or incorporate a cryptographic key server, managing the cryptographic identities of all users. Delta Chat uses decentralized protocols for key management avoiding a central storage of identities. The SecureJoin protocol is the key (sic!) innovation and was independently analyzed by ETH Zürich researchers earlier this year .... https://delta.chat/en/2024-03-25-crypto-analysis-securejoin</title>
+        <link>https://chaos.social/@delta/113153037598329705</link>
+        <guid>https://chaos.social/@delta/113153037598329705</guid>
+        <pubDate>Tue, 17 Sep 2024 13:05:32 +0000</pubDate>
+      </item><item>
         <title>Shout out to AccessNow folks and @Xeniax who helped to convince Meta to unblock #deltachat invite URLs in Facebook. Previously delta invite-links on Facebook were marked as &amp;quot;dangerous&amp;quot; and didn&amp;#39;t work. sidenote: if you send someone an invite-link, they can click it directly after they installed Delta Chat because they will be guided through the &amp;quot;create-profile&amp;quot; flow automatically and then be dropped into a chat with the inviter. Screenshot of a Facebook message containing an invite-link. It shows a Delta Chat logo and the &quot;Message privately on Delta Chat&quot; with a &quot;tap the invite link to start&quot; text.</title>
         <link>https://chaos.social/@delta/113147751152965469</link>
         <guid>https://chaos.social/@delta/113147751152965469</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/112546865028184048</link>
         <guid>https://chaos.social/@delta/112546865028184048</guid>
         <pubDate>Sun, 02 Jun 2024 11:47:53 +0000</pubDate>
-      </item><item>
-        <title>How to get somewhat sufficient funding remains a question, however economic our approach is. We avoided VC funding and rather went for public tax-based funds because our efforts are driven by what we consider to be in the public interest. It is said that humanity can be morally.judged by how well those are doing who are living through the worst. We often focus on users in imminently dangerous situations but this is not where you can or want to earn money from, let alone surplus.</title>
-        <link>https://chaos.social/@delta/112546239313363496</link>
-        <guid>https://chaos.social/@delta/112546239313363496</guid>
-        <pubDate>Sun, 02 Jun 2024 09:08:45 +0000</pubDate>
       </item>
   </channel>
 </rss>
