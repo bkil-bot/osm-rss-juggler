@@ -3,6 +3,26 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: balint36 Discussion Comment No.: 4 Comment: Valamiért akkor ez a megoldás tűnt jónak, de nem tudom felidézni, hogy mi vezetett oda. Nem fogok megsértődni emiatt, ha valaki végül eltávolítja. Date: 2024-09-17T15:58:56+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/144455368</link>
+        <guid>https://www.openstreetmap.org/changeset/144455368#comment_4</guid>
+        <pubDate>2024-09-17T15:58:56+02:00</pubDate>
+      </item><item>
+        <title>Contributor: balint36 Discussion Comment No.: 1 Comment: Érd és Érd alsó elágazásokból miért lett megállóhely? Date: 2024-09-17T15:55:39+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/156324407</link>
+        <guid>https://www.openstreetmap.org/changeset/156324407#comment_1</guid>
+        <pubDate>2024-09-17T15:55:39+02:00</pubDate>
+      </item><item>
+        <title>Contributor: balint36 Discussion Comment No.: 1 Comment: Ercsi elágazásból miért lett megállóhely? Date: 2024-09-17T15:50:17+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/156324815</link>
+        <guid>https://www.openstreetmap.org/changeset/156324815#comment_1</guid>
+        <pubDate>2024-09-17T15:50:17+02:00</pubDate>
+      </item><item>
+        <title>Contributor: balint36 Discussion Comment No.: 1 Comment: Miért lett hozzáadva service=siding? A címkézések alapján a siding címkét a nálunk nem átmenű fővágánynak nevezett vágányok kapják meg. Date: 2024-09-17T15:31:14+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/156327035</link>
+        <guid>https://www.openstreetmap.org/changeset/156327035#comment_1</guid>
+        <pubDate>2024-09-17T15:31:14+02:00</pubDate>
+      </item><item>
         <title>Contributor: ITineris Discussion Comment No.: 2 Comment: Saját felmérés. Az útdíjas bírság riasztás pontos időpontja és a track ismeretében elég pontosan meg lehetett határozni a helyüket. Sokszor műholdképen is látni a kaput az így beazonosított helyen. Az azonosítójuk pedig a NÚSZ-tól jön. Date: 2024-09-16T18:55:15+02:00</title>
         <link>https://www.openstreetmap.org/changeset/97548122</link>
         <guid>https://www.openstreetmap.org/changeset/97548122#comment_2</guid>
@@ -32,11 +52,6 @@
         <link>https://www.openstreetmap.org/changeset/156434438</link>
         <guid>https://www.openstreetmap.org/changeset/156434438#comment_2</guid>
         <pubDate>2024-09-12T16:43:25+02:00</pubDate>
-      </item><item>
-        <title>Contributor: gymate Discussion Comment No.: 3 Comment: Igen, erre én is gondoltam. De ez nem sérti a 'One feature, one OSM element' elvet? Szerintem az utazástervezők dolga, hogy implementálják az areákhoz való / azokon keresztül történő útvonaltervezést. Date: 2024-09-12T10:11:02+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/144455368</link>
-        <guid>https://www.openstreetmap.org/changeset/144455368#comment_3</guid>
-        <pubDate>2024-09-12T10:11:02+02:00</pubDate>
       </item>
   </channel>
 </rss>
