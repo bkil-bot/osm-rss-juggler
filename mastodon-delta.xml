@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>We are well aware of the increasing risk of infiltration of our software development, especially as we offer a very high level of privacy. Core Delta contributors know each other personally from many physical week-long gatherings even if we are typically remotely collaborating across thousands of kilometers. Are we immune to infiltration, corruption or bad-faith PRs to our code repositories? No, but we value minimalism, work in public and engage with specialists for analysis and audits.</title>
+        <link>https://chaos.social/@delta/113158011354178891</link>
+        <guid>https://chaos.social/@delta/113158011354178891</guid>
+        <pubDate>Wed, 18 Sep 2024 10:10:25 +0000</pubDate>
+      </item><item>
         <title>Did you know that #deltachat does not need and does not use key servers? Most other messengers (wa/signal/matrix/threema/...) actually operate or incorporate a cryptographic key server, managing the cryptographic identities of all users. Delta Chat uses decentralized protocols for key management avoiding a central storage of identities. The SecureJoin protocol is the key (sic!) innovation and was independently analyzed by ETH Zürich researchers earlier this year .... https://delta.chat/en/2024-03-25-crypto-analysis-securejoin</title>
         <link>https://chaos.social/@delta/113153037598329705</link>
         <guid>https://chaos.social/@delta/113153037598329705</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/112560424460902744</link>
         <guid>https://chaos.social/@delta/112560424460902744</guid>
         <pubDate>Tue, 04 Jun 2024 21:16:13 +0000</pubDate>
-      </item><item>
-        <title>It&amp;#39;s a crazy property of #chatmail that it practically has zero state: if a Chatmail server is raided, burns to the ground etc but you still have DNS control, you just set it up somewhere and people can continue chatting. In that sense it&amp;#39;s really like a router .... You can turn it off, wipe state, reinstall and turn it on. Theoretically someone might take your address if they arrive first with their login but they would not get readable message content so it would be more annoying than unsafe</title>
-        <link>https://chaos.social/@delta/112546865028184048</link>
-        <guid>https://chaos.social/@delta/112546865028184048</guid>
-        <pubDate>Sun, 02 Jun 2024 11:47:53 +0000</pubDate>
       </item>
   </channel>
 </rss>
