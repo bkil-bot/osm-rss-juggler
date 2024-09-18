@@ -3,6 +3,41 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4417259 (near 1144, Alsórákos, 14th district) / * 2024 September 18 13:17 gymate Resolved: Szemmértékkel átraktam a megfelelő helyre az ivókutat, így lezárom.</title>
+        <link>https://www.openstreetmap.org/note/4417259#c9732049</link>
+        <guid>https://www.openstreetmap.org/note/4417259#c9732049</guid>
+        <pubDate>Wed, 18 Sep 2024 13:17:18 +0000</pubDate>
+      </item><item>
+        <title>new comment 4417259 (near 1144, Alsórákos, 14th district) / * 2024 September 3 09:51 gymate Created: Correct position: / Lat/Lon: 47.504636 / 19.140745,  /- 5m ( 1 m to the condos.) / Elevation: 126m  /- 3m / * 2024 September 3 09:58 gymate Updated: I&amp;#39;ll wait for https://github.com/openstreetmap/iD/issues/7435 to be implemented to resolve this. / * 2024 September 18 12:59 ITineris Updated: Az általad másodjára megadott koordinátához egészen pontos az ivókút mostani OSM-es helyzete. / Van ezzel még bármi tennivaló?</title>
+        <link>https://www.openstreetmap.org/note/4417259#c9732004</link>
+        <guid>https://www.openstreetmap.org/note/4417259#c9732004</guid>
+        <pubDate>Wed, 18 Sep 2024 12:59:31 +0000</pubDate>
+      </item><item>
+        <title>new comment 2725760 (near 1155, Rákospalota, 15th district) / * 2021 June 23 20:02 bkil Created: Ennek nem Ozmán utcai rekreációs park a neve? https://www.bpxv.hu/hirek/megujulnak-jatszotereink / * 2024 September 18 12:51 ITineris Updated: Nem tudom, ezt hivatalos névnek szánták-e, vagy körülírásnak. / Az Ozmán utcánál van, és rekreációs park: van játszótér, sportpálya, pingpong asztalok, fitnesz park (ezeket fel is vettem); plusz a kutyafuttató.</title>
+        <link>https://www.openstreetmap.org/note/2725760#c9731982</link>
+        <guid>https://www.openstreetmap.org/note/2725760#c9731982</guid>
+        <pubDate>Wed, 18 Sep 2024 12:51:23 +0000</pubDate>
+      </item><item>
+        <title>new comment 2725772 (near 1155, Rákospalota, 15th district) / * 2021 June 23 20:02 bkil Created: Hol van az Mozdonyvezető utcai játszótér? Elvileg az Ozmán utcai rekreációs parktól független.  https://www.bpxv.hu/hirek/megujulnak-jatszotereink / * 2021 November 20 20:31 ITineris Updated: Nem tudom, melyiket hívják így. / A Mozdonyvezető utca vonzáskörzetében van egy játszótér az M3-as túloldalán, az óvoda mellett. És van egy játszótér a villamosfordulónál, a Kolozsvár iskola előtt. / * 2023 July 26 17:02 Gyuri Nyitrai Resolved: Szerintem az egy kutya játszótér. :) / Az Ozmán utcai parkkal közös a kerítése, de a bejárata a Mozdonyvezető utca felől van. Van rajta mindenféle mászóka kutyáknak és még ivókút is. / * 2023 July 26 17:42 bkil Reactivated:  / * 2023 July 26 17:42 bkil Updated: Nem lehet, hogy erre gondolt a szerző? https://osm.org/way/120132504#map=19/47.54160/19.12063 / * 2023 July 26 17:44 bkil Updated: Vagy erre? https://osm.org/way/127145847#map=19/47.54483/19.11443 Ameddig létezik a környéken egy játszótér is amin nincs name=* címke, bármelyik lehet. Kivéve az Ozmán utcai rekreációs park aminek része a kutyafuttató, biztosan nem arra gondoltak, az külön meg volt említve. / * 2024 September 18 12:46 ITineris Updated: A témaindító URL már nem létezik. / Az óvoda melletti lakótelepi játszótér megújult néhány éve, komoly játszótér lett belőle. A G* &amp;quot;Zöld házas&amp;quot; játszótérnek titulálja - gondolom a mellette levő zöld panelek miatt. / Egyik nevet sem raknám rá, táblát nem láttam.</title>
+        <link>https://www.openstreetmap.org/note/2725772#c9731968</link>
+        <guid>https://www.openstreetmap.org/note/2725772#c9731968</guid>
+        <pubDate>Wed, 18 Sep 2024 12:46:45 +0000</pubDate>
+      </item><item>
+        <title>closed note 4341220 (near 1154, Rákospalota, 15th district) / * 2024 July 19 20:44 Created: Két darab 80 as házszám van. / * 2024 September 18 12:40 ITineris Resolved: Mert egy kapun két különálló épületbe lehet bemenni. Ugyanaz a vakolat, ugyanaz a cserép.</title>
+        <link>https://www.openstreetmap.org/note/4341220#c9731949</link>
+        <guid>https://www.openstreetmap.org/note/4341220#c9731949</guid>
+        <pubDate>Wed, 18 Sep 2024 12:40:35 +0000</pubDate>
+      </item><item>
+        <title>closed note 2949613 (near 7634, Újpatacs, Pécs) / * 2021 November 26 08:31 vasony-qa Created: Melyik közterület a Szigeti vám amire a posta van számozva? / * 2023 January 24 08:02 weba12 Updated: Ürögi fasor 2/b / * 2023 January 24 08:06 weba12 Updated: A térképen 1 szám van írva az épületre. / * 2023 January 24 08:26 vasony Updated: Azért van 1, mert a posta szerint a postahivatal címe Szigeti vám 1. A kérdés arról szólt, hogy ha a posta címe 1, akkor melyik utca a Szigeti vám, mivel ezt nem szerepel az térképen. / A posta épületén szerepel az üresi fasor 2/b? Mert akkor a posta a saját címét se ismeri, ami elég &amp;quot;vicces&amp;quot; / * 2023 January 24 11:22 weba12 Updated: Szigeti vám nem létezik. Csak a Pécsiek hívják így a környéket, mert régen Szigetvár felöl itt volt a VÁM. Nem lehet a számozás 1 mert a páratlan számok az utca másik oldalán vannak. / https://www.google.com/search?q=postahivatal+p%C3%A9cs+szigeti+v%C3%A1m&amp;amp;rlz=1C1GCEU_huHU828HU828&amp;amp;oq=postahivatal+p%C3%A9cs+szigeti+v%C3%A1m&amp;amp;aqs=chrome..69i57j33i160l3j33i22i29i30.13732j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8 / * 2023 January 24 11:29 weba12 Resolved: Ugyanígy van Budai vám is ahová nincs számozva semmi régen ott volt Buda felöl a városkapu. / * 2023 January 24 11:29 weba12 Reactivated:  / * 2023 January 24 11:36 weba12 Updated: Bocsánat a városkapuk nem ezeken a helyeken voltak. Üdv / * 2023 January 26 21:11 vasony Updated: Földhivatal és Pécs közterületjegyzéke szerint létezik a Szigeti vám, csak azt nem írják mi a helyrazji száma. / Az alábbi hrsz-ek vannak nyilvántartva / 1147/3		Szigeti vám 5. / 1148/2		Szigeti vám 3. / 1151/2		Szigeti vám 1. / * 2024 September 18 12:40 TheRed95 Resolved: A posta épülete a 1151/2 hrsz-en van. / Magyar Posta Zrt. pedig a 2-es szám alatt, az 1-es szám rossz a földhivatali alaptérképen is.</title>
+        <link>https://www.openstreetmap.org/note/2949613#c9731948</link>
+        <guid>https://www.openstreetmap.org/note/2949613#c9731948</guid>
+        <pubDate>Wed, 18 Sep 2024 12:40:25 +0000</pubDate>
+      </item><item>
+        <title>new note 4441257 (near 7622, Siklósi külváros, Pécs) / * 2024 September 18 12:34 Created: Állomásépületre tag javaslat / building=transportation / public_transport=station</title>
+        <link>https://www.openstreetmap.org/note/4441257#c9731924</link>
+        <guid>https://www.openstreetmap.org/note/4441257#c9731924</guid>
+        <pubDate>Wed, 18 Sep 2024 12:34:03 +0000</pubDate>
+      </item><item>
         <title>closed note 4440383 (near 1121, Budakeszierdő, 12th district) / * 2024 September 17 21:17 infeeeee Resolved: It&amp;#39;s on the map: https://www.openstreetmap.org/way/96821989</title>
         <link>https://www.openstreetmap.org/note/4440383#c9729307</link>
         <guid>https://www.openstreetmap.org/note/4440383#c9729307</guid>
@@ -132,26 +167,6 @@
         <link>https://www.openstreetmap.org/note/4436249#c9719529</link>
         <guid>https://www.openstreetmap.org/note/4436249#c9719529</guid>
         <pubDate>Sun, 15 Sep 2024 10:07:08 +0000</pubDate>
-      </item><item>
-        <title>new note 4435274 (near 4600, Kisvárda) / * 2024 September 14 20:16 Kecsege Created: Házszám?</title>
-        <link>https://www.openstreetmap.org/note/4435274#c9717791</link>
-        <guid>https://www.openstreetmap.org/note/4435274#c9717791</guid>
-        <pubDate>Sat, 14 Sep 2024 20:16:13 +0000</pubDate>
-      </item><item>
-        <title>new note 4435273 (near 4600, Kisvárda) / * 2024 September 14 20:16 Kecsege Created: Házszám?</title>
-        <link>https://www.openstreetmap.org/note/4435273#c9717790</link>
-        <guid>https://www.openstreetmap.org/note/4435273#c9717790</guid>
-        <pubDate>Sat, 14 Sep 2024 20:16:09 +0000</pubDate>
-      </item><item>
-        <title>new note 4435272 (near 4600, Kisvárda) / * 2024 September 14 20:16 Kecsege Created: Házszám?</title>
-        <link>https://www.openstreetmap.org/note/4435272#c9717789</link>
-        <guid>https://www.openstreetmap.org/note/4435272#c9717789</guid>
-        <pubDate>Sat, 14 Sep 2024 20:16:06 +0000</pubDate>
-      </item><item>
-        <title>new note 4435270 (near 4600, Kisvárda) / * 2024 September 14 20:15 Kecsege Created: Házszám?</title>
-        <link>https://www.openstreetmap.org/note/4435270#c9717787</link>
-        <guid>https://www.openstreetmap.org/note/4435270#c9717787</guid>
-        <pubDate>Sat, 14 Sep 2024 20:15:52 +0000</pubDate>
       </item>
   </channel>
 </rss>
