@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: gymate Discussion Comment No.: 2 Comment: Szia! Köszönöm, hogy jelezted, illetve hogy javítottátok! Az AlzaBoxra nyitottam is egy PR-t a name-suggestion-index-ben: https://github.com/osmlab/name-suggestion-index/pull/9962 De látom, hogy a BKK-automatákat is rosszul címkéztem. A name-suggestion-index-hez időközben hozzá lett adva a megfelelő tagelési módszerük: https://github.com/osmlab/name-suggestion-index/blame/main/data/brands/amenity/vending_machine.json#L170-L179 De nyitottam egy PR-t, hogy a régi se maradjon benne: https://github.com/osmlab/name-suggestion-index/pull/9961 Kérlek, szólj, ha valamit kihagytam! Date: 2024-09-18T20:40:10+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/149130634</link>
+        <guid>https://www.openstreetmap.org/changeset/149130634#comment_2</guid>
+        <pubDate>2024-09-18T20:40:10+02:00</pubDate>
+      </item><item>
         <title>Contributor: balint36 Discussion Comment No.: 2 Comment: Szia! A 7-es házszám szembetűnő volt, ezért azt korábban felírtam magamnak. Most hogy rákérdeztél az utcára, gyorsan rákerestem Google fotók között az állomás fényképére. A házszám felett valóban van valami (a képen ki nem vehető) felirat, amit én korábban nem vettem észre. Úgyhogy egyelőre passz. Date: 2024-09-18T08:28:18+02:00</title>
         <link>https://www.openstreetmap.org/changeset/156702469</link>
         <guid>https://www.openstreetmap.org/changeset/156702469#comment_2</guid>
@@ -37,11 +42,6 @@
         <link>https://www.openstreetmap.org/changeset/156327035</link>
         <guid>https://www.openstreetmap.org/changeset/156327035#comment_1</guid>
         <pubDate>2024-09-17T15:31:14+02:00</pubDate>
-      </item><item>
-        <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szia! FYI csomagautomatákra: https://wiki.openstreetmap.org/wiki/Hungary/Jel%C3%B6l%C3%A9si_p%C3%A9ld%C3%A1k#Csomagautomata Az iD ezek szerint nem jól javasol name és wikidata... Tamás Date: 2024-09-15T06:50:02+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/149130634</link>
-        <guid>https://www.openstreetmap.org/changeset/149130634#comment_1</guid>
-        <pubDate>2024-09-15T06:50:02+02:00</pubDate>
       </item><item>
         <title>Contributor: gabro00 Discussion Comment No.: 1 Comment: Szia! Most vettem észre ezt a Hattyast. Nem a Klebelsberg-teleppel keveredik? https://hu.wikipedia.org/wiki/Klebelsberg-telep Date: 2024-09-13T21:38:59+02:00</title>
         <link>https://www.openstreetmap.org/changeset/112569916</link>
