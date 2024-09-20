@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4444631 (near 1182, Szent Imre kertváros, 18th district) / * 2024 September 20 16:07 tamás Created: 23 / #OsmAnd</title>
+        <link>https://www.openstreetmap.org/note/4444631#c9739570</link>
+        <guid>https://www.openstreetmap.org/note/4444631#c9739570</guid>
+        <pubDate>Fri, 20 Sep 2024 16:07:07 +0000</pubDate>
+      </item><item>
+        <title>new note 4444630 (near 1182, Szent Imre kertváros, 18th district) / * 2024 September 20 16:06 tamás Created: 23 / #OsmAnd</title>
+        <link>https://www.openstreetmap.org/note/4444630#c9739569</link>
+        <guid>https://www.openstreetmap.org/note/4444630#c9739569</guid>
+        <pubDate>Fri, 20 Sep 2024 16:06:46 +0000</pubDate>
+      </item><item>
         <title>new note 4444289 (near 1121, Budakeszierdő, 12th district) / * 2024 September 20 12:36 ITineris Created: A támfalon van egy márvány emléktábla.</title>
         <link>https://www.openstreetmap.org/note/4444289#c9738853</link>
         <guid>https://www.openstreetmap.org/note/4444289#c9738853</guid>
@@ -107,26 +117,6 @@
         <link>https://www.openstreetmap.org/note/4441350#c9732188</link>
         <guid>https://www.openstreetmap.org/note/4441350#c9732188</guid>
         <pubDate>Wed, 18 Sep 2024 14:05:06 +0000</pubDate>
-      </item><item>
-        <title>closed note 4417259 (near 1144, Alsórákos, 14th district) / * 2024 September 18 13:17 gymate Resolved: Szemmértékkel átraktam a megfelelő helyre az ivókutat, így lezárom.</title>
-        <link>https://www.openstreetmap.org/note/4417259#c9732049</link>
-        <guid>https://www.openstreetmap.org/note/4417259#c9732049</guid>
-        <pubDate>Wed, 18 Sep 2024 13:17:18 +0000</pubDate>
-      </item><item>
-        <title>new comment 4417259 (near 1144, Alsórákos, 14th district) / * 2024 September 3 09:51 gymate Created: Correct position: / Lat/Lon: 47.504636 / 19.140745,  /- 5m ( 1 m to the condos.) / Elevation: 126m  /- 3m / * 2024 September 3 09:58 gymate Updated: I&amp;#39;ll wait for https://github.com/openstreetmap/iD/issues/7435 to be implemented to resolve this. / * 2024 September 18 12:59 ITineris Updated: Az általad másodjára megadott koordinátához egészen pontos az ivókút mostani OSM-es helyzete. / Van ezzel még bármi tennivaló?</title>
-        <link>https://www.openstreetmap.org/note/4417259#c9732004</link>
-        <guid>https://www.openstreetmap.org/note/4417259#c9732004</guid>
-        <pubDate>Wed, 18 Sep 2024 12:59:31 +0000</pubDate>
-      </item><item>
-        <title>new comment 2725760 (near 1155, Rákospalota, 15th district) / * 2021 June 23 20:02 bkil Created: Ennek nem Ozmán utcai rekreációs park a neve? https://www.bpxv.hu/hirek/megujulnak-jatszotereink / * 2024 September 18 12:51 ITineris Updated: Nem tudom, ezt hivatalos névnek szánták-e, vagy körülírásnak. / Az Ozmán utcánál van, és rekreációs park: van játszótér, sportpálya, pingpong asztalok, fitnesz park (ezeket fel is vettem); plusz a kutyafuttató.</title>
-        <link>https://www.openstreetmap.org/note/2725760#c9731982</link>
-        <guid>https://www.openstreetmap.org/note/2725760#c9731982</guid>
-        <pubDate>Wed, 18 Sep 2024 12:51:23 +0000</pubDate>
-      </item><item>
-        <title>new comment 2725772 (near 1155, Rákospalota, 15th district) / * 2021 June 23 20:02 bkil Created: Hol van az Mozdonyvezető utcai játszótér? Elvileg az Ozmán utcai rekreációs parktól független.  https://www.bpxv.hu/hirek/megujulnak-jatszotereink / * 2021 November 20 20:31 ITineris Updated: Nem tudom, melyiket hívják így. / A Mozdonyvezető utca vonzáskörzetében van egy játszótér az M3-as túloldalán, az óvoda mellett. És van egy játszótér a villamosfordulónál, a Kolozsvár iskola előtt. / * 2023 July 26 17:02 Gyuri Nyitrai Resolved: Szerintem az egy kutya játszótér. :) / Az Ozmán utcai parkkal közös a kerítése, de a bejárata a Mozdonyvezető utca felől van. Van rajta mindenféle mászóka kutyáknak és még ivókút is. / * 2023 July 26 17:42 bkil Reactivated:  / * 2023 July 26 17:42 bkil Updated: Nem lehet, hogy erre gondolt a szerző? https://osm.org/way/120132504#map=19/47.54160/19.12063 / * 2023 July 26 17:44 bkil Updated: Vagy erre? https://osm.org/way/127145847#map=19/47.54483/19.11443 Ameddig létezik a környéken egy játszótér is amin nincs name=* címke, bármelyik lehet. Kivéve az Ozmán utcai rekreációs park aminek része a kutyafuttató, biztosan nem arra gondoltak, az külön meg volt említve. / * 2024 September 18 12:46 ITineris Updated: A témaindító URL már nem létezik. / Az óvoda melletti lakótelepi játszótér megújult néhány éve, komoly játszótér lett belőle. A G* &amp;quot;Zöld házas&amp;quot; játszótérnek titulálja - gondolom a mellette levő zöld panelek miatt. / Egyik nevet sem raknám rá, táblát nem láttam.</title>
-        <link>https://www.openstreetmap.org/note/2725772#c9731968</link>
-        <guid>https://www.openstreetmap.org/note/2725772#c9731968</guid>
-        <pubDate>Wed, 18 Sep 2024 12:46:45 +0000</pubDate>
       </item>
   </channel>
 </rss>
