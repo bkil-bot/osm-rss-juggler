@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: vasony Discussion Comment No.: 1 Comment: Reverted your changes, ticket vending machine is not toilet. Date: 2024-09-21T05:13:09+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/156879508</link>
+        <guid>https://www.openstreetmap.org/changeset/156879508#comment_1</guid>
+        <pubDate>2024-09-21T05:13:09+02:00</pubDate>
+      </item><item>
         <title>Contributor: gymate Discussion Comment No.: 2 Comment: Szia! Köszönöm, hogy jelezted, illetve hogy javítottátok! Az AlzaBoxra nyitottam is egy PR-t a name-suggestion-index-ben: https://github.com/osmlab/name-suggestion-index/pull/9962 De látom, hogy a BKK-automatákat is rosszul címkéztem. A name-suggestion-index-hez időközben hozzá lett adva a megfelelő tagelési módszerük: https://github.com/osmlab/name-suggestion-index/blame/main/data/brands/amenity/vending_machine.json#L170-L179 De nyitottam egy PR-t, hogy a régi se maradjon benne: https://github.com/osmlab/name-suggestion-index/pull/9961 Kérlek, szólj, ha valamit kihagytam! Date: 2024-09-18T20:40:10+02:00</title>
         <link>https://www.openstreetmap.org/changeset/149130634</link>
         <guid>https://www.openstreetmap.org/changeset/149130634#comment_2</guid>
