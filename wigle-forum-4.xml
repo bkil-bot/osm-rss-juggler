@@ -3,6 +3,11 @@
   <channel>
     <title>Wireless News (via bkil-bot)</title>
       <item>
+        <title>Re: Detecting Gas Pump Skimmers by Bluetooth signature (Bluetana / SkimPlus): Great info -Stratt3000</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=12326#p12326</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=12326#p12326</guid>
+        <pubDate>2024-09-21T04:01:30+00:00</pubDate>
+      </item><item>
         <title>Re: Help with network adapter on monitor mode.: ZyXEL NWD6605 (Chipset: Realtek RTL8812AU) Alfa AWUS036NHA (Chipset: Atheros AR9271) TP-LINK TL-WN823N (Chipset: Realtek RTL8192CU) TP-LINK TL-WN822N (Chipset: Realtek RTL8192CU) TP-LINK TL-WN821N (Chipset: Realtek RTL8192CU) TP-Link TL-WN722N: Popular among security testers, supports monitoring mode and packet injection. Compatible with Kali Linux and Windows. TP-Link Archer T4U V3: A dual-band USB WiFi adapter that also supports monitoring mode and packet injection. Known for its compatibility with Kali Linux and Windows systems. TP-Link Archer T9UH: A high-gain dual-band USB WiFi adapter with strong signal reception, supporting monitoring mode and packet injection. Compatible with Kali Linux and Windows1. airmon-ng start wlan0 -ebauerico</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12265#p12265</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12265#p12265</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=10298#p10298</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=10298#p10298</guid>
         <pubDate>2019-08-19T17:16:51+00:00</pubDate>
-      </item><item>
-        <title>Detecting Gas Pump Skimmers by Bluetooth signature (Bluetana / SkimPlus): Hello, take a look at this: https://thehackernews.com/2019/08/credi ... ector.html They use a sequence of steps to see if a bluetooth device is a skimmer inside a ATM / Gas pump. Bluetana paper: http://cseweb.ucsd.edu/~schulman/docs/s ... uetana.pdf Basically they see if the MAC prefix (Section 3.1 on the paper above) of the bluetooth device is fitting a list of known skimmers, then if the name is default. As WiGLE also scans bluetooth, it should be possible to filter out such &quot;strange&quot; devices? (Actually, im wondering why they did not mention WiGLE in their paper) EDIT: some sample searches: HC-05 devices in the US (10 results!) https://api.wigle.net/api/v2/bluetooth/ ... country=US HC-06 devices in the US (2 results) https://api.wigle.net/api/v2/bluetooth/ ... country=US All the results match the given &quot;capabilities&quot; = &quot;Uncategorized&quot; by Bluetana, but the current WiGLE Api does not have a option to give this a search parameter So if this 12 Results would be seen on a map, and they are located at a gas station = win ? -d2k2</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=10293#p10293</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=10293#p10293</guid>
-        <pubDate>2019-08-18T08:12:50+00:00</pubDate>
       </item>
   </channel>
 </rss>
