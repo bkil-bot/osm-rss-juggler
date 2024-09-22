@@ -3,15 +3,20 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: vasony Discussion Comment No.: 1 Comment: I reverted again, see comment in other changeset. update your app before making changes. Date: 2024-09-22T17:29:44+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/156899065</link>
+        <guid>https://www.openstreetmap.org/changeset/156899065#comment_1</guid>
+        <pubDate>2024-09-22T17:29:44+02:00</pubDate>
+      </item><item>
+        <title>Contributor: vasony Discussion Comment No.: 3 Comment: Toilet is already mapped. https://www.openstreetmap.org/node/12122681235 please do not change the vending machine back to toilet Date: 2024-09-22T17:26:34+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/156879508</link>
+        <guid>https://www.openstreetmap.org/changeset/156879508#comment_3</guid>
+        <pubDate>2024-09-22T17:26:34+02:00</pubDate>
+      </item><item>
         <title>Contributor: envagyokabela Discussion Comment No.: 1 Comment: Hali! Itt megkérdezhetem, miért raktad a zebra két szélére a crossing node-okat? Az utak közös node-jára szokás, nem? A StreetComplete se érti, és hevesen érdeklődik, hogy van-e például a #12176081396 node-on átkelőhely. Date: 2024-09-22T01:51:57+02:00</title>
         <link>https://www.openstreetmap.org/changeset/156597413</link>
         <guid>https://www.openstreetmap.org/changeset/156597413#comment_1</guid>
         <pubDate>2024-09-22T01:51:57+02:00</pubDate>
-      </item><item>
-        <title>Contributor: gonzoontherun Discussion Comment No.: 2 Comment: there is a toilet between Kompra Café and the ticket selling point. See the picture https://www.google.com/maps/place/Kompra+Caf%C3%A9/@46.8894125,17.891249,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOP8fnIGeykflaGw9d6ZKEjSccMmVatImwgT0kF!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOP8fnIGeykflaGw9d6ZKEjSccMmVatImwgT0kF%3Dw114-h86-k-no!7i4000!8i3000!4m7!3m6!1s0x4769bbc1ef3d293f:0x53270208182d5c25!8m2!3d46.8894026!4d17.8912173!10e5!16s%2Fg%2F11kx5v_6q1?entry=ttu&amp;g_ep=EgoyMDI0MDkxOC4xIKXMDSoASAFQAw%3D%3D Date: 2024-09-21T08:05:11+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/156879508</link>
-        <guid>https://www.openstreetmap.org/changeset/156879508#comment_2</guid>
-        <pubDate>2024-09-21T08:05:11+02:00</pubDate>
       </item><item>
         <title>Contributor: gymate Discussion Comment No.: 2 Comment: Szia! Köszönöm, hogy jelezted, illetve hogy javítottátok! Az AlzaBoxra nyitottam is egy PR-t a name-suggestion-index-ben: https://github.com/osmlab/name-suggestion-index/pull/9962 De látom, hogy a BKK-automatákat is rosszul címkéztem. A name-suggestion-index-hez időközben hozzá lett adva a megfelelő tagelési módszerük: https://github.com/osmlab/name-suggestion-index/blame/main/data/brands/amenity/vending_machine.json#L170-L179 De nyitottam egy PR-t, hogy a régi se maradjon benne: https://github.com/osmlab/name-suggestion-index/pull/9961 Kérlek, szólj, ha valamit kihagytam! Date: 2024-09-18T20:40:10+02:00</title>
         <link>https://www.openstreetmap.org/changeset/149130634</link>
