@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Erről a pontról írok: https://osm.org/node/8880142881/ Az url címke használata nem ajánlott: &gt; it is advised not to use this tag when more specific alternatives are available https://wiki.openstreetmap.org/wiki/Key:url Ráadásul amit odalinkeltél egy automatikusan létrehozott FB oldal, szerintem ilyeneket felesleges itt tárolni, bárki létrehozhat ilyet, akár véletlenül. Ezt onnan látod, hogy az oldalon szerepel az &quot;Unofficial Page&quot; a név mellett. Ráadásul ugyanaz a felhasználó ír oda, mint a ki a contact:facebook címkében is szerepel. Ha több Facebook oldal tartozik egy elemhez, akkor inkább a contact:facebook-ba sorold fel őket pontosvesszővel elválasztva. Nekiálltam a különböző Facebook url-ek megfelelő címkébe helyezésének, azért tűnt fel ez, hogy ezt már egyszer kitakarítottam. Már nincs sok hátra, ha nem dolgozol ellenem: https://overpass-turbo.eu/s/1PPz A Facebook oldal nevének visszacserélése linkre nem baj, de manapság a legtöbb megjelenítő már támogatja pusztán a felhasználónévből való feloldást, JOSM -ben jobbklikk-&gt;Facebook oldal megnyitása simán megérti. Pont az osm.org az egyetlen nagyobb megjelenítő ami nem tudja ezt még linkké alakítani. Date: 2024-09-23T13:51:43+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/156880204</link>
+        <guid>https://www.openstreetmap.org/changeset/156880204#comment_1</guid>
+        <pubDate>2024-09-23T13:51:43+02:00</pubDate>
+      </item><item>
         <title>Contributor: pagocs Discussion Comment No.: 1 Comment: Here is the GPS log. https://www.komoot.com/tour/1878082107 Date: 2024-09-23T11:11:10+02:00</title>
         <link>https://www.openstreetmap.org/changeset/156989283</link>
         <guid>https://www.openstreetmap.org/changeset/156989283#comment_1</guid>
