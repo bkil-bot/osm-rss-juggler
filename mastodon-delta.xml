@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Our end-to-end encryption engine rPGP just got a big update, fully supporting OpenPGP &amp;quot;cryptorefresh&amp;quot; RFC9850 ... Many thanks to @hko and dignifiedquire for fearlessly pushing ahead in the security machine room ... Please give them a 💜 and also @NGIZero who funded it ! https://fosstodon.org/@hko/113198947595455844</title>
+        <link>https://chaos.social/@delta/113199229864580053</link>
+        <guid>https://chaos.social/@delta/113199229864580053</guid>
+        <pubDate>Wed, 25 Sep 2024 16:52:50 +0000</pubDate>
+      </item><item>
         <title>Dear @simplex .... Could you elaborate on this tweet? We aim for both censorship resistance and privacy and are curious about your take there .... A screenshot of a tweet from simplex chat reading: Censorship resistance and privacy are in a contradiction - the more censorship resistant a communication solution is, the less private it is, inevitably. SimpleX Chat focus is privacy.</title>
         <link>https://chaos.social/@delta/113182526166985853</link>
         <guid>https://chaos.social/@delta/113182526166985853</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/112573984840006905</link>
         <guid>https://chaos.social/@delta/112573984840006905</guid>
         <pubDate>Fri, 07 Jun 2024 06:44:48 +0000</pubDate>
-      </item><item>
-        <title>News from our direct action R&amp;amp;D #deltalab : Addressable communities. End to end encrypted. No state on servers. Attached: first a chat from deltafans with the hispanohablantes community ... where someone from the Spanish side invites deltafans folks to join it. Second is the Spanish community chatlist where lots of chatting is going on ... Also includes the chat with the deltafans community. Both are independently running and can adress/ be adressed with a messenger UX you already know. A chat from the &quot;deltafans&quot; community with the hispanohablantes community (Spanish speaking ) community .... With an invitation to join it .... All members of both communitirs use guaranteed end to end encryption as the chat has a green checkmark. A chat list of the Spanish speaking community .... It has its own (Spanish speaking) topics and also a chat with &quot;deltafans&quot;</title>
-        <link>https://chaos.social/@delta/112573959836159028</link>
-        <guid>https://chaos.social/@delta/112573959836159028</guid>
-        <pubDate>Fri, 07 Jun 2024 06:38:27 +0000</pubDate>
       </item>
   </channel>
 </rss>
