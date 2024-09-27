@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4455300 (near 4600, Kisvárda) / * 2024 September 27 19:31 Kecsege Created: Ha minden igaz, ide múzeum épül. Még nem látszik egyik műholdképen sem.</title>
+        <link>https://www.openstreetmap.org/note/4455300#c9764473</link>
+        <guid>https://www.openstreetmap.org/note/4455300#c9764473</guid>
+        <pubDate>Fri, 27 Sep 2024 19:31:47 +0000</pubDate>
+      </item><item>
+        <title>closed note 3221284 (near 4600, Kisvárda) / * 2022 June 12 13:33 Created: Hiányzó út, hátra a parkolókhoz. / * 2024 September 27 19:30 Kecsege Resolved: Hozzáadva: / https://www.openstreetmap.org/changeset/157185874</title>
+        <link>https://www.openstreetmap.org/note/3221284#c9764470</link>
+        <guid>https://www.openstreetmap.org/note/3221284#c9764470</guid>
+        <pubDate>Fri, 27 Sep 2024 19:30:45 +0000</pubDate>
+      </item><item>
+        <title>closed note 3027150 (near 4600, Kisvárda) / * 2022 January 27 19:26 Created: Gravitációs alappont. / * 2024 September 27 19:30 Kecsege Resolved: Hozzáadva: / https://www.openstreetmap.org/changeset/157185874</title>
+        <link>https://www.openstreetmap.org/note/3027150#c9764469</link>
+        <guid>https://www.openstreetmap.org/note/3027150#c9764469</guid>
+        <pubDate>Fri, 27 Sep 2024 19:30:38 +0000</pubDate>
+      </item><item>
         <title>new note 4455258 (near 1096, Középső-Ferencváros, 9th district) / * 2024 September 27 18:40 Created: note</title>
         <link>https://www.openstreetmap.org/note/4455258#c9764374</link>
         <guid>https://www.openstreetmap.org/note/4455258#c9764374</guid>
@@ -207,21 +222,6 @@
         <link>https://www.openstreetmap.org/note/4351692#c9759895</link>
         <guid>https://www.openstreetmap.org/note/4351692#c9759895</guid>
         <pubDate>Thu, 26 Sep 2024 11:11:51 +0000</pubDate>
-      </item><item>
-        <title>closed note 4307333 (near 1089, Tisztviselőtelep, 8th district) / * 2024 June 25 11:54 Created: Mérőpont / * 2024 September 26 11:09 urbalazs Resolved: Ez a funkció a térkép hibáinak jelzésére szolgál. Magánjellegű információk tárolásához nem használható.</title>
-        <link>https://www.openstreetmap.org/note/4307333#c9759875</link>
-        <guid>https://www.openstreetmap.org/note/4307333#c9759875</guid>
-        <pubDate>Thu, 26 Sep 2024 11:09:12 +0000</pubDate>
-      </item><item>
-        <title>closed note 4307335 (near 1089, Tisztviselőtelep, 8th district) / * 2024 June 25 11:55 Created: Mérőpont / * 2024 September 26 11:09 urbalazs Resolved: Ez a funkció a térkép hibáinak jelzésére szolgál. Magánjellegű információk tárolásához nem használható.</title>
-        <link>https://www.openstreetmap.org/note/4307335#c9759874</link>
-        <guid>https://www.openstreetmap.org/note/4307335#c9759874</guid>
-        <pubDate>Thu, 26 Sep 2024 11:09:09 +0000</pubDate>
-      </item><item>
-        <title>closed note 4307334 (near 1089, Tisztviselőtelep, 8th district) / * 2024 June 25 11:54 Created: Mérőpont / * 2024 September 26 11:09 urbalazs Resolved: Ez a funkció a térkép hibáinak jelzésére szolgál. Magánjellegű információk tárolásához nem használható.</title>
-        <link>https://www.openstreetmap.org/note/4307334#c9759873</link>
-        <guid>https://www.openstreetmap.org/note/4307334#c9759873</guid>
-        <pubDate>Thu, 26 Sep 2024 11:09:05 +0000</pubDate>
       </item>
   </channel>
 </rss>
