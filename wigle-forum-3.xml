@@ -3,6 +3,16 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Android app error: CSV not processed. Trilaterating...: Not dumb at all! The app only has so much real-estate to show what's going on, so 'unprocessed' just means &quot;waiting for the kittens&quot; generally. It is curious though, watching the Upload/trilateration queue continue to grow here on the website, my waiting files keep moving farther back (was #974, now #986). I was thinking files would hold their location in the queue. The waiting, it's the hardest part -pejacoby</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=12349#p12349</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=12349#p12349</guid>
+        <pubDate>2024-09-29T14:54:00+00:00</pubDate>
+      </item><item>
+        <title>Re: Android app error: CSV not processed. Trilaterating...: Ok, gotcha. Its just not obvious to some (ie me or Google) that a CSV error on my local device is due to a server backlog. As I said, first time in 10 years seeing it. Sorry for being dumb. Thanks, -thebaldgek</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=12348#p12348</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=12348#p12348</guid>
+        <pubDate>2024-09-29T14:42:07+00:00</pubDate>
+      </item><item>
         <title>Re: Android app error: CSV not processed. Trilaterating...: There are about 2300 files in the Trilateralization queue right now. I'm sure the WigleKittens are working furiously to clear things, and that the admins are keeping them well fed along the way. Hopefully it's not the external goobers attacking the site and causing issues again... https://wigle.net/stats#processing -pejacoby</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12347#p12347</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12347#p12347</guid>
@@ -67,16 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=12257#p12257</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12257#p12257</guid>
         <pubDate>2024-07-22T17:40:52+00:00</pubDate>
-      </item><item>
-        <title>Re: Kismet files for upload: only the WiGLE .csv file can or should be uploaded. The .kismet file contains additional information we can't use and don't want (for privacy and safety reasons) -arkasha</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=12214#p12214</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=12214#p12214</guid>
-        <pubDate>2024-05-24T15:14:56+00:00</pubDate>
-      </item><item>
-        <title>Kismet files for upload: In the 'wardriving' mode of Kismet, it generates 2 files. A .kismet and .wiglecsv Last drive the .kismet file was 195.5MB and the .wiglecsv was 8.5MB. The .kismet file doesn't seem to want to upload, but do I need to? Or is the .wiglecsv file all that's needed? -clickwir</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=12213#p12213</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=12213#p12213</guid>
-        <pubDate>2024-05-23T14:00:51+00:00</pubDate>
       </item>
   </channel>
 </rss>
