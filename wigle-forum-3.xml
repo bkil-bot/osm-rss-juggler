@@ -3,6 +3,16 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Android app error: CSV not processed. Trilaterating...: There are about 2300 files in the Trilateralization queue right now. I'm sure the WigleKittens are working furiously to clear things, and that the admins are keeping them well fed along the way. Hopefully it's not the external goobers attacking the site and causing issues again... https://wigle.net/stats#processing -pejacoby</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=12347#p12347</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=12347#p12347</guid>
+        <pubDate>2024-09-29T14:14:39+00:00</pubDate>
+      </item><item>
+        <title>Android app error: CSV not processed. Trilaterating...: Been wardriving for about 10 years (longer before WIgle) and never ever seen this error. Google is returning zero results. Here is a screenshot of one of the Androids showing the error. https://imgur.com/a/aY65VmV Both Android phones (Pixel 8 and Pixel 5) show the last two files with the same error. I have rebooted one of the phones and it made no change. Pulling down and refreshing the list makes no change. EDIT: It's been this way on both phones for about 14 hours. (ie overnight) How can I get the files to finish and upload? (A few hours driving specific routes in there!) Thanks. -thebaldgek</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=12346#p12346</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=12346#p12346</guid>
+        <pubDate>2024-09-29T13:39:48+00:00</pubDate>
+      </item><item>
         <title>Re: Pixel 9 (Pro) its so bad, wow...: Good find, I will have to run some tests with the screen set to stay on. The Pixel 6 is still beast-mode for BlueTooth, so it's a bummer Google busted something in the past couple updates. There's very little detail on what was fixed -- would we be able to suss out any of the changes in the ASOP release code? I've never gone spelunking there before... -pejacoby</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12345#p12345</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12345#p12345</guid>
@@ -67,16 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=12213#p12213</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12213#p12213</guid>
         <pubDate>2024-05-23T14:00:51+00:00</pubDate>
-      </item><item>
-        <title>Re: WarFlying: Hopping in to re-invigorate a newly necro'd thread, but just today I started putting together the bag of parts to go warflying with a small fixed wing drone, hauling not much more than a Pi Zero W, GPS, and a LoRa link. If I get anywhere at all, I'll be improving the antenna later. -brockhold</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=12161#p12161</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=12161#p12161</guid>
-        <pubDate>2024-03-26T23:29:48+00:00</pubDate>
-      </item><item>
-        <title>Re: Kismet drone on wireless router? (e.g. Linksys WRT54GL): I built one 10+ years ago. Recently found that digital signage PCs are more suitable. I've rescued three Giada VM23 boxes from the e-waste. Add a cheap USB GPS and you are good as bluetooth and wifi is built in. Three additional USB ports for more wifi adapters. Runs of 12v with a barrel plug. Easy to make a cigarette power plug adapter. I see many go for about $20. Many was sold with only 1 year Windows 10 IOT, so quickly EOL. Kali runs well on it, even with three radios, two gps and graphical user interface.It's impressive how you repurposed older hardware effectively for digital signage. The Giada VM23 boxes, coupled with USB GPS and additional WiFi adapters, offer versatile functionality. Kali Linux's compatibility breathes new life into these devices, extending their utility beyond their original scope. -Sunnyle</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=12143#p12143</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=12143#p12143</guid>
-        <pubDate>2024-03-19T20:23:37+00:00</pubDate>
       </item>
   </channel>
 </rss>
