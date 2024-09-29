@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4457987 (near 1224, Nagytétény, 22nd district) / * 2024 September 29 18:43 Kecsege Resolved: Üdv, / Láttam, hogy hozzáadtak egy jegyzetet a térképhez. Felvittem a céget az Openstreetmapra. / A jegyzetet legközelebb ne zárják le maguk, azt a szerkesztést elvégző fogja zárni. Ellenkező esetben elsiklik felette az ember és nem vesszük észre, hogy van egy újabb jegyzet amit meg kell oldani. / A módosítást nemsokára Önök is láthatják a térképen. / Amennyiben nem egyedi esetről van szó és önök is akarják szerkeszteni a térképet, ajánlom a magyar OSM wikipedia oldalát: / https://wiki.openstreetmap.org/wiki/Hu:Kezd%C5%91lap / Amennyiben kérdésük van, nyugodtan keressék fel a magyar közösséget valamelyik csatornán: https://wiki.openstreetmap.org/wiki/Hungary/K%C3%B6z%C3%B6ss%C3%A9g / Én a Magyar nyelvű Matrix-szobát ajánlom. Ott gyorsan választ kaphatnak a felmerülő kérdésekre.</title>
+        <link>https://www.openstreetmap.org/note/4457987#c9771104</link>
+        <guid>https://www.openstreetmap.org/note/4457987#c9771104</guid>
+        <pubDate>Sun, 29 Sep 2024 18:43:37 +0000</pubDate>
+      </item><item>
+        <title>reactivated note 4457987 (near 1224, Nagytétény, 22nd district) / * 2024 September 29 18:38 Kecsege Reactivated: </title>
+        <link>https://www.openstreetmap.org/note/4457987#c9771087</link>
+        <guid>https://www.openstreetmap.org/note/4457987#c9771087</guid>
+        <pubDate>Sun, 29 Sep 2024 18:38:32 +0000</pubDate>
+      </item><item>
         <title>closed note 4457987 (near 1224, Nagytétény, 22nd district) / * 2024 September 29 17:40 Jericho Kft Resolved: </title>
         <link>https://www.openstreetmap.org/note/4457987#c9770916</link>
         <guid>https://www.openstreetmap.org/note/4457987#c9770916</guid>
@@ -102,36 +112,6 @@
         <link>https://www.openstreetmap.org/note/4455086#c9763866</link>
         <guid>https://www.openstreetmap.org/note/4455086#c9763866</guid>
         <pubDate>Fri, 27 Sep 2024 15:33:43 +0000</pubDate>
-      </item><item>
-        <title>new note 4455071 (near 4030, Epreskert, Debrecen) / * 2024 September 27 15:18 ITineris Created: Épült ide egy új épület.</title>
-        <link>https://www.openstreetmap.org/note/4455071#c9763829</link>
-        <guid>https://www.openstreetmap.org/note/4455071#c9763829</guid>
-        <pubDate>Fri, 27 Sep 2024 15:18:28 +0000</pubDate>
-      </item><item>
-        <title>closed note 4373663 (near 7275, Igal) / * 2024 August 8 21:56 Rob Juurlink Created: Name of this street: &amp;quot;Zártkert út&amp;quot;. / * 2024 August 8 21:57 Rob Juurlink Resolved:  / * 2024 August 8 21:58 Rob Juurlink Reactivated:  / * 2024 September 27 14:10 Rob Juurlink Resolved: </title>
-        <link>https://www.openstreetmap.org/note/4373663#c9763535</link>
-        <guid>https://www.openstreetmap.org/note/4373663#c9763535</guid>
-        <pubDate>Fri, 27 Sep 2024 14:10:33 +0000</pubDate>
-      </item><item>
-        <title>closed note 3671527 (near 2131, Alsógöd, Göd) / * 2023 May 2 20:51 vasony Created: Ez a Kincsem park? / * 2023 June 12 00:49 urbalazs Updated: Piac, középen egy ló szobor, de sehol sincs utcanévtábla. Más forrásból kell megoldani. / * 2023 June 13 11:12 vasony Updated: Az épület címe Kincsem park 2, ezt rögzítettem, nem tudom a parkot hogy rajzoljuk fel, / * 2024 September 27 12:36 infeeeee Resolved: Ló szobor körül van valami park szerűség, felvittem, meg ezt a nevet is neki, mellette egy fixme=verify-jal: https://www.openstreetmap.org/changeset/157169083</title>
-        <link>https://www.openstreetmap.org/note/3671527#c9763207</link>
-        <guid>https://www.openstreetmap.org/note/3671527#c9763207</guid>
-        <pubDate>Fri, 27 Sep 2024 12:36:41 +0000</pubDate>
-      </item><item>
-        <title>closed note 3715596 (near 2132, Nevelek, Göd) / * 2023 June 1 14:03 Csipitom Created: &amp;quot;idősotthon&amp;quot; / OSM snapshot date: 2023-05-03T17:52:15Z / POI has no name / POI types: building / #organicmaps / * 2024 September 27 12:20 infeeeee Resolved: No, hotel again. Mapped correctly now.</title>
-        <link>https://www.openstreetmap.org/note/3715596#c9763131</link>
-        <guid>https://www.openstreetmap.org/note/3715596#c9763131</guid>
-        <pubDate>Fri, 27 Sep 2024 12:20:28 +0000</pubDate>
-      </item><item>
-        <title>closed note 3972233 (near Breier Farm, Pomáz) / * 2023 November 4 09:19 Johanna707 Created: Unable to answer &amp;quot;Is this still here?&amp;quot; for https://osm.org/node/3473874834 via StreetComplete 55.0: / kiépített forrás van, tűznek nincs nyoma / * 2024 September 27 11:48 infeeeee Resolved: Törölve: https://osm.org/changeset/157167127</title>
-        <link>https://www.openstreetmap.org/note/3972233#c9762991</link>
-        <guid>https://www.openstreetmap.org/note/3972233#c9762991</guid>
-        <pubDate>Fri, 27 Sep 2024 11:48:13 +0000</pubDate>
-      </item><item>
-        <title>closed note 4331150 (near 2000, Izbég, Szentendre) / * 2024 July 13 10:58 pihentagy Created: Unable to answer &amp;quot;What barriers are used at this railway crossing?&amp;quot; – Railway-Path Crossing – https://osm.org/node/3422262488 via StreetComplete 58.2: / Nincs itt vasúti átkelő / * 2024 September 27 11:47 infeeeee Resolved: Törölve: osm.org/changeset/157167127</title>
-        <link>https://www.openstreetmap.org/note/4331150#c9762989</link>
-        <guid>https://www.openstreetmap.org/note/4331150#c9762989</guid>
-        <pubDate>Fri, 27 Sep 2024 11:47:54 +0000</pubDate>
       </item>
   </channel>
 </rss>
