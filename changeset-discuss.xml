@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: AndreasTUHU Discussion Comment No.: 1 Comment: Szia, Nemrég jártam errefelé és úgy láttam, hogy a Kádár-villa helyén nincs semmilyen épület vagy rom. Viszont a 46.99164, 18.1679185 koordinátán még áll egy épület ami az alábbi cikkben szereplő képek alapján, a Kádár villa lehet (IV.) Ha nincs ellenvetésed, a IV.sz. villát visszaállítanám törölt állapotábaól és a jelenlegi Kádár villát törölném. Üdv, András Date: 2024-10-03T06:32:09+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/90518783</link>
+        <guid>https://www.openstreetmap.org/changeset/90518783#comment_1</guid>
+        <pubDate>2024-10-03T06:32:09+02:00</pubDate>
+      </item><item>
         <title>Contributor: bkil Discussion Comment No.: 1 Comment: Köszönjük az információt és üdv a szerkesztők táborában. OSM alatt úgynevezett access restriction használatos arra, hogy hová ki mehet be. Itt highway=service kell maradjon ha egy tűzoltó fizikailag be képes gurulni, és helyette az access=private és motor_vehicle=no kellene. Date: 2024-10-02T18:51:59+02:00</title>
         <link>https://www.openstreetmap.org/changeset/157390956</link>
         <guid>https://www.openstreetmap.org/changeset/157390956#comment_1</guid>
@@ -52,11 +57,6 @@
         <link>https://www.openstreetmap.org/changeset/157069793</link>
         <guid>https://www.openstreetmap.org/changeset/157069793#comment_7</guid>
         <pubDate>2024-09-26T16:12:26+02:00</pubDate>
-      </item><item>
-        <title>Contributor: hatodrangu Discussion Comment No.: 2 Comment: Szia! A szerkesztéskor valami elcsúszott és azért nem vitte át, de már javítottam. Köszönöm, hogy szóltál. A Google térképen is megcsináltam, de ott sokkal lassabban mennek ezek, van amit 3 hónapja nem hagytak jóvá. Üdv: Feri Date: 2024-09-26T06:39:00+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/157039683</link>
-        <guid>https://www.openstreetmap.org/changeset/157039683#comment_2</guid>
-        <pubDate>2024-09-26T06:39:00+02:00</pubDate>
       </item>
   </channel>
 </rss>
