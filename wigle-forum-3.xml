@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Pixel 9 (Pro) its so bad, wow...: I took a look at the AOSP information at https://source.android.com/docs/securit ... 2024-09-01 and it looks a lot like out of bounds write fixes aplenty in the Quallcomm WLAN code for September. Similar for August patches - https://source.android.com/docs/securit ... 2024-08-01 I'm not smart enough to know if any of that would impact what we are seeing, but maybe someone else has a nose for the news in the of the details. -pejacoby</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=12368#p12368</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=12368#p12368</guid>
+        <pubDate>2024-10-03T23:04:13+00:00</pubDate>
+      </item><item>
         <title>Re: Pixel 9 (Pro) its so bad, wow...: it's not even a major version release - I don't even know that this is a documented Android change / something we can code around. -arkasha</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12365#p12365</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12365#p12365</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=12303#p12303</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12303#p12303</guid>
         <pubDate>2024-09-07T04:49:18+00:00</pubDate>
-      </item><item>
-        <title>Re: BU 353N not working on PI: I was only able to get my unit working by applying the &quot;-b&quot; to GPSD.conf gps options. Ive tested several times, and unless this option is in place, which is basically a type of read only mode from the sensor, GPSD doesn't communicate with it properly. I am replacing the unit in any case because it was just one I used temporarily, and it only has access to US GPS constellation vs a GNSS model. I also had to restart gpsd.service, and gpsd.socket each time I unplugged the unit. Linux was creating a /dev/ttyUSB1 at times instead of the /dev/ttyUSB0 I have entered into the config files for everything. When I notice /dev/tty1 instead of ttyUSB0, I unplug/plug again and recheck to make sure it has reverted back. -chronos7</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=12296#p12296</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=12296#p12296</guid>
-        <pubDate>2024-09-03T13:04:47+00:00</pubDate>
       </item>
   </channel>
 </rss>
