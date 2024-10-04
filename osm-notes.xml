@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4384886 (near 2627, Zebegény) / * 2024 August 15 14:37 wfvw Created: Az utca déli oldala hivatalosan: Naphegy 27-37. (házszámok helyesek) / * 2024 October 3 19:02 infeeeee Updated: Itt van egy Naphegy 1: https://osm.org/node/10799881039 / Ez is helyes? / * 2024 October 4 07:19 wfvw Resolved: Igen, ilyen fura a kiosztás (van benne logikus, csak az épület át van csúszva a telken belül a másik utca felé)</title>
+        <link>https://www.openstreetmap.org/note/4384886#c9785740</link>
+        <guid>https://www.openstreetmap.org/note/4384886#c9785740</guid>
+        <pubDate>Fri, 04 Oct 2024 07:19:05 +0000</pubDate>
+      </item><item>
         <title>new note 4463753 (near 8900, Belváros, Zalaegerszeg) / * 2024 October 4 04:32 vasony Created: Ennek tényleg Saválló oszlop park a neve?</title>
         <link>https://www.openstreetmap.org/note/4463753#c9785479</link>
         <guid>https://www.openstreetmap.org/note/4463753#c9785479</guid>
@@ -222,16 +227,6 @@
         <link>https://www.openstreetmap.org/note/4462575#c9782904</link>
         <guid>https://www.openstreetmap.org/note/4462575#c9782904</guid>
         <pubDate>Thu, 03 Oct 2024 09:06:13 +0000</pubDate>
-      </item><item>
-        <title>closed note 4462569 (near MOL Horgásztanya, Tihany) / * 2024 October 3 09:06 NeisBot Resolved: This note has the identical location and text / as note https://osm.org/note/4462568 / Therefore, it will be closed. / #DuplicateNote</title>
-        <link>https://www.openstreetmap.org/note/4462569#c9782903</link>
-        <guid>https://www.openstreetmap.org/note/4462569#c9782903</guid>
-        <pubDate>Thu, 03 Oct 2024 09:06:13 +0000</pubDate>
-      </item><item>
-        <title>new note 4462575 (near MOL Horgásztanya, Tihany) / * 2024 October 3 08:54 gonzoontherun Created: &amp;quot;The name of Coffee bar is Kompra. / See https://maps.app.goo.gl/HXVeyN6UzPXiQj9U8&amp;quot; / OSM snapshot date: 2024-09-04T00:27:27Z / POI name: Kompra Café / POI types: building amenity-cafe / #organicmaps ios</title>
-        <link>https://www.openstreetmap.org/note/4462575#c9782883</link>
-        <guid>https://www.openstreetmap.org/note/4462575#c9782883</guid>
-        <pubDate>Thu, 03 Oct 2024 08:54:32 +0000</pubDate>
       </item>
   </channel>
 </rss>
