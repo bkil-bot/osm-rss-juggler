@@ -3,6 +3,16 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Pixel 9 (Pro) its so bad, wow...: I did a mult-hour run today with my Pixel 6 and set the screen config in the WigleNet app to &quot;Keep screen on&quot;. It definitely did better for discovered WiFi than when the screen was allowed to sleep. The upload file is in the Wigle.net queue so we'll see how it compares to several other devices. I als had it in my pocket for several hours at an event, and while the screen was off (as I had hit the power button on the device), we'll have to see how it did based on the app setting saying keep the screen ON. -pejacoby</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=12373#p12373</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=12373#p12373</guid>
+        <pubDate>2024-10-05T21:57:48+00:00</pubDate>
+      </item><item>
+        <title>Re: Pixel 9 (Pro) its so bad, wow...: i can confirm now that &quot;screen on&quot; solves the problem. How usable that is, is another topic... Data from a short run, all 3 phones on the dashboard from a car: S10: Wifi: 2250 Cells: 25 Bluetooth: 1054 S20: Wifi: 2542 Cells: 28 Bluetooth: 1204 P9: Wifi: 2737 Cells: 48 Bluetooth: 1175 so the Pixel 9 holds now 1st place in my phone fleet, but only when i can let the screen on. Plot with the data shows how many more scans the P9 makes: p9_screenon.PNGAre the numbers from the phones displayed on the dashboard? Or the numbers are after you uploaded them to wigle and they were parsed? Are you uploading the phones with the highest displayed found nets first or randomly uploading whichever phone you grab first? -toothpaste</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=12372#p12372</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=12372#p12372</guid>
+        <pubDate>2024-10-05T21:43:12+00:00</pubDate>
+      </item><item>
         <title>Re: Pixel 9 (Pro) its so bad, wow...: I took a look at the AOSP information at https://source.android.com/docs/securit ... 2024-09-01 and it looks a lot like out of bounds write fixes aplenty in the Quallcomm WLAN code for September. Similar for August patches - https://source.android.com/docs/securit ... 2024-08-01 I'm not smart enough to know if any of that would impact what we are seeing, but maybe someone else has a nose for the news in the of the details. -pejacoby</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12368#p12368</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12368#p12368</guid>
@@ -67,16 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=12337#p12337</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12337#p12337</guid>
         <pubDate>2024-09-26T17:08:23+00:00</pubDate>
-      </item><item>
-        <title>Pixel 9 (Pro) its so bad, wow...: Hello, i compared some phones in the past and so far the Samsung S20 is &quot;the best&quot; for me, see here: viewtopic.php?t=2498#p11121 Now i have the Pixel 9 Pro and its so bad im wondering if i do something wrong, or the phone is broken A comparison between the S20 and the P9Pro, both on the dashboard from a car, driving a bit around. List showing the total found items for Wifi, Bluetooth and Cells: S20 W: 3359 B: 1544 C: 100 P9Pro W: 550 B:1628 C: 100 The Pixel 9 Pro is about 6x worse than the S20, thats a difference i have never seen before comparing phones. Bluetooth and Cells look good. Yes i have the developer options active and scan throttle off, is there anything else i can do? Does somebody here also have a P9? or other Pixel with good results? -d2k2</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=12336#p12336</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=12336#p12336</guid>
-        <pubDate>2024-09-26T15:47:04+00:00</pubDate>
-      </item><item>
-        <title>Re: Best Android for WigleWifi: I have a Motorola Droid 2 that I was using just for Wigle (no cell service), but lately it won't get a GPS lock. Are there any recommendations for low cost Android phones that could be picked up on eBay that work great with Wigle. I'm looking for something that doesn't take a year to get GPS lock and has serious battery life. Also if you had one of the CDMA/GSM world phones would that detect both towers?For a low-cost Android phone with good GPS performance, I'd recommend looking at older models like the Moto G series or Samsung Galaxy S5. They usually have reliable GPS and decent battery life, and you can find them for a good price on eBay. As for the CDMA/GSM world phones, yes, they should be able to detect both types of towers, which could enhance your Wigle experience. Just make sure GPS performance is solid on the model you choose! -husnain11221</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=12303#p12303</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=12303#p12303</guid>
-        <pubDate>2024-09-07T04:49:18+00:00</pubDate>
       </item>
   </channel>
 </rss>
