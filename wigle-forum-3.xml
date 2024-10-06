@@ -3,6 +3,16 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Pixel 9 (Pro) its so bad, wow...: A couple of drives now seeing 'normal' results with the Pixel 6 after setting &quot;Keep screen on&quot; in the app options on the main screen menu. I made the setting change while the P6 was showing 1 WiFi network and it instantly jumped to 11 networks seen. As noted before, it appears you can hit the power button to power off the screen and things remain happy. Very odd, but happy to have a work-around for the issue! -pejacoby</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=12376#p12376</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=12376#p12376</guid>
+        <pubDate>2024-10-06T20:13:58+00:00</pubDate>
+      </item><item>
+        <title>Re: Pixel 9 (Pro) its so bad, wow...: Are the numbers from the phones displayed on the dashboard? Or the numbers are after you uploaded them to wigle and they were parsed? Are you uploading the phones with the highest displayed found nets first or randomly uploading whichever phone you grab first?This are the &quot;# in File&quot; numbers from the upload page. So the total found in that given run. Another find from today is that it also kind of works if you plug in power. But not as good as with screen on. The wifi count is ~ same between S20 and P9Pro, Bluetooth is way worse, Cells are same. So something is up with the Radios in the Pixel phones depending on the &quot;Sleep state&quot; i would say -d2k2</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=12375#p12375</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=12375#p12375</guid>
+        <pubDate>2024-10-06T19:55:20+00:00</pubDate>
+      </item><item>
         <title>Re: Pixel 9 (Pro) its so bad, wow...: I did a mult-hour run today with my Pixel 6 and set the screen config in the WigleNet app to &quot;Keep screen on&quot;. It definitely did better for discovered WiFi than when the screen was allowed to sleep. The upload file is in the Wigle.net queue so we'll see how it compares to several other devices. I als had it in my pocket for several hours at an event, and while the screen was off (as I had hit the power button on the device), we'll have to see how it did based on the app setting saying keep the screen ON. -pejacoby</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12373#p12373</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12373#p12373</guid>
@@ -67,16 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=12345#p12345</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12345#p12345</guid>
         <pubDate>2024-09-29T04:14:13+00:00</pubDate>
-      </item><item>
-        <title>Re: Pixel 9 (Pro) its so bad, wow...: that does not sound good But i might have found a little hope today Did the same thing again (with some more phones), and on the last bit i enabled &quot;keep screen active&quot; on the p9. That had a effect Right at the start the P9 is faster, then it goes into sleep or something, some sort of battery safer? Lastly with the screen on it starts catching up to the S20 Thats it so far, will continue in the next days -d2k2</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=12338#p12338</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=12338#p12338</guid>
-        <pubDate>2024-09-27T20:02:50+00:00</pubDate>
-      </item><item>
-        <title>Re: Pixel 9 (Pro) its so bad, wow...: The last 2 security updates from Google have effected many Pixel phones. You are not the only person that had a pixel go from their best performer to their worst. August 5, 2024 first update turned my pixel 6 into the worst performing phone in my setup. September 5, 2024 second security update that many people started to notice pixel performance drops. Haven't heard of any resolutions to the problem. Aside from downgrading to previous versions of Android on unlocked phones, Verizon still locks the phones and the process to get them unlocked is a tedious one. Or installing grapheneOS which I'm told resolves those issues. -toothpaste</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=12337#p12337</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=12337#p12337</guid>
-        <pubDate>2024-09-26T17:08:23+00:00</pubDate>
       </item>
   </channel>
 </rss>
