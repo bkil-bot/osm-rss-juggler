@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: Kecsege Discussion Comment No.: 2 Comment: Szia, tudom ez elvi kérdés. Van két iskola. Én hajlok a berajzolásra, de itt nem kezdtem el olyan utcákba belenyúlni ahol egyáltalán nem volt jelölve. Szerintem kárt nem okoz, illetve könnyebb megnézni egy adott út vagy járda jellemzőit, ha külön van jelölve. Remélem nagyon nem zavartam be. Illetve pár helyen javítottam a sidewalk:separate -&gt; sidewalk:both -&gt; separatet, wikinek megfelelően. Date: 2024-10-07T20:34:44+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/157576613</link>
+        <guid>https://www.openstreetmap.org/changeset/157576613#comment_2</guid>
+        <pubDate>2024-10-07T20:34:44+02:00</pubDate>
+      </item><item>
         <title>Contributor: antoon334 Discussion Comment No.: 5 Comment: I understand your point as well as I agree that Organic Maps should better parse points' tags. OsmAnd example is fair enough. Yet I honestly don't see the logic of having amenity=drinking_water AND drinking_water=no at the same time. If the water there is not drinkable so.. It's not a drinking water point, I suppose? A kind of fountain, maybe? Or some other category? Date: 2024-10-07T17:10:11+02:00</title>
         <link>https://www.openstreetmap.org/changeset/152045825</link>
         <guid>https://www.openstreetmap.org/changeset/152045825#comment_5</guid>
