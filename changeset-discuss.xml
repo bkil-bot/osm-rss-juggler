@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infalap Discussion Comment No.: 2 Comment: köszi, jogos Date: 2024-10-08T11:50:54+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/157606738</link>
+        <guid>https://www.openstreetmap.org/changeset/157606738#comment_2</guid>
+        <pubDate>2024-10-08T11:50:54+02:00</pubDate>
+      </item><item>
+        <title>Contributor: bkil Discussion Comment No.: 1 Comment: Köszönjük a közreműködést. Javítottam a jelölést, erre kérünk a jövőben figyelni: https://wiki.osm.org/Hungary/Fontos_szempontok#Life_cycle_prefix Date: 2024-10-08T11:40:04+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/157619261</link>
+        <guid>https://www.openstreetmap.org/changeset/157619261#comment_1</guid>
+        <pubDate>2024-10-08T11:40:04+02:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 6 Comment: I just noticed that Organic Maps also understands this tagging scheme, see this screenshot: https://files.catbox.moe/w5lpri.png If you tap on the POI it shows the not drinkable sign. I found it in the changelog, this was added this March: https://organicmaps.app/news/2024-03-11/now-everyone-can-back-up-or-share-all-bookmarks-and-imported-tracks-as-one-kmz-file-with-just-one-click/ Nonetheless I removed the amenity=drinking_water in this changeset: https://osm.org/changeset/157620583 man_made=water_tap should be enough, there is some better documentation about this on its wiki page: https://wiki.openstreetmap.org/wiki/Tag:man_made%3Dwater_tap I will write a question about this on the wiki page of amenity=drinking_water, that page should be clarified, and the contradictions should be resolved. Date: 2024-10-08T11:10:50+02:00</title>
         <link>https://www.openstreetmap.org/changeset/152045825</link>
         <guid>https://www.openstreetmap.org/changeset/152045825#comment_6</guid>
@@ -22,11 +32,6 @@
         <link>https://www.openstreetmap.org/changeset/157613472</link>
         <guid>https://www.openstreetmap.org/changeset/157613472#comment_1</guid>
         <pubDate>2024-10-08T09:17:45+02:00</pubDate>
-      </item><item>
-        <title>Contributor: bkil Discussion Comment No.: 1 Comment: Köszönjük a közreműködést. Viszont a következő hibát javítottam, erre kérünk figyelni a jövőben: https://wiki.osm.org/Hungary/Fontos_szempontok#Life_cycle_prefix Date: 2024-10-08T08:50:39+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/157606738</link>
-        <guid>https://www.openstreetmap.org/changeset/157606738#comment_1</guid>
-        <pubDate>2024-10-08T08:50:39+02:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 2 Comment: Javítottam ebben a changesetben: https://www.openstreetmap.org/changeset/157614143 További jó térképezést! Date: 2024-10-08T08:33:47+02:00</title>
         <link>https://www.openstreetmap.org/changeset/157580822</link>
