@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4471413 (near MOL Horgásztanya, Tihany) / * 2024 October 9 13:36 NeisBot Resolved: This note has the identical location and text / as note https://osm.org/note/4462568 / Therefore, it will be closed. / #DuplicateNote</title>
+        <link>https://www.openstreetmap.org/note/4471413#c9804826</link>
+        <guid>https://www.openstreetmap.org/note/4471413#c9804826</guid>
+        <pubDate>Wed, 09 Oct 2024 13:36:51 +0000</pubDate>
+      </item><item>
+        <title>new comment 4469172 (near 6728, Szeged) / * 2024 October 9 13:31 gabro00 Updated: Ahh, csak ha van türelmed. Évekkel ezelőtti és a régiek nem is OCR-esek, én egy fél napot rászántam anno...</title>
+        <link>https://www.openstreetmap.org/note/4469172#c9804781</link>
+        <guid>https://www.openstreetmap.org/note/4469172#c9804781</guid>
+        <pubDate>Wed, 09 Oct 2024 13:31:13 +0000</pubDate>
+      </item><item>
+        <title>new comment 4469172 (near 6728, Szeged) / * 2024 October 7 19:56 vasony Created: Ez a Merkapt köz? / * 2024 October 7 21:33 gabro00 Updated: Feltételezhetően, de nem is biztos táblázva van. / * 2024 October 8 05:00 vasony Updated: van forrasod ra? / * 2024 October 8 20:09 gabro00 Updated: Ugyanaz, mint neked :) / De valamelyik KCR határozatban mintha említették volna, csak nem volt teljesen egyértelmű, ezért kimaradt a felvétele. / * 2024 October 9 13:24 vasony Updated: megnezem akkor ott, hatha</title>
+        <link>https://www.openstreetmap.org/note/4469172#c9804735</link>
+        <guid>https://www.openstreetmap.org/note/4469172#c9804735</guid>
+        <pubDate>Wed, 09 Oct 2024 13:24:07 +0000</pubDate>
+      </item><item>
         <title>new note 4471413 (near MOL Horgásztanya, Tihany) / * 2024 October 9 13:10 gonzoontherun Created: &amp;quot;The name of Coffee bar is Kompra. / See https://maps.app.goo.gl/HXVeyN6UzPXiQj9U8&amp;quot; / OSM snapshot date: 2024-09-04T00:27:27Z / POI name: Kompra Café / POI types: building amenity-cafe / #organicmaps ios</title>
         <link>https://www.openstreetmap.org/note/4471413#c9804666</link>
         <guid>https://www.openstreetmap.org/note/4471413#c9804666</guid>
@@ -277,26 +292,6 @@
         <link>https://www.openstreetmap.org/note/4468388#c9797468</link>
         <guid>https://www.openstreetmap.org/note/4468388#c9797468</guid>
         <pubDate>Mon, 07 Oct 2024 10:06:09 +0000</pubDate>
-      </item><item>
-        <title>reactivated note 4356402 (near 6750, Algyő) / * 2024 October 7 10:06 gabro00 Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/4356402#c9797467</link>
-        <guid>https://www.openstreetmap.org/note/4356402#c9797467</guid>
-        <pubDate>Mon, 07 Oct 2024 10:06:07 +0000</pubDate>
-      </item><item>
-        <title>new note 4468385 (near 3187, Nógrádszakál) / * 2024 October 7 10:04 Created: Ez nem forgalomcsillapító csak prizmák vannak az úttestbe építve.</title>
-        <link>https://www.openstreetmap.org/note/4468385#c9797461</link>
-        <guid>https://www.openstreetmap.org/note/4468385#c9797461</guid>
-        <pubDate>Mon, 07 Oct 2024 10:04:44 +0000</pubDate>
-      </item><item>
-        <title>new comment 2693673 (near 5465, Cserkeszőlő) / * 2021 June 1 00:30 bkil Created: Rákóczi utca vagy Rákóczi Ferenc utca? / * 2024 October 4 14:00 ITineris Updated: Egy régi táblán röviden van, egy újabb táblán is van röviden, egy másik új táblán hosszan. (Vicces, mert kinézetre egyszerre készült ez a kettő.) / A KCR-ben szintén hosszan. / * 2024 October 7 09:58 bkil Updated: A megoldás egyszerű: be kell csengetni valakihez és ellenőrizni a lakcímkártyán. (Pontosabban lakcímkártyák átlaga alapján)</title>
-        <link>https://www.openstreetmap.org/note/2693673#c9797443</link>
-        <guid>https://www.openstreetmap.org/note/2693673#c9797443</guid>
-        <pubDate>Mon, 07 Oct 2024 09:58:40 +0000</pubDate>
-      </item><item>
-        <title>closed note 4350981 (near 3013, Ecséd) / * 2024 October 7 09:58 infeeeee Resolved: Javítottam, szerintem ezek a címkék ezt így jól leírják: / man_made=goods_conveyor / goods_conveyor=slide / resource=grain / https://www.openstreetmap.org/changeset/157574173</title>
-        <link>https://www.openstreetmap.org/note/4350981#c9797441</link>
-        <guid>https://www.openstreetmap.org/note/4350981#c9797441</guid>
-        <pubDate>Mon, 07 Oct 2024 09:58:36 +0000</pubDate>
       </item>
   </channel>
 </rss>
