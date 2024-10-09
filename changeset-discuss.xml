@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: aceman444 Discussion Comment No.: 4 Comment: Also please do not duplicate bus stops. The node with public_transport=stop_position does not need highway=bus_stop when there is a platform node with highway=bus_stop nearby. E.g. https://www.openstreetmap.org/node/2592226521 and https://www.openstreetmap.org/node/2592226522. Date: 2024-10-09T20:17:56+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/76110261</link>
+        <guid>https://www.openstreetmap.org/changeset/76110261#comment_4</guid>
+        <pubDate>2024-10-09T20:17:56+02:00</pubDate>
+      </item><item>
         <title>Contributor: bkil Discussion Comment No.: 3 Comment: Köszönjük a pontosítást. Date: 2024-10-09T12:19:57+02:00</title>
         <link>https://www.openstreetmap.org/changeset/157660105</link>
         <guid>https://www.openstreetmap.org/changeset/157660105#comment_3</guid>
