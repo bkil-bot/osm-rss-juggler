@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4473141 (near 6791, Öreghegy, Szeged) / * 2024 October 10 17:05 vasony Created: Itt milyen utcatábla van? Nem Palóc utca?</title>
+        <link>https://www.openstreetmap.org/note/4473141#c9808407</link>
+        <guid>https://www.openstreetmap.org/note/4473141#c9808407</guid>
+        <pubDate>Thu, 10 Oct 2024 17:05:07 +0000</pubDate>
+      </item><item>
         <title>new note 4472720 (near 2142, Nagytarcsa) / * 2024 October 10 12:47 borovac Created: Our user indicated that street name should be named &amp;quot;Petőfi telep&amp;quot;. We cannot find any available sources to verify this information. Can any local mapper confirm this? #msftopenmaps</title>
         <link>https://www.openstreetmap.org/note/4472720#c9807599</link>
         <guid>https://www.openstreetmap.org/note/4472720#c9807599</guid>
@@ -292,26 +297,6 @@
         <link>https://www.openstreetmap.org/note/4469176#c9799242</link>
         <guid>https://www.openstreetmap.org/note/4469176#c9799242</guid>
         <pubDate>Mon, 07 Oct 2024 19:59:24 +0000</pubDate>
-      </item><item>
-        <title>new note 4469172 (near 6728, Szeged) / * 2024 October 7 19:56 vasony Created: Ez a Merkapt köz?</title>
-        <link>https://www.openstreetmap.org/note/4469172#c9799235</link>
-        <guid>https://www.openstreetmap.org/note/4469172#c9799235</guid>
-        <pubDate>Mon, 07 Oct 2024 19:56:32 +0000</pubDate>
-      </item><item>
-        <title>new comment 4356402 (near 6750, Algyő) / * 2024 October 7 19:01 bkil Updated: Lakott területen kívül bárhol szabad strandolni ahol nincs külön tiltva. A légifelvételeken is kifejezetten látszik maga a part ahogy kikandikál a fák takarásából. Ez teljességgel lehetséges, hogy a tavaszi és a mostani áradás elegyengette a partot avagy beszórta szeméttel, így ennek minőségét ellenőrizni szükséges. Itt a kanyarban a lassú víz eleve sejthető, hogy előbb vagy utóbb partot mos. Amennyiben vízszintben érintkezik a víztükörrel és nem sziklafallal, nem kavicsos, nem rózsabokros (ideálisan homokos vagy iszapos), ott akár süttethetjük a fedetlen hasunkat mert besüt valamikor a nap is eleget, kiköthetjük a vízibiciklit, akkor a &amp;quot;natural=beach&amp;quot; jel már áll (még life cycle nélkül is!). Amennyiben kevésbé triviálisan megközelíthető (azaz gyanútlan turisták nem szoktak átsétálni rajta), akkor a nudizmusra alkalmasság is vélelmezhető. Ha csak időnként jó a vízszint hozzá az intermittent=yes is felmerülhet. Az, hogy a nudlisták beszaladnak a bokorba amikor meghallják a csónakot pedig kevésbé perdöntő. Az OSM-en nincs elég adat: több adat kell rá, nem kevesebb.</title>
-        <link>https://www.openstreetmap.org/note/4356402#c9799068</link>
-        <guid>https://www.openstreetmap.org/note/4356402#c9799068</guid>
-        <pubDate>Mon, 07 Oct 2024 19:01:01 +0000</pubDate>
-      </item><item>
-        <title>reactivated note 4356402 (near 6750, Algyő) / * 2024 October 7 19:00 bkil Reactivated: </title>
-        <link>https://www.openstreetmap.org/note/4356402#c9799067</link>
-        <guid>https://www.openstreetmap.org/note/4356402#c9799067</guid>
-        <pubDate>Mon, 07 Oct 2024 19:00:40 +0000</pubDate>
-      </item><item>
-        <title>closed note 4332504 (near 5000, Meggyesitelep, Szolnok) / * 2024 July 14 09:01 OSM KAMI Created: Szobor / via StreetComplete_ee 57.0 / Attached photo(s): / https://westnordost.de/p/224344.jpg / * 2024 October 7 18:01 envagyokabela Resolved: hozzáadva https://www.openstreetmap.org/changeset/157593492</title>
-        <link>https://www.openstreetmap.org/note/4332504#c9798887</link>
-        <guid>https://www.openstreetmap.org/note/4332504#c9798887</guid>
-        <pubDate>Mon, 07 Oct 2024 18:01:53 +0000</pubDate>
       </item>
   </channel>
 </rss>
