@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4473141 (near 6791, Öreghegy, Szeged) / * 2024 October 10 17:05 vasony Created: Itt milyen utcatábla van? Nem Palóc utca? / * 2024 October 11 11:06 gabro00 Resolved: Hát jó, a Posta még hivatkozik rá. Én nem tudom miért nem naprakész... Javítottam.</title>
+        <link>https://www.openstreetmap.org/note/4473141#c9810639</link>
+        <guid>https://www.openstreetmap.org/note/4473141#c9810639</guid>
+        <pubDate>Fri, 11 Oct 2024 11:06:55 +0000</pubDate>
+      </item><item>
+        <title>new note 4473961 (near 4495, Döge) / * 2024 October 11 10:55 Created: Két külön lakóövezet landuse-ból áll a falu. Ezt lehet egyesíteni kellene.</title>
+        <link>https://www.openstreetmap.org/note/4473961#c9810586</link>
+        <guid>https://www.openstreetmap.org/note/4473961#c9810586</guid>
+        <pubDate>Fri, 11 Oct 2024 10:55:53 +0000</pubDate>
+      </item><item>
+        <title>new comment 4471925 (near 6791, Öreghegy, Szeged) / * 2024 October 9 19:00 vasony Created: Ha ez a Subasa dűlő, akkor kéne forrás hozzá / * 2024 October 11 10:44 gabro00 Updated: A dűlő alapvetően helyet jelöl, nem? Dűlő utat el tudok képzelni, de így önmagában egy úton nem.</title>
+        <link>https://www.openstreetmap.org/note/4471925#c9810548</link>
+        <guid>https://www.openstreetmap.org/note/4471925#c9810548</guid>
+        <pubDate>Fri, 11 Oct 2024 10:44:00 +0000</pubDate>
+      </item><item>
+        <title>closed note 4473198 (near 6723, Tarján, Szeged) / * 2024 October 10 17:35 vasony Created: mintha már nem így menne ez az út / * 2024 October 11 10:43 gabro00 Resolved: Javítva</title>
+        <link>https://www.openstreetmap.org/note/4473198#c9810544</link>
+        <guid>https://www.openstreetmap.org/note/4473198#c9810544</guid>
+        <pubDate>Fri, 11 Oct 2024 10:43:00 +0000</pubDate>
+      </item><item>
         <title>new note 4473854 (near 1052, Belváros, 5th district) / * 2024 October 11 09:27 Pan Perníček Created: Forwarding anonymous report from #Mapycz user, please verify: There&amp;#39;s no vending machine. / https://www.openstreetmap.org/node/7994859471</title>
         <link>https://www.openstreetmap.org/note/4473854#c9810301</link>
         <guid>https://www.openstreetmap.org/note/4473854#c9810301</guid>
@@ -272,16 +292,6 @@
         <link>https://www.openstreetmap.org/note/4469819#c9801082</link>
         <guid>https://www.openstreetmap.org/note/4469819#c9801082</guid>
         <pubDate>Tue, 08 Oct 2024 11:46:02 +0000</pubDate>
-      </item><item>
-        <title>closed note 4449569 (near 1062, Terézváros, 6th district) / * 2024 September 23 20:08 H3A Created: Unable to answer &amp;quot;What’s the name of this street?&amp;quot; – underground: Pedestrian Street – https://osm.org/way/124717771 via StreetComplete 58.2: / Pedestrian &amp;amp; Bike underpass / * 2024 October 8 08:19 infeeeee Resolved: That&amp;#39;s not a name. Added noname=yes, so StreetComplete won&amp;#39;t ask this again: https://www.openstreetmap.org/changeset/157613472</title>
-        <link>https://www.openstreetmap.org/note/4449569#c9800378</link>
-        <guid>https://www.openstreetmap.org/note/4449569#c9800378</guid>
-        <pubDate>Tue, 08 Oct 2024 08:19:37 +0000</pubDate>
-      </item><item>
-        <title>closed note 4189446 (near 1139, Angyalföld, 13th district) / * 2024 April 8 17:26 OSM KAMI Created: artkonyha.hu / via StreetComplete_ee 57.0 / * 2024 May 16 08:23 infeeeee Updated: Ez micsoda? Étterem? Konyhabútor üzlet? Csak egy konyha? Honlapról nem derül ki. / * 2024 October 7 16:08 sfphoton Updated: A helyszínen nem találtam meg, a jelzett helyen most egy Porcelanosa Grupo nevű dolog van. / Attached photo(s): / https://westnordost.de/p/244757.jpg / * 2024 October 8 08:04 infeeeee Resolved: Felvittem: https://www.openstreetmap.org/changeset/157612801</title>
-        <link>https://www.openstreetmap.org/note/4189446#c9800346</link>
-        <guid>https://www.openstreetmap.org/note/4189446#c9800346</guid>
-        <pubDate>Tue, 08 Oct 2024 08:04:28 +0000</pubDate>
       </item>
   </channel>
 </rss>
