@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4471925 (near 6791, Öreghegy, Szeged) / * 2024 October 9 19:00 vasony Created: Ha ez a Subasa dűlő, akkor kéne forrás hozzá / * 2024 October 11 10:44 gabro00 Updated: A dűlő alapvetően helyet jelöl, nem? Dűlő utat el tudok képzelni, de így önmagában egy úton nem. / * 2024 October 12 18:55 vasony Resolved: Alapvetően igen, főleg kötőjellel, de némely településen utakat is így neveznek el, sajnos határozatot nem találtam hozzá. / Akkor ez zárom, nem nagyon lesz meg.</title>
+        <link>https://www.openstreetmap.org/note/4471925#c9814897</link>
+        <guid>https://www.openstreetmap.org/note/4471925#c9814897</guid>
+        <pubDate>Sat, 12 Oct 2024 18:55:09 +0000</pubDate>
+      </item><item>
+        <title>new note 4475972 (near 9400, Ösvény utcai lakópark, Sopron) / * 2024 October 12 18:40 Created: MPL csomagautomata / ref 223 / kültéri / opening_hours=24/7 / 9400 Sopron Arany János utca 16 / Bankkártyás fizetés</title>
+        <link>https://www.openstreetmap.org/note/4475972#c9814858</link>
+        <guid>https://www.openstreetmap.org/note/4475972#c9814858</guid>
+        <pubDate>Sat, 12 Oct 2024 18:40:35 +0000</pubDate>
+      </item><item>
         <title>new comment 4392368 (near 6771, Szeged) / * 2024 August 19 19:35 gabro00 Created: Szeged első dombos futóköre épül a Monti Sándor parkban: / https://szegeder.hu/helyi/2024-08-19/alakul-szeged-elso-dombos-futokore-szoregen/66c3754b47d3c002f0044d9f / * 2024 October 12 17:55 gabro00 Updated: https://szeged.hu/cikk/elmenyfutassal-avattak-fel-szoreg-uj-rekortan-palyajat-a-monti-sandor-parkban</title>
         <link>https://www.openstreetmap.org/note/4392368#c9814743</link>
         <guid>https://www.openstreetmap.org/note/4392368#c9814743</guid>
@@ -367,16 +377,6 @@
         <link>https://www.openstreetmap.org/note/4244880#c9811781</link>
         <guid>https://www.openstreetmap.org/note/4244880#c9811781</guid>
         <pubDate>Fri, 11 Oct 2024 18:32:31 +0000</pubDate>
-      </item><item>
-        <title>closed note 4473141 (near 6791, Öreghegy, Szeged) / * 2024 October 10 17:05 vasony Created: Itt milyen utcatábla van? Nem Palóc utca? / * 2024 October 11 11:06 gabro00 Resolved: Hát jó, a Posta még hivatkozik rá. Én nem tudom miért nem naprakész... Javítottam.</title>
-        <link>https://www.openstreetmap.org/note/4473141#c9810639</link>
-        <guid>https://www.openstreetmap.org/note/4473141#c9810639</guid>
-        <pubDate>Fri, 11 Oct 2024 11:06:55 +0000</pubDate>
-      </item><item>
-        <title>new note 4473961 (near 4495, Döge) / * 2024 October 11 10:55 Created: Két külön lakóövezet landuse-ból áll a falu. Ezt lehet egyesíteni kellene.</title>
-        <link>https://www.openstreetmap.org/note/4473961#c9810586</link>
-        <guid>https://www.openstreetmap.org/note/4473961#c9810586</guid>
-        <pubDate>Fri, 11 Oct 2024 10:55:53 +0000</pubDate>
       </item>
   </channel>
 </rss>
