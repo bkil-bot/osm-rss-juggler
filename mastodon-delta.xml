@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Running #chatmail servers is &amp;lt;2h effort per month, according to an ad-hoc poll with 10 operators responding. Some have 10Ks of #deltachat users. Typically 300MB ram is used and max 60gb disc space per server. And all interoperate safely based on high security standards (DKIM and TLS enforced, and only no-metadata #openpgp encrypted messages allowed) .... with typically 0.5 secs end-to-end delivery. Who said again that email is insecure, cumbersome and slow? :) Screenshot of 10 chatmail operators polled about &quot;admin hours spent last month&quot; with two saying &quot;0 hours&quot; and 8 saying &quot;less than 2 hours&quot; with none spending more.</title>
+        <link>https://chaos.social/@delta/113307519686226505</link>
+        <guid>https://chaos.social/@delta/113307519686226505</guid>
+        <pubDate>Mon, 14 Oct 2024 19:52:22 +0000</pubDate>
+      </item><item>
         <title>Maybe the secret why the #deltachat project with &amp;quot;just&amp;quot; a dozen active contributors succeeds in delivering cross-platform apps, instigating the #chatmail server network and spearheading the #webxdc app paradigm, lies in asking the right questions: - Is it really needed? - Can we not do it? - Is there a simpler way that requires less changes? - What is the interesting next impl step that is already interesting itself for users, without requiring first completing a big refactoring project?</title>
         <link>https://chaos.social/@delta/113289411611439719</link>
         <guid>https://chaos.social/@delta/113289411611439719</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/112608426988613191</link>
         <guid>https://chaos.social/@delta/112608426988613191</guid>
         <pubDate>Thu, 13 Jun 2024 08:43:54 +0000</pubDate>
-      </item><item>
-        <title>An enjoyable and fruitful #OpenPGP email 2024 summit closing up .... with many standardization efforts roughly agreed between several players: maximizing metadata protection (IETF header protection effort), ecosystem transition V4-&amp;gt;V6 and PQ-keys (IETF replacement keys), #autocrypt level 2 possibly involving integration of &amp;quot;in-band&amp;quot; with &amp;quot;out of band&amp;quot; key distribution like WKD/HKP which themselves are bound for integration. Believe it or not .... the eco system is moving ;) Flip chart with a rough list of in-band and out-of-band mechanisms and their properties .... Which served as a basis for &quot;replacement key&quot; and &quot;key migration&quot; use cases. Screenshot of toot at https://social.heise.de/@syt/112579950084148138Projector screenshot of header protection session presented and facilitated by dkg (not pictured)</title>
-        <link>https://chaos.social/@delta/112586666722555707</link>
-        <guid>https://chaos.social/@delta/112586666722555707</guid>
-        <pubDate>Sun, 09 Jun 2024 12:29:58 +0000</pubDate>
       </item>
   </channel>
 </rss>
