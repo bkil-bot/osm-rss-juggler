@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: GhostOfSparta Discussion Comment No.: 2 Comment: Szia vasony! Máshol sem láttam rajtuk címet megadva, így azt gondoltam, hogy ez a bevett címkézési szokás. Üdv. Date: 2024-10-14T08:49:38+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/157781029</link>
+        <guid>https://www.openstreetmap.org/changeset/157781029#comment_2</guid>
+        <pubDate>2024-10-14T08:49:38+02:00</pubDate>
+      </item><item>
         <title>Contributor: nagy_balint Discussion Comment No.: 1 Comment: Hello Ayumu, Could you please share your source of opening the highway? According to the news this section is expected to be still closed for 10-11 months due to the earlier slippage of the embankment. If your source is survey, I can accept the chane. Othervise I will revert the changeset. Thank ou. https://index.hu/gazdasag/2024/09/27/m30-as-autopalya-gond-epitesi-es-kozlekedesi-miniszterium-megsullyedt/ Date: 2024-10-13T13:48:38+02:00</title>
         <link>https://www.openstreetmap.org/changeset/156508130</link>
         <guid>https://www.openstreetmap.org/changeset/156508130#comment_1</guid>
@@ -112,16 +117,6 @@
         <link>https://www.openstreetmap.org/changeset/155942648</link>
         <guid>https://www.openstreetmap.org/changeset/155942648#comment_4</guid>
         <pubDate>2024-10-07T16:10:53+02:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Ebben a változáscsomagban egy képet próbáltál hozzáadni a Kajsz ABC-hez, base64 kódolva: https://www.openstreetmap.org/way/953590351 Mivel egy 255 karakteres limit van az értékeken, ezért valószínűleg le lett vágva a vége, és így nem is lehet megjeleníteni. Meg van esetleg ez a kép neked, hogy valahogy máshogy ide lehessen linkelni? Esetleg wikimedia commonsra vagy máshova feltöltve? Ha már nincs meg, akkor szerintem ezt a maradványt törölni kéne, mert így nem nagyon jó semmire. Köszi: infeeeee Date: 2024-10-07T10:48:40+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/106233605</link>
-        <guid>https://www.openstreetmap.org/changeset/106233605#comment_1</guid>
-        <pubDate>2024-10-07T10:48:40+02:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Hello! Welcome to OpenStreetMap! If you can't speak Hungarian reply, and I will translate this to English. Szia! Üdv az OpenStreetMapen! Ezt a változáscsomagot részben visszavontam. Kópházán a pontos FÖMI alapján voltak megrajzolva az épületek, amiket te elmozgattál a pontatlan Bing műholdképhez. Itt egy leírás hogyan kell ezt megtenni az általad használt iD szerkesztőben: https://wiki.openstreetmap.org/wiki/Using_aerial_imagery#Matching_imagery_using_different_editors Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! Date: 2024-10-07T10:36:02+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/157550510</link>
-        <guid>https://www.openstreetmap.org/changeset/157550510#comment_1</guid>
-        <pubDate>2024-10-07T10:36:02+02:00</pubDate>
       </item>
   </channel>
 </rss>
