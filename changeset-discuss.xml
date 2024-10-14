@@ -3,15 +3,25 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 3 Comment: A figyelmeztetés jogos, a legtöbb bunker az valamennyire kilóg a föld felé is, és ez inkább a kivétel. Nem kell mindent elfogadni amit figyelmeztetésként ír, minden validátor hibázhat, léteznek fals pozitívok mindenhol. Hibákat amúgy itt lehet jelenteni: https://github.com/openstreetmap/iD/issues De az iD sajátos döntéseinek külön oldala van wikiben, olyan gyakran fordul elő: https://wiki.openstreetmap.org/wiki/ID/Controversial_Decisions Sőt az alapítványnak külön szekciója van ami elsősorban az iD problémáit hivatott feloldani: https://wiki.openstreetmap.org/wiki/Software_dispute_resolution_panel https://osmfoundation.org/wiki/Software_Dispute_Resolution_Panel Date: 2024-10-14T13:54:39+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/157788892</link>
+        <guid>https://www.openstreetmap.org/changeset/157788892#comment_3</guid>
+        <pubDate>2024-10-14T13:54:39+02:00</pubDate>
+      </item><item>
+        <title>Contributor: grozsa11 Discussion Comment No.: 2 Comment: Bocsánat, ezt csakugyan elrontottam. Most javítottam. Köszi, hogy jelezted. Ezekre is jobban figyelek majd-már. Date: 2024-10-14T13:40:59+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/157719545</link>
+        <guid>https://www.openstreetmap.org/changeset/157719545#comment_2</guid>
+        <pubDate>2024-10-14T13:40:59+02:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: The name of the lake was already on the map: https://osm.org/way/16714136 https://www.openstreetmap.org/changeset/157877657 Date: 2024-10-14T13:21:05+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/157747472</link>
+        <guid>https://www.openstreetmap.org/changeset/157747472#comment_1</guid>
+        <pubDate>2024-10-14T13:21:05+02:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! ezzel mit akartál itt jelölni? Várárok a ház előtt? Biztos gázlóként a legideálisabb ezt az átkelést címkézni? Date: 2024-10-14T13:17:14+02:00</title>
         <link>https://www.openstreetmap.org/changeset/157830468</link>
         <guid>https://www.openstreetmap.org/changeset/157830468#comment_1</guid>
         <pubDate>2024-10-14T13:17:14+02:00</pubDate>
-      </item><item>
-        <title>Contributor: grozsa11 Discussion Comment No.: 2 Comment: Ó, ez valóban jogosnak tűnik, visszaszedtem róla a &quot;building=bunker&quot; -t. Az ID-ben van egy &quot;figyelmeztetések (I)&quot; menü, és az abban lévő ajánlás vezetett meg. Abban azt javasolja, hogy föltehetően egy bunker csak valamiféle épület lehet. Csak az a kérdés, hogy ez az &quot;épület&quot; az &quot;emberi építmény&quot; mivoltát jelöli, vagy valamiféle föld fölötti &quot;ház&quot;-szerűt. A napokban amúgy is fölmerült bennem, hogy kérni kellene az ID-ben ennek a &quot;figyelmeztetés&quot;-nek a törlését (fölülvizsgálatát?) , mert pl erdélyben fölkerült többezer bunker a normál lakóterületeken, melyek szintén &quot;building=bunker&quot; nélkül kerültek föl és kérdés, hogy kell-e rájuk végülis &quot;building=bunker&quot; tag... Nem tudod, hopgyan és kitől kell kérni ennek az ID-beli &quot;figyelmeztetés&quot;-nek a fölülvizsgálatát? Date: 2024-10-14T13:11:43+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/157788892</link>
-        <guid>https://www.openstreetmap.org/changeset/157788892#comment_2</guid>
-        <pubDate>2024-10-14T13:11:43+02:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Látom Bing alapján rajzoltál. Az a műholdkép viszonylag friss, de eléggé pontatlan. Mindig először a FÖMI 2011-2014 képekhez igazítsd a frissebbeket, azt jó helyzetűnek tekinthetjük. Szerintem a HÉV nem épült át itt az elmúlt 10 évben, akár közvetlenül ahhoz is igazíthatod a vonalat. Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! Date: 2024-10-14T13:10:54+02:00</title>
         <link>https://www.openstreetmap.org/changeset/157830215</link>
@@ -37,11 +47,6 @@
         <link>https://www.openstreetmap.org/changeset/157751349</link>
         <guid>https://www.openstreetmap.org/changeset/157751349#comment_1</guid>
         <pubDate>2024-10-13T10:16:29+02:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Itt: https://osm.org/node/1837957068 címkék ellentmondanak egymásnak: disused:public_transport=station &amp; public_transport=station Vagy újra jár a BKV hajó? Date: 2024-10-11T12:52:36+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/157719545</link>
-        <guid>https://www.openstreetmap.org/changeset/157719545#comment_1</guid>
-        <pubDate>2024-10-11T12:52:36+02:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Üzleteknél inkább a disused: prefixet szoktuk használni: https://wiki.openstreetmap.org/wiki/Key:disused:* Nagyjából 10x olyan gyakori a disused:amenity mint a removed:amenity: https://taghistory.raifer.tech/#***/disused%3Aamenity/&amp;***/removed%3Aamenity/ Date: 2024-10-10T17:22:52+02:00</title>
         <link>https://www.openstreetmap.org/changeset/157699798</link>
@@ -127,11 +132,6 @@
         <link>https://www.openstreetmap.org/changeset/157576613</link>
         <guid>https://www.openstreetmap.org/changeset/157576613#comment_2</guid>
         <pubDate>2024-10-07T20:34:44+02:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 4 Comment: Javítva: https://www.openstreetmap.org/changeset/157589346 Date: 2024-10-07T16:10:53+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/155942648</link>
-        <guid>https://www.openstreetmap.org/changeset/155942648#comment_4</guid>
-        <pubDate>2024-10-07T16:10:53+02:00</pubDate>
       </item>
   </channel>
 </rss>
