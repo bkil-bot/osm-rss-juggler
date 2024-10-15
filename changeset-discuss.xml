@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Üdv az OpenStreetMapen! Húha, jó sok infót megadtál, köszönjük! Viszont van egy pár probléma velük, van egy pár címkézési szabályunk, amiket be kell tartani, hogy az adatbázis használható maradjon. Leírom mik nem jók, javítsd ki kérlek őket. Ha nem tudod, vagy nem akarod kijavítani, akkor szólj, és kijavítom én. - Helyrajzi számokat az addr:conscriptionnumber címkében tároljuk, bővebb infó a címek helyes megadásáról itt: https://wiki.openstreetmap.org/wiki/Hungary/Jelölési_példák#Címek -Az épület építési idejét a start_date címkében kell megadni: https://wiki.openstreetmap.org/wiki/Key:start_date - Épületek stílusát (hogy neoeklektikus) a building:architecture címkében lehet tárolni: https://wiki.openstreetmap.org/wiki/Key%3Abuilding%3Aarchitecture - Több nyelvű információkat külön címkékbe kell írni , nyelvi suffix-ekkel ellátva, a a suffix nélküli az adott ország hivatalos nyelve. Szóval az angol nyelvű leírást a description:en mezőbe kell írni. - Általában ilyen szabadszavas leírásokra nem az OSM a legjobb hely, ha ezeket le lehet írni standard címkékkel is. Ebben az esetben én ezt törölném, mivel innen minden infót strukturált formában meg lehet adni máshogy. - smoking=separated magyarul azt jelenti, hogy dohányzás kijelölt helységben. Ha ez középület, akkor ez Magyarországon illegális. Ha az udvaron lehet dohányozni, akkor a smoking=outside a jó címke. - Megváltozott funkciójú épületeknél az eredeti funkciót meghagyjuk a building=* címkében, az aktuális funkciót pedig a building:use címkébe írjuk. Tehát ha ez régen lakóház volt most iroda, akkor building=apartments, building:use=commercial https://wiki.openstreetmap.org/wiki/Key:building:use - A forrásokat manapság már inkább a változáscsomag címkéi között szokták megadni, nem az épületen: https://wiki.openstreetmap.org/wiki/Key:source Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! Date: 2024-10-15T11:44:28+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/157912457</link>
+        <guid>https://www.openstreetmap.org/changeset/157912457#comment_1</guid>
+        <pubDate>2024-10-15T11:44:28+02:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Javítottam a címkéket ebben a változáscsomagban: https://osm.org/changeset/157916008 A bitcoinnal fizetés lehetőségét is jelöltem. Ha valamit még hozzá szeretnél adni, válaszolj itt, és én szívesen jelölöm szabályosan. További jó térképezést! Date: 2024-10-15T11:18:48+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/157870095</link>
+        <guid>https://www.openstreetmap.org/changeset/157870095#comment_1</guid>
+        <pubDate>2024-10-15T11:18:48+02:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 3 Comment: A figyelmeztetés jogos, a legtöbb bunker az valamennyire kilóg a föld felé is, és ez inkább a kivétel. Nem kell mindent elfogadni amit figyelmeztetésként ír, minden validátor hibázhat, léteznek fals pozitívok mindenhol. Hibákat amúgy itt lehet jelenteni: https://github.com/openstreetmap/iD/issues De az iD sajátos döntéseinek külön oldala van wikiben, olyan gyakran fordul elő: https://wiki.openstreetmap.org/wiki/ID/Controversial_Decisions Sőt az alapítványnak külön szekciója van ami elsősorban az iD problémáit hivatott feloldani: https://wiki.openstreetmap.org/wiki/Software_dispute_resolution_panel https://osmfoundation.org/wiki/Software_Dispute_Resolution_Panel Date: 2024-10-14T13:54:39+02:00</title>
         <link>https://www.openstreetmap.org/changeset/157788892</link>
         <guid>https://www.openstreetmap.org/changeset/157788892#comment_3</guid>
@@ -77,31 +87,6 @@
         <link>https://www.openstreetmap.org/changeset/67748999</link>
         <guid>https://www.openstreetmap.org/changeset/67748999#comment_1</guid>
         <pubDate>2024-10-08T21:47:16+02:00</pubDate>
-      </item><item>
-        <title>Contributor: infalap Discussion Comment No.: 2 Comment: köszi, jogos Date: 2024-10-08T11:50:54+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/157606738</link>
-        <guid>https://www.openstreetmap.org/changeset/157606738#comment_2</guid>
-        <pubDate>2024-10-08T11:50:54+02:00</pubDate>
-      </item><item>
-        <title>Contributor: bkil Discussion Comment No.: 1 Comment: Köszönjük a közreműködést. Javítottam a jelölést, erre kérünk a jövőben figyelni: https://wiki.osm.org/Hungary/Fontos_szempontok#Life_cycle_prefix Date: 2024-10-08T11:40:04+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/157619261</link>
-        <guid>https://www.openstreetmap.org/changeset/157619261#comment_1</guid>
-        <pubDate>2024-10-08T11:40:04+02:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 6 Comment: I just noticed that Organic Maps also understands this tagging scheme, see this screenshot: https://files.catbox.moe/w5lpri.png If you tap on the POI it shows the not drinkable sign. I found it in the changelog, this was added this March: https://organicmaps.app/news/2024-03-11/now-everyone-can-back-up-or-share-all-bookmarks-and-imported-tracks-as-one-kmz-file-with-just-one-click/ Nonetheless I removed the amenity=drinking_water in this changeset: https://osm.org/changeset/157620583 man_made=water_tap should be enough, there is some better documentation about this on its wiki page: https://wiki.openstreetmap.org/wiki/Tag:man_made%3Dwater_tap I will write a question about this on the wiki page of amenity=drinking_water, that page should be clarified, and the contradictions should be resolved. Date: 2024-10-08T11:10:50+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/152045825</link>
-        <guid>https://www.openstreetmap.org/changeset/152045825#comment_6</guid>
-        <pubDate>2024-10-08T11:10:50+02:00</pubDate>
-      </item><item>
-        <title>Contributor: mcliquid Discussion Comment No.: 1 Comment: Hi and thank you for your contribution! Please note for the future: changesets should be local. To avoid conflicts and as a courtesy to reviewers, it is recommended to: • combine changes in a small geographical area (within a city, district or province) • keep changes within the same country • upload/save changes before moving on to map in a different area Why? Have a look at the section &quot;Geographical size of changesets&quot; on this wiki page: https://wiki.openstreetmap.org/wiki/Changeset#Geographical_size_of_changesets Thanks for considering, have a nice day and happy mapping! Date: 2024-10-08T11:07:52+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/157611214</link>
-        <guid>https://www.openstreetmap.org/changeset/157611214#comment_1</guid>
-        <pubDate>2024-10-08T11:07:52+02:00</pubDate>
-      </item><item>
-        <title>Contributor: mcliquid Discussion Comment No.: 1 Comment: Hi and thank you for your contribution! Please note for the future: changesets should be local. To avoid conflicts and as a courtesy to reviewers, it is recommended to: • combine changes in a small geographical area (within a city, district or province) • keep changes within the same country • upload/save changes before moving on to map in a different area Why? Have a look at the section &quot;Geographical size of changesets&quot; on this wiki page: https://wiki.openstreetmap.org/wiki/Changeset#Geographical_size_of_changesets Thanks for considering, have a nice day and happy mapping! Date: 2024-10-08T11:07:46+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/157611215</link>
-        <guid>https://www.openstreetmap.org/changeset/157611215#comment_1</guid>
-        <pubDate>2024-10-08T11:07:46+02:00</pubDate>
       </item>
   </channel>
 </rss>
