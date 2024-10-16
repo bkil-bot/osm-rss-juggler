@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 7 Comment: Itt van leírva a wikiben, hogy melyik utat hogyan tageljük: https://wiki.openstreetmap.org/wiki/Hungary/Főút#highway_címke_értékei Azt címkézzük ami a táblán van felmérés alapján, mi ellentmondás itt? A sávok száma, van-e leállósáv, stb, egy másik címkébe kerül, nem feltétlenül a highway=*-ba. A műszaki gyakorlattól való eltérést a wikiben lehet dokumentálni, bárki regisztrálhat, és szerkesztheti a wikit, nyithat egy vitalapot, akár te is, de azt nem kérheted számon máson, ami nincs a wikben. Date: 2024-10-16T20:10:40+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/157836085</link>
+        <guid>https://www.openstreetmap.org/changeset/157836085#comment_7</guid>
+        <pubDate>2024-10-16T20:10:40+02:00</pubDate>
+      </item><item>
         <title>Contributor: vasony Discussion Comment No.: 2 Comment: Válasz hiányában a nevet töröltem. Date: 2024-10-16T18:59:53+02:00</title>
         <link>https://www.openstreetmap.org/changeset/156863650</link>
         <guid>https://www.openstreetmap.org/changeset/156863650#comment_2</guid>
@@ -12,11 +17,6 @@
         <link>https://www.openstreetmap.org/changeset/157925544</link>
         <guid>https://www.openstreetmap.org/changeset/157925544#comment_1</guid>
         <pubDate>2024-10-16T18:56:30+02:00</pubDate>
-      </item><item>
-        <title>Contributor: NightH Discussion Comment No.: 6 Comment: Ezt megértem, bár az OSM-ből nem tudod kihagyni a műszaki gyakorlatot. Ha _mindent_ az OSM wiki alapján tagelnénk, akkor pl. az utak esetén biztosan a feje tetejére állna minden. Helyi survey alapján nálam az M0 motorway lenne és nem trunk, az M19 primary lenne és nem trunk, az 8-as főút meg a 83as nagy része pedig trunk lenne és nem primary. Ezeket az utakat azért soroljuk ide vagy oda, mert a wikivel szőrén-szálán egyező magyar műszaki nyilvántartásban így vagy úgy szerepel. A téma adott, a fenti jogszabályok meg linkek szintén, aztán döntsetek, én elfogadom. Ez nem egy hill to die on, csak azért ne az legyen a default feltételezés a másikkal szemben, hogy az hülye én meg tévedhetetlen vagyok. Date: 2024-10-16T18:17:55+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/157836085</link>
-        <guid>https://www.openstreetmap.org/changeset/157836085#comment_6</guid>
-        <pubDate>2024-10-16T18:17:55+02:00</pubDate>
       </item><item>
         <title>Contributor: bkil Discussion Comment No.: 4 Comment: Please do not send a comment to each and every editor in Hungary about this for each and every instance. We started mapping it in the most commonly appearing way possible at the given time. In Hungary, we have three recycling programs: one operated by mohu for a deposit within shops, one that is available to each household (not mapped) and one that occurs on public property such as this one. In the last case, it can have four kinds of containers: one for communal waste, one for combined &quot;metal &amp; plastics&quot; (mostly cans), one separate for &quot;white glass&quot; (untinted or achromatic) and one for &quot;coloured glass&quot; (tinted). After your inquiry, we have started a discussion about it in our Matrix room https://matrix.to/#/#osm-jeloles:matrix.org and we will also document the result of our discussion on https://wiki.osm.org/Hungary/Jel%C3%B6l%C3%A9si_p%C3%A9ld%C3%A1k#Pad I recommend further discussion either on the talk page of the latter or on chat. Thanks for understanding Date: 2024-10-16T08:41:13+02:00</title>
         <link>https://www.openstreetmap.org/changeset/107722840</link>
