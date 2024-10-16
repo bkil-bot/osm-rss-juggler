@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: NightH Discussion Comment No.: 1 Comment: Szia! Biztos vagy benne, hogy a https://www.openstreetmap.org/way/1323618563 és a többi, vizet keresztező földút helyes címkézése a bridge a culvert helyett? Date: 2024-10-16T05:52:45+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/157836085</link>
+        <guid>https://www.openstreetmap.org/changeset/157836085#comment_1</guid>
+        <pubDate>2024-10-16T05:52:45+02:00</pubDate>
+      </item><item>
         <title>Contributor: Hufkratzer Discussion Comment No.: 1 Comment: Hi, You have removed the building tag from https://www.openstreetmap.org/way/612258883 and replaced it with leisure=horse_riding. Therefore the building is no longer rendered as a building. The tag leisure=horse_riding is actually not intended for buildings, but for the entire area of the equestrian center. See https://wiki.openstreetmap.org/wiki/Tag:leisure=horse_riding. The riding centre can better be mapped separately from the building (area or node), example: https://www.openstreetmap.org/way/97438164 Date: 2024-10-15T20:03:07+02:00</title>
         <link>https://www.openstreetmap.org/changeset/157891313</link>
         <guid>https://www.openstreetmap.org/changeset/157891313#comment_1</guid>
