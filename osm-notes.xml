@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment 4480889 (near 1053, Belváros, 5th district) / * 2024 October 16 18:20 infeeeee Updated: Cashere van már egypár az országban: https://overpass-turbo.eu/s/1SLb / Vendoboxokat ideálisan micromappinggal kellene felvinni, minden automatát egyesével, U számmal, mit árul stb. / Egyben shop=vending_machine-ként vettem fel egyet, ezt le is dokumentáltam a wikiben: https://wiki.openstreetmap.org/wiki/Tag:shop%3Dvending_machine</title>
+        <link>https://www.openstreetmap.org/note/4480889#c9827434</link>
+        <guid>https://www.openstreetmap.org/note/4480889#c9827434</guid>
+        <pubDate>Wed, 16 Oct 2024 18:20:32 +0000</pubDate>
+      </item><item>
+        <title>new comment 4480892 (near 1053, Belváros, 5th district) / * 2024 October 16 18:07 infeeeee Updated: shop=gift vagy shop=art / https://wiki.openstreetmap.org/wiki/Tag:shop%3Dgift / https://wiki.openstreetmap.org/wiki/Tag:shop%3Dart</title>
+        <link>https://www.openstreetmap.org/note/4480892#c9827374</link>
+        <guid>https://www.openstreetmap.org/note/4480892#c9827374</guid>
+        <pubDate>Wed, 16 Oct 2024 18:07:01 +0000</pubDate>
+      </item><item>
         <title>closed note 4480808 (near Labanc-tanya, Nyíregyháza) / * 2024 October 16 16:08 Spush Resolved: Köszi. Javítottam.</title>
         <link>https://www.openstreetmap.org/note/4480808#c9827065</link>
         <guid>https://www.openstreetmap.org/note/4480808#c9827065</guid>
@@ -227,16 +237,6 @@
         <link>https://www.openstreetmap.org/note/4454013#c9823915</link>
         <guid>https://www.openstreetmap.org/note/4454013#c9823915</guid>
         <pubDate>Tue, 15 Oct 2024 13:05:47 +0000</pubDate>
-      </item><item>
-        <title>closed note 4386541 (near 4600, Kisvárda) / * 2024 August 16 15:39 Created: Itt van még ez a lángosozó? / * 2024 October 14 20:09 Kecsege Resolved: Itt van még, hozzáadtam: / https://www.openstreetmap.org/changeset/157894660</title>
-        <link>https://www.openstreetmap.org/note/4386541#c9822006</link>
-        <guid>https://www.openstreetmap.org/note/4386541#c9822006</guid>
-        <pubDate>Mon, 14 Oct 2024 20:09:47 +0000</pubDate>
-      </item><item>
-        <title>closed note 4393263 (near 4600, Kisvárda) / * 2024 August 20 10:44 Created: Itt van még a Háda? / * 2024 October 14 20:09 Kecsege Resolved: Itt van még, hozzáadtam: / https://www.openstreetmap.org/changeset/157894660</title>
-        <link>https://www.openstreetmap.org/note/4393263#c9822005</link>
-        <guid>https://www.openstreetmap.org/note/4393263#c9822005</guid>
-        <pubDate>Mon, 14 Oct 2024 20:09:33 +0000</pubDate>
       </item>
   </channel>
 </rss>

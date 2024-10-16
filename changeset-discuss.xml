@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: NightH Discussion Comment No.: 4 Comment: Oh, és a viszontkérdésre a válasz, hogy nem vagyok biztos benne. Armchairmapperként igyekszek a legjobb döntést hozni bridge/culvert témában a légifotó alapján, és lesz benne hiba. Külön öröm, ha valaki local survey alapján javítja a hibáimat, csak legyünk egy állásponton azzal kapcsolatban hogy mi minek minősül és hogyan lehet felismerni. Date: 2024-10-16T15:42:25+02:00</title>
+        <title>Contributor: NightH Discussion Comment No.: 6 Comment: Ezt megértem, bár az OSM-ből nem tudod kihagyni a műszaki gyakorlatot. Ha _mindent_ az OSM wiki alapján tagelnénk, akkor pl. az utak esetén biztosan a feje tetejére állna minden. Helyi survey alapján nálam az M0 motorway lenne és nem trunk, az M19 primary lenne és nem trunk, az 8-as főút meg a 83as nagy része pedig trunk lenne és nem primary. Ezeket az utakat azért soroljuk ide vagy oda, mert a wikivel szőrén-szálán egyező magyar műszaki nyilvántartásban így vagy úgy szerepel. A téma adott, a fenti jogszabályok meg linkek szintén, aztán döntsetek, én elfogadom. Ez nem egy hill to die on, csak azért ne az legyen a default feltételezés a másikkal szemben, hogy az hülye én meg tévedhetetlen vagyok. Date: 2024-10-16T18:17:55+02:00</title>
         <link>https://www.openstreetmap.org/changeset/157836085</link>
-        <guid>https://www.openstreetmap.org/changeset/157836085#comment_4</guid>
-        <pubDate>2024-10-16T15:42:25+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/157836085#comment_6</guid>
+        <pubDate>2024-10-16T18:17:55+02:00</pubDate>
       </item><item>
         <title>Contributor: bkil Discussion Comment No.: 4 Comment: Please do not send a comment to each and every editor in Hungary about this for each and every instance. We started mapping it in the most commonly appearing way possible at the given time. In Hungary, we have three recycling programs: one operated by mohu for a deposit within shops, one that is available to each household (not mapped) and one that occurs on public property such as this one. In the last case, it can have four kinds of containers: one for communal waste, one for combined &quot;metal &amp; plastics&quot; (mostly cans), one separate for &quot;white glass&quot; (untinted or achromatic) and one for &quot;coloured glass&quot; (tinted). After your inquiry, we have started a discussion about it in our Matrix room https://matrix.to/#/#osm-jeloles:matrix.org and we will also document the result of our discussion on https://wiki.osm.org/Hungary/Jel%C3%B6l%C3%A9si_p%C3%A9ld%C3%A1k#Pad I recommend further discussion either on the talk page of the latter or on chat. Thanks for understanding Date: 2024-10-16T08:41:13+02:00</title>
         <link>https://www.openstreetmap.org/changeset/107722840</link>
@@ -97,11 +97,6 @@
         <link>https://www.openstreetmap.org/changeset/156148600</link>
         <guid>https://www.openstreetmap.org/changeset/156148600#comment_1</guid>
         <pubDate>2024-10-10T12:19:51+02:00</pubDate>
-      </item><item>
-        <title>Contributor: aceman444 Discussion Comment No.: 4 Comment: Also please do not duplicate bus stops. The node with public_transport=stop_position does not need highway=bus_stop when there is a platform node with highway=bus_stop nearby. E.g. https://www.openstreetmap.org/node/2592226521 and https://www.openstreetmap.org/node/2592226522. Date: 2024-10-09T20:17:56+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/76110261</link>
-        <guid>https://www.openstreetmap.org/changeset/76110261#comment_4</guid>
-        <pubDate>2024-10-09T20:17:56+02:00</pubDate>
       </item>
   </channel>
 </rss>
