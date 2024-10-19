@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4485625 (near 9400, Ösvény utcai lakópark, Sopron) / * 2024 October 19 19:07 Created: This street is not private, or maybe just motor_vehicle=private...</title>
+        <link>https://www.openstreetmap.org/note/4485625#c9836325</link>
+        <guid>https://www.openstreetmap.org/note/4485625#c9836325</guid>
+        <pubDate>Sat, 19 Oct 2024 19:07:59 +0000</pubDate>
+      </item><item>
         <title>new comment 4437172 (near 1117, Kelenföld, 11th district) / * 2024 September 15 19:27 vasony Created: itt elkezdtek dózerolni, mi maradt mi nem? / * 2024 September 15 20:20 vasony Updated: 619/2021. (XI. 8.) Korm. rendelet szerint: Ipari épületek bontását követően / a terület rendezésével, parkosítással több ütemben megvalósuló lakóingatlan-fejlesztésre, lakóingatlanok kialakítására irányuló beruházás / * 2024 October 19 12:57 urbalazs Updated: Hármat már elbontottak. Azokat bejelöltem. Szerintem bontanak még, úgyhogy nyitva hagyom.</title>
         <link>https://www.openstreetmap.org/note/4437172#c9835129</link>
         <guid>https://www.openstreetmap.org/note/4437172#c9835129</guid>
@@ -337,16 +342,6 @@
         <link>https://www.openstreetmap.org/note/4442496#c9829462</link>
         <guid>https://www.openstreetmap.org/note/4442496#c9829462</guid>
         <pubDate>Thu, 17 Oct 2024 12:52:45 +0000</pubDate>
-      </item><item>
-        <title>closed note 4467528 (near 1121, Budakeszierdő, 12th district) / * 2024 October 6 15:53 OSM KAMI Created: Új ház / via StreetComplete_ee 59.1 / Attached photo(s): / https://westnordost.de/p/244531.jpg / https://westnordost.de/p/244532.jpg / * 2024 October 17 12:33 infeeeee Resolved: https://osm.org/changeset/158006020</title>
-        <link>https://www.openstreetmap.org/note/4467528#c9829436</link>
-        <guid>https://www.openstreetmap.org/note/4467528#c9829436</guid>
-        <pubDate>Thu, 17 Oct 2024 12:33:39 +0000</pubDate>
-      </item><item>
-        <title>closed note 4467496 (near 1125, Istenhegy, 12th district) / * 2024 October 6 15:34 OSM KAMI Created: Bükkos út 4/a / via StreetComplete_ee 59.1 / * 2024 October 17 12:33 infeeeee Resolved: https://osm.org/changeset/158006020</title>
-        <link>https://www.openstreetmap.org/note/4467496#c9829435</link>
-        <guid>https://www.openstreetmap.org/note/4467496#c9829435</guid>
-        <pubDate>Thu, 17 Oct 2024 12:33:33 +0000</pubDate>
       </item>
   </channel>
 </rss>
