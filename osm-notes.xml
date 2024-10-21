@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 3769436 (near 2890, Ipari park, Tata) / * 2023 July 7 15:43 Created: Missing newly build passage way by the new Jenő Mill / * 2024 October 21 15:07 SIDLER22 Resolved: </title>
+        <link>https://www.openstreetmap.org/note/3769436#c9842018</link>
+        <guid>https://www.openstreetmap.org/note/3769436#c9842018</guid>
+        <pubDate>Mon, 21 Oct 2024 15:07:23 +0000</pubDate>
+      </item><item>
         <title>new comment 2593930 (near 2890, Ipari park, Tata) / * 2021 March 25 12:51 vasony-qa Created: Keverednek a Patak köz és Erzsébet királyné tér házszámai, tisztázni kell a házszámokat és az utcaneveket a környéken. / * 2024 October 16 16:01 Rebeka13 Resolved:  / * 2024 October 16 16:02 Rebeka13 Reactivated:  / * 2024 October 21 12:09 SIDLER22 Updated: Valami példa jó lenne, hogy mi az ami keveredik. A megjegyzéshez legközelebbi épületnek például két házszáma is van. Patak köz 1. és Erzsébet Tér 9. / Szóval számomra nem tiszta, hogy mi az ami keveredik.</title>
         <link>https://www.openstreetmap.org/note/2593930#c9841496</link>
         <guid>https://www.openstreetmap.org/note/2593930#c9841496</guid>
@@ -272,36 +277,6 @@
         <link>https://www.openstreetmap.org/note/4476506#c9837203</link>
         <guid>https://www.openstreetmap.org/note/4476506#c9837203</guid>
         <pubDate>Sat, 19 Oct 2024 23:03:25 +0000</pubDate>
-      </item><item>
-        <title>closed note 2114467 (near Táltos lovastanya, Szentendre) / * 2020 March 8 15:38 hunsly Created: A házak el. Vannak bontva. Építés folyik. / via StreetComplete 18.0-beta1 / * 2024 October 19 22:54 urbalazs Resolved: A térképen is így szerepel.</title>
-        <link>https://www.openstreetmap.org/note/2114467#c9837195</link>
-        <guid>https://www.openstreetmap.org/note/2114467#c9837195</guid>
-        <pubDate>Sat, 19 Oct 2024 22:54:21 +0000</pubDate>
-      </item><item>
-        <title>closed note 4366072 (near Tulipán Udvar, Almádi, Balatonalmádi) / * 2024 August 4 07:49 vasony Created: itt mintha egy hamburgeres lenne nem dohánybolt / * 2024 August 19 11:14 vasony Updated: van dohánybolt is / * 2024 October 19 20:11 vasony Resolved: van mindkettő</title>
-        <link>https://www.openstreetmap.org/note/4366072#c9836607</link>
-        <guid>https://www.openstreetmap.org/note/4366072#c9836607</guid>
-        <pubDate>Sat, 19 Oct 2024 20:11:41 +0000</pubDate>
-      </item><item>
-        <title>closed note 4471084 (near 8220, Almádi, Balatonalmádi) / * 2024 October 9 08:56 PocakAttys Created: 8220 Balatonalmádi, Városház tér, Vasútállomás / * 2024 October 19 20:04 vasony Resolved: Ez a funkció a térkép hibáinak jelzésére szolgál. A vasútállomás már szerepel a térképen.</title>
-        <link>https://www.openstreetmap.org/note/4471084#c9836589</link>
-        <guid>https://www.openstreetmap.org/note/4471084#c9836589</guid>
-        <pubDate>Sat, 19 Oct 2024 20:04:05 +0000</pubDate>
-      </item><item>
-        <title>closed note 4485625 (near 9400, Ösvény utcai lakópark, Sopron) / * 2024 October 19 19:47 vasony Resolved: fixed</title>
-        <link>https://www.openstreetmap.org/note/4485625#c9836532</link>
-        <guid>https://www.openstreetmap.org/note/4485625#c9836532</guid>
-        <pubDate>Sat, 19 Oct 2024 19:47:52 +0000</pubDate>
-      </item><item>
-        <title>new note 4485725 (near 1083, Losonci negyed, 8th district) / * 2024 October 19 19:41 Kecsege Created: Postaláda, hétfő 14-16 / via StreetComplete 59.2 / Attached photo(s): / https://westnordost.de/p/247157.jpg</title>
-        <link>https://www.openstreetmap.org/note/4485725#c9836504</link>
-        <guid>https://www.openstreetmap.org/note/4485725#c9836504</guid>
-        <pubDate>Sat, 19 Oct 2024 19:41:18 +0000</pubDate>
-      </item><item>
-        <title>new note 4485625 (near 9400, Ösvény utcai lakópark, Sopron) / * 2024 October 19 19:07 Created: This street is not private, or maybe just motor_vehicle=private...</title>
-        <link>https://www.openstreetmap.org/note/4485625#c9836325</link>
-        <guid>https://www.openstreetmap.org/note/4485625#c9836325</guid>
-        <pubDate>Sat, 19 Oct 2024 19:07:59 +0000</pubDate>
       </item>
   </channel>
 </rss>
