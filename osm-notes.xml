@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4467621 (near 1119, Kelenföld, 11th district) / * 2024 October 6 17:00 Created: ez az útvonal &amp;quot;permissive&amp;quot; kerékpáros elérhetőséggel van tagelve. nem tűnik indokoltnak se a kresz, se a fizikai kiépítése tekintetében. nincs semmi erre utaló jelölés a helyszínen / * 2024 October 21 00:18 urbalazs Resolved: Javítva.</title>
+        <link>https://www.openstreetmap.org/note/4467621#c9840380</link>
+        <guid>https://www.openstreetmap.org/note/4467621#c9840380</guid>
+        <pubDate>Mon, 21 Oct 2024 00:18:13 +0000</pubDate>
+      </item><item>
+        <title>closed note 4239921 (near 1117, Kelenföld, 11th district) / * 2024 May 10 20:37 kütüllő Created: Elkészült itt az út. / via StreetComplete 57.3 / * 2024 October 20 23:36 urbalazs Resolved: 12 napja megoldva.</title>
+        <link>https://www.openstreetmap.org/note/4239921#c9840367</link>
+        <guid>https://www.openstreetmap.org/note/4239921#c9840367</guid>
+        <pubDate>Sun, 20 Oct 2024 23:36:45 +0000</pubDate>
+      </item><item>
+        <title>closed note 3986949 (near 2000, Izbég, Szentendre) / * 2023 November 14 12:28 vojtechzaboril Created:  Forwarding anonymous report from #mapycz user, please verify: / Roads are not connected here. / * 2024 October 20 23:24 urbalazs Resolved: Fixed.</title>
+        <link>https://www.openstreetmap.org/note/3986949#c9840359</link>
+        <guid>https://www.openstreetmap.org/note/3986949#c9840359</guid>
+        <pubDate>Sun, 20 Oct 2024 23:24:28 +0000</pubDate>
+      </item><item>
         <title>closed note 4484685 (near Táltos lovastanya, Szentendre) / * 2024 October 19 08:20 hunsly Created: Hiányzó lakó épület / via StreetComplete 59.0 / * 2024 October 20 23:15 urbalazs Resolved: Hozzáadtam.</title>
         <link>https://www.openstreetmap.org/note/4484685#c9840356</link>
         <guid>https://www.openstreetmap.org/note/4484685#c9840356</guid>
@@ -342,11 +357,6 @@
         <link>https://www.openstreetmap.org/note/4484054#c9832912</link>
         <guid>https://www.openstreetmap.org/note/4484054#c9832912</guid>
         <pubDate>Fri, 18 Oct 2024 18:08:31 +0000</pubDate>
-      </item><item>
-        <title>closed note 4480892 (near 1053, Belváros, 5th district) / * 2024 October 16 10:55 Kecsege Created: Sushiroll helyén, design shop Valamini néven / via StreetComplete 59.2 / Attached photo(s): / https://westnordost.de/p/246574.jpg / https://westnordost.de/p/246575.jpg / * 2024 October 16 11:13 Kecsege Updated: Mivel jelölnétek ezt a bolt kategóriát? A képen látszik miket árulnak. / * 2024 October 16 18:07 infeeeee Updated: shop=gift vagy shop=art / https://wiki.openstreetmap.org/wiki/Tag:shop%3Dgift / https://wiki.openstreetmap.org/wiki/Tag:shop%3Dart / * 2024 October 18 14:47 Kecsege Resolved: Hozzáadtam. / https://www.openstreetmap.org/changeset/158054639</title>
-        <link>https://www.openstreetmap.org/note/4480892#c9832501</link>
-        <guid>https://www.openstreetmap.org/note/4480892#c9832501</guid>
-        <pubDate>Fri, 18 Oct 2024 14:47:44 +0000</pubDate>
       </item>
   </channel>
 </rss>
