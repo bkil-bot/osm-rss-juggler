@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4204329 (near 1115, Kelenföld, 11th district) / * 2024 April 18 13:44 vasony Created: felújítás alatt, később felmérendő / #OsmAnd / * 2024 October 23 09:21 vasony Resolved: felmérve, később felviszem</title>
+        <link>https://www.openstreetmap.org/note/4204329#c9847459</link>
+        <guid>https://www.openstreetmap.org/note/4204329#c9847459</guid>
+        <pubDate>Wed, 23 Oct 2024 09:21:29 +0000</pubDate>
+      </item><item>
         <title>closed note 3704557 (near 1112, Örsöd, 11th district) / * 2023 May 24 20:43 vasony Created: Mi lett a pontos házszám? / * 2024 October 23 07:41 vasony Resolved: 36 van felszögelve a fára</title>
         <link>https://www.openstreetmap.org/note/3704557#c9847100</link>
         <guid>https://www.openstreetmap.org/note/3704557#c9847100</guid>
@@ -187,11 +192,6 @@
         <link>https://www.openstreetmap.org/note/4364981#c9841408</link>
         <guid>https://www.openstreetmap.org/note/4364981#c9841408</guid>
         <pubDate>Mon, 21 Oct 2024 11:46:18 +0000</pubDate>
-      </item><item>
-        <title>closed note 4260882 (near 2890, Ipari park, Tata) / * 2024 May 23 12:28 halle-netz Created: &amp;quot;Sieht nicht so aus, als ob es noch funktionsfähig ist. &amp;quot; / The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground. / OSM snapshot date: 2024-04-29T02:50:07Z / POI has no name / POI types: fee-no amenity-toilets / #organicmaps ios / * 2024 October 21 10:54 SIDLER22 Resolved: </title>
-        <link>https://www.openstreetmap.org/note/4260882#c9841315</link>
-        <guid>https://www.openstreetmap.org/note/4260882#c9841315</guid>
-        <pubDate>Mon, 21 Oct 2024 10:54:09 +0000</pubDate>
       </item>
   </channel>
 </rss>
