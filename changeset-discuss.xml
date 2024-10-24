@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: Kiss_Karoly Discussion Comment No.: 2 Comment: Rendben. Javítom a többit. Date: 2024-10-24T06:17:58+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/158272788</link>
+        <guid>https://www.openstreetmap.org/changeset/158272788#comment_2</guid>
+        <pubDate>2024-10-24T06:17:58+02:00</pubDate>
+      </item><item>
         <title>Contributor: BáthoryPéter Discussion Comment No.: 1 Comment: Szia! Ez (és a másik) milyen típusú traffipax? Trafibox? A traffixpax pont az út része kell legyen, tehát ne mellé rakd, hanem csatold hozzá. Lásd a dokumentációt: https://wiki.openstreetmap.org/wiki/Tag:highway%3Dspeed_camera Date: 2024-10-23T21:24:45+02:00</title>
         <link>https://www.openstreetmap.org/changeset/158214384</link>
         <guid>https://www.openstreetmap.org/changeset/158214384#comment_1</guid>
@@ -42,11 +47,6 @@
         <link>https://www.openstreetmap.org/changeset/157925544</link>
         <guid>https://www.openstreetmap.org/changeset/157925544#comment_2</guid>
         <pubDate>2024-10-17T11:14:58+02:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 9 Comment: Félreérted amit írok. Arra reagáltam, hogy igen, _mindent_ a wiki alapján térképezünk, az utakat és az átereszeket is. &gt; BTW ha nem akarunk minden átereszhez/hídhoz centivel kimenni Sajnos vannak dolgok amiket csak személyesen tudunk femérni. Ráadásul wiki egy szóval nem írja, hogy a méretétől függene, az egy másik tulajdonság, sőt ki is emeli, hogy a nagyobbakat nehéz megkülönböztetni rgy hídtól. Ez a méret alapú megkülönböztetés nem szerepel a wikiben. &gt; akkor akár azt is mondhatjuk, hogy ami hosszabb, mint szélesebb, az tunnel, ami meg szélesebb, mint hosszabb az bridge. Nem, ez nem így van, mert nem így szerepel a wikiben. Date: 2024-10-17T07:49:14+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/157836085</link>
-        <guid>https://www.openstreetmap.org/changeset/157836085#comment_9</guid>
-        <pubDate>2024-10-17T07:49:14+02:00</pubDate>
       </item>
   </channel>
 </rss>
