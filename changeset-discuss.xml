@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: BáthoryPéter Discussion Comment No.: 8 Comment: Az első probléma, hogy egyik térképről a másikra másolsz át információt. Ezt mindegyik szolgáltatás ÁSZF-je tiltja, valamint az OSM licence is. A második, hogy ha nem ellenőrzöd terepen, a hülyeség is átmegy. Rengeteg olyan elnevezés van, amiről tudjuk, hogy valamelyik térképen rajta van, a valóságban viszont sose volt. OSM szemszögéből az a helyes irány, ha ilyenkor nyitsz egy jegyzetet, hogy „Valahol itt feltehetőleg X utca kéne legyen, felmérendő.” És akkor valaki ha arra jár, a valóságot tudja felmérni, és jogot se sért vele. Illetve ahogy fentebb is szó volt róla, önkormányzati határozatok alapján térképezni is oké, bár emlékeim szerint láttunk már olyat, hogy határozat született, de sose táblázták ki. Date: 2024-10-27T19:53:04+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/158283174</link>
+        <guid>https://www.openstreetmap.org/changeset/158283174#comment_8</guid>
+        <pubDate>2024-10-27T19:53:04+01:00</pubDate>
+      </item><item>
+        <title>Contributor: gabro00 Discussion Comment No.: 1 Comment: Mert még egyetlen térképszerkesztőnek se ütötte meg az ingerküszöbét vagy nem volt még vele dolga ¯\\_(ツ)_/¯ Date: 2024-10-27T19:39:50+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/158353898</link>
+        <guid>https://www.openstreetmap.org/changeset/158353898#comment_1</guid>
+        <pubDate>2024-10-27T19:39:50+01:00</pubDate>
+      </item><item>
         <title>Contributor: vasony Discussion Comment No.: 1 Comment: Mármint Podkámen dűlő elnevezése Date: 2024-10-27T13:11:01+01:00</title>
         <link>https://www.openstreetmap.org/changeset/158412328</link>
         <guid>https://www.openstreetmap.org/changeset/158412328#comment_1</guid>
@@ -17,11 +27,6 @@
         <link>https://www.openstreetmap.org/changeset/158296651</link>
         <guid>https://www.openstreetmap.org/changeset/158296651#comment_1</guid>
         <pubDate>2024-10-27T09:38:28+01:00</pubDate>
-      </item><item>
-        <title>Contributor: Kottagrafikus Discussion Comment No.: 7 Comment: nem értelek titeket. Az utca ott van. A neve ez. Az utca paramétereit nem tudtam megadni, ennyi. Ha a google autó is felveszi (pl. látszana), akkor &quot;nem sért jogot&quot;? Nem értem, hogy ha én gondosan utánanézek a jegyzőkönyveknek, a beiskolázási körzetek utcaneveinek, az internetszolgáltató oldalán az utcaneveknek, ez milyen jogokat sért? Szerintem pont az a lényeg, hogy jó térkép legyen, az utcanevek rajta legyenek és a futár, a taxis stb. odataláljon. Ezért használok négy térképet pl. az autóban. Az egyik nem tudja, talán a másik igen... És ha nem találom bejelentem, hogy jé, nincs rajta. És láss csodát, a köv. frissítésnél már mindenki odatalál. De ha szerintetek ez jogokat sért, részemről itt befejeztem a hibabejeltéseket... Date: 2024-10-26T18:33:36+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/158283174</link>
-        <guid>https://www.openstreetmap.org/changeset/158283174#comment_7</guid>
-        <pubDate>2024-10-26T18:33:36+02:00</pubDate>
       </item><item>
         <title>Contributor: apuspok Discussion Comment No.: 2 Comment: Nem volt szándékos. A Korcsina alatt van egy bújtató, lehet azzal összekapcsolta a egésznek a tulajdonságát. Javítom. Date: 2024-10-26T17:13:20+02:00</title>
         <link>https://www.openstreetmap.org/changeset/154384082</link>
