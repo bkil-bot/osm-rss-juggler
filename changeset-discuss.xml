@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: urbalazs Discussion Comment No.: 2 Comment: Azért teszünk címet egy üzletre, hogy meg lehessen keresni. Egy csonka cím alapján nem fogja megjeleníteni egyetlen kereső sem, amelyben a teljes címre keresel. Date: 2024-10-30T14:52:06+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/149712330</link>
+        <guid>https://www.openstreetmap.org/changeset/149712330#comment_2</guid>
+        <pubDate>2024-10-30T14:52:06+01:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 3 Comment: Akkor valahogy ezt jelölni kellene szerintem, mert gépelési hibának néz ki, validátornak se tetszik. Date: 2024-10-30T14:43:15+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/157520016</link>
+        <guid>https://www.openstreetmap.org/changeset/157520016#comment_3</guid>
+        <pubDate>2024-10-30T14:43:15+01:00</pubDate>
+      </item><item>
         <title>Contributor: Lóránt Vajda Discussion Comment No.: 1 Comment: szia, igen, csődbe ment és eltűnt, félbemaradt lehet törölni, ezen a néven nem fog megépülni a torzó Date: 2024-10-30T14:05:53+01:00</title>
         <link>https://www.openstreetmap.org/changeset/158542460</link>
         <guid>https://www.openstreetmap.org/changeset/158542460#comment_1</guid>
@@ -22,11 +32,6 @@
         <link>https://www.openstreetmap.org/changeset/158384082</link>
         <guid>https://www.openstreetmap.org/changeset/158384082#comment_5</guid>
         <pubDate>2024-10-30T08:21:26+01:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Ez nem 48-as házszám? https://osm.org/way/296543208 Mert most két Kossuth utca 46 van a tér két oldalán, és nincs 48. Date: 2024-10-29T19:27:50+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/157520016</link>
-        <guid>https://www.openstreetmap.org/changeset/157520016#comment_1</guid>
-        <pubDate>2024-10-29T19:27:50+01:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Kérlek a módosításcsomagjaidnak adj valami rövid leírást, összefoglalást: https://wiki.openstreetmap.org/wiki/Good_changeset_comments A note mező nem erre való, mint a szobornál használtad, elvileg az más szerkesztőknek szóló üzenet, ez a leírás description-be jobban illene: https://wiki.openstreetmap.org/wiki/Key:note https://wiki.openstreetmap.org/wiki/Key:description Date: 2024-10-29T11:03:59+01:00</title>
         <link>https://www.openstreetmap.org/changeset/158459885</link>
@@ -97,11 +102,6 @@
         <link>https://www.openstreetmap.org/changeset/158227062</link>
         <guid>https://www.openstreetmap.org/changeset/158227062#comment_3</guid>
         <pubDate>2024-10-24T16:39:45+02:00</pubDate>
-      </item><item>
-        <title>Contributor: gymate Discussion Comment No.: 1 Comment: Szia! Köszi, hogy javítottad a 1315060018-as node-ot (Zsiráf Tranzit)! Valóban nem rendelkezik házszámmal. Egyébként miért helytelen rárakni az utcanevet? A honlapjukon is &quot;Bukarest utca, 1114&quot; szerepel címként. Date: 2024-10-23T21:22:37+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/149712330</link>
-        <guid>https://www.openstreetmap.org/changeset/149712330#comment_1</guid>
-        <pubDate>2024-10-23T21:22:37+02:00</pubDate>
       </item>
   </channel>
 </rss>
