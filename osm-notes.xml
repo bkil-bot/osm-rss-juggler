@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4499523 (near 9700, KISZ-lakótelep) / * 2024 October 29 15:47 Markusovszky Egyetemi Oktatókórház Created: xxx / * 2024 October 30 13:05 mavl Resolved: This note does not contain a useful information for OpenStreetMap.</title>
+        <link>https://www.openstreetmap.org/note/4499523#c9868425</link>
+        <guid>https://www.openstreetmap.org/note/4499523#c9868425</guid>
+        <pubDate>Wed, 30 Oct 2024 13:05:52 +0000</pubDate>
+      </item><item>
+        <title>closed note 4486846 (near 8081, Zámoly) / * 2024 October 20 12:27 CzPeti Created: Unable to answer &amp;quot;What’s the name of this place?&amp;quot; – Cseh Simon Zoltán őstermelő (Beekeeper) – https://osm.org/node/12247751607 via StreetComplete 59.2: / Nincs neve a helynek / * 2024 October 30 13:02 infeeeee Resolved: Ráraktam egy noname=yes-t, így nem fogja megkérdezni a StreetComplete: https://www.openstreetmap.org/changeset/158540627</title>
+        <link>https://www.openstreetmap.org/note/4486846#c9868406</link>
+        <guid>https://www.openstreetmap.org/note/4486846#c9868406</guid>
+        <pubDate>Wed, 30 Oct 2024 13:02:37 +0000</pubDate>
+      </item><item>
         <title>new note 4500442 (near 4492, Dombrád) / * 2024 October 30 11:26 Created: Van ennek a közterületnek neve? Ha igen, micsoda?</title>
         <link>https://www.openstreetmap.org/note/4500442#c9868132</link>
         <guid>https://www.openstreetmap.org/note/4500442#c9868132</guid>
@@ -242,16 +252,6 @@
         <link>https://www.openstreetmap.org/note/4495559#c9857369</link>
         <guid>https://www.openstreetmap.org/note/4495559#c9857369</guid>
         <pubDate>Sat, 26 Oct 2024 18:33:25 +0000</pubDate>
-      </item><item>
-        <title>closed note 3963799 (near 2000, Izbég, Szentendre) / * 2024 October 26 14:50 BáthoryPéter Resolved: Simán lehet, mert más táblát nem láttam. Mondjuk, itt már sietnem kellett, nem néztem körül olyan alaposan, mint az Erzsébet térnél.</title>
-        <link>https://www.openstreetmap.org/note/3963799#c9856821</link>
-        <guid>https://www.openstreetmap.org/note/3963799#c9856821</guid>
-        <pubDate>Sat, 26 Oct 2024 14:50:13 +0000</pubDate>
-      </item><item>
-        <title>new comment 3963799 (near 2000, Izbég, Szentendre) / * 2024 October 26 14:47 vasony Updated: Ezek alapján, mintha a Szabadság tér lett volna átnevezve Luther térre.</title>
-        <link>https://www.openstreetmap.org/note/3963799#c9856813</link>
-        <guid>https://www.openstreetmap.org/note/3963799#c9856813</guid>
-        <pubDate>Sat, 26 Oct 2024 14:47:23 +0000</pubDate>
       </item>
   </channel>
 </rss>
