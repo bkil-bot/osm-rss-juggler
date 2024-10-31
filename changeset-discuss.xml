@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Erről írok: https://osm.org/way/1329331770 A Duna-Ipoly Nemzeti Park ennél sokkal nagyobb, ez csak egy része szerintem. Wiki szerint valami egyszerre nem lehet national_park és nature_reserve, most ez akkor melyik? A címkéid ellentmondanak egymásnak. &gt; boundary=national_park is a form of protected area. Like a nature reserve it is about protecting wildlife etc, and is normally designated by a government. The distinction is unclear and is under discussion, but some suggestions are: nature reserves are smaller areas than national parks. https://wiki.openstreetmap.org/wiki/Tag:leisure%3Dnature_reserve Mi a forrásod a határához? Elvileg van engedélyünk tőlük: https://wiki.openstreetmap.org/wiki/Hungary/Importálás/Duna-Ipoly_Nemzeti_Park_Igazgatóság a kérdés inkább technikai, honnan másoltad ezt a határt? A link a barlangról az url mezőben hogyan kapcsolódik ehhez a területhez? Nem magához a barlanghoz lenne jobb linkelni, nem egy teljesen más dologhoz? Ami amúgy szerepel a térképen: https://osm.org/node/3126486708 Date: 2024-10-31T15:35:47+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/158533418</link>
+        <guid>https://www.openstreetmap.org/changeset/158533418#comment_1</guid>
+        <pubDate>2024-10-31T15:35:47+01:00</pubDate>
+      </item><item>
         <title>Contributor: Kecsege Discussion Comment No.: 2 Comment: Szia, megvan a kép, megnéztem ez a szám szerepel rajta. Date: 2024-10-30T18:19:52+01:00</title>
         <link>https://www.openstreetmap.org/changeset/158387536</link>
         <guid>https://www.openstreetmap.org/changeset/158387536#comment_2</guid>
@@ -107,11 +112,6 @@
         <link>https://www.openstreetmap.org/changeset/158214384</link>
         <guid>https://www.openstreetmap.org/changeset/158214384#comment_3</guid>
         <pubDate>2024-10-24T21:21:30+02:00</pubDate>
-      </item><item>
-        <title>Contributor: sus242424 Discussion Comment No.: 3 Comment: Hello together. The name was added already 15 years ago. But I would delete it anyway, seems to be very unlikely that in Greece English way names are used. Date: 2024-10-24T16:39:45+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/158227062</link>
-        <guid>https://www.openstreetmap.org/changeset/158227062#comment_3</guid>
-        <pubDate>2024-10-24T16:39:45+02:00</pubDate>
       </item>
   </channel>
 </rss>
