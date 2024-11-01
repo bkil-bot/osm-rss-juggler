@@ -3,6 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 4503359 (near Koltai-tanya, Lipót) / * 2024 November 1 18:11 Created: display=Óra nem helyes. Megnézni milyen a kijelző valójában. Analog, digital stb</title>
+        <link>https://www.openstreetmap.org/note/4503359#c9874881</link>
+        <guid>https://www.openstreetmap.org/note/4503359#c9874881</guid>
+        <pubDate>Fri, 01 Nov 2024 18:11:20 +0000</pubDate>
+      </item><item>
+        <title>closed note 3877415 (near 1088, Palotanegyed, 8th district) / * 2023 September 8 12:44 Hitrandil Created: Hydrante on the other side street / via StreetComplete 53.3 / * 2024 November 1 17:55 urbalazs Resolved: Jó helyen van ez, ez egy föld alatti tűzcsap.</title>
+        <link>https://www.openstreetmap.org/note/3877415#c9874840</link>
+        <guid>https://www.openstreetmap.org/note/3877415#c9874840</guid>
+        <pubDate>Fri, 01 Nov 2024 17:55:49 +0000</pubDate>
+      </item><item>
+        <title>closed note 4375999 (near 1098, József Attila-lakótelep, 9th district) / * 2024 August 10 11:57 Created: nem szabad átkelni, az út túl megy / #OsmAnd / * 2024 November 1 17:40 urbalazs Resolved: Nem teljesen világos, hogy a bejelentő mire gondolt, mert az út megfelelően van megrajzolva.</title>
+        <link>https://www.openstreetmap.org/note/4375999#c9874811</link>
+        <guid>https://www.openstreetmap.org/note/4375999#c9874811</guid>
+        <pubDate>Fri, 01 Nov 2024 17:40:02 +0000</pubDate>
+      </item><item>
+        <title>closed note 4503303 (near 1027, Víziváros, 2nd district) / * 2024 November 1 17:37 bkil Resolved: Thank you, fixed: https://osm.org/changeset/158629922#map=19/47.512046/19.035894</title>
+        <link>https://www.openstreetmap.org/note/4503303#c9874806</link>
+        <guid>https://www.openstreetmap.org/note/4503303#c9874806</guid>
+        <pubDate>Fri, 01 Nov 2024 17:37:45 +0000</pubDate>
+      </item><item>
         <title>new note 4503303 (near 1027, Víziváros, 2nd district) / * 2024 November 1 16:54 Bur_Luck Created: &amp;quot;$$$ Need a payment. 100 ft.&amp;quot; / OSM snapshot date: 2024-10-17T20:37:52Z / POI has no name / POI types: fee-no amenity-toilets / #organicmaps android</title>
         <link>https://www.openstreetmap.org/note/4503303#c9874708</link>
         <guid>https://www.openstreetmap.org/note/4503303#c9874708</guid>
@@ -302,16 +322,6 @@
         <link>https://www.openstreetmap.org/note/4500141#c9867180</link>
         <guid>https://www.openstreetmap.org/note/4500141#c9867180</guid>
         <pubDate>Wed, 30 Oct 2024 05:12:51 +0000</pubDate>
-      </item><item>
-        <title>new note 4499523 (near 9700, KISZ-lakótelep) / * 2024 October 29 15:47 Markusovszky Egyetemi Oktatókórház Created: xxx</title>
-        <link>https://www.openstreetmap.org/note/4499523#c9865638</link>
-        <guid>https://www.openstreetmap.org/note/4499523#c9865638</guid>
-        <pubDate>Tue, 29 Oct 2024 15:47:31 +0000</pubDate>
-      </item><item>
-        <title>new note 4499519 (near 9700, KISZ-lakótelep) / * 2024 October 29 15:46 Markusovszky Egyetemi Oktatókórház Created: LEZÁRVA!</title>
-        <link>https://www.openstreetmap.org/note/4499519#c9865632</link>
-        <guid>https://www.openstreetmap.org/note/4499519#c9865632</guid>
-        <pubDate>Tue, 29 Oct 2024 15:46:16 +0000</pubDate>
       </item>
   </channel>
 </rss>
