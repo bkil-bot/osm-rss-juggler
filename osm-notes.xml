@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4503245 (near 2660, Nyírjes, Balassagyarmat) / * 2024 November 1 16:06 balint36 Created: Hiányzó utakhoz segítség / via StreetComplete 59.3 / GPS Trace: https://www.openstreetmap.org/user/balint36/traces/11527207 / * 2024 November 2 12:20 balint36 Resolved: </title>
+        <link>https://www.openstreetmap.org/note/4503245#c9876728</link>
+        <guid>https://www.openstreetmap.org/note/4503245#c9876728</guid>
+        <pubDate>Sat, 02 Nov 2024 12:20:23 +0000</pubDate>
+      </item><item>
         <title>new comment 3456328 (near 7100, Újváros, Szekszárd) / * 2022 November 26 09:09 nyulzer Created: Mitől lesz valami emlékmű, és mitől szobor? / A Liszt Ferenc téren lévő milleniumi absztrakt szobor szerintem emlékmű. / * 2022 November 26 09:10 nyulzer Updated: A színház bejáratával szemben van még egy emlékmű, ami nem lett felvéve, az talán emlékmű szintén. / * 2024 November 2 09:13 vasony Updated: Ha a kérdés arra vonatkozik, hogy tourism=artwork vagy historic=memorial, akkor az utóbbi akkor lesz ha konkrét személyt ábrázol, konkrét eseményhez kötődik. / Ha a millenniumhoz kapcsolódik, akkor emlékmű.</title>
         <link>https://www.openstreetmap.org/note/3456328#c9876302</link>
         <guid>https://www.openstreetmap.org/note/3456328#c9876302</guid>
@@ -282,16 +287,6 @@
         <link>https://www.openstreetmap.org/note/4483279#c9868555</link>
         <guid>https://www.openstreetmap.org/note/4483279#c9868555</guid>
         <pubDate>Wed, 30 Oct 2024 13:49:42 +0000</pubDate>
-      </item><item>
-        <title>closed note 4499523 (near 9700, KISZ-lakótelep) / * 2024 October 29 15:47 Markusovszky Egyetemi Oktatókórház Created: xxx / * 2024 October 30 13:05 mavl Resolved: This note does not contain a useful information for OpenStreetMap.</title>
-        <link>https://www.openstreetmap.org/note/4499523#c9868425</link>
-        <guid>https://www.openstreetmap.org/note/4499523#c9868425</guid>
-        <pubDate>Wed, 30 Oct 2024 13:05:52 +0000</pubDate>
-      </item><item>
-        <title>closed note 4486846 (near 8081, Zámoly) / * 2024 October 20 12:27 CzPeti Created: Unable to answer &amp;quot;What’s the name of this place?&amp;quot; – Cseh Simon Zoltán őstermelő (Beekeeper) – https://osm.org/node/12247751607 via StreetComplete 59.2: / Nincs neve a helynek / * 2024 October 30 13:02 infeeeee Resolved: Ráraktam egy noname=yes-t, így nem fogja megkérdezni a StreetComplete: https://www.openstreetmap.org/changeset/158540627</title>
-        <link>https://www.openstreetmap.org/note/4486846#c9868406</link>
-        <guid>https://www.openstreetmap.org/note/4486846#c9868406</guid>
-        <pubDate>Wed, 30 Oct 2024 13:02:37 +0000</pubDate>
       </item>
   </channel>
 </rss>
