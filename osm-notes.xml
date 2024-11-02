@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4503115 (near 6060, Tiszakécske) / * 2024 November 1 14:41 GBAB Created: highway=service / #OsmAnd / * 2024 November 2 16:31 GBAB Resolved: </title>
+        <link>https://www.openstreetmap.org/note/4503115#c9877707</link>
+        <guid>https://www.openstreetmap.org/note/4503115#c9877707</guid>
+        <pubDate>Sat, 02 Nov 2024 16:31:46 +0000</pubDate>
+      </item><item>
+        <title>closed note 4503117 (near 6060, Tiszakécske) / * 2024 November 1 14:41 GBAB Created: fű, telek / #OsmAnd / * 2024 November 2 16:31 GBAB Resolved: </title>
+        <link>https://www.openstreetmap.org/note/4503117#c9877706</link>
+        <guid>https://www.openstreetmap.org/note/4503117#c9877706</guid>
+        <pubDate>Sat, 02 Nov 2024 16:31:46 +0000</pubDate>
+      </item><item>
         <title>closed note 4503245 (near 2660, Nyírjes, Balassagyarmat) / * 2024 November 1 16:06 balint36 Created: Hiányzó utakhoz segítség / via StreetComplete 59.3 / GPS Trace: https://www.openstreetmap.org/user/balint36/traces/11527207 / * 2024 November 2 12:20 balint36 Resolved: </title>
         <link>https://www.openstreetmap.org/note/4503245#c9876728</link>
         <guid>https://www.openstreetmap.org/note/4503245#c9876728</guid>
@@ -262,31 +272,6 @@
         <link>https://www.openstreetmap.org/note/3683246#c9868783</link>
         <guid>https://www.openstreetmap.org/note/3683246#c9868783</guid>
         <pubDate>Wed, 30 Oct 2024 15:26:42 +0000</pubDate>
-      </item><item>
-        <title>closed note 4329139 (near 7622, Siklósi külváros) / * 2024 July 11 19:06 Created: Teljes útzár / * 2024 October 30 14:58 Spush Resolved: Nincs ilyen.</title>
-        <link>https://www.openstreetmap.org/note/4329139#c9868713</link>
-        <guid>https://www.openstreetmap.org/note/4329139#c9868713</guid>
-        <pubDate>Wed, 30 Oct 2024 14:58:39 +0000</pubDate>
-      </item><item>
-        <title>closed note 4387832 (near 2040, Intézményi Városközpont és lakótelep, Budaörs) / * 2024 August 17 13:24 Created: Ez a grillező itt van még? / * 2024 October 29 14:01 gymate Updated: Úgy láttam, már nem. / * 2024 October 30 14:49 Kecsege Resolved: Eltávolítva. / https://www.openstreetmap.org/changeset/158545273</title>
-        <link>https://www.openstreetmap.org/note/4387832#c9868687</link>
-        <guid>https://www.openstreetmap.org/note/4387832#c9868687</guid>
-        <pubDate>Wed, 30 Oct 2024 14:49:06 +0000</pubDate>
-      </item><item>
-        <title>closed note 4483281 (near 1011, Víziváros, 1st district) / * 2024 October 18 07:05 Created: A Schatz elköltözött innen. Most rétesbolt. / * 2024 October 30 13:50 infeeeee Resolved: Frissítve, Mapillary-n már látszik, de az interneten még nem találtam erről semmit: https://www.mapillary.com/app/?pKey=523672673968838 / https://www.openstreetmap.org/changeset/158542460</title>
-        <link>https://www.openstreetmap.org/note/4483281#c9868557</link>
-        <guid>https://www.openstreetmap.org/note/4483281#c9868557</guid>
-        <pubDate>Wed, 30 Oct 2024 13:50:34 +0000</pubDate>
-      </item><item>
-        <title>closed note 4500141 (near 1027, Víziváros, 2nd district) / * 2024 October 30 13:49 infeeeee Resolved: https://www.openstreetmap.org/changeset/158542460</title>
-        <link>https://www.openstreetmap.org/note/4500141#c9868556</link>
-        <guid>https://www.openstreetmap.org/note/4500141#c9868556</guid>
-        <pubDate>Wed, 30 Oct 2024 13:49:46 +0000</pubDate>
-      </item><item>
-        <title>closed note 4483279 (near 1027, Víziváros, 2nd district) / * 2024 October 18 07:03 Created: Ehelyt ippeg most szerelik össze a Foxpost csomagautomatáját. / * 2024 October 30 13:49 infeeeee Resolved: https://www.openstreetmap.org/changeset/158542460</title>
-        <link>https://www.openstreetmap.org/note/4483279#c9868555</link>
-        <guid>https://www.openstreetmap.org/note/4483279#c9868555</guid>
-        <pubDate>Wed, 30 Oct 2024 13:49:42 +0000</pubDate>
       </item>
   </channel>
 </rss>

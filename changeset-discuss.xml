@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: gabro00 Discussion Comment No.: 1 Comment: Ez ott van még? Date: 2024-11-01T08:12:11+01:00</title>
+        <title>Contributor: GBAB Discussion Comment No.: 2 Comment: Hát, nem biztos. Lehet, hogy ez volt: https://maps.app.goo.gl/VScf9mVgMLYAbfqK6 Date: 2024-11-02T17:12:49+01:00</title>
         <link>https://www.openstreetmap.org/changeset/134618481</link>
-        <guid>https://www.openstreetmap.org/changeset/134618481#comment_1</guid>
-        <pubDate>2024-11-01T08:12:11+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/134618481#comment_2</guid>
+        <pubDate>2024-11-02T17:12:49+01:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Erről írok: https://osm.org/way/1329331770 A Duna-Ipoly Nemzeti Park ennél sokkal nagyobb, ez csak egy része szerintem. Wiki szerint valami egyszerre nem lehet national_park és nature_reserve, most ez akkor melyik? A címkéid ellentmondanak egymásnak. &gt; boundary=national_park is a form of protected area. Like a nature reserve it is about protecting wildlife etc, and is normally designated by a government. The distinction is unclear and is under discussion, but some suggestions are: nature reserves are smaller areas than national parks. https://wiki.openstreetmap.org/wiki/Tag:leisure%3Dnature_reserve Mi a forrásod a határához? Elvileg van engedélyünk tőlük: https://wiki.openstreetmap.org/wiki/Hungary/Importálás/Duna-Ipoly_Nemzeti_Park_Igazgatóság a kérdés inkább technikai, honnan másoltad ezt a határt? A link a barlangról az url mezőben hogyan kapcsolódik ehhez a területhez? Nem magához a barlanghoz lenne jobb linkelni, nem egy teljesen más dologhoz? Ami amúgy szerepel a térképen: https://osm.org/node/3126486708 Date: 2024-10-31T15:35:47+01:00</title>
         <link>https://www.openstreetmap.org/changeset/158533418</link>
@@ -92,16 +92,6 @@
         <link>https://www.openstreetmap.org/changeset/158296651</link>
         <guid>https://www.openstreetmap.org/changeset/158296651#comment_1</guid>
         <pubDate>2024-10-27T09:38:28+01:00</pubDate>
-      </item><item>
-        <title>Contributor: apuspok Discussion Comment No.: 2 Comment: Nem volt szándékos. A Korcsina alatt van egy bújtató, lehet azzal összekapcsolta a egésznek a tulajdonságát. Javítom. Date: 2024-10-26T17:13:20+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/154384082</link>
-        <guid>https://www.openstreetmap.org/changeset/154384082#comment_2</guid>
-        <pubDate>2024-10-26T17:13:20+02:00</pubDate>
-      </item><item>
-        <title>Contributor: Spush Discussion Comment No.: 2 Comment: It was a greengrocer before and I forgot change tag. THX. Date: 2024-10-26T15:28:09+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/150981262</link>
-        <guid>https://www.openstreetmap.org/changeset/150981262#comment_2</guid>
-        <pubDate>2024-10-26T15:28:09+02:00</pubDate>
       </item>
   </channel>
 </rss>
