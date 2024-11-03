@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Preventing enshittificatiom with the &amp;quot;Ulysses pact&amp;quot; from @pluralistic https://pluralistic.net/2024/11/02/ulysses-pact/#tie-yourself-to-a-federated-mast We consider our efforts aligned: #deltachat #chatmail and #webxdc implement &amp;quot;right to exit&amp;quot; on all levels of our decentralized messaging project. - deploy your own servers permission free and interoperable with all e-mail servers (&amp;quot;federation mast&amp;quot;) - all apps and libraries and server components are 100% Foss - interactive chat-shared web-apps can be used in other messengers #righttoexit</title>
+        <link>https://chaos.social/@delta/113417740762852318</link>
+        <guid>https://chaos.social/@delta/113417740762852318</guid>
+        <pubDate>Sun, 03 Nov 2024 07:03:02 +0000</pubDate>
+      </item><item>
         <title>basic #privacy tip ... If you are interested in, or relying on, end-to-end encryption then do yourself a favor and ensure your keyboard app (Gboard anyone?) does not have network access. You can sleep better knowing your Keyboard app does not transfer stuff somewhere, let alone feed some AI machinery, right? Keyboard apps also often have access to clipboard buffers, so copy+paste is also leaking if your keyboard app happily talks with servers. Edit: feel free to provide your recommendation</title>
         <link>https://chaos.social/@delta/113374756141201029</link>
         <guid>https://chaos.social/@delta/113374756141201029</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/112621284535468799</link>
         <guid>https://chaos.social/@delta/112621284535468799</guid>
         <pubDate>Sat, 15 Jun 2024 15:13:44 +0000</pubDate>
-      </item><item>
-        <title>Back to more interesting matters than these authoritarian #chatcontrol dreams (don&amp;#39;t you bet many &amp;quot;AI&amp;quot; companies are lining up to sell automated policing?) ... Thanks to @dvzrv there now is a rather official #deltachat #arch package https://archlinux.org/packages/extra/any/deltachat-desktop 💜</title>
-        <link>https://chaos.social/@delta/112609978982660781</link>
-        <guid>https://chaos.social/@delta/112609978982660781</guid>
-        <pubDate>Thu, 13 Jun 2024 15:18:35 +0000</pubDate>
       </item>
   </channel>
 </rss>
