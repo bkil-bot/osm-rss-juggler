@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Pixel 9 (Pro) its so bad, wow...: Alright WiFriends, new thing to check (maybe everyone here has already done this, and I'm late to the party- just got a recent pixel last week). Apparently the recent Android updates started enforcing the new battery optimization system. 1. under the app battery settings for the WiGLE WiFi Wardriving app, you'll get a single row: &quot;Allow background usage&quot; followed by a toggle. 2. Tap the TEXT (not the toggle!) to get to the second menu, where you can permit the application &quot;Unrestricted&quot; background permission (effectively turning off the now-default &quot;Optimized&quot; behavior) 3. Restart your phone, launch the app, and rock on. Performance is still not AS GOOD as my top stumbling phones, but it's far less grim than it was before. -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=12414#p12414</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=12414#p12414</guid>
+        <pubDate>2024-11-04T01:56:01+00:00</pubDate>
+      </item><item>
         <title>Re: Pixel 9 (Pro) its so bad, wow...: I will, but it's pretty impractical for me, as a distance runner - I can't exactly leave it screen-on, plugged in. -arkasha</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12413#p12413</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12413#p12413</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=12359#p12359</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12359#p12359</guid>
         <pubDate>2024-10-02T17:32:34+00:00</pubDate>
-      </item><item>
-        <title>Re: Android app error: CSV not processed. Trilaterating...: Appreciate you guys, we really do! -pejacoby</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=12353#p12353</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=12353#p12353</guid>
-        <pubDate>2024-09-29T21:48:52+00:00</pubDate>
       </item>
   </channel>
 </rss>
