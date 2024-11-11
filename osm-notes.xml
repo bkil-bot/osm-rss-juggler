@@ -3,6 +3,11 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4156835 (near 2461, Tárnok) / * 2024 March 17 12:36 balint36 Created: A 30M vonalon át közlekedő vonatok (jellemzően) Tárnokon az 1. vágányt használják. Ezzel összefüggően a 30M és a 30-as vonalak között az átjárást nem Tárnok kezdőponti (páros) váltókörzetében teszik meg (mint ahogy most a kapcsolatokban meg van adva), hanem a végponti (páratlan) váltókörzetet, ahol még az is biztosított, hogy a jobb-bal vágányt 120 km/h mellett járhassák be. / Ennek megfelelően a kapcsolatokat is úgy kell módosítani, hogy azok nem a kezdőponti váltókörzeten, hanem a végpontin vezessenek át. / * 2024 March 17 12:38 balint36 Updated: Érintett kapcsolatok: / https://www.openstreetmap.org/relation/5189456 / https://www.openstreetmap.org/relation/8021091 / https://www.openstreetmap.org/relation/5189455 / https://www.openstreetmap.org/relation/5189498 / https://www.openstreetmap.org/relation/8059889 / * 2024 March 17 12:40 balint36 Updated: Ezeken kívül léteznek olyan vonatok, amik Tárnokra érkeznek, vagy onnan indulnak. Ezek Tárnok 4. vágányát használják, azaz a kezdőponti váltókörzeten át járnak meg (vagy éppen ki), azokat nem kell hasonló módon módosítani. / * 2024 November 11 12:25 balint36 Resolved: </title>
+        <link>https://www.openstreetmap.org/note/4156835#c9904005</link>
+        <guid>https://www.openstreetmap.org/note/4156835#c9904005</guid>
+        <pubDate>Mon, 11 Nov 2024 12:25:27 +0000</pubDate>
+      </item><item>
         <title>closed note 4219167 (near 48.145, 17.159) / * 2024 April 28 11:32 Created: No gate here. Free to pass. / * 2024 November 10 23:29 aceman444 Resolved: Thanks. No gate is mapped here.</title>
         <link>https://www.openstreetmap.org/note/4219167#c9902280</link>
         <guid>https://www.openstreetmap.org/note/4219167#c9902280</guid>
