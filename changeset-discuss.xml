@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: grozsa11 Discussion Comment No.: 2 Comment: Abszolút igazad van. Vissza is vonom ezt a taget az utcákról, köszi! Date: 2024-11-12T14:15:42+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/159004488</link>
+        <guid>https://www.openstreetmap.org/changeset/159004488#comment_2</guid>
+        <pubDate>2024-11-12T14:15:42+01:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 3 Comment: Szia! noexit=yes nem azt jelenti, hogy ki van táblázva a zsákutca, hanem hogy semmilyen módon nem lehet továbbhaladni az adott pontról. Vonalakon nem is kellene használni, csak pontokon. Köznyelvi/Kresz és Osm jelentése más a zsákutcának. https://wiki.openstreetmap.org/wiki/Tag:noexit%3Dyes Kresz zsákutcát nem kell jelölni, mert következik a geometriából. Ha magát a zsákutca táblát akarod jelölni, akkor azt a traffic_sign=DE:357-tel címkézheted egy ponton: https://wiki.openstreetmap.org/wiki/DE:Tag:traffic_sign%3DDE:357 Date: 2024-11-12T13:08:41+01:00</title>
         <link>https://www.openstreetmap.org/changeset/158290138</link>
         <guid>https://www.openstreetmap.org/changeset/158290138#comment_3</guid>
         <pubDate>2024-11-12T13:08:41+01:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! addr: az cím, és az utcáknak nincs címe. Szerintem aki OSM-et használ, és tudja mi az, hogy addr:city az ezt eddig se rontotta el, szóval nem igazán látom ez hogyan segítene bárkin, rossz helyen próbálsz segíteni. Ez hasonlít az is_in címkéhez ami lassan végre kezd eltűnni. Település következik a település kontúrjából, nem hiszem, attól még hogy ugyanazt az információt megismétled máshol is jobban szem előtt lesz. Renderelőknek ráadásul implementálni kellene először ezt a fura új címkézésedet, addig láthatatlan kb. Vagy tudsz mutatni egy renderelőt aminek ez segít esetleg, emiatt jobban jeleníti meg a települést? Mivel nem segít senkinek, nem is látja senki, cserébe nem követi a címkézési standardot én ezt visszavonnám. További jó térképezést! Date: 2024-11-12T12:36:23+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/159004488</link>
-        <guid>https://www.openstreetmap.org/changeset/159004488#comment_1</guid>
-        <pubDate>2024-11-12T12:36:23+01:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Hello! Welcome to OpenStreetMap! If you can't speak Hungarian reply, and I will translate this to English. Szia! Üdv az OpenStreetMapen! LAU kódokat a ref:lau címkékben tároljuk, kérlek írd át oda őket! Ez vonatkozik mindegyik korábbi szerkesztésedre is. NUTS és LAU kódok dokumentációját itt találod a wikiben, kérlek olvasd végig: https://wiki.openstreetmap.org/wiki/NUTS_and_LAU Illetve mik a forrásaid erre? Ha van egy licenszkompatibilis forrásod, akkor lehet egyszerűbb lenne az egész országot egy kattintással beimportálni, mint egyesével kitöltögetni mindent. Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! Date: 2024-11-12T11:43:15+01:00</title>
         <link>https://www.openstreetmap.org/changeset/159025906</link>
