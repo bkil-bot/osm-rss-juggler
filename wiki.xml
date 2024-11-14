@@ -2,16 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      <item>
-        <title>Hungary/Találkozók/OSM Találkozó 2024-11-12: Delete inactive gettogether link -Osminng</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Tal%C3%A1lkoz%C3%B3k/OSM_Tal%C3%A1lkoz%C3%B3_2024-11-12&amp;diff=2776085&amp;oldid=2775143</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Tal%C3%A1lkoz%C3%B3k/OSM_Tal%C3%A1lkoz%C3%B3_2024-11-12&amp;diff=2776085</guid>
-        <pubDate>Mon, 11 Nov 2024 16:42:43 GMT</pubDate>
-      </item><item>
-        <title>Hungary/videok: OSM Meetup: Egységesítés, plusz előadások -ITinerisKft</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/videok&amp;diff=2776323&amp;oldid=2718327</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/videok&amp;diff=2776323</guid>
-        <pubDate>Tue, 12 Nov 2024 11:03:40 GMT</pubDate>
-      </item>
+      
   </channel>
 </rss>

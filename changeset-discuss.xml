@@ -3,6 +3,21 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: Metzor Discussion Comment No.: 2 Comment: I concur with mcliquid! Furthermore: https://wiki.openstreetmap.org/wiki/Good_practice#Don't_remove_tags_that_you_don't_understand I'd appreciate the info if I can sit outdoors protected from wind! Even though there is not a high usage, I'd vote for restoring the tag for the leisure nodes. https://taginfo.openstreetmap.org/keys/windbreak#combinations Linguistically, it seems to me the correct term although english is not my mother tongue. https://de.pinterest.com/pin/cafe-windbreaks--437693657506229423/ Best regards and happy mapping Metzor Date: 2024-11-13T21:41:42+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/159049611</link>
+        <guid>https://www.openstreetmap.org/changeset/159049611#comment_2</guid>
+        <pubDate>2024-11-13T21:41:42+01:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 3 Comment: Itt vannak wiki oldalak az tömeges szerkesztésről: https://wiki.openstreetmap.org/wiki/Automated_edits https://wiki.openstreetmap.org/wiki/Automated_Edits_code_of_conduct Javaslom, hogy vagy a Matrix szobában vagy a levlistán vesd fel, hátha valaki meg akarja ezt csinálni. Amúgy minden magyarországi településnek ki van töltve a wikidata kódja, wikidatán pedig ugyanez a szám a P939 &quot;településazonosító törzsszám&quot;-ként van tárolva, szóval egyel több lekérdezéssel jelenleg is párosítható ez, az adat közvetve fent van. Date: 2024-11-13T13:02:20+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/159025906</link>
+        <guid>https://www.openstreetmap.org/changeset/159025906#comment_3</guid>
+        <pubDate>2024-11-13T13:02:20+01:00</pubDate>
+      </item><item>
+        <title>Contributor: bkil Discussion Comment No.: 3 Comment: Értem. Érdemes lehet ebben az esetben felírni a wiki oldalra. Date: 2024-11-12T15:10:16+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/159052926</link>
+        <guid>https://www.openstreetmap.org/changeset/159052926#comment_3</guid>
+        <pubDate>2024-11-12T15:10:16+01:00</pubDate>
+      </item><item>
         <title>Contributor: grozsa11 Discussion Comment No.: 2 Comment: Abszolút igazad van. Vissza is vonom ezt a taget az utcákról, köszi! Date: 2024-11-12T14:15:42+01:00</title>
         <link>https://www.openstreetmap.org/changeset/159004488</link>
         <guid>https://www.openstreetmap.org/changeset/159004488#comment_2</guid>
@@ -12,11 +27,6 @@
         <link>https://www.openstreetmap.org/changeset/158290138</link>
         <guid>https://www.openstreetmap.org/changeset/158290138#comment_3</guid>
         <pubDate>2024-11-12T13:08:41+01:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Hello! Welcome to OpenStreetMap! If you can't speak Hungarian reply, and I will translate this to English. Szia! Üdv az OpenStreetMapen! LAU kódokat a ref:lau címkékben tároljuk, kérlek írd át oda őket! Ez vonatkozik mindegyik korábbi szerkesztésedre is. NUTS és LAU kódok dokumentációját itt találod a wikiben, kérlek olvasd végig: https://wiki.openstreetmap.org/wiki/NUTS_and_LAU Illetve mik a forrásaid erre? Ha van egy licenszkompatibilis forrásod, akkor lehet egyszerűbb lenne az egész országot egy kattintással beimportálni, mint egyesével kitöltögetni mindent. Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! Date: 2024-11-12T11:43:15+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/159025906</link>
-        <guid>https://www.openstreetmap.org/changeset/159025906#comment_1</guid>
-        <pubDate>2024-11-12T11:43:15+01:00</pubDate>
       </item><item>
         <title>Contributor: balint36 Discussion Comment No.: 1 Comment: Szia! A régi nyomvonalat is törölted, de jó lett volna, ha meghagytad volna, mert mi a megfelelő címkék megadásával jelöltük volna, hogy régen arra haladt. Date: 2024-11-12T09:37:00+01:00</title>
         <link>https://www.openstreetmap.org/changeset/157841381</link>
@@ -37,16 +47,6 @@
         <link>https://www.openstreetmap.org/changeset/53566053</link>
         <guid>https://www.openstreetmap.org/changeset/53566053#comment_1</guid>
         <pubDate>2024-11-08T09:04:36+01:00</pubDate>
-      </item><item>
-        <title>Contributor: Spush Discussion Comment No.: 2 Comment: Köszönöm a tanácsot. Date: 2024-11-06T21:20:59+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/157306833</link>
-        <guid>https://www.openstreetmap.org/changeset/157306833#comment_2</guid>
-        <pubDate>2024-11-06T21:20:59+01:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Ezzel a ponttal kapcsolatban írok: https://osm.org/node/12308882696 Facebook oldalak címét nem a website hanem contact:facebook mezőben tároljuk. https://wiki.openstreetmap.org/wiki/Key:contact:facebook További jó térképezést! Date: 2024-11-05T18:31:00+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/158686194</link>
-        <guid>https://www.openstreetmap.org/changeset/158686194#comment_1</guid>
-        <pubDate>2024-11-05T18:31:00+01:00</pubDate>
       </item>
   </channel>
 </rss>
