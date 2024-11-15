@@ -3,10 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: ITineris Discussion Comment No.: 1 Comment: Szia! Attól, hogy kicsit odébb húztad a 1261365119-es way-t még - így sem illeszkedik a FÖMI-re, - így sincs ott épület, ami pl. a Bingen is látszik, világoskék színnel, - így nem meglepő, hogy azon a helyen az OSM-en már van egy nyitott úszómedence, amivel ütközik az általad berajzolt &quot;épület&quot;. Üdv: Ákos Date: 2024-11-15T10:13:10+01:00</title>
+        <title>Contributor: pife Discussion Comment No.: 2 Comment: Szia, köszönöm. Több orto-t is néztem, de nem tudom melyik a legpontosabb illesztésű ezen a környéken, de ezek itt nem nagyon segítettek. GNSS: Garmin Fenix 7x Sapphire Solar óra, multiband + multi freq (L1+L5) üzemmódban, a felmérés miatt nem karlengetve, hanem vízszintesen tartva. Plusz rengetegszer jártam erre, Strava heatmap alapján is láttam a konstans eltéréseket. A Facebookon nem vagyok fent, a többiről nem tudtam, megnézem a többit, köszi, kérdezni is akartam. Első szerkesztésként megijedtem, mert a tile-ok random frissültek be, akár azonos zoom fokozaton is. Hogy a régit látom balra, az újat meg jobbra, miközben egy másik zoomon meg még a régit látom, ijesztő volt, hogy valamit elrontottam. Date: 2024-11-15T14:14:12+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/159120271</link>
+        <guid>https://www.openstreetmap.org/changeset/159120271#comment_2</guid>
+        <pubDate>2024-11-15T14:14:12+01:00</pubDate>
+      </item><item>
+        <title>Contributor: ITineris Discussion Comment No.: 4 Comment: https://www.openstreetmap.org/way/1261365119 Date: 2024-11-15T13:23:32+01:00</title>
         <link>https://www.openstreetmap.org/changeset/149763119</link>
-        <guid>https://www.openstreetmap.org/changeset/149763119#comment_1</guid>
-        <pubDate>2024-11-15T10:13:10+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/149763119#comment_4</guid>
+        <pubDate>2024-11-15T13:23:32+01:00</pubDate>
       </item><item>
         <title>Contributor: bkil Discussion Comment No.: 8 Comment: Igen, a nehézséget az okozza, hogy wikidata bejegyzést is ki kell ilyenkor tölteni hozzá és frissíteni hozzá a sablont manuálisan, ezt most megtettem én https://wiki.openstreetmap.org/wiki/Item:Q22676 Date: 2024-11-14T13:57:48+01:00</title>
         <link>https://www.openstreetmap.org/changeset/159052926</link>
