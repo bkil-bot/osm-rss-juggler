@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>With our #deltachat #chatmail and #webxdc efforts we put all intelligence on the end devices, and architecutally separate it from a transport layer that routes safely and fast but knows nothing. There are a dozen or more #chatmail servers across many jurisdictions, all safely interopable with each other and classic servers. Turned out we can dumb down email servers by relying on cryptography instead of IP reputation and ai/spam filtering. And have 200ms delivery times. We are not done :)</title>
+        <link>https://chaos.social/@delta/113499284199681750</link>
+        <guid>https://chaos.social/@delta/113499284199681750</guid>
+        <pubDate>Sun, 17 Nov 2024 16:40:36 +0000</pubDate>
+      </item><item>
         <title>Working based on interoperable specifications is value to users and developers. Development teams get the freedom to exchange component implementations which is beneficial to the user. Other developers can team up to replace a whole tool or app with another interoperable one, providing a second level of &amp;quot;freedom to exit&amp;quot;. Its true for #activitypub and is true for our e-mail Standards and #openpgp based end-to-end encryption. Protocols are the fundamental source to provide freedom of exit.</title>
         <link>https://chaos.social/@delta/113492052382161817</link>
         <guid>https://chaos.social/@delta/113492052382161817</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/112664966963905029</link>
         <guid>https://chaos.social/@delta/112664966963905029</guid>
         <pubDate>Sun, 23 Jun 2024 08:22:45 +0000</pubDate>
-      </item><item>
-        <title>Great, so #chatcontrol was not moving forward today thanks also to various interventions from folks around the fediverse .... In particular thanks @Mer__edith for the clear take from Signals side. But it&amp;#39;s clearly not canceled and Hungary will retry getting it through, and France, having elections soon, might drop out of opposing it? Let&amp;#39;s stay vigilant about #chatcontrol and help eg @netzpolitik_feed and @edri and other groups to help us working against authoritarian #chatcontrol fantasies.</title>
-        <link>https://chaos.social/@delta/112648989842429225</link>
-        <guid>https://chaos.social/@delta/112648989842429225</guid>
-        <pubDate>Thu, 20 Jun 2024 12:39:34 +0000</pubDate>
       </item>
   </channel>
 </rss>
