@@ -62,11 +62,6 @@
         <link>https://www.openstreetmap.org/changeset/159004488</link>
         <guid>https://www.openstreetmap.org/changeset/159004488#comment_2</guid>
         <pubDate>2024-11-12T14:15:42+01:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 3 Comment: Szia! noexit=yes nem azt jelenti, hogy ki van táblázva a zsákutca, hanem hogy semmilyen módon nem lehet továbbhaladni az adott pontról. Vonalakon nem is kellene használni, csak pontokon. Köznyelvi/Kresz és Osm jelentése más a zsákutcának. https://wiki.openstreetmap.org/wiki/Tag:noexit%3Dyes Kresz zsákutcát nem kell jelölni, mert következik a geometriából. Ha magát a zsákutca táblát akarod jelölni, akkor azt a traffic_sign=DE:357-tel címkézheted egy ponton: https://wiki.openstreetmap.org/wiki/DE:Tag:traffic_sign%3DDE:357 Date: 2024-11-12T13:08:41+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/158290138</link>
-        <guid>https://www.openstreetmap.org/changeset/158290138#comment_3</guid>
-        <pubDate>2024-11-12T13:08:41+01:00</pubDate>
       </item>
   </channel>
 </rss>
