@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Are you interested in enshittification-resistant application development? After almost two years of collaboration with the wonderful @n0iroh team, we are happy to announce that #deltachat 1.48 apps on all platforms contain top-notch Peer-to-Peer networking support, including hole-punching and forward-secret end-to-end encryption. It is exposed through the new #webxdc realtime APIs and there are some nice initial showcase apps 🎉 https://delta.chat/en/2024-11-20-webxdc-realtime</title>
+        <link>https://chaos.social/@delta/113514874537852340</link>
+        <guid>https://chaos.social/@delta/113514874537852340</guid>
+        <pubDate>Wed, 20 Nov 2024 10:45:26 +0000</pubDate>
+      </item><item>
         <title>With our #deltachat #chatmail and #webxdc efforts we put all intelligence on the end devices, and architecutally separate it from a transport layer that routes safely and fast but knows nothing. There are a dozen or more #chatmail servers across many jurisdictions, all safely interopable with each other and classic servers. Turned out we can dumb down email servers by relying on cryptography instead of IP reputation and ai/spam filtering. And have 200ms delivery times. We are not done :)</title>
         <link>https://chaos.social/@delta/113499284199681750</link>
         <guid>https://chaos.social/@delta/113499284199681750</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/112684132304517685</link>
         <guid>https://chaos.social/@delta/112684132304517685</guid>
         <pubDate>Wed, 26 Jun 2024 17:36:45 +0000</pubDate>
-      </item><item>
-        <title>Delta Chat collabs are carefully cooking new major features by a series of discussion/coding steps with roughly this recipe mix: - one part: discussing a feature and its step wise implementation - three parts: how does it square with usability outcomes (eg avoiding failure modes in the dialogue trees; who really needs this? what do they say themselves?) - one part: how it can be attacked? Focus on real security outcomes. - two parts: how can we avoid maintenance monsters for future us?</title>
-        <link>https://chaos.social/@delta/112664966963905029</link>
-        <guid>https://chaos.social/@delta/112664966963905029</guid>
-        <pubDate>Sun, 23 Jun 2024 08:22:45 +0000</pubDate>
       </item>
   </channel>
 </rss>
