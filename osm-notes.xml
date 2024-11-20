@@ -3,6 +3,21 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment 4480353 (near 5475, Csépa) / * 2024 October 15 20:33 Created: Zarándok út erre / #OsmAnd / * 2024 November 20 09:58 Spush Updated: Ez így kevés információ. Egy pont segítségével a zarándokút nyomvonala nem korrigálható.</title>
+        <link>https://www.openstreetmap.org/note/4480353#c9931186</link>
+        <guid>https://www.openstreetmap.org/note/4480353#c9931186</guid>
+        <pubDate>Wed, 20 Nov 2024 09:58:20 +0000</pubDate>
+      </item><item>
+        <title>new comment 4526485 (near 4951, Tiszabecs) / * 2024 November 20 09:53 ITineris Updated: Magát a TiszaTúr tározót is jó lenne berajzolni, landuse=basin, basin=*.</title>
+        <link>https://www.openstreetmap.org/note/4526485#c9931177</link>
+        <guid>https://www.openstreetmap.org/note/4526485#c9931177</guid>
+        <pubDate>Wed, 20 Nov 2024 09:53:35 +0000</pubDate>
+      </item><item>
+        <title>new note 4526485 (near 4951, Tiszabecs) / * 2024 November 20 09:37 urbalazs Created: A kerékpárút ezen a részen több térképelemet is keresztez, amelyek már elbontásra kerültek. A Tisza töltés elbontásra került a TiszaTúr tározó beömlő műtárgy építésekor, így a rajta futó töltésút a tározó töltésre került át. Át kellene nézni a kerékpárút teljes nyomvonalát, és megoldani az egymást metsző térképelemeket.</title>
+        <link>https://www.openstreetmap.org/note/4526485#c9931130</link>
+        <guid>https://www.openstreetmap.org/note/4526485#c9931130</guid>
+        <pubDate>Wed, 20 Nov 2024 09:37:01 +0000</pubDate>
+      </item><item>
         <title>closed note 4158311 (near 5540, Szarvas) / * 2024 March 18 12:50 Created: Dr. Bencsik Ferenc LL.M. / ügyvéd, közlekedési szakjogász / * 2024 November 20 08:55 Lászlófi János Resolved: </title>
         <link>https://www.openstreetmap.org/note/4158311#c9931026</link>
         <guid>https://www.openstreetmap.org/note/4158311#c9931026</guid>
@@ -247,16 +262,6 @@
         <link>https://www.openstreetmap.org/note/4523716#c9923865</link>
         <guid>https://www.openstreetmap.org/note/4523716#c9923865</guid>
         <pubDate>Sun, 17 Nov 2024 21:13:15 +0000</pubDate>
-      </item><item>
-        <title>closed note 4523322 (near 1033, Óbudai-sziget, 3rd district) / * 2024 November 17 20:07 infeeeee Resolved: Javítva: https://www.openstreetmap.org/changeset/159257448</title>
-        <link>https://www.openstreetmap.org/note/4523322#c9923668</link>
-        <guid>https://www.openstreetmap.org/note/4523322#c9923668</guid>
-        <pubDate>Sun, 17 Nov 2024 20:07:50 +0000</pubDate>
-      </item><item>
-        <title>closed note 4410849 (near PP Center Üzleti Központ, 95, Aquincum, 3rd district) / * 2024 August 30 15:03 Gábor0906 Created: HALMOS Kft iroda/raktár / * 2024 November 17 20:07 infeeeee Resolved: Felvittem: https://www.osm.org/changeset/159257448</title>
-        <link>https://www.openstreetmap.org/note/4410849#c9923666</link>
-        <guid>https://www.openstreetmap.org/note/4410849#c9923666</guid>
-        <pubDate>Sun, 17 Nov 2024 20:07:28 +0000</pubDate>
       </item>
   </channel>
 </rss>
