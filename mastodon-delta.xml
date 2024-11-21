@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>We just boosted a report from someone (we don&amp;#39;t know) summarizing and reporting about recent court happenings in Moscow against us. We confirm these legal proceedings are indeed happening and we are represented by a lawyer there ... https://wetdry.world/@cybertailor/113519933644061097 There are rumours that a theater play work-titled &amp;quot;how to arrest a protocol?&amp;quot; will be presented at #38c3 btw :)</title>
+        <link>https://chaos.social/@delta/113520532425085903</link>
+        <guid>https://chaos.social/@delta/113520532425085903</guid>
+        <pubDate>Thu, 21 Nov 2024 10:44:18 +0000</pubDate>
+      </item><item>
         <title>Are you interested in enshittification-resistant application development? After almost two years of collaboration with the wonderful @n0iroh team, we are happy to announce that #deltachat 1.48 apps on all platforms contain top-notch Peer-to-Peer networking support, including hole-punching and forward-secret end-to-end encryption. It is exposed through the new #webxdc realtime APIs and there are some nice initial showcase apps 🎉 https://delta.chat/en/2024-11-20-webxdc-realtime</title>
         <link>https://chaos.social/@delta/113514874537852340</link>
         <guid>https://chaos.social/@delta/113514874537852340</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/112716006329107667</link>
         <guid>https://chaos.social/@delta/112716006329107667</guid>
         <pubDate>Tue, 02 Jul 2024 08:42:44 +0000</pubDate>
-      </item><item>
-        <title>Third time is a charm! Watch us tirelessly explaining to Roskomnadzor how e-mail works! The three innovations in our third reply are that we a) request the international law their request is grounded on (as if they would care) b) communicate that their assumptions, even according to russian laws, are wrong (as if they would care) c) state explicitly that Delta Chat is unlike WhatsApp, Signal or Telegram (doh!) #chatcontrol-delenda-est A letter from merlinux to Roskomandzor: Regarding registration of Delta Chat provided services in Russia with the following key content: 1) You fail to reference relevant International Law that would give you the authority to request any interaction from us as an organization residing within the legal framework of the European Union. If you don’t reference any international law or treaty, you are required to direct your queries to the german foreign ministry instead, which in turn would get in contact with us. 2) Even if your request was grounded in international law, merlinux is not an „ICO“ or „Information Communication Organizer“ as defined in Section 10.1 of 149-FZ. In particular, we maintain that this base assumption stated in your letter is not correct: „According to the results of the analysis the information resource delta.chat , the owner of which is a foreign organization merlinux GmbH, was found to have the capability to receive, transmit, deliver and (or) process electronic messages of Internet users.“ Unlike Telegram or Whatsapp, the information resource „delta.chat“ does not have the ability to receive, transmit, deliver or process electronic messages. All users of our e-mail client apps choose electronic message processors („e-mail servers“) sovereignly themselves, without our knowledge and without sending their messages through a central server like it happens with Telegram or Whatsapp.</title>
-        <link>https://chaos.social/@delta/112684132304517685</link>
-        <guid>https://chaos.social/@delta/112684132304517685</guid>
-        <pubDate>Wed, 26 Jun 2024 17:36:45 +0000</pubDate>
       </item>
   </channel>
 </rss>
