@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Those of you who have to work through Google, Apple and other store&amp;#39;s compliance, we feel you! Maintaining around 16+ target distribution sites for cross platform apps takes a constant toll on us. One of the giant features of #webxdc app developments is precisely that no store is needed. You can just write an index.html, a .js file and pack into a zip file and everyone can use this as an app in their chats, no store needed for permission and distribution. https://webxdc.org/docs/</title>
+        <link>https://chaos.social/@delta/113521589069441660</link>
+        <guid>https://chaos.social/@delta/113521589069441660</guid>
+        <pubDate>Thu, 21 Nov 2024 15:13:01 +0000</pubDate>
+      </item><item>
         <title>We just boosted a report from someone (we don&amp;#39;t know) summarizing and reporting about recent court happenings in Moscow against us. We confirm these legal proceedings are indeed happening and we are represented by a lawyer there ... https://wetdry.world/@cybertailor/113519933644061097 There are rumours that a theater play work-titled &amp;quot;how to arrest a protocol?&amp;quot; will be presented at #38c3 btw :)</title>
         <link>https://chaos.social/@delta/113520532425085903</link>
         <guid>https://chaos.social/@delta/113520532425085903</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/112761333473270752</link>
         <guid>https://chaos.social/@delta/112761333473270752</guid>
         <pubDate>Wed, 10 Jul 2024 08:50:01 +0000</pubDate>
-      </item><item>
-        <title>If you want to dive deep into guaranteed end-to-end encryption and how green checkmarks protect against compromised servers (&amp;quot;MITM attacks&amp;quot;), the &amp;quot;Cryptographic Analysis of Delta Chat&amp;quot; from Applied Cryptography researchers at ETH Zuerich has been published at https://eprint.iacr.org/2024/918.pdf -- earlier this year we had blogged from our side how we addressed all findings https://delta.chat/en/2024-03-25-crypto-analysis-securejoin #securejoin #deltachat</title>
-        <link>https://chaos.social/@delta/112716006329107667</link>
-        <guid>https://chaos.social/@delta/112716006329107667</guid>
-        <pubDate>Tue, 02 Jul 2024 08:42:44 +0000</pubDate>
       </item>
   </channel>
 </rss>
