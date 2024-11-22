@@ -3,6 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 4526936 (near Anasztáziapuszta, Tárnok) / * 2024 November 22 10:16 bkil Resolved: Ez a funkció publikus térképhibák bejelentésére szolgál. A hibajegy nem tartalmaz elég információt ami a megoldáshoz szükséges, így lezárásra került.</title>
+        <link>https://www.openstreetmap.org/note/4526936#c9937142</link>
+        <guid>https://www.openstreetmap.org/note/4526936#c9937142</guid>
+        <pubDate>Fri, 22 Nov 2024 10:16:38 +0000</pubDate>
+      </item><item>
+        <title>closed note 4508341 (near 1111, Lágymányos, 11th district) / * 2024 November 5 11:02 gymate Created: New AlzaBox / * 2024 November 22 09:36 gymate Resolved: Added it to the map.</title>
+        <link>https://www.openstreetmap.org/note/4508341#c9937034</link>
+        <guid>https://www.openstreetmap.org/note/4508341#c9937034</guid>
+        <pubDate>Fri, 22 Nov 2024 09:36:40 +0000</pubDate>
+      </item><item>
         <title>closed note 4396285 (near 5904, Orosháza) / * 2024 August 22 07:25 gabro00 Created: Elvileg itt 2023 őszén kerékpárutat adtak át: / https://www.beol.hu/helyi-kozelet/2023/08/elkeszult-a-kerekparut-egy-szakasza-oroshaza-gyoparosfurdon / * 2024 November 22 09:02 Spush Resolved: Ha jól látom felkerült a kerékpárút.</title>
         <link>https://www.openstreetmap.org/note/4396285#c9936961</link>
         <guid>https://www.openstreetmap.org/note/4396285#c9936961</guid>
@@ -312,16 +322,6 @@
         <link>https://www.openstreetmap.org/note/4158311#c9931026</link>
         <guid>https://www.openstreetmap.org/note/4158311#c9931026</guid>
         <pubDate>Wed, 20 Nov 2024 08:55:50 +0000</pubDate>
-      </item><item>
-        <title>new note 4526135 (near Mélykúti dűlő, Sarlaytelep, Szombathely) / * 2024 November 19 22:51 Gabibá Created: zárt kapu / #OsmAnd</title>
-        <link>https://www.openstreetmap.org/note/4526135#c9930180</link>
-        <guid>https://www.openstreetmap.org/note/4526135#c9930180</guid>
-        <pubDate>Tue, 19 Nov 2024 22:51:37 +0000</pubDate>
-      </item><item>
-        <title>closed note 4482797 (near 8220, Almádi, Balatonalmádi) / * 2024 October 17 16:04 vasony Created: Piactér bisztró? / * 2024 November 19 20:56 vasony Resolved: Az elefánt új neve, de zárva volt</title>
-        <link>https://www.openstreetmap.org/note/4482797#c9929911</link>
-        <guid>https://www.openstreetmap.org/note/4482797#c9929911</guid>
-        <pubDate>Tue, 19 Nov 2024 20:56:20 +0000</pubDate>
       </item>
   </channel>
 </rss>
