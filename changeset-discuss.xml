@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: infeeeee Discussion Comment No.: 3 Comment: Reverted. https://www.openstreetmap.org/changeset/159567376 Date: 2024-11-25T10:44:27+01:00</title>
+        <title>Contributor: infeeeee Discussion Comment No.: 4 Comment: I found more info, it was for some online challenge. On this video they show how this was used: https://youtu.be/Jsd2rGqVnfk?feature=shared&amp;t=1012 Also here: https://belkasoft.com/belkactf-jul2022-writeup Please notify the organizers, that OpenStreetMap is not for this kind of fake data, and if someone will place this fake restaurant again we will remove it instantly. Date: 2024-11-25T13:47:33+01:00</title>
         <link>https://www.openstreetmap.org/changeset/159544882</link>
-        <guid>https://www.openstreetmap.org/changeset/159544882#comment_3</guid>
-        <pubDate>2024-11-25T10:44:27+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/159544882#comment_4</guid>
+        <pubDate>2024-11-25T13:47:33+01:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 3 Comment: Javítva: https://osm.org/changeset/159565361 Kérlek a jövőben figyelj erre, facebook oldalak a saját címkéjükbe, nem kötelező a weboldal mezőt kitölteni, ha nincs weboldaluk. Ez igaz minden címkére, attól még, hogy kitöltöd az összes mezőt nem feltétlenül lesz jobb a térkép. Pl itt a sok no csak zaj, és a fontos adat eltűnik közte: https://osm.org/node/12369726169 Olyanokhoz is megadtad, amik Magyarországon nem érhetőek el, szóval felesleges. A legtöbb címkének van alapértelmezett értéke, amit nem feltétlenül kell kitölteni, ha más nem következne bellőle. Pl. a payment:cash-t sem töltjük ki minden üzleten, mert Magyarországon törvény mondja ki, hogy kötelező elfogadni készpénzt mindenhol. Kétirányú utcákra se rakjuk rá a oneway=no-t hacsak valamiből nem következne az, hogy egyirányú (Pl. régen egyirányú volt, vagy egy másik szakasza egyirányú, stb.) Van ami meg következik más címkéből, pl a payment:cards-ból következik, hogy az összes többi kártyás fizetés sem lehetséges, felesleges felsorolni őket. Ez csak hibát meg plusz munkát generálhat a jövőben, ha esetleg lesz ezen a helyen kártyás fizetés, akkor egy címke helyett 20-at kell majd frissíteni. Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! Date: 2024-11-25T10:08:51+01:00</title>
         <link>https://www.openstreetmap.org/changeset/159400660</link>
