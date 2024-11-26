@@ -2,6 +2,11 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      
+      <item>
+        <title>Hu:Using aerial imagery: Légifelvételek és az OSM -ITinerisKft</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hu:Using_aerial_imagery&amp;diff=2781644&amp;oldid=2780844</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hu:Using_aerial_imagery&amp;diff=2781644</guid>
+        <pubDate>Tue, 26 Nov 2024 08:01:01 GMT</pubDate>
+      </item>
   </channel>
 </rss>
