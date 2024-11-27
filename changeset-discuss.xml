@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: marczoutendijk Discussion Comment No.: 1 Comment: landuse=area is not correct because landuse always is an area! What kind of landuse is it? (industrial? residential? etc). Marc Zoutendijk OpenStreetMap Foundation Data Working Group Date: 2024-11-27T21:07:47+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/153688805</link>
+        <guid>https://www.openstreetmap.org/changeset/153688805#comment_1</guid>
+        <pubDate>2024-11-27T21:07:47+01:00</pubDate>
+      </item><item>
+        <title>Contributor: marczoutendijk Discussion Comment No.: 1 Comment: Hi, All your changesets have just one comment: adatok hozzáadása But that is what all mappers do! Can you be more specific? Please read this: https://wiki.openstreetmap.org/wiki/Good_changeset_comments Marc Zoutendijk OpenStreetMap Foundation Data Working Group Date: 2024-11-27T21:04:10+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/149418343</link>
+        <guid>https://www.openstreetmap.org/changeset/149418343#comment_1</guid>
+        <pubDate>2024-11-27T21:04:10+01:00</pubDate>
+      </item><item>
         <title>Contributor: feket Discussion Comment No.: 2 Comment: Igen. Kenderföldek utca van a táblákon, ugyanakkor tudom, hogy az önkormányzatii dokumentumokban is &quot;Kenderfōldek utcája&quot; néven hivatkoznak rá. Date: 2024-11-27T07:08:41+01:00</title>
         <link>https://www.openstreetmap.org/changeset/159616074</link>
         <guid>https://www.openstreetmap.org/changeset/159616074#comment_2</guid>
@@ -32,16 +42,6 @@
         <link>https://www.openstreetmap.org/changeset/159330333</link>
         <guid>https://www.openstreetmap.org/changeset/159330333#comment_4</guid>
         <pubDate>2024-11-22T05:33:12+01:00</pubDate>
-      </item><item>
-        <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szia! MI szerepel az utcatáblán? Legutóbb Andrássy utca volt. A Posta elnevezés nem mérvadó. https://wiki.openstreetmap.org/wiki/Hungary/Jel%c3%b6l%c3%a9si_p%c3%a9ld%c3%a1k#Utcanevek Tamás Tamás Date: 2024-11-20T21:55:16+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/159322654</link>
-        <guid>https://www.openstreetmap.org/changeset/159322654#comment_1</guid>
-        <pubDate>2024-11-20T21:55:16+01:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Megbeszéltük, hogy nem jelölünk ideiglenes dolgokat. Visszavonva. https://www.openstreetmap.org/changeset/159377070 Date: 2024-11-20T17:36:06+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/159324902</link>
-        <guid>https://www.openstreetmap.org/changeset/159324902#comment_1</guid>
-        <pubDate>2024-11-20T17:36:06+01:00</pubDate>
       </item>
   </channel>
 </rss>
