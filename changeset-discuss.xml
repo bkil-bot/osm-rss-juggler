@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: NightH Discussion Comment No.: 8 Comment: Más fogalmaink vannak a taburól. Miért kapcsolnád be az adatréteget? A gombok között ott van az &quot;Objektumok lekérdezése&quot; gomb, amivel bármelyik objektum információit lekérdezheted anélkül, hogy belehalna a géped. Ha pedig valami oknál fogva a ki nem renderelt adatok érdekelnek, akkor nézd meg iD-ben vagy JOSM alatt. Mindkettő szintén szépen megjelenít minden adatot (renderertől függetlenül). Date: 2024-11-29T12:14:33+01:00</title>
+        <title>Contributor: infeeeee Discussion Comment No.: 9 Comment: Ha vektoros megjelenítőt akarsz, abból is vannak optimalizáltak, amiket nem lassít, például https://osmapp.org vagy https://americanamap.org/ Ráadásul ez, hogy azért nem akarsz térképezni valamit mert az egyik megjelenítőt lassítja &quot;mapping for the renderer&quot;-nek minősül ami tilos: https://wiki.openstreetmap.org/wiki/Tagging_for_the_renderer A melléképületeknek nem csak címe van, tetőforma, szín, emeletek száma, stb mind látható utcáról vagy ferdeszögű légifotótól, és címkézhető is emiatt, anélkül hogy magánterületre lépnél. Földhivatali meg különböző forrásokból pedig sokkal részletesebb adatokat lehet megszerezni ha valaki azt akarja, vagy akár sokkal frissebb ortofotókat, nagyobb felbontással. Szóval az, hogy nincs fent OSM-en igazából nem rejti el nagyon senki elől, csak egy fokkal macerásabbá teszi az adatok megszerzését. Ezeket azért nem használhatjuk, mert nem kompatibilis licensszel érhetőek el, hidd el rajzolnánk mi FÖMI 2024-ből, de a törvény csak 10 évnél régebbieket enged, nem rajtunk múlik. Date: 2024-11-29T13:18:01+01:00</title>
         <link>https://www.openstreetmap.org/changeset/159339414</link>
-        <guid>https://www.openstreetmap.org/changeset/159339414#comment_8</guid>
-        <pubDate>2024-11-29T12:14:33+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/159339414#comment_9</guid>
+        <pubDate>2024-11-29T13:18:01+01:00</pubDate>
       </item><item>
         <title>Contributor: grin Discussion Comment No.: 1 Comment: Fictional edit https://www.openstreetmap.org/changeset/159712774 Date: 2024-11-28T17:30:38+01:00</title>
         <link>https://www.openstreetmap.org/changeset/152933125</link>
