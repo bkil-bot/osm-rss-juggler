@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>We are an in-between project. #deltachat is in-between traditional messengers and email apps and #p2p paradigms, #chatmail is in between the massive email server network and #webxdc is in-between e-mail, @xmpp and the web ecosystem (but outlaws central platforms) ... Our approach is rhizomatic, i.e. based on, and changes with, various collaborations and joining contributors. We don&amp;#39;t have stable funding and need to regularly apply for public funds ... And are surrounded by VC funded projects</title>
+        <link>https://chaos.social/@delta/113565344709376165</link>
+        <guid>https://chaos.social/@delta/113565344709376165</guid>
+        <pubDate>Fri, 29 Nov 2024 08:40:39 +0000</pubDate>
+      </item><item>
         <title>Those of you who have to work through Google, Apple and other store&amp;#39;s compliance, we feel you! Maintaining around 16+ target distribution sites for cross platform apps takes a constant toll on us. One of the giant features of #webxdc app developments is precisely that no store is needed. You can just write an index.html, a .js file and pack into a zip file and everyone can use this as an app in their chats, no store needed for permission and distribution. https://webxdc.org/docs/</title>
         <link>https://chaos.social/@delta/113521589069441660</link>
         <guid>https://chaos.social/@delta/113521589069441660</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/112767583354362619</link>
         <guid>https://chaos.social/@delta/112767583354362619</guid>
         <pubDate>Thu, 11 Jul 2024 11:19:27 +0000</pubDate>
-      </item><item>
-        <title>More ways to connect! Our dear long-term collaborators at Iroh just entered the Fediverse via @n0iroh -- Delta Chat already uses Iroh happily for multi-device setup on all platforms ... stay tuned for more fruits of this ongoing collaboration with some of the best #rust #p2p coders we know :) Latest in their crazy bi-weekly release rhythm is https://iroh.computer/blog/iroh-0-20-more-ways-to-connect</title>
-        <link>https://chaos.social/@delta/112761333473270752</link>
-        <guid>https://chaos.social/@delta/112761333473270752</guid>
-        <pubDate>Wed, 10 Jul 2024 08:50:01 +0000</pubDate>
       </item>
   </channel>
 </rss>
