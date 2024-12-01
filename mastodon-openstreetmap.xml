@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>Today (Dec 1) is #WorldAIDSDay. Everyone, everywhere, has the right to quality healthcare services in the fight against HIV and AIDS. https://www.who.int/campaigns/world-aids-day/2024 OpenStreetMap, the free geo database for everyone, can be used to share, record and spread data on HIV Facilities. e.g. https://wiki.openstreetmap.org/wiki/HIV_Facilities_Tagging_(MapBeks)</title>
+        <link>https://en.osm.town/@openstreetmap/113577135962471561</link>
+        <guid>https://en.osm.town/@openstreetmap/113577135962471561</guid>
+        <pubDate>Sun, 01 Dec 2024 10:39:19 +0000</pubDate>
+      </item><item>
         <title>The https://OpenStreetMap.org servers have migrated to Debian. Here @osm_tech team member @Firefishy talks to the Debian team about why, when and how. https://bits.debian.org/2024/11/openstreetmap-on-debian.html #OpenStreetMap #Linux #Debian #OSM</title>
         <link>https://en.osm.town/@openstreetmap/113561196445263559</link>
         <guid>https://en.osm.town/@openstreetmap/113561196445263559</guid>
@@ -96,11 +101,6 @@
         <title>Q11 “OpenStreetMap relies heavily on technology. How satisfied are you with the current state of the technology that powers OSM? How would you support or encourage technological advancements and innovation within the OSM ecosystem? What technology changes are the most pressing?” https://wiki.openstreetmap.org/wiki/Foundation/AGM2024/Election_to_Board/Answers_and_manifestos/Q11_Technology_and_Innovation</title>
         <link>https://en.osm.town/@openstreetmap/113227746368603964</link>
         <guid>https://en.osm.town/@openstreetmap/113227746368603964</guid>
-        <pubDate>Mon, 30 Sep 2024 17:44:57 +0000</pubDate>
-      </item><item>
-        <title>Q10 “How would you promote diverse voices and perspectives from the global OpenStreetMap community? What steps would you take to attract and retain high-quality volunteers and contributors, especially in underrepresented groups and locations? How would you ensure the OSMF is a safe and welcoming place for all contributors?” https://wiki.openstreetmap.org/wiki/Foundation/AGM2024/Election_to_Board/Answers_and_manifestos/Q10_Promoting_Community_and_Attracting_Volunteers</title>
-        <link>https://en.osm.town/@openstreetmap/113227746360204073</link>
-        <guid>https://en.osm.town/@openstreetmap/113227746360204073</guid>
         <pubDate>Mon, 30 Sep 2024 17:44:57 +0000</pubDate>
       </item>
   </channel>
