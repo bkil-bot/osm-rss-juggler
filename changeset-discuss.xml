@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: Tjuro Discussion Comment No.: 1 Comment: Hello Szipek, i see that you added some buildings here, when drawing buildings by hand please use the squaring tool (Q) when appropriate to make the drawn building square. I see that you added adreses to these buildings, addresses should be placed on nodes, and there should generally only be one node with the same address info. I hope you can take these tips into account. Greetings, Tjuro Date: 2024-12-01T10:15:00+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/159783034</link>
+        <guid>https://www.openstreetmap.org/changeset/159783034#comment_1</guid>
+        <pubDate>2024-12-01T10:15:00+01:00</pubDate>
+      </item><item>
         <title>Contributor: ITineris Discussion Comment No.: 3 Comment: Lásd https://wiki.openstreetmap.org/wiki/Hungary/F%C5%91%C3%BAt Date: 2024-11-30T17:38:25+01:00</title>
         <link>https://www.openstreetmap.org/changeset/148418653</link>
         <guid>https://www.openstreetmap.org/changeset/148418653#comment_3</guid>
@@ -19,13 +24,13 @@
         <pubDate>2024-11-29T13:18:01+01:00</pubDate>
       </item><item>
         <title>Contributor: grin Discussion Comment No.: 1 Comment: Fictional edit https://www.openstreetmap.org/changeset/159712774 Date: 2024-11-28T17:30:38+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/152978731</link>
-        <guid>https://www.openstreetmap.org/changeset/152978731#comment_1</guid>
+        <link>https://www.openstreetmap.org/changeset/152933125</link>
+        <guid>https://www.openstreetmap.org/changeset/152933125#comment_1</guid>
         <pubDate>2024-11-28T17:30:38+01:00</pubDate>
       </item><item>
         <title>Contributor: grin Discussion Comment No.: 1 Comment: Fictional edit https://www.openstreetmap.org/changeset/159712774 Date: 2024-11-28T17:30:38+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/152933125</link>
-        <guid>https://www.openstreetmap.org/changeset/152933125#comment_1</guid>
+        <link>https://www.openstreetmap.org/changeset/152978731</link>
+        <guid>https://www.openstreetmap.org/changeset/152978731#comment_1</guid>
         <pubDate>2024-11-28T17:30:38+01:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Ez nem Apple Store: https://osm.org/node/11235415595 Csak Apple hardvereket szerelő független szerviz. És honlapjuk alapján már nem is ez a nevük. https://www.ionic.hu https://premiumservice.hu/kapcsolat Ez megint az iD-nak valami beépített hibajavítója csinálja? Nem követlek téged direkt, csak az OsmCha megjelöli gyakran a szerkesztéseidet, hogy &quot;Outdated Tags&quot; https://osmcha.org/changesets/159653565/ De szerintem ez most a layer=-1 miatt volt, amit én sem értek miért van rajta ezen, talán a location=underground miatt. https://osm.org/way/133322822 Ezt inkább szét kéne szedni két elemre, amenity=parking és building=office egy vonalon kicsit ellentmond egymásnak, gondolom azt akarta jelölni az előző szerkesztő, hogy mélygarázs van az irodaház alatt. Date: 2024-11-27T23:59:16+01:00</title>
