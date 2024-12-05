@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>major milestones with #deltachat in 2024 so far: - addressed security analysis issues from Applied Crypto Group at ETH Zurich for hardened guaranteed end-to-end encryption - instant onboarding with #chatmail servers (likely the fastest, most secure and reliable e-mail servers you can find on this planet) - push notifications on Android/iOS with all #chatmail servers - introduction of #P2P networking with #webxdc realtime channels - and ❤️ reactions! ... and the year is not over yet :)</title>
+        <link>https://chaos.social/@delta/113599348577170160</link>
+        <guid>https://chaos.social/@delta/113599348577170160</guid>
+        <pubDate>Thu, 05 Dec 2024 08:48:17 +0000</pubDate>
+      </item><item>
         <title>We are not all in the same boat .... This is as true for security and feature design of messengers as it is in the larger political happenings. Often security hackers and enthusiasts living in personally safe environments are offering strong opinions on what is important for everybody in repressive situations without engaging with people on the ground, and just looking from some abstract viewpoint. Via @streetartutopia (worth a follow) A chalkboard sign with a hand-drawn sailboat at the top displays the following message in colorful chalk: &quot;We are NOT all in the same 'BOAT'. We are in the same 'STORM'. Some have yachts, some have canoes, and some are 'DROWNING'. Just be kind &amp; HELP when you can!&quot; The words &quot;NOT,&quot; &quot;STORM,&quot; and &quot;DROWNING&quot; are highlighted in red, while the rest of the text alternates between white and yellow. The sign is framed in wood, conveying a meaningful reminder about empathy and kindness.</title>
         <link>https://chaos.social/@delta/113577678461675454</link>
         <guid>https://chaos.social/@delta/113577678461675454</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/113147751152965469</link>
         <guid>https://chaos.social/@delta/113147751152965469</guid>
         <pubDate>Mon, 16 Sep 2024 14:41:07 +0000</pubDate>
-      </item><item>
-        <title>Some complain about the lack of PFS but there are good reasons for not employing it and we have a well working &amp;quot;guaranteed end-to-end encryption&amp;quot; system. Others complain about the lack of some Telegram features but Durov&amp;#39;s project keep data of a. biIllion users in cleartext. When shit hits the fan, we want delta chat apps to be mass-ready, provide secure and reliable private messaging service even in authoritarian environments. Easier said than done. Lots of details to care for.</title>
-        <link>https://chaos.social/@delta/113104301490882060</link>
-        <guid>https://chaos.social/@delta/113104301490882060</guid>
-        <pubDate>Sun, 08 Sep 2024 22:31:18 +0000</pubDate>
       </item>
   </channel>
 </rss>
