@@ -3,15 +3,20 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: lawrencebanks Discussion Comment No.: 2 Comment: Hi! Sorry about that, it was a mistake removal Date: 2024-12-06T10:10:52+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/159953402</link>
+        <guid>https://www.openstreetmap.org/changeset/159953402#comment_2</guid>
+        <pubDate>2024-12-06T10:10:52+01:00</pubDate>
+      </item><item>
+        <title>Contributor: ITineris Discussion Comment No.: 1 Comment: Szia! A Rózsavölgyi utcai parkolóautomatához felvetted a kártyás fizetési lehetőségeket. Én nem láttam rajta nyílást, csak érintős olvasót. Üdv: Ákos Date: 2024-12-06T09:50:26+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/154774774</link>
+        <guid>https://www.openstreetmap.org/changeset/154774774#comment_1</guid>
+        <pubDate>2024-12-06T09:50:26+01:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 6 Comment: Ha nem írod be mint forrás, akkor nehezen bizonyítható, hogy mit láttál személyesen, mit nem... Hasonló linkjeidet különböző elemekről töröltem már többször linkrohadás miatt. Ezek a véletlenszerű blogok eléggé gyakran tűnnek el, költöznek, pár évvel később már csak 404 a válasz. Ráadásul ha csak a általános url mezőbe írod, akkor nehéz megállapítani, ha már nem érhető el, hogy vajon mi lehetett az ott. Fontos infó volt? Vagy valaki kb megismételte csak a wikipédiát? Keressek helyette egy másik linket ami működik, vagy mindegy? Több működő linkedet átírtam már source:start_date vagy hasonló mezőkbe, hogy egyértelműbb legyen miért van ott. Fasorok kicsit szubjektívek tényleg. A héten mentem kocsival a Kereszt utcán és figyeltem, onnan látszódott fasornak, de mivel mögötte kb véletlenszerűen folytatódnak a fák, nekem az pl továbbra sem fasor, inkább csak az erdő széle egyenes, de mindegy, elfogadom a te érveidet is. Levlistán viszonylag kevés forgalom van, szerintem többen vagyunk a Matrix szobában, meg a valós idejűség miatt gyorsabban választ is lehet kapni a kérdésekre. Illetve még egy, ebben a changesetedben nem, de máshol láttam, hogy szobroknak szoktál címet adni, pl ennek: https://osm.org/node/2936169763 Ez a stolpersteinek importjakor felmerült, hogy azoknak adjunk-e addr: címkéket, mert azok mind egy épülethez kapcsolódnak, aminek van címe. Végül asszem azért vetettük el, mert az nem az emlékműnek a címe, hanem a háznak így igazából szó szerint értelmezve ennek a szobornak sincs címe, csak a kertnek amiben van, vagy a háznak amihez tartozik. Ha valamiért mindenképp címet akarsz adni egy szobornak, létezik erre a memorial:addr címke, de szerintem az esetek nagy többségében szobrok címzése nem felel meg a helyszíni ellenőrizhetőség feltételének, hacsak nincs a cím ráírva a szoborra. https://wiki.openstreetmap.org/wiki/Verifiability Másik címes dolog: ki szoktad tölteni az addr:suburb címkét. Tuti kell ez? Nem része a címnek, postás enélkül is odatalál, Budapesten pedig a városrészek térképezve vannak már mint reláció. Ha valakinek kell ez az adat, le tudja kérdezni: https://overpass-turbo.eu/s/1Vf9 Jelölési példák is ezt írja erről: &gt; addr:suburb=* Azon településeknél, ahol a postai címzés ezt használja, vagy ha több ugyanolyan nevű utca létezik az adott településen, akkor megadható, de nem kötelező. Ovális kondi park: Foglalkozok majd vele, értem mi a probléma. Date: 2024-12-05T22:24:39+01:00</title>
         <link>https://www.openstreetmap.org/changeset/159771451</link>
         <guid>https://www.openstreetmap.org/changeset/159771451#comment_6</guid>
         <pubDate>2024-12-05T22:24:39+01:00</pubDate>
-      </item><item>
-        <title>Contributor: descubrebitcoin Discussion Comment No.: 1 Comment: Hi, I see that you have deleted node 11897085215. Can you confirm if this ATM is not physically there anymore? Thank you. Date: 2024-12-05T14:24:13+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/159953402</link>
-        <guid>https://www.openstreetmap.org/changeset/159953402#comment_1</guid>
-        <pubDate>2024-12-05T14:24:13+01:00</pubDate>
       </item><item>
         <title>Contributor: descubrebitcoin Discussion Comment No.: 1 Comment: Hi, I see that you have deleted node 11897085215 but it seems to still exist. Have you surveyed the place and found it doesn't exist anymore? I am re-adding it. Date: 2024-12-05T14:13:17+01:00</title>
         <link>https://www.openstreetmap.org/changeset/152391652</link>
