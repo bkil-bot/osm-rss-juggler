@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>&amp;quot;You app is not compliant&amp;quot; ... says the lawyer-speak automated mail that cancels the bug-fix android release we just uploaded, referencing &amp;quot;Version code 705: Policy Declaration - Data Safety Section: Personal Info Data Type - Name&amp;quot;. That&amp;#39;s about the only information they provide. Nothing more specific. Another release earlier in the week went through. FWIW our apps do not transfer a &amp;quot;name&amp;quot; anywhere else than to chat partners, using end-to-end encryption and e-mail servers that users choose.</title>
+        <link>https://chaos.social/@delta/113611401351307576</link>
+        <guid>https://chaos.social/@delta/113611401351307576</guid>
+        <pubDate>Sat, 07 Dec 2024 11:53:28 +0000</pubDate>
+      </item><item>
         <title>major milestones with #deltachat in 2024 so far: - addressed security analysis issues from Applied Crypto Group at ETH Zurich for hardened guaranteed end-to-end encryption - instant onboarding with #chatmail servers (likely the fastest, most secure and reliable e-mail servers you can find on this planet) - push notifications on Android/iOS with all #chatmail servers - introduction of #P2P networking with #webxdc realtime channels - and ❤️ reactions! ... and the year is not over yet :)</title>
         <link>https://chaos.social/@delta/113599348577170160</link>
         <guid>https://chaos.social/@delta/113599348577170160</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/113153037598329705</link>
         <guid>https://chaos.social/@delta/113153037598329705</guid>
         <pubDate>Tue, 17 Sep 2024 13:05:32 +0000</pubDate>
-      </item><item>
-        <title>Shout out to AccessNow folks and @Xeniax who helped to convince Meta to unblock #deltachat invite URLs in Facebook. Previously delta invite-links on Facebook were marked as &amp;quot;dangerous&amp;quot; and didn&amp;#39;t work. sidenote: if you send someone an invite-link, they can click it directly after they installed Delta Chat because they will be guided through the &amp;quot;create-profile&amp;quot; flow automatically and then be dropped into a chat with the inviter. Screenshot of a Facebook message containing an invite-link. It shows a Delta Chat logo and the &quot;Message privately on Delta Chat&quot; with a &quot;tap the invite link to start&quot; text.</title>
-        <link>https://chaos.social/@delta/113147751152965469</link>
-        <guid>https://chaos.social/@delta/113147751152965469</guid>
-        <pubDate>Mon, 16 Sep 2024 14:41:07 +0000</pubDate>
       </item>
   </channel>
 </rss>
