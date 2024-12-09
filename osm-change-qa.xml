@@ -2,7 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Change QA (via bkil-bot)</title>
-<item><title>ITineris moved place node 381372183 village Bajánsenye in changeset 159310898</title><link>https://www.openstreetmap.org/changeset/159310898</link><guid>https://www.openstreetmap.org/changeset/159310898</guid><pubDate>Tue, 19 Nov 2024 06:48:02 +0000</pubDate></item>
 <item><title>urbalazs moved place node 353819687 village Szőke in changeset 159472681</title><link>https://www.openstreetmap.org/changeset/159472681</link><guid>https://www.openstreetmap.org/changeset/159472681</guid><pubDate>Fri, 22 Nov 2024 19:33:02 +0000</pubDate></item>
 <item><title>GBAB moved place node 353954430 village Pusztaszentlászló in changeset 159926132</title><link>https://www.openstreetmap.org/changeset/159926132</link><guid>https://www.openstreetmap.org/changeset/159926132</guid><pubDate>Wed, 04 Dec 2024 16:43:45 +0000</pubDate></item>
   </channel>
