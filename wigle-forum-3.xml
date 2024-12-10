@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Temporary laptop / car rig: for Windows i used ages ago inSSIDer: https://www.metageek.com/inssider/ you need to also connect a GPS. in the end you can upload the logfile directly here. Today, i would run a Kali-VM https://www.kali.org/ and then work with Kismet. -d2k2</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=12454#p12454</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=12454#p12454</guid>
+        <pubDate>2024-12-10T05:50:13+00:00</pubDate>
+      </item><item>
         <title>Temporary laptop / car rig: Hi, Fairly new to wardriving and only downloaded the app a few months ago. I wanted to an intense / refresh drive-by survey of my local area (North West UK) for a project and interested in getting this set-up with my existing devices, ie laptop, powerbank, Raspberry Pi, Nighthawk A8000. I can do a little bit of bash, Powershell, WSL, VMs etc but prefer copy / paste instructions as Linux language isn't my first so just looking for a relatively simple laptop set-up with my existing Nighthawk A8000 but not really looking to solder anything or buy new gear. I have explored 'rig's on the forum and seen a few recommendations, like 'use Kismet' and the recommended self-build set-up &quot;https://www.designer2k2.at/de/mods/elek ... ving-setup&quot;, but also seen that Kismet also doesn't really like WSL and won't run in Windows. Any suggestions on relatively simple / temporary rigs on how to use my existing laptop / A8000 that don't involve buying new gear or knowledge of how Linux actually works? Many thanks, Jon -redstamp</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12426#p12426</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12426#p12426</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=12373#p12373</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12373#p12373</guid>
         <pubDate>2024-10-05T21:57:48+00:00</pubDate>
-      </item><item>
-        <title>Re: Pixel 9 (Pro) its so bad, wow...: i can confirm now that &quot;screen on&quot; solves the problem. How usable that is, is another topic... Data from a short run, all 3 phones on the dashboard from a car: S10: Wifi: 2250 Cells: 25 Bluetooth: 1054 S20: Wifi: 2542 Cells: 28 Bluetooth: 1204 P9: Wifi: 2737 Cells: 48 Bluetooth: 1175 so the Pixel 9 holds now 1st place in my phone fleet, but only when i can let the screen on. Plot with the data shows how many more scans the P9 makes: p9_screenon.PNGAre the numbers from the phones displayed on the dashboard? Or the numbers are after you uploaded them to wigle and they were parsed? Are you uploading the phones with the highest displayed found nets first or randomly uploading whichever phone you grab first? -toothpaste</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=12372#p12372</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=12372#p12372</guid>
-        <pubDate>2024-10-05T21:43:12+00:00</pubDate>
       </item>
   </channel>
 </rss>
