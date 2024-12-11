@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>On the occasion of Russia today testing regional blocks of telegram and other apps (especially in eastern Russia) and #WhatsApp down or flaky in many countries the last hours ... Allow us to note that it is very hard to block or bring down #deltachat apps on any larger scale because A) it&amp;#39;s hard to block the planetary email server network B) #chatmail servers have some extras :) C) DNS blocks won&amp;#39;t work D) you can use shadowsocks/socks5 proxies easily on android/iOS Sorry not sorry :)</title>
+        <link>https://chaos.social/@delta/113636155750819932</link>
+        <guid>https://chaos.social/@delta/113636155750819932</guid>
+        <pubDate>Wed, 11 Dec 2024 20:48:50 +0000</pubDate>
+      </item><item>
         <title>&amp;quot;You app is not compliant&amp;quot; ... says the lawyer-speak automated mail that cancels the bug-fix android release we just uploaded, referencing &amp;quot;Version code 705: Policy Declaration - Data Safety Section: Personal Info Data Type - Name&amp;quot;. That&amp;#39;s about the only information they provide. Nothing more specific. Another release earlier in the week went through. FWIW our apps do not transfer a &amp;quot;name&amp;quot; anywhere else than to chat partners, using end-to-end encryption and e-mail servers that users choose.</title>
         <link>https://chaos.social/@delta/113611401351307576</link>
         <guid>https://chaos.social/@delta/113611401351307576</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/113158011354178891</link>
         <guid>https://chaos.social/@delta/113158011354178891</guid>
         <pubDate>Wed, 18 Sep 2024 10:10:25 +0000</pubDate>
-      </item><item>
-        <title>Did you know that #deltachat does not need and does not use key servers? Most other messengers (wa/signal/matrix/threema/...) actually operate or incorporate a cryptographic key server, managing the cryptographic identities of all users. Delta Chat uses decentralized protocols for key management avoiding a central storage of identities. The SecureJoin protocol is the key (sic!) innovation and was independently analyzed by ETH Zürich researchers earlier this year .... https://delta.chat/en/2024-03-25-crypto-analysis-securejoin</title>
-        <link>https://chaos.social/@delta/113153037598329705</link>
-        <guid>https://chaos.social/@delta/113153037598329705</guid>
-        <pubDate>Tue, 17 Sep 2024 13:05:32 +0000</pubDate>
       </item>
   </channel>
 </rss>
