@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Pixel 9 (Pro) its so bad, wow...: 1. under the app battery settings for the WiGLE WiFi Wardriving app, you'll get a single row: &quot;Allow background usage&quot; followed by a toggle. 2. Tap the TEXT (not the toggle!) to get to the second menu, where you can permit the application &quot;Unrestricted&quot; background permission (effectively turning off the now-default &quot;Optimized&quot; behavior) 3. Restart your phone, launch the app, and rock on.I did this now to the P9P and yes it helps a lot. Thanks! With the unrestricted background permission it is about even with a S10. It is still loosing against a S20, but not as much as before. I would have never found this magic second menu, what a hidden thing... -d2k2</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=12455#p12455</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=12455#p12455</guid>
+        <pubDate>2024-12-11T01:07:50+00:00</pubDate>
+      </item><item>
         <title>Re: Temporary laptop / car rig: for Windows i used ages ago inSSIDer: https://www.metageek.com/inssider/ you need to also connect a GPS. in the end you can upload the logfile directly here. Today, i would run a Kali-VM https://www.kali.org/ and then work with Kismet. -d2k2</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12454#p12454</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12454#p12454</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=12375#p12375</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12375#p12375</guid>
         <pubDate>2024-10-06T19:55:20+00:00</pubDate>
-      </item><item>
-        <title>Re: Pixel 9 (Pro) its so bad, wow...: I did a mult-hour run today with my Pixel 6 and set the screen config in the WigleNet app to &quot;Keep screen on&quot;. It definitely did better for discovered WiFi than when the screen was allowed to sleep. The upload file is in the Wigle.net queue so we'll see how it compares to several other devices. I als had it in my pocket for several hours at an event, and while the screen was off (as I had hit the power button on the device), we'll have to see how it did based on the app setting saying keep the screen ON. -pejacoby</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=12373#p12373</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=12373#p12373</guid>
-        <pubDate>2024-10-05T21:57:48+00:00</pubDate>
       </item>
   </channel>
 </rss>
