@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Pixel 9 (Pro) its so bad, wow...: It's still a puzzle - there's a dev branch as I've experimented, but there have been a lot of confusing problems and dead-ends here. Darn it, Pixel team, this &quot;optimization&quot; sucks! -arkasha</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=12456#p12456</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=12456#p12456</guid>
+        <pubDate>2024-12-11T01:30:11+00:00</pubDate>
+      </item><item>
         <title>Re: Pixel 9 (Pro) its so bad, wow...: 1. under the app battery settings for the WiGLE WiFi Wardriving app, you'll get a single row: &quot;Allow background usage&quot; followed by a toggle. 2. Tap the TEXT (not the toggle!) to get to the second menu, where you can permit the application &quot;Unrestricted&quot; background permission (effectively turning off the now-default &quot;Optimized&quot; behavior) 3. Restart your phone, launch the app, and rock on.I did this now to the P9P and yes it helps a lot. Thanks! With the unrestricted background permission it is about even with a S10. It is still loosing against a S20, but not as much as before. I would have never found this magic second menu, what a hidden thing... -d2k2</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12455#p12455</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12455#p12455</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=12376#p12376</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12376#p12376</guid>
         <pubDate>2024-10-06T20:13:58+00:00</pubDate>
-      </item><item>
-        <title>Re: Pixel 9 (Pro) its so bad, wow...: Are the numbers from the phones displayed on the dashboard? Or the numbers are after you uploaded them to wigle and they were parsed? Are you uploading the phones with the highest displayed found nets first or randomly uploading whichever phone you grab first?This are the &quot;# in File&quot; numbers from the upload page. So the total found in that given run. Another find from today is that it also kind of works if you plug in power. But not as good as with screen on. The wifi count is ~ same between S20 and P9Pro, Bluetooth is way worse, Cells are same. So something is up with the Radios in the Pixel phones depending on the &quot;Sleep state&quot; i would say -d2k2</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=12375#p12375</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=12375#p12375</guid>
-        <pubDate>2024-10-06T19:55:20+00:00</pubDate>
       </item>
   </channel>
 </rss>
