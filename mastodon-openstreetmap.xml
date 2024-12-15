@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>The OpenStreetMap.org website is currently unavailable due to network outage. 😔 Our Ops team is on it, and are trying to fix: https://en.osm.town/@osm_tech/113654874274344902</title>
+        <link>https://en.osm.town/@openstreetmap/113655532725596986</link>
+        <guid>https://en.osm.town/@openstreetmap/113655532725596986</guid>
+        <pubDate>Sun, 15 Dec 2024 06:56:39 +0000</pubDate>
+      </item><item>
         <title>Today (Dec 1) is #WorldAIDSDay. Everyone, everywhere, has the right to quality healthcare services in the fight against HIV and AIDS. https://www.who.int/campaigns/world-aids-day/2024 OpenStreetMap, the free geo database for everyone, can be used to share, record and spread data on HIV Facilities. e.g. https://wiki.openstreetmap.org/wiki/HIV_Facilities_Tagging_(MapBeks)</title>
         <link>https://en.osm.town/@openstreetmap/113577135962471561</link>
         <guid>https://en.osm.town/@openstreetmap/113577135962471561</guid>
@@ -96,11 +101,6 @@
         <title>Q12 “In light of recent vandalism incidents, what if anything should the Board do differently in the area of data protection and quality assurance?” https://wiki.openstreetmap.org/wiki/Foundation/AGM2024/Election_to_Board/Answers_and_manifestos/Q12_Data_Quality_and_Protection</title>
         <link>https://en.osm.town/@openstreetmap/113227746376779086</link>
         <guid>https://en.osm.town/@openstreetmap/113227746376779086</guid>
-        <pubDate>Mon, 30 Sep 2024 17:44:57 +0000</pubDate>
-      </item><item>
-        <title>Q11 “OpenStreetMap relies heavily on technology. How satisfied are you with the current state of the technology that powers OSM? How would you support or encourage technological advancements and innovation within the OSM ecosystem? What technology changes are the most pressing?” https://wiki.openstreetmap.org/wiki/Foundation/AGM2024/Election_to_Board/Answers_and_manifestos/Q11_Technology_and_Innovation</title>
-        <link>https://en.osm.town/@openstreetmap/113227746368603964</link>
-        <guid>https://en.osm.town/@openstreetmap/113227746368603964</guid>
         <pubDate>Mon, 30 Sep 2024 17:44:57 +0000</pubDate>
       </item>
   </channel>
