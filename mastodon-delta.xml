@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>In many ways, #deltachat deals with typical peer to peer challenges. The message transport is treated as dumb, so it can not host group membership metadata or key directories like #WhatsApp, @signalapp and #telegram do. Our dumb-server protocol philosophy is also very unlike #matrix which has very stateful servers with lots of relational metadata and required synchronization state. So #p2p networking like recently introduced for #webxdc realtime channels flows rather naturally for us ....</title>
+        <link>https://chaos.social/@delta/113661788805942442</link>
+        <guid>https://chaos.social/@delta/113661788805942442</guid>
+        <pubDate>Mon, 16 Dec 2024 09:27:39 +0000</pubDate>
+      </item><item>
         <title>On the occasion of Russia today testing regional blocks of telegram and other apps (especially in eastern Russia) and #WhatsApp down or flaky in many countries the last hours ... Allow us to note that it is very hard to block or bring down #deltachat apps on any larger scale because A) it&amp;#39;s hard to block the planetary email server network B) #chatmail servers have some extras :) C) DNS blocks won&amp;#39;t work D) you can use shadowsocks/socks5 proxies easily on android/iOS Sorry not sorry :)</title>
         <link>https://chaos.social/@delta/113636155750819932</link>
         <guid>https://chaos.social/@delta/113636155750819932</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/113182526166985853</link>
         <guid>https://chaos.social/@delta/113182526166985853</guid>
         <pubDate>Sun, 22 Sep 2024 18:04:52 +0000</pubDate>
-      </item><item>
-        <title>We are well aware of the increasing risk of infiltration of our software development, especially as we offer a very high level of privacy. Core Delta contributors know each other personally from many physical week-long gatherings even if we are typically remotely collaborating across thousands of kilometers. Are we immune to infiltration, corruption or bad-faith PRs to our repositories? No, but we value minimalism, work in public and engage with specialists for analysis and audits. #security</title>
-        <link>https://chaos.social/@delta/113158011354178891</link>
-        <guid>https://chaos.social/@delta/113158011354178891</guid>
-        <pubDate>Wed, 18 Sep 2024 10:10:25 +0000</pubDate>
       </item>
   </channel>
 </rss>
