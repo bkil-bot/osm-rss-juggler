@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: gscholz Discussion Comment No.: 1 Comment: Hi ITineris, this changeset has created several errors regarding self intersecting and displaced ways: https://tools.geofabrik.de/osmi/?view=areas&amp;lon=18.33739&amp;lat=45.84643&amp;zoom=15&amp;baselayer=Geofabrik%20Standard&amp;overlays=duplicate_node%2Csingle_node_in_way%2Cduplicate_segment%2Cway_in_multiple_rings%2Cintersection%2Cintersecting_segments%2Cring_not_closed%2Ctouching_rings%2Crole_should_be_inner%2Crole_should_be_outer%2Cinner_with_same_tags%2Cways https://overpass-api.de/achavi/?changeset=160354791 Can you please fix this? Kind regards Guido Date: 2024-12-19T10:54:28+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/160354791</link>
+        <guid>https://www.openstreetmap.org/changeset/160354791#comment_1</guid>
+        <pubDate>2024-12-19T10:54:28+01:00</pubDate>
+      </item><item>
         <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szia! Ez a Capri Italiano tényleg 3 külön egységgel van jelen, vagy duplikációról van szó? Tamás Date: 2024-12-18T05:00:01+01:00</title>
         <link>https://www.openstreetmap.org/changeset/160255403</link>
         <guid>https://www.openstreetmap.org/changeset/160255403#comment_1</guid>

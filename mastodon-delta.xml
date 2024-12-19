@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>There are sometimes discussions about an end-to-end encrypted private social media e-mail chat network 🤯 Basically you could follow delta chat profiles and subscribe and probably react to their encrypted broadcasts .... This and many other discussions are the &amp;quot;humus&amp;quot; on which #deltachat evolves and, for example, became a super-app: Android 1.50.3 spearheads direct #webxdc app picking via the &amp;quot;attach&amp;quot; chat action. Actually #cheogram and #monocles, both #xmpp messengers, released this first! The android menu that you get via &quot;attach&quot; button. The menu shows 7 icons, with the last one &quot;apps&quot; that is surrounded by a red circle. The attach app screen. It shows a straight forward app list and a search bar. The app list has &quot;shopping list&quot; &quot;text cards&quot; and other utilities. The app store is in the utility tab. Next are games and home</title>
+        <link>https://chaos.social/@delta/113679096992329587</link>
+        <guid>https://chaos.social/@delta/113679096992329587</guid>
+        <pubDate>Thu, 19 Dec 2024 10:49:21 +0000</pubDate>
+      </item><item>
         <title>Wow, a nice surprise! We just heart that @codelutin@mastodon.libre-entreprise.com are to donate 4K EUR to our developments -- see their post (which unfortunately doesn&amp;#39;t currently federate correctly it seems) https://mastodon.libre-entreprise.com/@codelutin/113663250537310328 Their web page: https://www.codelutin.com/ Thanks a lot! ❤️ (FWIW we have a money-contribution page at https://delta.chat/en/donate and are happy about donations to mitigate a potential financial crunch early next year) A screenshot of a toot from @codelutin@mastodon libre-entreprise.com &quot;With @copiepublique, we pledged, as a company, to donate 1% of our yearly sales to support FLOSS. This year, we give €4000 to @delta, a messaging app that requires nothing else than an email to just work. Keep up the good work &amp; team!&quot;</title>
         <link>https://chaos.social/@delta/113664335670077979</link>
         <guid>https://chaos.social/@delta/113664335670077979</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/113208278730994480</link>
         <guid>https://chaos.social/@delta/113208278730994480</guid>
         <pubDate>Fri, 27 Sep 2024 07:14:05 +0000</pubDate>
-      </item><item>
-        <title>Our end-to-end encryption engine rPGP just got a big update, fully supporting OpenPGP &amp;quot;cryptorefresh&amp;quot; RFC9850 ... Many thanks to @hko and dignifiedquire for fearlessly pushing ahead in the security machine room ... Please give them a 💜 and also @NGIZero who funded it ! https://fosstodon.org/@hko/113198947595455844</title>
-        <link>https://chaos.social/@delta/113199229864580053</link>
-        <guid>https://chaos.social/@delta/113199229864580053</guid>
-        <pubDate>Wed, 25 Sep 2024 16:52:50 +0000</pubDate>
       </item>
   </channel>
 </rss>
