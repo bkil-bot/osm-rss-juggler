@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Üdv az OpenStreetMapen! Az \tŐszirózsa utcán azt akartad jelölni, hogy biciklire nem vonatkozik az egyirányú közlekedés? Ha igen, ennek a megfelelő címkéje a oneway:bicycle=no, iD szerkesztőben magyarul ez &quot;Egyirányú (kerékpárral)&quot; névre hallgat. A hozzáadott bicycle=yes csak annyit jelent, hogy szabad biciklivel közlekedni az utcán. Az utcán szerepel egy kivéve célforgalom címke is. Aktuális ez még, kint van a tábla? Mert ha igen, akkor az a tábla vonatkozik biciklisekre is, hiába nem szokták betartani, a kresz ezt írja. Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! Date: 2024-12-20T11:05:01+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/160381972</link>
+        <guid>https://www.openstreetmap.org/changeset/160381972#comment_1</guid>
+        <pubDate>2024-12-20T11:05:01+01:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Üdv az OpenStreetMapen! A species:wikidata címkét, illetve az állatok különböző nyelvű neveit (name:cs a cseh nyelvű név) is ilyenkor frissíteni kéne, mert így most ellentmondanak ezek egymásnak. Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! Date: 2024-12-20T10:51:04+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/160383115</link>
+        <guid>https://www.openstreetmap.org/changeset/160383115#comment_1</guid>
+        <pubDate>2024-12-20T10:51:04+01:00</pubDate>
+      </item><item>
         <title>Contributor: pitscheplatsch Discussion Comment No.: 3 Comment: User has been blocked for investigation https://www.openstreetmap.org/user_blocks/16995 Date: 2024-12-20T06:54:12+01:00</title>
         <link>https://www.openstreetmap.org/changeset/160392919</link>
         <guid>https://www.openstreetmap.org/changeset/160392919#comment_3</guid>
