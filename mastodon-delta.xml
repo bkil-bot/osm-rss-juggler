@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>#deltachat works despite some ongoing state level blocking and is used by people in bad network situations. That is all fine. But does it also work in german ICE train wifi? Happy to report: Yes, not only message sending and receiving work reliably in the train but we could also instantly use a webxdc realtime app between different trains, with peer-to-peer connections :) Greetings and good travels everyone! #38c3</title>
+        <link>https://chaos.social/@delta/113714419118377904</link>
+        <guid>https://chaos.social/@delta/113714419118377904</guid>
+        <pubDate>Wed, 25 Dec 2024 16:32:14 +0000</pubDate>
+      </item><item>
         <title>Is it necessary to carry on family or community hierarchies into chat groups? With #deltachat any group member has agency to add/remove people and to clone the group and leave out/add some members. Works pretty well for small/mediun sized groups where people know each other. For larger and especially for public groups it&amp;#39;s more tricky and some form of moderation is typically wanted. It&amp;#39;s entirely possible to use cryptography to establish such hierarchies. We are not rushing for it, though.</title>
         <link>https://chaos.social/@delta/113707114399566219</link>
         <guid>https://chaos.social/@delta/113707114399566219</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/113307519686226505</link>
         <guid>https://chaos.social/@delta/113307519686226505</guid>
         <pubDate>Mon, 14 Oct 2024 19:52:22 +0000</pubDate>
-      </item><item>
-        <title>Maybe the secret why the #deltachat project with &amp;quot;just&amp;quot; a dozen active contributors succeeds in delivering cross-platform apps, instigating the #chatmail server network and spearheading the #webxdc app paradigm, lies in asking the right questions: - Is it really needed? - Can we not do it? - Is there a simpler way that requires less changes? - What is the interesting next impl step that is already interesting itself for users, without requiring first completing a big refactoring project?</title>
-        <link>https://chaos.social/@delta/113289411611439719</link>
-        <guid>https://chaos.social/@delta/113289411611439719</guid>
-        <pubDate>Fri, 11 Oct 2024 15:07:14 +0000</pubDate>
       </item>
   </channel>
 </rss>
