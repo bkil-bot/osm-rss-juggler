@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>#38c3 is starting .... Infos about some scheduled delta sessions and a group invite for further maybe more spontaneous things at https://delta.chat/38c3</title>
+        <link>https://chaos.social/@delta/113724489377870262</link>
+        <guid>https://chaos.social/@delta/113724489377870262</guid>
+        <pubDate>Fri, 27 Dec 2024 11:13:14 +0000</pubDate>
+      </item><item>
         <title>#deltachat works despite some ongoing state level blocking and is used by people in bad network situations. That is all fine. But does it also work in german ICE train wifi? Happy to report: Yes, not only message sending and receiving work reliably in the train but we could also instantly use a webxdc realtime app between different trains, with peer-to-peer connections :) Greetings and good travels everyone! #38c3</title>
         <link>https://chaos.social/@delta/113714419118377904</link>
         <guid>https://chaos.social/@delta/113714419118377904</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/113374756141201029</link>
         <guid>https://chaos.social/@delta/113374756141201029</guid>
         <pubDate>Sat, 26 Oct 2024 16:51:28 +0000</pubDate>
-      </item><item>
-        <title>Running #chatmail servers is &amp;lt;2h effort per month, according to an ad-hoc poll with 10 operators responding. Some have 10Ks of #deltachat users. Typically 300MB ram is used and max 60gb disc space per server. And all interoperate safely based on high security standards (DKIM and TLS enforced, and only no-metadata #openpgp encrypted messages allowed) .... with typically 0.5 secs end-to-end delivery. Who said again that email is insecure, cumbersome and slow? :) Screenshot of 10 chatmail operators polled about &quot;admin hours spent last month&quot; with two saying &quot;0 hours&quot; and 8 saying &quot;less than 2 hours&quot; with none spending more.</title>
-        <link>https://chaos.social/@delta/113307519686226505</link>
-        <guid>https://chaos.social/@delta/113307519686226505</guid>
-        <pubDate>Mon, 14 Oct 2024 19:52:22 +0000</pubDate>
       </item>
   </channel>
 </rss>
