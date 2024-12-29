@@ -3,6 +3,21 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Üdv az OpenStreetMapen! Mivel maximum 255 karakter hosszú szöveget lehet a mezőkbe írni, ezért lemaradt a vége. Ezeket az infókat lehet szabványos címkékkel is leírni, ide elég a legfontosabbat szabadszavasan. Javítottam ezt itt: https://osm.org/changeset/160768150 Másik szerkesztéseddel kapcsolatban, itt: https://osm.org/way/73220548 a healthcare:speciality nem szabadszavas címke, elvileg a rendelések angol neveit kéne kitölteni. A lehetséges értékeket ezen az oldalon találod: https://wiki.openstreetmap.org/wiki/Key:healthcare:speciality Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! Date: 2024-12-29T21:13:29+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/160657236</link>
+        <guid>https://www.openstreetmap.org/changeset/160657236#comment_1</guid>
+        <pubDate>2024-12-29T21:13:29+01:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Üdv az OpenStreetMapen! Mit jelent az, hogy lila? A width=0 az azt jelenti, hogy nincs szélessége az útnak, ez eléggé hihetetlenül hangzik, mit akartál oda írni? Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! Date: 2024-12-29T20:44:32+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/160718631</link>
+        <guid>https://www.openstreetmap.org/changeset/160718631#comment_1</guid>
+        <pubDate>2024-12-29T20:44:32+01:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Ne linkeld az állatkert térképét, és az alapján ne is dolgozz, mivel az jogvédett tartalom, az impresszumban ez szerepel: &gt; A Fővárosi Állat- és Növénykert kizárólagosan rendelkezik a honlapon publikált, szerzői jogvédelmet élvező tartalmakkal (képekkel, szövegekkel), azokat máshol megjelentetni, részben vagy egészben átvenni csak a Fővárosi Állat- és Növénykert előzetes, írásbeli hozzájárulásával lehet. Ennek hiányában a Fővárosi Állat- és Növénykert a törvények által biztosított jogi lehetőségeket fogja igénybe venni. Ha ezeket személyesen felmérted, akkor legális a szerkesztésed, viszont forrásként a linkelt térkép felhasználása tilos, ha nincs külön engedélyed ehhez. Date: 2024-12-29T20:39:21+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/160722442</link>
+        <guid>https://www.openstreetmap.org/changeset/160722442#comment_1</guid>
+        <pubDate>2024-12-29T20:39:21+01:00</pubDate>
+      </item><item>
         <title>Contributor: ITineris Discussion Comment No.: 4 Comment: A node-on akkor is téves. Date: 2024-12-26T19:43:16+01:00</title>
         <link>https://www.openstreetmap.org/changeset/155010248</link>
         <guid>https://www.openstreetmap.org/changeset/155010248#comment_4</guid>
@@ -17,11 +32,6 @@
         <link>https://www.openstreetmap.org/changeset/160027926</link>
         <guid>https://www.openstreetmap.org/changeset/160027926#comment_2</guid>
         <pubDate>2024-12-23T10:31:26+01:00</pubDate>
-      </item><item>
-        <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szia! Mi a Hét vezér utca módosítás forrása, ez szerepel a táblán? Tamás Date: 2024-12-22T22:06:33+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/160338762</link>
-        <guid>https://www.openstreetmap.org/changeset/160338762#comment_1</guid>
-        <pubDate>2024-12-22T22:06:33+01:00</pubDate>
       </item>
   </channel>
 </rss>
