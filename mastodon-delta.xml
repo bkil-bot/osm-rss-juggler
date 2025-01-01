@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>The mastodon archive lite reader (MARL) seems like a perfect candidate for turning it into a #webxdc app (vulgo zip file) .... https://lou.lt/@s427/113567190207673533 Benefits: - no hosting or DNS required - runs also fine while offline - no need to update / host anything because anybody can fork it and create their own variant and get it into the store. Iow, webxdc apps free their developers from having to care forever, and users depending on that. Imagine: you can finish software. Wild, no? :)</title>
+        <link>https://chaos.social/@delta/113753024057189096</link>
+        <guid>https://chaos.social/@delta/113753024057189096</guid>
+        <pubDate>Wed, 01 Jan 2025 12:09:59 +0000</pubDate>
+      </item><item>
         <title>Wishing everybody some good ways and vibes to navigate challenging times .... Distributed very unevenly across the globe, single cities and regions. With cooperations and solidarity and good engineering we try to make contributions and headways into reliable tool offerings .... #38c3 was a massive culmination of thoughts and projects and music and art that we will draw from during what&amp;#39;s coming! Cheers and all the best, dear fediverse, with which we are happy to be engaged with!</title>
         <link>https://chaos.social/@delta/113750329196240024</link>
         <guid>https://chaos.social/@delta/113750329196240024</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/113520532425085903</link>
         <guid>https://chaos.social/@delta/113520532425085903</guid>
         <pubDate>Thu, 21 Nov 2024 10:44:18 +0000</pubDate>
-      </item><item>
-        <title>Are you interested in enshittification-resistant application development? After almost two years of collaboration with the wonderful @n0iroh team, we are happy to announce that #deltachat 1.48 apps on all platforms contain top-notch Peer-to-Peer networking support, including hole-punching and forward-secret end-to-end encryption. It is exposed through the new #webxdc realtime APIs and there are some nice initial showcase apps 🎉 https://delta.chat/en/2024-11-20-webxdc-realtime</title>
-        <link>https://chaos.social/@delta/113514874537852340</link>
-        <guid>https://chaos.social/@delta/113514874537852340</guid>
-        <pubDate>Wed, 20 Nov 2024 10:45:26 +0000</pubDate>
       </item>
   </channel>
 </rss>
