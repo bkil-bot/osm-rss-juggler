@@ -3,6 +3,11 @@
   <channel>
     <title>Wireless News (via bkil-bot)</title>
       <item>
+        <title>Too many requests of this type today for this account: I am new member , but get status Too many requests of this type today for this account, I haven't made any requests yet please admin, can you check for me ? -wvl42942</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=12467#p12467</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=12467#p12467</guid>
+        <pubDate>2025-01-02T12:18:12+00:00</pubDate>
+      </item><item>
         <title>Re: Help with network adapter on monitor mode.: You'll need to stop the processes that are using your wireless interfaces, such as wpa_supplicant, as they are preventing you from switching to monitor mode. Run this command to kill them: Code: sudo airmon-ng check kill Step 2: Re-enable monitor mode After killing those processes, try enabling monitor mode again on wlan0: Code: sudo airmon-ng start wlan0 Check if the interface has been properly set to monitor mode using: Code: sudo iwconfig Once you’re done using monitor mode, you need to restart your network services. Use this commands: Code: sudo service network-manager restartsudo service wpa_supplicant restartHope it helps u. -kryzz51</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12364#p12364</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12364#p12364</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=10509#p10509</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=10509#p10509</guid>
         <pubDate>2020-03-06T11:08:14+00:00</pubDate>
-      </item><item>
-        <title>Re: Detecting Gas Pump Skimmers by Bluetooth signature (Bluetana / SkimPlus): I would expect that the Wigle app could be modified to provide an alert when a specific ID is found but the problem is that Wigle can then be used for hunting. -ecramp</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=10436#p10436</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=10436#p10436</guid>
-        <pubDate>2019-12-23T17:43:50+00:00</pubDate>
       </item>
   </channel>
 </rss>
