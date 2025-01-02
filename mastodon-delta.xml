@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Two new #webxdc apps: a one-dimensional pacman and shopping list -- already used by many families along with &amp;quot;calendar&amp;quot; and &amp;quot;checklist&amp;quot; for daily organization. All apps are discoverable on Android via &amp;quot;attach/app&amp;quot; or in the web via https://webxdc.org/apps ... With webxdc apps you&amp;#39;ll never have to sign-up to platforms again and if you are fed up with Delta Chat, you can use the same apps with Cheogram and Monocles (XMPP messengers). Forks welcome: apps come with source and a repo link :) a screenshot from the app store with two apps shown: - Pac-1D (Pacman in 1D from r10s) - Shopping list (Organize your grocery shopping from hupf)</title>
+        <link>https://chaos.social/@delta/113760811052523884</link>
+        <guid>https://chaos.social/@delta/113760811052523884</guid>
+        <pubDate>Thu, 02 Jan 2025 21:10:19 +0000</pubDate>
+      </item><item>
         <title>The mastodon archive lite reader (MARL) seems like a perfect candidate for turning it into a #webxdc app (vulgo zip file) .... https://lou.lt/@s427/113567190207673533 Benefits: - no hosting or DNS required - runs also fine while offline - no need to update / host anything because anybody can fork it and create their own variant and get it into the store. Iow, webxdc apps free their developers from having to care forever, and users depending on that. Imagine: you can finish software. Wild, no? :)</title>
         <link>https://chaos.social/@delta/113753024057189096</link>
         <guid>https://chaos.social/@delta/113753024057189096</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/113521589069441660</link>
         <guid>https://chaos.social/@delta/113521589069441660</guid>
         <pubDate>Thu, 21 Nov 2024 15:13:01 +0000</pubDate>
-      </item><item>
-        <title>We just boosted a report from someone (we don&amp;#39;t know) summarizing and reporting about recent court happenings in Moscow against us. We confirm these legal proceedings are indeed happening and we are represented by a lawyer there ... https://wetdry.world/@cybertailor/113519933644061097 There are rumours that a theater play work-titled &amp;quot;how to arrest a protocol?&amp;quot; will be presented at #38c3 btw :)</title>
-        <link>https://chaos.social/@delta/113520532425085903</link>
-        <guid>https://chaos.social/@delta/113520532425085903</guid>
-        <pubDate>Thu, 21 Nov 2024 10:44:18 +0000</pubDate>
       </item>
   </channel>
 </rss>
