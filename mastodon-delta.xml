@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>It is popular to criticise surveillance/capitalism and to want/work towards a decentralized, secure and diverse communication and media landscape. However, there are real devices, networks, states and stores to navigate, inducing technical and usable-security challenges. #deltachat dev efforts are following a &amp;quot;speculative realism&amp;quot; instead of an idealist approach. We care about cooperative user testing, maintenability and development. We btw moved to #rustlang in 2019 ... when it wasn&amp;#39;t cool :)</title>
+        <link>https://chaos.social/@delta/113780979863852018</link>
+        <guid>https://chaos.social/@delta/113780979863852018</guid>
+        <pubDate>Mon, 06 Jan 2025 10:39:31 +0000</pubDate>
+      </item><item>
         <title>Two new #webxdc apps: a one-dimensional pacman and shopping list -- already used by many families along with &amp;quot;calendar&amp;quot; and &amp;quot;checklist&amp;quot; for daily organization. All apps are discoverable on Android via &amp;quot;attach/app&amp;quot; or in the web via https://webxdc.org/apps ... With webxdc apps you&amp;#39;ll never have to sign-up to platforms again and if you are fed up with Delta Chat, you can use the same apps with Cheogram and Monocles (XMPP messengers). Forks welcome: apps come with source and a repo link :) a screenshot from the app store with two apps shown: - Pac-1D (Pacman in 1D from r10s) - Shopping list (Organize your grocery shopping from hupf)</title>
         <link>https://chaos.social/@delta/113760811052523884</link>
         <guid>https://chaos.social/@delta/113760811052523884</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/113565344709376165</link>
         <guid>https://chaos.social/@delta/113565344709376165</guid>
         <pubDate>Fri, 29 Nov 2024 08:40:39 +0000</pubDate>
-      </item><item>
-        <title>Those of you who have to work through Google, Apple and other store&amp;#39;s compliance, we feel you! Maintaining around 16+ target distribution sites for cross platform apps takes a constant toll on us. One of the giant features of #webxdc app developments is precisely that no store is needed. You can just write an index.html, a .js file and pack into a zip file and everyone can use this as an app in their chats, no store needed for permission and distribution. https://webxdc.org/docs/</title>
-        <link>https://chaos.social/@delta/113521589069441660</link>
-        <guid>https://chaos.social/@delta/113521589069441660</guid>
-        <pubDate>Thu, 21 Nov 2024 15:13:01 +0000</pubDate>
       </item>
   </channel>
 </rss>
