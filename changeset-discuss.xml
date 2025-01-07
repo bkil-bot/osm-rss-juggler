@@ -3,10 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: infeeeee Discussion Comment No.: 3 Comment: Egy pár hónapja kijavítottam az összeset az országban, szóval nem fogsz találni :) Azóta nézem, hogy valaki oda írta-e véletlenül és szólok azoknak. Itt egy overpass, ezt szoktam nézni, most ketten vannak, de már írtam nekik: https://overpass-turbo.eu/s/1PPz Ha pár napon belül nem javítják, majd kijavítom én. Date: 2025-01-07T15:14:39+01:00</title>
+        <title>Contributor: infeeeee Discussion Comment No.: 5 Comment: Honnan tudod eldönteni, hogy miként használja a gazdája? Ez egy eléggé szubjektívan megítélhető dolog szerintem. Mostani állapot eléggé egyszerűen egy regexszel ellenőrizhető, ez az üzenet amit kiküldök meg van írva nekem, csak a pont id-ját cserélem, szóval kb fél-automatizált a rendszer most. És amint látom havonta egypár ember rontja csak el, legtöbbször kezdő szerkesztők, és utána már a jó helyre írják, ha egyszer szóltam nekik. Ráadásul mit nyernénk vele, ha a website-ban lenne tárolva? Csak kevésbé lenne rendezett az adat, összevissza lenne minden. Ezerféle fb url van (hu-hu kezdetű, m. kezdetű mobilos, követő attribútumok a végén, stb) csak a felhasználónevet vagy id-t tárolva ráadásul nekünk ezzel nem kell foglalkozni, facebook majd olyan nyelvre és felületre irányít ami az adott embernek kell. Wikidata is így használja, akkor jó lesz nekünk is ez: https://www.wikidata.org/wiki/Property:P2013 Illetve érdekes lesz ha majd Overture Maps-ből hozunk át adatokat, Facebook megosztotta az összes oldal adatát ODbL kompatibilis licensszel: https://wiki.openstreetmap.org/wiki/Overture_Maps Ő se a website címkében tárolja ezt, hanem ott úgy hívják &quot;socials&quot;, és a website mellett található, hasonlóan mint itt. Szóval ha maga a facebook nem tekinti weboldalnak, akkor mi miért tekintsük annak? https://github.com/OvertureMaps/schema/blob/dev/schema/places/place.yaml#L56 Mondjuk ez automatikusan generált adat, szóval nekik nem kell a sokféle url-lel foglalkozniuk. Date: 2025-01-07T15:46:53+01:00</title>
         <link>https://www.openstreetmap.org/changeset/160652397</link>
-        <guid>https://www.openstreetmap.org/changeset/160652397#comment_3</guid>
-        <pubDate>2025-01-07T15:14:39+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/160652397#comment_5</guid>
+        <pubDate>2025-01-07T15:46:53+01:00</pubDate>
+      </item><item>
+        <title>Contributor: mcliquid Discussion Comment No.: 1 Comment: Shouldn't the Brazilian source be included directly in the change set instead of in the data? https://wiki.openstreetmap.org/wiki/Key:source#How_to_use_on_changesets Date: 2025-01-07T15:42:41+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/161063374</link>
+        <guid>https://www.openstreetmap.org/changeset/161063374#comment_1</guid>
+        <pubDate>2025-01-07T15:42:41+01:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Ezzel kapcsolatban írok: https://osm.org/way/254121900 Facebook oldalak címét nem a website hanem contact:facebook mezőben tároljuk. https://wiki.openstreetmap.org/wiki/Key:contact:facebook További jó térképezést! Date: 2025-01-07T14:57:58+01:00</title>
         <link>https://www.openstreetmap.org/changeset/160750018</link>
