@@ -2,6 +2,16 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      
+      <item>
+        <title>Hungary/Jelölési példák: Formázás fix -Infeeeee</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Jel%C3%B6l%C3%A9si_p%C3%A9ld%C3%A1k&amp;diff=2797973&amp;oldid=2796578</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Jel%C3%B6l%C3%A9si_p%C3%A9ld%C3%A1k&amp;diff=2797973</guid>
+        <pubDate>Tue, 07 Jan 2025 21:46:16 GMT</pubDate>
+      </item><item>
+        <title>Hungary/Gyalogos közlekedés: crossing_ref frissítése a gyakoribb crossing:markings-ra -Infeeeee</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Gyalogos_k%C3%B6zleked%C3%A9s&amp;diff=2797969&amp;oldid=2310981</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Gyalogos_k%C3%B6zleked%C3%A9s&amp;diff=2797969</guid>
+        <pubDate>Tue, 07 Jan 2025 21:31:13 GMT</pubDate>
+      </item>
   </channel>
 </rss>
