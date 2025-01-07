@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: gymate Discussion Comment No.: 1 Comment: Szia! Az általad hozzáadott https://www.openstreetmap.org/node/4543652532 és https://www.openstreetmap.org/node/4543652523 szerintem duplikátum. Valójában ezen az oszlopon vannak, és már létrehoztuk őket kameránként egyesével: https://www.openstreetmap.org/way/1327389315 A kifelé vezető útpályát pedig egy kamera sem figyeli. Date: 2025-01-07T08:26:09+01:00</title>
+        <title>Contributor: zsolt d Discussion Comment No.: 2 Comment: OK, köszönöm, leszedtem ezeket. Azonban a Főváros tájékoztatás szerint itt is MINKÉT IRÁNYT figyelik a kamerák. Ezt jó lenne bejegyezni az OSM-be is: &quot;a III. kerületi Szentendrei úton a Raktár utcánál, valamint a Monostori útnál (mindkét irány)&quot; forrás: https://enbudapestem.hu/2024/10/28/csokkentik-a-sebesseget-elesedik-a-26-modern-traffipax Date: 2025-01-07T10:15:50+01:00</title>
         <link>https://www.openstreetmap.org/changeset/159744859</link>
-        <guid>https://www.openstreetmap.org/changeset/159744859#comment_1</guid>
-        <pubDate>2025-01-07T08:26:09+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/159744859#comment_2</guid>
+        <pubDate>2025-01-07T10:15:50+01:00</pubDate>
       </item><item>
         <title>Contributor: vasony Discussion Comment No.: 3 Comment: Akkor ez inkább épület betűjel, addig tegyük át az addr:unitba, vagy tőlem ref is lehet, de így biztosan nem jó. Date: 2025-01-04T21:21:38+01:00</title>
         <link>https://www.openstreetmap.org/changeset/160923010</link>
@@ -52,11 +52,6 @@
         <link>https://www.openstreetmap.org/changeset/160826612</link>
         <guid>https://www.openstreetmap.org/changeset/160826612#comment_1</guid>
         <pubDate>2025-01-01T09:57:38+01:00</pubDate>
-      </item><item>
-        <title>Contributor: Peredice Discussion Comment No.: 2 Comment: Szia! Köszi hogy felhívtad rá a figyelmem, a 10-es számú társasházban valóban 3 lakás van, azt rosszul jelöltem és nemsokára ki is javítom. De, a 6-os szám alatt azok csak a lépcsőház jelzések. azokat is mindjárt javítom. Date: 2024-12-31T11:05:30+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/160596743</link>
-        <guid>https://www.openstreetmap.org/changeset/160596743#comment_2</guid>
-        <pubDate>2024-12-31T11:05:30+01:00</pubDate>
       </item>
   </channel>
 </rss>
