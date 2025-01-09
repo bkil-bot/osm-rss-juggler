@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: Kecsege Discussion Comment No.: 2 Comment: Szia! Hozzáadtam a bolthoz azokat a tulajdonságokat amiket a leírásban írtál. Így jobban kereshető lesz a térképeken. Date: 2025-01-09T15:06:06+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/160804817</link>
+        <guid>https://www.openstreetmap.org/changeset/160804817#comment_2</guid>
+        <pubDate>2025-01-09T15:06:06+01:00</pubDate>
+      </item><item>
+        <title>Contributor: urbalazs Discussion Comment No.: 1 Comment: Az épület betűjele már meg volt adva az addr:unit kulcsban, ezért visszaállítottam az eredeti házszámot. Törölte továbbá a tévesen felvett 400+ értékű házszámokat az Osztály utcából. Ezek nem házszámok, hanem ajtószámok. Az egész terület egy helyrajzi számon van, egyetlen házszámmal, egy hatalmas társasház több száz lakással. Date: 2025-01-09T14:34:02+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/161139336</link>
+        <guid>https://www.openstreetmap.org/changeset/161139336#comment_1</guid>
+        <pubDate>2025-01-09T14:34:02+01:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 3 Comment: Amelyik neked egyszerűbb. Az szól a revert és újraimport mellett, hogy volt ahol a capacity=0-val felülírtál személyesen felmért értékeket. Itt én mértem fel, hogy ennyi bringát lehet a támaszok két oldalára lekötni: https://www.openstreetmap.org/node/11795721208/history Illetve itt is le lett nullázva: https://www.openstreetmap.org/node/2743702945/history Gondolom bkk csak a dokkolók számát tartja számon, az egyszerű támaszokét nem, de azt mi helyszínen fel tudjuk mérni. Csak ez a kettő volt, szóval ha az újraimport egyszerűbb, akkor ezt a kettőt kézzel visszajavítani nem bonyolult, mást nem érintett ez. Date: 2025-01-09T14:08:14+01:00</title>
         <link>https://www.openstreetmap.org/changeset/161147934</link>
         <guid>https://www.openstreetmap.org/changeset/161147934#comment_3</guid>
