@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>We know of many #chatmail servers from Vladivostok to the US but the one from @adam_jurkiewicz might have the most intriguing design https://jurkiewicz.chat/ :) With mobile Delta Chat apps, a chatmail web site allows users to click a link to create an instant chatmail profile without asking any personal data. No permission needed from Delta Chat developers to run a server, and we never learn e-mail or IP addresses from their users. Decentralized interoperable onboarding with secure #E2EE :) a screenshot of the chatmail server https://jurkiewicz.chat/ frontpage. There is a computed Javascript-generated &quot;matrix flowing letters&quot; animation using non-latin characters.</title>
+        <link>https://chaos.social/@delta/113799381125709394</link>
+        <guid>https://chaos.social/@delta/113799381125709394</guid>
+        <pubDate>Thu, 09 Jan 2025 16:39:12 +0000</pubDate>
+      </item><item>
         <title>It is popular to criticise surveillance/capitalism and to want/work towards a decentralized, secure and diverse communication and media landscape. However, there are real devices, networks, states and stores to navigate, inducing technical and usable-security challenges. #deltachat dev efforts are following a &amp;quot;speculative realism&amp;quot; instead of an idealist approach. We care about cooperative user testing, maintenability and development. We btw moved to #rustlang in 2019 ... when it wasn&amp;#39;t cool :)</title>
         <link>https://chaos.social/@delta/113780979863852018</link>
         <guid>https://chaos.social/@delta/113780979863852018</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/113568873516624262</link>
         <guid>https://chaos.social/@delta/113568873516624262</guid>
         <pubDate>Fri, 29 Nov 2024 23:38:05 +0000</pubDate>
-      </item><item>
-        <title>We are an in-between project. #deltachat is in-between traditional messengers and email apps and #p2p paradigms, #chatmail is in between the massive email server network and #webxdc is in-between e-mail, @xmpp and the web ecosystem (but outlaws central platforms) ... Our approach is rhizomatic, i.e. based on, and changes with, various collaborations and joining contributors. We don&amp;#39;t have stable funding and need to regularly apply for public funds ... And are surrounded by VC funded projects</title>
-        <link>https://chaos.social/@delta/113565344709376165</link>
-        <guid>https://chaos.social/@delta/113565344709376165</guid>
-        <pubDate>Fri, 29 Nov 2024 08:40:39 +0000</pubDate>
       </item>
   </channel>
 </rss>
