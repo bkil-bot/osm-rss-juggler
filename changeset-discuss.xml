@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: leveskockaa Discussion Comment No.: 4 Comment: Kissé értetlenül állok az előtt, amit írsz, csinálsz. Szerintem pont erre van kitalálva a disused:railway címke, hiszen minden infrastrukturális elem pont úgy van, ahogy volt amikor az utolsó vonat elhaladt, csak kikerült a vörös tábla. Mivel fednéd le akkor az &quot;out of order&quot; állapotot, ha nem a disused? Alternatívát nem írsz, csak úgy döntesz, hogy ez nem így van, tehát legyen – helytelenül – olyan, mintha minden rendben lenne, a vonal járható. Az OpenStreetMap lényege a valóság leképezése, ez köszönőviszonyban sincs a valósággal. Ha rajtam múlna, Városlőd megállóhely is kapna egy disused:railway kulcsot, de tudom, hogy ezzel is kihúznám nálad a gyufát, hiszen oda lehet vonatot rendelni. Ez megint csak nem a valóság leképezése, nem egy átlagembert érintő részlet. Nem tartózkodom a helyszínen, így nem tudom, de ha megindult a helyreállítás, akkor arra a szakaszra amelyen dolgoznak, nyugodtan mehet a construction:railway és kapcsolódó címkéi. A lényeg, hogy jelenleg nem járható, és egy darabig ez nem változik, hiszen a vagányzári hirdetmény szerint december 20-tól április 30-ig, tehát több mint négy hónapig nem lesz járható a vonal ezen szakasza: https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_20_veszprem-ajka_1220-0430_v0106.pdf A kiadott közlemény pedig egyenesen fél éves időtartamot ír, ez nem elhanyagolható időtáv, akár fele idő alatt (két-három hónap), akár kétszer ennyi idő alatt végeznek. Ha mondjuk egy kéthetes teljes kizárásról lenne szó, megfontolnám, van-e egyáltalán értelme bármit szerkeszteni, de ez nem két hét. A maxspeed=10 indokolt volt, ez volt az állapot amikor az utolsó vonat elhaladt. Ez a korlátozás szintén hosszú hónapok óta volt érvényben, mint ahogy a tehervonatok letiltása is, 2024 júniusi kezdettel. Nem tudom miért gondolod, hogy az ideiglenes lassújeleknek nincs helye, pláne, ha állandósulnak. Szerintem nem azt kell a OpenStreetMap-en feltüntetni, hogy mennyivel mehetne a vasúti vagy bármely egyéb jármű, hanem azt, hogy pontosan mennyivel mehet a táblázás szerint. Persze, a kapcsolat valamiért szétszakadt, nem is értem miért, hiszen ez nem állt szándékomban, és nem szokott ilyen problémám lenni a JOSM-mel. Hírverés nem volt, pedig lehetett volna, amit olvastam, nem befolyásolt. Az Összekötő vasúti híd harmadik hídszerkezete is disused, teljesen helyesen. Az M30-as autópálya Miskolc-Észak és Szikszó között nem használható, ennek megfelelően módosításra került. Csak mert ez a vasút, és te is értesz hozza, nem indokolja, hogy eltéréssel legyen kezelve. Date: 2025-01-10T13:47:58+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/160752604</link>
+        <guid>https://www.openstreetmap.org/changeset/160752604#comment_4</guid>
+        <pubDate>2025-01-10T13:47:58+01:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 5 Comment: Kész: https://www.openstreetmap.org/changeset/161179367 Date: 2025-01-09T17:49:57+01:00</title>
         <link>https://www.openstreetmap.org/changeset/161147934</link>
         <guid>https://www.openstreetmap.org/changeset/161147934#comment_5</guid>
@@ -27,11 +32,6 @@
         <link>https://www.openstreetmap.org/changeset/161134085</link>
         <guid>https://www.openstreetmap.org/changeset/161134085#comment_1</guid>
         <pubDate>2025-01-08T13:37:58+01:00</pubDate>
-      </item><item>
-        <title>Contributor: balint36 Discussion Comment No.: 3 Comment: Tag:disused:railway=rail A section of railway which is no longer used but where the track and infrastructure remain in place. https://www.openstreetmap.org/changeset/161134085 Date: 2025-01-08T13:37:33+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/160752604</link>
-        <guid>https://www.openstreetmap.org/changeset/160752604#comment_3</guid>
-        <pubDate>2025-01-08T13:37:33+01:00</pubDate>
       </item><item>
         <title>Contributor: vasony Discussion Comment No.: 5 Comment: Meg tudom erősíteni. Azt kell felvinni, ami az utcatáblán van. Az official_name-be felírható a másik. https://wiki.openstreetmap.org/wiki/Good_practice#Map_what's_on_the_ground Itt le van írva részletesen: https://wiki.openstreetmap.org/wiki/Hungary/Jel%C3%B6l%C3%A9si_p%C3%A9ld%C3%A1k#Utcanevek Date: 2025-01-08T11:17:37+01:00</title>
         <link>https://www.openstreetmap.org/changeset/161049974</link>
