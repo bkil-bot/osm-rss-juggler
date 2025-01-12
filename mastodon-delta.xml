@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>#webxdc apps running in #deltachat are *guaranteed* to not allow any tracking: anything you do with a webxdc app can only be seen by chat partners but not by _any_ third party. That&amp;#39;s why there is no GDPR, cookie or other consent, let alone signups, necessary. Here is an independent security audit https://delta.chat/en/2023-05-22-webxdc-security which highlights how Chromium is the least sandboxable browser ... Meanwhile Google wants to *expand* digital fingerprinting and tracking https://mashable.com/article/google-digital-fingerprinting-user-tracking</title>
+        <link>https://chaos.social/@delta/113816876268085595</link>
+        <guid>https://chaos.social/@delta/113816876268085595</guid>
+        <pubDate>Sun, 12 Jan 2025 18:48:26 +0000</pubDate>
+      </item><item>
         <title>The &amp;quot;Mastodon Archive Reader Lite&amp;quot; (MARL) is now available as a #webxdc app, i.e. you can use it on any deltachat/cheogram/monocles device in e.g. &amp;quot;saved messages&amp;quot; to look at your (exported) mastodon archive offline. Thanks @s427 and @rtn for landing it! https://webxdc.org/apps/#s427-marl entry in webxdc.org apps store for MARL app with icon</title>
         <link>https://chaos.social/@delta/113810196359273537</link>
         <guid>https://chaos.social/@delta/113810196359273537</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/113599348577170160</link>
         <guid>https://chaos.social/@delta/113599348577170160</guid>
         <pubDate>Thu, 05 Dec 2024 08:48:17 +0000</pubDate>
-      </item><item>
-        <title>We are not all in the same boat .... This is as true for security and feature design of messengers as it is in the larger political happenings. Often security hackers and enthusiasts living in personally safe environments are offering strong opinions on what is important for everybody in repressive situations without engaging with people on the ground, and just looking from some abstract viewpoint. Via @streetartutopia (worth a follow) A chalkboard sign with a hand-drawn sailboat at the top displays the following message in colorful chalk: &quot;We are NOT all in the same 'BOAT'. We are in the same 'STORM'. Some have yachts, some have canoes, and some are 'DROWNING'. Just be kind &amp; HELP when you can!&quot; The words &quot;NOT,&quot; &quot;STORM,&quot; and &quot;DROWNING&quot; are highlighted in red, while the rest of the text alternates between white and yellow. The sign is framed in wood, conveying a meaningful reminder about empathy and kindness.</title>
-        <link>https://chaos.social/@delta/113577678461675454</link>
-        <guid>https://chaos.social/@delta/113577678461675454</guid>
-        <pubDate>Sun, 01 Dec 2024 12:57:17 +0000</pubDate>
       </item>
   </channel>
 </rss>
