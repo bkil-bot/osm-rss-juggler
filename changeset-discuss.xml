@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! A wikidata és wikipedia címkékbe az adott elemhez kapcsolódó dolgokat kell linkelni, például magának a szobornak, vagy emléktáblának is lehet wikidata vagy wikipedia oldala. Példakánt itt egy emléktábla wikidatája: https://www.wikidata.org/wiki/Q116859440 vagy https://www.wikidata.org/wiki/Q131758686 A táblán szereplő személyhez kapcsolódó oldalakat a subject:wikidata illetve subject:wikipedia címkékbe írjuk: https://wiki.openstreetmap.org/wiki/Key:subject:wikidata https://wiki.openstreetmap.org/wiki/Key:subject:wikipedia További jó térképezést! Date: 2025-01-15T13:51:52+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/161380747</link>
+        <guid>https://www.openstreetmap.org/changeset/161380747#comment_1</guid>
+        <pubDate>2025-01-15T13:51:52+01:00</pubDate>
+      </item><item>
         <title>Contributor: urbalazs Discussion Comment No.: 4 Comment: A hivatkozott oldalon a „Tools and rendering styles” szakaszban találsz segítséget. Látom, JOSM-et használsz. Igazából nem olyan bonyolult ez, letöltöd a területet, kijelöld az utcákat, és ráteszed az összesre a parking:both:fee=yes + parking:both:zone=sárga|zöld|kék|lila címkéket. Aztán jöhet a többi parking:*:*=* paraméter, ha van erőd és kapacitásod. Date: 2025-01-13T17:24:11+01:00</title>
         <link>https://www.openstreetmap.org/changeset/160259318</link>
         <guid>https://www.openstreetmap.org/changeset/160259318#comment_4</guid>

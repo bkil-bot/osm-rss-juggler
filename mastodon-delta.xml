@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Upcoming events: We&amp;#39;ll give two talks at #FOSSDEM about #chatmail and #deltachat in the modern email devroom, on Saturday late afternoon: https://fosdem.org/2025/schedule/track/modern-email/ The friday before, we&amp;#39;ll probably also appear and talk about about #webxdc at the #Matrix barcamp. Sunday morning, our friends from @n0iroh namely @flub, will give a talk about the P2P-iroh network architecture https://fosdem.org/2025/schedule/event/fosdem-2025-6053-building-peer-to-peer-quic/ Otherwise, you&amp;#39;ll find us mostly around #OFFDEM for chatting and more ad-hoc sessions.</title>
+        <link>https://chaos.social/@delta/113832607945146687</link>
+        <guid>https://chaos.social/@delta/113832607945146687</guid>
+        <pubDate>Wed, 15 Jan 2025 13:29:13 +0000</pubDate>
+      </item><item>
         <title>#webxdc apps running in #deltachat are *guaranteed* to not allow any tracking: anything you do with a webxdc app can only be seen by chat partners but not by _any_ third party. That&amp;#39;s why there is no GDPR, cookie or other consent, let alone signups, necessary. Here is an independent security audit https://delta.chat/en/2023-05-22-webxdc-security which highlights how Chromium is the least sandboxable browser ... Meanwhile Google wants to *expand* digital fingerprinting and tracking https://mashable.com/article/google-digital-fingerprinting-user-tracking</title>
         <link>https://chaos.social/@delta/113816876268085595</link>
         <guid>https://chaos.social/@delta/113816876268085595</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/113611401351307576</link>
         <guid>https://chaos.social/@delta/113611401351307576</guid>
         <pubDate>Sat, 07 Dec 2024 11:53:28 +0000</pubDate>
-      </item><item>
-        <title>major milestones with #deltachat in 2024 so far: - addressed security analysis issues from Applied Crypto Group at ETH Zurich for hardened guaranteed end-to-end encryption - instant onboarding with #chatmail servers (likely the fastest, most secure and reliable e-mail servers you can find on this planet) - push notifications on Android/iOS with all #chatmail servers - introduction of #P2P networking with #webxdc realtime channels - and ❤️ reactions! ... and the year is not over yet :)</title>
-        <link>https://chaos.social/@delta/113599348577170160</link>
-        <guid>https://chaos.social/@delta/113599348577170160</guid>
-        <pubDate>Thu, 05 Dec 2024 08:48:17 +0000</pubDate>
       </item>
   </channel>
 </rss>
