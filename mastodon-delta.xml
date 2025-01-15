@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Hum, are we the only cross-platform messenger project present in 15+ app stores that primarily announces on, and interacts with, the Fediverse while others use X and maybe Bluesky? If you know of others please mention them in the replies :) In any case, we are pretty happy here, as we are finding meaningful interactions, and organically evolving interest and collaboration with other people and projects. Probably it helps that #email shares several traits with #ActivityPub protocols? Cheers.</title>
+        <link>https://chaos.social/@delta/113833132382991829</link>
+        <guid>https://chaos.social/@delta/113833132382991829</guid>
+        <pubDate>Wed, 15 Jan 2025 15:42:35 +0000</pubDate>
+      </item><item>
         <title>Upcoming events: We&amp;#39;ll give two talks at #FOSSDEM about #chatmail and #deltachat in the modern email devroom, on Saturday late afternoon: https://fosdem.org/2025/schedule/track/modern-email/ The friday before, we&amp;#39;ll probably also appear and talk about about #webxdc at the #Matrix barcamp. Sunday morning, our friends from @n0iroh namely @flub, will give a talk about the P2P-iroh network architecture https://fosdem.org/2025/schedule/event/fosdem-2025-6053-building-peer-to-peer-quic/ Otherwise, you&amp;#39;ll find us mostly around #OFFDEM for chatting and more ad-hoc sessions.</title>
         <link>https://chaos.social/@delta/113832607945146687</link>
         <guid>https://chaos.social/@delta/113832607945146687</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/113636155750819932</link>
         <guid>https://chaos.social/@delta/113636155750819932</guid>
         <pubDate>Wed, 11 Dec 2024 20:48:50 +0000</pubDate>
-      </item><item>
-        <title>&amp;quot;You app is not compliant&amp;quot; ... says the lawyer-speak automated mail that cancels the bug-fix android release we just uploaded, referencing &amp;quot;Version code 705: Policy Declaration - Data Safety Section: Personal Info Data Type - Name&amp;quot;. That&amp;#39;s about the only information they provide. Nothing more specific. Another release earlier in the week went through. FWIW our apps do not transfer a &amp;quot;name&amp;quot; anywhere else than to chat partners, using end-to-end encryption and e-mail servers that users choose.</title>
-        <link>https://chaos.social/@delta/113611401351307576</link>
-        <guid>https://chaos.social/@delta/113611401351307576</guid>
-        <pubDate>Sat, 07 Dec 2024 11:53:28 +0000</pubDate>
       </item>
   </channel>
 </rss>
