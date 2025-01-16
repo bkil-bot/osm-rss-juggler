@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: gscholz Discussion Comment No.: 1 Comment: Hi tandr88, this changeset has created several errors in the OSM database regarding self intersecting ways: https://tools.geofabrik.de/osmi/?view=areas&amp;lon=20.63818&amp;lat=47.98011&amp;zoom=11&amp;baselayer=Geofabrik%20Standard&amp;overlays=duplicate_node%2Csingle_node_in_way%2Cduplicate_segment%2Cway_in_multiple_rings%2Cintersection%2Cintersecting_segments%2Cring_not_closed%2Ctouching_rings%2Crole_should_be_inner%2Crole_should_be_outer%2Cinner_with_same_tags%2Cways%2Cduplicate_node%2Csingle_node_in_way%2Cduplicate_segment%2Cway_in_multiple_rings%2Cintersection%2Cintersecting_segments%2Cring_not_closed%2Ctouching_rings%2Crole_should_be_inner%2Crole_should_be_outer%2Cinner_with_same_tags%2Cways https://overpass-api.de/achavi/?changeset=161387373 Can you please fix this? Kind regards Guido Date: 2025-01-16T09:22:50+01:00</title>
+        <title>Contributor: tandr88 Discussion Comment No.: 2 Comment: Thanks for the message. I don't know what was happened. Yesterday JOSM -while I was drawing building- warned me that found more than 1000 errors. I uploaded a complete backup about this area from 11. January. I hope it will fix it. Please could you check again this area. Date: 2025-01-16T11:10:54+01:00</title>
         <link>https://www.openstreetmap.org/changeset/161387373</link>
-        <guid>https://www.openstreetmap.org/changeset/161387373#comment_1</guid>
-        <pubDate>2025-01-16T09:22:50+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/161387373#comment_2</guid>
+        <pubDate>2025-01-16T11:10:54+01:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Please use the dev server if you want to test something: https://wiki.openstreetmap.org/wiki/Using_the_dev_server https://www.openstreetmap.org/changeset/161397876 Date: 2025-01-15T22:27:52+01:00</title>
         <link>https://www.openstreetmap.org/changeset/161385226</link>
