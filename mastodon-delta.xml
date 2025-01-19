@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>To be fair, we should have mentioned #xmpp as an internet scalable solution that exists and works but maybe it could be said it doesn&amp;#39;t reach pervasive end-to-end encryption? Anyways, sorry for not incorporating its existence better in what was posted.</title>
+        <link>https://chaos.social/@delta/113855555318436917</link>
+        <guid>https://chaos.social/@delta/113855555318436917</guid>
+        <pubDate>Sun, 19 Jan 2025 14:45:02 +0000</pubDate>
+      </item><item>
         <title>Much of what is commonly said about #email and #openpgp is wrong. It can very well be fast and secure and that&amp;#39;s a claim backed by working code and deployments and audits (#chatmail servers and the #deltachat family of apps). There is no both-sides-have-opinions game to be played here. Internet-scale messaging alternatives are arguably either centralized or brittle. There is however much room for further improvements including deep changes in how we commonly understand email today. Stay tuned :)</title>
         <link>https://chaos.social/@delta/113855381267339727</link>
         <guid>https://chaos.social/@delta/113855381267339727</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/113707114399566219</link>
         <guid>https://chaos.social/@delta/113707114399566219</guid>
         <pubDate>Tue, 24 Dec 2024 09:34:33 +0000</pubDate>
-      </item><item>
-        <title>There are sometimes discussions about an end-to-end encrypted private social media e-mail chat network 🤯 Basically you could follow delta chat profiles and subscribe and probably react to their encrypted broadcasts .... This and many other discussions are the &amp;quot;humus&amp;quot; on which #deltachat evolves and, for example, became a super-app: Android 1.50.3 spearheads direct #webxdc app picking via the &amp;quot;attach&amp;quot; chat action. Actually #cheogram and #monocles, both #xmpp messengers, released this first! The android menu that you get via &quot;attach&quot; button. The menu shows 7 icons, with the last one &quot;apps&quot; that is surrounded by a red circle. The attach app screen. It shows a straight forward app list and a search bar. The app list has &quot;shopping list&quot; &quot;text cards&quot; and other utilities. The app store is in the utility tab. Next are games and home</title>
-        <link>https://chaos.social/@delta/113679096992329587</link>
-        <guid>https://chaos.social/@delta/113679096992329587</guid>
-        <pubDate>Thu, 19 Dec 2024 10:49:21 +0000</pubDate>
       </item>
   </channel>
 </rss>
