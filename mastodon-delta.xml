@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>A main technical and economic difference to #matrix servers/clients: The family of #deltachat apps uses #chatmail servers as ephemeral message transports that know nothing and forget everything: Servers don&amp;#39;t store group metadata or cryptographic identities and delete messages after download by default. In effect, a 30EUR/month #chatmail server with 10K&amp;#39;s of active users hums along with 2% IO and CPU pressure, 1GB RAM and negligible disk usage. No Pro-version or Kybernetes needed to scale ;) a video showing a chat with echo@nine.testrun.org bot which shows message delivery to be instant.</title>
+        <link>https://chaos.social/@delta/113857549966834162</link>
+        <guid>https://chaos.social/@delta/113857549966834162</guid>
+        <pubDate>Sun, 19 Jan 2025 23:12:18 +0000</pubDate>
+      </item><item>
         <title>To be fair, we should have mentioned #xmpp as an internet scalable solution that exists and works but maybe it could be said it doesn&amp;#39;t reach pervasive end-to-end encryption? Anyways, sorry for not incorporating its existence better in what was posted.</title>
         <link>https://chaos.social/@delta/113855555318436917</link>
         <guid>https://chaos.social/@delta/113855555318436917</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/113714419118377904</link>
         <guid>https://chaos.social/@delta/113714419118377904</guid>
         <pubDate>Wed, 25 Dec 2024 16:32:14 +0000</pubDate>
-      </item><item>
-        <title>Is it necessary to carry on family or community hierarchies into chat groups? With #deltachat any group member has agency to add/remove people and to clone the group and leave out/add some members. Works pretty well for small/mediun sized groups where people know each other. For larger and especially for public groups it&amp;#39;s more tricky and some form of moderation is typically wanted. It&amp;#39;s entirely possible to use cryptography to establish such hierarchies. We are not rushing for it, though.</title>
-        <link>https://chaos.social/@delta/113707114399566219</link>
-        <guid>https://chaos.social/@delta/113707114399566219</guid>
-        <pubDate>Tue, 24 Dec 2024 09:34:33 +0000</pubDate>
       </item>
   </channel>
 </rss>
