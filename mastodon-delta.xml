@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Much of what is commonly said about #email and #openpgp is wrong. It can very well be fast and secure and that&amp;#39;s a claim backed by working code and deployments and audits (#chatmail servers and the #deltachat family of apps). There is no both-sides-have-opinions game to be played here. Internet-scale messaging alternatives are arguably either centralized or brittle. There is however much room for further improvements including deep changes in how we commonly understand email today. Stay tuned :)</title>
+        <link>https://chaos.social/@delta/113855381267339727</link>
+        <guid>https://chaos.social/@delta/113855381267339727</guid>
+        <pubDate>Sun, 19 Jan 2025 14:00:46 +0000</pubDate>
+      </item><item>
         <title>Dear @soatok ... may we suggest to disclose security flaw claims first with the developers? Yesterday you publicly attacked @session mixing opinions with security flaw claims Session devs got back today disputing the flaw claims: https://getsession.org/blog/a-response-to-recent-claims-about-sessions-security-architecture Responsible disclosure could have helped to sort out possible misconception on findings and is in the interest of users. Going for just an opinion piece is the other fair option of course. Mixing is questionable. ref: https://soatok.blog/2025/01/14/dont-use-session-signal-fork/</title>
         <link>https://chaos.social/@delta/113843177582751553</link>
         <guid>https://chaos.social/@delta/113843177582751553</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/113679096992329587</link>
         <guid>https://chaos.social/@delta/113679096992329587</guid>
         <pubDate>Thu, 19 Dec 2024 10:49:21 +0000</pubDate>
-      </item><item>
-        <title>Wow, a nice surprise! We just heart that @codelutin@mastodon.libre-entreprise.com are to donate 4K EUR to our developments -- see their post (which unfortunately doesn&amp;#39;t currently federate correctly it seems) https://mastodon.libre-entreprise.com/@codelutin/113663250537310328 Their web page: https://www.codelutin.com/ Thanks a lot! ❤️ (FWIW we have a money-contribution page at https://delta.chat/en/donate and are happy about donations to mitigate a potential financial crunch early next year) A screenshot of a toot from @codelutin@mastodon libre-entreprise.com &quot;With @copiepublique, we pledged, as a company, to donate 1% of our yearly sales to support FLOSS. This year, we give €4000 to @delta, a messaging app that requires nothing else than an email to just work. Keep up the good work &amp; team!&quot;</title>
-        <link>https://chaos.social/@delta/113664335670077979</link>
-        <guid>https://chaos.social/@delta/113664335670077979</guid>
-        <pubDate>Mon, 16 Dec 2024 20:15:21 +0000</pubDate>
       </item>
   </channel>
 </rss>
