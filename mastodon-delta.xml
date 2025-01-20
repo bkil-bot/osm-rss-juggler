@@ -3,7 +3,7 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
-        <title>A main technical and economic difference to #matrix servers/clients: The family of #deltachat apps uses #chatmail servers as ephemeral message transports that know nothing and forget everything: Servers don&amp;#39;t store group metadata or cryptographic identities and delete messages after download by default. In effect, a 30EUR/month #chatmail server with 10K&amp;#39;s of active users hums along with 2% IO and CPU pressure, 1GB RAM and negligible disk usage. No Pro-version or Kybernetes needed to scale ;) a video showing a chat with echo@nine.testrun.org bot which shows message delivery to be instant.</title>
+        <title>A main technical and economic difference to #matrix servers/clients: The family of #deltachat apps uses #chatmail servers as ephemeral message transports that know nothing and forget everything: Servers don&amp;#39;t store group metadata or cryptographic identities and delete messages after download by default. In effect, a 30EUR/month #chatmail server with 10K&amp;#39;s of active users hums along with 2% IO and CPU pressure, 1GB RAM and negligible disk usage. No Pro-version or Kubernetes needed to scale ;) a video showing a chat with echo@nine.testrun.org bot which shows message delivery to be instant.</title>
         <link>https://chaos.social/@delta/113857549966834162</link>
         <guid>https://chaos.social/@delta/113857549966834162</guid>
         <pubDate>Sun, 19 Jan 2025 23:12:18 +0000</pubDate>
