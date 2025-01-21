@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>We just removed our delta chat profile from the last billionaire-run platform we had a presence on. It was inactive for 30 months already. We&amp;#39;ve never been a marketing-focused project anyway, for good or bad. We rather depend on providing well usable apps that people introduce into their circles. Without the contributions from various experts in the fields of security, usability and networking we could not do it. There is a certain quality of this collaboration that no billionaire can buy ;)</title>
+        <link>https://chaos.social/@delta/113866425587541316</link>
+        <guid>https://chaos.social/@delta/113866425587541316</guid>
+        <pubDate>Tue, 21 Jan 2025 12:49:29 +0000</pubDate>
+      </item><item>
         <title>A main technical and economic difference to #matrix servers/clients: The family of #deltachat apps uses #chatmail servers as ephemeral message transports that know nothing and forget everything: Servers don&amp;#39;t store group metadata or cryptographic identities and delete messages after download by default. In effect, a 30EUR/month #chatmail server with 10K&amp;#39;s of active users hums along with 2% IO and CPU pressure, 1GB RAM and negligible disk usage. No Pro-version or Kubernetes needed to scale ;) a video showing a chat with echo@nine.testrun.org bot which shows message delivery to be instant.</title>
         <link>https://chaos.social/@delta/113857549966834162</link>
         <guid>https://chaos.social/@delta/113857549966834162</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/113724489377870262</link>
         <guid>https://chaos.social/@delta/113724489377870262</guid>
         <pubDate>Fri, 27 Dec 2024 11:13:14 +0000</pubDate>
-      </item><item>
-        <title>#deltachat works despite some ongoing state level blocking and is used by people in bad network situations. That is all fine. But does it also work in german ICE train wifi? Happy to report: Yes, not only message sending and receiving work reliably in the train but we could also instantly use a webxdc realtime app between different trains, with peer-to-peer connections :) Greetings and good travels everyone! #38c3</title>
-        <link>https://chaos.social/@delta/113714419118377904</link>
-        <guid>https://chaos.social/@delta/113714419118377904</guid>
-        <pubDate>Wed, 25 Dec 2024 16:32:14 +0000</pubDate>
       </item>
   </channel>
 </rss>
