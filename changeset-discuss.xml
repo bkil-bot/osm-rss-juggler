@@ -58,16 +58,6 @@
         <guid>https://www.openstreetmap.org/changeset/161487399#comment_2</guid>
         <pubDate>2025-01-19T13:13:16+01:00</pubDate>
       </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Visszavonva: https://www.openstreetmap.org/changeset/161489989 Date: 2025-01-18T12:47:48+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/161408959</link>
-        <guid>https://www.openstreetmap.org/changeset/161408959#comment_1</guid>
-        <pubDate>2025-01-18T12:47:48+01:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Visszavonva: https://www.openstreetmap.org/changeset/161489989 Date: 2025-01-18T12:47:48+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/161408897</link>
-        <guid>https://www.openstreetmap.org/changeset/161408897#comment_1</guid>
-        <pubDate>2025-01-18T12:47:48+01:00</pubDate>
-      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 2 Comment: Visszavonva: https://www.openstreetmap.org/changeset/161489989 Date: 2025-01-18T12:47:48+01:00</title>
         <link>https://www.openstreetmap.org/changeset/161408772</link>
         <guid>https://www.openstreetmap.org/changeset/161408772#comment_2</guid>
@@ -78,20 +68,20 @@
         <guid>https://www.openstreetmap.org/changeset/161408719#comment_1</guid>
         <pubDate>2025-01-18T12:47:48+01:00</pubDate>
       </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Visszavonva: https://www.openstreetmap.org/changeset/161489989 Date: 2025-01-18T12:47:48+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/161408959</link>
+        <guid>https://www.openstreetmap.org/changeset/161408959#comment_1</guid>
+        <pubDate>2025-01-18T12:47:48+01:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Visszavonva: https://www.openstreetmap.org/changeset/161489989 Date: 2025-01-18T12:47:48+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/161408897</link>
+        <guid>https://www.openstreetmap.org/changeset/161408897#comment_1</guid>
+        <pubDate>2025-01-18T12:47:48+01:00</pubDate>
+      </item><item>
         <title>Contributor: BáthoryPéter Discussion Comment No.: 1 Comment: Szép találat, köszi hogy kijavítottad! Date: 2025-01-16T22:56:00+01:00</title>
         <link>https://www.openstreetmap.org/changeset/161339749</link>
         <guid>https://www.openstreetmap.org/changeset/161339749#comment_1</guid>
         <pubDate>2025-01-16T22:56:00+01:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 7 Comment: I fixed everything. Please, if JOSM says that you have 1000 errors, don't upload it. There are some false positives, but usually JOSM validator is right. You should ignore a warning only if you are sure it's a false positive. Uploading a backup is not a good solution, as you just created duplicates of point, there were a lot of separate points at a same position, I guess they came from your &quot;backup&quot;. If you are not sure what you modified, it's recommended to upload more frequently, in smaller changesets. Maybe draw buildings on 1-2 streets, than upload. It's easier to manage and check smaller changesets. Date: 2025-01-16T13:12:50+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/161387373</link>
-        <guid>https://www.openstreetmap.org/changeset/161387373#comment_7</guid>
-        <pubDate>2025-01-16T13:12:50+01:00</pubDate>
-      </item><item>
-        <title>Contributor: Muck8 Discussion Comment No.: 2 Comment: köszi az észrevételt még új vagyok Date: 2025-01-16T12:50:46+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/161403283</link>
-        <guid>https://www.openstreetmap.org/changeset/161403283#comment_2</guid>
-        <pubDate>2025-01-16T12:50:46+01:00</pubDate>
       </item>
   </channel>
 </rss>
