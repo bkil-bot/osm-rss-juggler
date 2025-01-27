@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: akos1 Discussion Comment No.: 2 Comment: Szia, köszi hogy szóltál erről, eredetileg azért szerkesztettem ezt a részt, mert egy másik routing engine (az OSRM) is rossz sáv infót adott. A &quot;turn:lanes:forward=through|none&quot; szegmensre valóban nincs szükség, úgyhogy ezt ki is szedtem onnan. https://www.openstreetmap.org/changeset/161814543 Date: 2025-01-27T11:34:32+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/159144031</link>
+        <guid>https://www.openstreetmap.org/changeset/159144031#comment_2</guid>
+        <pubDate>2025-01-27T11:34:32+01:00</pubDate>
+      </item><item>
         <title>Contributor: ITineris Discussion Comment No.: 2 Comment: Szia! Nem tudom, milyen volt az &quot;előző&quot;, és pontosan melyik résszel van gondod. Én úgy látom, hogy nagyjából a helyén van minden. (Az biztos, hogy én szívesen kivágnám ezt a túlbonyolított kereszteződést, és a Csanádi utcát egy vonallal kötném be, egy középsziget jelölésével. És a 421888106-os &quot;unclassified&quot; sem tudom, mit keres itt, amikor a kerékpáros átkelőnél nincs három különálló úttest. Még kettő sem.) Date: 2025-01-27T10:21:55+01:00</title>
         <link>https://www.openstreetmap.org/changeset/159206542</link>
         <guid>https://www.openstreetmap.org/changeset/159206542#comment_2</guid>
@@ -17,11 +22,6 @@
         <link>https://www.openstreetmap.org/changeset/160107015</link>
         <guid>https://www.openstreetmap.org/changeset/160107015#comment_1</guid>
         <pubDate>2025-01-25T16:39:06+01:00</pubDate>
-      </item><item>
-        <title>Contributor: Bálint Discussion Comment No.: 1 Comment: Szia, ma jöttem erre, de a Magic Earth útvonaltervező a Lajos utcán észak felől érkezve a bal oldali sávba terelt, hiába akartam jobbra kanyarodni a Szépvölgyi útra. Ahogy nézem, létrehoztál egy rövid szegmenst &quot;turn:lanes:forward=through|none&quot; értékkel, de ebből nem világos, hogy az útvonaltervező hogyan tudná így időben felajánlani a jobbra tartást? Köszi, Bálint Date: 2025-01-25T15:42:08+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/159144031</link>
-        <guid>https://www.openstreetmap.org/changeset/159144031#comment_1</guid>
-        <pubDate>2025-01-25T15:42:08+01:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Üdv az OpenStreetMapen! Kontúrok rajzolásakor a Q gyorsbilentyűvel vagy a jobbklikk -&gt; derékszögesítés paranccsal szabályosabbá teheted az épületkontúrokat, nem lesznek ilyen csálék. Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! Date: 2025-01-22T18:15:04+01:00</title>
         <link>https://www.openstreetmap.org/changeset/161614155</link>
