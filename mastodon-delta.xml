@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Signal has the most carefully designed cryptographic protocols that you can run on a central platform, thanks to Trevor and Moxie. They have truly inspired many end-to-end encryption advances everywhere in the last decade. Great stuff. However, Signal depends on Amazon/ DynamoDB, Intel/SGX , on Cloudflare, on Google Cloud ... and operations are expensive, with financing dependent on US jurisdiction and non-profit status there. Dear @Mer__edith , isn&amp;#39;t it time to revisit operational choices?</title>
+        <link>https://chaos.social/@delta/113899594028543526</link>
+        <guid>https://chaos.social/@delta/113899594028543526</guid>
+        <pubDate>Mon, 27 Jan 2025 09:24:39 +0000</pubDate>
+      </item><item>
         <title>Preventing enshittification of platforms rests on credible exit for users and devs. #ActivityPub and #SMTP are not perfect but a) are implemented und understood by many players, b) enable freedom of choice of servers and clients, c) implement #RightToMigrate as well as self/community custody Many #p2p projects promise to remove servers but often promote and depend on a single implementation stack, have no spec and no interop among #p2p islands, and thus struggle to provide credible exit.</title>
         <link>https://chaos.social/@delta/113894276025921752</link>
         <guid>https://chaos.social/@delta/113894276025921752</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/113760811052523884</link>
         <guid>https://chaos.social/@delta/113760811052523884</guid>
         <pubDate>Thu, 02 Jan 2025 21:10:19 +0000</pubDate>
-      </item><item>
-        <title>The mastodon archive lite reader (MARL) seems like a perfect candidate for turning it into a #webxdc app (vulgo zip file) .... https://lou.lt/@s427/113567190207673533 Benefits: - no hosting or DNS required - runs also fine while offline - no need to update / host anything because anybody can fork it and create their own variant and get it into the store. Iow, webxdc apps free their developers from having to care forever, and users depending on that. Imagine: you can finish software. Wild, no? :)</title>
-        <link>https://chaos.social/@delta/113753024057189096</link>
-        <guid>https://chaos.social/@delta/113753024057189096</guid>
-        <pubDate>Wed, 01 Jan 2025 12:09:59 +0000</pubDate>
       </item>
   </channel>
 </rss>
