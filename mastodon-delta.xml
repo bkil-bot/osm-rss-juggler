@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>As an excellent programmer once noted: constraints induce creativity and focused design. Delta Chat has been running against classic e-mail provider constraints for years and had to evolve its code to work against these constraints (rate limits, spam filters, signups, delays etc) and thus we were uniquely positioned to create a minimal #chatmail server template that beats Gmail, Outlook, iCloud etc regarding security, performance and efficiency. It&amp;#39;s a similar story with #deepseek if you will. Chatmail logo: an email @ sign with a chat dent in the lower left corner</title>
+        <link>https://chaos.social/@delta/113904956881628015</link>
+        <guid>https://chaos.social/@delta/113904956881628015</guid>
+        <pubDate>Tue, 28 Jan 2025 08:08:30 +0000</pubDate>
+      </item><item>
         <title>Signal has the most carefully designed cryptographic protocols that you can run on a central platform, thanks to Trevor and Moxie. They have truly inspired many end-to-end encryption advances everywhere in the last decade. Great stuff. However, Signal depends on Amazon/ DynamoDB, Intel/SGX , on Cloudflare, on Google Cloud ... and operations are expensive, with financing dependent on US jurisdiction and non-profit status there. Dear @Mer__edith , isn&amp;#39;t it time to revisit operational choices?</title>
         <link>https://chaos.social/@delta/113899594028543526</link>
         <guid>https://chaos.social/@delta/113899594028543526</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/113780979863852018</link>
         <guid>https://chaos.social/@delta/113780979863852018</guid>
         <pubDate>Mon, 06 Jan 2025 10:39:31 +0000</pubDate>
-      </item><item>
-        <title>Two new #webxdc apps: a one-dimensional pacman and shopping list -- already used by many families along with &amp;quot;calendar&amp;quot; and &amp;quot;checklist&amp;quot; for daily organization. All apps are discoverable on Android via &amp;quot;attach/app&amp;quot; or in the web via https://webxdc.org/apps ... With webxdc apps you&amp;#39;ll never have to sign-up to platforms again and if you are fed up with Delta Chat, you can use the same apps with Cheogram and Monocles (XMPP messengers). Forks welcome: apps come with source and a repo link :) a screenshot from the app store with two apps shown: - Pac-1D (Pacman in 1D from r10s) - Shopping list (Organize your grocery shopping from hupf)</title>
-        <link>https://chaos.social/@delta/113760811052523884</link>
-        <guid>https://chaos.social/@delta/113760811052523884</guid>
-        <pubDate>Thu, 02 Jan 2025 21:10:19 +0000</pubDate>
       </item>
   </channel>
 </rss>
