@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: utvonalfelmeresek Discussion Comment No.: 4 Comment: Ez megint egy filozófiai kérdés, hiszen a települések utcáin is csak a táblára van írva a név :) de részemről mindegy, csak gondoltam belefér a névbe is. Date: 2025-01-29T10:57:00+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/161835465</link>
+        <guid>https://www.openstreetmap.org/changeset/161835465#comment_4</guid>
+        <pubDate>2025-01-29T10:57:00+01:00</pubDate>
+      </item><item>
         <title>Contributor: ITineris Discussion Comment No.: 5 Comment: Azért is fura, mert a lanes=4 nem stimmelt a lanes:forward=1+lanes:backward=1 értékével, amiért a JOSM visít. Date: 2025-01-29T09:07:39+01:00</title>
         <link>https://www.openstreetmap.org/changeset/161171237</link>
         <guid>https://www.openstreetmap.org/changeset/161171237#comment_5</guid>
         <pubDate>2025-01-29T09:07:39+01:00</pubDate>
-      </item><item>
-        <title>Contributor: urbalazs Discussion Comment No.: 3 Comment: Köszönöm a képet, így már érthető. A név helyesen „A másik út”, és ez nem az ösvény neve, hanem az információs tábla felirata. Az ösvényről töröltem a nevet, elég a táblán szerepeltetni. Date: 2025-01-29T07:36:25+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/161835465</link>
-        <guid>https://www.openstreetmap.org/changeset/161835465#comment_3</guid>
-        <pubDate>2025-01-29T07:36:25+01:00</pubDate>
       </item><item>
         <title>Contributor: Hufkratzer Discussion Comment No.: 1 Comment: Hi, I think it would be better to put the tag leisure=horse_riding on the surrounding farmyard area instead of the building, because the riding centre is not just the building but the whole area, compare: https://wiki.openstreetmap.org/wiki/Tag:leisure=horse_riding https://www.openstreetmap.org/way/740038693 (example) (Or create a new node for it) Date: 2025-01-28T21:15:50+01:00</title>
         <link>https://www.openstreetmap.org/changeset/161850426</link>
