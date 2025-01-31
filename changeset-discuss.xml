@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szia! Légy szíves az épület betűjelét az addr:unit-ba tegyed, arra való. addr:housenumber=5 B.ép. helyett addr:housenumber=5 addr:unit=B Tamás Date: 2025-01-31T20:39:31+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/161954401</link>
+        <guid>https://www.openstreetmap.org/changeset/161954401#comment_1</guid>
+        <pubDate>2025-01-31T20:39:31+01:00</pubDate>
+      </item><item>
+        <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szia! Légy szíves ne úgy igazítsd ki a geometriákat, hogy letörlöd az épületet és újra rajzolod, mert így elvész a szerkesztés történet. Valamint használd a Q betűt, mert nem derékszögűek a házaid. pl: ezt elég lett volna csak odébb húzni: https://www.openstreetmap.org/way/1355390134 Ha mindenképp újra akarod rajzolni, használd a replace geometry funkciót, akkor a meglévő történet is megmarad. Tamás Date: 2025-01-31T20:36:22+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/161940593</link>
+        <guid>https://www.openstreetmap.org/changeset/161940593#comment_1</guid>
+        <pubDate>2025-01-31T20:36:22+01:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Hello! Another charging station was mapped in the vicinity: https://www.openstreetmap.org/node/9878625312 Are you sure it's not the same? Maybe the old one was mapped at the wrong position. Thanks! Date: 2025-01-31T11:33:21+01:00</title>
         <link>https://www.openstreetmap.org/changeset/161927704</link>
         <guid>https://www.openstreetmap.org/changeset/161927704#comment_1</guid>
