@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Today #fosdem at 6pm there are sessions about #chatmail and #deltachat and #webxdc ... Modern email devroom k.4.601 ... Happy global switch day :) A graphic titled &quot;February 1sr 2025 global switch day&quot; with a WhatsApp icon with an arrow to a delta chat icon</title>
+        <link>https://chaos.social/@delta/113927909746550024</link>
+        <guid>https://chaos.social/@delta/113927909746550024</guid>
+        <pubDate>Sat, 01 Feb 2025 09:25:43 +0000</pubDate>
+      </item><item>
         <title>As an excellent programmer once noted: constraints induce creativity and focused design. Delta Chat has been running against classic e-mail provider constraints for years and had to evolve its code to work against these constraints (rate limits, spam filters, signups, delays etc) and thus we were uniquely positioned to create a minimal #chatmail server template that beats Gmail, Outlook, iCloud etc regarding security, performance and efficiency. It&amp;#39;s a similar story with #deepseek if you will. Chatmail logo: an email @ sign with a chat dent in the lower left corner</title>
         <link>https://chaos.social/@delta/113904956881628015</link>
         <guid>https://chaos.social/@delta/113904956881628015</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/113799381125709394</link>
         <guid>https://chaos.social/@delta/113799381125709394</guid>
         <pubDate>Thu, 09 Jan 2025 16:39:12 +0000</pubDate>
-      </item><item>
-        <title>It is popular to criticise surveillance/capitalism and to want/work towards a decentralized, secure and diverse communication and media landscape. However, there are real devices, networks, states and stores to navigate, inducing technical and usable-security challenges. #deltachat dev efforts are following a &amp;quot;speculative realism&amp;quot; instead of an idealist approach. We care about cooperative user testing, maintenability and development. We btw moved to #rustlang in 2019 ... when it wasn&amp;#39;t cool :)</title>
-        <link>https://chaos.social/@delta/113780979863852018</link>
-        <guid>https://chaos.social/@delta/113780979863852018</guid>
-        <pubDate>Mon, 06 Jan 2025 10:39:31 +0000</pubDate>
       </item>
   </channel>
 </rss>
