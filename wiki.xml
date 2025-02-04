@@ -2,16 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      <item>
-        <title>Hungary/OSM felhasználások: Kizárólag OSM alapon -ITinerisKft</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/OSM_felhaszn%C3%A1l%C3%A1sok&amp;diff=2808097&amp;oldid=2808092</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/OSM_felhaszn%C3%A1l%C3%A1sok&amp;diff=2808097</guid>
-        <pubDate>Mon, 03 Feb 2025 09:32:41 GMT</pubDate>
-      </item><item>
-        <title>Hungary/OSM felhasználások: Kizárólag OSM alapon: MÁV pontosítása -Gymate</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/OSM_felhaszn%C3%A1l%C3%A1sok&amp;diff=2808092&amp;oldid=2808091</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/OSM_felhaszn%C3%A1l%C3%A1sok&amp;diff=2808092</guid>
-        <pubDate>Mon, 03 Feb 2025 09:23:16 GMT</pubDate>
-      </item>
+      
   </channel>
 </rss>
