@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>People like to say &amp;quot;email leaks metadata&amp;quot; but consider this: Delta apps do not store group metadata (memberlists, group names, avatars, keys) on servers. By comparison, - #matrix stores group metadata unencrypted on home servers and replicates it to other federated matrix servers - #signal stores encrypted group metadata on Amazon cloud servers #deltachat uses a #p2p messaging model for encrypted group metadata where servers function as transport only.</title>
+        <link>https://chaos.social/@delta/113947104797135349</link>
+        <guid>https://chaos.social/@delta/113947104797135349</guid>
+        <pubDate>Tue, 04 Feb 2025 18:47:16 +0000</pubDate>
+      </item><item>
         <title>The ecosystem is moving ... away from corporate centralization and mindsets. Billionaires are out, federated and multi-player systems are in, if we gather the many chats, gossips and happenings around #fosdem correctly. Dispersing ourselves around Bruxelles the last couple of days was very enjoyable (thanks Sun!) and helpful to orient in convivial directions in this otherwise extraordinarily stupid 2025 timeline ... thanks to the many people we enjoyed conversations and hang outs with! ❤️ Picture of entrance to &quot;Delta&quot; subway station close to the ULB Fosdem conference location. It's beginning February, trees mostly have no leeves, and there are wall paintings: a kind of animal/human in black on yellow ground, as well as a yellow/blue towerlike structure with some red and black graffiti. A stairway and two machine-rolling stairways are visible, one of them currently blocked.</title>
         <link>https://chaos.social/@delta/113940663289210839</link>
         <guid>https://chaos.social/@delta/113940663289210839</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/113816876268085595</link>
         <guid>https://chaos.social/@delta/113816876268085595</guid>
         <pubDate>Sun, 12 Jan 2025 18:48:26 +0000</pubDate>
-      </item><item>
-        <title>The &amp;quot;Mastodon Archive Reader Lite&amp;quot; (MARL) is now available as a #webxdc app, i.e. you can use it on any deltachat/cheogram/monocles device in e.g. &amp;quot;saved messages&amp;quot; to look at your (exported) mastodon archive offline. Thanks @s427 and @rtn for landing it! https://webxdc.org/apps/#s427-marl entry in webxdc.org apps store for MARL app with icon</title>
-        <link>https://chaos.social/@delta/113810196359273537</link>
-        <guid>https://chaos.social/@delta/113810196359273537</guid>
-        <pubDate>Sat, 11 Jan 2025 14:29:39 +0000</pubDate>
       </item>
   </channel>
 </rss>
