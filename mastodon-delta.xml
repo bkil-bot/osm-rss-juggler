@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>The #chatmail #fosdem talk from @compl4xx is public. It goes into topics such as - why chatmail servers? - how to setup a server with your child - (avoiding) spam filtering - metadata and guaranteed end to end encryption in #deltachat - #cryptographic #interoperability for email message routing Thanks to attendees for the great energy even if was the last talk on the day and also for questions and conversations afterwards! https://ftp.fau.de/fosdem/2025/k4601/fosdem-2025-5217-chatmail-server-networks-for-anonymous-end-to-end-encrypted-messaging.mp4</title>
+        <link>https://chaos.social/@delta/113973431511179193</link>
+        <guid>https://chaos.social/@delta/113973431511179193</guid>
+        <pubDate>Sun, 09 Feb 2025 10:22:30 +0000</pubDate>
+      </item><item>
         <title>Delta Chat is since some years gaining usage by people forced to flee. Several of our contributors themselves migrated and others fear they might soon have to. Our technical designs and social approaches rest on a #RightToExit on virtually all levels. No walled gardens. No presidents. It&amp;#39;s true that #deltachat is a money-poor project compared to mainstream messengers ... But the question at hand in 2025 is: which messaging system will persevere when corporate platforms get corrupted and break?</title>
         <link>https://chaos.social/@delta/113968052146160082</link>
         <guid>https://chaos.social/@delta/113968052146160082</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/113834678257561032</link>
         <guid>https://chaos.social/@delta/113834678257561032</guid>
         <pubDate>Wed, 15 Jan 2025 22:15:43 +0000</pubDate>
-      </item><item>
-        <title>Hum, are we the only cross-platform messenger project present in 15+ app stores that primarily announces on, and interacts with, the Fediverse while others use X and maybe Bluesky? If you know of others please mention them in the replies :) In any case, we are pretty happy here, as we are finding meaningful interactions, and organically evolving interest and collaboration with other people and projects. Probably it helps that #email shares several traits with #ActivityPub protocols? Cheers.</title>
-        <link>https://chaos.social/@delta/113833132382991829</link>
-        <guid>https://chaos.social/@delta/113833132382991829</guid>
-        <pubDate>Wed, 15 Jan 2025 15:42:35 +0000</pubDate>
       </item>
   </channel>
 </rss>
