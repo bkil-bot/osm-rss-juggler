@@ -2,6 +2,11 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      
+      <item>
+        <title>Hungary/Vasút: Pályaelemek Image:Mf node.svg: táblázat átalakítása -BáthoryPéter</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Vas%C3%BAt&amp;diff=2810522&amp;oldid=2685564</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Vas%C3%BAt&amp;diff=2810522</guid>
+        <pubDate>Mon, 10 Feb 2025 11:11:31 GMT</pubDate>
+      </item>
   </channel>
 </rss>
