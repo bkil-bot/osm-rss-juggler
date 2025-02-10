@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: BáthoryPéter Discussion Comment No.: 2 Comment: Ezt nem tudtam. Jó lenne az ilyen információkat a wikiben összegyűjteni, mondjuk itt: https://wiki.openstreetmap.org/wiki/Hungary/Vas%C3%BAt Date: 2025-02-10T08:37:43+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/162029533</link>
+        <guid>https://www.openstreetmap.org/changeset/162029533#comment_2</guid>
+        <pubDate>2025-02-10T08:37:43+01:00</pubDate>
+      </item><item>
+        <title>Contributor: BáthoryPéter Discussion Comment No.: 2 Comment: Figyelmetlen voltam, köszi, hogy javítottad! Én pedig arról akartam írni neked, hogy elérhetővé tettünk egy új, nagyobb felbontású ortofotót az alábbi járásokról: Győr, Pannonhalma, Kecskemét, Tiszakécske, Kunszentmárton, Szarvas. Nagyszerűen lehet róla vasúti infrát rajzolni, nem csak a sínszálak, még a jelzők árnyéka is látszik rajta. iD-be még nem került be, de egyéni rétegként fel tudod venni: https://orto1.tile.openstreetmap.hu/fomi_2015-2020_lombtalan_20cm/{zoom}/{x}/{y}.webp Date: 2025-02-10T08:29:55+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/162163203</link>
+        <guid>https://www.openstreetmap.org/changeset/162163203#comment_2</guid>
+        <pubDate>2025-02-10T08:29:55+01:00</pubDate>
+      </item><item>
         <title>Contributor: ITineris Discussion Comment No.: 1 Comment: Szia! Honnan vetted, hogy ez a parkoló ügyfelek számára használható, és azt, hogy fizetős? Ez egy úszókapuval lezárt magánterület, az Ond vezér útja 10-24-gyel közös helyrajzi számon. Üdv: Ákos Date: 2025-02-10T06:28:14+01:00</title>
         <link>https://www.openstreetmap.org/changeset/155434752</link>
         <guid>https://www.openstreetmap.org/changeset/155434752#comment_1</guid>
@@ -17,16 +27,6 @@
         <link>https://www.openstreetmap.org/changeset/162176247</link>
         <guid>https://www.openstreetmap.org/changeset/162176247#comment_1</guid>
         <pubDate>2025-02-09T21:45:20+01:00</pubDate>
-      </item><item>
-        <title>Contributor: balint36 Discussion Comment No.: 1 Comment: Átszelése kitérőknél nem írjuk bele a betűket a számozásba, mert azok nem a kitérőt azonosítják, hanem a végét. Date: 2025-02-09T21:28:51+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/162029533</link>
-        <guid>https://www.openstreetmap.org/changeset/162029533#comment_1</guid>
-        <pubDate>2025-02-09T21:28:51+01:00</pubDate>
-      </item><item>
-        <title>Contributor: balint36 Discussion Comment No.: 1 Comment: Megadtad Bakonyszentlászló vágányszámát, de a nyíltvonalra is beírtad, ami nem helyes. Date: 2025-02-09T21:25:14+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/162163203</link>
-        <guid>https://www.openstreetmap.org/changeset/162163203#comment_1</guid>
-        <pubDate>2025-02-09T21:25:14+01:00</pubDate>
       </item><item>
         <title>Contributor: vasony Discussion Comment No.: 1 Comment: csomagpontok jelölése: https://wiki.openstreetmap.org/wiki/Hungary/Jel%C3%B6l%C3%A9si_p%C3%A9ld%C3%A1k#Csomagpont Az elv, hogy az üzlet egy tulajdonsága az, hogy csomagpont, nem egy külön pont a térképen. Date: 2025-02-09T18:58:06+01:00</title>
         <link>https://www.openstreetmap.org/changeset/161980723</link>
