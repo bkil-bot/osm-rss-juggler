@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szia! A településrészt az addr:suburb mezőben kell feltűntetni. Egyébként a &quot;.&quot; nem túl informatív megjegyzés a szerkesztésedhez. https://wiki.openstreetmap.org/wiki/Good_changeset_comments Tamás Date: 2025-02-11T21:30:10+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/162321483</link>
+        <guid>https://www.openstreetmap.org/changeset/162321483#comment_1</guid>
+        <pubDate>2025-02-11T21:30:10+01:00</pubDate>
+      </item><item>
+        <title>Contributor: vasony Discussion Comment No.: 2 Comment: Annyit fűznék hozzá, hogy amennyiben a címek hozzá vannak adva a házakhoz, a tűzoltók is oda fognak találni a házszámok alapján. Date: 2025-02-11T21:24:22+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/162201403</link>
+        <guid>https://www.openstreetmap.org/changeset/162201403#comment_2</guid>
+        <pubDate>2025-02-11T21:24:22+01:00</pubDate>
+      </item><item>
         <title>Contributor: bkil Discussion Comment No.: 1 Comment: A következő probléma van ezekkel a szerkesztésekkel amire kérünk figyelni a jövőben: https://wiki.osm.org/Hungary/Fontos_szempontok#Aerial_imagery_calibration Date: 2025-02-11T19:55:56+01:00</title>
         <link>https://www.openstreetmap.org/changeset/162398891</link>
         <guid>https://www.openstreetmap.org/changeset/162398891#comment_1</guid>
@@ -22,11 +32,6 @@
         <link>https://www.openstreetmap.org/changeset/155434752</link>
         <guid>https://www.openstreetmap.org/changeset/155434752#comment_5</guid>
         <pubDate>2025-02-11T09:02:00+01:00</pubDate>
-      </item><item>
-        <title>Contributor: urbalazs Discussion Comment No.: 1 Comment: Kedves Mezőberény Város felhasználó! Köszönjük, hogy hozzájárultak az OpenStreetMap fejlesztéséhez. Van azonban egy szerkesztési irányelv, amely pontosan meghatározza, hogy hogyan kell feltüntetni az olyan közterületeket, amelyek más elnevezéssel rendelkeznek az egyik és a másik oldalon. Kijavítottam a szerkesztésüket, és beállítottam az eltérő neveket az utca mindkét oldalán. Ugyanakkor nem szerencsés, hogy a közterületeket így nevezik el, mert nem minden megjelenítő tudja megfelelően kezelni az ilyen eseteket, és ahogy a módosításcsomag megjegyzésében is írták, nehézséget okoz a mentőknek, tűzoltóknak és a futároknak megtalálni a címet. Kérem, hogy fontolják meg a közterületek elnevezésének felülvizsgálatát, és nevezzék el a közterületeket egyértelműen. Jelenleg 6 közterület osztozik 3 néven. Date: 2025-02-10T22:57:48+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/162201403</link>
-        <guid>https://www.openstreetmap.org/changeset/162201403#comment_1</guid>
-        <pubDate>2025-02-10T22:57:48+01:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! crossing_ref helyett manapság a crossing:markings-ot használjuk, sokkal részletesebben le lehet írni felfestéseket: https://wiki.openstreetmap.org/wiki/Key:crossing:markings A crossing_ref meg marad azokban az országokban ahol ezek a többi állatnevek használatban vannak, nálunk ilyenek nincsenek: https://wiki.openstreetmap.org/wiki/Key:crossing_ref További jó térképezést! Date: 2025-02-10T20:26:43+01:00</title>
         <link>https://www.openstreetmap.org/changeset/162218706</link>
