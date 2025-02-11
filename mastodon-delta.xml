@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Interested to take a little tour through how #deltachat apps and the #rustlang core library are wired together? @treefit and @WofWca provide a deep-dive into the history of apps migrating from a C-Foreign-Function-Interface to a #Rust based JSON-RPC mechanism, with entertaining horror stories like how an iOS release some years ago could delete profiles without the user intending it 😬 The post also highlights a few areas where folks interested to help could start ... https://delta.chat/en/2025-02-11-why-jsonrpc-bindings-exist</title>
+        <link>https://chaos.social/@delta/113986195771829545</link>
+        <guid>https://chaos.social/@delta/113986195771829545</guid>
+        <pubDate>Tue, 11 Feb 2025 16:28:37 +0000</pubDate>
+      </item><item>
         <title>The #chatmail #fosdem talk from @compl4xx is public. It goes into topics such as - why chatmail servers? - how to setup a server with your child - (avoiding) spam filtering - metadata and guaranteed end to end encryption in #deltachat - #cryptographic #interoperability for email message routing Thanks to attendees for the great energy even if was the last talk on the day and also for questions and conversations afterwards! https://ftp.fau.de/fosdem/2025/k4601/fosdem-2025-5217-chatmail-server-networks-for-anonymous-end-to-end-encrypted-messaging.mp4</title>
         <link>https://chaos.social/@delta/113973431511179193</link>
         <guid>https://chaos.social/@delta/113973431511179193</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/113843177582751553</link>
         <guid>https://chaos.social/@delta/113843177582751553</guid>
         <pubDate>Fri, 17 Jan 2025 10:17:12 +0000</pubDate>
-      </item><item>
-        <title>To clarify a bit what we tried to express earlier today: we came to the Fediverse long before it was cool (musk bought Twitter wave) and we are staying on while it&amp;#39;s currently not as cool as Bluesky. We are only doing social media via the fediverse. We are in for the long game, and in our view, this means increasing diversity and collaborative development practises and relations with a wide range of people, projects and researchers, with a shared interest in evading enshittificatiom forces.</title>
-        <link>https://chaos.social/@delta/113834678257561032</link>
-        <guid>https://chaos.social/@delta/113834678257561032</guid>
-        <pubDate>Wed, 15 Jan 2025 22:15:43 +0000</pubDate>
       </item>
   </channel>
 </rss>
