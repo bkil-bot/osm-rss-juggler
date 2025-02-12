@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>There is a new #chatmail server deployment using #chef tooling, put together by @feld , incorporating the same &amp;quot;chatmaild&amp;quot; services used by the mainline chatmail server template, and also otherwise achieving feature-parity ... Thanks Mark! https://github.com/feld/chatmail-cookbook</title>
+        <link>https://chaos.social/@delta/113992608481000733</link>
+        <guid>https://chaos.social/@delta/113992608481000733</guid>
+        <pubDate>Wed, 12 Feb 2025 19:39:27 +0000</pubDate>
+      </item><item>
         <title>Interested to take a little tour through how #deltachat apps and the #rustlang core library are wired together? @treefit and @WofWca provide a deep-dive into the history of apps migrating from a C-Foreign-Function-Interface to a #Rust based JSON-RPC mechanism, with entertaining horror stories like how an iOS release some years ago could delete profiles without the user intending it 😬 The post also highlights a few areas where folks interested to help could start ... https://delta.chat/en/2025-02-11-why-jsonrpc-bindings-exist</title>
         <link>https://chaos.social/@delta/113986195771829545</link>
         <guid>https://chaos.social/@delta/113986195771829545</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/113855381267339727</link>
         <guid>https://chaos.social/@delta/113855381267339727</guid>
         <pubDate>Sun, 19 Jan 2025 14:00:46 +0000</pubDate>
-      </item><item>
-        <title>Dear @soatok ... may we suggest to disclose security flaw claims first with the developers? Yesterday you publicly attacked @session mixing opinions with security flaw claims Session devs got back today disputing the flaw claims: https://getsession.org/blog/a-response-to-recent-claims-about-sessions-security-architecture Responsible disclosure could have helped to sort out possible misconception on findings and is in the interest of users. Going for just an opinion piece is the other fair option of course. Mixing is questionable. ref: https://soatok.blog/2025/01/14/dont-use-session-signal-fork/</title>
-        <link>https://chaos.social/@delta/113843177582751553</link>
-        <guid>https://chaos.social/@delta/113843177582751553</guid>
-        <pubDate>Fri, 17 Jan 2025 10:17:12 +0000</pubDate>
       </item>
   </channel>
 </rss>
