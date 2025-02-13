@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: vasony Discussion Comment No.: 6 Comment: Nem itt okoz gondot, hanem a becsatlakozó utaknál. (Itt a Mezeinél pont nem, annó a Kamaraerdei út volt a példa) Ha meghúzod az út mellett a határt, akkor keletkezik egy rövid útszakasz a merőleges utcából, rossz oldalán a határnak. Valójában ez a rövid szakasz nem létezik adott településen ilyen névvel, hanem a határon futó út kiterjedése, ezt nem tudod jól ábrázolni, így fals információt viszel fel a térképre. Szerintem ez fontosabb, mint hogy az út széli bokor kinek a közigazgatási területén fekszik. De célszerűbb lenne a mátrixon megbeszélni nem itt. Date: 2025-02-13T19:34:53+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/162206623</link>
+        <guid>https://www.openstreetmap.org/changeset/162206623#comment_6</guid>
+        <pubDate>2025-02-13T19:34:53+01:00</pubDate>
+      </item><item>
         <title>Contributor: bkil Discussion Comment No.: 3 Comment: Igen, köszönjük. Mindenképpen lehet maga a Fömi alapján is épületet rajzolni (amennyiben az épület az újabb felvételek alapján nem került lebontásra) Amennyiben az újabb felvételekről szeretnénk rajzolni, be lehet igazítani az adott helyen ezt (pl. Esri). úgy, hogy az adott ház alaprajza ugyanoda essen mint a Fömin. Utána pár sarkonként érdemes ellenőrizni, hogy az eltolás változatlan-e. https://wiki.osm.org/Hu:Using_aerial_imagery#Magyar_specialit%C3%A1sok Date: 2025-02-12T12:17:28+01:00</title>
         <link>https://www.openstreetmap.org/changeset/162398891</link>
         <guid>https://www.openstreetmap.org/changeset/162398891#comment_3</guid>
@@ -82,16 +87,6 @@
         <link>https://www.openstreetmap.org/changeset/161171237</link>
         <guid>https://www.openstreetmap.org/changeset/161171237#comment_8</guid>
         <pubDate>2025-02-07T20:40:51+01:00</pubDate>
-      </item><item>
-        <title>Contributor: BáthoryPéter Discussion Comment No.: 5 Comment: A közigazgatási határ és a földrészletek határa is vastagság nélküli vonal, úgyhogy ezzel nincs gond. A földrészlethatárok alapján egyértelműen látszik, hogy Mezei utca (ha erre gondoltál) útpályája teljes egészében Szabadbattyán területére esik, az Orsovai utca pedig Székesfehérvár területére. Mindkét esetben az útpálya egyik szélén fut a földrészlethatár. Ha az ellenőrzőknek ez gondot okoz, akkor az ellenőrzőket kell javítani. Date: 2025-02-07T13:15:33+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/162206623</link>
-        <guid>https://www.openstreetmap.org/changeset/162206623#comment_5</guid>
-        <pubDate>2025-02-07T13:15:33+01:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Üdv újra az OpenStreetMapen! Dátumoknál ISO 8601 formátumot használunk! Azaz az év-hó-nap között az elválasztás egy kötőjel https://wiki.openstreetmap.org/wiki/Key:check_date https://hu.wikipedia.org/wiki/ISO_8601 Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! Date: 2025-02-06T21:17:41+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/162121176</link>
-        <guid>https://www.openstreetmap.org/changeset/162121176#comment_1</guid>
-        <pubDate>2025-02-06T21:17:41+01:00</pubDate>
       </item>
   </channel>
 </rss>
