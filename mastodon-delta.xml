@@ -3,6 +3,16 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>No coins, no chains, no big machinery but plain, efficient and scalable decentralization, leveraging the largest open internet messaging network ever created by humans ... made safe, fast and resource efficient with #chatmail servers using strong and audited #interoperable #cryptography. It just works (tm) in many places where Signal and WhatsApp fail today. It&amp;#39;s time to reclaim &amp;quot;decentralization&amp;quot; from techbros, insist on real-life #resilience and trust this cute figure from @Xeniax :) A photograph of a small blue figure with a mask, holding a little &quot;decentralized&quot; handwritten banner with &quot;d&quot; being the delta logo symbol. Background of the photo is a forest and a lake in early spring.</title>
+        <link>https://chaos.social/@delta/113996277673600200</link>
+        <guid>https://chaos.social/@delta/113996277673600200</guid>
+        <pubDate>Thu, 13 Feb 2025 11:12:34 +0000</pubDate>
+      </item><item>
+        <title>Despite not having a lot of money we are yearly subscribed to give 300eur to the #foss #forgejo platform of @Codeberg who are currently suffering sustained network and abuse attacks https://social.anoxinon.de/@Codeberg/113995906071458932 Some of our #webxdc developments takes place on Codeberg. Thanks for persevering! #hugops</title>
+        <link>https://chaos.social/@delta/113996091246950784</link>
+        <guid>https://chaos.social/@delta/113996091246950784</guid>
+        <pubDate>Thu, 13 Feb 2025 10:25:10 +0000</pubDate>
+      </item><item>
         <title>There is a new #chatmail server deployment using #chef tooling, put together by @feld , incorporating the same &amp;quot;chatmaild&amp;quot; services used by the mainline chatmail server template, and also otherwise achieving feature-parity ... Thanks Mark! https://github.com/feld/chatmail-cookbook</title>
         <link>https://chaos.social/@delta/113992608481000733</link>
         <guid>https://chaos.social/@delta/113992608481000733</guid>
@@ -92,16 +102,6 @@
         <link>https://chaos.social/@delta/113857549966834162</link>
         <guid>https://chaos.social/@delta/113857549966834162</guid>
         <pubDate>Sun, 19 Jan 2025 23:12:18 +0000</pubDate>
-      </item><item>
-        <title>To be fair, we should have mentioned #xmpp as an internet scalable solution that exists and works but maybe it could be said it doesn&amp;#39;t reach pervasive end-to-end encryption? Anyways, sorry for not incorporating its existence better in what was posted.</title>
-        <link>https://chaos.social/@delta/113855555318436917</link>
-        <guid>https://chaos.social/@delta/113855555318436917</guid>
-        <pubDate>Sun, 19 Jan 2025 14:45:02 +0000</pubDate>
-      </item><item>
-        <title>Much of what is commonly said about #email and #openpgp is wrong. It can very well be fast and secure and that&amp;#39;s a claim backed by working code and deployments and audits (#chatmail servers and the #deltachat family of apps). There is no both-sides-have-opinions game to be played here. Internet-scale messaging alternatives are arguably either centralized or brittle. There is however much room for further improvements including deep changes in how we commonly understand email today. Stay tuned :)</title>
-        <link>https://chaos.social/@delta/113855381267339727</link>
-        <guid>https://chaos.social/@delta/113855381267339727</guid>
-        <pubDate>Sun, 19 Jan 2025 14:00:46 +0000</pubDate>
       </item>
   </channel>
 </rss>
