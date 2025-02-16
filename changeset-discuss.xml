@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Üdv az OpenStreetMapen! A wikidata és wikipedia címkékbe az adott elemhez kapcsolódó dolgokat kell linkelni, például magának egy szobornak, vagy emléktáblának is lehet wikidata vagy wikipedia oldala. Példakánt itt egy emléktábla wikidatája: https://www.wikidata.org/wiki/Q131758686 Ugyanez OpenStreetMapen: https://www.openstreetmap.org/node/12500751616 A táblán szereplő személyhez kapcsolódó oldalakat a subject:wikidata illetve subject:wikipedia címkékbe írjuk: https://wiki.openstreetmap.org/wiki/Key:subject:wikidata https://wiki.openstreetmap.org/wiki/Key:subject:wikipedia Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! Date: 2025-02-16T10:02:40+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/162552407</link>
+        <guid>https://www.openstreetmap.org/changeset/162552407#comment_1</guid>
+        <pubDate>2025-02-16T10:02:40+01:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 5 Comment: Tegnap direkt osmand-dal vezettem, hogy ellenőrizzem, és szól a crossing_ref nélküli gyalogátkelők előtt is, szóval ne használd csak emiatt a crossing_ref-t, nem kell. Date: 2025-02-16T09:55:52+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/162218706</link>
+        <guid>https://www.openstreetmap.org/changeset/162218706#comment_5</guid>
+        <pubDate>2025-02-16T09:55:52+01:00</pubDate>
+      </item><item>
         <title>Contributor: bkil Discussion Comment No.: 1 Comment: A településpontok elhelyezésére a következő javaslattal tudok élni: https://wiki.osm.org/Hungary/Fontos_szempontok#place Date: 2025-02-15T15:54:44+01:00</title>
         <link>https://www.openstreetmap.org/changeset/161939657</link>
         <guid>https://www.openstreetmap.org/changeset/161939657#comment_1</guid>
@@ -27,11 +37,6 @@
         <link>https://www.openstreetmap.org/changeset/162270010</link>
         <guid>https://www.openstreetmap.org/changeset/162270010#comment_1</guid>
         <pubDate>2025-02-15T12:26:58+01:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 4 Comment: crossing:markings-ból van 21000 az országban: https://taginfo.openstreetmap.hu/keys/crossing:markings#overview crossing_ref-ből 140: https://taginfo.openstreetmap.hu/keys/crossing_ref#overview De szerintem az osmand nem is ezt a címkét nézi, hanem a crossing=*-ot, legalábbis annak több haszna lenne Date: 2025-02-15T09:40:28+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/162218706</link>
-        <guid>https://www.openstreetmap.org/changeset/162218706#comment_4</guid>
-        <pubDate>2025-02-15T09:40:28+01:00</pubDate>
       </item><item>
         <title>Contributor: vasony Discussion Comment No.: 6 Comment: Nem itt okoz gondot, hanem a becsatlakozó utaknál. (Itt a Mezeinél pont nem, annó a Kamaraerdei út volt a példa) Ha meghúzod az út mellett a határt, akkor keletkezik egy rövid útszakasz a merőleges utcából, rossz oldalán a határnak. Valójában ez a rövid szakasz nem létezik adott településen ilyen névvel, hanem a határon futó út kiterjedése, ezt nem tudod jól ábrázolni, így fals információt viszel fel a térképre. Szerintem ez fontosabb, mint hogy az út széli bokor kinek a közigazgatási területén fekszik. De célszerűbb lenne a mátrixon megbeszélni nem itt. Date: 2025-02-13T19:34:53+01:00</title>
         <link>https://www.openstreetmap.org/changeset/162206623</link>
