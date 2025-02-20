@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: map_improver_xyz Discussion Comment No.: 2 Comment: Hallo, &quot;Güns&quot; steht doch als deutscher (aktueller und veralteter) Alternativname da? Der Grund für meine Änderung war damals: in der deutsch-sprachigen Wikipedia werden auf den verlinkten OSM-Landkarten die Ortsnamen in Ungarn und in anderen osteurop. Staaten mit dem &quot;deutschen Namen&quot; (name:de) angezeigt. Diese sind heute in fast allen Fällen nicht mehr gängig und stammen noch aus dem 3. Reich und davor. Eine Möglichkeit wäre, in diesen speziellen Ländern die Ortsnamen in der Landessprache anzuzeigen. Das wäre aber in manchen Fällen auch suboptimal. Zumindest mit der aktuellen Situation können keine OSM-Landkarten aus Osteuropa bei de-Wikipedia eingebunden werden, weil sonst eine Landkarte mit Ortsnamen aus dem 3. Reich angezeigt werden. Bei der direkten OSM-Anzeige (zumindest bei mir) werden die deutschen Ortsnamen unterdrückt und dafür der Ortsname in der Landessprache angezeigt. Date: 2025-02-20T06:57:32+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/145972791</link>
+        <guid>https://www.openstreetmap.org/changeset/145972791#comment_2</guid>
+        <pubDate>2025-02-20T06:57:32+01:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Üdv az OpenStreetMapen! Ezt ilyenkor be kell kötni a zebrát a közútba is, emiatt szólnia kellett a szerkesztő programnak is. Kérlek ne ignoráld ezeket a figyelmeztetéseket. Javítottam itt: https://www.openstreetmap.org/changeset/162707780 Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! Date: 2025-02-19T16:08:07+01:00</title>
         <link>https://www.openstreetmap.org/changeset/162666670</link>
         <guid>https://www.openstreetmap.org/changeset/162666670#comment_1</guid>
@@ -22,11 +27,6 @@
         <link>https://www.openstreetmap.org/changeset/161489693</link>
         <guid>https://www.openstreetmap.org/changeset/161489693#comment_2</guid>
         <pubDate>2025-02-18T16:14:28+01:00</pubDate>
-      </item><item>
-        <title>Contributor: hlfan Discussion Comment No.: 1 Comment: Der deutsche Name Güns ist dort ausgeschildert, unter anderem hier: https://mapillary.com/app/?pKey=290428116050563&amp;focus=photo Warum wurde der entfernt? Date: 2025-02-18T09:14:22+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/145972791</link>
-        <guid>https://www.openstreetmap.org/changeset/145972791#comment_1</guid>
-        <pubDate>2025-02-18T09:14:22+01:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 3 Comment: Ja látom, akkor jó lesz így szerintem. Date: 2025-02-17T19:03:05+01:00</title>
         <link>https://www.openstreetmap.org/changeset/162602606</link>
