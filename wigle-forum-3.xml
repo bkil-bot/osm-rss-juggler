@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Re: Temporary laptop / car rig: A little late but On a laptop with a GPS usb, you can use kismet. There is now a wardrive mode, that is more light weight to run, but in whatever mode, this is not a problem on a laptop. I am assuming a Linux OS here, or anyhting that is not Windows ... On a rpi, you can try to run my little app https://github.com/solsticedhiver/ssid-logger. But that requires a minimum of knowledge to get it up and running -zebul666</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=12508#p12508</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=12508#p12508</guid>
+        <pubDate>2025-02-19T23:40:00+00:00</pubDate>
+      </item><item>
         <title>Re: Best Android for WigleWifi: the S7 is nice (i run 2 on lineageos) but against a S10 its lame. and the S10 you can get for cheap with a broken but working screen. But naming a &quot;best bang for buck&quot; is hard, it all depends on how cheap you are willing to go with the defects -d2k2</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12486#p12486</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12486#p12486</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=12410#p12410</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12410#p12410</guid>
         <pubDate>2024-11-01T00:17:57+00:00</pubDate>
-      </item><item>
-        <title>Re: Pixel 9 (Pro) its so bad, wow...: So, is anyone experiencing this using a carrier OTHER than Verizon?yes me, no Verizon where i live... I cannot get the trick to work where i start with keep screen alive and then lock it with the button. As soon as the screen goes dark the phone goes in this limp mode. It is running now Android 15, but nothing has changed for me, with screen on all is great, screen off and its not worth to start it -d2k2</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=12407#p12407</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=12407#p12407</guid>
-        <pubDate>2024-10-27T19:31:14+00:00</pubDate>
       </item>
   </channel>
 </rss>
