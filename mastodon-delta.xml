@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Multi device setup with #deltachat only works within the same WiFi even though @n0iroh is integrated, a production quality P2P networking library for all platforms, with hole punching etc. You may regard delta&amp;#39;s &amp;quot;same wifi&amp;quot; restriction for multi-device setup as an additional protection against phishing attacks like Signal lately suffered https://cloud.google.com/blog/topics/threat-intelligence/russia-targeting-signal-messenger Moreover, if your wifi does not work you can do a mobile hotspot and use that for transfer. No DNS/internet needed. Thanks Iroh :)</title>
+        <link>https://chaos.social/@delta/114047697172280907</link>
+        <guid>https://chaos.social/@delta/114047697172280907</guid>
+        <pubDate>Sat, 22 Feb 2025 13:09:14 +0000</pubDate>
+      </item><item>
         <title>#deltachat is a minority messenger today and that&amp;#39;s just fine for now. Changes often come from the precarious fringe which has to make ends meet, under hostile circumstances. Our approaches are aiming to provide working software that does its damn job. No unable to decrypt, no going for VC/Blockchain money, no bending the knee and no endorsing of corporate platforms. The #chatmail server network implements #interoperable #cryptography , does away with shady spam lists, catering for #Gmail etc</title>
         <link>https://chaos.social/@delta/114029887351609836</link>
         <guid>https://chaos.social/@delta/114029887351609836</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/113889237796266805</link>
         <guid>https://chaos.social/@delta/113889237796266805</guid>
         <pubDate>Sat, 25 Jan 2025 13:30:56 +0000</pubDate>
-      </item><item>
-        <title>Where we stand as a project: - delivering usable decentralized and secure super-apps across all platforms with many friendly forks and alternative, complementary community developments. - thinking/prototyping several &amp;quot;next big things&amp;quot; (tm) and working on delivering them for real. Delta Chat is a realist R&amp;amp;D endeavour involving many contributing world-class experts in their fields. Because real expertise is needed to cut through all the crap in specs and softwares. Idealism is not enough.</title>
-        <link>https://chaos.social/@delta/113882960786933180</link>
-        <guid>https://chaos.social/@delta/113882960786933180</guid>
-        <pubDate>Fri, 24 Jan 2025 10:54:36 +0000</pubDate>
       </item>
   </channel>
 </rss>
