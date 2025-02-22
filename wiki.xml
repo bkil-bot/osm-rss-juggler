@@ -2,6 +2,11 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      
+      <item>
+        <title>Hungary/Turistaút: téves rag -Torzsmokus</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Turista%C3%BAt&amp;diff=2815182&amp;oldid=2803104</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Turista%C3%BAt&amp;diff=2815182</guid>
+        <pubDate>Sat, 22 Feb 2025 21:23:38 GMT</pubDate>
+      </item>
   </channel>
 </rss>
