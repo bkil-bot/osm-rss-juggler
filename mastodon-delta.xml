@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>10 Million push notifications for #chatmail messages were delivered in the last 30 days, up from 3 Million half a year ago. F-droid installs do not use push notifications, and classic e-mail users also do not use push notifications. These usages are therefore not contained in the number which therefore marks a lower bound on number of messages delivered. For more info on push notifications and instant message delivery, and also on privacy and security concerns, see https://delta.chat/en/help#instant-delivery A diagram titled &quot;Direct notifications for the last day&quot; X axis covering last 24 hours Y-axis number of notifications. Android had 202205 and Apple 102392</title>
+        <link>https://chaos.social/@delta/114049598921932641</link>
+        <guid>https://chaos.social/@delta/114049598921932641</guid>
+        <pubDate>Sat, 22 Feb 2025 21:12:52 +0000</pubDate>
+      </item><item>
         <title>Multi device setup with #deltachat only works within the same WiFi even though @n0iroh is integrated, a production quality P2P networking library for all platforms, with hole punching etc. You may regard delta&amp;#39;s &amp;quot;same wifi&amp;quot; restriction for multi-device setup as an additional protection against phishing attacks like Signal lately suffered https://cloud.google.com/blog/topics/threat-intelligence/russia-targeting-signal-messenger Moreover, if your wifi does not work you can do a mobile hotspot and use that for transfer. No DNS/internet needed. Thanks Iroh :)</title>
         <link>https://chaos.social/@delta/114047697172280907</link>
         <guid>https://chaos.social/@delta/114047697172280907</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/113890654795736664</link>
         <guid>https://chaos.social/@delta/113890654795736664</guid>
         <pubDate>Sat, 25 Jan 2025 19:31:17 +0000</pubDate>
-      </item><item>
-        <title>Wednesday evening @ offline place Berlin  @ situational conversations  around a &amp;quot;web without platforms&amp;quot; @ involving the &amp;quot;Discourse on Voluntary Servitude&amp;quot; published 1577 from Étienne de La Boétie, as well as more recent writing, including ready-at-hand zip files as replacements for billionairish platforms ... the public is not invited but those who prefer to consider themselves unique, are &amp;lt;/&amp;gt;</title>
-        <link>https://chaos.social/@delta/113889237796266805</link>
-        <guid>https://chaos.social/@delta/113889237796266805</guid>
-        <pubDate>Sat, 25 Jan 2025 13:30:56 +0000</pubDate>
       </item>
   </channel>
 </rss>
