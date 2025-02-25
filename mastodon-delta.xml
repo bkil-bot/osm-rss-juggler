@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Woah! You can now run 32bit operating systems (alpine, ReactOS, ...) via the new v86emu #webxdc app available at https://webxdc.org/apps/#mightyshadow702-v86emu Ethernet networking wirks via &amp;quot;webxdc realtime API&amp;quot; implemented via @n0iroh gossip channels. Basically the Linux VMs are wired to an Ethernet that is constrained to chat members only and uses forward-secret encryption with #p2p connections. Result: Telnet and netcat are dimilarly secure as signal, and you can run all kinds of systems and nets :) A ping running in a 32 bit Linux in &quot;v86&quot; webxdc app available in app store Screenshot of v86emu webxdc app icon and description. A simple x86 emulator from MightyShadow702 X86 emulator that can load 32-bit ISOs and supports TCP/UDP networking using realtime API. Based on Copy's v86 emulator. Published: 2/25/2025 (v0.6.1) Size: 632.1 kb</title>
+        <link>https://chaos.social/@delta/114066490831895806</link>
+        <guid>https://chaos.social/@delta/114066490831895806</guid>
+        <pubDate>Tue, 25 Feb 2025 20:48:42 +0000</pubDate>
+      </item><item>
         <title>10 Million push notifications for #chatmail messages were delivered in the last 30 days, up from 3 Million half a year ago. F-droid installs do not use push notifications, and classic e-mail users also do not use push notifications. These usages are therefore not contained in the number which therefore marks a lower bound on number of messages delivered. For more info on push notifications and instant message delivery, and also on privacy and security concerns, see https://delta.chat/en/help#instant-delivery A diagram titled &quot;Direct notifications for the last day&quot; X axis covering last 24 hours Y-axis number of notifications. Android had 202205 and Apple 102392</title>
         <link>https://chaos.social/@delta/114049598921932641</link>
         <guid>https://chaos.social/@delta/114049598921932641</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/113894276025921752</link>
         <guid>https://chaos.social/@delta/113894276025921752</guid>
         <pubDate>Sun, 26 Jan 2025 10:52:13 +0000</pubDate>
-      </item><item>
-        <title>Did you know that you can add and use &amp;quot;ephemeral profiles&amp;quot; where all messages get deleted after a set time? The &amp;quot;auto-delete from device&amp;quot; will keep your profile clean. It&amp;#39;s a one sided ephemerality that you decide about, not your chat partners. Good for coordinating things without digital traces and where only &amp;quot;the current day&amp;quot; or &amp;quot;week&amp;quot; is important but not all the past history. Saved messages stay, though, until you explicitely delete them. #ephemeral #deltachat A screenshot of &quot;delete old messages&quot; section in &quot;chats and media&quot; settings section. Delete messages from device is set to &quot;1 week&quot; Delete messages from server is set to &quot;at once after download&quot;</title>
-        <link>https://chaos.social/@delta/113890654795736664</link>
-        <guid>https://chaos.social/@delta/113890654795736664</guid>
-        <pubDate>Sat, 25 Jan 2025 19:31:17 +0000</pubDate>
       </item>
   </channel>
 </rss>
