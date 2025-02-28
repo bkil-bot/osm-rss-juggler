@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Did you know that #deltachat literally shares cryptographic implementation code with #signal ? Both delta and signal use the ed25519-dalek crate ... Most messengers by now moved their cryptography to #rustlang . We did that in 2019. But in delta also all networking and message formats is implemented in Rust where other messengers (including signal) have a lot of platform specific code still.</title>
+        <link>https://chaos.social/@delta/114080793870071058</link>
+        <guid>https://chaos.social/@delta/114080793870071058</guid>
+        <pubDate>Fri, 28 Feb 2025 09:26:09 +0000</pubDate>
+      </item><item>
         <title>Woah! You can now run 32bit operating systems (alpine, ReactOS, ...) via the new v86emu #webxdc app available at https://webxdc.org/apps/#mightyshadow702-v86emu Ethernet networking uses &amp;quot;webxdc realtime API&amp;quot; implemented via @n0iroh gossip channels. Basically VMs are wired to an Ethernet that is constrained to chat members only and uses forward-secret encryption with #p2p connections. Result: Telnet and netcat are similarly secure as signal but with Peer-to-peer networking :) Screenshot of v86emu webxdc app icon and description. A simple x86 emulator from MightyShadow702 X86 emulator that can load 32-bit ISOs and supports TCP/UDP networking using realtime API. Based on Copy's v86 emulator. Published: 2/25/2025 (v0.6.1) Size: 632.1 kba large screen, running &quot;damn small linux&quot; graphical user interface with the &quot;tetris&quot; game running in foreground. On the same screen there is a chat interface where the webxdc &quot;v86&quot; was started from a chat message bubble. Screenshot of Delta Chat desktop with &quot;v86 emulator fun&quot; chat. The chat has a v86Emu WebXDC sent there. Next to Delta Chat desktop there is a window with open v86Emu WebXDC running ReactOS. Inside ReactOS there is a window for network settings open and a command line window with telnet open, successfully connecting to another IP address on the LAN.</title>
         <link>https://chaos.social/@delta/114066490831895806</link>
         <guid>https://chaos.social/@delta/114066490831895806</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/113899594028543526</link>
         <guid>https://chaos.social/@delta/113899594028543526</guid>
         <pubDate>Mon, 27 Jan 2025 09:24:39 +0000</pubDate>
-      </item><item>
-        <title>Preventing enshittification of platforms rests on credible exit for users and devs. #ActivityPub and #SMTP are not perfect but a) are implemented und understood by many players, b) enable freedom of choice of servers and clients, c) implement #RightToMigrate as well as self/community custody Many #p2p projects promise to remove servers but often promote and depend on a single implementation stack, have no spec and no interop among #p2p islands, and thus struggle to provide credible exit.</title>
-        <link>https://chaos.social/@delta/113894276025921752</link>
-        <guid>https://chaos.social/@delta/113894276025921752</guid>
-        <pubDate>Sun, 26 Jan 2025 10:52:13 +0000</pubDate>
       </item>
   </channel>
 </rss>
