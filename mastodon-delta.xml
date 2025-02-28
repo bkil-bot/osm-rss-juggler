@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Ah, it&amp;#39;s #WhatsAppDown time of the year again we hear? :) Two young guys in Lederhose in a park with title &quot;whatsapp is down&quot; and trailing line &quot;me: scuse me sire do you have a minute to talk about delta chat?&quot; Stolen from https://mamot.fr/@matiu_bidule/113636132558982468</title>
+        <link>https://chaos.social/@delta/114082662032535670</link>
+        <guid>https://chaos.social/@delta/114082662032535670</guid>
+        <pubDate>Fri, 28 Feb 2025 17:21:15 +0000</pubDate>
+      </item><item>
         <title>spring cleaning time ... the rolling 1.54.2 APK release to google play is 1.19MB smaller than the previous version. People experienced with longer term development and maintenance will recognize the value of &amp;quot;fewer lines of code and less stuff&amp;quot; to care for. #Spring is coming :) A dashboard screenshot for google.play release delivery, showing that the current APK at 52mb is 1.19mb less than the last release.</title>
         <link>https://chaos.social/@delta/114082218363456189</link>
         <guid>https://chaos.social/@delta/114082218363456189</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/113927909746550024</link>
         <guid>https://chaos.social/@delta/113927909746550024</guid>
         <pubDate>Sat, 01 Feb 2025 09:25:43 +0000</pubDate>
-      </item><item>
-        <title>As an excellent programmer once noted: constraints induce creativity and focused design. Delta Chat has been running against classic e-mail provider constraints for years and had to evolve its code to work against these constraints (rate limits, spam filters, signups, delays etc) and thus we were uniquely positioned to create a minimal #chatmail server template that beats Gmail, Outlook, iCloud etc regarding security, performance and efficiency. It&amp;#39;s a similar story with #deepseek if you will. Chatmail logo: an email @ sign with a chat dent in the lower left corner</title>
-        <link>https://chaos.social/@delta/113904956881628015</link>
-        <guid>https://chaos.social/@delta/113904956881628015</guid>
-        <pubDate>Tue, 28 Jan 2025 08:08:30 +0000</pubDate>
       </item>
   </channel>
 </rss>
