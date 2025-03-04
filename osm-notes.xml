@@ -3,79 +3,16 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
-        <title>new comment 4099673 (near 48.079, 16.331) / Created &lt;time title=&quot; 4 February 2024 at 13:54&quot; datetime=&quot;2024-02-04T13:54:18Z&quot;&gt;about 1 year ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Mariusz%20Dykierek&quot;&gt;Mariusz Dykierek&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Diese Kreuzung muss verbessert werden. Die von der Süd Autobahn kommenden linken Fahrspuren können weder geradeaus noch rechts abbiegen. Wahrscheinlich müssen die Fahrspuren in zwei separate Verbindungen aufgeteilt werden. / Updated &lt;time title=&quot;21 January 2025 at 21:08&quot; datetime=&quot;2025-01-21T21:08:28Z&quot;&gt;about 1 month ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/agschaid&quot;&gt;agschaid&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;ja. Sollten wir machen, damit man sich von Routenplanern gleich richtig leiten lassen kann / Updated &lt;time title=&quot;21 January 2025 at 21:30&quot; datetime=&quot;2025-01-21T21:30:07Z&quot;&gt;about 1 month ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/agschaid&quot;&gt;agschaid&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;habe es einmal versucht aber bin offen gesagt von den Bus-Relationen gerade ein wenig überfprdert / Updated &lt;time title=&quot;22 January 2025 at 08:00&quot; datetime=&quot;2025-01-22T08:00:55Z&quot;&gt;about 1 month ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Luzandro&quot;&gt;Luzandro&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;ist soweit ich auf den ersten Blick sehe schon korrekt mit Abbiegebeschränkungen und change:lanes abgebildet, siehe auch Routings der hier integrierten Router: 
-
-https://www.openstreetmap.org/directions?engine=graphhopper_car&amp;amp;route=48.080939%2C16.332711%3B48.078567%2C16.328773
-
-nur den U-Turn, den Valhalla macht, sollte man wohl noch unterbinden:
-
-https://www.openstreetmap.org/directions?engine=fossgis_valhalla_car&amp;amp;route=48.080939%2C16.332711%3B48.078567%2C16.328773#map=17/48.078376/16.328221&amp;amp;layers=N / Resolved &lt;time title=&quot; 4 March 2025 at 06:07&quot; datetime=&quot;2025-03-04T06:07:44Z&quot;&gt;about 5 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Luzandro&quot;&gt;Luzandro&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt; / Reactivated &lt;time title=&quot; 4 March 2025 at 09:53&quot; datetime=&quot;2025-03-04T09:53:15Z&quot;&gt;about 1 hour ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/agschaid&quot;&gt;agschaid&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt; / Updated &lt;time title=&quot; 4 March 2025 at 09:55&quot; datetime=&quot;2025-03-04T09:55:09Z&quot;&gt;about 1 hour ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/agschaid&quot;&gt;agschaid&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;entschuldige bitte, dass ich die wieder aufmache. Aber das Problem sind nicht die Abbiegemöglichkeiten in die B11.
-Das Problem sind die verschiedenen Zubringer von der Autobahn. Da muss man schon vorher den jeweils richtigen erwischen, um überhaupt auf die Spur zu kommen auf der man dann links oder rechts abbiegen kann. / Resolved &lt;time title=&quot; 4 March 2025 at 10:08&quot; datetime=&quot;2025-03-04T10:08:04Z&quot;&gt;about 1 hour ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Mariusz%20Dykierek&quot;&gt;Mariusz Dykierek&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Genau! / Reactivated &lt;time title=&quot; 4 March 2025 at 10:08&quot; datetime=&quot;2025-03-04T10:08:08Z&quot;&gt;about 1 hour ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Mariusz%20Dykierek&quot;&gt;Mariusz Dykierek&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt; / Updated &lt;time title=&quot; 4 March 2025 at 10:36&quot; datetime=&quot;2025-03-04T10:36:18Z&quot;&gt;about 1 hour ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Luzandro&quot;&gt;Luzandro&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Ich habe noch eine der Abbiegerelationen korrigiert (die linke Spur von Norden kommend war mit der rechten von Osten kommend bei einem Linksabbiegeverbot vertauscht). Ansonsten sehe ich kein Problem - die Abbiegebeschränkungen berücksichtigen schon die Zubringer und haben mehrere ways als via
-
-https://www.openstreetmap.org/relation/17582708</title>
-        <link>https://www.openstreetmap.org/note/4099673#c10236868</link>
-        <guid>https://www.openstreetmap.org/note/4099673#c10236868</guid>
-        <pubDate>Tue, 04 Mar 2025 10:36:18 +0000</pubDate>
+        <title>new note 4650950 (near Ófalu, Pilisszántó) / Created &lt;time title=&quot; 4 March 2025 at 11:53&quot; datetime=&quot;2025-03-04T11:53:04Z&quot;&gt;28 minutes ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/kildiko53&quot;&gt;kildiko53&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;Pilisszántó - Mali-ház</title>
+        <link>https://www.openstreetmap.org/note/4650950#c10237156</link>
+        <guid>https://www.openstreetmap.org/note/4650950#c10237156</guid>
+        <pubDate>Tue, 04 Mar 2025 11:53:04 +0000</pubDate>
       </item><item>
-        <title>new comment 3721133 (near 48.183, 16.418) / Created &lt;time title=&quot; 5 June 2023 at 06:51&quot; datetime=&quot;2023-06-05T06:51:04Z&quot;&gt;over 1 year ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Flo%20Ledermann&quot;&gt;Flo Ledermann&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;split parking here
-
-via StreetComplete 53.1 / Updated &lt;time title=&quot; 4 March 2025 at 10:20&quot; datetime=&quot;2025-03-04T10:20:14Z&quot;&gt;about 1 hour ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/PPete2&quot;&gt;PPete2&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;was ist hier noch zu machen?</title>
-        <link>https://www.openstreetmap.org/note/3721133#c10236825</link>
-        <guid>https://www.openstreetmap.org/note/3721133#c10236825</guid>
-        <pubDate>Tue, 04 Mar 2025 10:20:14 +0000</pubDate>
-      </item><item>
-        <title>closed note 4644840 (near 48.191, 16.330) / * 2025 February 28 07:43 Created: Apotheke hier geschlossen. Neuer Standort: Mariahilfer Straße 191 / Resolved &lt;time title=&quot; 4 March 2025 at 10:16&quot; datetime=&quot;2025-03-04T10:16:40Z&quot;&gt;about 1 hour ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Linie29&quot;&gt;Linie29&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;</title>
-        <link>https://www.openstreetmap.org/note/4644840#c10236811</link>
-        <guid>https://www.openstreetmap.org/note/4644840#c10236811</guid>
-        <pubDate>Tue, 04 Mar 2025 10:16:40 +0000</pubDate>
-      </item><item>
-        <title>closed note 4644841 (near 48.191, 16.330) / * 2025 February 28 07:44 Created: Dreifaltigkeits-Apotheke jetzt auf Mariahilfer Straße 191. / https://www.die-andere-apo.at/ / Resolved &lt;time title=&quot; 4 March 2025 at 10:16&quot; datetime=&quot;2025-03-04T10:16:16Z&quot;&gt;about 1 hour ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Linie29&quot;&gt;Linie29&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;</title>
-        <link>https://www.openstreetmap.org/note/4644841#c10236807</link>
-        <guid>https://www.openstreetmap.org/note/4644841#c10236807</guid>
-        <pubDate>Tue, 04 Mar 2025 10:16:16 +0000</pubDate>
-      </item><item>
-        <title>closed note 4644842 (near 48.191, 16.331) / * 2025 February 28 07:45 Created: LIBRO geschlossen. Hier befindet sich jetzt ein Textilgeschäft. / Resolved &lt;time title=&quot; 4 March 2025 at 10:16&quot; datetime=&quot;2025-03-04T10:16:14Z&quot;&gt;about 1 hour ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Linie29&quot;&gt;Linie29&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;</title>
-        <link>https://www.openstreetmap.org/note/4644842#c10236806</link>
-        <guid>https://www.openstreetmap.org/note/4644842#c10236806</guid>
-        <pubDate>Tue, 04 Mar 2025 10:16:14 +0000</pubDate>
-      </item><item>
-        <title>closed note 4644844 (near 48.190, 16.330) / * 2025 February 28 07:46 Created: Die Trafik gibt es nicht mehr. / Resolved &lt;time title=&quot; 4 March 2025 at 10:12&quot; datetime=&quot;2025-03-04T10:12:48Z&quot;&gt;about 1 hour ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Linie29&quot;&gt;Linie29&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;</title>
-        <link>https://www.openstreetmap.org/note/4644844#c10236774</link>
-        <guid>https://www.openstreetmap.org/note/4644844#c10236774</guid>
-        <pubDate>Tue, 04 Mar 2025 10:12:48 +0000</pubDate>
-      </item><item>
-        <title>closed note 4644850 (near 48.189, 16.331) / * 2025 February 28 07:49 Created: Pizzeria Mafiosi gibt es hier nicht mehr. Neuer Standort Reindorfgasse 7. / Resolved &lt;time title=&quot; 4 March 2025 at 10:11&quot; datetime=&quot;2025-03-04T10:11:11Z&quot;&gt;about 1 hour ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Linie29&quot;&gt;Linie29&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;</title>
-        <link>https://www.openstreetmap.org/note/4644850#c10236764</link>
-        <guid>https://www.openstreetmap.org/note/4644850#c10236764</guid>
-        <pubDate>Tue, 04 Mar 2025 10:11:11 +0000</pubDate>
-      </item><item>
-        <title>closed note 4644852 (near 48.188, 16.331) / * 2025 February 28 07:51 Created: Lokal gibt es nicht mehr. Hier ist jetzt die Pizzeria Mafiosi. / Resolved &lt;time title=&quot; 4 March 2025 at 10:11&quot; datetime=&quot;2025-03-04T10:11:08Z&quot;&gt;about 1 hour ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Linie29&quot;&gt;Linie29&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;</title>
-        <link>https://www.openstreetmap.org/note/4644852#c10236763</link>
-        <guid>https://www.openstreetmap.org/note/4644852#c10236763</guid>
-        <pubDate>Tue, 04 Mar 2025 10:11:08 +0000</pubDate>
-      </item><item>
-        <title>closed note 4646834 (near 47.196, 18.404) / * 2025 March 1 16:58 Created: toilet hot water yes  illatosíto van background music van. / #OsmAnd / Resolved &lt;time title=&quot; 2 March 2025 at 13:44&quot; datetime=&quot;2025-03-02T13:44:35Z&quot;&gt;2 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 4646834 (near Szedreskerti lakónegyed, Szedreskert, Székesfehérvár) / * 2025 March 1 16:58 Created: toilet hot water yes  illatosíto van background music van. / #OsmAnd / Resolved &lt;time title=&quot; 2 March 2025 at 13:44&quot; datetime=&quot;2025-03-02T13:44:35Z&quot;&gt;2 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Hozzáadtam:
-https://www.openstreetmap.org/changeset/163122447 / Reactivated &lt;time title=&quot; 4 March 2025 at 10:09&quot; datetime=&quot;2025-03-04T10:09:39Z&quot;&gt;about 1 hour ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/utvonalfelmeresek&quot;&gt;utvonalfelmeresek&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt; / Resolved &lt;time title=&quot; 4 March 2025 at 10:10&quot; datetime=&quot;2025-03-04T10:10:51Z&quot;&gt;about 1 hour ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/utvonalfelmeresek&quot;&gt;utvonalfelmeresek&lt;/a&gt;&lt;/div&gt;
+https://www.openstreetmap.org/changeset/163122447 / Reactivated &lt;time title=&quot; 4 March 2025 at 10:09&quot; datetime=&quot;2025-03-04T10:09:39Z&quot;&gt;about 2 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/utvonalfelmeresek&quot;&gt;utvonalfelmeresek&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt; / Resolved &lt;time title=&quot; 4 March 2025 at 10:10&quot; datetime=&quot;2025-03-04T10:10:51Z&quot;&gt;about 2 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/utvonalfelmeresek&quot;&gt;utvonalfelmeresek&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;A háttérzene lemaradt :)
 De akkor már hozzátettem még pár egyéb dolgot  is.
 https://www.openstreetmap.org/changeset/163194559</title>
@@ -83,124 +20,15 @@ https://www.openstreetmap.org/changeset/163194559</title>
         <guid>https://www.openstreetmap.org/note/4646834#c10236761</guid>
         <pubDate>Tue, 04 Mar 2025 10:10:51 +0000</pubDate>
       </item><item>
-        <title>reactivated note 4646834 (near 47.196, 18.404) / * 2025 March 1 16:58 Created: toilet hot water yes  illatosíto van background music van. / #OsmAnd / Resolved &lt;time title=&quot; 2 March 2025 at 13:44&quot; datetime=&quot;2025-03-02T13:44:35Z&quot;&gt;2 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
+        <title>reactivated note 4646834 (near Szedreskerti lakónegyed, Szedreskert, Székesfehérvár) / * 2025 March 1 16:58 Created: toilet hot water yes  illatosíto van background music van. / #OsmAnd / Resolved &lt;time title=&quot; 2 March 2025 at 13:44&quot; datetime=&quot;2025-03-02T13:44:35Z&quot;&gt;2 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Hozzáadtam:
-https://www.openstreetmap.org/changeset/163122447 / Reactivated &lt;time title=&quot; 4 March 2025 at 10:09&quot; datetime=&quot;2025-03-04T10:09:39Z&quot;&gt;about 1 hour ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/utvonalfelmeresek&quot;&gt;utvonalfelmeresek&lt;/a&gt;&lt;/div&gt;
+https://www.openstreetmap.org/changeset/163122447 / Reactivated &lt;time title=&quot; 4 March 2025 at 10:09&quot; datetime=&quot;2025-03-04T10:09:39Z&quot;&gt;about 2 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/utvonalfelmeresek&quot;&gt;utvonalfelmeresek&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;</title>
         <link>https://www.openstreetmap.org/note/4646834#c10236755</link>
         <guid>https://www.openstreetmap.org/note/4646834#c10236755</guid>
         <pubDate>Tue, 04 Mar 2025 10:09:39 +0000</pubDate>
       </item><item>
-        <title>new comment 3630236 (near 48.146, 16.366) / Created &lt;time title=&quot; 6 April 2023 at 18:06&quot; datetime=&quot;2023-04-06T18:06:01Z&quot;&gt;almost 2 years ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Luzandro&quot;&gt;Luzandro&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Radweg wegen Renaturierung des Liesingbachs gesperrt. 
-Geplantes Bauende für Abschnitt Großmarktstraße bis Gutheil-Schoder-Gasse 2025
-https://www.wien.gv.at/umwelt/gewaesser/liesingbach/renaturierung/ / Updated &lt;time title=&quot; 4 March 2025 at 10:09&quot; datetime=&quot;2025-03-04T10:09:16Z&quot;&gt;about 1 hour ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/PPete2&quot;&gt;PPete2&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;ist das noch aktuell hier? Laut Strava ist auf dem Radweg (wieder) reichlich Betrieb</title>
-        <link>https://www.openstreetmap.org/note/3630236#c10236752</link>
-        <guid>https://www.openstreetmap.org/note/3630236#c10236752</guid>
-        <pubDate>Tue, 04 Mar 2025 10:09:16 +0000</pubDate>
-      </item><item>
-        <title>reactivated note 4099673 (near 48.079, 16.331) / Created &lt;time title=&quot; 4 February 2024 at 13:54&quot; datetime=&quot;2024-02-04T13:54:18Z&quot;&gt;about 1 year ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Mariusz%20Dykierek&quot;&gt;Mariusz Dykierek&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Diese Kreuzung muss verbessert werden. Die von der Süd Autobahn kommenden linken Fahrspuren können weder geradeaus noch rechts abbiegen. Wahrscheinlich müssen die Fahrspuren in zwei separate Verbindungen aufgeteilt werden. / Updated &lt;time title=&quot;21 January 2025 at 21:08&quot; datetime=&quot;2025-01-21T21:08:28Z&quot;&gt;about 1 month ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/agschaid&quot;&gt;agschaid&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;ja. Sollten wir machen, damit man sich von Routenplanern gleich richtig leiten lassen kann / Updated &lt;time title=&quot;21 January 2025 at 21:30&quot; datetime=&quot;2025-01-21T21:30:07Z&quot;&gt;about 1 month ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/agschaid&quot;&gt;agschaid&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;habe es einmal versucht aber bin offen gesagt von den Bus-Relationen gerade ein wenig überfprdert / Updated &lt;time title=&quot;22 January 2025 at 08:00&quot; datetime=&quot;2025-01-22T08:00:55Z&quot;&gt;about 1 month ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Luzandro&quot;&gt;Luzandro&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;ist soweit ich auf den ersten Blick sehe schon korrekt mit Abbiegebeschränkungen und change:lanes abgebildet, siehe auch Routings der hier integrierten Router: 
-
-https://www.openstreetmap.org/directions?engine=graphhopper_car&amp;amp;route=48.080939%2C16.332711%3B48.078567%2C16.328773
-
-nur den U-Turn, den Valhalla macht, sollte man wohl noch unterbinden:
-
-https://www.openstreetmap.org/directions?engine=fossgis_valhalla_car&amp;amp;route=48.080939%2C16.332711%3B48.078567%2C16.328773#map=17/48.078376/16.328221&amp;amp;layers=N / Resolved &lt;time title=&quot; 4 March 2025 at 06:07&quot; datetime=&quot;2025-03-04T06:07:44Z&quot;&gt;about 5 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Luzandro&quot;&gt;Luzandro&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt; / Reactivated &lt;time title=&quot; 4 March 2025 at 09:53&quot; datetime=&quot;2025-03-04T09:53:15Z&quot;&gt;about 1 hour ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/agschaid&quot;&gt;agschaid&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt; / Updated &lt;time title=&quot; 4 March 2025 at 09:55&quot; datetime=&quot;2025-03-04T09:55:09Z&quot;&gt;about 1 hour ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/agschaid&quot;&gt;agschaid&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;entschuldige bitte, dass ich die wieder aufmache. Aber das Problem sind nicht die Abbiegemöglichkeiten in die B11.
-Das Problem sind die verschiedenen Zubringer von der Autobahn. Da muss man schon vorher den jeweils richtigen erwischen, um überhaupt auf die Spur zu kommen auf der man dann links oder rechts abbiegen kann. / Resolved &lt;time title=&quot; 4 March 2025 at 10:08&quot; datetime=&quot;2025-03-04T10:08:04Z&quot;&gt;about 1 hour ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Mariusz%20Dykierek&quot;&gt;Mariusz Dykierek&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Genau! / Reactivated &lt;time title=&quot; 4 March 2025 at 10:08&quot; datetime=&quot;2025-03-04T10:08:08Z&quot;&gt;about 1 hour ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Mariusz%20Dykierek&quot;&gt;Mariusz Dykierek&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;</title>
-        <link>https://www.openstreetmap.org/note/4099673#c10236741</link>
-        <guid>https://www.openstreetmap.org/note/4099673#c10236741</guid>
-        <pubDate>Tue, 04 Mar 2025 10:08:08 +0000</pubDate>
-      </item><item>
-        <title>closed note 4099673 (near 48.079, 16.331) / Created &lt;time title=&quot; 4 February 2024 at 13:54&quot; datetime=&quot;2024-02-04T13:54:18Z&quot;&gt;about 1 year ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Mariusz%20Dykierek&quot;&gt;Mariusz Dykierek&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Diese Kreuzung muss verbessert werden. Die von der Süd Autobahn kommenden linken Fahrspuren können weder geradeaus noch rechts abbiegen. Wahrscheinlich müssen die Fahrspuren in zwei separate Verbindungen aufgeteilt werden. / Updated &lt;time title=&quot;21 January 2025 at 21:08&quot; datetime=&quot;2025-01-21T21:08:28Z&quot;&gt;about 1 month ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/agschaid&quot;&gt;agschaid&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;ja. Sollten wir machen, damit man sich von Routenplanern gleich richtig leiten lassen kann / Updated &lt;time title=&quot;21 January 2025 at 21:30&quot; datetime=&quot;2025-01-21T21:30:07Z&quot;&gt;about 1 month ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/agschaid&quot;&gt;agschaid&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;habe es einmal versucht aber bin offen gesagt von den Bus-Relationen gerade ein wenig überfprdert / Updated &lt;time title=&quot;22 January 2025 at 08:00&quot; datetime=&quot;2025-01-22T08:00:55Z&quot;&gt;about 1 month ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Luzandro&quot;&gt;Luzandro&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;ist soweit ich auf den ersten Blick sehe schon korrekt mit Abbiegebeschränkungen und change:lanes abgebildet, siehe auch Routings der hier integrierten Router: 
-
-https://www.openstreetmap.org/directions?engine=graphhopper_car&amp;amp;route=48.080939%2C16.332711%3B48.078567%2C16.328773
-
-nur den U-Turn, den Valhalla macht, sollte man wohl noch unterbinden:
-
-https://www.openstreetmap.org/directions?engine=fossgis_valhalla_car&amp;amp;route=48.080939%2C16.332711%3B48.078567%2C16.328773#map=17/48.078376/16.328221&amp;amp;layers=N / Resolved &lt;time title=&quot; 4 March 2025 at 06:07&quot; datetime=&quot;2025-03-04T06:07:44Z&quot;&gt;about 5 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Luzandro&quot;&gt;Luzandro&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt; / Reactivated &lt;time title=&quot; 4 March 2025 at 09:53&quot; datetime=&quot;2025-03-04T09:53:15Z&quot;&gt;about 1 hour ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/agschaid&quot;&gt;agschaid&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt; / Updated &lt;time title=&quot; 4 March 2025 at 09:55&quot; datetime=&quot;2025-03-04T09:55:09Z&quot;&gt;about 1 hour ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/agschaid&quot;&gt;agschaid&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;entschuldige bitte, dass ich die wieder aufmache. Aber das Problem sind nicht die Abbiegemöglichkeiten in die B11.
-Das Problem sind die verschiedenen Zubringer von der Autobahn. Da muss man schon vorher den jeweils richtigen erwischen, um überhaupt auf die Spur zu kommen auf der man dann links oder rechts abbiegen kann. / Resolved &lt;time title=&quot; 4 March 2025 at 10:08&quot; datetime=&quot;2025-03-04T10:08:04Z&quot;&gt;about 1 hour ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Mariusz%20Dykierek&quot;&gt;Mariusz Dykierek&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Genau!</title>
-        <link>https://www.openstreetmap.org/note/4099673#c10236740</link>
-        <guid>https://www.openstreetmap.org/note/4099673#c10236740</guid>
-        <pubDate>Tue, 04 Mar 2025 10:08:04 +0000</pubDate>
-      </item><item>
-        <title>new comment 4099673 (near 48.079, 16.331) / Created &lt;time title=&quot; 4 February 2024 at 13:54&quot; datetime=&quot;2024-02-04T13:54:18Z&quot;&gt;about 1 year ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Mariusz%20Dykierek&quot;&gt;Mariusz Dykierek&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Diese Kreuzung muss verbessert werden. Die von der Süd Autobahn kommenden linken Fahrspuren können weder geradeaus noch rechts abbiegen. Wahrscheinlich müssen die Fahrspuren in zwei separate Verbindungen aufgeteilt werden. / Updated &lt;time title=&quot;21 January 2025 at 21:08&quot; datetime=&quot;2025-01-21T21:08:28Z&quot;&gt;about 1 month ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/agschaid&quot;&gt;agschaid&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;ja. Sollten wir machen, damit man sich von Routenplanern gleich richtig leiten lassen kann / Updated &lt;time title=&quot;21 January 2025 at 21:30&quot; datetime=&quot;2025-01-21T21:30:07Z&quot;&gt;about 1 month ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/agschaid&quot;&gt;agschaid&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;habe es einmal versucht aber bin offen gesagt von den Bus-Relationen gerade ein wenig überfprdert / Updated &lt;time title=&quot;22 January 2025 at 08:00&quot; datetime=&quot;2025-01-22T08:00:55Z&quot;&gt;about 1 month ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Luzandro&quot;&gt;Luzandro&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;ist soweit ich auf den ersten Blick sehe schon korrekt mit Abbiegebeschränkungen und change:lanes abgebildet, siehe auch Routings der hier integrierten Router: 
-
-https://www.openstreetmap.org/directions?engine=graphhopper_car&amp;amp;route=48.080939%2C16.332711%3B48.078567%2C16.328773
-
-nur den U-Turn, den Valhalla macht, sollte man wohl noch unterbinden:
-
-https://www.openstreetmap.org/directions?engine=fossgis_valhalla_car&amp;amp;route=48.080939%2C16.332711%3B48.078567%2C16.328773#map=17/48.078376/16.328221&amp;amp;layers=N / Resolved &lt;time title=&quot; 4 March 2025 at 06:07&quot; datetime=&quot;2025-03-04T06:07:44Z&quot;&gt;about 5 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Luzandro&quot;&gt;Luzandro&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt; / Reactivated &lt;time title=&quot; 4 March 2025 at 09:53&quot; datetime=&quot;2025-03-04T09:53:15Z&quot;&gt;about 1 hour ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/agschaid&quot;&gt;agschaid&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt; / Updated &lt;time title=&quot; 4 March 2025 at 09:55&quot; datetime=&quot;2025-03-04T09:55:09Z&quot;&gt;about 1 hour ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/agschaid&quot;&gt;agschaid&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;entschuldige bitte, dass ich die wieder aufmache. Aber das Problem sind nicht die Abbiegemöglichkeiten in die B11.
-Das Problem sind die verschiedenen Zubringer von der Autobahn. Da muss man schon vorher den jeweils richtigen erwischen, um überhaupt auf die Spur zu kommen auf der man dann links oder rechts abbiegen kann.</title>
-        <link>https://www.openstreetmap.org/note/4099673#c10236714</link>
-        <guid>https://www.openstreetmap.org/note/4099673#c10236714</guid>
-        <pubDate>Tue, 04 Mar 2025 09:55:09 +0000</pubDate>
-      </item><item>
-        <title>reactivated note 4099673 (near 48.079, 16.331) / Created &lt;time title=&quot; 4 February 2024 at 13:54&quot; datetime=&quot;2024-02-04T13:54:18Z&quot;&gt;about 1 year ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Mariusz%20Dykierek&quot;&gt;Mariusz Dykierek&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Diese Kreuzung muss verbessert werden. Die von der Süd Autobahn kommenden linken Fahrspuren können weder geradeaus noch rechts abbiegen. Wahrscheinlich müssen die Fahrspuren in zwei separate Verbindungen aufgeteilt werden. / Updated &lt;time title=&quot;21 January 2025 at 21:08&quot; datetime=&quot;2025-01-21T21:08:28Z&quot;&gt;about 1 month ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/agschaid&quot;&gt;agschaid&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;ja. Sollten wir machen, damit man sich von Routenplanern gleich richtig leiten lassen kann / Updated &lt;time title=&quot;21 January 2025 at 21:30&quot; datetime=&quot;2025-01-21T21:30:07Z&quot;&gt;about 1 month ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/agschaid&quot;&gt;agschaid&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;habe es einmal versucht aber bin offen gesagt von den Bus-Relationen gerade ein wenig überfprdert / Updated &lt;time title=&quot;22 January 2025 at 08:00&quot; datetime=&quot;2025-01-22T08:00:55Z&quot;&gt;about 1 month ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Luzandro&quot;&gt;Luzandro&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;ist soweit ich auf den ersten Blick sehe schon korrekt mit Abbiegebeschränkungen und change:lanes abgebildet, siehe auch Routings der hier integrierten Router: 
-
-https://www.openstreetmap.org/directions?engine=graphhopper_car&amp;amp;route=48.080939%2C16.332711%3B48.078567%2C16.328773
-
-nur den U-Turn, den Valhalla macht, sollte man wohl noch unterbinden:
-
-https://www.openstreetmap.org/directions?engine=fossgis_valhalla_car&amp;amp;route=48.080939%2C16.332711%3B48.078567%2C16.328773#map=17/48.078376/16.328221&amp;amp;layers=N / Resolved &lt;time title=&quot; 4 March 2025 at 06:07&quot; datetime=&quot;2025-03-04T06:07:44Z&quot;&gt;about 5 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Luzandro&quot;&gt;Luzandro&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt; / Reactivated &lt;time title=&quot; 4 March 2025 at 09:53&quot; datetime=&quot;2025-03-04T09:53:15Z&quot;&gt;about 1 hour ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/agschaid&quot;&gt;agschaid&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;</title>
-        <link>https://www.openstreetmap.org/note/4099673#c10236709</link>
-        <guid>https://www.openstreetmap.org/note/4099673#c10236709</guid>
-        <pubDate>Tue, 04 Mar 2025 09:53:15 +0000</pubDate>
-      </item><item>
-        <title>closed note 4405891 (near 48.223, 16.497) / Created &lt;time title=&quot;27 August 2024 at 17:39&quot; datetime=&quot;2024-08-27T17:39:22Z&quot;&gt;6 months ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/l0cKy&quot;&gt;l0cKy&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;hier ist ein weg
-
-#OsmAnd / Resolved &lt;time title=&quot; 4 March 2025 at 09:45&quot; datetime=&quot;2025-03-04T09:45:54Z&quot;&gt;about 2 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/PPete2&quot;&gt;PPete2&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;</title>
-        <link>https://www.openstreetmap.org/note/4405891#c10236668</link>
-        <guid>https://www.openstreetmap.org/note/4405891#c10236668</guid>
-        <pubDate>Tue, 04 Mar 2025 09:45:54 +0000</pubDate>
-      </item><item>
-        <title>closed note 3661139 (near 48.224, 16.499) / Created &lt;time title=&quot;26 April 2023 at 15:34&quot; datetime=&quot;2023-04-26T15:34:51Z&quot;&gt;almost 2 years ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/l0cKy&quot;&gt;l0cKy&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Unable to answer &amp;quot;Is this still here?&amp;quot; for https://osm.org/node/6916839331 via StreetComplete 52.0:
-
-Ladennutzung hat sich geändert / Updated &lt;time title=&quot;25 May 2024 at 16:49&quot; datetime=&quot;2024-05-25T16:49:02Z&quot;&gt;9 months ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/sc_art&quot;&gt;sc_art&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Kann nur das Foto dazu beitragen
-
-Attached photo(s):
-https://westnordost.de/p/214900.jpg / Updated &lt;time title=&quot;26 May 2024 at 02:08&quot; datetime=&quot;2024-05-26T02:08:39Z&quot;&gt;9 months ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/derloris&quot;&gt;derloris&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;War offenbar auf 1a und ist nicht mehr vorhanden, hab&amp;#39;s entfernt. Danke fürs Bild, die Werbeargenturen kann noch wer einzeichnen, falls wer mag, Mag. Nagler und Lisa-Gebäudename waren bereits eingezeichnet / Resolved &lt;time title=&quot; 4 March 2025 at 09:45&quot; datetime=&quot;2025-03-04T09:45:33Z&quot;&gt;about 2 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/PPete2&quot;&gt;PPete2&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;habe die fehlenden Firmen eingetragen</title>
-        <link>https://www.openstreetmap.org/note/3661139#c10236666</link>
-        <guid>https://www.openstreetmap.org/note/3661139#c10236666</guid>
-        <pubDate>Tue, 04 Mar 2025 09:45:33 +0000</pubDate>
-      </item><item>
-        <title>new note 4650724 (near 47.440, 18.934) / Created &lt;time title=&quot; 4 March 2025 at 09:37&quot; datetime=&quot;2025-03-04T09:37:20Z&quot;&gt;about 2 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Arup1981&quot;&gt;Arup1981&lt;/a&gt;&lt;/div&gt;
+        <title>new note 4650724 (near Lovastanya, Törökbálint) / Created &lt;time title=&quot; 4 March 2025 at 09:37&quot; datetime=&quot;2025-03-04T09:37:20Z&quot;&gt;about 3 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Arup1981&quot;&gt;Arup1981&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;&amp;quot;It&amp;#39;s not there anymore the owner of the liquor store says&amp;quot;
 The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground.
 OSM snapshot date: 2025-02-13T05:46:10Z
@@ -211,137 +39,51 @@ POI types: shop-bakery
         <guid>https://www.openstreetmap.org/note/4650724#c10236644</guid>
         <pubDate>Tue, 04 Mar 2025 09:37:20 +0000</pubDate>
       </item><item>
-        <title>new comment 4650133 (near 46.348, 18.709) / Created &lt;time title=&quot; 3 March 2025 at 17:56&quot; datetime=&quot;2025-03-03T17:56:24Z&quot;&gt;about 17 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Itt van még a Zsitvai cukrászda, vagy végleg bezárt? / Updated &lt;time title=&quot; 4 March 2025 at 09:33&quot; datetime=&quot;2025-03-04T09:33:44Z&quot;&gt;about 2 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Spush&quot;&gt;Spush&lt;/a&gt;&lt;/div&gt;
+        <title>new comment 4650133 (near Alsóváros, Szekszárd) / Created &lt;time title=&quot; 3 March 2025 at 17:56&quot; datetime=&quot;2025-03-03T17:56:24Z&quot;&gt;about 18 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;Itt van még a Zsitvai cukrászda, vagy végleg bezárt? / Updated &lt;time title=&quot; 4 March 2025 at 09:33&quot; datetime=&quot;2025-03-04T09:33:44Z&quot;&gt;about 3 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Spush&quot;&gt;Spush&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;COVID óta zárva van, úgy tűnik nincs szándék az újranyitására, habár a felirat még kint van.</title>
         <link>https://www.openstreetmap.org/note/4650133#c10236633</link>
         <guid>https://www.openstreetmap.org/note/4650133#c10236633</guid>
         <pubDate>Tue, 04 Mar 2025 09:33:44 +0000</pubDate>
       </item><item>
-        <title>closed note 4587844 (near 47.583, 19.047) / Created &lt;time title=&quot;13 January 2025 at 16:53&quot; datetime=&quot;2025-01-13T16:53:35Z&quot;&gt;about 2 months ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/gymate&quot;&gt;gymate&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;This side of the street is from house number 31 to 43 / Resolved &lt;time title=&quot; 4 March 2025 at 09:30&quot; datetime=&quot;2025-03-04T09:30:16Z&quot;&gt;about 2 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/urbalazs&quot;&gt;urbalazs&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 4587844 (near Csillaghegy, 3rd district) / Created &lt;time title=&quot;13 January 2025 at 16:53&quot; datetime=&quot;2025-01-13T16:53:35Z&quot;&gt;about 2 months ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/gymate&quot;&gt;gymate&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;This side of the street is from house number 31 to 43 / Resolved &lt;time title=&quot; 4 March 2025 at 09:30&quot; datetime=&quot;2025-03-04T09:30:16Z&quot;&gt;about 3 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/urbalazs&quot;&gt;urbalazs&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Interpolation added.</title>
         <link>https://www.openstreetmap.org/note/4587844#c10236623</link>
         <guid>https://www.openstreetmap.org/note/4587844#c10236623</guid>
         <pubDate>Tue, 04 Mar 2025 09:30:16 +0000</pubDate>
       </item><item>
-        <title>closed note 4598096 (near 47.583, 19.047) / Created &lt;time title=&quot;22 January 2025 at 16:55&quot; datetime=&quot;2025-01-22T16:55:00Z&quot;&gt;about 1 month ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/gymate&quot;&gt;gymate&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;This side of the street is from house number 34 to 40. / Resolved &lt;time title=&quot; 4 March 2025 at 09:30&quot; datetime=&quot;2025-03-04T09:30:07Z&quot;&gt;about 2 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/urbalazs&quot;&gt;urbalazs&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 4598096 (near Csillaghegy, 3rd district) / Created &lt;time title=&quot;22 January 2025 at 16:55&quot; datetime=&quot;2025-01-22T16:55:00Z&quot;&gt;about 1 month ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/gymate&quot;&gt;gymate&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;This side of the street is from house number 34 to 40. / Resolved &lt;time title=&quot; 4 March 2025 at 09:30&quot; datetime=&quot;2025-03-04T09:30:07Z&quot;&gt;about 3 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/urbalazs&quot;&gt;urbalazs&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Interpolation added.</title>
         <link>https://www.openstreetmap.org/note/4598096#c10236621</link>
         <guid>https://www.openstreetmap.org/note/4598096#c10236621</guid>
         <pubDate>Tue, 04 Mar 2025 09:30:07 +0000</pubDate>
       </item><item>
-        <title>closed note 3658718 (near 48.195, 16.399) / Created &lt;time title=&quot;24 April 2023 at 19:37&quot; datetime=&quot;2023-04-24T19:37:25Z&quot;&gt;almost 2 years ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/estrellitrella&quot;&gt;estrellitrella&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Zaun und Tore sollten geprüft werden nach Anpassung der Gebäude auf Basis der Flächenmehrzweckkarte der Stadt Wien / Resolved &lt;time title=&quot; 4 March 2025 at 09:18&quot; datetime=&quot;2025-03-04T09:18:58Z&quot;&gt;about 2 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/PPete2&quot;&gt;PPete2&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;weder der kurze Zaun, noch das Tor ist üblich dass es eingetragen wird</title>
-        <link>https://www.openstreetmap.org/note/3658718#c10236574</link>
-        <guid>https://www.openstreetmap.org/note/3658718#c10236574</guid>
-        <pubDate>Tue, 04 Mar 2025 09:18:58 +0000</pubDate>
-      </item><item>
-        <title>new comment 3654445 (near 48.208, 16.394) / Created &lt;time title=&quot;22 April 2023 at 14:18&quot; datetime=&quot;2023-04-22T14:18:00Z&quot;&gt;almost 2 years ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/YieldMapper&quot;&gt;YieldMapper&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Actually hier ein zweiter banknotenautonat (nicht nur müjzpräge)
-
-via StreetComplete 52.0
-
-Attached photo(s):
-https://westnordost.de/p/144012.jpg / Updated &lt;time title=&quot; 4 March 2025 at 09:15&quot; datetime=&quot;2025-03-04T09:15:09Z&quot;&gt;about 2 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/PPete2&quot;&gt;PPete2&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;soweit ich sehe gibts dafür keinen exgtra-Tag. Und im weitesten Sinne ist das ja auch ein Automat, aus dem &amp;quot;Geld als Souvenir&amp;quot; rauskommt. Und da bereits ein Münzpräger erfasst ist, würde ich den zweiten hier nicht unbedingt extra taggen. Die Leute vorort sehen eh welche Automaten es für Münzen und Geldscheine gibt</title>
-        <link>https://www.openstreetmap.org/note/3654445#c10236553</link>
-        <guid>https://www.openstreetmap.org/note/3654445#c10236553</guid>
-        <pubDate>Tue, 04 Mar 2025 09:15:09 +0000</pubDate>
-      </item><item>
-        <title>new comment 3654436 (near 48.208, 16.394) / Created &lt;time title=&quot;22 April 2023 at 14:09&quot; datetime=&quot;2023-04-22T14:09:07Z&quot;&gt;almost 2 years ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/YieldMapper&quot;&gt;YieldMapper&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Hier fehlen viele Läden, meist souvenir
-
-via StreetComplete 52.0 / Updated &lt;time title=&quot; 4 March 2025 at 09:10&quot; datetime=&quot;2025-03-04T09:10:59Z&quot;&gt;about 2 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/PPete2&quot;&gt;PPete2&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;ein Souvenir-Laden ist inzwischen eingezeichnet. Fehlt noch etwas?</title>
-        <link>https://www.openstreetmap.org/note/3654436#c10236549</link>
-        <guid>https://www.openstreetmap.org/note/3654436#c10236549</guid>
-        <pubDate>Tue, 04 Mar 2025 09:10:59 +0000</pubDate>
-      </item><item>
-        <title>closed note 3654350 (near 48.213, 16.386) / Created &lt;time title=&quot;22 April 2023 at 13:20&quot; datetime=&quot;2023-04-22T13:20:08Z&quot;&gt;almost 2 years ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/YieldMapper&quot;&gt;YieldMapper&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Viele fehlende Parkbänke, hab versucht welche zu ergänzen aber naja, Position verifizieren usw. bitte
-
-via StreetComplete 52.0
-
-Attached photo(s):
-https://westnordost.de/p/143978.jpg / Resolved &lt;time title=&quot; 4 March 2025 at 09:08&quot; datetime=&quot;2025-03-04T09:08:24Z&quot;&gt;about 2 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/PPete2&quot;&gt;PPete2&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;sieht man gut im Luftbild, die vorhandenen habe ich lagekorrigiert und noch ein paar neu eingetragen</title>
-        <link>https://www.openstreetmap.org/note/3654350#c10236542</link>
-        <guid>https://www.openstreetmap.org/note/3654350#c10236542</guid>
-        <pubDate>Tue, 04 Mar 2025 09:08:24 +0000</pubDate>
-      </item><item>
-        <title>closed note 3654326 (near 48.212, 16.386) / Created &lt;time title=&quot;22 April 2023 at 13:03&quot; datetime=&quot;2023-04-22T13:03:32Z&quot;&gt;almost 2 years ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/YieldMapper&quot;&gt;YieldMapper&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Toilette hat Dusche (zumindest die eine männlich gekennzeichnete)
-
-via StreetComplete 52.0 / Resolved &lt;time title=&quot; 4 March 2025 at 09:06&quot; datetime=&quot;2025-03-04T09:06:30Z&quot;&gt;about 2 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/PPete2&quot;&gt;PPete2&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;</title>
-        <link>https://www.openstreetmap.org/note/3654326#c10236539</link>
-        <guid>https://www.openstreetmap.org/note/3654326#c10236539</guid>
-        <pubDate>Tue, 04 Mar 2025 09:06:30 +0000</pubDate>
-      </item><item>
-        <title>closed note 4099673 (near 48.079, 16.331) / Created &lt;time title=&quot; 4 February 2024 at 13:54&quot; datetime=&quot;2024-02-04T13:54:18Z&quot;&gt;about 1 year ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Mariusz%20Dykierek&quot;&gt;Mariusz Dykierek&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Diese Kreuzung muss verbessert werden. Die von der Süd Autobahn kommenden linken Fahrspuren können weder geradeaus noch rechts abbiegen. Wahrscheinlich müssen die Fahrspuren in zwei separate Verbindungen aufgeteilt werden. / Updated &lt;time title=&quot;21 January 2025 at 21:08&quot; datetime=&quot;2025-01-21T21:08:28Z&quot;&gt;about 1 month ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/agschaid&quot;&gt;agschaid&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;ja. Sollten wir machen, damit man sich von Routenplanern gleich richtig leiten lassen kann / Updated &lt;time title=&quot;21 January 2025 at 21:30&quot; datetime=&quot;2025-01-21T21:30:07Z&quot;&gt;about 1 month ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/agschaid&quot;&gt;agschaid&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;habe es einmal versucht aber bin offen gesagt von den Bus-Relationen gerade ein wenig überfprdert / Updated &lt;time title=&quot;22 January 2025 at 08:00&quot; datetime=&quot;2025-01-22T08:00:55Z&quot;&gt;about 1 month ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Luzandro&quot;&gt;Luzandro&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;ist soweit ich auf den ersten Blick sehe schon korrekt mit Abbiegebeschränkungen und change:lanes abgebildet, siehe auch Routings der hier integrierten Router: 
-
-https://www.openstreetmap.org/directions?engine=graphhopper_car&amp;amp;route=48.080939%2C16.332711%3B48.078567%2C16.328773
-
-nur den U-Turn, den Valhalla macht, sollte man wohl noch unterbinden:
-
-https://www.openstreetmap.org/directions?engine=fossgis_valhalla_car&amp;amp;route=48.080939%2C16.332711%3B48.078567%2C16.328773#map=17/48.078376/16.328221&amp;amp;layers=N / Resolved &lt;time title=&quot; 4 March 2025 at 06:07&quot; datetime=&quot;2025-03-04T06:07:44Z&quot;&gt;about 5 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Luzandro&quot;&gt;Luzandro&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;</title>
-        <link>https://www.openstreetmap.org/note/4099673#c10236187</link>
-        <guid>https://www.openstreetmap.org/note/4099673#c10236187</guid>
-        <pubDate>Tue, 04 Mar 2025 06:07:44 +0000</pubDate>
-      </item><item>
-        <title>new comment 4646838 (near 48.224, 16.240) / Created &lt;time title=&quot; 1 March 2025 at 17:04&quot; datetime=&quot;2025-03-01T17:04:04Z&quot;&gt;3 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kaiserschmarren&quot;&gt;Kaiserschmarren&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Kein einziger dieser Wege ist dort, wo er hier eingezeichnet ist.
-
-Diese Karte:
-Vienna: Mehrzweckkarte (general purpose)
-Im iD-Editor weiß ungefähr, wo die Wege verlaufen. Bitte aber mit GPS-Traces überprüfen, sind auf keinem Luftbild erkennbar. / Updated &lt;time title=&quot; 1 March 2025 at 17:07&quot; datetime=&quot;2025-03-01T17:07:25Z&quot;&gt;3 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kaiserschmarren&quot;&gt;Kaiserschmarren&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Wie auch immer die GPS-Traces dazu entstanden sind, weiß ich nicht. Jedenfalls muss es nochmals überprüft werden, ob eher der Verlauf von der Stadt Wien, oder unserer Stimmt. / Updated &lt;time title=&quot; 4 March 2025 at 06:01&quot; datetime=&quot;2025-03-04T06:01:58Z&quot;&gt;about 5 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Luzandro&quot;&gt;Luzandro&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;gt3400 hat gestern noch eine fehlende Verbindung ergänzt, ansonsten passt der Verlauf im Gegensatz zur Wienkarte sehr gut zur Strava Heatmap
-
-https://www.openstreetmap.org/way/1360137425
-
-https://i.imgur.com/6iBkOUa.png</title>
-        <link>https://www.openstreetmap.org/note/4646838#c10236179</link>
-        <guid>https://www.openstreetmap.org/note/4646838#c10236179</guid>
-        <pubDate>Tue, 04 Mar 2025 06:01:58 +0000</pubDate>
-      </item><item>
-        <title>new note 4650262 (near 48.198, 16.363) / * 2025 March 3 20:15 Created: Buslinie B01 fährt nicht durch die Wienzeile, sondern stadteinwärts durch die Wiedner Hauptstraße (-Schaurhofergasse - Faulmanngasse) und stadtauswärts durch Operngasse und Margaretenstraße.</title>
-        <link>https://www.openstreetmap.org/note/4650262#c10235250</link>
-        <guid>https://www.openstreetmap.org/note/4650262#c10235250</guid>
-        <pubDate>Mon, 03 Mar 2025 20:15:07 +0000</pubDate>
-      </item><item>
-        <title>closed note 4571757 (near 47.531, 19.052) / Created &lt;time title=&quot; 1 January 2025 at 15:22&quot; datetime=&quot;2025-01-01T15:22:28Z&quot;&gt;2 months ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/mario-spitze&quot;&gt;mario-spitze&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 4571757 (near Margaret Island, Budapest, Central Hungary, 1007, Hungary) / Created &lt;time title=&quot; 1 January 2025 at 15:22&quot; datetime=&quot;2025-01-01T15:22:28Z&quot;&gt;2 months ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/mario-spitze&quot;&gt;mario-spitze&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Unable to answer &amp;quot;What kind of memorial is this?&amp;quot; – Jámbor Vilmos (Memorial) – https://osm.org/node/8090566155 via StreetComplete 60.0:
 
 Gedenkstein
 
 Attached photo(s):
-https://streetcomplete.app/p/255911.jpg / Resolved &lt;time title=&quot; 3 March 2025 at 19:28&quot; datetime=&quot;2025-03-03T19:28:02Z&quot;&gt;about 16 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
+https://streetcomplete.app/p/255911.jpg / Resolved &lt;time title=&quot; 3 March 2025 at 19:28&quot; datetime=&quot;2025-03-03T19:28:02Z&quot;&gt;about 17 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Modified, thank you!
 https://www.openstreetmap.org/changeset/163174955</title>
         <link>https://www.openstreetmap.org/note/4571757#c10235101</link>
         <guid>https://www.openstreetmap.org/note/4571757#c10235101</guid>
         <pubDate>Mon, 03 Mar 2025 19:28:02 +0000</pubDate>
       </item><item>
-        <title>closed note 4505556 (near 47.521, 19.047) / Created &lt;time title=&quot; 3 November 2024 at 13:11&quot; datetime=&quot;2024-11-03T13:11:05Z&quot;&gt;4 months ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/jetterrr&quot;&gt;jetterrr&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 4505556 (near Margaret Island, Budapest, Central Hungary, 1007, Hungary) / Created &lt;time title=&quot; 3 November 2024 at 13:11&quot; datetime=&quot;2024-11-03T13:11:05Z&quot;&gt;4 months ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/jetterrr&quot;&gt;jetterrr&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Wok Island does not exist anymore
 
-#OsmAnd / Resolved &lt;time title=&quot; 3 March 2025 at 19:27&quot; datetime=&quot;2025-03-03T19:27:43Z&quot;&gt;about 16 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
+#OsmAnd / Resolved &lt;time title=&quot; 3 March 2025 at 19:27&quot; datetime=&quot;2025-03-03T19:27:43Z&quot;&gt;about 17 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Deleted, thank you!
 https://www.openstreetmap.org/changeset/163174955</title>
         <link>https://www.openstreetmap.org/note/4505556#c10235099</link>
         <guid>https://www.openstreetmap.org/note/4505556#c10235099</guid>
         <pubDate>Mon, 03 Mar 2025 19:27:43 +0000</pubDate>
       </item><item>
-        <title>closed note 4622657 (near 47.521, 19.046) / Created &lt;time title=&quot;11 February 2025 at 10:39&quot; datetime=&quot;2025-02-11T10:39:17Z&quot;&gt;21 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/zsbi&quot;&gt;zsbi&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 4622657 (near Margaret Island, Budapest, Central Hungary, 1007, Hungary) / Created &lt;time title=&quot;11 February 2025 at 10:39&quot; datetime=&quot;2025-02-11T10:39:17Z&quot;&gt;21 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/zsbi&quot;&gt;zsbi&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;In context of overlay &amp;quot;Things&amp;quot; – Broadleaved Tree (deciduous) – https://osm.org/node/12578624346 via StreetComplete 60.1:
 
 Juharlevelű platán (London plane- Platanus x acerifolia)
@@ -349,67 +91,55 @@ A Margitsziget legmagasabb platánfája.
 The highest London plane tree of Margaret Island.
 
 Attached photo(s):
-https://streetcomplete.app/p/260302.jpg / Resolved &lt;time title=&quot; 3 March 2025 at 19:27&quot; datetime=&quot;2025-03-03T19:27:30Z&quot;&gt;about 16 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
+https://streetcomplete.app/p/260302.jpg / Resolved &lt;time title=&quot; 3 March 2025 at 19:27&quot; datetime=&quot;2025-03-03T19:27:30Z&quot;&gt;about 17 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Hozzáadtam:
 https://www.openstreetmap.org/changeset/163174955</title>
         <link>https://www.openstreetmap.org/note/4622657#c10235096</link>
         <guid>https://www.openstreetmap.org/note/4622657#c10235096</guid>
         <pubDate>Mon, 03 Mar 2025 19:27:30 +0000</pubDate>
       </item><item>
-        <title>new note 4650221 (near 48.129, 16.562) / Created &lt;time title=&quot; 3 March 2025 at 19:22&quot; datetime=&quot;2025-03-03T19:22:25Z&quot;&gt;about 16 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/derloris&quot;&gt;derloris&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Unterführung u.U. für Fußgänger nicht access=no, um die Wege in der Beugenau erreichen zu können?</title>
-        <link>https://www.openstreetmap.org/note/4650221#c10235069</link>
-        <guid>https://www.openstreetmap.org/note/4650221#c10235069</guid>
-        <pubDate>Mon, 03 Mar 2025 19:22:25 +0000</pubDate>
-      </item><item>
-        <title>new note 4650217 (near 48.193, 16.358) / Created &lt;time title=&quot; 3 March 2025 at 19:20&quot; datetime=&quot;2025-03-03T19:20:20Z&quot;&gt;about 16 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/derloris&quot;&gt;derloris&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Mehrere Sessel und Sitzbänke am Platz</title>
-        <link>https://www.openstreetmap.org/note/4650217#c10235059</link>
-        <guid>https://www.openstreetmap.org/note/4650217#c10235059</guid>
-        <pubDate>Mon, 03 Mar 2025 19:20:20 +0000</pubDate>
-      </item><item>
-        <title>closed note 4649789 (near 47.558, 19.049) / Created &lt;time title=&quot; 3 March 2025 at 14:21&quot; datetime=&quot;2025-03-03T14:21:03Z&quot;&gt;about 21 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 4649789 (near Aquincum, 3rd district) / Created &lt;time title=&quot; 3 March 2025 at 14:21&quot; datetime=&quot;2025-03-03T14:21:03Z&quot;&gt;about 22 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Itt, az épülettőp messzebbi bevásárlókocsi tartók nincsenek meg.
 
-via StreetComplete 60.1 / Resolved &lt;time title=&quot; 3 March 2025 at 18:42&quot; datetime=&quot;2025-03-03T18:42:31Z&quot;&gt;about 17 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
+via StreetComplete 60.1 / Resolved &lt;time title=&quot; 3 March 2025 at 18:42&quot; datetime=&quot;2025-03-03T18:42:31Z&quot;&gt;about 18 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Töröltem ezeket.</title>
         <link>https://www.openstreetmap.org/note/4649789#c10234922</link>
         <guid>https://www.openstreetmap.org/note/4649789#c10234922</guid>
         <pubDate>Mon, 03 Mar 2025 18:42:31 +0000</pubDate>
       </item><item>
-        <title>new note 4650137 (near 46.358, 17.811) / * 2025 March 3 17:57 Created: Újranyitották 2022 vége óta a postát vagy végleg bezárt?</title>
+        <title>new note 4650137 (near Feketetanya, Kaposvár) / * 2025 March 3 17:57 Created: Újranyitották 2022 vége óta a postát vagy végleg bezárt?</title>
         <link>https://www.openstreetmap.org/note/4650137#c10234788</link>
         <guid>https://www.openstreetmap.org/note/4650137#c10234788</guid>
         <pubDate>Mon, 03 Mar 2025 17:57:10 +0000</pubDate>
       </item><item>
-        <title>new note 4650133 (near 46.348, 18.709) / Created &lt;time title=&quot; 3 March 2025 at 17:56&quot; datetime=&quot;2025-03-03T17:56:24Z&quot;&gt;about 17 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
+        <title>new note 4650133 (near Alsóváros, Szekszárd) / Created &lt;time title=&quot; 3 March 2025 at 17:56&quot; datetime=&quot;2025-03-03T17:56:24Z&quot;&gt;about 18 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Itt van még a Zsitvai cukrászda, vagy végleg bezárt?</title>
         <link>https://www.openstreetmap.org/note/4650133#c10234783</link>
         <guid>https://www.openstreetmap.org/note/4650133#c10234783</guid>
         <pubDate>Mon, 03 Mar 2025 17:56:24 +0000</pubDate>
       </item><item>
-        <title>closed note 4537102 (near 47.163, 20.176) / Created &lt;time title=&quot;29 November 2024 at 11:35&quot; datetime=&quot;2024-11-29T11:35:54Z&quot;&gt;3 months ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/sarigaborj&quot;&gt;sarigaborj&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 4537102 (near Papírgyári lakótelep, Szolnok) / Created &lt;time title=&quot;29 November 2024 at 11:35&quot; datetime=&quot;2024-11-29T11:35:54Z&quot;&gt;3 months ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/sarigaborj&quot;&gt;sarigaborj&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Unable to answer &amp;quot;This shop has been vacant. What’s here now?&amp;quot; – Posta – https://osm.org/node/8014490145 via StreetComplete 59.3:
 
-Sírköves / Resolved &lt;time title=&quot; 3 March 2025 at 17:55&quot; datetime=&quot;2025-03-03T17:55:32Z&quot;&gt;about 17 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
+Sírköves / Resolved &lt;time title=&quot; 3 March 2025 at 17:55&quot; datetime=&quot;2025-03-03T17:55:32Z&quot;&gt;about 18 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Átírtam, köszi a jelzést!</title>
         <link>https://www.openstreetmap.org/note/4537102#c10234780</link>
         <guid>https://www.openstreetmap.org/note/4537102#c10234780</guid>
         <pubDate>Mon, 03 Mar 2025 17:55:32 +0000</pubDate>
       </item><item>
-        <title>closed note 4647869 (near 46.730, 17.547) / Created &lt;time title=&quot; 2 March 2025 at 14:06&quot; datetime=&quot;2025-03-02T14:06:15Z&quot;&gt;2 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Frankberger%20Patrik&quot;&gt;Frankberger Patrik&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 4647869 (near Sándortelep, Fonyód) / Created &lt;time title=&quot; 2 March 2025 at 14:06&quot; datetime=&quot;2025-03-02T14:06:15Z&quot;&gt;2 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Frankberger%20Patrik&quot;&gt;Frankberger Patrik&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Unable to answer &amp;quot;Is this stop lit?&amp;quot; – Fonyód, Turul utca (Bus Stop) – https://osm.org/node/3445485599 via StreetComplete 60.1:
 
 A közvilágítás megvilágítja, de maga a buszmegálló nem kivilágított.
 
 Attached photo(s):
-https://streetcomplete.app/p/263520.jpg / Resolved &lt;time title=&quot; 3 March 2025 at 17:55&quot; datetime=&quot;2025-03-03T17:55:12Z&quot;&gt;about 17 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
+https://streetcomplete.app/p/263520.jpg / Resolved &lt;time title=&quot; 3 March 2025 at 17:55&quot; datetime=&quot;2025-03-03T17:55:12Z&quot;&gt;about 18 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Nem szükséges, hogy a fényt maga a megálló biztosítsa, elég ha a közvilágítástól van fény. Ráraktam a lit=yes-t.</title>
         <link>https://www.openstreetmap.org/note/4647869#c10234778</link>
         <guid>https://www.openstreetmap.org/note/4647869#c10234778</guid>
         <pubDate>Mon, 03 Mar 2025 17:55:12 +0000</pubDate>
       </item><item>
-        <title>closed note 4598267 (near 46.179, 18.579) / Created &lt;time title=&quot;22 January 2025 at 19:14&quot; datetime=&quot;2025-01-22T19:14:36Z&quot;&gt;about 1 month ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Mecsek%20Navig%C3%A1tor&quot;&gt;Mecsek Navigátor&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 4598267 (near Véménd) / Created &lt;time title=&quot;22 January 2025 at 19:14&quot; datetime=&quot;2025-01-22T19:14:36Z&quot;&gt;about 1 month ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Mecsek%20Navig%C3%A1tor&quot;&gt;Mecsek Navigátor&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;István-kunyhó, erdei pihenőhely / Resolved &lt;time title=&quot;24 January 2025 at 16:55&quot; datetime=&quot;2025-01-24T16:55:01Z&quot;&gt;about 1 month ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Mecsek%20Navig%C3%A1tor&quot;&gt;Mecsek Navigátor&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt; / Reactivated &lt;time title=&quot;10 February 2025 at 14:15&quot; datetime=&quot;2025-02-10T14:15:44Z&quot;&gt;22 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Mecsek%20Navig%C3%A1tor&quot;&gt;Mecsek Navigátor&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt; / Resolved &lt;time title=&quot;10 February 2025 at 19:55&quot; datetime=&quot;2025-02-10T19:55:29Z&quot;&gt;22 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
@@ -419,92 +149,50 @@ https://streetcomplete.app/p/263520.jpg / Resolved &lt;time title=&quot; 3 March
 Miért nyitottad újra a jegyzetet? / Updated &lt;time title=&quot; 2 March 2025 at 13:42&quot; datetime=&quot;2025-03-02T13:42:38Z&quot;&gt;2 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Felrajzoltál egy másik István-kunyhót is. Melyik az igazi akkor? / Updated &lt;time title=&quot; 2 March 2025 at 14:23&quot; datetime=&quot;2025-03-02T14:23:36Z&quot;&gt;2 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Mecsek%20Navig%C3%A1tor&quot;&gt;Mecsek Navigátor&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Sziasztok! Bocsesz, téves rögzítés, a régebbi a helyes. 
-Köszönöm! / Resolved &lt;time title=&quot; 3 March 2025 at 17:54&quot; datetime=&quot;2025-03-03T17:54:21Z&quot;&gt;about 17 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
+Köszönöm! / Resolved &lt;time title=&quot; 3 March 2025 at 17:54&quot; datetime=&quot;2025-03-03T17:54:21Z&quot;&gt;about 18 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Töröltem a helytelen akkor.</title>
         <link>https://www.openstreetmap.org/note/4598267#c10234777</link>
         <guid>https://www.openstreetmap.org/note/4598267#c10234777</guid>
         <pubDate>Mon, 03 Mar 2025 17:54:21 +0000</pubDate>
       </item><item>
-        <title>closed note 4503189 (near 45.848, 18.297) / Created &lt;time title=&quot; 1 November 2024 at 15:29&quot; datetime=&quot;2024-11-01T15:29:56Z&quot;&gt;4 months ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Qszi&quot;&gt;Qszi&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 4503189 (near Aranyospuszta, Siklós) / Created &lt;time title=&quot; 1 November 2024 at 15:29&quot; datetime=&quot;2024-11-01T15:29:56Z&quot;&gt;4 months ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Qszi&quot;&gt;Qszi&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;&amp;quot;Mentőállomás&amp;quot;
 OSM snapshot date: 2024-10-17T20:37:52Z
 POI has no name
 POI types: building
- #organicmaps ios / Resolved &lt;time title=&quot; 3 March 2025 at 16:59&quot; datetime=&quot;2025-03-03T16:59:00Z&quot;&gt;about 18 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/HungarianVoyager&quot;&gt;HungarianVoyager&lt;/a&gt;&lt;/div&gt;
+ #organicmaps ios / Resolved &lt;time title=&quot; 3 March 2025 at 16:59&quot; datetime=&quot;2025-03-03T16:59:00Z&quot;&gt;about 19 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/HungarianVoyager&quot;&gt;HungarianVoyager&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Már létezik: https://www.openstreetmap.org/way/593887605</title>
         <link>https://www.openstreetmap.org/note/4503189#c10234596</link>
         <guid>https://www.openstreetmap.org/note/4503189#c10234596</guid>
         <pubDate>Mon, 03 Mar 2025 16:59:00 +0000</pubDate>
       </item><item>
-        <title>closed note 4649719 (near 47.436, 19.034) / Created &lt;time title=&quot; 3 March 2025 at 13:34&quot; datetime=&quot;2025-03-03T13:34:29Z&quot;&gt;about 22 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/zsbi&quot;&gt;zsbi&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 4649719 (near Budafok, 22nd district) / Created &lt;time title=&quot; 3 March 2025 at 13:34&quot; datetime=&quot;2025-03-03T13:34:29Z&quot;&gt;about 23 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/zsbi&quot;&gt;zsbi&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;In context of overlay &amp;quot;Surfaces&amp;quot; – on bridge: Foot Path – https://osm.org/way/707478115 via StreetComplete 60.1:
 
 A patakot ittcsak egy közművezeték keresztezi, acél védőcsőben, a vízszinttől 2-3 méter magasságban. A csőre való rálépést rács-gallér akadályozza meg. Így itt nincsen hídon átvezetett gyalogút. 
-Az északi parton, a vízszint fölött kb. 1 méteren van vezetve a burkolt ösvény. Ahol e közművezeték nyomvonala keresztezi az ösvényt, ott az ösvényt felvezették lépcsőkkel a vezetéket takaró földhalom tetejére. A halom másik oldalán újból a vízszint fölött kb. 1 méteres szinten folytatódik az ösvény. / Updated &lt;time title=&quot; 3 March 2025 at 13:38&quot; datetime=&quot;2025-03-03T13:38:00Z&quot;&gt;about 22 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/zsbi&quot;&gt;zsbi&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Az előzőleg leírtak nem erre a hídra, gyalogútra vonatkoznak - lezárható. / Resolved &lt;time title=&quot; 3 March 2025 at 16:36&quot; datetime=&quot;2025-03-03T16:36:19Z&quot;&gt;about 19 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/infeeeee&quot;&gt;infeeeee&lt;/a&gt;&lt;/div&gt;
+Az északi parton, a vízszint fölött kb. 1 méteren van vezetve a burkolt ösvény. Ahol e közművezeték nyomvonala keresztezi az ösvényt, ott az ösvényt felvezették lépcsőkkel a vezetéket takaró földhalom tetejére. A halom másik oldalán újból a vízszint fölött kb. 1 méteres szinten folytatódik az ösvény. / Updated &lt;time title=&quot; 3 March 2025 at 13:38&quot; datetime=&quot;2025-03-03T13:38:00Z&quot;&gt;about 23 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/zsbi&quot;&gt;zsbi&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;Az előzőleg leírtak nem erre a hídra, gyalogútra vonatkoznak - lezárható. / Resolved &lt;time title=&quot; 3 March 2025 at 16:36&quot; datetime=&quot;2025-03-03T16:36:19Z&quot;&gt;about 20 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/infeeeee&quot;&gt;infeeeee&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Akkor zárom ha ez téves</title>
         <link>https://www.openstreetmap.org/note/4649719#c10234501</link>
         <guid>https://www.openstreetmap.org/note/4649719#c10234501</guid>
         <pubDate>Mon, 03 Mar 2025 16:36:19 +0000</pubDate>
       </item><item>
-        <title>closed note 4641809 (near 48.229, 16.369) / Created &lt;time title=&quot;25 February 2025 at 16:21&quot; datetime=&quot;2025-02-25T16:21:40Z&quot;&gt;7 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Lotofaag&quot;&gt;Lotofaag&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Unable to answer &amp;quot;What bicycle equipment is available here?&amp;quot; – Gewista Werbegesellschaft mbH (Bicycle Repair Tool Stand) – https://osm.org/node/5779228254 via StreetComplete 60.1:
-
-There&amp;#39;s an ATM at this location but I couldn&amp;#39;t find any bicycle equipment
-
-Attached photo(s):
-https://streetcomplete.app/p/262656.jpg / Resolved &lt;time title=&quot; 3 March 2025 at 16:31&quot; datetime=&quot;2025-03-03T16:31:01Z&quot;&gt;about 19 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/wolfgang8&quot;&gt;wolfgang8&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Auch bei https://www.fahrradwien.at/radservicestation/ nicht eingetragen. Auf atm geändert: https://www.openstreetmap.org/changeset/163169062</title>
-        <link>https://www.openstreetmap.org/note/4641809#c10234489</link>
-        <guid>https://www.openstreetmap.org/note/4641809#c10234489</guid>
-        <pubDate>Mon, 03 Mar 2025 16:31:01 +0000</pubDate>
-      </item><item>
-        <title>closed note 3649387 (near 48.148, 16.460) / * 2023 April 19 05:57 Created: Portier / Resolved &lt;time title=&quot; 3 March 2025 at 16:15&quot; datetime=&quot;2025-03-03T16:15:27Z&quot;&gt;about 19 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/PPete2&quot;&gt;PPete2&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Portierhäusl eines Betriebes werden normalerweise nicht extra getaggt</title>
-        <link>https://www.openstreetmap.org/note/3649387#c10234428</link>
-        <guid>https://www.openstreetmap.org/note/3649387#c10234428</guid>
-        <pubDate>Mon, 03 Mar 2025 16:15:27 +0000</pubDate>
-      </item><item>
-        <title>closed note 4621996 (near 47.583, 19.048) / Created &lt;time title=&quot;10 February 2025 at 17:15&quot; datetime=&quot;2025-02-10T17:15:55Z&quot;&gt;22 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/gymate&quot;&gt;gymate&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;This lot is house number 44 / Resolved &lt;time title=&quot; 3 March 2025 at 16:05&quot; datetime=&quot;2025-03-03T16:05:01Z&quot;&gt;about 19 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/gymate&quot;&gt;gymate&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 4621996 (near Csillaghegy, 3rd district) / Created &lt;time title=&quot;10 February 2025 at 17:15&quot; datetime=&quot;2025-02-10T17:15:55Z&quot;&gt;22 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/gymate&quot;&gt;gymate&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;This lot is house number 44 / Resolved &lt;time title=&quot; 3 March 2025 at 16:05&quot; datetime=&quot;2025-03-03T16:05:01Z&quot;&gt;about 20 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/gymate&quot;&gt;gymate&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Added it.</title>
         <link>https://www.openstreetmap.org/note/4621996#c10234384</link>
         <guid>https://www.openstreetmap.org/note/4621996#c10234384</guid>
         <pubDate>Mon, 03 Mar 2025 16:05:01 +0000</pubDate>
       </item><item>
-        <title>closed note 4598086 (near 47.586, 19.046) / Created &lt;time title=&quot;22 January 2025 at 16:45&quot; datetime=&quot;2025-01-22T16:45:57Z&quot;&gt;about 1 month ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/gymate&quot;&gt;gymate&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 4598086 (near Csillaghegy, 3rd district) / Created &lt;time title=&quot;22 January 2025 at 16:45&quot; datetime=&quot;2025-01-22T16:45:57Z&quot;&gt;about 1 month ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/gymate&quot;&gt;gymate&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;House number 2 is around here. Maybe the corner building has two numbers? / Updated &lt;time title=&quot;10 February 2025 at 16:35&quot; datetime=&quot;2025-02-10T16:35:48Z&quot;&gt;22 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/gymate&quot;&gt;gymate&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Nope, it’s for the empty lot / Resolved &lt;time title=&quot; 3 March 2025 at 16:04&quot; datetime=&quot;2025-03-03T16:04:29Z&quot;&gt;about 19 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/gymate&quot;&gt;gymate&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;Nope, it’s for the empty lot / Resolved &lt;time title=&quot; 3 March 2025 at 16:04&quot; datetime=&quot;2025-03-03T16:04:29Z&quot;&gt;about 20 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/gymate&quot;&gt;gymate&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Added it.</title>
         <link>https://www.openstreetmap.org/note/4598086#c10234380</link>
         <guid>https://www.openstreetmap.org/note/4598086#c10234380</guid>
         <pubDate>Mon, 03 Mar 2025 16:04:29 +0000</pubDate>
       </item><item>
-        <title>closed note 3629880 (near 47.988, 16.875) / * 2023 April 6 13:35 Created: its a campus with the community number 1 / Resolved &lt;time title=&quot; 3 March 2025 at 15:52&quot; datetime=&quot;2025-03-03T15:52:25Z&quot;&gt;about 19 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/PPete2&quot;&gt;PPete2&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;</title>
-        <link>https://www.openstreetmap.org/note/3629880#c10234331</link>
-        <guid>https://www.openstreetmap.org/note/3629880#c10234331</guid>
-        <pubDate>Mon, 03 Mar 2025 15:52:25 +0000</pubDate>
-      </item><item>
-        <title>closed note 3627299 (near 48.191, 16.436) / Created &lt;time title=&quot; 4 April 2023 at 16:29&quot; datetime=&quot;2023-04-04T16:29:24Z&quot;&gt;almost 2 years ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/scrts&quot;&gt;scrts&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;hier gibt es nach links und rechts jeweils einen Wanderweg / Updated &lt;time title=&quot;17 April 2024 at 21:10&quot; datetime=&quot;2024-04-17T21:10:09Z&quot;&gt;11 months ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/fdemmer&quot;&gt;fdemmer&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Da, mitten im Wald?
-
-Bisschen nördlich geht der Standwanderweg 9 in West/Ost Richtung... ist der gemeint? / Updated &lt;time title=&quot;19 July 2024 at 04:20&quot; datetime=&quot;2024-07-19T04:20:20Z&quot;&gt;8 months ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kaiserschmarren&quot;&gt;Kaiserschmarren&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Ich kenn mich dort relativ gut aus, glaub aber nicht, dass es der Stadtwanderweg ist (ist ja auch keine Möglichkeit die Eisenbahn sonst zu passieren). Korregiert mich, aber falls ich falsch liege ;) / Resolved &lt;time title=&quot; 3 March 2025 at 15:39&quot; datetime=&quot;2025-03-03T15:39:38Z&quot;&gt;about 20 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/PPete2&quot;&gt;PPete2&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;hab die auf Strava erkennbaren noch fehlenden Wege eingezeichnet</title>
-        <link>https://www.openstreetmap.org/note/3627299#c10234260</link>
-        <guid>https://www.openstreetmap.org/note/3627299#c10234260</guid>
-        <pubDate>Mon, 03 Mar 2025 15:39:38 +0000</pubDate>
-      </item><item>
-        <title>closed note 3625455 (near 47.987, 16.794) / Created &lt;time title=&quot; 3 April 2023 at 09:58&quot; datetime=&quot;2023-04-03T09:58:17Z&quot;&gt;almost 2 years ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Tajtrdlik&quot;&gt;Tajtrdlik&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;In these places was build new small chapel&amp;quot;. / Resolved &lt;time title=&quot; 3 March 2025 at 15:37&quot; datetime=&quot;2025-03-03T15:37:08Z&quot;&gt;about 20 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/PPete2&quot;&gt;PPete2&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;</title>
-        <link>https://www.openstreetmap.org/note/3625455#c10234253</link>
-        <guid>https://www.openstreetmap.org/note/3625455#c10234253</guid>
-        <pubDate>Mon, 03 Mar 2025 15:37:08 +0000</pubDate>
-      </item><item>
-        <title>new note 4649789 (near 47.558, 19.049) / Created &lt;time title=&quot; 3 March 2025 at 14:21&quot; datetime=&quot;2025-03-03T14:21:03Z&quot;&gt;about 21 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
+        <title>new note 4649789 (near Aquincum, 3rd district) / Created &lt;time title=&quot; 3 March 2025 at 14:21&quot; datetime=&quot;2025-03-03T14:21:03Z&quot;&gt;about 22 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Itt, az épülettőp messzebbi bevásárlókocsi tartók nincsenek meg.
 
 via StreetComplete 60.1</title>
@@ -512,17 +200,17 @@ via StreetComplete 60.1</title>
         <guid>https://www.openstreetmap.org/note/4649789#c10233967</guid>
         <pubDate>Mon, 03 Mar 2025 14:21:03 +0000</pubDate>
       </item><item>
-        <title>new comment 4649719 (near 47.436, 19.034) / Created &lt;time title=&quot; 3 March 2025 at 13:34&quot; datetime=&quot;2025-03-03T13:34:29Z&quot;&gt;about 22 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/zsbi&quot;&gt;zsbi&lt;/a&gt;&lt;/div&gt;
+        <title>new comment 4649719 (near Budafok, 22nd district) / Created &lt;time title=&quot; 3 March 2025 at 13:34&quot; datetime=&quot;2025-03-03T13:34:29Z&quot;&gt;about 23 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/zsbi&quot;&gt;zsbi&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;In context of overlay &amp;quot;Surfaces&amp;quot; – on bridge: Foot Path – https://osm.org/way/707478115 via StreetComplete 60.1:
 
 A patakot ittcsak egy közművezeték keresztezi, acél védőcsőben, a vízszinttől 2-3 méter magasságban. A csőre való rálépést rács-gallér akadályozza meg. Így itt nincsen hídon átvezetett gyalogút. 
-Az északi parton, a vízszint fölött kb. 1 méteren van vezetve a burkolt ösvény. Ahol e közművezeték nyomvonala keresztezi az ösvényt, ott az ösvényt felvezették lépcsőkkel a vezetéket takaró földhalom tetejére. A halom másik oldalán újból a vízszint fölött kb. 1 méteres szinten folytatódik az ösvény. / Updated &lt;time title=&quot; 3 March 2025 at 13:38&quot; datetime=&quot;2025-03-03T13:38:00Z&quot;&gt;about 22 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/zsbi&quot;&gt;zsbi&lt;/a&gt;&lt;/div&gt;
+Az északi parton, a vízszint fölött kb. 1 méteren van vezetve a burkolt ösvény. Ahol e közművezeték nyomvonala keresztezi az ösvényt, ott az ösvényt felvezették lépcsőkkel a vezetéket takaró földhalom tetejére. A halom másik oldalán újból a vízszint fölött kb. 1 méteres szinten folytatódik az ösvény. / Updated &lt;time title=&quot; 3 March 2025 at 13:38&quot; datetime=&quot;2025-03-03T13:38:00Z&quot;&gt;about 23 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/zsbi&quot;&gt;zsbi&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Az előzőleg leírtak nem erre a hídra, gyalogútra vonatkoznak - lezárható.</title>
         <link>https://www.openstreetmap.org/note/4649719#c10233774</link>
         <guid>https://www.openstreetmap.org/note/4649719#c10233774</guid>
         <pubDate>Mon, 03 Mar 2025 13:38:00 +0000</pubDate>
       </item><item>
-        <title>new note 4649719 (near 47.436, 19.034) / Created &lt;time title=&quot; 3 March 2025 at 13:34&quot; datetime=&quot;2025-03-03T13:34:29Z&quot;&gt;about 22 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/zsbi&quot;&gt;zsbi&lt;/a&gt;&lt;/div&gt;
+        <title>new note 4649719 (near Budafok, 22nd district) / Created &lt;time title=&quot; 3 March 2025 at 13:34&quot; datetime=&quot;2025-03-03T13:34:29Z&quot;&gt;about 23 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/zsbi&quot;&gt;zsbi&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;In context of overlay &amp;quot;Surfaces&amp;quot; – on bridge: Foot Path – https://osm.org/way/707478115 via StreetComplete 60.1:
 
 A patakot ittcsak egy közművezeték keresztezi, acél védőcsőben, a vízszinttől 2-3 méter magasságban. A csőre való rálépést rács-gallér akadályozza meg. Így itt nincsen hídon átvezetett gyalogút. 
@@ -531,39 +219,28 @@ Az északi parton, a vízszint fölött kb. 1 méteren van vezetve a burkolt ös
         <guid>https://www.openstreetmap.org/note/4649719#c10233759</guid>
         <pubDate>Mon, 03 Mar 2025 13:34:29 +0000</pubDate>
       </item><item>
-        <title>closed note 4647796 (near 48.202, 16.369) / Created &lt;time title=&quot; 2 March 2025 at 13:31&quot; datetime=&quot;2025-03-02T13:31:45Z&quot;&gt;2 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/juiian7&quot;&gt;juiian7&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;&amp;quot;U2 fährt wieder hierher&amp;quot;
-OSM snapshot date: 2025-02-13T05:46:10Z
-POI name: Karlsplatz
-POI types: wheelchair-yes railway-station-subway-vienna
- #organicmaps android / Resolved &lt;time title=&quot; 3 March 2025 at 13:03&quot; datetime=&quot;2025-03-03T13:03:36Z&quot;&gt;about 22 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/derloris&quot;&gt;derloris&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Danke, aber sie ist bereits seit Dezember wieder eingezeichnet: https://www.openstreetmap.org/relation/6486683#map=13/48.21767/16.43291 Du dürftest veraltete Daten nutzen.</title>
-        <link>https://www.openstreetmap.org/note/4647796#c10233647</link>
-        <guid>https://www.openstreetmap.org/note/4647796#c10233647</guid>
-        <pubDate>Mon, 03 Mar 2025 13:03:36 +0000</pubDate>
-      </item><item>
-        <title>closed note 4623481 (near 47.465, 19.033) / Created &lt;time title=&quot;11 February 2025 at 22:17&quot; datetime=&quot;2025-02-11T22:17:36Z&quot;&gt;21 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/zsbi&quot;&gt;zsbi&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 4623481 (near Kelenföld, 11th district) / Created &lt;time title=&quot;11 February 2025 at 22:17&quot; datetime=&quot;2025-02-11T22:17:36Z&quot;&gt;21 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/zsbi&quot;&gt;zsbi&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Unable to answer &amp;quot;Are these opening hours still correct?&amp;quot; – on level 0: Léműhely (Bar) – https://osm.org/node/6733387577 via StreetComplete 60.1:
 
-Barber Újbuda, H-Sz 10-21h / Resolved &lt;time title=&quot; 3 March 2025 at 12:55&quot; datetime=&quot;2025-03-03T12:55:16Z&quot;&gt;about 22 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/infeeeee&quot;&gt;infeeeee&lt;/a&gt;&lt;/div&gt;
+Barber Újbuda, H-Sz 10-21h / Resolved &lt;time title=&quot; 3 March 2025 at 12:55&quot; datetime=&quot;2025-03-03T12:55:16Z&quot;&gt;about 23 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/infeeeee&quot;&gt;infeeeee&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;https://www.openstreetmap.org/changeset/163160114</title>
         <link>https://www.openstreetmap.org/note/4623481#c10233632</link>
         <guid>https://www.openstreetmap.org/note/4623481#c10233632</guid>
         <pubDate>Mon, 03 Mar 2025 12:55:16 +0000</pubDate>
       </item><item>
-        <title>closed note 4623479 (near 47.465, 19.033) / Created &lt;time title=&quot;11 February 2025 at 22:16&quot; datetime=&quot;2025-02-11T22:16:16Z&quot;&gt;21 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/zsbi&quot;&gt;zsbi&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 4623479 (near Kelenföld, 11th district) / Created &lt;time title=&quot;11 February 2025 at 22:16&quot; datetime=&quot;2025-02-11T22:16:16Z&quot;&gt;21 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/zsbi&quot;&gt;zsbi&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Unable to answer &amp;quot;Are these opening hours still correct?&amp;quot; – on level 0: Magyaros Kenyér (Bakery) – https://osm.org/node/2208216894 via StreetComplete 60.1:
 
 Galéria Antikvitás nyílt a helyén, H-P 9-17h.
 
 Attached photo(s):
-https://streetcomplete.app/p/260350.jpg / Resolved &lt;time title=&quot; 3 March 2025 at 12:55&quot; datetime=&quot;2025-03-03T12:55:11Z&quot;&gt;about 22 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/infeeeee&quot;&gt;infeeeee&lt;/a&gt;&lt;/div&gt;
+https://streetcomplete.app/p/260350.jpg / Resolved &lt;time title=&quot; 3 March 2025 at 12:55&quot; datetime=&quot;2025-03-03T12:55:11Z&quot;&gt;about 23 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/infeeeee&quot;&gt;infeeeee&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;https://www.openstreetmap.org/changeset/163160114</title>
         <link>https://www.openstreetmap.org/note/4623479#c10233629</link>
         <guid>https://www.openstreetmap.org/note/4623479#c10233629</guid>
         <pubDate>Mon, 03 Mar 2025 12:55:11 +0000</pubDate>
       </item><item>
-        <title>closed note 4601813 (near 47.437, 19.033) / Created &lt;time title=&quot;25 January 2025 at 18:27&quot; datetime=&quot;2025-01-25T18:27:21Z&quot;&gt;about 1 month ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/zsbi&quot;&gt;zsbi&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 4601813 (near Budafok, 22nd district) / Created &lt;time title=&quot;25 January 2025 at 18:27&quot; datetime=&quot;2025-01-25T18:27:21Z&quot;&gt;about 1 month ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/zsbi&quot;&gt;zsbi&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Unable to answer &amp;quot;Which direction leads upwards for these steps?&amp;quot; – Steps – https://osm.org/way/1354234671 via StreetComplete 60.1:
 
 A fel-le lépcsők között járda van. / Updated &lt;time title=&quot; 2 March 2025 at 21:26&quot; datetime=&quot;2025-03-02T21:26:29Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/zsbi&quot;&gt;zsbi&lt;/a&gt;&lt;/div&gt;
@@ -571,13 +248,13 @@ A fel-le lépcsők között járda van. / Updated &lt;time title=&quot; 2 March 
 
 Attached photo(s):
 https://streetcomplete.app/p/263616.jpg
-https://streetcomplete.app/p/263617.jpg / Resolved &lt;time title=&quot; 3 March 2025 at 11:39&quot; datetime=&quot;2025-03-03T11:39:46Z&quot;&gt;about 24 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/infeeeee&quot;&gt;infeeeee&lt;/a&gt;&lt;/div&gt;
+https://streetcomplete.app/p/263617.jpg / Resolved &lt;time title=&quot; 3 March 2025 at 11:39&quot; datetime=&quot;2025-03-03T11:39:46Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/infeeeee&quot;&gt;infeeeee&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Javítva: https://www.openstreetmap.org/changeset/163157472</title>
         <link>https://www.openstreetmap.org/note/4601813#c10233391</link>
         <guid>https://www.openstreetmap.org/note/4601813#c10233391</guid>
         <pubDate>Mon, 03 Mar 2025 11:39:46 +0000</pubDate>
       </item><item>
-        <title>closed note 4601806 (near 47.437, 19.034) / Created &lt;time title=&quot;25 January 2025 at 18:22&quot; datetime=&quot;2025-01-25T18:22:25Z&quot;&gt;about 1 month ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/zsbi&quot;&gt;zsbi&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 4601806 (near Budafok, 22nd district) / Created &lt;time title=&quot;25 January 2025 at 18:22&quot; datetime=&quot;2025-01-25T18:22:25Z&quot;&gt;about 1 month ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/zsbi&quot;&gt;zsbi&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Unable to answer &amp;quot;Which direction leads upwards for these steps?&amp;quot; – Steps – https://osm.org/way/1354233073 via StreetComplete 60.1:
 
 Járda betonlapokkal burkolva.
@@ -596,13 +273,13 @@ Attached photo(s):
 https://streetcomplete.app/p/263612.jpg
 https://streetcomplete.app/p/263613.jpg
 https://streetcomplete.app/p/263614.jpg
-https://streetcomplete.app/p/263615.jpg / Resolved &lt;time title=&quot; 3 March 2025 at 11:39&quot; datetime=&quot;2025-03-03T11:39:36Z&quot;&gt;about 24 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/infeeeee&quot;&gt;infeeeee&lt;/a&gt;&lt;/div&gt;
+https://streetcomplete.app/p/263615.jpg / Resolved &lt;time title=&quot; 3 March 2025 at 11:39&quot; datetime=&quot;2025-03-03T11:39:36Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/infeeeee&quot;&gt;infeeeee&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Köszi! Javítva: https://www.openstreetmap.org/changeset/163157472</title>
         <link>https://www.openstreetmap.org/note/4601806#c10233389</link>
         <guid>https://www.openstreetmap.org/note/4601806#c10233389</guid>
         <pubDate>Mon, 03 Mar 2025 11:39:36 +0000</pubDate>
       </item><item>
-        <title>new note 4649540 (near 47.500, 19.040) / Created &lt;time title=&quot; 3 March 2025 at 11:35&quot; datetime=&quot;2025-03-03T11:35:17Z&quot;&gt;about 24 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/omicronsigma&quot;&gt;omicronsigma&lt;/a&gt;&lt;/div&gt;
+        <title>new note 4649540 (near Víziváros, 1st district) / Created &lt;time title=&quot; 3 March 2025 at 11:35&quot; datetime=&quot;2025-03-03T11:35:17Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/omicronsigma&quot;&gt;omicronsigma&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;&amp;quot;Pharmacy is closed&amp;quot;
 The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground.
 OSM snapshot date: 2025-02-13T05:46:10Z
@@ -613,125 +290,7 @@ POI types: wheelchair-no amenity-pharmacy
         <guid>https://www.openstreetmap.org/note/4649540#c10233369</guid>
         <pubDate>Mon, 03 Mar 2025 11:35:17 +0000</pubDate>
       </item><item>
-        <title>closed note 4333699 (near 48.126, 16.546) / Created &lt;time title=&quot;14 July 2024 at 22:47&quot; datetime=&quot;2024-07-14T22:47:22Z&quot;&gt;8 months ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/aceman444&quot;&gt;aceman444&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Is there really a gate here? / Resolved &lt;time title=&quot; 3 March 2025 at 10:30&quot; datetime=&quot;2025-03-03T10:30:56Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/PPete2&quot;&gt;PPete2&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;no gate here (anymore)</title>
-        <link>https://www.openstreetmap.org/note/4333699#c10232936</link>
-        <guid>https://www.openstreetmap.org/note/4333699#c10232936</guid>
-        <pubDate>Mon, 03 Mar 2025 10:30:56 +0000</pubDate>
-      </item><item>
-        <title>closed note 3622930 (near 48.175, 16.404) / Created &lt;time title=&quot; 1 April 2023 at 12:54&quot; datetime=&quot;2023-04-01T12:54:46Z&quot;&gt;almost 2 years ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Nielkrokodil&quot;&gt;Nielkrokodil&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Unable to answer &amp;quot;What type of shop is this?&amp;quot; for https://osm.org/node/10171808144 via StreetComplete 51.1:
-
-Stickerei (Aufnäher etc) / Resolved &lt;time title=&quot; 3 March 2025 at 10:23&quot; datetime=&quot;2025-03-03T10:23:32Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/PPete2&quot;&gt;PPete2&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;</title>
-        <link>https://www.openstreetmap.org/note/3622930#c10232919</link>
-        <guid>https://www.openstreetmap.org/note/3622930#c10232919</guid>
-        <pubDate>Mon, 03 Mar 2025 10:23:32 +0000</pubDate>
-      </item><item>
-        <title>closed note 3617478 (near 48.043, 17.042) / * 2023 March 28 14:29 Created: Hier befindet sich zwischen der Eisenbahnkreuzung und der Busbucht ein Geländer über das man drübersteigen muss wenn man den Wanderweg entlang geht. / Resolved &lt;time title=&quot; 3 March 2025 at 10:13&quot; datetime=&quot;2025-03-03T10:13:24Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/PPete2&quot;&gt;PPete2&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;man kann am östlichen Geländerrand durchgehen</title>
-        <link>https://www.openstreetmap.org/note/3617478#c10232892</link>
-        <guid>https://www.openstreetmap.org/note/3617478#c10232892</guid>
-        <pubDate>Mon, 03 Mar 2025 10:13:24 +0000</pubDate>
-      </item><item>
-        <title>new comment 3615232 (near 48.083, 17.087) / Created &lt;time title=&quot;27 March 2023 at 10:45&quot; datetime=&quot;2023-03-27T10:45:39Z&quot;&gt;almost 2 years ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Pan%20Pern%C3%AD%C4%8Dek&quot;&gt;Pan Perníček&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;#Mapy.cz - Dle našeho uživatele se jedná o Esterhazyho most.
-Prosím o ověření.
-
-https://www.openstreetmap.org/way/25350401 / Updated &lt;time title=&quot;11 August 2023 at 18:53&quot; datetime=&quot;2023-08-11T18:53:10Z&quot;&gt;over 1 year ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/vlakos555&quot;&gt;vlakos555&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;overené, je tam most. / Updated &lt;time title=&quot;11 August 2023 at 19:57&quot; datetime=&quot;2023-08-11T19:57:09Z&quot;&gt;over 1 year ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/aceman444&quot;&gt;aceman444&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;No ano, len nejak overit ten nazov. Lebo podla registra pamiatok sa to vola &amp;quot;most cestny&amp;quot; alebo &amp;quot;most do bazantnice&amp;quot;. / Updated &lt;time title=&quot;11 August 2023 at 20:01&quot; datetime=&quot;2023-08-11T20:01:12Z&quot;&gt;over 1 year ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/vlakos555&quot;&gt;vlakos555&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Ano. Mam fotky. Mozem poslat na gmail. Tu sa to nedá. Chceš ? / Updated &lt;time title=&quot;11 August 2023 at 20:13&quot; datetime=&quot;2023-08-11T20:13:17Z&quot;&gt;over 1 year ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/vlakos555&quot;&gt;vlakos555&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Je to oplotene a znacka zákaz vstupu. Tam je nazov Cestny most  ako píšeš.  Mám aj tú fotku. / Updated &lt;time title=&quot;20 August 2023 at 20:20&quot; datetime=&quot;2023-08-20T20:20:24Z&quot;&gt;over 1 year ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Filip009&quot;&gt;Filip009&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;V takomto prípade odporúčam pridať fotku na freemap a poslať tu na ňu odkaz. Je to jednoduchšie ako posielať to cez mail. / Updated &lt;time title=&quot;20 August 2023 at 23:03&quot; datetime=&quot;2023-08-20T23:03:39Z&quot;&gt;over 1 year ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/vlakos555&quot;&gt;vlakos555&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Na freemap 2 moje fotky sú. Odkaz neviem dať. / Updated &lt;time title=&quot;21 August 2023 at 03:32&quot; datetime=&quot;2023-08-21T03:32:32Z&quot;&gt;over 1 year ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/vlakos555&quot;&gt;vlakos555&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;https://www.freemap.sk/#map=19/48.082690/17.086959&amp;amp;layers=XI&amp;amp;image=519052 
-
-https://www.freemap.sk/#map=19/48.082690/17.086959&amp;amp;layers=XI&amp;amp;image=519051 / Updated &lt;time title=&quot;21 August 2023 at 03:52&quot; datetime=&quot;2023-08-21T03:52:29Z&quot;&gt;over 1 year ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/vlakos555&quot;&gt;vlakos555&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Kedysi tu bolo rameno Dunaja. Po jeho odklone vyschlo a už roky je bez vody. / Updated &lt;time title=&quot; 3 March 2025 at 10:05&quot; datetime=&quot;2025-03-03T10:05:52Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/PPete2&quot;&gt;PPete2&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Bridge is mapped including several name-Tags. Anything to add here?</title>
-        <link>https://www.openstreetmap.org/note/3615232#c10232867</link>
-        <guid>https://www.openstreetmap.org/note/3615232#c10232867</guid>
-        <pubDate>Mon, 03 Mar 2025 10:05:52 +0000</pubDate>
-      </item><item>
-        <title>closed note 3611712 (near 48.185, 16.377) / Created &lt;time title=&quot;24 March 2023 at 22:16&quot; datetime=&quot;2023-03-24T22:16:51Z&quot;&gt;almost 2 years ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Nielkrokodil&quot;&gt;Nielkrokodil&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Unable to answer &amp;quot;What’s the name of this place?&amp;quot; for https://osm.org/way/396042598 via StreetComplete 51.1:
-
-Das ist kein Café, sondern der Pausenraum des Bordrestazrantbetreibers. Es heißt DoN&amp;#39;s Crew Area
-
-Attached photo(s):
-https://westnordost.de/p/138449.jpg / Resolved &lt;time title=&quot; 3 March 2025 at 10:02&quot; datetime=&quot;2025-03-03T10:02:04Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/PPete2&quot;&gt;PPete2&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;hab Cafe gelöscht und Beschreibung erstellt. Spezielles Tagging gibts glaub ich für sowas nicht</title>
-        <link>https://www.openstreetmap.org/note/3611712#c10232847</link>
-        <guid>https://www.openstreetmap.org/note/3611712#c10232847</guid>
-        <pubDate>Mon, 03 Mar 2025 10:02:04 +0000</pubDate>
-      </item><item>
-        <title>closed note 3609017 (near 48.083, 16.302) / * 2023 March 22 19:51 Created: 8-10-3 und 8-10-4 sind falsch eingezeichnet. / Resolved &lt;time title=&quot; 3 March 2025 at 09:53&quot; datetime=&quot;2025-03-03T09:53:59Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/PPete2&quot;&gt;PPete2&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;</title>
-        <link>https://www.openstreetmap.org/note/3609017#c10232814</link>
-        <guid>https://www.openstreetmap.org/note/3609017#c10232814</guid>
-        <pubDate>Mon, 03 Mar 2025 09:53:59 +0000</pubDate>
-      </item><item>
-        <title>closed note 3605042 (near 47.963, 16.401) / Created &lt;time title=&quot;19 March 2023 at 19:32&quot; datetime=&quot;2023-03-19T19:32:23Z&quot;&gt;almost 2 years ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/geologist&quot;&gt;geologist&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Unable to answer &amp;quot;Who is allowed to park here? Parking may be free or paid.&amp;quot; for https://osm.org/way/386867025 via StreetComplete 51.1:
-
-Allgemeine Halte und Parkverbot außer für Eingeschränkte Personen
-
-Attached photo(s):
-https://westnordost.de/p/137803.jpg / Resolved &lt;time title=&quot; 3 March 2025 at 09:18&quot; datetime=&quot;2025-03-03T09:18:30Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/PPete2&quot;&gt;PPete2&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;eingetragen</title>
-        <link>https://www.openstreetmap.org/note/3605042#c10232704</link>
-        <guid>https://www.openstreetmap.org/note/3605042#c10232704</guid>
-        <pubDate>Mon, 03 Mar 2025 09:18:30 +0000</pubDate>
-      </item><item>
-        <title>closed note 3599989 (near 47.318, 16.279) / Created &lt;time title=&quot;16 March 2023 at 13:33&quot; datetime=&quot;2023-03-16T13:33:22Z&quot;&gt;almost 2 years ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/streetcompleter83&quot;&gt;streetcompleter83&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;&amp;quot;Frische Eier vom Lande&amp;quot;: eggs self service sale
-
-via StreetComplete 50.2
-
-Attached photo(s):
-https://westnordost.de/p/136969.jpg / Resolved &lt;time title=&quot; 3 March 2025 at 09:11&quot; datetime=&quot;2025-03-03T09:11:42Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/PPete2&quot;&gt;PPete2&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;</title>
-        <link>https://www.openstreetmap.org/note/3599989#c10232689</link>
-        <guid>https://www.openstreetmap.org/note/3599989#c10232689</guid>
-        <pubDate>Mon, 03 Mar 2025 09:11:42 +0000</pubDate>
-      </item><item>
-        <title>new comment 3599092 (near 48.125, 16.548) / Created &lt;time title=&quot;15 March 2023 at 17:15&quot; datetime=&quot;2023-03-15T17:15:25Z&quot;&gt;almost 2 years ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/derloris&quot;&gt;derloris&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Durchgang dürfte öffentlich nicht möglich sein, Gebiet östlich von hier ist Cargozone mit Toren an allen Zugängen. Beschilderung vor Ort bzgl Fußgeherlaubnis wäre zu prüfen und Tore wären einzuzeichnen. / Updated &lt;time title=&quot; 8 May 2024 at 00:40&quot; datetime=&quot;2024-05-08T00:40:15Z&quot;&gt;10 months ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/derloris&quot;&gt;derloris&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Inzwischen wurde ein Tor mit access=private, aber einem dahinterliegenden Fußweg mit access=permissive eingetragen (passt nicht zusammen) https://www.openstreetmap.org/way/1256790939#map=19/48.12513/16.54900&amp;amp;layers=N / Updated &lt;time title=&quot;12 July 2024 at 20:17&quot; datetime=&quot;2024-07-12T20:17:16Z&quot;&gt;8 months ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/aceman444&quot;&gt;aceman444&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Wahrscheinlich vesteht der Author den Sinn des &amp;#39;permissive&amp;#39; Werts nicht. Man koennte ihn fragen. / Updated &lt;time title=&quot; 3 March 2025 at 09:05&quot; datetime=&quot;2025-03-03T09:05:38Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/PPete2&quot;&gt;PPete2&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;ich habe den Fußweg und die Straßen auf dem Betriebsgelände als privat getaggt</title>
-        <link>https://www.openstreetmap.org/note/3599092#c10232669</link>
-        <guid>https://www.openstreetmap.org/note/3599092#c10232669</guid>
-        <pubDate>Mon, 03 Mar 2025 09:05:38 +0000</pubDate>
-      </item><item>
-        <title>closed note 3588564 (near 48.187, 16.392) / * 2023 March 7 12:24 Created: Die Sozialversicherungsanstalt der Bauern gibts seit 01.01.2020 nicht mehr. Hier befindet sich die Hauptstelle der Sozialversicherung der Selbständigen (nicht zu verwechseln mit der Landesstelle Wien in der Wiedener Hauptstraße 84-86) / Resolved &lt;time title=&quot; 3 March 2025 at 08:45&quot; datetime=&quot;2025-03-03T08:45:06Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/PPete2&quot;&gt;PPete2&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;SVS gibts inzwischen auch nicht mehr da drinn</title>
-        <link>https://www.openstreetmap.org/note/3588564#c10232623</link>
-        <guid>https://www.openstreetmap.org/note/3588564#c10232623</guid>
-        <pubDate>Mon, 03 Mar 2025 08:45:06 +0000</pubDate>
-      </item><item>
-        <title>closed note 3586559 (near 48.135, 16.926) / Created &lt;time title=&quot; 6 March 2023 at 08:54&quot; datetime=&quot;2023-03-06T08:54:34Z&quot;&gt;almost 2 years ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Tajtrdlik&quot;&gt;Tajtrdlik&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;&amp;quot;Forwarding anonymous report from #Mapy.cz user, please verify: &amp;quot;Somewhere here is located hiking signpost&amp;quot;. / Resolved &lt;time title=&quot; 3 March 2025 at 08:41&quot; datetime=&quot;2025-03-03T08:41:26Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/PPete2&quot;&gt;PPete2&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;</title>
-        <link>https://www.openstreetmap.org/note/3586559#c10232612</link>
-        <guid>https://www.openstreetmap.org/note/3586559#c10232612</guid>
-        <pubDate>Mon, 03 Mar 2025 08:41:26 +0000</pubDate>
-      </item><item>
-        <title>new comment 3584263 (near 48.205, 16.369) / Created &lt;time title=&quot; 4 March 2023 at 15:46&quot; datetime=&quot;2023-03-04T15:46:47Z&quot;&gt;almost 2 years ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Loram&quot;&gt;Loram&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Ist hier, mitten in der Stadt, wirklich ein Gräberfeld (amenity=grave_yard)? / Updated &lt;time title=&quot;10 March 2023 at 16:25&quot; datetime=&quot;2023-03-10T16:25:46Z&quot;&gt;almost 2 years ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/mapperich&quot;&gt;mapperich&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Auf wien.gv steht bei  Antike Verortung: &amp;quot;Canabae/Gräberfeld&amp;quot;
-https://www.wien.gv.at/kulturportal/public/identifyFundpunkt.aspx?id=ARCH.FUNDPKT_P.4250791&amp;amp;mid=a080aa21-2462-4e3b-b09e-d49ea21f129e&amp;amp;ftype=vienna:ARCH.FUNDPKT_P&amp;amp;g=70666b9e-d89a-4270-8206-4520048ac1c1&amp;amp;cid=228dceca-6172-4cd5-9f94-02240d125bc3 / Updated &lt;time title=&quot; 5 April 2024 at 21:50&quot; datetime=&quot;2024-04-05T21:50:04Z&quot;&gt;11 months ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/fdemmer&quot;&gt;fdemmer&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;link ging bei mir nicht; hier archive.org: https://web.archive.org/web/20240405214513/https://www.wien.gv.at/kulturportal/public/identifyFundpunkt.aspx?id=ARCH.FUNDPKT_P.5257869&amp;amp;mid=7fb48b51-b8bd-4fb0-b65a-68e0a730d689&amp;amp;ftype=vienna:ARCH.FUNDPKT_P&amp;amp;g=c6bab909-0ce3-4a28-b900-e9a4f139f600&amp;amp;cid=a25cac60-7173-4c76-94a2-729a28f525c0
-
-halte die angaben dort etwas zu wage um &amp;quot;amenity=grave_yard&amp;quot; zu rechtfertigen, aber bin ja auch kein archeologe. / Updated &lt;time title=&quot; 3 March 2025 at 08:39&quot; datetime=&quot;2025-03-03T08:39:43Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/PPete2&quot;&gt;PPete2&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Ich bin auch der Meinung von  fdemmer, das was heutzutage vorhanden ist, ist kein römisches/mittelalterliches Gräberfeld mehr, auhc keine &amp;quot;archäologische Site&amp;quot;. Gibts überhaupt eine Infotafel dazu vorort? Das &amp;quot;historic=wayside_cross&amp;quot; bezieht sich ja auf die Opfer der Fliegerbombe.</title>
-        <link>https://www.openstreetmap.org/note/3584263#c10232608</link>
-        <guid>https://www.openstreetmap.org/note/3584263#c10232608</guid>
-        <pubDate>Mon, 03 Mar 2025 08:39:43 +0000</pubDate>
-      </item><item>
-        <title>new comment 4614185 (near 47.490, 19.059) / Created &lt;time title=&quot; 4 February 2025 at 20:40&quot; datetime=&quot;2025-02-04T20:40:13Z&quot;&gt;28 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/ha5vsa&quot;&gt;ha5vsa&lt;/a&gt;&lt;/div&gt;
+        <title>new comment 4614185 (near Belváros, 5th district) / Created &lt;time title=&quot; 4 February 2025 at 20:40&quot; datetime=&quot;2025-02-04T20:40:13Z&quot;&gt;28 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/ha5vsa&quot;&gt;ha5vsa&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Unable to answer &amp;quot;This shop has been vacant. What’s here now?&amp;quot; – Pántlika – https://osm.org/node/3364247279 via StreetComplete_ee 60.0:
 
 Csomagautomata-szoba lett / Updated &lt;time title=&quot; 3 March 2025 at 07:04&quot; datetime=&quot;2025-03-03T07:04:29Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/gymate&quot;&gt;gymate&lt;/a&gt;&lt;/div&gt;
@@ -750,21 +309,7 @@ Csomagautomata-szoba lett / Updated &lt;time title=&quot; 3 March 2025 at 07:04&
         <guid>https://www.openstreetmap.org/note/4614185#c10232394</guid>
         <pubDate>Mon, 03 Mar 2025 07:04:29 +0000</pubDate>
       </item><item>
-        <title>closed note 4593384 (near 48.060, 18.944) / Created &lt;time title=&quot;18 January 2025 at 22:01&quot; datetime=&quot;2025-01-18T22:01:07Z&quot;&gt;about 1 month ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/adriangulo&quot;&gt;adriangulo&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Prejazdná cesta pre motorové vozidlá do 3,5 t / Resolved &lt;time title=&quot; 3 March 2025 at 06:16&quot; datetime=&quot;2025-03-03T06:16:56Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kookykooky&quot;&gt;Kookykooky&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;</title>
-        <link>https://www.openstreetmap.org/note/4593384#c10232353</link>
-        <guid>https://www.openstreetmap.org/note/4593384#c10232353</guid>
-        <pubDate>Mon, 03 Mar 2025 06:16:56 +0000</pubDate>
-      </item><item>
-        <title>closed note 4593385 (near 48.060, 18.944) / Created &lt;time title=&quot;18 January 2025 at 22:01&quot; datetime=&quot;2025-01-18T22:01:33Z&quot;&gt;about 1 month ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/adriangulo&quot;&gt;adriangulo&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Prejazd povolený ! / Resolved &lt;time title=&quot; 3 March 2025 at 06:16&quot; datetime=&quot;2025-03-03T06:16:52Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kookykooky&quot;&gt;Kookykooky&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;</title>
-        <link>https://www.openstreetmap.org/note/4593385#c10232350</link>
-        <guid>https://www.openstreetmap.org/note/4593385#c10232350</guid>
-        <pubDate>Mon, 03 Mar 2025 06:16:52 +0000</pubDate>
-      </item><item>
-        <title>new note 4649141 (near 47.673, 17.656) / Created &lt;time title=&quot; 3 March 2025 at 05:30&quot; datetime=&quot;2025-03-03T05:30:07Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/gellrt&quot;&gt;gellrt&lt;/a&gt;&lt;/div&gt;
+        <title>new note 4649141 (near Adyváros, Gyor) / Created &lt;time title=&quot; 3 March 2025 at 05:30&quot; datetime=&quot;2025-03-03T05:30:07Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/gellrt&quot;&gt;gellrt&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;&amp;quot;Megszűnt&amp;quot;
 The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground.
 OSM snapshot date: 2025-02-13T05:46:10Z
@@ -775,23 +320,7 @@ POI types: building amenity-police
         <guid>https://www.openstreetmap.org/note/4649141#c10232221</guid>
         <pubDate>Mon, 03 Mar 2025 05:30:07 +0000</pubDate>
       </item><item>
-        <title>new note 4648901 (near 47.873, 16.212) / * 2025 March 3 02:38 Created: Arealname: / Biotop Pur Natur / https://www.woellersdorf-steinabrueckl.at/Biotop_Pur_Natur_Steinabrueckl</title>
-        <link>https://www.openstreetmap.org/note/4648901#c10231699</link>
-        <guid>https://www.openstreetmap.org/note/4648901#c10231699</guid>
-        <pubDate>Mon, 03 Mar 2025 02:38:55 +0000</pubDate>
-      </item><item>
-        <title>new comment 4548477 (near 47.834, 16.530) / Created &lt;time title=&quot; 9 December 2024 at 22:38&quot; datetime=&quot;2024-12-09T22:38:36Z&quot;&gt;3 months ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/derloris&quot;&gt;derloris&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Linien 281 und 285 fahren inzwischen einheitlich über die B52 und nicht mehr manchmal via B50 und ÖGK. / Resolved &lt;time title=&quot; 4 January 2025 at 12:20&quot; datetime=&quot;2025-01-04T12:20:04Z&quot;&gt;about 2 months ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/emergency99&quot;&gt;emergency99&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;285 offenbar auch nicht mehr über Familypark. Relationen angepasst. / Reactivated &lt;time title=&quot; 4 January 2025 at 15:27&quot; datetime=&quot;2025-01-04T15:27:26Z&quot;&gt;about 2 months ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/derloris&quot;&gt;derloris&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt; / Updated &lt;time title=&quot; 4 January 2025 at 15:29&quot; datetime=&quot;2025-01-04T15:29:02Z&quot;&gt;about 2 months ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/derloris&quot;&gt;derloris&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Danke. Bzgl Familypark wäre ich nicht so sicher, da dieser immer nur in der Ausflugssaison bedient wurde und der angepasste Fahrplan inkl Stichfahrt meistens erst ungefähr zu Beginn von dieser erschienen ist. Im Vorjahr fuhr man jedenfalls noch hin. / Updated &lt;time title=&quot; 4 January 2025 at 21:39&quot; datetime=&quot;2025-01-04T21:39:10Z&quot;&gt;about 2 months ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/emergency99&quot;&gt;emergency99&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Ok, Falls das im Frühling/Sommer wieder kommt bau ich die Relationen wieder ein. / Updated &lt;time title=&quot; 3 March 2025 at 01:01&quot; datetime=&quot;2025-03-03T01:01:06Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/derloris&quot;&gt;derloris&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Der heurige Sommerfahrplan ist erschienen, man fährt weiterhin die Stichfahrt zum Familypark.</title>
-        <link>https://www.openstreetmap.org/note/4548477#c10231414</link>
-        <guid>https://www.openstreetmap.org/note/4548477#c10231414</guid>
-        <pubDate>Mon, 03 Mar 2025 01:01:06 +0000</pubDate>
-      </item><item>
-        <title>closed note 4647870 (near 47.564, 19.119) / * 2025 March 2 14:07 Created: Palota Park épül itt, a régi házat le is bontották / Updated &lt;time title=&quot; 2 March 2025 at 14:07&quot; datetime=&quot;2025-03-02T14:07:31Z&quot;&gt;2 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/ottwiz&quot;&gt;ottwiz&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 4647870 (near Rákospalota, 15th district) / * 2025 March 2 14:07 Created: Palota Park épül itt, a régi házat le is bontották / Updated &lt;time title=&quot; 2 March 2025 at 14:07&quot; datetime=&quot;2025-03-02T14:07:31Z&quot;&gt;2 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/ottwiz&quot;&gt;ottwiz&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Ez én vagyok csak nem léptem be. Majd felveszem / Resolved &lt;time title=&quot; 2 March 2025 at 22:50&quot; datetime=&quot;2025-03-02T22:50:29Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/ottwiz&quot;&gt;ottwiz&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt; / Reactivated &lt;time title=&quot; 2 March 2025 at 22:50&quot; datetime=&quot;2025-03-02T22:50:31Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/ottwiz&quot;&gt;ottwiz&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt; / Resolved &lt;time title=&quot; 2 March 2025 at 22:50&quot; datetime=&quot;2025-03-02T22:50:37Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/ottwiz&quot;&gt;ottwiz&lt;/a&gt;&lt;/div&gt;
@@ -800,7 +329,7 @@ POI types: building amenity-police
         <guid>https://www.openstreetmap.org/note/4647870#c10230906</guid>
         <pubDate>Sun, 02 Mar 2025 22:50:37 +0000</pubDate>
       </item><item>
-        <title>reactivated note 4647870 (near 47.564, 19.119) / * 2025 March 2 14:07 Created: Palota Park épül itt, a régi házat le is bontották / Updated &lt;time title=&quot; 2 March 2025 at 14:07&quot; datetime=&quot;2025-03-02T14:07:31Z&quot;&gt;2 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/ottwiz&quot;&gt;ottwiz&lt;/a&gt;&lt;/div&gt;
+        <title>reactivated note 4647870 (near Rákospalota, 15th district) / * 2025 March 2 14:07 Created: Palota Park épül itt, a régi házat le is bontották / Updated &lt;time title=&quot; 2 March 2025 at 14:07&quot; datetime=&quot;2025-03-02T14:07:31Z&quot;&gt;2 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/ottwiz&quot;&gt;ottwiz&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Ez én vagyok csak nem léptem be. Majd felveszem / Resolved &lt;time title=&quot; 2 March 2025 at 22:50&quot; datetime=&quot;2025-03-02T22:50:29Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/ottwiz&quot;&gt;ottwiz&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt; / Reactivated &lt;time title=&quot; 2 March 2025 at 22:50&quot; datetime=&quot;2025-03-02T22:50:31Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/ottwiz&quot;&gt;ottwiz&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;</title>
@@ -808,14 +337,14 @@ POI types: building amenity-police
         <guid>https://www.openstreetmap.org/note/4647870#c10230905</guid>
         <pubDate>Sun, 02 Mar 2025 22:50:31 +0000</pubDate>
       </item><item>
-        <title>closed note 4647870 (near 47.564, 19.119) / * 2025 March 2 14:07 Created: Palota Park épül itt, a régi házat le is bontották / Updated &lt;time title=&quot; 2 March 2025 at 14:07&quot; datetime=&quot;2025-03-02T14:07:31Z&quot;&gt;2 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/ottwiz&quot;&gt;ottwiz&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 4647870 (near Rákospalota, 15th district) / * 2025 March 2 14:07 Created: Palota Park épül itt, a régi házat le is bontották / Updated &lt;time title=&quot; 2 March 2025 at 14:07&quot; datetime=&quot;2025-03-02T14:07:31Z&quot;&gt;2 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/ottwiz&quot;&gt;ottwiz&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Ez én vagyok csak nem léptem be. Majd felveszem / Resolved &lt;time title=&quot; 2 March 2025 at 22:50&quot; datetime=&quot;2025-03-02T22:50:29Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/ottwiz&quot;&gt;ottwiz&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;</title>
         <link>https://www.openstreetmap.org/note/4647870#c10230904</link>
         <guid>https://www.openstreetmap.org/note/4647870#c10230904</guid>
         <pubDate>Sun, 02 Mar 2025 22:50:29 +0000</pubDate>
       </item><item>
-        <title>new comment 4601813 (near 47.437, 19.033) / Created &lt;time title=&quot;25 January 2025 at 18:27&quot; datetime=&quot;2025-01-25T18:27:21Z&quot;&gt;about 1 month ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/zsbi&quot;&gt;zsbi&lt;/a&gt;&lt;/div&gt;
+        <title>new comment 4601813 (near Budafok, 22nd district) / Created &lt;time title=&quot;25 January 2025 at 18:27&quot; datetime=&quot;2025-01-25T18:27:21Z&quot;&gt;about 1 month ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/zsbi&quot;&gt;zsbi&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Unable to answer &amp;quot;Which direction leads upwards for these steps?&amp;quot; – Steps – https://osm.org/way/1354234671 via StreetComplete 60.1:
 
 A fel-le lépcsők között járda van. / Updated &lt;time title=&quot; 2 March 2025 at 21:26&quot; datetime=&quot;2025-03-02T21:26:29Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/zsbi&quot;&gt;zsbi&lt;/a&gt;&lt;/div&gt;
@@ -828,7 +357,7 @@ https://streetcomplete.app/p/263617.jpg</title>
         <guid>https://www.openstreetmap.org/note/4601813#c10230556</guid>
         <pubDate>Sun, 02 Mar 2025 21:26:29 +0000</pubDate>
       </item><item>
-        <title>new comment 4601806 (near 47.437, 19.034) / Created &lt;time title=&quot;25 January 2025 at 18:22&quot; datetime=&quot;2025-01-25T18:22:25Z&quot;&gt;about 1 month ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/zsbi&quot;&gt;zsbi&lt;/a&gt;&lt;/div&gt;
+        <title>new comment 4601806 (near Budafok, 22nd district) / Created &lt;time title=&quot;25 January 2025 at 18:22&quot; datetime=&quot;2025-01-25T18:22:25Z&quot;&gt;about 1 month ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/zsbi&quot;&gt;zsbi&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Unable to answer &amp;quot;Which direction leads upwards for these steps?&amp;quot; – Steps – https://osm.org/way/1354233073 via StreetComplete 60.1:
 
 Járda betonlapokkal burkolva.
@@ -852,7 +381,7 @@ https://streetcomplete.app/p/263615.jpg</title>
         <guid>https://www.openstreetmap.org/note/4601806#c10230537</guid>
         <pubDate>Sun, 02 Mar 2025 21:18:52 +0000</pubDate>
       </item><item>
-        <title>new note 4648339 (near 47.791, 19.913) / Created &lt;time title=&quot; 2 March 2025 at 20:11&quot; datetime=&quot;2025-03-02T20:11:39Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/bence88&quot;&gt;bence88&lt;/a&gt;&lt;/div&gt;
+        <title>new note 4648339 (near Észak-Kálváriapart, Gyöngyös) / Created &lt;time title=&quot; 2 March 2025 at 20:11&quot; datetime=&quot;2025-03-02T20:11:39Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/bence88&quot;&gt;bence88&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;büfé
 
 #OsmAnd</title>
@@ -860,7 +389,7 @@ https://streetcomplete.app/p/263615.jpg</title>
         <guid>https://www.openstreetmap.org/note/4648339#c10230357</guid>
         <pubDate>Sun, 02 Mar 2025 20:11:39 +0000</pubDate>
       </item><item>
-        <title>new note 4648338 (near 47.791, 19.913) / Created &lt;time title=&quot; 2 March 2025 at 20:11&quot; datetime=&quot;2025-03-02T20:11:37Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/bence88&quot;&gt;bence88&lt;/a&gt;&lt;/div&gt;
+        <title>new note 4648338 (near Észak-Kálváriapart, Gyöngyös) / Created &lt;time title=&quot; 2 March 2025 at 20:11&quot; datetime=&quot;2025-03-02T20:11:37Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/bence88&quot;&gt;bence88&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;mosdók
 
 #OsmAnd</title>
@@ -868,7 +397,7 @@ https://streetcomplete.app/p/263615.jpg</title>
         <guid>https://www.openstreetmap.org/note/4648338#c10230356</guid>
         <pubDate>Sun, 02 Mar 2025 20:11:37 +0000</pubDate>
       </item><item>
-        <title>new note 4648337 (near 47.791, 19.913) / Created &lt;time title=&quot; 2 March 2025 at 20:11&quot; datetime=&quot;2025-03-02T20:11:35Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/bence88&quot;&gt;bence88&lt;/a&gt;&lt;/div&gt;
+        <title>new note 4648337 (near Észak-Kálváriapart, Gyöngyös) / Created &lt;time title=&quot; 2 March 2025 at 20:11&quot; datetime=&quot;2025-03-02T20:11:35Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/bence88&quot;&gt;bence88&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;hüllőház
 
 #OsmAnd</title>
@@ -876,7 +405,7 @@ https://streetcomplete.app/p/263615.jpg</title>
         <guid>https://www.openstreetmap.org/note/4648337#c10230355</guid>
         <pubDate>Sun, 02 Mar 2025 20:11:35 +0000</pubDate>
       </item><item>
-        <title>new note 4648336 (near 47.791, 19.912) / Created &lt;time title=&quot; 2 March 2025 at 20:11&quot; datetime=&quot;2025-03-02T20:11:33Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/bence88&quot;&gt;bence88&lt;/a&gt;&lt;/div&gt;
+        <title>new note 4648336 (near Észak-Kálváriapart, Gyöngyös) / Created &lt;time title=&quot; 2 March 2025 at 20:11&quot; datetime=&quot;2025-03-02T20:11:33Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/bence88&quot;&gt;bence88&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;játszótér 
 
 #OsmAnd</title>
@@ -884,7 +413,7 @@ https://streetcomplete.app/p/263615.jpg</title>
         <guid>https://www.openstreetmap.org/note/4648336#c10230354</guid>
         <pubDate>Sun, 02 Mar 2025 20:11:33 +0000</pubDate>
       </item><item>
-        <title>new note 4648335 (near 47.791, 19.913) / Created &lt;time title=&quot; 2 March 2025 at 20:11&quot; datetime=&quot;2025-03-02T20:11:31Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/bence88&quot;&gt;bence88&lt;/a&gt;&lt;/div&gt;
+        <title>new note 4648335 (near Észak-Kálváriapart, Gyöngyös) / Created &lt;time title=&quot; 2 March 2025 at 20:11&quot; datetime=&quot;2025-03-02T20:11:31Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/bence88&quot;&gt;bence88&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;oroszlán
 
 #OsmAnd</title>
@@ -892,7 +421,7 @@ https://streetcomplete.app/p/263615.jpg</title>
         <guid>https://www.openstreetmap.org/note/4648335#c10230353</guid>
         <pubDate>Sun, 02 Mar 2025 20:11:31 +0000</pubDate>
       </item><item>
-        <title>new note 4648334 (near 47.791, 19.913) / Created &lt;time title=&quot; 2 March 2025 at 20:11&quot; datetime=&quot;2025-03-02T20:11:29Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/bence88&quot;&gt;bence88&lt;/a&gt;&lt;/div&gt;
+        <title>new note 4648334 (near Észak-Kálváriapart, Gyöngyös) / Created &lt;time title=&quot; 2 March 2025 at 20:11&quot; datetime=&quot;2025-03-02T20:11:29Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/bence88&quot;&gt;bence88&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;kapibara
 
 #OsmAnd</title>
@@ -900,7 +429,7 @@ https://streetcomplete.app/p/263615.jpg</title>
         <guid>https://www.openstreetmap.org/note/4648334#c10230352</guid>
         <pubDate>Sun, 02 Mar 2025 20:11:29 +0000</pubDate>
       </item><item>
-        <title>new note 4648333 (near 47.791, 19.912) / Created &lt;time title=&quot; 2 March 2025 at 20:11&quot; datetime=&quot;2025-03-02T20:11:27Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/bence88&quot;&gt;bence88&lt;/a&gt;&lt;/div&gt;
+        <title>new note 4648333 (near Észak-Kálváriapart, Gyöngyös) / Created &lt;time title=&quot; 2 March 2025 at 20:11&quot; datetime=&quot;2025-03-02T20:11:27Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/bence88&quot;&gt;bence88&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;ló, szamár, póni
 
 #OsmAnd</title>
@@ -908,7 +437,7 @@ https://streetcomplete.app/p/263615.jpg</title>
         <guid>https://www.openstreetmap.org/note/4648333#c10230351</guid>
         <pubDate>Sun, 02 Mar 2025 20:11:27 +0000</pubDate>
       </item><item>
-        <title>new note 4648331 (near 47.791, 19.912) / Created &lt;time title=&quot; 2 March 2025 at 20:11&quot; datetime=&quot;2025-03-02T20:11:24Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/bence88&quot;&gt;bence88&lt;/a&gt;&lt;/div&gt;
+        <title>new note 4648331 (near Észak-Kálváriapart, Gyöngyös) / Created &lt;time title=&quot; 2 March 2025 at 20:11&quot; datetime=&quot;2025-03-02T20:11:24Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/bence88&quot;&gt;bence88&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;kecske, birka
 
 #OsmAnd</title>
@@ -916,7 +445,7 @@ https://streetcomplete.app/p/263615.jpg</title>
         <guid>https://www.openstreetmap.org/note/4648331#c10230348</guid>
         <pubDate>Sun, 02 Mar 2025 20:11:24 +0000</pubDate>
       </item><item>
-        <title>new note 4648330 (near 47.791, 19.912) / Created &lt;time title=&quot; 2 March 2025 at 20:11&quot; datetime=&quot;2025-03-02T20:11:22Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/bence88&quot;&gt;bence88&lt;/a&gt;&lt;/div&gt;
+        <title>new note 4648330 (near Észak-Kálváriapart, Gyöngyös) / Created &lt;time title=&quot; 2 March 2025 at 20:11&quot; datetime=&quot;2025-03-02T20:11:22Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/bence88&quot;&gt;bence88&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;puma
 
 #OsmAnd</title>
@@ -924,7 +453,7 @@ https://streetcomplete.app/p/263615.jpg</title>
         <guid>https://www.openstreetmap.org/note/4648330#c10230347</guid>
         <pubDate>Sun, 02 Mar 2025 20:11:22 +0000</pubDate>
       </item><item>
-        <title>new note 4648300 (near 47.791, 19.912) / Created &lt;time title=&quot; 2 March 2025 at 19:36&quot; datetime=&quot;2025-03-02T19:36:15Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/bence88&quot;&gt;bence88&lt;/a&gt;&lt;/div&gt;
+        <title>new note 4648300 (near Észak-Kálváriapart, Gyöngyös) / Created &lt;time title=&quot; 2 March 2025 at 19:36&quot; datetime=&quot;2025-03-02T19:36:15Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/bence88&quot;&gt;bence88&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;gímszarvas 
 
 #OsmAnd</title>
@@ -932,7 +461,7 @@ https://streetcomplete.app/p/263615.jpg</title>
         <guid>https://www.openstreetmap.org/note/4648300#c10230243</guid>
         <pubDate>Sun, 02 Mar 2025 19:36:15 +0000</pubDate>
       </item><item>
-        <title>new note 4648299 (near 47.791, 19.912) / Created &lt;time title=&quot; 2 March 2025 at 19:36&quot; datetime=&quot;2025-03-02T19:36:13Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/bence88&quot;&gt;bence88&lt;/a&gt;&lt;/div&gt;
+        <title>new note 4648299 (near Észak-Kálváriapart, Gyöngyös) / Created &lt;time title=&quot; 2 March 2025 at 19:36&quot; datetime=&quot;2025-03-02T19:36:13Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/bence88&quot;&gt;bence88&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;dámszarvas
 
 #OsmAnd</title>
@@ -940,7 +469,7 @@ https://streetcomplete.app/p/263615.jpg</title>
         <guid>https://www.openstreetmap.org/note/4648299#c10230242</guid>
         <pubDate>Sun, 02 Mar 2025 19:36:13 +0000</pubDate>
       </item><item>
-        <title>new note 4648298 (near 47.791, 19.912) / Created &lt;time title=&quot; 2 March 2025 at 19:36&quot; datetime=&quot;2025-03-02T19:36:12Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/bence88&quot;&gt;bence88&lt;/a&gt;&lt;/div&gt;
+        <title>new note 4648298 (near Észak-Kálváriapart, Gyöngyös) / Created &lt;time title=&quot; 2 March 2025 at 19:36&quot; datetime=&quot;2025-03-02T19:36:12Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/bence88&quot;&gt;bence88&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;makákó
 
 #OsmAnd</title>
@@ -948,7 +477,7 @@ https://streetcomplete.app/p/263615.jpg</title>
         <guid>https://www.openstreetmap.org/note/4648298#c10230241</guid>
         <pubDate>Sun, 02 Mar 2025 19:36:12 +0000</pubDate>
       </item><item>
-        <title>new note 4648297 (near 47.791, 19.912) / Created &lt;time title=&quot; 2 March 2025 at 19:36&quot; datetime=&quot;2025-03-02T19:36:10Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/bence88&quot;&gt;bence88&lt;/a&gt;&lt;/div&gt;
+        <title>new note 4648297 (near Észak-Kálváriapart, Gyöngyös) / Created &lt;time title=&quot; 2 March 2025 at 19:36&quot; datetime=&quot;2025-03-02T19:36:10Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/bence88&quot;&gt;bence88&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;pávián
 
 #OsmAnd</title>
@@ -956,7 +485,7 @@ https://streetcomplete.app/p/263615.jpg</title>
         <guid>https://www.openstreetmap.org/note/4648297#c10230240</guid>
         <pubDate>Sun, 02 Mar 2025 19:36:10 +0000</pubDate>
       </item><item>
-        <title>new note 4648296 (near 47.791, 19.912) / Created &lt;time title=&quot; 2 March 2025 at 19:36&quot; datetime=&quot;2025-03-02T19:36:09Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/bence88&quot;&gt;bence88&lt;/a&gt;&lt;/div&gt;
+        <title>new note 4648296 (near Észak-Kálváriapart, Gyöngyös) / Created &lt;time title=&quot; 2 March 2025 at 19:36&quot; datetime=&quot;2025-03-02T19:36:09Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/bence88&quot;&gt;bence88&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;vidra
 
 #OsmAnd</title>
@@ -964,45 +493,13 @@ https://streetcomplete.app/p/263615.jpg</title>
         <guid>https://www.openstreetmap.org/note/4648296#c10230239</guid>
         <pubDate>Sun, 02 Mar 2025 19:36:09 +0000</pubDate>
       </item><item>
-        <title>new note 4648295 (near 47.791, 19.912) / Created &lt;time title=&quot; 2 March 2025 at 19:36&quot; datetime=&quot;2025-03-02T19:36:07Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/bence88&quot;&gt;bence88&lt;/a&gt;&lt;/div&gt;
+        <title>new note 4648295 (near Észak-Kálváriapart, Gyöngyös) / Created &lt;time title=&quot; 2 March 2025 at 19:36&quot; datetime=&quot;2025-03-02T19:36:07Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/bence88&quot;&gt;bence88&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;emu
 
 #OsmAnd</title>
         <link>https://www.openstreetmap.org/note/4648295#c10230238</link>
         <guid>https://www.openstreetmap.org/note/4648295#c10230238</guid>
         <pubDate>Sun, 02 Mar 2025 19:36:07 +0000</pubDate>
-      </item><item>
-        <title>new note 4648294 (near 47.791, 19.912) / Created &lt;time title=&quot; 2 March 2025 at 19:36&quot; datetime=&quot;2025-03-02T19:36:05Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/bence88&quot;&gt;bence88&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;nagy mara
-
-#OsmAnd</title>
-        <link>https://www.openstreetmap.org/note/4648294#c10230237</link>
-        <guid>https://www.openstreetmap.org/note/4648294#c10230237</guid>
-        <pubDate>Sun, 02 Mar 2025 19:36:05 +0000</pubDate>
-      </item><item>
-        <title>new note 4648293 (near 47.791, 19.911) / Created &lt;time title=&quot; 2 March 2025 at 19:36&quot; datetime=&quot;2025-03-02T19:36:04Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/bence88&quot;&gt;bence88&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;leopárd 
-
-#OsmAnd</title>
-        <link>https://www.openstreetmap.org/note/4648293#c10230236</link>
-        <guid>https://www.openstreetmap.org/note/4648293#c10230236</guid>
-        <pubDate>Sun, 02 Mar 2025 19:36:04 +0000</pubDate>
-      </item><item>
-        <title>new note 4648292 (near 47.791, 19.911) / Created &lt;time title=&quot; 2 March 2025 at 19:36&quot; datetime=&quot;2025-03-02T19:36:02Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/bence88&quot;&gt;bence88&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;teve, láma
-
-#OsmAnd</title>
-        <link>https://www.openstreetmap.org/note/4648292#c10230235</link>
-        <guid>https://www.openstreetmap.org/note/4648292#c10230235</guid>
-        <pubDate>Sun, 02 Mar 2025 19:36:02 +0000</pubDate>
-      </item><item>
-        <title>new note 4648291 (near 47.791, 19.911) / Created &lt;time title=&quot; 2 March 2025 at 19:36&quot; datetime=&quot;2025-03-02T19:36:00Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/bence88&quot;&gt;bence88&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;tigris
-
-#OsmAnd</title>
-        <link>https://www.openstreetmap.org/note/4648291#c10230234</link>
-        <guid>https://www.openstreetmap.org/note/4648291#c10230234</guid>
-        <pubDate>Sun, 02 Mar 2025 19:36:00 +0000</pubDate>
       </item>
   </channel>
 </rss>
