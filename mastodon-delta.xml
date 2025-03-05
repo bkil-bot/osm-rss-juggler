@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>With #deltachat #chatmail and #webxdc developments we aim to instigate a new modern foundation for secure E-Mail and a resilient Web without platforms. We are building a kind of #minecraft system for modern decentralized messaging. But who are we building it for? For all who need reliable trustable means of modern private communication. While our work needs hackers and experts it&amp;#39;s not designed for them. @tante raises interesting and important related thoughts https://tante.cc/2025/03/03/who-is-free-software-for/</title>
+        <link>https://chaos.social/@delta/114109347567530990</link>
+        <guid>https://chaos.social/@delta/114109347567530990</guid>
+        <pubDate>Wed, 05 Mar 2025 10:27:44 +0000</pubDate>
+      </item><item>
         <title>#deltachat community milestones: Dec 2023: first #chatmail server Feb 2024: iOS push notifications March 2024: ETH Zuerich #security analysis June 2024: Instant onboarding on all clients Nov 2024: #P2P #webxdc realtime and home-screen apps Dec 2024: rPGP #security audit, 20 known #chatmail servers world-wide Jan 2025: new #webxdc store, UI integrated app-picker, webxdc push notifications. Spring 2025: is coming :) money used: ~600K EUR, a tiny amount compared to other messengers.</title>
         <link>https://chaos.social/@delta/114099977435831794</link>
         <guid>https://chaos.social/@delta/114099977435831794</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/113963707915543266</link>
         <guid>https://chaos.social/@delta/113963707915543266</guid>
         <pubDate>Fri, 07 Feb 2025 17:09:39 +0000</pubDate>
-      </item><item>
-        <title>People like to say &amp;quot;email leaks metadata&amp;quot; but consider this: Delta apps do not store group metadata (memberlists, group names, avatars, keys) on servers. By comparison, - #matrix stores group metadata unencrypted on home servers and replicates it to other federated matrix servers - #signal stores encrypted group metadata on Amazon cloud servers #deltachat uses a #p2p messaging model for encrypted group metadata where servers function as transport only.</title>
-        <link>https://chaos.social/@delta/113947104797135349</link>
-        <guid>https://chaos.social/@delta/113947104797135349</guid>
-        <pubDate>Tue, 04 Feb 2025 18:47:16 +0000</pubDate>
       </item>
   </channel>
 </rss>
