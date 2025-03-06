@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Decentralizers, attention! :) Last #deltachat releases introduced stable #p2p group membership not found in any other messenger. Members can add/remove peers also while being offline, and when everything comes online again, everyone has the same consistent membership view. We formalized and ran a simulation model using #TLA+ (invented by Leslie Lamport of vector clock fame): https://github.com/chatmail/models/tree/main/group-membership and a complementary #pytest model with more corner cases tested here: https://github.com/chatmail/models/blob/main/gmc/test_gmc.py</title>
+        <link>https://chaos.social/@delta/114117778104238654</link>
+        <guid>https://chaos.social/@delta/114117778104238654</guid>
+        <pubDate>Thu, 06 Mar 2025 22:11:44 +0000</pubDate>
+      </item><item>
         <title>With #deltachat #chatmail and #webxdc developments we aim to instigate a new modern foundation for secure E-Mail and a resilient Web without platforms. We are building a kind of #minecraft system for modern decentralized messaging. But who are we building it for? For all who need reliable trustable means of modern private communication. While our work needs hackers and experts it&amp;#39;s not designed for them. @tante raises interesting and important related thoughts https://tante.cc/2025/03/03/who-is-free-software-for/</title>
         <link>https://chaos.social/@delta/114109347567530990</link>
         <guid>https://chaos.social/@delta/114109347567530990</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/113968052146160082</link>
         <guid>https://chaos.social/@delta/113968052146160082</guid>
         <pubDate>Sat, 08 Feb 2025 11:34:27 +0000</pubDate>
-      </item><item>
-        <title>Six times so far ... is how often important parts of #deltachat were independently #security audited and analyzed. Thanks to IncludeSecurity, Cure53, Applied Crypto Team at ETH Zuerich and Radical Open Security. Last audit is from December 2024 covering @rpgp , the minimal #OpenPGP Rust library that is gaining traction with others projects as well. Shout-out to dignifiedquire and @hko for their excellent maintenance! For more info on Delta Chat related security audits: https://delta.chat/en/help#security-audits</title>
-        <link>https://chaos.social/@delta/113963707915543266</link>
-        <guid>https://chaos.social/@delta/113963707915543266</guid>
-        <pubDate>Fri, 07 Feb 2025 17:09:39 +0000</pubDate>
       </item>
   </channel>
 </rss>
