@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>The downside of our project approach was that we often got experts being very dismissive on re-using email and #OpenPGP ... and there still is some opposition which often subsides when actually trying #deltachat and #chatmail, looking at security audits and our strong usable security focus. There may also be surprising upsides. The UK &amp;quot;Online Safety Bill&amp;quot; which attacks end-to-end encryption integrity seems to not apply for ... e-mail. Because everyone knows, e-mail is unencrypted, right? :) screenshot of page 7 of https://www.legislation.gov.uk/ukpga/2023/50/enacted CHAPTER 7Interpretation of Part 3 55“Regulated user-generated content”, “user-generated content”, “news publisher content” (1)This section applies for the purposes of this Part. (2)“Regulated user-generated content”, in relation to a regulated user-to-user service, means user-generated content, except— (a)emails, (b)SMS messages, (c)MMS messages, (d)one-to-one live aural communications (see subsection (5)), (e)comments and reviews on provider content (see subsection (6)), (f)identifying content that accompanies content within any of paragraphs (a) to (e), and (g)news publisher content (see subsection (8)).</title>
+        <link>https://chaos.social/@delta/114122360284477256</link>
+        <guid>https://chaos.social/@delta/114122360284477256</guid>
+        <pubDate>Fri, 07 Mar 2025 17:37:02 +0000</pubDate>
+      </item><item>
         <title>Decentralizers, attention! :) Last #deltachat releases introduced stable #p2p group membership not found in any other messenger. Members can add/remove peers also while being offline, and when everything comes online again, everyone has the same consistent membership view. We formalized and ran a simulation model using #TLA+ (invented by Leslie Lamport of vector clock fame): https://github.com/chatmail/models/tree/main/group-membership and a complementary #pytest model with more corner cases tested here: https://github.com/chatmail/models/blob/main/gmc/test_gmc.py</title>
         <link>https://chaos.social/@delta/114117778104238654</link>
         <guid>https://chaos.social/@delta/114117778104238654</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/113973431511179193</link>
         <guid>https://chaos.social/@delta/113973431511179193</guid>
         <pubDate>Sun, 09 Feb 2025 10:22:30 +0000</pubDate>
-      </item><item>
-        <title>Delta Chat is since some years gaining usage by people forced to flee. Several of our contributors themselves migrated and others fear they might soon have to. Our technical designs and social approaches rest on a #RightToExit on virtually all levels. No walled gardens. No presidents. It&amp;#39;s true that #deltachat is a money-poor project compared to mainstream messengers ... But the question at hand in 2025 is: which messaging system will persevere when corporate platforms get corrupted and break?</title>
-        <link>https://chaos.social/@delta/113968052146160082</link>
-        <guid>https://chaos.social/@delta/113968052146160082</guid>
-        <pubDate>Sat, 08 Feb 2025 11:34:27 +0000</pubDate>
       </item>
   </channel>
 </rss>
