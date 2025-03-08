@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Release cycle completed. Please update so we can initiate the next release round with a long awaited feature ;) Generally delta apps are compatible to all currently released apps and because 15+ app stores come with all kinds of shenegigans and delays it sometimes takes two cycles to roll out new features, one forward compatible one and then the actual enabling one. We usually also try to degrade nicely if installed versions are further than a version apart. No worries ;) Screenshot of release Status Delta, all major platforms are green. Android 🚀1.54.3 VersionPlay Store1.54.3F-Droid1.54.3Huawei App Gallery1.54.3Amazon1.54.3get.delta.chat1.54.3GitHub Releases1.54.3 iOS 🚀1.54.3 VersionApp Store1.54.3 Desktop 🚀1.54.2 VersionMicrosoft Store1.54.2Mac App Store1.54.2Flathub1.54.2get.delta.chat1.54.2GitHub Releases1.54.2</title>
+        <link>https://chaos.social/@delta/114126529706721026</link>
+        <guid>https://chaos.social/@delta/114126529706721026</guid>
+        <pubDate>Sat, 08 Mar 2025 11:17:23 +0000</pubDate>
+      </item><item>
         <title>The downside of our project approach was that we often got experts being very dismissive on re-using email and #OpenPGP ... and there still is some opposition which often subsides when actually trying #deltachat and #chatmail, looking at security audits and our strong usable security focus. There may also be surprising upsides. The UK &amp;quot;Online Safety Bill&amp;quot; which attacks end-to-end encryption integrity seems to not apply for ... e-mail. Because everyone knows, e-mail is unencrypted, right? :) screenshot of page 7 of https://www.legislation.gov.uk/ukpga/2023/50/enacted CHAPTER 7Interpretation of Part 3 55“Regulated user-generated content”, “user-generated content”, “news publisher content” (1)This section applies for the purposes of this Part. (2)“Regulated user-generated content”, in relation to a regulated user-to-user service, means user-generated content, except— (a)emails, (b)SMS messages, (c)MMS messages, (d)one-to-one live aural communications (see subsection (5)), (e)comments and reviews on provider content (see subsection (6)), (f)identifying content that accompanies content within any of paragraphs (a) to (e), and (g)news publisher content (see subsection (8)).</title>
         <link>https://chaos.social/@delta/114122360284477256</link>
         <guid>https://chaos.social/@delta/114122360284477256</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/113986195771829545</link>
         <guid>https://chaos.social/@delta/113986195771829545</guid>
         <pubDate>Tue, 11 Feb 2025 16:28:37 +0000</pubDate>
-      </item><item>
-        <title>The #chatmail #fosdem talk from @compl4xx is public. It goes into topics such as - why chatmail servers? - how to setup a server with your child - (avoiding) spam filtering - metadata and guaranteed end to end encryption in #deltachat - #cryptographic #interoperability for email message routing Thanks to attendees for the great energy even if was the last talk on the day and also for questions and conversations afterwards! https://ftp.fau.de/fosdem/2025/k4601/fosdem-2025-5217-chatmail-server-networks-for-anonymous-end-to-end-encrypted-messaging.mp4</title>
-        <link>https://chaos.social/@delta/113973431511179193</link>
-        <guid>https://chaos.social/@delta/113973431511179193</guid>
-        <pubDate>Sun, 09 Feb 2025 10:22:30 +0000</pubDate>
       </item>
   </channel>
 </rss>
