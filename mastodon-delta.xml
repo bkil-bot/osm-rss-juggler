@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>We are not aware of other FOSS development teams that have as extensive knowledge, both theoretical and practical, about #email and #openpgp and regularly release across all platforms for users world wide ... except for #protonmail with whose technical and security experts we discuss regularly. They are the other major game in town doing pervasive email encryption after all. Did you know that Proton&amp;#39;s and delta&amp;#39;s VCards are compatible across ecosystems and establish immediate encryption?</title>
+        <link>https://chaos.social/@delta/114132546072182499</link>
+        <guid>https://chaos.social/@delta/114132546072182499</guid>
+        <pubDate>Sun, 09 Mar 2025 12:47:25 +0000</pubDate>
+      </item><item>
         <title>Release cycle completed. Please update so we can initiate the next release round with a long awaited feature ;) Generally delta apps are compatible to all currently released apps and because 15+ app stores come with all kinds of shenegigans and delays it sometimes takes two cycles to roll out new features, one forward compatible one and then the actual enabling one. We usually also try to degrade nicely if installed versions are further than a version apart. No worries ;) Screenshot of release Status Delta, all major platforms are green. Android 🚀1.54.3 VersionPlay Store1.54.3F-Droid1.54.3Huawei App Gallery1.54.3Amazon1.54.3get.delta.chat1.54.3GitHub Releases1.54.3 iOS 🚀1.54.3 VersionApp Store1.54.3 Desktop 🚀1.54.2 VersionMicrosoft Store1.54.2Mac App Store1.54.2Flathub1.54.2get.delta.chat1.54.2GitHub Releases1.54.2</title>
         <link>https://chaos.social/@delta/114126529706721026</link>
         <guid>https://chaos.social/@delta/114126529706721026</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/113992608481000733</link>
         <guid>https://chaos.social/@delta/113992608481000733</guid>
         <pubDate>Wed, 12 Feb 2025 19:39:27 +0000</pubDate>
-      </item><item>
-        <title>Interested to take a little tour through how #deltachat apps and the #rustlang core library are wired together? @treefit and @WofWca provide a deep-dive into the history of apps migrating from a C-Foreign-Function-Interface to a #Rust based JSON-RPC mechanism, with entertaining horror stories like how an iOS release some years ago could delete profiles without the user intending it 😬 The post also highlights a few areas where folks interested to help could start ... https://delta.chat/en/2025-02-11-why-jsonrpc-bindings-exist</title>
-        <link>https://chaos.social/@delta/113986195771829545</link>
-        <guid>https://chaos.social/@delta/113986195771829545</guid>
-        <pubDate>Tue, 11 Feb 2025 16:28:37 +0000</pubDate>
       </item>
   </channel>
 </rss>
