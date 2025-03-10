@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: Spush Discussion Comment No.: 1 Comment: Szerintem ez így nem jó, hogy meglévő temető területhasználatra temetőt raksz. A szektorok felvitele a cemetery=sector tag lenne a jobb választás, ámbár azt a renderelő nem rajzolja ki. Date: 2025-03-10T19:10:20+01:00</title>
+        <title>Contributor: vasony Discussion Comment No.: 2 Comment: Továbbá javaslom a sok elírt, duplikált, rövidített név helyett egyszerűen a ref címkét használni 1 db betűvel. Pl: a name=&quot;Ligeti t Aparcella&quot; helyett, ref=A Date: 2025-03-10T19:45:32+01:00</title>
         <link>https://www.openstreetmap.org/changeset/163456233</link>
-        <guid>https://www.openstreetmap.org/changeset/163456233#comment_1</guid>
-        <pubDate>2025-03-10T19:10:20+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/163456233#comment_2</guid>
+        <pubDate>2025-03-10T19:45:32+01:00</pubDate>
       </item><item>
         <title>Contributor: balint36 Discussion Comment No.: 3 Comment: Ja, azt nem néztem, csak azt láttam ORM-on, hogy a LÁÉV-en valami furcsa. Date: 2025-03-09T22:19:15+01:00</title>
         <link>https://www.openstreetmap.org/changeset/140396503</link>
@@ -57,11 +57,6 @@
         <link>https://www.openstreetmap.org/changeset/163219325</link>
         <guid>https://www.openstreetmap.org/changeset/163219325#comment_1</guid>
         <pubDate>2025-03-05T08:40:09+01:00</pubDate>
-      </item><item>
-        <title>Contributor: vasony Discussion Comment No.: 1 Comment: wiki szerint a MOL a régi neve... Date: 2025-03-03T20:32:37+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/162641621</link>
-        <guid>https://www.openstreetmap.org/changeset/162641621#comment_1</guid>
-        <pubDate>2025-03-03T20:32:37+01:00</pubDate>
       </item>
   </channel>
 </rss>
