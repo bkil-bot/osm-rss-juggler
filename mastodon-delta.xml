@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Appeared yesterday. A weird time-space distorting stargate. We are still figuring out what it means and how to operate it safely. an image of a Stargate (from the same-named movie) and a weird long yellow object with some hard to recognize Delta-logo.</title>
+        <link>https://chaos.social/@delta/114143315433108295</link>
+        <guid>https://chaos.social/@delta/114143315433108295</guid>
+        <pubDate>Tue, 11 Mar 2025 10:26:13 +0000</pubDate>
+      </item><item>
         <title>We are not aware of other FOSS development teams that have as extensive knowledge, both theoretical and practical, about #email and #openpgp and regularly release across all platforms for users world wide ... except for #protonmail with whose technical and security experts we discuss regularly. They are the other major game in town doing pervasive email encryption after all. Did you know that Proton&amp;#39;s and delta&amp;#39;s VCards are compatible across ecosystems and establish immediate encryption?</title>
         <link>https://chaos.social/@delta/114132546072182499</link>
         <guid>https://chaos.social/@delta/114132546072182499</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/113996091246950784</link>
         <guid>https://chaos.social/@delta/113996091246950784</guid>
         <pubDate>Thu, 13 Feb 2025 10:25:10 +0000</pubDate>
-      </item><item>
-        <title>There is a new #chatmail server deployment using #chef tooling, put together by @feld , incorporating the same &amp;quot;chatmaild&amp;quot; services used by the mainline chatmail server template, and also otherwise achieving feature-parity ... Thanks Mark! https://github.com/feld/chatmail-cookbook</title>
-        <link>https://chaos.social/@delta/113992608481000733</link>
-        <guid>https://chaos.social/@delta/113992608481000733</guid>
-        <pubDate>Wed, 12 Feb 2025 19:39:27 +0000</pubDate>
       </item>
   </channel>
 </rss>
