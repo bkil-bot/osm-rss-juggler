@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: Spush Discussion Comment No.: 3 Comment: Úgy látom nem érti a kedves szerkesztő, hogy azzal amit csinál kb több kárt csinál az adatbázisban mint hasznot. Ebből revert lesz úgy látom. Date: 2025-03-12T10:02:14+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/163456233</link>
+        <guid>https://www.openstreetmap.org/changeset/163456233#comment_3</guid>
+        <pubDate>2025-03-12T10:02:14+01:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! crossing_ref helyett manapság a crossing:markings-ot használjuk, sokkal részletesebben le lehet írni felfestéseket: https://wiki.openstreetmap.org/wiki/Key:crossing:markings A crossing_ref meg marad azokban az országokban ahol ezek a többi állatnevek használatban vannak, nálunk ilyenek nincsenek: https://wiki.openstreetmap.org/wiki/Key:crossing_ref További jó térképezést! Date: 2025-03-11T14:45:26+01:00</title>
         <link>https://www.openstreetmap.org/changeset/161504026</link>
         <guid>https://www.openstreetmap.org/changeset/161504026#comment_1</guid>
@@ -17,11 +22,6 @@
         <link>https://www.openstreetmap.org/changeset/163449373</link>
         <guid>https://www.openstreetmap.org/changeset/163449373#comment_1</guid>
         <pubDate>2025-03-10T21:42:49+01:00</pubDate>
-      </item><item>
-        <title>Contributor: vasony Discussion Comment No.: 2 Comment: Továbbá javaslom a sok elírt, duplikált, rövidített név helyett egyszerűen a ref címkét használni 1 db betűvel. Pl: a name=&quot;Ligeti t Aparcella&quot; helyett, ref=A Date: 2025-03-10T19:45:32+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/163456233</link>
-        <guid>https://www.openstreetmap.org/changeset/163456233#comment_2</guid>
-        <pubDate>2025-03-10T19:45:32+01:00</pubDate>
       </item><item>
         <title>Contributor: balint36 Discussion Comment No.: 3 Comment: Ja, azt nem néztem, csak azt láttam ORM-on, hogy a LÁÉV-en valami furcsa. Date: 2025-03-09T22:19:15+01:00</title>
         <link>https://www.openstreetmap.org/changeset/140396503</link>
