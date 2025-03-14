@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Another #deltachat release highlight that we didn&amp;#39;t tell about yet: De-duplication of attachments and media files. De-duplication means that if you share a larger file to multiple chats, it will only ever exist once in each sending and receiving device&amp;#39;s storage. Same for #webxdc apps -- so if you use the 650KB big &amp;quot;v86emu&amp;quot; app running 32-bit ISO images, it will also only exist once in storage, even if each instance in a chat creates its own realtime LAN. Mini-tutorial https://chaos.social/@delta/114161626183191989</title>
+        <link>https://chaos.social/@delta/114161809432634807</link>
+        <guid>https://chaos.social/@delta/114161809432634807</guid>
+        <pubDate>Fri, 14 Mar 2025 16:49:29 +0000</pubDate>
+      </item><item>
         <title>Appeared yesterday. A weird time-space distorting stargate. We are still figuring out what it means and how to operate it safely. an image of a Stargate (from the same-named movie) and a weird long yellow object with some hard to recognize Delta-logo.</title>
         <link>https://chaos.social/@delta/114143315433108295</link>
         <guid>https://chaos.social/@delta/114143315433108295</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/113996277673600200</link>
         <guid>https://chaos.social/@delta/113996277673600200</guid>
         <pubDate>Thu, 13 Feb 2025 11:12:34 +0000</pubDate>
-      </item><item>
-        <title>Despite not having a lot of money we are yearly subscribed to give 300eur to the #foss #forgejo platform of @Codeberg who are currently suffering sustained network and abuse attacks https://social.anoxinon.de/@Codeberg/113995906071458932 Some of our #webxdc developments takes place on Codeberg. Thanks for persevering! #hugops</title>
-        <link>https://chaos.social/@delta/113996091246950784</link>
-        <guid>https://chaos.social/@delta/113996091246950784</guid>
-        <pubDate>Thu, 13 Feb 2025 10:25:10 +0000</pubDate>
       </item>
   </channel>
 </rss>
