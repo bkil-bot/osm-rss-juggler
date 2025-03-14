@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Do you know of any other messenger that is not only #fediverse first but fediverse-only when it comes to public communication and interaction? It&amp;#39;s a deliberate choice that is oriented towards organic contribution growth and staying under the radar. We do not employ a &amp;quot;get as popular as possible&amp;quot; strategy because it&amp;#39;s all about real work not hype (of which there is no lack these days for IT things) ... and with few money. Let&amp;#39;s see where we are in a few months ... Spring is coming :)</title>
+        <link>https://chaos.social/@delta/114161998487090876</link>
+        <guid>https://chaos.social/@delta/114161998487090876</guid>
+        <pubDate>Fri, 14 Mar 2025 17:37:33 +0000</pubDate>
+      </item><item>
         <title>Another #deltachat release highlight that we didn&amp;#39;t tell about yet: De-duplication of attachments and media files. De-duplication means that if you share a larger file to multiple chats, it will only ever exist once in each sending and receiving device&amp;#39;s storage. Same for #webxdc apps -- so if you use the 650KB big &amp;quot;v86emu&amp;quot; app running 32-bit ISO images, it will also only exist once in storage, even if each instance in a chat creates its own realtime LAN. Mini-tutorial https://chaos.social/@delta/114161626183191989</title>
         <link>https://chaos.social/@delta/114161809432634807</link>
         <guid>https://chaos.social/@delta/114161809432634807</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114003835194666923</link>
         <guid>https://chaos.social/@delta/114003835194666923</guid>
         <pubDate>Fri, 14 Feb 2025 19:14:33 +0000</pubDate>
-      </item><item>
-        <title>No coins, no chains, no big machinery but plain, efficient and scalable decentralization, leveraging the largest open internet messaging network ever created by humans ... made safe, fast and resource efficient with #chatmail servers using strong and audited #interoperable #cryptography. It just works (tm) in many places where Signal and WhatsApp fail today. It&amp;#39;s time to reclaim &amp;quot;decentralization&amp;quot; from techbros, insist on real-life #resilience and trust this cute figure from @Xeniax :) A photograph of a small blue figure with a mask, holding a little &quot;decentralized&quot; handwritten banner with &quot;d&quot; being the delta logo symbol. Background of the photo is a forest and a lake in early spring.</title>
-        <link>https://chaos.social/@delta/113996277673600200</link>
-        <guid>https://chaos.social/@delta/113996277673600200</guid>
-        <pubDate>Thu, 13 Feb 2025 11:12:34 +0000</pubDate>
       </item>
   </channel>
 </rss>
