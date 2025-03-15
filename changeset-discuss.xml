@@ -67,11 +67,6 @@
         <link>https://www.openstreetmap.org/changeset/62959428</link>
         <guid>https://www.openstreetmap.org/changeset/62959428#comment_3</guid>
         <pubDate>2025-03-09T08:31:55+01:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Üdv az OpenStreetMapen! Ha csak egy pontként veszed fel a kamerát, akkor azt az út egy pontjára kell felvenni, nem ott ahol a kamera fizikailag található. Mint ahogy a közlekedési táblákat is az úton jelöljük (egyirányú, sebességhatár, stb). https://wiki.openstreetmap.org/wiki/Tag:highway%3Dspeed_camera Ha a fizikai helyét is jelölni akarod, akkor ahhoz csinálni kell egy Enforcement relációt, de az elég macerás: https://wiki.openstreetmap.org/wiki/Relation:enforcement A legtöbb kamera az előbbi módon van felvéve itthon. Állítható irányúaknál az irányt (direction) nem szoktuk megadni, mert nem tudhatod, hogy mondjuk egy év múlva megfordítják-e. Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! Date: 2025-03-08T20:06:53+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/163345807</link>
-        <guid>https://www.openstreetmap.org/changeset/163345807#comment_1</guid>
-        <pubDate>2025-03-08T20:06:53+01:00</pubDate>
       </item>
   </channel>
 </rss>
