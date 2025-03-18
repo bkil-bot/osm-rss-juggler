@@ -3,6 +3,11 @@
   <channel>
     <title>Net Hugging Hardware and Software (via bkil-bot)</title>
       <item>
+        <title>Wardriving with smartwatches - any advice and recommendations?: Hi, today I thought about trying to install Wigle on a smart watch, specifically the Samsung Galaxy Watch 4, it can be done using wireless debugging. It seems to work, and quite well, the advantage of the watch is its inconspicuousness and at the same time an unobstructed view of the surroundings on the wrist, the only problem is the rate at which the battery drains. Has anyone ever tried Wigle on a watch? Do you have any advice on recommended watches for the best price/performance and battery life? Thanks for answers, it's certainly an interesting topic. -lukaskicz</title>
+        <link>https://wigle.net/phpbb/viewtopic.php?p=12520#p12520</link>
+        <guid>https://wigle.net/phpbb/viewtopic.php?p=12520#p12520</guid>
+        <pubDate>2025-03-18T09:01:02+00:00</pubDate>
+      </item><item>
         <title>Re: Temporary laptop / car rig: A little late but On a laptop with a GPS usb, you can use kismet. There is now a wardrive mode, that is more light weight to run, but in whatever mode, this is not a problem on a laptop. I am assuming a Linux OS here, or anyhting that is not Windows ... On a rpi, you can try to run my little app https://github.com/solsticedhiver/ssid-logger. But that requires a minimum of knowledge to get it up and running -zebul666</title>
         <link>https://wigle.net/phpbb/viewtopic.php?p=12508#p12508</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12508#p12508</guid>
@@ -72,11 +77,6 @@
         <link>https://wigle.net/phpbb/viewtopic.php?p=12412#p12412</link>
         <guid>https://wigle.net/phpbb/viewtopic.php?p=12412#p12412</guid>
         <pubDate>2024-11-02T16:34:22+00:00</pubDate>
-      </item><item>
-        <title>Re: Pixel 9 (Pro) its so bad, wow...: Ouch, I've been side-by-siding my new Pixel 9 with my venerable Samsung Z-flip 3 for the last 24 hours. - Throttle disabled - Settings same or faster for scan speed - &quot;Keep Screen On&quot; with a button push afterward to avoid burning up my battery immediately. - ZFlip has an immense database from years of running (vs. the clean new Pixel 9) The Z Flip 3 is seeing LITERALLY 3x as many WiFi networks as the new hotness. Google has absolutely nerfed these things to death. -arkasha</title>
-        <link>https://wigle.net/phpbb/viewtopic.php?p=12410#p12410</link>
-        <guid>https://wigle.net/phpbb/viewtopic.php?p=12410#p12410</guid>
-        <pubDate>2024-11-01T00:17:57+00:00</pubDate>
       </item>
   </channel>
 </rss>
