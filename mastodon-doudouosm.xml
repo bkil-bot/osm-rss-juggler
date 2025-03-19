@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>Interesting article and picture gallery of what the agricultural patterns as seen from space reveal about the local practices but also the history. https://www.geographyrealm.com/types-of-agricultural-patterns-visible-from-space/ Naturally, this also reflects in the #OpenStreetMap data, when mappers diligently map individual pieces of farmland. https://overpass-turbo.eu/s/20Dt So, does it imply there could be a way to discover interesting patterns through raw data as well? Patchwork of narrow agricultural fields near Sułoszowa, PolandVisualization with Overpass-Turbo of the patchwork of pieces of farmland mapped in OpenStreetMap</title>
+        <link>https://en.osm.town/@Doudouosm/114188001372344343</link>
+        <guid>https://en.osm.town/@Doudouosm/114188001372344343</guid>
+        <pubDate>Wed, 19 Mar 2025 07:50:26 +0000</pubDate>
+      </item><item>
         <title>Suggestions how to do this? I used to use #ehtermap (https://getethermap.org/) to do this, but it looks down these days. The idea is to let online meeting participants see a map of the world of where everyone is. Practically, they would push a pin on the map, and it would show everyone&amp;#39;s location. #map #OpenStreetMap</title>
         <link>https://en.osm.town/@Doudouosm/113396151032968169</link>
         <guid>https://en.osm.town/@Doudouosm/113396151032968169</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/110567313565719765</link>
         <guid>https://en.osm.town/@Doudouosm/110567313565719765</guid>
         <pubDate>Sun, 18 Jun 2023 21:21:54 +0000</pubDate>
-      </item><item>
-        <title>This month, the #OpenStreetMap Belgium’s Mapper of the Month #MotM is @zverik (Ilya), probably already known to you for his #Everydoor or #OSMCards projects (and a lot more, of course): https://openstreetmap.be/en/motm/2023/06/01/zverev.html.</title>
-        <link>https://en.osm.town/@Doudouosm/110486377306160827</link>
-        <guid>https://en.osm.town/@Doudouosm/110486377306160827</guid>
-        <pubDate>Sun, 04 Jun 2023 14:18:45 +0000</pubDate>
       </item>
   </channel>
 </rss>
