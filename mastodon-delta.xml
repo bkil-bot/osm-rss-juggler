@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>#Signal took a huge bet that running on US big-tech toxic infrastructure is fine because its groundbreaking and industry-shaping cryptography is crafted to neutralize it and keep users safe. But is it really feasible to live on toxic infrastructure in the longer run? #deltachat rather takes a bet on the massive e-mail server network and interoperable protocols, and on #chatmail servers which enforce message encryption and metadata-minimization. Delta is for when centralization turns sour.</title>
+        <link>https://chaos.social/@delta/114194877283479955</link>
+        <guid>https://chaos.social/@delta/114194877283479955</guid>
+        <pubDate>Thu, 20 Mar 2025 12:59:04 +0000</pubDate>
+      </item><item>
         <title>iOS already has it, and other stores will soon have it ... long-awaited, and sometimes assumed to be impossible, features: - Edit or delete your past messages. Finally you can typo-fix and retract your messages! - Delete other&amp;#39;s messages at once from all your own devices. Housekeeping bliss! - Bookmark/Save any message to &amp;quot;Saved message&amp;quot;. Better chances to find things back! Your reaction? Wow, finally. I was waiting for this! Great but wait, how is this possible with e-mail? Sounds good but also a bit scary! Don&amp;#39;t need it. But friends might appreciate it.</title>
         <link>https://chaos.social/@delta/114177711939226484</link>
         <guid>https://chaos.social/@delta/114177711939226484</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114049598921932641</link>
         <guid>https://chaos.social/@delta/114049598921932641</guid>
         <pubDate>Sat, 22 Feb 2025 21:12:52 +0000</pubDate>
-      </item><item>
-        <title>Multi device setup with #deltachat only works within the same WiFi even though @n0iroh is integrated, a production quality P2P networking library for all platforms, with hole punching etc. You may regard delta&amp;#39;s &amp;quot;same wifi&amp;quot; restriction for multi-device setup as an additional protection against phishing attacks like Signal lately suffered https://cloud.google.com/blog/topics/threat-intelligence/russia-targeting-signal-messenger Moreover, if your wifi does not work you can do a mobile hotspot and use that for transfer. No DNS/internet needed. Thanks Iroh :)</title>
-        <link>https://chaos.social/@delta/114047697172280907</link>
-        <guid>https://chaos.social/@delta/114047697172280907</guid>
-        <pubDate>Sat, 22 Feb 2025 13:09:14 +0000</pubDate>
       </item>
   </channel>
 </rss>
