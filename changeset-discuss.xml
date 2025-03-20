@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 6 Comment: Soha nem volt kavarás, ő nem követte a standardot egyszerűen. check_date vagy survey:date, manapság az előbbi gyakrabban használt, de ez se mágia le van írva a wikiben: https://wiki.openstreetmap.org/wiki/Key:check_date https://wiki.openstreetmap.org/wiki/Key:survey:date Egyszerű csak, kövessétek a wikit, nem kell gondolkozni, meg kitalálni dolgokat, csak olvasni, és ha nem egyértelmű valami akkor kérdezni. Ha valami új dolog kell, amire nincs még címke, akkor vagy egy proposalt kell indítani: https://wiki.openstreetmap.org/wiki/Proposal_process De ez eléggé macerás, és lassú. Másik opció, hogy csak simán elkezdtek használni valami új címkét, és leírjátok egyszerűen hogy mit jelent. Itt nagyon fontos, hogy le legyen írva, a több ezer másik szerkesztő nem tud a gondolatotokban olvasni. De ismerve a korábbi szerkesztéseitek, egyedül a free_refill probléma volt ilyen, amit tegnap megoldottam. Minden amit jelölnétek a térképen nekem úgy tűnik, hogy már le van dokumentálva, csak el kell olvasni. De ha van valami belső leírásotok, hogy mit hogyan címkéztek, akkor szívesen kijavítom, hogy ne minden módosításcsomaghoz kelljen egyesével kommentelnem. Date: 2025-03-20T15:15:12+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/163710073</link>
+        <guid>https://www.openstreetmap.org/changeset/163710073#comment_6</guid>
+        <pubDate>2025-03-20T15:15:12+01:00</pubDate>
+      </item><item>
         <title>Contributor: Petró Tamás Discussion Comment No.: 2 Comment: Szia! Köszi a pontosítást, a közkutakban bejelentett módosításokat csak most vettem át, eddig csak az új kutakat vettem fel, ott nincs ennyi kavarás :) üdv, Tamás Date: 2025-03-20T14:18:35+01:00</title>
         <link>https://www.openstreetmap.org/changeset/163710006</link>
         <guid>https://www.openstreetmap.org/changeset/163710006#comment_2</guid>
         <pubDate>2025-03-20T14:18:35+01:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! A note mezőt ne használjátok ilyen infók tárolására kérlek, ezt sokan írták már szerintem nektek, én többször is biztosan. Többi szerkesztőnek szóló infókat kell ide rakni. Az elemek történetét vissza lehet nézni, felesleges megismételni itt. Ha tényleg nincs ott a kút, akkor az összes címkét vagy prefixeld, vagy töröld tehát a fountain=bubbler-ből is removed:fountain=bubbler-t kell csinálni vagy törölni. Így ellentmondanak egymásnak a címkék. Illetve forrásként kérlek add meg, hogy Közkutak.hu-tól szerkesztesz. Jó lenne ha egy hashtaget is használnátok: https://wiki.openstreetmap.org/wiki/Good_changeset_comments#Hashtags Még professzionálisabb lenne, ha a szabályoknak megfelelően ledokumentálnátok a tevékenységeteket a wikiben: https://wiki.openstreetmap.org/wiki/Organised_Editing Ezeket osmoidnak is jeleztem. Köszi! Date: 2025-03-20T14:01:06+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/163710073</link>
-        <guid>https://www.openstreetmap.org/changeset/163710073#comment_1</guid>
-        <pubDate>2025-03-20T14:01:06+01:00</pubDate>
       </item><item>
         <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szia Géza! Sajnos a korábbi szerkesztő ilyen, mindent interpolál(t). Viszont az ajtó számot légy szíves ne a házszámba tedd, hanem az addr:door mezőbe. Vagy ha nem egyértlemű mi az 1. akkor az addr:unit-ba Tamás Date: 2025-03-19T21:02:48+01:00</title>
         <link>https://www.openstreetmap.org/changeset/163699501</link>
