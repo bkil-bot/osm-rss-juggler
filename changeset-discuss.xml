@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: infeeeee Discussion Comment No.: 9 Comment: Google Streetview használata OSM szerkesztéshez tilos! Nem miattunk, ezzel megszeged a google felhasználási feltételeit, ezzel hagyjatok fel mindenképp! https://wiki.openstreetmap.org/wiki/Google Léteznek helyette legális alternatívák: https://wiki.openstreetmap.org/wiki/Street-level_imagery_services Azzal csökkenthetnétek a saját munkátokat, ha a télire elzárt kutakat nem frissítgetitek évente többször. Ha seasonal=yes, és télen nem megy akkor oda nem kell disused, a renderelőknek kell ezt megoldani, nem az adatokban nekünk. És ha télire nem állítjátok disused-ra, akkor tavasszal se kell majd vissza. Esetleg pontosabban opening_hours címkével megadhatjátok, ha ismert a pontos működési időszak, pl: opening_hours=May-Sep open https://www.openstreetmap.org/node/9848947359 Date: 2025-03-21T16:59:20+01:00</title>
+        <title>Contributor: Petró Tamás Discussion Comment No.: 10 Comment: Az appon belüli bejelentéseknél 3 link érkezik emailben, ott az egyik a Google Maps. Kizárólag arra használjuk, hogy az utcanézetben megnézzük, hogy jól rakták-e le a jelölőt. Ne vicceljünk már, hogy ezt így nem lehet :) Értem én, hogy felhasználói feltételek, de nincs semmi linkelve sehova. A tippet köszi, most a módosítási bejelentéseknél ami láthatóan téliesített változás, azt seasonal-el veszem fel. Date: 2025-03-21T20:26:34+01:00</title>
         <link>https://www.openstreetmap.org/changeset/163710073</link>
-        <guid>https://www.openstreetmap.org/changeset/163710073#comment_9</guid>
-        <pubDate>2025-03-21T16:59:20+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/163710073#comment_10</guid>
+        <pubDate>2025-03-21T20:26:34+01:00</pubDate>
       </item><item>
         <title>Contributor: eustace8 Discussion Comment No.: 5 Comment: I see, thank you for your help, the work you are doing is admirable. Date: 2025-03-21T08:24:29+01:00</title>
         <link>https://www.openstreetmap.org/changeset/163707153</link>
