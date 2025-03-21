@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 9 Comment: Google Streetview használata OSM szerkesztéshez tilos! Nem miattunk, ezzel megszeged a google felhasználási feltételeit, ezzel hagyjatok fel mindenképp! https://wiki.openstreetmap.org/wiki/Google Léteznek helyette legális alternatívák: https://wiki.openstreetmap.org/wiki/Street-level_imagery_services Azzal csökkenthetnétek a saját munkátokat, ha a télire elzárt kutakat nem frissítgetitek évente többször. Ha seasonal=yes, és télen nem megy akkor oda nem kell disused, a renderelőknek kell ezt megoldani, nem az adatokban nekünk. És ha télire nem állítjátok disused-ra, akkor tavasszal se kell majd vissza. Esetleg pontosabban opening_hours címkével megadhatjátok, ha ismert a pontos működési időszak, pl: opening_hours=May-Sep open https://www.openstreetmap.org/node/9848947359 Date: 2025-03-21T16:59:20+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/163710073</link>
+        <guid>https://www.openstreetmap.org/changeset/163710073#comment_9</guid>
+        <pubDate>2025-03-21T16:59:20+01:00</pubDate>
+      </item><item>
         <title>Contributor: eustace8 Discussion Comment No.: 5 Comment: I see, thank you for your help, the work you are doing is admirable. Date: 2025-03-21T08:24:29+01:00</title>
         <link>https://www.openstreetmap.org/changeset/163707153</link>
         <guid>https://www.openstreetmap.org/changeset/163707153#comment_5</guid>
@@ -12,11 +17,6 @@
         <link>https://www.openstreetmap.org/changeset/163878761</link>
         <guid>https://www.openstreetmap.org/changeset/163878761#comment_1</guid>
         <pubDate>2025-03-21T04:44:51+01:00</pubDate>
-      </item><item>
-        <title>Contributor: Petró Tamás Discussion Comment No.: 8 Comment: A kozkutak.hu-n van leírás a közönséges usereknek, ha szerkeszteni akarnának. Egyébként minden bejelentést ketten kezeltük a Google StreetView alapján ellenőrizve. Iszonyat pöcsölős meló, sokszor nem pontosan rakták le a userek a markert. Emiatt is lett picit elnagyolva (elnézést érte), de a napi 20-30 bejelentés azért sok tud lenni &quot;szezonban&quot;. Egyébként ha a hivatalosabb magyar OSM szerkesztő közösségben van erre affinitás, szívesen továbbítjuk a bejelentések egy részét a lelkes önkénteseknek :) Date: 2025-03-20T18:11:56+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/163710073</link>
-        <guid>https://www.openstreetmap.org/changeset/163710073#comment_8</guid>
-        <pubDate>2025-03-20T18:11:56+01:00</pubDate>
       </item><item>
         <title>Contributor: Petró Tamás Discussion Comment No.: 2 Comment: Szia! Köszi a pontosítást, a közkutakban bejelentett módosításokat csak most vettem át, eddig csak az új kutakat vettem fel, ott nincs ennyi kavarás :) üdv, Tamás Date: 2025-03-20T14:18:35+01:00</title>
         <link>https://www.openstreetmap.org/changeset/163710006</link>
