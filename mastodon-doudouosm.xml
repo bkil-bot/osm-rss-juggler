@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@Doudouosm (via bkil-bot)</title>
       <item>
+        <title>@seav Sharing here as I didn&amp;#39;t know: &amp;quot;The barangay (...) is the smallest administrative division in the Philippines.&amp;quot; https://en.wikipedia.org/wiki/Barangay</title>
+        <link>https://en.osm.town/@Doudouosm/114205276138077044</link>
+        <guid>https://en.osm.town/@Doudouosm/114205276138077044</guid>
+        <pubDate>Sat, 22 Mar 2025 09:03:38 +0000</pubDate>
+      </item><item>
         <title>Interesting article and picture gallery of what the agricultural patterns as seen from space reveal about the local practices but also the history. https://www.geographyrealm.com/types-of-agricultural-patterns-visible-from-space/ Naturally, this also reflects in the #OpenStreetMap data, when mappers diligently map individual pieces of farmland. https://overpass-turbo.eu/s/20Dt So, does it imply there could be a way to discover interesting patterns through raw data as well? Patchwork of narrow agricultural fields near Sułoszowa, PolandVisualization with Overpass-Turbo of the patchwork of pieces of farmland mapped in OpenStreetMap</title>
         <link>https://en.osm.town/@Doudouosm/114188001372344343</link>
         <guid>https://en.osm.town/@Doudouosm/114188001372344343</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@Doudouosm/110639008682986333</link>
         <guid>https://en.osm.town/@Doudouosm/110639008682986333</guid>
         <pubDate>Sat, 01 Jul 2023 13:14:55 +0000</pubDate>
-      </item><item>
-        <title>OSM Relatify is a new web tool designed to simplify the process of editing public transport relations in #OpenStreetMap. A key feature is the smart routing logic to automatically construct bus routes from given bus stops and ways, taking into account factors like one-way streets and roundabouts. https://www.openstreetmap.org/user/NorthCrab/diary/401755 #OSMRelatify Screenshot of OSM Relatify, a tool to simplify editing public transport relations within OpenStreetMap</title>
-        <link>https://en.osm.town/@Doudouosm/110567313565719765</link>
-        <guid>https://en.osm.town/@Doudouosm/110567313565719765</guid>
-        <pubDate>Sun, 18 Jun 2023 21:21:54 +0000</pubDate>
       </item>
   </channel>
 </rss>
