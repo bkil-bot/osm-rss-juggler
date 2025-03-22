@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>As big-tech corporates are now starting to snake-sell their exploitative products under the &amp;quot;sovereignty&amp;quot; label we&amp;#39;d like to clarify: #sovereignty lies in controlling and being able to change communication infrastructure components and apps to your needs, without permission. Renting a proprietary product running in a proprietary cloud even if some of the proprietary code runs on machines standing on EU ground ... is willfull subordination, not sovereignty. Doh!</title>
+        <link>https://chaos.social/@delta/114205431066043926</link>
+        <guid>https://chaos.social/@delta/114205431066043926</guid>
+        <pubDate>Sat, 22 Mar 2025 09:43:02 +0000</pubDate>
+      </item><item>
         <title>#Signal took a huge bet that running on US big-tech toxic infrastructure is fine because its groundbreaking and industry-shaping cryptography is crafted to neutralize it and keep users safe. But is it really feasible to live on toxic infrastructure in the longer run? #deltachat rather takes a bet on the massive e-mail server network and interoperable protocols, and on #chatmail servers which enforce message encryption and metadata-minimization. Delta is for when centralization turns sour.</title>
         <link>https://chaos.social/@delta/114194877283479955</link>
         <guid>https://chaos.social/@delta/114194877283479955</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114066490831895806</link>
         <guid>https://chaos.social/@delta/114066490831895806</guid>
         <pubDate>Tue, 25 Feb 2025 20:48:42 +0000</pubDate>
-      </item><item>
-        <title>10 Million push notifications for #chatmail messages were delivered in the last 30 days, up from 3 Million half a year ago. F-droid installs do not use push notifications, and classic e-mail users also do not use push notifications. These usages are therefore not contained in the number which therefore marks a lower bound on number of messages delivered. For more info on push notifications and instant message delivery, and also on privacy and security concerns, see https://delta.chat/en/help#instant-delivery A diagram titled &quot;Direct notifications for the last day&quot; X axis covering last 24 hours Y-axis number of notifications. Android had 202205 and Apple 102392</title>
-        <link>https://chaos.social/@delta/114049598921932641</link>
-        <guid>https://chaos.social/@delta/114049598921932641</guid>
-        <pubDate>Sat, 22 Feb 2025 21:12:52 +0000</pubDate>
       </item>
   </channel>
 </rss>
