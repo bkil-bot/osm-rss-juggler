@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Kérlek hagyd abba a kamu nevek adását. https://www.openstreetmap.org/changeset/163983356 Date: 2025-03-23T11:56:08+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/163980497</link>
+        <guid>https://www.openstreetmap.org/changeset/163980497#comment_1</guid>
+        <pubDate>2025-03-23T11:56:08+01:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Bezárt éttermeknél, üzleteknél a disused: prefix használata ajánlott a pont törlése helyett. https://wiki.openstreetmap.org/wiki/Key:disused:* Tehát elég lett volna, ha csak az amenity=post_office címkét átjavítod disused:amenity=post_office-ra, így már nem jelenítik meg a megjelenítők. Ez azért is hasznos, mert ha később más üzlet vagy étterem nyílik ugyanott, akkor nem kell új pontot létrehozni, és visszakövethető lesz az üzlethelyiség története, mi nyílt minek a helyén. Every Door-ban is van erre egy gomb &quot;Make Defunct&quot;. Üres üzleteknél inkább ezt használd inkább. Legközelebb eszerint járj el kérlek. Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! Date: 2025-03-23T11:55:03+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/163946916</link>
+        <guid>https://www.openstreetmap.org/changeset/163946916#comment_1</guid>
+        <pubDate>2025-03-23T11:55:03+01:00</pubDate>
+      </item><item>
         <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szia! Légy szíves ne írd át az utcaneveket szabályozási terv alapján, anélkül, hogy meggyőződnél róla, hogy az az utcatábla van kint, amire átírod. osm-re annak kell kerülnie ami ki van írva. Szintén problémás, hogy a leírásban szabályozási tervet említesz, de a source local knowledge. Konkrét példa a Sólyom út, ahol ősszel biztos hogy még ez a tábla volt kint és ez a hivatalos is. Párat megnéztem még, szintén rosszra javítottad, így a módosításcsomagodat sajnos vissza kell vonnom, mert így nem a valóságot ábrázolod. https://wiki.openstreetmap.org/wiki/Hungary/Jel%C3%B6l%C3%A9si_p%C3%A9ld%C3%A1k#Utcanevek Tamás Date: 2025-03-23T06:14:48+01:00</title>
         <link>https://www.openstreetmap.org/changeset/163939979</link>
         <guid>https://www.openstreetmap.org/changeset/163939979#comment_1</guid>
@@ -82,11 +92,6 @@
         <link>https://www.openstreetmap.org/changeset/163712005</link>
         <guid>https://www.openstreetmap.org/changeset/163712005#comment_1</guid>
         <pubDate>2025-03-17T13:30:21+01:00</pubDate>
-      </item><item>
-        <title>Contributor: SonOfZenMaster Discussion Comment No.: 2 Comment: Szia! A hátszázát - :) Valóban. Köszönöm, leveszem. Date: 2025-03-16T13:14:15+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/163489084</link>
-        <guid>https://www.openstreetmap.org/changeset/163489084#comment_2</guid>
-        <pubDate>2025-03-16T13:14:15+01:00</pubDate>
       </item>
   </channel>
 </rss>
