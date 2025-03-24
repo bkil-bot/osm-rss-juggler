@@ -3,10 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: vorvor Discussion Comment No.: 3 Comment: What do you think: what should be the proper tag is this areas are voting areas in that city? Date: 2025-03-24T09:24:10+01:00</title>
+        <title>Contributor: infeeeee Discussion Comment No.: 7 Comment: Ok, mi a forrásod? Kompatibilis az ODbL-lel? Általában ha létezne ilyen forrás akkor már fent lenne osm-en. Az osm ODbL licensz alatt érhető el, csak olyan adat kerülhet fel ami vagy megfelel ennek a licensznek, vagy engedélyt kaptunk ilyen licensz alatt való újraközlésre. Angol nyelvű FAQ: https://osmfoundation.org/wiki/Licence/Licence_and_Legal_FAQ#2.1._I_would_like_to_import_data_into_the_OSM_map,_can_I_just_go_ahead? Date: 2025-03-24T13:13:07+01:00</title>
         <link>https://www.openstreetmap.org/changeset/163979723</link>
-        <guid>https://www.openstreetmap.org/changeset/163979723#comment_3</guid>
-        <pubDate>2025-03-24T09:24:10+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/163979723#comment_7</guid>
+        <pubDate>2025-03-24T13:13:07+01:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! crossing_ref címkét manapság már nem használjuk, elég a crossing:markings. Már le is lett takarítva mindenhonnan, az országban csak itt van jelenleg: https://overpass-turbo.eu/s/20WE További jó térképezést! Date: 2025-03-24T12:55:30+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/164005379</link>
+        <guid>https://www.openstreetmap.org/changeset/164005379#comment_1</guid>
+        <pubDate>2025-03-24T12:55:30+01:00</pubDate>
       </item><item>
         <title>Contributor: vorvor Discussion Comment No.: 2 Comment: Hi! Thanks for your response. I'm just started to learning the OSM platform. I'll try to add tags then! Date: 2025-03-24T09:00:19+01:00</title>
         <link>https://www.openstreetmap.org/changeset/163977298</link>
@@ -112,11 +117,6 @@
         <link>https://www.openstreetmap.org/changeset/163735428</link>
         <guid>https://www.openstreetmap.org/changeset/163735428#comment_1</guid>
         <pubDate>2025-03-17T16:33:54+01:00</pubDate>
-      </item><item>
-        <title>Contributor: bkil Discussion Comment No.: 1 Comment: A következő problémát javítottam a változtatásban: https://wiki.osm.org/Hungary/Fontos_szempontok#place https://osm.org/changeset/163732388#map=19/47.442773/16.907844 Date: 2025-03-17T13:30:21+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/163712005</link>
-        <guid>https://www.openstreetmap.org/changeset/163712005#comment_1</guid>
-        <pubDate>2025-03-17T13:30:21+01:00</pubDate>
       </item>
   </channel>
 </rss>
