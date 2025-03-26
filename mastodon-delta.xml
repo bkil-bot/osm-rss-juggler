@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Following popular request, here is a proper announcement about editing and deletion of messages available in app stores now. It briefly highlights how Delta Chat actually works contrary to how even some experts thinks it works :) TL;DR Delta Chat is not a classic e-mail client. It uses special messages to co-ordinate encryption, metadata and group interactions and now edit/delete. Delta Chat implements a Peer-to-Peer messaging paradigm without any server state. https://delta.chat/en/2025-03-26-edit-and-delete-how</title>
+        <link>https://chaos.social/@delta/114230232869417282</link>
+        <guid>https://chaos.social/@delta/114230232869417282</guid>
+        <pubDate>Wed, 26 Mar 2025 18:50:27 +0000</pubDate>
+      </item><item>
         <title>streamed yesterday: one-hour german #chaosradio @cccfr freiburg feature at @RDL with a deep-dive conversation about #deltachat origins, what it has and hasn&amp;#39;t to do with e-mail, protection against server compromise, phone based compared to e-mail networking, how to conspire for baking cheese cakes, authoritarianism and sovereignty, protest and organization, how to arrange for shopping and checklists in chats ... and fun music :) https://rdl.de/beitrag/chaosradio-freiburg-0xac https://rdl.de/sites/default/files/audio/2025/03/20250325-chaosradiofr-w36047.mp3</title>
         <link>https://chaos.social/@delta/114225312173344244</link>
         <guid>https://chaos.social/@delta/114225312173344244</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114082662032535670</link>
         <guid>https://chaos.social/@delta/114082662032535670</guid>
         <pubDate>Fri, 28 Feb 2025 17:21:15 +0000</pubDate>
-      </item><item>
-        <title>spring cleaning time ... the rolling 1.54.2 APK release to google play is 1.19MB smaller than the previous version. People experienced with longer term development and maintenance will recognize the value of &amp;quot;fewer lines of code and less stuff&amp;quot; to care for. #Spring is coming :) A dashboard screenshot for google.play release delivery, showing that the current APK at 52mb is 1.19mb less than the last release.</title>
-        <link>https://chaos.social/@delta/114082218363456189</link>
-        <guid>https://chaos.social/@delta/114082218363456189</guid>
-        <pubDate>Fri, 28 Feb 2025 15:28:25 +0000</pubDate>
       </item>
   </channel>
 </rss>
