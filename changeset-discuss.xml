@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: NightH Discussion Comment No.: 2 Comment: Szia! Egyrészt a &quot;map what's on the ground&quot; alapon ez a házszám látszik a térképen, még ha csak a gumiszőnyeg tulaja is rakta ki. És Újbuda térinfó rendszere (https://terinfo.ujbuda.hu) sem ért azzal egyet, hogy ez a 8-10 része lenne, a földhivatali rétegek között a házszámokat bekapcsolva 49 jön föl erre az épületre. Ettől függetlenül ha a terepen bejárva biztos vagy a dolgodban, akkor én azt elfogadom, csak kérlek helyesen vond össze a két épületet. A legutóbb az OSMI szólt, hogy megmaradt a belső határvonal duplikáltan, mert egy relációba lett vonva a két épület. Ha ID-ben szerkesztesz, akkor inkább a 8-10 határvonalát húzd át úgy, hogy tartalmazza a 49-est is, aztán a 49-es épületet lehet törölni (vagy esetleg megtartani a mostani címkék nélkül , building:part=yes címkével, plusz ha van infó, akkor hozzácsapni a building:levels és roof:shape címkéket. Mondjuk akkor érdemes lenne a mostani 8-10re is ráhúzni egy building:part=yes poligont. Akkor a nagy befoglaló poligonon csak a cím, a building=apartments és a start:date maradna meg, a building:part=yes poligonokon meg a building:levels és roof:shape). Ha gondolod megcsinálom, JOSMben valószínűleg egyszerűbb. Date: 2025-03-30T07:11:10+02:00</title>
+        <title>Contributor: NightH Discussion Comment No.: 4 Comment: Kész is. https://www.openstreetmap.org/changeset/164280408 Date: 2025-03-30T10:10:48+02:00</title>
         <link>https://www.openstreetmap.org/changeset/159894642</link>
-        <guid>https://www.openstreetmap.org/changeset/159894642#comment_2</guid>
-        <pubDate>2025-03-30T07:11:10+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/159894642#comment_4</guid>
+        <pubDate>2025-03-30T10:10:48+02:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 18 Comment: De ettől függetlenül, ha ez csak egy egyszeri alkalomra kell, csak egy dologra, akkor jobb lenne nem osm-en tárolni, de ez csak személyes véleményem. osm.org meg ha jól tudom overpass is nem feltétlenül szereti ha kereskedelmi dolgokra használjátok magát a honlapot, nem az adatbázist. Az elv az lenne, hogy letöltitek az adatbázist és csináltok vele amit akartok, nem az, hogy külső oldalakba beágyazzátok, és aztán az osm alapítványnak kell kiszolgálni a ti forgalmatokat. Vannak erre szolgáltatások, amik a hosztolást akár ingyen, vagy nagyon olcsón megoldják, nem is egy, mapbox és társai. Illetve mindenki szerkesztheti az adatbázist, ha úgy dönt a magyar közösség, hogy ezek nem kellenek, nem idevalók, mivel csak Szentendre van meg az egész országból, és azt se tartja karban senki, akkor eltöri a honlapotokat vagy nemtudom mi lesz a végcél. Date: 2025-03-29T15:26:03+01:00</title>
         <link>https://www.openstreetmap.org/changeset/163979723</link>
@@ -112,11 +112,6 @@
         <link>https://www.openstreetmap.org/changeset/163980497</link>
         <guid>https://www.openstreetmap.org/changeset/163980497#comment_2</guid>
         <pubDate>2025-03-23T17:42:20+01:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Bezárt éttermeknél, üzleteknél a disused: prefix használata ajánlott a pont törlése helyett. https://wiki.openstreetmap.org/wiki/Key:disused:* Tehát elég lett volna, ha csak az amenity=post_office címkét átjavítod disused:amenity=post_office-ra, így már nem jelenítik meg a megjelenítők. Ez azért is hasznos, mert ha később más üzlet vagy étterem nyílik ugyanott, akkor nem kell új pontot létrehozni, és visszakövethető lesz az üzlethelyiség története, mi nyílt minek a helyén. Every Door-ban is van erre egy gomb &quot;Make Defunct&quot;. Üres üzleteknél inkább ezt használd inkább. Legközelebb eszerint járj el kérlek. Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség További jó térképezést! Date: 2025-03-23T11:55:03+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/163946916</link>
-        <guid>https://www.openstreetmap.org/changeset/163946916#comment_1</guid>
-        <pubDate>2025-03-23T11:55:03+01:00</pubDate>
       </item>
   </channel>
 </rss>
