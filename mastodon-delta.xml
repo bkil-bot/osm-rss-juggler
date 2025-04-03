@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>oh, wow. We just heart from @darestiet that *tomorrow* there is a #webxdc workshop called &amp;quot;Transcend the limits of your group chats: collaborative apps&amp;quot;! We can&amp;#39;t remember to have heart about this before so it&amp;#39;s very short notice only, maybe still interesting for people around Dortmund/Duesseldorf for tomorrow afternoon. https://www.moers.de/veranstaltungen/hackday-2025-ueberwinde-die-grenzen-deiner-gruppenchats-kollaborative-dezentrale</title>
+        <link>https://chaos.social/@delta/114273754711821545</link>
+        <guid>https://chaos.social/@delta/114273754711821545</guid>
+        <pubDate>Thu, 03 Apr 2025 11:18:38 +0000</pubDate>
+      </item><item>
         <title>The tech oligarchs, embodying and collaborating with authoritarians, are the horror artefact of the immense power that lies in configuring and operating our digital infrastructure we live and love on. Cryptography may mitigate toxic infrastructure but eventually we need to find and arrange more convivial ways for going about our lifes. #deltachat and #chatmail are small contributions to people-sovereign convivial infrastructure. DM us if you need support setting up a new chatmail relay :)</title>
         <link>https://chaos.social/@delta/114273410178333837</link>
         <guid>https://chaos.social/@delta/114273410178333837</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114122360284477256</link>
         <guid>https://chaos.social/@delta/114122360284477256</guid>
         <pubDate>Fri, 07 Mar 2025 17:37:02 +0000</pubDate>
-      </item><item>
-        <title>Decentralizers, attention! :) Last #deltachat releases introduced stable #p2p group membership not found in any other messenger. Members can add/remove peers also while being offline, and when everything comes online again, everyone has the same consistent membership view. We formalized and ran a simulation model using #TLA+ (invented by Leslie Lamport of vector clock fame): https://github.com/chatmail/models/tree/main/group-membership and a complementary #pytest model with more corner cases tested here: https://github.com/chatmail/models/blob/main/gmc/test_gmc.py</title>
-        <link>https://chaos.social/@delta/114117778104238654</link>
-        <guid>https://chaos.social/@delta/114117778104238654</guid>
-        <pubDate>Thu, 06 Mar 2025 22:11:44 +0000</pubDate>
       </item>
   </channel>
 </rss>
