@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Fun fact: The SMTP return code for when you try to get a not properly encrypted Internet Message (vulgo e-mail) relayed: 523 Encryption Needed It&amp;#39;s standardized already :)</title>
+        <link>https://chaos.social/@delta/114271116222293296</link>
+        <guid>https://chaos.social/@delta/114271116222293296</guid>
+        <pubDate>Thu, 03 Apr 2025 00:07:38 +0000</pubDate>
+      </item><item>
         <title>new security milestone reached: #chatmail relay servers are hardened to only transfer end-to-end encrypted e-mail with metadata minimization. No cleartext message can enter or leave the secure chatmail network anymore. We now talk about &amp;quot;chatmail relays&amp;quot; rather than servers as they only ephemerally store messages until delivery. Dirt cheap to run. We opened up our #rust &amp;quot;chatmail core&amp;quot; infrastructure library and set up an overview of the community driven ecosystem ... https://chatmail.at Chatmail logo (black @ sign with the lower left corner dented to signal a chat bubble) with this motto below; Chatmail makes E-Mail fun, secure and instant</title>
         <link>https://chaos.social/@delta/114270494109657844</link>
         <guid>https://chaos.social/@delta/114270494109657844</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114109347567530990</link>
         <guid>https://chaos.social/@delta/114109347567530990</guid>
         <pubDate>Wed, 05 Mar 2025 10:27:44 +0000</pubDate>
-      </item><item>
-        <title>#deltachat community milestones: Dec 2023: first #chatmail server Feb 2024: iOS push notifications March 2024: ETH Zuerich #security analysis June 2024: Instant onboarding on all clients Nov 2024: #P2P #webxdc realtime and home-screen apps Dec 2024: rPGP #security audit, 20 known #chatmail servers world-wide Jan 2025: new #webxdc store, UI integrated app-picker, webxdc push notifications. Spring 2025: is coming :) money used: ~600K EUR, a tiny amount compared to other messengers.</title>
-        <link>https://chaos.social/@delta/114099977435831794</link>
-        <guid>https://chaos.social/@delta/114099977435831794</guid>
-        <pubDate>Mon, 03 Mar 2025 18:44:47 +0000</pubDate>
       </item>
   </channel>
 </rss>
