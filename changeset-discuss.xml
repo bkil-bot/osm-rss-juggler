@@ -3,10 +3,20 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: infeeeee Discussion Comment No.: 4 Comment: Gnome Térképekben a Kedvencek funkció az ami ilyen magán jellegű helyek tárolására szolgál, viszont nem lehet bármilyen koordinátát hozzáadni ehhez a listához, itt egy 6 éves issue erről: https://gitlab.gnome.org/GNOME/gnome-maps/-/issues/144 Date: 2025-04-07T09:14:31+02:00</title>
+        <title>Contributor: Fremen1978 Discussion Comment No.: 6 Comment: Amúgy mivel válaszoltam nektek most két napig nem is engedi törölni. Értelmezni nem tudom ezt a működést... :) Date: 2025-04-07T10:14:08+02:00</title>
         <link>https://www.openstreetmap.org/changeset/164431681</link>
-        <guid>https://www.openstreetmap.org/changeset/164431681#comment_4</guid>
-        <pubDate>2025-04-07T09:14:31+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/164431681#comment_6</guid>
+        <pubDate>2025-04-07T10:14:08+02:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Ezzel a ponttal kapcsolatban: https://www.openstreetmap.org/node/12728648980 crossing_ref helyett manapság a crossing:markings-ot használjuk, sokkal részletesebben le lehet írni felfestéseket: https://wiki.openstreetmap.org/wiki/Key:crossing:markings A crossing_ref meg marad azokban az országokban ahol ezek a többi állatnevek használatban vannak, nálunk ilyenek nincsenek: https://wiki.openstreetmap.org/wiki/Key:crossing_ref További jó térképezést! Date: 2025-04-07T09:59:38+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/164503973</link>
+        <guid>https://www.openstreetmap.org/changeset/164503973#comment_1</guid>
+        <pubDate>2025-04-07T09:59:38+02:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 2 Comment: Thanks, fixed: https://www.openstreetmap.org/changeset/164625279 Date: 2025-04-07T09:45:43+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/141336530</link>
+        <guid>https://www.openstreetmap.org/changeset/141336530#comment_2</guid>
+        <pubDate>2025-04-07T09:45:43+02:00</pubDate>
       </item><item>
         <title>Contributor: Spush Discussion Comment No.: 1 Comment: Üdv az openstreetmap-en! Néhány tanács kezdőknek: Szerkesztéshez lehetőleg több távérzékelési adatforrást használj. A Bing képei sajnos nem mindenhol vannak jó pozícióban és nem is ortofotók. A helyes geometriai szerkesztéshez a régebbi de nagyobb földrajzi pontossággal rendelkező FÖMI ortofotókat használd, majd ellenőrizd le, hogy az adott objektum (út, épület) létezik-e még a frissebb felvételeken. Date: 2025-04-06T16:38:29+02:00</title>
         <link>https://www.openstreetmap.org/changeset/164591737</link>
