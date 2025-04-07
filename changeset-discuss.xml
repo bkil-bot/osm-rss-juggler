@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: Fremen1978 Discussion Comment No.: 2 Comment: Köszönöm a korrekciót. Én azt hittem ez is úgy működik mint a guglié, hogy a saját fiókomba magamnak mentem a poi-t. Date: 2025-04-07T06:41:26+02:00</title>
+        <title>Contributor: infeeeee Discussion Comment No.: 4 Comment: Gnome Térképekben a Kedvencek funkció az ami ilyen magán jellegű helyek tárolására szolgál, viszont nem lehet bármilyen koordinátát hozzáadni ehhez a listához, itt egy 6 éves issue erről: https://gitlab.gnome.org/GNOME/gnome-maps/-/issues/144 Date: 2025-04-07T09:14:31+02:00</title>
         <link>https://www.openstreetmap.org/changeset/164431681</link>
-        <guid>https://www.openstreetmap.org/changeset/164431681#comment_2</guid>
-        <pubDate>2025-04-07T06:41:26+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/164431681#comment_4</guid>
+        <pubDate>2025-04-07T09:14:31+02:00</pubDate>
       </item><item>
         <title>Contributor: Spush Discussion Comment No.: 1 Comment: Üdv az openstreetmap-en! Néhány tanács kezdőknek: Szerkesztéshez lehetőleg több távérzékelési adatforrást használj. A Bing képei sajnos nem mindenhol vannak jó pozícióban és nem is ortofotók. A helyes geometriai szerkesztéshez a régebbi de nagyobb földrajzi pontossággal rendelkező FÖMI ortofotókat használd, majd ellenőrizd le, hogy az adott objektum (út, épület) létezik-e még a frissebb felvételeken. Date: 2025-04-06T16:38:29+02:00</title>
         <link>https://www.openstreetmap.org/changeset/164591737</link>
