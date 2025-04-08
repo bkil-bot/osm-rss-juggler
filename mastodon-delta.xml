@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>#openpgp traditions and #signal both bind a cleartext identifier, phone number or email address, to a cryptographic key. It opens up attack vectors as the servers/orgs controlling this binding can interfere. #deltachat avoids such cleartext identity bindings by creating random #chatmail addresses, as transport only. The cryptographic key becomes the identifier and we want it hidden from the transport layer. Only people being in end-to-end encrypted chat need to identify each other, after all.</title>
+        <link>https://chaos.social/@delta/114303033544584627</link>
+        <guid>https://chaos.social/@delta/114303033544584627</guid>
+        <pubDate>Tue, 08 Apr 2025 15:24:38 +0000</pubDate>
+      </item><item>
         <title>oh, wow. We just heart from @darestiet that there is an upcoming #webxdc #hackday workshop called &amp;quot;Transcend the limits of your group chats: collaborative apps&amp;quot; ... WHERE: townhall of city of #Moers WHEN: Saturday afternoon 2pm. We can&amp;#39;t remember to have heart about this before so it&amp;#39;s very short notice only, maybe still interesting for people around Dortmund/Duesseldorf https://www.moers.de/veranstaltungen/hackday-2025-ueberwinde-die-grenzen-deiner-gruppenchats-kollaborative-dezentrale</title>
         <link>https://chaos.social/@delta/114273754711821545</link>
         <guid>https://chaos.social/@delta/114273754711821545</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114126529706721026</link>
         <guid>https://chaos.social/@delta/114126529706721026</guid>
         <pubDate>Sat, 08 Mar 2025 11:17:23 +0000</pubDate>
-      </item><item>
-        <title>The downside of our project approach was that we often got experts being very dismissive on re-using email and #OpenPGP ... and there still is some opposition which often subsides when actually trying #deltachat and #chatmail, looking at security audits and our strong usable security focus. There may also be surprising upsides. The UK &amp;quot;Online Safety Bill&amp;quot; which attacks end-to-end encryption integrity seems to not apply for ... e-mail. Because everyone knows, e-mail is unencrypted, right? :) screenshot of page 7 of https://www.legislation.gov.uk/ukpga/2023/50/enacted CHAPTER 7Interpretation of Part 3 55“Regulated user-generated content”, “user-generated content”, “news publisher content” (1)This section applies for the purposes of this Part. (2)“Regulated user-generated content”, in relation to a regulated user-to-user service, means user-generated content, except— (a)emails, (b)SMS messages, (c)MMS messages, (d)one-to-one live aural communications (see subsection (5)), (e)comments and reviews on provider content (see subsection (6)), (f)identifying content that accompanies content within any of paragraphs (a) to (e), and (g)news publisher content (see subsection (8)).</title>
-        <link>https://chaos.social/@delta/114122360284477256</link>
-        <guid>https://chaos.social/@delta/114122360284477256</guid>
-        <pubDate>Fri, 07 Mar 2025 17:37:02 +0000</pubDate>
       </item>
   </channel>
 </rss>
