@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Some of you may have heart of #simplex which likes to elevate itself as &amp;quot;the first messenger without user-ids&amp;quot; ... a goal, similar to ours, of not letting the transport layer know about who talks. Only we are doing it in the email system, fully interoperable with tens of thousands of existing email servers and other #openpgp endpoints. The email system is much more than SMTP/IMAP or even openpgp btw ... there is plenty of room for radical shifts and new takes. We are just starting :)</title>
+        <link>https://chaos.social/@delta/114303516361541127</link>
+        <guid>https://chaos.social/@delta/114303516361541127</guid>
+        <pubDate>Tue, 08 Apr 2025 17:27:25 +0000</pubDate>
+      </item><item>
         <title>#openpgp traditions and #signal both bind a cleartext identifier, phone number or email address, to a cryptographic key. It opens up attack vectors as the servers/orgs controlling this binding can interfere. #deltachat avoids such cleartext identity bindings by creating random #chatmail addresses, as transport only. The cryptographic key becomes the identifier and we want it hidden from the transport layer. Only people being in end-to-end encrypted chat need to identify each other, after all.</title>
         <link>https://chaos.social/@delta/114303033544584627</link>
         <guid>https://chaos.social/@delta/114303033544584627</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114132546072182499</link>
         <guid>https://chaos.social/@delta/114132546072182499</guid>
         <pubDate>Sun, 09 Mar 2025 12:47:25 +0000</pubDate>
-      </item><item>
-        <title>Release cycle completed. Please update so we can initiate the next release round with a long awaited feature ;) Generally delta apps are compatible to all currently released apps and because 15+ app stores come with all kinds of shenegigans and delays it sometimes takes two cycles to roll out new features, one forward compatible one and then the actual enabling one. We usually also try to degrade nicely if installed versions are further than a version apart. No worries ;) Screenshot of release Status Delta, all major platforms are green. Android 🚀1.54.3 VersionPlay Store1.54.3F-Droid1.54.3Huawei App Gallery1.54.3Amazon1.54.3get.delta.chat1.54.3GitHub Releases1.54.3 iOS 🚀1.54.3 VersionApp Store1.54.3 Desktop 🚀1.54.2 VersionMicrosoft Store1.54.2Mac App Store1.54.2Flathub1.54.2get.delta.chat1.54.2GitHub Releases1.54.2</title>
-        <link>https://chaos.social/@delta/114126529706721026</link>
-        <guid>https://chaos.social/@delta/114126529706721026</guid>
-        <pubDate>Sat, 08 Mar 2025 11:17:23 +0000</pubDate>
       </item>
   </channel>
 </rss>
