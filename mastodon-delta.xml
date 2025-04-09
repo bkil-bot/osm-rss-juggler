@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>In 2014 @matthew_d_green wrote &amp;quot;What&amp;#39;s the matter with PGP?&amp;quot; https://blog.cryptographyengineering.com/2014/08/13/whats-matter-with-pgp/ We&amp;#39;d like to humbly report completion of its main suggestions. Better late than never! :) - Key management is automatic through #securejoin and #autocrypt protos - #chatmail relays form an end-to-end encrypted email enclave interoperable with any e-mail address using proper end-to-end encryption. - RFC 9580 &amp;quot;cryptorefresh&amp;quot; is rolled out in current releases and will be activated soon. One to go? ;) screenshot of a part of the blog post from Matthew Greene: So what should we be doing? Quite a lot actually. The path to a proper encrypted email system isn’t that far off. At minimum, any real solution needs: [a green verified checkmark on the following paragraph] « A proper approach to key management. This could be anything from centralized key management as in Apple’s iMessage — which would still be better than nothing — to a decentralized (but still usable) approach like the o one offered by Signal or OTR. Whatever the solution, in order to achieve mass deployment, keys need to be made much more manageable or else submerged from the user altogether. « Forward secrecy baked into the protocol. This should be a pre-condition to any secure messaging system. « Cryptography that post-dates the Fresh Prince. Enough said. [a green verified checkmark on the following paragraph] o « Screw backwards compatibility. Securing both encrypted and unencrypted email is too hard. We need dedicated networks that handle this from the start.</title>
+        <link>https://chaos.social/@delta/114307334260523067</link>
+        <guid>https://chaos.social/@delta/114307334260523067</guid>
+        <pubDate>Wed, 09 Apr 2025 09:38:21 +0000</pubDate>
+      </item><item>
         <title>Some of you may have heard of #simplex which likes to elevate itself as &amp;quot;the first messenger without user-ids&amp;quot; ... a goal, similar to ours, of not letting the transport layer know about who talks. Only we are doing it in the email system, fully interoperable with tens of thousands of existing email servers and other #openpgp endpoints. The email system is much more than SMTP/IMAP or even openpgp btw ... there is plenty of room for radical shifts and new takes. We are just starting :)</title>
         <link>https://chaos.social/@delta/114303516361541127</link>
         <guid>https://chaos.social/@delta/114303516361541127</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114143315433108295</link>
         <guid>https://chaos.social/@delta/114143315433108295</guid>
         <pubDate>Tue, 11 Mar 2025 10:26:13 +0000</pubDate>
-      </item><item>
-        <title>We are not aware of other FOSS development teams that have as extensive knowledge, both theoretical and practical, about #email and #openpgp and regularly release across all platforms for users world wide ... except for #protonmail with whose technical and security experts we discuss regularly. They are the other major game in town doing pervasive email encryption after all. Did you know that Proton&amp;#39;s and delta&amp;#39;s VCards are compatible across ecosystems and establish immediate encryption?</title>
-        <link>https://chaos.social/@delta/114132546072182499</link>
-        <guid>https://chaos.social/@delta/114132546072182499</guid>
-        <pubDate>Sun, 09 Mar 2025 12:47:25 +0000</pubDate>
       </item>
   </channel>
 </rss>
