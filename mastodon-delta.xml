@@ -3,6 +3,16 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Isn&amp;#39;t it ironic that a messenger that utilizes email protocols under the hood is pretty resistant to spam? For decades most people equated email with &amp;quot;spam&amp;quot; and yet, here we are. It&amp;#39;s not the email protocols that cause spam but the fact that email adresses have been used as identity. #deltachat is moving away from this email address-as-identity model towards a cryptography based model where only chat contacts know your identity, and email is &amp;quot;just&amp;quot; the globally federated transport.</title>
+        <link>https://chaos.social/@delta/114332888171291383</link>
+        <guid>https://chaos.social/@delta/114332888171291383</guid>
+        <pubDate>Sun, 13 Apr 2025 21:57:03 +0000</pubDate>
+      </item><item>
+        <title>If you are using #deltachat with a #chatmail profile with private contacts there is no chance you are going to get spam. Why? 1) Spammers can&amp;#39;t contact you based on your phone number like with other messengers. 2) Nobody knows your private address or cryptographic key except your contacts. Without that spammers/phishers can&amp;#39;t contact you. 3) if joining a public group with unknown members better use a second chat profile which you can mute/remove as needed. Privacy and peace of mind.</title>
+        <link>https://chaos.social/@delta/114332847866724921</link>
+        <guid>https://chaos.social/@delta/114332847866724921</guid>
+        <pubDate>Sun, 13 Apr 2025 21:46:48 +0000</pubDate>
+      </item><item>
         <title>#deltachat is geared and optimized for private messaging even though it&amp;#39;s successfully used for 100+ people chats as well. Doing large scale chats has two challenges: - implementing scalable encryption so increased number of recipients does not increase message size/cpu cost for the sender - grow good moderation tooling because public channels/chats invite a lot of spam, unwanted stuff For large chats today we recommend to control who joins, and maybe use a separate chat profile.</title>
         <link>https://chaos.social/@delta/114323817685747040</link>
         <guid>https://chaos.social/@delta/114323817685747040</guid>
@@ -92,16 +102,6 @@
         <link>https://chaos.social/@delta/114167175132210715</link>
         <guid>https://chaos.social/@delta/114167175132210715</guid>
         <pubDate>Sat, 15 Mar 2025 15:34:03 +0000</pubDate>
-      </item><item>
-        <title>Do you know of any other messenger project that is not only #fediverse first but fediverse-only when it comes to public communication and interaction? It&amp;#39;s a deliberate choice that is oriented towards organic contribution growth and staying under the radar. We do not employ a &amp;quot;get as popular as possible&amp;quot; strategy because it&amp;#39;s all about real work not hype (of which there is no lack these days for IT things) ... and with few money. Let&amp;#39;s see where we are in a few months ... Spring is coming :)</title>
-        <link>https://chaos.social/@delta/114161998487090876</link>
-        <guid>https://chaos.social/@delta/114161998487090876</guid>
-        <pubDate>Fri, 14 Mar 2025 17:37:33 +0000</pubDate>
-      </item><item>
-        <title>Another #deltachat release highlight that we didn&amp;#39;t tell about yet: De-duplication of attachments and media files. De-duplication means that if you share a larger file to multiple chats, it will only ever exist once in each sending and receiving device&amp;#39;s storage. Same for #webxdc apps -- so if you use the 650KB big &amp;quot;v86emu&amp;quot; app running 32-bit ISO images, it will also only exist once in storage, even if each instance in a chat creates its own realtime LAN. Mini-tutorial https://chaos.social/@delta/114161626183191989</title>
-        <link>https://chaos.social/@delta/114161809432634807</link>
-        <guid>https://chaos.social/@delta/114161809432634807</guid>
-        <pubDate>Fri, 14 Mar 2025 16:49:29 +0000</pubDate>
       </item>
   </channel>
 </rss>
