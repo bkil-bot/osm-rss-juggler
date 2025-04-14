@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Easter/April offer 🐣 if you are onboarding a small group of family/friends to #deltachat and/or want to setup a insta-federated #chatmail relay let us know about any issues. Just post on fediverse and tag us. In case of bugs/issues we&amp;#39;ll see to privately set up a support chat to help sort out any issues, or file accordingly to our development tracker. We want Delta to work flawlessly for private chatting and to better understand any remaining irritations or problems. Thanks and enjoy :)</title>
+        <link>https://chaos.social/@delta/114335008953866030</link>
+        <guid>https://chaos.social/@delta/114335008953866030</guid>
+        <pubDate>Mon, 14 Apr 2025 06:56:24 +0000</pubDate>
+      </item><item>
         <title>Isn&amp;#39;t it ironic that a messenger that utilizes email protocols under the hood is pretty resistant to spam? For decades most people equated email with &amp;quot;spam&amp;quot; and yet, here we are. It&amp;#39;s not the email protocols that cause spam but the fact that email adresses have been used as identity. #deltachat is moving away from this email address-as-identity model towards a cryptography based model where only chat contacts know your identity, and email is &amp;quot;just&amp;quot; the globally federated transport.</title>
         <link>https://chaos.social/@delta/114332888171291383</link>
         <guid>https://chaos.social/@delta/114332888171291383</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114173298568747436</link>
         <guid>https://chaos.social/@delta/114173298568747436</guid>
         <pubDate>Sun, 16 Mar 2025 17:31:19 +0000</pubDate>
-      </item><item>
-        <title>There is no shortage of startups and enterprises animated by, or outright proclaiming, replacing e-mail as the de-facto open internet messaging standard. VC Investors are forever fascinated by funding such endeavours. #matrix #simplex #slack etc are examples. #deltachat endorses e-mail but reconfigures and repurposes it to serve for interoperable instant messaging. The #chatmail server network relays end to end encrypted e-mail only, and servers are reduced to dumb store-and-forward relays.</title>
-        <link>https://chaos.social/@delta/114167175132210715</link>
-        <guid>https://chaos.social/@delta/114167175132210715</guid>
-        <pubDate>Sat, 15 Mar 2025 15:34:03 +0000</pubDate>
       </item>
   </channel>
 </rss>
