@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>The trajectory of E2E-encryption is about de-platforming: There shall be no central machines that can control the edges/peers, and the social groups and virtual centers they freely form. Our #deltachat R&amp;amp;D around #chatmail relays and #webxdc apps all aim to realize such a &amp;quot;zero-platforms&amp;quot; fully E2E-encrypted interaction model. However, this is *not* just about cryptographic cleverness. Rather it is about anti-authoritarian designs, as explicitly stated in January https://delta.chat/en/2025-01-23-webxdc-no-billionaires</title>
+        <link>https://chaos.social/@delta/114348541871648280</link>
+        <guid>https://chaos.social/@delta/114348541871648280</guid>
+        <pubDate>Wed, 16 Apr 2025 16:18:00 +0000</pubDate>
+      </item><item>
         <title>Do you struggle to keep your #TOTP secrets synced and backed up properly? Do you wish you could give a group of people access to ephemeral authentication tokens? Then TOTP #webxdc from @rtn might be for you! Cross platform multi-device support means that you can use these tokens from any device, and you have a natural backup should one device go bust. As with all webxdc apps there is no server hosting involved. Everything is only visible on respective devices and end-to-end encrypted between Icon for totp app and short description: time-based one-time passwords Author: rtn</title>
         <link>https://chaos.social/@delta/114335487899193364</link>
         <guid>https://chaos.social/@delta/114335487899193364</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114177711939226484</link>
         <guid>https://chaos.social/@delta/114177711939226484</guid>
         <pubDate>Mon, 17 Mar 2025 12:13:42 +0000</pubDate>
-      </item><item>
-        <title>@nerdvm seems the server can&amp;#39;t serve the guide currently -- sorry about that if it was our post that caused this but it shouldn&amp;#39;t create that much traffic actually.</title>
-        <link>https://chaos.social/@delta/114173471432482518</link>
-        <guid>https://chaos.social/@delta/114173471432482518</guid>
-        <pubDate>Sun, 16 Mar 2025 18:15:17 +0000</pubDate>
       </item>
   </channel>
 </rss>
