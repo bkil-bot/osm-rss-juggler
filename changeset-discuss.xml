@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: Srdjan023 Discussion Comment No.: 5 Comment: I really did not know that contact lines do not work, from what I could see they looked finished. I just thought that our state-owned train operator runs diesels trains because they don't have electric ones. I think that I just accidentally overwrote the old ETCS tag when I removed construction: part from railways. Date: 2025-04-17T17:56:17+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/164514005</link>
+        <guid>https://www.openstreetmap.org/changeset/164514005#comment_5</guid>
+        <pubDate>2025-04-17T17:56:17+02:00</pubDate>
+      </item><item>
         <title>Contributor: gymate Discussion Comment No.: 2 Comment: I've removed it: https://www.openstreetmap.org/changeset/165079351 Date: 2025-04-17T16:07:42+02:00</title>
         <link>https://www.openstreetmap.org/changeset/83573120</link>
         <guid>https://www.openstreetmap.org/changeset/83573120#comment_2</guid>
@@ -12,11 +17,6 @@
         <link>https://www.openstreetmap.org/changeset/164999180</link>
         <guid>https://www.openstreetmap.org/changeset/164999180#comment_1</guid>
         <pubDate>2025-04-17T08:53:16+02:00</pubDate>
-      </item><item>
-        <title>Contributor: balint36 Discussion Comment No.: 4 Comment: Oh and by the way. You forgot to mention how did you observe the fully constructed ETCS L1. Date: 2025-04-16T14:17:55+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/164514005</link>
-        <guid>https://www.openstreetmap.org/changeset/164514005#comment_4</guid>
-        <pubDate>2025-04-16T14:17:55+02:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Ezek az útszéli parkolók szerintem inkább parking=lane címkével jobban leírhatók. Ezen a wiki oldalon van egy jó leírás mi a különbség a lane és street_side között, mikor melyiket kell használni: https://wiki.openstreetmap.org/wiki/Tag:parking%3Dlane Illetve ha útszéli parkolást külön elemként megrajzolsz, akkor egy parking:left/right=separate-et illik rárakni az útra, hogy nehogy ugyanazt a parkolót más felvegye mégegyszer: https://wiki.openstreetmap.org/wiki/Street_parking#Separately_mapped_parking_areas_and_spaces Útszéli parkolásról itt található egy nagyon jó és részletes leírás angolul: https://wiki.openstreetmap.org/wiki/Street_parking Illetve a leggyakrabban előforduló magyar sajátosságokról itt egy: https://wiki.openstreetmap.org/wiki/Hungary/Jelölési_példák/Parkolás További jó térképezést! Date: 2025-04-15T17:22:19+02:00</title>
         <link>https://www.openstreetmap.org/changeset/164967004</link>
