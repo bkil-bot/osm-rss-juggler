@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! A note=Closed-dal mit akartál jelölni? A bánya már bezárt, vagy a terület le van zárva az emberek előtt? Ha az előbbi, akkor disused vagy abandoned prefixekkel kéne jelölni, ha az utóbbi akkor access=private További jó térképezést! Date: 2025-04-17T18:49:21+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/151949094</link>
+        <guid>https://www.openstreetmap.org/changeset/151949094#comment_1</guid>
+        <pubDate>2025-04-17T18:49:21+02:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! A kőbányát használják még kőbányaként, vagy már nem? A címkéid ellentmondanak egymásnak. További jó térképezést! Date: 2025-04-17T18:28:29+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/143483807</link>
+        <guid>https://www.openstreetmap.org/changeset/143483807#comment_1</guid>
+        <pubDate>2025-04-17T18:28:29+02:00</pubDate>
+      </item><item>
         <title>Contributor: Srdjan023 Discussion Comment No.: 5 Comment: I really did not know that contact lines do not work, from what I could see they looked finished. I just thought that our state-owned train operator runs diesels trains because they don't have electric ones. I think that I just accidentally overwrote the old ETCS tag when I removed construction: part from railways. Date: 2025-04-17T17:56:17+02:00</title>
         <link>https://www.openstreetmap.org/changeset/164514005</link>
         <guid>https://www.openstreetmap.org/changeset/164514005#comment_5</guid>
@@ -42,11 +52,6 @@
         <link>https://www.openstreetmap.org/changeset/160642054</link>
         <guid>https://www.openstreetmap.org/changeset/160642054#comment_1</guid>
         <pubDate>2025-04-13T00:58:29+02:00</pubDate>
-      </item><item>
-        <title>Contributor: vasony Discussion Comment No.: 3 Comment: Szia! A házszámok jók, ezt támasztja alá a földhivatal is. Így csak az utcákat kellett helyre tenni. Az általad említett táblák alapján akkor nem Újhegyi út, hanem Rodostó utca, egész a végéig ahol volt egy Rodostói út, gondolom a kettő ugyanaz, így a neveket egységesítettem, a városhatárnál elvágtam. A másik tábla alapján akkor a jobb oldali ág az Újhegy utca, ezt elneveztem. Az Újhegy 16 kérdéskörre a földhivatal adott választ, ez place típusú cím és a egész hegyen lévő külterületi ingatlanoknak kb ilyen neve száma van, nincs köze az Újhegy utcához. Tamás Date: 2025-04-10T21:04:54+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/164576194</link>
-        <guid>https://www.openstreetmap.org/changeset/164576194#comment_3</guid>
-        <pubDate>2025-04-10T21:04:54+02:00</pubDate>
       </item>
   </channel>
 </rss>
