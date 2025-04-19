@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>#chatmail relays can serve 200k+ users on a small physical machine, are easy to setup and even easier to maintain. Chatmail relays enforce end-to-end encryption and rely on cryptographic verification for interoperability instead of IP reputation and spam checking magic. Tomorrow (Sunday) evening one of the developers will give a hands-on setup workshop in Hamburg https://cfp.eh22.easterhegg.eu/eh22/talk/NXTPXY/ #easterhegg2025 #eh22</title>
+        <link>https://chaos.social/@delta/114363692343425958</link>
+        <guid>https://chaos.social/@delta/114363692343425958</guid>
+        <pubDate>Sat, 19 Apr 2025 08:30:57 +0000</pubDate>
+      </item><item>
         <title>The trajectory of E2E-encryption is about de-platforming: There shall be no central machines that can control the edges/peers, and the social groups and virtual centers they freely form. Our #deltachat R&amp;amp;D around #chatmail relays and #webxdc apps all aim to realize such a &amp;quot;zero-platforms&amp;quot; fully E2E-encrypted interaction model. However, this is *not* just about cryptographic cleverness. Rather it is about usable anti-authoritarian designs, as explicitly stated in January https://delta.chat/en/2025-01-23-webxdc-no-billionaires</title>
         <link>https://chaos.social/@delta/114348541871648280</link>
         <guid>https://chaos.social/@delta/114348541871648280</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114194877283479955</link>
         <guid>https://chaos.social/@delta/114194877283479955</guid>
         <pubDate>Thu, 20 Mar 2025 12:59:04 +0000</pubDate>
-      </item><item>
-        <title>iOS already has it, and other stores will soon have it ... long-awaited, and sometimes assumed to be impossible, features: - Edit or delete your past messages. Finally you can typo-fix and retract your messages! - Delete other&amp;#39;s messages at once from all your own devices. Housekeeping bliss! - Bookmark/Save any message to &amp;quot;Saved message&amp;quot;. Better chances to find things back! Your reaction? Wow, finally. I was waiting for this! Great but wait, how is this possible with e-mail? Sounds good but also a bit scary! Don&amp;#39;t need it. But friends might appreciate it.</title>
-        <link>https://chaos.social/@delta/114177711939226484</link>
-        <guid>https://chaos.social/@delta/114177711939226484</guid>
-        <pubDate>Mon, 17 Mar 2025 12:13:42 +0000</pubDate>
       </item>
   </channel>
 </rss>
