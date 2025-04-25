@@ -3,10 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: BáthoryPéter Discussion Comment No.: 3 Comment: Négy és fél éve van fent ez a kapcsolat. Ha tényleg ennyire lassan haladnak a dolgok, nem biztos, hogy érdemes OSM-be felvenni. Date: 2025-04-25T08:03:20+02:00</title>
+        <title>Contributor: utvonalfelmeresek Discussion Comment No.: 4 Comment: De így legalább bárki tudhat arról, hogy van egy ilyen terv. Persze le lehet venni, és csak annak megmondani, hogy van ilyen terv, akit érdekel. Viszont az útvonal érdemes a bejárásra bárki számára. Én nem venném el a lehetőséget tőlük, pl. Grin is sétált arrafele, ez látszik a mapillaryból. Date: 2025-04-25T10:07:23+02:00</title>
         <link>https://www.openstreetmap.org/changeset/93661325</link>
-        <guid>https://www.openstreetmap.org/changeset/93661325#comment_3</guid>
-        <pubDate>2025-04-25T08:03:20+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/93661325#comment_4</guid>
+        <pubDate>2025-04-25T10:07:23+02:00</pubDate>
+      </item><item>
+        <title>Contributor: leveskockaa Discussion Comment No.: 7 Comment: Nekem a Papírgyár utcával van problémám, ilyen formában szerintem ez nem helyes, legjobb tudomásom szerint ez nem egy táblázott kerékpárút. Dél felől van egy ,,Zsákutca kerékpáros továbbhaladási lehetőséggel&quot; tábla, ezen kívül semmi sem utal arra, hogy a legészakibb szakaszára szeretné a kezelő beengedni a kerékpárost. Ezért volt a kompromisszumos megoldásom erre, hogy a Fürdő utcáig designated, utána színtiszta járda. Itt a szűk hely és az asztalok miatt amúgy sem ésszerű a kerékpáros közlekedés, az Ürömi úton pedig nincs átvezetés. Ha nincs más körülmény, ami elkerülte a figyelmem (például az önkormányzat szerint ez kerékpárút) akkor szerintem térjünk vissza ehhez a kompromisszumos megoldáshoz. Date: 2025-04-25T09:53:57+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/165069818</link>
+        <guid>https://www.openstreetmap.org/changeset/165069818#comment_7</guid>
+        <pubDate>2025-04-25T09:53:57+02:00</pubDate>
       </item><item>
         <title>Contributor: balint36 Discussion Comment No.: 1 Comment: Bocsi, nyomvonal pontosítás általában jó szokott lenni, de látom, hogy az OKA nyomvonalát (amit az utszamkereso.kozut.hu oldalon is láthatsz) használod. Ezzel az a baj, hogy helyenként pontatlan, és ez alapján több helyet átrajzoltál, például Ipolytarnóc esetében is a csomópontot: https://www.openstreetmap.org/#map=19/48.235913/19.628186 Te berajzoltad az OKA nyomvonalat, hogy a 22309 egy kanyarral lekanyarodik az állomás elé, a Kossuth út meg valahogyan ebből kiágazik, mintha a 22309 kijelölt főútvonal lenne. Gyakran járok erre, és helyszíni jelenlét alapján meg tudom mondani, hogy nem igaz, amit te felrajzoltál, pedig az OSM eddig megfelelően jelölte a kereszteződést. Ez egy egyszerű T alakú kereszteződés. A Mapillary-n számos felvétel fent van a Kossuth útról, megnézheted te is. Tüzetesen nem néztem át, vasúti átjárókat javítottam volna, és a 'tarnóci feltűnt. Date: 2025-04-23T21:37:52+02:00</title>
         <link>https://www.openstreetmap.org/changeset/160962408</link>
@@ -22,11 +27,6 @@
         <link>https://www.openstreetmap.org/changeset/165249466</link>
         <guid>https://www.openstreetmap.org/changeset/165249466#comment_1</guid>
         <pubDate>2025-04-22T09:05:29+02:00</pubDate>
-      </item><item>
-        <title>Contributor: gymate Discussion Comment No.: 6 Comment: Igen-igen. Hozzá is adtam: https://wiki.openstreetmap.org/wiki/Hungary/Utcanevek,_házszámok#Adatforrások Ha valamit rosszul írtam, bocsánat érte! Nyugodtan javítsd. Date: 2025-04-21T09:01:54+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/165069818</link>
-        <guid>https://www.openstreetmap.org/changeset/165069818#comment_6</guid>
-        <pubDate>2025-04-21T09:01:54+02:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Üdv az OpenStreetMapen! Ennek az ösvénynek tényleg ez a neve? Így csak egy zárójellel? A GCTAJV-re rákeresve valami GeoCaching-es dolog jön ki találatnak. Ha ez így van, akkor ez nem való osm-re: https://wiki.openstreetmap.org/wiki/Geocaching Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség#Elérhetőségek További jó térképezést! Date: 2025-04-20T22:12:13+02:00</title>
         <link>https://www.openstreetmap.org/changeset/165172009</link>
