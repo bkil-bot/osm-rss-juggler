@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Please help us get rough stats as we don&amp;#39;t have technical means to collect such stats, by design. Do you use #deltachat or are considering it? Which kind of operator do you use? any chatmail relay (includes default onboarding) self hosted classic server 3rd party classic server don&amp;#39;t use delta (yet)</title>
+        <link>https://chaos.social/@delta/114403352561206786</link>
+        <guid>https://chaos.social/@delta/114403352561206786</guid>
+        <pubDate>Sat, 26 Apr 2025 08:37:04 +0000</pubDate>
+      </item><item>
         <title>23 is the number of currently active #chatmail relays we heart about by now. Only 6 are listed at https://chatmail.at/relays to complicate ongoing state-level blocking attempts. Please keep setting up #chatmail relays -- and thanks to all the early adopters and carers! July 2025 some key contributors will do sessions in #Lille, France at @passthesaltcon and discuss the state of efforts to scale #deltachat #chatmail and #webxdc to billions of people and bots, without any central points of control.</title>
         <link>https://chaos.social/@delta/114400148481955305</link>
         <guid>https://chaos.social/@delta/114400148481955305</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114240500093787038</link>
         <guid>https://chaos.social/@delta/114240500093787038</guid>
         <pubDate>Fri, 28 Mar 2025 14:21:33 +0000</pubDate>
-      </item><item>
-        <title>Following popular request, here is a proper announcement about editing and deletion of messages available in app stores now. It briefly highlights how Delta Chat actually works contrary to how even some experts thinks it works :) TL;DR Delta Chat is not a classic e-mail client. It uses special messages to co-ordinate encryption, metadata and group interactions and now edit/delete. Delta Chat implements a Peer-to-Peer messaging paradigm without any server state. https://delta.chat/en/2025-03-26-edit-and-delete-how</title>
-        <link>https://chaos.social/@delta/114230232869417282</link>
-        <guid>https://chaos.social/@delta/114230232869417282</guid>
-        <pubDate>Wed, 26 Mar 2025 18:50:27 +0000</pubDate>
       </item>
   </channel>
 </rss>
