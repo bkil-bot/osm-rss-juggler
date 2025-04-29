@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>#deltachat ist a community messenger much more than a monetary focused enterprise. Its offspring developments, the growing #chatmail and #webxdc efforts are also community grounded. Is there any other cross-platform FOSS messaging project, implementing #RightToExit on many levels, putting all interesting and sensitive computation and interactions into end users devices, constantly and radically denying centrality/control of billionaires and big-tech, to the extent currently possible?</title>
+        <link>https://chaos.social/@delta/114420330746926292</link>
+        <guid>https://chaos.social/@delta/114420330746926292</guid>
+        <pubDate>Tue, 29 Apr 2025 08:34:51 +0000</pubDate>
+      </item><item>
         <title>Some of you may remember posts where we talk about #deltachat being hardened to work under bad and adverserial network conditions where other messengers fail. Examples were Georgia, Russia and Iran at the time. But hardened network handling can be useful also during non-political turmoil like currently in Spain where there are some reports that DC messages get through where WhatsApp failed .... https://sonomu.club/@icaria36/114417052677227592 In any case, wishing all the people in Spain and Portugal quick recovery!</title>
         <link>https://chaos.social/@delta/114417116576325003</link>
         <guid>https://chaos.social/@delta/114417116576325003</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114271116222293296</link>
         <guid>https://chaos.social/@delta/114271116222293296</guid>
         <pubDate>Thu, 03 Apr 2025 00:07:38 +0000</pubDate>
-      </item><item>
-        <title>new security milestone reached: #chatmail relay servers are hardened to only transfer end-to-end encrypted e-mail with metadata minimization. No cleartext message can enter or leave the secure chatmail network anymore. We now talk about &amp;quot;chatmail relays&amp;quot; rather than servers as they only ephemerally store messages until delivery. Dirt cheap to run. We opened up our #rust &amp;quot;chatmail core&amp;quot; infrastructure library and set up an overview of the community driven ecosystem ... https://chatmail.at Chatmail logo (black @ sign with the lower left corner dented to signal a chat bubble) with this motto below; Chatmail makes E-Mail fun, secure and instant</title>
-        <link>https://chaos.social/@delta/114270494109657844</link>
-        <guid>https://chaos.social/@delta/114270494109657844</guid>
-        <pubDate>Wed, 02 Apr 2025 21:29:25 +0000</pubDate>
       </item>
   </channel>
 </rss>
