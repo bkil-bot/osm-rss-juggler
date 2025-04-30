@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>We have several ground breaking developments going on in the background, and frankly, it&amp;#39;s sometimes hard to not pre-announce them excitedly :) However, we struggle to acquire public funding after the OTF contract broke away in February. Current need is around ~50K per month for ~10 people. , and we would like to support some contributors to switch their day job. Fallback: even if funding dries up, #deltachat is bound to continue to work. It&amp;#39;s pretty maintainable and intrinsically motivated.</title>
+        <link>https://chaos.social/@delta/114426710308551624</link>
+        <guid>https://chaos.social/@delta/114426710308551624</guid>
+        <pubDate>Wed, 30 Apr 2025 11:37:15 +0000</pubDate>
+      </item><item>
         <title>#deltachat ist a community messenger much more than a monetary focused enterprise. Its offspring developments, the growing #chatmail and #webxdc efforts are also community grounded. Is there any other cross-platform FOSS messaging project, implementing #RightToExit on many levels, putting all interesting and sensitive computation and interactions into end users devices, constantly and radically denying centrality/control of billionaires and big-tech, to the extent currently possible?</title>
         <link>https://chaos.social/@delta/114420330746926292</link>
         <guid>https://chaos.social/@delta/114420330746926292</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114273410178333837</link>
         <guid>https://chaos.social/@delta/114273410178333837</guid>
         <pubDate>Thu, 03 Apr 2025 09:51:01 +0000</pubDate>
-      </item><item>
-        <title>Fun fact: The SMTP return code for when you try to get a not properly encrypted Internet Message (vulgo e-mail) relayed: 523 Encryption Needed It&amp;#39;s standardized already :)</title>
-        <link>https://chaos.social/@delta/114271116222293296</link>
-        <guid>https://chaos.social/@delta/114271116222293296</guid>
-        <pubDate>Thu, 03 Apr 2025 00:07:38 +0000</pubDate>
       </item>
   </channel>
 </rss>
