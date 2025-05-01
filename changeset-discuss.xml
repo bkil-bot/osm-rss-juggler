@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: Kilencfarku Macska Discussion Comment No.: 2 Comment: Szia Tamás! Köszönöm, hogy szóltál, figyelni fogok rá. Többnyire akkor töröltem házakat, ha nem összetartozó épületek voltak egyként ábrázolva (amiknek akár külön házszámuk is van - ezeket elvileg preferált külön épületként feltüntetni) Törölt házszámos épületnél - ha a házszám helyes volt - visszaírtam az új objektumra. Amúgy ezen a környéken lakom. Ahol helyesbítek, ott a hiányzó házszámokat is igyekszem pótolni, korrigálni. Date: 2025-05-01T20:52:44+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/165582320</link>
+        <guid>https://www.openstreetmap.org/changeset/165582320#comment_2</guid>
+        <pubDate>2025-05-01T20:52:44+02:00</pubDate>
+      </item><item>
         <title>Contributor: Niels Elgaard Larsen Discussion Comment No.: 1 Comment: Please attach speed cameras to the road. Or create a maxspeed enforcement relation. See: https://wiki.openstreetmap.org/wiki/Tag:highway%3Dspeed_camera Date: 2025-05-01T14:06:28+02:00</title>
         <link>https://www.openstreetmap.org/changeset/164466099</link>
         <guid>https://www.openstreetmap.org/changeset/164466099#comment_1</guid>
@@ -12,11 +17,6 @@
         <link>https://www.openstreetmap.org/changeset/165268523</link>
         <guid>https://www.openstreetmap.org/changeset/165268523#comment_1</guid>
         <pubDate>2025-05-01T11:09:38+02:00</pubDate>
-      </item><item>
-        <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szia! Légy szíves ne törölj házakat. Ha egy háznak nem jó a geometriája, akkor a meglévőt alakítsd át ne töröld és újra, mert a teljes szerkesztéstörténetet elveszíti az objektum. Különösen fájó, hogy a házszámokat is sikerült letörölni a régi házzal együtt. Tamás Date: 2025-05-01T06:17:55+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/165582320</link>
-        <guid>https://www.openstreetmap.org/changeset/165582320#comment_1</guid>
-        <pubDate>2025-05-01T06:17:55+02:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! crossing_ref helyett manapság a crossing:markings-ot használjuk, sokkal részletesebben le lehet írni felfestéseket: https://wiki.openstreetmap.org/wiki/Key:crossing:markings A crossing_ref meg marad azokban az országokban ahol ezek a többi állatnevek használatban vannak, nálunk ilyenek nincsenek: https://wiki.openstreetmap.org/wiki/Key:crossing_ref További jó térképezést! Date: 2025-04-30T21:36:16+02:00</title>
         <link>https://www.openstreetmap.org/changeset/165627630</link>
