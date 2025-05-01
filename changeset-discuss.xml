@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: Niels Elgaard Larsen Discussion Comment No.: 1 Comment: Please attach speed cameras to the road. Or create a maxspeed enforcement relation. See: https://wiki.openstreetmap.org/wiki/Tag:highway%3Dspeed_camera Date: 2025-05-01T14:06:28+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/164466099</link>
+        <guid>https://www.openstreetmap.org/changeset/164466099#comment_1</guid>
+        <pubDate>2025-05-01T14:06:28+02:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Hello! It seems good, just one thing. You added the new shops here as shop=doityourself, but the already mapped shops you updated in the other changeset were already tagged as shop=paint: https://www.openstreetmap.org/changeset/165268571 &quot;Festékáruház&quot; literally means &quot;paint shop&quot;. Shop=paint is documented in the wiki: https://wiki.openstreetmap.org/wiki/Tag:shop=paint Is there any reason you went here with the other shop value? If the profile of these shops fit better the shop=doityourself tag, than can you tag the old ones the same way? Or are these shops different, and it was a deliberate choice to tag only these as diy? It would be better if all shops of the brand would be tagged the same way. Thanks! Date: 2025-05-01T11:09:38+02:00</title>
         <link>https://www.openstreetmap.org/changeset/165268523</link>
         <guid>https://www.openstreetmap.org/changeset/165268523#comment_1</guid>
