@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Hello! It seems good, just one thing. You added the new shops here as shop=doityourself, but the already mapped shops you updated in the other changeset were already tagged as shop=paint: https://www.openstreetmap.org/changeset/165268571 &quot;Festékáruház&quot; literally means &quot;paint shop&quot;. Shop=paint is documented in the wiki: https://wiki.openstreetmap.org/wiki/Tag:shop=paint Is there any reason you went here with the other shop value? If the profile of these shops fit better the shop=doityourself tag, than can you tag the old ones the same way? Or are these shops different, and it was a deliberate choice to tag only these as diy? It would be better if all shops of the brand would be tagged the same way. Thanks! Date: 2025-05-01T11:09:38+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/165268523</link>
+        <guid>https://www.openstreetmap.org/changeset/165268523#comment_1</guid>
+        <pubDate>2025-05-01T11:09:38+02:00</pubDate>
+      </item><item>
         <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szia! Légy szíves ne törölj házakat. Ha egy háznak nem jó a geometriája, akkor a meglévőt alakítsd át ne töröld és újra, mert a teljes szerkesztéstörténetet elveszíti az objektum. Különösen fájó, hogy a házszámokat is sikerült letörölni a régi házzal együtt. Tamás Date: 2025-05-01T06:17:55+02:00</title>
         <link>https://www.openstreetmap.org/changeset/165582320</link>
         <guid>https://www.openstreetmap.org/changeset/165582320#comment_1</guid>
