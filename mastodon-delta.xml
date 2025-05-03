@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>1 cent per five years .... is the current marginal hosting cost for a #chatmail address, with which #deltachat apps facilitate world-wide private messaging including interactive #webxdc apps that run end-to-end encrypted in any chat group. &amp;lt;1 Million EUR per year is the estimated marginal hosting costs for 350 Million EU citizens. Such scaling requires, however, research and development, including careful UX and #cryptography work. Related writing from @gordon https://newsletter.squishy.computer/p/cryptography-scales-trust screenshot of key excerpt from the referenced post: &quot;When the network is built on cryptographic protocols, we don’t have to trust anything in-between. We don’t have to trust the computers, the wires, the institutions, beliefs, or kinship of the network participants. We can trust the math. All we have to do is verify the message with cryptography. This is a powerful primitive for scaling trust, because it means everyone on the network can cooperate together, even if they don’t trust each-other. The costs to producing high-trust results are greatly reduced, and we can spend our coordination efforts on building larger, more fine-grained, more complex networks of cooperation.&quot;</title>
+        <link>https://chaos.social/@delta/114445059746075031</link>
+        <guid>https://chaos.social/@delta/114445059746075031</guid>
+        <pubDate>Sat, 03 May 2025 17:23:45 +0000</pubDate>
+      </item><item>
         <title>Yesterday, 20 people from the https://safesisters.org community onboarded with #DeltaChat in Lusaka, Zambia. Everything worked! Usability, privacy and #OfflineFirst ops were appreciated and #webxdc app based organizing met strong interest. Many participants engage in addressing challenges from surveillance state actors, family and partner abuse. Moreover, people with visual impairment were happy about Android&amp;#39;s screen reader support. It&amp;#39;s events like this that validate our efforts! #africa Photo of a group of black women gathering in a conference room in Lusaka, Zambia. There is a group of people standing in the back, as well as several sitting in front of tables, as well as and on the side. The picture was shot while onboarding with Delta Chat Android took place, and people in the picture consented to publishing.</title>
         <link>https://chaos.social/@delta/114439121410428300</link>
         <guid>https://chaos.social/@delta/114439121410428300</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114303516361541127</link>
         <guid>https://chaos.social/@delta/114303516361541127</guid>
         <pubDate>Tue, 08 Apr 2025 17:27:25 +0000</pubDate>
-      </item><item>
-        <title>#openpgp traditions and #signal both bind a cleartext identifier, phone number or email address, to a cryptographic key. It opens up attack vectors as the servers/orgs controlling this binding can interfere. #deltachat avoids such cleartext identity bindings by creating random #chatmail addresses, as transport only. The cryptographic key becomes the identifier and we want it hidden from the transport layer. Only people being in end-to-end encrypted chat need to identify each other, after all.</title>
-        <link>https://chaos.social/@delta/114303033544584627</link>
-        <guid>https://chaos.social/@delta/114303033544584627</guid>
-        <pubDate>Tue, 08 Apr 2025 15:24:38 +0000</pubDate>
       </item>
   </channel>
 </rss>
