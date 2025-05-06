@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Last week four new #chatmail relays popped up from four different continents from four different entities. Permission-free interoperability based on #cryptography ... That&amp;#39;s how we like it and how it generally is with the email system: separation of transport and apps. App developers can&amp;#39;t access messages, and relay operators can not break e2ee encryption. Fwiw May 14th there is another round at a #Moscow court where our lawyers will convey this impossibility for #deltachat to hand over data. Screenshot of a part of the list shown at https://chatmail.at/relays With chtml.ca (Canada), chatmail.au (Australia) E2ee.wang (Johannesburg, south Africa) and Chat.privvitytech.com (Bangalore, India)</title>
+        <link>https://chaos.social/@delta/114462037776296310</link>
+        <guid>https://chaos.social/@delta/114462037776296310</guid>
+        <pubDate>Tue, 06 May 2025 17:21:30 +0000</pubDate>
+      </item><item>
         <title>1 cent per five years .... is the current marginal hosting cost for a #chatmail address, with which #deltachat apps facilitate world-wide private messaging including interactive #webxdc apps that run end-to-end encrypted in any chat group. &amp;lt;1 Million EUR per year is the estimated marginal hosting costs for 350 Million EU citizens. Such scaling requires, however, research and development, including careful UX and #cryptography work. Related writing from @gordon https://newsletter.squishy.computer/p/cryptography-scales-trust screenshot of key excerpt from the referenced post: &quot;When the network is built on cryptographic protocols, we don’t have to trust anything in-between. We don’t have to trust the computers, the wires, the institutions, beliefs, or kinship of the network participants. We can trust the math. All we have to do is verify the message with cryptography. This is a powerful primitive for scaling trust, because it means everyone on the network can cooperate together, even if they don’t trust each-other. The costs to producing high-trust results are greatly reduced, and we can spend our coordination efforts on building larger, more fine-grained, more complex networks of cooperation.&quot;</title>
         <link>https://chaos.social/@delta/114445059746075031</link>
         <guid>https://chaos.social/@delta/114445059746075031</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114307334260523067</link>
         <guid>https://chaos.social/@delta/114307334260523067</guid>
         <pubDate>Wed, 09 Apr 2025 09:38:21 +0000</pubDate>
-      </item><item>
-        <title>Some of you may have heard of #simplex which likes to elevate itself as &amp;quot;the first messenger without user-ids&amp;quot; ... a goal, similar to ours, of not letting the transport layer know about who talks. Only we are doing it in the email system, fully interoperable with tens of thousands of existing email servers and other #openpgp endpoints. The email system is much more than SMTP/IMAP or even openpgp btw ... there is plenty of room for radical shifts and new takes. We are just starting :)</title>
-        <link>https://chaos.social/@delta/114303516361541127</link>
-        <guid>https://chaos.social/@delta/114303516361541127</guid>
-        <pubDate>Tue, 08 Apr 2025 17:27:25 +0000</pubDate>
       </item>
   </channel>
 </rss>
