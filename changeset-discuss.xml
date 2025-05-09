@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Mi volt a forrásod erre? Gondolom nem helyszíni felmérés, mert akkor láttad volna, hogy ez nem így van. Fogaskerekű utca végig ingyenes, Határőr Gaál Józseftől Dél fele ingyenes, Ráth György és Karap ingyenes. Alma utcán Határőr és Bíró között nem kell jelölni a fizetősséget, mert nincs parkoló egyik oldalon sem. Ráadásul sok utcán rajta hagytad a régi fajta parkoló címkézést is. Itt összeszedtem a wikiben hogyan kéne jelölni a parkolást, hogy egységesen legyen mindenhol: https://wiki.openstreetmap.org/wiki/Hungary/Jelölési_példák/Parkolás Ezt javítottam ebben a changesetben: https://www.openstreetmap.org/changeset/166045140 További jó térképezést! Date: 2025-05-09T20:19:56+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/160881176</link>
+        <guid>https://www.openstreetmap.org/changeset/160881176#comment_1</guid>
+        <pubDate>2025-05-09T20:19:56+02:00</pubDate>
+      </item><item>
         <title>Contributor: Narvik2 Discussion Comment No.: 1 Comment: Szia! Ezeket a parkolókat felmérted vagy automatikusan ráraktad az összesre a parking=surface-t? Az Erkel előtti pl. kapásból parking=street_side https://www.openstreetmap.org/way/225125507 https://wiki.openstreetmap.org/wiki/Tag:parking=street_side https://maps.app.goo.gl/xBGyzJC3rRu9ko23A Date: 2025-05-09T07:38:40+02:00</title>
         <link>https://www.openstreetmap.org/changeset/165955537</link>
         <guid>https://www.openstreetmap.org/changeset/165955537#comment_1</guid>
