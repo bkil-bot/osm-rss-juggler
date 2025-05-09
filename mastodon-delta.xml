@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>We increasingly hear about China travellers who use #deltachat successfully where Whatsapp and Signal fail to work. Recently a family onboarded including a 85 old mother, to prepare for China travel. Everbody succeeded, no troubles! #deltachat is all about resiliency and &amp;quot;just works&amp;quot; user experiences. Despite ongoing and prospective network blocking attempts, our apps manage to mitigate and remain working everywhere. Meanwhile we are preparing some next level resiliency/security features ;)</title>
+        <link>https://chaos.social/@delta/114479353776307247</link>
+        <guid>https://chaos.social/@delta/114479353776307247</guid>
+        <pubDate>Fri, 09 May 2025 18:45:11 +0000</pubDate>
+      </item><item>
         <title>Last week four new #chatmail relays popped up from four different continents from four different entities. Permission-free interoperability based on #cryptography ... That&amp;#39;s how we like it and how it generally is with the email system: separation of transport and apps. App developers can&amp;#39;t access messages, and relay operators can not break e2ee encryption. Fwiw May 14th there is another round at a #Moscow court where our lawyers will convey this impossibility for #deltachat to hand over data. Screenshot of a part of the list shown at https://chatmail.at/relays With chtml.ca (Canada), chatmail.au (Australia) E2ee.wang (Johannesburg, south Africa) and Chat.privvitytech.com (Bangalore, India)</title>
         <link>https://chaos.social/@delta/114462037776296310</link>
         <guid>https://chaos.social/@delta/114462037776296310</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114323817685747040</link>
         <guid>https://chaos.social/@delta/114323817685747040</guid>
         <pubDate>Sat, 12 Apr 2025 07:30:18 +0000</pubDate>
-      </item><item>
-        <title>In 2014 @matthew_d_green wrote &amp;quot;What&amp;#39;s the matter with PGP?&amp;quot; https://blog.cryptographyengineering.com/2014/08/13/whats-matter-with-pgp/ We&amp;#39;d like to humbly report completion of its main suggestions. Better late than never! :) - Key management is automatic through #securejoin and #autocrypt protos - #chatmail relays form an end-to-end encrypted email enclave interoperable with any e-mail address using proper end-to-end encryption. - RFC 9580 &amp;quot;cryptorefresh&amp;quot; is rolled out in current releases and will be activated soon. One to go? ;) screenshot of a part of the blog post from Matthew Greene: So what should we be doing? Quite a lot actually. The path to a proper encrypted email system isn’t that far off. At minimum, any real solution needs: [a green verified checkmark on the following paragraph] « A proper approach to key management. This could be anything from centralized key management as in Apple’s iMessage — which would still be better than nothing — to a decentralized (but still usable) approach like the o one offered by Signal or OTR. Whatever the solution, in order to achieve mass deployment, keys need to be made much more manageable or else submerged from the user altogether. « Forward secrecy baked into the protocol. This should be a pre-condition to any secure messaging system. « Cryptography that post-dates the Fresh Prince. Enough said. [a green verified checkmark on the following paragraph] o « Screw backwards compatibility. Securing both encrypted and unencrypted email is too hard. We need dedicated networks that handle this from the start.</title>
-        <link>https://chaos.social/@delta/114307334260523067</link>
-        <guid>https://chaos.social/@delta/114307334260523067</guid>
-        <pubDate>Wed, 09 Apr 2025 09:38:21 +0000</pubDate>
       </item>
   </channel>
 </rss>
