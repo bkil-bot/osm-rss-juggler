@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Russian authorities continue to demand the impossible, namely that we give them user data we don&amp;#39;t have. Today the Moscow City Court rejected our objections and sided with the communication surveillance authority Roskomnadzor and the Federal Security Buereau (FSB). Not too surprising. Many more details and next step considerations you can find in this press release https://merlinux.eu/press/2025-05-14-russia-deltachat.pdf #deltachat #russia #e2ee #chatcontrol</title>
+        <link>https://chaos.social/@delta/114508032291228985</link>
+        <guid>https://chaos.social/@delta/114508032291228985</guid>
+        <pubDate>Wed, 14 May 2025 20:18:30 +0000</pubDate>
+      </item><item>
         <title>In the bottom left corner of Germany, we are staging a cross-community gathering called &amp;quot;DIFF&amp;quot; during June 7-17th. See our invitation video and blog post. It&amp;#39;s probably the best opportunity so far to become part of what is happening behind the scenes ;) https://delta.chat/en/2025-05-12-diff-invitation</title>
         <link>https://chaos.social/@delta/114494151406863516</link>
         <guid>https://chaos.social/@delta/114494151406863516</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114335008953866030</link>
         <guid>https://chaos.social/@delta/114335008953866030</guid>
         <pubDate>Mon, 14 Apr 2025 06:56:24 +0000</pubDate>
-      </item><item>
-        <title>Isn&amp;#39;t it ironic that a messenger that utilizes email protocols under the hood is pretty resistant to spam? For decades most people equated email with &amp;quot;spam&amp;quot; and yet, here we are. It&amp;#39;s not the email protocols that cause spam but the fact that email adresses have been used as identity. #deltachat is moving away from this email address-as-identity model towards a cryptography based model where only chat contacts know your identity, and email is &amp;quot;just&amp;quot; the globally federated transport.</title>
-        <link>https://chaos.social/@delta/114332888171291383</link>
-        <guid>https://chaos.social/@delta/114332888171291383</guid>
-        <pubDate>Sun, 13 Apr 2025 21:57:03 +0000</pubDate>
       </item>
   </channel>
 </rss>
