@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: Egge Gege Discussion Comment No.: 2 Comment: Szia! Bezárt évekkel ezelőtt. Gergő Date: 2025-05-16T18:01:46+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/165911966</link>
+        <guid>https://www.openstreetmap.org/changeset/165911966#comment_2</guid>
+        <pubDate>2025-05-16T18:01:46+02:00</pubDate>
+      </item><item>
         <title>Contributor: issti Discussion Comment No.: 2 Comment: Köszönöm, hogy megnézted a módosítást! Segíteni szerettem volna az autósoknak, mert az Organic Maps erre tervezi az útvonalat, pedig ide csak az SZKT járművek hathatnak be. Jelezni fogom nekik. Date: 2025-05-16T11:05:34+02:00</title>
         <link>https://www.openstreetmap.org/changeset/166227483</link>
         <guid>https://www.openstreetmap.org/changeset/166227483#comment_2</guid>
@@ -68,11 +73,6 @@
         <guid>https://www.openstreetmap.org/changeset/166051174#comment_1</guid>
         <pubDate>2025-05-10T14:41:03+02:00</pubDate>
       </item><item>
-        <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szia! Lebontották az épületet is vagy csak bezárt? Tamás Date: 2025-05-10T14:23:56+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/165911966</link>
-        <guid>https://www.openstreetmap.org/changeset/165911966#comment_1</guid>
-        <pubDate>2025-05-10T14:23:56+02:00</pubDate>
-      </item><item>
         <title>Contributor: bkil Discussion Comment No.: 1 Comment: Van írásos szerzői jogi engedélyünk a Fömi alappont importálására ami kompatibilis az ODbL feltételeivel? Ha igen, fel tudjuk venni a wikibe és be tudjuk tömegesen importálni? Ha nem, visszavonandó. Date: 2025-05-10T08:26:12+02:00</title>
         <link>https://www.openstreetmap.org/changeset/166047181</link>
         <guid>https://www.openstreetmap.org/changeset/166047181#comment_1</guid>
@@ -82,11 +82,6 @@
         <link>https://www.openstreetmap.org/changeset/112384249</link>
         <guid>https://www.openstreetmap.org/changeset/112384249#comment_2</guid>
         <pubDate>2025-05-10T08:22:46+02:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Mi volt a forrásod erre? Gondolom nem helyszíni felmérés, mert akkor láttad volna, hogy ez nem így van. Fogaskerekű utca végig ingyenes, Határőr Gaál Józseftől Dél fele ingyenes, Ráth György és Karap ingyenes. Alma utcán Határőr és Bíró között nem kell jelölni a fizetősséget, mert nincs parkoló egyik oldalon sem. Ráadásul sok utcán rajta hagytad a régi fajta parkoló címkézést is. Itt összeszedtem a wikiben hogyan kéne jelölni a parkolást, hogy egységesen legyen mindenhol: https://wiki.openstreetmap.org/wiki/Hungary/Jelölési_példák/Parkolás Ezt javítottam ebben a changesetben: https://www.openstreetmap.org/changeset/166045140 További jó térképezést! Date: 2025-05-09T20:19:56+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/160881176</link>
-        <guid>https://www.openstreetmap.org/changeset/160881176#comment_1</guid>
-        <pubDate>2025-05-09T20:19:56+02:00</pubDate>
       </item>
   </channel>
 </rss>
