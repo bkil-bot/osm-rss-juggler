@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>It had to happen: in-chat multi-player #Quake III Arena #webxdc app, running over @n0iroh and using the fine work of https://ioquake3.org/ folks. Quake3 app is 1.2MB but you need to download once a game file of ~50 MB. It&amp;#39;s only one level. Realtime-P2P-networked multiplayer gaming with games arranged in securely end-to-end encrypted email. Both Quake3&amp;#39;s in-game chat as well as gameplay messages have forward-secrecy. What a weird future, eh? :) https://webxdc.org/apps/#wofwca-quake3 screenshot of Quake app at https://webxdc.org/apps/#wofwca-quake3 screenshot of an in-game quake situation where the player just &quot;fragged Simon, 1st place with 19&quot; (kills) screenshot of an in-game quake situation where the player just &quot;fragged Holga, 1st place with 16&quot; (kills) Screenshot of in-game quake with a player looking down on a situation where a rocket launcher just exploded.</title>
+        <link>https://chaos.social/@delta/114517181096683376</link>
+        <guid>https://chaos.social/@delta/114517181096683376</guid>
+        <pubDate>Fri, 16 May 2025 11:05:10 +0000</pubDate>
+      </item><item>
         <title>Russian authorities continue to demand the impossible, namely that we give them user data we don&amp;#39;t have. Today the Moscow City Court rejected our objections and sided with the communication surveillance authority Roskomnadzor and the Federal Security Buereau (FSB). Not too surprising. Many more details and next step considerations you can find in this press release https://merlinux.eu/press/2025-05-14-russia-deltachat.pdf #deltachat #russia #e2ee #chatcontrol</title>
         <link>https://chaos.social/@delta/114508032291228985</link>
         <guid>https://chaos.social/@delta/114508032291228985</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114335487899193364</link>
         <guid>https://chaos.social/@delta/114335487899193364</guid>
         <pubDate>Mon, 14 Apr 2025 08:58:12 +0000</pubDate>
-      </item><item>
-        <title>Easter/April offer 🐣 if you are onboarding a small group of family/friends to #deltachat and/or want to setup a insta-federated #chatmail relay let us know about any issues. Just post on fediverse and tag us. In case of bugs/issues we&amp;#39;ll see to privately set up a support chat to help sort out any issues, or file accordingly to our development tracker. We want Delta to work flawlessly for private chatting and to better understand any remaining irritations or problems. Thanks and enjoy :)</title>
-        <link>https://chaos.social/@delta/114335008953866030</link>
-        <guid>https://chaos.social/@delta/114335008953866030</guid>
-        <pubDate>Mon, 14 Apr 2025 06:56:24 +0000</pubDate>
       </item>
   </channel>
 </rss>
