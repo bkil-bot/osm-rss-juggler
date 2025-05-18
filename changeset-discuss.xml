@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 2 Comment: Másik: Ez amit a contact:google_plus címkébe beírtál több okból is nem jó: Ez a kulcs nem erre van, az azóta megszűnt Google Plus közösségi hálózaton használt felhasználó neveket kellett ide beírni: https://wiki.openstreetmap.org/wiki/Key:contact:google_plus Ez amt ide beírtál egy Open Location Code, aminek régi neve volt Plus Code: https://en.wikipedia.org/wiki/Open_Location_Code Ezt a kódot nem tároljuk így OSM-en, mivel ez a számsor a POI koordinátájából következik, azzal, hogy felrajzoltad, már kiszámolható ez a kód belőle. Az más kérdés, hogy OSM világban nem sok minden támogatja ezt a kódot, itt van erről egy leírás: https://wiki.openstreetmap.org/wiki/Proposal:Open_Location_Code Date: 2025-05-18T21:16:36+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/166209674</link>
+        <guid>https://www.openstreetmap.org/changeset/166209674#comment_2</guid>
+        <pubDate>2025-05-18T21:16:36+02:00</pubDate>
+      </item><item>
         <title>Contributor: aceman444 Discussion Comment No.: 1 Comment: Why? You provided no reasoning for this change. Border crossing checks can be performed at any time (and they often are!). It is good to have those points marked in the map. Please revert this back. Date: 2025-05-18T20:06:51+02:00</title>
         <link>https://www.openstreetmap.org/changeset/161984407</link>
         <guid>https://www.openstreetmap.org/changeset/161984407#comment_1</guid>
