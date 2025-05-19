@@ -3,10 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: infeeeee Discussion Comment No.: 2 Comment: Másik: Ez amit a contact:google_plus címkébe beírtál több okból is nem jó: Ez a kulcs nem erre van, az azóta megszűnt Google Plus közösségi hálózaton használt felhasználó neveket kellett ide beírni: https://wiki.openstreetmap.org/wiki/Key:contact:google_plus Ez amt ide beírtál egy Open Location Code, aminek régi neve volt Plus Code: https://en.wikipedia.org/wiki/Open_Location_Code Ezt a kódot nem tároljuk így OSM-en, mivel ez a számsor a POI koordinátájából következik, azzal, hogy felrajzoltad, már kiszámolható ez a kód belőle. Az más kérdés, hogy OSM világban nem sok minden támogatja ezt a kódot, itt van erről egy leírás: https://wiki.openstreetmap.org/wiki/Proposal:Open_Location_Code Date: 2025-05-18T21:16:36+02:00</title>
+        <title>Contributor: Vartik Csaba Discussion Comment No.: 3 Comment: Szia! Köszönöm az észrevételeket! Javítottam! Date: 2025-05-19T06:15:47+02:00</title>
         <link>https://www.openstreetmap.org/changeset/166209674</link>
-        <guid>https://www.openstreetmap.org/changeset/166209674#comment_2</guid>
-        <pubDate>2025-05-18T21:16:36+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/166209674#comment_3</guid>
+        <pubDate>2025-05-19T06:15:47+02:00</pubDate>
+      </item><item>
+        <title>Contributor: NightH Discussion Comment No.: 1 Comment: Szia! Ezzel a szerkesztéssel a hasznos térképezés mellett sajnos nagyon sok hibát vittél az adatbázisba. Nagyon sok olyan vonalat töröltél, aminek ránézésre lehet nincs értelme, de egy nagyobb kapcsolat (erdő, szántóföld) részei voltak. Ezek a kapcsolatok most szétestek, a térképen pedig eltűntek a nagy kiterjedésű területhasználatok. Ezen kívül szervízutakra, földutakra és még egy vízfolyásra is ráraktad a kijelölt gyalogút címkét, ami a városi, aszfaltozott, térkövezett gyalogutakra vonatkozik, amin autóforgalom nem megengedett. A területhasználatban a hotel és a golfpálya köré húzott &quot;lakott terület&quot; kategória is hibás, ez a városi, sűrűn beépített belterületre vonatkozik. Ezen kívül több hibát is benne hagytál, amire figyelmeztetett az iD szerkesztő. Az egész módosításcsomagodat vissza fogom vonni, az értékes elemeket (golfpálya épületeit és pontszerű címkéit) pedig fel fogom rajzolni. Date: 2025-05-19T05:54:30+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/166244701</link>
+        <guid>https://www.openstreetmap.org/changeset/166244701#comment_1</guid>
+        <pubDate>2025-05-19T05:54:30+02:00</pubDate>
       </item><item>
         <title>Contributor: aceman444 Discussion Comment No.: 1 Comment: Why? You provided no reasoning for this change. Border crossing checks can be performed at any time (and they often are!). It is good to have those points marked in the map. Please revert this back. Date: 2025-05-18T20:06:51+02:00</title>
         <link>https://www.openstreetmap.org/changeset/161984407</link>
