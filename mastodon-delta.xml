@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Transparency report: #deltachat gave out data for the following number of users in the last years: 0, nada, zilch. granted, it helps to not have data to begin with :) #Telegram is the exact opposite: they have _all_ the data about users, message histories, contacts, group and channel memberships, phone numbers, media files, bot interactions etc .... all in the clear on their central server, ready to be grabbed. https://www.404media.co/telegram-gave-authorities-data-on-more-than-20-000-users/</title>
+        <link>https://chaos.social/@delta/114539207111998357</link>
+        <guid>https://chaos.social/@delta/114539207111998357</guid>
+        <pubDate>Tue, 20 May 2025 08:26:40 +0000</pubDate>
+      </item><item>
         <title>It had to happen: in-chat multi-player #Quake III Arena #webxdc app, running over @n0iroh and using the fine work of https://ioquake3.org/ folks. Quake3 app is 1.2MB but you need to download once a game file of ~50 MB. It&amp;#39;s only one level. Realtime-P2P-networked multiplayer gaming arranged through securely end-to-end encrypted email, from a group chat! Both Quake3&amp;#39;s in-game chat as well as game play messages have forward-secrecy. What a weird future, eh? :) https://webxdc.org/apps/#wofwca-quake3 screenshot of Quake app at https://webxdc.org/apps/#wofwca-quake3 A screenshot of a Delta Chat group chat where a quake3 webxdc app is posted, showing the Quake logo, and there is a &quot;start button&quot;. Wofwca (the author of the quake webxdc app) immediately is ready and joins the game. A short while later there are three people from the chat playing. screenshot of an in-game quake situation where the player just &quot;fragged Holga, 1st place with 16&quot; (kills) Screenshot of in-game quake with a player looking down on a situation where a rocket launcher just exploded.</title>
         <link>https://chaos.social/@delta/114517181096683376</link>
         <guid>https://chaos.social/@delta/114517181096683376</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114348541871648280</link>
         <guid>https://chaos.social/@delta/114348541871648280</guid>
         <pubDate>Wed, 16 Apr 2025 16:18:00 +0000</pubDate>
-      </item><item>
-        <title>Do you struggle to keep your #TOTP secrets synced and backed up properly? Do you wish you could give a group of people access to ephemeral authentication tokens? Then TOTP #webxdc from @rtn might be for you! Cross platform multi-device support means that you can use these tokens from any device, and you have a natural backup should one device go bust. As with all webxdc apps there is no server hosting involved. Everything is only visible on respective devices and end-to-end encrypted between Icon for totp app and short description: time-based one-time passwords Author: rtn</title>
-        <link>https://chaos.social/@delta/114335487899193364</link>
-        <guid>https://chaos.social/@delta/114335487899193364</guid>
-        <pubDate>Mon, 14 Apr 2025 08:58:12 +0000</pubDate>
       </item>
   </channel>
 </rss>
