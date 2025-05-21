@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Hello BlueSky! Our Fediverse posts are now experimentally bridged and you can follow the &amp;quot;delta.chat&amp;quot; handle to get project news and address us. While we are it, we&amp;#39;d like to repeat and extend the invitation to the June DIFF gathering in the black forest: https://delta.chat/en/2025-05-12-diff-invitation</title>
+        <link>https://chaos.social/@delta/114544971149391464</link>
+        <guid>https://chaos.social/@delta/114544971149391464</guid>
+        <pubDate>Wed, 21 May 2025 08:52:32 +0000</pubDate>
+      </item><item>
         <title>Transparency report: #deltachat gave out data for the following number of users in the last years: 0, nada, zilch. granted, it helps to not have data to begin with :) #Telegram is the exact opposite: they have _all_ the data about users, message histories, contacts, group and channel memberships, phone numbers, media files, bot interactions etc .... all in the clear on their central server, ready to be grabbed. https://www.404media.co/telegram-gave-authorities-data-on-more-than-20-000-users/</title>
         <link>https://chaos.social/@delta/114539207111998357</link>
         <guid>https://chaos.social/@delta/114539207111998357</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114363692343425958</link>
         <guid>https://chaos.social/@delta/114363692343425958</guid>
         <pubDate>Sat, 19 Apr 2025 08:30:57 +0000</pubDate>
-      </item><item>
-        <title>The trajectory of E2E-encryption is about de-platforming: There shall be no central machines that can control the edges/peers, and the social groups and virtual centers they freely form. Our #deltachat R&amp;amp;D around #chatmail relays and #webxdc apps all aim to realize such a &amp;quot;zero-platforms&amp;quot; fully E2E-encrypted interaction model. However, this is *not* just about cryptographic cleverness. Rather it is about usable anti-authoritarian designs, as explicitly stated in January https://delta.chat/en/2025-01-23-webxdc-no-billionaires</title>
-        <link>https://chaos.social/@delta/114348541871648280</link>
-        <guid>https://chaos.social/@delta/114348541871648280</guid>
-        <pubDate>Wed, 16 Apr 2025 16:18:00 +0000</pubDate>
       </item>
   </channel>
 </rss>
