@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>#deltachat Desktop can now run on Firefox and Safari, entirely avoiding Electron and Chromium! It&amp;#39;s an intended side-effect of the &amp;quot;porting Desktop to Tauri&amp;quot; effort led by @treefit which aims to provide a non-Electron packaged version of the Desktop. Here is a video and deep dive into what&amp;#39;s working on regular browsers now, and what&amp;#39;s missing for a full Web version: https://delta.chat/en/2025-05-22-browser-edition</title>
+        <link>https://chaos.social/@delta/114551763057700815</link>
+        <guid>https://chaos.social/@delta/114551763057700815</guid>
+        <pubDate>Thu, 22 May 2025 13:39:49 +0000</pubDate>
+      </item><item>
         <title>For those wondering about Microsoft Recall because of #Signal&amp;#39;s blog post about an option to block screenshots on Windows: #deltachat Desktop on Windows and MacOS have an option to disable screenshots in &amp;quot;Advanced&amp;quot; settings since beginning 2025. It&amp;#39;s not enabled by default because we first need to work hard on drafting a big blog post about it .... just kidding :) We&amp;#39;ll see if we change the default. We certainly agree that Microsoft needs to change their AI-grabbing and privacy violations.</title>
         <link>https://chaos.social/@delta/114550923855544425</link>
         <guid>https://chaos.social/@delta/114550923855544425</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114385890142436516</link>
         <guid>https://chaos.social/@delta/114385890142436516</guid>
         <pubDate>Wed, 23 Apr 2025 06:36:09 +0000</pubDate>
-      </item><item>
-        <title>Today we are unveiling two brand new features by ... drum-roll ... doing nothing: - No &amp;quot;AI&amp;quot; integration involved or planned. Consequently, you don&amp;#39;t need to teach your relatives how to disable AI! - No proprietary server components: servers are fast, efficient and freely replicable, no permissions needed! Moreover, our apps are easier to use and onboard with than SIM/phone number based apps: Multi-device and Multi-profile handling is a piece of cake. #deltachat #whatsapp #signal #matrix</title>
-        <link>https://chaos.social/@delta/114380695674956418</link>
-        <guid>https://chaos.social/@delta/114380695674956418</guid>
-        <pubDate>Tue, 22 Apr 2025 08:35:08 +0000</pubDate>
       </item>
   </channel>
 </rss>
