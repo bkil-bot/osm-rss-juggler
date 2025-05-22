@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>For those wondering about Microsoft Recall because of #Signal&amp;#39;s blog post about an option to block screenshots on Windows: #deltachat Desktop on Windows and MacOS have an option to disable screenshots in &amp;quot;Advanced&amp;quot; settings since beginning 2025. It&amp;#39;s not enabled by default because we first need to work hard on drafting a big blog post about it .... just kidding :) We&amp;#39;ll see if we change the default. We certainly agree that Microsoft needs to change their AI-grabbing and privacy violations.</title>
+        <link>https://chaos.social/@delta/114550923855544425</link>
+        <guid>https://chaos.social/@delta/114550923855544425</guid>
+        <pubDate>Thu, 22 May 2025 10:06:24 +0000</pubDate>
+      </item><item>
         <title>Hello BlueSky! Our Fediverse posts are now experimentally bridged and you can follow the &amp;quot;delta.chat&amp;quot; handle to get project news and address us. While we are it, we&amp;#39;d like to repeat and extend the invitation to the June DIFF gathering in the black forest: https://delta.chat/en/2025-05-12-diff-invitation</title>
         <link>https://chaos.social/@delta/114544971149391464</link>
         <guid>https://chaos.social/@delta/114544971149391464</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114380695674956418</link>
         <guid>https://chaos.social/@delta/114380695674956418</guid>
         <pubDate>Tue, 22 Apr 2025 08:35:08 +0000</pubDate>
-      </item><item>
-        <title>#chatmail relays can serve 200k+ users on a small physical machine, are easy to setup and even easier to maintain. Chatmail relays enforce end-to-end encryption and rely on cryptographic verification for interoperability instead of IP reputation and spam checking magic. Tomorrow (Sunday) evening, @compl4xx will give a hands-on setup workshop in Hamburg https://cfp.eh22.easterhegg.eu/eh22/talk/NXTPXY/ #easterhegg2025 #eh22</title>
-        <link>https://chaos.social/@delta/114363692343425958</link>
-        <guid>https://chaos.social/@delta/114363692343425958</guid>
-        <pubDate>Sat, 19 Apr 2025 08:30:57 +0000</pubDate>
       </item>
   </channel>
 </rss>
