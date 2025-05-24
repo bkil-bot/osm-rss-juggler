@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: OregTiercap Discussion Comment No.: 2 Comment: Értem, elnézést, hogy ennek nem néztem utána. Igazából én csak amikor németre állítom egy térképnek a nyelvét, akkor azt szeretném, hogy minden településnek, aminek akármilyen nem használt német neve is van, az jelenjen meg, s ne a német nyelvtől idegen betűket stb. lássak elsőként. Attól még mindig jó azt gondolom, ha egy térkép a helyi nevet is kimutatja, így ezért az eligazodásban sem lenne gond talán így. De ezzel az &quot;old_name&quot; címkével már csak technikai kivitelezés kérdése a térképalkalmazást készítők számára, így ez amúgy is jó kompromisszumnak néz ki. Köszönöm a türelmes és informatív felülvizsgálatot. Date: 2025-05-24T20:41:15+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/165691671</link>
+        <guid>https://www.openstreetmap.org/changeset/165691671#comment_2</guid>
+        <pubDate>2025-05-24T20:41:15+02:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Nem vagyok biztos benne, hogy ezeket így kéne címezni, szerintem az A/2, B/1, stb részeknek az addr:unit mezőben kellene inkább lenniük. Itt van ez dokumentálva a wikiben: https://wiki.openstreetmap.org/wiki/Hungary/Jelölési_példák#Címek További jó térképezést! Date: 2025-05-24T17:17:08+02:00</title>
         <link>https://www.openstreetmap.org/changeset/166659804</link>
         <guid>https://www.openstreetmap.org/changeset/166659804#comment_1</guid>
@@ -17,11 +22,6 @@
         <link>https://www.openstreetmap.org/changeset/165397770</link>
         <guid>https://www.openstreetmap.org/changeset/165397770#comment_3</guid>
         <pubDate>2025-05-23T12:43:30+02:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! A német közösség kérése az volt, hogy csak azok a nevek legyenek feltüntetve mint német név, amik jelenleg is ki vannak táblázva. Ezeket a történelmi neveket az old_name:de címkébe kell megadni, ahol már amúgy szerepeltek. További infó: https://wiki.openstreetmap.org/wiki/Multilingual_names#German_names_of_municipalities Módosításcsomag visszavonva. https://www.openstreetmap.org/changeset/166579323 Date: 2025-05-21T17:22:16+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/165691671</link>
-        <guid>https://www.openstreetmap.org/changeset/165691671#comment_1</guid>
-        <pubDate>2025-05-21T17:22:16+02:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! A német közösség kérése az volt, hogy csak azok a nevek legyenek feltüntetve mint német név, amik jelenleg is ki vannak táblázva. Ezeket a történelmi neveket az old_name:de címkébe kell megadni, ahol már amúgy szerepeltek. További infó: https://wiki.openstreetmap.org/wiki/Multilingual_names#German_names_of_municipalities Módosításcsomag visszavonva. https://www.openstreetmap.org/changeset/166579323 Date: 2025-05-21T17:22:15+02:00</title>
         <link>https://www.openstreetmap.org/changeset/165691607</link>
