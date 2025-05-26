@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>The last two days saw the number of push notifications spike. Sometimes 80K Google Play push notifications happened per hour, while the baseline was more around 10-20K. These spikes probably indicate Internet availability. #deltachat is offline-first: you can write messages and attach media, create groups, use #webxdc apps, setup a second device etc. all without any Internet. Once it returns queued messages are sent out and cause push notifications. #OfflineFirst is crucial for resiliency. a graph showing &quot;Direct push notifications for the last hour&quot; On the X axis it starts around May 24th 7:30pm and goes until May 26th 7:30pm. On the X axis it goes from 0 to 80K notifications for the last hour. There are two plot lines: - Apple push notifications which are in the range of 7K and 15K notifications in every hour. - Google Play notifications which is between 10k and 80k notifications per hour. There are around 5 spikes that go up to 70k or above 80k notifications in every hour.</title>
+        <link>https://chaos.social/@delta/114575355462862094</link>
+        <guid>https://chaos.social/@delta/114575355462862094</guid>
+        <pubDate>Mon, 26 May 2025 17:39:40 +0000</pubDate>
+      </item><item>
         <title>#deltachat Desktop can now run on #Firefox and Safari, entirely avoiding #Electron and Chromium! It&amp;#39;s an intended side-effect of the &amp;quot;porting Desktop to #Tauri&amp;quot; effort led by @treefit which aims to provide a non-Electron packaged version of the Desktop. Here is a video and deep dive into what&amp;#39;s working on regular browsers now, and what&amp;#39;s missing for a full Web version: https://delta.chat/en/2025-05-22-browser-edition</title>
         <link>https://chaos.social/@delta/114551763057700815</link>
         <guid>https://chaos.social/@delta/114551763057700815</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114397651961663414</link>
         <guid>https://chaos.social/@delta/114397651961663414</guid>
         <pubDate>Fri, 25 Apr 2025 08:27:20 +0000</pubDate>
-      </item><item>
-        <title>Organizational note: It might appear that #deltachat #chatmail and #webxdc contributors are easily &amp;quot;on the same page&amp;quot;. In fact, there are many ongoing controversial discussions in backrooms and public spaces. We are dealing with tons of user perspectives and feedback, researcher and developer stances, many UX/UI considerations, complex implementation and platform adaptation. We are internally allowing contradictions and complexity ... See also Ashby&amp;#39;s requisite variety https://edgeofpossible.com/ashbys-law-variety-organisational-change/</title>
-        <link>https://chaos.social/@delta/114385890142436516</link>
-        <guid>https://chaos.social/@delta/114385890142436516</guid>
-        <pubDate>Wed, 23 Apr 2025 06:36:09 +0000</pubDate>
       </item>
   </channel>
 </rss>
