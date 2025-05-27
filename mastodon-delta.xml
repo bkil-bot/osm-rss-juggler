@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>By design, end-to-end-encrypting #deltachat and #webxdc apps only need ephemeral transport. It&amp;#39;s a big deal. Let&amp;#39;s compare: - #matrix home servers maintain a cryptographic forever-chain of cleartext social-graph metadata. - #WhatsApp servers maintain cleartext metadata visible to Meta. - #Signal keeps encrypted metadata, hosted at GAFAM #chatmail relays do not persist any social graph state, also not in encrypted form. A key goal of our designs: chatmail operators can sleep well at night :)</title>
+        <link>https://chaos.social/@delta/114581351802659140</link>
+        <guid>https://chaos.social/@delta/114581351802659140</guid>
+        <pubDate>Tue, 27 May 2025 19:04:37 +0000</pubDate>
+      </item><item>
         <title>The last two days saw the number of push notifications spike. Sometimes 80K Google Play push notifications happened per hour, while the baseline was more around 10-20K. These spikes probably indicate Internet availability. #deltachat is offline-first: you can write messages and attach media, create groups, use #webxdc apps, setup a second device etc. all without any Internet. Once it returns queued messages are sent out and cause push notifications. #OfflineFirst is crucial for resiliency. a graph showing &quot;Direct push notifications for the last hour&quot; On the X axis it starts around May 24th 7:30pm and goes until May 26th 7:30pm. On the X axis it goes from 0 to 80K notifications for the last hour. There are two plot lines: - Apple push notifications which are in the range of 7K and 15K notifications in every hour. - Google Play notifications which is between 10k and 80k notifications per hour. There are around 5 spikes that go up to 70k or above 80k notifications in every hour.</title>
         <link>https://chaos.social/@delta/114575355462862094</link>
         <guid>https://chaos.social/@delta/114575355462862094</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114400148481955305</link>
         <guid>https://chaos.social/@delta/114400148481955305</guid>
         <pubDate>Fri, 25 Apr 2025 19:02:14 +0000</pubDate>
-      </item><item>
-        <title>&amp;quot;if your social media network can go down it is not decentralized&amp;quot; they say and rightfully so. Same is true for much other infrastructure ... Energy, water, internet utilities ... And of course messaging. If your messenger can go down it&amp;#39;s not decentralized. During 2025 we aim to make #deltachat and #chatmail infrastructure in particular into the most resilient and mass-user accessible private messenging utility out there ... If it isn&amp;#39;t already :)</title>
-        <link>https://chaos.social/@delta/114397651961663414</link>
-        <guid>https://chaos.social/@delta/114397651961663414</guid>
-        <pubDate>Fri, 25 Apr 2025 08:27:20 +0000</pubDate>
       </item>
   </channel>
 </rss>
