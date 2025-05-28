@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>#whatsapp has been feverishly copying #telegram features the last year. Both are now in a battle who enshittifies faster. Mr. Durov announced that #Telegram, sitting on the biggest cleartext data and metadata pile second only to #Meta, is to integrate &amp;quot;AI&amp;quot; the next days, see https://youtu.be/JBCY3ZE9Rz0?t=10135s ... Let them fight. We stubbornly continue to focus on resilient private messaging for families, groups and communities, with end-to-encrypted #webxdc apps and decentralized agency at all levels.</title>
+        <link>https://chaos.social/@delta/114584588256912375</link>
+        <guid>https://chaos.social/@delta/114584588256912375</guid>
+        <pubDate>Wed, 28 May 2025 08:47:42 +0000</pubDate>
+      </item><item>
         <title>By design, end-to-end-encrypting #deltachat and #webxdc apps only need ephemeral transport. It&amp;#39;s a big deal. Let&amp;#39;s compare: - #matrix home servers maintain a cryptographic forever-chain of cleartext social-graph metadata. - #WhatsApp servers maintain cleartext metadata visible to Meta. - #Signal keeps encrypted metadata, hosted at GAFAM #chatmail relays do not persist any social graph state, also not in encrypted form. A key goal of our designs: chatmail operators can sleep well at night :)</title>
         <link>https://chaos.social/@delta/114581351802659140</link>
         <guid>https://chaos.social/@delta/114581351802659140</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114403352561206786</link>
         <guid>https://chaos.social/@delta/114403352561206786</guid>
         <pubDate>Sat, 26 Apr 2025 08:37:04 +0000</pubDate>
-      </item><item>
-        <title>23 is the number of currently active #chatmail relays we heart about by now. Only 6 are listed at https://chatmail.at/relays to complicate ongoing state-level blocking attempts. Please keep setting up #chatmail relays -- and thanks to all the early adopters and carers! July 2025 some key contributors will do sessions in #Lille, France at @passthesaltcon and discuss the state of efforts to scale #deltachat #chatmail and #webxdc to billions of people and bots, without any central points of control.</title>
-        <link>https://chaos.social/@delta/114400148481955305</link>
-        <guid>https://chaos.social/@delta/114400148481955305</guid>
-        <pubDate>Fri, 25 Apr 2025 19:02:14 +0000</pubDate>
       </item>
   </channel>
 </rss>
