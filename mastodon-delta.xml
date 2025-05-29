@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>our friends over at @rpgp just published a monster milestone, humbly tagged 0.16 😍 with - streaming decryption and encryption - post-quantum-cryptography - API streamlining. #rPGP is a full Rust implementation of #openpgp which counts among the fastest and most compliant implementations today, and includes security audits. Note: #deltachat uses a restricted subset of OpenPGP, and follows best practices (eg using the same ed25519 keys implementation as #signal) https://github.com/rpgp/rpgp/</title>
+        <link>https://chaos.social/@delta/114590267055497123</link>
+        <guid>https://chaos.social/@delta/114590267055497123</guid>
+        <pubDate>Thu, 29 May 2025 08:51:53 +0000</pubDate>
+      </item><item>
         <title>#whatsapp has been feverishly copying #telegram features the last year. Both are now in a battle who enshittifies faster. Mr. Durov announced that #Telegram, sitting on the biggest cleartext data and metadata pile second only to #Meta, is to integrate &amp;quot;AI&amp;quot; the next days, see https://youtu.be/JBCY3ZE9Rz0?t=10135s ... Let them fight. We stubbornly continue to focus on resilient private messaging for families, groups and communities, with end-to-encrypted #webxdc apps and decentralized agency at all levels.</title>
         <link>https://chaos.social/@delta/114584588256912375</link>
         <guid>https://chaos.social/@delta/114584588256912375</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114417116576325003</link>
         <guid>https://chaos.social/@delta/114417116576325003</guid>
         <pubDate>Mon, 28 Apr 2025 18:57:26 +0000</pubDate>
-      </item><item>
-        <title>Please help us get rough stats as we don&amp;#39;t have technical means to collect such stats, by design. Do you use #deltachat or are considering it? Which kind of operator do you use? any chatmail relay (includes default onboarding) self hosted classic server 3rd party classic server don&amp;#39;t use delta (yet)</title>
-        <link>https://chaos.social/@delta/114403352561206786</link>
-        <guid>https://chaos.social/@delta/114403352561206786</guid>
-        <pubDate>Sat, 26 Apr 2025 08:37:04 +0000</pubDate>
       </item>
   </channel>
 </rss>
