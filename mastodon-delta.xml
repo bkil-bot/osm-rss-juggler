@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Comparing #XMPP against #email protocols is too limited. What sets #deltachat apart is *vertical integration* and being driven by UI/UX considerations. Cross-platform Apps and Bots use the Rust core library which connects with #chatmail relays and classic email servers based on a higher level API -- abstracting over SMTP, MIME, #OpenPGP etc. See https://chatmail.at #webxdc apps in turn use an even higher level stable API abstracting over email/xmpp/... see https://webxdc.org/docs/</title>
+        <link>https://chaos.social/@delta/114612704598115640</link>
+        <guid>https://chaos.social/@delta/114612704598115640</guid>
+        <pubDate>Mon, 02 Jun 2025 07:58:03 +0000</pubDate>
+      </item><item>
         <title>our friends over at @rpgp just published a monster milestone, humbly tagged 0.16 😍 with - streaming decryption and encryption - post-quantum-cryptography - API streamlining. #rPGP is a full Rust implementation of #openpgp which counts among the fastest and most compliant implementations today, and includes security audits. Note: #deltachat uses a restricted subset of OpenPGP, and follows best practices (eg using the same ed25519 keys implementation as #signal) https://github.com/rpgp/rpgp/</title>
         <link>https://chaos.social/@delta/114590267055497123</link>
         <guid>https://chaos.social/@delta/114590267055497123</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114420330746926292</link>
         <guid>https://chaos.social/@delta/114420330746926292</guid>
         <pubDate>Tue, 29 Apr 2025 08:34:51 +0000</pubDate>
-      </item><item>
-        <title>Some of you may remember posts where we talk about #deltachat being hardened to work under bad and adverserial network conditions where other messengers fail. Examples were Georgia, Russia and Iran at the time. But hardened network handling can be useful also during non-political turmoil like currently in Spain where there are some reports that DC messages get through where WhatsApp failed .... https://sonomu.club/@icaria36/114417052677227592 In any case, wishing all the people in Spain and Portugal quick recovery!</title>
-        <link>https://chaos.social/@delta/114417116576325003</link>
-        <guid>https://chaos.social/@delta/114417116576325003</guid>
-        <pubDate>Mon, 28 Apr 2025 18:57:26 +0000</pubDate>
       </item>
   </channel>
 </rss>
