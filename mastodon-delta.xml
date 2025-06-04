@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Since June 1st there is a big sudden surge of new Delta Chat users and so far things are going pretty smooth. We are happy that our #chatmail infrastructure is holding up and that there is growing recognition that #deltachat is a ready-to-use and resilient chat solution. Some stats from the last days, a brief discussion of centralization risks and what we plan to do about it, also introducing a brand-new chatmail OpenCollective with a european fiscal host. https://delta.chat/en/2025-06-04-surge-donations</title>
+        <link>https://chaos.social/@delta/114624988283739502</link>
+        <guid>https://chaos.social/@delta/114624988283739502</guid>
+        <pubDate>Wed, 04 Jun 2025 12:01:57 +0000</pubDate>
+      </item><item>
         <title>Comparing #XMPP against #email protocols is too limited. What sets #deltachat apart is *vertical integration* and being driven by UI/UX considerations. Cross-platform Apps and Bots use the Rust core library which connects with #chatmail relays and classic email servers based on a higher level API -- abstracting over SMTP, MIME, #OpenPGP etc. See https://chatmail.at #webxdc apps in turn use an even higher level stable API abstracting over email/xmpp/... see https://webxdc.org/docs/</title>
         <link>https://chaos.social/@delta/114612704598115640</link>
         <guid>https://chaos.social/@delta/114612704598115640</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114426710308551624</link>
         <guid>https://chaos.social/@delta/114426710308551624</guid>
         <pubDate>Wed, 30 Apr 2025 11:37:15 +0000</pubDate>
-      </item><item>
-        <title>#deltachat ist a community messenger much more than a monetary focused enterprise. Its offspring developments, the growing #chatmail and #webxdc efforts are also community grounded. Is there any other cross-platform FOSS messaging project, implementing #RightToExit on many levels, putting all interesting and sensitive computation and interactions into end users devices, constantly and radically denying centrality/control of billionaires and big-tech, to the extent currently possible?</title>
-        <link>https://chaos.social/@delta/114420330746926292</link>
-        <guid>https://chaos.social/@delta/114420330746926292</guid>
-        <pubDate>Tue, 29 Apr 2025 08:34:51 +0000</pubDate>
       </item>
   </channel>
 </rss>
