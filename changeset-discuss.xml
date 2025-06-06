@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: GBAB Discussion Comment No.: 2 Comment: Szia Tamás! Igen, ebben van ráció, ezért is tettem rá az access=customers címkét, hogy ne kezdjen el ott mindenki mászkálni. De akkor mi legyen helyette? • access=private? • leisure=garden (ez azért nem egészen OK a kert definíciója szerint) • landuse=forest (ez is sántít, ráadásul nem tudom, hogy vannak-e magánerdők, ha már a magánparkokat szermlátomást nem szereti a wiki népe) • vagy egyszerűen hagyjuk így pőrén, fizikai címke nélkül? Gábor Date: 2025-06-06T08:42:49+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/167144689</link>
+        <guid>https://www.openstreetmap.org/changeset/167144689#comment_2</guid>
+        <pubDate>2025-06-06T08:42:49+02:00</pubDate>
+      </item><item>
         <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szia! Kérlek a házszám végére ne tegyél pontot. Köszi, Tamás Date: 2025-06-05T20:48:26+02:00</title>
         <link>https://www.openstreetmap.org/changeset/167182246</link>
         <guid>https://www.openstreetmap.org/changeset/167182246#comment_1</guid>
         <pubDate>2025-06-05T20:48:26+02:00</pubDate>
-      </item><item>
-        <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szia! Szerintem nem szerencsés rátenni a leisure=park címkét az idősek otthonára. Ha jól sejtem ez az idősek otthonának kertje akar lenni, a lakók számára. wiki szerint: The leisure=* key generally denotes places where people go in their spare time ― for sport, recreation, relaxation or entertainment. Tamás Date: 2025-06-05T20:34:40+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/167144689</link>
-        <guid>https://www.openstreetmap.org/changeset/167144689#comment_1</guid>
-        <pubDate>2025-06-05T20:34:40+02:00</pubDate>
       </item><item>
         <title>Contributor: Mateusz Konieczny Discussion Comment No.: 4 Comment: some notes are copying from Google Maps, some are confused, some are malicious please do NOT copy from notes without verification Date: 2025-06-05T10:17:38+02:00</title>
         <link>https://www.openstreetmap.org/changeset/165603538</link>
@@ -97,11 +97,6 @@
         <link>https://www.openstreetmap.org/changeset/166494251</link>
         <guid>https://www.openstreetmap.org/changeset/166494251#comment_2</guid>
         <pubDate>2025-05-30T15:15:12+02:00</pubDate>
-      </item><item>
-        <title>Contributor: zsolt d Discussion Comment No.: 3 Comment: Szia! Persze hogy nem látszik műholdról. És nincs minden kiírva. De ott van, és ez a neve. 430m magasan, túra pont a lépcső, illetve a kereszteződésnek és kis zöld területnek a Svájci lépcső alsó végénél: https://www.bergfex.com/sommer/budapest/touren/wanderung/3180370,szepjuhaszne--janos-hegy--szechenyi-hegy--svajci-lepcs/ XII. kerületben nyilvántartott Svájci lépcső (ez a neve a lépcsőnek, amiben a Svájci út végződik): https://12.kerulet.ittlakunk.hu/kozlekedes/121026/kovetkezo-hetek-lepcso-es-utfelujitasai - Javítottam a hely nevét lakatlan területről kereszteződés névre a Svájci lépcső alsó végét. Date: 2025-05-30T09:45:57+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/119515541</link>
-        <guid>https://www.openstreetmap.org/changeset/119515541#comment_3</guid>
-        <pubDate>2025-05-30T09:45:57+02:00</pubDate>
       </item>
   </channel>
 </rss>
