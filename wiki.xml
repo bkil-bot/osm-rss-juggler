@@ -2,11 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      <item>
-        <title>Module:Element: Remove light gray-blue background colour from short tools ( style=&amp;quot;background:#EEF&amp;quot; ) for dark mode compatibility. -Chris2map</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Module:Element&amp;diff=2863412&amp;oldid=2351741</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Module:Element&amp;diff=2863412</guid>
-        <pubDate>Sat, 07 Jun 2025 10:07:59 GMT</pubDate>
-      </item>
+      
   </channel>
 </rss>
