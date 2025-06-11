@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: dcf77 Discussion Comment No.: 2 Comment: Mivel nem érkezett válasz, ezért a főút címkéjét javítottam. Date: 2025-06-11T10:16:09+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/166920019</link>
+        <guid>https://www.openstreetmap.org/changeset/166920019#comment_2</guid>
+        <pubDate>2025-06-11T10:16:09+02:00</pubDate>
+      </item><item>
         <title>Contributor: Zsolt Vidovenyecz Discussion Comment No.: 3 Comment: A névjavaslatokat a Békéscsabai Települési Értéktár Bizottság és a Földrajzinév-munkacsoport is megtárgyalta, majd az önkormányzat kikérte az ott élők véleményét is. A beérkezett észrevételeket figyelembe véve, jogi lehetőségeket is vizsgálva kerestünk megoldást, hogy az új nevek senkinek ne okozzanak kényelmetlenséget vagy adminisztrációs terhet. A közgyűlés idén májusban ismét napirendre vette a kérdést, és felkérte Dr. Bacsa Vendel jegyzőt, hogy – nem hivatalos földrajzi nevekként – készüljön el a térképes állomány a jóváhagyott elnevezésekkel. Ez a döntés most megszületett! Nemsokára közzétesszük az elnevezéseket és a térképeket a városi honlapon, hogy mindenki megismerhesse őket, és könnyebben eligazodhasson a külterületeken. Emellett tervben van a dűlőutak kitáblázása is, hogy még egyszerűbb legyen a tájékozódás! A választókerületemhez tartozó fürjesi és felsőnyomási dűlőutak térképét itt láthatják: Date: 2025-06-11T07:18:07+02:00</title>
         <link>https://www.openstreetmap.org/changeset/167241994</link>
         <guid>https://www.openstreetmap.org/changeset/167241994#comment_3</guid>
@@ -28,11 +33,6 @@
         <guid>https://www.openstreetmap.org/changeset/167187547#comment_1</guid>
         <pubDate>2025-06-08T10:57:39+02:00</pubDate>
       </item><item>
-        <title>Contributor: dcf77 Discussion Comment No.: 1 Comment: Szia Fiorentina! A 10-es számú főút egy szakaszán a highway=primary-t átírtad highway=cycleway-re, ezáltal megszakítva a közutat. Kérlek állítsd vissza a valóságnak megfelelő állapotot, mert így gépjárművel nem járhat az útvonal. Date: 2025-06-08T07:55:03+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/166920019</link>
-        <guid>https://www.openstreetmap.org/changeset/166920019#comment_1</guid>
-        <pubDate>2025-06-08T07:55:03+02:00</pubDate>
-      </item><item>
         <title>Contributor: vasony Discussion Comment No.: 3 Comment: Szia! Szerintem ha mindenképp akarunk landuse-t, akkor olyan landuse kellene, ami az idősek otthonára passzol, nem pedig a kertjére. De mivel rajta van az amenity, nekem megfér pőrén is. Szerintem inkább access=private, mert elsősorban a bent lakók használják ezt, bár szerintem itt nincs azért olyan éles határ, ha így marad azt is el tudom fogadni. Tamás Date: 2025-06-06T16:58:02+02:00</title>
         <link>https://www.openstreetmap.org/changeset/167144689</link>
         <guid>https://www.openstreetmap.org/changeset/167144689#comment_3</guid>
@@ -57,11 +57,6 @@
         <link>https://www.openstreetmap.org/changeset/165603538</link>
         <guid>https://www.openstreetmap.org/changeset/165603538#comment_4</guid>
         <pubDate>2025-06-05T10:17:38+02:00</pubDate>
-      </item><item>
-        <title>Contributor: GBAB Discussion Comment No.: 2 Comment: Sorry, I didn't realise it may pose problems. Anyway, I only modified some tags, no more. Next time I will be more attentive. Date: 2025-06-04T11:53:29+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/167164718</link>
-        <guid>https://www.openstreetmap.org/changeset/167164718#comment_2</guid>
-        <pubDate>2025-06-04T11:53:29+02:00</pubDate>
       </item>
   </channel>
 </rss>
