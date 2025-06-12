@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>#deltachat is secure against server-side group membership changes but for a very different reason than #signal which keeps encrypted group membership data in a central store. Delta Chat has _no_ central store but implements a rigidly tested #p2p group membership model where servers play no role https://github.com/chatmail/models/tree/main/group-membership Both signal and delta chat are safe against recently published attacks against #whatsapp that can add members to chats, breaking end to end encryption. https://arstechnica.com/security/2025/05/whatsapp-provides-no-cryptographic-management-for-group-messages</title>
+        <link>https://chaos.social/@delta/114671711495881176</link>
+        <guid>https://chaos.social/@delta/114671711495881176</guid>
+        <pubDate>Thu, 12 Jun 2025 18:04:17 +0000</pubDate>
+      </item><item>
         <title>#whatsapp claims end to end security of content but: - ties your identity to a phone number - owns your identity - can see who messages whom and who is in which group etc - forces you to send local search in your private chats to Meta AI - does not allow to disable Meta AI on the main screen None of these problems exist with #deltachat devs and distributors. We have arguably the world&amp;#39;s easiest onboarding process for a messenger that offers a Whatsapp style interface on all platforms. Whatsapp broadcast message to users. *Not even WhatsApp can see your personal messages* That includes text messages, voice messages, photos, videos, calls, and more. They’re protected with end-to-end-encryption, because we’re always committed to protecting your privacy.Screenshot of mainmpage at https://delta.chat Screenshot of the android, iOS and desktop apps taken from https://delta.chat</title>
         <link>https://chaos.social/@delta/114640770298940697</link>
         <guid>https://chaos.social/@delta/114640770298940697</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114445059746075031</link>
         <guid>https://chaos.social/@delta/114445059746075031</guid>
         <pubDate>Sat, 03 May 2025 17:23:45 +0000</pubDate>
-      </item><item>
-        <title>Yesterday, 20 people from the https://safesisters.org community onboarded with #DeltaChat in Lusaka, Zambia. Everything worked! Usability, privacy and #OfflineFirst ops were appreciated and #webxdc app based organizing met strong interest. Many participants engage in addressing challenges from surveillance state actors, family and partner abuse. Moreover, people with visual impairment were happy about Android&amp;#39;s screen reader support. It&amp;#39;s events like this that validate our efforts! #africa Photo of a group of black women gathering in a conference room in Lusaka, Zambia. There is a group of people standing in the back, as well as several sitting in front of tables, as well as and on the side. The picture was shot while onboarding with Delta Chat Android took place, and people in the picture consented to publishing.</title>
-        <link>https://chaos.social/@delta/114439121410428300</link>
-        <guid>https://chaos.social/@delta/114439121410428300</guid>
-        <pubDate>Fri, 02 May 2025 16:13:34 +0000</pubDate>
       </item>
   </channel>
 </rss>
