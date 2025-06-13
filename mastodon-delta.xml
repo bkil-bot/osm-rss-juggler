@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Day6 out of the ten day DIFF gathering going on in the Freiburg black forest. Lots of p2p conversations and ongoing hackings with rarely more than five people in any one corner .... from a multitude of projects, countries and contexts. There is no clocked programming, weather is kind, and everyone can choose their distance or proximity at any time. There is yet to be a single person who doesn&amp;#39;t like how things are happening. There is no way to summarize and there are anyway 5 days to go 🤷</title>
+        <link>https://chaos.social/@delta/114675227467457155</link>
+        <guid>https://chaos.social/@delta/114675227467457155</guid>
+        <pubDate>Fri, 13 Jun 2025 08:58:26 +0000</pubDate>
+      </item><item>
         <title>#deltachat is secure against server-side group membership changes but for a very different reason than #signal which keeps encrypted group membership data in a central store. Delta Chat has _no_ central store but implements a rigidly tested #p2p group membership model where servers play no role https://github.com/chatmail/models/tree/main/group-membership Both signal and delta chat are safe against recently published attacks against #whatsapp that can add members to chats, breaking end to end encryption. https://arstechnica.com/security/2025/05/whatsapp-provides-no-cryptographic-management-for-group-messages</title>
         <link>https://chaos.social/@delta/114671711495881176</link>
         <guid>https://chaos.social/@delta/114671711495881176</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114462037776296310</link>
         <guid>https://chaos.social/@delta/114462037776296310</guid>
         <pubDate>Tue, 06 May 2025 17:21:30 +0000</pubDate>
-      </item><item>
-        <title>1 cent per five years .... is the current marginal hosting cost for a #chatmail address, with which #deltachat apps facilitate world-wide private messaging including interactive #webxdc apps that run end-to-end encrypted in any chat group. &amp;lt;1 Million EUR per year is the estimated marginal hosting costs for 350 Million EU citizens. Such scaling requires, however, research and development, including careful UX and #cryptography work. Related writing from @gordon https://newsletter.squishy.computer/p/cryptography-scales-trust screenshot of key excerpt from the referenced post: &quot;When the network is built on cryptographic protocols, we don’t have to trust anything in-between. We don’t have to trust the computers, the wires, the institutions, beliefs, or kinship of the network participants. We can trust the math. All we have to do is verify the message with cryptography. This is a powerful primitive for scaling trust, because it means everyone on the network can cooperate together, even if they don’t trust each-other. The costs to producing high-trust results are greatly reduced, and we can spend our coordination efforts on building larger, more fine-grained, more complex networks of cooperation.&quot;</title>
-        <link>https://chaos.social/@delta/114445059746075031</link>
-        <guid>https://chaos.social/@delta/114445059746075031</guid>
-        <pubDate>Sat, 03 May 2025 17:23:45 +0000</pubDate>
       </item>
   </channel>
 </rss>
