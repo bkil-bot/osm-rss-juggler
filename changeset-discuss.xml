@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: urbalazs Discussion Comment No.: 1 Comment: Miért törölted az 5 km-es sebességkorlátozást és a gyalogosokra felhívó veszélyjelző táblát? 3 napja voltam ott, akkor még kint voltak. Azóta eltávolították őket? Az utak pedig kétsávosak, felezővonallal elválasztottak. Egyértelműen gépjárműforgalomra készültek. Date: 2025-06-15T08:50:59+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/167630820</link>
+        <guid>https://www.openstreetmap.org/changeset/167630820#comment_1</guid>
+        <pubDate>2025-06-15T08:50:59+02:00</pubDate>
+      </item><item>
         <title>Contributor: gabro00 Discussion Comment No.: 6 Comment: Lehetne amúgy egy saját címkéje a tram trainnek, bár útvonaltervezés szempontjából nem tudom mit csinálnék másképp a light_rail-hez képest. A HÉV megint érdekes kérdés és az se az, mégis annak van jelölve. Passz. Én is visszaírnám ebben az esetben, amíg nincs jobb. Date: 2025-06-14T19:02:19+02:00</title>
         <link>https://www.openstreetmap.org/changeset/166809403</link>
         <guid>https://www.openstreetmap.org/changeset/166809403#comment_6</guid>
@@ -92,11 +97,6 @@
         <link>https://www.openstreetmap.org/changeset/167094575</link>
         <guid>https://www.openstreetmap.org/changeset/167094575#comment_2</guid>
         <pubDate>2025-06-08T11:23:14+02:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! https://www.openstreetmap.org/way/1392170013 Ezt biztos jó irányba rajzoltad? Ez most így azt jelenti, a tisztás van lejjebb. Az ilyen vonalszerű mélyedéseknél a jobb oldal van lent mindig: https://wiki.openstreetmap.org/wiki/Tag:natural=cliff#How_to_map Viszont lehet a natural=earth_bank jobban illene erre: https://wiki.openstreetmap.org/wiki/Tag:natural%3Dearth_bank és akkor nem kell leírnod mellé magyarul mi ez. https://www.openstreetmap.org/way/252752288 A note többi szerkesztőnek szól. Ilyen leírásokat jobb a description mezőben megadni, azt megjeleníti a sok megjelenítő is, pl OsmAND https://wiki.openstreetmap.org/wiki/Key:description További jó térképezést! Date: 2025-06-08T10:57:39+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/167187547</link>
-        <guid>https://www.openstreetmap.org/changeset/167187547#comment_1</guid>
-        <pubDate>2025-06-08T10:57:39+02:00</pubDate>
       </item>
   </channel>
 </rss>
