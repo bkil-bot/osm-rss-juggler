@@ -3,10 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: Kulizoli Discussion Comment No.: 4 Comment: Elnézést, nem volt időm érdemben azóta, igyekszem mindet javítani. Date: 2025-06-16T16:02:08+02:00</title>
+        <title>Contributor: Kulizoli Discussion Comment No.: 2 Comment: Szia! Nem látszott épületnek, mint a mellette lévők, legalábbis mobilos nézetben, ezen szerettem volna segíteni. Ki tudnád javítani kérlek? Köszönöm! Date: 2025-06-16T18:12:33+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/167536812</link>
+        <guid>https://www.openstreetmap.org/changeset/167536812#comment_2</guid>
+        <pubDate>2025-06-16T18:12:33+02:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 5 Comment: Ok, nem sürgős, csak ne felejtődjenek így. Sajnos sok szerkesztő van aki az első próbálkozás után feladja. Date: 2025-06-16T17:40:48+02:00</title>
         <link>https://www.openstreetmap.org/changeset/167544818</link>
-        <guid>https://www.openstreetmap.org/changeset/167544818#comment_4</guid>
-        <pubDate>2025-06-16T16:02:08+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/167544818#comment_5</guid>
+        <pubDate>2025-06-16T17:40:48+02:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Ne legyen mindkettő beírva a description mezőbe, így ellentmondásnak tűnik. Ha nem kell engedély, akkor az engedélyről szóló mondatot törölheted. Válaszolj kérlek a changeset üzenetekre! Már másokban is kerestek nagyobb hibákkal kapcsolatban: https://resultmaps.neis-one.org/osm-discussion-comments?uid=22919673 Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség#Elérhetőségek További jó térképezést! Date: 2025-06-16T15:22:11+02:00</title>
         <link>https://www.openstreetmap.org/changeset/167215860</link>
@@ -77,11 +82,6 @@
         <link>https://www.openstreetmap.org/changeset/167536247</link>
         <guid>https://www.openstreetmap.org/changeset/167536247#comment_1</guid>
         <pubDate>2025-06-13T11:54:22+02:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Itt nem tudom mit akartál csinálni, de ennek, hogy az egyszerűen megrajzolt poligont átalakítottál egy egytagú relációvá, nem sok értelme van. Vagy mit akartál itt csinálni? Ha nem érted mi itt a probléma, akkor kijavíthatom én. További jó térképezést! Date: 2025-06-13T11:52:32+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/167536812</link>
-        <guid>https://www.openstreetmap.org/changeset/167536812#comment_1</guid>
-        <pubDate>2025-06-13T11:52:32+02:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Ezt &quot;name&quot; helyett lehet jelölni ezekkel a címkékkel: man_made=monitoring_station, monitoring:seismic_activity=yes https://wiki.openstreetmap.org/wiki/Key:monitoring:seismic_activity További jó térképezést! Date: 2025-06-13T11:48:25+02:00</title>
         <link>https://www.openstreetmap.org/changeset/167536105</link>
