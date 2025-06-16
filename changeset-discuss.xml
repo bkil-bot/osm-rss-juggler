@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: Kulizoli Discussion Comment No.: 2 Comment: Szia! Nem látszott épületnek, mint a mellette lévők, legalábbis mobilos nézetben, ezen szerettem volna segíteni. Ki tudnád javítani kérlek? Köszönöm! Date: 2025-06-16T18:12:33+02:00</title>
+        <title>Contributor: infeeeee Discussion Comment No.: 3 Comment: Javítottam, hozzáadtam még dolgokat itt: https://www.openstreetmap.org/changeset/167710962 Azért nem látszott, mert a building=hotel-t letörölted róla itt: https://www.openstreetmap.org/changeset/167536218 Épületeken valami building=*-nak kell lennie. Ha nem ismert mi a funkciója, akkor csak simán &quot;yes&quot; elég, de itt van sok gyakran előforduló lehetőség felsorolva: https://wiki.openstreetmap.org/wiki/Buildings Átraktam egy pár címkét épületekről az egész területet bekerítő poligonra, erre: https://www.openstreetmap.org/way/620014603 Ha jól értem ezek mind a csillagvizsgálónak, mint intézménynek az épületei. Vagy a nevet azt szerinted inkább az RCC-s épületen kéne jelölni? Ha valami még nem világos hogyan kéne címkézni, jó segítség megnézni egy hasonlót hogyan címkéztek Németországban, mivel ott sokkal több a szerkesztő, ezért ott valószínűleg már kitalálták mi a legideálisabb címkézés, de csillagvizsgálókról több lap is van a wikinkben: https://wiki.openstreetmap.org/wiki/Tag:man_made=observatory https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dresearch_institute Date: 2025-06-16T20:02:00+02:00</title>
         <link>https://www.openstreetmap.org/changeset/167536812</link>
-        <guid>https://www.openstreetmap.org/changeset/167536812#comment_2</guid>
-        <pubDate>2025-06-16T18:12:33+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/167536812#comment_3</guid>
+        <pubDate>2025-06-16T20:02:00+02:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 5 Comment: Ok, nem sürgős, csak ne felejtődjenek így. Sajnos sok szerkesztő van aki az első próbálkozás után feladja. Date: 2025-06-16T17:40:48+02:00</title>
         <link>https://www.openstreetmap.org/changeset/167544818</link>
