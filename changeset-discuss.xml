@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: urbalazs Discussion Comment No.: 8 Comment: A vasút-villamos szerintem is inkább light_rail. Azzal ne foglalkozzatok, hogy az OSM Inspector hibának jelzi. Ez nem OSM hiba, hanem az ellenőrző hibája. Több mint 4 éve küldtem be hozzá javítást, itt kellene inkább érvelni, hogy fogadják már el: https://github.com/geofabrik/osmi_pubtrans3/pull/10 Date: 2025-06-18T06:05:34+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/166809403</link>
+        <guid>https://www.openstreetmap.org/changeset/166809403#comment_8</guid>
+        <pubDate>2025-06-18T06:05:34+02:00</pubDate>
+      </item><item>
         <title>Contributor: osm_poi_matchmaker Discussion Comment No.: 3 Comment: Köszönöm, de igen, kézzel vettem ki az újakat eltérőeket. Az AVIA számára visszajeleztem, hogy pár elem nem stimmel. A többi kút megvolt, nem volt nagy változás a bejövő adatok szerint. Date: 2025-06-18T05:04:46+02:00</title>
         <link>https://www.openstreetmap.org/changeset/167721485</link>
         <guid>https://www.openstreetmap.org/changeset/167721485#comment_3</guid>
@@ -82,11 +87,6 @@
         <link>https://www.openstreetmap.org/changeset/167224765</link>
         <guid>https://www.openstreetmap.org/changeset/167224765#comment_2</guid>
         <pubDate>2025-06-16T11:41:23+02:00</pubDate>
-      </item><item>
-        <title>Contributor: leveskockaa Discussion Comment No.: 7 Comment: Lehetne saját címkéje, de ez nem sok járatot érint, így kicsit feleslegesnek érzem. Azzal végképp nem tudna mit kezdeni az Inspector, vagy bármi más. Mindenesetre a nemzetközi példák is azt mutatják, hogy van, ahol tram, van, ahol light_rail a helyi tram-train kapcsolata. El tudok képzelni olyan érvelést, ami meggyőz arról, hogy legyen végig villamos a kapcsolat, de az sem ördögtől való, hogy az infrastruktúra ,,kategóriát váltson” az adott járat alatt (Frankfurt am Main). Date: 2025-06-16T10:32:53+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/166809403</link>
-        <guid>https://www.openstreetmap.org/changeset/166809403#comment_7</guid>
-        <pubDate>2025-06-16T10:32:53+02:00</pubDate>
       </item><item>
         <title>Contributor: leveskockaa Discussion Comment No.: 1 Comment: Szia! Átállítottál ezzel a módosításcsomaggal egy utat kerékpárútnak, de ez nem tükrözi a valóságot, és problémákat fog okozni autós útvonaltervezésnél. Hello! You have converted a road to cycleway with this changeset, but this does not reflect reality and will cause problems when planning car routes. Date: 2025-06-16T09:29:58+02:00</title>
         <link>https://www.openstreetmap.org/changeset/166917640</link>
