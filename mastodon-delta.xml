@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>We are basically doing what #signal and in particular moxie refuses to do or declares impossible: federation. Both #email and #activitypub ecosystems are all about federation. However, #deltachat is vertically centralized in that all UIs use the same #rust core which implements all networking, encryption, chat/group/message logic in a single centralized place. The now 40+ #chatmail mail relay network is driven from centralized code. At each level replication and federation is built in.</title>
+        <link>https://chaos.social/@delta/114710708299242142</link>
+        <guid>https://chaos.social/@delta/114710708299242142</guid>
+        <pubDate>Thu, 19 Jun 2025 15:21:41 +0000</pubDate>
+      </item><item>
         <title>Everyone returns to email in the end. We are there already. #whatsapp wants you to add your email to secure your account ... despite all the nay sayers and numerous well funded attempts and claims to kill #email not even WA can do it. #deltachat #chatmail and #webxdc are about deep collab between people, projects and operators to evolve email from within. It is not just about SMTP and IMAP and MIME and OpenPGP which are all exchangeable and can be improved ... Which we set out to do. Cheers. Whatsapp message suggesting to add your email address for extra security</title>
         <link>https://chaos.social/@delta/114702992209967919</link>
         <guid>https://chaos.social/@delta/114702992209967919</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114482566341920804</link>
         <guid>https://chaos.social/@delta/114482566341920804</guid>
         <pubDate>Sat, 10 May 2025 08:22:11 +0000</pubDate>
-      </item><item>
-        <title>We increasingly hear about China travellers who use #deltachat successfully where Whatsapp and Signal fail to work. Recently a family onboarded including a 85 old mother, to prepare for China travel. Everbody succeeded, no troubles! #deltachat is all about resiliency and &amp;quot;just works&amp;quot; user experiences. Despite ongoing and prospective network blocking attempts, our apps manage to mitigate and remain working everywhere. Meanwhile we are preparing some next level resiliency/security features ;)</title>
-        <link>https://chaos.social/@delta/114479353776307247</link>
-        <guid>https://chaos.social/@delta/114479353776307247</guid>
-        <pubDate>Fri, 09 May 2025 18:45:11 +0000</pubDate>
       </item>
   </channel>
 </rss>
