@@ -3,7 +3,7 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
-        <title>We are basically doing what #signal and in particular moxie refuses to do or declares impossible: federation. Both #email and #activitypub ecosystems are all about federation. However, #deltachat is vertically centralized in that all UIs use the same #rust core which implements all networking, encryption, chat/group/message logic in a single centralized place. The now 40+ #chatmail mail relay network is driven from centralized code. At each level replication and federation is built in.</title>
+        <title>We are basically doing what #signal and in particular moxie refused to do or declares impossible: federation. Both #email and #activitypub ecosystems are all about federation. However, #deltachat is vertically centralized in that all UIs use the same #rust core which implements all networking, encryption, chat/group/message logic in a single centralized place. The now 40+ #chatmail mail relay network is driven from centralized code. At each level replication and federation is built in.</title>
         <link>https://chaos.social/@delta/114710708299242142</link>
         <guid>https://chaos.social/@delta/114710708299242142</guid>
         <pubDate>Thu, 19 Jun 2025 15:21:41 +0000</pubDate>
