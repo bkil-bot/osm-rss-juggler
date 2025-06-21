@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Some people in #Iran successfully use delta with national email providers when outside Internet is cut. #deltachat designs are #OfflineFirst using delay tolerant protocols. Messages are queued when a path is blocked. email servers are made for this and run at planetary scale. Messages crossing the border may arrive three days later but they arrive. Peoples can stay in private touch across time and space, to the extent possible in current breakdown times. Which is what delta is about.</title>
+        <link>https://chaos.social/@delta/114721310947729459</link>
+        <guid>https://chaos.social/@delta/114721310947729459</guid>
+        <pubDate>Sat, 21 Jun 2025 12:18:04 +0000</pubDate>
+      </item><item>
         <title>We don&amp;#39;t see, or plan, a place for AI in our software stacks. A few notes. Some attempts to use AI tooling provided nothing of value in the chatmail-core-UI stacks that produce the #deltachat store releases on all platforms. Some in the community AI-generated a base #webxdc app and fixed bugs afterwards.That kind of worked and was borderline useful. AI is pretty boring. We have more interesting work to do: evolve private resilient messaging by improving UX, networking, encryption, etc</title>
         <link>https://chaos.social/@delta/114718366538529384</link>
         <guid>https://chaos.social/@delta/114718366538529384</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114508032291228985</link>
         <guid>https://chaos.social/@delta/114508032291228985</guid>
         <pubDate>Wed, 14 May 2025 20:18:30 +0000</pubDate>
-      </item><item>
-        <title>In the bottom left corner of Germany, we are staging a cross-community gathering called &amp;quot;DIFF&amp;quot; during June 7-17th. See our invitation video and blog post. It&amp;#39;s probably the best opportunity so far to become part of what is happening behind the scenes ;) https://delta.chat/en/2025-05-12-diff-invitation</title>
-        <link>https://chaos.social/@delta/114494151406863516</link>
-        <guid>https://chaos.social/@delta/114494151406863516</guid>
-        <pubDate>Mon, 12 May 2025 09:28:25 +0000</pubDate>
       </item>
   </channel>
 </rss>
