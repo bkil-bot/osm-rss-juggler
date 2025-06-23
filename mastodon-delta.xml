@@ -3,11 +3,6 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
-        <title>Fwiw #SimplexChat is rarely working in internet-reduced/repressed situations found in several countries currently. It&amp;#39;s been effectively blocked in Russia, including when hosted in-country. It advertises advanced cryptography, to protect against global traffic analysis by eg padding each image to be 5mb in size and by negotiating encryption with each peer in a group individually. However, such methods drastically reduce resilience and availability of service in bad/slow/degraded networks.</title>
-        <link>https://chaos.social/@delta/114731269022831158</link>
-        <guid>https://chaos.social/@delta/114731269022831158</guid>
-        <pubDate>Mon, 23 Jun 2025 06:30:32 +0000</pubDate>
-      </item><item>
         <title>We&amp;#39;d like to remind everyone that a self-hosted #chatmail relay is best shared in some wider than family circles. In crisis situations everbody does better when helping others. A typical 1gb RAM chatmail relay VPS for 5-10 eur per month supports 50k+ daily users. chatmail VPSes are stateless. You can wipe all disk state, reinstall and chatting will resume. Conversely, #deltachat does not keep or depend on any server state .Operators under pressure do not need to feel bad to hand over data.</title>
         <link>https://chaos.social/@delta/114728456492885546</link>
         <guid>https://chaos.social/@delta/114728456492885546</guid>
@@ -102,6 +97,11 @@
         <link>https://chaos.social/@delta/114544971149391464</link>
         <guid>https://chaos.social/@delta/114544971149391464</guid>
         <pubDate>Wed, 21 May 2025 08:52:32 +0000</pubDate>
+      </item><item>
+        <title>Transparency report: #deltachat gave out data for the following number of users in the last years: 0, nada, zilch. granted, it helps to not have data to begin with :) #Telegram is the exact opposite: they have _all_ the data about users, message histories, contacts, group and channel memberships, phone numbers, media files, bot interactions etc .... all in the clear on their central server, ready to be grabbed. https://www.404media.co/telegram-gave-authorities-data-on-more-than-20-000-users/</title>
+        <link>https://chaos.social/@delta/114539207111998357</link>
+        <guid>https://chaos.social/@delta/114539207111998357</guid>
+        <pubDate>Tue, 20 May 2025 08:26:40 +0000</pubDate>
       </item>
   </channel>
 </rss>
