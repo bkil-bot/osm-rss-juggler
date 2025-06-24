@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: balint36 Discussion Comment No.: 1 Comment: Széchenyi utca felől a Dr. Csányi László körútra jobbra (északra) kanyarodó útpálya nincs fizikálisan elválasztva a balra kanyarodótól. Van valami indok arra, hogy OSM-en el lett mégis választva? Date: 2025-06-24T21:51:11+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/167436531</link>
+        <guid>https://www.openstreetmap.org/changeset/167436531#comment_1</guid>
+        <pubDate>2025-06-24T21:51:11+02:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 3 Comment: Ez volt a régi parkoló, törlés előtti állapotában: https://www.openstreetmap.org/way/287430823/history/3 Ez meg az új: https://www.openstreetmap.org/way/1257838566 Láthatod így a különbséget. Amúgy vannak erre eszközök, amikkel könnyebben lehet módosításcsomagokat ellenőrizni, az alap felületen ezt nehéz lenne, amit én használok osmcha, amihez be kell jelentkezni: https://osmcha.org/changesets/148252508 Vagy az achavi, ehhez nem kell login: https://overpass-api.de/achavi/?changeset=148252508&amp;relations=true A source címkét már nem így használjuk, törölhető, egy régi maradvány, hogy minden elemen rajta van a source=bing bővebben erről itt: https://wiki.openstreetmap.org/wiki/Key:source De a többi címke tartalmazott információkat, ami így elveszett. Date: 2025-06-24T19:35:15+02:00</title>
         <link>https://www.openstreetmap.org/changeset/148252508</link>
         <guid>https://www.openstreetmap.org/changeset/148252508#comment_3</guid>
