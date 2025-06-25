@@ -82,11 +82,6 @@
         <link>https://www.openstreetmap.org/changeset/166421925</link>
         <guid>https://www.openstreetmap.org/changeset/166421925#comment_5</guid>
         <pubDate>2025-06-18T18:42:34+02:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! addr:subdistrict, addr:suburb: Miért, minek találsz ki újabb cím elemeket, ezeket valahol használják Budapesten? A valóságot térképezzük, nem az ideális állapotot. WIkiben elég egyértelműen le van írva, hogy ezeket csak ott kell használni, ahol a cím része, Budapesten nem az: https://wiki.openstreetmap.org/wiki/Hungary/Jelölési_példák#További_lehetőségek Poligonként, illetve place=*-ként úgyis szerepelnek ezek a térképen, amik tényleg léteznek, ha valakinek kellenek ezek az adatok. Ping pong asztalok: Az is wikiben le van írva mit hogyan kell jelölni, amit a description-be meg a többi name szerű címkébe írsz felesleges. Ráadásul az angol és magyar leírás ellentmond, most van fém háló vagy nincs? https://wiki.openstreetmap.org/wiki/Tag:sport%3Dtable_tennis Pontosan ugyanazt jelenti mint amit te leírtál ez a pár címke, ha fém háló van: sport=table_tennis leisure=pitch fee=no access=yes pitch:net=yes pitch:net:material=metal A többi felesleges, csak problémákat szül, ha ugyanazt többször címkézed. Jön utánad valaki, aki csak az egyiket módosítja véletlenül, vagy figyelmetlenségből, és máris használhatatlan lett a térkép, mert különböző címkék ellentmondanak egymásnak. Ráadásuk itt ezt már te is elrontottad, mással is megtörténhet ugyanez. Kresz parkra érvényesek ezek. Nem kell dupla címkézés. Az amenity=traffic_park teljesen leírja mi ez, leisure=playground és sport=cycling nem igaz, nem kell. Több címkétől nem feltétlenül lesz jobb a térkép, a minőség fontosabb osm-en mint a mennyiség. Kamu dolgok térképezésére ott az Overture, ott nem nagyon számít, hogy mi a valóság: https://wiki.openstreetmap.org/wiki/Overture_Maps További jó térképezést! Date: 2025-06-18T16:28:35+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/167775382</link>
-        <guid>https://www.openstreetmap.org/changeset/167775382#comment_1</guid>
-        <pubDate>2025-06-18T16:28:35+02:00</pubDate>
       </item>
   </channel>
 </rss>
