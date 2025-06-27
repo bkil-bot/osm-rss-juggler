@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>We used to look closely at #whatsapp Usability/UX. Not anymore. Meta is enshittifying WA to become a social media app, charging companies for access to followers, showing ads, and pushing AI slop down the throat of billions of people. #deltachat remains all about pleasing private messaging UX. Resilient, secure and decentralized. Its trivial to get started as a family, group or little org. Its trivial to migrate between android, iphone, desktop, Ubuntu touch. #Privacy and #RightToExit Screenshot of article https://www.theverge.com/news/693310/whatsapp-ai-message-summaries-meta Showing the headline &quot;Whatsapp rolls out ai generated summaries for private messages&quot; Also showing an insanely long mobile phone, probably AI generated. Almost like the AI Zombie apocalypse is approaching. if this thing (meta AI icon) is triggering you, probably it's time... Switch to Delta Chat, visit https://get.delta.chat in 5 min your chats will be freed.Screenshots of android and desktop delta chat apps from the https://delta.chat website</title>
+        <link>https://chaos.social/@delta/114754046759139617</link>
+        <guid>https://chaos.social/@delta/114754046759139617</guid>
+        <pubDate>Fri, 27 Jun 2025 07:03:13 +0000</pubDate>
+      </item><item>
         <title>We&amp;#39;d like to remind everyone that a self-hosted #chatmail relay is best shared in some wider than family circles. In crisis situations everbody does better when helping others. A typical 1gb RAM chatmail relay VPS for 5-10 eur per month supports 50k+ daily users. chatmail VPSes are stateless. You can wipe all disk state, reinstall and chatting will resume. Conversely, #deltachat does not keep or depend on any server state .Operators under pressure do not need to feel bad to hand over data.</title>
         <link>https://chaos.social/@delta/114728456492885546</link>
         <guid>https://chaos.social/@delta/114728456492885546</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114544971149391464</link>
         <guid>https://chaos.social/@delta/114544971149391464</guid>
         <pubDate>Wed, 21 May 2025 08:52:32 +0000</pubDate>
-      </item><item>
-        <title>Transparency report: #deltachat gave out data for the following number of users in the last years: 0, nada, zilch. granted, it helps to not have data to begin with :) #Telegram is the exact opposite: they have _all_ the data about users, message histories, contacts, group and channel memberships, phone numbers, media files, bot interactions etc .... all in the clear on their central server, ready to be grabbed. https://www.404media.co/telegram-gave-authorities-data-on-more-than-20-000-users/</title>
-        <link>https://chaos.social/@delta/114539207111998357</link>
-        <guid>https://chaos.social/@delta/114539207111998357</guid>
-        <pubDate>Tue, 20 May 2025 08:26:40 +0000</pubDate>
       </item>
   </channel>
 </rss>

@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 7 Comment: Igen, description, a legtöbb megjelenítő az oda írt infót megjeleníti: https://wiki.openstreetmap.org/wiki/Key:description DE amit lehet más címkébe írni azt oda kell, pl itt is a szintre lett volna címke mint írtam. Ha seasonal és nem nyitották ki, akkor az disused abban a szezonban. Ha jövőre se nyitják ki, akkor a seasonal lejöhet és csak a disused marad. Ami csak egy hónapig változik azt egyszerűen nem térképezzük, OSM-et nagyon sokan offline használják, csak olyat viszünk fel ami legalább 2-3 hónapig úgy is lesz: https://wiki.openstreetmap.org/wiki/Good_practice#Don't_map_temporary_events_and_temporary_features Összeírtam nektek egy rövid összefoglalót kutakról, még nincs elhelyezve a wikiben csak a saját oldalamon van, hogyan kéne részletesebben jelölni különböző kutakat: https://wiki.openstreetmap.org/wiki/User:Infeeeee#Kutak Ennek lesz majd valami jobb helye wikin, csak más dolgokkal foglalkoztam mostanában, ezt kicsit elfelejtettem. Date: 2025-06-27T08:26:23+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/168022370</link>
+        <guid>https://www.openstreetmap.org/changeset/168022370#comment_7</guid>
+        <pubDate>2025-06-27T08:26:23+02:00</pubDate>
+      </item><item>
+        <title>Contributor: Kilencfarku Macska Discussion Comment No.: 2 Comment: Fel van festve forgalomtól elzárt területként. Úgy láttam, hogy bevett gyakorlat, hogy ezt kereszteződésekben ugyan úgy kezelik, mintha szigetként ki lenne emelve. Forgalmi szempontból úgy is működik. Lényegében kikerülöd a kereszteződést és a saját sávodba érkezel. Date: 2025-06-27T07:21:11+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/167436531</link>
+        <guid>https://www.openstreetmap.org/changeset/167436531#comment_2</guid>
+        <pubDate>2025-06-27T07:21:11+02:00</pubDate>
+      </item><item>
         <title>Contributor: gabro00 Discussion Comment No.: 7 Comment: Köszi! Date: 2025-06-26T08:47:49+02:00</title>
         <link>https://www.openstreetmap.org/changeset/168021419</link>
         <guid>https://www.openstreetmap.org/changeset/168021419#comment_7</guid>
@@ -32,11 +42,6 @@
         <link>https://www.openstreetmap.org/changeset/167755919</link>
         <guid>https://www.openstreetmap.org/changeset/167755919#comment_3</guid>
         <pubDate>2025-06-25T07:05:10+02:00</pubDate>
-      </item><item>
-        <title>Contributor: balint36 Discussion Comment No.: 1 Comment: Széchenyi utca felől a Dr. Csányi László körútra jobbra (északra) kanyarodó útpálya nincs fizikálisan elválasztva a balra kanyarodótól. Van valami indok arra, hogy OSM-en el lett mégis választva? Date: 2025-06-24T21:51:11+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/167436531</link>
-        <guid>https://www.openstreetmap.org/changeset/167436531#comment_1</guid>
-        <pubDate>2025-06-24T21:51:11+02:00</pubDate>
       </item><item>
         <title>Contributor: Németh Attila Discussion Comment No.: 2 Comment: Szia! Köszönöm szépen a segítséget és a tanácsokat. A jövőben pontosabb és specifikusabb leszek. És jobban beleásom magam a OSM világába. Date: 2025-06-24T15:37:03+02:00</title>
         <link>https://www.openstreetmap.org/changeset/147986019</link>
@@ -77,11 +82,6 @@
         <link>https://www.openstreetmap.org/changeset/167866923</link>
         <guid>https://www.openstreetmap.org/changeset/167866923#comment_3</guid>
         <pubDate>2025-06-21T09:05:37+02:00</pubDate>
-      </item><item>
-        <title>Contributor: Bence_ Discussion Comment No.: 1 Comment: source=survey Date: 2025-06-19T22:40:30+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/167846906</link>
-        <guid>https://www.openstreetmap.org/changeset/167846906#comment_1</guid>
-        <pubDate>2025-06-19T22:40:30+02:00</pubDate>
       </item>
   </channel>
 </rss>
