@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Internet fragmentation is real in many countries and regions today but did you know that this &amp;quot;Sometimes-Internet&amp;quot; was the reality of the 1980ties when #email evolved? #chatmail relays are cheap, secure, fast, ephemeral and resilient server setups for the growing Sometimes-Internet, using cryptography for planetary-scale interop: - E2EE-only, strict TLS+DKIM - no spam-check magic - delay/cut-off tolerant - messages removed after download - addresses removed if stale - push notifications Chatmail logo ... The classical &quot;@&quot; sign but with a chat bublle on the lower left https://chatmail.at</title>
+        <link>https://chaos.social/@delta/114759976049535211</link>
+        <guid>https://chaos.social/@delta/114759976049535211</guid>
+        <pubDate>Sat, 28 Jun 2025 08:11:07 +0000</pubDate>
+      </item><item>
         <title>#DeltaChat evolved according to needs of people under repression and continues to do so. The more ignorant and exchangeable we make #chatmail relays, the less their operators have to worry. Having metadata-less, fast and cheap instant messaging relays, that can also operate when 99% of the Internet vanishes in a region, is a key goal. Some way to go still but, already now, is there any other real-world solution that provides better service in internet-repressed regions in 2025?</title>
         <link>https://chaos.social/@delta/114754731682808148</link>
         <guid>https://chaos.social/@delta/114754731682808148</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114551763057700815</link>
         <guid>https://chaos.social/@delta/114551763057700815</guid>
         <pubDate>Thu, 22 May 2025 13:39:49 +0000</pubDate>
-      </item><item>
-        <title>For those wondering about Microsoft Recall because of #Signal&amp;#39;s blog post about an option to block screenshots on Windows: #deltachat Desktop on Windows and MacOS have an option to disable screenshots in &amp;quot;Advanced&amp;quot; settings since beginning 2025. It&amp;#39;s not enabled by default because we first need to work hard on drafting a big blog post about it .... just kidding :) We&amp;#39;ll see if we change the default. We certainly agree that Microsoft needs to change their AI-grabbing and privacy violations.</title>
-        <link>https://chaos.social/@delta/114550923855544425</link>
-        <guid>https://chaos.social/@delta/114550923855544425</guid>
-        <pubDate>Thu, 22 May 2025 10:06:24 +0000</pubDate>
       </item>
   </channel>
 </rss>
