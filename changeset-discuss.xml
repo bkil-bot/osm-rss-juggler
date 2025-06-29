@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: Petró Tamás Discussion Comment No.: 8 Comment: Köszi, ez az összefoglaló nagyon jó :) Általában minimális infó jön a bejelentésekkel, idő/energia pedig nincs egyesével levelezgetni, de majd próbálom a lehetőségekhez mérten a legjobban kitölteni. A notes mezőket a szerkesztések során majd átemelgetem a descriptionba. Date: 2025-06-29T07:11:12+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/168022370</link>
+        <guid>https://www.openstreetmap.org/changeset/168022370#comment_8</guid>
+        <pubDate>2025-06-29T07:11:12+02:00</pubDate>
+      </item><item>
         <title>Contributor: NeisBot Discussion Comment No.: 1 Comment: Hi VTX6, welcome to OSM! Thank you for your contributions to the map. I have reviewed your recent edits and noticed that 100% of the changes in this set involve deletions, including: - 1 highway(s) Could you please confirm if these deletions were intentional or if they occurred by mistake? Looking forward to your response. PS: I have also sent this message through the OSM messaging system for your convenience. #DeletionsCheck --- https://resultmaps.neis-one.org/osm-change-viz?c=167977590 Date: 2025-06-28T14:45:46+02:00</title>
         <link>https://www.openstreetmap.org/changeset/167977590</link>
         <guid>https://www.openstreetmap.org/changeset/167977590#comment_1</guid>
@@ -12,11 +17,6 @@
         <link>https://www.openstreetmap.org/changeset/167436531</link>
         <guid>https://www.openstreetmap.org/changeset/167436531#comment_5</guid>
         <pubDate>2025-06-27T20:23:34+02:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 7 Comment: Igen, description, a legtöbb megjelenítő az oda írt infót megjeleníti: https://wiki.openstreetmap.org/wiki/Key:description DE amit lehet más címkébe írni azt oda kell, pl itt is a szintre lett volna címke mint írtam. Ha seasonal és nem nyitották ki, akkor az disused abban a szezonban. Ha jövőre se nyitják ki, akkor a seasonal lejöhet és csak a disused marad. Ami csak egy hónapig változik azt egyszerűen nem térképezzük, OSM-et nagyon sokan offline használják, csak olyat viszünk fel ami legalább 2-3 hónapig úgy is lesz: https://wiki.openstreetmap.org/wiki/Good_practice#Don't_map_temporary_events_and_temporary_features Összeírtam nektek egy rövid összefoglalót kutakról, még nincs elhelyezve a wikiben csak a saját oldalamon van, hogyan kéne részletesebben jelölni különböző kutakat: https://wiki.openstreetmap.org/wiki/User:Infeeeee#Kutak Ennek lesz majd valami jobb helye wikin, csak más dolgokkal foglalkoztam mostanában, ezt kicsit elfelejtettem. Date: 2025-06-27T08:26:23+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/168022370</link>
-        <guid>https://www.openstreetmap.org/changeset/168022370#comment_7</guid>
-        <pubDate>2025-06-27T08:26:23+02:00</pubDate>
       </item><item>
         <title>Contributor: gabro00 Discussion Comment No.: 7 Comment: Köszi! Date: 2025-06-26T08:47:49+02:00</title>
         <link>https://www.openstreetmap.org/changeset/168021419</link>
