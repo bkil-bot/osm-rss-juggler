@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: NeisReview Discussion Comment No.: 1 Comment: Hi, welcome to OpenStreetMap! Thanks for adding your shop. It looks like there might have been an issue creating a relation here, perhaps something unintended? If you'd like, I can help remove the element for you. Thanks again. Date: 2025-06-30T07:36:30+02:00</title>
+        <title>Contributor: bkil Discussion Comment No.: 2 Comment: The node is missing a primary tag and the website syntax is invalid. Should we revert the whole change instead if we don't get a timely answer to this question? Date: 2025-06-30T09:16:43+02:00</title>
         <link>https://www.openstreetmap.org/changeset/168294394</link>
-        <guid>https://www.openstreetmap.org/changeset/168294394#comment_1</guid>
-        <pubDate>2025-06-30T07:36:30+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/168294394#comment_2</guid>
+        <pubDate>2025-06-30T09:16:43+02:00</pubDate>
       </item><item>
         <title>Contributor: sd_ciastko Discussion Comment No.: 1 Comment: Szia! Megkérdezhetem, hogy milyen adatforrásból dolgoztál? Kaptál esetleg engedélyt a Vadlányok és tündérek titka a Balaton-felvidéken túramozgalom c. könyv kiadójától? Csak mert ha igen, és megosztanád, felvinném a többi pontot is. Ellenkező esetben előbb megkeresem őt. Date: 2025-06-30T04:47:40+02:00</title>
         <link>https://www.openstreetmap.org/changeset/154357050</link>
@@ -92,11 +92,6 @@
         <link>https://www.openstreetmap.org/changeset/167975737</link>
         <guid>https://www.openstreetmap.org/changeset/167975737#comment_1</guid>
         <pubDate>2025-06-23T11:38:10+02:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Az access=yes nem azt jelenti,hogy ingyenes, hanem, hogy mindenki számára elérhető. De ettől még lehet fizetős. Az ingyenességet a fee=no címkével kell jelölni. Másik szerkesztésedre is igaz ez, access=customers nem azt jelenti, hogy fizetős, hanem, hogy egy (másik) hely látogatói juthatnak csak be. Ez lehet fizetés ellenében vagy nem. https://www.openstreetmap.org/changeset/167875940 https://wiki.openstreetmap.org/wiki/Key:fee Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség#Elérhetőségek További jó térképezést! Date: 2025-06-23T11:10:46+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/167875981</link>
-        <guid>https://www.openstreetmap.org/changeset/167875981#comment_1</guid>
-        <pubDate>2025-06-23T11:10:46+02:00</pubDate>
       </item>
   </channel>
 </rss>
