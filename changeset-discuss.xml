@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 3 Comment: Ez eddig is eléggé egyértelmű volt az adatokból, description mezőkben szerepelt, nem igazán értem mit ad ez hozzá, hogy harmadszor is meg van ugyanez jelenítve. Ráadásul ez minden üzletre igaz lehet, nem tudhatod, hogy valami miatt nem változott-e. PH-val lekövetjük az ünnepnapi nyitvatartást valamennyire, de valóságban az a tapasztalatom, hogy bonyolultabb mint amit itt mi térképezünk, boltok nem következetesen vannak nyitva ilyen napokon. Érdekesség, osm-hez hasonló, licenszkompatibilis térkép az overture maps, ők tudatosan nem gyűjtik a nyitvatartást, mert annyira bonyolult és nehezen lekövethető: https://github.com/orgs/OvertureMaps/discussions/298#discussioncomment-11255481 Date: 2025-07-02T10:09:11+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/168276362</link>
+        <guid>https://www.openstreetmap.org/changeset/168276362#comment_3</guid>
+        <pubDate>2025-07-02T10:09:11+02:00</pubDate>
+      </item><item>
         <title>Contributor: marietina Discussion Comment No.: 2 Comment: Szia! Saját, terepi felmérésből származnak az adatok. (A Vadlányok és tündérek titka a Balaton-felvidéken c. könyvben (2021-es kiadás) sajnos van, ahol hibás koordináta szerepel, úgyhogy érdemes némi fenntartással kezelni...) Date: 2025-07-01T15:28:30+02:00</title>
         <link>https://www.openstreetmap.org/changeset/154357050</link>
         <guid>https://www.openstreetmap.org/changeset/154357050#comment_2</guid>
@@ -27,11 +32,6 @@
         <link>https://www.openstreetmap.org/changeset/167977590</link>
         <guid>https://www.openstreetmap.org/changeset/167977590#comment_2</guid>
         <pubDate>2025-07-01T07:27:18+02:00</pubDate>
-      </item><item>
-        <title>Contributor: q5d61a1o9f4u3 Discussion Comment No.: 2 Comment: Van egy fodrászüzlet (ahová járok) A nyitvatartás az, amit leírtam a napok 95%-ban, a többi napon pl. 3 órával előbb zár, egy hétre szabira megy és hasonlók, ilyenkor értelemszerűen nincs nyitva. Ezeket mindig egy havi táblázatban adott hónap első napján publikálja a Facebook oldalán - (https://www.facebook.com/profile.php?id=61559735370686) Ezért elvileg, mert jellemzően igen, de sosem 100%, tehát érdemes előtte meggyőződni arról a Facebook oldalán. Remélem, oszlattam a homályt. Date: 2025-06-30T19:28:43+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/168276362</link>
-        <guid>https://www.openstreetmap.org/changeset/168276362#comment_2</guid>
-        <pubDate>2025-06-30T19:28:43+02:00</pubDate>
       </item><item>
         <title>Contributor: Németh Attila Discussion Comment No.: 2 Comment: Szia Kijavítva. Köszönöm. Date: 2025-06-30T12:34:17+02:00</title>
         <link>https://www.openstreetmap.org/changeset/168224039</link>
@@ -82,11 +82,6 @@
         <link>https://www.openstreetmap.org/changeset/167719880</link>
         <guid>https://www.openstreetmap.org/changeset/167719880#comment_5</guid>
         <pubDate>2025-06-26T07:47:29+02:00</pubDate>
-      </item><item>
-        <title>Contributor: urbalazs Discussion Comment No.: 1 Comment: Szia Krisztián! A tunyogmatolcsi ajándékboltot a Tölgyes utcába tetted Toldi Miklós utca címmel. Vagy a cím rossz, vagy egy utcával arrébb van. Rá tudnál nézni még egyszer? Date: 2025-06-25T11:35:36+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/167586928</link>
-        <guid>https://www.openstreetmap.org/changeset/167586928#comment_1</guid>
-        <pubDate>2025-06-25T11:35:36+02:00</pubDate>
       </item>
   </channel>
 </rss>
