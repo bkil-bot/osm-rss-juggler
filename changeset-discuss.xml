@@ -3,6 +3,21 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Hello! Welcome to OpenStreetMap! If you can't speak Hungarian reply, and I will translate this to English. Szia! Üdv az OpenStreetMapen! Hát közlekedési járat relációkat nem így kell csinálni, de kezdetnek nem rossz. Nem csak a végállomást, hanem az összes megállót hozzá kell adni sorrendben a relációhoz, majd utána az összes utat is hozzá amin a trolik közlekednek. Ezért nem adta ezt még senki, mert viszonylag nagy munka egy útvonalat felvinni. Itt van részletes angol leírás erről: https://wiki.openstreetmap.org/wiki/Public_transport#Service_routes Magyarul meg itt: https://wiki.openstreetmap.org/wiki/Hungary/Tömegközlekedés#Szolgáltatás Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség#Elérhetőségek További jó térképezést! Date: 2025-07-03T13:55:03+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/168270118</link>
+        <guid>https://www.openstreetmap.org/changeset/168270118#comment_1</guid>
+        <pubDate>2025-07-03T13:55:03+02:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Hello! Welcome to OpenStreetMap! If you can't speak Hungarian reply, and I will translate this to English. Szia! Üdv az OpenStreetMapen! Bezárt éttermeknél, üzleteknél a disused: prefix használata ajánlott a pont törlése helyett. https://wiki.openstreetmap.org/wiki/Key:disused:* Tehát elég lett volna, ha csak az \t shop=convenience címkét átjavítod disused:shop=convenience-re, így már nem jelenítik meg a megjelenítők. Ez azért is hasznos, mert ha később más üzlet vagy étterem nyílik ugyanott, akkor nem kell új pontot létrehozni, és visszakövethető lesz az üzlethelyiség története, mi nyílt minek a helyén. Legközelebb eszerint járj el kérlek. Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség#Elérhetőségek További jó térképezést! Date: 2025-07-03T13:44:48+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/168269896</link>
+        <guid>https://www.openstreetmap.org/changeset/168269896#comment_1</guid>
+        <pubDate>2025-07-03T13:44:48+02:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 3 Comment: It was a trivial fix: https://www.openstreetmap.org/changeset/168444809 Please do not revert such changesets, where you can easily verify it online... It was quicker to add the missing tags than to type this comment... Date: 2025-07-03T13:36:43+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/168294394</link>
+        <guid>https://www.openstreetmap.org/changeset/168294394#comment_3</guid>
+        <pubDate>2025-07-03T13:36:43+02:00</pubDate>
+      </item><item>
         <title>Contributor: Kilencfarku Macska Discussion Comment No.: 2 Comment: KÖu-4-re pont hogy &quot;Tertiary&quot;-t ad meg: https://wiki.openstreetmap.org/wiki/Hungary/F%C5%91%C3%BAt Date: 2025-07-03T12:40:53+02:00</title>
         <link>https://www.openstreetmap.org/changeset/165484765</link>
         <guid>https://www.openstreetmap.org/changeset/165484765#comment_2</guid>
@@ -57,11 +72,6 @@
         <link>https://www.openstreetmap.org/changeset/168278722</link>
         <guid>https://www.openstreetmap.org/changeset/168278722#comment_1</guid>
         <pubDate>2025-06-30T10:33:46+02:00</pubDate>
-      </item><item>
-        <title>Contributor: bkil Discussion Comment No.: 2 Comment: The node is missing a primary tag and the website syntax is invalid. Should we revert the whole change instead if we don't get a timely answer to this question? Date: 2025-06-30T09:16:43+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/168294394</link>
-        <guid>https://www.openstreetmap.org/changeset/168294394#comment_2</guid>
-        <pubDate>2025-06-30T09:16:43+02:00</pubDate>
       </item><item>
         <title>Contributor: balint36 Discussion Comment No.: 1 Comment: A bicycle=no címke akkor használandó, ha táblán van tiltva a kerékpárral való behajtás, nem a KRESZ szerinti párhuzamos kerékpárút esetén. Date: 2025-06-29T18:53:51+02:00</title>
         <link>https://www.openstreetmap.org/changeset/167517435</link>
