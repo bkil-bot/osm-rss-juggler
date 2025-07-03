@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 2 Comment: Added the line properly here: https://www.openstreetmap.org/changeset/168456362 See relations in the route_master: https://www.openstreetmap.org/relation/1731696 Date: 2025-07-03T18:38:35+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/168270118</link>
+        <guid>https://www.openstreetmap.org/changeset/168270118#comment_2</guid>
+        <pubDate>2025-07-03T18:38:35+02:00</pubDate>
+      </item><item>
         <title>Contributor: bkil Discussion Comment No.: 5 Comment: Even worse: they probably pipe the store address into the Google Maps API to geolocate its position and add the OSM point at that coordinate, which may be way off from the true position of said feature, let alone being against the terms of service of OSM. Date: 2025-07-03T16:35:46+02:00</title>
         <link>https://www.openstreetmap.org/changeset/168294394</link>
         <guid>https://www.openstreetmap.org/changeset/168294394#comment_5</guid>
         <pubDate>2025-07-03T16:35:46+02:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Hello! Welcome to OpenStreetMap! If you can't speak Hungarian reply, and I will translate this to English. Szia! Üdv az OpenStreetMapen! Hát közlekedési járat relációkat nem így kell csinálni, de kezdetnek nem rossz. Nem csak a végállomást, hanem az összes megállót hozzá kell adni sorrendben a relációhoz, majd utána az összes utat is hozzá amin a trolik közlekednek. Ezért nem adta ezt még senki, mert viszonylag nagy munka egy útvonalat felvinni. Itt van részletes angol leírás erről: https://wiki.openstreetmap.org/wiki/Public_transport#Service_routes Magyarul meg itt: https://wiki.openstreetmap.org/wiki/Hungary/Tömegközlekedés#Szolgáltatás Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség#Elérhetőségek További jó térképezést! Date: 2025-07-03T13:55:03+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/168270118</link>
-        <guid>https://www.openstreetmap.org/changeset/168270118#comment_1</guid>
-        <pubDate>2025-07-03T13:55:03+02:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Hello! Welcome to OpenStreetMap! If you can't speak Hungarian reply, and I will translate this to English. Szia! Üdv az OpenStreetMapen! Bezárt éttermeknél, üzleteknél a disused: prefix használata ajánlott a pont törlése helyett. https://wiki.openstreetmap.org/wiki/Key:disused:* Tehát elég lett volna, ha csak az \t shop=convenience címkét átjavítod disused:shop=convenience-re, így már nem jelenítik meg a megjelenítők. Ez azért is hasznos, mert ha később más üzlet vagy étterem nyílik ugyanott, akkor nem kell új pontot létrehozni, és visszakövethető lesz az üzlethelyiség története, mi nyílt minek a helyén. Legközelebb eszerint járj el kérlek. Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség#Elérhetőségek További jó térképezést! Date: 2025-07-03T13:44:48+02:00</title>
         <link>https://www.openstreetmap.org/changeset/168269896</link>
