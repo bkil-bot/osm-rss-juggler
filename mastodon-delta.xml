@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Two of our teams just gave talks at the &amp;quot;Salt the Stack&amp;quot; conference in Lille: @Xeniax tells the story of &amp;quot;federated messaging&amp;quot; waves and her usable security research, emphasizing &amp;quot;availability&amp;quot; as a key issue https://passthesalt.ubicast.tv/videos/always-more-secure-analyzing-user-migrations-to-federated-e2ee-messaging-apps-trimmed/ -- @hpk starts off with prioritizing usable security and walks through #chatmail transport layer security goals and #deltachat end-point security status, upcoming releases and prospective work on improving metadata and other goals https://passthesalt.ubicast.tv/videos/usable-end-to-end-security-with-delta-chat-and-chatmail/ Screenshot of Ksenia starting her &quot;Always more secure talk&quot; screenshot of talk on &quot;Usable end-to-end security with Delta Chat and Chatmail&quot;. Slides are at https://merlinux.eu/x/pts25/slides.html</title>
+        <link>https://chaos.social/@delta/114794093068029745</link>
+        <guid>https://chaos.social/@delta/114794093068029745</guid>
+        <pubDate>Fri, 04 Jul 2025 08:47:31 +0000</pubDate>
+      </item><item>
         <title>Internet fragmentation is real in many countries and regions today but did you know that this &amp;quot;Sometimes-Internet&amp;quot; was the reality of the 1980ties when #email evolved? #chatmail relays are cheap, secure, fast, ephemeral and resilient server setups for the growing Sometimes-Internet, using cryptography for planetary-scale interop: - E2EE-only, strict TLS+DKIM - no spam-check magic - delay/cut-off tolerant - messages removed after download - addresses removed if stale - push notifications Chatmail logo ... The classical &quot;@&quot; sign but with a slight chat bubble on the lower left https://chatmail.at</title>
         <link>https://chaos.social/@delta/114759976049535211</link>
         <guid>https://chaos.social/@delta/114759976049535211</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114575355462862094</link>
         <guid>https://chaos.social/@delta/114575355462862094</guid>
         <pubDate>Mon, 26 May 2025 17:39:40 +0000</pubDate>
-      </item><item>
-        <title>#deltachat Desktop can now run on #Firefox and Safari, entirely avoiding #Electron and Chromium! It&amp;#39;s an intended side-effect of the &amp;quot;porting Desktop to #Tauri&amp;quot; effort led by @treefit which aims to provide a non-Electron packaged version of the Desktop. Here is a video and deep dive into what&amp;#39;s working on regular browsers now, and what&amp;#39;s missing for a full Web version: https://delta.chat/en/2025-05-22-browser-edition</title>
-        <link>https://chaos.social/@delta/114551763057700815</link>
-        <guid>https://chaos.social/@delta/114551763057700815</guid>
-        <pubDate>Thu, 22 May 2025 13:39:49 +0000</pubDate>
       </item>
   </channel>
 </rss>
