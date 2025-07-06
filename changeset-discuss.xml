@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: Petró Tamás Discussion Comment No.: 2 Comment: A notes (ami most már átvezetve description lesz) inkább azt a célt szolgálta (amennyire én tudom), hogy a userek az appban is lássák egy kútnál, hogy milyen változásai voltak, így segítse a bejelentéseket. Emiatt volt a dátum is. Viszont egyet értek azzal, hogy az adat redundancia káros lehet, úgyhogy szűröm majd az infót. Date: 2025-07-06T05:08:08+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/168473051</link>
+        <guid>https://www.openstreetmap.org/changeset/168473051#comment_2</guid>
+        <pubDate>2025-07-06T05:08:08+02:00</pubDate>
+      </item><item>
         <title>Contributor: balint36 Discussion Comment No.: 3 Comment: ? Date: 2025-07-05T22:27:05+02:00</title>
         <link>https://www.openstreetmap.org/changeset/168000233</link>
         <guid>https://www.openstreetmap.org/changeset/168000233#comment_3</guid>
         <pubDate>2025-07-05T22:27:05+02:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Ez egy rossz felhasználása a descriptionnek: * dátum nem kell, mert ott van a check_date-ben. * &quot;Ez a kút működik&quot; semmilyen plusz információt nem tartalmaz, ez az alapértelmezés, ezt felesleges megismételni, a többi címkéből következik. * A régi megjegyzés meg a történetéből látszik az elemnek, pl itt: https://www.openstreetmap.org/node/9629047433/history Vagy léteznek oldalak amik szebben megjelenítik ezt pl ez: https://osmlab.github.io/osm-deep-history/#/node/9629047433 vagy ez: https://pewu.github.io/osm-history/#/node/9629047433 Felesleges kézzel eltárolni, ha a rendszer amúgy is elmenti. Ha ugyanazt a dolgot egyszerre jelölöd többféleképpen, akkor nő a valószínűsége, hogy valaki majd véletlenül csak az egyiket szerkeszti a kettőből, és akkor ellentmondás miatt macerásan lehet majd kitalálni melyik volt az igaz. Nem kell mindent mindenáron kitölteni, a kevesebb néha több, egyértelműbb, neked is egyszerűbb. Date: 2025-07-05T19:45:31+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/168473051</link>
-        <guid>https://www.openstreetmap.org/changeset/168473051#comment_1</guid>
-        <pubDate>2025-07-05T19:45:31+02:00</pubDate>
       </item><item>
         <title>Contributor: NeisBot Discussion Comment No.: 1 Comment: Hi OneNKode, welcome and thank you for your contribution to the OSM project! To help improve collaboration and make your edits easier for others to understand, please consider providing brief descriptions of your changes in the comment field. This will make it easier for the community to follow your adjustments. You can find some helpful tips on good comments here: https://osm.org/wiki/Good_changeset_comments Furthermore, based on your map edits in this changeset, I’ve drafted a suggestion for what a comment could look like: &quot;Added a node and modified a way's geometry.&quot; PS: I’ve also sent this message via the OSM messaging system for your convenience. #HelpfulComment #Gibberish #AIgenerated Date: 2025-07-05T19:16:35+02:00</title>
         <link>https://www.openstreetmap.org/changeset/168535568</link>
