@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: balint36 Discussion Comment No.: 4 Comment: Mivel nem adtál választ, ezért visszaállítottam. A 168557984 számú módosításcsomagban megjelöltem forrást, ami alapján a címkét railway=disused értékre állítottam. Ha ismételten eltávolításra került a railway=disused címke forrás nélkül, vagy a mostanihoz hasonló kommenttel - tehát nem megalapozottan -, én kérdés nélkül fogom visszaállítani - mondjuk erre sem kaptam választ. Date: 2025-07-06T11:49:32+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/168000233</link>
+        <guid>https://www.openstreetmap.org/changeset/168000233#comment_4</guid>
+        <pubDate>2025-07-06T11:49:32+02:00</pubDate>
+      </item><item>
         <title>Contributor: vasony Discussion Comment No.: 1 Comment: sokat nem ért, össze lett vonva Date: 2025-07-06T07:56:11+02:00</title>
         <link>https://www.openstreetmap.org/changeset/151017618</link>
         <guid>https://www.openstreetmap.org/changeset/151017618#comment_1</guid>
@@ -22,11 +27,6 @@
         <link>https://www.openstreetmap.org/changeset/168473051</link>
         <guid>https://www.openstreetmap.org/changeset/168473051#comment_2</guid>
         <pubDate>2025-07-06T05:08:08+02:00</pubDate>
-      </item><item>
-        <title>Contributor: balint36 Discussion Comment No.: 3 Comment: ? Date: 2025-07-05T22:27:05+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/168000233</link>
-        <guid>https://www.openstreetmap.org/changeset/168000233#comment_3</guid>
-        <pubDate>2025-07-05T22:27:05+02:00</pubDate>
       </item><item>
         <title>Contributor: NeisBot Discussion Comment No.: 1 Comment: Hi OneNKode, welcome and thank you for your contribution to the OSM project! To help improve collaboration and make your edits easier for others to understand, please consider providing brief descriptions of your changes in the comment field. This will make it easier for the community to follow your adjustments. You can find some helpful tips on good comments here: https://osm.org/wiki/Good_changeset_comments Furthermore, based on your map edits in this changeset, I’ve drafted a suggestion for what a comment could look like: &quot;Added a node and modified a way's geometry.&quot; PS: I’ve also sent this message via the OSM messaging system for your convenience. #HelpfulComment #Gibberish #AIgenerated Date: 2025-07-05T19:16:35+02:00</title>
         <link>https://www.openstreetmap.org/changeset/168535568</link>
