@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: Petró Tamás Discussion Comment No.: 4 Comment: OK, részemről akkor a leírás töltögetés is lezárva, nem én találtam ki, nekem az is jó, ha nem kell feleslegesen vesződnöm vele. Viszont akkor arra adj kérlek instrukciót, hogy olyankor mit csináltok, ha a description/notes mezőben elavult adat van (pl. nem működik a kút), de közben meg működik és visszaállítjuk működőre. Vagy töröljem a francba a notes mezőt, ha ilyen adat van benne? Date: 2025-07-07T07:43:05+02:00</title>
+        <title>Contributor: Petró Tamás Discussion Comment No.: 6 Comment: ok, köszi Date: 2025-07-07T09:01:26+02:00</title>
         <link>https://www.openstreetmap.org/changeset/168473051</link>
-        <guid>https://www.openstreetmap.org/changeset/168473051#comment_4</guid>
-        <pubDate>2025-07-07T07:43:05+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/168473051#comment_6</guid>
+        <pubDate>2025-07-07T09:01:26+02:00</pubDate>
       </item><item>
         <title>Contributor: balint36 Discussion Comment No.: 2 Comment: ? Date: 2025-07-06T18:43:29+02:00</title>
         <link>https://www.openstreetmap.org/changeset/167774850</link>
@@ -102,11 +102,6 @@
         <link>https://www.openstreetmap.org/changeset/168224039</link>
         <guid>https://www.openstreetmap.org/changeset/168224039#comment_2</guid>
         <pubDate>2025-06-30T12:34:17+02:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Nem kell nevet adni a dolgoknak: https://wiki.openstreetmap.org/wiki/Names#Name_is_the_name_only Javítva: https://www.openstreetmap.org/changeset/168303056 Date: 2025-06-30T10:33:46+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/168278722</link>
-        <guid>https://www.openstreetmap.org/changeset/168278722#comment_1</guid>
-        <pubDate>2025-06-30T10:33:46+02:00</pubDate>
       </item>
   </channel>
 </rss>
