@@ -3,10 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: infeeeee Discussion Comment No.: 8 Comment: Javítottam: https://www.openstreetmap.org/changeset/168690278 Van egy elvünk, elvileg ha hibát látsz akkor azt javítani illene: https://wiki.openstreetmap.org/wiki/Good_practice#Do_correct_errors Azt ne csináld, hogy csak mellé raksz valami új címkét, de a régit nem javítod, később az ellentmondásokat nehezebb feloldani. Wikiben minden le van dokumentálva, hogyan kéne jelölni, ha valami nem világos rakj le egy jegyzetet, vagy kérdezz matrixon, ott általában gyorsabban választ kaphatsz mint levlistán. További jó térképezést! Date: 2025-07-09T11:13:39+02:00</title>
+        <title>Contributor: ITineris Discussion Comment No.: 1 Comment: Szia! Attól még, hogy egy járda sövénnyel el van választva az úttesttől, lehet járda. https://wiki.openstreetmap.org/wiki/Sidewalks Járdán/gyalogúton felesleges a sok &quot;no&quot; hozzáférés, mert ezek alapértelmezettek. A Komócsy utcai (most már lépcső) &quot;access=customers&quot; címkéjét nem igazán értem. Ez egy bárki számára használható gyalogút. Üdv: Ákos Date: 2025-07-09T11:48:49+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/168056064</link>
+        <guid>https://www.openstreetmap.org/changeset/168056064#comment_1</guid>
+        <pubDate>2025-07-09T11:48:49+02:00</pubDate>
+      </item><item>
+        <title>Contributor: Fiorentina Discussion Comment No.: 9 Comment: Rendben, köszi nagyon! Date: 2025-07-09T11:23:11+02:00</title>
         <link>https://www.openstreetmap.org/changeset/167215860</link>
-        <guid>https://www.openstreetmap.org/changeset/167215860#comment_8</guid>
-        <pubDate>2025-07-09T11:13:39+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/167215860#comment_9</guid>
+        <pubDate>2025-07-09T11:23:11+02:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! https://www.openstreetmap.org/node/12546271150 crossing_ref helyett manapság a crossing:markings-ot használjuk, sokkal részletesebben le lehet írni felfestéseket: https://wiki.openstreetmap.org/wiki/Key:crossing:markings A crossing_ref meg marad azokban az országokban ahol ezek a többi állatnevek használatban vannak, nálunk ilyenek nincsenek: https://wiki.openstreetmap.org/wiki/Key:crossing_ref Ezen a ponton már szerepelt a crossing:markings, nem kellett volna ezt mellé felvenni. További jó térképezést! Date: 2025-07-09T09:27:06+02:00</title>
         <link>https://www.openstreetmap.org/changeset/168670094</link>
