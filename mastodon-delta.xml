@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>For refining #deltachat UIs and UX we are looking at many other messengers regularly. But we are curious. Which messenger UX/UI do you like most and suggest we take cues from? Telegram WhatsApp Signal Threema</title>
+        <link>https://chaos.social/@delta/114825382339815737</link>
+        <guid>https://chaos.social/@delta/114825382339815737</guid>
+        <pubDate>Wed, 09 Jul 2025 21:24:48 +0000</pubDate>
+      </item><item>
         <title>Tomorrow at #CFC25 there are two sessions about #DeltaChat: How to set up a #chatmail relay server, an easy way to make your first timid steps with server administration: https://pretalx.c3voc.de/chaos-feminist-convention-2025/talk/TWRT8X/ And an overview on #webxdc apps, and how they bring back computing to your social context, locking out the tracking companies: https://pretalx.c3voc.de/chaos-feminist-convention-2025/talk/9VMYAJ/ The webxdc talk will also be streamed, if you want to join remotely :)</title>
         <link>https://chaos.social/@delta/114801663752313092</link>
         <guid>https://chaos.social/@delta/114801663752313092</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114584588256912375</link>
         <guid>https://chaos.social/@delta/114584588256912375</guid>
         <pubDate>Wed, 28 May 2025 08:47:42 +0000</pubDate>
-      </item><item>
-        <title>By design, end-to-end-encrypting #deltachat and #webxdc apps only need ephemeral transport. It&amp;#39;s a big deal. Let&amp;#39;s compare: - #matrix home servers maintain a cryptographic forever-chain of cleartext social-graph metadata. - #WhatsApp servers maintain cleartext metadata visible to Meta. - #Signal keeps encrypted metadata, hosted at GAFAM #chatmail relays do not persist any social graph state, also not in encrypted form. A key goal of our designs: chatmail operators can sleep well at night :)</title>
-        <link>https://chaos.social/@delta/114581351802659140</link>
-        <guid>https://chaos.social/@delta/114581351802659140</guid>
-        <pubDate>Tue, 27 May 2025 19:04:37 +0000</pubDate>
       </item>
   </channel>
 </rss>
