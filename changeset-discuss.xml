@@ -97,11 +97,6 @@
         <link>https://www.openstreetmap.org/changeset/168270118</link>
         <guid>https://www.openstreetmap.org/changeset/168270118#comment_2</guid>
         <pubDate>2025-07-03T18:38:35+02:00</pubDate>
-      </item><item>
-        <title>Contributor: bkil Discussion Comment No.: 5 Comment: Even worse: they probably pipe the store address into the Google Maps API to geolocate its position and add the OSM point at that coordinate, which may be way off from the true position of said feature, let alone being against the terms of service of OSM. Date: 2025-07-03T16:35:46+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/168294394</link>
-        <guid>https://www.openstreetmap.org/changeset/168294394#comment_5</guid>
-        <pubDate>2025-07-03T16:35:46+02:00</pubDate>
       </item>
   </channel>
 </rss>
