@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 3 Comment: Bárcsak összevonva lett volna, de nem, csak simán törölve lett mert valaki azt hitte duplikátum, ezzel elveszett minden adat: https://www.openstreetmap.org/changeset/168128847 Szóval ez a külön jelölés nem csak rossz, hanem még a hibát is generál, egyáltalán nem kezdőbarát. Megcsináltam, most a poligonon minden, remélem így marad, de talán ezután majd belátja, hogy minden szempontból ez a jobb jelölés, javítva: https://www.openstreetmap.org/changeset/168733377 Date: 2025-07-10T09:37:21+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/151017618</link>
+        <guid>https://www.openstreetmap.org/changeset/151017618#comment_3</guid>
+        <pubDate>2025-07-10T09:37:21+02:00</pubDate>
+      </item><item>
         <title>Contributor: ITineris Discussion Comment No.: 1 Comment: Szia! A Lőcsei úti parkolóhoz felvettél egy üveggyűjtőt, amit itt elem gyűjtőnek hívsz. A helyszínen egyiket sem látok. Mire gondolt a költő? Üdv: Ákos Date: 2025-07-09T17:37:24+02:00</title>
         <link>https://www.openstreetmap.org/changeset/151663432</link>
         <guid>https://www.openstreetmap.org/changeset/151663432#comment_1</guid>
@@ -58,11 +63,6 @@
         <guid>https://www.openstreetmap.org/changeset/168473051#comment_6</guid>
         <pubDate>2025-07-07T09:01:26+02:00</pubDate>
       </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 2 Comment: Lássuk mi lesz, ha észreveszi ezt, mikor legközelebb ide megy vásárolni. Szerintem is jobb összevonva, de nem fogok edit war-ba bonyolódni senkivel, inkább ráhagyom. Date: 2025-07-06T17:50:05+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/151017618</link>
-        <guid>https://www.openstreetmap.org/changeset/151017618#comment_2</guid>
-        <pubDate>2025-07-06T17:50:05+02:00</pubDate>
-      </item><item>
         <title>Contributor: balint36 Discussion Comment No.: 4 Comment: Mivel nem adtál választ, ezért visszaállítottam. A 168557984 számú módosításcsomagban megjelöltem forrást, ami alapján a címkét railway=disused értékre állítottam. Ha ismételten eltávolításra került a railway=disused címke forrás nélkül, vagy a mostanihoz hasonló kommenttel - tehát nem megalapozottan -, én kérdés nélkül fogom visszaállítani - mondjuk erre sem kaptam választ. Date: 2025-07-06T11:49:32+02:00</title>
         <link>https://www.openstreetmap.org/changeset/168000233</link>
         <guid>https://www.openstreetmap.org/changeset/168000233#comment_4</guid>
@@ -107,11 +107,6 @@
         <link>https://www.openstreetmap.org/changeset/165484765</link>
         <guid>https://www.openstreetmap.org/changeset/165484765#comment_2</guid>
         <pubDate>2025-07-03T12:40:53+02:00</pubDate>
-      </item><item>
-        <title>Contributor: Kilencfarku Macska Discussion Comment No.: 9 Comment: Buszok: észrevettem a szakadást, meg azt is, hogy a buszállomásnál is pontatlanok az adatok (változott az elmúlt 1-2 évben a vonalszámozás). Végig kéne igazából csekkolni a kocsiállásokat az állomáson, hogy ténylegesen mi, honnan indul, milyen vonalszámmal... Date: 2025-07-03T11:55:20+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/167436531</link>
-        <guid>https://www.openstreetmap.org/changeset/167436531#comment_9</guid>
-        <pubDate>2025-07-03T11:55:20+02:00</pubDate>
       </item>
   </channel>
 </rss>
