@@ -87,11 +87,6 @@
         <link>https://www.openstreetmap.org/changeset/167774850</link>
         <guid>https://www.openstreetmap.org/changeset/167774850#comment_6</guid>
         <pubDate>2025-07-09T09:23:14+02:00</pubDate>
-      </item><item>
-        <title>Contributor: balint36 Discussion Comment No.: 3 Comment: Ahogy mondod. Van olyan, ahol nem táblázzuk, mégis alkalmazzuk (mondjuk az autópálya kezdete táblával mégis táblázunk valamilyen módon). De ez a helyesen ellátott címkézésből fog eldőlni. Az M1-esen sincs kint, hogy foot=no vagy bicycle=no, a többi címkéjéből mégis lehet tudni, hogy egyikkel sem fogsz te rá felmenni. Nem kell kitalálni semmi extrát. Léteznek a cycleway:both/cycleway:left/cycleway:right címkék yes, lane, seperate értékével te megadod, hogy ott van kerékpárút. Azt, hogy útvonaltervező ezt az információt miért nem képes kezelni, azt ne az OSM helytelen címkézésével próbáljuk kompenzálni, hanem az alkalmazás/algoritmus készítőjének kell szólni, hogy nem elvártan működik, pedig az adatok rendelkezésre állnak a térképről. Date: 2025-07-09T09:02:16+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/167517435</link>
-        <guid>https://www.openstreetmap.org/changeset/167517435#comment_3</guid>
-        <pubDate>2025-07-09T09:02:16+02:00</pubDate>
       </item>
   </channel>
 </rss>
