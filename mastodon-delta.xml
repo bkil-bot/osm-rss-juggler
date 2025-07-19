@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>some new #webxdc apps ....for personal or group journaling or &amp;quot;pixel it&amp;quot; for running a minimal original &amp;quot;twitter&amp;quot; style social network in a larger chat group, end-to-end encrypted and private, without anyone outside being able to access anything except for the chat group members. It&amp;#39;s the wild-wild-west out there in doing &amp;quot;first apps&amp;quot; for something, and cutting hosting/dns/billionaires-in-the-middle out. See also our blog post earlier this year: https://delta.chat/en/2025-01-23-webxdc-no-billionaires a look at the new webxdc apps at https://webxdc.org/apps &quot;Tiny moments, a minimalist journal&quot; from durian &quot;Quiet Journal, a minimal journaling apps&quot; from MapleDiss &quot;PixelSocial&quot;, a pixelated social network from ArcaneCircle &quot;Bable Dungeon, Portugues/English practises&quot; from ArcaneCircle primary view on &quot;pixel it&quot; app posts, with two entries: - &quot;Delta purple skull ghost&quot; with some house corner visible and a light projection on the wall. Two people have &quot;hearted&quot; this. - &quot;The delta ghost&quot; with some picture of a classic ghost shape with a pixelated &quot;delta&quot; on top https://webxdc.org/apps/#arcanecircle-pixelit social media app runs full screen: showing someone posting a (pixelated) picture of a lake and beach with the text &quot;I miss the sun&quot; and one person answers &quot;Also i am fine to ge ta bit of rain after all this sunny week&quot; and another one &quot;I am enjoying the rain vibes with chill music&quot;</title>
+        <link>https://chaos.social/@delta/114879264445471976</link>
+        <guid>https://chaos.social/@delta/114879264445471976</guid>
+        <pubDate>Sat, 19 Jul 2025 09:47:43 +0000</pubDate>
+      </item><item>
         <title>Good news! Our developments are back into full swing with major new releases expected throughout 2025 🥳 After the shock February dry-up of funding grants we recently secured substantial private donations, wonderfully helping to hit the ground running 🧡 #deltachat #chatmail and #webxdc developments currently use ~600k EUR per year to support a dozen experts and contributors, to in turn help the wider contributor communities, as well as to realize major new features. https://delta.chat/en/donate</title>
         <link>https://chaos.social/@delta/114835943973513836</link>
         <guid>https://chaos.social/@delta/114835943973513836</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114612704598115640</link>
         <guid>https://chaos.social/@delta/114612704598115640</guid>
         <pubDate>Mon, 02 Jun 2025 07:58:03 +0000</pubDate>
-      </item><item>
-        <title>our friends over at @rpgp just published a monster milestone, humbly tagged 0.16 😍 with - streaming decryption and encryption - post-quantum-cryptography - API streamlining. #rPGP is a full Rust implementation of #openpgp which counts among the fastest and most compliant implementations today, and includes security audits. Note: #deltachat uses a restricted subset of OpenPGP, and follows best practices (eg using the same ed25519 keys implementation as #signal) https://github.com/rpgp/rpgp/</title>
-        <link>https://chaos.social/@delta/114590267055497123</link>
-        <guid>https://chaos.social/@delta/114590267055497123</guid>
-        <pubDate>Thu, 29 May 2025 08:51:53 +0000</pubDate>
       </item>
   </channel>
 </rss>
