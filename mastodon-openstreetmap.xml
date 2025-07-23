@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>OpenStreetMap.org now has a vector tiles layer. 😍 read more: https://blog.openstreetmap.org/2025/07/22/vector-tiles-are-deployed-on-openstreetmap-org/ #OpenStreetMap #OSM #maps #gischat</title>
+        <link>https://en.osm.town/@openstreetmap/114901960494044655</link>
+        <guid>https://en.osm.town/@openstreetmap/114901960494044655</guid>
+        <pubDate>Wed, 23 Jul 2025 09:59:38 +0000</pubDate>
+      </item><item>
         <title>Do you want to host State of the Map 2026, the global OpenStreetMap conference? We&amp;#39;re now soliciting bids and we&amp;#39;d welcome your suggestions! Read more: https://wiki.openstreetmap.org/wiki/State_of_the_Map_2026/Call_for_venues (@sotm 2025 is happening in Manila) #OpenStreetMap #OSM #geo #maps #sotm #sotm2026</title>
         <link>https://en.osm.town/@openstreetmap/114703063470162129</link>
         <guid>https://en.osm.town/@openstreetmap/114703063470162129</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/113963462184912119</link>
         <guid>https://en.osm.town/@openstreetmap/113963462184912119</guid>
         <pubDate>Fri, 07 Feb 2025 16:07:10 +0000</pubDate>
-      </item><item>
-        <title>Apply to be the OSM Core Software Development Facilitator! https://blog.openstreetmap.org/2025/01/07/apply-to-be-the-osm-core-software-development-facilitator/ #OpenStreetMap #OSM #gis</title>
-        <link>https://en.osm.town/@openstreetmap/113793329891970475</link>
-        <guid>https://en.osm.town/@openstreetmap/113793329891970475</guid>
-        <pubDate>Wed, 08 Jan 2025 15:00:17 +0000</pubDate>
       </item>
   </channel>
 </rss>
