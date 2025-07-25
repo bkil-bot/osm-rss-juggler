@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Amount of hours spent to keep a default #chatmail onboarding relay with 500k active addresses running: near zero. Glancing at stats sometimes: two million messages per day. CPU and IO load at 20% max. 500gb raid1 ssd meandering around 60 percent full. There is room for various optimizations but no big need currently. end-to-end encryption with metadata minimization is best if servers are boring. No clustering or enterprise license needed, no &amp;quot;SRE team&amp;quot; either. https://github.com/chatmail/relay/</title>
+        <link>https://chaos.social/@delta/114913609508692996</link>
+        <guid>https://chaos.social/@delta/114913609508692996</guid>
+        <pubDate>Fri, 25 Jul 2025 11:22:07 +0000</pubDate>
+      </item><item>
         <title>some new #webxdc apps ....for personal or group journaling or &amp;quot;pixel it&amp;quot; for running a minimal original &amp;quot;twitter&amp;quot; style social network in a larger chat group, end-to-end encrypted and private, without anyone outside being able to access anything except for the chat group members. It&amp;#39;s the wild-wild-west out there in doing &amp;quot;first apps&amp;quot; for something, and cutting hosting/dns/billionaires-in-the-middle out. See also our blog post earlier this year: https://delta.chat/en/2025-01-23-webxdc-no-billionaires a look at the new webxdc apps at https://webxdc.org/apps &quot;Tiny moments, a minimalist journal&quot; from durian &quot;Quiet Journal, a minimal journaling apps&quot; from MapleDiss &quot;PixelSocial&quot;, a pixelated social network from ArcaneCircle &quot;Bable Dungeon, Portugues/English practises&quot; from ArcaneCircle primary view on &quot;pixel it&quot; app posts, with two entries: - &quot;Delta purple skull ghost&quot; with some house corner visible and a light projection on the wall. Two people have &quot;hearted&quot; this. - &quot;The delta ghost&quot; with some picture of a classic ghost shape with a pixelated &quot;delta&quot; on top https://webxdc.org/apps/#arcanecircle-pixelit social media app runs full screen: showing someone posting a (pixelated) picture of a lake and beach with the text &quot;I miss the sun&quot; and one person answers &quot;Also i am fine to ge ta bit of rain after all this sunny week&quot; and another one &quot;I am enjoying the rain vibes with chill music&quot;</title>
         <link>https://chaos.social/@delta/114879264445471976</link>
         <guid>https://chaos.social/@delta/114879264445471976</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114624988283739502</link>
         <guid>https://chaos.social/@delta/114624988283739502</guid>
         <pubDate>Wed, 04 Jun 2025 12:01:57 +0000</pubDate>
-      </item><item>
-        <title>Comparing #XMPP against #email protocols is too limited. What sets #deltachat apart is *vertical integration* and being driven by UI/UX considerations. Cross-platform Apps and Bots use the Rust core library which connects with #chatmail relays and classic email servers based on a higher level API -- abstracting over SMTP, MIME, #OpenPGP etc. See https://chatmail.at #webxdc apps in turn use an even higher level stable API abstracting over email/xmpp/... see https://webxdc.org/docs/</title>
-        <link>https://chaos.social/@delta/114612704598115640</link>
-        <guid>https://chaos.social/@delta/114612704598115640</guid>
-        <pubDate>Mon, 02 Jun 2025 07:58:03 +0000</pubDate>
       </item>
   </channel>
 </rss>
