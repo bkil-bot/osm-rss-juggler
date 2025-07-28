@@ -3,15 +3,20 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: GBAB Discussion Comment No.: 2 Comment: Helyesbítés: a hegygerinceket nem itt rajzoltad föl. Date: 2025-07-28T13:16:06+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/159543350</link>
+        <guid>https://www.openstreetmap.org/changeset/159543350#comment_2</guid>
+        <pubDate>2025-07-28T13:16:06+02:00</pubDate>
+      </item><item>
+        <title>Contributor: Szabó Bendegúz Discussion Comment No.: 4 Comment: Rendben, köszönöm a tanácsokat! Ettől függetlenül remélem, sokat sikerült hozzádnom a térképhez a város tekintetében, személy szerint futárkodásnál is kész horror ez a néhány utca, elsősorban az ebből eredő frusztráció motivált, hogy kezdjek vele valamit. Utcaképről adatot nem használtam fel, csupán végszükség esetén ellenőriztem vele a saját adataimat. Date: 2025-07-28T12:31:39+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/169317435</link>
+        <guid>https://www.openstreetmap.org/changeset/169317435#comment_4</guid>
+        <pubDate>2025-07-28T12:31:39+02:00</pubDate>
+      </item><item>
         <title>Contributor: Térképszerkesztő Discussion Comment No.: 2 Comment: Szia! Ügyfelünk jelezte, a rendelet a névhasználatot bizonyítja. Zoli Date: 2025-07-28T11:59:23+02:00</title>
         <link>https://www.openstreetmap.org/changeset/168608137</link>
         <guid>https://www.openstreetmap.org/changeset/168608137#comment_2</guid>
         <pubDate>2025-07-28T11:59:23+02:00</pubDate>
-      </item><item>
-        <title>Contributor: vasony Discussion Comment No.: 3 Comment: Szia! Éppen ezért sem veszünk át adatokat más térlépekről, másrészről az adott térképek licensze, különösen a Google utcakép és maps nem használható az osm bővítésére. Kérlek hagyatkozz a személyes felmérésedre a házszámok tekintetében is. A nemzeti alaptérkép támpontnak jó, de mindig ellenőrizendő a helyszínen, hogy mi a valóság, mert sokszor van hogy az azon szereplő házszám a helyszínen nem éppen az. Tamás Date: 2025-07-27T05:03:03+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/169317435</link>
-        <guid>https://www.openstreetmap.org/changeset/169317435#comment_3</guid>
-        <pubDate>2025-07-27T05:03:03+02:00</pubDate>
       </item><item>
         <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szia! Most már sokadszor írod vissza, melyik a Kisújbánya utca, mert a térképen ebben az írásmódban nem szerepel. Ha Kisújbánya egy településrész és nincs az utcának konkrét neve, akkor az addr:place mezőbe kell kerüljön, így biztosan hibás, hogy az add:place és addr:street is ki van töltve. A padoknak nem szokott nevük lenni, ez rá van írva, vagy csak a hely padja? Tamás Date: 2025-07-26T06:40:01+02:00</title>
         <link>https://www.openstreetmap.org/changeset/169250659</link>
