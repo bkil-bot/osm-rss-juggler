@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Üdv az OpenStreetMapen! Az új 13-as OEVK már szerepelt a térképen: https://www.openstreetmap.org/relation/18539485 Az ilyen nagyméretű határokat amúgy is relációként kell térképezni, nem egyszerű vonalként. Erről sok jó leírást találhatsz a wikiben: https://wiki.openstreetmap.org/wiki/Relation:boundary Ez a vonal törölve itt: https://www.openstreetmap.org/changeset/169674501 Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség#Elérhetőségek További jó térképezést! Date: 2025-07-29T13:53:11+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/169629687</link>
+        <guid>https://www.openstreetmap.org/changeset/169629687#comment_1</guid>
+        <pubDate>2025-07-29T13:53:11+02:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Fake restaurant, removed countless time before https://www.openstreetmap.org/changeset/169673050 Date: 2025-07-29T13:27:00+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/169608876</link>
+        <guid>https://www.openstreetmap.org/changeset/169608876#comment_1</guid>
+        <pubDate>2025-07-29T13:27:00+02:00</pubDate>
+      </item><item>
         <title>Contributor: bkil Discussion Comment No.: 1 Comment: Honnan jött a Dorogháza, Kossuth utca? Be tudjuk jelenteni a Postának hibaként, nehogy visszakerüljön egy újabb importáláskor? https://osm.org/note/3519735#map=16/47.98799/19.90061 Date: 2025-07-29T09:59:36+02:00</title>
         <link>https://www.openstreetmap.org/changeset/93308351</link>
         <guid>https://www.openstreetmap.org/changeset/93308351#comment_1</guid>
@@ -67,11 +77,6 @@
         <link>https://www.openstreetmap.org/changeset/165806186</link>
         <guid>https://www.openstreetmap.org/changeset/165806186#comment_3</guid>
         <pubDate>2025-07-22T18:25:54+02:00</pubDate>
-      </item><item>
-        <title>Contributor: vmiklos Discussion Comment No.: 2 Comment: Köszi, jogos, javítottam: https://www.openstreetmap.org/changeset/169301522 Date: 2025-07-22T16:05:03+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/169238262</link>
-        <guid>https://www.openstreetmap.org/changeset/169238262#comment_2</guid>
-        <pubDate>2025-07-22T16:05:03+02:00</pubDate>
       </item>
   </channel>
 </rss>
