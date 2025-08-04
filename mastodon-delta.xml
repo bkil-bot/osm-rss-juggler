@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>V2 #deltachat is rolling out after weeks of internal testing, a major milestone revising how end-to-end encryption works and bringing more beautiful contact and group profiles, direct access to chat-shared apps in the title bar and a &amp;quot;new email&amp;quot; action with setting a subject for those using a classic server. Best of all, users and developers don&amp;#39;t need to co-ordinate anything for upgrading to V2 despite the massive security rework behind the scenes :) https://delta.chat/en/2025-08-04-encryption-v2</title>
+        <link>https://chaos.social/@delta/114970861526411745</link>
+        <guid>https://chaos.social/@delta/114970861526411745</guid>
+        <pubDate>Mon, 04 Aug 2025 14:02:04 +0000</pubDate>
+      </item><item>
         <title>Amount of hours spent to keep a default #chatmail onboarding relay with 500k active addresses running: near zero. Glancing at stats sometimes: two million messages per day. CPU and IO load at 20% max. 500gb raid1 ssd meandering around 60 percent full. There is room for various optimizations but no big need currently. end-to-end encryption with metadata minimization is best if servers are boring. No clustering or enterprise license needed, no &amp;quot;SRE team&amp;quot; either. https://github.com/chatmail/relay/</title>
         <link>https://chaos.social/@delta/114913609508692996</link>
         <guid>https://chaos.social/@delta/114913609508692996</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114638742031932347</link>
         <guid>https://chaos.social/@delta/114638742031932347</guid>
         <pubDate>Fri, 06 Jun 2025 22:19:43 +0000</pubDate>
-      </item><item>
-        <title>Since June 1st there is a big sudden surge of new Delta Chat users and so far things are going pretty smooth. We are happy that our #chatmail infrastructure is holding up and that there is growing recognition that #deltachat is a ready-to-use and resilient chat solution. Some stats from the last days, a brief discussion of centralization risks and what we plan to do about it, also introducing a brand-new chatmail OpenCollective with a european fiscal host. https://delta.chat/en/2025-06-04-surge-donations</title>
-        <link>https://chaos.social/@delta/114624988283739502</link>
-        <guid>https://chaos.social/@delta/114624988283739502</guid>
-        <pubDate>Wed, 04 Jun 2025 12:01:57 +0000</pubDate>
       </item>
   </channel>
 </rss>
