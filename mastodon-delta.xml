@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Several people noticed and wonder about our new #deltachat version numbering scheme: it changed for all apps! #chatmail Core rust library uses 2.X with incrementing X. And apps use 2.X.Y with Y being a numbered release for a core version. Therefore, any app release embeds the core library version which is helpful for understanding and debugging interoperability issues between clients. Others pointed out this is close to &amp;quot;pride versioning&amp;quot; ... We are fine with that :) https://pridever.org/</title>
+        <link>https://chaos.social/@delta/114972264530346684</link>
+        <guid>https://chaos.social/@delta/114972264530346684</guid>
+        <pubDate>Mon, 04 Aug 2025 19:58:52 +0000</pubDate>
+      </item><item>
         <title>V2 #deltachat is rolling out after weeks of internal testing, a major milestone revising how end-to-end encryption works and bringing more beautiful contact and group profiles, direct access to chat-shared apps in the title bar and a &amp;quot;new email&amp;quot; action with setting a subject for those using a classic server. Best of all, users and developers don&amp;#39;t need to co-ordinate anything for upgrading to V2 despite the massive security rework behind the scenes :) https://delta.chat/en/2025-08-04-encryption-v2</title>
         <link>https://chaos.social/@delta/114970861526411745</link>
         <guid>https://chaos.social/@delta/114970861526411745</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114640770298940697</link>
         <guid>https://chaos.social/@delta/114640770298940697</guid>
         <pubDate>Sat, 07 Jun 2025 06:55:31 +0000</pubDate>
-      </item><item>
-        <title>Tomorrow our ten day #DIFF gathering in Freiburg in the black forest starts. Around 40 people from various projects, contexts and countries are joining ... And would you believe it? There is no date/clock scheduling to speak of, no hour slots etc On Friday the 13th we might do live streaming sessions with talks and demos but the focus generally is on in-person hanging out and work, in a relaxed manner. Its still possible to join if you are of the spontaneous kind https://delta.chat/en/2025-05-12-diff-invitation</title>
-        <link>https://chaos.social/@delta/114638742031932347</link>
-        <guid>https://chaos.social/@delta/114638742031932347</guid>
-        <pubDate>Fri, 06 Jun 2025 22:19:43 +0000</pubDate>
       </item>
   </channel>
 </rss>
