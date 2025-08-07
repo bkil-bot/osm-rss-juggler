@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Signal and Matrix were founded in popular opposition to the email system but End-to-End encrypted instant messaging via emails works now, and reliably, with #deltachat V2 app releases, and with #chatmail relays forming a growing secure email network that minimizes metadata and enforces TLS and E2EE messaging. You can&amp;#39;t really argue with working code, can you? Contrary to popular belief SMTP and DKIM and IMAP are no holy ingredients and can be improved upon btw. See eg https://github.com/chatmail/relay/issues/487 Image of https://testrun.org page that is stable since many years. Title reads &quot;Testrun.org&quot; The substitle reads &quot;experimenting with the future of email&quot; Below the two lines is a collage featuring a dinosaur with an open maw and a zeppelin like flying object making it's way to the open maw. There is a moon like planet on blue background and then the last bottom third part of the A4 graphic shows some admin on a terminal roughly 1980 aesthetics</title>
+        <link>https://chaos.social/@delta/114986435836527691</link>
+        <guid>https://chaos.social/@delta/114986435836527691</guid>
+        <pubDate>Thu, 07 Aug 2025 08:02:49 +0000</pubDate>
+      </item><item>
         <title>Several people noticed and wonder about our new #deltachat version numbering scheme: it changed for all apps! #chatmail Core rust library uses 2.X with incrementing X. And apps use 2.X.Y with Y being a numbered release for a core version. Therefore, any app release embeds the core library version which is helpful for understanding and debugging interoperability issues between clients. Others pointed out this is close to &amp;quot;pride versioning&amp;quot; ... We are fine with that :) https://pridever.org/</title>
         <link>https://chaos.social/@delta/114972264530346684</link>
         <guid>https://chaos.social/@delta/114972264530346684</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114671711495881176</link>
         <guid>https://chaos.social/@delta/114671711495881176</guid>
         <pubDate>Thu, 12 Jun 2025 18:04:17 +0000</pubDate>
-      </item><item>
-        <title>#whatsapp claims end to end security of content but: - ties your identity to a phone number - owns your identity - can see who messages whom and who is in which group etc - forces you to send local search in your private chats to Meta AI - does not allow to disable Meta AI on the main screen None of these problems exist with #deltachat devs and distributors. We have arguably the world&amp;#39;s easiest onboarding process for a messenger that offers a Whatsapp style interface on all platforms. Whatsapp broadcast message to users. *Not even WhatsApp can see your personal messages* That includes text messages, voice messages, photos, videos, calls, and more. They’re protected with end-to-end-encryption, because we’re always committed to protecting your privacy.Screenshot of mainmpage at https://delta.chat Screenshot of the android, iOS and desktop apps taken from https://delta.chat</title>
-        <link>https://chaos.social/@delta/114640770298940697</link>
-        <guid>https://chaos.social/@delta/114640770298940697</guid>
-        <pubDate>Sat, 07 Jun 2025 06:55:31 +0000</pubDate>
       </item>
   </channel>
 </rss>
