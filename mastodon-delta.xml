@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Now that @fdroidorg also ships v2 releases, roll out to all platforms is complete 😅 and we are curious. How was your v2 experience so far in relation to end-to-end encryption? v2 rocks, no issues or complaints so far v2 caused en/decryption problems (please reply) didn&amp;#39;t upgrade to v2 yet still holding off on trying delta out</title>
+        <link>https://chaos.social/@delta/114992376414325688</link>
+        <guid>https://chaos.social/@delta/114992376414325688</guid>
+        <pubDate>Fri, 08 Aug 2025 09:13:35 +0000</pubDate>
+      </item><item>
         <title>Signal and Matrix were founded in popular opposition to the email system but End-to-End encrypted instant messaging via emails works now, and reliably, with #deltachat V2 app releases, and with #chatmail relays forming a growing secure email network that minimizes metadata and enforces TLS and E2EE messaging. You can&amp;#39;t really argue with working code, can you? Contrary to popular belief SMTP and DKIM and IMAP are no holy ingredients and can be improved upon btw. See eg https://github.com/chatmail/relay/issues/487 Image of https://testrun.org page that is stable since many years. Title reads &quot;Testrun.org&quot; The substitle reads &quot;experimenting with the future of email&quot; Below the two lines is a collage featuring a dinosaur with an open maw and a zeppelin like flying object making it's way to the open maw. There is a moon like planet on blue background and then the last bottom third part of the A4 graphic shows some admin on a terminal roughly 1980 aesthetics</title>
         <link>https://chaos.social/@delta/114986435836527691</link>
         <guid>https://chaos.social/@delta/114986435836527691</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114691918673699663</link>
         <guid>https://chaos.social/@delta/114691918673699663</guid>
         <pubDate>Mon, 16 Jun 2025 07:43:14 +0000</pubDate>
-      </item><item>
-        <title>#deltachat is secure against server-side group membership changes but for a very different reason than #signal which keeps encrypted group membership data in a central store. Delta Chat has _no_ central store but implements a rigidly tested #p2p group membership model where servers play no role https://github.com/chatmail/models/tree/main/group-membership Both signal and delta chat are safe against recently published attacks against #whatsapp that can add members to chats, breaking end to end encryption. https://arstechnica.com/security/2025/05/whatsapp-provides-no-cryptographic-management-for-group-messages</title>
-        <link>https://chaos.social/@delta/114671711495881176</link>
-        <guid>https://chaos.social/@delta/114671711495881176</guid>
-        <pubDate>Thu, 12 Jun 2025 18:04:17 +0000</pubDate>
       </item>
   </channel>
 </rss>
