@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: Bálint Discussion Comment No.: 2 Comment: Szia! Igen, amikor felszerkesztettem, akkor keleti irányba nézett, azóta átforgatták nyugat felé, szóval mozgatható kivitel. Üdv, Bálint Date: 2025-08-10T07:33:27+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/161602932</link>
+        <guid>https://www.openstreetmap.org/changeset/161602932#comment_2</guid>
+        <pubDate>2025-08-10T07:33:27+02:00</pubDate>
+      </item><item>
         <title>Contributor: user_5359 Discussion Comment No.: 4 Comment: It has been adjusted! Thanks! Date: 2025-08-10T06:17:21+02:00</title>
         <link>https://www.openstreetmap.org/changeset/161504026</link>
         <guid>https://www.openstreetmap.org/changeset/161504026#comment_4</guid>
@@ -12,11 +17,6 @@
         <link>https://www.openstreetmap.org/changeset/169716643</link>
         <guid>https://www.openstreetmap.org/changeset/169716643#comment_5</guid>
         <pubDate>2025-08-08T18:11:27+02:00</pubDate>
-      </item><item>
-        <title>Contributor: ITineris Discussion Comment No.: 1 Comment: Szia! A közösségi ház előtti traffibox irányában biztos vagy? Én most DNY felé láttam nézni. (Persze lehet a két menetirány között átforgatható kivitel is.) Üdv: Ákos Date: 2025-08-08T14:43:14+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/161602932</link>
-        <guid>https://www.openstreetmap.org/changeset/161602932#comment_1</guid>
-        <pubDate>2025-08-08T14:43:14+02:00</pubDate>
       </item><item>
         <title>Contributor: Mateusz Konieczny Discussion Comment No.: 1 Comment: Hello! https://www.openstreetmap.org/way/112955969/history has source:maxspeed = practical that was added in this edit Can you explain meaning of source:maxspeed=practical ? Is it mistagged maxspeed:practical= - realistic estimate of possible speed, lower than legal speed limit? See https://wiki.openstreetmap.org/wiki/Key:maxspeed:practical Date: 2025-08-08T14:42:28+02:00</title>
         <link>https://www.openstreetmap.org/changeset/125248093</link>
@@ -77,11 +77,6 @@
         <link>https://www.openstreetmap.org/changeset/169808902</link>
         <guid>https://www.openstreetmap.org/changeset/169808902#comment_2</guid>
         <pubDate>2025-08-03T19:55:30+02:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Üdv az OpenStreetMapen! Azért nem járható mert olyan az út minősége, vagy azért mert ki van táblázva? Illetve más járművel sem járható? Amit most címkéztél, az azt jelenti, hogy csak gyalogosan szabad bemenni. Ha az út minősége miatt nem járható bicóval, arra más jobb címkéink vannak: https://wiki.openstreetmap.org/wiki/Key:mtb:scale https://wiki.openstreetmap.org/wiki/Key:tracktype https://wiki.openstreetmap.org/wiki/Key:smoothness Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség#Elérhetőségek További jó térképezést! Date: 2025-08-03T09:56:02+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/169889400</link>
-        <guid>https://www.openstreetmap.org/changeset/169889400#comment_1</guid>
-        <pubDate>2025-08-03T09:56:02+02:00</pubDate>
       </item>
   </channel>
 </rss>
