@@ -3,6 +3,16 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>@cross do you need an ai summary of your family and private friends or small community groups? Having such summaries for joining pubpic groups with anonymous onboarding is easier to see a potential use in. Anyways, if you have a good example to point to for use of ai in private chatting, we would be happy to hear it. thanks.</title>
+        <link>https://chaos.social/@delta/115009306502201783</link>
+        <guid>https://chaos.social/@delta/115009306502201783</guid>
+        <pubDate>Mon, 11 Aug 2025 08:59:08 +0000</pubDate>
+      </item><item>
+        <title>@kleines_z today, there are larger groups (sometimes 100+ members) but both due to legal and economic reasons we do not emphasize or recommend this usage because moderation tooling is lacking. Also the most severe problems come from admins disagreeing or going to war with each other. Technically fixing this is tricky or impossible. It&amp;#39;s not unlikely we will engage in improving mod tooling in the next year and are in fact eying a massively scaling admin-controlled encrypted channel feature.</title>
+        <link>https://chaos.social/@delta/115009187657682809</link>
+        <guid>https://chaos.social/@delta/115009187657682809</guid>
+        <pubDate>Mon, 11 Aug 2025 08:28:54 +0000</pubDate>
+      </item><item>
         <title>We do not aim for #deltachat to be another social media app. No #ai summaries or suggestions. No public directory of contacts. No discovery via outside identifiers (mobile phone or email). Just you and your contacts privately messaging, in a solid simple user interface on all platforms. End-to-End encryption enforced on two layers. #chatmail relays know and retain nothing, no content or metadata. #webxdc apps allow for custom interactions on top of chats. Contributors and donations welcome!</title>
         <link>https://chaos.social/@delta/115008970276615409</link>
         <guid>https://chaos.social/@delta/115008970276615409</guid>
@@ -92,16 +102,6 @@
         <link>https://chaos.social/@delta/114721310947729459</link>
         <guid>https://chaos.social/@delta/114721310947729459</guid>
         <pubDate>Sat, 21 Jun 2025 12:18:04 +0000</pubDate>
-      </item><item>
-        <title>We don&amp;#39;t see, or plan, a place for AI in our software stacks. A few notes. Some attempts to use AI tooling provided nothing of value in the chatmail-core-UI stacks that produce the #deltachat store releases on all platforms. Some in the community AI-generated a base #webxdc app and fixed bugs afterwards.That kind of worked and was borderline useful. AI is pretty boring. We have more interesting work to do: evolve private resilient messaging by improving UX, networking, encryption, etc</title>
-        <link>https://chaos.social/@delta/114718366538529384</link>
-        <guid>https://chaos.social/@delta/114718366538529384</guid>
-        <pubDate>Fri, 20 Jun 2025 23:49:16 +0000</pubDate>
-      </item><item>
-        <title>We are basically doing what #signal and in particular moxie refused to do or declares impossible: federation. Both #email and #activitypub ecosystems are all about federation. However, #deltachat is vertically centralized in that all UIs use the same #rust core which implements all networking, encryption, chat/group/message logic in a single centralized place. The now 40+ #chatmail mail relay network is driven from centralized code. At each level replication and federation is built in.</title>
-        <link>https://chaos.social/@delta/114710708299242142</link>
-        <guid>https://chaos.social/@delta/114710708299242142</guid>
-        <pubDate>Thu, 19 Jun 2025 15:21:41 +0000</pubDate>
       </item>
   </channel>
 </rss>
