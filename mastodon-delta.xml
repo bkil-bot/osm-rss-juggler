@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>We do not aim for #deltachat to be another social media app. No #ai summaries or suggestions. No public directory of contacts. No discovery via outside identifiers (mobile phone or email). Just you and your contacts privately messaging, in a solid simple user interface on all platforms. End-to-End encryption enforced on two layers. #chatmail relays know and retain nothing, no content or metadata. #webxdc apps allow for custom interactions on top of chats. Contributors and donations welcome!</title>
+        <link>https://chaos.social/@delta/115008970276615409</link>
+        <guid>https://chaos.social/@delta/115008970276615409</guid>
+        <pubDate>Mon, 11 Aug 2025 07:33:37 +0000</pubDate>
+      </item><item>
         <title>Prediction: most messenger projects will move to a single core implementation model, probably #Rust based, in the next few years. The gains both for the development process are just too big. It&amp;#39;s all about UI and UX agility, implementation quality and delivery to users. Funding and money? We had/have to make do with ~1/50th of what other cross platform messenger app efforts had available. It forced and forces us to economic choices which is not a bad thing in an overall bloated IT industry.</title>
         <link>https://chaos.social/@delta/114998146593742933</link>
         <guid>https://chaos.social/@delta/114998146593742933</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114710708299242142</link>
         <guid>https://chaos.social/@delta/114710708299242142</guid>
         <pubDate>Thu, 19 Jun 2025 15:21:41 +0000</pubDate>
-      </item><item>
-        <title>Everyone returns to email in the end. We are there already. #whatsapp wants you to add your email to secure your account ... despite all the nay sayers and numerous well funded attempts and claims to kill #email not even WA can do it. #deltachat #chatmail and #webxdc are about deep collab between people, projects and operators to evolve email from within. It is not just about SMTP and IMAP and MIME and OpenPGP which are all exchangeable and can be improved ... Which we set out to do. Cheers. Whatsapp message suggesting to add your email address for extra security</title>
-        <link>https://chaos.social/@delta/114702992209967919</link>
-        <guid>https://chaos.social/@delta/114702992209967919</guid>
-        <pubDate>Wed, 18 Jun 2025 06:39:22 +0000</pubDate>
       </item>
   </channel>
 </rss>
