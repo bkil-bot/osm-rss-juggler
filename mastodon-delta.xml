@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>What are the main obstacles for you to adopt usage of #deltachat apps with your families, friends or communities? if you have other issues than the poll options please add to the replies. Oh, and those who are also living through heat waves: stay hydrated, and remind everyone else :) can&amp;#39;t get my folks to install another app lack of audio/video calls lack of Sealed-Sender/PQC/Forward-secrecy haven&amp;#39;t used it (enough) myself yet</title>
+        <link>https://chaos.social/@delta/115021869033243466</link>
+        <guid>https://chaos.social/@delta/115021869033243466</guid>
+        <pubDate>Wed, 13 Aug 2025 14:13:57 +0000</pubDate>
+      </item><item>
         <title>The UK&amp;#39;s national drought group is falling ridiculously short when recommending to delete old emails. How about - stop building any new data centers, progressively tax on their size and resource consumption, no free riding - legislatively focus on software to become more resource efficient (hint: AI hurts not helps with that) In any case, #chatmail relays unconditionally remove emails, no user action needed. Everything interesting happens on end devices see https://en.reset.org/decentralised-efficient-without-being-addictive-delta-chat-is-our-favourite-instant-messenger/</title>
         <link>https://chaos.social/@delta/115020251469834306</link>
         <guid>https://chaos.social/@delta/115020251469834306</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114754046759139617</link>
         <guid>https://chaos.social/@delta/114754046759139617</guid>
         <pubDate>Fri, 27 Jun 2025 07:03:13 +0000</pubDate>
-      </item><item>
-        <title>We&amp;#39;d like to remind everyone that a self-hosted #chatmail relay is best shared in some wider than family circles. In crisis situations everbody does better when helping others. A typical 1gb RAM chatmail relay VPS for 5-10 eur per month supports 50k+ daily users. chatmail VPSes are stateless. You can wipe all disk state, reinstall and chatting will resume. Conversely, #deltachat does not keep or depend on any server state .Operators under pressure do not need to feel bad to hand over data.</title>
-        <link>https://chaos.social/@delta/114728456492885546</link>
-        <guid>https://chaos.social/@delta/114728456492885546</guid>
-        <pubDate>Sun, 22 Jun 2025 18:35:17 +0000</pubDate>
       </item>
   </channel>
 </rss>
