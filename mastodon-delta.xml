@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>As far as we know #deltachat supports the widest range of old mobile devices. And it&amp;#39;s real often hard work to achieve that. For example, on android three (!) rust/networking experts needed to huddle for many days to sort out &amp;quot;how to get own device IP addresses&amp;quot;. They ended up implementing several mechanisns suitable for respective android versions. It became part of the @n0iroh network rust stack that powers Delta&amp;#39;s integrated peer-to-peer #webxdc realtime networking.</title>
+        <link>https://chaos.social/@delta/115034455228384500</link>
+        <guid>https://chaos.social/@delta/115034455228384500</guid>
+        <pubDate>Fri, 15 Aug 2025 19:34:47 +0000</pubDate>
+      </item><item>
         <title>As with the demise of windows10, various meta happenings around Whatsapp open possibilities to welcome refugees. Instead of blaming them for not having had whatever insights earlier, there are often just very practical questions where a helping hand does wonders. Offering help instead of trying to convince. Currently many companies are giving win11-incompatible laptops away, often powerful systems that deserve upgrading to Linux, and then donating then. It also helps to counter hardware waste.</title>
         <link>https://chaos.social/@delta/115034371170940556</link>
         <guid>https://chaos.social/@delta/115034371170940556</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114759976049535211</link>
         <guid>https://chaos.social/@delta/114759976049535211</guid>
         <pubDate>Sat, 28 Jun 2025 08:11:07 +0000</pubDate>
-      </item><item>
-        <title>#DeltaChat evolved according to needs of people under repression and continues to do so. The more ignorant and exchangeable we make #chatmail relays, the less their operators have to worry. Having metadata-less, fast and cheap instant messaging relays, that can also operate when 99% of the Internet vanishes in a region, is a key goal. Some way to go still but, already now, is there any other real-world solution that provides better service in internet-repressed regions in 2025?</title>
-        <link>https://chaos.social/@delta/114754731682808148</link>
-        <guid>https://chaos.social/@delta/114754731682808148</guid>
-        <pubDate>Fri, 27 Jun 2025 09:57:24 +0000</pubDate>
       </item>
   </channel>
 </rss>
