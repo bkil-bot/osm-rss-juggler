@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: osminng Discussion Comment No.: 1 Comment: Dear mapperue, It was just noticed that you recently edited the city of Tatabánya in Hungary for its boundaries. With this changeset (osm.org/changeset/169721948), you accidentally (?) removed the routing attributes of several streets: e.g. osm.org/way/101821202/history/5 vs. osm.org/way/101821202/history/6 Or you duplicated “Fürdő utca” osm.org/way/101824207 (added by you) vs. osm.org/way/1418255864 Please check back this complete changeset, and for each road you edited, restore the routing attributes that were accidentally deleted. Date: 2025-08-18T06:03:57+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/169721948</link>
+        <guid>https://www.openstreetmap.org/changeset/169721948#comment_1</guid>
+        <pubDate>2025-08-18T06:03:57+02:00</pubDate>
+      </item><item>
         <title>Contributor: osminng Discussion Comment No.: 3 Comment: https://www.openstreetmap.org/changeset/170563509 keretében történt a visszaállítás Date: 2025-08-17T12:18:12+02:00</title>
         <link>https://www.openstreetmap.org/changeset/170416808</link>
         <guid>https://www.openstreetmap.org/changeset/170416808#comment_3</guid>
