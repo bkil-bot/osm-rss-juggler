@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: itamas80 Discussion Comment No.: 2 Comment: Szia! Fényképeim vannak, amin látszik a metró nyomvonala. Ezen kívül a mertos.hu oldalon lévő adatokkal is próbálom összehozni, a vágánytengely-távolság ezen a szakaszon 25-26 méter körüli. https://metros.hu/html_php/articles_budapest_m3_metro_characteristics.php Date: 2025-08-19T12:51:48+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/169320498</link>
+        <guid>https://www.openstreetmap.org/changeset/169320498#comment_2</guid>
+        <pubDate>2025-08-19T12:51:48+02:00</pubDate>
+      </item><item>
         <title>Contributor: vaandor Discussion Comment No.: 1 Comment: Szia! Látom, használhatóvá tetted a csomóponton átmenő útszakaszt. De ha a körforgalomból induló felhajtóág &quot;Acces=no&quot;, és a délebbi terelőút is kikerült a rendszerből, akkor jelenleg merre halad a főút forgalma Kenderesről Budapest fele? Date: 2025-08-19T11:56:37+02:00</title>
         <link>https://www.openstreetmap.org/changeset/169674285</link>
         <guid>https://www.openstreetmap.org/changeset/169674285#comment_1</guid>
@@ -68,20 +73,10 @@
         <guid>https://www.openstreetmap.org/changeset/170414491#comment_1</guid>
         <pubDate>2025-08-14T06:37:29+02:00</pubDate>
       </item><item>
-        <title>Contributor: gymate Discussion Comment No.: 1 Comment: Szia! Mi ezeknek a módosításoknak a forrása? Date: 2025-08-13T09:08:45+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/169320498</link>
-        <guid>https://www.openstreetmap.org/changeset/169320498#comment_1</guid>
-        <pubDate>2025-08-13T09:08:45+02:00</pubDate>
-      </item><item>
         <title>Contributor: Nakaner-repair Discussion Comment No.: 2 Comment: This changeset has been reverted fully or in part by changeset 170348716 where the changeset comment is: Revert all changesets by Rostas Krisztian: low-quality edits by MAPS.ME, see https://community.openstreetmap.org/t/134066 Date: 2025-08-12T15:43:40+02:00</title>
         <link>https://www.openstreetmap.org/changeset/167586928</link>
         <guid>https://www.openstreetmap.org/changeset/167586928#comment_2</guid>
         <pubDate>2025-08-12T15:43:40+02:00</pubDate>
-      </item><item>
-        <title>Contributor: urbalazs Discussion Comment No.: 2 Comment: Hello! I removed `source:maxspeed=practical` and try to describe the state of the street with other tags. Thanks for pointing this out! Date: 2025-08-12T15:18:11+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/125248093</link>
-        <guid>https://www.openstreetmap.org/changeset/125248093#comment_2</guid>
-        <pubDate>2025-08-12T15:18:11+02:00</pubDate>
       </item>
   </channel>
 </rss>
