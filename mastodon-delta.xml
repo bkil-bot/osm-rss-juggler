@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>#Whatsapp on #iOS had a severe 0day that was exploited in the wild for some months, and is fixed with august 20th releases https://hackread.com/whatsapp-0-day-exploit-attack-targeted-ios-macos-users/ Last year #signal also had its multi-device functionality exploited in the wild. https://thehackernews.com/2025/02/hackers-exploit-signals-linked-devices.html FWIW #deltachat has a dumber multi-device sync model, no device linking, depends on being in the same WiFI for setup (therefore no easy remote exploits), and #OpenPGP signatures and verification for ongoing usage (like all other E2EE messages).</title>
+        <link>https://chaos.social/@delta/115135425635877989</link>
+        <guid>https://chaos.social/@delta/115135425635877989</guid>
+        <pubDate>Tue, 02 Sep 2025 15:32:53 +0000</pubDate>
+      </item><item>
         <title>While most of the feedback on the #deltachat V2 releases has been positive, some users sense a de-prioritization of &amp;quot;classic unencrypted email&amp;quot; usage. Indeed the current dozen or so contributors aim to evolve an exceptionally resilient and versatile private messenger app suite, with end-to-end encryption the primary focus and design foundation. However, we would support friendly forkers to develop a classic e-mail focused app suite -- say &amp;quot;deltamail&amp;quot; (work title). What do you think? Nah, just use Thunderbird and call it a day Yes, deltamail apps on all platforms please! Give up messenger effort, focus on classic email Something else (feel free to reply)</title>
         <link>https://chaos.social/@delta/115134176517561167</link>
         <guid>https://chaos.social/@delta/115134176517561167</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114801663752313092</link>
         <guid>https://chaos.social/@delta/114801663752313092</guid>
         <pubDate>Sat, 05 Jul 2025 16:52:51 +0000</pubDate>
-      </item><item>
-        <title>Two of our teams just gave talks at the @passthesaltcon 2025 conference in Lille: @Xeniax tells the story of &amp;quot;federated messaging&amp;quot; waves and her usable security research, emphasizing &amp;quot;availability&amp;quot; as a key issue https://passthesalt.ubicast.tv/videos/always-more-secure-analyzing-user-migrations-to-federated-e2ee-messaging-apps-trimmed/ -- @hpk starts off with prioritizing usable security and walks through #chatmail transport layer security goals and #deltachat end-point security status, upcoming releases and prospective work on improving metadata and other goals https://passthesalt.ubicast.tv/videos/usable-end-to-end-security-with-delta-chat-and-chatmail/ Screenshot of Ksenia starting her &quot;Always more secure talk&quot; screenshot of talk on &quot;Usable end-to-end security with Delta Chat and Chatmail&quot;. Slides are at https://merlinux.eu/x/pts25/slides.html</title>
-        <link>https://chaos.social/@delta/114794093068029745</link>
-        <guid>https://chaos.social/@delta/114794093068029745</guid>
-        <pubDate>Fri, 04 Jul 2025 08:47:31 +0000</pubDate>
       </item>
   </channel>
 </rss>
