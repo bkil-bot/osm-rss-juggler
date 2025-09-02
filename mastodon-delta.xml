@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>While most of the feedback on the #deltachat V2 releases has been positive, some users sense a de-prioritization of &amp;quot;classic unencrypted email&amp;quot; usage. Indeed the current dozen or so contributors aim to evolve an exceptionally resilient and versatile private messenger app suite, with end-to-end encryption the primary focus and design foundation. However, we would support friendly forkers to develop a classic e-mail focused app suite -- say &amp;quot;deltamail&amp;quot; (work title). What do you think? Nah, just use Thunderbird and call it a day Yes, deltamail apps on all platforms please! Give up messenger effort, focus on classic email Something else (feel free to reply)</title>
+        <link>https://chaos.social/@delta/115134176517561167</link>
+        <guid>https://chaos.social/@delta/115134176517561167</guid>
+        <pubDate>Tue, 02 Sep 2025 10:15:13 +0000</pubDate>
+      </item><item>
         <title>As far as we know #deltachat supports the widest range of old mobile devices. And it&amp;#39;s real often hard work to achieve that. For example, on android three (!) rust/networking experts needed to huddle for many days to sort out &amp;quot;how to get own device IP addresses&amp;quot;. They ended up implementing several mechanisns suitable for respective android versions. It became part of the @n0iroh network rust stack that powers Delta&amp;#39;s integrated peer-to-peer #webxdc realtime networking.</title>
         <link>https://chaos.social/@delta/115034455228384500</link>
         <guid>https://chaos.social/@delta/115034455228384500</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114794093068029745</link>
         <guid>https://chaos.social/@delta/114794093068029745</guid>
         <pubDate>Fri, 04 Jul 2025 08:47:31 +0000</pubDate>
-      </item><item>
-        <title>Internet fragmentation is real in many countries and regions today but did you know that this &amp;quot;Sometimes-Internet&amp;quot; was the reality of the 1980ties when #email evolved? #chatmail relays are cheap, secure, fast, ephemeral and resilient server setups for the growing Sometimes-Internet, using cryptography for planetary-scale interop: - E2EE-only, strict TLS+DKIM - no spam-check magic - delay/cut-off tolerant - messages removed after download - addresses removed if stale - push notifications Chatmail logo ... The classical &quot;@&quot; sign but with a slight chat bubble on the lower left https://chatmail.at</title>
-        <link>https://chaos.social/@delta/114759976049535211</link>
-        <guid>https://chaos.social/@delta/114759976049535211</guid>
-        <pubDate>Sat, 28 Jun 2025 08:11:07 +0000</pubDate>
       </item>
   </channel>
 </rss>
