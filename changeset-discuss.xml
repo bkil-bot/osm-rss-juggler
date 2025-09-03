@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: GBAB Discussion Comment No.: 2 Comment: Szia! Igen, átnéztem őket, de egykönnyen lehet, hogy attól még itt-ott figyelmetlen voltam. A futópályákkal mindig bizonytalan vagyok, s ez most sem változott: mikor area=yes, mikor =no?... Ugyanígy a footway-ek is; valószínűleg ezért nem is vettem le egyiket sem, mert nem tudom, mi lenne a helyes. (Ha egyáltalán van olyan, hogy „helyes”.) Az access=yes szerintem általában alapértelmezett, s mint ilyen ritkán érdemes kifejezetten kiírni; inkább a különféle korlátozásokat célszerű kiemelni. Üdv Gábor Date: 2025-09-03T13:57:49+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/170934235</link>
+        <guid>https://www.openstreetmap.org/changeset/170934235#comment_2</guid>
+        <pubDate>2025-09-03T13:57:49+02:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Honnan tudod, hogy melyik nem létezik? Date: 2025-09-03T09:09:10+02:00</title>
         <link>https://www.openstreetmap.org/changeset/170931651</link>
         <guid>https://www.openstreetmap.org/changeset/170931651#comment_1</guid>
         <pubDate>2025-09-03T09:09:10+02:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Átnézted ezeket egyesével? Itt valami félrement, vagy eredetileg is rossz volt, de a te szerkesztésed se segített neki: https://www.openstreetmap.org/way/637312769 meg a pálya túloldalán is: https://www.openstreetmap.org/way/667341365 access=yes-t is leszedtél néhány helyről, azt nem kéne, hasznos információ, pl StreetComplete feladat is van hozzá (Mindenki számára nyitott ez a játszótér? vagy valami hasonló) https://www.openstreetmap.org/way/1416019225 area:highway=footway illetve highway=footway + area=yes jelentése hasonló, de nem kéne mindkettőnek ugyanazon az elemen lennie. Szerintem itt az utóbbi a helyes. Date: 2025-09-03T09:03:46+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/170934235</link>
-        <guid>https://www.openstreetmap.org/changeset/170934235#comment_1</guid>
-        <pubDate>2025-09-03T09:03:46+02:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Milyen tábla szerepel ezen az úton? Itt összeszedtük melyik fajta behajtani tilost hogyan kell címkézni: https://wiki.openstreetmap.org/wiki/Hungary/Közúti_jelzőtáblák#Behajtási_korlátozások Illetve attól még, hogy nem hajthat be személyautó és motor (ezt jelenti amit címkéztél) a másik két címke érvényes lehet. Miért törölted a tracktype és width címkéket? Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség#Elérhetőségek További jó térképezést! Date: 2025-09-03T08:52:38+02:00</title>
         <link>https://www.openstreetmap.org/changeset/170963705</link>
