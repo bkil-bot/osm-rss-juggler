@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: GBAB Discussion Comment No.: 2 Comment: Szia! Igen, átnéztem őket, de egykönnyen lehet, hogy attól még itt-ott figyelmetlen voltam. A futópályákkal mindig bizonytalan vagyok, s ez most sem változott: mikor area=yes, mikor =no?... Ugyanígy a footway-ek is; valószínűleg ezért nem is vettem le egyiket sem, mert nem tudom, mi lenne a helyes. (Ha egyáltalán van olyan, hogy „helyes”.) Az access=yes szerintem általában alapértelmezett, s mint ilyen ritkán érdemes kifejezetten kiírni; inkább a különféle korlátozásokat célszerű kiemelni. Üdv Gábor Date: 2025-09-03T13:57:49+02:00</title>
+        <title>Contributor: infeeeee Discussion Comment No.: 3 Comment: Visszaraktam az access-eket. Néhol a StretComplete rakta rá a címkét, ne dolgozzunk az automatizmusok ellen. Pasaréti pályára nem kellett volna semmi, az egy multipoligon eleme csak, leszedtem mindent. www.openstreetmap.org/changeset/171441615 Date: 2025-09-04T09:12:35+02:00</title>
         <link>https://www.openstreetmap.org/changeset/170934235</link>
-        <guid>https://www.openstreetmap.org/changeset/170934235#comment_2</guid>
-        <pubDate>2025-09-03T13:57:49+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/170934235#comment_3</guid>
+        <pubDate>2025-09-04T09:12:35+02:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Honnan tudod, hogy melyik nem létezik? Date: 2025-09-03T09:09:10+02:00</title>
         <link>https://www.openstreetmap.org/changeset/170931651</link>
@@ -107,16 +107,6 @@
         <link>https://www.openstreetmap.org/changeset/170488069</link>
         <guid>https://www.openstreetmap.org/changeset/170488069#comment_1</guid>
         <pubDate>2025-08-28T11:35:06+02:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 3 Comment: @user_5359: I removed the wrong tag. Wiki clearly says we shouldn't tag assistance dogs, as they can go anywhere, same rules apply to them as humans: https://wiki.openstreetmap.org/wiki/Key:dog#Assistance_dogs Date: 2025-08-28T11:16:27+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/170613305</link>
-        <guid>https://www.openstreetmap.org/changeset/170613305#comment_3</guid>
-        <pubDate>2025-08-28T11:16:27+02:00</pubDate>
-      </item><item>
-        <title>Contributor: Fiorentina Discussion Comment No.: 3 Comment: Szia! Hamarosan cserélve lesz az összes az új címkére és eltűnnek a felesleges bb365 címkék. Date: 2025-08-28T10:38:49+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/170673201</link>
-        <guid>https://www.openstreetmap.org/changeset/170673201#comment_3</guid>
-        <pubDate>2025-08-28T10:38:49+02:00</pubDate>
       </item>
   </channel>
 </rss>
