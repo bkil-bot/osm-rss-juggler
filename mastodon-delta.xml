@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Sometimes we are surprised ourselves how well everything works :) - cross-platform #deltachat releases every 2-3 months, with a focus on never breaking the world despite significant underlying changes - many #chatmail relays humming along, including the default onboarding one serving 230K monthly users with ~0 admin hours needed -lively and sometimes controversial discussions among the diverse dozen core contributors, with an evolving shared vision, both short and long term Toi Toi Toi</title>
+        <link>https://chaos.social/@delta/115152088848108166</link>
+        <guid>https://chaos.social/@delta/115152088848108166</guid>
+        <pubDate>Fri, 05 Sep 2025 14:10:33 +0000</pubDate>
+      </item><item>
         <title>#Whatsapp on #iOS had a severe 0day that was exploited in the wild for some months, and is fixed with august 20th releases https://hackread.com/whatsapp-0-day-exploit-attack-targeted-ios-macos-users/ Last year #signal also had its multi-device functionality exploited in the wild. https://thehackernews.com/2025/02/hackers-exploit-signals-linked-devices.html FWIW #deltachat has a dumber multi-device sync model, no device linking, depends on being in the same WiFI for setup (therefore no easy remote exploits), and #OpenPGP signatures and verification for ongoing usage (like all other E2EE messages).</title>
         <link>https://chaos.social/@delta/115135425635877989</link>
         <guid>https://chaos.social/@delta/115135425635877989</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114825382339815737</link>
         <guid>https://chaos.social/@delta/114825382339815737</guid>
         <pubDate>Wed, 09 Jul 2025 21:24:48 +0000</pubDate>
-      </item><item>
-        <title>Tomorrow at #CFC25 there are two sessions about #DeltaChat: How to set up a #chatmail relay server, an easy way to make your first timid steps with server administration: https://pretalx.c3voc.de/chaos-feminist-convention-2025/talk/TWRT8X/ And an overview on #webxdc apps, and how they bring back computing to your social context, locking out the tracking companies: https://pretalx.c3voc.de/chaos-feminist-convention-2025/talk/9VMYAJ/ The webxdc talk will also be streamed, if you want to join remotely :)</title>
-        <link>https://chaos.social/@delta/114801663752313092</link>
-        <guid>https://chaos.social/@delta/114801663752313092</guid>
-        <pubDate>Sat, 05 Jul 2025 16:52:51 +0000</pubDate>
       </item>
   </channel>
 </rss>
