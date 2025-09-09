@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Woah! Only now did we discover a great blog post from @wq who discusses the progression from hosting a #Matrix , a #Snikket and a #SimpleX server, to now running a #chatmail relay https://runtimeterror.dev/self-hosted-chatmail-relay-for-delta-chat/ It&amp;#39;s an excellent read, with lots of good advise, including having a public &amp;quot;hello&amp;quot; profile and another unpublished chat profile for private chatting. #deltachat apps have pervasive multi-profile support (and multi-device support) so it&amp;#39;s pretty easy to establish such a two-profile setup.</title>
+        <link>https://chaos.social/@delta/115176592923887169</link>
+        <guid>https://chaos.social/@delta/115176592923887169</guid>
+        <pubDate>Tue, 09 Sep 2025 22:02:16 +0000</pubDate>
+      </item><item>
         <title>#deltachat is being used in virtually all world regions where one or more other messengers fail to work. We recently released a major milestone (V2 security hardening releases) that prepared the ground for chat profiles to have multiple #chatmail relays at once ... failure or blocking of a single relay would not disrupt chatting anymore. But multi transport also helps with the &amp;quot;centralization problem in decentralized systems&amp;quot; ... https://delta.chat/en/2025-06-04-surge-donations#funding-for-a-globally-scaled-chatmail-relay-network (Funding is looking good currently btw!)</title>
         <link>https://chaos.social/@delta/115170821538800260</link>
         <guid>https://chaos.social/@delta/115170821538800260</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114970861526411745</link>
         <guid>https://chaos.social/@delta/114970861526411745</guid>
         <pubDate>Mon, 04 Aug 2025 14:02:04 +0000</pubDate>
-      </item><item>
-        <title>Amount of hours spent to keep a default #chatmail onboarding relay with 500k active addresses running: near zero. Glancing at stats sometimes: two million messages per day. CPU and IO load at 20% max. 500gb raid1 ssd meandering around 60 percent full. There is room for various optimizations but no big need currently. end-to-end encryption with metadata minimization is best if servers are boring. No clustering or enterprise license needed, no &amp;quot;SRE team&amp;quot; either. https://github.com/chatmail/relay/</title>
-        <link>https://chaos.social/@delta/114913609508692996</link>
-        <guid>https://chaos.social/@delta/114913609508692996</guid>
-        <pubDate>Fri, 25 Jul 2025 11:22:07 +0000</pubDate>
       </item>
   </channel>
 </rss>
