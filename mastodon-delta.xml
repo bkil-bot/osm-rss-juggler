@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Delta Chat is hard to classify when your question is violently binary. Federated or P2P? #deltachat is more P2P than #Briar in that we implement a P2P group model while Briar routes everything through a central administrator who owns the group. E2EE Messenger or e-mail? #chatmail relays are aiming to be like Signal servers in many ways, but are based on IETF standards around TLS, OpenPGP, MIME, SMTP etc., stripping them all down to the core that we actually need. Quite fun :)</title>
+        <link>https://chaos.social/@delta/115191927834938417</link>
+        <guid>https://chaos.social/@delta/115191927834938417</guid>
+        <pubDate>Fri, 12 Sep 2025 15:02:08 +0000</pubDate>
+      </item><item>
         <title>Woah! Only now did we discover a great blog post from @wq who discusses the progression from hosting a #Matrix , a #Snikket and a #SimpleX server, to now running a #chatmail relay https://runtimeterror.dev/self-hosted-chatmail-relay-for-delta-chat/ It&amp;#39;s an excellent read, with lots of good advise, including having a public &amp;quot;hello&amp;quot; profile and another unpublished chat profile for private chatting. #deltachat apps have pervasive multi-profile support (and multi-device support) so it&amp;#39;s pretty easy to establish such a two-profile setup.</title>
         <link>https://chaos.social/@delta/115176592923887169</link>
         <guid>https://chaos.social/@delta/115176592923887169</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114972264530346684</link>
         <guid>https://chaos.social/@delta/114972264530346684</guid>
         <pubDate>Mon, 04 Aug 2025 19:58:52 +0000</pubDate>
-      </item><item>
-        <title>V2 #deltachat is rolling out after weeks of internal testing, a major milestone revising how end-to-end encryption works and bringing more beautiful contact and group profiles, direct access to chat-shared apps in the title bar and a &amp;quot;new email&amp;quot; action with setting a subject for those using a classic server. Best of all, users and developers don&amp;#39;t need to co-ordinate anything for upgrading to V2 despite the massive security rework behind the scenes :) https://delta.chat/en/2025-08-04-encryption-v2</title>
-        <link>https://chaos.social/@delta/114970861526411745</link>
-        <guid>https://chaos.social/@delta/114970861526411745</guid>
-        <pubDate>Mon, 04 Aug 2025 14:02:04 +0000</pubDate>
       </item>
   </channel>
 </rss>
