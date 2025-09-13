@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>What if a state tries to mandate us as #deltachat app devs/distributors to shut down a chat profile? Nothing. It can&amp;#39;t be done. We have no list of chat identities, have no handle or data about them, and don&amp;#39;t mediate the message transfer. However, EU #Chatcontrol politicians and Russian authorities would want us to insert backdoors into our FOSS code. But that is nothing than can happen overnight, and we are fine with friendly forks already. Resilient private internet communication ftw :)</title>
+        <link>https://chaos.social/@delta/115195900699961113</link>
+        <guid>https://chaos.social/@delta/115195900699961113</guid>
+        <pubDate>Sat, 13 Sep 2025 07:52:29 +0000</pubDate>
+      </item><item>
         <title>Delta Chat is hard to classify when your question is violently binary. Federated or P2P? #deltachat is more P2P than #Briar in that we implement a P2P group model while Briar routes everything through a central administrator who owns the group. E2EE Messenger or e-mail? #chatmail relays are aiming to be like Signal servers in many ways, but are based on IETF standards around TLS, OpenPGP, MIME, SMTP etc., stripping them all down to the core that we actually need. Quite fun :)</title>
         <link>https://chaos.social/@delta/115191927834938417</link>
         <guid>https://chaos.social/@delta/115191927834938417</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114986435836527691</link>
         <guid>https://chaos.social/@delta/114986435836527691</guid>
         <pubDate>Thu, 07 Aug 2025 08:02:49 +0000</pubDate>
-      </item><item>
-        <title>Several people noticed and wonder about our new #deltachat version numbering scheme: it changed for all apps! #chatmail Core rust library uses 2.X with incrementing X. And apps use 2.X.Y with Y being a numbered release for a core version. Therefore, any app release embeds the core library version which is helpful for understanding and debugging interoperability issues between clients. Others pointed out this is close to &amp;quot;pride versioning&amp;quot; ... We are fine with that :) https://pridever.org/</title>
-        <link>https://chaos.social/@delta/114972264530346684</link>
-        <guid>https://chaos.social/@delta/114972264530346684</guid>
-        <pubDate>Mon, 04 Aug 2025 19:58:52 +0000</pubDate>
       </item>
   </channel>
 </rss>
