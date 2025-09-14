@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Üdv az OpenStreetMapen! Frissen lebontott épületeket nem jó egyből törölni, ameddig nincs friss műholdkép, amin már látszik, hogy tényleg le lettek bontva. Jöhet utánad egy másik szerkesztő, aki nem tudja, hogy elavult itt az ortofotó, és visszarajzolja. A törlés helyett az életciklus prefixek használata ajánlott ilyenkor, ebben az esetben a building=*-et kell átírni demolished:building=*-ra. https://wiki.openstreetmap.org/wiki/Lifecycle_prefix Ezt javítottam itt: https://www.openstreetmap.org/changeset/171918447 Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség#Elérhetőségek További jó térképezést! Date: 2025-09-14T13:42:03+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/171726720</link>
+        <guid>https://www.openstreetmap.org/changeset/171726720#comment_1</guid>
+        <pubDate>2025-09-14T13:42:03+02:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Üdv az OpenStreetMapen! Az út törlése ilyen esetben nem jó megoldás, mert jöhet utánad valaki, aki visszarajzolja majd műholdképről. Ilyenkor az út magán részére egy access=private címkét kell rakni. Ezt javítottam itt: https://www.openstreetmap.org/changeset/171917387 Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség#Elérhetőségek További jó térképezést! Date: 2025-09-14T13:17:57+02:00</title>
         <link>https://www.openstreetmap.org/changeset/171851674</link>
         <guid>https://www.openstreetmap.org/changeset/171851674#comment_1</guid>
@@ -24,13 +29,13 @@
         <pubDate>2025-09-10T08:31:44+02:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Ezeket miért toltad odébb? gondolom véletlenül. Legközelebb óvatosabban. Visszavonva. https://www.openstreetmap.org/changeset/171707208 Date: 2025-09-09T21:18:30+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/171519071</link>
-        <guid>https://www.openstreetmap.org/changeset/171519071#comment_1</guid>
+        <link>https://www.openstreetmap.org/changeset/171519006</link>
+        <guid>https://www.openstreetmap.org/changeset/171519006#comment_1</guid>
         <pubDate>2025-09-09T21:18:30+02:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Ezeket miért toltad odébb? gondolom véletlenül. Legközelebb óvatosabban. Visszavonva. https://www.openstreetmap.org/changeset/171707208 Date: 2025-09-09T21:18:30+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/171519006</link>
-        <guid>https://www.openstreetmap.org/changeset/171519006#comment_1</guid>
+        <link>https://www.openstreetmap.org/changeset/171519071</link>
+        <guid>https://www.openstreetmap.org/changeset/171519071#comment_1</guid>
         <pubDate>2025-09-09T21:18:30+02:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Ezzel a szerkesztéssel egész Biatorbágyot parkká alakítottad. Legközelebb óvatosabban. Visszavonva. https://www.openstreetmap.org/changeset/171707118 Date: 2025-09-09T21:15:08+02:00</title>
