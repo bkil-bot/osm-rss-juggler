@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: utvonalfelmeresek Discussion Comment No.: 2 Comment: Egy földbe vájt pincehelyiség, amiben lehet hűsölni és vannak benne asztalok: https://panoramax.openstreetmap.fr/?s=fp;s2;pca47f302-0f03-4e24-91c6-e96052195636;c95.00/0.00/30;m17.06/46.828863/17.643178;bs Date: 2025-09-15T20:16:36+02:00</title>
+        <title>Contributor: ITineris Discussion Comment No.: 3 Comment: Köszönöm. Akkor nem natural=cave_entrance, hanem man_made=cellar_entrance. Javítottam. Date: 2025-09-15T20:34:55+02:00</title>
         <link>https://www.openstreetmap.org/changeset/169577590</link>
-        <guid>https://www.openstreetmap.org/changeset/169577590#comment_2</guid>
-        <pubDate>2025-09-15T20:16:36+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/169577590#comment_3</guid>
+        <pubDate>2025-09-15T20:34:55+02:00</pubDate>
       </item><item>
         <title>Contributor: Kovács Ervin Discussion Comment No.: 2 Comment: Oké! Legközelebb így teszek. Az ESRI World felvételen már látszik, hogy nincsenek meg. Date: 2025-09-15T15:25:02+02:00</title>
         <link>https://www.openstreetmap.org/changeset/171726720</link>
@@ -44,13 +44,13 @@
         <pubDate>2025-09-10T08:31:44+02:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Ezeket miért toltad odébb? gondolom véletlenül. Legközelebb óvatosabban. Visszavonva. https://www.openstreetmap.org/changeset/171707208 Date: 2025-09-09T21:18:30+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/171519006</link>
-        <guid>https://www.openstreetmap.org/changeset/171519006#comment_1</guid>
+        <link>https://www.openstreetmap.org/changeset/171519071</link>
+        <guid>https://www.openstreetmap.org/changeset/171519071#comment_1</guid>
         <pubDate>2025-09-09T21:18:30+02:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Ezeket miért toltad odébb? gondolom véletlenül. Legközelebb óvatosabban. Visszavonva. https://www.openstreetmap.org/changeset/171707208 Date: 2025-09-09T21:18:30+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/171519071</link>
-        <guid>https://www.openstreetmap.org/changeset/171519071#comment_1</guid>
+        <link>https://www.openstreetmap.org/changeset/171519006</link>
+        <guid>https://www.openstreetmap.org/changeset/171519006#comment_1</guid>
         <pubDate>2025-09-09T21:18:30+02:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Ezzel a szerkesztéssel egész Biatorbágyot parkká alakítottad. Legközelebb óvatosabban. Visszavonva. https://www.openstreetmap.org/changeset/171707118 Date: 2025-09-09T21:15:08+02:00</title>
@@ -62,11 +62,6 @@
         <link>https://www.openstreetmap.org/changeset/170963705</link>
         <guid>https://www.openstreetmap.org/changeset/170963705#comment_3</guid>
         <pubDate>2025-09-09T20:03:06+02:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 3 Comment: Jelenleg ez a sport=football_tennis a legnépszerűbb címke erre, de használják a sport=futnet-et is páran. Egyik sincs ledokumentálva. &gt; While the term football tennis is still commonly used, the word futnet is being used more as the new international name to reflect the independent nature of this sport which has around 100 years of history and which has its own rules and regulations, governing structures and regular competitions. https://en.wikipedia.org/wiki/Football_tennis Date: 2025-09-08T23:03:27+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/89848071</link>
-        <guid>https://www.openstreetmap.org/changeset/89848071#comment_3</guid>
-        <pubDate>2025-09-08T23:03:27+02:00</pubDate>
       </item>
   </channel>
 </rss>
