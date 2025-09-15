@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>We modify designs to fit real world usage. Sometimes we engage in hundreds of hours of discussion and work just so that something becomes simpler on the surface. Case in point: the recent v2 releases radically simplified end-to-end encryption. No more lock icons or special encryption UI elements because everything is encrypted by default. Even better, the amount of security sensitive code was reduced, making #chatmail code bases easier to audit and maintain.</title>
+        <link>https://chaos.social/@delta/115208836741956594</link>
+        <guid>https://chaos.social/@delta/115208836741956594</guid>
+        <pubDate>Mon, 15 Sep 2025 14:42:17 +0000</pubDate>
+      </item><item>
         <title>What if a state tries to mandate us as #deltachat app devs/distributors to shut down a chat profile? Nothing. It can&amp;#39;t be done. We have no list of chat identities, have no handle or data about them, and don&amp;#39;t mediate the message transfer. However, EU #Chatcontrol politicians and Russian authorities would want us to insert backdoors into our FOSS code. But that is nothing than can happen overnight, and we are fine with friendly forks already. Resilient private internet communication ftw :)</title>
         <link>https://chaos.social/@delta/115195900699961113</link>
         <guid>https://chaos.social/@delta/115195900699961113</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114992376414325688</link>
         <guid>https://chaos.social/@delta/114992376414325688</guid>
         <pubDate>Fri, 08 Aug 2025 09:13:35 +0000</pubDate>
-      </item><item>
-        <title>Signal and Matrix were founded in popular opposition to the email system but End-to-End encrypted instant messaging via emails works now, and reliably, with #deltachat V2 app releases, and with #chatmail relays forming a growing secure email network that minimizes metadata and enforces TLS and E2EE messaging. You can&amp;#39;t really argue with working code, can you? Contrary to popular belief SMTP and DKIM and IMAP are no holy ingredients and can be improved upon btw. See eg https://github.com/chatmail/relay/issues/487 Image of https://testrun.org page that is stable since many years. Title reads &quot;Testrun.org&quot; The substitle reads &quot;experimenting with the future of email&quot; Below the two lines is a collage featuring a dinosaur with an open maw and a zeppelin like flying object making it's way to the open maw. There is a moon like planet on blue background and then the last bottom third part of the A4 graphic shows some admin on a terminal roughly 1980 aesthetics</title>
-        <link>https://chaos.social/@delta/114986435836527691</link>
-        <guid>https://chaos.social/@delta/114986435836527691</guid>
-        <pubDate>Thu, 07 Aug 2025 08:02:49 +0000</pubDate>
       </item>
   </channel>
 </rss>
