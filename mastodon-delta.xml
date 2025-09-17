@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>The problem with #chatcontrol is deep and extremely significant. It would be a paradigm shift that implies state and corporate control of app developers and users, i.e. what you can install on &amp;quot;your&amp;quot; devices. It would empower Google, Apple and Microsoft to increase enclosure even more. Just as with the p2p wealth of good tools two decades ago, e2e tooling would remain available only to small specialist circles. Given authoritarian threats everywhere, #chatcontrol is an exceptionally bad idea.</title>
+        <link>https://chaos.social/@delta/115218560913545708</link>
+        <guid>https://chaos.social/@delta/115218560913545708</guid>
+        <pubDate>Wed, 17 Sep 2025 07:55:17 +0000</pubDate>
+      </item><item>
         <title>We modify designs to fit real world usage. Sometimes we engage in hundreds of hours of discussion and work just so that something becomes simpler on the surface. Case in point: the recent v2 releases radically simplified end-to-end encryption. No more lock icons or special encryption UI elements because everything is encrypted by default. Even better, the amount of security sensitive code was reduced, making #chatmail code bases easier to audit and maintain.</title>
         <link>https://chaos.social/@delta/115208836741956594</link>
         <guid>https://chaos.social/@delta/115208836741956594</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/114998146593742933</link>
         <guid>https://chaos.social/@delta/114998146593742933</guid>
         <pubDate>Sat, 09 Aug 2025 09:41:01 +0000</pubDate>
-      </item><item>
-        <title>Now that @fdroidorg also ships v2 releases, roll out to all platforms is complete 😅 and we are curious. How was your v2 experience so far in relation to end-to-end encryption? v2 rocks, no issues or complaints so far v2 caused en/decryption problems (please reply) didn&amp;#39;t upgrade to v2 yet still holding off on trying delta out</title>
-        <link>https://chaos.social/@delta/114992376414325688</link>
-        <guid>https://chaos.social/@delta/114992376414325688</guid>
-        <pubDate>Fri, 08 Aug 2025 09:13:35 +0000</pubDate>
       </item>
   </channel>
 </rss>
