@@ -2,7 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Change QA (via bkil-bot)</title>
-<item><title>h4rdhelm3t moved place node 244529595 village Somogyszob in changeset 171582321</title><link>https://www.openstreetmap.org/changeset/171582321</link><guid>https://www.openstreetmap.org/changeset/171582321</guid><pubDate>Sun, 07 Sep 2025 12:27:05 +0000</pubDate></item>
 <item><title>NightH moved place node 344923824 hamlet Rudolfmajor in changeset 171916141</title><link>https://www.openstreetmap.org/changeset/171916141</link><guid>https://www.openstreetmap.org/changeset/171916141</guid><pubDate>Sun, 14 Sep 2025 12:47:42 +0000</pubDate></item>
 <item><title>zinderMT moved place node 413917454 village Alsószölnök, 413919925 village Szakonyfalu, 2461321911 hamlet Újbalázsfalva in changeset 171935703</title><link>https://www.openstreetmap.org/changeset/171935703</link><guid>https://www.openstreetmap.org/changeset/171935703</guid><pubDate>Sun, 14 Sep 2025 20:23:21 +0000</pubDate></item>
 <item><title>bkil moved place node 413917454 village Alsószölnök in changeset 171946965</title><link>https://www.openstreetmap.org/changeset/171946965</link><guid>https://www.openstreetmap.org/changeset/171946965</guid><pubDate>Mon, 15 Sep 2025 06:13:03 +0000</pubDate></item>
@@ -12,5 +11,6 @@
 <item><title>bkil moved place node 413942362 village Vasszentmihály in changeset 172002681</title><link>https://www.openstreetmap.org/changeset/172002681</link><guid>https://www.openstreetmap.org/changeset/172002681</guid><pubDate>Tue, 16 Sep 2025 09:03:57 +0000</pubDate></item>
 <item><title>bkil moved place node 413955261 village Rönök in changeset 172003065</title><link>https://www.openstreetmap.org/changeset/172003065</link><guid>https://www.openstreetmap.org/changeset/172003065</guid><pubDate>Tue, 16 Sep 2025 09:11:42 +0000</pubDate></item>
 <item><title>GBAB moved place node 1343921420 village Gencsapáti in changeset 172063877</title><link>https://www.openstreetmap.org/changeset/172063877</link><guid>https://www.openstreetmap.org/changeset/172063877</guid><pubDate>Wed, 17 Sep 2025 13:02:40 +0000</pubDate></item>
+<item><title>zinderMT moved place node 697353517 village Felsőmarác in changeset 172134840</title><link>https://www.openstreetmap.org/changeset/172134840</link><guid>https://www.openstreetmap.org/changeset/172134840</guid><pubDate>Thu, 18 Sep 2025 22:10:59 +0000</pubDate></item>
   </channel>
 </rss>
