@@ -2,7 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Change QA (via bkil-bot)</title>
-<item><title>zinderMT moved place node 413917454 village Alsószölnök, 413919925 village Szakonyfalu, 2461321911 hamlet Újbalázsfalva in changeset 171935703</title><link>https://www.openstreetmap.org/changeset/171935703</link><guid>https://www.openstreetmap.org/changeset/171935703</guid><pubDate>Sun, 14 Sep 2025 20:23:21 +0000</pubDate></item>
 <item><title>bkil moved place node 413917454 village Alsószölnök in changeset 171946965</title><link>https://www.openstreetmap.org/changeset/171946965</link><guid>https://www.openstreetmap.org/changeset/171946965</guid><pubDate>Mon, 15 Sep 2025 06:13:03 +0000</pubDate></item>
 <item><title>zinderMT moved place node 413930880 hamlet Farkasfa, 413948184 village Magyarlak in changeset 171972128</title><link>https://www.openstreetmap.org/changeset/171972128</link><guid>https://www.openstreetmap.org/changeset/171972128</guid><pubDate>Mon, 15 Sep 2025 15:27:10 +0000</pubDate></item>
 <item><title>zinderMT moved place node 413937025 village Csákánydoroszló, 413942072 village Rátót, 413942362 village Vasszentmihály, 413945079 village Nemesmedves, 413955261 village Rönök, 1111394157 hamlet Felsőrönök, 1111394159 hamlet Alsórönök, 6150628028 hamlet Magyarbüks in changeset 171985446</title><link>https://www.openstreetmap.org/changeset/171985446</link><guid>https://www.openstreetmap.org/changeset/171985446</guid><pubDate>Mon, 15 Sep 2025 20:43:57 +0000</pubDate></item>
@@ -12,5 +11,6 @@
 <item><title>GBAB moved place node 1343921420 village Gencsapáti in changeset 172063877</title><link>https://www.openstreetmap.org/changeset/172063877</link><guid>https://www.openstreetmap.org/changeset/172063877</guid><pubDate>Wed, 17 Sep 2025 13:02:40 +0000</pubDate></item>
 <item><title>zinderMT moved place node 697353517 village Felsőmarác in changeset 172134840</title><link>https://www.openstreetmap.org/changeset/172134840</link><guid>https://www.openstreetmap.org/changeset/172134840</guid><pubDate>Thu, 18 Sep 2025 22:10:59 +0000</pubDate></item>
 <item><title>zinderMT moved place node 268197118 village Ják, 413966395 village Pinkamindszent, 413968869 village Szentpéterfa, 413969225 village Harasztifalu in changeset 172135646</title><link>https://www.openstreetmap.org/changeset/172135646</link><guid>https://www.openstreetmap.org/changeset/172135646</guid><pubDate>Thu, 18 Sep 2025 22:54:10 +0000</pubDate></item>
+<item><title>bkil moved place node 268197206 village Egyházasrádóc in changeset 172177907</title><link>https://www.openstreetmap.org/changeset/172177907</link><guid>https://www.openstreetmap.org/changeset/172177907</guid><pubDate>Fri, 19 Sep 2025 18:44:23 +0000</pubDate></item>
   </channel>
 </rss>
