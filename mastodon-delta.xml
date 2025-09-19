@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>It seems there might indeed be a spontaneous talk tonight at 7pm at #datenspuren about #deltachat and #chatmail ... In the big room https://talks.datenspuren.de/ds25/talk/BRKQKM/</title>
+        <link>https://chaos.social/@delta/115231659849529670</link>
+        <guid>https://chaos.social/@delta/115231659849529670</guid>
+        <pubDate>Fri, 19 Sep 2025 15:26:30 +0000</pubDate>
+      </item><item>
         <title>PSA at least one of us is going to be around https://datenspuren.de/2025/ #datenspuren in Dresden this weekend. If you are experienced in #sysops , #email tech or have good #rust experience and general interest in #chatmail (https://chatmail.at ) maybe drop us a DM and let&amp;#39;s meet and chat. Depending on circumstances there might also be spontaneous sessions you could lookout for.</title>
         <link>https://chaos.social/@delta/115225370122841147</link>
         <guid>https://chaos.social/@delta/115225370122841147</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115009187657682809</link>
         <guid>https://chaos.social/@delta/115009187657682809</guid>
         <pubDate>Mon, 11 Aug 2025 08:28:54 +0000</pubDate>
-      </item><item>
-        <title>We do not aim for #deltachat to be another social media app. No #ai summaries or suggestions. No public directory of contacts. No discovery via outside identifiers (mobile phone or email). Just you and your contacts privately messaging, in a solid simple user interface on all platforms. End-to-End encryption enforced on two layers. #chatmail relays know and retain nothing, no content or metadata. #webxdc apps allow for custom interactions on top of chats. Contributors and donations welcome!</title>
-        <link>https://chaos.social/@delta/115008970276615409</link>
-        <guid>https://chaos.social/@delta/115008970276615409</guid>
-        <pubDate>Mon, 11 Aug 2025 07:33:37 +0000</pubDate>
       </item>
   </channel>
 </rss>
