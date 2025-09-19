@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 2 Comment: Javítottam: https://www.openstreetmap.org/changeset/172154171 Date: 2025-09-19T10:23:17+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/171986042</link>
+        <guid>https://www.openstreetmap.org/changeset/171986042#comment_2</guid>
+        <pubDate>2025-09-19T10:23:17+02:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: What was the point of this change, what do you want to map? Reverted because you messed up the road. https://www.openstreetmap.org/changeset/172144972 Date: 2025-09-19T06:57:23+02:00</title>
         <link>https://www.openstreetmap.org/changeset/172069166</link>
         <guid>https://www.openstreetmap.org/changeset/172069166#comment_1</guid>
@@ -12,11 +17,6 @@
         <link>https://www.openstreetmap.org/changeset/172065741</link>
         <guid>https://www.openstreetmap.org/changeset/172065741#comment_1</guid>
         <pubDate>2025-09-18T05:57:45+02:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Facebook oldalak címét nem kell a website mezőben megismételni elég contact:facebook-ban https://wiki.openstreetmap.org/wiki/Key:contact:facebook És kicsit szebben néz ki, ha csak az oldal id-ját írod be, ebben az esetben ezt: 100041814593199 Ezt már az alapértelmezett megjelenítő is kezeli. További jó térképezést! Date: 2025-09-17T10:45:27+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/171986042</link>
-        <guid>https://www.openstreetmap.org/changeset/171986042#comment_1</guid>
-        <pubDate>2025-09-17T10:45:27+02:00</pubDate>
       </item><item>
         <title>Contributor: gymate Discussion Comment No.: 2 Comment: I've reverted them: https://www.openstreetmap.org/changeset/172013870 Date: 2025-09-16T12:55:57+02:00</title>
         <link>https://www.openstreetmap.org/changeset/169880551</link>
@@ -47,11 +47,6 @@
         <link>https://www.openstreetmap.org/changeset/171851674</link>
         <guid>https://www.openstreetmap.org/changeset/171851674#comment_1</guid>
         <pubDate>2025-09-14T13:17:57+02:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 4 Comment: Szia! Kecskehegy városrészhez mi a forrásod? Régi térképeken, helytörténeti oldalakon se látom, hogy tényleg létezne-e ilyen nevű városrész. Palotaújfalunak hívják inkább ezt a részt több helyen: https://bpxv.blog.hu/2012/11/04/ujpalota_pestujhely_rakospalota_sodergodor_ujfalu_benkotelep_lofflertelep_kovacsitelep Ez a jegyzet hívta fel erre a figyelmet: https://www.openstreetmap.org/note/4958255 Date: 2025-09-12T12:23:00+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/75573389</link>
-        <guid>https://www.openstreetmap.org/changeset/75573389#comment_4</guid>
-        <pubDate>2025-09-12T12:23:00+02:00</pubDate>
       </item>
   </channel>
 </rss>
