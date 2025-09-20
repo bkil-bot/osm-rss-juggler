@@ -2,9 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Change QA (via bkil-bot)</title>
-<item><title>Yan_Bakhmat moved place node 18331125 town Komló in changeset 172197675</title><link>https://www.openstreetmap.org/changeset/172197675</link><guid>https://www.openstreetmap.org/changeset/172197675</guid><pubDate>Sat, 20 Sep 2025 09:49:59 +0000</pubDate></item>
-<item><title>Yan_Bakhmat moved place node 287001980 town Baja in changeset 172197726</title><link>https://www.openstreetmap.org/changeset/172197726</link><guid>https://www.openstreetmap.org/changeset/172197726</guid><pubDate>Sat, 20 Sep 2025 09:51:47 +0000</pubDate></item>
-<item><title>Yan_Bakhmat moved place node 287004164 town Kiskunhalas in changeset 172197770</title><link>https://www.openstreetmap.org/changeset/172197770</link><guid>https://www.openstreetmap.org/changeset/172197770</guid><pubDate>Sat, 20 Sep 2025 09:52:48 +0000</pubDate></item>
 <item><title>Yan_Bakhmat moved place node 287005902 town Kiskunfélegyháza in changeset 172197829</title><link>https://www.openstreetmap.org/changeset/172197829</link><guid>https://www.openstreetmap.org/changeset/172197829</guid><pubDate>Sat, 20 Sep 2025 09:53:53 +0000</pubDate></item>
 <item><title>Yan_Bakhmat moved place node 31094677 town Orosháza in changeset 172197932</title><link>https://www.openstreetmap.org/changeset/172197932</link><guid>https://www.openstreetmap.org/changeset/172197932</guid><pubDate>Sat, 20 Sep 2025 09:56:30 +0000</pubDate></item>
 <item><title>Yan_Bakhmat moved place node 268204356 town Hajdúszoboszló in changeset 172198153</title><link>https://www.openstreetmap.org/changeset/172198153</link><guid>https://www.openstreetmap.org/changeset/172198153</guid><pubDate>Sat, 20 Sep 2025 10:01:42 +0000</pubDate></item>
@@ -12,5 +9,8 @@
 <item><title>Yan_Bakhmat moved place node 268215944 town Ózd in changeset 172198323</title><link>https://www.openstreetmap.org/changeset/172198323</link><guid>https://www.openstreetmap.org/changeset/172198323</guid><pubDate>Sat, 20 Sep 2025 10:06:28 +0000</pubDate></item>
 <item><title>Yan_Bakhmat moved place node 84782806 town Cegléd in changeset 172198465</title><link>https://www.openstreetmap.org/changeset/172198465</link><guid>https://www.openstreetmap.org/changeset/172198465</guid><pubDate>Sat, 20 Sep 2025 10:10:37 +0000</pubDate></item>
 <item><title>Yan_Bakhmat moved place node 177532814 town Vác in changeset 172198655</title><link>https://www.openstreetmap.org/changeset/172198655</link><guid>https://www.openstreetmap.org/changeset/172198655</guid><pubDate>Sat, 20 Sep 2025 10:15:45 +0000</pubDate></item>
+<item><title>Yan_Bakhmat moved place node 286200051 town Vecsés in changeset 172198776</title><link>https://www.openstreetmap.org/changeset/172198776</link><guid>https://www.openstreetmap.org/changeset/172198776</guid><pubDate>Sat, 20 Sep 2025 10:19:10 +0000</pubDate></item>
+<item><title>Yan_Bakhmat moved place node 274961269 town Dunaharaszti in changeset 172198898</title><link>https://www.openstreetmap.org/changeset/172198898</link><guid>https://www.openstreetmap.org/changeset/172198898</guid><pubDate>Sat, 20 Sep 2025 10:22:30 +0000</pubDate></item>
+<item><title>Yan_Bakhmat moved place node 274961265 town Szigetszentmiklós in changeset 172199190</title><link>https://www.openstreetmap.org/changeset/172199190</link><guid>https://www.openstreetmap.org/changeset/172199190</guid><pubDate>Sat, 20 Sep 2025 10:31:19 +0000</pubDate></item>
   </channel>
 </rss>
