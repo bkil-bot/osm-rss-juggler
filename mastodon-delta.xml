@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>There now is a recording of the ad-hoc #datenspuren &amp;quot;usable end-to-end&amp;quot; talk from friday evening, german audio only https://app.media.ccc.de/v/ds25-603-usable-end-to-end-security-with-delta-chat-and-chatmail</title>
+        <link>https://chaos.social/@delta/115242795911443495</link>
+        <guid>https://chaos.social/@delta/115242795911443495</guid>
+        <pubDate>Sun, 21 Sep 2025 14:38:33 +0000</pubDate>
+      </item><item>
         <title>It seems there might indeed be a spontaneous talk tonight at 7pm at #datenspuren about #deltachat and #chatmail ... In the big room https://talks.datenspuren.de/ds25/talk/BRKQKM/</title>
         <link>https://chaos.social/@delta/115231659849529670</link>
         <guid>https://chaos.social/@delta/115231659849529670</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115009306502201783</link>
         <guid>https://chaos.social/@delta/115009306502201783</guid>
         <pubDate>Mon, 11 Aug 2025 08:59:08 +0000</pubDate>
-      </item><item>
-        <title>@kleines_z today, there are larger groups (sometimes 100+ members) but both due to legal and economic reasons we do not emphasize or recommend this usage because moderation tooling is lacking. Also the most severe problems come from admins disagreeing or going to war with each other. Technically fixing this is tricky or impossible. It&amp;#39;s not unlikely we will engage in improving mod tooling in the next year and are in fact eying a massively scaling admin-controlled encrypted channel feature.</title>
-        <link>https://chaos.social/@delta/115009187657682809</link>
-        <guid>https://chaos.social/@delta/115009187657682809</guid>
-        <pubDate>Mon, 11 Aug 2025 08:28:54 +0000</pubDate>
       </item>
   </channel>
 </rss>
