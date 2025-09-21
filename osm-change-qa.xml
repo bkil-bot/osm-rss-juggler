@@ -2,7 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Change QA (via bkil-bot)</title>
-<item><title>Yan_Bakhmat moved place node 287005902 town Kiskunfélegyháza in changeset 172197829</title><link>https://www.openstreetmap.org/changeset/172197829</link><guid>https://www.openstreetmap.org/changeset/172197829</guid><pubDate>Sat, 20 Sep 2025 09:53:53 +0000</pubDate></item>
 <item><title>Yan_Bakhmat moved place node 31094677 town Orosháza in changeset 172197932</title><link>https://www.openstreetmap.org/changeset/172197932</link><guid>https://www.openstreetmap.org/changeset/172197932</guid><pubDate>Sat, 20 Sep 2025 09:56:30 +0000</pubDate></item>
 <item><title>Yan_Bakhmat moved place node 268204356 town Hajdúszoboszló in changeset 172198153</title><link>https://www.openstreetmap.org/changeset/172198153</link><guid>https://www.openstreetmap.org/changeset/172198153</guid><pubDate>Sat, 20 Sep 2025 10:01:42 +0000</pubDate></item>
 <item><title>Yan_Bakhmat moved place node 286968025 town Hajdúböszörmény in changeset 172198199</title><link>https://www.openstreetmap.org/changeset/172198199</link><guid>https://www.openstreetmap.org/changeset/172198199</guid><pubDate>Sat, 20 Sep 2025 10:02:55 +0000</pubDate></item>
@@ -12,5 +11,6 @@
 <item><title>Yan_Bakhmat moved place node 286200051 town Vecsés in changeset 172198776</title><link>https://www.openstreetmap.org/changeset/172198776</link><guid>https://www.openstreetmap.org/changeset/172198776</guid><pubDate>Sat, 20 Sep 2025 10:19:10 +0000</pubDate></item>
 <item><title>Yan_Bakhmat moved place node 274961269 town Dunaharaszti in changeset 172198898</title><link>https://www.openstreetmap.org/changeset/172198898</link><guid>https://www.openstreetmap.org/changeset/172198898</guid><pubDate>Sat, 20 Sep 2025 10:22:30 +0000</pubDate></item>
 <item><title>Yan_Bakhmat moved place node 274961265 town Szigetszentmiklós in changeset 172199190</title><link>https://www.openstreetmap.org/changeset/172199190</link><guid>https://www.openstreetmap.org/changeset/172199190</guid><pubDate>Sat, 20 Sep 2025 10:31:19 +0000</pubDate></item>
+<item><title>bkil moved place node 274961269 town Dunaharaszti in changeset 172240534</title><link>https://www.openstreetmap.org/changeset/172240534</link><guid>https://www.openstreetmap.org/changeset/172240534</guid><pubDate>Sun, 21 Sep 2025 11:23:17 +0000</pubDate></item>
   </channel>
 </rss>
