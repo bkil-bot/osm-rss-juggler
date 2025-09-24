@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>PSA the last couple of hours the default #chatmail onboarding relay nine.testrun.org was sometimes slow taking ~10 seconds to accept and relay messages. It&amp;#39;s now back to sub-second end-to-end delivery, after tweaking some connection limit. As is often the case, #postfix has all the needed config parameters already, and it&amp;#39;s well documented how to tweak them, and nothing really breaks meanwhile, it only gets a bit bumpy or delayed at worst. It pays off not implementing our own server software :)</title>
+        <link>https://chaos.social/@delta/115260028729298825</link>
+        <guid>https://chaos.social/@delta/115260028729298825</guid>
+        <pubDate>Wed, 24 Sep 2025 15:41:05 +0000</pubDate>
+      </item><item>
         <title>#chatcontrol is a giant legal-technical quagmire and would erode privacy in times where we most need it. But let&amp;#39;s talk about protecting children ... what chatcontrol claims to be about: First, it&amp;#39;s unproven that chatcontrol would help lower actual abuses. Second, why not spend the many EU millions that go into busying politicians, developers, lawyers and orgs into hiring social workers? They could directly act on the huge backlog of _reported known_ child abuse cases. That definitely helps.</title>
         <link>https://chaos.social/@delta/115249150179728358</link>
         <guid>https://chaos.social/@delta/115249150179728358</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115020251469834306</link>
         <guid>https://chaos.social/@delta/115020251469834306</guid>
         <pubDate>Wed, 13 Aug 2025 07:22:35 +0000</pubDate>
-      </item><item>
-        <title>We are impressed with the new https://fightchatcontrol.eu/ website, and the way it provides all the info needed to engage in distributed diverse action to prevent the EU from preparing the ground for, or sliding into, authoritarianism by breaking end-to-end encryption for everyone. Germany and France are particularly important to engage with and we&amp;#39;ll see what we can do from our circles. We don&amp;#39;t know the people behind @chatcontrol but big kudos! #chatcontrol</title>
-        <link>https://chaos.social/@delta/115009660667756004</link>
-        <guid>https://chaos.social/@delta/115009660667756004</guid>
-        <pubDate>Mon, 11 Aug 2025 10:29:12 +0000</pubDate>
       </item>
   </channel>
 </rss>
