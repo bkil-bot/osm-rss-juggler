@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>While #chatcontrol poses an existential threat to the Freiburg merlinux GmbH and distributing #deltachat apps from within the EU to all stores worldwide, it would resist any chatcontrol legislation up to the German constitutional and EuGH courts. If the EU based company would need to fold in a few years, there would likely be forks distributed outside the EU that will *seamlessly* continue to function. Our architecture and FOSS licensing makes sure of it. See also https://chaos.social/@delta/113417740762852318</title>
+        <link>https://chaos.social/@delta/115298711718920040</link>
+        <guid>https://chaos.social/@delta/115298711718920040</guid>
+        <pubDate>Wed, 01 Oct 2025 11:38:41 +0000</pubDate>
+      </item><item>
         <title>PSA the last couple of hours the default #chatmail onboarding relay nine.testrun.org was sometimes slow taking ~10 seconds to accept and relay messages. It&amp;#39;s now back to sub-second end-to-end delivery, after tweaking some connection limit. As is often the case, #postfix has all the needed config parameters already, and it&amp;#39;s well documented how to tweak them, and nothing really breaks meanwhile, it only gets a bit bumpy or delayed at worst. It pays off not implementing our own server software :)</title>
         <link>https://chaos.social/@delta/115260028729298825</link>
         <guid>https://chaos.social/@delta/115260028729298825</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115021869033243466</link>
         <guid>https://chaos.social/@delta/115021869033243466</guid>
         <pubDate>Wed, 13 Aug 2025 14:13:57 +0000</pubDate>
-      </item><item>
-        <title>The UK&amp;#39;s national drought group is falling ridiculously short when recommending to delete old emails. How about - stop building any new data centers, progressively tax on their size and resource consumption, no free riding - legislatively focus on software to become more resource efficient (hint: AI hurts not helps with that) In any case, #chatmail relays unconditionally remove emails, no user action needed. Everything interesting happens on end devices see https://en.reset.org/decentralised-efficient-without-being-addictive-delta-chat-is-our-favourite-instant-messenger/</title>
-        <link>https://chaos.social/@delta/115020251469834306</link>
-        <guid>https://chaos.social/@delta/115020251469834306</guid>
-        <pubDate>Wed, 13 Aug 2025 07:22:35 +0000</pubDate>
       </item>
   </channel>
 </rss>
