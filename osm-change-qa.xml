@@ -2,7 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Change QA (via bkil-bot)</title>
-<item><title>zinderMT moved place node 286203307 town Pécel, 724901561 village Mende in changeset 172619118</title><link>https://www.openstreetmap.org/changeset/172619118</link><guid>https://www.openstreetmap.org/changeset/172619118</guid><pubDate>Mon, 29 Sep 2025 15:27:41 +0000</pubDate></item>
 <item><title>bkil moved place node 724901561 village Mende in changeset 172625031</title><link>https://www.openstreetmap.org/changeset/172625031</link><guid>https://www.openstreetmap.org/changeset/172625031</guid><pubDate>Mon, 29 Sep 2025 17:41:22 +0000</pubDate></item>
 <item><title>zinderMT moved place node 286200348 town Üllő, 718510638 village Bénye, 724901563 village Gomba, 1535667627 village Péteri, 1673915113 village Monorierdő in changeset 172630453</title><link>https://www.openstreetmap.org/changeset/172630453</link><guid>https://www.openstreetmap.org/changeset/172630453</guid><pubDate>Mon, 29 Sep 2025 20:07:45 +0000</pubDate></item>
 <item><title>vakulya moved place node 1362468924 hamlet Nagylapos in changeset 172630900</title><link>https://www.openstreetmap.org/changeset/172630900</link><guid>https://www.openstreetmap.org/changeset/172630900</guid><pubDate>Mon, 29 Sep 2025 20:19:17 +0000</pubDate></item>
@@ -12,5 +11,6 @@
 <item><title>bkil moved place node 1673915113 village Monorierdő in changeset 172645825</title><link>https://www.openstreetmap.org/changeset/172645825</link><guid>https://www.openstreetmap.org/changeset/172645825</guid><pubDate>Tue, 30 Sep 2025 07:10:50 +0000</pubDate></item>
 <item><title>infeeeee moved place node 206318543 village Süttő, 206318984 village Neszmély in changeset 172709846</title><link>https://www.openstreetmap.org/changeset/172709846</link><guid>https://www.openstreetmap.org/changeset/172709846</guid><pubDate>Wed, 01 Oct 2025 14:35:50 +0000</pubDate></item>
 <item><title>bkil moved place node 206318984 village Neszmély in changeset 172714310</title><link>https://www.openstreetmap.org/changeset/172714310</link><guid>https://www.openstreetmap.org/changeset/172714310</guid><pubDate>Wed, 01 Oct 2025 16:18:27 +0000</pubDate></item>
+<item><title>bkil moved place node 287004164 town Kiskunhalas in changeset 172739341</title><link>https://www.openstreetmap.org/changeset/172739341</link><guid>https://www.openstreetmap.org/changeset/172739341</guid><pubDate>Thu, 02 Oct 2025 09:06:49 +0000</pubDate></item>
   </channel>
 </rss>
