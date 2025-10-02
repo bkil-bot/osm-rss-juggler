@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>While classic cleartext email providers, also Thunderbird with its Thundermail efforts, are aiming to be a more trustworthy alternative to Gmail/calendar/drive etc ... #deltachat and #chatmail efforts go all-in on end-to-end encryption and metadata minimization, with decentralized transport relays playing much lesser roles than #Signal&amp;#39;s Amazon/Microsoft/Google servers. At the same time, #webxdc apps provide unprecedented extensibility, eg checkout the great TOTP app https://webxdc.org/apps/#rtn-totp</title>
+        <link>https://chaos.social/@delta/115303494610318793</link>
+        <guid>https://chaos.social/@delta/115303494610318793</guid>
+        <pubDate>Thu, 02 Oct 2025 07:55:02 +0000</pubDate>
+      </item><item>
         <title>While #chatcontrol poses an existential threat to the Freiburg merlinux GmbH and distributing #deltachat apps from within the EU to all stores worldwide, it would resist any chatcontrol legislation up to the German constitutional and EuGH courts. If the EU based company would need to fold in a few years, there would likely be forks distributed outside the EU that will *seamlessly* continue to function. Our architecture and FOSS licensing makes sure of it. See also https://chaos.social/@delta/113417740762852318</title>
         <link>https://chaos.social/@delta/115298711718920040</link>
         <guid>https://chaos.social/@delta/115298711718920040</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115034371170940556</link>
         <guid>https://chaos.social/@delta/115034371170940556</guid>
         <pubDate>Fri, 15 Aug 2025 19:13:24 +0000</pubDate>
-      </item><item>
-        <title>What are the main obstacles for you to adopt usage of #deltachat apps with your families, friends or communities? if you have other issues than the poll options please add to the replies. Oh, and those who are also living through heat waves: stay hydrated, and remind everyone else :) can&amp;#39;t get my folks to install another app lack of audio/video calls lack of Sealed-Sender/PQC/Forward-secrecy haven&amp;#39;t used it (enough) myself yet</title>
-        <link>https://chaos.social/@delta/115021869033243466</link>
-        <guid>https://chaos.social/@delta/115021869033243466</guid>
-        <pubDate>Wed, 13 Aug 2025 14:13:57 +0000</pubDate>
       </item>
   </channel>
 </rss>
