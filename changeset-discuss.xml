@@ -77,11 +77,6 @@
         <link>https://www.openstreetmap.org/changeset/172500106</link>
         <guid>https://www.openstreetmap.org/changeset/172500106#comment_1</guid>
         <pubDate>2025-09-27T19:16:49+02:00</pubDate>
-      </item><item>
-        <title>Contributor: CopperOppositeKindred Discussion Comment No.: 4 Comment: igen, a kérdés nem ez volt, ezt tudom én is. de ezek szerint nem ilyesmiről van szó: https://github.com/streetcomplete/StreetComplete/issues/1579 az app kérdéskategóriánként külön changeset-et készít. a fejlesztő indoklását erre itt olvashatod: https://github.com/streetcomplete/StreetComplete/issues/21#issuecomment-292709936 valóban tök jó lenne ha egy objektum előzményeiben nem lennék ott öt rétegben ugyan abban az időpontban, erre nem tudok megoldást. mások is kérdezték már hogy nem-e lehetne ezt: - https://github.com/streetcomplete/StreetComplete/issues/2498 - https://github.com/streetcomplete/StreetComplete/issues/3096 (itt egy szerkesztő azt állítja hogy neki QA szempontból is egyszerűbb ahogy most van) - https://github.com/streetcomplete/StreetComplete/issues/5260 - https://github.com/streetcomplete/StreetComplete/issues/5785 amit tudok javasolni, hogy még ritkábban töltök fel, mondjuk havonta, vagy sokhavonta, vagy amikor eszembe jut, de abból nagyon nagy területű changeset-ek lehetnek. Date: 2025-09-25T19:21:37+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/172224337</link>
-        <guid>https://www.openstreetmap.org/changeset/172224337#comment_4</guid>
-        <pubDate>2025-09-25T19:21:37+02:00</pubDate>
       </item>
   </channel>
 </rss>
