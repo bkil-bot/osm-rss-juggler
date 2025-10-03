@@ -2,7 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Change QA (via bkil-bot)</title>
-<item><title>vakulya moved place node 1362468924 hamlet Nagylapos in changeset 172630900</title><link>https://www.openstreetmap.org/changeset/172630900</link><guid>https://www.openstreetmap.org/changeset/172630900</guid><pubDate>Mon, 29 Sep 2025 20:19:17 +0000</pubDate></item>
 <item><title>zinderMT moved place node 472221384 village Felsőpakony in changeset 172631298</title><link>https://www.openstreetmap.org/changeset/172631298</link><guid>https://www.openstreetmap.org/changeset/172631298</guid><pubDate>Mon, 29 Sep 2025 20:30:22 +0000</pubDate></item>
 <item><title>bkil moved place node 718510633 village Vasad in changeset 172645163</title><link>https://www.openstreetmap.org/changeset/172645163</link><guid>https://www.openstreetmap.org/changeset/172645163</guid><pubDate>Tue, 30 Sep 2025 06:52:15 +0000</pubDate></item>
 <item><title>bkil moved place node 718510636 village Csévharaszt in changeset 172645606</title><link>https://www.openstreetmap.org/changeset/172645606</link><guid>https://www.openstreetmap.org/changeset/172645606</guid><pubDate>Tue, 30 Sep 2025 07:04:05 +0000</pubDate></item>
@@ -12,5 +11,6 @@
 <item><title>bkil moved place node 287004164 town Kiskunhalas in changeset 172739341</title><link>https://www.openstreetmap.org/changeset/172739341</link><guid>https://www.openstreetmap.org/changeset/172739341</guid><pubDate>Thu, 02 Oct 2025 09:06:49 +0000</pubDate></item>
 <item><title>infeeeee moved place node 206319006 village Dunaszentmiklós in changeset 172747635</title><link>https://www.openstreetmap.org/changeset/172747635</link><guid>https://www.openstreetmap.org/changeset/172747635</guid><pubDate>Thu, 02 Oct 2025 12:46:49 +0000</pubDate></item>
 <item><title>infeeeee moved place node 286130475 town Oroszlány in changeset 172752788</title><link>https://www.openstreetmap.org/changeset/172752788</link><guid>https://www.openstreetmap.org/changeset/172752788</guid><pubDate>Thu, 02 Oct 2025 14:43:59 +0000</pubDate></item>
+<item><title>bkil moved place node 274961265 town Szigetszentmiklós in changeset 172782281</title><link>https://www.openstreetmap.org/changeset/172782281</link><guid>https://www.openstreetmap.org/changeset/172782281</guid><pubDate>Fri, 03 Oct 2025 09:51:19 +0000</pubDate></item>
   </channel>
 </rss>
