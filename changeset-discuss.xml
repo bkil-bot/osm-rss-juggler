@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Az épület &quot;alatt&quot; levő részét az útnak tunnel=building_passage címkével szoktuk jelölni: https://wiki.openstreetmap.org/wiki/Tag:tunnel%3Dbuilding_passage Ugyancsak az útra is rárakhatod az access=customers-t, mint a parkolóra, hogy az útvonaltervezők ne akarjanak bemenni itt. Másik szerkesztésedben leszedted a building=yes-t a hotelről, ilyet ne csinálj. Esetleg kijavíthatod building=hotel-re, de minden épületen lennie kell valami building=*-nak. További jó térképezést! Date: 2025-10-04T19:01:46+02:00</title>
+        <title>Contributor: qstep Discussion Comment No.: 3 Comment: Javítva. Valamint hozzáadtam egy parking_entrance-t a parkoló és az út csatlakozásához mert kaptam egy ilyen hibát a MapWithAI plugintól: &quot;Stub end&quot; - de továbbra is jelzi. Ez mi lehet? Date: 2025-10-04T20:18:33+02:00</title>
         <link>https://www.openstreetmap.org/changeset/172827727</link>
-        <guid>https://www.openstreetmap.org/changeset/172827727#comment_1</guid>
-        <pubDate>2025-10-04T19:01:46+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/172827727#comment_3</guid>
+        <pubDate>2025-10-04T20:18:33+02:00</pubDate>
       </item><item>
         <title>Contributor: ITineris Discussion Comment No.: 4 Comment: Igen. Az előző nagy projektek (mint a közúthálózat) nagyjából elkészültek, így újra ez a fő témám. Néha közbeesik egy teljesen átépített Bosnyák tér, vagy egy nem tervezett baleset+műtétek, de rajta vagyok. Date: 2025-10-03T11:58:04+02:00</title>
         <link>https://www.openstreetmap.org/changeset/136341862</link>
