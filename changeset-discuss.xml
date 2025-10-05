@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Hello! Don't replace wiki* tags, add a new feature instead. Fixed, moved hotel data to a new way here: https://www.openstreetmap.org/changeset/172862137 Date: 2025-10-05T11:15:22+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/172858323</link>
+        <guid>https://www.openstreetmap.org/changeset/172858323#comment_1</guid>
+        <pubDate>2025-10-05T11:15:22+02:00</pubDate>
+      </item><item>
+        <title>Contributor: gabro00 Discussion Comment No.: 1 Comment: Menő! Mindig is ilyen napelemparkokat képzeltem el, nem tudom miért kellett ennyit várni vele :) Date: 2025-10-05T11:01:20+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/172848634</link>
+        <guid>https://www.openstreetmap.org/changeset/172848634#comment_1</guid>
+        <pubDate>2025-10-05T11:01:20+02:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 4 Comment: Nem ismerem azt a plugint, de más validátorokban láttam már ilyet, hogy &quot;Területben végződő út&quot; mint hiba, annak felelhet meg talán. Általában a területként rajzolt parkolókban az utat meg szoktuk rajzolni addig amíg útként értelmezhető, pl mint itt: https://www.openstreetmap.org/way/255736152 A parkolón belüli részre pedig egy highway=service, service=parking_aisle-t rakunk: https://wiki.openstreetmap.org/wiki/Tag:service%3Dparking_aisle Fontos, hogy az útnak mindenképp legyen legalább egy közös pontja a parkolóval, csak folytatódhat tovább is. A parking entrance-t azt elsősorban mélygarázsokhoz, parkolóházakhoz használjuk, nem egyszerű felszíni parkolókhoz: https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dparking_entrance#How_to_map Itt én inkább a sorompót vagy kaput címkézném helyette, ha van: https://wiki.openstreetmap.org/wiki/Tag:barrier%3Dlift_gate https://wiki.openstreetmap.org/wiki/Tag:barrier%3Dgate Date: 2025-10-04T21:13:55+02:00</title>
         <link>https://www.openstreetmap.org/changeset/172827727</link>
         <guid>https://www.openstreetmap.org/changeset/172827727#comment_4</guid>
@@ -72,11 +82,6 @@
         <link>https://www.openstreetmap.org/changeset/172562141</link>
         <guid>https://www.openstreetmap.org/changeset/172562141#comment_1</guid>
         <pubDate>2025-09-28T15:12:20+02:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 2 Comment: Köszi a korrekciót, a jövőben jobban odafigyelek. Date: 2025-09-28T13:20:00+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/172560613</link>
-        <guid>https://www.openstreetmap.org/changeset/172560613#comment_2</guid>
-        <pubDate>2025-09-28T13:20:00+02:00</pubDate>
       </item>
   </channel>
 </rss>
