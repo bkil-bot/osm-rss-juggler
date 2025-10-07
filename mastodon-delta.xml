@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Many thanks to @chatcontrol for helping so much to coordinate and support efforts against chatcontrol! It was exactly the right initiative at the right time. 💜</title>
+        <link>https://chaos.social/@delta/115334411862392136</link>
+        <guid>https://chaos.social/@delta/115334411862392136</guid>
+        <pubDate>Tue, 07 Oct 2025 18:57:42 +0000</pubDate>
+      </item><item>
         <title>Forget warn apps and mobiles: when it comes to neighborhoods there are many non-digital ways to help each other. Without needing permission from billionaires. Whistles! https://blockclubchicago.org/2025/09/17/in-little-village-residents-are-blowing-actual-whistles-to-warn-neighbors-about-ice/</title>
         <link>https://chaos.social/@delta/115317488726971660</link>
         <guid>https://chaos.social/@delta/115317488726971660</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115134176517561167</link>
         <guid>https://chaos.social/@delta/115134176517561167</guid>
         <pubDate>Tue, 02 Sep 2025 10:15:13 +0000</pubDate>
-      </item><item>
-        <title>As far as we know #deltachat supports the widest range of old mobile devices. And it&amp;#39;s real often hard work to achieve that. For example, on android three (!) rust/networking experts needed to huddle for many days to sort out &amp;quot;how to get own device IP addresses&amp;quot;. They ended up implementing several mechanisns suitable for respective android versions. It became part of the @n0iroh network rust stack that powers Delta&amp;#39;s integrated peer-to-peer #webxdc realtime networking.</title>
-        <link>https://chaos.social/@delta/115034455228384500</link>
-        <guid>https://chaos.social/@delta/115034455228384500</guid>
-        <pubDate>Fri, 15 Aug 2025 19:34:47 +0000</pubDate>
       </item>
   </channel>
 </rss>
