@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>What an announcement from #Telegram owner Pawel Durov! To provide just a few critical notes, he - makes believe he is just a commoner, and not the billionaire owner of one of the largest message, media and metadata *cleartext* databases on earth - skips over Global Warming - refers to &amp;quot;fathers and forefathers&amp;quot; of the Internet ... apparently never heard of Radia Perlman, Margaret Hamilton or Ada Lovelace? - conveniently excludes Russia and its authoritarian politics from his critique etc. screenshot of Telegram-owner Pavel Durov's message: &lt; Pavel Durov @ : 10.7M subscribers * I'm turning 41, but | don't feel like celebrating. Our generation is running out of time to save the free Internet built for us by our fathers. What was once the promise of the free exchange of information is being turned into the ultimate tool of control. Once-free countries are introducing dystopian measures such as digital IDs (UK), online age checks (Australia), and mass scanning of private messages (EU). Germany is persecuting anyone who dares to criticize officials on the Internet. The UK is imprisoning thousands for their tweets. France is criminally investigating tech leaders who defend freedom and privacy. A dark, dystopian world is approaching fast — while we're asleep. Our generation risks going down in history as the last one that had freedoms — and allowed them to be taken away. We've been fed a lie. We've been made to believe that the greatest fight of our generation is to destroy everything our forefathers left us: tradition, privacy, sovereignty, the free market, and free speech. By betraying the legacy of our ancestors, we've set ourselves on a path toward self-destruction — moral, intellectual, economic, and ultimately biological. So no, I'm not going to celebrate today. I'm running out of time. We are running out of time.</title>
+        <link>https://chaos.social/@delta/115350813609601875</link>
+        <guid>https://chaos.social/@delta/115350813609601875</guid>
+        <pubDate>Fri, 10 Oct 2025 16:28:53 +0000</pubDate>
+      </item><item>
         <title>After dropping the #chatcontrol proposals EU governors could next ask themselves why they have, in all of the EU&amp;#39;s history, never provided such a pleasant and informative, adaptive and fast user interface to access democratic representatives and governments of EU member countries ... as the one https://fightchatcontrol.eu provides -- done mostly by a single person on personal funding. Go figure.</title>
         <link>https://chaos.social/@delta/115339107565176682</link>
         <guid>https://chaos.social/@delta/115339107565176682</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115152088848108166</link>
         <guid>https://chaos.social/@delta/115152088848108166</guid>
         <pubDate>Fri, 05 Sep 2025 14:10:33 +0000</pubDate>
-      </item><item>
-        <title>#Whatsapp on #iOS had a severe 0day that was exploited in the wild for some months, and is fixed with august 20th releases https://hackread.com/whatsapp-0-day-exploit-attack-targeted-ios-macos-users/ Last year #signal also had its multi-device functionality exploited in the wild. https://thehackernews.com/2025/02/hackers-exploit-signals-linked-devices.html FWIW #deltachat has a dumber multi-device sync model, no device linking, depends on being in the same WiFI for setup (therefore no easy remote exploits), and #OpenPGP signatures and verification for ongoing usage (like all other E2EE messages).</title>
-        <link>https://chaos.social/@delta/115135425635877989</link>
-        <guid>https://chaos.social/@delta/115135425635877989</guid>
-        <pubDate>Tue, 02 Sep 2025 15:32:53 +0000</pubDate>
       </item>
   </channel>
 </rss>
