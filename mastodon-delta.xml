@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>#deltachat has reliable and audited end-to-end encryption but reliable message delivery is equally crucial in times of shutdowns and increasing Internet fragmentation. #chatmail relays are more reliable and faster than classic email servers but they may still fail, leaving users stranded. The recent rollout of V2 releases not only hardened end-to-end encryption but aims for chat profiles to use multiple relays in the future, removing a common point of failure in decentralized private messaging.</title>
+        <link>https://chaos.social/@delta/115362144863345662</link>
+        <guid>https://chaos.social/@delta/115362144863345662</guid>
+        <pubDate>Sun, 12 Oct 2025 16:30:34 +0000</pubDate>
+      </item><item>
         <title>What an announcement from #Telegram owner Pawel Durov! To provide just a few critical notes, he - makes believe he is just a commoner, and not the billionaire owner of one of the largest message, media and metadata *cleartext* databases on earth - skips over Global Warming - refers to &amp;quot;fathers and forefathers&amp;quot; of the Internet ... apparently never heard of Radia Perlman, Margaret Hamilton or Ada Lovelace? - conveniently excludes Russia and its authoritarian politics from his critique etc. screenshot of Telegram-owner Pavel Durov's message: &lt; Pavel Durov @ : 10.7M subscribers * I'm turning 41, but | don't feel like celebrating. Our generation is running out of time to save the free Internet built for us by our fathers. What was once the promise of the free exchange of information is being turned into the ultimate tool of control. Once-free countries are introducing dystopian measures such as digital IDs (UK), online age checks (Australia), and mass scanning of private messages (EU). Germany is persecuting anyone who dares to criticize officials on the Internet. The UK is imprisoning thousands for their tweets. France is criminally investigating tech leaders who defend freedom and privacy. A dark, dystopian world is approaching fast — while we're asleep. Our generation risks going down in history as the last one that had freedoms — and allowed them to be taken away. We've been fed a lie. We've been made to believe that the greatest fight of our generation is to destroy everything our forefathers left us: tradition, privacy, sovereignty, the free market, and free speech. By betraying the legacy of our ancestors, we've set ourselves on a path toward self-destruction — moral, intellectual, economic, and ultimately biological. So no, I'm not going to celebrate today. I'm running out of time. We are running out of time.</title>
         <link>https://chaos.social/@delta/115350813609601875</link>
         <guid>https://chaos.social/@delta/115350813609601875</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115156817902054850</link>
         <guid>https://chaos.social/@delta/115156817902054850</guid>
         <pubDate>Sat, 06 Sep 2025 10:13:13 +0000</pubDate>
-      </item><item>
-        <title>Sometimes we are surprised ourselves how well everything works :) - cross-platform #deltachat releases every 2-3 months, with a focus on never breaking the world despite significant underlying changes - many #chatmail relays humming along, including the default onboarding one serving 230K monthly users with ~0 admin hours needed -lively and sometimes controversial discussions among the diverse dozen core contributors, with an evolving shared vision, both short and long term Toi Toi Toi</title>
-        <link>https://chaos.social/@delta/115152088848108166</link>
-        <guid>https://chaos.social/@delta/115152088848108166</guid>
-        <pubDate>Fri, 05 Sep 2025 14:10:33 +0000</pubDate>
       </item>
   </channel>
 </rss>
