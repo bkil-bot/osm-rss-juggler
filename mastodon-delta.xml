@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>A few of us are going to visit our neighboring project in federated messaging, the @matrix conference in Strasbourg today. The two projects are rather different architecturally, funding-wise etc but we remain ready and interested for discussions around common concerns and general exchange of what&amp;#39;s happening :) For those curious, here is a panel discussion from the Elevate festival in Graz 2018 https://vimeo.com/273876820 And a later discussion with @matthew https://m.youtube.com/watch?v=xJ2Tjc1Aj0A&amp;amp;t=1624s&amp;amp;pp=ygUidGVjaCB3aWxsIHNhdmUgdXMgbWF0cml4IGRlbHRhY2hhdA%3D%3D</title>
+        <link>https://chaos.social/@delta/115376781649522773</link>
+        <guid>https://chaos.social/@delta/115376781649522773</guid>
+        <pubDate>Wed, 15 Oct 2025 06:32:53 +0000</pubDate>
+      </item><item>
         <title>#deltachat has reliable and audited end-to-end encryption but reliable message delivery is equally crucial in times of shutdowns and increasing Internet fragmentation. #chatmail relays are more reliable and faster than classic email servers but they may still fail, leaving users stranded. The recent rollout of V2 releases not only hardened end-to-end encryption but aims for chat profiles to use multiple relays in the future, removing a common point of failure in decentralized private messaging.</title>
         <link>https://chaos.social/@delta/115362144863345662</link>
         <guid>https://chaos.social/@delta/115362144863345662</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115163790073636723</link>
         <guid>https://chaos.social/@delta/115163790073636723</guid>
         <pubDate>Sun, 07 Sep 2025 15:46:20 +0000</pubDate>
-      </item><item>
-        <title>We are in a continuous process to better understand what we are doing, and often gain new understandings :) Among the papers discussed regarding UX (user experience) is a still interesting text from 2012 about &amp;quot;the manufactured normalcy field&amp;quot; from Venkatesh Rao https://www.ribbonfarm.com/2012/05/09/welcome-to-the-future-nauseous/ It&amp;#39;s interesting to relate it to mainstream messaging Whatsapp style which really evolved from contact based texting (sms) etc ...</title>
-        <link>https://chaos.social/@delta/115156817902054850</link>
-        <guid>https://chaos.social/@delta/115156817902054850</guid>
-        <pubDate>Sat, 06 Sep 2025 10:13:13 +0000</pubDate>
       </item>
   </channel>
 </rss>
