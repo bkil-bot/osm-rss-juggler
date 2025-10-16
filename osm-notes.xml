@@ -3,6 +3,17 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 5009221 (near Újtelep, Tolna) / Created &lt;time title=&quot;16 October 2025 at 15:00&quot; datetime=&quot;2025-10-16T15:00:04Z&quot;&gt;21 minutes ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Spush&quot;&gt;Spush&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;6-os útról nézve mintha itt napelem park létesült volna. Friss légi felvételről ellenőrizendő.</title>
+        <link>https://www.openstreetmap.org/note/5009221#c11109239</link>
+        <guid>https://www.openstreetmap.org/note/5009221#c11109239</guid>
+        <pubDate>Thu, 16 Oct 2025 15:00:04 +0000</pubDate>
+      </item><item>
+        <title>new note 5009214 (near Fadd) / * 2025 October 16 14:53 Created: 40-es táblát leszerelték</title>
+        <link>https://www.openstreetmap.org/note/5009214#c11109225</link>
+        <guid>https://www.openstreetmap.org/note/5009214#c11109225</guid>
+        <pubDate>Thu, 16 Oct 2025 14:53:45 +0000</pubDate>
+      </item><item>
         <title>new note 5008849 (near Kődomb, Katalinhegy üdülőterület, Biatorbágy) / * 2025 October 16 11:46 Created: 3</title>
         <link>https://www.openstreetmap.org/note/5008849#c11108485</link>
         <guid>https://www.openstreetmap.org/note/5008849#c11108485</guid>
@@ -18,7 +29,7 @@
         <guid>https://www.openstreetmap.org/note/5008845#c11108471</guid>
         <pubDate>Thu, 16 Oct 2025 11:45:10 +0000</pubDate>
       </item><item>
-        <title>new note 5008000 (near Újpest, 4th district) / Created &lt;time title=&quot;15 October 2025 at 18:43&quot; datetime=&quot;2025-10-15T18:43:00Z&quot;&gt;about 20 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/qstep&quot;&gt;qstep&lt;/a&gt;&lt;/div&gt;
+        <title>new note 5008000 (near Újpest, 4th district) / Created &lt;time title=&quot;15 October 2025 at 18:43&quot; datetime=&quot;2025-10-15T18:43:00Z&quot;&gt;about 21 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/qstep&quot;&gt;qstep&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Ez a blokk Kerületi Építési Szabályzat (https://www.ujpest.hu/galeria/File/foepiteszi_iroda/05_varosszerk_egyseg_UjpestKertvaros_3A_szabterv.pdf) és Mapillary alapján házszámozva itt: https://www.openstreetmap.org/changeset/173333126
 
 Érdemes lehet bejárással ellenőrizni.</title>
@@ -103,18 +114,6 @@ POI types: wheelchair-no amenity-pub
         <link>https://www.openstreetmap.org/note/4891530#c11102286</link>
         <guid>https://www.openstreetmap.org/note/4891530#c11102286</guid>
         <pubDate>Tue, 14 Oct 2025 22:26:39 +0000</pubDate>
-      </item><item>
-        <title>closed note 4891533 (near Bethlenváros, Kecskemét) / * 2025 August 4 09:46 Created: Egyirányú DNY felé / Resolved &lt;time title=&quot;14 October 2025 at 22:26&quot; datetime=&quot;2025-10-14T22:26:36Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/infeeeee&quot;&gt;infeeeee&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;https://www.openstreetmap.org/changeset/173295826</title>
-        <link>https://www.openstreetmap.org/note/4891533#c11102285</link>
-        <guid>https://www.openstreetmap.org/note/4891533#c11102285</guid>
-        <pubDate>Tue, 14 Oct 2025 22:26:36 +0000</pubDate>
-      </item><item>
-        <title>closed note 4891538 (near Bogovicsfalu, Hollandfalu, Kecskemét) / * 2025 August 4 09:47 Created: Egyirányú NyÉNy irányába / Resolved &lt;time title=&quot;14 October 2025 at 22:26&quot; datetime=&quot;2025-10-14T22:26:33Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/infeeeee&quot;&gt;infeeeee&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;https://www.openstreetmap.org/changeset/173295826</title>
-        <link>https://www.openstreetmap.org/note/4891538#c11102284</link>
-        <guid>https://www.openstreetmap.org/note/4891538#c11102284</guid>
-        <pubDate>Tue, 14 Oct 2025 22:26:33 +0000</pubDate>
       </item>
   </channel>
 </rss>
