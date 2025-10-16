@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>@matrix @matthew quick heads up. Our impressions: #matrix is going strong with public sector entities, and it&amp;#39;s where most dynamics happened at the conf. We are rather focused on private and resilient messaging where servers don&amp;#39;t play a big role; as we want #chatmail relays to be dirt cheap to operate, no pro version needed. Our focus is on informal usage, groups, family, friends, affinity or interest groups, whereas matrix is increasingly focusing on corporate/ organizational use cases. YMMV</title>
+        <link>https://chaos.social/@delta/115385403024060001</link>
+        <guid>https://chaos.social/@delta/115385403024060001</guid>
+        <pubDate>Thu, 16 Oct 2025 19:05:25 +0000</pubDate>
+      </item><item>
         <title>Base tech resilience comes from tools that can be used offline. #deltachat apps are offline-first in that you can create chats, send messages, look at messages/media and trigger establishung contact via qr code scans. And you can use #webxdc apps (with checklist, calendars, editors, shopping lists etc) because they not only don&amp;#39;t require Internet but are barred from accessing it, providing privacy that doesn&amp;#39;t require #gdpr or consent or login.</title>
         <link>https://chaos.social/@delta/115377763678995085</link>
         <guid>https://chaos.social/@delta/115377763678995085</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115176592923887169</link>
         <guid>https://chaos.social/@delta/115176592923887169</guid>
         <pubDate>Tue, 09 Sep 2025 22:02:16 +0000</pubDate>
-      </item><item>
-        <title>#deltachat is being used in virtually all world regions where one or more other messengers fail to work. We recently released a major milestone (V2 security hardening releases) that prepared the ground for chat profiles to have multiple #chatmail relays at once ... failure or blocking of a single relay would not disrupt chatting anymore. But multi transport also helps with the &amp;quot;centralization problem in decentralized systems&amp;quot; ... https://delta.chat/en/2025-06-04-surge-donations#funding-for-a-globally-scaled-chatmail-relay-network (Funding is looking good currently btw!)</title>
-        <link>https://chaos.social/@delta/115170821538800260</link>
-        <guid>https://chaos.social/@delta/115170821538800260</guid>
-        <pubDate>Mon, 08 Sep 2025 21:34:32 +0000</pubDate>
       </item>
   </channel>
 </rss>
