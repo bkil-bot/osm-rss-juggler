@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>The last 2-3 days there was a significant slow down with message sending, sometimes 15 seconds, via the default #chatmail relay .... Wasn&amp;#39;t a CPU/RAM or other resource problem but a software configuration / implementation problem. After some hours of debugging it was solved by providing the &amp;quot;speed-adjust&amp;quot; proxy option to #postfix. message sending should be back to sub-second. No message was lost. Lesson learned: just search for &amp;quot;speed&amp;quot; in postfix docs first (and fix the offending module later).</title>
+        <link>https://chaos.social/@delta/115390837669055565</link>
+        <guid>https://chaos.social/@delta/115390837669055565</guid>
+        <pubDate>Fri, 17 Oct 2025 18:07:31 +0000</pubDate>
+      </item><item>
         <title>@matrix @matthew quick heads up. Our impressions: #matrix is going strong with public sector entities, and it&amp;#39;s where most dynamics happened at the conf. We are rather focused on private and resilient messaging where servers don&amp;#39;t play a big role; as we want #chatmail relays to be dirt cheap to operate, no pro version needed. Our focus is on informal usage, groups, family, friends, affinity or interest groups, whereas matrix is increasingly focusing on corporate/ organizational use cases. YMMV</title>
         <link>https://chaos.social/@delta/115385403024060001</link>
         <guid>https://chaos.social/@delta/115385403024060001</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115191927834938417</link>
         <guid>https://chaos.social/@delta/115191927834938417</guid>
         <pubDate>Fri, 12 Sep 2025 15:02:08 +0000</pubDate>
-      </item><item>
-        <title>Woah! Only now did we discover a great blog post from @wq who discusses the progression from hosting a #Matrix , a #Snikket and a #SimpleX server, to now running a #chatmail relay https://runtimeterror.dev/self-hosted-chatmail-relay-for-delta-chat/ It&amp;#39;s an excellent read, with lots of good advise, including having a public &amp;quot;hello&amp;quot; profile and another unpublished chat profile for private chatting. #deltachat apps have pervasive multi-profile support (and multi-device support) so it&amp;#39;s pretty easy to establish such a two-profile setup.</title>
-        <link>https://chaos.social/@delta/115176592923887169</link>
-        <guid>https://chaos.social/@delta/115176592923887169</guid>
-        <pubDate>Tue, 09 Sep 2025 22:02:16 +0000</pubDate>
       </item>
   </channel>
 </rss>
