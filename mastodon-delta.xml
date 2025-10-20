@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>There is no single central #Signal server. Signal uses #AWS cloud, plus Google Cloud, Microsoft Cloud and Cloudflare, all under US legislation. If any of these clouds goes down or becomes otherwise problematic, chatting degrades or fails. With #deltachat you can choose #chatmail relays ( https://chatmail.at/relays ) which distributes the risk across a wider network. We are currently working on the multi-transport feature to finally remove any central point of chat failure https://chaos.social/@delta/115362144863345662</title>
+        <link>https://chaos.social/@delta/115405889442047530</link>
+        <guid>https://chaos.social/@delta/115405889442047530</guid>
+        <pubDate>Mon, 20 Oct 2025 09:55:23 +0000</pubDate>
+      </item><item>
         <title>The last 2-3 days there was a significant slow down with message sending, sometimes 15 seconds, via the default #chatmail relay .... Wasn&amp;#39;t a CPU/RAM or other resource problem but a software configuration / implementation problem. After some hours of debugging it was solved by providing the &amp;quot;speed-adjust&amp;quot; proxy option to #postfix. message sending should be back to sub-second. No message was lost. Lesson learned: just search for &amp;quot;speed&amp;quot; in postfix docs first (and fix the offending module later).</title>
         <link>https://chaos.social/@delta/115390837669055565</link>
         <guid>https://chaos.social/@delta/115390837669055565</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115195900699961113</link>
         <guid>https://chaos.social/@delta/115195900699961113</guid>
         <pubDate>Sat, 13 Sep 2025 07:52:29 +0000</pubDate>
-      </item><item>
-        <title>Delta Chat is hard to classify when your question is violently binary. Federated or P2P? #deltachat is more P2P than #Briar in that we implement a P2P group model while Briar routes everything through a central administrator who owns the group. E2EE Messenger or e-mail? #chatmail relays are aiming to be like Signal servers in many ways, but are based on IETF standards around TLS, OpenPGP, MIME, SMTP etc., stripping them all down to the core that we actually need. Quite fun :)</title>
-        <link>https://chaos.social/@delta/115191927834938417</link>
-        <guid>https://chaos.social/@delta/115191927834938417</guid>
-        <pubDate>Fri, 12 Sep 2025 15:02:08 +0000</pubDate>
       </item>
   </channel>
 </rss>
