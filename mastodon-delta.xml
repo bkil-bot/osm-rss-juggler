@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Not taking Venture Capital money means: - No pressure to maximize monetization of usage (for every million of VC funding you need to find ~100+ Million in value later). - No prioritization of growing fast with PR campaigns that promise the moon and stumble on the ground - No billionaire who ultimately profits Instead, we seek public funding and private contributions for #chatmail #deltachat and #webxdc developments. Thanks to everyone who is helping and already test-driving things :) home page picture of https://testrun.org text title &quot;Testrun.org&quot; with the sub title &quot;experimenting with the future of Email&quot; the picture is a collage and shows the head of a dinosaur with an open mouth and many teeth trying to swallow a Zeppelin that seems to be flying directly into the mouth. Next to the dinosaur head is a classic &quot;@&quot; email symbol. the middle part is blue, and has overlay graphics of a moon-like planet and some old computers in the back the bottom part contains a picture of a sysadmin ca. 1975 in front of computer screens that show green letters on a black screen. There also are separately three cryptic letter chains that seem to translate to &quot;Communications&quot;, &quot;Command&quot; and &quot;Sigma&quot;. Another &quot;@&quot; sign is left of the computer screens.</title>
+        <link>https://chaos.social/@delta/115413031014678287</link>
+        <guid>https://chaos.social/@delta/115413031014678287</guid>
+        <pubDate>Tue, 21 Oct 2025 16:11:35 +0000</pubDate>
+      </item><item>
         <title>There is no single central #Signal server. Signal uses #AWS cloud, plus Google Cloud, Microsoft Cloud and Cloudflare, all under US legislation. If any of these clouds goes down or becomes otherwise problematic, chatting degrades or fails. With #deltachat you can choose #chatmail relays ( https://chatmail.at/relays ) which distributes the risk across a wider network. We are currently working on the multi-transport feature to finally remove any central point of chat failure https://chaos.social/@delta/115362144863345662</title>
         <link>https://chaos.social/@delta/115405889442047530</link>
         <guid>https://chaos.social/@delta/115405889442047530</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115208836741956594</link>
         <guid>https://chaos.social/@delta/115208836741956594</guid>
         <pubDate>Mon, 15 Sep 2025 14:42:17 +0000</pubDate>
-      </item><item>
-        <title>What if a state tries to mandate us as #deltachat app devs/distributors to shut down a chat profile? Nothing. It can&amp;#39;t be done. We have no list of chat identities, have no handle or data about them, and don&amp;#39;t mediate the message transfer. However, EU #Chatcontrol politicians and Russian authorities would want us to insert backdoors into our FOSS code. But that is nothing than can happen overnight, and we are fine with friendly forks already. Resilient private internet communication ftw :)</title>
-        <link>https://chaos.social/@delta/115195900699961113</link>
-        <guid>https://chaos.social/@delta/115195900699961113</guid>
-        <pubDate>Sat, 13 Sep 2025 07:52:29 +0000</pubDate>
       </item>
   </channel>
 </rss>
