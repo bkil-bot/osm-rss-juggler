@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Good news! It&amp;#39;s getting harder to keep track of new #chatmail relays :) Recently several public relays were added to the https://chatmail.at/relays list, in Warsaw, Helsinki, Romania and Barcelona.🧡 If you have #deltachat installed on mobile, you can go to any chatmail relay website in the list and click on a link there to create a chat profile. It&amp;#39;s wonderful to hear about collectives setting up chat infrastructure like the recent https://xat.fedi.cat from @fedicat and @eXOfasia</title>
+        <link>https://chaos.social/@delta/115425511701875559</link>
+        <guid>https://chaos.social/@delta/115425511701875559</guid>
+        <pubDate>Thu, 23 Oct 2025 21:05:35 +0000</pubDate>
+      </item><item>
         <title>Not taking Venture Capital money means: - No pressure to maximize monetization of usage (for every million of VC funding you need to find ~100+ Million in value later). - No prioritization of growing fast with PR campaigns that promise the moon and stumble on the ground - No billionaire who ultimately profits Instead, we seek public funding and private contributions for #chatmail #deltachat and #webxdc developments. Thanks to everyone who is helping and already test-driving things :) home page picture of https://testrun.org text title &quot;Testrun.org&quot; with the sub title &quot;experimenting with the future of Email&quot; the picture is a collage and shows the head of a dinosaur with an open mouth and many teeth trying to swallow a Zeppelin that seems to be flying directly into the mouth. Next to the dinosaur head is a classic &quot;@&quot; email symbol. the middle part is blue, and has overlay graphics of a moon-like planet and some old computers in the back the bottom part contains a picture of a sysadmin ca. 1975 in front of computer screens that show green letters on a black screen. There also are separately three cryptic letter chains that seem to translate to &quot;Communications&quot;, &quot;Command&quot; and &quot;Sigma&quot;. Another &quot;@&quot; sign is left of the computer screens.</title>
         <link>https://chaos.social/@delta/115413031014678287</link>
         <guid>https://chaos.social/@delta/115413031014678287</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115218560913545708</link>
         <guid>https://chaos.social/@delta/115218560913545708</guid>
         <pubDate>Wed, 17 Sep 2025 07:55:17 +0000</pubDate>
-      </item><item>
-        <title>We modify designs to fit real world usage. Sometimes we engage in hundreds of hours of discussion and work just so that something becomes simpler on the surface. Case in point: the recent v2 releases radically simplified end-to-end encryption. No more lock icons or special encryption UI elements because everything is encrypted by default. Even better, the amount of security sensitive code was reduced, making #chatmail code bases easier to audit and maintain.</title>
-        <link>https://chaos.social/@delta/115208836741956594</link>
-        <guid>https://chaos.social/@delta/115208836741956594</guid>
-        <pubDate>Mon, 15 Sep 2025 14:42:17 +0000</pubDate>
       </item>
   </channel>
 </rss>
