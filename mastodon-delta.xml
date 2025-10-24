@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Believe it or not: #deltachat is growing audio/video calls starting with the currently rolling 2.22 releases ... A few people already had two hour long stable calls :) Calls are an experimental option while we continue to work on reliability, UX/UI revisions, and configuration of TURN servers on #chatmail relays and in clients. We want calls to reliably work across all major platforms, networks and phones, including #UbuntuTouch Feedback and debugging happens at https://support.delta.chat/t/help-testing-upcoming-delta-chat-release-with-calls/4220/17</title>
+        <link>https://chaos.social/@delta/115431424969929801</link>
+        <guid>https://chaos.social/@delta/115431424969929801</guid>
+        <pubDate>Fri, 24 Oct 2025 22:09:24 +0000</pubDate>
+      </item><item>
         <title>Good news! It&amp;#39;s getting harder to keep track of new #chatmail relays :) Recently several public relays were added to the https://chatmail.at/relays list, in Warsaw, Helsinki, Romania and Barcelona.🧡 If you have #deltachat installed on mobile, you can go to any chatmail relay website in the list and click on a link there to create a chat profile. It&amp;#39;s wonderful to hear about collectives setting up chat infrastructure like the recent https://xat.fedi.cat from @fedicat and @eXOfasia</title>
         <link>https://chaos.social/@delta/115425511701875559</link>
         <guid>https://chaos.social/@delta/115425511701875559</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115225370122841147</link>
         <guid>https://chaos.social/@delta/115225370122841147</guid>
         <pubDate>Thu, 18 Sep 2025 12:46:57 +0000</pubDate>
-      </item><item>
-        <title>The problem with #chatcontrol is deep and extremely significant. It would be a paradigm shift that implies state and corporate control of app developers and users, i.e. what you can install on &amp;quot;your&amp;quot; devices. It would empower Google, Apple and Microsoft to increase enclosure even more. Just as with the p2p wealth of good tools two decades ago, e2e tooling would remain available only to small specialist circles. Given authoritarian threats everywhere, #chatcontrol is an exceptionally bad idea.</title>
-        <link>https://chaos.social/@delta/115218560913545708</link>
-        <guid>https://chaos.social/@delta/115218560913545708</guid>
-        <pubDate>Wed, 17 Sep 2025 07:55:17 +0000</pubDate>
       </item>
   </channel>
 </rss>
