@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>We are aware of roskomnadzor just having ramped up their blocking efforts in #russia against #deltachat &amp;#39;s default onboarding chatmail relay. Signal, Whatsapp are degraded/blocked for a longer time already. 1) Delta Chat has first class shadow-socks proxy support (try ss:// links you can find ... Delta has management-proxy UX) 2) many other chatmail relays work fine and inter-chatmail/email server traffic continues unimpeded 3) if you can help with analyzing please drop into our DMs.</title>
+        <link>https://chaos.social/@delta/115433854457110106</link>
+        <guid>https://chaos.social/@delta/115433854457110106</guid>
+        <pubDate>Sat, 25 Oct 2025 08:27:15 +0000</pubDate>
+      </item><item>
         <title>Believe it or not: #deltachat is growing audio/video calls starting with the currently rolling 2.22 releases ... A few people already had two hour long stable calls :) Calls are an experimental option while we continue to work on reliability, UX/UI revisions, and configuration of TURN servers on #chatmail relays and in clients. We want calls to reliably work across all major platforms, networks and phones, including #UbuntuTouch Feedback and debugging happens at https://support.delta.chat/t/help-testing-upcoming-delta-chat-release-with-calls/4220/17</title>
         <link>https://chaos.social/@delta/115431424969929801</link>
         <guid>https://chaos.social/@delta/115431424969929801</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115231659849529670</link>
         <guid>https://chaos.social/@delta/115231659849529670</guid>
         <pubDate>Fri, 19 Sep 2025 15:26:30 +0000</pubDate>
-      </item><item>
-        <title>PSA at least one of us is going to be around https://datenspuren.de/2025/ #datenspuren in Dresden this weekend. If you are experienced in #sysops , #email tech or have good #rust experience and general interest in #chatmail (https://chatmail.at ) maybe drop us a DM and let&amp;#39;s meet and chat. Depending on circumstances there might also be spontaneous sessions you could lookout for.</title>
-        <link>https://chaos.social/@delta/115225370122841147</link>
-        <guid>https://chaos.social/@delta/115225370122841147</guid>
-        <pubDate>Thu, 18 Sep 2025 12:46:57 +0000</pubDate>
       </item>
   </channel>
 </rss>
