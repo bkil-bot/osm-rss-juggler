@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Our project is one of constant exit planning and circumvention considerations ... as times and tech are getting more shitty. We don&amp;#39;t bet on a single basket, and not a single state or jurisdiction, and certainly not AWS/Google/Microsoft US clouds which run #Signal servers. No single hoster, platform or language (we do a lot of Rust, granted) and no single device or vendor. At #chatmail protocol levels we regard nothing as holy, and look for simplicity and robustness, and convivial community 🖤 Logo of the https://chatmail.at project</title>
+        <link>https://chaos.social/@delta/115434101831536100</link>
+        <guid>https://chaos.social/@delta/115434101831536100</guid>
+        <pubDate>Sat, 25 Oct 2025 09:30:10 +0000</pubDate>
+      </item><item>
         <title>We are aware of roskomnadzor just having ramped up their blocking efforts in #russia against #deltachat &amp;#39;s default onboarding chatmail relay. Signal, Whatsapp are degraded/blocked for a longer time already. 1) Delta Chat has first class shadow-socks proxy support (try ss:// links you can find ... Delta has management-proxy UX) 2) many other chatmail relays work fine and inter-chatmail/email server traffic continues unimpeded 3) if you can help with analyzing please drop into our DMs.</title>
         <link>https://chaos.social/@delta/115433854457110106</link>
         <guid>https://chaos.social/@delta/115433854457110106</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115242795911443495</link>
         <guid>https://chaos.social/@delta/115242795911443495</guid>
         <pubDate>Sun, 21 Sep 2025 14:38:33 +0000</pubDate>
-      </item><item>
-        <title>It seems there might indeed be a spontaneous talk tonight at 7pm at #datenspuren about #deltachat and #chatmail ... In the big room https://talks.datenspuren.de/ds25/talk/BRKQKM/</title>
-        <link>https://chaos.social/@delta/115231659849529670</link>
-        <guid>https://chaos.social/@delta/115231659849529670</guid>
-        <pubDate>Fri, 19 Sep 2025 15:26:30 +0000</pubDate>
       </item>
   </channel>
 </rss>
