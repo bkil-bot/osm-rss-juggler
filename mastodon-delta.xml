@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Signal&amp;#39;s president claimed it takes billions to replicate the availability and reliability of &amp;quot;hyperscalers&amp;quot; (AWS/Google/Microsoft/Cloudfare) that Signal uses. #chatmail and #deltachat are about disproving this claim by 1) making relays super cheap (DONE) 2) enabling chat profiles to use multiple relays redundantly (WIP) 3) distributing relay knowledge among chatters (TBD). Fat servers, corporate overlords and billionaires: not needed and better to not exist for a convivial e2ee future :)</title>
+        <link>https://chaos.social/@delta/115454041149791990</link>
+        <guid>https://chaos.social/@delta/115454041149791990</guid>
+        <pubDate>Tue, 28 Oct 2025 22:01:00 +0000</pubDate>
+      </item><item>
         <title>Our project is one of constant exit planning and circumvention considerations ... as times and tech are getting more shitty. We don&amp;#39;t bet on a single basket, and not a single state or jurisdiction, and certainly not AWS/Google/Microsoft US clouds which run #Signal servers. No single hoster, platform or language (we do a lot of Rust, granted) and no single device or vendor. At #chatmail protocol levels we regard nothing as holy, and look for simplicity and robustness, and convivial community 🖤 Logo of the https://chatmail.at project It's a black @ sign on white background, but on the lower left corner the @ sign has a speech bubble deformation</title>
         <link>https://chaos.social/@delta/115434101831536100</link>
         <guid>https://chaos.social/@delta/115434101831536100</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115249150179728358</link>
         <guid>https://chaos.social/@delta/115249150179728358</guid>
         <pubDate>Mon, 22 Sep 2025 17:34:32 +0000</pubDate>
-      </item><item>
-        <title>There now is a recording of the ad-hoc #datenspuren &amp;quot;usable end-to-end security&amp;quot; talk from friday evening, german audio only https://app.media.ccc.de/v/ds25-603-usable-end-to-end-security-with-delta-chat-and-chatmail</title>
-        <link>https://chaos.social/@delta/115242795911443495</link>
-        <guid>https://chaos.social/@delta/115242795911443495</guid>
-        <pubDate>Sun, 21 Sep 2025 14:38:33 +0000</pubDate>
       </item>
   </channel>
 </rss>
