@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>How do we keep complexity from eating and slowing our various development efforts? One key thing: beware of unnecessary abstractions. Sure, it can be very useful to introduce abstractions to avoid repetition but it&amp;#39;s better if there are two or three concrete real occurrences to abstract from. Premature abstraction makes systems often not more flexible but inflexible because the next concrete need often does not quite fit. Failures and errors become harder to debug. Abstractions are leaky. a screenshot of a part of the post on the &quot;Law of Leaky Abstraction&quot; https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/ &quot;This is what I call a leaky abstraction. TCP attempts to provide a complete abstraction of an underlying unreliable network, but sometimes, the network leaks through the abstraction and you feel the things that the abstraction can’t quite protect you from. This is but one example of what I’ve dubbed the Law of Leaky Abstractions: All non-trivial abstractions, to some degree, are leaky. Abstractions fail. Sometimes a little, sometimes a lot. There’s leakage. Things go wrong. It happens all over the place when you have abstractions. Here are some examples.&quot;</title>
+        <link>https://chaos.social/@delta/115459661559677550</link>
+        <guid>https://chaos.social/@delta/115459661559677550</guid>
+        <pubDate>Wed, 29 Oct 2025 21:50:20 +0000</pubDate>
+      </item><item>
         <title>Signal&amp;#39;s president claimed it takes billions to replicate the availability and reliability of &amp;quot;hyperscalers&amp;quot; (AWS/Google/Microsoft/Cloudfare) that Signal uses. #chatmail and #deltachat are about disproving this claim by 1) making relays super cheap (DONE) 2) enabling chat profiles to use multiple relays redundantly (WIP) 3) distributing relay knowledge among chatters (TBD). Fat servers, corporate overlords and billionaires: not needed and better to not exist for a convivial e2ee future :)</title>
         <link>https://chaos.social/@delta/115454041149791990</link>
         <guid>https://chaos.social/@delta/115454041149791990</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115260028729298825</link>
         <guid>https://chaos.social/@delta/115260028729298825</guid>
         <pubDate>Wed, 24 Sep 2025 15:41:05 +0000</pubDate>
-      </item><item>
-        <title>#chatcontrol is a giant legal-technical quagmire and would erode privacy in times where we most need it. But let&amp;#39;s talk about protecting children ... what chatcontrol claims to be about: First, it&amp;#39;s unproven that chatcontrol would help lower actual abuses. Second, why not spend the many EU millions that go into busying politicians, developers, lawyers and orgs into hiring social workers? They could directly act on the huge backlog of _reported known_ child abuse cases. That definitely helps.</title>
-        <link>https://chaos.social/@delta/115249150179728358</link>
-        <guid>https://chaos.social/@delta/115249150179728358</guid>
-        <pubDate>Mon, 22 Sep 2025 17:34:32 +0000</pubDate>
       </item>
   </channel>
 </rss>
