@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>It&amp;#39;s done! #chatcontrol is officially of the table after the danish EU council presidency drops it for good. It&amp;#39;s a small but important victory! Thanks again to @chatcontrol for coordinating grassroots interventions, and everyone else, especially on the fediverse, for joining efforts to fundamentally preserve end-to-end encryption 💜 Also to @Mer__edith and @signalapp for their strong end-to-end encryption work and stances. Of course, vigilance remains important. https://www.euractiv.com/news/danish-presidency-backs-away-from-chat-control/</title>
+        <link>https://chaos.social/@delta/115467919139998369</link>
+        <guid>https://chaos.social/@delta/115467919139998369</guid>
+        <pubDate>Fri, 31 Oct 2025 08:50:21 +0000</pubDate>
+      </item><item>
         <title>Today, we were nicely surprised by @gianmarcogg03 with a new comprehensive (italian) #deltachat introduction video, going through initial setup, groups and chatting, second device setup, #webxdc apps, bots, calls and playing Quake -- all the nice things you can do these days :) https://mastodon.uno/@gianmarcogg03/115462294953394774 containing peertube, odysee and youtube links (latter provides English subtitles) Fun fact: devs noticed some tiny but embarrassing glitches in the UI which are now getting fixed as we speak :)</title>
         <link>https://chaos.social/@delta/115463734108419465</link>
         <guid>https://chaos.social/@delta/115463734108419465</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115298711718920040</link>
         <guid>https://chaos.social/@delta/115298711718920040</guid>
         <pubDate>Wed, 01 Oct 2025 11:38:41 +0000</pubDate>
-      </item><item>
-        <title>PSA the last couple of hours the default #chatmail onboarding relay nine.testrun.org was sometimes slow taking ~10 seconds to accept and relay messages. It&amp;#39;s now back to sub-second end-to-end delivery, after tweaking some connection limit. As is often the case, #postfix has all the needed config parameters already, and it&amp;#39;s well documented how to tweak them, and nothing really breaks meanwhile, it only gets a bit bumpy or delayed at worst. It pays off not implementing our own server software :)</title>
-        <link>https://chaos.social/@delta/115260028729298825</link>
-        <guid>https://chaos.social/@delta/115260028729298825</guid>
-        <pubDate>Wed, 24 Sep 2025 15:41:05 +0000</pubDate>
       </item>
   </channel>
 </rss>
