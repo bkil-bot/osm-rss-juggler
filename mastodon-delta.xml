@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Great post from @Jdm2 about his getting away from WhatsApp and looking into #deltachat https://write.as/jdm2/deltachat-y-arcanechat-son-las-definitivas-alternativas-a-whatsapp We also just reposted his invitation to a Puerto Rico group, because we think the way this group is instigated is exactly right: ask for people to drop into a DM, or like with the borken.social Fediverse instance: show an invite link only for authenticated users 🎯 Non-public invites maintain some privacy and sense of joiners and brings e2ee messaging to instance communities.</title>
+        <link>https://chaos.social/@delta/115470422913021817</link>
+        <guid>https://chaos.social/@delta/115470422913021817</guid>
+        <pubDate>Fri, 31 Oct 2025 19:27:06 +0000</pubDate>
+      </item><item>
         <title>Countering toxicity and fake takes is not just a technical question (moderation, admins etc) but one of social curation both collectively and privately: which people and groups do you/we trust for what. No tool can automate that. #deltachat is for private e2ee messaging and mutually curated group chats, and not random social media propelled onboarding. We are with #Signal here and not with #simplex and #matrix who offer public anonymous discovery of large chat groups with lots of unknown folks.</title>
         <link>https://chaos.social/@delta/115469068110470521</link>
         <guid>https://chaos.social/@delta/115469068110470521</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115317488726971660</link>
         <guid>https://chaos.social/@delta/115317488726971660</guid>
         <pubDate>Sat, 04 Oct 2025 19:13:55 +0000</pubDate>
-      </item><item>
-        <title>While classic cleartext email providers, also Thunderbird with its Thundermail efforts, are aiming to be a more trustworthy alternative to Gmail/calendar/drive etc ... #deltachat and #chatmail efforts go all-in on end-to-end encryption and metadata minimization, with decentralized transport relays playing much lesser roles than #Signal&amp;#39;s Amazon/Microsoft/Google servers. At the same time, #webxdc apps provide unprecedented extensibility, eg checkout the great TOTP app https://webxdc.org/apps/#rtn-totp</title>
-        <link>https://chaos.social/@delta/115303494610318793</link>
-        <guid>https://chaos.social/@delta/115303494610318793</guid>
-        <pubDate>Thu, 02 Oct 2025 07:55:02 +0000</pubDate>
       </item>
   </channel>
 </rss>
