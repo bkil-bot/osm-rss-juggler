@@ -3,6 +3,11 @@
   <channel>
     <title>git (via bkil-bot)</title>
       <item>
+        <title>bkil: Bozsok: add</title>
+        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/1897fb8ad45459692da906acbf35862f14647e4b</link>
+        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/1897fb8ad45459692da906acbf35862f14647e4b</guid>
+        <pubDate>2025-11-09T20:16:51+01:00</pubDate>
+      </item><item>
         <title>bkil: Hungary/beech: add</title>
         <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/266fea8fdb1065287a275cc3dfebaeaae13187d0</link>
         <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/266fea8fdb1065287a275cc3dfebaeaae13187d0</guid>
@@ -182,11 +187,6 @@
         <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/74e85e67bc99be1051f8102d9289dc634b251126</link>
         <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/74e85e67bc99be1051f8102d9289dc634b251126</guid>
         <pubDate>2020-07-27T00:26:06+02:00</pubDate>
-      </item><item>
-        <title>bkil: Berekfurdo: add</title>
-        <link>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/4adac470ab157d1f0cf0d13153651ac7a3e6ff9d</link>
-        <guid>https://gitlab.com/bkil/osm-piclayer-cal/-/commit/4adac470ab157d1f0cf0d13153651ac7a3e6ff9d</guid>
-        <pubDate>2020-07-27T00:25:59+02:00</pubDate>
       </item>
   </channel>
 </rss>
