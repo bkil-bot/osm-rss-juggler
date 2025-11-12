@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>We were surprised to hear today that Forbes.ru (a subsidiary of the global Forbes brand it seems) recently published an article quoting an expert recommending to use #deltachat on the backdrop of restrictions of Signal, Whatsapp, Telegram, Discord and Viber in Russian networks. https://www.forbes.ru/tekhnologii/548966-ne-gasite-vasi-ekrany-cem-zamenit-telegram-i-whatsapp</title>
+        <link>https://chaos.social/@delta/115538117003311489</link>
+        <guid>https://chaos.social/@delta/115538117003311489</guid>
+        <pubDate>Wed, 12 Nov 2025 18:22:36 +0000</pubDate>
+      </item><item>
         <title>#deltachat is a private messaging app. It&amp;#39;d be easy enough to offer various public groups to boost onboarding, and let everyone play. But one would land in a large group that isn&amp;#39;t very private, with lots of needs for moderation tooling, troll handling and other social-media issues. Not our current cup of tea. We are grateful for the many folks here onboarding their families, projects or friends, founding special-interest chats, setting up #chatmail relays etc. This is wonderful, cheers!</title>
         <link>https://chaos.social/@delta/115509270637473566</link>
         <guid>https://chaos.social/@delta/115509270637473566</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115376781649522773</link>
         <guid>https://chaos.social/@delta/115376781649522773</guid>
         <pubDate>Wed, 15 Oct 2025 06:32:53 +0000</pubDate>
-      </item><item>
-        <title>#deltachat has reliable and audited end-to-end encryption but reliable message delivery is equally crucial in times of shutdowns and increasing Internet fragmentation. #chatmail relays are more reliable and faster than classic email servers but they may still fail, leaving users stranded. The recent rollout of V2 releases not only hardened end-to-end encryption but aims for chat profiles to use multiple relays in the future, removing a common point of failure in decentralized private messaging.</title>
-        <link>https://chaos.social/@delta/115362144863345662</link>
-        <guid>https://chaos.social/@delta/115362144863345662</guid>
-        <pubDate>Sun, 12 Oct 2025 16:30:34 +0000</pubDate>
       </item>
   </channel>
 </rss>
