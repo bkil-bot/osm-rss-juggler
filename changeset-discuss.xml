@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: Spush Discussion Comment No.: 2 Comment: Üdv! Általában FÖMI-re igazítok, ha valahol mégsem az valószínűleg figyelmetlenség lehetett. Üdv: Spush Date: 2025-11-17T18:16:40+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/166074239</link>
+        <guid>https://www.openstreetmap.org/changeset/166074239#comment_2</guid>
+        <pubDate>2025-11-17T18:16:40+01:00</pubDate>
+      </item><item>
+        <title>Contributor: NeisBot Discussion Comment No.: 1 Comment: Welcome, and thanks for your edits! I noticed a few unintended crossings between roads and/or between roads and buildings in this changeset. This usually happens when geometry snaps incorrectly. In total, I detected 12 potential crossings. Problematic elements (top 3 by category): - https://osm.org/way/531653544 | crossings=5 - https://osm.org/way/538385265 | crossings=3 Would you mind revisiting those areas? #CrossingCheck --- https://resultmaps.neis-one.org/osm-change-viz?c=174767354 Date: 2025-11-17T17:46:27+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/174767354</link>
+        <guid>https://www.openstreetmap.org/changeset/174767354#comment_1</guid>
+        <pubDate>2025-11-17T17:46:27+01:00</pubDate>
+      </item><item>
         <title>Contributor: ITineris Discussion Comment No.: 1 Comment: Szia! Kérlek, szerkesztés előtt mindig igazítsd a kedvenc légifotód a FÖMIhez, mert pl. a Bing is el van csúszva! Így kisebb eséllyel húzogatod félre a már (FÖMIhez és Magyar Közúthoz) pontosított utakat. Köszönöm: Ákos Date: 2025-11-17T16:29:54+01:00</title>
         <link>https://www.openstreetmap.org/changeset/165500587</link>
         <guid>https://www.openstreetmap.org/changeset/165500587#comment_1</guid>
@@ -12,11 +22,6 @@
         <link>https://www.openstreetmap.org/changeset/173843365</link>
         <guid>https://www.openstreetmap.org/changeset/173843365#comment_1</guid>
         <pubDate>2025-11-17T14:05:25+01:00</pubDate>
-      </item><item>
-        <title>Contributor: ITineris Discussion Comment No.: 1 Comment: Szia! Kérlek, a légifotót minden szerkesztés előtt igazítsd rá adott helyen a FÖMI-re! Különösen akkor, ha már FÖMI-re és Magyar Közútra igazított utakat húzogatsz arrébb... Üdv: Ákos Date: 2025-11-17T13:11:40+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/166074239</link>
-        <guid>https://www.openstreetmap.org/changeset/166074239#comment_1</guid>
-        <pubDate>2025-11-17T13:11:40+01:00</pubDate>
       </item><item>
         <title>Contributor: ITineris Discussion Comment No.: 1 Comment: Szia! A tájhatár szerkesztése közben a 21-es főút lőrinci körforgalmát is átszerkesztetted. Lehet, hogy jó ötletnek tűnt kör alakúvá alakítani, de a valóságban ez nem kör alakú, mert turbó. Ahogyan ez a légifelvételeken is látható. És akkor még a kapcsolat tagságokról nem is beszéltem. Javítottam. Ákos Date: 2025-11-16T21:58:51+01:00</title>
         <link>https://www.openstreetmap.org/changeset/169184978</link>
