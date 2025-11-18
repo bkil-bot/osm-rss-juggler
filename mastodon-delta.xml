@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>hypercentralizers are not having a good day today -- #github has joined #cloudflare to block or slow down millions of folks from doing stuff. Maybe a good time to checkout out this new ACLU article about the current Apple/Google app-store oligopoly https://www.aclu.org/news/free-speech/app-store-oligopoly TL;dr Google/Apple increasingly wield their world-wide #appcontrol in the political interests of various governments, and not in the interest of user security or privacy. The article lays out three areas of fighting back ... last paragraph of https://www.aclu.org/news/free-speech/app-store-oligopoly How we can push back In an increasingly centralized world, it will take very little for an abusive government to cause an effective organizing tool to disappear, to block an app that belongs to a critical dissenting media outlet, or to force invasive malware into a software update used by everyone. We need a shared infrastructure that doesn’t permit this kind of centralized control. We can disrupt oligopolistic control over software through user choice (e.g., preferring and installing free software), building good protocol frameworks (e.g., demanding tools that use open standards for interoperability), and through regulatory intervention (e.g., breaking up monopolistic actors, or mandating that an OS must allow sideloading, as the EU did with the DMA). The device you carry with you that is privy to much of your life should be under your control, not under the control of an abusive government or corporations that do its bidding.</title>
+        <link>https://chaos.social/@delta/115572972003445788</link>
+        <guid>https://chaos.social/@delta/115572972003445788</guid>
+        <pubDate>Tue, 18 Nov 2025 22:06:41 +0000</pubDate>
+      </item><item>
         <title>While #cloudflare US-east1 is busy fixing a good part of the Internet, parts of Matrix/Element, X etc down, good old decentralized #chatmail continues unimpeded and without degradation :) In other news, there is a new #freebsd community maintained ❤️ #deltachat desktop install: pkg install deltachat-desktop thanks @feld and others!</title>
         <link>https://chaos.social/@delta/115570783474640263</link>
         <guid>https://chaos.social/@delta/115570783474640263</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115413031014678287</link>
         <guid>https://chaos.social/@delta/115413031014678287</guid>
         <pubDate>Tue, 21 Oct 2025 16:11:35 +0000</pubDate>
-      </item><item>
-        <title>There is no single central #Signal server. Signal uses #AWS cloud, plus Google Cloud, Microsoft Cloud and Cloudflare, all under US legislation. If any of these clouds goes down or becomes otherwise problematic, chatting degrades or fails. With #deltachat you can choose #chatmail relays ( https://chatmail.at/relays ) which distributes the risk across a wider network. We are currently working on the multi-transport feature to finally remove any central point of chat failure https://chaos.social/@delta/115362144863345662</title>
-        <link>https://chaos.social/@delta/115405889442047530</link>
-        <guid>https://chaos.social/@delta/115405889442047530</guid>
-        <pubDate>Mon, 20 Oct 2025 09:55:23 +0000</pubDate>
       </item>
   </channel>
 </rss>
