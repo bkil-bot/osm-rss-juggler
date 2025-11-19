@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Any data that is collected on servers will eventually leak or be abused otherwise. By design, no one can enumerate #deltachat profiles which are private and not published on any server. Conversely, #chatmail relays do not see or collect private data or metadata. But wait, there is more :) We are currently evolving end-to-end security protocols and UX to **survive an attacker fully taking over a server**. The attacker shall not even be able to message users, let alone impersonate anyone. beginning of the title of the research paper on the whatsapp number leaks https://github.com/sbaresearch/whatsapp-census/blob/main/Hey_there_You_are_using_WhatsApp.pdf</title>
+        <link>https://chaos.social/@delta/115575977950468592</link>
+        <guid>https://chaos.social/@delta/115575977950468592</guid>
+        <pubDate>Wed, 19 Nov 2025 10:51:08 +0000</pubDate>
+      </item><item>
         <title>hypercentralizers are not having a good day today -- #github has joined #cloudflare to block or slow down millions of folks from doing stuff. Maybe a good time to checkout out this new ACLU article about the current Apple/Google app-store oligopoly https://www.aclu.org/news/free-speech/app-store-oligopoly TL;dr Google/Apple increasingly wield their world-wide #appcontrol in the political interests of various governments, and not in the interest of user security or privacy. The article lays out three areas of fighting back ... last paragraph of https://www.aclu.org/news/free-speech/app-store-oligopoly How we can push back In an increasingly centralized world, it will take very little for an abusive government to cause an effective organizing tool to disappear, to block an app that belongs to a critical dissenting media outlet, or to force invasive malware into a software update used by everyone. We need a shared infrastructure that doesn’t permit this kind of centralized control. We can disrupt oligopolistic control over software through user choice (e.g., preferring and installing free software), building good protocol frameworks (e.g., demanding tools that use open standards for interoperability), and through regulatory intervention (e.g., breaking up monopolistic actors, or mandating that an OS must allow sideloading, as the EU did with the DMA). The device you carry with you that is privy to much of your life should be under your control, not under the control of an abusive government or corporations that do its bidding.</title>
         <link>https://chaos.social/@delta/115572972003445788</link>
         <guid>https://chaos.social/@delta/115572972003445788</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115425511701875559</link>
         <guid>https://chaos.social/@delta/115425511701875559</guid>
         <pubDate>Thu, 23 Oct 2025 21:05:35 +0000</pubDate>
-      </item><item>
-        <title>Not taking Venture Capital money means: - No pressure to maximize monetization of usage (for every million of VC funding you need to find ~100+ Million in value later). - No prioritization of growing fast with PR campaigns that promise the moon and stumble on the ground - No billionaire who ultimately profits Instead, we seek public funding and private contributions for #chatmail #deltachat and #webxdc developments. Thanks to everyone who is helping and already test-driving things :) home page picture of https://testrun.org text title &quot;Testrun.org&quot; with the sub title &quot;experimenting with the future of Email&quot; the picture is a collage and shows the head of a dinosaur with an open mouth and many teeth trying to swallow a Zeppelin that seems to be flying directly into the mouth. Next to the dinosaur head is a classic &quot;@&quot; email symbol. the middle part is blue, and has overlay graphics of a moon-like planet and some old computers in the back the bottom part contains a picture of a sysadmin ca. 1975 in front of computer screens that show green letters on a black screen. There also are separately three cryptic letter chains that seem to translate to &quot;Communications&quot;, &quot;Command&quot; and &quot;Sigma&quot;. Another &quot;@&quot; sign is left of the computer screens.</title>
-        <link>https://chaos.social/@delta/115413031014678287</link>
-        <guid>https://chaos.social/@delta/115413031014678287</guid>
-        <pubDate>Tue, 21 Oct 2025 16:11:35 +0000</pubDate>
       </item>
   </channel>
 </rss>
