@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Signal just released a &amp;quot;poll&amp;quot; feature with great fanfare, while all #deltachat apps already integrated a full suite of chat-shared apps, checklists, polls, shopping lists, calendar, editor + tons of games. Better, anyone can create new apps, eg as github/codeberg forks from existing apps, and post it to their chats for instant deployment. No need to ask for permission, register an account, and no hosting or DNS: actually &amp;quot;server-less&amp;quot; and fully end-to-end encrypted :) https://webxdc.org/apps web page screenshot of https://webxdc.org/apps screenshot of official Signal account in Signal Android that announces &quot;Signal polls are here&quot; with three paragraphs of explanation.</title>
+        <link>https://chaos.social/@delta/115576683241482890</link>
+        <guid>https://chaos.social/@delta/115576683241482890</guid>
+        <pubDate>Wed, 19 Nov 2025 13:50:30 +0000</pubDate>
+      </item><item>
         <title>Any data that is collected on servers will eventually leak or be abused otherwise. By design, no one can enumerate #deltachat profiles which are private and not published on any server. Conversely, #chatmail relays do not see or collect private data or metadata. But wait, there is more :) We are currently evolving end-to-end security protocols and UX to **survive an attacker fully taking over a server**. The attacker shall not even be able to message users, let alone impersonate anyone. beginning of the title of the research paper on the whatsapp number leaks https://github.com/sbaresearch/whatsapp-census/blob/main/Hey_there_You_are_using_WhatsApp.pdf</title>
         <link>https://chaos.social/@delta/115575977950468592</link>
         <guid>https://chaos.social/@delta/115575977950468592</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115431424969929801</link>
         <guid>https://chaos.social/@delta/115431424969929801</guid>
         <pubDate>Fri, 24 Oct 2025 22:09:24 +0000</pubDate>
-      </item><item>
-        <title>Good news! It&amp;#39;s getting harder to keep track of new #chatmail relays :) Recently several public relays were added to the https://chatmail.at/relays list, in Warsaw, Helsinki, Romania and Barcelona.🧡 If you have #deltachat installed on mobile, you can go to any chatmail relay website in the list and click on a link there to create a chat profile. It&amp;#39;s wonderful to hear about collectives setting up chat infrastructure like the recent https://xat.fedi.cat from @fedicat and @eXOfasia</title>
-        <link>https://chaos.social/@delta/115425511701875559</link>
-        <guid>https://chaos.social/@delta/115425511701875559</guid>
-        <pubDate>Thu, 23 Oct 2025 21:05:35 +0000</pubDate>
       </item>
   </channel>
 </rss>
