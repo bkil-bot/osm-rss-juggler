@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>For those who used all three of Whatsapp, Signal and Delta Chat in multi-device mode: Which messenger provides the best multi-device setup and handling for users (UX)? (question spans setting up a second/linked device, as well as migrating to new device, as well as quality of multi-device synchronizing/bugfree-ness -- all subjectively weighted by each voter according to their subjective experiences) Signal Whatsapp Delta Chat other (please name in reply)</title>
+        <link>https://chaos.social/@delta/115588053904571763</link>
+        <guid>https://chaos.social/@delta/115588053904571763</guid>
+        <pubDate>Fri, 21 Nov 2025 14:02:12 +0000</pubDate>
+      </item><item>
         <title>two other things that can&amp;#39;t be stressed enough for maintaining development long-term: - Avoid superflous abstractions. Premature abstractions are the root of all ... complexity. If you have a second and third case, you can introduce an abstraction, but even then: don&amp;#39;t over-abstract! - write tests for everything, especially for the API that you want to guarantee to others. The chatmail core library just passed 1000 automated tests. The users of your API, and their users will thank you.</title>
         <link>https://chaos.social/@delta/115587360113599644</link>
         <guid>https://chaos.social/@delta/115587360113599644</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115454041149791990</link>
         <guid>https://chaos.social/@delta/115454041149791990</guid>
         <pubDate>Tue, 28 Oct 2025 22:01:00 +0000</pubDate>
-      </item><item>
-        <title>Our project is one of constant exit planning and circumvention considerations ... as times and tech are getting more shitty. We don&amp;#39;t bet on a single basket, and not a single state or jurisdiction, and certainly not AWS/Google/Microsoft US clouds which run #Signal servers. No single hoster, platform or language (we do a lot of Rust, granted) and no single device or vendor. At #chatmail protocol levels we regard nothing as holy, and look for simplicity and robustness, and convivial community 🖤 Logo of the https://chatmail.at project It's a black @ sign on white background, but on the lower left corner the @ sign has a speech bubble deformation</title>
-        <link>https://chaos.social/@delta/115434101831536100</link>
-        <guid>https://chaos.social/@delta/115434101831536100</guid>
-        <pubDate>Sat, 25 Oct 2025 09:30:10 +0000</pubDate>
       </item>
   </channel>
 </rss>
