@@ -3,6 +3,16 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>two other things that can&amp;#39;t be stressed enough for maintaining development long-term: - Avoid superflous abstractions. Premature abstractions are the root of all ... complexity. If you have a second and third case, you can introduce an abstraction, but even then: don&amp;#39;t over-abstract! - write tests for everything, especially for the API that you want to guarantee to others. The chatmail core library just passed 1000 automated tests. The users of your API, and their users will thank you.</title>
+        <link>https://chaos.social/@delta/115587360113599644</link>
+        <guid>https://chaos.social/@delta/115587360113599644</guid>
+        <pubDate>Fri, 21 Nov 2025 11:05:46 +0000</pubDate>
+      </item><item>
+        <title>The #chatmail #rust core is the base infrastructure library used by all apps and bots. It contains all networking, encryption, email processing and implements all the relevant IETF email standards. It&amp;#39;s a single central development place with which the whole ecosystem of clients and bots can upgrade consistently. We are constantly trying to remove code, and to cleanup things. That&amp;#39;s a must to keep a 8-year long evolved code base agile and adaptable. Key insight: The best code is no code ;) screenshot of Overview at https://github.com/chatmail/core/pulse 103 active pull requests, 63 active issues 90 merged pull requests, 13 open pull reqwuests 40 closed issues 23 new issues &quot;trade offer meme&quot;| with a guy folding his hands, below the following text in two columns: i receive: PR review you receive: PR review</title>
+        <link>https://chaos.social/@delta/115587310198124917</link>
+        <guid>https://chaos.social/@delta/115587310198124917</guid>
+        <pubDate>Fri, 21 Nov 2025 10:53:04 +0000</pubDate>
+      </item><item>
         <title>Signal just released a &amp;quot;poll&amp;quot; feature with great fanfare, while all #deltachat apps already integrated a full suite of chat-shared apps, checklists, polls, shopping lists, calendar, editor + tons of games. Better, anyone can create new apps, eg as github/codeberg forks from existing apps, and post it to their chats for instant deployment. No need to ask for permission, register an account, and no hosting or DNS: actually &amp;quot;server-less&amp;quot; and fully end-to-end encrypted :) https://webxdc.org/apps web page screenshot of https://webxdc.org/apps screenshot of official Signal account in Signal Android that announces &quot;Signal polls are here&quot; with three paragraphs of explanation.</title>
         <link>https://chaos.social/@delta/115576683241482890</link>
         <guid>https://chaos.social/@delta/115576683241482890</guid>
@@ -92,16 +102,6 @@
         <link>https://chaos.social/@delta/115434101831536100</link>
         <guid>https://chaos.social/@delta/115434101831536100</guid>
         <pubDate>Sat, 25 Oct 2025 09:30:10 +0000</pubDate>
-      </item><item>
-        <title>We are aware of roskomnadzor just having ramped up their blocking efforts in #russia against #deltachat &amp;#39;s default onboarding chatmail relay. Signal, Whatsapp are degraded/blocked for a longer time already. 1) Delta Chat has first class shadow-socks proxy support (try ss:// links you can find ... Delta has management-proxy UX) 2) many other chatmail relays work fine and inter-chatmail/email server traffic continues unimpeded 3) if you can help with analyzing please drop into our DMs.</title>
-        <link>https://chaos.social/@delta/115433854457110106</link>
-        <guid>https://chaos.social/@delta/115433854457110106</guid>
-        <pubDate>Sat, 25 Oct 2025 08:27:15 +0000</pubDate>
-      </item><item>
-        <title>Believe it or not: #deltachat is growing audio/video calls starting with the currently rolling 2.22 releases ... A few people already had two hour long stable calls :) Calls are an experimental option while we continue to work on reliability, UX/UI revisions, and configuration of TURN servers on #chatmail relays and in clients. We want calls to reliably work across all major platforms, networks and phones, including #UbuntuTouch Feedback and debugging happens at https://support.delta.chat/t/help-testing-upcoming-delta-chat-release-with-calls/4220/17</title>
-        <link>https://chaos.social/@delta/115431424969929801</link>
-        <guid>https://chaos.social/@delta/115431424969929801</guid>
-        <pubDate>Fri, 24 Oct 2025 22:09:24 +0000</pubDate>
       </item>
   </channel>
 </rss>
