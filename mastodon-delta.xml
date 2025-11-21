@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Well, maybe we need to be more clear what we are trying to do: #deltachat apps are a cross-platform private messenger suite, that aims to provide a consistent UX/UI for users with lots of experience using WhatsApp and Signal. Telegram has good fast UX but is hardly a private messenger (it has a central cleartext database of everyone and everything). Matrix and XMPP are well-esteemed fellows in federated messaging, but so far didn&amp;#39;t grow a WA/Signal-level cross-platform messaging UX. YMMV</title>
+        <link>https://chaos.social/@delta/115588403985929007</link>
+        <guid>https://chaos.social/@delta/115588403985929007</guid>
+        <pubDate>Fri, 21 Nov 2025 15:31:14 +0000</pubDate>
+      </item><item>
         <title>For those who used all three of Whatsapp, Signal and Delta Chat in multi-device mode: Which messenger provides the best multi-device setup and handling for users (UX)? (question spans setting up a second/linked device, as well as migrating to new device, as well as quality of multi-device synchronizing/bugfree-ness -- all subjectively weighted by each voter according to their subjective experiences) Signal Whatsapp Delta Chat other (please name in reply)</title>
         <link>https://chaos.social/@delta/115588053904571763</link>
         <guid>https://chaos.social/@delta/115588053904571763</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115463734108419465</link>
         <guid>https://chaos.social/@delta/115463734108419465</guid>
         <pubDate>Thu, 30 Oct 2025 15:06:03 +0000</pubDate>
-      </item><item>
-        <title>Signal&amp;#39;s president claimed it takes billions to replicate the availability and reliability of &amp;quot;hyperscalers&amp;quot; (AWS/Google/Microsoft/Cloudfare) that Signal uses. #chatmail and #deltachat are about disproving this claim by 1) making relays super cheap (DONE) 2) enabling chat profiles to use multiple relays redundantly (WIP) 3) distributing relay knowledge among chatters (TBD). Fat servers, corporate overlords and billionaires: not needed and better to not exist for a convivial e2ee future :)</title>
-        <link>https://chaos.social/@delta/115454041149791990</link>
-        <guid>https://chaos.social/@delta/115454041149791990</guid>
-        <pubDate>Tue, 28 Oct 2025 22:01:00 +0000</pubDate>
       </item>
   </channel>
 </rss>
