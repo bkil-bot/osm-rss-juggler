@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>#chatmail does secure email federation that works. Using lean &amp;quot;relay&amp;quot; servers that enforce metadata-minimized end-to-end encryption. There is a new little tool that checks whether two relays are interacting well for messaging, and how fast. You need a terminal window and be able to execute: pip install cmping you can then run for example: cmping mailchat.pl nine.testrun.org to perform a &amp;quot;ping&amp;quot; test for e2ee-messaging. Also see https://chatmail.at/relays https://github.com/chatmail/cmping/ screenshot of a command installable with &quot;pip install cmping&quot;. (venv) hpk@gamma:~$ cmping mailchat.pl nine.testrun.org # using accounts_dir at: /home/hpk/.cache/cmping CMPING mailchat.pl(jscsiirgr@mailchat.pl) -&gt; nine.testrun.org(76yzfhcig@nine 64 bytes ME -&gt; mailchat.pl -&gt; nine.testrun.org -&gt; ME seq=0 time=899.98ms 64 bytes ME -&gt; mailchat.pl -&gt; nine.testrun.org -&gt; ME seq=1 time=537.55ms 64 bytes ME -&gt; mailchat.pl -&gt; nine.testrun.org -&gt; ME seq=2 time=583.42ms 64 bytes ME -&gt; mailchat.pl -&gt; nine.testrun.org -&gt; ME seq=11 time=555.63ms ... 64 bytes ME -&gt; mailchat.pl -&gt; nine.testrun.org -&gt; ME seq=12 time=560.16ms 64 bytes ME -&gt; mailchat.pl -&gt; nine.testrun.org -&gt; ME seq=13 time=543.74ms 64 bytes ME -&gt; mailchat.pl -&gt; nine.testrun.org -&gt; ME seq=14 time=641.86ms 64 bytes ME -&gt; mailchat.pl -&gt; nine.testrun.org -&gt; ME seq=15 time=649.15ms 64 bytes ME -&gt; mailchat.pl -&gt; nine.testrun.org -&gt; ME seq=25 time=553.25ms 64 bytes ME -&gt; mailchat.pl -&gt; nine.testrun.org -&gt; ME seq=26 time=583.68ms 64 bytes ME -&gt; mailchat.pl -&gt; nine.testrun.org -&gt; ME seq=27 time=641.81ms 64 bytes ME -&gt; mailchat.pl -&gt; nine.testrun.org -&gt; ME seq=28 time=650.70ms 64 bytes ME -&gt; mailchat.pl -&gt; nine.testrun.org -&gt; ME seq=29 time=558.98ms --- jscsiirgr@mailchat.pl -&gt; 76yzfhcig@nine.testrun.org statistics --- 30 transmitted, 30 received, 0.00% loss rtt min/avg/max/mdev = 537.554/596.469/899.980/71.002 ms</title>
+        <link>https://chaos.social/@delta/115617478998325631</link>
+        <guid>https://chaos.social/@delta/115617478998325631</guid>
+        <pubDate>Wed, 26 Nov 2025 18:45:23 +0000</pubDate>
+      </item><item>
         <title>Well, maybe we need to be more clear what we are trying to do: #deltachat apps are a cross-platform private messenger suite, that aims to provide a consistent UX/UI for users with lots of experience using WhatsApp and Signal. Telegram has good fast UX but is hardly a private messenger (it has a central cleartext database of everyone and everything). Matrix and XMPP are well-esteemed fellows in federated messaging, but so far didn&amp;#39;t grow a WA/Signal-level cross-platform messaging UX. YMMV</title>
         <link>https://chaos.social/@delta/115588403985929007</link>
         <guid>https://chaos.social/@delta/115588403985929007</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115467919139998369</link>
         <guid>https://chaos.social/@delta/115467919139998369</guid>
         <pubDate>Fri, 31 Oct 2025 08:50:21 +0000</pubDate>
-      </item><item>
-        <title>Today, we were nicely surprised by @gianmarcogg03 with a new comprehensive (italian) #deltachat introduction video, going through initial setup, groups and chatting, second device setup, #webxdc apps, bots, calls and playing Quake -- all the nice things you can do these days :) https://mastodon.uno/@gianmarcogg03/115462294953394774 containing peertube, odysee and youtube links (latter provides English subtitles) Fun fact: devs noticed some tiny but embarrassing glitches in the UI which are now getting fixed as we speak :)</title>
-        <link>https://chaos.social/@delta/115463734108419465</link>
-        <guid>https://chaos.social/@delta/115463734108419465</guid>
-        <pubDate>Thu, 30 Oct 2025 15:06:03 +0000</pubDate>
       </item>
   </channel>
 </rss>
