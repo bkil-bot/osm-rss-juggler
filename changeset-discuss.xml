@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Üdv az OpenStreetMapen! Az access címke mindenkire vonatkozik, még gyalogosokra is! Az access=destination címkének így nincs is értelme. Ha az utca elején egy mindkét irányból behajtani tilos, kivéve célforgalom tábla található, annak a címkéje vehicle=destination. A leggyakoribb táblák jelöléseit ezen az oldalon gyűjtöttük össze: https://wiki.openstreetmap.org/wiki/Hungary/Közúti_jelzőtáblák Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség#Elérhetőségek További jó térképezést! Date: 2025-12-01T16:03:23+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/175266636</link>
+        <guid>https://www.openstreetmap.org/changeset/175266636#comment_1</guid>
+        <pubDate>2025-12-01T16:03:23+01:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! A Margit körút felőli végén a táblán az szerepel, hogy &quot;Kivéve BKK&quot;, azaz szerintem itt a psv nem jó, ide taxi nem hajthat fel, ami a psv-betartozik. Egy hónapja fotóztam ezt: https://files.catbox.moe/rsgibu.jpg itt: https://osm.org/go/0KfBhz1oy?m= Szóval szerintem itt a bus=yes jobb, mert ez nem klasszikus buszsáv. Az már más kérdés, hogy Kresz szerint ezen a táblán behajthatnak a biciklik, de mennyire életszerű a híd közepén tekerni. További jó térképezést! Date: 2025-12-01T14:38:13+01:00</title>
         <link>https://www.openstreetmap.org/changeset/175291628</link>
         <guid>https://www.openstreetmap.org/changeset/175291628#comment_1</guid>
@@ -47,11 +52,6 @@
         <link>https://www.openstreetmap.org/changeset/175081462</link>
         <guid>https://www.openstreetmap.org/changeset/175081462#comment_2</guid>
         <pubDate>2025-11-24T22:22:38+01:00</pubDate>
-      </item><item>
-        <title>Contributor: Baloo79 Discussion Comment No.: 3 Comment: Szia! Rendben, köszönöm! Date: 2025-11-24T16:54:57+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/174907515</link>
-        <guid>https://www.openstreetmap.org/changeset/174907515#comment_3</guid>
-        <pubDate>2025-11-24T16:54:57+01:00</pubDate>
       </item>
   </channel>
 </rss>
