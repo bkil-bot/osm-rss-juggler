@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Egyirányú utcákhoz ilyen kanyarodási korlátozásokat ne adj hozzá, az egyirányúságból következik, hogy nem szabad oda bekanyarodni. https://wiki.openstreetmap.org/wiki/One_feature,_one_OSM_element Ráadásul az út amihez jelölted nem is létezik, sávokat nem rajzoljuk külön vonalként... Javítottam az egész csomópontot itt: https://www.openstreetmap.org/changeset/175409437 További jó térképezést! Date: 2025-12-02T16:07:46+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/175349404</link>
+        <guid>https://www.openstreetmap.org/changeset/175349404#comment_1</guid>
+        <pubDate>2025-12-02T16:07:46+01:00</pubDate>
+      </item><item>
         <title>Contributor: leveskockaa Discussion Comment No.: 5 Comment: Épp ezért nem is kerékpározható, mert ez nem egy klasszikus buszsáv plusz kerékpár piktogram, ami ugye kerékpározható buszsávot jelöl. Hasonló alatt természetesen nem egy ,,mezei&quot; buszsávra gondoltam. Szerintem a táblázást és a gyakorlatot tekintve ugyanaz, mint mondjuk a Kiskörúton a Kálvin tér és a Dohány utca között. Melyik KRESZ pont szerint mehetne kerékpáros a BKK-sávban? A Batthyány tér a kerékpáros és az állati erővel vont jármű esetére volt a példám. A lényeg egyébként is az szerintem, hogy itt nem behajtási korlátozásról van szó, mert a behajtás magukkal ezekkel a rejtett járműtípusokkal (kerékpár, állati erővel vont) egyébként is engedélyezett a Margit hídra és az arra felvezető útszakaszokra. A sávinformációs tábla szerint a villamospálya egyben forgalmi sáv is, de csak a BKK-nak illetve szerinte ez egy útnak minősül, aminek belső sávja korlátozás alá esik. A nevezett két rejtett kivétellel (bringa, lovaskocsi) minden bizonnyal csak a jobb oldali két forgalmi sávban szabályos haladni. Amennyiben nem kielégítő úgy, ahogy az én ,,buszosításom&quot; előtt volt (access=no; psv=yes), a taxi tiltás szerintem megállja a helyét a térképen, nekem egyelőre nem sikerült alátámasztanom, annak ellenére, hogy pontosan tudom, hogy ez a gyakorlat. Szerintem a taxik más esetben visszaélnek, visszaélhetnek a BKK-státuszukkal, például a Nyugati téren a felüljáróval párhuzamosan átkelhetnek a körút másik oldalára? Visszatérve a szerkesztésemre, csupán annyi történt, hogy felülvizsgáltam egy korábbi módosításom, és helytelennek ítéltem. A psv értelemszerűen nem csak a taxi, hanem a trolibusz is, bár ez a Margit híd esetében csak egy elvi lehetőség, de a Kiskörúton napi valóság. Most láttam csak, de ez a review_requested pedig véletlen volt. Date: 2025-12-02T08:12:32+01:00</title>
         <link>https://www.openstreetmap.org/changeset/175291628</link>
         <guid>https://www.openstreetmap.org/changeset/175291628#comment_5</guid>
@@ -37,11 +42,6 @@
         <link>https://www.openstreetmap.org/changeset/175112693</link>
         <guid>https://www.openstreetmap.org/changeset/175112693#comment_1</guid>
         <pubDate>2025-11-26T19:05:12+01:00</pubDate>
-      </item><item>
-        <title>Contributor: CopperOppositeKindred Discussion Comment No.: 2 Comment: javítva: https://www.openstreetmap.org/changeset/175120237 Date: 2025-11-25T17:16:28+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/175023738</link>
-        <guid>https://www.openstreetmap.org/changeset/175023738#comment_2</guid>
-        <pubDate>2025-11-25T17:16:28+01:00</pubDate>
       </item>
   </channel>
 </rss>
