@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>#Telegram has a nice and fast UI, granted. But the 1 billion people using TG are at risk because of its big central database that any state security service craves for. Moreover, several anonymization proxy-bot offerings were hacked in 2024, identifying millions of users and content. #deltachat builds anonymization directly into the app and has pervasive end-to-end encryption. #chatmail relay operators can sleep well, knowing they have nothing. Ergo, E2EE is good for any operators sleep! :) Chatmail logo from https://chatmail.at it's an @ character but with a speech chat deformation in the left button.</title>
+        <link>https://chaos.social/@delta/115656938948176196</link>
+        <guid>https://chaos.social/@delta/115656938948176196</guid>
+        <pubDate>Wed, 03 Dec 2025 18:00:35 +0000</pubDate>
+      </item><item>
         <title>from a random community chat: &amp;quot;#Telegram secret chats exist so you can share your #deltachat QR/link to get off Telegram 😇&amp;quot; In related news, Arte published a well-done documentary film about &amp;quot;Telegram, the dark empire of Pawel Durov&amp;quot; up (german audio only) https://www.arte.tv/de/videos/122721-000-A/telegram-das-dunkle-imperium-von-pawel-durow/ -- it&amp;#39;s a dive into various TG happenings during the last decades, biographical origins of telegram development, the durov brothers etc..</title>
         <link>https://chaos.social/@delta/115646879787522727</link>
         <guid>https://chaos.social/@delta/115646879787522727</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115470422913021817</link>
         <guid>https://chaos.social/@delta/115470422913021817</guid>
         <pubDate>Fri, 31 Oct 2025 19:27:06 +0000</pubDate>
-      </item><item>
-        <title>Countering toxicity and fake takes is not just a technical question (moderation, admins etc) but one of social curation both collectively and privately: which people and groups do you/we trust for what. No tool can automate that. #deltachat is for private e2ee messaging and mutually curated group chats, and not random social media propelled onboarding. We are with #Signal here and not with #simplex and #matrix who offer public anonymous discovery of large chat groups with lots of unknown folks.</title>
-        <link>https://chaos.social/@delta/115469068110470521</link>
-        <guid>https://chaos.social/@delta/115469068110470521</guid>
-        <pubDate>Fri, 31 Oct 2025 13:42:33 +0000</pubDate>
       </item>
   </channel>
 </rss>
