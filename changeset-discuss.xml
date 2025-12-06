@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: Fazu Discussion Comment No.: 2 Comment: Szia! Köszönöm a technikai eligazítást és a javítást. Az viszont szerintem nem jó, hogy a Váci úton a csomópontban mindkét irányban megengedett a visszafordulás, ill. északról jövet a balra/visszafordulás a buszvégállomásra/szervizútra Gyöngyösi utcába tartva. Fazu Date: 2025-12-06T09:59:19+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/175349404</link>
+        <guid>https://www.openstreetmap.org/changeset/175349404#comment_2</guid>
+        <pubDate>2025-12-06T09:59:19+01:00</pubDate>
+      </item><item>
         <title>Contributor: dcf77 Discussion Comment No.: 1 Comment: Szia zinderMT! A szerencsi Nestlé naperőművénél a 1,5 GW teljesítmény téves érték. A megjelent cikkekben az éves energiatermelését írják, ami helyesen GWh. Összehasonlításként Pakson az atomerőmű teljesítménye 2 GW, éves energiatermelése pedig ~16000 GWh. Ha nincs meg a pontos teljesítmény adat, addig szerintem érdemes törölni a hibás értéket. Date: 2025-12-05T12:03:14+01:00</title>
         <link>https://www.openstreetmap.org/changeset/175280668</link>
         <guid>https://www.openstreetmap.org/changeset/175280668#comment_1</guid>
@@ -12,11 +17,6 @@
         <link>https://www.openstreetmap.org/changeset/175291628</link>
         <guid>https://www.openstreetmap.org/changeset/175291628#comment_6</guid>
         <pubDate>2025-12-02T17:36:05+01:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Egyirányú utcákhoz ilyen kanyarodási korlátozásokat ne adj hozzá, az egyirányúságból következik, hogy nem szabad oda bekanyarodni. https://wiki.openstreetmap.org/wiki/One_feature,_one_OSM_element Ráadásul az út amihez jelölted nem is létezik, sávokat nem rajzoljuk külön vonalként... Javítottam az egész csomópontot itt: https://www.openstreetmap.org/changeset/175409437 További jó térképezést! Date: 2025-12-02T16:07:46+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/175349404</link>
-        <guid>https://www.openstreetmap.org/changeset/175349404#comment_1</guid>
-        <pubDate>2025-12-02T16:07:46+01:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Üdv az OpenStreetMapen! Az access címke mindenkire vonatkozik, még gyalogosokra is! Az access=destination címkének így nincs is értelme. Ha az utca elején egy mindkét irányból behajtani tilos, kivéve célforgalom tábla található, annak a címkéje vehicle=destination. A leggyakoribb táblák jelöléseit ezen az oldalon gyűjtöttük össze: https://wiki.openstreetmap.org/wiki/Hungary/Közúti_jelzőtáblák Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség#Elérhetőségek További jó térképezést! Date: 2025-12-01T16:03:23+01:00</title>
         <link>https://www.openstreetmap.org/changeset/175266636</link>
