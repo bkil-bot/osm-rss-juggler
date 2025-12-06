@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: ha5vsa Discussion Comment No.: 3 Comment: A Lomexes épület esetében az eredeti címkézés annyiban volt jobb, hogy maga az épület megmaradt (és így aki mondjuk lejárt szavatosságú légifelvételről dolgozik, az észbekaphat, hogy ne rajzolja fel mint álló épület), de lifecycle prefix jelzi, hogy már nem létezik, így rendererek sem rajzolják épületnek. A helyette berakott building=construction inkább arra alkalmazható, ha már legalább a földszinti falak állnak, tehát ténylegesen megvannak az (új, épülő) épület kontúrjai: https://wiki.openstreetmap.org/wiki/Tag:building%3Dconstruction – ezt visszajavítom az eredetire Date: 2025-12-06T20:56:13+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/170169434</link>
+        <guid>https://www.openstreetmap.org/changeset/170169434#comment_3</guid>
+        <pubDate>2025-12-06T20:56:13+01:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 3 Comment: Ilyen helyekre megfordulás tiltást rakni felesleges, útvonaltervezőknek az út típusából illene kitalálni, hogy egypályás úton meg lehet-e fordulni. Illetve mivel eléggé sok helyen ez nincs térképezve, ha azt feltételeznék, hogy meg lehet mindenhol fordulni, akkor eléggé használhatatlanok lennének... A kanyar tiltást pótoltam, az lemaradt. Date: 2025-12-06T20:00:34+01:00</title>
         <link>https://www.openstreetmap.org/changeset/175349404</link>
         <guid>https://www.openstreetmap.org/changeset/175349404#comment_3</guid>
