@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>RE: https://chaos.social/@thefinalstrawradio/115679804496870004 Another nice surprise! A careful discussion and appreciation of our almost 8-year long running efforts, and its #deltachat and #chatmail artifacts. The &amp;quot;Signal contingency plan&amp;quot; comes complete with podcast, website and zine!</title>
+        <link>https://chaos.social/@delta/115679847764891825</link>
+        <guid>https://chaos.social/@delta/115679847764891825</guid>
+        <pubDate>Sun, 07 Dec 2025 19:06:35 +0000</pubDate>
+      </item><item>
         <title>A few things #deltachat apps are doing positively different from #Signal apps - easiest onboarding ever; not depending on phone numbers or other private data - support for multiple chat profiles/identities - decentralized servers, not depending on US-based GAFAM etc. - migration from one app/platform to any other - easy multi-device support for any chat profile - developers have chances to get their PRs merged :) - mini-apps support via https://webxdc.org anything missing?</title>
         <link>https://chaos.social/@delta/115677379362500911</link>
         <guid>https://chaos.social/@delta/115677379362500911</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115491921280709748</link>
         <guid>https://chaos.social/@delta/115491921280709748</guid>
         <pubDate>Tue, 04 Nov 2025 14:34:25 +0000</pubDate>
-      </item><item>
-        <title>Many experts caught up in the past crypto/decentralization discourse fail to recognize one key innovation area of #deltachat and #chatmail efforts: A user interface (UI) and experience (UX) that mimicks and closely resembles Whatsapp and Telegram ... who both have a central cleartext database of identities, social graphs and, in the case of Telegram, also messages and media, of billions of users! We prefer to ground every discussion in UX/UI terms and measure security by outcomes for users.</title>
-        <link>https://chaos.social/@delta/115491894717316200</link>
-        <guid>https://chaos.social/@delta/115491894717316200</guid>
-        <pubDate>Tue, 04 Nov 2025 14:27:39 +0000</pubDate>
       </item>
   </channel>
 </rss>
