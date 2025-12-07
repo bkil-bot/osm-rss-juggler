@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>A few things #deltachat apps are doing positively different from #Signal apps - easiest onboarding ever; not depending on phone numbers or other private data - support for multiple chat profiles/identities - decentralized servers, not depending on US-based GAFAM etc. - migration from one app/platform to any other - easy multi-device support for any chat profile - developers have chances to get their PRs merged :) - mini-apps support via https://webxdc.org anything missing?</title>
+        <link>https://chaos.social/@delta/115677379362500911</link>
+        <guid>https://chaos.social/@delta/115677379362500911</guid>
+        <pubDate>Sun, 07 Dec 2025 08:38:50 +0000</pubDate>
+      </item><item>
         <title>On the occasion of SimpleX and Session getting cryptocoin-donations/funding ... we won&amp;#39;t hide that most delta contributors are pretty skeptical of cryptocoin-circles. Exhibit 1: #Webxdc apps - mini apps that anyone can whip up -- and the declared motto still on the https://webxdc.org web page since inception mid 2022: No logins, no coins, no platforms ... and this year, January 23rd, we added &amp;quot;no billionaires&amp;quot; to the growing list of things deserving a &amp;quot;no&amp;quot; :) https://delta.chat/en/2025-01-23-webxdc-no-billionaires screenshot of https://webxdc.org web page with the logo, and the following title, subtitle and motto webxdc web apps shared in a chat no logins, no coins, no platforms 🎉</title>
         <link>https://chaos.social/@delta/115657862971570963</link>
         <guid>https://chaos.social/@delta/115657862971570963</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115491894717316200</link>
         <guid>https://chaos.social/@delta/115491894717316200</guid>
         <pubDate>Tue, 04 Nov 2025 14:27:39 +0000</pubDate>
-      </item><item>
-        <title>We hereby challenge _all_ other messaging apps, FOSS or not, to provide a more convenient private onboarding experience than #deltachat 1. Install app 2. &amp;quot;Create new profile&amp;quot; 3. Enter nick name, tap &amp;quot;Agree and continue&amp;quot; 4. Tap &amp;quot;+&amp;quot; and &amp;quot;new contact&amp;quot; and provide/scan qr code/link Voila! A secure private chat, familiar to those coming from Whatsapp or Telegram (without &amp;quot;AI&amp;quot;, with #a11y). Note: chat identities are private and can not be queried or discovered. Servers keep no track or metadata Start screen of https;//get.delta.chat apps which shows Delta chat logo (Greek letter delta) Secure decentralized chat &quot;Create new profile&quot; button highlighted Create profile screen With a field to enter a name ... &quot;Fediverse chicken&quot; was typed A link to the privacy policy of nine.testrun.org, the default onboarding chatmail relay A highlighted button &quot;agree and continue&quot; A button &quot;use other server&quot; Screenshot of newly created profile Title bar &quot;fediverse chicken&quot; Two chats in the chat list: &quot;Device messages&quot; with instructions how to setup contact with another chat profile &quot;Saved messages&quot; where you can &quot;save&quot; messages from other chats to memorize them</title>
-        <link>https://chaos.social/@delta/115479392746850836</link>
-        <guid>https://chaos.social/@delta/115479392746850836</guid>
-        <pubDate>Sun, 02 Nov 2025 09:28:14 +0000</pubDate>
       </item>
   </channel>
 </rss>
