@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Please do not delete existing streets. Reverted https://www.openstreetmap.org/changeset/175692097 Date: 2025-12-09T01:02:15+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/175661519</link>
+        <guid>https://www.openstreetmap.org/changeset/175661519#comment_1</guid>
+        <pubDate>2025-12-09T01:02:15+01:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Hello! Please stop deleting this road, it's there. What do you want to map this with this change? There are some access restrictions on the street, but they are mapped correctly according to Hungarian traffic laws. Here is a mapillary sequence from some weeks ago: https://www.mapillary.com/app/?pKey=2277868792698224 Parking was limited due to the Christmas market, but the street is accessible, the car with the camera could drive through the deleted section. Changeset reverted. https://www.openstreetmap.org/changeset/175691920 Date: 2025-12-09T00:50:29+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/175661659</link>
+        <guid>https://www.openstreetmap.org/changeset/175661659#comment_1</guid>
+        <pubDate>2025-12-09T00:50:29+01:00</pubDate>
+      </item><item>
         <title>Contributor: ha5vsa Discussion Comment No.: 3 Comment: A Lomexes épület esetében az eredeti címkézés annyiban volt jobb, hogy maga az épület megmaradt (és így aki mondjuk lejárt szavatosságú légifelvételről dolgozik, az észbekaphat, hogy ne rajzolja fel mint álló épület), de lifecycle prefix jelzi, hogy már nem létezik, így rendererek sem rajzolják épületnek. A helyette berakott building=construction inkább arra alkalmazható, ha már legalább a földszinti falak állnak, tehát ténylegesen megvannak az (új, épülő) épület kontúrjai: https://wiki.openstreetmap.org/wiki/Tag:building%3Dconstruction – ezt visszajavítom az eredetire Date: 2025-12-06T20:56:13+01:00</title>
         <link>https://www.openstreetmap.org/changeset/170169434</link>
         <guid>https://www.openstreetmap.org/changeset/170169434#comment_3</guid>
