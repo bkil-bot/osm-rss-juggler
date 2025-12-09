@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: Mateusz Konieczny Discussion Comment No.: 1 Comment: Hello! https://www.openstreetmap.org/node/12616054983/history has shop = building_material that was added in this edit shop=building_material ? Is it https://wiki.openstreetmap.org/wiki/Tag:shop=doityourself or https://wiki.openstreetmap.org/wiki/Tag:shop=trade + https://wiki.openstreetmap.org/wiki/Tag:trade%3Dbuilding_supplies ? If not, how it differs? Date: 2025-12-09T16:35:14+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/162898411</link>
+        <guid>https://www.openstreetmap.org/changeset/162898411#comment_1</guid>
+        <pubDate>2025-12-09T16:35:14+01:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Please do not delete existing streets. Reverted https://www.openstreetmap.org/changeset/175692097 Date: 2025-12-09T01:02:15+01:00</title>
         <link>https://www.openstreetmap.org/changeset/175661519</link>
         <guid>https://www.openstreetmap.org/changeset/175661519#comment_1</guid>
@@ -32,11 +37,6 @@
         <link>https://www.openstreetmap.org/changeset/175280668</link>
         <guid>https://www.openstreetmap.org/changeset/175280668#comment_2</guid>
         <pubDate>2025-12-06T13:45:36+01:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 6 Comment: Áh, trolikat elfelejtettem, de egy taxi=no akkor is kellene mellé, mert az nem BKK. Nekünk azt kell térképezni ami a szabályos és a helyszínen felmérhető, nem azt ahogy &quot;szokták&quot;. Vagy te kifizeted a bírságot ahelyett aki a te szerkesztésed miatt behajt a tilosba, és pont ott ellenőriznek? Ezt a sofőrre vagy útvonaltervezőre kell bízni szerintem, hogy betartják-e a szabályokat. Ilyen sávokra vonatkozó megkülönböztetést nem találok a Kresz-ben, sőt, ez, hogy mindkét irányból behajtani tilos egy sávon nem is szerepel sehol. Ez alapján, hogy ilyen nincs, én úgy értelmezném, hogy ugyanaz a jelentése mint ha egy egysávos úton lenne, így viszont szerepel már: 14. § (14): &gt; Ha az (1) bekezdés n) pontjában említett jelzőtábla alatt [...] „Kivéve ..... (tömegközlekedési vállalat)” feliratú kiegészítő tábla van, az útra engedéllyel rendelkező vagy a kiegészítő táblán feltüntetett járművel, továbbá kerékpárral és állati erővel vont járművel szabad behajtani. A BUSZ felfestés Buszsávot jelent, és annak van megfelelő táblája is, de itt az nincs, ezért én inkább a táblát követném a felfestés helyett. A Buszsávban biciklizéssel tévedtem, azt csak ott lehet, ahol ott a kis piktogram is a TÁBLÁN, de itt nincs buszsáv piktogram... Le akarom tisztázni a buszsávok címkézését is ide: https://wiki.openstreetmap.org/wiki/Hungary/Közúti_jelzőtáblák azért érdekel mások véleménye, értelmezése is. Date: 2025-12-02T17:36:05+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/175291628</link>
-        <guid>https://www.openstreetmap.org/changeset/175291628#comment_6</guid>
-        <pubDate>2025-12-02T17:36:05+01:00</pubDate>
       </item>
   </channel>
 </rss>
