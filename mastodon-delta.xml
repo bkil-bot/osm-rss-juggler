@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>#deltachat PSAs regarding the last 24 hours: 1) If you messaged someone about 20-30 hours ago, and did not get an expected response/receipt better &amp;quot;resend&amp;quot; (long-tap or right-click the message to resend). Unfortunately, not all queued messages at the crashing nine.testrun.org server made it to the new one. 2) 2.33+ app releases are rolling out, supporting using &amp;quot;multiple relays&amp;quot; so that failing relays (like happened above) will not cause lost messages anymore. See https://support.delta.chat/t/how-to-migrate-your-profile-to-another-relay-version-2-33/ jack-sparrow-sinking-ship meme with three text parts: the sinking boat: &quot;nine's discs failing&quot; Sparrow stepping on to the harbor: &quot;Nine's admins&quot; The safe harbor: &quot;New Nine server / 2.33 Multi-relay releases rolling&quot;</title>
+        <link>https://chaos.social/@delta/115700871996320244</link>
+        <guid>https://chaos.social/@delta/115700871996320244</guid>
+        <pubDate>Thu, 11 Dec 2025 12:13:20 +0000</pubDate>
+      </item><item>
         <title>#chatmail relays really are the dumbest messaging servers in town, but having fun with each other 😂 https://chatmail.at/doc/relay the three-dragons meme, with matrix and signal being left and middle, very serious and powerfully looking, while chatmail is the third dragon looking more dumb but also more enjoying themselves?</title>
         <link>https://chaos.social/@delta/115700457883212685</link>
         <guid>https://chaos.social/@delta/115700457883212685</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115548430572739933</link>
         <guid>https://chaos.social/@delta/115548430572739933</guid>
         <pubDate>Fri, 14 Nov 2025 14:05:28 +0000</pubDate>
-      </item><item>
-        <title>Denmark and other EU governments still pursue #chatcontrol. They still want to permanently legalize client-side scanning but postponed making it mandatory. They also want to increase age-verification controls which risk to ruin what little is left of privacy in current digital spaces, taken hostage already by US corps. Ourselves? We double down on providing the most private, reliable and fun messaging experience, with a growing federating #chatmail relay network across the globe. What happened today? Behind closed doors, the Law Enforcement Working Party group approved the revised Danish Chat Control compromise with broad support. While mandatory scanning had officially been dropped, Article 4 of the new text reframes and reintroduces it by obliging providers of e-mail, chat, and messenger services to take “all appropriate risk mitigation measures”. This effectively forces providers to scan all messages, including private, end-to-end encrypted content. The same article outlaws anonymous communication by requiring every citizen to verify their age before accessing a service, kneecapping whistleblowers, journalists, political activists, and people seeking help who depend on anonymity. Article 6 further imposes a, digital house arrest and would ban minors from installing software which comes with a significant risk of grooming, such as WhatsApp, Instagram, and online games like Roblox. What happens next? The legislation now moves to the Coreper (Committee of Permanent Representations) for approval. Without major political objections, the Council will formally adopt its position. At this stage, both the Council and Commission unite in imposing mass surveillance on all 450 million citizens of the European Union and we enter a rushed trilogue. Unfortunately, while the mandate of the European Parliament does not suffer from the same flaws, the Parliament is traditionally known for giving in. What now? We raise our voices. Louder.</title>
-        <link>https://chaos.social/@delta/115541568376721617</link>
-        <guid>https://chaos.social/@delta/115541568376721617</guid>
-        <pubDate>Thu, 13 Nov 2025 09:00:19 +0000</pubDate>
       </item>
   </channel>
 </rss>
