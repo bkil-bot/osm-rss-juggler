@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Your chat profile/identity: a tar file. Your social web app: a zip file. https://chatmail.at and https://webxdc.org are spearheading ever new and more fun ways to deny power to servers and platform billionaires. Unlike classic email servers, #chatmail relays do not store user identities which solely live on end-user devices.There also is no encrypted value on the server like with Proton Mail or Signal. There are only relays, endless federating networks of relays to onboard safely :) Neo-spoon meme (scene from matrix movie where neo looks at a child bending a spoon which eventually tells him &quot;there is no spoon&quot;) with the following words top: &quot;On which server is your account?&quot; and below the bending spoon &quot;there is no account.&quot;</title>
+        <link>https://chaos.social/@delta/115708123530185067</link>
+        <guid>https://chaos.social/@delta/115708123530185067</guid>
+        <pubDate>Fri, 12 Dec 2025 18:57:29 +0000</pubDate>
+      </item><item>
         <title>#deltachat PSAs regarding the last 24 hours: 1) If you messaged someone about 20-30 hours ago, and did not get an expected response/receipt better &amp;quot;resend&amp;quot; (long-tap or right-click the message to resend). Unfortunately, not all queued messages at the crashing nine.testrun.org server made it to the new one. 2) 2.33+ app releases are rolling out, supporting using &amp;quot;multiple relays&amp;quot; so that failing relays (like happened above) will not cause lost messages anymore. See https://support.delta.chat/t/how-to-migrate-your-profile-to-another-relay-version-2-33/ jack-sparrow-sinking-ship meme with three text parts: the sinking boat: &quot;nine's discs failing&quot; Sparrow stepping on to the harbor: &quot;Nine's admins&quot; The safe harbor: &quot;New Nine server / 2.33 Multi-relay releases rolling&quot;</title>
         <link>https://chaos.social/@delta/115700871996320244</link>
         <guid>https://chaos.social/@delta/115700871996320244</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115567324782105720</link>
         <guid>https://chaos.social/@delta/115567324782105720</guid>
         <pubDate>Mon, 17 Nov 2025 22:10:31 +0000</pubDate>
-      </item><item>
-        <title>@maikel see https://github.com/chatmail/core/blob/main/src/securejoin/qrinvite.rs for the data structure and https://securejoin.readthedocs.io/en/latest/new.html#setup-contact-protocol for the securejoin protocol.</title>
-        <link>https://chaos.social/@delta/115548430572739933</link>
-        <guid>https://chaos.social/@delta/115548430572739933</guid>
-        <pubDate>Fri, 14 Nov 2025 14:05:28 +0000</pubDate>
       </item>
   </channel>
 </rss>
