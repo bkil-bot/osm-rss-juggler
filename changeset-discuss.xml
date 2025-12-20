@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: Fiorentina Discussion Comment No.: 2 Comment: Szia! Köszi az észrevételt! Ebben az esetben akkor címkézhetem úgy, hogy building:use=boulder? Mert erre vonatkozó opciót nem találtam a legördülő listában. Köszi a segítséget! Date: 2025-12-20T11:26:16+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/176087172</link>
+        <guid>https://www.openstreetmap.org/changeset/176087172#comment_2</guid>
+        <pubDate>2025-12-20T11:26:16+01:00</pubDate>
+      </item><item>
         <title>Contributor: leveskockaa Discussion Comment No.: 1 Comment: Hello! Why did you add motor_vehicle=yes to Széchenyi lánchíd? This is not the case, as evidenced by the signs on both ends. General vehicle traffic is prohibited by vehicle=no in accordance with the sign prohibiting all vehicles, „Mindkét irányból behajtani tilos&quot; in the &quot;Hungarian Highway Code&quot;, or ,,KRESZ&quot; . The exceptions also signed were mapped perfectly well, these are public service vehicles, taxis, mopeds, motorcycles, bicycles and carriages. motor_vehicle=yes permits all motor vehicles, while this is not the case. For example, tourist buses and private cars are not permitted, but motor_vehicle allows them, see https://wiki.openstreetmap.org/wiki/Key:access#Transport_mode_restrictions for details. Date: 2025-12-19T19:06:23+01:00</title>
         <link>https://www.openstreetmap.org/changeset/175966488</link>
         <guid>https://www.openstreetmap.org/changeset/175966488#comment_1</guid>
@@ -12,11 +17,6 @@
         <link>https://www.openstreetmap.org/changeset/80316398</link>
         <guid>https://www.openstreetmap.org/changeset/80316398#comment_1</guid>
         <pubDate>2025-12-18T19:17:32+01:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! A building=industrial-t rajta hagyhatod, ha ez ugyanaz az épület, a megváltozott funkciót a https://wiki.openstreetmap.org/wiki/Key:building:use címkével lehet jelölni. További jó térképezést! Date: 2025-12-18T16:20:46+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/176087172</link>
-        <guid>https://www.openstreetmap.org/changeset/176087172#comment_1</guid>
-        <pubDate>2025-12-18T16:20:46+01:00</pubDate>
       </item><item>
         <title>Contributor: SIDLER22 Discussion Comment No.: 4 Comment: Nem nagyon láttam. Házakra meg mindkét változatot láttam már kiírva. De majd a napokban elmegyek mégegyszer arra, hátha tudom egyértelműsíteni. Date: 2025-12-17T06:15:40+01:00</title>
         <link>https://www.openstreetmap.org/changeset/175666836</link>
