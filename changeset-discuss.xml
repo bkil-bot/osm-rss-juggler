@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 3 Comment: Mivel building=boulder nincs használatban, helyette a building:use=sports_hall-t használnám: https://taginfo.openstreetmap.org/tags/building%3Ause=sports_hall Date: 2025-12-24T12:26:16+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/176087172</link>
+        <guid>https://www.openstreetmap.org/changeset/176087172#comment_3</guid>
+        <pubDate>2025-12-24T12:26:16+01:00</pubDate>
+      </item><item>
         <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szia! Az utcanév nem helyesírási kérdés, az utca neve az ami a táblán szerepel. Jelen esetben az itteni nevek felmérésen alapultak, visszaállítottam az eredeti állapotot. Tamás Date: 2025-12-24T08:21:29+01:00</title>
         <link>https://www.openstreetmap.org/changeset/176250258</link>
         <guid>https://www.openstreetmap.org/changeset/176250258#comment_1</guid>
@@ -32,11 +37,6 @@
         <link>https://www.openstreetmap.org/changeset/80316398</link>
         <guid>https://www.openstreetmap.org/changeset/80316398#comment_2</guid>
         <pubDate>2025-12-20T19:24:33+01:00</pubDate>
-      </item><item>
-        <title>Contributor: Fiorentina Discussion Comment No.: 2 Comment: Szia! Köszi az észrevételt! Ebben az esetben akkor címkézhetem úgy, hogy building:use=boulder? Mert erre vonatkozó opciót nem találtam a legördülő listában. Köszi a segítséget! Date: 2025-12-20T11:26:16+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/176087172</link>
-        <guid>https://www.openstreetmap.org/changeset/176087172#comment_2</guid>
-        <pubDate>2025-12-20T11:26:16+01:00</pubDate>
       </item><item>
         <title>Contributor: leveskockaa Discussion Comment No.: 1 Comment: Hello! Why did you add motor_vehicle=yes to Széchenyi lánchíd? This is not the case, as evidenced by the signs on both ends. General vehicle traffic is prohibited by vehicle=no in accordance with the sign prohibiting all vehicles, „Mindkét irányból behajtani tilos&quot; in the &quot;Hungarian Highway Code&quot;, or ,,KRESZ&quot; . The exceptions also signed were mapped perfectly well, these are public service vehicles, taxis, mopeds, motorcycles, bicycles and carriages. motor_vehicle=yes permits all motor vehicles, while this is not the case. For example, tourist buses and private cars are not permitted, but motor_vehicle allows them, see https://wiki.openstreetmap.org/wiki/Key:access#Transport_mode_restrictions for details. Date: 2025-12-19T19:06:23+01:00</title>
         <link>https://www.openstreetmap.org/changeset/175966488</link>
