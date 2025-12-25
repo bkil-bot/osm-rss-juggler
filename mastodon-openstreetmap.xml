@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>Mappy Christmas fellow OpenStreetMapers!</title>
+        <link>https://en.osm.town/@openstreetmap/115779810040217708</link>
+        <guid>https://en.osm.town/@openstreetmap/115779810040217708</guid>
+        <pubDate>Thu, 25 Dec 2025 10:48:19 +0000</pubDate>
+      </item><item>
         <title>Announcing the 2025 Microgrant Program Grantees The OSM Foundation&amp;#39;s Engineering Working Group is pleased to announce the recipients of this years OSMF Microgrants Program. This program is designed to support community members working on software projects that strengthen the OSM platform and ecosystem https://blog.openstreetmap.org/2025/12/14/announcing-the-2025-microgrant-program-grantees/ #OpenStreetMap #OSM #OSMF #OSMFoundation</title>
         <link>https://en.osm.town/@openstreetmap/115728789533649601</link>
         <guid>https://en.osm.town/@openstreetmap/115728789533649601</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/114103634405230339</link>
         <guid>https://en.osm.town/@openstreetmap/114103634405230339</guid>
         <pubDate>Tue, 04 Mar 2025 10:14:48 +0000</pubDate>
-      </item><item>
-        <title>The Sovereign Tech Fund has shared details about how it&amp;#39;s investing in #OpenStreetMap to help modernize our core technology. From late 2024 through 2026, this investment will help update OpenStreetMap’s codebase, bringing it up to current software standards, and improve the contribution process through better documentation and testing. read more: https://www.sovereign.tech/tech/openstreetmap #OSM #gischat</title>
-        <link>https://en.osm.town/@openstreetmap/114083433286729790</link>
-        <guid>https://en.osm.town/@openstreetmap/114083433286729790</guid>
-        <pubDate>Fri, 28 Feb 2025 20:37:24 +0000</pubDate>
       </item>
   </channel>
 </rss>
