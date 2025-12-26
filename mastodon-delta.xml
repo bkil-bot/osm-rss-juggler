@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Quite a few of #deltachat #chatmail and #webxdc folks are already and will be around #39c3 -- on-site you can join a group chat (or send us a DM upfront) where we announce dynamically scheduled sessions. You&amp;#39;ll find us mostly around Komona but also other places ... for more info: https://delta.chat/39c3.html PSA: Influenza is spreading heavily currently, and 30% of people are infectious without symptoms. Please maintain hygiene and at best test yourself before entering premises. Thanks!</title>
+        <link>https://chaos.social/@delta/115785328146349022</link>
+        <guid>https://chaos.social/@delta/115785328146349022</guid>
+        <pubDate>Fri, 26 Dec 2025 10:11:38 +0000</pubDate>
+      </item><item>
         <title>Short and succinct, @neil lays down the incredible danger of the UK&amp;#39;s current political talk about &amp;quot;banning under 16y olds&amp;quot; from using online services. UK&amp;#39;s &amp;quot;age assurance&amp;quot; is similar to #chatcontrol &amp;#39;s &amp;quot;age verification&amp;quot; plans: the end of privacy when using online services. Basically policing everywhere demanding &amp;quot;show me your passport!&amp;quot; before you can cross the street to a web shop or forum. https://decoded.legal/blog/2025/12/a-proposed-legislative-amendment-to-attempt-to-ban-under-16s-in-the-uk-from-common-messaging-services-sharing-family-photos-using-wikipedia-and-doing-much-else-online-by-imposing-age-assurance-on-everyone/</title>
         <link>https://chaos.social/@delta/115746844334925533</link>
         <guid>https://chaos.social/@delta/115746844334925533</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115576683241482890</link>
         <guid>https://chaos.social/@delta/115576683241482890</guid>
         <pubDate>Wed, 19 Nov 2025 13:50:30 +0000</pubDate>
-      </item><item>
-        <title>Any data that is collected on servers will eventually leak or be abused otherwise. By design, no one can enumerate #deltachat profiles which are private and not published on any server. Conversely, #chatmail relays do not see or collect private data or metadata. But wait, there is more :) We are currently evolving end-to-end security protocols and UX to **survive an attacker fully taking over a server**. The attacker shall not even be able to message users, let alone impersonate anyone. beginning of the title of the research paper on the whatsapp number leaks https://github.com/sbaresearch/whatsapp-census/blob/main/Hey_there_You_are_using_WhatsApp.pdf</title>
-        <link>https://chaos.social/@delta/115575977950468592</link>
-        <guid>https://chaos.social/@delta/115575977950468592</guid>
-        <pubDate>Wed, 19 Nov 2025 10:51:08 +0000</pubDate>
       </item>
   </channel>
 </rss>
