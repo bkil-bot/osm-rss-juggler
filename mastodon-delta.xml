@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Relax 😎! GPG is not OpenPGP! Yesterday, vulnerabilities were published https://gpg.fail but they don&amp;#39;t affect #deltachat or other #chatmail clients because A) We never used #gnupg for anything; we use the modern #rustlang #openpgp implementation @rpgp, security audited multiple times. B) #openpgp is fine, as modernized in #RFC9580, which already warns against several #gpgfail issues (gpg didn&amp;#39;t implement that spec) Please spread the word that #gpg is not #openpgp ... Thanks! #39c3</title>
+        <link>https://chaos.social/@delta/115796626066185436</link>
+        <guid>https://chaos.social/@delta/115796626066185436</guid>
+        <pubDate>Sun, 28 Dec 2025 10:04:51 +0000</pubDate>
+      </item><item>
         <title>Quite a few of #deltachat #chatmail and #webxdc folks are already and will be around #39c3 -- on-site you can join a group chat (or send us a DM upfront) where we announce dynamically scheduled sessions. You&amp;#39;ll find us mostly around Komona but also other places ... for more info: https://delta.chat/39c3.html PSA: Influenza is spreading heavily currently, and 30% of people are infectious without symptoms. Please maintain hygiene and at best test yourself before entering premises. Thanks!</title>
         <link>https://chaos.social/@delta/115785328146349022</link>
         <guid>https://chaos.social/@delta/115785328146349022</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115587310198124917</link>
         <guid>https://chaos.social/@delta/115587310198124917</guid>
         <pubDate>Fri, 21 Nov 2025 10:53:04 +0000</pubDate>
-      </item><item>
-        <title>Signal just released a &amp;quot;poll&amp;quot; feature with great fanfare, while all #deltachat apps already integrated a full suite of chat-shared apps, checklists, polls, shopping lists, calendar, editor + tons of games. Better, anyone can create new apps, eg as github/codeberg forks from existing apps, and post it to their chats for instant deployment. No need to ask for permission, register an account, and no hosting or DNS: actually &amp;quot;server-less&amp;quot; and fully end-to-end encrypted :) https://webxdc.org/apps web page screenshot of https://webxdc.org/apps screenshot of official Signal account in Signal Android that announces &quot;Signal polls are here&quot; with three paragraphs of explanation.</title>
-        <link>https://chaos.social/@delta/115576683241482890</link>
-        <guid>https://chaos.social/@delta/115576683241482890</guid>
-        <pubDate>Wed, 19 Nov 2025 13:50:30 +0000</pubDate>
       </item>
   </channel>
 </rss>
