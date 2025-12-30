@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>#39c3 .ending .. quite an enjoyable blast, and thanks to all the wonderful people just dropping by to say &amp;quot;thank you, it all works very nice for us&amp;quot;! 🥰 Certainly raised team spirits :) This year around, apart from one #chatmail relay setup workshop we didn&amp;#39;t do any registered events at congress. Pushing out releases, Illnesses and engagements in various other organizing prevented more public sessions. Next ones will be around #fosdem2026 where also several of us will be around. Cheers! Picture of the congress rocket in various laser colors. Taken from https://woof.tech/@Purple/115809359193169798</title>
+        <link>https://chaos.social/@delta/115809626172873444</link>
+        <guid>https://chaos.social/@delta/115809626172873444</guid>
+        <pubDate>Tue, 30 Dec 2025 17:10:57 +0000</pubDate>
+      </item><item>
         <title>Iran may be on the verge of Internet shutdowns again. If you have friends or family in #Iran, now is the time to let them onboard for example with https://tiiiz.ir -- because using in-country servers helps to stay connected. If you need support for setting up a relay in or for Iran, send us a DM and we&amp;#39;ll see to connect you with other knowledgeable operators. با آرزوی فردایی بهتر...</title>
         <link>https://chaos.social/@delta/115808705832876995</link>
         <guid>https://chaos.social/@delta/115808705832876995</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115588053904571763</link>
         <guid>https://chaos.social/@delta/115588053904571763</guid>
         <pubDate>Fri, 21 Nov 2025 14:02:12 +0000</pubDate>
-      </item><item>
-        <title>two other things that can&amp;#39;t be stressed enough for maintaining development long-term: - Avoid superflous abstractions. Premature abstractions are the root of all ... complexity. If you have a second and third case, you can introduce an abstraction, but even then: don&amp;#39;t over-abstract! - write tests for everything, especially for the API that you want to guarantee to others. The chatmail core library just passed 1000 automated tests. The users of your API, and their users will thank you.</title>
-        <link>https://chaos.social/@delta/115587360113599644</link>
-        <guid>https://chaos.social/@delta/115587360113599644</guid>
-        <pubDate>Fri, 21 Nov 2025 11:05:46 +0000</pubDate>
       </item>
   </channel>
 </rss>
