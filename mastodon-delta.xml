@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Iran may be on the verge of Internet shutdowns again. If you have friends or family in #Iran, now is the time to let them onboard for example with https://tiiiz.ir -- because using in-country servers helps to stay connected. If you need support for setting up a relay in or for Iran, send us a DM and we&amp;#39;ll see to connect you with other knowledgeable operators. با آرزوی فردایی بهتر...</title>
+        <link>https://chaos.social/@delta/115808705832876995</link>
+        <guid>https://chaos.social/@delta/115808705832876995</guid>
+        <pubDate>Tue, 30 Dec 2025 13:16:53 +0000</pubDate>
+      </item><item>
         <title>Relax 😎! GPG is not OpenPGP! Yesterday, vulnerabilities were published https://gpg.fail but they don&amp;#39;t affect #deltachat or other #chatmail clients because A) We never used #gnupg for anything; we use the modern #rustlang #openpgp implementation @rpgp, security audited multiple times. B) #openpgp is fine, as modernized in #RFC9580, which already warns against several #gpgfail issues (gpg didn&amp;#39;t implement that spec) Please spread the word that #gpg is not #openpgp ... Thanks! #39c3</title>
         <link>https://chaos.social/@delta/115796626066185436</link>
         <guid>https://chaos.social/@delta/115796626066185436</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115587360113599644</link>
         <guid>https://chaos.social/@delta/115587360113599644</guid>
         <pubDate>Fri, 21 Nov 2025 11:05:46 +0000</pubDate>
-      </item><item>
-        <title>The #chatmail #rust core is the base infrastructure library used by all apps and bots. It contains all networking, encryption, email processing and implements all the relevant IETF email standards. It&amp;#39;s a single central development place with which the whole ecosystem of clients and bots can upgrade consistently. We are constantly trying to remove code, and to cleanup things. That&amp;#39;s a must to keep a 8-year long evolved code base agile and adaptable. Key insight: The best code is no code ;) screenshot of Overview at https://github.com/chatmail/core/pulse 103 active pull requests, 63 active issues 90 merged pull requests, 13 open pull reqwuests 40 closed issues 23 new issues &quot;trade offer meme&quot;| with a guy folding his hands, below the following text in two columns: i receive: PR review you receive: PR review</title>
-        <link>https://chaos.social/@delta/115587310198124917</link>
-        <guid>https://chaos.social/@delta/115587310198124917</guid>
-        <pubDate>Fri, 21 Nov 2025 10:53:04 +0000</pubDate>
       </item>
   </channel>
 </rss>
