@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: toboz Discussion Comment No.: 4 Comment: Rendben, így lesz, köszönöm a segítséget! Date: 2026-01-02T18:16:10+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/176702988</link>
+        <guid>https://www.openstreetmap.org/changeset/176702988#comment_4</guid>
+        <pubDate>2026-01-02T18:16:10+01:00</pubDate>
+      </item><item>
         <title>Contributor: balint36 Discussion Comment No.: 1 Comment: Helyi vállalkozóként rendelkező ismereteidet köszönjük, de attól még hogy a MÁV kitett a vasúti pályára egy vörös tárcsát, attól még nem fog megváltozni a vasúti pálya kiépítési-engedélyezett sebessége. És most kutathatom, hol zavartál még bele ilyen módon. Date: 2026-01-02T15:33:23+01:00</title>
         <link>https://www.openstreetmap.org/changeset/171654741</link>
         <guid>https://www.openstreetmap.org/changeset/171654741#comment_1</guid>
@@ -12,11 +17,6 @@
         <link>https://www.openstreetmap.org/changeset/176709873</link>
         <guid>https://www.openstreetmap.org/changeset/176709873#comment_1</guid>
         <pubDate>2026-01-02T09:03:13+01:00</pubDate>
-      </item><item>
-        <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szia! Az addr:flats nem erre való, a 10/2 típusú házszámot tedd az addr:housenumber mezőbe ahogy régebben. Wiki: &quot;this is a quantity (e.g. 4) rather than the individual numbers of the apartments&quot; tehát a házban található lakások száma, bejáraton ez semmiképp nem jó. Tehát ha a bejáraton 10/2 van kiírva, és nem lehet tudni, hogy ez cím vagy lakás: addr:housenumber=10/2 Ha ez 2-es lakás: addr:housenumber=10 addr:unit=2 vagy ha fszt 2. addr:housenumber=10 addr:floor=0 addr:door=2 Köszi, Tamás Date: 2026-01-02T08:56:53+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/176702988</link>
-        <guid>https://www.openstreetmap.org/changeset/176702988#comment_1</guid>
-        <pubDate>2026-01-02T08:56:53+01:00</pubDate>
       </item><item>
         <title>Contributor: bkil Discussion Comment No.: 1 Comment: Nem ezen a pár méteren fog múlni, de megjegyzem, hogy Magyartelek nekem jobban tetszett az előző helyén, mert minden POI-hoz közelebb volt, mint erre az üres területre leszúrt koordinátán. Date: 2026-01-01T13:20:41+01:00</title>
         <link>https://www.openstreetmap.org/changeset/176690507</link>
