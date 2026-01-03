@@ -3,6 +3,26 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: Balázs Szulovszky Discussion Comment No.: 2 Comment: Amit már most is lehet tudni, azaz hogy a jelenlegi vágányokhoz képest melyik oldalon helyezkednek majd el az új vágányok, azt vittem fel a térképre. Igen, ez képlékeny, főként mert a jelenlegi vágányok is fel lesznek szedve idővel, amint a 3. vágány elkészül. A Bartók Béla úti híd esetében nagyjából lehet tudni már most is, hogy hol fog elhelyezkedni, a híd fizikailag ott van, csak még nincs a helyére tolva. Abból már lehet következtetni a leendő vágányok helyeire is. Nádorkert esetében pedig még kérdéses, hogy a vágányok illetve a peron milyen végleges elhelyezkedést fog kapni, így ahhoz nem is nyúltam. Az épülő új vágány valószínűleg távolabb lesz a jelenlegi kettőtől, amit abból is sejteni lehet, hogy az új beton fal egészen közel van a közút korlátjához. Date: 2026-01-03T22:44:25+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/174850959</link>
+        <guid>https://www.openstreetmap.org/changeset/174850959#comment_2</guid>
+        <pubDate>2026-01-03T22:44:25+01:00</pubDate>
+      </item><item>
+        <title>Contributor: ha5vsa Discussion Comment No.: 1 Comment: Mindkét Wikidata item törlésre került 2025. december 27-én, két nappal ezután a changeset után. Kérlek jelezd, hogy tudsz és akarsz-e intézkedni ennek kapcsán, illetve igényelsz-e ebben segítséget. Date: 2026-01-03T22:42:21+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/176407496</link>
+        <guid>https://www.openstreetmap.org/changeset/176407496#comment_1</guid>
+        <pubDate>2026-01-03T22:42:21+01:00</pubDate>
+      </item><item>
+        <title>Contributor: Balázs Szulovszky Discussion Comment No.: 2 Comment: Nem tudom, melyik attribútum adja a nevet, de a MÁV a pályakezelőnek (operator) van megadva. Date: 2026-01-03T22:38:40+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/175938841</link>
+        <guid>https://www.openstreetmap.org/changeset/175938841#comment_2</guid>
+        <pubDate>2026-01-03T22:38:40+01:00</pubDate>
+      </item><item>
+        <title>Contributor: Balázs Szulovszky Discussion Comment No.: 2 Comment: Szia! Igen, tisztában vagyok vele, hogy hídon fog menni a villamos, ha egyszer majd elkészül, de az nagy valószínűséggel a jelenlegi átjáró felett fog elmenni, legfeljebb a híd szélessége miatt lehet majd a most bejelölt vonalhoz képest máshol a tényleges sínpár. De ez majd a jövő zenéje. Egyelőre ez a legtöbb, amit a térképre fel lehet vinni. Date: 2026-01-03T22:28:46+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/176649451</link>
+        <guid>https://www.openstreetmap.org/changeset/176649451#comment_2</guid>
+        <pubDate>2026-01-03T22:28:46+01:00</pubDate>
+      </item><item>
         <title>Contributor: mueschel Discussion Comment No.: 1 Comment: Hi, when you're checking these bus stops, could you also update the tagging? 'lines' is deprecated since several years and should be replaced by 'route_ref'. Date: 2026-01-03T11:38:11+01:00</title>
         <link>https://www.openstreetmap.org/changeset/176728838</link>
         <guid>https://www.openstreetmap.org/changeset/176728838#comment_1</guid>
@@ -27,21 +47,6 @@
         <link>https://www.openstreetmap.org/changeset/176690507</link>
         <guid>https://www.openstreetmap.org/changeset/176690507#comment_1</guid>
         <pubDate>2026-01-01T13:20:41+01:00</pubDate>
-      </item><item>
-        <title>Contributor: balint36 Discussion Comment No.: 1 Comment: Inkább érdemes lenne megvárni, amíg alakot ült az új vágányképlet, mert ami most fel lett rajzolva, az torz, és semmi köze nincs a végső állapothoz. Date: 2025-12-31T00:04:11+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/174850959</link>
-        <guid>https://www.openstreetmap.org/changeset/174850959#comment_1</guid>
-        <pubDate>2025-12-31T00:04:11+01:00</pubDate>
-      </item><item>
-        <title>Contributor: balint36 Discussion Comment No.: 1 Comment: Miért kapott a vágány MÁV nevet? Date: 2025-12-31T00:01:16+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/175938841</link>
-        <guid>https://www.openstreetmap.org/changeset/175938841#comment_1</guid>
-        <pubDate>2025-12-31T00:01:16+01:00</pubDate>
-      </item><item>
-        <title>Contributor: balint36 Discussion Comment No.: 1 Comment: A tervezett villamos Rákosrendezőnél nem a Teleki Blanka utcai átjárót fogja követni, hanem az M3 lehajtó és a Szegedi út között önálló hidat kapna majd. Date: 2025-12-30T23:59:53+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/176649451</link>
-        <guid>https://www.openstreetmap.org/changeset/176649451#comment_1</guid>
-        <pubDate>2025-12-30T23:59:53+01:00</pubDate>
       </item><item>
         <title>Contributor: balint36 Discussion Comment No.: 1 Comment: Névjavítás címszóval szépen áthelyeztél egy váltót is Rákosrendezőn. Date: 2025-12-30T23:51:12+01:00</title>
         <link>https://www.openstreetmap.org/changeset/170599320</link>
