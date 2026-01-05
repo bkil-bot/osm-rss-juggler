@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>We are looking for an experienced Android UI developer for https://github.com/deltachat/deltachat-android. Native Java, close to the system, with minimal deps and fluff. Networking/encryption/persistence is not part of the job as it happens in https://github.com/chatmail/core Remote collab is fine and the default. We meet in person every few months in the black forest or other occasions/places. We can do 20-30 hours per week contracts with 4-5K EUR pay per month. Drop us a DM if you are interested. #FediHire</title>
+        <link>https://chaos.social/@delta/115844314003211322</link>
+        <guid>https://chaos.social/@delta/115844314003211322</guid>
+        <pubDate>Mon, 05 Jan 2026 20:12:31 +0000</pubDate>
+      </item><item>
         <title>Don&amp;#39;t believe those who loudly claim email can not avoid metadata! They are ignorant of our continuous works on minimizing metadata: DONE: - no phone number other identifying data needed - no cleartext &amp;quot;Subject&amp;quot; - no cleartext &amp;quot;To&amp;quot; - randomized &amp;quot;Date&amp;quot; - no IP addresses - group/avatar/attachment/etc metadata only contained in encrypted message parts Upcoming: - servers to never see cryptographic ID metadata - remove &amp;quot;threading&amp;quot; and auxilliary headers - experiment with Sealed Sender</title>
         <link>https://chaos.social/@delta/115842446685941927</link>
         <guid>https://chaos.social/@delta/115842446685941927</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115656938948176196</link>
         <guid>https://chaos.social/@delta/115656938948176196</guid>
         <pubDate>Wed, 03 Dec 2025 18:00:35 +0000</pubDate>
-      </item><item>
-        <title>from a random community chat: &amp;quot;#Telegram secret chats exist so you can share your #deltachat QR/link to get off Telegram 😇&amp;quot; In related news, Arte published a well-done documentary film about &amp;quot;Telegram, the dark empire of Pawel Durov&amp;quot; up (german audio only) https://www.arte.tv/de/videos/122721-000-A/telegram-das-dunkle-imperium-von-pawel-durow/ -- it&amp;#39;s a dive into various TG happenings during the last decades, biographical origins of telegram development, the durov brothers etc..</title>
-        <link>https://chaos.social/@delta/115646879787522727</link>
-        <guid>https://chaos.social/@delta/115646879787522727</guid>
-        <pubDate>Mon, 01 Dec 2025 23:22:24 +0000</pubDate>
       </item>
   </channel>
 </rss>
