@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>several people reporting lately that #deltachat has become their main app: They are now spending more time in the chats, also with web apps, than in any other app. It may be a turn to more private communications when social media has become more toxic, obnoxious and dangerous in many places? #deltachat and #chatmail.is indeed about being readily available when other forms of communications become unavailable or dangerous like in Iran or Russia but also in western and other countries.</title>
+        <link>https://chaos.social/@delta/115851193880371006</link>
+        <guid>https://chaos.social/@delta/115851193880371006</guid>
+        <pubDate>Wed, 07 Jan 2026 01:22:10 +0000</pubDate>
+      </item><item>
         <title>We are looking for an experienced Android UI developer for https://github.com/deltachat/deltachat-android. Native Java, close to the system, with minimal deps and fluff. Networking/encryption/persistence is not part of the job as it happens in https://github.com/chatmail/core Remote collab is fine and the default. We meet in person every few months in the black forest or other occasions/places. We can do 20-30 hours per week contracts with 4-5K EUR pay per month. Drop us a DM if you are interested. #FediHire</title>
         <link>https://chaos.social/@delta/115844314003211322</link>
         <guid>https://chaos.social/@delta/115844314003211322</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115657862971570963</link>
         <guid>https://chaos.social/@delta/115657862971570963</guid>
         <pubDate>Wed, 03 Dec 2025 21:55:34 +0000</pubDate>
-      </item><item>
-        <title>#Telegram has a nice and fast UI, granted. But the 1 billion people using TG are at risk because of its big central database that any state security service craves for. Moreover, several anonymization proxy-bot offerings were hacked in 2024, identifying millions of users and content. #deltachat builds anonymization directly into the app and has pervasive end-to-end encryption. #chatmail relay operators can sleep well, knowing they have nothing. Ergo, E2EE is good for any operators sleep! :) Chatmail logo from https://chatmail.at it's an @ character but with a speech chat deformation in the left button.</title>
-        <link>https://chaos.social/@delta/115656938948176196</link>
-        <guid>https://chaos.social/@delta/115656938948176196</guid>
-        <pubDate>Wed, 03 Dec 2025 18:00:35 +0000</pubDate>
       </item>
   </channel>
 </rss>
