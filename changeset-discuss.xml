@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: urbalazs Discussion Comment No.: 1 Comment: Szia kungabo! A `name=*` kulcs arra való, hogy egy térképelemnek megadjuk a nevét, nem pedig arra, hogy leíró információkat írjunk bele. Nem „Majális park buszforduló” az utca neve, ez a használati besorolása, amelyet a `psv=yes` már jelez. A „Csanyik-völgyi ösvény a kisállattemetőnél” szintén nem az ösvény neve, hanem ez csak egy leírás, amely az ösvény helyzetét írja, ami szintén felesleges, hiszen azért jelenítjük meg a térképen, hogy látszódjon, hol van. A `name=*` kulcsba tulajdonneveket várunk, és csak olyat, ami ki van táblázva a helyszínen. Ezek miatt töröltem a neveket, amelyeket ebben a módosításcsomagban beírtál. Date: 2026-01-09T08:02:17+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/176852684</link>
+        <guid>https://www.openstreetmap.org/changeset/176852684#comment_1</guid>
+        <pubDate>2026-01-09T08:02:17+01:00</pubDate>
+      </item><item>
         <title>Contributor: gaborhojtsy Discussion Comment No.: 3 Comment: Küldtem be egy új szerkesztést, ami már korrektebb remélem :) https://www.openstreetmap.org/changeset/176936856 Date: 2026-01-07T10:02:24+01:00</title>
         <link>https://www.openstreetmap.org/changeset/176917406</link>
         <guid>https://www.openstreetmap.org/changeset/176917406#comment_3</guid>
@@ -67,11 +72,6 @@
         <link>https://www.openstreetmap.org/changeset/171654741</link>
         <guid>https://www.openstreetmap.org/changeset/171654741#comment_1</guid>
         <pubDate>2026-01-02T15:33:23+01:00</pubDate>
-      </item><item>
-        <title>Contributor: vasony Discussion Comment No.: 1 Comment: Hi, Please do not move back points of properly aligned roads back to misaligned Bing, e.g: https://www.openstreetmap.org/node/1370014630 Thx. Tamás Date: 2026-01-02T09:03:13+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/176709873</link>
-        <guid>https://www.openstreetmap.org/changeset/176709873#comment_1</guid>
-        <pubDate>2026-01-02T09:03:13+01:00</pubDate>
       </item>
   </channel>
 </rss>
