@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: urbalazs Discussion Comment No.: 3 Comment: Megkérdezek más szerkesztőket is, hogy a „should share the same nodes” azt jelenti-e, hogy a patakra egy **másik** vonallal, de ugyanazokat a pontokat megrajzolva kell megadni a völgyet, vagy a már meglévő patak vonalát kell-e kiegészíteni a völgy tulajdonságaival. Ha fent vagy Matrixon, akkor te is követheted a fejleményeket. A Tornácosház (9) és (11) biztosan hibás, mert ez a megjelenítőnek való térképezés. A 9 és a 11 itt a házszámot jelöli, azt pedig az `addr:*=*` már tartalmazza. Date: 2026-01-09T12:30:29+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/176852684</link>
+        <guid>https://www.openstreetmap.org/changeset/176852684#comment_3</guid>
+        <pubDate>2026-01-09T12:30:29+01:00</pubDate>
+      </item><item>
         <title>Contributor: BáthoryPéter Discussion Comment No.: 3 Comment: Köszi a választ! Közben leesett, hogy ezen a semmitmondó néven valójában ez az NBH. A franc se tudja követni az idióta átnevezéseket. Date: 2026-01-09T11:33:10+01:00</title>
         <link>https://www.openstreetmap.org/changeset/172438471</link>
         <guid>https://www.openstreetmap.org/changeset/172438471#comment_3</guid>
         <pubDate>2026-01-09T11:33:10+01:00</pubDate>
-      </item><item>
-        <title>Contributor: kungabo Discussion Comment No.: 2 Comment: Köszönöm a jelzést. A törlések közül kettővel nem sikerül(t) teljesen egyetértenem: A mályi Tornácos-ház konkrétan a 11-es számú ház kapujára ki van táblázva (a képviselő nevével, telefonszámmal, 11-es házszámú címmel), tehát a tábla hiánya ebben az esetben nem lehetett indok a törlésre. Továbbá tényleg az a klasszikus tornácos parasztház. A 9-es pedig (ahová jelenleg és eredetileg jelölve van az elnevezés) egy már teljesen modernizált ház, amelyet szintén használnak hozzá; abban van például a vendég-WC, és hátul (kis kapun) át lehet járni a két udvar között. Az (a 9-es) egyébként irodaházként (is) szolgál. A „Tornácos-ház” ténylegesen tehát vagy a 11-es számú, vagy a „9–11.” együtt. (Szokták így is megadni.) Azért szerepeltettem az egyes házszámokat a névben, hogy a két épületre külön is lehessen ezáltal hivatkozni. A másik a natural=valley lerövidítése. Ezzel részben egyetértek, de azért megjegyzem: a völgy kb. a Hársas-bérc nyugati aljától kb. a Csanyik-völgy buszmegálló környékéig húzódik. Az OSM-wiki konkrétan azt írja, hogy alapesetben (V-alakú völgynél) a waterway node-jait használjuk a valley node-jaiként: „should share the same nodes as the waterway=*, if there is one”. Nemigen egyértelmű a határ az U- és a V-alakú völgyforma között; az általad módosított, egyenesebb középvonal pontjai kevésbé tűnnek egzaktnak, de a célnak végül is megfelelhet így, rövidebb vonalként. Az e módosításcsomagbeli többi törléseddel egyet tudok érteni, és köszönöm az emlékeztetést. Date: 2026-01-09T10:37:18+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/176852684</link>
-        <guid>https://www.openstreetmap.org/changeset/176852684#comment_2</guid>
-        <pubDate>2026-01-09T10:37:18+01:00</pubDate>
       </item><item>
         <title>Contributor: gaborhojtsy Discussion Comment No.: 3 Comment: Küldtem be egy új szerkesztést, ami már korrektebb remélem :) https://www.openstreetmap.org/changeset/176936856 Date: 2026-01-07T10:02:24+01:00</title>
         <link>https://www.openstreetmap.org/changeset/176917406</link>
