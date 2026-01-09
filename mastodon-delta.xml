@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Our stance simplified: we want to make private communications available to anyone on the planet. Problem: governments everywhere tend to want to control and contain private communications. While Iran and Russia might be contemporary poster examples trying to control private communication, almost all of the &amp;quot;Western&amp;quot; countries have similar control-tendencies, EU Chatcontrol, UK Online Safety Act, US KOSA etc.pp. And we often call those out. Without private communication, things are bleak.</title>
+        <link>https://chaos.social/@delta/115866917974514933</link>
+        <guid>https://chaos.social/@delta/115866917974514933</guid>
+        <pubDate>Fri, 09 Jan 2026 20:01:00 +0000</pubDate>
+      </item><item>
         <title>Abdanan, January 7th 2026. A 40K people city in Iranian mountains where people took over all police and government buildings, as far as we gather. Internet blockades are happening intermittently in various forms. There is a massive sense of uncertainty and panic, also from the government side. We hear of many people succeeding in using #deltachat and #chatmail relays, and are trying, to the best of our abilities, to help people set up communications so families and friends can stay safe. A picture of a person in Hijab who holds a surveillance camera in her right hand letting the camera point at them. But the camera is disconnected and fully in the person hands, blinding whoever might try to surveill. The person is in the near a street crossing and there are people everywhere on the street, in a protest/uprising it appears. The picture was, as far as we could verify, taken in Abadnan on January 7th. See https://en.wikipedia.org/wiki/Abdanan</title>
         <link>https://chaos.social/@delta/115860019564758241</link>
         <guid>https://chaos.social/@delta/115860019564758241</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115679847764891825</link>
         <guid>https://chaos.social/@delta/115679847764891825</guid>
         <pubDate>Sun, 07 Dec 2025 19:06:35 +0000</pubDate>
-      </item><item>
-        <title>A few things #deltachat apps are doing positively different from #Signal apps - easiest onboarding ever; not depending on phone numbers or other private data - support for multiple chat profiles/identities - decentralized servers, not depending on US-based GAFAM etc. - migration from one app/platform to any other - easy multi-device support for any chat profile - developers have chances to get their PRs merged :) - mini-apps support via https://webxdc.org anything missing?</title>
-        <link>https://chaos.social/@delta/115677379362500911</link>
-        <guid>https://chaos.social/@delta/115677379362500911</guid>
-        <pubDate>Sun, 07 Dec 2025 08:38:50 +0000</pubDate>
       </item>
   </channel>
 </rss>
