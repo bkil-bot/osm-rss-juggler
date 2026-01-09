@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: urbalazs Discussion Comment No.: 3 Comment: Megkérdezek más szerkesztőket is, hogy a „should share the same nodes” azt jelenti-e, hogy a patakra egy **másik** vonallal, de ugyanazokat a pontokat megrajzolva kell megadni a völgyet, vagy a már meglévő patak vonalát kell-e kiegészíteni a völgy tulajdonságaival. Ha fent vagy Matrixon, akkor te is követheted a fejleményeket. A Tornácosház (9) és (11) biztosan hibás, mert ez a megjelenítőnek való térképezés. A 9 és a 11 itt a házszámot jelöli, azt pedig az `addr:*=*` már tartalmazza. Date: 2026-01-09T12:30:29+01:00</title>
+        <title>Contributor: kungabo Discussion Comment No.: 4 Comment: A „meglévő patak vonalát” „kiegészíteni a völgy tulajdonságaival” szerintem kevésbé lenne értelmes, hiszen lehet a pataknak is, külön neve, és maga a vonala is különválhat a völgytől, pl. felsőbb vagy alsóbb szakaszán. De a te megoldásod (teljesen különálló, egyenesebb vonal) is indokolható, hiszen végül is nem csupán a patak (néhol kanyargós) medre része a völgynek. Hogy hol számít egy völgy U-shapednek, és hol V-shapednek, az is változó lehet. A fejleményeket nem szoktam tüzetesen követni, hanem csak alkalmanként szerkesztek, leginkább túrázások kapcsán, amint összegyűlt egy munkamenetre való adat vagy ismeret. A házszámos dolog: Jelenleg vagy áttenném a 11-es házra a Tornácos-ház nevet (amely a kaputábláján így szerepel), vagy valahogy a két ház együttesére. (De most kb. egy hónapig nem tervezek szerkeszteni.) Köszönöm az indoklást. Date: 2026-01-09T13:30:27+01:00</title>
         <link>https://www.openstreetmap.org/changeset/176852684</link>
-        <guid>https://www.openstreetmap.org/changeset/176852684#comment_3</guid>
-        <pubDate>2026-01-09T12:30:29+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/176852684#comment_4</guid>
+        <pubDate>2026-01-09T13:30:27+01:00</pubDate>
       </item><item>
         <title>Contributor: BáthoryPéter Discussion Comment No.: 3 Comment: Köszi a választ! Közben leesett, hogy ezen a semmitmondó néven valójában ez az NBH. A franc se tudja követni az idióta átnevezéseket. Date: 2026-01-09T11:33:10+01:00</title>
         <link>https://www.openstreetmap.org/changeset/172438471</link>
