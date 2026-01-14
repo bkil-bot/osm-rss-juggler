@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>#deltachat does - no bindings to public handles/numbers - no address-book upload - not do public contact or group discovery - not have critical persistent server state (!) Social identification is private, between people though ephemeral #P2P #E2EE messages. Servers see messages with random sender and recipient addresses, but those can not be mapped to a phone number or public handle. Servers see IP addresses. But you can use Tor, or a VPN, if you want to hide that. It&amp;#39; not all bad :)</title>
+        <link>https://chaos.social/@delta/115890580397749906</link>
+        <guid>https://chaos.social/@delta/115890580397749906</guid>
+        <pubDate>Wed, 14 Jan 2026 00:18:40 +0000</pubDate>
+      </item><item>
         <title>PSA We are happy about the wealth of privacy focused classic email providers (proton, tutanota, posteo, mailbox.org etc) but they are not geared for instant secure messaging. Do yourself, family and friends a favor and use delta with any of the many https://chatmail.at/relays Or setup a relay of your own if you feel like it. Or use a a dedicated chat email address on your own or any classic email server that has reliable service and no obnoxious rate limits or annoying spam handling. Cheers.</title>
         <link>https://chaos.social/@delta/115871285312218983</link>
         <guid>https://chaos.social/@delta/115871285312218983</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115695136756707798</link>
         <guid>https://chaos.social/@delta/115695136756707798</guid>
         <pubDate>Wed, 10 Dec 2025 11:54:47 +0000</pubDate>
-      </item><item>
-        <title>RE: https://chaos.social/@thefinalstrawradio/115679804496870004 Another nice surprise! A careful discussion and appreciation of our almost 8-year long running efforts, and its #deltachat and #chatmail artifacts. The &amp;quot;Signal contingency plan&amp;quot; comes complete with podcast, website and zine!</title>
-        <link>https://chaos.social/@delta/115679847764891825</link>
-        <guid>https://chaos.social/@delta/115679847764891825</guid>
-        <pubDate>Sun, 07 Dec 2025 19:06:35 +0000</pubDate>
       </item>
   </channel>
 </rss>
