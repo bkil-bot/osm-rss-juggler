@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: brdrsrsu Discussion Comment No.: 2 Comment: Please do not tag for the renderer: https://wiki.openstreetmap.org/wiki/Tagging_for_the_renderer Land basins (&quot;kotlina&quot; in most Slavic languages) is a frequent geological feature similar to valleys that you would have studied about in elementary school in Poland. As you could see, tag is in common use by the community, even if undocumented. Please do not delete useful information from the OSM database if your renderer is mis-representing it. Please discuss such deletions with local OSM communities first! Date: 2026-01-14T21:56:40+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/177213288</link>
+        <guid>https://www.openstreetmap.org/changeset/177213288#comment_2</guid>
+        <pubDate>2026-01-14T21:56:40+01:00</pubDate>
+      </item><item>
         <title>Contributor: vasony Discussion Comment No.: 3 Comment: Szia! Lehet residential, viszont az unclassified az összekötő, de nem így, hanem nagyobb részek között. Vroson belül nem 100 m-es szakaszra gondolt a költő. &quot;They are generally outside of residential areas &quot; T Date: 2026-01-14T19:44:49+01:00</title>
         <link>https://www.openstreetmap.org/changeset/177133880</link>
         <guid>https://www.openstreetmap.org/changeset/177133880#comment_3</guid>
@@ -12,11 +17,6 @@
         <link>https://www.openstreetmap.org/changeset/176515567</link>
         <guid>https://www.openstreetmap.org/changeset/176515567#comment_2</guid>
         <pubDate>2026-01-14T19:34:22+01:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Hello It sounds like tagging for the renderer. Are you sure not the humanitarian layer should be fixed instead? natural=basin is an undocumented tag, humanitarian layer just assumes it's related to water=basin . I think instead of just simply deleting the tag at least a replacement should be found. Happy mapping! Date: 2026-01-14T14:46:16+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/177213288</link>
-        <guid>https://www.openstreetmap.org/changeset/177213288#comment_1</guid>
-        <pubDate>2026-01-14T14:46:16+01:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Hello! You got 3 warnings from your editor you haven't resolved. Can you fix them? And you connected areas to roads. E.g. here https://www.openstreetmap.org/node/13452540892 the situation is more complex: You didn't leave room for the car lane, the 2 pedestrian areas contact there, while in reality there is a road between them and you cannot cross safely anywhere. It's fine if micromap things but for me it seems like you just extrapolated lines to areas without surveying or thinking. I would revert this as this can mess up routing, while doesn't add any new data. Also Budapest got new and super high resolution images on the Mapbox layer, check them out! Happy mapping! Date: 2026-01-14T10:54:29+01:00</title>
         <link>https://www.openstreetmap.org/changeset/177180001</link>
