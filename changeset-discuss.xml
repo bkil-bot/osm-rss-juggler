@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: vasony Discussion Comment No.: 3 Comment: Szia! Lehet residential, viszont az unclassified az összekötő, de nem így, hanem nagyobb részek között. Vroson belül nem 100 m-es szakaszra gondolt a költő. &quot;They are generally outside of residential areas &quot; T Date: 2026-01-14T19:44:49+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/177133880</link>
+        <guid>https://www.openstreetmap.org/changeset/177133880#comment_3</guid>
+        <pubDate>2026-01-14T19:44:49+01:00</pubDate>
+      </item><item>
+        <title>Contributor: vasony Discussion Comment No.: 2 Comment: Szia! Bocs hogy nem válaszoltam, látom a mátrixon is írtál, Ahogy írták, nem szerencsés ha 4 külön háznak is ugyanaz a címe, esetleg ha addr:unittal meg tudnánk a részeket különböztetni akkor vissza lehetne írni building:part-tól building-re. Tamás Date: 2026-01-14T19:34:22+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/176515567</link>
+        <guid>https://www.openstreetmap.org/changeset/176515567#comment_2</guid>
+        <pubDate>2026-01-14T19:34:22+01:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Hello It sounds like tagging for the renderer. Are you sure not the humanitarian layer should be fixed instead? natural=basin is an undocumented tag, humanitarian layer just assumes it's related to water=basin . I think instead of just simply deleting the tag at least a replacement should be found. Happy mapping! Date: 2026-01-14T14:46:16+01:00</title>
         <link>https://www.openstreetmap.org/changeset/177213288</link>
         <guid>https://www.openstreetmap.org/changeset/177213288#comment_1</guid>
@@ -12,11 +22,6 @@
         <link>https://www.openstreetmap.org/changeset/177180001</link>
         <guid>https://www.openstreetmap.org/changeset/177180001#comment_1</guid>
         <pubDate>2026-01-14T10:54:29+01:00</pubDate>
-      </item><item>
-        <title>Contributor: osminng Discussion Comment No.: 2 Comment: Szia! Határeset, belefér a leírások alapján a service https://wiki.openstreetmap.org/wiki/Tag:highway%3Dservice (parkolón megy keresztül tény, de amúgy összekötő út a templom mellett), de az előbbi összekötő szerep mellett akár a residential-be is (https://wiki.openstreetmap.org/wiki/Tag:highway%3Dresidential). Valóban, igazad van, hogy az unclassified itt a legkevésbé szerencsés a hármasból. Én a fentiek alapján így leginkább a residential-re szavaznék. --- Published using OSMCha: https://osmcha.org/changesets/177133880 Date: 2026-01-14T07:32:03+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/177133880</link>
-        <guid>https://www.openstreetmap.org/changeset/177133880#comment_2</guid>
-        <pubDate>2026-01-14T07:32:03+01:00</pubDate>
       </item><item>
         <title>Contributor: Godo365 Discussion Comment No.: 4 Comment: Semmi gond, közben megtaláltam JOSM-ben hogy kell. Javítom, köszi! Date: 2026-01-13T21:52:31+01:00</title>
         <link>https://www.openstreetmap.org/changeset/177101487</link>
@@ -32,11 +37,6 @@
         <link>https://www.openstreetmap.org/changeset/177184471</link>
         <guid>https://www.openstreetmap.org/changeset/177184471#comment_1</guid>
         <pubDate>2026-01-13T16:51:01+01:00</pubDate>
-      </item><item>
-        <title>Contributor: szija Discussion Comment No.: 1 Comment: Szervusz! Az előző szerkesztő vagyok. Ezek nem épületrészek, hanem külőnálló épületek, viszont sajnos mindegyik ugyanazt a címet viseli. Date: 2026-01-12T10:24:31+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/176515567</link>
-        <guid>https://www.openstreetmap.org/changeset/176515567#comment_1</guid>
-        <pubDate>2026-01-12T10:24:31+01:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 3 Comment: Semmi baj, csak az nem hibázik aki nem csinál semmit. Majd kijavítod? Date: 2026-01-11T19:22:41+01:00</title>
         <link>https://www.openstreetmap.org/changeset/177085104</link>
