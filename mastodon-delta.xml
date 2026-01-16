@@ -3,11 +3,6 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
-        <title>#deltachat and #chatmail and #webxdc are in a unique &amp;quot;market&amp;quot; where few other cross-platform messengers can play. The unique and growing market is shaped by rising authoritarianism, internet shutdowns and restrictions. We are building a &amp;quot;Minecraft world of messaging&amp;quot; where skilled people can rip apart, modify, replace, recombine and do modding, at every level. All #foss and featuring Decent Usability and UI Offline first End-to-End encryption Standards based Resilient Decentralized</title>
-        <link>https://chaos.social/@delta/115895524387763934</link>
-        <guid>https://chaos.social/@delta/115895524387763934</guid>
-        <pubDate>Wed, 14 Jan 2026 21:15:59 +0000</pubDate>
-      </item><item>
         <title>#deltachat does - no bindings to public handles/numbers - no address-book upload - not do public contact or group discovery - not have critical persistent server state (!) Social identification is private, between people though ephemeral #P2P #E2EE messages. Servers see messages with random sender and recipient addresses, but those can not be mapped to a phone number or public handle. Servers see IP addresses. But you can use Tor, or a VPN, if you want to hide that. It&amp;#39; not all bad :)</title>
         <link>https://chaos.social/@delta/115890580397749906</link>
         <guid>https://chaos.social/@delta/115890580397749906</guid>
@@ -102,6 +97,11 @@
         <link>https://chaos.social/@delta/115695263400706023</link>
         <guid>https://chaos.social/@delta/115695263400706023</guid>
         <pubDate>Wed, 10 Dec 2025 12:26:59 +0000</pubDate>
+      </item><item>
+        <title>The default onboarding relay server nine.testrun.org will be down in the next hours for server maintenance. We will keep you updated.</title>
+        <link>https://chaos.social/@delta/115695136756707798</link>
+        <guid>https://chaos.social/@delta/115695136756707798</guid>
+        <pubDate>Wed, 10 Dec 2025 11:54:47 +0000</pubDate>
       </item>
   </channel>
 </rss>
