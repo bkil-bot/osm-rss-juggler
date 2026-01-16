@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>If you want to do a fun thing this weekend, maybe write a little webxdc app for your family or friends chats? There are many to fork from, see https://webxdc.org/apps and for development docs https://webxdc.org/docs And for development tooling https://GitHub.com/webxdc/webxdc-dev which simulates a multi member chat environment to run your app, before you post the zip file to a chat of yours. Everyone can start it. No app stores. No logins. No gafam. With built-in end-to-end encryption. Cheers.</title>
+        <link>https://chaos.social/@delta/115904172329472895</link>
+        <guid>https://chaos.social/@delta/115904172329472895</guid>
+        <pubDate>Fri, 16 Jan 2026 09:55:17 +0000</pubDate>
+      </item><item>
         <title>#deltachat does - no bindings to public handles/numbers - no address-book upload - not do public contact or group discovery - not have critical persistent server state (!) Social identification is private, between people though ephemeral #P2P #E2EE messages. Servers see messages with random sender and recipient addresses, but those can not be mapped to a phone number or public handle. Servers see IP addresses. But you can use Tor, or a VPN, if you want to hide that. It&amp;#39; not all bad :)</title>
         <link>https://chaos.social/@delta/115890580397749906</link>
         <guid>https://chaos.social/@delta/115890580397749906</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115695263400706023</link>
         <guid>https://chaos.social/@delta/115695263400706023</guid>
         <pubDate>Wed, 10 Dec 2025 12:26:59 +0000</pubDate>
-      </item><item>
-        <title>The default onboarding relay server nine.testrun.org will be down in the next hours for server maintenance. We will keep you updated.</title>
-        <link>https://chaos.social/@delta/115695136756707798</link>
-        <guid>https://chaos.social/@delta/115695136756707798</guid>
-        <pubDate>Wed, 10 Dec 2025 11:54:47 +0000</pubDate>
       </item>
   </channel>
 </rss>
