@@ -3,7 +3,7 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
-        <title>new note 5134433 (near Losonci negyed, 8th district) / Created &lt;time title=&quot;18 January 2026 at 19:52&quot; datetime=&quot;2026-01-18T19:52:27Z&quot;&gt;38 minutes ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/ymstnt&quot;&gt;ymstnt&lt;/a&gt;&lt;/div&gt;
+        <title>new note 5134433 (near Losonci negyed, 8th district) / Created &lt;time title=&quot;18 January 2026 at 19:52&quot; datetime=&quot;2026-01-18T19:52:27Z&quot;&gt;about 2 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/ymstnt&quot;&gt;ymstnt&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;&amp;quot;A komposztáló megszűnt 2024 tavaszán.&amp;quot;
 The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground.
 OSM snapshot date: 2026-01-11T01:09:17Z
@@ -15,7 +15,7 @@ POI types: recycling-green_waste amenity-recycling-container
         <pubDate>Sun, 18 Jan 2026 19:52:27 +0000</pubDate>
       </item><item>
         <title>new comment 5086761 (near Balatonkenese) / Created &lt;time title=&quot;11 December 2025 at 05:27&quot; datetime=&quot;2025-12-11T05:27:50Z&quot;&gt;about 1 month ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/vasony&quot;&gt;vasony&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;melyik a zöld, melyik a piros bója itt? / Updated &lt;time title=&quot;18 January 2026 at 15:01&quot; datetime=&quot;2026-01-18T15:01:02Z&quot;&gt;about 6 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/vasony&quot;&gt;vasony&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;melyik a zöld, melyik a piros bója itt? / Updated &lt;time title=&quot;18 January 2026 at 15:01&quot; datetime=&quot;2026-01-18T15:01:02Z&quot;&gt;about 7 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/vasony&quot;&gt;vasony&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;nincs 2 bója,  1 sárga van</title>
         <link>https://www.openstreetmap.org/note/5086761#c11419485</link>
         <guid>https://www.openstreetmap.org/note/5086761#c11419485</guid>
@@ -347,11 +347,6 @@ pontként: https://www.openstreetmap.org/node/2955603512
         <link>https://www.openstreetmap.org/note/5131552#c11413281</link>
         <guid>https://www.openstreetmap.org/note/5131552#c11413281</guid>
         <pubDate>Fri, 16 Jan 2026 13:15:11 +0000</pubDate>
-      </item><item>
-        <title>new note 5131518 (near Tabán, Belváros, Vác) / * 2026 January 16 13:09 Created: Ez nem &amp;quot;női divat&amp;quot;, hanem kizárólag &amp;quot;férfi divat&amp;quot;. / forrás: survey / Itt szintén ellenőrizhető: / https://www.fedi.hu/ / forrás: website</title>
-        <link>https://www.openstreetmap.org/note/5131518#c11413239</link>
-        <guid>https://www.openstreetmap.org/note/5131518#c11413239</guid>
-        <pubDate>Fri, 16 Jan 2026 13:09:32 +0000</pubDate>
       </item>
   </channel>
 </rss>
