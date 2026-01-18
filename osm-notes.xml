@@ -3,8 +3,19 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 5134433 (near Losonci negyed, 8th district) / Created &lt;time title=&quot;18 January 2026 at 19:52&quot; datetime=&quot;2026-01-18T19:52:27Z&quot;&gt;38 minutes ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/ymstnt&quot;&gt;ymstnt&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;&amp;quot;A komposztáló megszűnt 2024 tavaszán.&amp;quot;
+The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground.
+OSM snapshot date: 2026-01-11T01:09:17Z
+POI name: Komposztpont
+POI types: recycling-green_waste amenity-recycling-container
+ #organicmaps android 2026.01.16-8-Web</title>
+        <link>https://www.openstreetmap.org/note/5134433#c11420508</link>
+        <guid>https://www.openstreetmap.org/note/5134433#c11420508</guid>
+        <pubDate>Sun, 18 Jan 2026 19:52:27 +0000</pubDate>
+      </item><item>
         <title>new comment 5086761 (near Balatonkenese) / Created &lt;time title=&quot;11 December 2025 at 05:27&quot; datetime=&quot;2025-12-11T05:27:50Z&quot;&gt;about 1 month ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/vasony&quot;&gt;vasony&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;melyik a zöld, melyik a piros bója itt? / Updated &lt;time title=&quot;18 January 2026 at 15:01&quot; datetime=&quot;2026-01-18T15:01:02Z&quot;&gt;about 5 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/vasony&quot;&gt;vasony&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;melyik a zöld, melyik a piros bója itt? / Updated &lt;time title=&quot;18 January 2026 at 15:01&quot; datetime=&quot;2026-01-18T15:01:02Z&quot;&gt;about 6 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/vasony&quot;&gt;vasony&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;nincs 2 bója,  1 sárga van</title>
         <link>https://www.openstreetmap.org/note/5086761#c11419485</link>
         <guid>https://www.openstreetmap.org/note/5086761#c11419485</guid>
@@ -341,11 +352,6 @@ pontként: https://www.openstreetmap.org/node/2955603512
         <link>https://www.openstreetmap.org/note/5131518#c11413239</link>
         <guid>https://www.openstreetmap.org/note/5131518#c11413239</guid>
         <pubDate>Fri, 16 Jan 2026 13:09:32 +0000</pubDate>
-      </item><item>
-        <title>new note 5131495 (near Verbic-völgy, Zebegény) / * 2026 January 16 12:41 Created: &amp;gt; Melyik hónapokban érvényes a most megadott és melyik hónapokban az általad megadott? / Szerintem nincs így megadva a szezon kezdete/vége. Legalábbis nem találtam róla semmi infót (sem a weboldalon, sem kiírva a helyszínen). Csak egyszerűen megváltoztatják, gondolom a forgalom függvényében. Lehet, hogy minden évben más, forgalomtól függően. Sőt, az is simán lehet, hogy nem a szezon miatt változtatták meg. De, mivel a változtatás nagyjából egybe esett a szezon végével, én logikusnak tartottam ezt feltételezni (de csak feltételezés, semmi konrét bizonyíték nincs az időbeli egybeesésen kívül). / Szerintem most az a legfontosabb, hogy a jelenleg érvényes nyitvatartás legyen megadva, hiszen, ha valaki most használja a térképet, nagy valószínűséggel nem az érdekli, hogy tavasszal hogyan lesz nyitva, hanem, hogy ma délután elinduljon-e, odaér-e zárásig, vagy nem ér oda. / Ha nagyon szükséges tudni, hogy tavasszal vissza lesz-e állítva, megkérdezem a személyzetet, ha legközelebb arra járok. / (Bocs, most nem tudok belépni erről az eszközről, nem tudtam az eredeti komment alatt válaszolni.)</title>
-        <link>https://www.openstreetmap.org/note/5131495#c11413161</link>
-        <guid>https://www.openstreetmap.org/note/5131495#c11413161</guid>
-        <pubDate>Fri, 16 Jan 2026 12:41:04 +0000</pubDate>
       </item>
   </channel>
 </rss>
