@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: toemke Discussion Comment No.: 2 Comment: Szia! Ez a lakópark nagyon érdekes, mert a teljes terület Gergely utca 102-108-ként szerepel. A terület egyes részei viszont 102, 104, 106 és 108-ra vannak felosztva és azon belül az épületek 102A, 102B stb. Szóval itt nem arról van szó, hogy telepen az épületnek vagy lépcsúháznak van egy betüjele is, hanem ez a cím (azon lehet vitázni, hogy kell e per-jel vagy nem). A google maps-en helyesen szerepelnek az egyes épületek címei, illetve az oeny.hu hrsz keresőjében is egyértelműek a címek (ott egyedül a 102-nél van egy hrsz az összes épületre): https://www.oeny.hu/oeny/hrsz-kereso/?state=JTdCJTIydHlwZSUyMiUzQTMlMkMlMjJ4JTIyJTNBNjU3NzEzLjQxMzY1NjQwNDglMkMlMjJ5JTIyJTNBMjM2NDcxLjY2NjI4NjI1NjM3JTdE Péter Date: 2026-01-22T05:13:10+01:00</title>
+        <title>Contributor: vasony Discussion Comment No.: 3 Comment: Szia! Az oeny alapján ez telekosztás jó béna, azt kell mondjam, mert e szerint egyértelműen 104/a 106/a , viszont a 102 az meg egy telek, és az albetétek sorszámozása is az épületeket sejteti ezeknél. A 102F lehet kiírva, de hivatalosan nem lehet cím, vagy 102/f vagy 102 F épület/lépcsőház. (Budapesten a vonatkozó rendelet szerint a /f kisbetűvel, az épület meg nagy betűvel) Szóval ha ez alapján akarnám jelölni akkor - addr:housenumber=104/a - addr:housenumber=102 + addr:unit=A Amit most 106F-re jelöltél az meg 108/f, ezt csak elírtad? Tamás Date: 2026-01-22T06:03:05+01:00</title>
         <link>https://www.openstreetmap.org/changeset/177493459</link>
-        <guid>https://www.openstreetmap.org/changeset/177493459#comment_2</guid>
-        <pubDate>2026-01-22T05:13:10+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/177493459#comment_3</guid>
+        <pubDate>2026-01-22T06:03:05+01:00</pubDate>
       </item><item>
         <title>Contributor: toemke Discussion Comment No.: 2 Comment: Szia! Igen, ezt értem és elég sokat vaciláltam, hogy mi lenne a jó megoldás. Az újhegyi lakótelepen elég labirintusszerűen, szerteágazóan mennek az utak, nem egyértelmű, hogy melyik vonalvezetés &quot;az utca&quot;, és melyik rész tekinthető szervízútnak. Másrészt a lakótelep utcáinak 70%-a szervízútként szerepelt, ezért a többséghez igazítottam a maradékot. De akkor az összes névvel ellátott utat residentalre fogom venni. Date: 2026-01-22T05:01:47+01:00</title>
         <link>https://www.openstreetmap.org/changeset/177494049</link>
