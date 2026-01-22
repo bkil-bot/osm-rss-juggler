@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szia! Ezeknek a Gergely utcai épületeknek mi a pontos címek, 106/A vagy 106 A épület, esetleg 106 A lépcsőház? Mert a 106A nem túl egyértelmű Tamás Date: 2026-01-21T21:44:36+01:00</title>
+        <title>Contributor: toemke Discussion Comment No.: 2 Comment: Szia! Ez a lakópark nagyon érdekes, mert a teljes terület Gergely utca 102-108-ként szerepel. A terület egyes részei viszont 102, 104, 106 és 108-ra vannak felosztva és azon belül az épületek 102A, 102B stb. Szóval itt nem arról van szó, hogy telepen az épületnek vagy lépcsúháznak van egy betüjele is, hanem ez a cím (azon lehet vitázni, hogy kell e per-jel vagy nem). A google maps-en helyesen szerepelnek az egyes épületek címei, illetve az oeny.hu hrsz keresőjében is egyértelműek a címek (ott egyedül a 102-nél van egy hrsz az összes épületre): https://www.oeny.hu/oeny/hrsz-kereso/?state=JTdCJTIydHlwZSUyMiUzQTMlMkMlMjJ4JTIyJTNBNjU3NzEzLjQxMzY1NjQwNDglMkMlMjJ5JTIyJTNBMjM2NDcxLjY2NjI4NjI1NjM3JTdE Péter Date: 2026-01-22T05:13:10+01:00</title>
         <link>https://www.openstreetmap.org/changeset/177493459</link>
-        <guid>https://www.openstreetmap.org/changeset/177493459#comment_1</guid>
-        <pubDate>2026-01-21T21:44:36+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/177493459#comment_2</guid>
+        <pubDate>2026-01-22T05:13:10+01:00</pubDate>
       </item><item>
-        <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szia! A residential &gt;service típusú módosítások nem helyesek, ezek residential utak. (service != szervizút magyarul) Tipikusan service a gyártelepek, benzinkutak, kocsibehajtók, parkolók útjai ld: https://wiki.openstreetmap.org/wiki/Tag:highway%3Dservice Tamás Tamás Date: 2026-01-21T21:35:42+01:00</title>
+        <title>Contributor: toemke Discussion Comment No.: 2 Comment: Szia! Igen, ezt értem és elég sokat vaciláltam, hogy mi lenne a jó megoldás. Az újhegyi lakótelepen elég labirintusszerűen, szerteágazóan mennek az utak, nem egyértelmű, hogy melyik vonalvezetés &quot;az utca&quot;, és melyik rész tekinthető szervízútnak. Másrészt a lakótelep utcáinak 70%-a szervízútként szerepelt, ezért a többséghez igazítottam a maradékot. De akkor az összes névvel ellátott utat residentalre fogom venni. Date: 2026-01-22T05:01:47+01:00</title>
         <link>https://www.openstreetmap.org/changeset/177494049</link>
-        <guid>https://www.openstreetmap.org/changeset/177494049#comment_1</guid>
-        <pubDate>2026-01-21T21:35:42+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/177494049#comment_2</guid>
+        <pubDate>2026-01-22T05:01:47+01:00</pubDate>
       </item><item>
         <title>Contributor: vasony Discussion Comment No.: 2 Comment: Persze, mert nem való oda. Ha rz a neve akkor a name-be megy, ha csak helyi akkor loc_name vagy semmi. Date: 2026-01-19T05:47:15+01:00</title>
         <link>https://www.openstreetmap.org/changeset/177329963</link>
