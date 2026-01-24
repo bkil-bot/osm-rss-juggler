@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! lines=* címkét már nem használjuk, helyette a route_ref=* a használatos. jarokelu.hu-tól ha jól tudom nincs engedélyünk a felhasználásra. Nem világos számomra a felhasználási feltételeikből, hogy használhatjuk-e, szerzői jogokra nem tér ki, ami azt jelenti, hogy nem használhatjuk. Ha esetleg szereznél engedélyt, azt ide töltsd fel: https://wiki.openstreetmap.org/wiki/Hungary/Importálás/Engedélyek További jó térképezést! Date: 2026-01-24T10:54:08+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/176089869</link>
+        <guid>https://www.openstreetmap.org/changeset/176089869#comment_1</guid>
+        <pubDate>2026-01-24T10:54:08+01:00</pubDate>
+      </item><item>
         <title>Contributor: Champi67 Discussion Comment No.: 2 Comment: Ohh ok, I was not knowing that and for sure was more convenient because of types of changes. I'll keep in mind for next changes Date: 2026-01-22T20:05:45+01:00</title>
         <link>https://www.openstreetmap.org/changeset/177560550</link>
         <guid>https://www.openstreetmap.org/changeset/177560550#comment_2</guid>
@@ -42,11 +47,6 @@
         <link>https://www.openstreetmap.org/changeset/177166605</link>
         <guid>https://www.openstreetmap.org/changeset/177166605#comment_2</guid>
         <pubDate>2026-01-17T18:49:15+01:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 5 Comment: Javítottam itt: https://www.openstreetmap.org/changeset/177331912 &quot;Vallás&quot;-nak van az iD szerkesztőben fordítva. Valamiért ez a címke megjelenik minden iskolánál alapértelmezetten, nem kell kitölteni, ha nem egyházi iskoláról van szó. Ugyanez igaz az &quot;Épület&quot; címkére. Nyugodtan szabad, sőt kell is mezőket üresen hagyni, nem kel mindenáron kitölteni mindent. Ami nem releváns az maradjon üres. Alul a konkrét címkéket is láthatod amiket megad a szerkesztő, ott könnyű ellenőrizni mi történik a motorháztető alatt. További jó térképezést! Date: 2026-01-17T11:48:08+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/177085104</link>
-        <guid>https://www.openstreetmap.org/changeset/177085104#comment_5</guid>
-        <pubDate>2026-01-17T11:48:08+01:00</pubDate>
       </item>
   </channel>
 </rss>
