@@ -87,11 +87,6 @@
         <link>https://www.openstreetmap.org/changeset/177560550</link>
         <guid>https://www.openstreetmap.org/changeset/177560550#comment_2</guid>
         <pubDate>2026-01-22T20:05:45+01:00</pubDate>
-      </item><item>
-        <title>Contributor: dcf77 Discussion Comment No.: 3 Comment: Értem a problémát, de ez ugye nem a térképes adatbázis hibája, hanem a navigációs és validátor szoftvereké. Akkor is hibát jelez, ha csak az indoor=yes van a footway-en? Mert a building_passage wiki ezt írja: For ways that go inside a building (indoor mapping), the tags either highway=corridor, or highway=* + indoor=yes can be used. Date: 2026-01-22T16:10:02+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/176356020</link>
-        <guid>https://www.openstreetmap.org/changeset/176356020#comment_3</guid>
-        <pubDate>2026-01-22T16:10:02+01:00</pubDate>
       </item>
   </channel>
 </rss>
