@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: qstep Discussion Comment No.: 3 Comment: Ez esetben a WC legyen access=customers , ami általában ügyfeleket/vendégeket jelöl. Bővebben: https://wiki.openstreetmap.org/wiki/Key:access A konnektort megbeszéltük PM-ben :) Date: 2026-01-29T09:20:53+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/177809511</link>
+        <guid>https://www.openstreetmap.org/changeset/177809511#comment_3</guid>
+        <pubDate>2026-01-29T09:20:53+01:00</pubDate>
+      </item><item>
+        <title>Contributor: Attila0474 Discussion Comment No.: 2 Comment: Ez egy parkban van ahol van egy színpad. Ez az épület egy színpad es ott a hátamögött van a konnektor. Legközelebb amikor arra biciklizek akkor lefotózom. Date: 2026-01-29T08:41:07+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/177809510</link>
+        <guid>https://www.openstreetmap.org/changeset/177809510#comment_2</guid>
+        <pubDate>2026-01-29T08:41:07+01:00</pubDate>
+      </item><item>
         <title>Contributor: Taya_S Discussion Comment No.: 1 Comment: Question, but what does &quot;min_age=-1&quot; mean? How does that work? Date: 2026-01-28T16:34:38+01:00</title>
         <link>https://www.openstreetmap.org/changeset/177804429</link>
         <guid>https://www.openstreetmap.org/changeset/177804429#comment_1</guid>
@@ -12,16 +22,6 @@
         <link>https://www.openstreetmap.org/changeset/177809508</link>
         <guid>https://www.openstreetmap.org/changeset/177809508#comment_2</guid>
         <pubDate>2026-01-28T16:29:36+01:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Szia! Egyrészt az entrance címke az bejáratokra vonatkozik, az általad megadott érték semmiképp nem jó. Továbbá ez nagyon úgy tűnik, hogy egy magánépület. Van esetleg fotód a helyszínről? Ebben a formában visszavonnám ezt a szerkesztést. Date: 2026-01-28T16:21:41+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/177809510</link>
-        <guid>https://www.openstreetmap.org/changeset/177809510#comment_1</guid>
-        <pubDate>2026-01-28T16:21:41+01:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv! Létrehoztál két új node-ot az ebike töltőknek, de már volt ott egy `power=outlet` címkével jelzett feltételezem konnektor. Ez egy dedikált ebike töltőállomás, vagy pedig csak egy nyilvánosan használható dugalj? Illetve a WC-nél felvetted, hogy `access=private`. Ez a címke azt jelenti, hogy magánterületen van, és csak a tulajdonos(ok) használhatják. Biztosan nem nyilvános WC-ről van szó? Date: 2026-01-28T16:15:31+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/177809511</link>
-        <guid>https://www.openstreetmap.org/changeset/177809511#comment_1</guid>
-        <pubDate>2026-01-28T16:15:31+01:00</pubDate>
       </item><item>
         <title>Contributor: Géczi Roland Levente Discussion Comment No.: 1 Comment: *Somlyó-sziget feltöltése terülthasználatokkal: mezőgazdasági területek 3.* Date: 2026-01-28T14:56:11+01:00</title>
         <link>https://www.openstreetmap.org/changeset/177809073</link>
