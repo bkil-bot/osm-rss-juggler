@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Ever wondering where the QR codes in #deltachat come from? each of them is handmade, as everything in delta :) #fosdem person drawing a QR code on a chalkboard</title>
+        <link>https://chaos.social/@delta/115990978823335932</link>
+        <guid>https://chaos.social/@delta/115990978823335932</guid>
+        <pubDate>Sat, 31 Jan 2026 17:51:19 +0000</pubDate>
+      </item><item>
         <title>Now in the #FOSDEM live stream: Holger Krekel introducing #autocrypt2, a mechanism to protect against store-now-decrypt-later attacks, to be introduced in Delta! https://live.fosdem.org/watch/k4201 More details about the talk: https://fosdem.org/2026/schedule/event/TV7GCC-autocrypt_2_post-quantum-cryptography_and_reliable_deletion_forward-secrecy/ #DeltaChat #forwardsecrey #reliabledeletion</title>
         <link>https://chaos.social/@delta/115989664908366423</link>
         <guid>https://chaos.social/@delta/115989664908366423</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115700457883212685</link>
         <guid>https://chaos.social/@delta/115700457883212685</guid>
         <pubDate>Thu, 11 Dec 2025 10:28:01 +0000</pubDate>
-      </item><item>
-        <title>Thanks for your patience, everything should work again. If you experience disruptions or irregularities, let us know.</title>
-        <link>https://chaos.social/@delta/115695263400706023</link>
-        <guid>https://chaos.social/@delta/115695263400706023</guid>
-        <pubDate>Wed, 10 Dec 2025 12:26:59 +0000</pubDate>
       </item>
   </channel>
 </rss>
