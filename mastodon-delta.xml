@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Now in the #FOSDEM live stream: Holger Krekel introducing #autocrypt2, a mechanism to protect against store-now-decrypt-later attacks, to be introduced in Delta! https://live.fosdem.org/watch/k4201 More details about the talk: https://fosdem.org/2026/schedule/event/TV7GCC-autocrypt_2_post-quantum-cryptography_and_reliable_deletion_forward-secrecy/ #DeltaChat #forwardsecrey #reliabledeletion</title>
+        <link>https://chaos.social/@delta/115989664908366423</link>
+        <guid>https://chaos.social/@delta/115989664908366423</guid>
+        <pubDate>Sat, 31 Jan 2026 12:17:10 +0000</pubDate>
+      </item><item>
         <title>Several of our teams will be at #fosdem26 ... we&amp;#39;ll introduce our PQC and Reliable Deletion (&amp;quot;forward secrecy&amp;quot;) efforts, and give an overview over multi-relay #chatmail architectures. Or catch us on the booth or some sunny place outside :) https://delta.chat/fosdem26.html invite link for public fosdem26 group attention: consider joining with a dedicated conference chat profile because large public groups can attract trolls. Your private profiles are safe/unaffected then. https://i.delta.chat/#6CBFF8FFD505C0FDEA20A66674F2916EA8FBEE99&amp;amp;a=invitebot%40nine.testrun.org&amp;amp;g=Fosdem%202026&amp;amp;x=AjYC5YcO-x2Uioq9ZoNPFEUh&amp;amp;i=oKBUjU_D2vbpSg0VP9tA23gv&amp;amp;s=ZfUOyrKGon_ahzU32Cej0WWw</title>
         <link>https://chaos.social/@delta/115984003374896927</link>
         <guid>https://chaos.social/@delta/115984003374896927</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115695263400706023</link>
         <guid>https://chaos.social/@delta/115695263400706023</guid>
         <pubDate>Wed, 10 Dec 2025 12:26:59 +0000</pubDate>
-      </item><item>
-        <title>The default onboarding relay server nine.testrun.org will be down in the next hours for server maintenance. We will keep you updated.</title>
-        <link>https://chaos.social/@delta/115695136756707798</link>
-        <guid>https://chaos.social/@delta/115695136756707798</guid>
-        <pubDate>Wed, 10 Dec 2025 11:54:47 +0000</pubDate>
       </item>
   </channel>
 </rss>
