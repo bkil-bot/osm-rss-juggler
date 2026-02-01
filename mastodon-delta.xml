@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Our second #FOSDEM talk is about to start: Hocuri talks about the upcoming #multirelay profiles, which use more than one address to exchange messages! Live Stream is here: https://live.fosdem.org/watch/ud2218a Recording will be available here later: https://fosdem.org/2026/schedule/event/3F9VTU-deltachat-chatmail-relays-multi-transport/</title>
+        <link>https://chaos.social/@delta/115996093737468134</link>
+        <guid>https://chaos.social/@delta/115996093737468134</guid>
+        <pubDate>Sun, 01 Feb 2026 15:32:06 +0000</pubDate>
+      </item><item>
         <title>Ever wondering where the QR codes in #deltachat come from? each of them is handmade, as everything in delta :) #fosdem person drawing a QR code on a chalkboard</title>
         <link>https://chaos.social/@delta/115990978823335932</link>
         <guid>https://chaos.social/@delta/115990978823335932</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115700871996320244</link>
         <guid>https://chaos.social/@delta/115700871996320244</guid>
         <pubDate>Thu, 11 Dec 2025 12:13:20 +0000</pubDate>
-      </item><item>
-        <title>#chatmail relays really are the dumbest messaging servers in town, but having fun with each other 😂 https://chatmail.at/doc/relay the three-dragons meme, with matrix and signal being left and middle, very serious and powerfully looking, while chatmail is the third dragon looking more dumb but also more enjoying themselves?</title>
-        <link>https://chaos.social/@delta/115700457883212685</link>
-        <guid>https://chaos.social/@delta/115700457883212685</guid>
-        <pubDate>Thu, 11 Dec 2025 10:28:01 +0000</pubDate>
       </item>
   </channel>
 </rss>
