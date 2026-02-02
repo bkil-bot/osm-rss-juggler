@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: kungabo Discussion Comment No.: 3 Comment: Ja, még valami: Nem az útszakasz neve az, hogy Majális park, hanem a buszmegálló(k)é. Kifejezetten megtévesztő megnevezés egyébként, mert maga a Majálispark északabbra van. Amióta azonban ez a buszmegálló neve (mert aki oda tart, annak itt kell leszállnia), azóta (egy bolond százat csinál alapon) egyre többen (már sokan) azt hiszik, hogy ez, a buszforduló (és közvetlen környéke) a Majálispark. Ennek az orvoslására javaslom inkább törölni az útszakaszról a megnevezést. (Magát a &quot;buszforduló&quot; szót is ezért írtam bele annó, hogy világos legyen, jobban elkülönüljön magától a Majálisparktól.) A normál turistatérképen a buszmegálló neve az, de mivel nincs pont ott más megnevezés feltüntetve, arról is azt hiszik, hogy az ennek a helynek (is) a neve. Date: 2026-02-02T08:15:12+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/176852843</link>
+        <guid>https://www.openstreetmap.org/changeset/176852843#comment_3</guid>
+        <pubDate>2026-02-02T08:15:12+01:00</pubDate>
+      </item><item>
         <title>Contributor: vasony Discussion Comment No.: 5 Comment: Még 1 adalék, ezen (is) volt a házszám eredetileg: https://www.openstreetmap.org/node/3402076660/history/5 Date: 2026-02-01T20:52:36+01:00</title>
         <link>https://www.openstreetmap.org/changeset/102247522</link>
         <guid>https://www.openstreetmap.org/changeset/102247522#comment_5</guid>
@@ -12,11 +17,6 @@
         <link>https://www.openstreetmap.org/changeset/177115304</link>
         <guid>https://www.openstreetmap.org/changeset/177115304#comment_1</guid>
         <pubDate>2026-02-01T19:29:34+01:00</pubDate>
-      </item><item>
-        <title>Contributor: urbalazs Discussion Comment No.: 1 Comment: Szia kungabo! Szerintem ennek a szakasznak nem az a neve, hogy buszforduló. Ez a tulajdonsága, amelyet a highway=service már félig-meddig magával hordoz, illetve az a tény, hogy a busz itt fordul meg. Visszavontam a módosításcsomagot, és helyreállítottam az eredeti nevet. Date: 2026-02-01T19:25:34+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/176852843</link>
-        <guid>https://www.openstreetmap.org/changeset/176852843#comment_1</guid>
-        <pubDate>2026-02-01T19:25:34+01:00</pubDate>
       </item><item>
         <title>Contributor: mueschel Discussion Comment No.: 1 Comment: Hi, could you check your recent edits of sockets? I found many keys that are not used in any other place. Please have a look to the list of socket types, and use only those - the exact spelling matters! https://wiki.openstreetmap.org/wiki/Key:socket:* Date: 2026-02-01T09:58:52+01:00</title>
         <link>https://www.openstreetmap.org/changeset/177934568</link>
