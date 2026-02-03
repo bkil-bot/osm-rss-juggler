@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>What do you think is currently the most interesting decentralized messaging system when Signal and its server infrastructure would be more severely disrupted tomorrow? Delta Chat and chatmail relays Matrix clients and Matrix servers XMPP clients and servers something other (Briar, Simplex, ...)</title>
+        <link>https://chaos.social/@delta/116008294211528743</link>
+        <guid>https://chaos.social/@delta/116008294211528743</guid>
+        <pubDate>Tue, 03 Feb 2026 19:14:50 +0000</pubDate>
+      </item><item>
         <title>Our second #FOSDEM talk is about to start: Hocuri talks about the upcoming #multirelay profiles, which use more than one address to exchange messages! Live Stream is here: https://live.fosdem.org/watch/ud2218a Recording will be available here later: https://fosdem.org/2026/schedule/event/3F9VTU-deltachat-chatmail-relays-multi-transport/</title>
         <link>https://chaos.social/@delta/115996093737468134</link>
         <guid>https://chaos.social/@delta/115996093737468134</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115708123530185067</link>
         <guid>https://chaos.social/@delta/115708123530185067</guid>
         <pubDate>Fri, 12 Dec 2025 18:57:29 +0000</pubDate>
-      </item><item>
-        <title>#deltachat PSAs regarding the last 24 hours: 1) If you messaged someone about 20-30 hours ago, and did not get an expected response/receipt better &amp;quot;resend&amp;quot; (long-tap or right-click the message to resend). Unfortunately, not all queued messages at the crashing nine.testrun.org server made it to the new one. 2) 2.33+ app releases are rolling out, supporting using &amp;quot;multiple relays&amp;quot; so that failing relays (like happened above) will not cause lost messages anymore. See https://support.delta.chat/t/how-to-migrate-your-profile-to-another-relay-version-2-33/ jack-sparrow-sinking-ship meme with three text parts: the sinking boat: &quot;nine's discs failing&quot; Sparrow stepping on to the harbor: &quot;Nine's admins&quot; The safe harbor: &quot;New Nine server / 2.33 Multi-relay releases rolling&quot;</title>
-        <link>https://chaos.social/@delta/115700871996320244</link>
-        <guid>https://chaos.social/@delta/115700871996320244</guid>
-        <pubDate>Thu, 11 Dec 2025 12:13:20 +0000</pubDate>
       </item>
   </channel>
 </rss>
