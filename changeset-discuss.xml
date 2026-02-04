@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv! Az épületek nevének nem kell megadni a házszámát, azt már felvetted az addr:housenumber címkében. Ez a területfunkció pedig nagyon elnagyoltnak tűnik, kérlek javítsd: https://www.openstreetmap.org/way/1474158478 - Ráadásul már fel van véve egy place pontként a terület közepén (lásd: https://www.openstreetmap.org/node/8424810170) Itt a &quot;Falujárók úti lakótelep 5 épületei&quot; biztosan nem jó, sem nyelvtanilag, sem az épületek számát tekintve. Maga a landuse név nélkül maradhat, de akkor pontosan határold be, hogy mettől meddig tart. Továbbá területfunkciónak nincs lakcíme, azt töröld. Köszi Date: 2026-02-04T15:16:55+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/178094986</link>
+        <guid>https://www.openstreetmap.org/changeset/178094986#comment_1</guid>
+        <pubDate>2026-02-04T15:16:55+01:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Ilyenkor amikor az iskolának a címkéi már szerepelnek a kontúron nem kell megismételni az épületen is. Itt van minden címkézve már: https://www.openstreetmap.org/way/247082806 Viszont ha külön épület/rész az iskola és a kollégium akkor azt éri meg ezen a szinten elnevezni. Bővebben erről itt: https://wiki.openstreetmap.org/wiki/One_feature,_one_OSM_element További jó térképezést! Date: 2026-02-03T21:49:53+01:00</title>
         <link>https://www.openstreetmap.org/changeset/177976758</link>
         <guid>https://www.openstreetmap.org/changeset/177976758#comment_1</guid>
@@ -82,11 +87,6 @@
         <link>https://www.openstreetmap.org/changeset/177804429</link>
         <guid>https://www.openstreetmap.org/changeset/177804429#comment_1</guid>
         <pubDate>2026-01-28T16:34:38+01:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 2 Comment: *házra Date: 2026-01-28T16:29:36+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/177809508</link>
-        <guid>https://www.openstreetmap.org/changeset/177809508#comment_2</guid>
-        <pubDate>2026-01-28T16:29:36+01:00</pubDate>
       </item>
   </channel>
 </rss>
