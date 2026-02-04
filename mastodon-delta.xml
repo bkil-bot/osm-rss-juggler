@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>A lot of messaging systems try to reinvent the email system but many (signal, matrix, xmpp) took over one key traditional design which we actually dropped while retaining SMTP/IMAP compatibility: server-controlled identities. With #chatmail user identities are cryptographic and reside on end user devices only. Servers are only message relays and have no control over identities or chats, only perform fast message routing. See this fosdem talk by one of our lead developers https://mirror.cyberbits.eu/fosdem/2026/ud2218a/3F9VTU-deltachat-chatmail-relays-multi-transport.av1.webm</title>
+        <link>https://chaos.social/@delta/116014557363796380</link>
+        <guid>https://chaos.social/@delta/116014557363796380</guid>
+        <pubDate>Wed, 04 Feb 2026 21:47:38 +0000</pubDate>
+      </item><item>
         <title>What do you think is currently the most interesting decentralized messaging system when Signal and its server infrastructure would be more severely disrupted tomorrow? Delta Chat and chatmail relays Matrix clients and Matrix servers XMPP clients and servers something other (Briar, Simplex, ...)</title>
         <link>https://chaos.social/@delta/116008294211528743</link>
         <guid>https://chaos.social/@delta/116008294211528743</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115708809518211740</link>
         <guid>https://chaos.social/@delta/115708809518211740</guid>
         <pubDate>Fri, 12 Dec 2025 21:51:57 +0000</pubDate>
-      </item><item>
-        <title>Your chat profile/identity: a tar file. Your social web app: a zip file. https://chatmail.at and https://webxdc.org are spearheading ever new and more fun ways to deny power to servers and platform billionaires. Unlike classic email servers, #chatmail relays do not store user identities which solely live on end-user devices.There also is no encrypted value on the server like with Proton Mail or Signal. There are only relays, endless federating networks of relays to onboard safely :) Neo-spoon meme (scene from matrix movie where neo looks at a child bending a spoon which eventually tells him &quot;there is no spoon&quot;) with the following words top: &quot;On which server is your account?&quot; and below the bending spoon &quot;there is no account.&quot;</title>
-        <link>https://chaos.social/@delta/115708123530185067</link>
-        <guid>https://chaos.social/@delta/115708123530185067</guid>
-        <pubDate>Fri, 12 Dec 2025 18:57:29 +0000</pubDate>
       </item>
   </channel>
 </rss>
