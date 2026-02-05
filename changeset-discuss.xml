@@ -77,16 +77,6 @@
         <link>https://www.openstreetmap.org/changeset/177815753</link>
         <guid>https://www.openstreetmap.org/changeset/177815753#comment_1</guid>
         <pubDate>2026-01-29T17:26:38+01:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 1 Comment: A 46-os házszámot rátetted két épületre is, így duplikált adatnak számít. Elég csak az utcafrontira rátenni. Date: 2026-01-29T10:50:02+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/177815800</link>
-        <guid>https://www.openstreetmap.org/changeset/177815800#comment_1</guid>
-        <pubDate>2026-01-29T10:50:02+01:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Néhány észrevétel: 1. https://www.openstreetmap.org/node/13506833047: Ehhez nem szükséges a &quot;motor_vehicle&quot;, elég a &quot;motorcar&quot; címke, ami a legtöbb ilyen töltőállomásnál szerepel. 2. Több szerkesztésedben elírtad a &quot;bicycle&quot; címkét &quot;bycicle&quot;-ként. (i és y csere) 3. Felvettél egy operator=* címkét, ez így nem jelent semmit. Ide az üzemeltető cég neve kellene kerüljön, ha van ilyen (töltőállomásoknál szokott lenni, konnektoroknál felesleges) Ez mi pontosan? Ivóvíz lehetőség? Tusoló? Esővíz gyűjtő? https://www.openstreetmap.org/node/13507198193 - A man_made=reservoir_covered &quot;fedett víztározót&quot; jelent, ami a vízhálózattal vagy mondjuk mezőgazdasági vagy katasztrófavédelmi tevékenységgel függ össze. - A emergency=water_tank kifejezetten csak tűzoltók számára használható víztartályt jelent. - A name címkébe csak akkor írunk valamit, ha az valóban annak a pontnak a neve, ki van rá írva, vagy mindenki így ismeri. Ha a többi címke meghatározza, hogy mi ez, nem szükséges a name. - A description címkébe itthon magyarul írunk, itt már valóban részletezhető, hogy mi ez pontosan. Angolul is mellékelhető a leírás egy description:en nevű címkében. Az általad hozzáadott infó viszont leírható egy seasonal=summer címkével, lásd: https://wiki.openstreetmap.org/wiki/Key:seasonal Date: 2026-01-29T10:46:20+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/177815755</link>
-        <guid>https://www.openstreetmap.org/changeset/177815755#comment_1</guid>
-        <pubDate>2026-01-29T10:46:20+01:00</pubDate>
       </item>
   </channel>
 </rss>
