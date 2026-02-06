@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>It took a while but it&amp;#39;s shaping up nicely :) Post-Quantum Cryptography and Reliable Deletion, better known as Forward Secrecy, are going to become available in 2026 in #deltachat. For more details, including the recent #fosdem26 talk recording: https://autocrypt2.org</title>
+        <link>https://chaos.social/@delta/116020943524941913</link>
+        <guid>https://chaos.social/@delta/116020943524941913</guid>
+        <pubDate>Fri, 06 Feb 2026 00:51:44 +0000</pubDate>
+      </item><item>
         <title>A lot of messaging systems try to reinvent the email system but many (signal, matrix, xmpp) took over one key traditional design which we actually dropped while retaining SMTP/IMAP compatibility: server-controlled identities. With #chatmail user identities are cryptographic and reside on end user devices only. Servers are only message relays and have no control over identities or chats, only perform fast message routing. See this fosdem talk by one of our lead developers https://mirror.cyberbits.eu/fosdem/2026/ud2218a/3F9VTU-deltachat-chatmail-relays-multi-transport.av1.webm</title>
         <link>https://chaos.social/@delta/116014557363796380</link>
         <guid>https://chaos.social/@delta/116014557363796380</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115711918056270121</link>
         <guid>https://chaos.social/@delta/115711918056270121</guid>
         <pubDate>Sat, 13 Dec 2025 11:02:29 +0000</pubDate>
-      </item><item>
-        <title>#chatmail relays are recently getting more artful in their web presence 🤩 Nice examples: https://darkrun.dev in Ontario, or https://bloc7.icu/ in Warszawa. We estimate there are ~4 times more relays than in the published list at https://chatmail.at/relays Many relays are smaller ones, but that&amp;#39;s fine. A 5 EUR per month VPS can go a long way (thousands or tens of thousands of monthly users). Thanks for the service to all the operators of which around 40 are in a loose group chat 💗 a cyberpunk warrior-type picture from the front page of https://darkrun.dev where also an anime-style video is running in the background a wintery situation in a park, with some people you can't recognize walking through the park. It's on the front page of https://bloc7.icu</title>
-        <link>https://chaos.social/@delta/115708809518211740</link>
-        <guid>https://chaos.social/@delta/115708809518211740</guid>
-        <pubDate>Fri, 12 Dec 2025 21:51:57 +0000</pubDate>
       </item>
   </channel>
 </rss>
