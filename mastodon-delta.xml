@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>We engage with decentralization protocols a lot (many nerds love to) but make no mistake: in the end, the app needs to work and be easy to use. #deltachat is a cross-platform FOSS offering, with guaranteed security levels, close to user expectations ... major factors in driving adoption! True, the email system is not necessarily better than #xmpp ... but please compare with http://chatmail.at which is fast, ephemeral and secure, with delta inherently being a peer-to-peer E2EE messenger :)</title>
+        <link>https://chaos.social/@delta/116031045777422608</link>
+        <guid>https://chaos.social/@delta/116031045777422608</guid>
+        <pubDate>Sat, 07 Feb 2026 19:40:52 +0000</pubDate>
+      </item><item>
         <title>It took a while but it&amp;#39;s shaping up nicely :) Post-Quantum Cryptography and Reliable Deletion, better known as Forward Secrecy, are going to become available in 2026 in #deltachat. For more details, including the recent #fosdem26 talk recording: https://autocrypt2.org</title>
         <link>https://chaos.social/@delta/116020943524941913</link>
         <guid>https://chaos.social/@delta/116020943524941913</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115746844334925533</link>
         <guid>https://chaos.social/@delta/115746844334925533</guid>
         <pubDate>Fri, 19 Dec 2025 15:04:42 +0000</pubDate>
-      </item><item>
-        <title>On this day, two years ago, we published the first chatmail relay, https://delta.chat/en/2023-12-13-chatmail along with templates to replicate the setup, without needing any permission. Two weeks ago we thought there are 60 relays when a hacker handed in a 100+ list 😂 A bunch of knowledgeable folks are now maintaining track of health of the evolving global network, and supporting new operators. 💜💥🖤 thx also for all the support here on the fediverse! its been a wild year and #39c3 is in 13 days to top it off 😅</title>
-        <link>https://chaos.social/@delta/115711918056270121</link>
-        <guid>https://chaos.social/@delta/115711918056270121</guid>
-        <pubDate>Sat, 13 Dec 2025 11:02:29 +0000</pubDate>
       </item>
   </channel>
 </rss>
