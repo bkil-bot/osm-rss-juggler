@@ -3,6 +3,21 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>#DeltaChat breaks the one app, one ID rule of phone-number-based apps by supporting multiple chat profiles. This allows for true private messaging where you can keep a public identity for the Web or Fediverse separate from a private one for family and friends. Managing multiple selves is a new experience for many, but it is key to digital autonomy. We are working to make multi-profile handling even smoother in upcoming releases to ensure switching contexts is seamless. (3/3)</title>
+        <link>https://chaos.social/@delta/116047243990856779</link>
+        <guid>https://chaos.social/@delta/116047243990856779</guid>
+        <pubDate>Tue, 10 Feb 2026 16:20:17 +0000</pubDate>
+      </item><item>
+        <title>The total privacy of #DeltaChat has a trade-off: there is no global directory. Connecting for private messaging requires a direct QR scan or using an existing channel to exchange invite links. The hurdle is often the readiness of friends, family, or those around you to switch. However, once connected, the app is an enjoyable daily driver. It is about moving to a space where you cannot be found by strangers, but can still enjoy modern, reliable chat with those who matter. ... (2/3)</title>
+        <link>https://chaos.social/@delta/116047243145281315</link>
+        <guid>https://chaos.social/@delta/116047243145281315</guid>
+        <pubDate>Tue, 10 Feb 2026 16:20:04 +0000</pubDate>
+      </item><item>
+        <title>While platforms like #Matrix or #Signal manage user identities on a server, #DeltaChat and #Chatmail are not platforms in the classic sense. They operate without a central registry, meaning there is no central gatekeeper to grant or deny access. This setup for private messaging naturally complicates invasive age verification. Without a public registry or user discovery, there is no technical hook to verify users. #Chatmail also enforces E2EE by rejecting all unencrypted data. ... (1/3)</title>
+        <link>https://chaos.social/@delta/116047232009260552</link>
+        <guid>https://chaos.social/@delta/116047232009260552</guid>
+        <pubDate>Tue, 10 Feb 2026 16:17:14 +0000</pubDate>
+      </item><item>
         <title>The migration completed successfully, everything should be back to normal now.</title>
         <link>https://chaos.social/@delta/116046200493834037</link>
         <guid>https://chaos.social/@delta/116046200493834037</guid>
@@ -87,21 +102,6 @@
         <link>https://chaos.social/@delta/115842446685941927</link>
         <guid>https://chaos.social/@delta/115842446685941927</guid>
         <pubDate>Mon, 05 Jan 2026 12:17:38 +0000</pubDate>
-      </item><item>
-        <title>It&amp;#39;s true: the more technical background and pre-conceptions you have, the more more likely you run into trouble with #deltachat 😂 Don&amp;#39;t think so much! 😉 me: wanna try #deltachat with me? here's a invite link! most people including grandparents 💜 got it working nice that was pretty easy thx! computer people 🫠 wait, can i import my key? can't seem to get that working. sometimes i also get a message on thunderbird first before delta chat know why that's happening? i also read on hacker news that gpg should never be used for secure communication i don't know if i trust this. i can't seem to chat with my gmail acct i thought this was just email?</title>
-        <link>https://chaos.social/@delta/115810251249820004</link>
-        <guid>https://chaos.social/@delta/115810251249820004</guid>
-        <pubDate>Tue, 30 Dec 2025 19:49:55 +0000</pubDate>
-      </item><item>
-        <title>#39c3 .ending .. quite an enjoyable blast, and thanks to all the wonderful people just dropping by to say &amp;quot;thank you, it all works very nice for us&amp;quot;! 🥰 Certainly raised team spirits :) This year around, apart from one #chatmail relay setup workshop we didn&amp;#39;t do any registered events at congress. Pushing out releases, Illnesses and engagements in various other organizing prevented more public sessions. Next ones will be around #fosdem2026 where also several of us will be around. Cheers! Picture of the congress rocket in various laser colors. Taken from https://woof.tech/@Purple/115809359193169798</title>
-        <link>https://chaos.social/@delta/115809626172873444</link>
-        <guid>https://chaos.social/@delta/115809626172873444</guid>
-        <pubDate>Tue, 30 Dec 2025 17:10:57 +0000</pubDate>
-      </item><item>
-        <title>Relax 😎! GPG is not OpenPGP! Yesterday, vulnerabilities were published https://gpg.fail but they don&amp;#39;t affect #deltachat or other #chatmail clients because A) We never used #gnupg for anything; we use the modern #rustlang #openpgp implementation @rpgp, security audited multiple times. B) #openpgp is fine, as modernized in #RFC9580, which already warns against several #gpgfail issues (gpg didn&amp;#39;t implement that spec) Please spread the word that #gpg is not #openpgp ... Thanks! #39c3</title>
-        <link>https://chaos.social/@delta/115796626066185436</link>
-        <guid>https://chaos.social/@delta/115796626066185436</guid>
-        <pubDate>Sun, 28 Dec 2025 10:04:51 +0000</pubDate>
       </item>
   </channel>
 </rss>
