@@ -3,10 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: Géczi Roland Levente Discussion Comment No.: 1 Comment: Üdv! A kért javítás megtörtént. A hiba a Multipolygon módszer ismeretének hiányán alapul. Egy ilyen alakzat többek között csak akkor érvényes, ha a gyűrű(k) kezdő és végpontja egy koordinátára esnek, azaz zárt kört alkot. Ezen kívül fontos, hogy a kapcsolat ne tartalmazzon felesleges tagokat, ami több bezáratlan gyűrűt eredményezne, pl.: ilyen volt a bozót területéhez hozzákapcsolt fasor szegmens is, ami bezáratlan gyűrűt eredményezett. Ha többet szeretnél tudni erről a módszerről, olvasd el ezt a szócikket: https://wiki.openstreetmap.org/wiki/Hu:Relation:multipolygon Date: 2026-02-15T13:33:27+01:00</title>
+        <title>Contributor: szigyi222 Discussion Comment No.: 2 Comment: Szia! Nagyon szépen köszönöm, így már teljesen világos! Date: 2026-02-15T14:58:49+01:00</title>
         <link>https://www.openstreetmap.org/changeset/178560113</link>
-        <guid>https://www.openstreetmap.org/changeset/178560113#comment_1</guid>
-        <pubDate>2026-02-15T13:33:27+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/178560113#comment_2</guid>
+        <pubDate>2026-02-15T14:58:49+01:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Wikidata linkeket ne rakj a wikipedia címkébe. Wikidata kódokat a species:wikidata=* vagy valami hasonlóba kell írni, link nélkül, csak a kódot. attraction=animal címke dokumentációjánál ez le is van írva. Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség#Elérhetőségek További jó térképezést! Date: 2026-02-15T14:42:08+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/178545551</link>
+        <guid>https://www.openstreetmap.org/changeset/178545551#comment_1</guid>
+        <pubDate>2026-02-15T14:42:08+01:00</pubDate>
       </item><item>
         <title>Contributor: NightH Discussion Comment No.: 2 Comment: Az előző posztban megtört a link, itt van helyesen: https://smplu.link/M0grd Date: 2026-02-15T13:14:02+01:00</title>
         <link>https://www.openstreetmap.org/changeset/178374840</link>
