@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>The recordings of our #FOSDEM talks are both released by now :) Saturday&amp;#39;s talk about #autocrypt2: https://fosdem.org/2026/schedule/event/TV7GCC-autocrypt_2_post-quantum-cryptography_and_reliable_deletion_forward-secrecy/ Sunday&amp;#39;s talk about the #multirelay future: https://fosdem.org/2026/schedule/event/3F9VTU-deltachat-chatmail-relays-multi-transport/ #DeltaChat #Chatmail</title>
+        <link>https://chaos.social/@delta/116080837878761930</link>
+        <guid>https://chaos.social/@delta/116080837878761930</guid>
+        <pubDate>Mon, 16 Feb 2026 14:43:39 +0000</pubDate>
+      </item><item>
         <title>#DeltaChat breaks the one app, one ID rule of phone-number-based apps by supporting multiple chat profiles. This allows for true private messaging where you can keep a public identity for the Web or Fediverse separate from a private one for family and friends. Managing multiple selves is a new experience for many, but it is key to digital autonomy. We are working to make multi-profile handling even smoother in upcoming releases to ensure switching contexts is seamless. (3/3)</title>
         <link>https://chaos.social/@delta/116047243990856779</link>
         <guid>https://chaos.social/@delta/116047243990856779</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115844314003211322</link>
         <guid>https://chaos.social/@delta/115844314003211322</guid>
         <pubDate>Mon, 05 Jan 2026 20:12:31 +0000</pubDate>
-      </item><item>
-        <title>Don&amp;#39;t believe those who loudly claim email can not avoid metadata! They are ignorant of our continuous works on minimizing metadata: DONE: - no phone number other identifying data needed - no cleartext &amp;quot;Subject&amp;quot; - no cleartext &amp;quot;To&amp;quot; - randomized &amp;quot;Date&amp;quot; - no IP addresses - group/avatar/attachment/etc metadata only contained in encrypted message parts Upcoming: - servers to never see cryptographic ID metadata - remove &amp;quot;threading&amp;quot; and auxilliary headers - experiment with Sealed Sender</title>
-        <link>https://chaos.social/@delta/115842446685941927</link>
-        <guid>https://chaos.social/@delta/115842446685941927</guid>
-        <pubDate>Mon, 05 Jan 2026 12:17:38 +0000</pubDate>
       </item>
   </channel>
 </rss>
