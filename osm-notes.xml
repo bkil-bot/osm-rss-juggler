@@ -3,13 +3,26 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
-        <title>closed note 5088322 (near Széchenyi-lakótelep, Csajdakert, Kalocsa) / * 2025 December 12 10:50 Created: Körforgalom geometria felülvizsgálata szükséges. / Resolved &lt;time title=&quot;16 February 2026 at 10:13&quot; datetime=&quot;2026-02-16T10:13:58Z&quot;&gt;16 minutes ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Spush&quot;&gt;Spush&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 5169671 (near Doboz) / Created &lt;time title=&quot;16 February 2026 at 09:53&quot; datetime=&quot;2026-02-16T09:53:06Z&quot;&gt;about 2 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/mFinker&quot;&gt;mFinker&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;&amp;quot;This place is called &amp;quot;Fokhát-zug&amp;quot;, not Fokhát utca, as zug leads to the utca.&amp;quot;
+OSM snapshot date: 2026-01-25T13:04:34Z
+POI name: Fokhát utca
+POI types: highway-residential
+ #organicmaps android 2026.01.26-11-FDroid / Resolved &lt;time title=&quot;16 February 2026 at 11:17&quot; datetime=&quot;2026-02-16T11:17:27Z&quot;&gt;13 minutes ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/qstep&quot;&gt;qstep&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;Fixed: https://www.openstreetmap.org/changeset/178624477
+
+Strangely the official infrastructure regulation plan mentions &amp;quot;Fokháti utca and Fokháti-zug&amp;quot; on the map, but I think that&amp;#39;s incorrect: https://or.njt.hu/download/1775/resources/EJR_47004198-Szab_lyoz_si_tervlap_9._sz._szelveny_2023_02_07.pdf</title>
+        <link>https://www.openstreetmap.org/note/5169671#c11509340</link>
+        <guid>https://www.openstreetmap.org/note/5169671#c11509340</guid>
+        <pubDate>Mon, 16 Feb 2026 11:17:27 +0000</pubDate>
+      </item><item>
+        <title>closed note 5088322 (near Széchenyi-lakótelep, Csajdakert, Kalocsa) / * 2025 December 12 10:50 Created: Körforgalom geometria felülvizsgálata szükséges. / Resolved &lt;time title=&quot;16 February 2026 at 10:13&quot; datetime=&quot;2026-02-16T10:13:58Z&quot;&gt;about 1 hour ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Spush&quot;&gt;Spush&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Javítva.</title>
         <link>https://www.openstreetmap.org/note/5088322#c11509135</link>
         <guid>https://www.openstreetmap.org/note/5088322#c11509135</guid>
         <pubDate>Mon, 16 Feb 2026 10:13:58 +0000</pubDate>
       </item><item>
-        <title>new note 5169672 (near Doboz) / Created &lt;time title=&quot;16 February 2026 at 09:53&quot; datetime=&quot;2026-02-16T09:53:06Z&quot;&gt;37 minutes ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/mFinker&quot;&gt;mFinker&lt;/a&gt;&lt;/div&gt;
+        <title>new note 5169672 (near Doboz) / Created &lt;time title=&quot;16 February 2026 at 09:53&quot; datetime=&quot;2026-02-16T09:53:06Z&quot;&gt;about 2 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/mFinker&quot;&gt;mFinker&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;&amp;quot;This part of the street might have been privatized. The long straight that is in a 90° angle remains intact&amp;quot;
 OSM snapshot date: 2026-01-25T13:04:34Z
 POI name: Jókai utca
@@ -19,7 +32,7 @@ POI types: highway-residential
         <guid>https://www.openstreetmap.org/note/5169672#c11509078</guid>
         <pubDate>Mon, 16 Feb 2026 09:53:06 +0000</pubDate>
       </item><item>
-        <title>new note 5169671 (near Doboz) / Created &lt;time title=&quot;16 February 2026 at 09:53&quot; datetime=&quot;2026-02-16T09:53:06Z&quot;&gt;37 minutes ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/mFinker&quot;&gt;mFinker&lt;/a&gt;&lt;/div&gt;
+        <title>new note 5169671 (near Doboz) / Created &lt;time title=&quot;16 February 2026 at 09:53&quot; datetime=&quot;2026-02-16T09:53:06Z&quot;&gt;about 2 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/mFinker&quot;&gt;mFinker&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;&amp;quot;This place is called &amp;quot;Fokhát-zug&amp;quot;, not Fokhát utca, as zug leads to the utca.&amp;quot;
 OSM snapshot date: 2026-01-25T13:04:34Z
 POI name: Fokhát utca
@@ -29,7 +42,7 @@ POI types: highway-residential
         <guid>https://www.openstreetmap.org/note/5169671#c11509077</guid>
         <pubDate>Mon, 16 Feb 2026 09:53:06 +0000</pubDate>
       </item><item>
-        <title>closed note 3399462 (near Bogovicsfalu, Hollandfalu, Kecskemét) / * 2022 October 14 19:15 Created: Testilelkigyógyulás / Március 15. utca 40. 5/15. / Resolved &lt;time title=&quot;15 February 2026 at 23:27&quot; datetime=&quot;2026-02-15T23:27:00Z&quot;&gt;about 11 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 3399462 (near Bogovicsfalu, Hollandfalu, Kecskemét) / * 2022 October 14 19:15 Created: Testilelkigyógyulás / Március 15. utca 40. 5/15. / Resolved &lt;time title=&quot;15 February 2026 at 23:27&quot; datetime=&quot;2026-02-15T23:27:00Z&quot;&gt;about 12 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Mire gondolhatott a költő?</title>
         <link>https://www.openstreetmap.org/note/3399462#c11508271</link>
         <guid>https://www.openstreetmap.org/note/3399462#c11508271</guid>
@@ -38,100 +51,100 @@ POI types: highway-residential
         <title>new comment 4644547 (near Széktó-lakópark, Széktói liget, Kecskemét) / Created &lt;time title=&quot;27 February 2025 at 20:21&quot; datetime=&quot;2025-02-27T20:21:28Z&quot;&gt;12 months ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/vasony&quot;&gt;vasony&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Ipoly sor vagy Ipoly utca van táblázva? / Updated &lt;time title=&quot;18 May 2025 at 18:02&quot; datetime=&quot;2025-05-18T18:02:58Z&quot;&gt;9 months ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/GhostOfSparta&quot;&gt;GhostOfSparta&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Itt valószínűleg azért lett sor, mivel az MVM telephelye Ipoly sor 5. címet használ: https://www.mvmhalozat.hu/edgaz/oldalak/6079
-Ritkán járok arra, de én eddig csak Ipoly utcát láttam kiírva. / Updated &lt;time title=&quot;15 February 2026 at 23:25&quot; datetime=&quot;2026-02-15T23:25:39Z&quot;&gt;about 11 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
+Ritkán járok arra, de én eddig csak Ipoly utcát láttam kiírva. / Updated &lt;time title=&quot;15 February 2026 at 23:25&quot; datetime=&quot;2026-02-15T23:25:39Z&quot;&gt;about 12 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Kapura elvileg sor van kiírva, meg kéne nézni.</title>
         <link>https://www.openstreetmap.org/note/4644547#c11508268</link>
         <guid>https://www.openstreetmap.org/note/4644547#c11508268</guid>
         <pubDate>Sun, 15 Feb 2026 23:25:39 +0000</pubDate>
       </item><item>
         <title>closed note 3944460 (near Széktó-lakópark, Széktói liget, Kecskemét) / Created &lt;time title=&quot;17 October 2023 at 08:09&quot; datetime=&quot;2023-10-17T08:09:24Z&quot;&gt;over 2 years ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/dastanfury&quot;&gt;dastanfury&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Korhánközi útból nem Wéber Ede utca lett? / Resolved &lt;time title=&quot;15 February 2026 at 21:49&quot; datetime=&quot;2026-02-15T21:49:16Z&quot;&gt;about 13 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;www.oeny.hu szerint nem. / Reactivated &lt;time title=&quot;15 February 2026 at 22:51&quot; datetime=&quot;2026-02-15T22:51:57Z&quot;&gt;about 12 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/qstep&quot;&gt;qstep&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt; / Updated &lt;time title=&quot;15 February 2026 at 22:52&quot; datetime=&quot;2026-02-15T22:52:17Z&quot;&gt;about 12 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/qstep&quot;&gt;qstep&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Najó, de mi van kiírva az utcanévtáblán? / Resolved &lt;time title=&quot;15 February 2026 at 23:18&quot; datetime=&quot;2026-02-15T23:18:15Z&quot;&gt;about 11 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;Korhánközi útból nem Wéber Ede utca lett? / Resolved &lt;time title=&quot;15 February 2026 at 21:49&quot; datetime=&quot;2026-02-15T21:49:16Z&quot;&gt;about 14 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;www.oeny.hu szerint nem. / Reactivated &lt;time title=&quot;15 February 2026 at 22:51&quot; datetime=&quot;2026-02-15T22:51:57Z&quot;&gt;about 13 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/qstep&quot;&gt;qstep&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt; / Updated &lt;time title=&quot;15 February 2026 at 22:52&quot; datetime=&quot;2026-02-15T22:52:17Z&quot;&gt;about 13 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/qstep&quot;&gt;qstep&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;Najó, de mi van kiírva az utcanévtáblán? / Resolved &lt;time title=&quot;15 February 2026 at 23:18&quot; datetime=&quot;2026-02-15T23:18:15Z&quot;&gt;about 12 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Korhánközi út van kitáblázva. Wéber Ede utca csak egy kis szakaszon van a Könyves Kálmán krt. túloldalától a Csöszház buszmegállóig kb. Ahogy felvan véve OSM-re úgy a helyes.</title>
         <link>https://www.openstreetmap.org/note/3944460#c11508243</link>
         <guid>https://www.openstreetmap.org/note/3944460#c11508243</guid>
         <pubDate>Sun, 15 Feb 2026 23:18:15 +0000</pubDate>
       </item><item>
         <title>closed note 5107910 (near Boróka park, Homokbánya, Kecskemét) / Created &lt;time title=&quot;28 December 2025 at 08:35&quot; datetime=&quot;2025-12-28T08:35:32Z&quot;&gt;about 2 months ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/vasony&quot;&gt;vasony&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Melyik a Csalánosi út amire ez számozva van? / Resolved &lt;time title=&quot;15 February 2026 at 22:55&quot; datetime=&quot;2026-02-15T22:55:46Z&quot;&gt;about 12 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt; / Reactivated &lt;time title=&quot;15 February 2026 at 22:55&quot; datetime=&quot;2026-02-15T22:55:51Z&quot;&gt;about 12 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt; / Resolved &lt;time title=&quot;15 February 2026 at 22:56&quot; datetime=&quot;2026-02-15T22:56:00Z&quot;&gt;about 12 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Nincs olyan / Reactivated &lt;time title=&quot;15 February 2026 at 22:57&quot; datetime=&quot;2026-02-15T22:57:19Z&quot;&gt;about 12 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt; / Resolved &lt;time title=&quot;15 February 2026 at 22:57&quot; datetime=&quot;2026-02-15T22:57:27Z&quot;&gt;about 12 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;Melyik a Csalánosi út amire ez számozva van? / Resolved &lt;time title=&quot;15 February 2026 at 22:55&quot; datetime=&quot;2026-02-15T22:55:46Z&quot;&gt;about 13 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt; / Reactivated &lt;time title=&quot;15 February 2026 at 22:55&quot; datetime=&quot;2026-02-15T22:55:51Z&quot;&gt;about 13 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt; / Resolved &lt;time title=&quot;15 February 2026 at 22:56&quot; datetime=&quot;2026-02-15T22:56:00Z&quot;&gt;about 13 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;Nincs olyan / Reactivated &lt;time title=&quot;15 February 2026 at 22:57&quot; datetime=&quot;2026-02-15T22:57:19Z&quot;&gt;about 13 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt; / Resolved &lt;time title=&quot;15 February 2026 at 22:57&quot; datetime=&quot;2026-02-15T22:57:27Z&quot;&gt;about 13 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Mégis van.</title>
         <link>https://www.openstreetmap.org/note/5107910#c11508193</link>
         <guid>https://www.openstreetmap.org/note/5107910#c11508193</guid>
         <pubDate>Sun, 15 Feb 2026 22:57:27 +0000</pubDate>
       </item><item>
         <title>reactivated note 5107910 (near Boróka park, Homokbánya, Kecskemét) / Created &lt;time title=&quot;28 December 2025 at 08:35&quot; datetime=&quot;2025-12-28T08:35:32Z&quot;&gt;about 2 months ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/vasony&quot;&gt;vasony&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Melyik a Csalánosi út amire ez számozva van? / Resolved &lt;time title=&quot;15 February 2026 at 22:55&quot; datetime=&quot;2026-02-15T22:55:46Z&quot;&gt;about 12 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt; / Reactivated &lt;time title=&quot;15 February 2026 at 22:55&quot; datetime=&quot;2026-02-15T22:55:51Z&quot;&gt;about 12 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt; / Resolved &lt;time title=&quot;15 February 2026 at 22:56&quot; datetime=&quot;2026-02-15T22:56:00Z&quot;&gt;about 12 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Nincs olyan / Reactivated &lt;time title=&quot;15 February 2026 at 22:57&quot; datetime=&quot;2026-02-15T22:57:19Z&quot;&gt;about 12 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;Melyik a Csalánosi út amire ez számozva van? / Resolved &lt;time title=&quot;15 February 2026 at 22:55&quot; datetime=&quot;2026-02-15T22:55:46Z&quot;&gt;about 13 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt; / Reactivated &lt;time title=&quot;15 February 2026 at 22:55&quot; datetime=&quot;2026-02-15T22:55:51Z&quot;&gt;about 13 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt; / Resolved &lt;time title=&quot;15 February 2026 at 22:56&quot; datetime=&quot;2026-02-15T22:56:00Z&quot;&gt;about 13 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;Nincs olyan / Reactivated &lt;time title=&quot;15 February 2026 at 22:57&quot; datetime=&quot;2026-02-15T22:57:19Z&quot;&gt;about 13 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;</title>
         <link>https://www.openstreetmap.org/note/5107910#c11508192</link>
         <guid>https://www.openstreetmap.org/note/5107910#c11508192</guid>
         <pubDate>Sun, 15 Feb 2026 22:57:19 +0000</pubDate>
       </item><item>
         <title>closed note 5107910 (near Boróka park, Homokbánya, Kecskemét) / Created &lt;time title=&quot;28 December 2025 at 08:35&quot; datetime=&quot;2025-12-28T08:35:32Z&quot;&gt;about 2 months ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/vasony&quot;&gt;vasony&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Melyik a Csalánosi út amire ez számozva van? / Resolved &lt;time title=&quot;15 February 2026 at 22:55&quot; datetime=&quot;2026-02-15T22:55:46Z&quot;&gt;about 12 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt; / Reactivated &lt;time title=&quot;15 February 2026 at 22:55&quot; datetime=&quot;2026-02-15T22:55:51Z&quot;&gt;about 12 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt; / Resolved &lt;time title=&quot;15 February 2026 at 22:56&quot; datetime=&quot;2026-02-15T22:56:00Z&quot;&gt;about 12 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;Melyik a Csalánosi út amire ez számozva van? / Resolved &lt;time title=&quot;15 February 2026 at 22:55&quot; datetime=&quot;2026-02-15T22:55:46Z&quot;&gt;about 13 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt; / Reactivated &lt;time title=&quot;15 February 2026 at 22:55&quot; datetime=&quot;2026-02-15T22:55:51Z&quot;&gt;about 13 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt; / Resolved &lt;time title=&quot;15 February 2026 at 22:56&quot; datetime=&quot;2026-02-15T22:56:00Z&quot;&gt;about 13 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Nincs olyan</title>
         <link>https://www.openstreetmap.org/note/5107910#c11508190</link>
         <guid>https://www.openstreetmap.org/note/5107910#c11508190</guid>
         <pubDate>Sun, 15 Feb 2026 22:56:00 +0000</pubDate>
       </item><item>
         <title>reactivated note 5107910 (near Boróka park, Homokbánya, Kecskemét) / Created &lt;time title=&quot;28 December 2025 at 08:35&quot; datetime=&quot;2025-12-28T08:35:32Z&quot;&gt;about 2 months ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/vasony&quot;&gt;vasony&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Melyik a Csalánosi út amire ez számozva van? / Resolved &lt;time title=&quot;15 February 2026 at 22:55&quot; datetime=&quot;2026-02-15T22:55:46Z&quot;&gt;about 12 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt; / Reactivated &lt;time title=&quot;15 February 2026 at 22:55&quot; datetime=&quot;2026-02-15T22:55:51Z&quot;&gt;about 12 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;Melyik a Csalánosi út amire ez számozva van? / Resolved &lt;time title=&quot;15 February 2026 at 22:55&quot; datetime=&quot;2026-02-15T22:55:46Z&quot;&gt;about 13 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt; / Reactivated &lt;time title=&quot;15 February 2026 at 22:55&quot; datetime=&quot;2026-02-15T22:55:51Z&quot;&gt;about 13 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;</title>
         <link>https://www.openstreetmap.org/note/5107910#c11508189</link>
         <guid>https://www.openstreetmap.org/note/5107910#c11508189</guid>
         <pubDate>Sun, 15 Feb 2026 22:55:51 +0000</pubDate>
       </item><item>
         <title>closed note 5107910 (near Boróka park, Homokbánya, Kecskemét) / Created &lt;time title=&quot;28 December 2025 at 08:35&quot; datetime=&quot;2025-12-28T08:35:32Z&quot;&gt;about 2 months ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/vasony&quot;&gt;vasony&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Melyik a Csalánosi út amire ez számozva van? / Resolved &lt;time title=&quot;15 February 2026 at 22:55&quot; datetime=&quot;2026-02-15T22:55:46Z&quot;&gt;about 12 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;Melyik a Csalánosi út amire ez számozva van? / Resolved &lt;time title=&quot;15 February 2026 at 22:55&quot; datetime=&quot;2026-02-15T22:55:46Z&quot;&gt;about 13 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;</title>
         <link>https://www.openstreetmap.org/note/5107910#c11508188</link>
         <guid>https://www.openstreetmap.org/note/5107910#c11508188</guid>
         <pubDate>Sun, 15 Feb 2026 22:55:46 +0000</pubDate>
       </item><item>
         <title>new comment 3944460 (near Széktó-lakópark, Széktói liget, Kecskemét) / Created &lt;time title=&quot;17 October 2023 at 08:09&quot; datetime=&quot;2023-10-17T08:09:24Z&quot;&gt;over 2 years ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/dastanfury&quot;&gt;dastanfury&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Korhánközi útból nem Wéber Ede utca lett? / Resolved &lt;time title=&quot;15 February 2026 at 21:49&quot; datetime=&quot;2026-02-15T21:49:16Z&quot;&gt;about 13 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;www.oeny.hu szerint nem. / Reactivated &lt;time title=&quot;15 February 2026 at 22:51&quot; datetime=&quot;2026-02-15T22:51:57Z&quot;&gt;about 12 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/qstep&quot;&gt;qstep&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt; / Updated &lt;time title=&quot;15 February 2026 at 22:52&quot; datetime=&quot;2026-02-15T22:52:17Z&quot;&gt;about 12 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/qstep&quot;&gt;qstep&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;Korhánközi útból nem Wéber Ede utca lett? / Resolved &lt;time title=&quot;15 February 2026 at 21:49&quot; datetime=&quot;2026-02-15T21:49:16Z&quot;&gt;about 14 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;www.oeny.hu szerint nem. / Reactivated &lt;time title=&quot;15 February 2026 at 22:51&quot; datetime=&quot;2026-02-15T22:51:57Z&quot;&gt;about 13 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/qstep&quot;&gt;qstep&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt; / Updated &lt;time title=&quot;15 February 2026 at 22:52&quot; datetime=&quot;2026-02-15T22:52:17Z&quot;&gt;about 13 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/qstep&quot;&gt;qstep&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Najó, de mi van kiírva az utcanévtáblán?</title>
         <link>https://www.openstreetmap.org/note/3944460#c11508180</link>
         <guid>https://www.openstreetmap.org/note/3944460#c11508180</guid>
         <pubDate>Sun, 15 Feb 2026 22:52:17 +0000</pubDate>
       </item><item>
         <title>reactivated note 3944460 (near Széktó-lakópark, Széktói liget, Kecskemét) / Created &lt;time title=&quot;17 October 2023 at 08:09&quot; datetime=&quot;2023-10-17T08:09:24Z&quot;&gt;over 2 years ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/dastanfury&quot;&gt;dastanfury&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Korhánközi útból nem Wéber Ede utca lett? / Resolved &lt;time title=&quot;15 February 2026 at 21:49&quot; datetime=&quot;2026-02-15T21:49:16Z&quot;&gt;about 13 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;www.oeny.hu szerint nem. / Reactivated &lt;time title=&quot;15 February 2026 at 22:51&quot; datetime=&quot;2026-02-15T22:51:57Z&quot;&gt;about 12 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/qstep&quot;&gt;qstep&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;Korhánközi útból nem Wéber Ede utca lett? / Resolved &lt;time title=&quot;15 February 2026 at 21:49&quot; datetime=&quot;2026-02-15T21:49:16Z&quot;&gt;about 14 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;www.oeny.hu szerint nem. / Reactivated &lt;time title=&quot;15 February 2026 at 22:51&quot; datetime=&quot;2026-02-15T22:51:57Z&quot;&gt;about 13 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/qstep&quot;&gt;qstep&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;</title>
         <link>https://www.openstreetmap.org/note/3944460#c11508179</link>
         <guid>https://www.openstreetmap.org/note/3944460#c11508179</guid>
         <pubDate>Sun, 15 Feb 2026 22:51:57 +0000</pubDate>
       </item><item>
         <title>closed note 3680395 (near Boróka park, Homokbánya, Kecskemét) / Created &lt;time title=&quot; 8 May 2023 at 15:58&quot; datetime=&quot;2023-05-08T15:58:23Z&quot;&gt;almost 3 years ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/vasony-qa&quot;&gt;vasony-qa&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Itt valószínű nem 1 épület van 67-es házszámmal, javítandó / Resolved &lt;time title=&quot;15 February 2026 at 22:33&quot; datetime=&quot;2026-02-15T22:33:31Z&quot;&gt;about 12 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;Itt valószínű nem 1 épület van 67-es házszámmal, javítandó / Resolved &lt;time title=&quot;15 February 2026 at 22:33&quot; datetime=&quot;2026-02-15T22:33:31Z&quot;&gt;about 13 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Kijavítva</title>
         <link>https://www.openstreetmap.org/note/3680395#c11508137</link>
         <guid>https://www.openstreetmap.org/note/3680395#c11508137</guid>
         <pubDate>Sun, 15 Feb 2026 22:33:31 +0000</pubDate>
       </item><item>
         <title>closed note 4393347 (near Széktó-lakópark, Széktói liget, Kecskemét) / Created &lt;time title=&quot;20 August 2024 at 11:41&quot; datetime=&quot;2024-08-20T11:41:36Z&quot;&gt;over 1 year ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/LakatosVL&quot;&gt;LakatosVL&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Our users indicate that the road name is SOS Gyermekfalu. We cannot find any available sources to verify this information. Can any local mappers confirm this? #MSFTOpenMaps. / Resolved &lt;time title=&quot;15 February 2026 at 21:55&quot; datetime=&quot;2026-02-15T21:55:38Z&quot;&gt;about 13 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;Our users indicate that the road name is SOS Gyermekfalu. We cannot find any available sources to verify this information. Can any local mappers confirm this? #MSFTOpenMaps. / Resolved &lt;time title=&quot;15 February 2026 at 21:55&quot; datetime=&quot;2026-02-15T21:55:38Z&quot;&gt;about 14 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;There are no open records indicating this is anything other than an unnamed service road.</title>
         <link>https://www.openstreetmap.org/note/4393347#c11508052</link>
         <guid>https://www.openstreetmap.org/note/4393347#c11508052</guid>
         <pubDate>Sun, 15 Feb 2026 21:55:38 +0000</pubDate>
       </item><item>
         <title>closed note 3944460 (near Széktó-lakópark, Széktói liget, Kecskemét) / Created &lt;time title=&quot;17 October 2023 at 08:09&quot; datetime=&quot;2023-10-17T08:09:24Z&quot;&gt;over 2 years ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/dastanfury&quot;&gt;dastanfury&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Korhánközi útból nem Wéber Ede utca lett? / Resolved &lt;time title=&quot;15 February 2026 at 21:49&quot; datetime=&quot;2026-02-15T21:49:16Z&quot;&gt;about 13 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;Korhánközi útból nem Wéber Ede utca lett? / Resolved &lt;time title=&quot;15 February 2026 at 21:49&quot; datetime=&quot;2026-02-15T21:49:16Z&quot;&gt;about 14 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;www.oeny.hu szerint nem.</title>
         <link>https://www.openstreetmap.org/note/3944460#c11508042</link>
         <guid>https://www.openstreetmap.org/note/3944460#c11508042</guid>
@@ -141,20 +154,20 @@ Ritkán járok arra, de én eddig csak Ipoly utcát láttam kiírva. / Updated &
   &lt;div class=&quot;note-comment-text&quot;&gt;Unable to answer &amp;quot;What are the opening hours here?&amp;quot; – Citibank (Bank) – https://osm.org/node/2517842359 via StreetComplete 57.1:
 
 Citibank helyett Gyógyszertár van. / Updated &lt;time title=&quot;26 August 2024 at 13:03&quot; datetime=&quot;2024-08-26T13:03:33Z&quot;&gt;over 1 year ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Mi a neve a gyógyszertárnak? Ez a Szalagház gyógyszertár vagy más? / Resolved &lt;time title=&quot;15 February 2026 at 21:48&quot; datetime=&quot;2026-02-15T21:48:01Z&quot;&gt;about 13 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;Mi a neve a gyógyszertárnak? Ez a Szalagház gyógyszertár vagy más? / Resolved &lt;time title=&quot;15 February 2026 at 21:48&quot; datetime=&quot;2026-02-15T21:48:01Z&quot;&gt;about 14 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Törölve</title>
         <link>https://www.openstreetmap.org/note/4154702#c11508039</link>
         <guid>https://www.openstreetmap.org/note/4154702#c11508039</guid>
         <pubDate>Sun, 15 Feb 2026 21:48:01 +0000</pubDate>
       </item><item>
         <title>closed note 5075130 (near Széktó-lakópark, Széktói liget, Kecskemét) / Created &lt;time title=&quot; 1 December 2025 at 13:46&quot; datetime=&quot;2025-12-01T13:46:33Z&quot;&gt;3 months ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/GBAB&quot;&gt;GBAB&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Az egész környéket újra kellene rajzolni pl. a FÖMI ortofotói alapján, mert kevés köze van a valósághoz… / Resolved &lt;time title=&quot;15 February 2026 at 21:44&quot; datetime=&quot;2026-02-15T21:44:07Z&quot;&gt;about 13 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;Az egész környéket újra kellene rajzolni pl. a FÖMI ortofotói alapján, mert kevés köze van a valósághoz… / Resolved &lt;time title=&quot;15 February 2026 at 21:44&quot; datetime=&quot;2026-02-15T21:44:07Z&quot;&gt;about 14 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/pelvis1665&quot;&gt;pelvis1665&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Bing alapján újrarajzoltam. POI-khoz minimálisan nyúltam a relatív helyzetük maradt kb. a régi, aki akarja frissítheti, helyreteheti.</title>
         <link>https://www.openstreetmap.org/note/5075130#c11508032</link>
         <guid>https://www.openstreetmap.org/note/5075130#c11508032</guid>
         <pubDate>Sun, 15 Feb 2026 21:44:07 +0000</pubDate>
       </item><item>
-        <title>new note 5169241 (near Újlipótváros, 13th district) / Created &lt;time title=&quot;15 February 2026 at 21:43&quot; datetime=&quot;2026-02-15T21:43:29Z&quot;&gt;about 13 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/itineris&quot;&gt;itineris&lt;/a&gt;&lt;/div&gt;
+        <title>new note 5169241 (near Újlipótváros, 13th district) / Created &lt;time title=&quot;15 February 2026 at 21:43&quot; datetime=&quot;2026-02-15T21:43:29Z&quot;&gt;about 14 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/itineris&quot;&gt;itineris&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Még üzemel? Amikor láttam, a nyitvatartási időben lehúzott redőny és mocskos bejárata volt.</title>
         <link>https://www.openstreetmap.org/note/5169241#c11508029</link>
         <guid>https://www.openstreetmap.org/note/5169241#c11508029</guid>
@@ -166,138 +179,138 @@ Citibank helyett Gyógyszertár van. / Updated &lt;time title=&quot;26 August 20
 Az üzlethelyiség új használója már rajta van a térképen, így törölhető.
 
 Attached photo(s):
-https://streetcomplete.app/p/327584.jpg / Resolved &lt;time title=&quot;15 February 2026 at 15:36&quot; datetime=&quot;2026-02-15T15:36:16Z&quot;&gt;about 19 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/qstep&quot;&gt;qstep&lt;/a&gt;&lt;/div&gt;
+https://streetcomplete.app/p/327584.jpg / Resolved &lt;time title=&quot;15 February 2026 at 15:36&quot; datetime=&quot;2026-02-15T15:36:16Z&quot;&gt;about 20 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/qstep&quot;&gt;qstep&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;A pizzázó volt korábban lottózó. Törölve: https://www.openstreetmap.org/changeset/178587385</title>
         <link>https://www.openstreetmap.org/note/5168230#c11507068</link>
         <guid>https://www.openstreetmap.org/note/5168230#c11507068</guid>
         <pubDate>Sun, 15 Feb 2026 15:36:16 +0000</pubDate>
       </item><item>
-        <title>closed note 5168151 (near Nagyécshegy, Écs) / * 2026 February 15 07:48 Created: Az / #LocusMap / Resolved &lt;time title=&quot;15 February 2026 at 15:17&quot; datetime=&quot;2026-02-15T15:17:41Z&quot;&gt;about 19 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/qstep&quot;&gt;qstep&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 5168151 (near Nagyécshegy, Écs) / * 2026 February 15 07:48 Created: Az / #LocusMap / Resolved &lt;time title=&quot;15 February 2026 at 15:17&quot; datetime=&quot;2026-02-15T15:17:41Z&quot;&gt;about 20 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/qstep&quot;&gt;qstep&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;</title>
         <link>https://www.openstreetmap.org/note/5168151#c11506986</link>
         <guid>https://www.openstreetmap.org/note/5168151#c11506986</guid>
         <pubDate>Sun, 15 Feb 2026 15:17:41 +0000</pubDate>
       </item><item>
-        <title>closed note 5137661 (near Rétság) / * 2026 January 21 11:50 Created: Ez a rövid járdaszakasz már nincs, a piac teljes udvarát térkő borítja. Valaki javítaná? Köszönöm! / Related? unresolved note #4273187 / Resolved &lt;time title=&quot;15 February 2026 at 14:55&quot; datetime=&quot;2026-02-15T14:55:35Z&quot;&gt;about 20 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 5137661 (near Rétság) / * 2026 January 21 11:50 Created: Ez a rövid járdaszakasz már nincs, a piac teljes udvarát térkő borítja. Valaki javítaná? Köszönöm! / Related? unresolved note #4273187 / Resolved &lt;time title=&quot;15 February 2026 at 14:55&quot; datetime=&quot;2026-02-15T14:55:35Z&quot;&gt;about 21 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Téves peron javítás, surface megadva:
 https://www.openstreetmap.org/changeset/178585609</title>
         <link>https://www.openstreetmap.org/note/5137661#c11506878</link>
         <guid>https://www.openstreetmap.org/note/5137661#c11506878</guid>
         <pubDate>Sun, 15 Feb 2026 14:55:35 +0000</pubDate>
       </item><item>
-        <title>closed note 5136623 (near Belváros, Dombóvár) / * 2026 January 20 15:30 Created: A tető (way 1252266475) nyugat felé egész a Spar sarkáig tart. / Resolved &lt;time title=&quot;15 February 2026 at 14:55&quot; datetime=&quot;2026-02-15T14:55:32Z&quot;&gt;about 20 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 5136623 (near Belváros, Dombóvár) / * 2026 January 20 15:30 Created: A tető (way 1252266475) nyugat felé egész a Spar sarkáig tart. / Resolved &lt;time title=&quot;15 February 2026 at 14:55&quot; datetime=&quot;2026-02-15T14:55:32Z&quot;&gt;about 21 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Tető javítva:
 https://www.openstreetmap.org/changeset/178585609</title>
         <link>https://www.openstreetmap.org/note/5136623#c11506877</link>
         <guid>https://www.openstreetmap.org/note/5136623#c11506877</guid>
         <pubDate>Sun, 15 Feb 2026 14:55:32 +0000</pubDate>
       </item><item>
-        <title>closed note 5136620 (near Belváros, Dombóvár) / * 2026 January 20 15:27 Created: Ezen a falon csak derékszögű törések vannak. És kettővel kevesebb. / Resolved &lt;time title=&quot;15 February 2026 at 14:55&quot; datetime=&quot;2026-02-15T14:55:30Z&quot;&gt;about 20 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 5136620 (near Belváros, Dombóvár) / * 2026 January 20 15:27 Created: Ezen a falon csak derékszögű törések vannak. És kettővel kevesebb. / Resolved &lt;time title=&quot;15 February 2026 at 14:55&quot; datetime=&quot;2026-02-15T14:55:30Z&quot;&gt;about 21 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Geometria javítva:
 https://www.openstreetmap.org/changeset/178585609</title>
         <link>https://www.openstreetmap.org/note/5136620#c11506876</link>
         <guid>https://www.openstreetmap.org/note/5136620#c11506876</guid>
         <pubDate>Sun, 15 Feb 2026 14:55:30 +0000</pubDate>
       </item><item>
-        <title>closed note 5131871 (near Kalmárok udvara, Belváros, Vác) / * 2026 January 16 18:01 Created: Itt van egy kávézó. / Adullám kávézó / http://adullam.hu / (az oldalon nincs TLS, így sima http:// kell) / 2600 Vác, Március 15. tér 8. / A nyitva tartási infó elavult a weboldalukon. / Van WC. / Férfi (nincs pissoire), és női külön. / Kézmosó, tükör, papír kéztörlő a mosdó előterében van. / Nem fogyasztó vendégeknek 200 HUF. / Pelenkázó nincs. / A hely egyáltalán nem akadálymentes, egy pincébe kell lemenni hosszú lépcsősoron. / source: survey / Resolved &lt;time title=&quot;15 February 2026 at 14:55&quot; datetime=&quot;2026-02-15T14:55:28Z&quot;&gt;about 20 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 5131871 (near Kalmárok udvara, Belváros, Vác) / * 2026 January 16 18:01 Created: Itt van egy kávézó. / Adullám kávézó / http://adullam.hu / (az oldalon nincs TLS, így sima http:// kell) / 2600 Vác, Március 15. tér 8. / A nyitva tartási infó elavult a weboldalukon. / Van WC. / Férfi (nincs pissoire), és női külön. / Kézmosó, tükör, papír kéztörlő a mosdó előterében van. / Nem fogyasztó vendégeknek 200 HUF. / Pelenkázó nincs. / A hely egyáltalán nem akadálymentes, egy pincébe kell lemenni hosszú lépcsősoron. / source: survey / Resolved &lt;time title=&quot;15 February 2026 at 14:55&quot; datetime=&quot;2026-02-15T14:55:28Z&quot;&gt;about 21 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Hozzáadtam a kávézót:
 https://www.openstreetmap.org/changeset/178585609</title>
         <link>https://www.openstreetmap.org/note/5131871#c11506875</link>
         <guid>https://www.openstreetmap.org/note/5131871#c11506875</guid>
         <pubDate>Sun, 15 Feb 2026 14:55:28 +0000</pubDate>
       </item><item>
-        <title>closed note 5131866 (near Kalmárok udvara, Belváros, Vác) / * 2026 January 16 17:53 Created: A tea/kávé shop megszűnt. / Valami ruhabolt nyílt a helyére (pontos nevére nem emlékszem). / Resolved &lt;time title=&quot;15 February 2026 at 14:55&quot; datetime=&quot;2026-02-15T14:55:25Z&quot;&gt;about 20 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 5131866 (near Kalmárok udvara, Belváros, Vác) / * 2026 January 16 17:53 Created: A tea/kávé shop megszűnt. / Valami ruhabolt nyílt a helyére (pontos nevére nem emlékszem). / Resolved &lt;time title=&quot;15 February 2026 at 14:55&quot; datetime=&quot;2026-02-15T14:55:25Z&quot;&gt;about 21 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Lecseréltem ruhaboltra:
 https://www.openstreetmap.org/changeset/178585609</title>
         <link>https://www.openstreetmap.org/note/5131866#c11506874</link>
         <guid>https://www.openstreetmap.org/note/5131866#c11506874</guid>
         <pubDate>Sun, 15 Feb 2026 14:55:25 +0000</pubDate>
       </item><item>
-        <title>closed note 5131864 (near Tabán, Belváros, Vác) / * 2026 January 16 17:50 Created: A V&amp;#39;14 art galéria megszűnt. / Helyére a Szépségm szépségszalon nyílt. / szepsegm.szalon@gmail.com / instagram.com/szepsegm_szalon / https://www.facebook.com/szegsegm/ / forrás: survey / Resolved &lt;time title=&quot;15 February 2026 at 14:55&quot; datetime=&quot;2026-02-15T14:55:22Z&quot;&gt;about 20 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 5131864 (near Tabán, Belváros, Vác) / * 2026 January 16 17:50 Created: A V&amp;#39;14 art galéria megszűnt. / Helyére a Szépségm szépségszalon nyílt. / szepsegm.szalon@gmail.com / instagram.com/szepsegm_szalon / https://www.facebook.com/szegsegm/ / forrás: survey / Resolved &lt;time title=&quot;15 February 2026 at 14:55&quot; datetime=&quot;2026-02-15T14:55:22Z&quot;&gt;about 21 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Lecseréltem szépségszalonra:
 https://www.openstreetmap.org/changeset/178585609</title>
         <link>https://www.openstreetmap.org/note/5131864#c11506873</link>
         <guid>https://www.openstreetmap.org/note/5131864#c11506873</guid>
         <pubDate>Sun, 15 Feb 2026 14:55:22 +0000</pubDate>
       </item><item>
-        <title>closed note 5131862 (near Tabán, Belváros, Vác) / * 2026 January 16 17:46 Created: A Generali biztosító helyére a Libra delikát nyílt. / https://libradeli.hu/ / source: A helyet személyesen ellenőriztem, Libra delikát van kiírva. / WC nincs. / Akadálymentesség: nincs lépcső, de eléggé szűk a hely. / Resolved &lt;time title=&quot;15 February 2026 at 14:55&quot; datetime=&quot;2026-02-15T14:55:20Z&quot;&gt;about 20 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 5131862 (near Tabán, Belváros, Vác) / * 2026 January 16 17:46 Created: A Generali biztosító helyére a Libra delikát nyílt. / https://libradeli.hu/ / source: A helyet személyesen ellenőriztem, Libra delikát van kiírva. / WC nincs. / Akadálymentesség: nincs lépcső, de eléggé szűk a hely. / Resolved &lt;time title=&quot;15 February 2026 at 14:55&quot; datetime=&quot;2026-02-15T14:55:20Z&quot;&gt;about 21 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Kicseréltem boltra és megadtam az adatait:
 https://www.openstreetmap.org/changeset/178585609</title>
         <link>https://www.openstreetmap.org/note/5131862#c11506872</link>
         <guid>https://www.openstreetmap.org/note/5131862#c11506872</guid>
         <pubDate>Sun, 15 Feb 2026 14:55:20 +0000</pubDate>
       </item><item>
-        <title>closed note 5131857 (near Tabán, Belváros, Vác) / * 2026 January 16 17:41 Created: A DunaWeb computer üzlet megszűnt (valószínűleg csődbe mentek). / Helyére a Remetebarlang társasjáték klub/bolt nyílt (most az, hogy ez klub vagy bolt, vagy mindkettő, az nem világos). / https://tarsasjatekvac.hu/ / forrás: személyesen csekkoltam, hogy most már a Remetebarlang van kiírva, de a többi infót a weboldalról tudjátok leszedni / Resolved &lt;time title=&quot;15 February 2026 at 14:55&quot; datetime=&quot;2026-02-15T14:55:17Z&quot;&gt;about 20 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 5131857 (near Tabán, Belváros, Vác) / * 2026 January 16 17:41 Created: A DunaWeb computer üzlet megszűnt (valószínűleg csődbe mentek). / Helyére a Remetebarlang társasjáték klub/bolt nyílt (most az, hogy ez klub vagy bolt, vagy mindkettő, az nem világos). / https://tarsasjatekvac.hu/ / forrás: személyesen csekkoltam, hogy most már a Remetebarlang van kiírva, de a többi infót a weboldalról tudjátok leszedni / Resolved &lt;time title=&quot;15 February 2026 at 14:55&quot; datetime=&quot;2026-02-15T14:55:17Z&quot;&gt;about 21 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Kicseréltem:
 https://www.openstreetmap.org/changeset/178585609</title>
         <link>https://www.openstreetmap.org/note/5131857#c11506871</link>
         <guid>https://www.openstreetmap.org/note/5131857#c11506871</guid>
         <pubDate>Sun, 15 Feb 2026 14:55:17 +0000</pubDate>
       </item><item>
-        <title>closed note 5131852 (near Tabán, Belváros, Vác) / * 2026 January 16 17:36 Created: Ez a Manna ABC nem létezik. / source: survey / Egyrészt, régi a szerkesztés (10 éves), amiben felvitték, másrészt, a felhasználó, aki szerkesztette, valószínűleg kényszerből csinálta, nem lelkiismeretességből (az összes changeset leírása “Iskolai projekt”). / Több mint 10 éve rendszeresen jártam Vác főterén, nem tudtam soha, hogy létezett volna ez a hely. Lehet, hogy nagyon régen létezett, de lehet, hogy csak berakosgatta a user, hogy kapjon egy 5-öst a házira. / **Az viszont tuti fix, hogy az elmúlt 5 évben biztosan nem létezik már ez a hely.** / Érdemes lenne átnézni a többi changeset-et is ettől a usertől. / source: survey / Resolved &lt;time title=&quot;15 February 2026 at 14:55&quot; datetime=&quot;2026-02-15T14:55:14Z&quot;&gt;about 20 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 5131852 (near Tabán, Belváros, Vác) / * 2026 January 16 17:36 Created: Ez a Manna ABC nem létezik. / source: survey / Egyrészt, régi a szerkesztés (10 éves), amiben felvitték, másrészt, a felhasználó, aki szerkesztette, valószínűleg kényszerből csinálta, nem lelkiismeretességből (az összes changeset leírása “Iskolai projekt”). / Több mint 10 éve rendszeresen jártam Vác főterén, nem tudtam soha, hogy létezett volna ez a hely. Lehet, hogy nagyon régen létezett, de lehet, hogy csak berakosgatta a user, hogy kapjon egy 5-öst a házira. / **Az viszont tuti fix, hogy az elmúlt 5 évben biztosan nem létezik már ez a hely.** / Érdemes lenne átnézni a többi changeset-et is ettől a usertől. / source: survey / Resolved &lt;time title=&quot;15 February 2026 at 14:55&quot; datetime=&quot;2026-02-15T14:55:14Z&quot;&gt;about 21 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Levettem a hibás jelzést:
 https://www.openstreetmap.org/changeset/178585609</title>
         <link>https://www.openstreetmap.org/note/5131852#c11506870</link>
         <guid>https://www.openstreetmap.org/note/5131852#c11506870</guid>
         <pubDate>Sun, 15 Feb 2026 14:55:14 +0000</pubDate>
       </item><item>
-        <title>closed note 5131846 (near Kalmárok udvara, Belváros, Vác) / * 2026 January 16 17:30 Created: A túrabolt már nincs itt. Valami ruhaüzlet van a helyén (arra nem emlékszem pontosan, hogy micsoda). / source: survey / Resolved &lt;time title=&quot;15 February 2026 at 14:55&quot; datetime=&quot;2026-02-15T14:55:12Z&quot;&gt;about 20 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 5131846 (near Kalmárok udvara, Belváros, Vác) / * 2026 January 16 17:30 Created: A túrabolt már nincs itt. Valami ruhaüzlet van a helyén (arra nem emlékszem pontosan, hogy micsoda). / source: survey / Resolved &lt;time title=&quot;15 February 2026 at 14:55&quot; datetime=&quot;2026-02-15T14:55:12Z&quot;&gt;about 21 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Kicseréltem ruhaboltra:
 https://www.openstreetmap.org/changeset/178585609</title>
         <link>https://www.openstreetmap.org/note/5131846#c11506869</link>
         <guid>https://www.openstreetmap.org/note/5131846#c11506869</guid>
         <pubDate>Sun, 15 Feb 2026 14:55:12 +0000</pubDate>
       </item><item>
-        <title>closed note 5131843 (near Tabán, Belváros, Vác) / * 2026 January 16 17:27 Created: A hangszerbolt megszűnt. / source: survey / A Facebook oldaluk szerint elköltözött a Zrínyi utca 5-be. / https://www.facebook.com/Hangadomusic/?locale=hu_HU / Resolved &lt;time title=&quot;15 February 2026 at 14:55&quot; datetime=&quot;2026-02-15T14:55:09Z&quot;&gt;about 20 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 5131843 (near Tabán, Belváros, Vác) / * 2026 January 16 17:27 Created: A hangszerbolt megszűnt. / source: survey / A Facebook oldaluk szerint elköltözött a Zrínyi utca 5-be. / https://www.facebook.com/Hangadomusic/?locale=hu_HU / Resolved &lt;time title=&quot;15 February 2026 at 14:55&quot; datetime=&quot;2026-02-15T14:55:09Z&quot;&gt;about 21 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Összevontam a két POI-t:
 https://www.openstreetmap.org/changeset/178585609</title>
         <link>https://www.openstreetmap.org/note/5131843#c11506867</link>
         <guid>https://www.openstreetmap.org/note/5131843#c11506867</guid>
         <pubDate>Sun, 15 Feb 2026 14:55:09 +0000</pubDate>
       </item><item>
-        <title>closed note 5131717 (near Belváros, Siófok) / * 2026 January 16 15:08 Created: A Spar is 0-24 nyitva van (benzinkút épülete). / source: survey / Resolved &lt;time title=&quot;15 February 2026 at 14:55&quot; datetime=&quot;2026-02-15T14:55:06Z&quot;&gt;about 20 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 5131717 (near Belváros, Siófok) / * 2026 January 16 15:08 Created: A Spar is 0-24 nyitva van (benzinkút épülete). / source: survey / Resolved &lt;time title=&quot;15 February 2026 at 14:55&quot; datetime=&quot;2026-02-15T14:55:06Z&quot;&gt;about 21 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Hozzáadtam a nyitvatartást:
 https://www.openstreetmap.org/changeset/178585609</title>
         <link>https://www.openstreetmap.org/note/5131717#c11506865</link>
         <guid>https://www.openstreetmap.org/note/5131717#c11506865</guid>
         <pubDate>Sun, 15 Feb 2026 14:55:06 +0000</pubDate>
       </item><item>
-        <title>closed note 5131699 (near Tabán, Belváros, Vác) / * 2026 January 16 14:56 Created: Itt van egy étterem. / Révkapu / https://www.revkapukisvendeglo.com/ / Személyesen ellenőriztem a helyet, de adatokat nem írtam fel, azokat a weboldalról lehet elérni. / source: survey / source: website / Resolved &lt;time title=&quot;15 February 2026 at 14:21&quot; datetime=&quot;2026-02-15T14:21:57Z&quot;&gt;about 20 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 5131699 (near Tabán, Belváros, Vác) / * 2026 January 16 14:56 Created: Itt van egy étterem. / Révkapu / https://www.revkapukisvendeglo.com/ / Személyesen ellenőriztem a helyet, de adatokat nem írtam fel, azokat a weboldalról lehet elérni. / source: survey / source: website / Resolved &lt;time title=&quot;15 February 2026 at 14:21&quot; datetime=&quot;2026-02-15T14:21:57Z&quot;&gt;about 21 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Hozzáadtam a vendéglőt:
 https://www.openstreetmap.org/changeset/178584160</title>
         <link>https://www.openstreetmap.org/note/5131699#c11506757</link>
         <guid>https://www.openstreetmap.org/note/5131699#c11506757</guid>
         <pubDate>Sun, 15 Feb 2026 14:21:57 +0000</pubDate>
       </item><item>
-        <title>closed note 5131694 (near Tabán, Belváros, Vác) / * 2026 January 16 14:54 Created: Ennek most már Kompi Terasz a neve. / Télen zárva, csak turistaszezonban van nyitva. / Resolved &lt;time title=&quot;15 February 2026 at 14:21&quot; datetime=&quot;2026-02-15T14:21:54Z&quot;&gt;about 20 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 5131694 (near Tabán, Belváros, Vác) / * 2026 January 16 14:54 Created: Ennek most már Kompi Terasz a neve. / Télen zárva, csak turistaszezonban van nyitva. / Resolved &lt;time title=&quot;15 February 2026 at 14:21&quot; datetime=&quot;2026-02-15T14:21:54Z&quot;&gt;about 21 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Módosítva:
 https://www.openstreetmap.org/changeset/178584160</title>
         <link>https://www.openstreetmap.org/note/5131694#c11506756</link>
         <guid>https://www.openstreetmap.org/note/5131694#c11506756</guid>
         <pubDate>Sun, 15 Feb 2026 14:21:54 +0000</pubDate>
       </item><item>
-        <title>closed note 5131681 (near Belváros, Siófok) / * 2026 January 16 14:45 Created: 250 HUF / 1 EUR / 0-24 akadálymentes automata WC. / Van pelenkázó is. / source: survey / Resolved &lt;time title=&quot;15 February 2026 at 14:21&quot; datetime=&quot;2026-02-15T14:21:50Z&quot;&gt;about 20 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 5131681 (near Belváros, Siófok) / * 2026 January 16 14:45 Created: 250 HUF / 1 EUR / 0-24 akadálymentes automata WC. / Van pelenkázó is. / source: survey / Resolved &lt;time title=&quot;15 February 2026 at 14:21&quot; datetime=&quot;2026-02-15T14:21:50Z&quot;&gt;about 21 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Kiegészítettem:
 https://www.openstreetmap.org/changeset/178584160</title>
         <link>https://www.openstreetmap.org/note/5131681#c11506755</link>
         <guid>https://www.openstreetmap.org/note/5131681#c11506755</guid>
         <pubDate>Sun, 15 Feb 2026 14:21:50 +0000</pubDate>
       </item><item>
-        <title>closed note 5131677 (near Belváros, Siófok) / * 2026 January 16 14:43 Created: díj: 250 HUF / férfi/női külön / Legutóbb amikor ellenőriztem, 0-24 nyitva volt, csak “zárás” után már nem szedtek díjat. / Volt olyan is, hogy zárva volt, olyankor a vasút biztonsági őr kérésre kinyitotta. / Tehát valami olyasmit lehetne megadni, hogy nyitva 0-24, ha esetleg zárva lenne, a vasút biztonsági őrnél kell érdeklődni. / forrás: survey / Resolved &lt;time title=&quot;15 February 2026 at 14:21&quot; datetime=&quot;2026-02-15T14:21:47Z&quot;&gt;about 20 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 5131677 (near Belváros, Siófok) / * 2026 January 16 14:43 Created: díj: 250 HUF / férfi/női külön / Legutóbb amikor ellenőriztem, 0-24 nyitva volt, csak “zárás” után már nem szedtek díjat. / Volt olyan is, hogy zárva volt, olyankor a vasút biztonsági őr kérésre kinyitotta. / Tehát valami olyasmit lehetne megadni, hogy nyitva 0-24, ha esetleg zárva lenne, a vasút biztonsági őrnél kell érdeklődni. / forrás: survey / Resolved &lt;time title=&quot;15 February 2026 at 14:21&quot; datetime=&quot;2026-02-15T14:21:47Z&quot;&gt;about 21 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Kiegészítettem:
 https://www.openstreetmap.org/changeset/178584160</title>
         <link>https://www.openstreetmap.org/note/5131677#c11506754</link>
         <guid>https://www.openstreetmap.org/note/5131677#c11506754</guid>
         <pubDate>Sun, 15 Feb 2026 14:21:47 +0000</pubDate>
       </item><item>
-        <title>closed note 5131630 (near Angyalföld, 13th district) / * 2026 January 16 14:14 Created: Van az étteremben WC. / Nem fogyasztó vendégeknek 200 HUF. / Férfi, női külön. / Csak angol WC, nincs pissoire a férfiban sem. / Kézmosó közös az előtérben (a férfi/női ajtók mögött csak maga a wc wan, nincs kézmosó). / Van papír kéztörlő. / Nem akadálymentes. Az épületben amúgy is több lépcső van a bejáratoknál, a WC-ben pedig nincs kapaszkodó, és a hely is nagyon kicsi az angol WC-k körül (egy túrahátizsákkal a háton már nehézkes becsukni az ajtót). / source: survey / Resolved &lt;time title=&quot;15 February 2026 at 14:21&quot; datetime=&quot;2026-02-15T14:21:43Z&quot;&gt;about 20 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 5131630 (near Angyalföld, 13th district) / * 2026 January 16 14:14 Created: Van az étteremben WC. / Nem fogyasztó vendégeknek 200 HUF. / Férfi, női külön. / Csak angol WC, nincs pissoire a férfiban sem. / Kézmosó közös az előtérben (a férfi/női ajtók mögött csak maga a wc wan, nincs kézmosó). / Van papír kéztörlő. / Nem akadálymentes. Az épületben amúgy is több lépcső van a bejáratoknál, a WC-ben pedig nincs kapaszkodó, és a hely is nagyon kicsi az angol WC-k körül (egy túrahátizsákkal a háton már nehézkes becsukni az ajtót). / source: survey / Resolved &lt;time title=&quot;15 February 2026 at 14:21&quot; datetime=&quot;2026-02-15T14:21:43Z&quot;&gt;about 21 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Hozzáadtam a WC-t:
 https://www.openstreetmap.org/changeset/178584160</title>
         <link>https://www.openstreetmap.org/note/5131630#c11506753</link>
         <guid>https://www.openstreetmap.org/note/5131630#c11506753</guid>
         <pubDate>Sun, 15 Feb 2026 14:21:43 +0000</pubDate>
       </item><item>
-        <title>closed note 5131582 (near Újlipótváros, 13th district) / * 2026 January 16 13:40 Created: Itt a házban van egy magánrendelő. / https://www.primaveramed.hu/ / (a weboldal alján van a pontos lokáció és elérhetőségek) / forrás: website / A rendelőben van WC és ivóvíz (csak ügyfeleknek; water cooler/water dispenser) / forrás: survey / Resolved &lt;time title=&quot;15 February 2026 at 14:21&quot; datetime=&quot;2026-02-15T14:21:40Z&quot;&gt;about 20 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 5131582 (near Újlipótváros, 13th district) / * 2026 January 16 13:40 Created: Itt a házban van egy magánrendelő. / https://www.primaveramed.hu/ / (a weboldal alján van a pontos lokáció és elérhetőségek) / forrás: website / A rendelőben van WC és ivóvíz (csak ügyfeleknek; water cooler/water dispenser) / forrás: survey / Resolved &lt;time title=&quot;15 February 2026 at 14:21&quot; datetime=&quot;2026-02-15T14:21:40Z&quot;&gt;about 21 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Hozzáadtam a magánrendelőt:
 https://www.openstreetmap.org/changeset/178584160</title>
         <link>https://www.openstreetmap.org/note/5131582#c11506751</link>
@@ -314,21 +327,21 @@ másik:
 pontként: https://www.openstreetmap.org/node/2955603512
 épületen: https://www.openstreetmap.org/way/1212132850
 
-És van még egypár. / Resolved &lt;time title=&quot;15 February 2026 at 14:21&quot; datetime=&quot;2026-02-15T14:21:38Z&quot;&gt;about 20 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
+És van még egypár. / Resolved &lt;time title=&quot;15 February 2026 at 14:21&quot; datetime=&quot;2026-02-15T14:21:38Z&quot;&gt;about 21 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Amit találtam duplikátumokat egyesítettem. Az egész településre ráférne egy ráncfelvarrás, geometriák össze-vissza stb.:
 https://www.openstreetmap.org/changeset/178584160</title>
         <link>https://www.openstreetmap.org/note/5131135#c11506749</link>
         <guid>https://www.openstreetmap.org/note/5131135#c11506749</guid>
         <pubDate>Sun, 15 Feb 2026 14:21:38 +0000</pubDate>
       </item><item>
-        <title>closed note 5131474 (near Tereske) / * 2026 January 16 12:24 Created: A posta épület megszűnt. / Az épület ajtaján van egy kiírás, hogy hol és mikor lehet (pár perces idősávban) ügyet intézni a levélhordónál (pl. átvenni a postán maradó küldeményeket). Egy pár percet várakozik valahol heti néhányszor, de szerintem ezt nem lehet felvinni így a térképre. / source: survey / Resolved &lt;time title=&quot;15 February 2026 at 14:21&quot; datetime=&quot;2026-02-15T14:21:35Z&quot;&gt;about 20 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
+        <title>closed note 5131474 (near Tereske) / * 2026 January 16 12:24 Created: A posta épület megszűnt. / Az épület ajtaján van egy kiírás, hogy hol és mikor lehet (pár perces idősávban) ügyet intézni a levélhordónál (pl. átvenni a postán maradó küldeményeket). Egy pár percet várakozik valahol heti néhányszor, de szerintem ezt nem lehet felvinni így a térképre. / source: survey / Resolved &lt;time title=&quot;15 February 2026 at 14:21&quot; datetime=&quot;2026-02-15T14:21:35Z&quot;&gt;about 21 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Posta disusedre állítva:
 https://www.openstreetmap.org/changeset/178584160</title>
         <link>https://www.openstreetmap.org/note/5131474#c11506748</link>
         <guid>https://www.openstreetmap.org/note/5131474#c11506748</guid>
         <pubDate>Sun, 15 Feb 2026 14:21:35 +0000</pubDate>
       </item><item>
-        <title>new note 5168497 (near Bezenye) / Created &lt;time title=&quot;15 February 2026 at 13:15&quot; datetime=&quot;2026-02-15T13:15:29Z&quot;&gt;about 21 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/vasony&quot;&gt;vasony&lt;/a&gt;&lt;/div&gt;
+        <title>new note 5168497 (near Bezenye) / Created &lt;time title=&quot;15 February 2026 at 13:15&quot; datetime=&quot;2026-02-15T13:15:29Z&quot;&gt;about 22 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/vasony&quot;&gt;vasony&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Ez itt a Fenyő út vagy utca?</title>
         <link>https://www.openstreetmap.org/note/5168497#c11506415</link>
         <guid>https://www.openstreetmap.org/note/5168497#c11506415</guid>
@@ -337,7 +350,7 @@ https://www.openstreetmap.org/changeset/178584160</title>
         <title>closed note 5166429 (near Újpest, 4th district) / Created &lt;time title=&quot;13 February 2026 at 21:23&quot; datetime=&quot;2026-02-13T21:23:34Z&quot;&gt;3 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/qstep&quot;&gt;qstep&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Button operated no Sound tactile pavement no island
 
-via StreetComplete_ee 61.1 / Resolved &lt;time title=&quot;15 February 2026 at 11:57&quot; datetime=&quot;2026-02-15T11:57:19Z&quot;&gt;about 23 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/qstep&quot;&gt;qstep&lt;/a&gt;&lt;/div&gt;
+via StreetComplete_ee 61.1 / Resolved &lt;time title=&quot;15 February 2026 at 11:57&quot; datetime=&quot;2026-02-15T11:57:19Z&quot;&gt;about 24 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/qstep&quot;&gt;qstep&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;</title>
         <link>https://www.openstreetmap.org/note/5166429#c11506215</link>
         <guid>https://www.openstreetmap.org/note/5166429#c11506215</guid>
@@ -346,7 +359,7 @@ via StreetComplete_ee 61.1 / Resolved &lt;time title=&quot;15 February 2026 at 1
         <title>closed note 5166420 (near Újpest, 4th district) / Created &lt;time title=&quot;13 February 2026 at 21:08&quot; datetime=&quot;2026-02-13T21:08:39Z&quot;&gt;3 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/qstep&quot;&gt;qstep&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Packeta átvevő hely?
 
-via StreetComplete_ee 61.1 / Resolved &lt;time title=&quot;15 February 2026 at 11:57&quot; datetime=&quot;2026-02-15T11:57:12Z&quot;&gt;about 23 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/qstep&quot;&gt;qstep&lt;/a&gt;&lt;/div&gt;
+via StreetComplete_ee 61.1 / Resolved &lt;time title=&quot;15 February 2026 at 11:57&quot; datetime=&quot;2026-02-15T11:57:12Z&quot;&gt;about 24 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/qstep&quot;&gt;qstep&lt;/a&gt;&lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;https://www.openstreetmap.org/changeset/178578348</title>
         <link>https://www.openstreetmap.org/note/5166420#c11506214</link>
         <guid>https://www.openstreetmap.org/note/5166420#c11506214</guid>
@@ -390,67 +403,6 @@ via StreetComplete_ee 61.1 / Resolved &lt;time title=&quot;14 February 2026 at 1
         <link>https://www.openstreetmap.org/note/5167042#c11503147</link>
         <guid>https://www.openstreetmap.org/note/5167042#c11503147</guid>
         <pubDate>Sat, 14 Feb 2026 13:45:54 +0000</pubDate>
-      </item><item>
-        <title>new note 5167042 (near Újlak, 3rd district) / Created &lt;time title=&quot;14 February 2026 at 13:45&quot; datetime=&quot;2026-02-14T13:45:42Z&quot;&gt;2 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Selgen&quot;&gt;Selgen&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;I - Route</title>
-        <link>https://www.openstreetmap.org/note/5167042#c11503145</link>
-        <guid>https://www.openstreetmap.org/note/5167042#c11503145</guid>
-        <pubDate>Sat, 14 Feb 2026 13:45:42 +0000</pubDate>
-      </item><item>
-        <title>new note 5167038 (near Középső-Ferencváros, 9th district) / * 2026 February 14 13:43 Created: III Route</title>
-        <link>https://www.openstreetmap.org/note/5167038#c11503138</link>
-        <guid>https://www.openstreetmap.org/note/5167038#c11503138</guid>
-        <pubDate>Sat, 14 Feb 2026 13:43:56 +0000</pubDate>
-      </item><item>
-        <title>new note 5166926 (near Újmohács, Mohács) / Created &lt;time title=&quot;14 February 2026 at 11:39&quot; datetime=&quot;2026-02-14T11:39:16Z&quot;&gt;2 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/ironalloy&quot;&gt;ironalloy&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;This place does not exist:
-&amp;quot;Doesn&amp;#39;t exist&amp;quot;
-A CoMaps user reported that the POI was visible on the map (see snapshot date below), but was not found on the ground.
-OSM snapshot date: 2026-02-07T17:28:58Z
-POI name: Alexandra
-POI types: shop-books
- #CoMaps android 2026.02.09-4-Google</title>
-        <link>https://www.openstreetmap.org/note/5166926#c11502866</link>
-        <guid>https://www.openstreetmap.org/note/5166926#c11502866</guid>
-        <pubDate>Sat, 14 Feb 2026 11:39:16 +0000</pubDate>
-      </item><item>
-        <title>new note 5166923 (near Újmohács, Mohács) / Created &lt;time title=&quot;14 February 2026 at 11:37&quot; datetime=&quot;2026-02-14T11:37:21Z&quot;&gt;2 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/ironalloy&quot;&gt;ironalloy&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;This place does not exist:
-&amp;quot;Bezárt&amp;quot;
-A CoMaps user reported that the POI was visible on the map (see snapshot date below), but was not found on the ground.
-OSM snapshot date: 2026-02-07T17:28:58Z
-POI name: Giorgio Pizzeria
-POI types: amenity-restaurant
- #CoMaps android 2026.02.09-4-Google</title>
-        <link>https://www.openstreetmap.org/note/5166923#c11502863</link>
-        <guid>https://www.openstreetmap.org/note/5166923#c11502863</guid>
-        <pubDate>Sat, 14 Feb 2026 11:37:21 +0000</pubDate>
-      </item><item>
-        <title>new note 5166873 (near Újváros-lakótelep, Mohács) / Created &lt;time title=&quot;14 February 2026 at 10:52&quot; datetime=&quot;2026-02-14T10:52:47Z&quot;&gt;2 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/ironalloy&quot;&gt;ironalloy&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;window maker
- #CoMaps android 2026.02.09-4-Google</title>
-        <link>https://www.openstreetmap.org/note/5166873#c11502771</link>
-        <guid>https://www.openstreetmap.org/note/5166873#c11502771</guid>
-        <pubDate>Sat, 14 Feb 2026 10:52:47 +0000</pubDate>
-      </item><item>
-        <title>new note 5166829 (near Újváros-lakótelep, Mohács) / Created &lt;time title=&quot;14 February 2026 at 10:13&quot; datetime=&quot;2026-02-14T10:13:21Z&quot;&gt;2 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/ironalloy&quot;&gt;ironalloy&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Steelmetal Kft.
- #CoMaps android 2026.02.09-4-Google</title>
-        <link>https://www.openstreetmap.org/note/5166829#c11502681</link>
-        <guid>https://www.openstreetmap.org/note/5166829#c11502681</guid>
-        <pubDate>Sat, 14 Feb 2026 10:13:21 +0000</pubDate>
-      </item><item>
-        <title>new note 5166762 (near Nagydorog) / Created &lt;time title=&quot;14 February 2026 at 09:02&quot; datetime=&quot;2026-02-14T09:02:25Z&quot;&gt;2 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/ironalloy&quot;&gt;ironalloy&lt;/a&gt;&lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;This place does not exist:
-&amp;quot;Nem látszik itt semmi&amp;quot;
-A CoMaps user reported that the POI was visible on the map (see snapshot date below), but was not found on the ground.
-OSM snapshot date: 2026-02-07T17:28:58Z
-POI has no name
-POI types: amenity-fast_food
- #CoMaps android 2026.02.09-4-Google</title>
-        <link>https://www.openstreetmap.org/note/5166762#c11502533</link>
-        <guid>https://www.openstreetmap.org/note/5166762#c11502533</guid>
-        <pubDate>Sat, 14 Feb 2026 09:02:25 +0000</pubDate>
       </item>
   </channel>
 </rss>
