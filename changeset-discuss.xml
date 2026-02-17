@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: gabro00 Discussion Comment No.: 1 Comment: Szia! A KIRA-ban az önkormányzati &quot;Köu&quot; paraméterek is benne vannak? Mert gondolkozom, hogy lehet helytállóbb volt a lefokozás előtt, már csak a forgalom nagysága miatt is. Date: 2026-02-17T10:24:32+01:00</title>
+        <title>Contributor: NightH Discussion Comment No.: 2 Comment: Az általam elérhető források között semmi jelzést nem találtam arra vonatkozóan, hogy a lefokozott közutak az országos közúthálózat középső szintjéhez, vagyis jellemzően a négyszámjegyű utakhoz sorolhatóak lennének, márpedig a highway=secondary tag ezt jelzi. A címkézést nem a forgalom nagysága határozza meg. Abban abszolút igazad van, hogy pl. a Rókusi körút meglehetősen nagy forgalmat bonyolít le, de nem ez a mérvadó. Ilyen alapon ez lehetne primary, az M44 autópálya bizonyos szakaszai meg secondary-k, ami meglehetősen furcsa lenne. Ugyanígy a kialakítás sem meghatározó, az M19-es autóút is egy (egyébként széles) 2x1 sávos út, fizikai elválasztás nélkül, de a besorolás szempontjából autóút, ezért a highway=trunk címkét kapja meg. Én értem, hogy vizuálisan fura, hogy a Tápén átvezető 4412-es ránézésre fontosabb útnak néz ki, mint a Rókusi, de nem ez határozza meg a címkézés helyességét. Date: 2026-02-17T11:23:30+01:00</title>
         <link>https://www.openstreetmap.org/changeset/139390877</link>
-        <guid>https://www.openstreetmap.org/changeset/139390877#comment_1</guid>
-        <pubDate>2026-02-17T10:24:32+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/139390877#comment_2</guid>
+        <pubDate>2026-02-17T11:23:30+01:00</pubDate>
       </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv az OpenStreetMap-en! Az általad megadott building:levels=0 azt jelenti, nincs szintje a háznak. Valószínűleg inkább 1-re gondoltál. Bővebben: https://wiki.openstreetmap.org/wiki/Key:building:levels További jó térképezést! Date: 2026-02-17T09:34:15+01:00</title>
+        <title>Contributor: bkil Discussion Comment No.: 2 Comment: Mi van, ha lifecycle helyett gondolt erre a szerző, hogy lebontották? Date: 2026-02-17T10:52:15+01:00</title>
         <link>https://www.openstreetmap.org/changeset/178666442</link>
-        <guid>https://www.openstreetmap.org/changeset/178666442#comment_1</guid>
-        <pubDate>2026-02-17T09:34:15+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/178666442#comment_2</guid>
+        <pubDate>2026-02-17T10:52:15+01:00</pubDate>
       </item><item>
         <title>Contributor: NightH Discussion Comment No.: 5 Comment: A JOSM-et én is javaslom, bár egy kicsit okosítani kell rajta, hogy az indoor mappingre is alkalmas legyen. Szerencsére létezik hozzá plugin, ami nagyban megkönnyíti a beltéri szerkesztést: https://wiki.openstreetmap.org/wiki/JOSM/Plugins/indoorhelper Egy próbát megér szerintem. Date: 2026-02-16T07:08:28+01:00</title>
         <link>https://www.openstreetmap.org/changeset/178374840</link>
