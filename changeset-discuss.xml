@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv! Egyrészt ez nem egy konkrét cigánytelepet jelölt, hanem a város ezen részének történelmi neve. Lásd: place=locality Szerepel a nemzeti névtérben, bármit is jelentsen ez: https://magyarnemzetinevter.hu/geo/480856/?id=515884 Valamint egy kis helytörténet: https://www.facebook.com/groups/2314133952003468/posts/2351397008277162 Azt kellene kideríteni, hogy használják-e még ezt a nevet a helyiek, vagy szerepel-e bármilyen hivatalos dokumentumban. Addig nem törölném. Date: 2026-02-19T22:08:51+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/178775931</link>
+        <guid>https://www.openstreetmap.org/changeset/178775931#comment_1</guid>
+        <pubDate>2026-02-19T22:08:51+01:00</pubDate>
+      </item><item>
         <title>Contributor: qstep Discussion Comment No.: 2 Comment: I have fixed the duplicate and incorrent data in https://www.openstreetmap.org/changeset/178791976 Date: 2026-02-19T20:38:04+01:00</title>
         <link>https://www.openstreetmap.org/changeset/178573188</link>
         <guid>https://www.openstreetmap.org/changeset/178573188#comment_2</guid>
@@ -59,21 +64,6 @@
         <pubDate>2026-02-17T22:06:44+01:00</pubDate>
       </item><item>
         <title>Contributor: gymate Discussion Comment No.: 1 Comment: Szia! Visszavontam ezt a módosításodat, mert hibásan (megállónként külön-külön) és pontatlan végállomásnevekkel illetve üzemeltetővel hoztál vele létre egy járatot. A járat megállóinak pontos neve az üzemeltető (megrendelő) oldalán található: https://go.bkk.hu/route/BKK_2180 A buszvonalak helyes térképezéséről itt olvashatsz bővebben: https://wiki.openstreetmap.org/wiki/Tag:route=bus https://wiki.openstreetmap.org/wiki/Hungary/Tömegközlekedés Illetve szívesen segítünk a Matrix-szobánkban is, csak dobj egy üzenetet: https://riot.grin.hu/#/room/%23osm:grin.hu Üdv.: Máté https://www.openstreetmap.org/changeset/178695001 Date: 2026-02-17T19:33:08+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/171861850</link>
-        <guid>https://www.openstreetmap.org/changeset/171861850#comment_1</guid>
-        <pubDate>2026-02-17T19:33:08+01:00</pubDate>
-      </item><item>
-        <title>Contributor: gymate Discussion Comment No.: 1 Comment: Szia! Visszavontam ezt a módosításodat, mert hibásan (megállónként külön-külön) és pontatlan végállomásnevekkel illetve üzemeltetővel hoztál vele létre egy járatot. A járat megállóinak pontos neve az üzemeltető (megrendelő) oldalán található: https://go.bkk.hu/route/BKK_2180 A buszvonalak helyes térképezéséről itt olvashatsz bővebben: https://wiki.openstreetmap.org/wiki/Tag:route=bus https://wiki.openstreetmap.org/wiki/Hungary/Tömegközlekedés Illetve szívesen segítünk a Matrix-szobánkban is, csak dobj egy üzenetet: https://riot.grin.hu/#/room/%23osm:grin.hu Üdv.: Máté https://www.openstreetmap.org/changeset/178695001 Date: 2026-02-17T19:33:08+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/171861756</link>
-        <guid>https://www.openstreetmap.org/changeset/171861756#comment_1</guid>
-        <pubDate>2026-02-17T19:33:08+01:00</pubDate>
-      </item><item>
-        <title>Contributor: gymate Discussion Comment No.: 1 Comment: Szia! Visszavontam ezt a módosításodat, mert hibásan (megállónként külön-külön) és pontatlan végállomásnevekkel illetve üzemeltetővel hoztál vele létre egy járatot. A járat megállóinak pontos neve az üzemeltető (megrendelő) oldalán található: https://go.bkk.hu/route/BKK_2180 A buszvonalak helyes térképezéséről itt olvashatsz bővebben: https://wiki.openstreetmap.org/wiki/Tag:route=bus https://wiki.openstreetmap.org/wiki/Hungary/Tömegközlekedés Illetve szívesen segítünk a Matrix-szobánkban is, csak dobj egy üzenetet: https://riot.grin.hu/#/room/%23osm:grin.hu Üdv.: Máté https://www.openstreetmap.org/changeset/178695001 Date: 2026-02-17T19:33:08+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/171861821</link>
-        <guid>https://www.openstreetmap.org/changeset/171861821#comment_1</guid>
-        <pubDate>2026-02-17T19:33:08+01:00</pubDate>
-      </item><item>
-        <title>Contributor: gymate Discussion Comment No.: 1 Comment: Szia! Visszavontam ezt a módosításodat, mert hibásan (megállónként külön-külön) és pontatlan végállomásnevekkel illetve üzemeltetővel hoztál vele létre egy járatot. A járat megállóinak pontos neve az üzemeltető (megrendelő) oldalán található: https://go.bkk.hu/route/BKK_2180 A buszvonalak helyes térképezéséről itt olvashatsz bővebben: https://wiki.openstreetmap.org/wiki/Tag:route=bus https://wiki.openstreetmap.org/wiki/Hungary/Tömegközlekedés Illetve szívesen segítünk a Matrix-szobánkban is, csak dobj egy üzenetet: https://riot.grin.hu/#/room/%23osm:grin.hu Üdv.: Máté https://www.openstreetmap.org/changeset/178695001 Date: 2026-02-17T19:33:08+01:00</title>
         <link>https://www.openstreetmap.org/changeset/171861608</link>
         <guid>https://www.openstreetmap.org/changeset/171861608#comment_1</guid>
         <pubDate>2026-02-17T19:33:08+01:00</pubDate>
@@ -93,14 +83,29 @@
         <guid>https://www.openstreetmap.org/changeset/171861718#comment_1</guid>
         <pubDate>2026-02-17T19:33:08+01:00</pubDate>
       </item><item>
-        <title>Contributor: gymate Discussion Comment No.: 1 Comment: Szia! Visszavontam ezt a módosításodat, mert hibásan (megállónként külön-külön) és pontatlan végállomásnevekkel illetve üzemeltetővel hoztál vele létre egy járatot. A járat megállóinak pontos neve az üzemeltető (megrendelő) oldalán található: https://go.bkk.hu/route/BKK_2180 A buszvonalak helyes térképezéséről itt olvashatsz bővebben: https://wiki.openstreetmap.org/wiki/Tag:route=bus https://wiki.openstreetmap.org/wiki/Hungary/Tömegközlekedés Illetve szívesen segítünk a Matrix-szobánkban is, csak dobj egy üzenetet: https://riot.grin.hu/#/room/%23osm:grin.hu Üdv.: Máté https://www.openstreetmap.org/changeset/178695001 Date: 2026-02-17T19:33:07+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/171861581</link>
-        <guid>https://www.openstreetmap.org/changeset/171861581#comment_1</guid>
-        <pubDate>2026-02-17T19:33:07+01:00</pubDate>
+        <title>Contributor: gymate Discussion Comment No.: 1 Comment: Szia! Visszavontam ezt a módosításodat, mert hibásan (megállónként külön-külön) és pontatlan végállomásnevekkel illetve üzemeltetővel hoztál vele létre egy járatot. A járat megállóinak pontos neve az üzemeltető (megrendelő) oldalán található: https://go.bkk.hu/route/BKK_2180 A buszvonalak helyes térképezéséről itt olvashatsz bővebben: https://wiki.openstreetmap.org/wiki/Tag:route=bus https://wiki.openstreetmap.org/wiki/Hungary/Tömegközlekedés Illetve szívesen segítünk a Matrix-szobánkban is, csak dobj egy üzenetet: https://riot.grin.hu/#/room/%23osm:grin.hu Üdv.: Máté https://www.openstreetmap.org/changeset/178695001 Date: 2026-02-17T19:33:08+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/171861821</link>
+        <guid>https://www.openstreetmap.org/changeset/171861821#comment_1</guid>
+        <pubDate>2026-02-17T19:33:08+01:00</pubDate>
+      </item><item>
+        <title>Contributor: gymate Discussion Comment No.: 1 Comment: Szia! Visszavontam ezt a módosításodat, mert hibásan (megállónként külön-külön) és pontatlan végállomásnevekkel illetve üzemeltetővel hoztál vele létre egy járatot. A járat megállóinak pontos neve az üzemeltető (megrendelő) oldalán található: https://go.bkk.hu/route/BKK_2180 A buszvonalak helyes térképezéséről itt olvashatsz bővebben: https://wiki.openstreetmap.org/wiki/Tag:route=bus https://wiki.openstreetmap.org/wiki/Hungary/Tömegközlekedés Illetve szívesen segítünk a Matrix-szobánkban is, csak dobj egy üzenetet: https://riot.grin.hu/#/room/%23osm:grin.hu Üdv.: Máté https://www.openstreetmap.org/changeset/178695001 Date: 2026-02-17T19:33:08+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/171861850</link>
+        <guid>https://www.openstreetmap.org/changeset/171861850#comment_1</guid>
+        <pubDate>2026-02-17T19:33:08+01:00</pubDate>
+      </item><item>
+        <title>Contributor: gymate Discussion Comment No.: 1 Comment: Szia! Visszavontam ezt a módosításodat, mert hibásan (megállónként külön-külön) és pontatlan végállomásnevekkel illetve üzemeltetővel hoztál vele létre egy járatot. A járat megállóinak pontos neve az üzemeltető (megrendelő) oldalán található: https://go.bkk.hu/route/BKK_2180 A buszvonalak helyes térképezéséről itt olvashatsz bővebben: https://wiki.openstreetmap.org/wiki/Tag:route=bus https://wiki.openstreetmap.org/wiki/Hungary/Tömegközlekedés Illetve szívesen segítünk a Matrix-szobánkban is, csak dobj egy üzenetet: https://riot.grin.hu/#/room/%23osm:grin.hu Üdv.: Máté https://www.openstreetmap.org/changeset/178695001 Date: 2026-02-17T19:33:08+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/171861756</link>
+        <guid>https://www.openstreetmap.org/changeset/171861756#comment_1</guid>
+        <pubDate>2026-02-17T19:33:08+01:00</pubDate>
       </item><item>
         <title>Contributor: gymate Discussion Comment No.: 1 Comment: Szia! Visszavontam ezt a módosításodat, mert hibásan (megállónként külön-külön) és pontatlan végállomásnevekkel illetve üzemeltetővel hoztál vele létre egy járatot. A járat megállóinak pontos neve az üzemeltető (megrendelő) oldalán található: https://go.bkk.hu/route/BKK_2180 A buszvonalak helyes térképezéséről itt olvashatsz bővebben: https://wiki.openstreetmap.org/wiki/Tag:route=bus https://wiki.openstreetmap.org/wiki/Hungary/Tömegközlekedés Illetve szívesen segítünk a Matrix-szobánkban is, csak dobj egy üzenetet: https://riot.grin.hu/#/room/%23osm:grin.hu Üdv.: Máté https://www.openstreetmap.org/changeset/178695001 Date: 2026-02-17T19:33:07+01:00</title>
         <link>https://www.openstreetmap.org/changeset/171861540</link>
         <guid>https://www.openstreetmap.org/changeset/171861540#comment_1</guid>
+        <pubDate>2026-02-17T19:33:07+01:00</pubDate>
+      </item><item>
+        <title>Contributor: gymate Discussion Comment No.: 1 Comment: Szia! Visszavontam ezt a módosításodat, mert hibásan (megállónként külön-külön) és pontatlan végállomásnevekkel illetve üzemeltetővel hoztál vele létre egy járatot. A járat megállóinak pontos neve az üzemeltető (megrendelő) oldalán található: https://go.bkk.hu/route/BKK_2180 A buszvonalak helyes térképezéséről itt olvashatsz bővebben: https://wiki.openstreetmap.org/wiki/Tag:route=bus https://wiki.openstreetmap.org/wiki/Hungary/Tömegközlekedés Illetve szívesen segítünk a Matrix-szobánkban is, csak dobj egy üzenetet: https://riot.grin.hu/#/room/%23osm:grin.hu Üdv.: Máté https://www.openstreetmap.org/changeset/178695001 Date: 2026-02-17T19:33:07+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/171861581</link>
+        <guid>https://www.openstreetmap.org/changeset/171861581#comment_1</guid>
         <pubDate>2026-02-17T19:33:07+01:00</pubDate>
       </item><item>
         <title>Contributor: gymate Discussion Comment No.: 1 Comment: Szia! Visszavontam ezt a módosításodat, mert hibásan (megállónként külön-külön) és pontatlan végállomásnevekkel illetve üzemeltetővel hoztál vele létre egy járatot. A járat megállóinak pontos neve az üzemeltető (megrendelő) oldalán található: https://go.bkk.hu/route/BKK_2180 A buszvonalak helyes térképezéséről itt olvashatsz bővebben: https://wiki.openstreetmap.org/wiki/Tag:route=bus https://wiki.openstreetmap.org/wiki/Hungary/Tömegközlekedés Illetve szívesen segítünk a Matrix-szobánkban is, csak dobj egy üzenetet: https://riot.grin.hu/#/room/%23osm:grin.hu Üdv.: Máté https://www.openstreetmap.org/changeset/178694946 Date: 2026-02-17T19:31:44+01:00</title>
@@ -197,11 +202,6 @@
         <link>https://www.openstreetmap.org/changeset/178480164</link>
         <guid>https://www.openstreetmap.org/changeset/178480164#comment_2</guid>
         <pubDate>2026-02-13T08:14:52+01:00</pubDate>
-      </item><item>
-        <title>Contributor: Mbalazs81 Discussion Comment No.: 2 Comment: Hali, köszi a tippet, ez az every door jó szolgálatot fog tenni, jóval egyszerűbb lesz élőben beírni, nem utólag keresgélni a térképen. Date: 2026-02-12T23:09:58+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/178392610</link>
-        <guid>https://www.openstreetmap.org/changeset/178392610#comment_2</guid>
-        <pubDate>2026-02-12T23:09:58+01:00</pubDate>
       </item>
   </channel>
 </rss>
