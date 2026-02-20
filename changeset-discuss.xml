@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: qstep Discussion Comment No.: 2 Comment: I have contacted this user in PM about these kinds of edits. It seems he has developed a custom app for himself to add playground and zoo attractions easier. For the zoo attractions, what I understood is the app syncs data _from_ wikidata to OSM, so the redundant and wrong translations are actually coming directly from wikidata. I consider this a risky technique without consulting with the community first. He acknowledged these errors and promised to fix the app issues and their previous edits as well. I offered my help with any questions and fixing issues. Date: 2026-02-20T13:03:33+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/178771761</link>
+        <guid>https://www.openstreetmap.org/changeset/178771761#comment_2</guid>
+        <pubDate>2026-02-20T13:03:33+01:00</pubDate>
+      </item><item>
         <title>Contributor: EnderGabor Discussion Comment No.: 1 Comment: Köszi Date: 2026-02-20T09:24:56+01:00</title>
         <link>https://www.openstreetmap.org/changeset/178796250</link>
         <guid>https://www.openstreetmap.org/changeset/178796250#comment_1</guid>
@@ -47,11 +52,6 @@
         <link>https://www.openstreetmap.org/changeset/178774024</link>
         <guid>https://www.openstreetmap.org/changeset/178774024#comment_1</guid>
         <pubDate>2026-02-19T14:18:06+01:00</pubDate>
-      </item><item>
-        <title>Contributor: Taya_S Discussion Comment No.: 1 Comment: Hi, I've noticed several issues with your edits, and I would like for you to respond. are you sure these names and species are correct? The regular name matches the english name. The same goes for the species. Should all three be identical? Also in the case of https://www.openstreetmap.org/node/13580387980, you use &quot;Water Palm&quot; as name, but then use &quot;Umbrella papyrus&quot; as english name. This seems incorrect to me. You're using the wikipedia tag wrong. The wikipedia tag should link to 1 specific wikipedia article that is about the object in question. What you're doing is adding a link to a wikidata page, which by itself is already incorrect, but you're just linking it to the species in general. Would you mind correcting this? Best regards, Taya Snijder, On behalf of the OSMF Data Working Group Date: 2026-02-19T14:14:48+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/178771761</link>
-        <guid>https://www.openstreetmap.org/changeset/178771761#comment_1</guid>
-        <pubDate>2026-02-19T14:14:48+01:00</pubDate>
       </item><item>
         <title>Contributor: vasony-qa Discussion Comment No.: 1 Comment: Szia! Valamit állítsd légy szíves az Every Door-on mert az épületen belül házszámokat épületként hozod létre, így épületen belüli épületek keletkeznek. Köszi, Tamás Date: 2026-02-18T19:31:19+01:00</title>
         <link>https://www.openstreetmap.org/changeset/178623090</link>
