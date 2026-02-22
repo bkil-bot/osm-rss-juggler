@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: itineris Discussion Comment No.: 3 Comment: A belterületi főutak besorolását egyelőre a helyi rendezési/szabályzási terv szerinti KÖu kategóriák alapján végezzük. A Széchenyi és Újpesti rakpart, valamint a kettő közötti Jászai Mari tér viszont nem főútvonal, tehát semmi sem indokolja a residential-nál magasabb besorolását. A felhajtókat-lehajtókat az első elágazásig szoktuk annak hívni, ami itt a Szent István körúttól legfeljebb a Balassi Bálint utca, illetve a Pozsonyi út torkolatáig tart. Viszont főleg az északi oldalon a Pozsonyi úttól legalább a sarokig alapvetően lakóövezeti út (residential) az utca fő funkciója, és nem a főútra való felhajtás. Ha máshol láttál olyat, ahol főút tábla nélkül secondary/tertiary egy háztömb, akkor jelezd, mert azt is javítani kell. Üdv: Ákos Date: 2026-02-22T11:14:42+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/178797142</link>
+        <guid>https://www.openstreetmap.org/changeset/178797142#comment_3</guid>
+        <pubDate>2026-02-22T11:14:42+01:00</pubDate>
+      </item><item>
         <title>Contributor: Arthur B E Discussion Comment No.: 2 Comment: Sorry must be a mistake by myself. I deleted it. Thank you for the hint! Date: 2026-02-22T08:51:25+01:00</title>
         <link>https://www.openstreetmap.org/changeset/166601094</link>
         <guid>https://www.openstreetmap.org/changeset/166601094#comment_2</guid>
         <pubDate>2026-02-22T08:51:25+01:00</pubDate>
-      </item><item>
-        <title>Contributor: leveskockaa Discussion Comment No.: 2 Comment: Szia! A Jászai Mari tér véleményem szerint a Margit híd fel- és lehajtójaként értelmezhető hálózati szempontból, számomra nem világos, ez miért tertiary, és miért nem részben, vagy egészben secondary_link. Én az ,,egész” opció mellett tettem le a voksom, a városszerte alkalmazott gyakorlat és azon alapelv szerint, ami úgy szól, hogy a _link a magasabb rendű úthoz tartozik előtagját tekintve. Ha úgy gondolod, hogy a híd alatti, pontosabban a Képviselői irodaháztól a Jászai Mari tér 6.-ig tartó szakasz tertiary, nincs ellenvetésem, de honnantól, illetve meddig legyen secondary_link? Levente Date: 2026-02-21T21:42:22+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/178797142</link>
-        <guid>https://www.openstreetmap.org/changeset/178797142#comment_2</guid>
-        <pubDate>2026-02-21T21:42:22+01:00</pubDate>
       </item><item>
         <title>Contributor: gabro00 Discussion Comment No.: 6 Comment: Így van, ez most hiányzik. Viszont ha visszanézed az utak előzményét, volt... Egyébként ok, ezzel tudok azonosulni, magam is kb. így csinálnám. Nem én ragaszkodok ehhez a 4 számjegyű utasdihoz :) Ami viszont szerintem nem fér a három kategóriába, azok az olyan utak, mint pl. a Szent Gellért utca (szinte csak buszok használják), Veres ács utca (átmenő forgalom, de sokszor csak egy sávos, mert leparkolják az út szélét - nézd meg StreetView-n). Tehát az áteresztőképességük olyan, mint egy alacsony sebkorlátozású lakúútnak. Én ezeken meghagynám az unclassified címkét. Elkezdem logikusan átcímkézni, egyelőre csak max. secondary szinten, aztán meglátom milyen finomítás kell még. 1-2 hét múlva térjünk vissza rá. Ezt meg csak itt hagyom: https://www.openstreetmap.org/directions?engine=fossgis_valhalla_car&amp;route=46.26477%2C20.121779%3B46.27375%2C20.16141#map=15/46.26758/20.14751 Date: 2026-02-21T07:06:26+01:00</title>
         <link>https://www.openstreetmap.org/changeset/178669482</link>
