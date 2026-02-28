@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: qstep Discussion Comment No.: 2 Comment: Üdv az OpenStreetMap-en! Szerkesztésedben az épület házszámára raktad a vállalkozásod. Átraktam saját POI-ra mind itt, mind Bécsben, valamint a reklám jellegű tartalmat töröltem, az OSM-ben nem tárolunk ilyet, azok elérhetők a mellékelt weboldalon. Lásd SEO spam: https://wiki.openstreetmap.org/wiki/Spam Viszont megadhatod a többi elérhetőséged mindkét ponton contact:*=* címkékkel, és a hitelesség jegyében felviheted a vállalkozásod nevét (operator), székhelyét (operator:addr), adószámát (ref:HU:vatin), cégjegyzékszámát (ref:HU:company) is. Egy példa erre: https://www.openstreetmap.org/node/13601415501 Date: 2026-02-28T18:00:16+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/178919460</link>
+        <guid>https://www.openstreetmap.org/changeset/178919460#comment_2</guid>
+        <pubDate>2026-02-28T18:00:16+01:00</pubDate>
+      </item><item>
         <title>Contributor: Tacsipacsi Discussion Comment No.: 7 Comment: Ezek szerint a tisztelt városatyák nem ismerik a helyesírást. ☹ Ettől még persze az OSM-nek azt kell követnie, ahogy ők leírták, köszönöm a korrekciót! (A Wikipédia-szócikkbe azért elhelyeztem egy jelzést, hogy ez nem így helyes, az OSM-en bőven elég az old_name.) &gt; Feltételezem ez előtt nem volt hivatalosan szabályozva a városrészek neve. De volt, a régi rendelet (9/1989. (1990. I. 31.) Főv. Tan. rendelet, https://net.jogtar.hu/rendelet?docid=98900009.FOV&amp;council=fovaros&amp;timeshift=20121228) 16. § (3) bekezdése szerint a főjegyző tartotta nyilván ezeket a neveket. Viszont nem tudom, hogy hogyan lehet hozzájutni ahhoz a nyilvántartáshoz tizenhárom év távlatából. Date: 2026-02-28T15:09:57+01:00</title>
         <link>https://www.openstreetmap.org/changeset/178760073</link>
         <guid>https://www.openstreetmap.org/changeset/178760073#comment_7</guid>
@@ -62,11 +67,6 @@
         <link>https://www.openstreetmap.org/changeset/178935177</link>
         <guid>https://www.openstreetmap.org/changeset/178935177#comment_2</guid>
         <pubDate>2026-02-23T11:08:19+01:00</pubDate>
-      </item><item>
-        <title>Contributor: NeisBot Discussion Comment No.: 1 Comment: Hello, welcome and thank you for your contribution to OSM! Your changeset was commented because your added description, note or slogan contain detailed text that may be interpreted as promotional or SEO-related. To ensure OSM remains neutral and focused on map data, I recommend keeping descriptions concise, factual, and free from marketing or promotional language. ⚠️️ Problematic element (limit 1): https://osm.org/node/4464961807 v2 Could you please revise your text accordingly? ✅ For example, a more neutral and factual version of your text could be: &quot;Fotóstúdió&quot; #MapWithoutSpam Date: 2026-02-22T22:36:42+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/178919460</link>
-        <guid>https://www.openstreetmap.org/changeset/178919460#comment_1</guid>
-        <pubDate>2026-02-22T22:36:42+01:00</pubDate>
       </item><item>
         <title>Contributor: itineris Discussion Comment No.: 3 Comment: A belterületi főutak besorolását egyelőre a helyi rendezési/szabályzási terv szerinti KÖu kategóriák alapján végezzük. A Széchenyi és Újpesti rakpart, valamint a kettő közötti Jászai Mari tér viszont nem főútvonal, tehát semmi sem indokolja a residential-nál magasabb besorolását. A felhajtókat-lehajtókat az első elágazásig szoktuk annak hívni, ami itt a Szent István körúttól legfeljebb a Balassi Bálint utca, illetve a Pozsonyi út torkolatáig tart. Viszont főleg az északi oldalon a Pozsonyi úttól legalább a sarokig alapvetően lakóövezeti út (residential) az utca fő funkciója, és nem a főútra való felhajtás. Ha máshol láttál olyat, ahol főút tábla nélkül secondary/tertiary egy háztömb, akkor jelezd, mert azt is javítani kell. Üdv: Ákos Date: 2026-02-22T11:14:42+01:00</title>
         <link>https://www.openstreetmap.org/changeset/178797142</link>
