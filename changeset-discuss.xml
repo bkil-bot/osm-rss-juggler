@@ -52,16 +52,6 @@
         <link>https://www.openstreetmap.org/changeset/178938615</link>
         <guid>https://www.openstreetmap.org/changeset/178938615#comment_2</guid>
         <pubDate>2026-02-24T04:42:23+01:00</pubDate>
-      </item><item>
-        <title>Contributor: pitscheplatsch Discussion Comment No.: 3 Comment: Thanks @qstep Date: 2026-02-23T19:21:12+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/178938397</link>
-        <guid>https://www.openstreetmap.org/changeset/178938397#comment_3</guid>
-        <pubDate>2026-02-23T19:21:12+01:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv! Több hiba is van a szerkesztésedben: - Erre a relációra ráraktál egy &quot;Játszótér&quot; nevet, valószínűleg véletlen: https://www.openstreetmap.org/relation/7335240 - Présház utcai park → Présház utcai játszótér &quot;Cseresznyés játszótér&quot;: Ki van ott írva ez a név? name mezőbe az kerül, ami ki van írva, vagy így hívja mindenki. loc_name-be ha a helyiek által használt név eltér a valódi névtől. alt_name-be az &quot;egyéb név&quot;. Kérlek olvasd át a wikit: https://wiki.openstreetmap.org/wiki/Names - https://www.openstreetmap.org/way/313825904 - nem szükséges a Játszótér név, ott van már a leisure=playground - kérlek olvasd át a https://wiki.openstreetmap.org/wiki/Tagging_for_the_renderer cikket. - https://www.openstreetmap.org/way/378887241 - törölted a shop=convenience-t de nem állítottál be másikat, így csak a név szerepel. Válassz egyet: https://wiki.openstreetmap.org/wiki/Key:shop Date: 2026-02-23T18:37:54+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/178948379</link>
-        <guid>https://www.openstreetmap.org/changeset/178948379#comment_1</guid>
-        <pubDate>2026-02-23T18:37:54+01:00</pubDate>
       </item>
   </channel>
 </rss>
