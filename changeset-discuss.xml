@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: qstep Discussion Comment No.: 2 Comment: Igen, véletlen ott maradt. Köszi a javítást! Date: 2026-03-12T19:53:33+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/179772512</link>
+        <guid>https://www.openstreetmap.org/changeset/179772512#comment_2</guid>
+        <pubDate>2026-03-12T19:53:33+01:00</pubDate>
+      </item><item>
         <title>Contributor: qstep Discussion Comment No.: 14 Comment: Megnéztem a relációkat és javítottam. Ez a vonal 2023-ban megszűnt. Létrehoztam neki route_master relációt is. https://www.openstreetmap.org/changeset/179772512 Azért van ennyi reláció, mert ha jól értem a route=railway az maga a vasúti pálya, a 2 db route=train az az oda és vissza személyszállítási járatok, és ezeket foglalja egybe a route_master=train ami a viszonylat. A https://www.openstreetmap.org/relation/252083 relációra (vasúti pálya) nem vettem fel disused-ot, mert nem tudom, hogy hogyan szokás ilyenkor. Feltételezem használható a pálya csak utasokat nem szállítanak rajta. Majd javítja más, ha nem jó. Date: 2026-03-12T19:12:13+01:00</title>
         <link>https://www.openstreetmap.org/changeset/165187809</link>
         <guid>https://www.openstreetmap.org/changeset/165187809#comment_14</guid>
