@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: qstep Discussion Comment No.: 14 Comment: Megnéztem a relációkat és javítottam. Ez a vonal 2023-ban megszűnt. Létrehoztam neki route_master relációt is. https://www.openstreetmap.org/changeset/179772512 Azért van ennyi reláció, mert ha jól értem a route=railway az maga a vasúti pálya, a 2 db route=train az az oda és vissza személyszállítási járatok, és ezeket foglalja egybe a route_master=train ami a viszonylat. A https://www.openstreetmap.org/relation/252083 relációra (vasúti pálya) nem vettem fel disused-ot, mert nem tudom, hogy hogyan szokás ilyenkor. Feltételezem használható a pálya csak utasokat nem szállítanak rajta. Majd javítja más, ha nem jó. Date: 2026-03-12T19:12:13+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/165187809</link>
+        <guid>https://www.openstreetmap.org/changeset/165187809#comment_14</guid>
+        <pubDate>2026-03-12T19:12:13+01:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Hello and welcome to OpenStreetMap! On the wiki there is a very good article about how names should be tagged: https://wiki.openstreetmap.org/wiki/Names Please read and understand this. We have several different kind of name tags, use them! I see in your latter edits you found you can write to name:en instead of alt_name. Please be more careful with spelling and capitalization. It doesn't make a lot of sense to list different spellings of the same word, r.g. coffee and café. These kind of variations should be handled by map users, apps, we shouldn't add them to the database. I fixed most of your edits here: https://www.openstreetmap.org/changeset/179760778 Happy mapping! Date: 2026-03-12T14:27:22+01:00</title>
         <link>https://www.openstreetmap.org/changeset/179701529</link>
         <guid>https://www.openstreetmap.org/changeset/179701529#comment_1</guid>
@@ -17,11 +22,6 @@
         <link>https://www.openstreetmap.org/changeset/178456973</link>
         <guid>https://www.openstreetmap.org/changeset/178456973#comment_1</guid>
         <pubDate>2026-03-12T13:12:35+01:00</pubDate>
-      </item><item>
-        <title>Contributor: ssummoner1 Discussion Comment No.: 13 Comment: A wikidata címkét elismerem, hogy nem hoztam át. Date: 2026-03-11T19:41:48+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/165187809</link>
-        <guid>https://www.openstreetmap.org/changeset/165187809#comment_13</guid>
-        <pubDate>2026-03-11T19:41:48+01:00</pubDate>
       </item><item>
         <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv! name nem kell ezekhez, mert a leisure=bleachers már leírja. A többihez sem kell, de azokat nem te vitted fel. Ha gondolod, javíthatod. Köszi. Date: 2026-03-11T15:43:44+01:00</title>
         <link>https://www.openstreetmap.org/changeset/179645939</link>
