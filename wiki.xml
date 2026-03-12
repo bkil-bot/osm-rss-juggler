@@ -2,6 +2,11 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      
+      <item>
+        <title>Query-to-map: Mark as historic -Nakaner</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Query-to-map&amp;diff=2963971&amp;oldid=2569358</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Query-to-map&amp;diff=2963971</guid>
+        <pubDate>Thu, 12 Mar 2026 12:49:37 GMT</pubDate>
+      </item>
   </channel>
 </rss>
