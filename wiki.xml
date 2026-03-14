@@ -2,11 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      <item>
-        <title>Hungary/Tömegközlekedés: A stop_area és stop_area_group táblázatok javítása. -Qstep</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/T%C3%B6megk%C3%B6zleked%C3%A9s&amp;diff=2964419&amp;oldid=2918761</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/T%C3%B6megk%C3%B6zleked%C3%A9s&amp;diff=2964419</guid>
-        <pubDate>Fri, 13 Mar 2026 13:56:37 GMT</pubDate>
-      </item>
+      
   </channel>
 </rss>
