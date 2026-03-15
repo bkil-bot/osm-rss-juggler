@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: Anas masuris Discussion Comment No.: 16 Comment: That is not true. Nowhere on that page there is stated clearly that &quot;Tagging tracks which don't leave the station with usage=main/branch violates the tagging principles which has been agreed on&quot;. Unless you want to show us exactly where is that line suggesting the above. FYI a single comment in discussion page is not a proof since it's not documented and doesn't correspond with the up to date wiki page (being there's not a clear consensus in that matter). Date: 2026-03-15T19:25:41+01:00</title>
+        <title>Contributor: Anas masuris Discussion Comment No.: 19 Comment: So, there exists no rule, that says that &quot;the track having entry signals must be tagged with usage=*&quot; and yet you say that it is a must based on exemplary graphic... Mhm. Sorry, but this is not a rule which has been agreed on, but only your interpretation. The only things stated on this page are: * The key usage=* is used to identify the primary usage of a railway track * Inside a railway station area, use usage=main or usage=branch only for the main tracks (not for siding, yard tracks etc.) It may be true for German railways (Still there are non-compliant examples in DE as well, but hush hush), but it doesn't imply automatically that in other countries it is 1:1, given how different regulations and classification is. So the only thing I have to say is to follow the other countries tagging schemes, not reflecting the German one Date: 2026-03-15T19:55:10+01:00</title>
         <link>https://www.openstreetmap.org/changeset/178429499</link>
-        <guid>https://www.openstreetmap.org/changeset/178429499#comment_16</guid>
-        <pubDate>2026-03-15T19:25:41+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/178429499#comment_19</guid>
+        <pubDate>2026-03-15T19:55:10+01:00</pubDate>
       </item><item>
         <title>Contributor: qstep Discussion Comment No.: 1 Comment: Szia! Megállónál mindegy, mennyi kuka van, elég annyi, hogy bench=yes. Esetlegesen fel lehet vinni külön a szemeteseket amenity=waste_basket -ként. Date: 2026-03-14T22:46:04+01:00</title>
         <link>https://www.openstreetmap.org/changeset/179862230</link>
