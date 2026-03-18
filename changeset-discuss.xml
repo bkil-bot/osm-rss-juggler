@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 2 Comment: Igen, konkrétan erről a kútról is már letakarítottam egyszer, amikor az összes többiről is Budapesten: https://www.openstreetmap.org/changeset/168623930 Date: 2026-03-18T14:41:45+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/179939691</link>
+        <guid>https://www.openstreetmap.org/changeset/179939691#comment_2</guid>
+        <pubDate>2026-03-18T14:41:45+01:00</pubDate>
+      </item><item>
         <title>Contributor: qstep Discussion Comment No.: 1 Comment: A vonalak megállói egyelőre nem pontosak, ezt később javítom. Date: 2026-03-16T22:06:08+01:00</title>
         <link>https://www.openstreetmap.org/changeset/179973364</link>
         <guid>https://www.openstreetmap.org/changeset/179973364#comment_1</guid>
@@ -67,16 +72,6 @@
         <link>https://www.openstreetmap.org/changeset/179699415</link>
         <guid>https://www.openstreetmap.org/changeset/179699415#comment_3</guid>
         <pubDate>2026-03-12T13:24:59+01:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv! A fence_type=barbed_wire már leírja, hogy milyen anyagból van. Ettől még megadhatod a material=* -t de akkor a wikiből válassz értéket. note nem kell, mert a többi címke már leírja. Most akkor 3.5 vagy 4m magas, mert a height-ben 4 van. Javítsd kérlek, köszi! Date: 2026-03-11T15:41:52+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/179646254</link>
-        <guid>https://www.openstreetmap.org/changeset/179646254#comment_1</guid>
-        <pubDate>2026-03-11T15:41:52+01:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv az OSM-en! Ezt javítsd kérlek: - blind=no nem kell - ref nem kell - kerekesszékkel használható fitness park? Köszi. Date: 2026-03-11T15:40:14+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/179646913</link>
-        <guid>https://www.openstreetmap.org/changeset/179646913#comment_1</guid>
-        <pubDate>2026-03-11T15:40:14+01:00</pubDate>
       </item>
   </channel>
 </rss>
