@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: woodpeck Discussion Comment No.: 15 Comment: As a general remark: The fact that a Wikidata entry links to an OSM object is NEVER a reason not to delete or renumber the OSM object. OSM mappers are not responsible for updating Wikidata; linking to hard-coded OSM IDs is not recommended for precisely this reason. Date: 2026-03-20T21:21:51+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/165187809</link>
+        <guid>https://www.openstreetmap.org/changeset/165187809#comment_15</guid>
+        <pubDate>2026-03-20T21:21:51+01:00</pubDate>
+      </item><item>
         <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv az OSM-en! Opcionálisan megadható még office=logistics, building=warehouse és egyéb címkék, lásd a wiki oldalakat. Mik ezek pontosan? Raktárépületek vagy csak irodák? További jó térképezést! Date: 2026-03-20T15:37:12+01:00</title>
         <link>https://www.openstreetmap.org/changeset/180160804</link>
         <guid>https://www.openstreetmap.org/changeset/180160804#comment_1</guid>
