@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>The last two weeks saw a dev gathering in the black forest from several in #chatmail, #deltachat and #webxdc communiities, also joined by @n0iroh and @rpgp folks. The tech demos and hacking results we presented to each other, were pretty mind blowing and tracing a path to very interesting futures, delivered in working code, not just some grand plan. Let us just say for now that we are getting to the fun parts of an age old http://testrun.org motto :) happy #equinox! May the tides turn! Top part of the https://testrun.org web page with the motto &quot;experimenting with the future of email&quot;. Below is a dinosaur head with an open mouth about to swallow a zeppelin</title>
+        <link>https://chaos.social/@delta/116260884480487341</link>
+        <guid>https://chaos.social/@delta/116260884480487341</guid>
+        <pubDate>Fri, 20 Mar 2026 09:51:52 +0000</pubDate>
+      </item><item>
         <title>Fun funding fact: If we had 10 times more money to develop #deltachat , the #chatmail relay network and the #webxdc secure mini app ecosystem, we would still have ten times less than what signal has (let alone Whatsapp or telegram). But we don&amp;#39;t want to increase nudging people for donations, as we have many users who don&amp;#39;t even have a legal way to send us money, let alone the means. It is a special kind of reward that delta works where most if not all other messengers fail to work for users.</title>
         <link>https://chaos.social/@delta/116243542449596112</link>
         <guid>https://chaos.social/@delta/116243542449596112</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115904172329472895</link>
         <guid>https://chaos.social/@delta/115904172329472895</guid>
         <pubDate>Fri, 16 Jan 2026 09:55:17 +0000</pubDate>
-      </item><item>
-        <title>#deltachat does - no bindings to public handles/numbers - no address-book upload - not do public contact or group discovery - not have critical persistent server state (!) Social identification is private, between people though ephemeral #P2P #E2EE messages. Servers see messages with random sender and recipient addresses, but those can not be mapped to a phone number or public handle. Servers see IP addresses. But you can use Tor, or a VPN, if you want to hide that. It&amp;#39; not all bad :)</title>
-        <link>https://chaos.social/@delta/115890580397749906</link>
-        <guid>https://chaos.social/@delta/115890580397749906</guid>
-        <pubDate>Wed, 14 Jan 2026 00:18:40 +0000</pubDate>
       </item>
   </channel>
 </rss>
