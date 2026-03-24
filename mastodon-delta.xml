@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>End-to-End Encryption is good but metadata protection counts as much. Names, group descriptions and memberships, avatars, who talks to whom ... Both #deltachat and #signal go to great length to protect all the metadata that WhatsApp grants itself gratuitously. #Matrix stores similar scales of metadata on their servers, even if you can choose which server stores it. Everything is better than #Telegram which additionally stores message contents in all group chats/channels and most 1:1 chats. screenshot of artifical WhatsApp screen courtesy of @fex@cfn.social [Lock Icon] Your personal messages are end-to-end encrypted¹ But: When you message someone is saved forever. When you type is saved forever. Your approximate location is saved forever. Every profile picture is saved forever. Every status update is saved forever. Every group name is saved forever. Every group description is saved forever. Every community name is saved forever. Every community description is saved forever. Every time you join a group is saved forever. Every time you leave a group is saved forever. Every new contact is saved forever. Deleting a contact is saved forever. What you search for is saved forever. Who you call and when is saved forever. When you hang up is saved forever. When you’re online is saved forever. When you’re offline is saved forever. Every link you open is stored forever. Your phone model is stored forever. Your operating system is stored forever. Your battery level is stored forever. Your signal strength is stored forever. Your app version is stored forever. Your mobile network is stored forever. Your Wi-Fi network is stored forever. ..... Your IP addresses are stored forever. Your meta ID is stored forever. Your settings are stored forever. ¹Just in case your contacts don’t back up your messages with Google or Apple</title>
+        <link>https://chaos.social/@delta/116283784592113619</link>
+        <guid>https://chaos.social/@delta/116283784592113619</guid>
+        <pubDate>Tue, 24 Mar 2026 10:55:40 +0000</pubDate>
+      </item><item>
         <title>The last two weeks saw a dev gathering in the black forest from several in #chatmail, #deltachat and #webxdc communiities, also joined by @n0iroh and @rpgp folks. The tech demos and hacking results we presented to each other, were pretty mind blowing and tracing a path to very interesting futures, delivered in working code, not just some grand plan. Let us just say for now that we are getting to the fun parts of an age old http://testrun.org motto :) happy #equinox! May the tides turn! Top part of the https://testrun.org web page with the motto &quot;experimenting with the future of email&quot;. Below is a dinosaur head with an open mouth about to swallow a zeppelin</title>
         <link>https://chaos.social/@delta/116260884480487341</link>
         <guid>https://chaos.social/@delta/116260884480487341</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115984003374896927</link>
         <guid>https://chaos.social/@delta/115984003374896927</guid>
         <pubDate>Fri, 30 Jan 2026 12:17:22 +0000</pubDate>
-      </item><item>
-        <title>If you want to do a fun thing this weekend, maybe write a little webxdc app for your family or friends chats? There are many to fork from, see https://webxdc.org/apps and for development docs https://webxdc.org/docs And for development tooling https://GitHub.com/webxdc/webxdc-dev which simulates a multi member chat environment to run your app, before you post the zip file to a chat of yours. Everyone can start it. No app stores. No logins. No gafam. With built-in end-to-end encryption. Cheers.</title>
-        <link>https://chaos.social/@delta/115904172329472895</link>
-        <guid>https://chaos.social/@delta/115904172329472895</guid>
-        <pubDate>Fri, 16 Jan 2026 09:55:17 +0000</pubDate>
       </item>
   </channel>
 </rss>
