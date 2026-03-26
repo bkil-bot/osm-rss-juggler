@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>RE: https://pouet.chapril.org/@agenda_du_libre/116293754039872689 swiss news: a new chatmail relay https://chatsecure.ch ... hosted in denmark, however :) also there is an upocoming event in Môtiers in two days. And there was a podcast featuring delta chat last year: https://gnulinux.ch/ciw152-podcast</title>
+        <link>https://chaos.social/@delta/116294498409041721</link>
+        <guid>https://chaos.social/@delta/116294498409041721</guid>
+        <pubDate>Thu, 26 Mar 2026 08:20:20 +0000</pubDate>
+      </item><item>
         <title>End-to-End Encryption is good but metadata protection counts as much. Names, group descriptions and memberships, avatars, who talks to whom ... Both #deltachat and #signal go to great length to protect all the metadata that WhatsApp grants itself gratuitously. #Matrix stores similar scales of metadata on their servers, even if you can choose which server stores it. Everything is better than #Telegram which additionally stores message contents in all group chats/channels and most 1:1 chats. screenshot of artifical WhatsApp screen courtesy of @fex@cfn.social [Lock Icon] Your personal messages are end-to-end encrypted¹ But: When you message someone is saved forever. When you type is saved forever. Your approximate location is saved forever. Every profile picture is saved forever. Every status update is saved forever. Every group name is saved forever. Every group description is saved forever. Every community name is saved forever. Every community description is saved forever. Every time you join a group is saved forever. Every time you leave a group is saved forever. Every new contact is saved forever. Deleting a contact is saved forever. What you search for is saved forever. Who you call and when is saved forever. When you hang up is saved forever. When you’re online is saved forever. When you’re offline is saved forever. Every link you open is stored forever. Your phone model is stored forever. Your operating system is stored forever. Your battery level is stored forever. Your signal strength is stored forever. Your app version is stored forever. Your mobile network is stored forever. Your Wi-Fi network is stored forever. ..... Your IP addresses are stored forever. Your meta ID is stored forever. Your settings are stored forever. ¹Just in case your contacts don’t back up your messages with Google or Apple</title>
         <link>https://chaos.social/@delta/116283784592113619</link>
         <guid>https://chaos.social/@delta/116283784592113619</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115989664908366423</link>
         <guid>https://chaos.social/@delta/115989664908366423</guid>
         <pubDate>Sat, 31 Jan 2026 12:17:10 +0000</pubDate>
-      </item><item>
-        <title>Several of our teams will be at #fosdem26 ... we&amp;#39;ll introduce our PQC and Reliable Deletion (&amp;quot;forward secrecy&amp;quot;) efforts, and give an overview over multi-relay #chatmail architectures. Or catch us on the booth or some sunny place outside :) https://delta.chat/fosdem26.html invite link for public fosdem26 group attention: consider joining with a dedicated conference chat profile because large public groups can attract trolls. Your private profiles are safe/unaffected then. https://i.delta.chat/#6CBFF8FFD505C0FDEA20A66674F2916EA8FBEE99&amp;amp;a=invitebot%40nine.testrun.org&amp;amp;g=Fosdem%202026&amp;amp;x=AjYC5YcO-x2Uioq9ZoNPFEUh&amp;amp;i=oKBUjU_D2vbpSg0VP9tA23gv&amp;amp;s=ZfUOyrKGon_ahzU32Cej0WWw</title>
-        <link>https://chaos.social/@delta/115984003374896927</link>
-        <guid>https://chaos.social/@delta/115984003374896927</guid>
-        <pubDate>Fri, 30 Jan 2026 12:17:22 +0000</pubDate>
       </item>
   </channel>
 </rss>
