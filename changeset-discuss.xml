@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: BáthoryPéter Discussion Comment No.: 1 Comment: Szia Gyula! A https://osm.org/way/892094193 nem inkább a gyalogos aluljárórendszer része? Date: 2026-03-29T20:35:23+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/96935597</link>
+        <guid>https://www.openstreetmap.org/changeset/96935597#comment_1</guid>
+        <pubDate>2026-03-29T20:35:23+02:00</pubDate>
+      </item><item>
         <title>Contributor: iandees Discussion Comment No.: 1 Comment: Hello! I noticed that node https://www.openstreetmap.org/node/3112167062 was moved a long distance in this changeset. This is a common mistake that happens when you click on a point and drag to move the map. The point moves with your mouse instead of the map. I moved things back to where they were before in https://www.openstreetmap.org/changeset/180602492, so no harm done! To avoid this in the future: - Try to click on an empty part of the map when you want to move around - If you see a point move by mistake, press Ctrl+Z (or Cmd+Z on Mac) to undo it Happy mapping! Date: 2026-03-29T20:25:04+02:00</title>
         <link>https://www.openstreetmap.org/changeset/180600796</link>
         <guid>https://www.openstreetmap.org/changeset/180600796#comment_1</guid>
