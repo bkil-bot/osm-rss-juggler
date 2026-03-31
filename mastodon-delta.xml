@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>After three intense months of work from more than a dozen contributors, #deltachat 2.48 releases are rolling. Maybe the most feature-packed releases ever? - &amp;quot;zero metadata&amp;quot; messaging - native Audio/Video calls on Android and iOS, as well as UbuntuTouch - Group and Channel descriptions - A new background audio player - Revamped Download-on-Demand and, last but not least, the long-awaited next-generation of messaging resiliency through &amp;quot;multi-path&amp;quot; routing .... https://delta.chat/en/2026-03-31-zero</title>
+        <link>https://chaos.social/@delta/116325659705076322</link>
+        <guid>https://chaos.social/@delta/116325659705076322</guid>
+        <pubDate>Tue, 31 Mar 2026 20:25:03 +0000</pubDate>
+      </item><item>
         <title>RE: https://pouet.chapril.org/@agenda_du_libre/116293754039872689 swiss news: a new chatmail relay https://chatsecure.ch ... hosted in denmark, however :) also there is an upocoming event in Môtiers in two days. And there was a podcast featuring delta chat last year: https://gnulinux.ch/ciw152-podcast</title>
         <link>https://chaos.social/@delta/116294498409041721</link>
         <guid>https://chaos.social/@delta/116294498409041721</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115990978823335932</link>
         <guid>https://chaos.social/@delta/115990978823335932</guid>
         <pubDate>Sat, 31 Jan 2026 17:51:19 +0000</pubDate>
-      </item><item>
-        <title>Now in the #FOSDEM live stream: Holger introducing #autocrypt2, a mechanism to protect against store-now-decrypt-later attacks, to be introduced in Delta! https://live.fosdem.org/watch/k4201 More details about the talk: https://fosdem.org/2026/schedule/event/TV7GCC-autocrypt_2_post-quantum-cryptography_and_reliable_deletion_forward-secrecy/ #DeltaChat #forwardsecrey #reliabledeletion</title>
-        <link>https://chaos.social/@delta/115989664908366423</link>
-        <guid>https://chaos.social/@delta/115989664908366423</guid>
-        <pubDate>Sat, 31 Jan 2026 12:17:10 +0000</pubDate>
       </item>
   </channel>
 </rss>
