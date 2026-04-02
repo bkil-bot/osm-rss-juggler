@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Under the hood, we are using IETF Internet Messaging specifications commonly tagged as &amp;quot;email&amp;quot;. Sounds old, right? Actually there is a lot of new stuff going on! For example, #chatmail apps now fully support: - RFC9788 (&amp;quot;Header Protection&amp;quot;) to achieve minimal metadata - RFC9580 (&amp;quot;OpenPGP&amp;quot;) to use modern cryptography By comparison, &amp;quot;Messaging Layer Security (MLS)&amp;quot; has an older numbered RFC9420 (and doesn&amp;#39;t have mass-usable app releases). Maybe time to revisit old/new assumptions? :)</title>
+        <link>https://chaos.social/@delta/116334130381281758</link>
+        <guid>https://chaos.social/@delta/116334130381281758</guid>
+        <pubDate>Thu, 02 Apr 2026 08:19:16 +0000</pubDate>
+      </item><item>
         <title>After three intense months of work from more than a dozen contributors, #deltachat 2.48 releases are rolling. Maybe the most feature-packed releases ever? - &amp;quot;zero metadata&amp;quot; messaging - native Audio/Video calls on Android and iOS, as well as UbuntuTouch - Group and Channel descriptions - A new background audio player - Revamped Download-on-Demand and, last but not least, the long-awaited next-generation of messaging resiliency through &amp;quot;multi-path&amp;quot; routing .... https://delta.chat/en/2026-03-31-zero</title>
         <link>https://chaos.social/@delta/116325659705076322</link>
         <guid>https://chaos.social/@delta/116325659705076322</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/115996093737468134</link>
         <guid>https://chaos.social/@delta/115996093737468134</guid>
         <pubDate>Sun, 01 Feb 2026 15:32:06 +0000</pubDate>
-      </item><item>
-        <title>Ever wondering where the QR codes in #deltachat come from? each of them is handmade, as everything in delta :) #fosdem person drawing a QR code on a chalkboard</title>
-        <link>https://chaos.social/@delta/115990978823335932</link>
-        <guid>https://chaos.social/@delta/115990978823335932</guid>
-        <pubDate>Sat, 31 Jan 2026 17:51:19 +0000</pubDate>
       </item>
   </channel>
 </rss>
