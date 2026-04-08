@@ -3,11 +3,6 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
-        <title>First Signal, now WhatsApp is rolling out usernames -- to protect against the privacy leak of identifying phone numbers (except the tiny detail of phone numbers leaking to them). #deltachat does not require a phone number, and you can have multiple chat profiles, and fluidly change your transport servers as time goes by. By separating message transport operations from chat apps, #chatmail is designed to prevent any point of central control and ultimate resilience https://chatmail.at</title>
-        <link>https://chaos.social/@delta/116370264807283191</link>
-        <guid>https://chaos.social/@delta/116370264807283191</guid>
-        <pubDate>Wed, 08 Apr 2026 17:28:43 +0000</pubDate>
-      </item><item>
         <title>Under the hood, we are using IETF Internet Messaging specifications commonly tagged as &amp;quot;email&amp;quot;. Sounds old, right? Actually there is a lot of new stuff going on! For example, #chatmail apps now fully support: - RFC9788 (&amp;quot;Header Protection&amp;quot;) to achieve minimal metadata - RFC9580 (&amp;quot;OpenPGP&amp;quot;) to use modern cryptography By comparison, &amp;quot;Messaging Layer Security (MLS)&amp;quot; has an older numbered RFC9420 (and doesn&amp;#39;t have mass-usable app releases). Maybe time to revisit old/new assumptions? :)</title>
         <link>https://chaos.social/@delta/116334130381281758</link>
         <guid>https://chaos.social/@delta/116334130381281758</guid>
@@ -102,6 +97,11 @@
         <link>https://chaos.social/@delta/116008294211528743</link>
         <guid>https://chaos.social/@delta/116008294211528743</guid>
         <pubDate>Tue, 03 Feb 2026 19:14:50 +0000</pubDate>
+      </item><item>
+        <title>Our second #FOSDEM talk is about to start: Hocuri talks about the upcoming #multirelay profiles, which use more than one address to exchange messages! Live Stream is here: https://live.fosdem.org/watch/ud2218a Recording will be available here later: https://fosdem.org/2026/schedule/event/3F9VTU-deltachat-chatmail-relays-multi-transport/</title>
+        <link>https://chaos.social/@delta/115996093737468134</link>
+        <guid>https://chaos.social/@delta/115996093737468134</guid>
+        <pubDate>Sun, 01 Feb 2026 15:32:06 +0000</pubDate>
       </item>
   </channel>
 </rss>
