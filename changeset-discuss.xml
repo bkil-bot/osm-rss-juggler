@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Your changes from today were reverted and fixed here: https://www.openstreetmap.org/changeset/181047275 Please use the correct tags and make sure you spell the names correctly! Thanks! Date: 2026-04-08T12:34:07+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/181042678</link>
+        <guid>https://www.openstreetmap.org/changeset/181042678#comment_1</guid>
+        <pubDate>2026-04-08T12:34:07+02:00</pubDate>
+      </item><item>
         <title>Contributor: NeisBot Discussion Comment No.: 1 Comment: Hello, welcome and thank you for your contribution to OSM! Your changeset was commented because your added description, note or slogan contain detailed text that may be interpreted as promotional or SEO-related. To ensure OSM remains neutral and focused on map data, I recommend keeping descriptions concise, factual, and free from marketing or promotional language. ⚠️️ Problematic element (limit 1): https://osm.org/node/5859856952 v7 Could you please revise your text accordingly? ✅ For example, a more neutral and factual version of your text could be: &quot;treasure hunt location&quot; --- Például egy semlegesebb és tényekhez közelebb álló verzió a szövegednek lehetne: &quot;kincsvadászat helyszíne&quot; --- (Auto-translation) #MapWithoutSpam Date: 2026-04-08T09:15:46+02:00</title>
         <link>https://www.openstreetmap.org/changeset/181038116</link>
         <guid>https://www.openstreetmap.org/changeset/181038116#comment_1</guid>
@@ -82,11 +87,6 @@
         <link>https://www.openstreetmap.org/changeset/164979209</link>
         <guid>https://www.openstreetmap.org/changeset/164979209#comment_1</guid>
         <pubDate>2026-04-01T22:39:00+02:00</pubDate>
-      </item><item>
-        <title>Contributor: Wildsharky Discussion Comment No.: 1 Comment: Reverted of 180435211 Date: 2026-04-01T14:50:06+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/180517961</link>
-        <guid>https://www.openstreetmap.org/changeset/180517961#comment_1</guid>
-        <pubDate>2026-04-01T14:50:06+02:00</pubDate>
       </item>
   </channel>
 </rss>
