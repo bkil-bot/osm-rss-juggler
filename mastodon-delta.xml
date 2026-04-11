@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>the public #chatmail relay list https://chatmail.at/relays covers about ~20% or so of chat relays we heart about and have traces or hints from, and we definitely don&amp;#39;t see everything -- which is how it should be :) Best of all: you can now start using multiple relays for your chat profiles, so even if one relay goes down or is blocked temporarily, chatting continues. https://delta.chat/en/2026-03-31-zero#maximizing-availability-and-resilience-through-multi-path-delivery</title>
+        <link>https://chaos.social/@delta/116386351897862531</link>
+        <guid>https://chaos.social/@delta/116386351897862531</guid>
+        <pubDate>Sat, 11 Apr 2026 13:39:53 +0000</pubDate>
+      </item><item>
         <title>What if all public funding and all private donations to our efforts stop tomorrow? Users should be fine for years thanks to the wonderful world-wide community of #chatmail relay operators 💜 Relays are dirt cheap to run. Also, our developments are much cheaper and less complex compared to what we know from comparable efforts. No worries though! We currently have moneys to help sustain ~15 contributors, with a sum similar to what other projects pay for their foundation president/CEO alone :)</title>
         <link>https://chaos.social/@delta/116386302287243247</link>
         <guid>https://chaos.social/@delta/116386302287243247</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/116031045777422608</link>
         <guid>https://chaos.social/@delta/116031045777422608</guid>
         <pubDate>Sat, 07 Feb 2026 19:40:52 +0000</pubDate>
-      </item><item>
-        <title>It took a while but it&amp;#39;s shaping up nicely :) Post-Quantum Cryptography and Reliable Deletion, better known as Forward Secrecy, are going to become available in 2026 in #deltachat. For more details, including the recent #fosdem26 talk recording: https://autocrypt2.org</title>
-        <link>https://chaos.social/@delta/116020943524941913</link>
-        <guid>https://chaos.social/@delta/116020943524941913</guid>
-        <pubDate>Fri, 06 Feb 2026 00:51:44 +0000</pubDate>
       </item>
   </channel>
 </rss>
