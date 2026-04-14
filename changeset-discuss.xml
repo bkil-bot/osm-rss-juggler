@@ -3,15 +3,20 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 3 Comment: Antennát visszaraktam: https://www.openstreetmap.org/changeset/181323973 Date: 2026-04-14T13:47:47+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/181314126</link>
+        <guid>https://www.openstreetmap.org/changeset/181314126#comment_3</guid>
+        <pubDate>2026-04-14T13:47:47+02:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! A műszaki tárolóhelyet inkább description=* -be kéne írni, a note=* más szerkesztőknek szóló megjegyzés, felhasználók nem látják. Vagy nem tudom, lehetne-e erre találni valami jobb címkézést. További jó térképezést! Date: 2026-04-14T13:33:45+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/181285565</link>
+        <guid>https://www.openstreetmap.org/changeset/181285565#comment_1</guid>
+        <pubDate>2026-04-14T13:33:45+02:00</pubDate>
+      </item><item>
         <title>Contributor: qstep Discussion Comment No.: 1 Comment: Kedves Zsolt! Szerintem egy közösségi kertnek nincs pontos postai címe, maximum helyrajziszáma. De ahogy látom a HRSZ keresőben, a HRSZ sem csak erre a területre vonatkozik, hanem a teljes két panel közti részre. Date: 2026-04-14T13:07:50+02:00</title>
         <link>https://www.openstreetmap.org/changeset/124177380</link>
         <guid>https://www.openstreetmap.org/changeset/124177380#comment_1</guid>
         <pubDate>2026-04-14T13:07:50+02:00</pubDate>
-      </item><item>
-        <title>Contributor: Number4 Discussion Comment No.: 2 Comment: Szia! Köszönöm az infokat, a GSM antennát bambán töröltem, mert nem tudtam értelmezni a térképen, hogy milyen funkciót lát el :/ Köszönöm az infokat, a jövőben igyekszem ezek mentén módosítani a térképet! Date: 2026-04-14T12:46:51+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/181314126</link>
-        <guid>https://www.openstreetmap.org/changeset/181314126#comment_2</guid>
-        <pubDate>2026-04-14T12:46:51+02:00</pubDate>
       </item><item>
         <title>Contributor: qstep Discussion Comment No.: 1 Comment: Szia! A w1494535087 w1494539355 w1494535084 szakaszok újra létrehozásával (vagyis elődjeik törlésével) eltörtél rengeteg útvonal kapcsolatot. Kérlek, figyelj oda legközelebb jobban. Lehetőleg ne hozz létre már meglévő szakaszt újra, mert új elemként elveszik a change history. A JOSM feltöltés előtt szól, ha törött útvonal kapcsolatot talál. Javítottam: https://www.openstreetmap.org/changeset/181283175 További jó térképezést! Date: 2026-04-13T16:02:17+02:00</title>
         <link>https://www.openstreetmap.org/changeset/180660863</link>
@@ -92,11 +97,6 @@
         <link>https://www.openstreetmap.org/changeset/181004182</link>
         <guid>https://www.openstreetmap.org/changeset/181004182#comment_1</guid>
         <pubDate>2026-04-07T17:18:21+02:00</pubDate>
-      </item><item>
-        <title>Contributor: szigyi222 Discussion Comment No.: 1 Comment: Hiba csúszott a szerkesztésbe, Mátra erdei nem renderelnek. Date: 2026-04-07T16:28:12+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/180862887</link>
-        <guid>https://www.openstreetmap.org/changeset/180862887#comment_1</guid>
-        <pubDate>2026-04-07T16:28:12+02:00</pubDate>
       </item>
   </channel>
 </rss>
