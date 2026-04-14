@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv az OSM-en! Néhány megjegyzés a szerkesztéseidhez: https://www.openstreetmap.org/node/3334442611 - ezt a GSM antennát miért törölted? https://www.openstreetmap.org/node/13729608410 - a BestByte helyén nyílt a szerelvénybolt? Ha igen, akkor szerkeszd azt a pontot. Általánosságban nem törlünk pontot. Vannak lifecycle prefixek, amikkel jelöljük, ha valami megszűnt, tönkrement, elhagyatott, stb: https://wiki.openstreetmap.org/wiki/Lifecycle_prefix - Ha valami üzlet helyén másik nyílt, akkor annak a pontját szerkesztjük. Ez vonatkozik a Főkétüsz és a nem használt Főzde nevű helyre is. Ha ott van még a feliratuk, akkor lehet disused, ha teljesen üres az üzlethelyiség, akkor minden címke törölhető, de a pont nem, és lehet mondjuk shop=vacant Bár az iD editor nem jelöli, de itthon contact:*=* címkét használunk email, facebook, website, phone, stb elérhetőségekre. Date: 2026-04-14T12:16:46+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/181314126</link>
+        <guid>https://www.openstreetmap.org/changeset/181314126#comment_1</guid>
+        <pubDate>2026-04-14T12:16:46+02:00</pubDate>
+      </item><item>
         <title>Contributor: qstep Discussion Comment No.: 1 Comment: Szia! A w1494535087 w1494539355 w1494535084 szakaszok újra létrehozásával (vagyis elődjeik törlésével) eltörtél rengeteg útvonal kapcsolatot. Kérlek, figyelj oda legközelebb jobban. Lehetőleg ne hozz létre már meglévő szakaszt újra, mert új elemként elveszik a change history. A JOSM feltöltés előtt szól, ha törött útvonal kapcsolatot talál. Javítottam: https://www.openstreetmap.org/changeset/181283175 További jó térképezést! Date: 2026-04-13T16:02:17+02:00</title>
         <link>https://www.openstreetmap.org/changeset/180660863</link>
         <guid>https://www.openstreetmap.org/changeset/180660863#comment_1</guid>
