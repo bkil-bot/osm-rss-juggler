@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Jó lett, de ezen nem változtatott a szerkesztésed. Csak a vonal sarkát egy kicsit odébbhúztad. Az utca vonalának nincs címe, irányítószáma, csak a mellette levő házaknak, kapuknak, stb... Ezek a poligonok csak nagyjából vannak megrajzolva, nem számít, hogy az utca melyik oldalán mennek, csak az irányítószámmal ellátott elemek helyzetéhez képest számítanak valamennyire. De ott se ez a lényeges, egy adott cím irányítószámát inkább az addr:postcode=* értéke alapján ajánlott meghatározni. Címekről itt vannak összeszedve a legfontosabb infók: https://wiki.openstreetmap.org/wiki/Hungary/Jelölési_példák#Címek További jó térképezést! Date: 2026-04-17T20:22:18+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/181445035</link>
+        <guid>https://www.openstreetmap.org/changeset/181445035#comment_1</guid>
+        <pubDate>2026-04-17T20:22:18+02:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Óvatosan a ChatGPT használatával térképezéshez, sok butaságot is adhat, mindig ellenőrizd le nem-e hallucinált valamit. Illetve kérdéses, hogy mennyire kompatibilis a rajta keresztül kinyert adat az ODbL licensszel... Onnan tudom, hogy ezt használtad, hogy benne hagytad a linkek végén, a referenciáját: utm_source=chatgpt.com Javítottam. Date: 2026-04-17T20:03:10+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/179281035</link>
+        <guid>https://www.openstreetmap.org/changeset/179281035#comment_1</guid>
+        <pubDate>2026-04-17T20:03:10+02:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Hello Why did you change this back to the wrong tag? The wiki is quite clear which tag should be used here: &gt; It is meant for areas that have a clear direction of travel, and is used as a form of Micromapping in addition to the routable, linear way tagged as highway=pedestrian. Specifically, it is not the same as highway=pedestrian + area=yes, which represents a non-linear area, such as a square or plaza, where multi-directional travel is possible. https://wiki.openstreetmap.org/wiki/Tag:area:highway%3Dpedestrian I want to hear your rationale before I revert this change. I'm planning to go through your other similar wrong tags in the downtown, but it takes some time to clean up the intersections. If you just want to use this tagging because it's displayed on osm.org default Carto, then you should open an Issue here: https://github.com/openstreetmap-carto/openstreetmap-carto This is called tagging for the renderer and it's forbidden: https://wiki.openstreetmap.org/wiki/Tagging_for_the_renderer Happy mapping! Date: 2026-04-17T13:28:25+02:00</title>
         <link>https://www.openstreetmap.org/changeset/181402593</link>
         <guid>https://www.openstreetmap.org/changeset/181402593#comment_1</guid>
@@ -97,11 +107,6 @@
         <link>https://www.openstreetmap.org/changeset/180818661</link>
         <guid>https://www.openstreetmap.org/changeset/180818661#comment_2</guid>
         <pubDate>2026-04-10T22:50:52+02:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 3 Comment: https://www.openstreetmap.org/changeset/181169983 Date: 2026-04-10T22:22:38+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/181154468</link>
-        <guid>https://www.openstreetmap.org/changeset/181154468#comment_3</guid>
-        <pubDate>2026-04-10T22:22:38+02:00</pubDate>
       </item>
   </channel>
 </rss>
