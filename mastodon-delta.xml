@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>&amp;quot;Popularity is overrated&amp;quot; is an often occuring phrase in our circles. Which is of course nonsense because only what is popular, counts, right? Only what everybody else does is a valid choice, right? #deltachat #chatmail and #webxdc are used in private places and communities that people are molding for themselves. We are just providing tools and approaches that work ... At least most of the time 😅 &amp;quot;Nothing works all the time&amp;quot; is another project mantra. Brb preparing the next releases :) Photo of a beautiful park in the black forest where a few of us are gathering to discuss the various authoritarian tendencies in platforms, countries, infrastructures and minds ... And plotting our next steps on a beautiful sunny day with lots of green grass, violet flowery trees and shadows in the sun</title>
+        <link>https://chaos.social/@delta/116425726028408136</link>
+        <guid>https://chaos.social/@delta/116425726028408136</guid>
+        <pubDate>Sat, 18 Apr 2026 12:33:14 +0000</pubDate>
+      </item><item>
         <title>Apart from the new #Gnome effort, there also is an interesting experiment of a #Rust terminal-client with #Ratatui -- for others to start from should they feel they need some enjoyable distraction :) https://git.sakamoto.pl/j-g00da/deltarat-experiments #Chatmail clients typically use the Rust core library which provides all networking, cryptography, persistence, real-time networking, mail relay/server interop. Documentation to help with writing clients is scattered, but at least there are plenty examples to learn from.</title>
         <link>https://chaos.social/@delta/116396396863092321</link>
         <guid>https://chaos.social/@delta/116396396863092321</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/116046200493834037</link>
         <guid>https://chaos.social/@delta/116046200493834037</guid>
         <pubDate>Tue, 10 Feb 2026 11:54:54 +0000</pubDate>
-      </item><item>
-        <title>PSA: The default relay server nine.testrun.org will be down for 15-30 minutes for another migration starting 11:00 CET.</title>
-        <link>https://chaos.social/@delta/116045728965011335</link>
-        <guid>https://chaos.social/@delta/116045728965011335</guid>
-        <pubDate>Tue, 10 Feb 2026 09:54:59 +0000</pubDate>
       </item>
   </channel>
 </rss>
