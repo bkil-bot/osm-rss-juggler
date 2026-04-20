@@ -92,11 +92,6 @@
         <link>https://www.openstreetmap.org/changeset/180660863</link>
         <guid>https://www.openstreetmap.org/changeset/180660863#comment_1</guid>
         <pubDate>2026-04-13T16:02:17+02:00</pubDate>
-      </item><item>
-        <title>Contributor: iandees Discussion Comment No.: 1 Comment: Hello! I noticed that node https://www.openstreetmap.org/node/2882037938 was moved a long distance in this changeset. This is a common mistake that happens when you click on a point and drag to move the map. The point moves with your mouse instead of the map. I moved things back to where they were before in https://www.openstreetmap.org/changeset/181275877, so no harm done! To avoid this in the future: - Try to click on an empty part of the map when you want to move around - If you see a point move by mistake, press Ctrl+Z (or Cmd+Z on Mac) to undo it Happy mapping! Date: 2026-04-13T13:15:43+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/181261340</link>
-        <guid>https://www.openstreetmap.org/changeset/181261340#comment_1</guid>
-        <pubDate>2026-04-13T13:15:43+02:00</pubDate>
       </item>
   </channel>
 </rss>
