@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>This morning nine.testrun.org was briefly unavailable, some network problem. A good time to remind everyone to add a second relay to your #deltachat app: 1. Go to https://chatmail.at/relays randomly choose one of the listed relay pages and copy the invitation code to your clipboard 2. In delta chat settings go to advanced/relays and tap &amp;quot;add relay&amp;quot; and paste the invitation code 3. That&amp;#39;s it. If one relay is unavailable you still can receive and send messages. https://delta.chat/en/2026-03-31-zero#maximizing-availability-and-resilience-through-multi-path-delivery</title>
+        <link>https://chaos.social/@delta/116442985976134144</link>
+        <guid>https://chaos.social/@delta/116442985976134144</guid>
+        <pubDate>Tue, 21 Apr 2026 13:42:40 +0000</pubDate>
+      </item><item>
         <title>&amp;quot;Popularity is overrated&amp;quot; is an often occuring phrase in our circles. Which is of course nonsense because only what is popular, counts, right? Only what everybody else does is a valid choice, right? #deltachat #chatmail and #webxdc are used in private places and communities that people are molding for themselves. We are just providing tools and approaches that work ... At least most of the time 😅 &amp;quot;Nothing works all the time&amp;quot; is another project mantra. Brb preparing the next releases :) Photo of a beautiful park in the black forest where a few of us are gathering to discuss the various authoritarian tendencies in platforms, countries, infrastructures and minds ... And plotting our next steps on a beautiful sunny day with lots of green grass, violet flowery trees and shadows in the sun</title>
         <link>https://chaos.social/@delta/116425726028408136</link>
         <guid>https://chaos.social/@delta/116425726028408136</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/116047232009260552</link>
         <guid>https://chaos.social/@delta/116047232009260552</guid>
         <pubDate>Tue, 10 Feb 2026 16:17:14 +0000</pubDate>
-      </item><item>
-        <title>The migration completed successfully, everything should be back to normal now.</title>
-        <link>https://chaos.social/@delta/116046200493834037</link>
-        <guid>https://chaos.social/@delta/116046200493834037</guid>
-        <pubDate>Tue, 10 Feb 2026 11:54:54 +0000</pubDate>
       </item>
   </channel>
 </rss>
