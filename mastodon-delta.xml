@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>#deltachat user profiles are private and invisible to the public. No one can discover you, or your children, via phone numbers or any other public handle. Chat profiles exist only on user devices. No PIN and no &amp;quot;SMS verification code&amp;quot; ever asked or needed. The lack of &amp;quot;public discovery&amp;quot; also means you don&amp;#39;t auto-discover others via phone numbers or other public handles. Getting in contact with others is &amp;quot;opt in&amp;quot;: you scan a QR code or click an invite link to join a group or open a chat.</title>
+        <link>https://chaos.social/@delta/116449332528755151</link>
+        <guid>https://chaos.social/@delta/116449332528755151</guid>
+        <pubDate>Wed, 22 Apr 2026 16:36:41 +0000</pubDate>
+      </item><item>
         <title>This morning nine.testrun.org was briefly unavailable, some network problem. A good time to remind everyone to add a second relay to your #deltachat app: 1. Go to https://chatmail.at/relays randomly choose one of the listed relay pages and copy the invitation code to your clipboard 2. In delta chat settings go to advanced/relays and tap &amp;quot;add relay&amp;quot; and paste the invitation code 3. That&amp;#39;s it. If one relay is unavailable you still can receive and send messages. https://delta.chat/en/2026-03-31-zero#maximizing-availability-and-resilience-through-multi-path-delivery</title>
         <link>https://chaos.social/@delta/116442985976134144</link>
         <guid>https://chaos.social/@delta/116442985976134144</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/116047243145281315</link>
         <guid>https://chaos.social/@delta/116047243145281315</guid>
         <pubDate>Tue, 10 Feb 2026 16:20:04 +0000</pubDate>
-      </item><item>
-        <title>While platforms like #Matrix or #Signal manage user identities on a server, #DeltaChat and #Chatmail are not platforms in the classic sense. They operate without a central registry, meaning there is no central gatekeeper to grant or deny access. This setup for private messaging naturally complicates invasive age verification. Without a public registry or user discovery, there is no technical hook to verify users. #Chatmail also enforces E2EE by rejecting all unencrypted data. ... (1/3)</title>
-        <link>https://chaos.social/@delta/116047232009260552</link>
-        <guid>https://chaos.social/@delta/116047232009260552</guid>
-        <pubDate>Tue, 10 Feb 2026 16:17:14 +0000</pubDate>
       </item>
   </channel>
 </rss>
