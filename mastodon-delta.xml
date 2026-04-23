@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Making sure that deleted messages are actually deleted and unrecoverable is more involved than most folks think. The FBI could recently recover deleted Signal messages from an iOS phone because the notifications you see on your phone were stored in an extra database. Apple has now fixed this, also making #deltachat iOS users safer. Few know that so called &amp;quot;forward secrecy&amp;quot; is all about deleted messages becoming unrecoverable, see https://autocrypt2.org for our plans https://www.heise.de/en/news/FBI-extraction-of-deleted-Signal-messages-Apple-secures-iPhones-better-11269038.html</title>
+        <link>https://chaos.social/@delta/116454678188702327</link>
+        <guid>https://chaos.social/@delta/116454678188702327</guid>
+        <pubDate>Thu, 23 Apr 2026 15:16:09 +0000</pubDate>
+      </item><item>
         <title>#deltachat user profiles are private and invisible to the public. No one can discover you, or your children, via phone numbers or any other public handle. Chat profiles exist only on user devices. No PIN and no &amp;quot;SMS verification code&amp;quot; ever asked or needed. The lack of &amp;quot;public discovery&amp;quot; also means you don&amp;#39;t auto-discover others via phone numbers or other public handles. Getting in contact with others is &amp;quot;opt in&amp;quot;: you scan a QR code or click an invite link to join a group or open a chat.</title>
         <link>https://chaos.social/@delta/116449332528755151</link>
         <guid>https://chaos.social/@delta/116449332528755151</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/116047243990856779</link>
         <guid>https://chaos.social/@delta/116047243990856779</guid>
         <pubDate>Tue, 10 Feb 2026 16:20:17 +0000</pubDate>
-      </item><item>
-        <title>The total privacy of #DeltaChat has a trade-off: there is no global directory. Connecting for private messaging requires a direct QR scan or using an existing channel to exchange invite links. The hurdle is often the readiness of friends, family, or those around you to switch. However, once connected, the app is an enjoyable daily driver. It is about moving to a space where you cannot be found by strangers, but can still enjoy modern, reliable chat with those who matter. ... (2/3)</title>
-        <link>https://chaos.social/@delta/116047243145281315</link>
-        <guid>https://chaos.social/@delta/116047243145281315</guid>
-        <pubDate>Tue, 10 Feb 2026 16:20:04 +0000</pubDate>
       </item>
   </channel>
 </rss>
