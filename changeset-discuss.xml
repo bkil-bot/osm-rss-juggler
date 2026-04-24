@@ -42,16 +42,6 @@
         <link>https://www.openstreetmap.org/changeset/181539571</link>
         <guid>https://www.openstreetmap.org/changeset/181539571#comment_2</guid>
         <pubDate>2026-04-19T20:27:58+02:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Jó lett, de ezen nem változtatott a szerkesztésed. Csak a vonal sarkát egy kicsit odébbhúztad. Az utca vonalának nincs címe, irányítószáma, csak a mellette levő házaknak, kapuknak, stb... Ezek a poligonok csak nagyjából vannak megrajzolva, nem számít, hogy az utca melyik oldalán mennek, csak az irányítószámmal ellátott elemek helyzetéhez képest számítanak valamennyire. De ott se ez a lényeges, egy adott cím irányítószámát inkább az addr:postcode=* értéke alapján ajánlott meghatározni. Címekről itt vannak összeszedve a legfontosabb infók: https://wiki.openstreetmap.org/wiki/Hungary/Jelölési_példák#Címek További jó térképezést! Date: 2026-04-17T20:22:18+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/181445035</link>
-        <guid>https://www.openstreetmap.org/changeset/181445035#comment_1</guid>
-        <pubDate>2026-04-17T20:22:18+02:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Óvatosan a ChatGPT használatával térképezéshez, sok butaságot is adhat, mindig ellenőrizd le nem-e hallucinált valamit. Illetve kérdéses, hogy mennyire kompatibilis a rajta keresztül kinyert adat az ODbL licensszel... Onnan tudom, hogy ezt használtad, hogy benne hagytad a linkek végén, a referenciáját: utm_source=chatgpt.com Javítottam. Date: 2026-04-17T20:03:10+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/179281035</link>
-        <guid>https://www.openstreetmap.org/changeset/179281035#comment_1</guid>
-        <pubDate>2026-04-17T20:03:10+02:00</pubDate>
       </item>
   </channel>
 </rss>
