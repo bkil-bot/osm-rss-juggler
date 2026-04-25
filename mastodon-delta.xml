@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>&amp;quot;it&amp;#39;s always the receiver that determines the meaning of a message&amp;quot; is a famous opening quote at the first symposium on self organizing systems in Chicago, 1959. This and many other findings from those circles re-appear in our day to day discussions. We are doing next steps towards automating planet-wide decentralized onboarding, including in Internet islands, without resorting to a central list of relays. Good news: we have now officially lost track of even the number of existing relays 😂</title>
+        <link>https://chaos.social/@delta/116467452080098807</link>
+        <guid>https://chaos.social/@delta/116467452080098807</guid>
+        <pubDate>Sat, 25 Apr 2026 21:24:43 +0000</pubDate>
+      </item><item>
         <title>Making sure that deleted messages are actually deleted and unrecoverable is more involved than most folks think. The FBI could recently recover deleted Signal messages from an iOS phone because the notifications you see on your phone were stored in an extra database. Apple has now fixed this, also making #deltachat iOS users safer. Few know that so called &amp;quot;forward secrecy&amp;quot; is all about deleted messages becoming unrecoverable, see https://autocrypt2.org for our plans https://www.heise.de/en/news/FBI-extraction-of-deleted-Signal-messages-Apple-secures-iPhones-better-11269038.html</title>
         <link>https://chaos.social/@delta/116454678188702327</link>
         <guid>https://chaos.social/@delta/116454678188702327</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/116080837878761930</link>
         <guid>https://chaos.social/@delta/116080837878761930</guid>
         <pubDate>Mon, 16 Feb 2026 14:43:39 +0000</pubDate>
-      </item><item>
-        <title>#DeltaChat breaks the one app, one ID rule of phone-number-based apps by supporting multiple chat profiles. This allows for true private messaging where you can keep a public identity for the Web or Fediverse separate from a private one for family and friends. Managing multiple selves is a new experience for many, but it is key to digital autonomy. We are working to make multi-profile handling even smoother in upcoming releases to ensure switching contexts is seamless. (3/3)</title>
-        <link>https://chaos.social/@delta/116047243990856779</link>
-        <guid>https://chaos.social/@delta/116047243990856779</guid>
-        <pubDate>Tue, 10 Feb 2026 16:20:17 +0000</pubDate>
       </item>
   </channel>
 </rss>
