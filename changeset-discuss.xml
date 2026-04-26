@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: balint36 Discussion Comment No.: 2 Comment: A bontás 51+49 – 82+00 hm közé szól, de csak egy részét bontották el, a maradékra maradt a wiki által megengedett címkézés. A viszonylatos kapcsolatokkal nem szoktam aktívan foglalkozni, így nem tudom most annak mi a címkézési/nem címkézési rendszere, így ahhoz nem nyúltam. Date: 2026-04-26T15:49:33+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/175867270</link>
+        <guid>https://www.openstreetmap.org/changeset/175867270#comment_2</guid>
+        <pubDate>2026-04-26T15:49:33+02:00</pubDate>
+      </item><item>
         <title>Contributor: Tacsipacsi Discussion Comment No.: 3 Comment: Szerintem is, de erről nem tilusnet tehet, hanem a MapComplete. A https://source.mapcomplete.org/MapComplete/MapComplete/issues/2080 kb. erről szól (bár `associatedStreet`tel, nem `street`tel). Egyébként pl. a Városligeti fasort úgy kínálta fel a MapComplete, hogy a kapcsolódó `street` kapcsolaton már eleve rajta volt a `name:etymology:wikidata`… Date: 2026-04-26T12:53:58+02:00</title>
         <link>https://www.openstreetmap.org/changeset/181447737</link>
         <guid>https://www.openstreetmap.org/changeset/181447737#comment_3</guid>
@@ -32,11 +37,6 @@
         <link>https://www.openstreetmap.org/changeset/181403056</link>
         <guid>https://www.openstreetmap.org/changeset/181403056#comment_2</guid>
         <pubDate>2026-04-21T13:59:54+02:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv! A https://www.openstreetmap.org/way/1458183104 még építés alatt áll? Keresztülmegy rajta ez az S506-os vonal: https://www.openstreetmap.org/relation/8021074 Date: 2026-04-21T10:18:18+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/175867270</link>
-        <guid>https://www.openstreetmap.org/changeset/175867270#comment_1</guid>
-        <pubDate>2026-04-21T10:18:18+02:00</pubDate>
       </item><item>
         <title>Contributor: GaborKemsei Discussion Comment No.: 1 Comment: Forgot to link the source: This an official Hungarian map: They are Sas street 1/D and 1/E here. https://www.oeny.hu/oeny/hrsz-kereso/?state=JTdCJTIydHlwZSUyMiUzQTMlMkMlMjJ4JTIyJTNBNTkzMTA4LjIzNSUyQyUyMnklMjIlM0E4NzEwOS4xMTA5Mzc1MDAwMSU3RA== Date: 2026-04-20T14:10:28+02:00</title>
         <link>https://www.openstreetmap.org/changeset/181585074</link>
