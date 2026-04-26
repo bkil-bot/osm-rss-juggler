@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: qstep Discussion Comment No.: 2 Comment: Ehhez kiegészítésül hozzátenném, hogy a szebb megoldás az lenne, ha az utcák szakaszait type=street relációba foglalnánk, és az a reláció kapna name:etymology:*=* és egyéb címkéket. Date: 2026-04-26T12:06:08+02:00</title>
+        <title>Contributor: Tacsipacsi Discussion Comment No.: 3 Comment: Szerintem is, de erről nem tilusnet tehet, hanem a MapComplete. A https://source.mapcomplete.org/MapComplete/MapComplete/issues/2080 kb. erről szól (bár `associatedStreet`tel, nem `street`tel). Egyébként pl. a Városligeti fasort úgy kínálta fel a MapComplete, hogy a kapcsolódó `street` kapcsolaton már eleve rajta volt a `name:etymology:wikidata`… Date: 2026-04-26T12:53:58+02:00</title>
         <link>https://www.openstreetmap.org/changeset/181447737</link>
-        <guid>https://www.openstreetmap.org/changeset/181447737#comment_2</guid>
-        <pubDate>2026-04-26T12:06:08+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/181447737#comment_3</guid>
+        <pubDate>2026-04-26T12:53:58+02:00</pubDate>
       </item><item>
         <title>Contributor: qstep Discussion Comment No.: 4 Comment: Az információkat a https://www.jankayiskola.hu/ és https://www.szlovak-bcs.edu.hu/ weboldalakról szedtem. A házszámokat említette a https://www.openstreetmap.org/note/4464750 jegyzet és ugyanígy szerepelnek az iskola által közzétett Szervezeti és Működési Szabályzatban is: https://www.jankayiskola.hu/dokumentumok/SZMSZ.pdf A HRSZ kereső szerint az egész w713107972 terület házszáma 1. Mit hagytam ki? Date: 2026-04-24T22:30:36+02:00</title>
         <link>https://www.openstreetmap.org/changeset/181772648</link>
