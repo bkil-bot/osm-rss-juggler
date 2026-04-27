@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: BáthoryPéter Discussion Comment No.: 4 Comment: Thanks for the research! I modified the tags accordingly in https://www.openstreetmap.org/changeset/181875366 Date: 2026-04-27T06:55:28+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/181569587</link>
+        <guid>https://www.openstreetmap.org/changeset/181569587#comment_4</guid>
+        <pubDate>2026-04-27T06:55:28+02:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Already mapped: https://www.openstreetmap.org/node/10315073313 Please update your map data. Reverted https://www.openstreetmap.org/changeset/181864447 Date: 2026-04-26T20:56:06+02:00</title>
         <link>https://www.openstreetmap.org/changeset/181857627</link>
         <guid>https://www.openstreetmap.org/changeset/181857627#comment_1</guid>
@@ -27,11 +32,6 @@
         <link>https://www.openstreetmap.org/changeset/181768798</link>
         <guid>https://www.openstreetmap.org/changeset/181768798#comment_1</guid>
         <pubDate>2026-04-24T14:31:36+02:00</pubDate>
-      </item><item>
-        <title>Contributor: mueschel Discussion Comment No.: 3 Comment: Hi, thanks! We somehow never managed to define a proper scheme for fixed coordinates of survey points... There are various things, mostly from one-time imports. On two nodes I found this scheme, which seems quite self explanatory and useful: survey:datum:EPSG = 21037 survey:easting = 207702.062 survey:northing = 9970033.323 Date: 2026-04-22T10:17:44+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/181569587</link>
-        <guid>https://www.openstreetmap.org/changeset/181569587#comment_3</guid>
-        <pubDate>2026-04-22T10:17:44+02:00</pubDate>
       </item><item>
         <title>Contributor: Tandari Róbert Discussion Comment No.: 2 Comment: Ez egy létező útszakasz, új építési telkek kialakítása kezdődött ezen a területen. Date: 2026-04-22T05:26:17+02:00</title>
         <link>https://www.openstreetmap.org/changeset/171616859</link>
