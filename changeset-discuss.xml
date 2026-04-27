@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: Tacsipacsi Discussion Comment No.: 5 Comment: &gt; Ennél fogva hasznosabb ha az adatbázis megjelöli, hogy a Báthory utca egy történelmi jelentőségű családhoz fűződik, azzal szemben, hogy nem jelöl meg semmit. Az a baj, hogy az adatbázis a módosításaid után nem azt jelöli meg, hogy a családhoz *fűződik*, hanem hogy arról van elnevezve. Mint a Rákóczi híd, ami kifejezetten a „jeles magyar történelmi családról“ (idézet a 2011. IV. 27-i közgyűlés előterjesztéséből) van elnevezve, és nem annak egy tagjáról. Ahova te beírtad, ott viszont nem &gt;90%-os bizonyosságú, hogy magáról a családról van elnevezve, sőt, az említett http://adatvizualizacio.bparchiv.hu/budapestiutcanevek/ mind a négy általam kiemelt utcához konkrét személyt rendel. És az sem jó szerintem, hogy csak utólagos kérdésre derült ki, hogy miből is dolgoztál. Nem tudom, hogy ez a MapComplete hiányossága-e, de mindenképpen jó lenne feltüntetni rögtön a módosításkor – ha a MapComplete máshogy nem engedi, akkor úgy, hogy a friss módosításcsomagodra rögtön írsz egy hozzászólást a forrásokkal. &gt; A relációkról szóló hozzászólasok is helyénvalók, ezek számomra inkább technikai vonatkozásúak és utómunkával (postprocessing) javíthatók. Ebben egyetértek, én szándékosan nem is emlegettem fel ezt a problémát az első hozzászólásomban. Date: 2026-04-27T14:24:38+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/181447737</link>
+        <guid>https://www.openstreetmap.org/changeset/181447737#comment_5</guid>
+        <pubDate>2026-04-27T14:24:38+02:00</pubDate>
+      </item><item>
         <title>Contributor: Wort Discussion Comment No.: 2 Comment: Thank you Date: 2026-04-27T07:56:22+02:00</title>
         <link>https://www.openstreetmap.org/changeset/181857627</link>
         <guid>https://www.openstreetmap.org/changeset/181857627#comment_2</guid>
@@ -22,11 +27,6 @@
         <link>https://www.openstreetmap.org/changeset/175867270</link>
         <guid>https://www.openstreetmap.org/changeset/175867270#comment_2</guid>
         <pubDate>2026-04-26T15:49:33+02:00</pubDate>
-      </item><item>
-        <title>Contributor: Tacsipacsi Discussion Comment No.: 3 Comment: Szerintem is, de erről nem tilusnet tehet, hanem a MapComplete. A https://source.mapcomplete.org/MapComplete/MapComplete/issues/2080 kb. erről szól (bár `associatedStreet`tel, nem `street`tel). Egyébként pl. a Városligeti fasort úgy kínálta fel a MapComplete, hogy a kapcsolódó `street` kapcsolaton már eleve rajta volt a `name:etymology:wikidata`… Date: 2026-04-26T12:53:58+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/181447737</link>
-        <guid>https://www.openstreetmap.org/changeset/181447737#comment_3</guid>
-        <pubDate>2026-04-26T12:53:58+02:00</pubDate>
       </item><item>
         <title>Contributor: qstep Discussion Comment No.: 4 Comment: Az információkat a https://www.jankayiskola.hu/ és https://www.szlovak-bcs.edu.hu/ weboldalakról szedtem. A házszámokat említette a https://www.openstreetmap.org/note/4464750 jegyzet és ugyanígy szerepelnek az iskola által közzétett Szervezeti és Működési Szabályzatban is: https://www.jankayiskola.hu/dokumentumok/SZMSZ.pdf A HRSZ kereső szerint az egész w713107972 terület házszáma 1. Mit hagytam ki? Date: 2026-04-24T22:30:36+02:00</title>
         <link>https://www.openstreetmap.org/changeset/181772648</link>
