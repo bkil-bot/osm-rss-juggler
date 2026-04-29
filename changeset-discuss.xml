@@ -3,10 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv! Biztos, hogy kettő van egymás mellett? Date: 2026-04-29T18:41:46+02:00</title>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Szentmihályi úton melyik irányba mér a kamera? mindkettő? Date: 2026-04-29T20:02:15+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/181994014</link>
+        <guid>https://www.openstreetmap.org/changeset/181994014#comment_1</guid>
+        <pubDate>2026-04-29T20:02:15+02:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 6 Comment: Lényegtelen, már szerepel a térképen: https://www.openstreetmap.org/node/12434318922 Mindjárt törlöm a próbálkozásaidat. Date: 2026-04-29T19:56:58+02:00</title>
         <link>https://www.openstreetmap.org/changeset/181991279</link>
-        <guid>https://www.openstreetmap.org/changeset/181991279#comment_1</guid>
-        <pubDate>2026-04-29T18:41:46+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/181991279#comment_6</guid>
+        <pubDate>2026-04-29T19:56:58+02:00</pubDate>
       </item><item>
         <title>Contributor: iandees Discussion Comment No.: 1 Comment: Hello! I noticed that node https://www.openstreetmap.org/node/2091943616 was moved a long distance in this changeset. This is a common mistake that happens when you click on a point and drag to move the map. The point moves with your mouse instead of the map. I moved things back to where they were before in https://www.openstreetmap.org/changeset/181987485, so no harm done! To avoid this in the future: - Try to click on an empty part of the map when you want to move around - If you see a point move by mistake, press Ctrl+Z (or Cmd+Z on Mac) to undo it Happy mapping! Date: 2026-04-29T12:58:21+02:00</title>
         <link>https://www.openstreetmap.org/changeset/181984977</link>
