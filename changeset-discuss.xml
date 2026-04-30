@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: Jules1971 Discussion Comment No.: 2 Comment: Hello! Sorry for the mistake. That was unintentional. Thanks for the correction. Date: 2026-04-30T04:51:32+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/181984977</link>
+        <guid>https://www.openstreetmap.org/changeset/181984977#comment_2</guid>
+        <pubDate>2026-04-30T04:51:32+02:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 7 Comment: Javítva: https://www.openstreetmap.org/changeset/182007060 Date: 2026-04-29T20:33:32+02:00</title>
         <link>https://www.openstreetmap.org/changeset/181991279</link>
         <guid>https://www.openstreetmap.org/changeset/181991279#comment_7</guid>
@@ -12,11 +17,6 @@
         <link>https://www.openstreetmap.org/changeset/181994014</link>
         <guid>https://www.openstreetmap.org/changeset/181994014#comment_2</guid>
         <pubDate>2026-04-29T20:33:16+02:00</pubDate>
-      </item><item>
-        <title>Contributor: iandees Discussion Comment No.: 1 Comment: Hello! I noticed that node https://www.openstreetmap.org/node/2091943616 was moved a long distance in this changeset. This is a common mistake that happens when you click on a point and drag to move the map. The point moves with your mouse instead of the map. I moved things back to where they were before in https://www.openstreetmap.org/changeset/181987485, so no harm done! To avoid this in the future: - Try to click on an empty part of the map when you want to move around - If you see a point move by mistake, press Ctrl+Z (or Cmd+Z on Mac) to undo it Happy mapping! Date: 2026-04-29T12:58:21+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/181984977</link>
-        <guid>https://www.openstreetmap.org/changeset/181984977#comment_1</guid>
-        <pubDate>2026-04-29T12:58:21+02:00</pubDate>
       </item><item>
         <title>Contributor: tilusnet Discussion Comment No.: 6 Comment: Írhattam volna azt is, hogy &quot;a Báthory utca egy történelmi jelentőségű családról van *elnevezve* &quot; - gyakorlati szempontból elenyésző különbséget látok a kettő között. Úgy gondolom, hogy a hierarchizált fogalmaknál a gyakorlati szempont sokkal erősebb, mint a tűpontossághoz kötött adatbeviteli feltétel. Például ha nem tudnám, hogy a kakadu egy papagájfajta, csak annyit, hogy egy madárfajta, szerintem hasznosabb eljárás megjelölni a madárfajtát, mint nem jelölni meg semmit. A fenti példák hasonlóak: lehet, hogy egy Báthory utca egy bizonyos Báthory családtagról volt elnevezve az önkormányzati ülésen, de ha ez az információ nem hozzáférhető, hasznosabb az ennél tágabb, de bizonyos fogalomhoz kötni a nevet, mint nem kötni semmihez. Az OSM adatok rendeltetése az általános értelemben vett hasznosság, nem az önkormányzati döntések tűpontos rekonstruálása. Az adatbevitel egy dinamikus organikus folyamat, az adatoknak a fogalmak legpontosabb asszociálását kell tükrözniük egy adott időben a rendelkezésre álló információk és tudás alapján, ami nem feltétlenül az abszolút értelemben vett lehető legpontosabb információ. Lehet, hogy egy &quot;jó&quot; adat nem a &quot;legjobb&quot; adat, de leggyakrabban sokkal jobb, mint a hiányzó adat. A MapComplete eszközzel kapcsolatban: egyetértek, ideális lenne minden esetben csatoltatni a forrást is, de megint a gyakorlati szempont nyer: ha az eszköz ezt nem könnyíti meg és a plusz erőfeszítés miatt tízszer kevesebb jó adat kerülne be akkor a hasznosság mellett döntök és az adatbevitel oldalára billen a mérleg. Mindezekkel tisztázni akartam a szempontjaimat és mindenképpen értékelem a konstruktív visszajelzést. Date: 2026-04-27T17:01:45+02:00</title>
         <link>https://www.openstreetmap.org/changeset/181447737</link>
