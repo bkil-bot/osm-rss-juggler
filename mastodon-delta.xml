@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>We’ve been busy building and releasing but it’s high time to share some major news: @sovtechfund is investing nearly €500K into #chatmail This 18-month commitment supports chatmail maintainers keeping the core infrastructure secure and evolving, which is the backbone for: #DeltaChat @arcanechat @deltatouch Parla on Gnome (cc @pancake ) and many chat bots A huge thank you to the Sovereign Tech Fund for investing in open, secure and decentralized communication! https://www.sovereign.tech/tech/chatmail</title>
+        <link>https://chaos.social/@delta/116505223145222985</link>
+        <guid>https://chaos.social/@delta/116505223145222985</guid>
+        <pubDate>Sat, 02 May 2026 13:30:24 +0000</pubDate>
+      </item><item>
         <title>&amp;quot;it&amp;#39;s always the receiver that determines the meaning of a message&amp;quot; is a famous opening quote at the first symposium on self organizing systems in Chicago, 1959. This and many other findings from those circles re-appear in our day to day discussions. We are doing next steps towards automating planet-wide decentralized onboarding, including in Internet islands, without resorting to a central list of relays. Good news: we have now officially lost track of even the number of existing relays 😂</title>
         <link>https://chaos.social/@delta/116467452080098807</link>
         <guid>https://chaos.social/@delta/116467452080098807</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/116109524444807544</link>
         <guid>https://chaos.social/@delta/116109524444807544</guid>
         <pubDate>Sat, 21 Feb 2026 16:19:01 +0000</pubDate>
-      </item><item>
-        <title>The recordings of our #FOSDEM talks are both released by now :) Saturday&amp;#39;s talk about #autocrypt2: https://fosdem.org/2026/schedule/event/TV7GCC-autocrypt_2_post-quantum-cryptography_and_reliable_deletion_forward-secrecy/ Sunday&amp;#39;s talk about the #multirelay future: https://fosdem.org/2026/schedule/event/3F9VTU-deltachat-chatmail-relays-multi-transport/ #DeltaChat #Chatmail</title>
-        <link>https://chaos.social/@delta/116080837878761930</link>
-        <guid>https://chaos.social/@delta/116080837878761930</guid>
-        <pubDate>Mon, 16 Feb 2026 14:43:39 +0000</pubDate>
       </item>
   </channel>
 </rss>
