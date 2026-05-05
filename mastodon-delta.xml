@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Congrats to @protonprivacy for beating us on introducing Post-Quantum Cryptography into mail messaging! No worries. We&amp;#39;ll implement https://autocrypt2.org which additionally offers reliable deletion / forward secrecy during 2026 :) We are working with Proton cryptographers on OpenPGP specifications, and they are now moving towards using @rpgp , the end-to-end encryption we are using. Everything will be based on RFC9580 (#OpenPGP v6) ... the eocsystem is moving :) https://proton.me/blog/introducing-post-quantum-encryption</title>
+        <link>https://chaos.social/@delta/116521647948304359</link>
+        <guid>https://chaos.social/@delta/116521647948304359</guid>
+        <pubDate>Tue, 05 May 2026 11:07:27 +0000</pubDate>
+      </item><item>
         <title>RE: https://chaos.social/@delta/116505223145222985 All of the advances in #deltachat apps and the growth of the #chatmail relay network, wouldn&amp;#39;t be possible without public funds and private donations, an estimated 800K EUR in 2026 ❤️ money goes to ~16 FOSS contributors with no money left for president, board or director salaries 🖤 Signal uses &amp;gt;50 Million per year, Telegram and Whatsapp 100&amp;#39;s Millions, and they are all not building permission-free decentralized chat infra and apps, let alone secure mini app ecosystems https://webxdc.org</title>
         <link>https://chaos.social/@delta/116506358544260590</link>
         <guid>https://chaos.social/@delta/116506358544260590</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/116235677524422209</link>
         <guid>https://chaos.social/@delta/116235677524422209</guid>
         <pubDate>Sun, 15 Mar 2026 23:01:24 +0000</pubDate>
-      </item><item>
-        <title>Our strong focus on end to end encryption and zero metadata does mean that one of the original project notions of &amp;quot;you can use delta chat as a lightweight cleartext email client and your contacts don&amp;#39;t need to care&amp;quot; was deprioritized since some time now and remains available rather for specialists only. It used to be encrypted mail that was hard to do and only for experts. Delta kind of reversed this. Now it&amp;#39;s hard to do cleartext. But you can self host your mailbox addresses. No changes there!</title>
-        <link>https://chaos.social/@delta/116147963087728051</link>
-        <guid>https://chaos.social/@delta/116147963087728051</guid>
-        <pubDate>Sat, 28 Feb 2026 11:14:28 +0000</pubDate>
       </item>
   </channel>
 </rss>
