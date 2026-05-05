@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>We don&amp;#39;t think any institution or state has the right to prevent families and friends from private chatting, physically or digitally. But the Cyber Authority China (CaC) seems to take offense: - they made Apple remove #deltachat iOS for mainland china - their great firewall appears to block some #chatmail relays - if you ask DeepSeek directly about Delta Chat, it doesn&amp;#39;t want to talk It&amp;#39;s pretty sad, really. Everybody on this planet needs, and has a human right to private communication. DeepSeek conversation snapshot: can you tell me about Delta Chat? &gt; Sorry, that's beyond my current scope. Let's talk about something else. what??? why??? Delta Chat the open source messenger app &gt; Sorry, that's beyond my current scope. Let's talk about something else.</title>
+        <link>https://chaos.social/@delta/116523596432350955</link>
+        <guid>https://chaos.social/@delta/116523596432350955</guid>
+        <pubDate>Tue, 05 May 2026 19:22:58 +0000</pubDate>
+      </item><item>
         <title>Congrats to @protonprivacy for beating us on introducing Post-Quantum Cryptography into mail messaging! No worries. We&amp;#39;ll implement https://autocrypt2.org which additionally offers reliable deletion / forward secrecy during 2026 :) We are working with Proton cryptographers on OpenPGP specifications, and they are now moving towards using @rpgp , the end-to-end encryption we are using. Everything will be based on RFC9580 (#OpenPGP v6) ... the eocsystem is moving :) https://proton.me/blog/introducing-post-quantum-encryption</title>
         <link>https://chaos.social/@delta/116521647948304359</link>
         <guid>https://chaos.social/@delta/116521647948304359</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/116243542449596112</link>
         <guid>https://chaos.social/@delta/116243542449596112</guid>
         <pubDate>Tue, 17 Mar 2026 08:21:34 +0000</pubDate>
-      </item><item>
-        <title>OH in some chaos circles &amp;quot;#deltachat is the new emacs of operating systems&amp;quot; ... We are not sure about that 😂 but what we do know is we are soon bringing out releases that we have been working towards for 12 months in multiple already released steps. The funniest thing? Nothing changes on the surface which was precisely what we worked for so long ... more soon, after internal testing and some pending bug fixes land :) and no worries, there will also be interesting visible changes. Stay tuned :)</title>
-        <link>https://chaos.social/@delta/116235677524422209</link>
-        <guid>https://chaos.social/@delta/116235677524422209</guid>
-        <pubDate>Sun, 15 Mar 2026 23:01:24 +0000</pubDate>
       </item>
   </channel>
 </rss>
