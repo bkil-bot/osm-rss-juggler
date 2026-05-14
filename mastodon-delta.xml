@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Good news among the bad news! If the recent #0day attacks against Linux kernel+servers were launched against #chatmail relays, privacy of chatting with #deltachat is preserved. Why? Because we already assume the server could be actively hostile, and still not read or see any avatar, names or messages. Since the March 2.48 zero-metadata releases relays/servers do not see cryptographic identities, and get no chance to launch &amp;quot;machine-in-the-middle&amp;quot; (MITM) attacks. https://delta.chat/en/2026-03-31-zero</title>
+        <link>https://chaos.social/@delta/116572644648127899</link>
+        <guid>https://chaos.social/@delta/116572644648127899</guid>
+        <pubDate>Thu, 14 May 2026 11:16:35 +0000</pubDate>
+      </item><item>
         <title>We don&amp;#39;t think any institution or state has the right to prevent families and friends from private chatting, physically or digitally. But the Cyber Authority China (CaC) seems to take offense: - they made Apple remove #deltachat iOS for mainland china - their great firewall appears to block some #chatmail relays - if you ask DeepSeek directly about Delta Chat, it doesn&amp;#39;t want to talk It&amp;#39;s pretty sad, really. Everybody on this planet needs, and has a human right to private communication. DeepSeek conversation snapshot: can you tell me about Delta Chat? &gt; Sorry, that's beyond my current scope. Let's talk about something else. what??? why??? Delta Chat the open source messenger app &gt; Sorry, that's beyond my current scope. Let's talk about something else.</title>
         <link>https://chaos.social/@delta/116523596432350955</link>
         <guid>https://chaos.social/@delta/116523596432350955</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/116260884480487341</link>
         <guid>https://chaos.social/@delta/116260884480487341</guid>
         <pubDate>Fri, 20 Mar 2026 09:51:52 +0000</pubDate>
-      </item><item>
-        <title>Fun funding fact: If we had 10 times more money to develop #deltachat , the #chatmail relay network and the #webxdc secure mini app ecosystem, we would still have ten times less than what signal has (let alone Whatsapp or telegram). But we don&amp;#39;t want to increase nudging people for donations, as we have many users who don&amp;#39;t even have a legal way to send us money, let alone the means. It is a special kind of reward that delta works where most if not all other messengers fail to work for users.</title>
-        <link>https://chaos.social/@delta/116243542449596112</link>
-        <guid>https://chaos.social/@delta/116243542449596112</guid>
-        <pubDate>Tue, 17 Mar 2026 08:21:34 +0000</pubDate>
       </item>
   </channel>
 </rss>
