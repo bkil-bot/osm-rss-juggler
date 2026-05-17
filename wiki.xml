@@ -3,6 +3,11 @@
   <channel>
     <title>Wiki (via bkil-bot)</title>
       <item>
+        <title>Közép-Magyarország: Fix linter errors by simplifying page structure and update for dark mode compatibility -RScholar</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=K%C3%B6z%C3%A9p-Magyarorsz%C3%A1g&amp;diff=3040392&amp;oldid=1952445</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=K%C3%B6z%C3%A9p-Magyarorsz%C3%A1g&amp;diff=3040392</guid>
+        <pubDate>Sun, 17 May 2026 10:59:45 GMT</pubDate>
+      </item><item>
         <title>Template:Hu:NavMenu: Fix whitespace parsing linter error due to nested span tags -RScholar</title>
         <link>https://wiki.openstreetmap.org/w/index.php?title=Template:Hu:NavMenu&amp;diff=3040358&amp;oldid=2900885</link>
         <guid>https://wiki.openstreetmap.org/w/index.php?title=Template:Hu:NavMenu&amp;diff=3040358</guid>
