@@ -2,11 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      <item>
-        <title>Közép-Magyarország: Fix linter errors by simplifying page structure and update for dark mode compatibility -RScholar</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=K%C3%B6z%C3%A9p-Magyarorsz%C3%A1g&amp;diff=3040392&amp;oldid=1952445</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=K%C3%B6z%C3%A9p-Magyarorsz%C3%A1g&amp;diff=3040392</guid>
-        <pubDate>Sun, 17 May 2026 10:59:45 GMT</pubDate>
-      </item>
+      
   </channel>
 </rss>
