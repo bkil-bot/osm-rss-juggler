@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>While onboarding is extremely easy, the real challenge is to find initial contacts or circles to chat with. There is no discovery and no central registry. Every new chat profile is private and nobody knows about it other than your contacts. So we are curious. What is the current number of chats (1:1 or group chats or channels) you have with #deltachat apps? Not contacts but chats you have read or wrote something into, in the last months. below 5 below 10 below 30 don&amp;#39;t ask, too many</title>
+        <link>https://chaos.social/@delta/116605626368696989</link>
+        <guid>https://chaos.social/@delta/116605626368696989</guid>
+        <pubDate>Wed, 20 May 2026 07:04:16 +0000</pubDate>
+      </item><item>
         <title>Good news among the bad news! If the recent #0day attacks against Linux kernel+servers were launched against #chatmail relays, privacy of chatting with #deltachat is preserved. Why? Because we already assume the server could be actively hostile, and still not read or see any avatar, names or messages. Since the March 2.48 zero-metadata releases relays/servers do not see cryptographic identities, and get no chance to launch &amp;quot;machine-in-the-middle&amp;quot; (MITM) attacks. https://delta.chat/en/2026-03-31-zero</title>
         <link>https://chaos.social/@delta/116572644648127899</link>
         <guid>https://chaos.social/@delta/116572644648127899</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/116283784592113619</link>
         <guid>https://chaos.social/@delta/116283784592113619</guid>
         <pubDate>Tue, 24 Mar 2026 10:55:40 +0000</pubDate>
-      </item><item>
-        <title>The last two weeks saw a dev gathering in the black forest from several in #chatmail, #deltachat and #webxdc communiities, also joined by @n0iroh and @rpgp folks. The tech demos and hacking results we presented to each other, were pretty mind blowing and tracing a path to very interesting futures, delivered in working code, not just some grand plan. Let us just say for now that we are getting to the fun parts of an age old http://testrun.org motto :) happy #equinox! May the tides turn! Top part of the https://testrun.org web page with the motto &quot;experimenting with the future of email&quot;. Below is a dinosaur head with an open mouth about to swallow a zeppelin</title>
-        <link>https://chaos.social/@delta/116260884480487341</link>
-        <guid>https://chaos.social/@delta/116260884480487341</guid>
-        <pubDate>Fri, 20 Mar 2026 09:51:52 +0000</pubDate>
       </item>
   </channel>
 </rss>
