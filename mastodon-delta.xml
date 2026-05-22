@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>The tale of &amp;quot;convenience&amp;quot; is a bit of a trick. A lot of corporate provided services maybe were somewhat convenient a decade ago, but they are now increasingly authoritarian, and people tend to ignore how much time they steal. Total number of hours spent solving captchas or consent screens with #deltachat #chatmail and #webxdc apps: 0 (zero). Nada. Zilch. Compare with the estimated 819 million hours which humans spent with Google&amp;#39;s recaptcha alone https://boingboing.net/2025/02/07/recaptcha-819-million-hours-of-wasted-human-time-and-billions-of-dollars-google-profit.html</title>
+        <link>https://chaos.social/@delta/116619682754517644</link>
+        <guid>https://chaos.social/@delta/116619682754517644</guid>
+        <pubDate>Fri, 22 May 2026 18:38:59 +0000</pubDate>
+      </item><item>
         <title>While onboarding is extremely easy, the real challenge is to find initial contacts or circles to chat with. There is no discovery and no central registry. Every new chat profile is private and nobody knows about it other than your contacts. So we are curious. What is the current number of chats (1:1 or group chats or channels) you have with #deltachat apps? Not contacts but chats you have read or wrote something into, in the last months. If you are not using delta, please ignore this poll :) below 5 below 10 below 30 don&amp;#39;t ask, too many</title>
         <link>https://chaos.social/@delta/116605626368696989</link>
         <guid>https://chaos.social/@delta/116605626368696989</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/116294498409041721</link>
         <guid>https://chaos.social/@delta/116294498409041721</guid>
         <pubDate>Thu, 26 Mar 2026 08:20:20 +0000</pubDate>
-      </item><item>
-        <title>End-to-End Encryption is good but metadata protection counts as much. Names, group descriptions and memberships, avatars, who talks to whom ... Both #deltachat and #signal go to great length to protect all the metadata that WhatsApp grants itself gratuitously. #Matrix stores similar scales of metadata on their servers, even if you can choose which server stores it. Everything is better than #Telegram which additionally stores message contents in all group chats/channels and most 1:1 chats. screenshot of artifical WhatsApp screen courtesy of @fex@cfn.social [Lock Icon] Your personal messages are end-to-end encrypted¹ But: When you message someone is saved forever. When you type is saved forever. Your approximate location is saved forever. Every profile picture is saved forever. Every status update is saved forever. Every group name is saved forever. Every group description is saved forever. Every community name is saved forever. Every community description is saved forever. Every time you join a group is saved forever. Every time you leave a group is saved forever. Every new contact is saved forever. Deleting a contact is saved forever. What you search for is saved forever. Who you call and when is saved forever. When you hang up is saved forever. When you’re online is saved forever. When you’re offline is saved forever. Every link you open is stored forever. Your phone model is stored forever. Your operating system is stored forever. Your battery level is stored forever. Your signal strength is stored forever. Your app version is stored forever. Your mobile network is stored forever. Your Wi-Fi network is stored forever. ..... Your IP addresses are stored forever. Your meta ID is stored forever. Your settings are stored forever. ¹Just in case your contacts don’t back up your messages with Google or Apple</title>
-        <link>https://chaos.social/@delta/116283784592113619</link>
-        <guid>https://chaos.social/@delta/116283784592113619</guid>
-        <pubDate>Tue, 24 Mar 2026 10:55:40 +0000</pubDate>
       </item>
   </channel>
 </rss>
