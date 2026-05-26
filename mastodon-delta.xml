@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Reminder: There are no accounts in the classic sense anywhere with #chatmail or #deltachat. It&amp;#39;s all private profiles on end user devices which co-ordinate in a #p2p fashion. Chat profiles *use* email (relay) addresses for transporting messages through a federated e2ee-restricted SMTP network. A chat profile or chat group has zero data on the server. It&amp;#39;s radically different from classic email servers, Whatsapp, Signal, XMPP and Matrix servers which host and control chat identity. Neo-spoon meme (scene from matrix movie where neo looks at a child bending a spoon which eventually tells him &quot;there is no spoon&quot;) with the following words top: &quot;On which server is your account?&quot; and below the bending spoon &quot;there is no account.&quot;</title>
+        <link>https://chaos.social/@delta/116643008494947870</link>
+        <guid>https://chaos.social/@delta/116643008494947870</guid>
+        <pubDate>Tue, 26 May 2026 21:31:02 +0000</pubDate>
+      </item><item>
         <title>The tale of &amp;quot;convenience&amp;quot; is a bit of a trick. A lot of corporate provided services maybe were somewhat convenient a decade ago, but they are now increasingly authoritarian, and people tend to ignore how much time they steal. Total number of hours spent solving captchas or consent screens with #deltachat #chatmail and #webxdc apps: 0 (zero). Nada. Zilch. Compare with the estimated 819 million hours which humans spent with Google&amp;#39;s recaptcha alone https://boingboing.net/2025/02/07/recaptcha-819-million-hours-of-wasted-human-time-and-billions-of-dollars-google-profit.html</title>
         <link>https://chaos.social/@delta/116619682754517644</link>
         <guid>https://chaos.social/@delta/116619682754517644</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/116325659705076322</link>
         <guid>https://chaos.social/@delta/116325659705076322</guid>
         <pubDate>Tue, 31 Mar 2026 20:25:03 +0000</pubDate>
-      </item><item>
-        <title>RE: https://pouet.chapril.org/@agenda_du_libre/116293754039872689 swiss news: a new chatmail relay https://chatsecure.ch ... hosted in denmark, however :) also there is an upocoming event in Môtiers in two days. And there was a podcast featuring delta chat last year: https://gnulinux.ch/ciw152-podcast</title>
-        <link>https://chaos.social/@delta/116294498409041721</link>
-        <guid>https://chaos.social/@delta/116294498409041721</guid>
-        <pubDate>Thu, 26 Mar 2026 08:20:20 +0000</pubDate>
       </item>
   </channel>
 </rss>
