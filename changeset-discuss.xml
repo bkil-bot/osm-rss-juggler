@@ -3,15 +3,20 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: vasony Discussion Comment No.: 2 Comment: Hol van eltérés? oeny hrsz rétegen mi van? Date: 2026-06-01T11:15:20+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/140092823</link>
+        <guid>https://www.openstreetmap.org/changeset/140092823#comment_2</guid>
+        <pubDate>2026-06-01T11:15:20+02:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 3 Comment: Szia, az általános wc-k címkéje amenity=toilets ID szerkesztőben (amit használsz) a neve 'Mosdó, vécé' Viszont üzemeltetőtől jövő adatokat nem biztos, hogy felvihetsz jogilag, az adatgazdától kell engedély, ha nem csak saját ismereted alapján dolgozol, hanem a munkáltatód egy listáját akarod feltölteni. Bövebben itt: https://wiki.openstreetmap.org/wiki/User:Grin/Potenciálisan_használható_források Ha kapsz engedélyt azt ide kell feltölteni: https://wiki.openstreetmap.org/wiki/Hungary/Importálás/Engedélyek Date: 2026-06-01T10:38:43+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/183485720</link>
+        <guid>https://www.openstreetmap.org/changeset/183485720#comment_3</guid>
+        <pubDate>2026-06-01T10:38:43+02:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 3 Comment: Szia! Az alapértelmezett megjelenítő neve Carto, bővebben róla itt: https://wiki.openstreetmap.org/wiki/OpenStreetMap_Carto Fejlesztése Githubon történik, itt is kell hibajegyet nyitni az esetleges megjelenítési problémákkal kapcsolatban: https://github.com/openstreetmap-carto/openstreetmap-carto/issues A miértre válasz: mert még senki nem csinálta meg... Nyithatsz róla egy issue-t a fenti linken, és ott kaphatsz erre pontosabb választ is. Nem túl sok projekt által támogatott címke ez amúgy, ilyeneket itt lehet megtalálni, hogy vajon mi jeleníti meg: https://taginfo.openstreetmap.org/tags/natural=tree_group#projects De nekünk szerkesztőknek nem szabad ezzel foglalkozni. Ne azért jelölj valamit egy adott címkével &quot;mert megjelenik&quot;, hanem mert a valóságban úgy van. Majd a megjelenítők utolérnek minket idővel. Nagyon sok olyan dolgot jelölünk ami nem jelenik meg sehol, vagy csak nagyon specifikus megjelenítőkben. Személyes véleményem, hogy ez a címke nehezen értelmezhető, mi számít csoportnak? Ha már van alatta aljnövényzet facsoport? Két fa egymáshoz nagyon közel már facsoport? Mi a határ a facsoport és az erdő között? Én sose használtam ezt emiatt, ilyeneket natural=tree , natural=scrub vagy landuse=forest címkékkel szoktam jelölni, helyzettől függően. Ilyen általánosabb kérdéseket amúgy jobb lenne ha több embernek tennél fel, gyorsabban is választ kaphatsz, és több szerkesztő véleményét is hallhatod, nem csak az én okoskodásom. Fenti listából a Matrix szoba a legaktívabb, de levlistán is előfordulnak hasonló kérdések időnként. Date: 2026-06-01T10:27:55+02:00</title>
         <link>https://www.openstreetmap.org/changeset/182674071</link>
         <guid>https://www.openstreetmap.org/changeset/182674071#comment_3</guid>
         <pubDate>2026-06-01T10:27:55+02:00</pubDate>
-      </item><item>
-        <title>Contributor: komlosn Discussion Comment No.: 2 Comment: Szia! Köszönöm, még új vagyok. Sajnos valami miatt töb éve db ivókutat jelez a rendszer pedig sosem volt ott 2. (Mi üzemeltetjük őket) Lehet hogy bénázok de az I. kerület térségében szeretném majd bejelölni a nyilvános WC-ket. Erre nem találtam ikont, melyik menüben kell keressem? Köszi a segítséget. Date: 2026-06-01T10:14:11+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/183485720</link>
-        <guid>https://www.openstreetmap.org/changeset/183485720#comment_2</guid>
-        <pubDate>2026-06-01T10:14:11+02:00</pubDate>
       </item><item>
         <title>Contributor: gabro00 Discussion Comment No.: 4 Comment: Valószínűleg régóta használaton kívüli, mert nincs GTFS referenciaszáma. Date: 2026-05-31T20:48:38+02:00</title>
         <link>https://www.openstreetmap.org/changeset/181656751</link>
