@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: Botond Balla Discussion Comment No.: 5 Comment: Mateusz-al az iD szerkesztő tagging schema GitHub oldalán nyitottam egy issue-t pont arra, hogy a helyes lifecycle tagek használatát a szerkesztő hibának jelezte. A peron nincs használatban. Ahogyan azt az alábbi oldalon láthatod, a javasolt tagginget használtam: https://wiki.openstreetmap.org/wiki/Key:disused Date: 2026-06-03T17:15:58+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/179290185</link>
+        <guid>https://www.openstreetmap.org/changeset/179290185#comment_5</guid>
+        <pubDate>2026-06-03T17:15:58+02:00</pubDate>
+      </item><item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Szia. n5715617014 benne maradt az old_name, ami ugyanaz mint a name. Date: 2026-06-03T16:29:26+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/183598578</link>
+        <guid>https://www.openstreetmap.org/changeset/183598578#comment_1</guid>
+        <pubDate>2026-06-03T16:29:26+02:00</pubDate>
+      </item><item>
         <title>Contributor: qstep Discussion Comment No.: 6 Comment: Thanks, fixed. JOSM reported it as an error, but it's still used nonetheless. Date: 2026-06-03T07:54:45+02:00</title>
         <link>https://www.openstreetmap.org/changeset/183286012</link>
         <guid>https://www.openstreetmap.org/changeset/183286012#comment_6</guid>
