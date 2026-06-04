@@ -3,10 +3,25 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Most akkor ki van írva a magasság vagy sem? Date: 2026-06-04T07:48:55+02:00</title>
+        <title>Contributor: qstep Discussion Comment No.: 4 Comment: Megkövetem magam: a súlykorlátozásra állítottad be. Elnézést. Date: 2026-06-04T15:13:00+02:00</title>
         <link>https://www.openstreetmap.org/changeset/183626320</link>
-        <guid>https://www.openstreetmap.org/changeset/183626320#comment_1</guid>
-        <pubDate>2026-06-04T07:48:55+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/183626320#comment_4</guid>
+        <pubDate>2026-06-04T15:13:00+02:00</pubDate>
+      </item><item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Ismét csak ne törölj nem hozzáférhető utat, ha a valóságban ott van. Használd az access=* és barrier=* címkéket! Date: 2026-06-04T14:53:57+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/183650696</link>
+        <guid>https://www.openstreetmap.org/changeset/183650696#comment_1</guid>
+        <pubDate>2026-06-04T14:53:57+02:00</pubDate>
+      </item><item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv! Ha az út ettől még ott van, akkor ne töröld, hanem tegyél rá access=no (ha bárki által tilos használni) vagy access=private címkét, ha magánterület. A lezárásnál fel tudsz venni barrier=gate és egyéb címkét, arra is rakhatsz access=* jelölést. Date: 2026-06-04T14:52:38+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/183650608</link>
+        <guid>https://www.openstreetmap.org/changeset/183650608#comment_1</guid>
+        <pubDate>2026-06-04T14:52:38+02:00</pubDate>
+      </item><item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv az OSM-en! Explicite ki van táblázva, hogy lóval tilos használni az ösvényt? Ha nincs, akkor felesleges megadni, mert ez az alapértelmezett. További jó térképezést! Date: 2026-06-04T14:50:28+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/183649704</link>
+        <guid>https://www.openstreetmap.org/changeset/183649704#comment_1</guid>
+        <pubDate>2026-06-04T14:50:28+02:00</pubDate>
       </item><item>
         <title>Contributor: balint36 Discussion Comment No.: 6 Comment: Én nem látok hibát az iD-ben őszintén megmondva. A vasúton használt helyes disused címke párossal nem dob semmilyen hibát. A peronnál a wiki alapján ez alkalmazható. Date: 2026-06-03T17:29:22+02:00</title>
         <link>https://www.openstreetmap.org/changeset/179290185</link>
