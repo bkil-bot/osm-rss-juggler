@@ -3,10 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szia! Visszaírtam, a név felmérésen alapult. Tamás Date: 2026-06-04T17:56:29+02:00</title>
+        <title>Contributor: totya Discussion Comment No.: 2 Comment: Szia! Mit jelent az, hogy felmérés? Az utcatáblát? Balatonkenese Térinformatikai Rendszerében (ami most épp nem működik, de pár napja még ott volt) ez az utca Vízmű köz néven fut. https://balatonkenese.intermap.hu/ Az önkormányzat Ingatlanvagyon-Kataszterében is szerepel Vízmű köz (12. oldal) és nincs rá semmilyen utalás, hogy máshol lenne. https://www.balatonkenese.hu/wp-content/uploads/2016/07/Vagyonrendelet-B-mell%C3%A9klet.pdf Üdv, Tamás Date: 2026-06-04T20:25:47+02:00</title>
         <link>https://www.openstreetmap.org/changeset/183458035</link>
-        <guid>https://www.openstreetmap.org/changeset/183458035#comment_1</guid>
-        <pubDate>2026-06-04T17:56:29+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/183458035#comment_2</guid>
+        <pubDate>2026-06-04T20:25:47+02:00</pubDate>
+      </item><item>
+        <title>Contributor: CopperOppositeKindred Discussion Comment No.: 2 Comment: javítva, köszi! Date: 2026-06-04T19:46:55+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/183598578</link>
+        <guid>https://www.openstreetmap.org/changeset/183598578#comment_2</guid>
+        <pubDate>2026-06-04T19:46:55+02:00</pubDate>
       </item><item>
         <title>Contributor: qstep Discussion Comment No.: 4 Comment: Megkövetem magam: a súlykorlátozásra állítottad be. Elnézést. Date: 2026-06-04T15:13:00+02:00</title>
         <link>https://www.openstreetmap.org/changeset/183626320</link>
@@ -32,11 +37,6 @@
         <link>https://www.openstreetmap.org/changeset/179290185</link>
         <guid>https://www.openstreetmap.org/changeset/179290185#comment_6</guid>
         <pubDate>2026-06-03T17:29:22+02:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Szia. n5715617014 benne maradt az old_name, ami ugyanaz mint a name. Date: 2026-06-03T16:29:26+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/183598578</link>
-        <guid>https://www.openstreetmap.org/changeset/183598578#comment_1</guid>
-        <pubDate>2026-06-03T16:29:26+02:00</pubDate>
       </item><item>
         <title>Contributor: qstep Discussion Comment No.: 6 Comment: Thanks, fixed. JOSM reported it as an error, but it's still used nonetheless. Date: 2026-06-03T07:54:45+02:00</title>
         <link>https://www.openstreetmap.org/changeset/183286012</link>
