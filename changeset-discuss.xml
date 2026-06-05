@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: qxmd Discussion Comment No.: 2 Comment: nincs ott - az utca zsákutca, nem átjárható Date: 2026-06-05T16:04:40+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/183650696</link>
+        <guid>https://www.openstreetmap.org/changeset/183650696#comment_2</guid>
+        <pubDate>2026-06-05T16:04:40+02:00</pubDate>
+      </item><item>
         <title>Contributor: qxmd Discussion Comment No.: 2 Comment: Szia! Kitáblázva nincsen, de maga az ösvény nem szélesebb egy vadcsapásnál. Este javítom :) És köszönöm a jelzést! Date: 2026-06-05T07:59:16+02:00</title>
         <link>https://www.openstreetmap.org/changeset/183649704</link>
         <guid>https://www.openstreetmap.org/changeset/183649704#comment_2</guid>
@@ -22,11 +27,6 @@
         <link>https://www.openstreetmap.org/changeset/183626320</link>
         <guid>https://www.openstreetmap.org/changeset/183626320#comment_4</guid>
         <pubDate>2026-06-04T15:13:00+02:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Ismét csak ne törölj nem hozzáférhető utat, ha a valóságban ott van. Használd az access=* és barrier=* címkéket! Date: 2026-06-04T14:53:57+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/183650696</link>
-        <guid>https://www.openstreetmap.org/changeset/183650696#comment_1</guid>
-        <pubDate>2026-06-04T14:53:57+02:00</pubDate>
       </item><item>
         <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv! Ha az út ettől még ott van, akkor ne töröld, hanem tegyél rá access=no (ha bárki által tilos használni) vagy access=private címkét, ha magánterület. A lezárásnál fel tudsz venni barrier=gate és egyéb címkét, arra is rakhatsz access=* jelölést. Date: 2026-06-04T14:52:38+02:00</title>
         <link>https://www.openstreetmap.org/changeset/183650608</link>
