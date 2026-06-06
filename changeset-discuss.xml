@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: balint36 Discussion Comment No.: 9 Comment: Is's a railway feature so railway=disused and disused:railway=* (for example platform). If I remember right with these two, the iD should't have problem with the public_transport=* tags. Date: 2026-06-06T11:30:06+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/179290185</link>
+        <guid>https://www.openstreetmap.org/changeset/179290185#comment_9</guid>
+        <pubDate>2026-06-06T11:30:06+02:00</pubDate>
+      </item><item>
         <title>Contributor: urbalazs Discussion Comment No.: 2 Comment: Szia NightH! Látom, hogy időközben javítottad mindkét problémát, köszönöm! Megnéztem újra, és mindkét hibát egy másolás-beillesztés okozta, egy meglévő kulcsból másoltam át az adatokat (ezért került bele a &quot;␣&quot;), és elfelejtettem átírni a 12t értéket. Date: 2026-06-06T07:59:53+02:00</title>
         <link>https://www.openstreetmap.org/changeset/173842627</link>
         <guid>https://www.openstreetmap.org/changeset/173842627#comment_2</guid>
         <pubDate>2026-06-06T07:59:53+02:00</pubDate>
-      </item><item>
-        <title>Contributor: Mateusz Konieczny Discussion Comment No.: 8 Comment: as far as I can see Date: 2026-06-06T03:01:28+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/179290185</link>
-        <guid>https://www.openstreetmap.org/changeset/179290185#comment_8</guid>
-        <pubDate>2026-06-06T03:01:28+02:00</pubDate>
       </item><item>
         <title>Contributor: balint36 Discussion Comment No.: 1 Comment: Klotildliget peronja miért kapott Magyar Honvédség azonosítót? Date: 2026-06-05T21:02:52+02:00</title>
         <link>https://www.openstreetmap.org/changeset/174046218</link>
