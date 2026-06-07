@@ -3,10 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szia! Ha már opening hours-ben lekorlátoztad, hogy nincs nyitva, akkor miért kell construcion a sparra? Átmeneti felújításra szerintem pont elég az opening hours, így az offline térképeket hónapokra kiüti. T Date: 2026-06-07T05:06:08+02:00</title>
+        <title>Contributor: bkil Discussion Comment No.: 2 Comment: Passz. Nem igazán jöttek jó ötletek mátrixon, és gondoltam addig is jó volna elrejteni, hogy offline minél hamarabb el legyen rejtve. Szabad jobbá tenni. Date: 2026-06-07T11:14:46+02:00</title>
         <link>https://www.openstreetmap.org/changeset/183683086</link>
-        <guid>https://www.openstreetmap.org/changeset/183683086#comment_1</guid>
-        <pubDate>2026-06-07T05:06:08+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/183683086#comment_2</guid>
+        <pubDate>2026-06-07T11:14:46+02:00</pubDate>
+      </item><item>
+        <title>Contributor: Mateusz Konieczny Discussion Comment No.: 10 Comment: 1) if it is disused then also public_transport should be prefixed 2) iD in fact breaks on such bad tagging, see https://github.com/openstreetmap/id-tagging-schema/issues/1982 Date: 2026-06-07T10:30:39+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/179290185</link>
+        <guid>https://www.openstreetmap.org/changeset/179290185#comment_10</guid>
+        <pubDate>2026-06-07T10:30:39+02:00</pubDate>
       </item><item>
         <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szia! Honnan van ez a cím? Orlen oldalán nincs ennek nyoma. És sehol máshol sincs nyoma Gödöllő, Szent Jakab útnak. Tamás Date: 2026-06-06T15:30:45+02:00</title>
         <link>https://www.openstreetmap.org/changeset/183637413</link>
@@ -17,11 +22,6 @@
         <link>https://www.openstreetmap.org/changeset/182557922</link>
         <guid>https://www.openstreetmap.org/changeset/182557922#comment_1</guid>
         <pubDate>2026-06-06T12:33:00+02:00</pubDate>
-      </item><item>
-        <title>Contributor: balint36 Discussion Comment No.: 9 Comment: Is's a railway feature so railway=disused and disused:railway=* (for example platform). If I remember right with these two, the iD should't have problem with the public_transport=* tags. Date: 2026-06-06T11:30:06+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/179290185</link>
-        <guid>https://www.openstreetmap.org/changeset/179290185#comment_9</guid>
-        <pubDate>2026-06-06T11:30:06+02:00</pubDate>
       </item><item>
         <title>Contributor: urbalazs Discussion Comment No.: 2 Comment: Szia NightH! Látom, hogy időközben javítottad mindkét problémát, köszönöm! Megnéztem újra, és mindkét hibát egy másolás-beillesztés okozta, egy meglévő kulcsból másoltam át az adatokat (ezért került bele a &quot;␣&quot;), és elfelejtettem átírni a 12t értéket. Date: 2026-06-06T07:59:53+02:00</title>
         <link>https://www.openstreetmap.org/changeset/173842627</link>
