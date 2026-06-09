@@ -3,6 +3,16 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>here are the full release notes: https://github.com/deltachat/deltachat-android/releases/tag/v2.51.0 -- also a lot of bug fixes option cleanup, as we are continuing to make settings fail-safe and easy to understand for mass users, sometimes to the detriment of more nerdy configurations. However, contrary to some claims, using classic email server setups is fine, but you need to use a dedicated email address. Sharing an address with a different email client is not supported. If you have any issue, please report https://support.delta.chat</title>
+        <link>https://chaos.social/@delta/116719787972899033</link>
+        <guid>https://chaos.social/@delta/116719787972899033</guid>
+        <pubDate>Tue, 09 Jun 2026 10:57:04 +0000</pubDate>
+      </item><item>
+        <title>2.51+ releases are rolling into stores: Video/Audio Calls and Channels are not experimental but part of the default feature set now 💫 Calls and channels are always end-to-end encrypted, and only you and your contacts know each other&amp;#39;s identity and metadata (avatars, names, keys etc.) For calls, Delta uses a minimal Rust WebRTC turn server https://github.com/chatmail/chatmail-turn#turn-server-for-chatmail-relays running on hundreds of relays worldwide. It helps to establish P2P media streams, or for relaying traffic if P2P connections fail. smartphone screenshot of a live video call with a contact named &quot;My Cat.&quot; The main screen shows the user's view of a room with a &quot;delta.chat&quot; banner and the blurred silhouette of a cat's head in the foreground. A smaller picture-in-picture window in the top-right corner shows the other side of the call, where a black-and-white cat is sitting upright and looking at the camera. The bottom of the screen features a standard row of video call control buttons.</title>
+        <link>https://chaos.social/@delta/116719761078228002</link>
+        <guid>https://chaos.social/@delta/116719761078228002</guid>
+        <pubDate>Tue, 09 Jun 2026 10:50:13 +0000</pubDate>
+      </item><item>
         <title>Reminder: There are no accounts in the classic sense anywhere with #chatmail or #deltachat. It&amp;#39;s all private profiles on end user devices which co-ordinate in a #p2p fashion. Chat profiles *use* email (relay) addresses for transporting messages through a federated e2ee-restricted SMTP network. A chat profile or chat group has zero data on the server. It&amp;#39;s radically different from classic email servers, Whatsapp, Signal, XMPP and Matrix servers which host and control chat identity. Neo-spoon meme (scene from matrix movie where neo looks at a child bending a spoon which eventually tells him &quot;there is no spoon&quot;) with the following words top: &quot;On which server is your account?&quot; and below the bending spoon &quot;there is no account.&quot;</title>
         <link>https://chaos.social/@delta/116643008494947870</link>
         <guid>https://chaos.social/@delta/116643008494947870</guid>
@@ -92,16 +102,6 @@
         <link>https://chaos.social/@delta/116374795623534771</link>
         <guid>https://chaos.social/@delta/116374795623534771</guid>
         <pubDate>Thu, 09 Apr 2026 12:40:58 +0000</pubDate>
-      </item><item>
-        <title>Under the hood, we are using IETF Internet Messaging specifications commonly tagged as &amp;quot;email&amp;quot;. Sounds old, right? Actually there is a lot of new stuff going on! For example, #chatmail apps now fully support: - RFC9788 (&amp;quot;Header Protection&amp;quot;) to achieve minimal metadata - RFC9580 (&amp;quot;OpenPGP&amp;quot;) to use modern cryptography By comparison, &amp;quot;Messaging Layer Security (MLS)&amp;quot; has an older numbered RFC9420 (and doesn&amp;#39;t have mass-usable app releases). Maybe time to revisit old/new assumptions? :)</title>
-        <link>https://chaos.social/@delta/116334130381281758</link>
-        <guid>https://chaos.social/@delta/116334130381281758</guid>
-        <pubDate>Thu, 02 Apr 2026 08:19:16 +0000</pubDate>
-      </item><item>
-        <title>After three intense months of work from more than a dozen contributors, #deltachat 2.48 releases are rolling. Maybe the most feature-packed releases ever? - &amp;quot;zero metadata&amp;quot; messaging - native Audio/Video calls on Android and iOS, as well as UbuntuTouch - Group and Channel descriptions - A new background audio player - Revamped Download-on-Demand and, last but not least, the long-awaited next-generation of messaging resiliency through &amp;quot;multi-path&amp;quot; routing .... https://delta.chat/en/2026-03-31-zero</title>
-        <link>https://chaos.social/@delta/116325659705076322</link>
-        <guid>https://chaos.social/@delta/116325659705076322</guid>
-        <pubDate>Tue, 31 Mar 2026 20:25:03 +0000</pubDate>
       </item>
   </channel>
 </rss>
