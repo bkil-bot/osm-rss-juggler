@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>What do you think is unique about the #deltachat project in the realm of secure cross-platform messaging? You tell us :)</title>
+        <link>https://chaos.social/@delta/116731140656636119</link>
+        <guid>https://chaos.social/@delta/116731140656636119</guid>
+        <pubDate>Thu, 11 Jun 2026 11:04:12 +0000</pubDate>
+      </item><item>
         <title>here are the full release notes: https://github.com/deltachat/deltachat-android/releases/tag/v2.51.0 -- also a lot of bug fixes option cleanup, as we are continuing to make settings fail-safe and easy to understand for mass users, sometimes to the detriment of more nerdy configurations. However, contrary to some claims, using classic email server setups is fine, but you need to use a dedicated email address. Sharing an address with a different email client is not supported. If you have any issue, please report https://support.delta.chat</title>
         <link>https://chaos.social/@delta/116719787972899033</link>
         <guid>https://chaos.social/@delta/116719787972899033</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/116375467257844309</link>
         <guid>https://chaos.social/@delta/116375467257844309</guid>
         <pubDate>Thu, 09 Apr 2026 15:31:46 +0000</pubDate>
-      </item><item>
-        <title>#deltachat contributors range from age 16 to 65, spanning diverse genders and even more countries and cultures. We have many discussions, and also conflicts but we usually don&amp;#39;t carry those out in big public groups but rather go for 1:1s and generally small-group discussions. There is no central assembly or board that decides everything. It&amp;#39;s more chaotic and admittedly hard to get an overview on, but thats&amp;#39; also how the yearly #CCC congress comes about, which many of us regularly attend.</title>
-        <link>https://chaos.social/@delta/116374795623534771</link>
-        <guid>https://chaos.social/@delta/116374795623534771</guid>
-        <pubDate>Thu, 09 Apr 2026 12:40:58 +0000</pubDate>
       </item>
   </channel>
 </rss>
