@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>It&amp;#39;s hard these days to find a unifying description, or know about all the people and communities involved in #deltachat #chatmail #webxdc developments. One shared sentiment probably is wanting to develop anti-authoritarian technologies and cultures around it, and being opposed to authoritarian tech policy moves in the West, chat control, age verification, prescribing Google/Apple control, enforcing digital app use etc It&amp;#39;s also a reason we are only posting on the fediverse bridged to bsky.</title>
+        <link>https://chaos.social/@delta/116743510042396476</link>
+        <guid>https://chaos.social/@delta/116743510042396476</guid>
+        <pubDate>Sat, 13 Jun 2026 15:29:54 +0000</pubDate>
+      </item><item>
         <title>A note on &amp;quot;#deltachat is going proprietary with #chatmail relays&amp;quot;: 1) It&amp;#39;s all based on IETF standards, with configuration and custom integration code fully FOSS and documented at: https://chatmail.at/doc/relay/ with hundreds of permission-free deployments. 2) We know of several alternative relay implementations and deployments 3) Own servers or big email providers can be used (YMMV) However it&amp;#39;s fair to criticize our relentless focus on E2EE, and our moving away from email addresses as identity.</title>
         <link>https://chaos.social/@delta/116731626972297600</link>
         <guid>https://chaos.social/@delta/116731626972297600</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/116386351897862531</link>
         <guid>https://chaos.social/@delta/116386351897862531</guid>
         <pubDate>Sat, 11 Apr 2026 13:39:53 +0000</pubDate>
-      </item><item>
-        <title>What if all public funding and all private donations to our efforts stop tomorrow? Users should be fine for years thanks to the wonderful world-wide community of #chatmail relay operators 💜 Relays are dirt cheap to run. Also, our developments are much cheaper and less complex compared to what we know from comparable efforts. No worries though! We currently have moneys to help sustain ~15 contributors, with a sum similar to what other projects pay for their foundation president/CEO alone :)</title>
-        <link>https://chaos.social/@delta/116386302287243247</link>
-        <guid>https://chaos.social/@delta/116386302287243247</guid>
-        <pubDate>Sat, 11 Apr 2026 13:27:16 +0000</pubDate>
       </item>
   </channel>
 </rss>
