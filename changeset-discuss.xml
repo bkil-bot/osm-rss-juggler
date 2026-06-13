@@ -72,11 +72,6 @@
         <link>https://www.openstreetmap.org/changeset/182557922</link>
         <guid>https://www.openstreetmap.org/changeset/182557922#comment_1</guid>
         <pubDate>2026-06-06T12:33:00+02:00</pubDate>
-      </item><item>
-        <title>Contributor: urbalazs Discussion Comment No.: 2 Comment: Szia NightH! Látom, hogy időközben javítottad mindkét problémát, köszönöm! Megnéztem újra, és mindkét hibát egy másolás-beillesztés okozta, egy meglévő kulcsból másoltam át az adatokat (ezért került bele a &quot;␣&quot;), és elfelejtettem átírni a 12t értéket. Date: 2026-06-06T07:59:53+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/173842627</link>
-        <guid>https://www.openstreetmap.org/changeset/173842627#comment_2</guid>
-        <pubDate>2026-06-06T07:59:53+02:00</pubDate>
       </item>
   </channel>
 </rss>
