@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>RE: https://mastodon.bsd.cafe/@stefano/116702145454686241 The world-wide #chatmail relay network is growing in various wonderful ways. #freebsd joined the world-wide federated secure communication party and BSD cafe offers a public relay at https://chatmail.bsd.cafe :) Thanks @stefano @feld and @outofcreativity !</title>
+        <link>https://chaos.social/@delta/116755194664163555</link>
+        <guid>https://chaos.social/@delta/116755194664163555</guid>
+        <pubDate>Mon, 15 Jun 2026 17:01:27 +0000</pubDate>
+      </item><item>
         <title>It&amp;#39;s hard these days to find a unifying description, or know about all the people and communities involved in #deltachat #chatmail #webxdc developments. One shared sentiment probably is wanting to develop anti-authoritarian technologies and cultures around it, and being opposed to authoritarian tech policy moves in the West, chat control, age verification, prescribing Google/Apple control, enforcing digital app use etc It&amp;#39;s also a reason we are only posting on the fediverse bridged to bsky.</title>
         <link>https://chaos.social/@delta/116743510042396476</link>
         <guid>https://chaos.social/@delta/116743510042396476</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/116396396863092321</link>
         <guid>https://chaos.social/@delta/116396396863092321</guid>
         <pubDate>Mon, 13 Apr 2026 08:14:27 +0000</pubDate>
-      </item><item>
-        <title>the public #chatmail relay list https://chatmail.at/relays covers about ~20% or so of chat relays we heart about and have traces or hints from, and we definitely don&amp;#39;t see everything -- which is how it should be :) Best of all: you can now start using multiple relays for your chat profiles, so even if one relay goes down or is blocked temporarily, chatting continues. https://delta.chat/en/2026-03-31-zero#maximizing-availability-and-resilience-through-multi-path-delivery</title>
-        <link>https://chaos.social/@delta/116386351897862531</link>
-        <guid>https://chaos.social/@delta/116386351897862531</guid>
-        <pubDate>Sat, 11 Apr 2026 13:39:53 +0000</pubDate>
       </item>
   </channel>
 </rss>
