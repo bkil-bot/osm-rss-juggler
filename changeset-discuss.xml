@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv az OSM-en! A házszámokhoz úgy általában mi a forrásod? Elsősorban bejárás alapján visszük fel, másodsorban használható minden ODbL licenc kompatibilis forrás, pl nem régi Mapillary, Panoramax képek. Megjelöltél street level imagery mint forrás. Date: 2026-06-16T21:46:45+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/184198487</link>
+        <guid>https://www.openstreetmap.org/changeset/184198487#comment_1</guid>
+        <pubDate>2026-06-16T21:46:45+02:00</pubDate>
+      </item><item>
         <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv. Alapvetően nem törlünk pontokat az előzmények megőrzése miatt! Ha nyílt helyette más, akkor azt kellene beírni, ha bezárt de még ott a neve, akkor disused:shop, ha pedig üres üzlet, akkor shop=vacant. Beállítottam disused-ra. Date: 2026-06-16T18:50:20+02:00</title>
         <link>https://www.openstreetmap.org/changeset/184191628</link>
         <guid>https://www.openstreetmap.org/changeset/184191628#comment_1</guid>
