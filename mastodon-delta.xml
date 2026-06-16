@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Telegram is an extreme security risk for its users, its developers and operators, holding data and metadata for over a billion people on central servers! Our decentralized zero-metadata messaging approach is diametrically opposed to such big-platform designs https://delta.chat/en/2026-03-31-zero But there is more: #chatmail relays are zero-state: you can wipe the relay&amp;#39;s disks, create a new fresh setup, and users just continue chatting. Operators have actually done this. An *actually* state-less server :)</title>
+        <link>https://chaos.social/@delta/116761440061246243</link>
+        <guid>https://chaos.social/@delta/116761440061246243</guid>
+        <pubDate>Tue, 16 Jun 2026 19:29:44 +0000</pubDate>
+      </item><item>
         <title>RE: https://mastodon.bsd.cafe/@stefano/116702145454686241 The world-wide #chatmail relay network is growing in various wonderful ways. #freebsd joined the world-wide federated secure communication party and BSD cafe offers a public relay at https://chatmail.bsd.cafe :) Thanks @stefano @feld and @outofcreativity !</title>
         <link>https://chaos.social/@delta/116755194664163555</link>
         <guid>https://chaos.social/@delta/116755194664163555</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/116425726028408136</link>
         <guid>https://chaos.social/@delta/116425726028408136</guid>
         <pubDate>Sat, 18 Apr 2026 12:33:14 +0000</pubDate>
-      </item><item>
-        <title>Apart from the new #Gnome effort, there also is an interesting experiment of a #Rust terminal-client with #Ratatui -- for others to start from should they feel they need some enjoyable distraction :) https://git.sakamoto.pl/j-g00da/deltarat-experiments #Chatmail clients typically use the Rust core library which provides all networking, cryptography, persistence, real-time networking, mail relay/server interop. Documentation to help with writing clients is scattered, but at least there are plenty examples to learn from.</title>
-        <link>https://chaos.social/@delta/116396396863092321</link>
-        <guid>https://chaos.social/@delta/116396396863092321</guid>
-        <pubDate>Mon, 13 Apr 2026 08:14:27 +0000</pubDate>
       </item>
   </channel>
 </rss>
