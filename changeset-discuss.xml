@@ -3,15 +3,20 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: julijlucssij Discussion Comment No.: 2 Comment: Hello! Az utcakép téves forrásmegjelölés volt. Házszám saját forrás , pontosítva más adatbázisokkal. Végső pontosítás oeny.hu -ra támaszkodva szükség esetén. Date: 2026-06-17T06:51:58+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/184198487</link>
+        <guid>https://www.openstreetmap.org/changeset/184198487#comment_2</guid>
+        <pubDate>2026-06-17T06:51:58+02:00</pubDate>
+      </item><item>
+        <title>Contributor: julijlucssij Discussion Comment No.: 2 Comment: Köszönöm! Date: 2026-06-17T06:40:27+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/184181806</link>
+        <guid>https://www.openstreetmap.org/changeset/184181806#comment_2</guid>
+        <pubDate>2026-06-17T06:40:27+02:00</pubDate>
+      </item><item>
         <title>Contributor: KAMI Discussion Comment No.: 1 Comment: https://wiki.openstreetmap.org/wiki/Key:music_genre Date: 2026-06-17T05:56:43+02:00</title>
         <link>https://www.openstreetmap.org/changeset/184207791</link>
         <guid>https://www.openstreetmap.org/changeset/184207791#comment_1</guid>
         <pubDate>2026-06-17T05:56:43+02:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv az OSM-en! A házszámokhoz úgy általában mi a forrásod? Elsősorban bejárás alapján visszük fel, másodsorban használható minden ODbL licenc kompatibilis forrás, pl nem régi Mapillary, Panoramax képek. Megjelöltél street level imagery mint forrás. Date: 2026-06-16T21:46:45+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/184198487</link>
-        <guid>https://www.openstreetmap.org/changeset/184198487#comment_1</guid>
-        <pubDate>2026-06-16T21:46:45+02:00</pubDate>
       </item><item>
         <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv. Alapvetően nem törlünk pontokat az előzmények megőrzése miatt! Ha nyílt helyette más, akkor azt kellene beírni, ha bezárt de még ott a neve, akkor disused:shop, ha pedig üres üzlet, akkor shop=vacant. Beállítottam disused-ra. Date: 2026-06-16T18:50:20+02:00</title>
         <link>https://www.openstreetmap.org/changeset/184191628</link>
@@ -22,11 +27,6 @@
         <link>https://www.openstreetmap.org/changeset/184191411</link>
         <guid>https://www.openstreetmap.org/changeset/184191411#comment_1</guid>
         <pubDate>2026-06-16T18:47:21+02:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv. Sikerült kétszer is felvinni az éttermet. A nyitvatartást nem így adjuk meg, hanem így: https://wiki.openstreetmap.org/wiki/Key:opening_hours Töröltem a pontot, és frissítettem a címkéket: https://www.openstreetmap.org/changeset/184183522 Date: 2026-06-16T13:58:34+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/184181806</link>
-        <guid>https://www.openstreetmap.org/changeset/184181806#comment_1</guid>
-        <pubDate>2026-06-16T13:58:34+02:00</pubDate>
       </item><item>
         <title>Contributor: gabro00 Discussion Comment No.: 1 Comment: Szia! Két hibát találtam. Ennek a boltnak 205 a ref száma: https://www.openstreetmap.org/node/12991580149 Emennek pedig 174: https://www.openstreetmap.org/node/13287402474 Mindjárt javítani fogom. Date: 2026-06-13T19:28:28+02:00</title>
         <link>https://www.openstreetmap.org/changeset/183512112</link>
