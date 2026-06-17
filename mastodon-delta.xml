@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Congratulations and shout out to our long-term collaborators from the @n0iroh project for releasing Iroh V1! A major ugprade of the probably best Peer-to-Peer Rust networking library today: https://www.iroh.computer/blog/v1 In case you missed it: When running apps like https://webxdc.org/#amzd-radio-station chat members joins in a realtime and private Peer-to-Peer network using Iroh, and can listen to music together. The media streams travel via gossipping Peer-to-Peer connections, a bit BitTorrent style.</title>
+        <link>https://chaos.social/@delta/116764564977702777</link>
+        <guid>https://chaos.social/@delta/116764564977702777</guid>
+        <pubDate>Wed, 17 Jun 2026 08:44:26 +0000</pubDate>
+      </item><item>
         <title>Telegram is an extreme security risk for its users, its developers and operators, holding data and metadata for over a billion people on central servers! Our decentralized zero-metadata messaging approach is diametrically opposed to such big-platform designs https://delta.chat/en/2026-03-31-zero But there is more: #chatmail relays are zero-state: you can wipe the relay&amp;#39;s disks, create a new fresh setup, and users just continue chatting. Operators have actually done this. An *actually* state-less server :)</title>
         <link>https://chaos.social/@delta/116761440061246243</link>
         <guid>https://chaos.social/@delta/116761440061246243</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/116442985976134144</link>
         <guid>https://chaos.social/@delta/116442985976134144</guid>
         <pubDate>Tue, 21 Apr 2026 13:42:40 +0000</pubDate>
-      </item><item>
-        <title>&amp;quot;Popularity is overrated&amp;quot; is an often occuring phrase in our circles. Which is of course nonsense because only what is popular, counts, right? Only what everybody else does is a valid choice, right? #deltachat #chatmail and #webxdc are used in private places and communities that people are molding for themselves. We are just providing tools and approaches that work ... At least most of the time 😅 &amp;quot;Nothing works all the time&amp;quot; is another project mantra. Brb preparing the next releases :) Photo of a beautiful park in the black forest where a few of us are gathering to discuss the various authoritarian tendencies in platforms, countries, infrastructures and minds ... And plotting our next steps on a beautiful sunny day with lots of green grass, violet flowery trees and shadows in the sun</title>
-        <link>https://chaos.social/@delta/116425726028408136</link>
-        <guid>https://chaos.social/@delta/116425726028408136</guid>
-        <pubDate>Sat, 18 Apr 2026 12:33:14 +0000</pubDate>
       </item>
   </channel>
 </rss>
