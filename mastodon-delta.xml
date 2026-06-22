@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>next #deltachat #ios version is coming with #liquidglass 🥛 thanks Amzd for the work. though frustrating being forced by #bigtech to do things that may not be loved and feel superfluous, it&amp;#39;s wanted by many meanwhile. there are still some things to tweak, we created an issue at https://github.com/deltachat/deltachat-ios/issues/3157 . on-point help is welcome - and already ongoing thanks to some new contributors ❤️ Short animation showing part of the Delta Chat's iOS tab bar. The &quot;Chats&quot; button is enabled and disabled to showcase the new LiquidGlass UI</title>
+        <link>https://chaos.social/@delta/116793856373632065</link>
+        <guid>https://chaos.social/@delta/116793856373632065</guid>
+        <pubDate>Mon, 22 Jun 2026 12:53:39 +0000</pubDate>
+      </item><item>
         <title>Congratulations and shout out to our long-term collaborators from the @n0iroh project for releasing Iroh V1! A major ugprade of the probably best Peer-to-Peer Rust networking library today: https://www.iroh.computer/blog/v1 In case you missed it: When running apps like https://webxdc.org/#amzd-radio-station chat members joins in a realtime and private Peer-to-Peer network using Iroh, and can listen to music together. The media streams travel via gossipping Peer-to-Peer connections, a bit BitTorrent style.</title>
         <link>https://chaos.social/@delta/116764564977702777</link>
         <guid>https://chaos.social/@delta/116764564977702777</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/116449332528755151</link>
         <guid>https://chaos.social/@delta/116449332528755151</guid>
         <pubDate>Wed, 22 Apr 2026 16:36:41 +0000</pubDate>
-      </item><item>
-        <title>This morning nine.testrun.org was briefly unavailable, some network problem. A good time to remind everyone to add a second relay to your #deltachat app: 1. Go to https://chatmail.at/relays randomly choose one of the listed relay pages and copy the invitation code to your clipboard 2. In delta chat settings go to advanced/relays and tap &amp;quot;add relay&amp;quot; and paste the invitation code 3. That&amp;#39;s it. If one relay is unavailable you still can receive and send messages. https://delta.chat/en/2026-03-31-zero#maximizing-availability-and-resilience-through-multi-path-delivery</title>
-        <link>https://chaos.social/@delta/116442985976134144</link>
-        <guid>https://chaos.social/@delta/116442985976134144</guid>
-        <pubDate>Tue, 21 Apr 2026 13:42:40 +0000</pubDate>
       </item>
   </channel>
 </rss>
