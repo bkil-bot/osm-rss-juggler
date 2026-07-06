@@ -7,11 +7,6 @@
         <link>https://wiki.openstreetmap.org/w/index.php?title=Template:Ambox&amp;diff=3056768&amp;oldid=3050671</link>
         <guid>https://wiki.openstreetmap.org/w/index.php?title=Template:Ambox&amp;diff=3056768</guid>
         <pubDate>Sun, 05 Jul 2026 15:44:40 GMT</pubDate>
-      </item><item>
-        <title>Module:LangSwitch: use &amp;quot;{{USERLANGUAGE}}&amp;quot; instead of &amp;quot;int:Lang&amp;quot; because the latter isn&amp;#039;t activated in the wiki; add a workaround for &amp;quot;en-gb&amp;quot; to fallback to &amp;quot;en&amp;quot;. -Chris2map</title>
-        <link>https://wiki.openstreetmap.org/w/index.php?title=Module:LangSwitch&amp;diff=3056698&amp;oldid=1910846</link>
-        <guid>https://wiki.openstreetmap.org/w/index.php?title=Module:LangSwitch&amp;diff=3056698</guid>
-        <pubDate>Sun, 05 Jul 2026 14:38:37 GMT</pubDate>
       </item>
   </channel>
 </rss>
