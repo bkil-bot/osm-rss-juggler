@@ -2,6 +2,11 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wiki (via bkil-bot)</title>
-      
+      <item>
+        <title>Template:Ambox: remove style class &amp;quot;ambox&amp;quot; because it prevents the boxes to be displayed when priniting a page (but the amboxes are often used for crucial content, not only meta information) (anyway, the css styles defined in class &amp;quot;ambox&amp;quot; are provided in the template itself as inline styles, so it was doubled). -Chris2map</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Template:Ambox&amp;diff=3057019&amp;oldid=3056768</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Template:Ambox&amp;diff=3057019</guid>
+        <pubDate>Mon, 06 Jul 2026 16:52:21 GMT</pubDate>
+      </item>
   </channel>
 </rss>
