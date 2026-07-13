@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: ajmat Discussion Comment No.: 3 Comment: The comment was added as a best practice to document the revert relationship. I appreciate that this information is already available through the revert:id=* tag, and to some the additional comment may seem redundant. I’ll share this feedback internally for review to improve the guideline. Thank you for taking the time to raise this concern. Date: 2026-07-13T11:34:48+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/185615965</link>
+        <guid>https://www.openstreetmap.org/changeset/185615965#comment_3</guid>
+        <pubDate>2026-07-13T11:34:48+02:00</pubDate>
+      </item><item>
         <title>Contributor: qstep Discussion Comment No.: 2 Comment: w29425617 biztos hogy végig 30-as tábla? Date: 2026-07-13T11:22:48+02:00</title>
         <link>https://www.openstreetmap.org/changeset/185589567</link>
         <guid>https://www.openstreetmap.org/changeset/185589567#comment_2</guid>
@@ -17,11 +22,6 @@
         <link>https://www.openstreetmap.org/changeset/185590000</link>
         <guid>https://www.openstreetmap.org/changeset/185590000#comment_5</guid>
         <pubDate>2026-07-13T08:50:29+02:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 2 Comment: The revert:id=* key already has this info. Why do you comment this? Date: 2026-07-13T06:34:55+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/185615965</link>
-        <guid>https://www.openstreetmap.org/changeset/185615965#comment_2</guid>
-        <pubDate>2026-07-13T06:34:55+02:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Reverted. https://www.openstreetmap.org/changeset/185615965 Date: 2026-07-12T21:32:42+02:00</title>
         <link>https://www.openstreetmap.org/changeset/185595118</link>
