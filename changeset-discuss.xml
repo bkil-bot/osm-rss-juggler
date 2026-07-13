@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Szia. &quot;Etyek-Gyúró kerékpáros út&quot; explicite ki van táblázva így? A bicycle=designated már tökéletesen leírja, hogy kerékpárút. Ha pedig KRESZ tábla is jelzi, akkor inkább highway=cycleway kell. Ha magát az útvonalat akartad elnevezni, akkor arra már van kapcsolat: r6624342 Etyeki mandulafasor: tökéletesen leírható species=* vagy genus=* címkékkel (még pontosabban species:wikidata=*), azaz megint csak nem kell a név. Nem a megjelenítőnek térképezünk! w958460268 - szuper, hogy beleírtad, hogy homokos út, de már jelölte a surface=sand. Redundáns információ... Date: 2026-07-13T10:26:28+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/185589567</link>
+        <guid>https://www.openstreetmap.org/changeset/185589567#comment_1</guid>
+        <pubDate>2026-07-13T10:26:28+02:00</pubDate>
+      </item><item>
         <title>Contributor: olehz Discussion Comment No.: 5 Comment: Where did I add the ref for the taxiways? Show me an example; in this particular case, the ref was not specified. If I did specify a ref somewhere, it was using the local AIP. But I almost never did that. Date: 2026-07-13T08:50:29+02:00</title>
         <link>https://www.openstreetmap.org/changeset/185590000</link>
         <guid>https://www.openstreetmap.org/changeset/185590000#comment_5</guid>
