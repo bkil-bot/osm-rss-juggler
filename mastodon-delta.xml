@@ -3,16 +3,6 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
-        <title>migration completed successfully with minimal interruption.</title>
-        <link>https://chaos.social/@delta/116889323701308699</link>
-        <guid>https://chaos.social/@delta/116889323701308699</guid>
-        <pubDate>Thu, 09 Jul 2026 09:32:14 +0000</pubDate>
-      </item><item>
-        <title>We are migrating notifications.delta.chat, one of the few centralized systems we (need to) have - if you experience trouble with missed Google/Apple PUSH notifications, let us know. If you use the f-droid version, you are not affected. It should be over soon though :)</title>
-        <link>https://chaos.social/@delta/116889245565849924</link>
-        <guid>https://chaos.social/@delta/116889245565849924</guid>
-        <pubDate>Thu, 09 Jul 2026 09:12:21 +0000</pubDate>
-      </item><item>
         <title>next #deltachat #ios version is coming with #liquidglass 🥛 thanks Amzd for the work. though frustrating being forced by #bigtech to do things that may not be loved and feel superfluous, it&amp;#39;s wanted by many meanwhile. there are still some things to tweak, we created an issue at https://github.com/deltachat/deltachat-ios/issues/3157 . on-point help is welcome - and already ongoing thanks to some new contributors ❤️ Short animation showing part of the Delta Chat's iOS tab bar. The &quot;Chats&quot; button is enabled and disabled to showcase the new LiquidGlass UI</title>
         <link>https://chaos.social/@delta/116793856373632065</link>
         <guid>https://chaos.social/@delta/116793856373632065</guid>
@@ -102,6 +92,16 @@
         <link>https://chaos.social/@delta/116467452080098807</link>
         <guid>https://chaos.social/@delta/116467452080098807</guid>
         <pubDate>Sat, 25 Apr 2026 21:24:43 +0000</pubDate>
+      </item><item>
+        <title>Making sure that deleted messages are actually deleted and unrecoverable is more involved than most folks think. The FBI could recently recover deleted Signal messages from an iOS phone because the notifications you see on your phone were stored in an extra database. Apple has now fixed this, also making #deltachat iOS users safer. Few know that so called &amp;quot;forward secrecy&amp;quot; is all about deleted messages becoming unrecoverable, see https://autocrypt2.org for our plans https://www.heise.de/en/news/FBI-extraction-of-deleted-Signal-messages-Apple-secures-iPhones-better-11269038.html</title>
+        <link>https://chaos.social/@delta/116454678188702327</link>
+        <guid>https://chaos.social/@delta/116454678188702327</guid>
+        <pubDate>Thu, 23 Apr 2026 15:16:09 +0000</pubDate>
+      </item><item>
+        <title>#deltachat user profiles are private and invisible to the public. No one can discover you, or your children, via phone numbers or any other public handle. Chat profiles exist only on user devices. No PIN and no &amp;quot;SMS verification code&amp;quot; ever asked or needed. The lack of &amp;quot;public discovery&amp;quot; also means you don&amp;#39;t auto-discover others via phone numbers or other public handles. Getting in contact with others is &amp;quot;opt in&amp;quot;: you scan a QR code or click an invite link to join a group or open a chat.</title>
+        <link>https://chaos.social/@delta/116449332528755151</link>
+        <guid>https://chaos.social/@delta/116449332528755151</guid>
+        <pubDate>Wed, 22 Apr 2026 16:36:41 +0000</pubDate>
       </item>
   </channel>
 </rss>
