@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Szia. Több kapura raktál fixme=way crosses fence - itt nincs teendő, azért van a kapu. Ahol meg nincs kapu, oda egy barrier=gate kellene. r21208975 létrehozása helyett jobb lett volna a relation/2763387 relációt módosítani. Ezt most csak kitörölted. Általánosságban a fixme=* és note=* címkékről: nem kell mindenhova fixme, ahol még teendő van. Akkor érdemes, ha biztosan rossz valami, amit egy arra járó ki tud javítani. Sokszor jegyzetként használtad. Ha más szerkesztőknek akarsz &quot;üzenni&quot;, akkor inkább a note címke jó, vagy felveszel egy jegyzetet a területen. Date: 2026-08-10T12:03:06+02:00</title>
+        <title>Contributor: qstep Discussion Comment No.: 5 Comment: Rendben, köszi! A fixme-kkel az a baj, hogy csak gyűlnek-gyűlnek, és sokan nem veszik észre szerkesztés közben. Igazából az ország nagy részére lehetne tenni fixme-t mert mindig van mit javítani :) De ha visszatérsz később és tényleg kijavítod, az szuper. Elfogadom a válaszokat. Date: 2026-08-10T13:25:06+02:00</title>
         <link>https://www.openstreetmap.org/changeset/187195019</link>
-        <guid>https://www.openstreetmap.org/changeset/187195019#comment_1</guid>
-        <pubDate>2026-08-10T12:03:06+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/187195019#comment_5</guid>
+        <pubDate>2026-08-10T13:25:06+02:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! A lakó-pihenő övezetnek az alapértelmezett behajtást korlátozó címkéi ezek: vehicle=destination bicycle=yes Bővebben sok más Kresz címkézéssel együtt, ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közúti_jelzőtáblák Ez a motor_vehicle=yes kifejezetten rossz, mert ez azt jelenti, hogy nem csak be, hanem át is hajthatnak rajta gépkocsival. Az útvonaltervezőknek alapértelmezetten tudniuk kellene, hogy nem hajthat át itt autó, és ezzel a címkével feloldod a tiltást... Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség#Elérhetőségek További jó térképezést! Date: 2026-08-10T11:41:14+02:00</title>
         <link>https://www.openstreetmap.org/changeset/186991308</link>
