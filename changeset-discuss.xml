@@ -3,6 +3,21 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: qstep Discussion Comment No.: 3 Comment: Egyébként JOSM-ben van egy Replace Geometry funkció, ami pont erre jó. Rajzolsz egy új vonalat ami a rendes lesz, kijelölöd a régi rosszat és az újat, majd More Tools -&gt; Replace Geometry. Így megtartja a historyt. Kell hozzá a utilsplugin2: https://wiki.openstreetmap.org/wiki/JOSM/Plugins/utilsplugin2#Replace_geometry_(Ctrl+Shift+G) Date: 2026-08-12T19:59:27+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/187256527</link>
+        <guid>https://www.openstreetmap.org/changeset/187256527#comment_3</guid>
+        <pubDate>2026-08-12T19:59:27+02:00</pubDate>
+      </item><item>
+        <title>Contributor: qstep Discussion Comment No.: 2 Comment: Ment a bejelentés, mert nem tűnik túl együttműködőnek. Date: 2026-08-12T19:46:06+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/186471304</link>
+        <guid>https://www.openstreetmap.org/changeset/186471304#comment_2</guid>
+        <pubDate>2026-08-12T19:46:06+02:00</pubDate>
+      </item><item>
+        <title>Contributor: qstep Discussion Comment No.: 2 Comment: Hi. Please use the actual, on-site Hungarian names for features in Hungary. You may add German names in name:de=* but it's not necessary. Date: 2026-08-12T19:35:12+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/186960087</link>
+        <guid>https://www.openstreetmap.org/changeset/186960087#comment_2</guid>
+        <pubDate>2026-08-12T19:35:12+02:00</pubDate>
+      </item><item>
         <title>Contributor: zsoooc Discussion Comment No.: 2 Comment: Szia! Megvan nálam az egész országra, az összes réteg (nem csak a fokozottan védett). https://turistaterkepek.hu/portal/home/ ez a forrás, de engedélyt nem kértem hozzá. Ezért töröltem, nehogy gond legyen belőle. Date: 2026-08-12T18:49:44+02:00</title>
         <link>https://www.openstreetmap.org/changeset/187214188</link>
         <guid>https://www.openstreetmap.org/changeset/187214188#comment_2</guid>
@@ -68,20 +83,10 @@
         <guid>https://www.openstreetmap.org/changeset/186018098#comment_2</guid>
         <pubDate>2026-08-11T20:13:00+02:00</pubDate>
       </item><item>
-        <title>Contributor: 'Lex Discussion Comment No.: 1 Comment: A játszótér eredeti útja (https://www.openstreetmap.org/way/278623901) véletlen ki lett törölve, így a history-ja ennek a játszótérnek újrakezdődött. Ha valaki ezt esetleg elegánsan tudná fixálni az jó lenne. Elnézést! Date: 2026-08-10T22:48:25+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/187256527</link>
-        <guid>https://www.openstreetmap.org/changeset/187256527#comment_1</guid>
-        <pubDate>2026-08-10T22:48:25+02:00</pubDate>
-      </item><item>
         <title>Contributor: vasony Discussion Comment No.: 5 Comment: A tanya innen egyértelműnek tűnik, viszont a hrsz kereső felhoz még tanya nélküli címeket is. Ezek más címe lennének mit a tanya? Date: 2026-08-10T18:46:09+02:00</title>
         <link>https://www.openstreetmap.org/changeset/187107467</link>
         <guid>https://www.openstreetmap.org/changeset/187107467#comment_5</guid>
         <pubDate>2026-08-10T18:46:09+02:00</pubDate>
-      </item><item>
-        <title>Contributor: balint36 Discussion Comment No.: 1 Comment: Nem hiszem, hogy magyar boltoknak német neve van, de ki vagyok én, hogy még magyarként jobban tudnék ilyet, mint egy német... Date: 2026-08-10T16:27:59+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/186960087</link>
-        <guid>https://www.openstreetmap.org/changeset/186960087#comment_1</guid>
-        <pubDate>2026-08-10T16:27:59+02:00</pubDate>
       </item><item>
         <title>Contributor: thecockmaster Discussion Comment No.: 2 Comment: Köszönöm az észrevételt! Javítottam. Date: 2026-08-10T14:28:27+02:00</title>
         <link>https://www.openstreetmap.org/changeset/186991308</link>
@@ -97,11 +102,6 @@
         <link>https://www.openstreetmap.org/changeset/187162380</link>
         <guid>https://www.openstreetmap.org/changeset/187162380#comment_5</guid>
         <pubDate>2026-08-09T08:28:50+02:00</pubDate>
-      </item><item>
-        <title>Contributor: balint36 Discussion Comment No.: 1 Comment: Amúgy a MÁV az üzemeltető, de jó látni, hogy Németországból te jobban látod, mint mi Magyarországról... Date: 2026-08-09T00:32:28+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/186471304</link>
-        <guid>https://www.openstreetmap.org/changeset/186471304#comment_1</guid>
-        <pubDate>2026-08-09T00:32:28+02:00</pubDate>
       </item><item>
         <title>Contributor: balint36 Discussion Comment No.: 1 Comment: Tanják??? Date: 2026-08-09T00:31:05+02:00</title>
         <link>https://www.openstreetmap.org/changeset/186533421</link>
