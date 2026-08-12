@@ -3,6 +3,21 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Szia. Mi volt itt az eredeti célod pontosan? Honnan vannak a poligonok és az adat? Ha aktuális és az adatkezelő is hozzájárult, akkor elférne az OSM-en :) Date: 2026-08-12T16:45:08+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/187214188</link>
+        <guid>https://www.openstreetmap.org/changeset/187214188#comment_1</guid>
+        <pubDate>2026-08-12T16:45:08+02:00</pubDate>
+      </item><item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Szia. Két dolog: - a healthcare=sample_collection az vérvétel/labor pontot jelent, nem hiszem hogy ezt akartad jelölni. - Budapest és környékén van relatív friss és részletes Mapbox légifelvétel, így Mogyoródnál is. Kérlek használd azt, a FÖMI-hez igazítva (általában a -1.00; -0.50 eltolással jó szokott lenni.) Date: 2026-08-12T16:37:59+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/187247362</link>
+        <guid>https://www.openstreetmap.org/changeset/187247362#comment_1</guid>
+        <pubDate>2026-08-12T16:37:59+02:00</pubDate>
+      </item><item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv az OSM-en! Ezen a területen már épültek/épülnek házak? Honnan a Völgypark elnevezés, tudsz hozzá hivatalos forrást? Köszi. Date: 2026-08-12T16:33:05+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/187320553</link>
+        <guid>https://www.openstreetmap.org/changeset/187320553#comment_1</guid>
+        <pubDate>2026-08-12T16:33:05+02:00</pubDate>
+      </item><item>
         <title>Contributor: qstep Discussion Comment No.: 5 Comment: Írtam neki PM-et 3 napja. Szerintem esélytelen. 🤷 Date: 2026-08-12T16:26:16+02:00</title>
         <link>https://www.openstreetmap.org/changeset/186124670</link>
         <guid>https://www.openstreetmap.org/changeset/186124670#comment_5</guid>
@@ -282,11 +297,6 @@
         <link>https://www.openstreetmap.org/changeset/184431655</link>
         <guid>https://www.openstreetmap.org/changeset/184431655#comment_2</guid>
         <pubDate>2026-08-05T20:12:48+02:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 2 Comment: Ezeket majd javítom, csak a jövőben ennek megfelelően járj el. Köszi! Date: 2026-08-05T19:13:55+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/186990802</link>
-        <guid>https://www.openstreetmap.org/changeset/186990802#comment_2</guid>
-        <pubDate>2026-08-05T19:13:55+02:00</pubDate>
       </item>
   </channel>
 </rss>
