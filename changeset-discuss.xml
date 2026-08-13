@@ -3,10 +3,20 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: Dmapedits Discussion Comment No.: 2 Comment: Üdv, köszönöm a kérdést! Épülnek igen. Hivatalos forrásként az Ürömi HÉSZ-t tudom megjelölni, illetve a Szabályozási Tervet: urom.hu/images/stories/telepulesszerkezetiterv/hész_hatályos_2025.05.15-től.pdf https://urom.hu/images/stories/telepulesszerkezetiterv/2025/szab%C3%A1lyoz%C3%A1si_terv_2025.04.30.pdf Az utcanevek szintén jegyzői határozatból vannak, ez sajnos publikusan nem érhető el jelenleg a weben. Date: 2026-08-13T10:57:46+02:00</title>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Please don't delete nodes of shops, reuse the old node. This is documented here in the wiki: https://wiki.openstreetmap.org/wiki/Keep_the_history Fixed here: https://www.openstreetmap.org/changeset/187386983 Thanks! Date: 2026-08-13T12:10:51+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/187351775</link>
+        <guid>https://www.openstreetmap.org/changeset/187351775#comment_1</guid>
+        <pubDate>2026-08-13T12:10:51+02:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Hello! Please follow the wiki about multipolygons: https://wiki.openstreetmap.org/wiki/Relation:multipolygon It seems like you are deliberately not following editing standards. Don't map for the renderer: https://wiki.openstreetmap.org/wiki/Good_practice#Don't_map_for_the_renderer Reverted again: https://www.openstreetmap.org/changeset/187386573 Date: 2026-08-13T12:04:31+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/187351552</link>
+        <guid>https://www.openstreetmap.org/changeset/187351552#comment_1</guid>
+        <pubDate>2026-08-13T12:04:31+02:00</pubDate>
+      </item><item>
+        <title>Contributor: qstep Discussion Comment No.: 3 Comment: Rendben, köszönöm! Javítottam a szomszédság nevét, pontként szoktuk megjelölni nagyjából a közepén: https://www.openstreetmap.org/changeset/187386123 Date: 2026-08-13T11:51:42+02:00</title>
         <link>https://www.openstreetmap.org/changeset/187320553</link>
-        <guid>https://www.openstreetmap.org/changeset/187320553#comment_2</guid>
-        <pubDate>2026-08-13T10:57:46+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/187320553#comment_3</guid>
+        <pubDate>2026-08-13T11:51:42+02:00</pubDate>
       </item><item>
         <title>Contributor: mgpx Discussion Comment No.: 3 Comment: Igen, ha valaha út volt, de jelenleg benőtt és átjárhatatlan, akkor az abandoned:highway=path a helyes, az így jelzett utakra nem terveznek rá az útvonaltervezők. Ha csak kerekes járművel átjárhatatlan, akkor a highway=path, smoothness=impassable megfelelő, ekkor a gyalogos útvonaltervező még rá fog tervezni. Az obstacle=vegetation önmagában nem tiltja meg az útvonaltervezést. Utat csak akkor jelezzünk highway=track/path, obstacle=vegetation-nel, ha meggyőződtünk arról, hogy az átjárható és az útvonaltervező rátervezhet. Date: 2026-08-13T10:06:05+02:00</title>
         <link>https://www.openstreetmap.org/changeset/186662182</link>
