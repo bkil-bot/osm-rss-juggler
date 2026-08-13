@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: mgpx Discussion Comment No.: 1 Comment: Szervusz! A Zemplénben számos utat felszerkesztettél obstacle=vegetation-nel jelölve. Ezt a jelölést akkor alkalmazzuk, ha az út időszakosan benőtt lágyszárú növényzettel, de alapvetően még átjárható. Ha viszont az utat fásszárú növényzet pl. csipkebokor átjárhatatlanul benőtte, akkor az az út már nem út. A forrásmegjelölés alapján műholdképek alapján szerkesztettél. Jól értem, hogy nem azt akartad jelölni, hogy &quot;az út némileg benőtt, de létezik és járható&quot;, hanem azt, hogy &quot;az ortofotó alapján bizonytalan vagy abban, hogy az út létezik-e és járható-e még&quot; ? Date: 2026-08-13T08:32:37+02:00</title>
+        <title>Contributor: mgpx Discussion Comment No.: 3 Comment: Igen, ha valaha út volt, de jelenleg benőtt és átjárhatatlan, akkor az abandoned:highway=path a helyes, az így jelzett utakra nem terveznek rá az útvonaltervezők. Ha csak kerekes járművel átjárhatatlan, akkor a highway=path, smoothness=impassable megfelelő, ekkor a gyalogos útvonaltervező még rá fog tervezni. Az obstacle=vegetation önmagában nem tiltja meg az útvonaltervezést. Utat csak akkor jelezzünk highway=track/path, obstacle=vegetation-nel, ha meggyőződtünk arról, hogy az átjárható és az útvonaltervező rátervezhet. Date: 2026-08-13T10:06:05+02:00</title>
         <link>https://www.openstreetmap.org/changeset/186662182</link>
-        <guid>https://www.openstreetmap.org/changeset/186662182#comment_1</guid>
-        <pubDate>2026-08-13T08:32:37+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/186662182#comment_3</guid>
+        <pubDate>2026-08-13T10:06:05+02:00</pubDate>
       </item><item>
         <title>Contributor: 'Lex Discussion Comment No.: 4 Comment: Köszi szépen a javítást és a tippet! :) Date: 2026-08-12T22:46:28+02:00</title>
         <link>https://www.openstreetmap.org/changeset/187256527</link>
