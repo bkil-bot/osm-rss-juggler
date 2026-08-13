@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: Dmapedits Discussion Comment No.: 4 Comment: Köszönöm! Date: 2026-08-13T14:30:48+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/187320553</link>
+        <guid>https://www.openstreetmap.org/changeset/187320553#comment_4</guid>
+        <pubDate>2026-08-13T14:30:48+02:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Please don't delete nodes of shops, reuse the old node. This is documented here in the wiki: https://wiki.openstreetmap.org/wiki/Keep_the_history Fixed here: https://www.openstreetmap.org/changeset/187386983 Thanks! Date: 2026-08-13T12:10:51+02:00</title>
         <link>https://www.openstreetmap.org/changeset/187351775</link>
         <guid>https://www.openstreetmap.org/changeset/187351775#comment_1</guid>
@@ -12,11 +17,6 @@
         <link>https://www.openstreetmap.org/changeset/187351552</link>
         <guid>https://www.openstreetmap.org/changeset/187351552#comment_1</guid>
         <pubDate>2026-08-13T12:04:31+02:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 3 Comment: Rendben, köszönöm! Javítottam a szomszédság nevét, pontként szoktuk megjelölni nagyjából a közepén: https://www.openstreetmap.org/changeset/187386123 Date: 2026-08-13T11:51:42+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/187320553</link>
-        <guid>https://www.openstreetmap.org/changeset/187320553#comment_3</guid>
-        <pubDate>2026-08-13T11:51:42+02:00</pubDate>
       </item><item>
         <title>Contributor: mgpx Discussion Comment No.: 3 Comment: Igen, ha valaha út volt, de jelenleg benőtt és átjárhatatlan, akkor az abandoned:highway=path a helyes, az így jelzett utakra nem terveznek rá az útvonaltervezők. Ha csak kerekes járművel átjárhatatlan, akkor a highway=path, smoothness=impassable megfelelő, ekkor a gyalogos útvonaltervező még rá fog tervezni. Az obstacle=vegetation önmagában nem tiltja meg az útvonaltervezést. Utat csak akkor jelezzünk highway=track/path, obstacle=vegetation-nel, ha meggyőződtünk arról, hogy az átjárható és az útvonaltervező rátervezhet. Date: 2026-08-13T10:06:05+02:00</title>
         <link>https://www.openstreetmap.org/changeset/186662182</link>
@@ -322,11 +322,6 @@
         <link>https://www.openstreetmap.org/changeset/186116199</link>
         <guid>https://www.openstreetmap.org/changeset/186116199#comment_3</guid>
         <pubDate>2026-08-06T18:30:29+02:00</pubDate>
-      </item><item>
-        <title>Contributor: itineris Discussion Comment No.: 1 Comment: Szia! Kérlek, szerkesztés előtt a kedvenc légifelvételed igazítsd hozzá a legfrissebb FÖMI-hez, és főleg ne húzz odébb már pontosított vonalakat (pl. közutak)! Köszönöm: Ákos Date: 2026-08-06T17:22:46+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/185579436</link>
-        <guid>https://www.openstreetmap.org/changeset/185579436#comment_1</guid>
-        <pubDate>2026-08-06T17:22:46+02:00</pubDate>
       </item>
   </channel>
 </rss>
