@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Kerékpárutakon ha szabad gyalogosan menni, akkor meg kell adni, hogy el van-e választva a gyalogos és kerékpáros rész a segregated=* címkével. Elválasztott kerékpárutaknál a a foot=designated a helyes, nem a foot=yes. A többi úton pedig mind az az alapértelmezett, hogy gyalogosan szabad rajtuk menni, ott nem adtál hozzá gyakorlatilag új infót a térképhez. Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség#Elérhetőségek További jó térképezést! Date: 2026-08-17T16:40:13+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/187583206</link>
+        <guid>https://www.openstreetmap.org/changeset/187583206#comment_1</guid>
+        <pubDate>2026-08-17T16:40:13+02:00</pubDate>
+      </item><item>
         <title>Contributor: vasony Discussion Comment No.: 3 Comment: Köszi, a táblát is cserélik vajon? Date: 2026-08-17T11:28:40+02:00</title>
         <link>https://www.openstreetmap.org/changeset/187025082</link>
         <guid>https://www.openstreetmap.org/changeset/187025082#comment_3</guid>
@@ -177,11 +182,6 @@
         <link>https://www.openstreetmap.org/changeset/186018098</link>
         <guid>https://www.openstreetmap.org/changeset/186018098#comment_2</guid>
         <pubDate>2026-08-11T20:13:00+02:00</pubDate>
-      </item><item>
-        <title>Contributor: vasony Discussion Comment No.: 5 Comment: A tanya innen egyértelműnek tűnik, viszont a hrsz kereső felhoz még tanya nélküli címeket is. Ezek más címe lennének mit a tanya? Date: 2026-08-10T18:46:09+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/187107467</link>
-        <guid>https://www.openstreetmap.org/changeset/187107467#comment_5</guid>
-        <pubDate>2026-08-10T18:46:09+02:00</pubDate>
       </item>
   </channel>
 </rss>
