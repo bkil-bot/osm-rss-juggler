@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: Outsidertwo Discussion Comment No.: 6 Comment: Elnézést kérek. Hosszabb idő után, most jutottam az OSM szerkesztő felületre és láttam az üzenetet. Vasúti felsővezeték szerelő vagyok. Szelvények és oszlopszámok alapján dolgozunk. Saját térképet készítettem. A szelvénykövek elhelyezkedése abból van. Jó része a helyszínen pontosítva. Az elhelyezéseket és a hiányzó adatokat folyamatosan pótlom, javítom. Date: 2026-08-18T18:02:09+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/186124670</link>
+        <guid>https://www.openstreetmap.org/changeset/186124670#comment_6</guid>
+        <pubDate>2026-08-18T18:02:09+02:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 2 Comment: Javítottam, figyelmesebben kérlek. Sok más nem létező dolgot felvettél itt (fasorok, kanyarodósávok), amit találtam javítottam. Olvasnivaló: https://wiki.openstreetmap.org/wiki/Verifiability Date: 2026-08-18T11:48:22+02:00</title>
         <link>https://www.openstreetmap.org/changeset/187339571</link>
         <guid>https://www.openstreetmap.org/changeset/187339571#comment_2</guid>
@@ -138,11 +143,6 @@
         <guid>https://www.openstreetmap.org/changeset/187214188#comment_2</guid>
         <pubDate>2026-08-12T18:49:44+02:00</pubDate>
       </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 5 Comment: Írtam neki PM-et 3 napja. Szerintem esélytelen. 🤷 Date: 2026-08-12T16:26:16+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/186124670</link>
-        <guid>https://www.openstreetmap.org/changeset/186124670#comment_5</guid>
-        <pubDate>2026-08-12T16:26:16+02:00</pubDate>
-      </item><item>
         <title>Contributor: itamas80 Discussion Comment No.: 2 Comment: Igen, majd az aluljárót is megcsinálom. Date: 2026-08-12T13:18:06+02:00</title>
         <link>https://www.openstreetmap.org/changeset/187207915</link>
         <guid>https://www.openstreetmap.org/changeset/187207915#comment_2</guid>
@@ -177,16 +177,6 @@
         <link>https://www.openstreetmap.org/changeset/187209376</link>
         <guid>https://www.openstreetmap.org/changeset/187209376#comment_2</guid>
         <pubDate>2026-08-11T21:05:03+02:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 3 Comment: Köszi az infót! Megszűnő üzleteket az esetek nagy részében nem szoktunk törölni, mert későbbi szerkesztésnél segíthet a POI előélete. Feltételezhető, hogy itt majd más valami fog nyílni. Visszaállítottam üres üzletként: https://www.openstreetmap.org/changeset/187306831 Date: 2026-08-11T20:25:21+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/183697566</link>
-        <guid>https://www.openstreetmap.org/changeset/183697566#comment_3</guid>
-        <pubDate>2026-08-11T20:25:21+02:00</pubDate>
-      </item><item>
-        <title>Contributor: aronpfabian Discussion Comment No.: 2 Comment: Subway platforms and generally underpasses in Budapest don't have public water taps. If there is any, that is in the closed service areas and only available for transport company or sanitation personnel. In the particular case, there is a paid toilet service in the underpass around the indicated place but that is not a public drinking tap. Date: 2026-08-11T20:13:00+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/186018098</link>
-        <guid>https://www.openstreetmap.org/changeset/186018098#comment_2</guid>
-        <pubDate>2026-08-11T20:13:00+02:00</pubDate>
       </item>
   </channel>
 </rss>
