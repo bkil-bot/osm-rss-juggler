@@ -3,8 +3,44 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new note 5475032 (near Soroksár, 23rd district) / 
+      Created &lt;time title=&quot;24 August 2026 at 11:21&quot; datetime=&quot;2026-08-24T11:21:23Z&quot;&gt;9 minutes ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/balint36&quot;&gt;balint36&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;Unable to answer &amp;quot;Mekkora magassági korlátozás van jelezve?&amp;quot; – SR1 (Közúti vasúti átjáró) – https://osm.org/node/13109520703 via StreetComplete 63.4:
+
+Ezeknél biztosan van magasságkorlátozás, mert korlátozó, csak a vonatból nem láttam, mekkora.</title>
+        <link>https://www.openstreetmap.org/note/5475032#c12219554</link>
+        <guid>https://www.openstreetmap.org/note/5475032#c12219554</guid>
+        <pubDate>Mon, 24 Aug 2026 11:21:23 +0000</pubDate>
+      </item><item>
+        <title>new comment 4560039 (near Meggyesitelep, Szolnok) / 
+      Created &lt;time title=&quot;22 December 2024 at 12:55&quot; datetime=&quot;2024-12-22T12:55:39Z&quot;&gt;over 1 year ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;Itt az út átvált Jubileum térből Jubileumi térre.  Ezt helyes így? Melyik a valós? A környéken POI-k, épület címek is hol így hol úgy vannak jelölve. A helyes verzióval frissíteni kellene őket. / 
+      Updated &lt;time title=&quot; 1 March 2026 at 20:16&quot; datetime=&quot;2026-03-01T20:16:39Z&quot;&gt;6 months ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/itineris&quot;&gt;itineris&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;Az NTA szerint &amp;quot;Jublieumi&amp;quot;. / 
+      Updated &lt;time title=&quot;22 August 2026 at 09:51&quot; datetime=&quot;2026-08-22T09:51:38Z&quot;&gt;2 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Tivadar%20Pong%C3%B3&quot;&gt;Tivadar Pongó&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;Voltam ott átszálláskor és körülnéztem. A vonatállomáson Jubileum tér utcanévtábla volt, illetve két közeli POI-n helyben ki volt írva a címük Jubileum térnek. A szolnok.hu honlapon is találtam néhány Jubileum tér szóhasználatot a hírekben.
+Viszont a szavazákörök adatbázisában Jubileumi tér van, pl: https://www.szolnok.hu/info_szolnok_hu_archivum/files/1016326268_20220118_k%C3%B6rzetmutat%C3%B3_base.pdf
+
+Ilyenkor mire lenne érdemes változtatni? / 
+      Updated &lt;time title=&quot;23 August 2026 at 17:07&quot; datetime=&quot;2026-08-23T17:07:05Z&quot;&gt;about 18 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/itineris&quot;&gt;itineris&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;Alapvetően azt térképezzük, ami a terepen van.
+Ilyen irányú eltérés esetén a másik verzió mehet official_name-be.
+És hogy rendesen megoldódjon az ellentmondás, valaki jelezni szokta az önkormányzat felé, hogy vagy javítsák a Központi Címregiszterben, vagy cseréljék le a táblákat. / 
+      Updated &lt;time title=&quot;24 August 2026 at 11:19&quot; datetime=&quot;2026-08-24T11:19:43Z&quot;&gt;11 minutes ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Tivadar%20Pong%C3%B3&quot;&gt;Tivadar Pongó&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;Írtam egy emailt a szolnoki  önkormányzatnak. Meglátjuk mi lesz belőle.
+Ezen kívül láttam olyan problémát is, hogy a közeli buszmegálló neve Jubileumi térnek van beállítva, viszont a neten a menetrendben Jubileum tér szerepel. Én a megállót biztos annak nevezném, ami oda van írva, nem pedig a tér nevének. De ezt is remélhetőleg megoldja az önkormányzat válasza.</title>
+        <link>https://www.openstreetmap.org/note/4560039#c12219542</link>
+        <guid>https://www.openstreetmap.org/note/4560039#c12219542</guid>
+        <pubDate>Mon, 24 Aug 2026 11:19:43 +0000</pubDate>
+      </item><item>
         <title>new note 5474428 (near Kincsem park lovarda, Sződligeti Horgásztelep, Sződliget) / 
-      Created &lt;time title=&quot;24 August 2026 at 03:55&quot; datetime=&quot;2026-08-24T03:55:33Z&quot;&gt;about 7 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/MoksPet&quot;&gt;MoksPet&lt;/a&gt;
+      Created &lt;time title=&quot;24 August 2026 at 03:55&quot; datetime=&quot;2026-08-24T03:55:33Z&quot;&gt;about 8 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/MoksPet&quot;&gt;MoksPet&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;&amp;quot;It&amp;#39;s in Sződliget, not Vác.&amp;quot;
 OSM snapshot date: 2026-07-14T00:42:02Z
@@ -29,7 +65,7 @@ Attached photo(s):
 https://streetcomplete.app/p/365752.jpg
 https://streetcomplete.app/p/365753.jpg
 https://streetcomplete.app/p/365754.jpg / 
-      Resolved &lt;time title=&quot;24 August 2026 at 00:16&quot; datetime=&quot;2026-08-24T00:16:29Z&quot;&gt;about 10 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/JordiMaMa&quot;&gt;JordiMaMa&lt;/a&gt;
+      Resolved &lt;time title=&quot;24 August 2026 at 00:16&quot; datetime=&quot;2026-08-24T00:16:29Z&quot;&gt;about 11 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/JordiMaMa&quot;&gt;JordiMaMa&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;</title>
         <link>https://www.openstreetmap.org/note/5469145#c12218145</link>
@@ -37,7 +73,7 @@ https://streetcomplete.app/p/365754.jpg /
         <pubDate>Mon, 24 Aug 2026 00:16:29 +0000</pubDate>
       </item><item>
         <title>new note 5473783 (near Gyárdűlő, 10th district) / 
-      Created &lt;time title=&quot;23 August 2026 at 17:28&quot; datetime=&quot;2026-08-23T17:28:06Z&quot;&gt;about 17 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/JordiMaMa&quot;&gt;JordiMaMa&lt;/a&gt;
+      Created &lt;time title=&quot;23 August 2026 at 17:28&quot; datetime=&quot;2026-08-23T17:28:06Z&quot;&gt;about 18 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/JordiMaMa&quot;&gt;JordiMaMa&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Unable to answer &amp;quot;¿Estas escaleras tienen rampa? ¿De qué tipo?&amp;quot; – Escaleras – https://osm.org/way/1346051630 via StreetComplete 63.4:
 
@@ -62,7 +98,7 @@ https://streetcomplete.app/p/366447.jpg</title>
 Viszont a szavazákörök adatbázisában Jubileumi tér van, pl: https://www.szolnok.hu/info_szolnok_hu_archivum/files/1016326268_20220118_k%C3%B6rzetmutat%C3%B3_base.pdf
 
 Ilyenkor mire lenne érdemes változtatni? / 
-      Updated &lt;time title=&quot;23 August 2026 at 17:07&quot; datetime=&quot;2026-08-23T17:07:05Z&quot;&gt;about 17 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/itineris&quot;&gt;itineris&lt;/a&gt;
+      Updated &lt;time title=&quot;23 August 2026 at 17:07&quot; datetime=&quot;2026-08-23T17:07:05Z&quot;&gt;about 18 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/itineris&quot;&gt;itineris&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Alapvetően azt térképezzük, ami a terepen van.
 Ilyen irányú eltérés esetén a másik verzió mehet official_name-be.
@@ -72,12 +108,12 @@ Ilyen irányú eltérés esetén a másik verzió mehet official_name-be.
         <pubDate>Sun, 23 Aug 2026 17:07:05 +0000</pubDate>
       </item><item>
         <title>closed note 5473541 (near Vilyipuszta, Füzérradvány) / 
-      Created &lt;time title=&quot;23 August 2026 at 15:56&quot; datetime=&quot;2026-08-23T15:56:57Z&quot;&gt;about 19 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Tivadar%20Pong%C3%B3&quot;&gt;Tivadar Pongó&lt;/a&gt;
+      Created &lt;time title=&quot;23 August 2026 at 15:56&quot; datetime=&quot;2026-08-23T15:56:57Z&quot;&gt;about 20 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Tivadar%20Pong%C3%B3&quot;&gt;Tivadar Pongó&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Ezt a sétányt én egyáltalán nem látom, ráadásul kerítés választja el az utat a pataktól
 
 via StreetComplete_ee 63.1 / 
-      Resolved &lt;time title=&quot;23 August 2026 at 16:30&quot; datetime=&quot;2026-08-23T16:30:07Z&quot;&gt;about 18 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Tivadar%20Pong%C3%B3&quot;&gt;Tivadar Pongó&lt;/a&gt;
+      Resolved &lt;time title=&quot;23 August 2026 at 16:30&quot; datetime=&quot;2026-08-23T16:30:07Z&quot;&gt;about 19 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Tivadar%20Pong%C3%B3&quot;&gt;Tivadar Pongó&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Töröltem a highway=path ösvényt, mert szerintem már rég eltűnhetett. Legutóbbi módosítás is 2015-ben volt a way object-en.</title>
         <link>https://www.openstreetmap.org/note/5473541#c12216295</link>
@@ -85,12 +121,12 @@ via StreetComplete_ee 63.1 /
         <pubDate>Sun, 23 Aug 2026 16:30:07 +0000</pubDate>
       </item><item>
         <title>closed note 5473542 (near Vilyipuszta, Füzérradvány) / 
-      Created &lt;time title=&quot;23 August 2026 at 15:56&quot; datetime=&quot;2026-08-23T15:56:57Z&quot;&gt;about 19 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Tivadar%20Pong%C3%B3&quot;&gt;Tivadar Pongó&lt;/a&gt;
+      Created &lt;time title=&quot;23 August 2026 at 15:56&quot; datetime=&quot;2026-08-23T15:56:57Z&quot;&gt;about 20 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Tivadar%20Pong%C3%B3&quot;&gt;Tivadar Pongó&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Unable to answer &amp;quot;What’s the name of this place?&amp;quot; – Ice Cream Shop – https://osm.org/node/9678273400 via StreetComplete_ee 63.1:
 
 Ennek hűlt helye sem volt most / 
-      Resolved &lt;time title=&quot;23 August 2026 at 16:30&quot; datetime=&quot;2026-08-23T16:30:06Z&quot;&gt;about 18 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Tivadar%20Pong%C3%B3&quot;&gt;Tivadar Pongó&lt;/a&gt;
+      Resolved &lt;time title=&quot;23 August 2026 at 16:30&quot; datetime=&quot;2026-08-23T16:30:06Z&quot;&gt;about 19 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Tivadar%20Pong%C3%B3&quot;&gt;Tivadar Pongó&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Töröltem a POI-t.</title>
         <link>https://www.openstreetmap.org/note/5473542#c12216294</link>
@@ -98,7 +134,7 @@ Ennek hűlt helye sem volt most /
         <pubDate>Sun, 23 Aug 2026 16:30:06 +0000</pubDate>
       </item><item>
         <title>new note 5473622 (near Pacsirtamajor, Rábaszovát, Bágyogszovát) / 
-      Created &lt;time title=&quot;23 August 2026 at 16:27&quot; datetime=&quot;2026-08-23T16:27:36Z&quot;&gt;about 18 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/FranziskaIsCute&quot;&gt;FranziskaIsCute&lt;/a&gt;
+      Created &lt;time title=&quot;23 August 2026 at 16:27&quot; datetime=&quot;2026-08-23T16:27:36Z&quot;&gt;about 19 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/FranziskaIsCute&quot;&gt;FranziskaIsCute&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;&amp;quot;Posta az épületen belül található. Post office is within the building.&amp;quot;
 OSM snapshot date: 2026-06-03T15:31:04Z
@@ -110,7 +146,7 @@ POI types: wheelchair-yes shop-convenience
         <pubDate>Sun, 23 Aug 2026 16:27:36 +0000</pubDate>
       </item><item>
         <title>new note 5473620 (near Belváros, Siófok) / 
-      Created &lt;time title=&quot;23 August 2026 at 16:26&quot; datetime=&quot;2026-08-23T16:26:46Z&quot;&gt;about 18 hours ago&lt;/time&gt;
+      Created &lt;time title=&quot;23 August 2026 at 16:26&quot; datetime=&quot;2026-08-23T16:26:46Z&quot;&gt;about 19 hours ago&lt;/time&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;gazdasági/koncert bejárat
 
@@ -120,7 +156,7 @@ POI types: wheelchair-yes shop-convenience
         <pubDate>Sun, 23 Aug 2026 16:26:46 +0000</pubDate>
       </item><item>
         <title>new note 5473617 (near Belváros, Siófok) / 
-      Created &lt;time title=&quot;23 August 2026 at 16:25&quot; datetime=&quot;2026-08-23T16:25:59Z&quot;&gt;about 18 hours ago&lt;/time&gt;
+      Created &lt;time title=&quot;23 August 2026 at 16:25&quot; datetime=&quot;2026-08-23T16:25:59Z&quot;&gt;about 19 hours ago&lt;/time&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;középső pénztár
 
@@ -130,7 +166,7 @@ POI types: wheelchair-yes shop-convenience
         <pubDate>Sun, 23 Aug 2026 16:25:59 +0000</pubDate>
       </item><item>
         <title>new note 5473608 (near Pacsirtamajor, Rábaszovát, Bágyogszovát) / 
-      Created &lt;time title=&quot;23 August 2026 at 16:23&quot; datetime=&quot;2026-08-23T16:23:23Z&quot;&gt;about 18 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/FranziskaIsCute&quot;&gt;FranziskaIsCute&lt;/a&gt;
+      Created &lt;time title=&quot;23 August 2026 at 16:23&quot; datetime=&quot;2026-08-23T16:23:23Z&quot;&gt;about 19 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/FranziskaIsCute&quot;&gt;FranziskaIsCute&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;This place does not exist:
 &amp;quot;Store closed, its a regular house now.&amp;quot;
@@ -144,7 +180,7 @@ POI types: wheelchair-no shop-convenience
         <pubDate>Sun, 23 Aug 2026 16:23:23 +0000</pubDate>
       </item><item>
         <title>new note 5473549 (near Belváros, Siófok) / 
-      Created &lt;time title=&quot;23 August 2026 at 16:01&quot; datetime=&quot;2026-08-23T16:01:46Z&quot;&gt;about 18 hours ago&lt;/time&gt;
+      Created &lt;time title=&quot;23 August 2026 at 16:01&quot; datetime=&quot;2026-08-23T16:01:46Z&quot;&gt;about 19 hours ago&lt;/time&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;keleti bejárat
 
@@ -154,7 +190,7 @@ POI types: wheelchair-no shop-convenience
         <pubDate>Sun, 23 Aug 2026 16:01:46 +0000</pubDate>
       </item><item>
         <title>new note 5473542 (near Vilyipuszta, Füzérradvány) / 
-      Created &lt;time title=&quot;23 August 2026 at 15:56&quot; datetime=&quot;2026-08-23T15:56:57Z&quot;&gt;about 19 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Tivadar%20Pong%C3%B3&quot;&gt;Tivadar Pongó&lt;/a&gt;
+      Created &lt;time title=&quot;23 August 2026 at 15:56&quot; datetime=&quot;2026-08-23T15:56:57Z&quot;&gt;about 20 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Tivadar%20Pong%C3%B3&quot;&gt;Tivadar Pongó&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Unable to answer &amp;quot;What’s the name of this place?&amp;quot; – Ice Cream Shop – https://osm.org/node/9678273400 via StreetComplete_ee 63.1:
 
@@ -164,7 +200,7 @@ Ennek hűlt helye sem volt most</title>
         <pubDate>Sun, 23 Aug 2026 15:56:57 +0000</pubDate>
       </item><item>
         <title>new note 5473541 (near Vilyipuszta, Füzérradvány) / 
-      Created &lt;time title=&quot;23 August 2026 at 15:56&quot; datetime=&quot;2026-08-23T15:56:57Z&quot;&gt;about 19 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Tivadar%20Pong%C3%B3&quot;&gt;Tivadar Pongó&lt;/a&gt;
+      Created &lt;time title=&quot;23 August 2026 at 15:56&quot; datetime=&quot;2026-08-23T15:56:57Z&quot;&gt;about 20 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Tivadar%20Pong%C3%B3&quot;&gt;Tivadar Pongó&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Ezt a sétányt én egyáltalán nem látom, ráadásul kerítés választja el az utat a pataktól
 
@@ -174,7 +210,7 @@ via StreetComplete_ee 63.1</title>
         <pubDate>Sun, 23 Aug 2026 15:56:57 +0000</pubDate>
       </item><item>
         <title>new note 5473424 (near Balatonvilágos) / 
-      Created &lt;time title=&quot;23 August 2026 at 15:35&quot; datetime=&quot;2026-08-23T15:35:34Z&quot;&gt;about 19 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Johanna707&quot;&gt;Johanna707&lt;/a&gt;
+      Created &lt;time title=&quot;23 August 2026 at 15:35&quot; datetime=&quot;2026-08-23T15:35:34Z&quot;&gt;about 20 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Johanna707&quot;&gt;Johanna707&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Unable to answer &amp;quot;What’s the surface here?&amp;quot; – Steps – https://osm.org/way/1427912378 via StreetComplete 62.2:
 
@@ -184,7 +220,7 @@ Fém</title>
         <pubDate>Sun, 23 Aug 2026 15:35:34 +0000</pubDate>
       </item><item>
         <title>new note 5473423 (near Balatonvilágos) / 
-      Created &lt;time title=&quot;23 August 2026 at 15:35&quot; datetime=&quot;2026-08-23T15:35:22Z&quot;&gt;about 19 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Johanna707&quot;&gt;Johanna707&lt;/a&gt;
+      Created &lt;time title=&quot;23 August 2026 at 15:35&quot; datetime=&quot;2026-08-23T15:35:22Z&quot;&gt;about 20 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Johanna707&quot;&gt;Johanna707&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Unable to answer &amp;quot;What’s the surface here?&amp;quot; – Steps – https://osm.org/way/1427912377 via StreetComplete 62.2:
 
@@ -199,7 +235,7 @@ Fém</title>
   &lt;div class=&quot;note-comment-text&quot;&gt;gate here
 
 #OsmAnd / 
-      Resolved &lt;time title=&quot;23 August 2026 at 14:07&quot; datetime=&quot;2026-08-23T14:07:37Z&quot;&gt;about 20 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/GBAB&quot;&gt;GBAB&lt;/a&gt;
+      Resolved &lt;time title=&quot;23 August 2026 at 14:07&quot; datetime=&quot;2026-08-23T14:07:37Z&quot;&gt;about 21 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/GBAB&quot;&gt;GBAB&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;</title>
         <link>https://www.openstreetmap.org/note/5472136#c12215650</link>
@@ -211,7 +247,7 @@ Fém</title>
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Es fehlt die Kategorie: Go Kart Bahn
  #CoMaps android 2026.07.16-10-Google / 
-      Resolved &lt;time title=&quot;23 August 2026 at 12:09&quot; datetime=&quot;2026-08-23T12:09:47Z&quot;&gt;about 22 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Spush&quot;&gt;Spush&lt;/a&gt;
+      Resolved &lt;time title=&quot;23 August 2026 at 12:09&quot; datetime=&quot;2026-08-23T12:09:47Z&quot;&gt;about 23 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Spush&quot;&gt;Spush&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;</title>
         <link>https://www.openstreetmap.org/note/5456457#c12215228</link>
@@ -219,7 +255,7 @@ Fém</title>
         <pubDate>Sun, 23 Aug 2026 12:09:47 +0000</pubDate>
       </item><item>
         <title>new note 5473008 (near Teskánd) / 
-      Created &lt;time title=&quot;23 August 2026 at 11:36&quot; datetime=&quot;2026-08-23T11:36:30Z&quot;&gt;about 23 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/vasony-qa&quot;&gt;vasony-qa&lt;/a&gt;
+      Created &lt;time title=&quot;23 August 2026 at 11:36&quot; datetime=&quot;2026-08-23T11:36:30Z&quot;&gt;about 24 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/vasony-qa&quot;&gt;vasony-qa&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Melyik közterület a Patkó utca?</title>
         <link>https://www.openstreetmap.org/note/5473008#c12215130</link>
@@ -227,7 +263,7 @@ Fém</title>
         <pubDate>Sun, 23 Aug 2026 11:36:30 +0000</pubDate>
       </item><item>
         <title>new note 5473005 (near Felsőmajor, Bögöte) / 
-      Created &lt;time title=&quot;23 August 2026 at 11:33&quot; datetime=&quot;2026-08-23T11:33:45Z&quot;&gt;about 23 hours ago&lt;/time&gt;
+      Created &lt;time title=&quot;23 August 2026 at 11:33&quot; datetime=&quot;2026-08-23T11:33:45Z&quot;&gt;about 24 hours ago&lt;/time&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;1. Helyére húzni!
 2. Éttermet csinálni belőle, mert most duplikált hotel van.
