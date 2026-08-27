@@ -3,6 +3,101 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>closed note 5465594 (near Gellérthegy, 11th district) / 
+      Created &lt;time title=&quot;19 August 2026 at 12:25&quot; datetime=&quot;2026-08-19T12:25:46Z&quot;&gt;8 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/toboz&quot;&gt;toboz&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;Unable to answer &amp;quot;Ez még itt van?&amp;quot; – Tájékoztató tábla – https://osm.org/node/8331189096 via StreetComplete_ee 63.4:
+
+Nincs itt tábla
+
+Attached photo(s):
+https://streetcomplete.app/p/365361.jpg / 
+      Resolved &lt;time title=&quot;27 August 2026 at 14:26&quot; datetime=&quot;2026-08-27T14:26:39Z&quot;&gt;4 minutes ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/infeeeee&quot;&gt;infeeeee&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;https://www.openstreetmap.org/changeset/188099772</title>
+        <link>https://www.openstreetmap.org/note/5465594#c12233576</link>
+        <guid>https://www.openstreetmap.org/note/5465594#c12233576</guid>
+        <pubDate>Thu, 27 Aug 2026 14:26:39 +0000</pubDate>
+      </item><item>
+        <title>closed note 5465503 (near Terézváros, 6th district) / 
+      Created &lt;time title=&quot;19 August 2026 at 11:27&quot; datetime=&quot;2026-08-19T11:27:50Z&quot;&gt;8 days ago&lt;/time&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;Uzemeltetoi adatpontositas / Operator data correction - Csok Bisztro, Andrassy ut 112, 1062 Budapest (node 1567041156).
+1) opening_hours=closed HIBAS: az etterem nyitva tart. Helyes / correct: Tu-Fr 10:00-19:00; Sa-Su 09:00-19:00; Mo off
+2) name=Csok Bisztro -&amp;gt; helyes / correct: Csok Bisztro with accent: &amp;quot;Csók Bisztró&amp;quot;
+3) cuisine=hun pontatlan / imprecise; a hely brunch-bisztro es cukraszda / brunch bistro and patisserie: cuisine=brunch;international + shop/patisserie jelleg.
+Forras / source: hivatalos weboldal strukturalt adata https://www.csokbudapest.hu/ (schema.org Restaurant openingHoursSpecification), telefon +36 30 075 9872.
+Erdekeltseg jelezve: a bejelentest a hely marketingjeert felelos csapat kuldi. / Disclosure: submitted by the venue&amp;#39;s marketing team. / 
+      Resolved &lt;time title=&quot;27 August 2026 at 14:20&quot; datetime=&quot;2026-08-27T14:20:42Z&quot;&gt;10 minutes ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/infeeeee&quot;&gt;infeeeee&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;Beküldő sikeresen frissítette a POI-t</title>
+        <link>https://www.openstreetmap.org/note/5465503#c12233560</link>
+        <guid>https://www.openstreetmap.org/note/5465503#c12233560</guid>
+        <pubDate>Thu, 27 Aug 2026 14:20:42 +0000</pubDate>
+      </item><item>
+        <title>closed note 5465504 (near Víziváros, 1st district) / 
+      Created &lt;time title=&quot;19 August 2026 at 11:27&quot; datetime=&quot;2026-08-19T11:27:50Z&quot;&gt;8 days ago&lt;/time&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;Uzemeltetoi adatpontositas / Operator data correction - Aranybastya, Csonak utca 1, 1015 Budapest (node 9248396917).
+opening_hours=&amp;quot;We-Sa 12:00-22:00; Su 12:00-20:00&amp;quot; HIBAS / incorrect. A valos nyitvatartas minden nap / actual hours daily: Mo-Su 12:00-22:00
+Forras / source: hivatalos weboldal strukturalt adata https://www.aranybastya.com/ (schema.org Restaurant openingHoursSpecification, minden nap 12:00-22:00), megerositve a hely sajat leirasaban is (&amp;quot;Open daily from 12:00 to 22:00&amp;quot;).
+Erdekeltseg jelezve: a bejelentest a hely marketingjeert felelos csapat kuldi. / Disclosure: submitted by the venue&amp;#39;s marketing team. / 
+      Resolved &lt;time title=&quot;27 August 2026 at 14:16&quot; datetime=&quot;2026-08-27T14:16:23Z&quot;&gt;14 minutes ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/infeeeee&quot;&gt;infeeeee&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;Beküldő sikeresen frissítette a POI-t, más adatot nem tartalmaz e jegyzet: https://www.openstreetmap.org/changeset/187688205</title>
+        <link>https://www.openstreetmap.org/note/5465504#c12233553</link>
+        <guid>https://www.openstreetmap.org/note/5465504#c12233553</guid>
+        <pubDate>Thu, 27 Aug 2026 14:16:23 +0000</pubDate>
+      </item><item>
+        <title>closed note 5467538 (near Lipótváros, 5th district) / 
+      Created &lt;time title=&quot;20 August 2026 at 12:53&quot; datetime=&quot;2026-08-20T12:53:53Z&quot;&gt;7 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Sappada14&quot;&gt;Sappada14&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;&amp;quot;è un ancora storica&amp;quot;
+OSM snapshot date: 2026-08-11T11:19:54Z
+POI name: Magyar Tengerészek Hősi Emlékműve
+POI types: historic-memorial-plaque
+ #CoMaps android 2026.08.07-3-Google / 
+      Resolved &lt;time title=&quot;27 August 2026 at 14:10&quot; datetime=&quot;2026-08-27T14:10:01Z&quot;&gt;21 minutes ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/infeeeee&quot;&gt;infeeeee&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;Updated: https://www.openstreetmap.org/changeset/188098803</title>
+        <link>https://www.openstreetmap.org/note/5467538#c12233518</link>
+        <guid>https://www.openstreetmap.org/note/5467538#c12233518</guid>
+        <pubDate>Thu, 27 Aug 2026 14:10:01 +0000</pubDate>
+      </item><item>
+        <title>closed note 5467539 (near Lipótváros, 5th district) / 
+      Created &lt;time title=&quot;20 August 2026 at 12:53&quot; datetime=&quot;2026-08-20T12:53:53Z&quot;&gt;7 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Sappada14&quot;&gt;Sappada14&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;&amp;quot;è un tendone&amp;quot;
+OSM snapshot date: 2026-08-11T11:19:54Z
+POI has no name
+POI types: shop-alcohol
+ #CoMaps android 2026.08.07-3-Google / 
+      Resolved &lt;time title=&quot;27 August 2026 at 13:53&quot; datetime=&quot;2026-08-27T13:53:46Z&quot;&gt;37 minutes ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/infeeeee&quot;&gt;infeeeee&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;We don&amp;#39;t map temporary features</title>
+        <link>https://www.openstreetmap.org/note/5467539#c12233458</link>
+        <guid>https://www.openstreetmap.org/note/5467539#c12233458</guid>
+        <pubDate>Thu, 27 Aug 2026 13:53:46 +0000</pubDate>
+      </item><item>
+        <title>new comment 5467537 (near Palotanegyed, 8th district) / 
+      Created &lt;time title=&quot;20 August 2026 at 12:53&quot; datetime=&quot;2026-08-20T12:53:53Z&quot;&gt;7 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Sappada14&quot;&gt;Sappada14&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;This place does not exist:
+&amp;quot;senza idrante&amp;quot;
+A CoMaps user reported that the POI was visible on the map (see snapshot date below), but was not found on the ground.
+OSM snapshot date: 2026-08-03T22:53:49Z
+POI has no name
+POI types: emergency-fire_hydrant
+ #CoMaps android 2026.08.07-3-Google / 
+      Updated &lt;time title=&quot;27 August 2026 at 13:31&quot; datetime=&quot;2026-08-27T13:31:38Z&quot;&gt;about 1 hour ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/infeeeee&quot;&gt;infeeeee&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;It was there in July, we have a photo, it&amp;#39;s just hard to notice, between scaffolding and tables. Are you sure it was removed recently?
+
+Mapillary: https://www.mapillary.com/app/?lat=47.49270700000005&amp;amp;lng=19.06577249999998&amp;amp;z=18.81464262085604&amp;amp;pKey=2058121394786986&amp;amp;focus=photo&amp;amp;x=0.40699870434353247&amp;amp;y=0.5598644730482469&amp;amp;zoom=2.066604543496957</title>
+        <link>https://www.openstreetmap.org/note/5467537#c12233377</link>
+        <guid>https://www.openstreetmap.org/note/5467537#c12233377</guid>
+        <pubDate>Thu, 27 Aug 2026 13:31:38 +0000</pubDate>
+      </item><item>
         <title>closed note 5473783 (near Gyárdűlő, 10th district) / 
       Created &lt;time title=&quot;23 August 2026 at 17:28&quot; datetime=&quot;2026-08-23T17:28:06Z&quot;&gt;4 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/JordiMaMa&quot;&gt;JordiMaMa&lt;/a&gt;
   &lt;/div&gt;
@@ -12,7 +107,7 @@ There are no stairs. The way is in no good shape for a wheelchair because is not
 
 Attached photo(s):
 https://streetcomplete.app/p/366447.jpg / 
-      Resolved &lt;time title=&quot;27 August 2026 at 13:26&quot; datetime=&quot;2026-08-27T13:26:39Z&quot;&gt;4 minutes ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/infeeeee&quot;&gt;infeeeee&lt;/a&gt;
+      Resolved &lt;time title=&quot;27 August 2026 at 13:26&quot; datetime=&quot;2026-08-27T13:26:39Z&quot;&gt;about 1 hour ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/infeeeee&quot;&gt;infeeeee&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Updated, thanks! https://www.openstreetmap.org/changeset/188096605</title>
         <link>https://www.openstreetmap.org/note/5473783#c12233356</link>
@@ -20,14 +115,14 @@ https://streetcomplete.app/p/366447.jpg /
         <pubDate>Thu, 27 Aug 2026 13:26:39 +0000</pubDate>
       </item><item>
         <title>closed note 5479572 (near Angyalföld, 13th district) / 
-      Created &lt;time title=&quot;26 August 2026 at 14:37&quot; datetime=&quot;2026-08-26T14:37:16Z&quot;&gt;about 23 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Horv%C3%A1th%20M%C3%B3zes&quot;&gt;Horváth Mózes&lt;/a&gt;
+      Created &lt;time title=&quot;26 August 2026 at 14:37&quot; datetime=&quot;2026-08-26T14:37:16Z&quot;&gt;about 24 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Horv%C3%A1th%20M%C3%B3zes&quot;&gt;Horváth Mózes&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;&amp;quot;Üdítők, Szeszes italok, Papír írószer, Kozmetikum, Party kellék, Műanyag tároló&amp;quot;
 OSM snapshot date: 2026-08-03T22:53:49Z
 POI name: T-Mini Market
 POI types: shop-convenience
  #CoMaps android 2026.08.07-3-Google / 
-      Resolved &lt;time title=&quot;27 August 2026 at 12:26&quot; datetime=&quot;2026-08-27T12:26:21Z&quot;&gt;about 1 hour ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/infeeeee&quot;&gt;infeeeee&lt;/a&gt;
+      Resolved &lt;time title=&quot;27 August 2026 at 12:26&quot; datetime=&quot;2026-08-27T12:26:21Z&quot;&gt;about 2 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/infeeeee&quot;&gt;infeeeee&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Sikerült felvenni, köszönjük a közreműködést! További jó térképezést!</title>
         <link>https://www.openstreetmap.org/note/5479572#c12233152</link>
@@ -39,7 +134,7 @@ POI types: shop-convenience
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Ökoturisztikai látogatóközpont
 https://www.youtube.com/watch?v=Y3fNSNZswzI / 
-      Resolved &lt;time title=&quot;27 August 2026 at 00:57&quot; datetime=&quot;2026-08-27T00:57:48Z&quot;&gt;about 13 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/&amp;#39;Lex&quot;&gt;&amp;#39;Lex&lt;/a&gt;
+      Resolved &lt;time title=&quot;27 August 2026 at 00:57&quot; datetime=&quot;2026-08-27T00:57:48Z&quot;&gt;about 14 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/&amp;#39;Lex&quot;&gt;&amp;#39;Lex&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Felrajzoltam Mapbox Satellite, bejelentő által linkelt videó és Facebook oldalán található drónfotók alapján.</title>
         <link>https://www.openstreetmap.org/note/5122793#c12231742</link>
@@ -55,7 +150,7 @@ OSM snapshot date: 2026-07-14T00:42:02Z
 POI name: Roncs Bár
 POI types: building wheelchair-yes amenity-pub
  #organicmaps android 2026.07.23-6-Google / 
-      Resolved &lt;time title=&quot;26 August 2026 at 22:16&quot; datetime=&quot;2026-08-26T22:16:18Z&quot;&gt;about 15 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/&amp;#39;Lex&quot;&gt;&amp;#39;Lex&lt;/a&gt;
+      Resolved &lt;time title=&quot;26 August 2026 at 22:16&quot; datetime=&quot;2026-08-26T22:16:18Z&quot;&gt;about 16 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/&amp;#39;Lex&quot;&gt;&amp;#39;Lex&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Köszi a bejelentést! Igen, már lassan 2 éve... disused-ra állítva.
 
@@ -79,7 +174,7 @@ POI types: tourism-information-office
       Updated &lt;time title=&quot;26 August 2026 at 04:08&quot; datetime=&quot;2026-08-26T04:08:03Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Aquila70&quot;&gt;Aquila70&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Igaza van. Elnézést kérek! / 
-      Resolved &lt;time title=&quot;26 August 2026 at 22:08&quot; datetime=&quot;2026-08-26T22:08:14Z&quot;&gt;about 15 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/&amp;#39;Lex&quot;&gt;&amp;#39;Lex&lt;/a&gt;
+      Resolved &lt;time title=&quot;26 August 2026 at 22:08&quot; datetime=&quot;2026-08-26T22:08:14Z&quot;&gt;about 16 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/&amp;#39;Lex&quot;&gt;&amp;#39;Lex&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Semmi gond, köszönjük a bejelentéseket!</title>
         <link>https://www.openstreetmap.org/note/5467853#c12231538</link>
@@ -87,7 +182,7 @@ POI types: tourism-information-office
         <pubDate>Wed, 26 Aug 2026 22:08:14 +0000</pubDate>
       </item><item>
         <title>new note 5480160 (near Nádorkert, 11th district) / 
-      Created &lt;time title=&quot;26 August 2026 at 21:50&quot; datetime=&quot;2026-08-26T21:50:25Z&quot;&gt;about 16 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/balint36&quot;&gt;balint36&lt;/a&gt;
+      Created &lt;time title=&quot;26 August 2026 at 21:50&quot; datetime=&quot;2026-08-26T21:50:25Z&quot;&gt;about 17 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/balint36&quot;&gt;balint36&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Helyszínen ellenőrizni kell, hogy a (MÁV) épületen valóban így mennek-e át gyalogutak – ha átemennek gyalogutak,</title>
         <link>https://www.openstreetmap.org/note/5480160#c12231483</link>
@@ -95,7 +190,7 @@ POI types: tourism-information-office
         <pubDate>Wed, 26 Aug 2026 21:50:25 +0000</pubDate>
       </item><item>
         <title>new note 5479834 (near Szabótelep, 20th district) / 
-      Created &lt;time title=&quot;26 August 2026 at 17:01&quot; datetime=&quot;2026-08-26T17:01:27Z&quot;&gt;about 20 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/nubiai&quot;&gt;nubiai&lt;/a&gt;
+      Created &lt;time title=&quot;26 August 2026 at 17:01&quot; datetime=&quot;2026-08-26T17:01:27Z&quot;&gt;about 21 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/nubiai&quot;&gt;nubiai&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Nemzeti Dohánybolt
 1202 Budapest, Nagysándor József u. 170.
@@ -110,7 +205,7 @@ https://streetcomplete.app/p/367188.jpg</title>
         <pubDate>Wed, 26 Aug 2026 17:01:27 +0000</pubDate>
       </item><item>
         <title>new note 5479572 (near Angyalföld, 13th district) / 
-      Created &lt;time title=&quot;26 August 2026 at 14:37&quot; datetime=&quot;2026-08-26T14:37:16Z&quot;&gt;about 23 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Horv%C3%A1th%20M%C3%B3zes&quot;&gt;Horváth Mózes&lt;/a&gt;
+      Created &lt;time title=&quot;26 August 2026 at 14:37&quot; datetime=&quot;2026-08-26T14:37:16Z&quot;&gt;about 24 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Horv%C3%A1th%20M%C3%B3zes&quot;&gt;Horváth Mózes&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;&amp;quot;Üdítők, Szeszes italok, Papír írószer, Kozmetikum, Party kellék, Műanyag tároló&amp;quot;
 OSM snapshot date: 2026-08-03T22:53:49Z
@@ -122,7 +217,7 @@ POI types: shop-convenience
         <pubDate>Wed, 26 Aug 2026 14:37:16 +0000</pubDate>
       </item><item>
         <title>new note 5479524 (near Bűdszentmihály, Tiszavasvári) / 
-      Created &lt;time title=&quot;26 August 2026 at 14:11&quot; datetime=&quot;2026-08-26T14:11:54Z&quot;&gt;about 23 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/l321tc&quot;&gt;l321tc&lt;/a&gt;
+      Created &lt;time title=&quot;26 August 2026 at 14:11&quot; datetime=&quot;2026-08-26T14:11:54Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/l321tc&quot;&gt;l321tc&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;&amp;quot;a hely bezárt kb egy éve! helyette ATM van itt&amp;quot;
 The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground.
@@ -723,139 +818,6 @@ https://civishir.hu/hir/szima-gabor-szabadulna-a-hires-szallodatol</title>
         <link>https://www.openstreetmap.org/note/5467849#c12226674</link>
         <guid>https://www.openstreetmap.org/note/5467849#c12226674</guid>
         <pubDate>Tue, 25 Aug 2026 20:55:45 +0000</pubDate>
-      </item><item>
-        <title>closed note 5467850 (near Máta major, Máta, Mátai ménes lovas-falu, Hortobágy) / 
-      Created &lt;time title=&quot;20 August 2026 at 15:21&quot; datetime=&quot;2026-08-20T15:21:35Z&quot;&gt;7 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Aquila70&quot;&gt;Aquila70&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;&amp;quot;Megszűnt &amp;quot;
-The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground.
-OSM snapshot date: 2026-07-14T00:42:02Z
-POI has no name
-POI types: building tourism-guest_house
- #organicmaps android 2026.07.23-6-Google / 
-      Resolved &lt;time title=&quot;25 August 2026 at 20:55&quot; datetime=&quot;2026-08-25T20:55:42Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/&amp;#39;Lex&quot;&gt;&amp;#39;Lex&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Szálló és apartmanjai valóban elhagyatottak már évek óta. Disused tag hozzáadása.
-https://www.haon.hu/helyi-kozelet/2026/02/munkasszallo-epona-hortobagy-bdr
-
-https://civishir.hu/hir/szima-gabor-szabadulna-a-hires-szallodatol</title>
-        <link>https://www.openstreetmap.org/note/5467850#c12226673</link>
-        <guid>https://www.openstreetmap.org/note/5467850#c12226673</guid>
-        <pubDate>Tue, 25 Aug 2026 20:55:42 +0000</pubDate>
-      </item><item>
-        <title>closed note 5467851 (near Máta major, Máta, Mátai ménes lovas-falu, Hortobágy) / 
-      Created &lt;time title=&quot;20 August 2026 at 15:21&quot; datetime=&quot;2026-08-20T15:21:35Z&quot;&gt;7 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Aquila70&quot;&gt;Aquila70&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;&amp;quot;Megszűnt &amp;quot;
-The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground.
-OSM snapshot date: 2026-07-14T00:42:02Z
-POI has no name
-POI types: building tourism-guest_house
- #organicmaps android 2026.07.23-6-Google / 
-      Resolved &lt;time title=&quot;25 August 2026 at 20:55&quot; datetime=&quot;2026-08-25T20:55:39Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/&amp;#39;Lex&quot;&gt;&amp;#39;Lex&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Szálló és apartmanjai valóban elhagyatottak már évek óta. Disused tag hozzáadása.
-https://www.haon.hu/helyi-kozelet/2026/02/munkasszallo-epona-hortobagy-bdr
-
-https://civishir.hu/hir/szima-gabor-szabadulna-a-hires-szallodatol</title>
-        <link>https://www.openstreetmap.org/note/5467851#c12226672</link>
-        <guid>https://www.openstreetmap.org/note/5467851#c12226672</guid>
-        <pubDate>Tue, 25 Aug 2026 20:55:39 +0000</pubDate>
-      </item><item>
-        <title>closed note 5467852 (near Máta major, Máta, Mátai ménes lovas-falu, Hortobágy) / 
-      Created &lt;time title=&quot;20 August 2026 at 15:21&quot; datetime=&quot;2026-08-20T15:21:35Z&quot;&gt;7 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Aquila70&quot;&gt;Aquila70&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;&amp;quot;Megszűnt &amp;quot;
-The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground.
-OSM snapshot date: 2026-07-14T00:42:02Z
-POI has no name
-POI types: building tourism-guest_house
- #organicmaps android 2026.07.23-6-Google / 
-      Resolved &lt;time title=&quot;25 August 2026 at 20:55&quot; datetime=&quot;2026-08-25T20:55:37Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/&amp;#39;Lex&quot;&gt;&amp;#39;Lex&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Szálló és apartmanjai valóban elhagyatottak már évek óta. Disused tag hozzáadása.
-https://www.haon.hu/helyi-kozelet/2026/02/munkasszallo-epona-hortobagy-bdr
-
-https://civishir.hu/hir/szima-gabor-szabadulna-a-hires-szallodatol</title>
-        <link>https://www.openstreetmap.org/note/5467852#c12226671</link>
-        <guid>https://www.openstreetmap.org/note/5467852#c12226671</guid>
-        <pubDate>Tue, 25 Aug 2026 20:55:37 +0000</pubDate>
-      </item><item>
-        <title>closed note 5465224 (near Máta major, Máta, Mátai ménes lovas-falu, Hortobágy) / 
-      Created &lt;time title=&quot;19 August 2026 at 09:30&quot; datetime=&quot;2026-08-19T09:30:19Z&quot;&gt;8 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Aquila70&quot;&gt;Aquila70&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;&amp;quot;Megszűnt &amp;quot;
-The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground.
-OSM snapshot date: 2026-07-14T00:42:02Z
-POI has no name
-POI types: sport-swimming
- #organicmaps android 2026.07.23-6-Google / 
-      Resolved &lt;time title=&quot;25 August 2026 at 20:55&quot; datetime=&quot;2026-08-25T20:55:34Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/&amp;#39;Lex&quot;&gt;&amp;#39;Lex&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Szálló és apartmanjai valóban elhagyatottak már évek óta. Disused tag hozzáadása.
-https://www.haon.hu/helyi-kozelet/2026/02/munkasszallo-epona-hortobagy-bdr
-
-https://civishir.hu/hir/szima-gabor-szabadulna-a-hires-szallodatol</title>
-        <link>https://www.openstreetmap.org/note/5465224#c12226670</link>
-        <guid>https://www.openstreetmap.org/note/5465224#c12226670</guid>
-        <pubDate>Tue, 25 Aug 2026 20:55:34 +0000</pubDate>
-      </item><item>
-        <title>closed note 5465227 (near Máta major, Máta, Mátai ménes lovas-falu, Hortobágy) / 
-      Created &lt;time title=&quot;19 August 2026 at 09:30&quot; datetime=&quot;2026-08-19T09:30:20Z&quot;&gt;8 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Aquila70&quot;&gt;Aquila70&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;&amp;quot;Megszűnt &amp;quot;
-The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground.
-OSM snapshot date: 2026-07-14T00:42:02Z
-POI has no name
-POI types: sport-equestrian leisure-pitch
- #organicmaps android 2026.07.23-6-Google / 
-      Resolved &lt;time title=&quot;25 August 2026 at 20:55&quot; datetime=&quot;2026-08-25T20:55:32Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/&amp;#39;Lex&quot;&gt;&amp;#39;Lex&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Szálló és apartmanjai valóban elhagyatottak már évek óta. Disused tag hozzáadása.
-https://www.haon.hu/helyi-kozelet/2026/02/munkasszallo-epona-hortobagy-bdr
-
-https://civishir.hu/hir/szima-gabor-szabadulna-a-hires-szallodatol</title>
-        <link>https://www.openstreetmap.org/note/5465227#c12226668</link>
-        <guid>https://www.openstreetmap.org/note/5465227#c12226668</guid>
-        <pubDate>Tue, 25 Aug 2026 20:55:32 +0000</pubDate>
-      </item><item>
-        <title>closed note 5465236 (near Máta major, Máta, Mátai ménes lovas-falu, Hortobágy) / 
-      Created &lt;time title=&quot;19 August 2026 at 09:30&quot; datetime=&quot;2026-08-19T09:30:22Z&quot;&gt;8 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Aquila70&quot;&gt;Aquila70&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;&amp;quot;Megszűnt &amp;quot;
-The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground.
-OSM snapshot date: 2026-07-14T00:42:02Z
-POI has no name
-POI types: building tourism-guest_house
- #organicmaps android 2026.07.23-6-Google / 
-      Resolved &lt;time title=&quot;25 August 2026 at 20:55&quot; datetime=&quot;2026-08-25T20:55:29Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/&amp;#39;Lex&quot;&gt;&amp;#39;Lex&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Szálló és apartmanjai valóban elhagyatottak már évek óta. Disused tag hozzáadása.
-https://www.haon.hu/helyi-kozelet/2026/02/munkasszallo-epona-hortobagy-bdr
-
-https://civishir.hu/hir/szima-gabor-szabadulna-a-hires-szallodatol</title>
-        <link>https://www.openstreetmap.org/note/5465236#c12226666</link>
-        <guid>https://www.openstreetmap.org/note/5465236#c12226666</guid>
-        <pubDate>Tue, 25 Aug 2026 20:55:29 +0000</pubDate>
-      </item><item>
-        <title>closed note 5465235 (near Máta major, Máta, Mátai ménes lovas-falu, Hortobágy) / 
-      Created &lt;time title=&quot;19 August 2026 at 09:30&quot; datetime=&quot;2026-08-19T09:30:22Z&quot;&gt;8 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Aquila70&quot;&gt;Aquila70&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;&amp;quot;Megszűnt &amp;quot;
-The place has gone or never existed. A user of Organic Maps application has reported that the POI was visible on the map (see snapshot date below), but was not found on the ground.
-OSM snapshot date: 2026-07-14T00:42:02Z
-POI has no name
-POI types: building tourism-guest_house
- #organicmaps android 2026.07.23-6-Google / 
-      Resolved &lt;time title=&quot;25 August 2026 at 20:55&quot; datetime=&quot;2026-08-25T20:55:27Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/&amp;#39;Lex&quot;&gt;&amp;#39;Lex&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Szálló és apartmanjai valóban elhagyatottak már évek óta. Disused tag hozzáadása.
-https://www.haon.hu/helyi-kozelet/2026/02/munkasszallo-epona-hortobagy-bdr
-
-https://civishir.hu/hir/szima-gabor-szabadulna-a-hires-szallodatol</title>
-        <link>https://www.openstreetmap.org/note/5465235#c12226665</link>
-        <guid>https://www.openstreetmap.org/note/5465235#c12226665</guid>
-        <pubDate>Tue, 25 Aug 2026 20:55:27 +0000</pubDate>
       </item>
   </channel>
 </rss>
