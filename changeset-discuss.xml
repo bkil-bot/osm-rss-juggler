@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: balint36 Discussion Comment No.: 2 Comment: Nincs párhuzamos út. A korábbi út a jelenlegi második vágány helyén futott. Külön megemlítendő, hogy az út a 150-es vasútvonal egyik és másik oldalán fut. A korábban OSM-en jelölt keresztezésénél már fizikailag sem lehetséges az átjárás, kizárólag a kiépített vasúti átjárókon, amiket az OSM már teljeskörűen jelöl. Az egy más kérdéskör, hogy nem lenne túl egészséges a túraútvonalat a kiépített átjárók helyett a puszta nyíltvonalon átvezetni a 160 km/h-s vasúti pályán, de ez már annak is a felelőssége, aki majd a 150-es vasútvonal építése után az új útvonalat. Date: 2026-08-28T21:16:27+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/170637790</link>
+        <guid>https://www.openstreetmap.org/changeset/170637790#comment_2</guid>
+        <pubDate>2026-08-28T21:16:27+02:00</pubDate>
+      </item><item>
+        <title>Contributor: balint36 Discussion Comment No.: 2 Comment: Nincs párhuzamos út. A korábbi út a jelenlegi második vágány helyén futott. Itt ráadásul a vasúti pálya két oldalán árok van, Felsőszentivánnál pedig zajvédő fal is. Külön megemlítendő, hogy az út a 150-es vasútvonal egyik és másik oldalán fut. A korábban OSM-en jelölt keresztezésénél már fizikailag sem lehetséges az átjárás, kizárólag a kiépített vasúti átjárókon, amiket az OSM már teljeskörűen jelöl. Az egy más kérdéskör, hogy nem lenne túl egészséges a túraútvonalat a kiépített átjárók helyett a puszta nyíltvonalon átvezetni a 160 km/h-s vasúti pályán, de ez már annak is a felelőssége, aki majd a 150-es vasútvonal építése után az új útvonalat. Date: 2026-08-28T21:16:26+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/178869361</link>
+        <guid>https://www.openstreetmap.org/changeset/178869361#comment_2</guid>
+        <pubDate>2026-08-28T21:16:26+02:00</pubDate>
+      </item><item>
         <title>Contributor: qstep Discussion Comment No.: 3 Comment: Ugyanakkor a 35. oldalon egyszerre Vecsési útnak és Külső kerületi körútnak is nevezik. Date: 2026-08-28T12:42:41+02:00</title>
         <link>https://www.openstreetmap.org/changeset/187992706</link>
         <guid>https://www.openstreetmap.org/changeset/187992706#comment_3</guid>
@@ -12,16 +22,6 @@
         <link>https://www.openstreetmap.org/changeset/188145077</link>
         <guid>https://www.openstreetmap.org/changeset/188145077#comment_1</guid>
         <pubDate>2026-08-28T12:40:11+02:00</pubDate>
-      </item><item>
-        <title>Contributor: petervelosy Discussion Comment No.: 1 Comment: Ezen a szakaszon egy darabig a sínekkel párhuzamosan fut a Magyar Zarándokút Tass-Dunavecse alternatív szakasza (relation/3949513), az OSM-ben a relation-ben van itt egy hiányzó szakasz. Van-e információd a bejárásból arról, hogy a relation-ből hiányzó szakaszon van-e gyaloglásra alkalmas út? Date: 2026-08-27T20:51:18+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/170637790</link>
-        <guid>https://www.openstreetmap.org/changeset/170637790#comment_1</guid>
-        <pubDate>2026-08-27T20:51:18+02:00</pubDate>
-      </item><item>
-        <title>Contributor: petervelosy Discussion Comment No.: 1 Comment: Ezen a szakaszon egy darabig a sínekkel párhuzamosan fut a Magyar Zarándokút fő útvonala (relation 2168931), az OSM-ben a relation-ben van itt egy hiányzó szakasz. Van-e információd a bejárásból arról, hogy a relation-ből hiányzó szakaszon van-e gyaloglásra alkalmas út? Date: 2026-08-27T20:48:39+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/178869361</link>
-        <guid>https://www.openstreetmap.org/changeset/178869361#comment_1</guid>
-        <pubDate>2026-08-27T20:48:39+02:00</pubDate>
       </item><item>
         <title>Contributor: petervelosy Discussion Comment No.: 1 Comment: The Dél-Baranyai-dombság kistáj's boundary nodes (way 380535538) were accidentally dragged in this changeset. This mistake was reverted in changeset 188115172 Date: 2026-08-27T19:40:58+02:00</title>
         <link>https://www.openstreetmap.org/changeset/188101035</link>
