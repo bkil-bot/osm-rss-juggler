@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: 'Lex Discussion Comment No.: 2 Comment: A Máltai szeretszolgálat honlapján még itt van az intézmény: https://www.maltai.hu/tevekenyseg/intezmeny/162 Facebook-juk is aktív, szintén erre a címre szól: https://www.facebook.com/mmsznydr/ A Wolt Market egy dark store (pont mint: https://www.openstreetmap.org/way/461179376), és a honlapján ugyan pontos címet nem ír, de ha a https://wolt.com/hu/hun/gyor/venue/wolt-market-gyor nyitósorán Helyszín adatai-ra nyomsz, akkor egy innen délre, utca túloldalán lévő épületre mutat (https://www.openstreetmap.org/way/426264781) Szóval ez szerintem egy hibás módosítás. Date: 2026-08-29T20:05:26+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/187826197</link>
+        <guid>https://www.openstreetmap.org/changeset/187826197#comment_2</guid>
+        <pubDate>2026-08-29T20:05:26+02:00</pubDate>
+      </item><item>
         <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szia! Légy szíves ne töröld a POI címeket. Ha egy POI egy házon belül van, attól még a címe nem duplikátum. Tamás Date: 2026-08-29T16:14:03+02:00</title>
         <link>https://www.openstreetmap.org/changeset/188109779</link>
         <guid>https://www.openstreetmap.org/changeset/188109779#comment_1</guid>
@@ -167,16 +172,6 @@
         <link>https://www.openstreetmap.org/changeset/186519963</link>
         <guid>https://www.openstreetmap.org/changeset/186519963#comment_2</guid>
         <pubDate>2026-08-23T10:59:06+02:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Szia. Ilyenkor, ha egy üzlet helyét átvette egy másik, akkor a meglévő pontot módosítjuk, és nem töröljük. Date: 2026-08-22T21:56:39+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/187830083</link>
-        <guid>https://www.openstreetmap.org/changeset/187830083#comment_1</guid>
-        <pubDate>2026-08-22T21:56:39+02:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Szia! Ez így nem lesz jó. A Máltai szeretetszolgálat már nincs ott? Ha nincs, akkor a többi címkét is javítani kellene. Ha igen, akkor új pontként kellene felvinni a Wolt Marketet. Date: 2026-08-22T21:54:57+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/187826197</link>
-        <guid>https://www.openstreetmap.org/changeset/187826197#comment_1</guid>
-        <pubDate>2026-08-22T21:54:57+02:00</pubDate>
       </item>
   </channel>
 </rss>
