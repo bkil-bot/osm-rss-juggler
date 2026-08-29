@@ -3,6 +3,26 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: balint36 Discussion Comment No.: 1 Comment: Ez a rész is tökéletesen megvolt csinálva eddig, nem értem, miért kellett rontani rajta. A note nem viccből volt rajta azokon a vonalakon, amikbe belerontottál. Date: 2026-08-29T14:07:41+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/179544184</link>
+        <guid>https://www.openstreetmap.org/changeset/179544184#comment_1</guid>
+        <pubDate>2026-08-29T14:07:41+02:00</pubDate>
+      </item><item>
+        <title>Contributor: balint36 Discussion Comment No.: 1 Comment: A 64-es vonal címkéibe is belerontottál. Date: 2026-08-29T14:05:02+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/179632698</link>
+        <guid>https://www.openstreetmap.org/changeset/179632698#comment_1</guid>
+        <pubDate>2026-08-29T14:05:02+02:00</pubDate>
+      </item><item>
+        <title>Contributor: vasony Discussion Comment No.: 4 Comment: Szia! Budapesten egyértelműen egy jegyzék szabályozza, hogy mik a hivatalos utcanevek. Ez nincs benne. Ez esetben ha nincs táblázva (mert azért vannak ilyenek amik jegyzékben nem de tábla szerint léteznek ), akkor ez max loc_name vagy alt_name lehet. Rákeresve a Külső kerületi körút inkább egy erősen tervezett valami, aminek ez a része épp a Vecsési úton fut, inkább egy logikai név mint a Nagykörút, mint egy konkrét utcanév. Date: 2026-08-29T13:57:22+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/187992706</link>
+        <guid>https://www.openstreetmap.org/changeset/187992706#comment_4</guid>
+        <pubDate>2026-08-29T13:57:22+02:00</pubDate>
+      </item><item>
+        <title>Contributor: balint36 Discussion Comment No.: 2 Comment: Oh, schon wieder jemand, der meint, die ungarische Eisenbahn besser zu kennen als diejenigen, die sie täglich nutzen und kartieren – und dabei erneut etwas falsch geändert hat. Der Bahnhof beginnt am Einfahrsignal. Zur Unterstützung habe ich dir das Einfahrsignal von Óbuda eingezeichnet (node/14133094677). Der Punkt, an dem wir ursprünglich den Beginn der beiden Gleise markiert haben (den du überschrieben hast), liegt eindeutig bereits im Bahnhofsbereich. Ja, das ist eine ungarische Besonderheit: Der Halt Aquincum liegt tatsächlich innerhalb des Bahnhofsbereichs von Óbuda. Genau hier sieht man, dass man ohne Kenntnis der lokalen Gegebenheiten leicht falsche Eindrücke bekommt und dadurch fehlerhafte Änderungen entstehen. Für uns wäre es eine große Hilfe, wenn bei Unsicherheiten bezüglich der ungarischen Eisenbahn lieber keine Änderungen vorgenommen würden. Ein erheblicher Teil unserer Arbeit besteht leider darin, fehlerhafte Bearbeitungen anderer Nutzer wieder rückgängig zu machen. Bei Angyalföld ist es dasselbe. Das Einfahrsignal dort ist: node/14133094678 Date: 2026-08-29T13:46:00+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/184171449</link>
+        <guid>https://www.openstreetmap.org/changeset/184171449#comment_2</guid>
+        <pubDate>2026-08-29T13:46:00+02:00</pubDate>
+      </item><item>
         <title>Contributor: RolandHUN_Mapper Discussion Comment No.: 1 Comment: Helló! Úgy tűnik hosszú idő után végre sikerült javítani. :) Gratulálok a precíz beavatkozáshoz! :) Date: 2026-08-29T13:11:49+02:00</title>
         <link>https://www.openstreetmap.org/changeset/188148992</link>
         <guid>https://www.openstreetmap.org/changeset/188148992#comment_1</guid>
@@ -17,11 +37,6 @@
         <link>https://www.openstreetmap.org/changeset/170637790</link>
         <guid>https://www.openstreetmap.org/changeset/170637790#comment_3</guid>
         <pubDate>2026-08-28T21:55:28+02:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 3 Comment: Ugyanakkor a 35. oldalon egyszerre Vecsési útnak és Külső kerületi körútnak is nevezik. Date: 2026-08-28T12:42:41+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/187992706</link>
-        <guid>https://www.openstreetmap.org/changeset/187992706#comment_3</guid>
-        <pubDate>2026-08-28T12:42:41+02:00</pubDate>
       </item><item>
         <title>Contributor: NightH Discussion Comment No.: 1 Comment: Adding buildings to Demecser. Date: 2026-08-28T12:40:11+02:00</title>
         <link>https://www.openstreetmap.org/changeset/188145077</link>
