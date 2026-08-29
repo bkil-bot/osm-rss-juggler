@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: toboz Discussion Comment No.: 5 Comment: Sziasztok! Köszi a magyarázatot és a segítséget. Igen, én is láttam a többféle elnevezést. Én úgy értelmeztem, hogy amíg a Külső kerületi körút nem épült meg, addig a Nagykőrösi útig Vecsés út néven volt, ezért lehetett kétféle neve a dokumentumban. Eddig nem ismertem az alt_name és loc_name tag-eket, de megnézve a wikit én úgy vélem, hogy ez esetben az alt_name jobban illik ehhez. Mit gondoltok, rakjam át, vagy pedig állítsam inkább vissza az eredeti állapotot? Ámos Date: 2026-08-29T20:43:14+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/187992706</link>
+        <guid>https://www.openstreetmap.org/changeset/187992706#comment_5</guid>
+        <pubDate>2026-08-29T20:43:14+02:00</pubDate>
+      </item><item>
         <title>Contributor: 'Lex Discussion Comment No.: 2 Comment: A Máltai szeretszolgálat honlapján még itt van az intézmény: https://www.maltai.hu/tevekenyseg/intezmeny/162 Facebook-juk is aktív, szintén erre a címre szól: https://www.facebook.com/mmsznydr/ A Wolt Market egy dark store (pont mint: https://www.openstreetmap.org/way/461179376), és a honlapján ugyan pontos címet nem ír, de ha a https://wolt.com/hu/hun/gyor/venue/wolt-market-gyor nyitósorán Helyszín adatai-ra nyomsz, akkor egy innen délre, utca túloldalán lévő épületre mutat (https://www.openstreetmap.org/way/426264781) Szóval ez szerintem egy hibás módosítás. Date: 2026-08-29T20:05:26+02:00</title>
         <link>https://www.openstreetmap.org/changeset/187826197</link>
         <guid>https://www.openstreetmap.org/changeset/187826197#comment_2</guid>
@@ -22,11 +27,6 @@
         <link>https://www.openstreetmap.org/changeset/179632698</link>
         <guid>https://www.openstreetmap.org/changeset/179632698#comment_1</guid>
         <pubDate>2026-08-29T14:05:02+02:00</pubDate>
-      </item><item>
-        <title>Contributor: vasony Discussion Comment No.: 4 Comment: Szia! Budapesten egyértelműen egy jegyzék szabályozza, hogy mik a hivatalos utcanevek. Ez nincs benne. Ez esetben ha nincs táblázva (mert azért vannak ilyenek amik jegyzékben nem de tábla szerint léteznek ), akkor ez max loc_name vagy alt_name lehet. Rákeresve a Külső kerületi körút inkább egy erősen tervezett valami, aminek ez a része épp a Vecsési úton fut, inkább egy logikai név mint a Nagykörút, mint egy konkrét utcanév. Date: 2026-08-29T13:57:22+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/187992706</link>
-        <guid>https://www.openstreetmap.org/changeset/187992706#comment_4</guid>
-        <pubDate>2026-08-29T13:57:22+02:00</pubDate>
       </item><item>
         <title>Contributor: balint36 Discussion Comment No.: 2 Comment: Oh, schon wieder jemand, der meint, die ungarische Eisenbahn besser zu kennen als diejenigen, die sie täglich nutzen und kartieren – und dabei erneut etwas falsch geändert hat. Der Bahnhof beginnt am Einfahrsignal. Zur Unterstützung habe ich dir das Einfahrsignal von Óbuda eingezeichnet (node/14133094677). Der Punkt, an dem wir ursprünglich den Beginn der beiden Gleise markiert haben (den du überschrieben hast), liegt eindeutig bereits im Bahnhofsbereich. Ja, das ist eine ungarische Besonderheit: Der Halt Aquincum liegt tatsächlich innerhalb des Bahnhofsbereichs von Óbuda. Genau hier sieht man, dass man ohne Kenntnis der lokalen Gegebenheiten leicht falsche Eindrücke bekommt und dadurch fehlerhafte Änderungen entstehen. Für uns wäre es eine große Hilfe, wenn bei Unsicherheiten bezüglich der ungarischen Eisenbahn lieber keine Änderungen vorgenommen würden. Ein erheblicher Teil unserer Arbeit besteht leider darin, fehlerhafte Bearbeitungen anderer Nutzer wieder rückgängig zu machen. Bei Angyalföld ist es dasselbe. Das Einfahrsignal dort ist: node/14133094678 Date: 2026-08-29T13:46:00+02:00</title>
         <link>https://www.openstreetmap.org/changeset/184171449</link>
