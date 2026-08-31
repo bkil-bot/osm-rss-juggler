@@ -2,7 +2,6 @@
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Change QA (via bkil-bot)</title>
-<item><title>qstep moved place node 4758459774 hamlet Tételhegy in changeset 187280955</title><link>https://www.openstreetmap.org/changeset/187280955</link><guid>https://www.openstreetmap.org/changeset/187280955</guid><pubDate>Tue, 11 Aug 2026 11:50:00 +0000</pubDate></item>
 <item><title>bkil moved place node 32433322 village Újpetre in changeset 187331432</title><link>https://www.openstreetmap.org/changeset/187331432</link><guid>https://www.openstreetmap.org/changeset/187331432</guid><pubDate>Wed, 12 Aug 2026 10:40:53 +0000</pubDate></item>
 <item><title>qstep moved place node 274669382 village Kaposfő in changeset 188199747</title><link>https://www.openstreetmap.org/changeset/188199747</link><guid>https://www.openstreetmap.org/changeset/188199747</guid><pubDate>Sat, 29 Aug 2026 14:19:03 +0000</pubDate></item>
   </channel>
