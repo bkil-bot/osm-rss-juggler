@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Szia. Ilyen esetekben használd inkább a ref=* címkét. Ezek nem az épületek nevei, hanem az azonosítói. Emiatt írtad át a https://www.openstreetmap.org/relation/21321578 kapcsolat nevét is. Date: 2026-09-03T16:19:01+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/188477751</link>
+        <guid>https://www.openstreetmap.org/changeset/188477751#comment_1</guid>
+        <pubDate>2026-09-03T16:19:01+02:00</pubDate>
+      </item><item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv. Mi van helyettük? Date: 2026-09-03T16:14:26+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/188281614</link>
+        <guid>https://www.openstreetmap.org/changeset/188281614#comment_1</guid>
+        <pubDate>2026-09-03T16:14:26+02:00</pubDate>
+      </item><item>
         <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szia! Tudjuk mi van az utcanév táblán? Mert az megy name mezőbe, ha a hivatalos eltér, az megy az official_name mezőbe https://wiki.openstreetmap.org/wiki/Hungary/Jel%C3%B6l%C3%A9si_p%C3%A9ld%C3%A1k#Utcanevek Másik, hogy a parkoló automaták branch értéke a kijelzőn/készüléken található felirat, ennek hiányban innen jön, itt pedig i nélkül van: https://nav.gov.hu/adatbazisok/elemiszer_ertekesites Tamás Date: 2026-09-03T06:52:09+02:00</title>
         <link>https://www.openstreetmap.org/changeset/188306404</link>
         <guid>https://www.openstreetmap.org/changeset/188306404#comment_1</guid>
@@ -142,16 +152,6 @@
         <link>https://www.openstreetmap.org/changeset/188101035</link>
         <guid>https://www.openstreetmap.org/changeset/188101035#comment_1</guid>
         <pubDate>2026-08-27T19:40:58+02:00</pubDate>
-      </item><item>
-        <title>Contributor: Spush Discussion Comment No.: 1 Comment: THX Date: 2026-08-27T18:16:50+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/188092023</link>
-        <guid>https://www.openstreetmap.org/changeset/188092023#comment_1</guid>
-        <pubDate>2026-08-27T18:16:50+02:00</pubDate>
-      </item><item>
-        <title>Contributor: Spush Discussion Comment No.: 2 Comment: Revert. Már egyszer erre az utcára vissza lett vonva egy szerkesztés. Vandalizmus. Date: 2026-08-27T18:13:26+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/188085120</link>
-        <guid>https://www.openstreetmap.org/changeset/188085120#comment_2</guid>
-        <pubDate>2026-08-27T18:13:26+02:00</pubDate>
       </item>
   </channel>
 </rss>
