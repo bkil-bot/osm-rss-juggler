@@ -3,20 +3,25 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: toemke Discussion Comment No.: 2 Comment: Ez egy ipartelep, amelyen az épületek elsődleges megnevezései annak a számai. A telep hivatalos térképén (ez mindenhol elérhető a telepen, képet tudok mellékelni) a számok szerepelnek, valamint az épületeken is nagy betűkkel vannak kiírva a számok. Az épületek bérlői is úgy adják meg az elérhetőségüket, hogy például &quot;FMV telep 10. épület&quot;, így úgy gondolom helyes megnevezés az épületre tekintve a szám. Az hogy milyen cég(ek) vannak egyes épületekben másodlagos információk e tekintetben. Date: 2026-09-03T18:50:19+02:00</title>
+        <title>Contributor: Tivadar Pongó Discussion Comment No.: 2 Comment: Szia Tamás! Ebben a noteban beszéltünk erről: https://www.openstreetmap.org/note/4560039 Röviden: van olyan tábla amin Jubileum tér, van olyan amin Jubileumi tér van írva. Írtam az önkormányzatnak, ők azt írták, hogy a Jubileumi tér a helyes megnevezés és azokat a táblákat, amik rosszak és saját hatáskörben vannak, azokat lecserélik (ezt nem tudom megtörtént-e már). Mivel sok helyen szerepel a Jubileum tér megnevezés is, ezért azt az alt_name címkébe tettem. A parkoló automaták forrásáról nem tudtam. Ez esetben legyenek visszaváltoztatva Jubileum térre az automaták címkéiben a címek? Tivadar Date: 2026-09-03T20:06:17+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/188306404</link>
+        <guid>https://www.openstreetmap.org/changeset/188306404#comment_2</guid>
+        <pubDate>2026-09-03T20:06:17+02:00</pubDate>
+      </item><item>
+        <title>Contributor: qstep Discussion Comment No.: 3 Comment: Ha a postacímben használják, akkor addr:unit=* címkében kell megadni, lásd: https://wiki.openstreetmap.org/wiki/Hungary/Jel%C3%B6l%C3%A9si_p%C3%A9ld%C3%A1k#C%C3%ADm_al%C3%A1bont%C3%A1sa Idézem: &quot;Ha ugyanazon az ingatlanon (házszámon) több épület/lépcsőház is található, azt ezzel a címkével jelezhetjük. Kerülhet ide pl. B épület, III. lépcsőház, Déli tömb stb.&quot; Illetve: &quot;Ha nem része a postai címnek, akkor ref=* értékkel adjuk meg, pl. ref=A a bejárat pontján.&quot; Továbbá ebből a cikkből: https://wiki.openstreetmap.org/wiki/Key:ref#Examples_on_ways &quot;If a building has a letter or reference number, ref=* should be used instead of name=* (eg. use ref=D instead of name=Building D.&quot; Date: 2026-09-03T19:55:02+02:00</title>
         <link>https://www.openstreetmap.org/changeset/188477751</link>
-        <guid>https://www.openstreetmap.org/changeset/188477751#comment_2</guid>
-        <pubDate>2026-09-03T18:50:19+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/188477751#comment_3</guid>
+        <pubDate>2026-09-03T19:55:02+02:00</pubDate>
+      </item><item>
+        <title>Contributor: qstep Discussion Comment No.: 3 Comment: Javítva https://www.openstreetmap.org/changeset/188493499 Date: 2026-09-03T19:38:41+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/186990802</link>
+        <guid>https://www.openstreetmap.org/changeset/186990802#comment_3</guid>
+        <pubDate>2026-09-03T19:38:41+02:00</pubDate>
       </item><item>
         <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv. Mi van helyettük? Date: 2026-09-03T16:14:26+02:00</title>
         <link>https://www.openstreetmap.org/changeset/188281614</link>
         <guid>https://www.openstreetmap.org/changeset/188281614#comment_1</guid>
         <pubDate>2026-09-03T16:14:26+02:00</pubDate>
-      </item><item>
-        <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szia! Tudjuk mi van az utcanév táblán? Mert az megy name mezőbe, ha a hivatalos eltér, az megy az official_name mezőbe https://wiki.openstreetmap.org/wiki/Hungary/Jel%C3%B6l%C3%A9si_p%C3%A9ld%C3%A1k#Utcanevek Másik, hogy a parkoló automaták branch értéke a kijelzőn/készüléken található felirat, ennek hiányban innen jön, itt pedig i nélkül van: https://nav.gov.hu/adatbazisok/elemiszer_ertekesites Tamás Date: 2026-09-03T06:52:09+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/188306404</link>
-        <guid>https://www.openstreetmap.org/changeset/188306404#comment_1</guid>
-        <pubDate>2026-09-03T06:52:09+02:00</pubDate>
       </item><item>
         <title>Contributor: AndreasTUHU Discussion Comment No.: 4 Comment: Rendben, köszi hogy megnézted. Date: 2026-09-02T19:31:19+02:00</title>
         <link>https://www.openstreetmap.org/changeset/160765836</link>
