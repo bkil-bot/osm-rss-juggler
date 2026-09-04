@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: toemke Discussion Comment No.: 4 Comment: rendben, ennek megfelelően fogok eljárni Date: 2026-09-04T11:10:49+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/188477751</link>
+        <guid>https://www.openstreetmap.org/changeset/188477751#comment_4</guid>
+        <pubDate>2026-09-04T11:10:49+02:00</pubDate>
+      </item><item>
         <title>Contributor: Tivadar Pongó Discussion Comment No.: 2 Comment: Szia Tamás! Ebben a noteban beszéltünk erről: https://www.openstreetmap.org/note/4560039 Röviden: van olyan tábla amin Jubileum tér, van olyan amin Jubileumi tér van írva. Írtam az önkormányzatnak, ők azt írták, hogy a Jubileumi tér a helyes megnevezés és azokat a táblákat, amik rosszak és saját hatáskörben vannak, azokat lecserélik (ezt nem tudom megtörtént-e már). Mivel sok helyen szerepel a Jubileum tér megnevezés is, ezért azt az alt_name címkébe tettem. A parkoló automaták forrásáról nem tudtam. Ez esetben legyenek visszaváltoztatva Jubileum térre az automaták címkéiben a címek? Tivadar Date: 2026-09-03T20:06:17+02:00</title>
         <link>https://www.openstreetmap.org/changeset/188306404</link>
         <guid>https://www.openstreetmap.org/changeset/188306404#comment_2</guid>
         <pubDate>2026-09-03T20:06:17+02:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 3 Comment: Ha a postacímben használják, akkor addr:unit=* címkében kell megadni, lásd: https://wiki.openstreetmap.org/wiki/Hungary/Jel%C3%B6l%C3%A9si_p%C3%A9ld%C3%A1k#C%C3%ADm_al%C3%A1bont%C3%A1sa Idézem: &quot;Ha ugyanazon az ingatlanon (házszámon) több épület/lépcsőház is található, azt ezzel a címkével jelezhetjük. Kerülhet ide pl. B épület, III. lépcsőház, Déli tömb stb.&quot; Illetve: &quot;Ha nem része a postai címnek, akkor ref=* értékkel adjuk meg, pl. ref=A a bejárat pontján.&quot; Továbbá ebből a cikkből: https://wiki.openstreetmap.org/wiki/Key:ref#Examples_on_ways &quot;If a building has a letter or reference number, ref=* should be used instead of name=* (eg. use ref=D instead of name=Building D.&quot; Date: 2026-09-03T19:55:02+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/188477751</link>
-        <guid>https://www.openstreetmap.org/changeset/188477751#comment_3</guid>
-        <pubDate>2026-09-03T19:55:02+02:00</pubDate>
       </item><item>
         <title>Contributor: qstep Discussion Comment No.: 3 Comment: Javítva https://www.openstreetmap.org/changeset/188493499 Date: 2026-09-03T19:38:41+02:00</title>
         <link>https://www.openstreetmap.org/changeset/186990802</link>
@@ -147,11 +147,6 @@
         <link>https://www.openstreetmap.org/changeset/170637790</link>
         <guid>https://www.openstreetmap.org/changeset/170637790#comment_3</guid>
         <pubDate>2026-08-28T21:55:28+02:00</pubDate>
-      </item><item>
-        <title>Contributor: NightH Discussion Comment No.: 1 Comment: Adding buildings to Demecser. Date: 2026-08-28T12:40:11+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/188145077</link>
-        <guid>https://www.openstreetmap.org/changeset/188145077#comment_1</guid>
-        <pubDate>2026-08-28T12:40:11+02:00</pubDate>
       </item>
   </channel>
 </rss>
