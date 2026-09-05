@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: vasony Discussion Comment No.: 4 Comment: Az automatákat visszaírtam, illetve pontosítottam. Érdemes lenne nekik írni, hogy a parkoló automaták címét (Jubileumi tér) is vezessék át a NAV-on, illetve ha van, akkor küldjék meg a parkoló automata nyilvántartásukat, mert a NAV már van ahol nem ad vissza adatot. Ez nem 100% de jelentheti azt, hogy megszűnt. Date: 2026-09-05T12:14:56+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/188306404</link>
+        <guid>https://www.openstreetmap.org/changeset/188306404#comment_4</guid>
+        <pubDate>2026-09-05T12:14:56+02:00</pubDate>
+      </item><item>
         <title>Contributor: vasony Discussion Comment No.: 6 Comment: Szia! Mehet alt_name-be szerintem. Tamás Date: 2026-09-05T11:08:12+02:00</title>
         <link>https://www.openstreetmap.org/changeset/187992706</link>
         <guid>https://www.openstreetmap.org/changeset/187992706#comment_6</guid>
@@ -17,11 +22,6 @@
         <link>https://www.openstreetmap.org/changeset/188096763</link>
         <guid>https://www.openstreetmap.org/changeset/188096763#comment_1</guid>
         <pubDate>2026-09-04T21:28:46+02:00</pubDate>
-      </item><item>
-        <title>Contributor: vasony Discussion Comment No.: 3 Comment: Szia! Köszi az utánajárást, az automatákkal még nem tudom mi legyen, még 1-2 forrást meg kell nézni ez ügyben. Tamás Date: 2026-09-04T18:51:53+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/188306404</link>
-        <guid>https://www.openstreetmap.org/changeset/188306404#comment_3</guid>
-        <pubDate>2026-09-04T18:51:53+02:00</pubDate>
       </item><item>
         <title>Contributor: qstep Discussion Comment No.: 1 Comment: Szia. A jövőben kérlek source:name=* címkét használj, ha az utcanév forrását szeretnéd jelölni. További jó szerkesztést! Date: 2026-09-04T18:10:59+02:00</title>
         <link>https://www.openstreetmap.org/changeset/187082370</link>
@@ -147,16 +147,6 @@
         <link>https://www.openstreetmap.org/changeset/188109779</link>
         <guid>https://www.openstreetmap.org/changeset/188109779#comment_1</guid>
         <pubDate>2026-08-29T16:14:03+02:00</pubDate>
-      </item><item>
-        <title>Contributor: balint36 Discussion Comment No.: 1 Comment: Ez a rész is tökéletesen megvolt csinálva eddig, nem értem, miért kellett rontani rajta. A note nem viccből volt rajta azokon a vonalakon, amikbe belerontottál. Date: 2026-08-29T14:07:41+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/179544184</link>
-        <guid>https://www.openstreetmap.org/changeset/179544184#comment_1</guid>
-        <pubDate>2026-08-29T14:07:41+02:00</pubDate>
-      </item><item>
-        <title>Contributor: balint36 Discussion Comment No.: 1 Comment: A 64-es vonal címkéibe is belerontottál. Date: 2026-08-29T14:05:02+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/179632698</link>
-        <guid>https://www.openstreetmap.org/changeset/179632698#comment_1</guid>
-        <pubDate>2026-08-29T14:05:02+02:00</pubDate>
       </item>
   </channel>
 </rss>
