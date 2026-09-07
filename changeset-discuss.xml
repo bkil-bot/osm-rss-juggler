@@ -3,6 +3,26 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Ha oda vissza 90, akkor tökéletes rá a maxspeed=90, nem kell szétbontani forward/backward-ra. Date: 2026-09-07T16:18:53+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/187255930</link>
+        <guid>https://www.openstreetmap.org/changeset/187255930#comment_1</guid>
+        <pubDate>2026-09-07T16:18:53+02:00</pubDate>
+      </item><item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Szia. Ez sem 60-as végig, a közepén 40-es táblák vannak a Magyar Közút nyilvános adatai szerint. Date: 2026-09-07T16:16:08+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/187459893</link>
+        <guid>https://www.openstreetmap.org/changeset/187459893#comment_1</guid>
+        <pubDate>2026-09-07T16:16:08+02:00</pubDate>
+      </item><item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Szia. Itt a https://www.openstreetmap.org/way/400484377 teljes szakaszára felvetted a 60-at, miközben az éles kanyar előtt mindkét irányban 40-es táblák vannak: https://www.mapillary.com/app/?pKey=695841926741878 Mi a forrásod a sebességhatárokhoz? Date: 2026-09-07T16:13:11+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/187554815</link>
+        <guid>https://www.openstreetmap.org/changeset/187554815#comment_1</guid>
+        <pubDate>2026-09-07T16:13:11+02:00</pubDate>
+      </item><item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Szia. Ahol volt maxspeed:forward és maxspeed:backward, oda ne írj be maxspeed-et. Ezeken a szakaszokon iránytól függően más a táblázás. Ha meg módosították és mindkét irányban érvényes, akkor töröld a forward és backward címkéket. Továbbá: módosítottad a https://www.openstreetmap.org/way/79889892 utat belterületi másodrendű főúttá. Mi a forrásod ehhez? A hazai jelölést lásd itt: https://wiki.openstreetmap.org/wiki/Hungary/F%C5%91%C3%BAt#highway_c%C3%ADmke_%C3%A9rt%C3%A9kei Ugyanezen az úton törölted a fixme címkét, de nem oldottad meg a kérdést. 50-es tábla van kint, vagy a default belterületi szabály érvényes? Date: 2026-09-07T16:07:40+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/188582274</link>
+        <guid>https://www.openstreetmap.org/changeset/188582274#comment_1</guid>
+        <pubDate>2026-09-07T16:07:40+02:00</pubDate>
+      </item><item>
         <title>Contributor: qstep Discussion Comment No.: 1 Comment: Szia. A temető melletti lakóövezeti utakról miért vetted le a maxspeed=* címkéket? Date: 2026-09-07T14:45:30+02:00</title>
         <link>https://www.openstreetmap.org/changeset/188168402</link>
         <guid>https://www.openstreetmap.org/changeset/188168402#comment_1</guid>
