@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Szia. Itt láthatod, hogy a brewery=various nem javasolt: https://wiki.openstreetmap.org/wiki/Key:brewery?uselang=hu - Helyette vagy sorold fel a főzdék neveit pontosvesszővel elválasztva, vagy töröld. Mozgatás: nem feltétlen hiba, de ilyenkor érdemes inkább az új helyén létrehozni egy új pontot (vagy módosítani az ott lévőt, aminek a helyére költözött), és a régi helyen megjelölni disused:* prefixszel, hogy a következő szerkesztő lássa, mi volt ott korábban. Date: 2026-09-07T18:43:31+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/188685085</link>
+        <guid>https://www.openstreetmap.org/changeset/188685085#comment_1</guid>
+        <pubDate>2026-09-07T18:43:31+02:00</pubDate>
+      </item><item>
         <title>Contributor: qstep Discussion Comment No.: 2 Comment: Tudunk bármi konkrétabbat ez alapján hozzáadni? https://wiki.openstreetmap.org/wiki/Hu:Tag:natural=spring?uselang=hu Pl. hivatalosan iható, bevizsgált víz, ki van-e építve, stb? Date: 2026-09-07T18:10:24+02:00</title>
         <link>https://www.openstreetmap.org/changeset/188683852</link>
         <guid>https://www.openstreetmap.org/changeset/188683852#comment_2</guid>
