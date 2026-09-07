@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: hoffer82 Discussion Comment No.: 2 Comment: Szia, amikor beállítottam, akkor megesküdtem volna, hogy az egy Lakó-pihenő övezet, de aztán láttam, amikor arra mentem, hogy nem, hanem csak &quot;Mindkét irányba behajtani tilos kivéve célforgalom&quot; táblák vannak, és 30-as tábla is csak egy helyen van a Hunyadi u. déli végén. Ott van a garázsom, reggel remélem eszembe jut és megnézem még egyszer a biztonság kedvéért. Date: 2026-09-07T20:00:10+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/188168402</link>
+        <guid>https://www.openstreetmap.org/changeset/188168402#comment_2</guid>
+        <pubDate>2026-09-07T20:00:10+02:00</pubDate>
+      </item><item>
         <title>Contributor: qstep Discussion Comment No.: 1 Comment: Szia. Itt láthatod, hogy a brewery=various nem javasolt: https://wiki.openstreetmap.org/wiki/Key:brewery?uselang=hu - Helyette vagy sorold fel a főzdék neveit pontosvesszővel elválasztva, vagy töröld. Mozgatás: nem feltétlen hiba, de ilyenkor érdemes inkább az új helyén létrehozni egy új pontot (vagy módosítani az ott lévőt, aminek a helyére költözött), és a régi helyen megjelölni disused:* prefixszel, hogy a következő szerkesztő lássa, mi volt ott korábban. Date: 2026-09-07T18:43:31+02:00</title>
         <link>https://www.openstreetmap.org/changeset/188685085</link>
         <guid>https://www.openstreetmap.org/changeset/188685085#comment_1</guid>
@@ -37,11 +42,6 @@
         <link>https://www.openstreetmap.org/changeset/188582274</link>
         <guid>https://www.openstreetmap.org/changeset/188582274#comment_1</guid>
         <pubDate>2026-09-07T16:07:40+02:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Szia. A temető melletti lakóövezeti utakról miért vetted le a maxspeed=* címkéket? Date: 2026-09-07T14:45:30+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/188168402</link>
-        <guid>https://www.openstreetmap.org/changeset/188168402#comment_1</guid>
-        <pubDate>2026-09-07T14:45:30+02:00</pubDate>
       </item><item>
         <title>Contributor: Térképszerkesztő Discussion Comment No.: 2 Comment: Szia! Azóta változott: https://zamoly.asp.lgov.hu/tajekoztatas-kozteruletek-elnevezeserol Date: 2026-09-07T12:11:52+02:00</title>
         <link>https://www.openstreetmap.org/changeset/188523428</link>
