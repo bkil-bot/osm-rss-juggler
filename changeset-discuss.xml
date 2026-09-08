@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: qstep Discussion Comment No.: 3 Comment: Ha lakó-pihenő övezet lenne, akkor is rakható rá maxspeed címke: maxspeed=20 maxspeed:type=HU:living_street Ha tábla van kint akkor maxspeed:type=sign Ha nincs tábla belterületen maxspeed:type=HU:urban vagy külterületen HU:rural Itt source:maxspeed-ként volt fent ugyanaz, amit szintén töröltél. Köszi ha ellenőrzöd újra! Date: 2026-09-08T13:09:42+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/188168402</link>
+        <guid>https://www.openstreetmap.org/changeset/188168402#comment_3</guid>
+        <pubDate>2026-09-08T13:09:42+02:00</pubDate>
+      </item><item>
         <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv. Megkérdezhetem, mi volt itt a cél? Megszűnt a buszjárat? Felfestettek felezővonalat a Böck János utcán? Date: 2026-09-08T08:20:11+02:00</title>
         <link>https://www.openstreetmap.org/changeset/188694129</link>
         <guid>https://www.openstreetmap.org/changeset/188694129#comment_1</guid>
         <pubDate>2026-09-08T08:20:11+02:00</pubDate>
-      </item><item>
-        <title>Contributor: hoffer82 Discussion Comment No.: 2 Comment: Szia, amikor beállítottam, akkor megesküdtem volna, hogy az egy Lakó-pihenő övezet, de aztán láttam, amikor arra mentem, hogy nem, hanem csak &quot;Mindkét irányba behajtani tilos kivéve célforgalom&quot; táblák vannak, és 30-as tábla is csak egy helyen van a Hunyadi u. déli végén. Ott van a garázsom, reggel remélem eszembe jut és megnézem még egyszer a biztonság kedvéért. Date: 2026-09-07T20:00:10+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/188168402</link>
-        <guid>https://www.openstreetmap.org/changeset/188168402#comment_2</guid>
-        <pubDate>2026-09-07T20:00:10+02:00</pubDate>
       </item><item>
         <title>Contributor: qstep Discussion Comment No.: 1 Comment: Szia. Itt láthatod, hogy a brewery=various nem javasolt: https://wiki.openstreetmap.org/wiki/Key:brewery?uselang=hu - Helyette vagy sorold fel a főzdék neveit pontosvesszővel elválasztva, vagy töröld. Mozgatás: nem feltétlen hiba, de ilyenkor érdemes inkább az új helyén létrehozni egy új pontot (vagy módosítani az ott lévőt, aminek a helyére költözött), és a régi helyen megjelölni disused:* prefixszel, hogy a következő szerkesztő lássa, mi volt ott korábban. Date: 2026-09-07T18:43:31+02:00</title>
         <link>https://www.openstreetmap.org/changeset/188685085</link>
