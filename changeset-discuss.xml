@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv. A magyar OSM szabályok alapján nem teszünk pontot a házszámok után. Javítottam. Date: 2026-09-13T19:17:37+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/188975484</link>
+        <guid>https://www.openstreetmap.org/changeset/188975484#comment_1</guid>
+        <pubDate>2026-09-13T19:17:37+02:00</pubDate>
+      </item><item>
         <title>Contributor: itineris Discussion Comment No.: 3 Comment: Igyekeztem leírni, OSM szempontból mi a céljuk ezeknek a pontoknak és vonalaknak. Februárban egy teljes hétvégét töltöttem kizárólag ilyen pontok felmérésével Budapesten, más szerkesztők kívánságlistája alapján. Vagy nyáron Újpesten. Rajtuk van a triangulation_point=yes. Ha máshol nem láttál ilyet, akkor használd az Overpasst! ;-) Úgy általában, törlés előtt mindig célszerű rákérdezni. Ha egy hozzád képest sokkal régebb óta, nagyságrendekkel többet szerkesztő munkáját törölnéd, akkor különösen. (Ezzel nem azt mondom, hogy sosem hibázhatok, de valami oka biztosan volt annak a szerkesztésnek.) További megjegyzés: A Bing lehet alapértelmezett az iD Editorban, és viszonylag friss. De Budapesten a Mapbox legalább annyira friss, cserében sokkal jobb felbontású. Hogy más légifotókat ne is említsek. De ha Binget használsz, azt is fontos lenne hozzáigazítani a pontos helyhez - erre közeli RTK-s illesztőpont hiányában a mindenkori legfrissebb FÖMI az elfogadott referencia Magyarországon. A kihajtó déli feléhez szándékosan írtam, hogy a zöldfelület határa - hiszen a légifelvételen ez látszik, és nem a bokrok alatti tényleges burkolat. Date: 2026-09-13T16:24:48+02:00</title>
         <link>https://www.openstreetmap.org/changeset/188887345</link>
         <guid>https://www.openstreetmap.org/changeset/188887345#comment_3</guid>
