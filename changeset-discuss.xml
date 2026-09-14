@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv. Ha megszűnik egy hely, ne töröld, inkább használd a disused:*=* prefixet. Ez segít a következő szerkesztőnek viszonyítási pontként, ha új üzlet jön a helyére. További jó térképezést! Date: 2026-09-14T15:44:28+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/189014054</link>
+        <guid>https://www.openstreetmap.org/changeset/189014054#comment_1</guid>
+        <pubDate>2026-09-14T15:44:28+02:00</pubDate>
+      </item><item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv. Az opening_hours szintaxist nem jól használod: Sat helyett Sa, napok közé pontosvessző. Bővebben: https://wiki.openstreetmap.org/wiki/Key:opening_hours Továbbá itthon az elérhetőségeket jellemzően contact:*=* címkével vesszük fel. Date: 2026-09-14T15:33:54+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/189014599</link>
+        <guid>https://www.openstreetmap.org/changeset/189014599#comment_1</guid>
+        <pubDate>2026-09-14T15:33:54+02:00</pubDate>
+      </item><item>
         <title>Contributor: hoffer82 Discussion Comment No.: 4 Comment: Szia, köszi a kiigazítást, hozzáadtam a &quot;maxspeed:type:backward=sign&quot; és a source:maxspeed:forward=HU:urban címkét. Csak ÉNy-i irányban van tábla. Nem sok értelme van így kihelyezni a táblát, lehet, hogy ellopták, de ez lényegtelen. Direkt arra mentem és megnéztem. Azokban az utcákban kizárólag ez az egy ilyen tábla van. A &quot;mindkét irányból behajtani tilos kivéve célforgalom&quot; táblák is hiányosak, de mivel az nem értelmezhető, ha csak az út egyik végén van kitéve, így ezzel nincs értelme foglalkozni. Date: 2026-09-14T07:43:12+02:00</title>
         <link>https://www.openstreetmap.org/changeset/188168402</link>
         <guid>https://www.openstreetmap.org/changeset/188168402#comment_4</guid>
@@ -147,16 +157,6 @@
         <link>https://www.openstreetmap.org/changeset/188694129</link>
         <guid>https://www.openstreetmap.org/changeset/188694129#comment_1</guid>
         <pubDate>2026-09-08T08:20:11+02:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 2 Comment: Tudunk bármi konkrétabbat ez alapján hozzáadni? https://wiki.openstreetmap.org/wiki/Hu:Tag:natural=spring?uselang=hu Pl. hivatalosan iható, bevizsgált víz, ki van-e építve, stb? Date: 2026-09-07T18:10:24+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/188683852</link>
-        <guid>https://www.openstreetmap.org/changeset/188683852#comment_2</guid>
-        <pubDate>2026-09-07T18:10:24+02:00</pubDate>
-      </item><item>
-        <title>Contributor: aceman444 Discussion Comment No.: 3 Comment: Dakujem Date: 2026-09-07T18:00:54+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/187862866</link>
-        <guid>https://www.openstreetmap.org/changeset/187862866#comment_3</guid>
-        <pubDate>2026-09-07T18:00:54+02:00</pubDate>
       </item>
   </channel>
 </rss>
