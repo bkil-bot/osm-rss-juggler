@@ -3,6 +3,41 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Több szerkesztésében is látom, hogy a foot=designated helyett foot=yes kerül be. Mi ennek az oka? A wiki alapján a &quot;gyalog- és kerékpárút&quot; KRESZ táblával jelölt szakaszokon a highway=cycleway foot=designated címkézés a helyes. Date: 2026-09-21T11:19:17+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/187591637</link>
+        <guid>https://www.openstreetmap.org/changeset/187591637#comment_1</guid>
+        <pubDate>2026-09-21T11:19:17+02:00</pubDate>
+      </item><item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Nekem ezek nagyon úgy tűnnek, hogy kizárólag kerékpárutak. Miért került rá a foot=designated ? Date: 2026-09-21T11:14:57+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/188089291</link>
+        <guid>https://www.openstreetmap.org/changeset/188089291#comment_1</guid>
+        <pubDate>2026-09-21T11:14:57+02:00</pubDate>
+      </item><item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Ha a valóságban nem út, akkor miért szerepel a térképen még? Illetve milyen https://wiki.openstreetmap.org/wiki/Tag:highway%3Dtrack az, ami gyalog nem közlekedhető? Magánterület? Date: 2026-09-21T11:13:30+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/188025380</link>
+        <guid>https://www.openstreetmap.org/changeset/188025380#comment_1</guid>
+        <pubDate>2026-09-21T11:13:30+02:00</pubDate>
+      </item><item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv. A járdáknak nincs utcaneve, a járda az utcához tartozik, amin már szerepelt a név. Ezt több szerkesztésében is látni. Törlöm mindet. Date: 2026-09-21T11:03:54+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/188422167</link>
+        <guid>https://www.openstreetmap.org/changeset/188422167#comment_1</guid>
+        <pubDate>2026-09-21T11:03:54+02:00</pubDate>
+      </item><item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv. Szerintem egyetlen körforgalomban és főúton sem lehet gyalogosan közlekedni, így ezek hibás szerkesztések. Ha járdát szeretett volna jelölni, az megadható a https://wiki.openstreetmap.org/wiki/Key:sidewalk címkével, vagy felrajzolható vonalként, lehetőleg FÖMI réteg alapján. Date: 2026-09-21T11:00:23+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/188418281</link>
+        <guid>https://www.openstreetmap.org/changeset/188418281#comment_1</guid>
+        <pubDate>2026-09-21T11:00:23+02:00</pubDate>
+      </item><item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv. Kérem, tájékozódjon a wikiben leírtak alapján: https://wiki.openstreetmap.org/wiki/Hungary/K%C3%B6z%C3%BAti_jelz%C5%91t%C3%A1bl%C3%A1k A https://www.openstreetmap.org/way/1125180824 esetében jó volt a foot=designated Date: 2026-09-21T10:58:07+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/189157189</link>
+        <guid>https://www.openstreetmap.org/changeset/189157189#comment_1</guid>
+        <pubDate>2026-09-21T10:58:07+02:00</pubDate>
+      </item><item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv. Felesleges a foot=yes a footway-ekre, hiszen az implikálja, hogy gyalogos út. Date: 2026-09-21T10:54:49+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/189163359</link>
+        <guid>https://www.openstreetmap.org/changeset/189163359#comment_1</guid>
+        <pubDate>2026-09-21T10:54:49+02:00</pubDate>
+      </item><item>
         <title>Contributor: grozsa11 Discussion Comment No.: 2 Comment: Jaj, köszi a figyelmet... áttettem alt_name-be. Date: 2026-09-21T10:14:07+02:00</title>
         <link>https://www.openstreetmap.org/changeset/188907053</link>
         <guid>https://www.openstreetmap.org/changeset/188907053#comment_2</guid>
