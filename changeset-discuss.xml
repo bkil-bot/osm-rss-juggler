@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: Mateusz Konieczny Discussion Comment No.: 1 Comment: Hello! You used shop=book on https://www.openstreetmap.org/node/9671670369/history Have you maybe meant shop=books ? I am pretty sure that it is a typo, but not sure enough to just replace it (I edited some objects where situation seemed more clear to me). Or have you used this value deliberately? In such case, what was the intended meaning? If it is a mistake - can you fix it? Date: 2026-09-22T15:01:49+02:00</title>
+        <title>Contributor: Mateusz Konieczny Discussion Comment No.: 3 Comment: maybe it is a bad balance but I really prefer to ask, sometimes ask even if I am sure that there is no other interpretation (and sometimes people disagree with my interpretation!) thanks for fix and mapping! Date: 2026-09-22T16:11:40+02:00</title>
         <link>https://www.openstreetmap.org/changeset/179322606</link>
-        <guid>https://www.openstreetmap.org/changeset/179322606#comment_1</guid>
-        <pubDate>2026-09-22T15:01:49+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/179322606#comment_3</guid>
+        <pubDate>2026-09-22T16:11:40+02:00</pubDate>
       </item><item>
         <title>Contributor: Mateusz Konieczny Discussion Comment No.: 1 Comment: Hello! You used shop=book on https://www.openstreetmap.org/node/3740370927/history Have you maybe meant shop=books ? I am pretty sure that it is a typo, but not sure enough to just replace it (I edited some objects where situation seemed more clear to me). Or have you used this value deliberately? In such case, what was the intended meaning? If it is a mistake - can you fix it? Date: 2026-09-22T15:01:48+02:00</title>
         <link>https://www.openstreetmap.org/changeset/164517333</link>
@@ -182,11 +182,6 @@
         <link>https://www.openstreetmap.org/changeset/188993393</link>
         <guid>https://www.openstreetmap.org/changeset/188993393#comment_3</guid>
         <pubDate>2026-09-16T10:26:33+02:00</pubDate>
-      </item><item>
-        <title>Contributor: SomeoneElse Discussion Comment No.: 2 Comment: Üdv Szerkesztő! Sok felhasználó tett fel neked kérdéseket a változáskészleteiddel kapcsolatban. Ezeket a kérdéseket e-mailben elküldtük neked, és a https://resultmaps.neis-one.org/osm-discussion-comments?uid=2479157 címen is megtekintheted őket. Kérlek, válaszolj - kattints át a változáskészletre, és írj egy hozzászólást. Üdvözlettel, Andy Townsend, az OSM adatmunkacsoportja nevében. Date: 2026-09-15T17:49:44+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/188935560</link>
-        <guid>https://www.openstreetmap.org/changeset/188935560#comment_2</guid>
-        <pubDate>2026-09-15T17:49:44+02:00</pubDate>
       </item>
   </channel>
 </rss>
