@@ -3,6 +3,21 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Erről már volt szó, hogy ez a kút nappal működik csak. Biztos vagy benne, hogy a bejelentőd nem téved, és nem napnyugta után tapasztalta azt, hogy ki van kapcsolva? Date: 2026-09-22T11:05:22+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/189328279</link>
+        <guid>https://www.openstreetmap.org/changeset/189328279#comment_1</guid>
+        <pubDate>2026-09-22T11:05:22+02:00</pubDate>
+      </item><item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Szia. Lehetőleg innen válassz building:material értéket: https://wiki.openstreetmap.org/wiki/Key:building:material Date: 2026-09-22T10:44:31+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/189391937</link>
+        <guid>https://www.openstreetmap.org/changeset/189391937#comment_1</guid>
+        <pubDate>2026-09-22T10:44:31+02:00</pubDate>
+      </item><item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Szia. A https://wiki.openstreetmap.org/wiki/Key:building:material címkében főleg azt jelöljük, hogy az épület homlokzata, tehát nem a falazat hanem a legkülső látható réteg milyen anyagból készült. Mivel az NMHH egy bonyolult épület, a legjellemzőbb értéket választanám. Ha mégis több értéket adsz meg, azt pontosvesszővel válaszd el. A magassági adatok honnan vannak? Illetve building=electricity nincs, helyette ilyesmi lehet akár: building=service utility=power power=substation substation=minor_distribution Date: 2026-09-22T10:37:53+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/189388534</link>
+        <guid>https://www.openstreetmap.org/changeset/189388534#comment_1</guid>
+        <pubDate>2026-09-22T10:37:53+02:00</pubDate>
+      </item><item>
         <title>Contributor: qstep Discussion Comment No.: 1 Comment: Fent volt már. Date: 2026-09-22T07:59:12+02:00</title>
         <link>https://www.openstreetmap.org/changeset/189382813</link>
         <guid>https://www.openstreetmap.org/changeset/189382813#comment_1</guid>
