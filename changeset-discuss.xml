@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: LittlePebble Discussion Comment No.: 1 Comment: Well, It looks like I accidentally touched boundaries in this edit. Can someone reverse ONLY the position of the boundary? Date: 2026-09-23T23:15:47+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/189470120</link>
+        <guid>https://www.openstreetmap.org/changeset/189470120#comment_1</guid>
+        <pubDate>2026-09-23T23:15:47+02:00</pubDate>
+      </item><item>
+        <title>Contributor: therealmate Discussion Comment No.: 2 Comment: Szia! Ráraktam a ref címkét az épületekre, ahogy kérted. A name-t meghagytam, mert ezek az épület nevei szerintem, mindenki így hivatkozik rájuk, és a többi egyetemeken (pl.: ELTE, BME, Óbudai, stb.) is így láttam. A sportpályát javítottam a javasolt módosításokkal, és a kollégiumból is töröltem a fölösleges címkét (2 kollégium van a campus területén, ez a 10-es szám alatt van). Date: 2026-09-23T22:41:58+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/189422163</link>
+        <guid>https://www.openstreetmap.org/changeset/189422163#comment_2</guid>
+        <pubDate>2026-09-23T22:41:58+02:00</pubDate>
+      </item><item>
         <title>Contributor: petervelosy Discussion Comment No.: 2 Comment: Közben egyeztettem G. Petivel, hogy ez itt egy kitérő a tündérvölgyi kilátáshoz, ami a P-6-ról ágazik le, de zölddel festettétek ki. Így Palos-8-ról átírtam a ref-jét Palos-6-ra és beraktam egy superroute-ba a Palos-6 körével együtt. Date: 2026-09-23T12:18:15+02:00</title>
         <link>https://www.openstreetmap.org/changeset/174053055</link>
         <guid>https://www.openstreetmap.org/changeset/174053055#comment_2</guid>
@@ -12,11 +22,6 @@
         <link>https://www.openstreetmap.org/changeset/189441783</link>
         <guid>https://www.openstreetmap.org/changeset/189441783#comment_1</guid>
         <pubDate>2026-09-23T10:47:30+02:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv. Néhány dolog: - Pár helyen ref-et használsz helyesen, de máshol meg name-be raktad az épület azonosítóját (pl. C épület). Ezeket inkább ref-be kell rakni, vagy esetleg addr:unit-ba, ha a postacímben is így használják: https://wiki.openstreetmap.org/wiki/Key:ref#:~:text=If%20a%20building%20has%20a%20letter%20or%20reference%20number%2C%20ref%3D%2A%20should%20be%20used%20instead%20of%20name%3D%2A%20%28eg%2E%20use%20ref%3DD%20instead%20of%20name%3DBuilding%20D%2E - A kollégium egyszerre Leányka utca 6 és 10? A weboldal szerint 2. - Műfüves sportpálya: ez a név ki van oda írva? Ha nem, akkor surface=artificial_turf elég. Date: 2026-09-23T07:58:52+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/189422163</link>
-        <guid>https://www.openstreetmap.org/changeset/189422163#comment_1</guid>
-        <pubDate>2026-09-23T07:58:52+02:00</pubDate>
       </item><item>
         <title>Contributor: birok Discussion Comment No.: 2 Comment: Üdv! Gnome Maps-ből szerkesztettem őket, ott nem láttam a kimaradt címkéket. Itt a webes felületen már látom mire gondolsz. Köszönöm, hogy jelezted és javítottad őket! A tanulság, hogy nem szerkesztek ott többet. Date: 2026-09-22T16:43:07+02:00</title>
         <link>https://www.openstreetmap.org/changeset/189221044</link>
@@ -182,11 +187,6 @@
         <link>https://www.openstreetmap.org/changeset/158805772</link>
         <guid>https://www.openstreetmap.org/changeset/158805772#comment_1</guid>
         <pubDate>2026-09-17T12:09:22+02:00</pubDate>
-      </item><item>
-        <title>Contributor: SomeoneElse_Revert Discussion Comment No.: 1 Comment: This changeset has been reverted fully or in part by changeset 189136162 where the changeset comment is: Reverting some waterway=lock mechanical edits. See https://www.openstreetmap.org/user_blocks/21276 . Date: 2026-09-17T00:55:12+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/188894126</link>
-        <guid>https://www.openstreetmap.org/changeset/188894126#comment_1</guid>
-        <pubDate>2026-09-17T00:55:12+02:00</pubDate>
       </item>
   </channel>
 </rss>
