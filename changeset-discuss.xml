@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: petervelosy Discussion Comment No.: 1 Comment: Biztos ez a csonk itt, amit Pálos-8-ként számoztál be? Itt elvileg nincs Pálos út, a Pálos-8 pedig egy új útvonal lett Márianosztránál (https://www.openstreetmap.org/relation/21426431). Date: 2026-09-23T11:19:35+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/174053055</link>
+        <guid>https://www.openstreetmap.org/changeset/174053055#comment_1</guid>
+        <pubDate>2026-09-23T11:19:35+02:00</pubDate>
+      </item><item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Szia. Egy tipp: ha megnyomod a Q betűt a házon, akkor szabályos derékszögekre alakítja a sarkokat. Sokkal szebben mutat majd a térképen. Date: 2026-09-23T10:47:30+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/189441783</link>
+        <guid>https://www.openstreetmap.org/changeset/189441783#comment_1</guid>
+        <pubDate>2026-09-23T10:47:30+02:00</pubDate>
+      </item><item>
         <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv. Néhány dolog: - Pár helyen ref-et használsz helyesen, de máshol meg name-be raktad az épület azonosítóját (pl. C épület). Ezeket inkább ref-be kell rakni, vagy esetleg addr:unit-ba, ha a postacímben is így használják: https://wiki.openstreetmap.org/wiki/Key:ref#:~:text=If%20a%20building%20has%20a%20letter%20or%20reference%20number%2C%20ref%3D%2A%20should%20be%20used%20instead%20of%20name%3D%2A%20%28eg%2E%20use%20ref%3DD%20instead%20of%20name%3DBuilding%20D%2E - A kollégium egyszerre Leányka utca 6 és 10? A weboldal szerint 2. - Műfüves sportpálya: ez a név ki van oda írva? Ha nem, akkor surface=artificial_turf elég. Date: 2026-09-23T07:58:52+02:00</title>
         <link>https://www.openstreetmap.org/changeset/189422163</link>
         <guid>https://www.openstreetmap.org/changeset/189422163#comment_1</guid>
