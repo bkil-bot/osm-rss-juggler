@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv. Néhány dolog: - Pár helyen ref-et használsz helyesen, de máshol meg name-be raktad az épület azonosítóját (pl. C épület). Ezeket inkább ref-be kell rakni, vagy esetleg addr:unit-ba, ha a postacímben is így használják: https://wiki.openstreetmap.org/wiki/Key:ref#:~:text=If%20a%20building%20has%20a%20letter%20or%20reference%20number%2C%20ref%3D%2A%20should%20be%20used%20instead%20of%20name%3D%2A%20%28eg%2E%20use%20ref%3DD%20instead%20of%20name%3DBuilding%20D%2E - A kollégium egyszerre Leányka utca 6 és 10? A weboldal szerint 2. - Műfüves sportpálya: ez a név ki van oda írva? Ha nem, akkor surface=artificial_turf elég. Date: 2026-09-23T07:58:52+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/189422163</link>
+        <guid>https://www.openstreetmap.org/changeset/189422163#comment_1</guid>
+        <pubDate>2026-09-23T07:58:52+02:00</pubDate>
+      </item><item>
         <title>Contributor: birok Discussion Comment No.: 2 Comment: Üdv! Gnome Maps-ből szerkesztettem őket, ott nem láttam a kimaradt címkéket. Itt a webes felületen már látom mire gondolsz. Köszönöm, hogy jelezted és javítottad őket! A tanulság, hogy nem szerkesztek ott többet. Date: 2026-09-22T16:43:07+02:00</title>
         <link>https://www.openstreetmap.org/changeset/189221044</link>
         <guid>https://www.openstreetmap.org/changeset/189221044#comment_2</guid>
@@ -177,11 +182,6 @@
         <link>https://www.openstreetmap.org/changeset/189102769</link>
         <guid>https://www.openstreetmap.org/changeset/189102769#comment_1</guid>
         <pubDate>2026-09-16T10:50:25+02:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 3 Comment: Jobban utánanézve itt is Berzsenyi utcát említ a 44. oldalon: https://mnl.gov.hu/sites/default/files/sml/kiadvanyok/somogyi_elektronikus_leveltari_kiadvanyok/01_kaposvar_utcai/recsei_balazs_-_kaposvar_utcainak_tereinek_nevtortenete_-_csak_olvashato.pdf Akkor a HÉSZ hibás. Köszi. Arra figyelj még, hogy utcanév átírásnál a hozzá tartozó címeket is frissítsd. Itt megtettem: https://www.openstreetmap.org/changeset/189103494 Date: 2026-09-16T10:26:33+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/188993393</link>
-        <guid>https://www.openstreetmap.org/changeset/188993393#comment_3</guid>
-        <pubDate>2026-09-16T10:26:33+02:00</pubDate>
       </item>
   </channel>
 </rss>
