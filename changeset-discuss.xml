@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Gránátalmafa helyes címkézése: species=Punica granatum További jó térképezést! Date: 2026-09-27T13:24:12+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/189629032</link>
+        <guid>https://www.openstreetmap.org/changeset/189629032#comment_1</guid>
+        <pubDate>2026-09-27T13:24:12+02:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Üdv az OpenStreetMapen! A building:levels=* címkét épületeken használjuk, és azt jelenti, hány szintes az adott épület. Az, hogy egy üzlet melyik emeleten található az addr:floor=* vagy level=* címkékkel jelöljük Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség#Elérhetőségek További jó térképezést! Date: 2026-09-27T10:16:07+02:00</title>
         <link>https://www.openstreetmap.org/changeset/189605895</link>
         <guid>https://www.openstreetmap.org/changeset/189605895#comment_1</guid>
@@ -177,16 +182,6 @@
         <link>https://www.openstreetmap.org/changeset/189099414</link>
         <guid>https://www.openstreetmap.org/changeset/189099414#comment_1</guid>
         <pubDate>2026-09-20T15:31:58+02:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Hallo. I reverted your change because of using Bing imagery. In Hungary, we use the latest FÖMI orthophotos, which have around 20-40 cm precision: https://wiki.openstreetmap.org/wiki/Hungary/Ortofot%C3%B3k#F%C3%96MI_(Lechner)_ortofot%C3%B3k Date: 2026-09-20T15:27:57+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/189293080</link>
-        <guid>https://www.openstreetmap.org/changeset/189293080#comment_1</guid>
-        <pubDate>2026-09-20T15:27:57+02:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 3 Comment: Does your place offer any kind of service or sell any goods, that is relevant enough to be on the map by name? If not, this is considered private information and does not belong to the general public: https://wiki.openstreetmap.org/wiki/Mapping_private_information Date: 2026-09-20T15:17:55+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/188399705</link>
-        <guid>https://www.openstreetmap.org/changeset/188399705#comment_3</guid>
-        <pubDate>2026-09-20T15:17:55+02:00</pubDate>
       </item>
   </channel>
 </rss>
