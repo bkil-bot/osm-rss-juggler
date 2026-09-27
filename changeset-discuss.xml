@@ -3,10 +3,20 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Gránátalmafa helyes címkézése: species=Punica granatum További jó térképezést! Date: 2026-09-27T13:24:12+02:00</title>
+        <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szia! Báthory utca 96 most dupla, melyik a jó, vagy tényleg ilyen a helyszínen? Tamás Date: 2026-09-27T14:26:55+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/189589160</link>
+        <guid>https://www.openstreetmap.org/changeset/189589160#comment_1</guid>
+        <pubDate>2026-09-27T14:26:55+02:00</pubDate>
+      </item><item>
+        <title>Contributor: feczkob Discussion Comment No.: 2 Comment: Szia, köszi a tippet, fixáltam: https://www.openstreetmap.org/changeset/189632862 Date: 2026-09-27T14:20:04+02:00</title>
         <link>https://www.openstreetmap.org/changeset/189629032</link>
-        <guid>https://www.openstreetmap.org/changeset/189629032#comment_1</guid>
-        <pubDate>2026-09-27T13:24:12+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/189629032#comment_2</guid>
+        <pubDate>2026-09-27T14:20:04+02:00</pubDate>
+      </item><item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Hi. Please don't just randomly add stuff based on old imagery. The hostel was already there, and this road is just a track: w1562760293 Date: 2026-09-27T13:51:17+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/189629671</link>
+        <guid>https://www.openstreetmap.org/changeset/189629671#comment_1</guid>
+        <pubDate>2026-09-27T13:51:17+02:00</pubDate>
       </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Üdv az OpenStreetMapen! A building:levels=* címkét épületeken használjuk, és azt jelenti, hány szintes az adott épület. Az, hogy egy üzlet melyik emeleten található az addr:floor=* vagy level=* címkékkel jelöljük Ha kérdésed merülne fel, a magyar szerkesztő közösség elérhetőségeit megtalálod ezen az oldalon: https://wiki.openstreetmap.org/wiki/Hungary/Közösség#Elérhetőségek További jó térképezést! Date: 2026-09-27T10:16:07+02:00</title>
         <link>https://www.openstreetmap.org/changeset/189605895</link>
@@ -167,21 +177,6 @@
         <link>https://www.openstreetmap.org/changeset/189315928</link>
         <guid>https://www.openstreetmap.org/changeset/189315928#comment_1</guid>
         <pubDate>2026-09-20T20:44:45+02:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv. Az iskola területe szuper, de ilyenkor a magába foglalt épületekről érdemes levenni az adatokat, mivel azok már inkább a területen értelmezhetők. Két épületre és egy külön pontra is fent voltak ugyanazok a nevek. Javítottam: https://www.openstreetmap.org/changeset/189305334 Date: 2026-09-20T16:10:05+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/188964046</link>
-        <guid>https://www.openstreetmap.org/changeset/188964046#comment_1</guid>
-        <pubDate>2026-09-20T16:10:05+02:00</pubDate>
-      </item><item>
-        <title>Contributor: Riiko Discussion Comment No.: 4 Comment: Köszönöm szépen a segítséget, módosítottam a szerkesztést! Date: 2026-09-20T15:43:46+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/189284015</link>
-        <guid>https://www.openstreetmap.org/changeset/189284015#comment_4</guid>
-        <pubDate>2026-09-20T15:43:46+02:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv. Kérlek rajzolásnál használd a legújabb (2015-ös vagy néhol 2016-os) FÖMI légifotókat, mert ezek 20-40 cm pontosak. Ha Binget kell használnod, akkor igazítsd eltolással a FÖMI-hez, ugyanis az el van csúszva a valósághoz képest. További jó szerkesztést! Date: 2026-09-20T15:31:58+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/189099414</link>
-        <guid>https://www.openstreetmap.org/changeset/189099414#comment_1</guid>
-        <pubDate>2026-09-20T15:31:58+02:00</pubDate>
       </item>
   </channel>
 </rss>
