@@ -3,10 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: Szántó András 82 Discussion Comment No.: 4 Comment: Azt a részt idézd, ami alapján a 135 Hódmezővásárhely - Békéscsaba szakasza mellékvonal. Székesfehérvár - Komárom úgyszintén. A wiki nem egzakt. Te így gondolod, én meg úgy és annyi megítélés van, ahányan ezzel foglalkoznak. A jogszabály pedig egyértelmű. Ezért inkább én kérnélek téged, hogy lapozgasd a HÜSZ-t és a jogszabályokat. Date: 2026-09-28T07:02:29+02:00</title>
+        <title>Contributor: balint36 Discussion Comment No.: 6 Comment: Arról a szűk magyar látásmódról meg le lehet szokni, hogy a mellékvonal (brach) annak kötelező kicsinek, jelentéktelennek, rossznak lenni. Nyugatabbra jobban kiépített villamosított vonalak vannak így jelölve. HM-C meg valljuk be, hevederes pálya, villamosítatlan, jelfeladás nélküli, óránként max 1 vonatpárral. Az usage=branch meghatározása meg pont ez: vasútvonal kisebb forgalommal, fővonaltól alacsonyabb sebességgel, gyakran egyvágányú és/vagy villamosítatlan, fővonalnál alacsonyabb műszaki tartalommal lehet kiépítve - megtalálod mindezt az OSM wikin. Ha a büszke magyarságtudatodat ez bánja, azzal nem tudok mit kezdeni, de ez a vonal egy csepp az OSM-ben felvitt adatokhoz képest, így az egyéni érzéseidet nem tudjuk figyelembe venni. Date: 2026-09-28T07:55:18+02:00</title>
         <link>https://www.openstreetmap.org/changeset/185420016</link>
-        <guid>https://www.openstreetmap.org/changeset/185420016#comment_4</guid>
-        <pubDate>2026-09-28T07:02:29+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/185420016#comment_6</guid>
+        <pubDate>2026-09-28T07:55:18+02:00</pubDate>
+      </item><item>
+        <title>Contributor: toboz Discussion Comment No.: 2 Comment: Szia! Köszi, hogy kiszúrtad. Egyszerű tévesztés volt, megnéztem, az északabbra lévő valójában 94. Javítottam. Date: 2026-09-28T07:29:04+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/189589160</link>
+        <guid>https://www.openstreetmap.org/changeset/189589160#comment_2</guid>
+        <pubDate>2026-09-28T07:29:04+02:00</pubDate>
       </item><item>
         <title>Contributor: qstep Discussion Comment No.: 4 Comment: Semmi gond. Telefonon eléggé körülményes geometriát szerkeszteni, arra inkább talán a webes szerkesztő vagy a JOSM megfelelőbb egy asztali gépen. Az általad használt Go Map elvileg felsorolja a feltöltés előtt, hogy miket módosítottál. Ha ott gyanús valami, akkor még vissza tudod vonni. Date: 2026-09-27T18:47:08+02:00</title>
         <link>https://www.openstreetmap.org/changeset/189642171</link>
@@ -37,11 +42,6 @@
         <link>https://www.openstreetmap.org/changeset/189518013</link>
         <guid>https://www.openstreetmap.org/changeset/189518013#comment_4</guid>
         <pubDate>2026-09-27T15:47:52+02:00</pubDate>
-      </item><item>
-        <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szia! Báthory utca 96 most dupla, melyik a jó, vagy tényleg ilyen a helyszínen? Tamás Date: 2026-09-27T14:26:55+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/189589160</link>
-        <guid>https://www.openstreetmap.org/changeset/189589160#comment_1</guid>
-        <pubDate>2026-09-27T14:26:55+02:00</pubDate>
       </item><item>
         <title>Contributor: feczkob Discussion Comment No.: 2 Comment: Szia, köszi a tippet, fixáltam: https://www.openstreetmap.org/changeset/189632862 Date: 2026-09-27T14:20:04+02:00</title>
         <link>https://www.openstreetmap.org/changeset/189629032</link>
@@ -197,11 +197,6 @@
         <link>https://www.openstreetmap.org/changeset/189163359</link>
         <guid>https://www.openstreetmap.org/changeset/189163359#comment_1</guid>
         <pubDate>2026-09-21T10:54:49+02:00</pubDate>
-      </item><item>
-        <title>Contributor: grozsa11 Discussion Comment No.: 2 Comment: Jaj, köszi a figyelmet... áttettem alt_name-be. Date: 2026-09-21T10:14:07+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/188907053</link>
-        <guid>https://www.openstreetmap.org/changeset/188907053#comment_2</guid>
-        <pubDate>2026-09-21T10:14:07+02:00</pubDate>
       </item>
   </channel>
 </rss>
