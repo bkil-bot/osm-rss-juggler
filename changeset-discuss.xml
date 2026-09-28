@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: ÚtKár Discussion Comment No.: 2 Comment: a wikipédiát azért linkeltem oda mert a cikkben lejebb görgetve részletes leírás van a romokról. megpróbálom szerkeszteni a wikipédián külön cikknek, és javítom, (a többit is) Date: 2026-09-28T13:41:30+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/189624394</link>
+        <guid>https://www.openstreetmap.org/changeset/189624394#comment_2</guid>
+        <pubDate>2026-09-28T13:41:30+02:00</pubDate>
+      </item><item>
         <title>Contributor: balint36 Discussion Comment No.: 9 Comment: Úgyse fogod megnézni a HÜSZ-t, meg nem fogsz kimenni pályára, ezért megnéztem a további említett vonalakat: 108: Csak részben villamosított, nagy részét hevederes pálya, állomástávolságú közlekedés, teljes vonalon nincs jelfeladás, nincs vonali rádió. 110: Egyvágányú, nem villamosított, állomástávolságú közlekedés, nincs vonali rádió, nincs vonatbefolyásolás. Ennek a felépítményét kivételesen nem ismertem, de nem lennék meglepve, ha hevederes lenne a sebességből ítélve. Forgalmat egyikhez sem írtam, mert az szerinted szubjektív, ezáltal a mérhető, megállapítható adatokat vettem alapul. A jogszabályokat meg köztudottan a politika alkotja. Hogy most mi minősül aktuálisan törzsvonalnak, mellékvonalnak vagy egyéb vasútvonalnak, az az aktuális közlekedéspolitika dolga, ami lekövetése nem az OSM feladata. Date: 2026-09-28T12:59:15+02:00</title>
         <link>https://www.openstreetmap.org/changeset/185420016</link>
         <guid>https://www.openstreetmap.org/changeset/185420016#comment_9</guid>
@@ -27,11 +32,6 @@
         <link>https://www.openstreetmap.org/changeset/189640285</link>
         <guid>https://www.openstreetmap.org/changeset/189640285#comment_1</guid>
         <pubDate>2026-09-27T17:13:08+02:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Szia. w1562731944 elemre ráraktál wikidata és wikipedia címkét, aminek semmi köze az elemhez. Már jelölted ezen a ponton: n3754108723 w1088220637 elem egy bokros, benőtt területet jelölt, ennek adtál nevet. Ha romot akarsz jelölni, azt inkább a historic=ruins (ha történelmi jelentőségű), vagy ruins:building=yes (ha csak pár évtizedes épületrom) a jelölés. Lásd: https://wiki.openstreetmap.org/wiki/One_feature,_one_OSM_element Újhegy már jelölve volt pontként: https://www.openstreetmap.org/node/8412508689/history/1 - Mivel az ilyen városrészeknek sokszor nincs pontosan meghatározható kerülete, nem szoktuk vonalként felvinni. További jó szerkesztést! Date: 2026-09-27T16:50:32+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/189624394</link>
-        <guid>https://www.openstreetmap.org/changeset/189624394#comment_1</guid>
-        <pubDate>2026-09-27T16:50:32+02:00</pubDate>
       </item><item>
         <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv. Most akkor pince vagy barlang? Ha pince, akkor name helyett elég egy abandoned:man_made=cellar_entrance jelölés is. Date: 2026-09-27T16:42:27+02:00</title>
         <link>https://www.openstreetmap.org/changeset/189630842</link>
