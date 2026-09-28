@@ -3,20 +3,20 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: Szántó András 82 Discussion Comment No.: 10 Comment: Kár, hogy ismét nem sikerült a korrekt és konstruktív válaszadás. Kezd az a benyomásom kialakulni, hogy te csak személyeskedni tudsz. Veled ellentétben én ismerem a HÜSZ-t és nem kell kimennem a pályára, hogy tudjak beszélni a 108-as vonalról, meg általánosságban a többiről sem. Mi okozza ezt a borzalmas frusztrációdat? Megbántottalak valamivel? Utadban állok? Kezd érdekelni, hogy vajon ki lehetsz?... :) Date: 2026-09-28T15:29:23+02:00</title>
+        <title>Contributor: balint36 Discussion Comment No.: 11 Comment: Hát ha személyes támadásnak veszed, hogy a wikit kell betartani itt OSM-en, akkor lelked rajta, de innentől már tudom, hogy egyértelműen nem akarsz törődni az OSM-wikiben leírtakkal. És nehogy azt hidd, hogy velem fogsz kitolni, rajtam kívül több magyar szerkesztő is foglalkozik a vasúttal, és ők sem csípik, ha valaki a címkézési szabályokat nem tartja meg. Ironikus, hogy még te beszélsz korrekt és konstruktív válaszadás hiányáról, mikor ez a hozzászólásod arról szólt, hogy te bezzeg tudod, a HÜSZ-t meg ki se kell menned ahhoz, hogy tudjad mi a pálya (ez utóbbit mondjuk fotelmérnöknek hívja a szakma). Az felettébb vicces, hogy miután bedobtam neked az usage=branch szabályzatát, egyből elkezded, hogy kíváncsi vagy, ki vagyok. Miért fontos ez? :D Nem tudsz az OSM címkézési szabályaiba bekötni, ezért lehetőség kell neked a személyeskedésre? Ezt a parttalan vitát itt befejezem veled, egyértelművé tetted, hogy az OSM wiki leírása nem érdekel téged, így az már megfelelő indok egy visszavonásra. Date: 2026-09-28T17:01:16+02:00</title>
         <link>https://www.openstreetmap.org/changeset/185420016</link>
-        <guid>https://www.openstreetmap.org/changeset/185420016#comment_10</guid>
-        <pubDate>2026-09-28T15:29:23+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/185420016#comment_11</guid>
+        <pubDate>2026-09-28T17:01:16+02:00</pubDate>
+      </item><item>
+        <title>Contributor: hadidoki Discussion Comment No.: 2 Comment: János Feltser 18:44 (6 perccel ezelőtt) címzett: OpenStreetMap Szia qstep! A &quot;Benőtt!&quot; jelzésekre gondolsz? Elég régen, és ritkán rajzolok mostanában, nem tudom a mostani szokásokat. Bocsi! Mondjuk a name=Benőtt! címkének megvan az a jó tulajdonsága, hogy látható a térképen. Elég kellemetlen egy régen felrajzolt, de mára már teljesen elvadult útra tévedni. Köszönöm a jelzést, továbbiakban figyelek rá! Üdv, hadidoki Date: 2026-09-28T16:51:36+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/189582672</link>
+        <guid>https://www.openstreetmap.org/changeset/189582672#comment_2</guid>
+        <pubDate>2026-09-28T16:51:36+02:00</pubDate>
       </item><item>
         <title>Contributor: qstep Discussion Comment No.: 1 Comment: Mit tudunk még róla? Mert rajta hagytad hogy elhagyatott és benőtt. Date: 2026-09-28T15:26:36+02:00</title>
         <link>https://www.openstreetmap.org/changeset/184172190</link>
         <guid>https://www.openstreetmap.org/changeset/184172190#comment_1</guid>
         <pubDate>2026-09-28T15:26:36+02:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Szia. Name címkébe kérlek ne írj útminőséget jelző leírást, az nem erre való! Használd a smoothness=* , trail_visibility=* , sac_scale=* , surface=* címkéket. Date: 2026-09-28T14:54:07+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/189582672</link>
-        <guid>https://www.openstreetmap.org/changeset/189582672#comment_1</guid>
-        <pubDate>2026-09-28T14:54:07+02:00</pubDate>
       </item><item>
         <title>Contributor: ÚtKár Discussion Comment No.: 2 Comment: a wikipédiát azért linkeltem oda mert a cikkben lejebb görgetve részletes leírás van a romokról. megpróbálom szerkeszteni a wikipédián külön cikknek, és javítom, (a többit is) Date: 2026-09-28T13:41:30+02:00</title>
         <link>https://www.openstreetmap.org/changeset/189624394</link>
@@ -167,11 +167,6 @@
         <link>https://www.openstreetmap.org/changeset/189364014</link>
         <guid>https://www.openstreetmap.org/changeset/189364014#comment_1</guid>
         <pubDate>2026-09-21T20:36:46+02:00</pubDate>
-      </item><item>
-        <title>Contributor: vasony Discussion Comment No.: 4 Comment: Elvileg ment a revert a poligonra ami véletlenül bekerült a fránya Q betűre Date: 2026-09-21T18:54:49+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/189310873</link>
-        <guid>https://www.openstreetmap.org/changeset/189310873#comment_4</guid>
-        <pubDate>2026-09-21T18:54:49+02:00</pubDate>
       </item>
   </channel>
 </rss>
