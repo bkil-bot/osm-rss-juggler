@@ -147,16 +147,6 @@
         <link>https://www.openstreetmap.org/changeset/189397473</link>
         <guid>https://www.openstreetmap.org/changeset/189397473#comment_1</guid>
         <pubDate>2026-09-22T13:12:36+02:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Szia. Lehetőleg innen válassz building:material értéket: https://wiki.openstreetmap.org/wiki/Key:building:material Date: 2026-09-22T10:44:31+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/189391937</link>
-        <guid>https://www.openstreetmap.org/changeset/189391937#comment_1</guid>
-        <pubDate>2026-09-22T10:44:31+02:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Szia. A https://wiki.openstreetmap.org/wiki/Key:building:material címkében főleg azt jelöljük, hogy az épület homlokzata, tehát nem a falazat hanem a legkülső látható réteg milyen anyagból készült. Mivel az NMHH egy bonyolult épület, a legjellemzőbb értéket választanám. Ha mégis több értéket adsz meg, azt pontosvesszővel válaszd el. A magassági adatok honnan vannak? Illetve building=electricity nincs, helyette ilyesmi lehet akár: building=service utility=power power=substation substation=minor_distribution Date: 2026-09-22T10:37:53+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/189388534</link>
-        <guid>https://www.openstreetmap.org/changeset/189388534#comment_1</guid>
-        <pubDate>2026-09-22T10:37:53+02:00</pubDate>
       </item>
   </channel>
 </rss>
