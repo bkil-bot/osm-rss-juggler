@@ -3,6 +3,11 @@
   <channel>
     <title>en.osm.town/@openstreetmap.rss (via bkil-bot)</title>
       <item>
+        <title>New on the OpenStreetMap blog: What’s in a name? Naming things in OpenStreetMap https://blog.openstreetmap.org/2026/09/13/whats-in-a-name-naming-things-in-openstreetmap/</title>
+        <link>https://en.osm.town/@openstreetmap/117360124431737727</link>
+        <guid>https://en.osm.town/@openstreetmap/117360124431737727</guid>
+        <pubDate>Wed, 30 Sep 2026 13:03:03 +0000</pubDate>
+      </item><item>
         <title>New on the OpenStreetMap Blog: Thanking Proton, our newest Platinum sponsor https://blog.openstreetmap.org/2026/08/21/thanking-proton-our-newest-platinum-sponsor/</title>
         <link>https://en.osm.town/@openstreetmap/117201579646269939</link>
         <guid>https://en.osm.town/@openstreetmap/117201579646269939</guid>
@@ -97,11 +102,6 @@
         <link>https://en.osm.town/@openstreetmap/116136821460927760</link>
         <guid>https://en.osm.town/@openstreetmap/116136821460927760</guid>
         <pubDate>Thu, 26 Feb 2026 12:01:01 +0000</pubDate>
-      </item><item>
-        <title>Do you want to present, or organise a session, at State of the Map, the global annual OpenStreetMap conference? Submissions are open! The programme committee is ready and waiting, eager to unwrap your submissions for talks, workshops, and panels @sotm will take place in Paris, France 28-30 Aug 26 Read more: https://2026.stateofthemap.org/calls/general/ #OpenStreetMap #OSM #SotM #SotM2026</title>
-        <link>https://en.osm.town/@openstreetmap/116130418899209242</link>
-        <guid>https://en.osm.town/@openstreetmap/116130418899209242</guid>
-        <pubDate>Wed, 25 Feb 2026 08:52:45 +0000</pubDate>
       </item>
   </channel>
 </rss>
