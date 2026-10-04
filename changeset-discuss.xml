@@ -3,10 +3,40 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: infeeeee Discussion Comment No.: 5 Comment: Gyakorlatilag nem visszavonás, hanem felülírod a régi adattal, ugyanolyan changeset lesz belőle, mintha kézzel visszaírogatnéd. Bárki csinálhatja. Leggyakrabban használt eszközök osm-revert https://revert.monicz.dev/ (ha épp nincs overpass lehalva) vagy JOSM reverter plugin Date: 2026-10-04T18:08:28+02:00</title>
+        <title>Contributor: wertol Discussion Comment No.: 2 Comment: Ennyi idő után már gondolkodnom kell, hogy ez melyik túrám is volt... Le tudtam rajta jönni, nem járhatatlan. Eléggé köves, de látszik rajta, hogy nincs nagyon használva. Ha jól emlékszem, egyfajta vízmosásszerűség volt ez az ösvény. Date: 2026-10-04T18:47:07+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/184172190</link>
+        <guid>https://www.openstreetmap.org/changeset/184172190#comment_2</guid>
+        <pubDate>2026-10-04T18:47:07+02:00</pubDate>
+      </item><item>
+        <title>Contributor: vargailles Discussion Comment No.: 2 Comment: Szervusz! Ez a postacíme a Génbanknak. https://mateagrarcsoport.hu/telephelyek/erdi-telephely/ Date: 2026-10-04T18:46:19+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/189700330</link>
+        <guid>https://www.openstreetmap.org/changeset/189700330#comment_2</guid>
+        <pubDate>2026-10-04T18:46:19+02:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Törlések visszavonva: https://www.openstreetmap.org/changeset/189995872 Date: 2026-10-04T18:31:11+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/189984913</link>
+        <guid>https://www.openstreetmap.org/changeset/189984913#comment_1</guid>
+        <pubDate>2026-10-04T18:31:11+02:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Törlések visszavonva: https://www.openstreetmap.org/changeset/189995872 Date: 2026-10-04T18:31:04+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/189985221</link>
+        <guid>https://www.openstreetmap.org/changeset/189985221#comment_1</guid>
+        <pubDate>2026-10-04T18:31:04+02:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 6 Comment: Törlések visszavonva: https://www.openstreetmap.org/changeset/189995872 Date: 2026-10-04T18:30:57+02:00</title>
         <link>https://www.openstreetmap.org/changeset/189985520</link>
-        <guid>https://www.openstreetmap.org/changeset/189985520#comment_5</guid>
-        <pubDate>2026-10-04T18:08:28+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/189985520#comment_6</guid>
+        <pubDate>2026-10-04T18:30:57+02:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Törlések visszavonva: https://www.openstreetmap.org/changeset/189995872 Date: 2026-10-04T18:30:50+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/189985644</link>
+        <guid>https://www.openstreetmap.org/changeset/189985644#comment_1</guid>
+        <pubDate>2026-10-04T18:30:50+02:00</pubDate>
+      </item><item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Törlések visszavonva: https://www.openstreetmap.org/changeset/189995872 Date: 2026-10-04T18:30:40+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/189985749</link>
+        <guid>https://www.openstreetmap.org/changeset/189985749#comment_1</guid>
+        <pubDate>2026-10-04T18:30:40+02:00</pubDate>
       </item><item>
         <title>Contributor: Heyhohayhohu Discussion Comment No.: 2 Comment: Szia. Nem kell takarítani, ami nem úgy van nem írom. De válaszoltam is ha minden igaz ez volt az utolsó. Környékbeli vagyok, hajrá, nyomd a kanapéről akkor! Viszlát. Date: 2026-10-04T10:39:40+02:00</title>
         <link>https://www.openstreetmap.org/changeset/189819218</link>
@@ -27,11 +57,6 @@
         <link>https://www.openstreetmap.org/changeset/189757737</link>
         <guid>https://www.openstreetmap.org/changeset/189757737#comment_2</guid>
         <pubDate>2026-10-04T10:32:41+02:00</pubDate>
-      </item><item>
-        <title>Contributor: vasony-qa Discussion Comment No.: 1 Comment: Szia! Honnan az információ, hogy az Elvira major egy közterület neve? Általában a major nem egy közterület neve, hanem egy tanya neve, ahogy az Elvira major eddig is szerepelt és aminek a helyesírását ki is javítottad. Tamás Date: 2026-10-02T19:44:47+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/189700330</link>
-        <guid>https://www.openstreetmap.org/changeset/189700330#comment_1</guid>
-        <pubDate>2026-10-02T19:44:47+02:00</pubDate>
       </item><item>
         <title>Contributor: norbijuzer Discussion Comment No.: 3 Comment: szia! köszi a gyors választ! egyrészt igazad van és a térkép akkor hasznos, ha leírja a környezetet. viszont úgy tapasztaltam, hogy sok más túrázós app is innen veszi át, majd aztán megjelenik nagy kövér ikonként. ezzel bátorítja azokat, akik böngészik a térképet, hogy hol is lenne jó hely egy vadkempingezésre. az, hogy mért nincs FVTT tábla sűrűbben ezen a szakaszon, valóban felvet kérdéseket. de talán te is tudod, hogy a természetvédelem mennyire kevés emberrel és eszközzel rendelkezik. és jogosan érezhetnék magukat megszivatva a táborozók, ha mégis arra megy és megbünteti, vagy csak egyszerűen elzavarja őket a természetvédelmi őr, hogy &quot;dehát a térkép szerint itt táborhely van&quot;. Date: 2026-10-02T15:43:16+02:00</title>
         <link>https://www.openstreetmap.org/changeset/133329075</link>
@@ -87,11 +112,6 @@
         <link>https://www.openstreetmap.org/changeset/189582672</link>
         <guid>https://www.openstreetmap.org/changeset/189582672#comment_2</guid>
         <pubDate>2026-09-28T16:51:36+02:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Mit tudunk még róla? Mert rajta hagytad hogy elhagyatott és benőtt. Date: 2026-09-28T15:26:36+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/184172190</link>
-        <guid>https://www.openstreetmap.org/changeset/184172190#comment_1</guid>
-        <pubDate>2026-09-28T15:26:36+02:00</pubDate>
       </item><item>
         <title>Contributor: ÚtKár Discussion Comment No.: 2 Comment: a wikipédiát azért linkeltem oda mert a cikkben lejebb görgetve részletes leírás van a romokról. megpróbálom szerkeszteni a wikipédián külön cikknek, és javítom, (a többit is) Date: 2026-09-28T13:41:30+02:00</title>
         <link>https://www.openstreetmap.org/changeset/189624394</link>
