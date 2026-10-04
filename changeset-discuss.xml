@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! Crossing=unmarked mióta elavult? Date: 2026-10-04T15:34:29+02:00</title>
+        <title>Contributor: infeeeee Discussion Comment No.: 3 Comment: Folyamatban van a crossing=* értékek tisztítása, pl crossing=zebra már elavult, tényleg vannak már jobb alkulcsok erre. Szerintem az oké, hogy a crossing=unmarked mellé felveszed a crossing:markings=no-t, de törölni nem kéne, ki tudja milyen eszközök még a régi címkézést használják. Pl iD is, szóval vissza fogják rakni a kezdők idővel: https://taginfo.openstreetmap.org/tags/crossing=unmarked#projects Visszavonod vagy visszavonjam? Date: 2026-10-04T17:09:58+02:00</title>
         <link>https://www.openstreetmap.org/changeset/189985520</link>
-        <guid>https://www.openstreetmap.org/changeset/189985520#comment_1</guid>
-        <pubDate>2026-10-04T15:34:29+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/189985520#comment_3</guid>
+        <pubDate>2026-10-04T17:09:58+02:00</pubDate>
       </item><item>
         <title>Contributor: Heyhohayhohu Discussion Comment No.: 2 Comment: Szia. Nem kell takarítani, ami nem úgy van nem írom. De válaszoltam is ha minden igaz ez volt az utolsó. Környékbeli vagyok, hajrá, nyomd a kanapéről akkor! Viszlát. Date: 2026-10-04T10:39:40+02:00</title>
         <link>https://www.openstreetmap.org/changeset/189819218</link>
@@ -102,11 +102,6 @@
         <link>https://www.openstreetmap.org/changeset/189589160</link>
         <guid>https://www.openstreetmap.org/changeset/189589160#comment_2</guid>
         <pubDate>2026-09-28T07:29:04+02:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 4 Comment: Semmi gond. Telefonon eléggé körülményes geometriát szerkeszteni, arra inkább talán a webes szerkesztő vagy a JOSM megfelelőbb egy asztali gépen. Az általad használt Go Map elvileg felsorolja a feltöltés előtt, hogy miket módosítottál. Ha ott gyanús valami, akkor még vissza tudod vonni. Date: 2026-09-27T18:47:08+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/189642171</link>
-        <guid>https://www.openstreetmap.org/changeset/189642171#comment_4</guid>
-        <pubDate>2026-09-27T18:47:08+02:00</pubDate>
       </item>
   </channel>
 </rss>
