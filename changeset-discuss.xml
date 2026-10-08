@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv. Látom sokat rajzolsz a Mapbox alapján, viszont érdemes beállítani rajta egy -1.00; -0.50 eltolást, hogy megegyezzen a FÖMI-vel. Próbáld ki utána, hogy ki-be kapcsolgatod a rétegeket, és szépen látszik. További jó térképezést! Date: 2026-10-08T15:56:31+02:00</title>
+        <title>Contributor: toboz Discussion Comment No.: 4 Comment: De jó! Köszi a segítséget, az RTK referencia pontokról eddig nem tudtam. Akkor nekiállok igazítani, remélem, így könnyebb lesz. :) Date: 2026-10-08T18:20:57+02:00</title>
         <link>https://www.openstreetmap.org/changeset/190206420</link>
-        <guid>https://www.openstreetmap.org/changeset/190206420#comment_1</guid>
-        <pubDate>2026-10-08T15:56:31+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/190206420#comment_4</guid>
+        <pubDate>2026-10-08T18:20:57+02:00</pubDate>
       </item><item>
         <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv. A wiki linkek maradhattak volna, javítottam. Date: 2026-10-07T19:32:02+02:00</title>
         <link>https://www.openstreetmap.org/changeset/190162323</link>
@@ -97,16 +97,6 @@
         <link>https://www.openstreetmap.org/changeset/179876649</link>
         <guid>https://www.openstreetmap.org/changeset/179876649#comment_2</guid>
         <pubDate>2026-10-02T10:41:37+02:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv. Mi van pontosan kitáblázva ezen az átkelőn? A KRESZ szerint kijelölt kerékpárúton gyalogos csak akkor közlekedhet, ha nincs járda. A foot megadása szükségtelen: https://wiki.openstreetmap.org/wiki/Hu:Bicycle#Duplik%C3%A1lt_%C3%A9rt%C3%A9kek Lásd még: https://wiki.openstreetmap.org/wiki/Hungary/K%C3%B6z%C3%BAti_jelz%C5%91t%C3%A1bl%C3%A1k Date: 2026-10-01T19:48:02+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/189533208</link>
-        <guid>https://www.openstreetmap.org/changeset/189533208#comment_1</guid>
-        <pubDate>2026-10-01T19:48:02+02:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv. Ezek szerintem nem lakóterületi utak, hiszen ipartelepen vannak. Date: 2026-10-01T19:41:32+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/189666169</link>
-        <guid>https://www.openstreetmap.org/changeset/189666169#comment_1</guid>
-        <pubDate>2026-10-01T19:41:32+02:00</pubDate>
       </item>
   </channel>
 </rss>
