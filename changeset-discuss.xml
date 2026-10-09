@@ -3,10 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: infeeeee Discussion Comment No.: 2 Comment: Illetve 4-et elhúzott a jó helyéről: https://www.openstreetmap.org/node/14066671241 https://www.openstreetmap.org/node/3034000907 https://www.openstreetmap.org/node/2337845616 https://www.openstreetmap.org/node/600390560 Date: 2026-10-09T08:57:51+02:00</title>
+        <title>Contributor: infeeeee Discussion Comment No.: 3 Comment: Meg duplikátumok is voltak ezek, gondolom valami régi fájlból futott megint. Javítottam szerintem mindent itt: https://www.openstreetmap.org/changeset/190244158 Date: 2026-10-09T10:15:14+02:00</title>
         <link>https://www.openstreetmap.org/changeset/190204087</link>
-        <guid>https://www.openstreetmap.org/changeset/190204087#comment_2</guid>
-        <pubDate>2026-10-09T08:57:51+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/190204087#comment_3</guid>
+        <pubDate>2026-10-09T10:15:14+02:00</pubDate>
+      </item><item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv. Van néhány hiba a szerkesztésben: - Ahogy a wiki is írja, https://wiki.openstreetmap.org/wiki/Tag:leisure=common nem igazán használatos, inkább park, grass vagy egyéb kellene. - Lehet, hogy szőlő van ültetve a körforgalomba, de attól az még nem szőlészet: https://www.openstreetmap.org/way/455895960 - &quot;Túrózsáki kosárlabdapálya&quot; - ez így konkrétan ki van írva a pályánál? Ha nem, akkor felesleges, Túrózsákon van és be van rá állítva hogy kosárlabdapálya. &quot;Túrózsáki műfüves focipálya&quot; ugyanez, fel van már véve rá a műfű. https://wiki.openstreetmap.org/wiki/Names#Name_is_the_name_only - Virágágyásoknak nincs üzemeltetője, max a parknak van. Oda vetted fel névként, hogy &quot;Rózsakert&quot;, ami helyett inkább https://wiki.openstreetmap.org/wiki/Key:species címke kellene. &quot;Százoszlopos udvar&quot;, &quot;Alsókert&quot; szintén. - Bekerült egy helytelen &quot;Start Date&quot; címke is a &quot;start_date&quot; mellé. - description és description:hu egymás mellett: https://www.openstreetmap.org/node/4092129431 - itthon default a description-be magyarul írni. További jó szerkesztést! Date: 2026-10-09T10:00:18+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/190236596</link>
+        <guid>https://www.openstreetmap.org/changeset/190236596#comment_1</guid>
+        <pubDate>2026-10-09T10:00:18+02:00</pubDate>
       </item><item>
         <title>Contributor: gwythyr622 Discussion Comment No.: 4 Comment: Szia! Validátor sikított miatta. Ismerőst kérdezve Dankó Újtelep, de ahogy néztem ugyanezt erősíti a HRSZ térkép is, erre utalt a kolléga is note-ban a hsz táblák alapján (régről nekem is az rémlik). Perdöntő bizonyítékként önkormányzatnál lehetne megérdeklődni, aki szeret ilyen ügyben kapcsolatba lenni velük. Date: 2026-10-08T20:22:57+02:00</title>
         <link>https://www.openstreetmap.org/changeset/138751572</link>
