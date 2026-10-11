@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Hi. Az operator:addr címke nem lesz jó, cégjegyzékben és nyugtán is &quot;2225 Üllő, Sóderes köz 6.&quot; szerepel. És ha már ott vagyunk, mehetne egy ref:HU:company=13-09-088090 is a scriptbe. Az is feltűnt, hogy a Rossman API válaszban szereplő id megegyezik a nyugtán lévővel, így ezt is betenném ref=* címkébe. Ha lesz egy kis időm, javíthatom a forráskódot. Date: 2026-10-11T16:04:00+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/190203072</link>
+        <guid>https://www.openstreetmap.org/changeset/190203072#comment_1</guid>
+        <pubDate>2026-10-11T16:04:00+02:00</pubDate>
+      </item><item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv az OSM-en! Ha lehetséges, kérlek mindig írj leírást és forrást a módosításaidhoz, ez segít másoknak a minőségellenőrzésben: https://wiki.openstreetmap.org/wiki/Good_changeset_comments#Why_should_I_use_Changeset_Comments? További jó szerkesztést! Date: 2026-10-11T15:41:23+02:00</title>
+        <link>https://www.openstreetmap.org/changeset/190353265</link>
+        <guid>https://www.openstreetmap.org/changeset/190353265#comment_1</guid>
+        <pubDate>2026-10-11T15:41:23+02:00</pubDate>
+      </item><item>
         <title>Contributor: Zoltán Vashegyi Discussion Comment No.: 2 Comment: Helyismeret, itt élek. A közösség már 10+ éve így hívja ezeket az utakat, a dombot. Különben mindegy, mert 1 éven belül itt teljesen újra kell majd szinte mindent rajzolnom, mert 700+ ember költözik erre a környékre, ezekre az utakra is - el fognak tűnni. Date: 2026-10-10T22:31:04+02:00</title>
         <link>https://www.openstreetmap.org/changeset/162627146</link>
         <guid>https://www.openstreetmap.org/changeset/162627146#comment_2</guid>
@@ -82,16 +92,6 @@
         <link>https://www.openstreetmap.org/changeset/189985520</link>
         <guid>https://www.openstreetmap.org/changeset/189985520#comment_6</guid>
         <pubDate>2026-10-04T18:30:57+02:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Törlések visszavonva: https://www.openstreetmap.org/changeset/189995872 Date: 2026-10-04T18:30:50+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/189985644</link>
-        <guid>https://www.openstreetmap.org/changeset/189985644#comment_1</guid>
-        <pubDate>2026-10-04T18:30:50+02:00</pubDate>
-      </item><item>
-        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Törlések visszavonva: https://www.openstreetmap.org/changeset/189995872 Date: 2026-10-04T18:30:40+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/189985749</link>
-        <guid>https://www.openstreetmap.org/changeset/189985749#comment_1</guid>
-        <pubDate>2026-10-04T18:30:40+02:00</pubDate>
       </item>
   </channel>
 </rss>
