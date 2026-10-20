@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: zolikonta Discussion Comment No.: 2 Comment: Szia! A wiki szerint viszont igen. Vagy félreértek valamit. https://wiki.openstreetmap.org/wiki/Tag:highway%3Dservice#:~:text=lot%2C%20service%20station%2C-,business%20estate,-%2C%20beach%2C%20campsite https://wiki.openstreetmap.org/wiki/Tag:highway=residential#:~:text=campsite%2C%20industrial%20estate%2C-,business%20park,-%2C%20etc. https://wiki.openstreetmap.org/wiki/Hu:Tag:highway=service#:~:text=strand%2C%20kemping%2C%20ipari%20park%2C-,%C3%BCzleti%20park,-stb.%20megk%C3%B6zel%C3%ADt%C3%A9s%C3%A9re%20szolg%C3%A1l.%20Parkol%C3%B3helyekre Date: 2026-10-20T17:40:56+02:00</title>
+        <title>Contributor: vasony Discussion Comment No.: 3 Comment: Félreérted. &quot;épület, benzinkút, strand, kemping, ipari park, üzleti park stb. megközelítésére szolgál. &quot; A lényeg: &quot;megközelítésére szolgál&quot;, tehát az utcától befelé lévő rész, tipikusan zsákutca kivéve a benzinkutaknál, parkolóknál. Az hogy megközelítésére szolgál nem azt jelenti, hogy az irodák között lévő &quot;fő&quot; utca is service lenne. Az angol jobban leírja: Service ways are usually not part of the public street network .. Ez pedig itt határozottan egy publikus, hivatalos közterület. Magyar tudósok körútja és a Hevesy György út biztosan. Date: 2026-10-20T19:10:21+02:00</title>
         <link>https://www.openstreetmap.org/changeset/190255992</link>
-        <guid>https://www.openstreetmap.org/changeset/190255992#comment_2</guid>
-        <pubDate>2026-10-20T17:40:56+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/190255992#comment_3</guid>
+        <pubDate>2026-10-20T19:10:21+02:00</pubDate>
       </item><item>
         <title>Contributor: qstep Discussion Comment No.: 1 Comment: Szia. Járdát nem így jelölünk! Szerintem a 87-esen tilos gyalog közlekedni. Jó lenne, ha befejeznéd ezt a gyakorlatot, hogy utakat szabdalsz és mindenhová felviszed a foot=yes címkét, ahol szerinted fizikailag lehet két lábon közlekedni. Ha van mellette járda, így jelöld: https://wiki.openstreetmap.org/wiki/Key:sidewalk Date: 2026-10-20T13:57:20+02:00</title>
         <link>https://www.openstreetmap.org/changeset/190777261</link>
