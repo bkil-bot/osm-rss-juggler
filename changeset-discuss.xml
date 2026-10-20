@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szia! Miért lettek a lakóutak szervizúttá? Attól hogy itt irodák vannak még nem szervizút. Tamás Date: 2026-10-20T17:13:35+02:00</title>
+        <title>Contributor: zolikonta Discussion Comment No.: 2 Comment: Szia! A wiki szerint viszont igen. Vagy félreértek valamit. https://wiki.openstreetmap.org/wiki/Tag:highway%3Dservice#:~:text=lot%2C%20service%20station%2C-,business%20estate,-%2C%20beach%2C%20campsite https://wiki.openstreetmap.org/wiki/Tag:highway=residential#:~:text=campsite%2C%20industrial%20estate%2C-,business%20park,-%2C%20etc. https://wiki.openstreetmap.org/wiki/Hu:Tag:highway=service#:~:text=strand%2C%20kemping%2C%20ipari%20park%2C-,%C3%BCzleti%20park,-stb.%20megk%C3%B6zel%C3%ADt%C3%A9s%C3%A9re%20szolg%C3%A1l.%20Parkol%C3%B3helyekre Date: 2026-10-20T17:40:56+02:00</title>
         <link>https://www.openstreetmap.org/changeset/190255992</link>
-        <guid>https://www.openstreetmap.org/changeset/190255992#comment_1</guid>
-        <pubDate>2026-10-20T17:13:35+02:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/190255992#comment_2</guid>
+        <pubDate>2026-10-20T17:40:56+02:00</pubDate>
       </item><item>
         <title>Contributor: qstep Discussion Comment No.: 1 Comment: Szia. Járdát nem így jelölünk! Szerintem a 87-esen tilos gyalog közlekedni. Jó lenne, ha befejeznéd ezt a gyakorlatot, hogy utakat szabdalsz és mindenhová felviszed a foot=yes címkét, ahol szerinted fizikailag lehet két lábon közlekedni. Ha van mellette járda, így jelöld: https://wiki.openstreetmap.org/wiki/Key:sidewalk Date: 2026-10-20T13:57:20+02:00</title>
         <link>https://www.openstreetmap.org/changeset/190777261</link>
@@ -127,16 +127,6 @@
         <link>https://www.openstreetmap.org/changeset/189199028</link>
         <guid>https://www.openstreetmap.org/changeset/189199028#comment_1</guid>
         <pubDate>2026-10-14T07:47:05+02:00</pubDate>
-      </item><item>
-        <title>Contributor: vasony Discussion Comment No.: 3 Comment: Szia! A postacím nem az út címe, tanyáknál nem kell feljelölni az utat, mert egy terület neve általában. Ez esetben az 1-es szám addr:place=Elvira major lesz + addr:housenumber=1, de magát a címet nem látom feljelölve, mire vonatkozik a honkapon lévő 1-es házszám? Tamás Tamás Date: 2026-10-13T20:27:07+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/189700330</link>
-        <guid>https://www.openstreetmap.org/changeset/189700330#comment_3</guid>
-        <pubDate>2026-10-13T20:27:07+02:00</pubDate>
-      </item><item>
-        <title>Contributor: vasony Discussion Comment No.: 1 Comment: Szia! Legközelebb a közterület jelleget is add meg (Kend Kanuth helyett Kende Kanuth utca), amit legegyszerűbben úgy tudsz, hogy az utca résznél az alkalmazásban kiválasztod a térképről az utcát, nem pedig kézzel írod be. Ilyenkor a fenti elírást is sikerül elkerülni. Tamás Date: 2026-10-13T19:47:37+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/190260097</link>
-        <guid>https://www.openstreetmap.org/changeset/190260097#comment_1</guid>
-        <pubDate>2026-10-13T19:47:37+02:00</pubDate>
       </item>
   </channel>
 </rss>
