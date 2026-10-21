@@ -3,21 +3,6 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
-        <title>Migration completed successfully :) Thanks for your patience.</title>
-        <link>https://chaos.social/@delta/117445007055197510</link>
-        <guid>https://chaos.social/@delta/117445007055197510</guid>
-        <pubDate>Thu, 15 Oct 2026 12:49:49 +0000</pubDate>
-      </item><item>
-        <title>(It has many more purposes nowadays than just being there for users supporting each other with questions, it&amp;#39;s much more of a feature discussion forum nowadays)</title>
-        <link>https://chaos.social/@delta/117444890556844734</link>
-        <guid>https://chaos.social/@delta/117444890556844734</guid>
-        <pubDate>Thu, 15 Oct 2026 12:20:11 +0000</pubDate>
-      </item><item>
-        <title>Our forum will have a short downtime, and will then be reachable under https://forum.delta.chat instead of https://support.delta.chat :) (don&amp;#39;t worry, both URLs will still work)</title>
-        <link>https://chaos.social/@delta/117444887867530602</link>
-        <guid>https://chaos.social/@delta/117444887867530602</guid>
-        <pubDate>Thu, 15 Oct 2026 12:19:30 +0000</pubDate>
-      </item><item>
         <title>#deltachat is made to be a reliable and resilient messenger for private groups, friends and family. If you want to use it for joining or creating &amp;quot;public groups&amp;quot;, please do yourself a favor, and create a dedicated &amp;quot;public profile&amp;quot; by tapping &amp;quot;create profile&amp;quot; and then use it to join public invite links like here on the fediverse, or on websites etc Public groups with anonymous un-trusted or trolling members can cause problems. Worst case, you can then drop the public chat profile.</title>
         <link>https://chaos.social/@delta/117395887864891657</link>
         <guid>https://chaos.social/@delta/117395887864891657</guid>
@@ -102,6 +87,21 @@
         <link>https://chaos.social/@delta/116605626368696989</link>
         <guid>https://chaos.social/@delta/116605626368696989</guid>
         <pubDate>Wed, 20 May 2026 07:04:16 +0000</pubDate>
+      </item><item>
+        <title>Good news among the bad news! If the recent #0day attacks against Linux kernel+servers were launched against #chatmail relays, privacy of chatting with #deltachat is preserved. Why? Because we already assume the server could be actively hostile, and still not read or see any avatar, names or messages. Since the March 2.48 zero-metadata releases relays/servers do not see cryptographic identities, and get no chance to launch &amp;quot;machine-in-the-middle&amp;quot; (MITM) attacks. https://delta.chat/en/2026-03-31-zero</title>
+        <link>https://chaos.social/@delta/116572644648127899</link>
+        <guid>https://chaos.social/@delta/116572644648127899</guid>
+        <pubDate>Thu, 14 May 2026 11:16:35 +0000</pubDate>
+      </item><item>
+        <title>We don&amp;#39;t think any institution or state has the right to prevent families and friends from private chatting, physically or digitally. But the Cyber Authority China (CaC) seems to take offense: - they made Apple remove #deltachat iOS for mainland china - their great firewall appears to block some #chatmail relays - if you ask DeepSeek directly about Delta Chat, it doesn&amp;#39;t want to talk It&amp;#39;s pretty sad, really. Everybody on this planet needs, and has a human right to private communication. DeepSeek conversation snapshot: can you tell me about Delta Chat? &gt; Sorry, that's beyond my current scope. Let's talk about something else. what??? why??? Delta Chat the open source messenger app &gt; Sorry, that's beyond my current scope. Let's talk about something else.</title>
+        <link>https://chaos.social/@delta/116523596432350955</link>
+        <guid>https://chaos.social/@delta/116523596432350955</guid>
+        <pubDate>Tue, 05 May 2026 19:22:58 +0000</pubDate>
+      </item><item>
+        <title>Congrats to @protonprivacy for beating us on introducing Post-Quantum Cryptography into mail messaging! No worries. We&amp;#39;ll implement https://autocrypt2.org which additionally offers reliable deletion / forward secrecy during 2026 :) We are working with Proton cryptographers on OpenPGP specifications, and they are now moving towards using @rpgp , the end-to-end encryption we are using. Everything will be based on RFC9580 (#OpenPGP v6) ... the eocsystem is moving :) https://proton.me/blog/introducing-post-quantum-encryption</title>
+        <link>https://chaos.social/@delta/116521647948304359</link>
+        <guid>https://chaos.social/@delta/116521647948304359</guid>
+        <pubDate>Tue, 05 May 2026 11:07:27 +0000</pubDate>
       </item>
   </channel>
 </rss>
