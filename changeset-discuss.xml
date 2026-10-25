@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: Dani CS Discussion Comment No.: 1 Comment: Üdvözlöm! Elnézést a gépi fordításért. A way/1566500723 (Kékfrankos pincesor) objektumnak egy nagyon szokatlan címkéje van: &quot;98/2025.(VI.25.)=98/2025.(VI.25.)&quot;. Leírná kérem, mi a címke célja? Ha hivatkozásról van szó, talán a &quot;ref=98/2025.(VI.27.)&quot; lenne a jobb választás? English — Hello! Apologies for the automatic translation. The object way/1566500723 (Kékfrankos pincesor) has a very unconventional tag &quot;98/2025.(VI.25.)=98/2025.(VI.25.)&quot;. Could you please describe the purpose of that tag? If it is a reference, perhaps &quot;ref=98/2025.(VI.27.)&quot; would be a better option? Date: 2026-10-25T13:56:18+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/190197061</link>
+        <guid>https://www.openstreetmap.org/changeset/190197061#comment_1</guid>
+        <pubDate>2026-10-25T13:56:18+01:00</pubDate>
+      </item><item>
         <title>Contributor: ssummoner1 Discussion Comment No.: 2 Comment: Mi került hova? Megnéztem a két kapcsolatot josm-mel. Kapcsolat: 127: Körösnagyharsány–Vésztő–Dévaványa (272863) Kapcsolat: 128: Kötegyán–Püspökladány (11981602) „Ezek kapcsolatok vasútvonalakat fűzik fel, nem menetrendi mezőket.” Ezt én is megtudom erősíteni. A két útvonal nem tartalmaz megállókat. Egymásnak sem részei. Annyit látok még, hogy: https://www.openstreetmap.org/relation/11981602#map=10/47.0428/21.2825 https://www.openstreetmap.org/relation/272863#map=11/46.9862/21.2911 Mind a kettőt utoljára egy hónapja módosították. Ha azzal van baj, hogy sorba vannak rendezve a tagok, az pedig azért van mert valószínűleg hozta hibára az inspector: https://tools.geofabrik.de/osmi/?view=pubtrans_routes&amp;lon=21.23354&amp;lat=46.99325&amp;zoom=12&amp;baselayer=Geofabrik%20Standard&amp;overlays=ptv2_routes_valid%2Cptv2_routes_invalid%2Cptv2_error_ways%2Cptv2_error_nodes%2Cptv2_routes_valid%2Cptv2_routes_invalid%2Cptv2_error_ways%2Cptv2_error_nodes Szép zöld az útvonala most is. Ha megírod mi a pontos probléma, akkor javítom, de így sajnos nem tudom. Date: 2026-10-25T12:51:55+01:00</title>
         <link>https://www.openstreetmap.org/changeset/166812449</link>
         <guid>https://www.openstreetmap.org/changeset/166812449#comment_2</guid>
