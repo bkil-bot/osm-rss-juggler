@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: balint36 Discussion Comment No.: 4 Comment: A zöldet meg azért látod, mert a Vésztő-Gyoma személyvonatokat veszi fel (relation/21426132 és relation/21426131), az most tárgytalan. Az inspector a vasútvonalak kapcsolatát nem ellenőrzi. Date: 2026-10-25T15:47:39+01:00</title>
+        <title>Contributor: ssummoner1 Discussion Comment No.: 5 Comment: Ó már értem. Sajnos a nevet nem én adtam neki, és nem is tudtam, hogy nem arra megy. Én csak a tagjait raktam sorrendbe. Javítsd ha tudod melyik merre megy és melyik a 128-as és melyik a 127-es. Ezt nem ellenöriztem. Date: 2026-10-25T16:48:54+01:00</title>
         <link>https://www.openstreetmap.org/changeset/166812449</link>
-        <guid>https://www.openstreetmap.org/changeset/166812449#comment_4</guid>
-        <pubDate>2026-10-25T15:47:39+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/166812449#comment_5</guid>
+        <pubDate>2026-10-25T16:48:54+01:00</pubDate>
       </item><item>
         <title>Contributor: Dani CS Discussion Comment No.: 1 Comment: Üdvözlöm! Elnézést a gépi fordításért. A way/1566500723 (Kékfrankos pincesor) objektumnak egy nagyon szokatlan címkéje van: &quot;98/2025.(VI.25.)=98/2025.(VI.25.)&quot;. Leírná kérem, mi a címke célja? Ha hivatkozásról van szó, talán a &quot;ref=98/2025.(VI.27.)&quot; lenne a jobb választás? English — Hello! Apologies for the automatic translation. The object way/1566500723 (Kékfrankos pincesor) has a very unconventional tag &quot;98/2025.(VI.25.)=98/2025.(VI.25.)&quot;. Could you please describe the purpose of that tag? If it is a reference, perhaps &quot;ref=98/2025.(VI.27.)&quot; would be a better option? Date: 2026-10-25T13:56:18+01:00</title>
         <link>https://www.openstreetmap.org/changeset/190197061</link>
@@ -142,11 +142,6 @@
         <link>https://www.openstreetmap.org/changeset/190696751</link>
         <guid>https://www.openstreetmap.org/changeset/190696751#comment_2</guid>
         <pubDate>2026-10-19T08:59:26+02:00</pubDate>
-      </item><item>
-        <title>Contributor: utvonalfelmeresek Discussion Comment No.: 2 Comment: https://panoramax.openstreetmap.fr/?background=streets&amp;focus=pic&amp;map=18.91/46.3617467/18.7041&amp;pic=4ed0fade-931d-48b8-852b-8db2572580f3&amp;seq=b5d3b50e-9f8a-457b-a95b-76041b5acefe&amp;speed=250&amp;theme=default&amp;users=default&amp;xyz=0.00/0.00/30 Date: 2026-10-18T18:13:01+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/190485944</link>
-        <guid>https://www.openstreetmap.org/changeset/190485944#comment_2</guid>
-        <pubDate>2026-10-18T18:13:01+02:00</pubDate>
       </item>
   </channel>
 </rss>
