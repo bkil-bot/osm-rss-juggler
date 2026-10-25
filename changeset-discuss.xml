@@ -3,10 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: balint36 Discussion Comment No.: 1 Comment: 128-asra miért került rá a 127-es kapcsolata? Ezek kapcsolatok vasútvonalakat fűzik fel, nem menetrendi mezőket. Date: 2026-10-25T11:32:22+01:00</title>
+        <title>Contributor: ssummoner1 Discussion Comment No.: 2 Comment: Mi került hova? Megnéztem a két kapcsolatot josm-mel. Kapcsolat: 127: Körösnagyharsány–Vésztő–Dévaványa (272863) Kapcsolat: 128: Kötegyán–Püspökladány (11981602) „Ezek kapcsolatok vasútvonalakat fűzik fel, nem menetrendi mezőket.” Ezt én is megtudom erősíteni. A két útvonal nem tartalmaz megállókat. Egymásnak sem részei. Annyit látok még, hogy: https://www.openstreetmap.org/relation/11981602#map=10/47.0428/21.2825 https://www.openstreetmap.org/relation/272863#map=11/46.9862/21.2911 Mind a kettőt utoljára egy hónapja módosították. Ha azzal van baj, hogy sorba vannak rendezve a tagok, az pedig azért van mert valószínűleg hozta hibára az inspector: https://tools.geofabrik.de/osmi/?view=pubtrans_routes&amp;lon=21.23354&amp;lat=46.99325&amp;zoom=12&amp;baselayer=Geofabrik%20Standard&amp;overlays=ptv2_routes_valid%2Cptv2_routes_invalid%2Cptv2_error_ways%2Cptv2_error_nodes%2Cptv2_routes_valid%2Cptv2_routes_invalid%2Cptv2_error_ways%2Cptv2_error_nodes Szép zöld az útvonala most is. Ha megírod mi a pontos probléma, akkor javítom, de így sajnos nem tudom. Date: 2026-10-25T12:51:55+01:00</title>
         <link>https://www.openstreetmap.org/changeset/166812449</link>
-        <guid>https://www.openstreetmap.org/changeset/166812449#comment_1</guid>
-        <pubDate>2026-10-25T11:32:22+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/166812449#comment_2</guid>
+        <pubDate>2026-10-25T12:51:55+01:00</pubDate>
+      </item><item>
+        <title>Contributor: balint36 Discussion Comment No.: 1 Comment: Csakúgy mint itt, csomószor láttam, hogy vízrajz pontosítás során egy 2 méter átmérőjű csövön keresztül átvezetett ér/árok miatt a vasút/közút lett megszakítva egy-egy híddal. Értem, hogy a víz az úr, de ilyen átereszekből nem kéne hidat kreálnunk, csak azért, hogy a vizek vonalát ne kelljen elvágni. Date: 2026-10-25T12:31:31+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/166348387</link>
+        <guid>https://www.openstreetmap.org/changeset/166348387#comment_1</guid>
+        <pubDate>2026-10-25T12:31:31+01:00</pubDate>
       </item><item>
         <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv. Budapest és vonzáskörzetében a Mapbox rétege -1.0, -0.5-ös eltolással egészen pontos és részletes légifelvétel. Legközelebb az alapján rajzolj épületeket a környéken. További jó szerkesztést! Date: 2026-10-25T11:29:03+01:00</title>
         <link>https://www.openstreetmap.org/changeset/190988098</link>
@@ -24,13 +29,13 @@
         <pubDate>2026-10-25T07:37:17+01:00</pubDate>
       </item><item>
         <title>Contributor: balint36 Discussion Comment No.: 2 Comment: A címkézés nem érzelem, hanem wiki alapján történik. Sem az OSM, se nem az usage=main nem követi le a magyar jogszabályokat. https://www.openstreetmap.org/changeset/190991931 Date: 2026-10-25T01:11:14+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/189997988</link>
-        <guid>https://www.openstreetmap.org/changeset/189997988#comment_2</guid>
+        <link>https://www.openstreetmap.org/changeset/189998670</link>
+        <guid>https://www.openstreetmap.org/changeset/189998670#comment_2</guid>
         <pubDate>2026-10-25T01:11:14+02:00</pubDate>
       </item><item>
         <title>Contributor: balint36 Discussion Comment No.: 2 Comment: A címkézés nem érzelem, hanem wiki alapján történik. Sem az OSM, se nem az usage=main nem követi le a magyar jogszabályokat. https://www.openstreetmap.org/changeset/190991931 Date: 2026-10-25T01:11:14+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/189998670</link>
-        <guid>https://www.openstreetmap.org/changeset/189998670#comment_2</guid>
+        <link>https://www.openstreetmap.org/changeset/189997988</link>
+        <guid>https://www.openstreetmap.org/changeset/189997988#comment_2</guid>
         <pubDate>2026-10-25T01:11:14+02:00</pubDate>
       </item><item>
         <title>Contributor: balint36 Discussion Comment No.: 2 Comment: A neveket pedig abszolút nem értem, miért nem feleltek meg neked, de majd ha szólsz a MÁV-nak, hogy a neveket is jobban tudod. Date: 2026-10-25T01:08:49+02:00</title>
