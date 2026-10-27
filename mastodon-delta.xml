@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Our last blog post is from spring, and many new features released since then ... we are just too busy working on new features, and maximizing chat resilienence in the face of broken single servers. There are btw minimum 600 #chatmail relays world-wide. How do we know? We are going to tell you when this kind of counting does not work anymore, in a few weeks :) WE DO NOT (WANT OR NEED TO) KNOW WHO USES DELTA CHAT AND RUNS CHATMAIL RELAYS, but occasional encouraging feedback is welcome :)</title>
+        <link>https://chaos.social/@delta/117514302504510966</link>
+        <guid>https://chaos.social/@delta/117514302504510966</guid>
+        <pubDate>Tue, 27 Oct 2026 18:32:33 +0000</pubDate>
+      </item><item>
         <title>#deltachat is made to be a reliable and resilient messenger for private groups, friends and family. If you want to use it for joining or creating &amp;quot;public groups&amp;quot;, please do yourself a favor, and create a dedicated &amp;quot;public profile&amp;quot; by tapping &amp;quot;create profile&amp;quot; and then use it to join public invite links like here on the fediverse, or on websites etc Public groups with anonymous un-trusted or trolling members can cause problems. Worst case, you can then drop the public chat profile.</title>
         <link>https://chaos.social/@delta/117395887864891657</link>
         <guid>https://chaos.social/@delta/117395887864891657</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/116523596432350955</link>
         <guid>https://chaos.social/@delta/116523596432350955</guid>
         <pubDate>Tue, 05 May 2026 19:22:58 +0000</pubDate>
-      </item><item>
-        <title>Congrats to @protonprivacy for beating us on introducing Post-Quantum Cryptography into mail messaging! No worries. We&amp;#39;ll implement https://autocrypt2.org which additionally offers reliable deletion / forward secrecy during 2026 :) We are working with Proton cryptographers on OpenPGP specifications, and they are now moving towards using @rpgp , the end-to-end encryption we are using. Everything will be based on RFC9580 (#OpenPGP v6) ... the eocsystem is moving :) https://proton.me/blog/introducing-post-quantum-encryption</title>
-        <link>https://chaos.social/@delta/116521647948304359</link>
-        <guid>https://chaos.social/@delta/116521647948304359</guid>
-        <pubDate>Tue, 05 May 2026 11:07:27 +0000</pubDate>
       </item>
   </channel>
 </rss>
