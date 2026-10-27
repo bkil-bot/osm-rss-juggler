@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: Szia! NSI-ben operator=Raiffeisen\\ Bank szerepel, emiatt állítgatja a szkript vissza Zrt.-re. Ez így viszont hibát jelent minden iD-s szerkesztőnek. Egyszerűbb lenne ha ti is az nsi-s címkéket használnátok, itt vannak: https://nsi.guide/index.html?t=*&amp;k=amenity&amp;v=atm&amp;tt=raiffeisen#raiffeisenbank-681c6d Azaz: amenity=atm brand=Raiffeisen Bank brand:wikidata=Q16522506 operator=Raiffeisen Bank operator:wikidata=Q16522506 Nyissak erről GH issuet? Vagy az NSI-t kéne Zrt-síteni inkább? Date: 2026-10-27T15:18:05+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/191096314</link>
+        <guid>https://www.openstreetmap.org/changeset/191096314#comment_1</guid>
+        <pubDate>2026-10-27T15:18:05+01:00</pubDate>
+      </item><item>
         <title>Contributor: vasony Discussion Comment No.: 3 Comment: Szia! Helyi, az hivatalos vagy csak az emberek hívják így? Mert ha nem hivatalos, vagy nincs tábla, akkor a loc_name a megfelelő kulcsa a name helyett Tamás Date: 2026-10-27T09:37:46+01:00</title>
         <link>https://www.openstreetmap.org/changeset/191053627</link>
         <guid>https://www.openstreetmap.org/changeset/191053627#comment_3</guid>
@@ -54,13 +59,13 @@
         <pubDate>2026-10-25T07:37:17+01:00</pubDate>
       </item><item>
         <title>Contributor: balint36 Discussion Comment No.: 2 Comment: A címkézés nem érzelem, hanem wiki alapján történik. Sem az OSM, se nem az usage=main nem követi le a magyar jogszabályokat. https://www.openstreetmap.org/changeset/190991931 Date: 2026-10-25T01:11:14+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/189998670</link>
-        <guid>https://www.openstreetmap.org/changeset/189998670#comment_2</guid>
+        <link>https://www.openstreetmap.org/changeset/189997988</link>
+        <guid>https://www.openstreetmap.org/changeset/189997988#comment_2</guid>
         <pubDate>2026-10-25T01:11:14+02:00</pubDate>
       </item><item>
         <title>Contributor: balint36 Discussion Comment No.: 2 Comment: A címkézés nem érzelem, hanem wiki alapján történik. Sem az OSM, se nem az usage=main nem követi le a magyar jogszabályokat. https://www.openstreetmap.org/changeset/190991931 Date: 2026-10-25T01:11:14+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/189997988</link>
-        <guid>https://www.openstreetmap.org/changeset/189997988#comment_2</guid>
+        <link>https://www.openstreetmap.org/changeset/189998670</link>
+        <guid>https://www.openstreetmap.org/changeset/189998670#comment_2</guid>
         <pubDate>2026-10-25T01:11:14+02:00</pubDate>
       </item><item>
         <title>Contributor: balint36 Discussion Comment No.: 2 Comment: A neveket pedig abszolút nem értem, miért nem feleltek meg neked, de majd ha szólsz a MÁV-nak, hogy a neveket is jobban tudod. Date: 2026-10-25T01:08:49+02:00</title>
