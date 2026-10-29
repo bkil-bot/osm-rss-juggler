@@ -3,6 +3,16 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Okay, that was it! Enjoy your &amp;quot;Login with Delta Chat&amp;quot; now working via https://login.forum.delta.chat instead of login.support.delta.chat 🎉 (2 days of effort and that&amp;#39;s all the visible improvement to users... being a sysadmin is unrewarding sometimes^^ but yay!)</title>
+        <link>https://chaos.social/@delta/117524776543177458</link>
+        <guid>https://chaos.social/@delta/117524776543177458</guid>
+        <pubDate>Thu, 29 Oct 2026 14:56:14 +0000</pubDate>
+      </item><item>
+        <title>another (hopefully last) downtime for the forum&amp;#39;s &amp;quot;login with Delta Chat&amp;quot; function...</title>
+        <link>https://chaos.social/@delta/117524540032265240</link>
+        <guid>https://chaos.social/@delta/117524540032265240</guid>
+        <pubDate>Thu, 29 Oct 2026 13:56:06 +0000</pubDate>
+      </item><item>
         <title>maintenance over for now :)</title>
         <link>https://chaos.social/@delta/117523975842439810</link>
         <guid>https://chaos.social/@delta/117523975842439810</guid>
@@ -92,16 +102,6 @@
         <link>https://chaos.social/@delta/116719787972899033</link>
         <guid>https://chaos.social/@delta/116719787972899033</guid>
         <pubDate>Tue, 09 Jun 2026 10:57:04 +0000</pubDate>
-      </item><item>
-        <title>2.51+ releases are rolling into stores: Video/Audio Calls and Channels are not experimental but part of the default feature set now 💫 Calls and channels are always end-to-end encrypted, and only you and your contacts know each other&amp;#39;s identity and metadata (avatars, names, keys etc.) For calls, Delta uses a minimal Rust WebRTC turn server https://github.com/chatmail/chatmail-turn#turn-server-for-chatmail-relays running on hundreds of relays worldwide. It helps to establish P2P media streams, or for relaying traffic if P2P connections fail. smartphone screenshot of a live video call with a contact named &quot;My Cat.&quot; The main screen shows the user's view of a room with a &quot;delta.chat&quot; banner and the blurred silhouette of a cat's head in the foreground. A smaller picture-in-picture window in the top-right corner shows the other side of the call, where a black-and-white cat is sitting upright and looking at the camera. The bottom of the screen features a standard row of video call control buttons.</title>
-        <link>https://chaos.social/@delta/116719761078228002</link>
-        <guid>https://chaos.social/@delta/116719761078228002</guid>
-        <pubDate>Tue, 09 Jun 2026 10:50:13 +0000</pubDate>
-      </item><item>
-        <title>Reminder: There are no accounts in the classic sense anywhere with #chatmail or #deltachat. It&amp;#39;s all private profiles on end user devices which co-ordinate in a #p2p fashion. Chat profiles *use* email (relay) addresses for transporting messages through a federated e2ee-restricted SMTP network. A chat profile or chat group has zero data on the server. It&amp;#39;s radically different from classic email servers, Whatsapp, Signal, XMPP and Matrix servers which host and control chat identity. Neo-spoon meme (scene from matrix movie where neo looks at a child bending a spoon which eventually tells him &quot;there is no spoon&quot;) with the following words top: &quot;On which server is your account?&quot; and below the bending spoon &quot;there is no account.&quot;</title>
-        <link>https://chaos.social/@delta/116643008494947870</link>
-        <guid>https://chaos.social/@delta/116643008494947870</guid>
-        <pubDate>Tue, 26 May 2026 21:31:02 +0000</pubDate>
       </item>
   </channel>
 </rss>
