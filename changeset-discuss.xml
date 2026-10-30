@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: *Martin* Discussion Comment No.: 1 Comment: Ahoj. Tato zmena rozbila Silicku planinu - nie je to uz validny multipolygon. Prosim oprav to a pre istotu prever aj ostatne tvoje podobne zmeny. Dakujem. Date: 2026-10-30T14:13:47+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/191125869</link>
+        <guid>https://www.openstreetmap.org/changeset/191125869#comment_1</guid>
+        <pubDate>2026-10-30T14:13:47+01:00</pubDate>
+      </item><item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Szia. Megszűnt üzleteket ne törölj, inkább használd a disused:*=* prefixet. Később más szerkesztőknek segíthet, ha a helyén nyílik valami. Lásd: https://wiki.openstreetmap.org/wiki/Lifecycle_prefix Date: 2026-10-30T13:59:13+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/191237402</link>
+        <guid>https://www.openstreetmap.org/changeset/191237402#comment_1</guid>
+        <pubDate>2026-10-30T13:59:13+01:00</pubDate>
+      </item><item>
         <title>Contributor: matoli Discussion Comment No.: 2 Comment: Szervusz! Jelenleg teljes a zárás. az Óhegy dűlő felöl és az Átjáró utca 7 és 10 között szintén kerítés épült. Date: 2026-10-30T07:46:30+01:00</title>
         <link>https://www.openstreetmap.org/changeset/191142760</link>
         <guid>https://www.openstreetmap.org/changeset/191142760#comment_2</guid>
@@ -94,13 +104,13 @@
         <pubDate>2026-10-25T07:37:17+01:00</pubDate>
       </item><item>
         <title>Contributor: balint36 Discussion Comment No.: 2 Comment: A címkézés nem érzelem, hanem wiki alapján történik. Sem az OSM, se nem az usage=main nem követi le a magyar jogszabályokat. https://www.openstreetmap.org/changeset/190991931 Date: 2026-10-25T01:11:14+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/189998670</link>
-        <guid>https://www.openstreetmap.org/changeset/189998670#comment_2</guid>
+        <link>https://www.openstreetmap.org/changeset/189997988</link>
+        <guid>https://www.openstreetmap.org/changeset/189997988#comment_2</guid>
         <pubDate>2026-10-25T01:11:14+02:00</pubDate>
       </item><item>
         <title>Contributor: balint36 Discussion Comment No.: 2 Comment: A címkézés nem érzelem, hanem wiki alapján történik. Sem az OSM, se nem az usage=main nem követi le a magyar jogszabályokat. https://www.openstreetmap.org/changeset/190991931 Date: 2026-10-25T01:11:14+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/189997988</link>
-        <guid>https://www.openstreetmap.org/changeset/189997988#comment_2</guid>
+        <link>https://www.openstreetmap.org/changeset/189998670</link>
+        <guid>https://www.openstreetmap.org/changeset/189998670#comment_2</guid>
         <pubDate>2026-10-25T01:11:14+02:00</pubDate>
       </item><item>
         <title>Contributor: balint36 Discussion Comment No.: 2 Comment: A neveket pedig abszolút nem értem, miért nem feleltek meg neked, de majd ha szólsz a MÁV-nak, hogy a neveket is jobban tudod. Date: 2026-10-25T01:08:49+02:00</title>
