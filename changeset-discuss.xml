@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: trigpoint Discussion Comment No.: 1 Comment: This changeset has been reverted fully or in part by changeset 191256106 where the changeset comment is: DWG Revert vandalism Ticket#2026103010000483 Date: 2026-10-30T21:24:41+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/191201419</link>
+        <guid>https://www.openstreetmap.org/changeset/191201419#comment_1</guid>
+        <pubDate>2026-10-30T21:24:41+01:00</pubDate>
+      </item><item>
         <title>Contributor: trigpoint Discussion Comment No.: 1 Comment: This changeset reverts some or all edits made in changesets 191201419, 191202341. Date: 2026-10-30T21:24:41+01:00</title>
         <link>https://www.openstreetmap.org/changeset/191256106</link>
         <guid>https://www.openstreetmap.org/changeset/191256106#comment_1</guid>
@@ -11,11 +16,6 @@
         <title>Contributor: trigpoint Discussion Comment No.: 1 Comment: This changeset has been reverted fully or in part by changeset 191256106 where the changeset comment is: DWG Revert vandalism Ticket#2026103010000483 Date: 2026-10-30T21:24:41+01:00</title>
         <link>https://www.openstreetmap.org/changeset/191202341</link>
         <guid>https://www.openstreetmap.org/changeset/191202341#comment_1</guid>
-        <pubDate>2026-10-30T21:24:41+01:00</pubDate>
-      </item><item>
-        <title>Contributor: trigpoint Discussion Comment No.: 1 Comment: This changeset has been reverted fully or in part by changeset 191256106 where the changeset comment is: DWG Revert vandalism Ticket#2026103010000483 Date: 2026-10-30T21:24:41+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/191201419</link>
-        <guid>https://www.openstreetmap.org/changeset/191201419#comment_1</guid>
         <pubDate>2026-10-30T21:24:41+01:00</pubDate>
       </item><item>
         <title>Contributor: balint36 Discussion Comment No.: 1 Comment: Ha kell még a Sínek Világa cikk, akkor innen elérhető: https://www.sinekvilaga.hu/cikk/fejlesztesek-gysev-zrt-altal-uzemeltetett-vasuti-palyakon Date: 2026-10-30T21:10:24+01:00</title>
@@ -167,16 +167,6 @@
         <link>https://www.openstreetmap.org/changeset/190941953</link>
         <guid>https://www.openstreetmap.org/changeset/190941953#comment_1</guid>
         <pubDate>2026-10-24T12:51:21+02:00</pubDate>
-      </item><item>
-        <title>Contributor: balint36 Discussion Comment No.: 1 Comment: 1. számú kitérő (pl.) érdekes módon nagyon elvándorolt a helyéről: node/1247503588 Milyen alaphoz lett igazítva? Date: 2026-10-24T02:01:19+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/170129656</link>
-        <guid>https://www.openstreetmap.org/changeset/170129656#comment_1</guid>
-        <pubDate>2026-10-24T02:01:19+02:00</pubDate>
-      </item><item>
-        <title>Contributor: balint36 Discussion Comment No.: 1 Comment: Szerintem vonatok kitérőben nem tudnak ilyen zorró jelet leírni, mint itt: way/109509016 Date: 2026-10-24T01:48:08+02:00</title>
-        <link>https://www.openstreetmap.org/changeset/170177869</link>
-        <guid>https://www.openstreetmap.org/changeset/170177869#comment_1</guid>
-        <pubDate>2026-10-24T01:48:08+02:00</pubDate>
       </item>
   </channel>
 </rss>
