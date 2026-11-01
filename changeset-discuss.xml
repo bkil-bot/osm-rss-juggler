@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: qstep Discussion Comment No.: 3 Comment: Na igen, ezek valid pontok. Az még mindig kérdéses számomra, hogy a FVT terület benne legyen-e az OJVTT-ben, vagy azt lyukassza ki, hiszen most a belső területre egyaránt érvényes az 1a és 3 osztályozás is, márpedig egy területnek csak egy osztályozása lehet. Ugyanez felmerült bennem is, hogy most akkor duplikálni kellene az FVT-be a címkéket? (ref, name, operator, etc). Másik ötletem volt, hogy kapcsolatba foglalni a két területet subarea-ként, és minden ami közös, a &quot;parent&quot; kapcsolatba kerül, és csak a 3 &quot;protect&quot; címke kerülne a konkrét subareára, de akkor meg önmagában értelmezhetetlenek azok a területek. Ezért döntöttem a duplikálás mellett. Egyelőre így vettem fel a sajátjaimat, Wikidatán meg két kapcsolat-azonosítót adtam hozzá, jelölve, hogy melyik osztályozásra vonatkozik. Pl: https://www.wikidata.org/wiki/Q141966031 Nem a legszebb, de nincs jobb ötletem. Date: 2026-11-01T22:26:02+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/191290292</link>
+        <guid>https://www.openstreetmap.org/changeset/191290292#comment_3</guid>
+        <pubDate>2026-11-01T22:26:02+01:00</pubDate>
+      </item><item>
         <title>Contributor: GBAB Discussion Comment No.: 2 Comment: Szia qstep! Igen, ezen is gondolkodtam egy sort, s végülis én is arra jutottam, hogy szerencsésebb, ha nem különálló darab lesz. Mondjuk a subareáig még nem jutottam, de kifejezetten jó ötlet; a napokban elvégzem. Kösz a tippet! Gábor Date: 2026-11-01T20:59:10+01:00</title>
         <link>https://www.openstreetmap.org/changeset/191268680</link>
         <guid>https://www.openstreetmap.org/changeset/191268680#comment_2</guid>
         <pubDate>2026-11-01T20:59:10+01:00</pubDate>
-      </item><item>
-        <title>Contributor: GBAB Discussion Comment No.: 2 Comment: Szia qstep! Igen, ezen én is elmorfondíroztam. A címkékben valóban benne van az információ. Így ugyanakkor minden védett területből kettő darab teljesen azonosnak kinéző jelenik meg a térképen. A renderelők közül nem sok van, ami ezt a különbséget megjelenítené, tehát a felhasználónak kellene utánakattintgatni a címkéknek - ezt viszont kevesen fogják megtenni. Így arra gondoltam, hogy ennyi plusz információt talán nem eretnekség megadni a névben. E nélkül nagyon keveseknek lenne világos, hogy tulajdonképpen mi a különbség a védett területek között (avagy miért van kettő mindegyikből). Azt hiszem, ennyit megtehetünk a leendő felhasználók kényelméért. Egyébként, jobban belegondolva, ez nem a megjelenítő kedvéért való térképezés. Az inkább az szokott lenni, amikor valamit azért torzítunk, hogy szebben vagy egyértelműbben jelenjék meg. Itt csupán némi redundáns információt tüntettem fel a szövegben is, gondolván az OSM-kezelésében kevéssé jártas felhasználókra és az ilyen finomságokkal kevéssé törődő megjelenítőkre. Üdv Gábor Date: 2026-11-01T20:54:20+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/191290292</link>
-        <guid>https://www.openstreetmap.org/changeset/191290292#comment_2</guid>
-        <pubDate>2026-11-01T20:54:20+01:00</pubDate>
       </item><item>
         <title>Contributor: ha5vsa Discussion Comment No.: 1 Comment: Mennyire vagy biztos benne, hogy ezen a jelzőlámpán volt rezgő, vakok által tapintható jelzés arról, hogy éppen zöld van-e? Készítettél esetleg fotót? Date: 2026-11-01T20:29:58+01:00</title>
         <link>https://www.openstreetmap.org/changeset/167698543</link>
