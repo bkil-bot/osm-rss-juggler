@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: vasony Discussion Comment No.: 3 Comment: Köszi! Date: 2026-11-02T21:37:25+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/191092364</link>
+        <guid>https://www.openstreetmap.org/changeset/191092364#comment_3</guid>
+        <pubDate>2026-11-02T21:37:25+01:00</pubDate>
+      </item><item>
         <title>Contributor: qstep Discussion Comment No.: 1 Comment: Üdv! Néhány dolog. Házszámokat, címeket leginkább felméréssel szoktunk felvinni. Ennek több oka van: amikor valaki házszámot keres, az érdekli, hogy a helyszínen hol van kiírva, nem pedig hogy hivatalos adatbázisok szerint melyik cím az. A másik, hogy az OÉNY HRSZ adatbázisa bár hivatalos, de abban is előfordulhatnak hibák, és ami fontosabb, hogy tudtommal nem kaptunk hivatalos engedélyt tőlük az adatok átmásolására OSM-re. Mankónak jó lehet szerkesztéskor, de a helyszíni felmérés/friss fénykép a mérvadó. Valamint ha címet törölsz, ne csak a házszámot töröld, a cím része a többi addr:* tag is. Ez nem feltétlen jelenti, hogy a módosításod rossz, csak ezek tudatában folytasd kérlek. További jó szerkesztést! Date: 2026-11-02T15:22:19+01:00</title>
         <link>https://www.openstreetmap.org/changeset/191367176</link>
         <guid>https://www.openstreetmap.org/changeset/191367176#comment_1</guid>
@@ -12,11 +17,6 @@
         <link>https://www.openstreetmap.org/changeset/191359025</link>
         <guid>https://www.openstreetmap.org/changeset/191359025#comment_3</guid>
         <pubDate>2026-11-02T12:09:33+01:00</pubDate>
-      </item><item>
-        <title>Contributor: PMHiv Discussion Comment No.: 2 Comment: Szia! A 477/2026. (X.16.) határozattal fogadták el ezeket a neveket. Ide felmásoltam: https://drive.google.com/file/d/1F1y13GqvqWV74X16-IC3o8Mu1E7Fk3fJ/view?usp=sharing Üdv, Marci Date: 2026-11-02T07:08:36+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/191092364</link>
-        <guid>https://www.openstreetmap.org/changeset/191092364#comment_2</guid>
-        <pubDate>2026-11-02T07:08:36+01:00</pubDate>
       </item><item>
         <title>Contributor: qstep Discussion Comment No.: 3 Comment: Na igen, ezek valid pontok. Az még mindig kérdéses számomra, hogy a FVT terület benne legyen-e az OJVTT-ben, vagy azt lyukassza ki, hiszen most a belső területre egyaránt érvényes az 1a és 3 osztályozás is, márpedig egy területnek csak egy osztályozása lehet. Ugyanez felmerült bennem is, hogy most akkor duplikálni kellene az FVT-be a címkéket? (ref, name, operator, etc). Másik ötletem volt, hogy kapcsolatba foglalni a két területet subarea-ként, és minden ami közös, a &quot;parent&quot; kapcsolatba kerül, és csak a 3 &quot;protect&quot; címke kerülne a konkrét subareára, de akkor meg önmagában értelmezhetetlenek azok a területek. Ezért döntöttem a duplikálás mellett. Egyelőre így vettem fel a sajátjaimat, Wikidatán meg két kapcsolat-azonosítót adtam hozzá, jelölve, hogy melyik osztályozásra vonatkozik. Pl: https://www.wikidata.org/wiki/Q141966031 Nem a legszebb, de nincs jobb ötletem. Date: 2026-11-01T22:26:02+01:00</title>
         <link>https://www.openstreetmap.org/changeset/191290292</link>
