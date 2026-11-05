@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: qstep Discussion Comment No.: 5 Comment: Ez a többi szerkesztő itt van velünk a szobában? Mert végignéztem a teljes út összes szakaszának historyját és csak te vettél fel foot=yes -t mindenhova. De nem velem kell vitatkozni, nem én találom ki ezeket, csak az OSM Wikit kell követni. Date: 2026-11-05T16:19:21+01:00</title>
+        <title>Contributor: qstep Discussion Comment No.: 6 Comment: Ha nagyon szeretnéd az úttesten is jelölni, hogy gyalogos a mellette lévő járdán tud menni, ezzel tudod: https://wiki.openstreetmap.org/wiki/Tag%3Afoot%3Duse_sidepath + sidewalk:=yes (ha van de nincs felrajzolva), vagy separate (ha fel van rajzolva) Date: 2026-11-05T16:28:41+01:00</title>
         <link>https://www.openstreetmap.org/changeset/191502967</link>
-        <guid>https://www.openstreetmap.org/changeset/191502967#comment_5</guid>
-        <pubDate>2026-11-05T16:19:21+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/191502967#comment_6</guid>
+        <pubDate>2026-11-05T16:28:41+01:00</pubDate>
       </item><item>
         <title>Contributor: Iryna_Sankevich Discussion Comment No.: 2 Comment: Hi qstep! Thank you for your comment and for keeping a close eye on the administrative boundaries! I took a closer look at the history (https://pewu.github.io/osm-history/#/way/57877956), and it appears the boundary shift actually happened in an earlier changeset (https://osmcha.org/changesets/191252981). It looks like the track shared a node with the boundary, so when the boundary was accidentally moved before, the track got dragged along with it. My edit was only meant to correct the track's geometry. Because the root of the problem seems to be from an older edit, I suspect this revert might not have restored the boundary to its original position. Since you have a lot of experience, could you take a quick look at the boundary's history? Let me know if there's anything else I should fix on my end. Best regards, Iryna Date: 2026-11-05T14:08:46+01:00</title>
         <link>https://www.openstreetmap.org/changeset/191496760</link>
