@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: qstep Discussion Comment No.: 3 Comment: A Rumi útnál pont te írtad be a foot=yes-t az útra: https://www.openstreetmap.org/changeset/189157590 Vagy mire gondolsz? Date: 2026-11-05T11:38:32+01:00</title>
+        <title>Contributor: SzilágyiGyula Discussion Comment No.: 4 Comment: Szinte gondoltam hogy a legelső kis szakaszt fogod megnyitni amit én szerkesztettem, nem pedig az összes többi szakaszát amit többen is szerkesztettek foot=yes-re 😁 Date: 2026-11-05T14:14:20+01:00</title>
         <link>https://www.openstreetmap.org/changeset/191502967</link>
-        <guid>https://www.openstreetmap.org/changeset/191502967#comment_3</guid>
-        <pubDate>2026-11-05T11:38:32+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/191502967#comment_4</guid>
+        <pubDate>2026-11-05T14:14:20+01:00</pubDate>
       </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Hi. I reverted this change because you moved an official administrative boundary. Date: 2026-11-05T09:36:48+01:00</title>
+        <title>Contributor: Iryna_Sankevich Discussion Comment No.: 2 Comment: Hi qstep! Thank you for your comment and for keeping a close eye on the administrative boundaries! I took a closer look at the history (https://pewu.github.io/osm-history/#/way/57877956), and it appears the boundary shift actually happened in an earlier changeset (https://osmcha.org/changesets/191252981). It looks like the track shared a node with the boundary, so when the boundary was accidentally moved before, the track got dragged along with it. My edit was only meant to correct the track's geometry. Because the root of the problem seems to be from an older edit, I suspect this revert might not have restored the boundary to its original position. Since you have a lot of experience, could you take a quick look at the boundary's history? Let me know if there's anything else I should fix on my end. Best regards, Iryna Date: 2026-11-05T14:08:46+01:00</title>
         <link>https://www.openstreetmap.org/changeset/191496760</link>
-        <guid>https://www.openstreetmap.org/changeset/191496760#comment_1</guid>
-        <pubDate>2026-11-05T09:36:48+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/191496760#comment_2</guid>
+        <pubDate>2026-11-05T14:08:46+01:00</pubDate>
       </item><item>
         <title>Contributor: petervelosy Discussion Comment No.: 2 Comment: I have also moved the statue's node out of the building polygon, as I suppose this was why Maproulette suggested you that these two are the same entity. Date: 2026-11-05T00:09:42+01:00</title>
         <link>https://www.openstreetmap.org/changeset/181992540</link>
