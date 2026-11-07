@@ -3,6 +3,16 @@
   <channel>
     <title>Wiki (via bkil-bot)</title>
       <item>
+        <title>Template:Ambox: &amp;lt;templatestyles src=&amp;quot;Template:Ambox/styles.css&amp;quot; /&amp;gt; and class=&amp;quot;fullwidth&amp;quot; (for narrow screens) -Chris2map</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Template:Ambox&amp;diff=3112749&amp;oldid=3057019</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Template:Ambox&amp;diff=3112749</guid>
+        <pubDate>Sat, 07 Nov 2026 22:20:19 GMT</pubDate>
+      </item><item>
+        <title>Template:Ambox/styles.css: Disable left and right margins for narrow (mobile) screens: @media screen and (max-width: 640px) -Chris2map</title>
+        <link>https://wiki.openstreetmap.org/w/index.php?title=Template:Ambox/styles.css&amp;diff=3112747&amp;oldid=0</link>
+        <guid>https://wiki.openstreetmap.org/w/index.php?title=Template:Ambox/styles.css&amp;diff=3112747</guid>
+        <pubDate>Sat, 07 Nov 2026 22:17:00 GMT</pubDate>
+      </item><item>
         <title>Hungary/Jelölési példák: brand:wikidata -Qstep</title>
         <link>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Jel%C3%B6l%C3%A9si_p%C3%A9ld%C3%A1k&amp;diff=3112743&amp;oldid=3072192</link>
         <guid>https://wiki.openstreetmap.org/w/index.php?title=Hungary/Jel%C3%B6l%C3%A9si_p%C3%A9ld%C3%A1k&amp;diff=3112743</guid>
