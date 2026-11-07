@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Our blog was quiet for over half a year, but we&amp;#39;re back, and you get three blog posts for the price of one: pinned messages, Liquid Glass on iOS, in-app updates for the Android APK, decentralized onboarding across community relays, and a first look at what&amp;#39;s coming next, including the end of unencrypted email, and the reasoning behind it. https://delta.chat/en/2026-11-07-pin-messages-and-multi-relay-onboarding #deltachat #chatmail #webxdc</title>
+        <link>https://chaos.social/@delta/117576290520968674</link>
+        <guid>https://chaos.social/@delta/117576290520968674</guid>
+        <pubDate>Sat, 07 Nov 2026 17:16:55 +0000</pubDate>
+      </item><item>
         <title>Okay, that was it! Enjoy your &amp;quot;Login with Delta Chat&amp;quot; now working via https://login.forum.delta.chat instead of login.support.delta.chat 🎉 (2 days of effort and that&amp;#39;s all the visible improvement to users... being a sysadmin is unrewarding sometimes^^ but yay!)</title>
         <link>https://chaos.social/@delta/117524776543177458</link>
         <guid>https://chaos.social/@delta/117524776543177458</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/116731140656636119</link>
         <guid>https://chaos.social/@delta/116731140656636119</guid>
         <pubDate>Thu, 11 Jun 2026 11:04:12 +0000</pubDate>
-      </item><item>
-        <title>here are the full release notes: https://github.com/deltachat/deltachat-android/releases/tag/v2.51.0 -- also a lot of bug fixes option cleanup, as we are continuing to make settings fail-safe and easy to understand for mass users, sometimes to the detriment of more nerdy configurations. However, contrary to some claims, using classic email server setups is fine, but you need to use a dedicated email address. Sharing an address with a different email client is not supported. If you have any issue, please report https://support.delta.chat</title>
-        <link>https://chaos.social/@delta/116719787972899033</link>
-        <guid>https://chaos.social/@delta/116719787972899033</guid>
-        <pubDate>Tue, 09 Jun 2026 10:57:04 +0000</pubDate>
       </item>
   </channel>
 </rss>
