@@ -97,11 +97,6 @@
         <link>https://www.openstreetmap.org/changeset/191359025</link>
         <guid>https://www.openstreetmap.org/changeset/191359025#comment_3</guid>
         <pubDate>2026-11-02T12:09:33+01:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 3 Comment: Na igen, ezek valid pontok. Az még mindig kérdéses számomra, hogy a FVT terület benne legyen-e az OJVTT-ben, vagy azt lyukassza ki, hiszen most a belső területre egyaránt érvényes az 1a és 3 osztályozás is, márpedig egy területnek csak egy osztályozása lehet. Ugyanez felmerült bennem is, hogy most akkor duplikálni kellene az FVT-be a címkéket? (ref, name, operator, etc). Másik ötletem volt, hogy kapcsolatba foglalni a két területet subarea-ként, és minden ami közös, a &quot;parent&quot; kapcsolatba kerül, és csak a 3 &quot;protect&quot; címke kerülne a konkrét subareára, de akkor meg önmagában értelmezhetetlenek azok a területek. Ezért döntöttem a duplikálás mellett. Egyelőre így vettem fel a sajátjaimat, Wikidatán meg két kapcsolat-azonosítót adtam hozzá, jelölve, hogy melyik osztályozásra vonatkozik. Pl: https://www.wikidata.org/wiki/Q141966031 Nem a legszebb, de nincs jobb ötletem. Date: 2026-11-01T22:26:02+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/191290292</link>
-        <guid>https://www.openstreetmap.org/changeset/191290292#comment_3</guid>
-        <pubDate>2026-11-01T22:26:02+01:00</pubDate>
       </item>
   </channel>
 </rss>
