@@ -3,6 +3,16 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Szia. Mit szeretnél jelölni pontosan? Kétszer is elmagyaráztam, mi a helyes jelölés. Ilyen alapon az ország összes útjára vegyük fel a foot=yes-t mert nincs kint ilyen tábla? https://en.wikipedia.org/wiki/Road_signs_in_Hungary#/media/File:Hungary_road_sign_C-013.svg Továbbiakban kérdés nélkül visszavonom ezeket. Date: 2026-11-09T20:34:27+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/191710289</link>
+        <guid>https://www.openstreetmap.org/changeset/191710289#comment_1</guid>
+        <pubDate>2026-11-09T20:34:27+01:00</pubDate>
+      </item><item>
+        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Hi. You left some irrelevant tags and did not touch the post office node: https://www.openstreetmap.org/node/9580929575 I fixed it. Date: 2026-11-09T20:31:10+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/191104127</link>
+        <guid>https://www.openstreetmap.org/changeset/191104127#comment_1</guid>
+        <pubDate>2026-11-09T20:31:10+01:00</pubDate>
+      </item><item>
         <title>Contributor: infeeeee Discussion Comment No.: 1 Comment: You shouldn't create new nodes in cases like this, please keep the history: https://wiki.openstreetmap.org/wiki/Keep_the_history You moved the old POI, you could just updated to the new tags instead. At least you haven't deleted now... Fixed it (again) here: https://www.openstreetmap.org/changeset/191710305 Date: 2026-11-09T18:37:02+01:00</title>
         <link>https://www.openstreetmap.org/changeset/191697607</link>
         <guid>https://www.openstreetmap.org/changeset/191697607#comment_1</guid>
@@ -92,11 +102,6 @@
         <link>https://www.openstreetmap.org/changeset/191367176</link>
         <guid>https://www.openstreetmap.org/changeset/191367176#comment_2</guid>
         <pubDate>2026-11-03T08:49:58+01:00</pubDate>
-      </item><item>
-        <title>Contributor: vasony Discussion Comment No.: 3 Comment: Köszi! Date: 2026-11-02T21:37:25+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/191092364</link>
-        <guid>https://www.openstreetmap.org/changeset/191092364#comment_3</guid>
-        <pubDate>2026-11-02T21:37:25+01:00</pubDate>
       </item>
   </channel>
 </rss>
