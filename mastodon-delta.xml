@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>#Telegram is re-inventing #webxdc mini-apps, but poorly: its new HTML widget, attached to a message, only talks to a bot registered with Telegram&amp;#39;s centralized, non-encrypting infra. https://core.telegram.org/bots/api-changelog#november-9-2026 With #deltachat anyone can add mini-apps (&amp;quot;zip&amp;quot; files really) to a message, permission-free, no bot rquired, and the &amp;quot;app message&amp;quot; talks peer-to-peer with chat members, end-to-end encrypted and with realtime messaging using @n0iroh Rust library under the hood. https://webxdc.org</title>
+        <link>https://chaos.social/@delta/117593253853975777</link>
+        <guid>https://chaos.social/@delta/117593253853975777</guid>
+        <pubDate>Tue, 10 Nov 2026 17:10:55 +0000</pubDate>
+      </item><item>
         <title>Our blog was quiet for over half a year, but we&amp;#39;re back, and you get three blog posts for the price of one: pinned messages, Liquid Glass on iOS, in-app updates for the Android APK, decentralized onboarding across community relays, and a first look at what&amp;#39;s coming next, including the end of unencrypted email, and the reasoning behind it. https://delta.chat/en/2026-11-07-pin-messages-and-multi-relay-onboarding #deltachat #chatmail #webxdc</title>
         <link>https://chaos.social/@delta/117576290520968674</link>
         <guid>https://chaos.social/@delta/117576290520968674</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/116719787972899033</link>
         <guid>https://chaos.social/@delta/116719787972899033</guid>
         <pubDate>Tue, 09 Jun 2026 10:57:04 +0000</pubDate>
-      </item><item>
-        <title>2.51+ releases are rolling into stores: Video/Audio Calls and Channels are not experimental but part of the default feature set now 💫 Calls and channels are always end-to-end encrypted, and only you and your contacts know each other&amp;#39;s identity and metadata (avatars, names, keys etc.) For calls, Delta uses a minimal Rust WebRTC turn server https://github.com/chatmail/chatmail-turn#turn-server-for-chatmail-relays running on hundreds of relays worldwide. It helps to establish P2P media streams, or for relaying traffic if P2P connections fail. smartphone screenshot of a live video call with a contact named &quot;My Cat.&quot; The main screen shows the user's view of a room with a &quot;delta.chat&quot; banner and the blurred silhouette of a cat's head in the foreground. A smaller picture-in-picture window in the top-right corner shows the other side of the call, where a black-and-white cat is sitting upright and looking at the camera. The bottom of the screen features a standard row of video call control buttons.</title>
-        <link>https://chaos.social/@delta/116719761078228002</link>
-        <guid>https://chaos.social/@delta/116719761078228002</guid>
-        <pubDate>Tue, 09 Jun 2026 10:50:13 +0000</pubDate>
       </item>
   </channel>
 </rss>
