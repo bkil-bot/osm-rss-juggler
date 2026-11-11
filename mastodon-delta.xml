@@ -3,6 +3,11 @@
   <channel>
     <title>chaos.social/@delta (via bkil-bot)</title>
       <item>
+        <title>Calling all chatmail, Delta Chat and webxdc hackers and communities! FOSDEM happens in Brussels end January 2027, and together with our friends from XMPP and Matrix we are co-organizing a &amp;quot;Decentralized Messaging Devroom&amp;quot;. There also will be a stand and stickers, and then starting monday &amp;quot;Delta Community day(s)&amp;quot;. See the full announcement and also a channel you can subscribe to for fosdem related news. https://delta.chat/en/2026-11-11-fosdem27-and-community-days #deltachat #chatmail #webxdc</title>
+        <link>https://chaos.social/@delta/117597576424709435</link>
+        <guid>https://chaos.social/@delta/117597576424709435</guid>
+        <pubDate>Wed, 11 Nov 2026 11:30:12 +0000</pubDate>
+      </item><item>
         <title>#Telegram is re-inventing #webxdc mini-apps, but poorly: its new HTML widget, attached to a message, only talks to a bot registered with Telegram&amp;#39;s centralized, non-encrypting infra. https://core.telegram.org/bots/api-changelog#november-9-2026 With #deltachat anyone can add mini-apps (&amp;quot;zip&amp;quot; files really) to a message, permission-free, no bot rquired, and the &amp;quot;app message&amp;quot; talks peer-to-peer with chat members, end-to-end encrypted and with realtime messaging using @n0iroh Rust library under the hood. https://webxdc.org</title>
         <link>https://chaos.social/@delta/117593253853975777</link>
         <guid>https://chaos.social/@delta/117593253853975777</guid>
@@ -97,11 +102,6 @@
         <link>https://chaos.social/@delta/116731140656636119</link>
         <guid>https://chaos.social/@delta/116731140656636119</guid>
         <pubDate>Thu, 11 Jun 2026 11:04:12 +0000</pubDate>
-      </item><item>
-        <title>here are the full release notes: https://github.com/deltachat/deltachat-android/releases/tag/v2.51.0 -- also a lot of bug fixes option cleanup, as we are continuing to make settings fail-safe and easy to understand for mass users, sometimes to the detriment of more nerdy configurations. However, contrary to some claims, using classic email server setups is fine, but you need to use a dedicated email address. Sharing an address with a different email client is not supported. If you have any issue, please report https://support.delta.chat</title>
-        <link>https://chaos.social/@delta/116719787972899033</link>
-        <guid>https://chaos.social/@delta/116719787972899033</guid>
-        <pubDate>Tue, 09 Jun 2026 10:57:04 +0000</pubDate>
       </item>
   </channel>
 </rss>
