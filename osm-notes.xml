@@ -3,8 +3,32 @@
   <channel>
     <title>Notes (via bkil-bot)</title>
       <item>
+        <title>new comment 5388097 (near Felszabadulás MTSZ, Picktelep, Szombathely) / 
+      Created &lt;time title=&quot;11 July 2026 at 09:32&quot; datetime=&quot;2026-07-11T09:32:58Z&quot;&gt;4 months ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Mateusz%20Konieczny&quot;&gt;Mateusz Konieczny&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;https://www.openstreetmap.org/node/1024790371/history
+
+place=farm wiki page ( https://wiki.openstreetmap.org/wiki/Tag:place=farm ) claims that it is solely for named farms.
+
+Is this tagged incorrectly? Is it named but name is missing from OSM? Is wiki wrong? / 
+      Updated &lt;time title=&quot;11 November 2026 at 14:10&quot; datetime=&quot;2026-11-11T14:10:01Z&quot;&gt;about 2 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Szil%C3%A1gyiGyula&quot;&gt;SzilágyiGyula&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;Hi Mateusz,
+
+Thanks for pointing this out! This location is actually a local agricultural cooperative site (TSZ / farmyard) known as Szombathelyi Felszabadulás Mgsz (Mezőgazdasági Szövetkezet).
+
+It is an active agricultural/industrial farm compound rather than a standalone named hamlet or named residential farm, so the place=farm tag without a name is indeed inappropriate here.
+
+Feel free to update it to landuse=farmyard (or building=farm_auxiliary) and add name=Szombathelyi Felszabadulás Mgsz. / 
+      Updated &lt;time title=&quot;11 November 2026 at 16:30&quot; datetime=&quot;2026-11-11T16:30:19Z&quot;&gt;less than 1 minute ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Mateusz%20Konieczny&quot;&gt;Mateusz Konieczny&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;note-comment-text&quot;&gt;https://www.openstreetmap.org/way/548718420 farmyard area  is present already</title>
+        <link>https://www.openstreetmap.org/note/5388097#c12579875</link>
+        <guid>https://www.openstreetmap.org/note/5388097#c12579875</guid>
+        <pubDate>Wed, 11 Nov 2026 16:30:19 +0000</pubDate>
+      </item><item>
         <title>new note 5627329 (near Penza-lakótelep, Békéscsaba) / 
-      Created &lt;time title=&quot;11 November 2026 at 14:41&quot; datetime=&quot;2026-11-11T14:41:38Z&quot;&gt;about 1 hour ago&lt;/time&gt;
+      Created &lt;time title=&quot;11 November 2026 at 14:41&quot; datetime=&quot;2026-11-11T14:41:38Z&quot;&gt;about 2 hours ago&lt;/time&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Békéscsaba, Bartók Béla út 6.</title>
         <link>https://www.openstreetmap.org/note/5627329#c12579435</link>
@@ -12,7 +36,7 @@
         <pubDate>Wed, 11 Nov 2026 14:41:38 +0000</pubDate>
       </item><item>
         <title>new note 5627327 (near Békekertek, Békéscsaba) / 
-      Created &lt;time title=&quot;11 November 2026 at 14:41&quot; datetime=&quot;2026-11-11T14:41:05Z&quot;&gt;about 1 hour ago&lt;/time&gt;
+      Created &lt;time title=&quot;11 November 2026 at 14:41&quot; datetime=&quot;2026-11-11T14:41:05Z&quot;&gt;about 2 hours ago&lt;/time&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Békéscsaba Gyulai út 61.</title>
         <link>https://www.openstreetmap.org/note/5627327#c12579431</link>
@@ -25,7 +49,7 @@
   &lt;div class=&quot;note-comment-text&quot;&gt;zárt kapu
 
 #OsmAnd / 
-      Resolved &lt;time title=&quot;11 November 2026 at 14:36&quot; datetime=&quot;2026-11-11T14:36:14Z&quot;&gt;about 1 hour ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Szil%C3%A1gyiGyula&quot;&gt;SzilágyiGyula&lt;/a&gt;
+      Resolved &lt;time title=&quot;11 November 2026 at 14:36&quot; datetime=&quot;2026-11-11T14:36:14Z&quot;&gt;about 2 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Szil%C3%A1gyiGyula&quot;&gt;SzilágyiGyula&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Így van. Beállítom privátra.</title>
         <link>https://www.openstreetmap.org/note/4526135#c12579401</link>
@@ -36,7 +60,7 @@
       Created &lt;time title=&quot; 2 February 2026 at 15:06&quot; datetime=&quot;2026-02-02T15:06:24Z&quot;&gt;9 months ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Gyuszu&quot;&gt;Gyuszu&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Sebességmérő kamera / 
-      Resolved &lt;time title=&quot;11 November 2026 at 14:25&quot; datetime=&quot;2026-11-11T14:25:54Z&quot;&gt;about 1 hour ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Szil%C3%A1gyiGyula&quot;&gt;SzilágyiGyula&lt;/a&gt;
+      Resolved &lt;time title=&quot;11 November 2026 at 14:25&quot; datetime=&quot;2026-11-11T14:25:54Z&quot;&gt;about 2 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Szil%C3%A1gyiGyula&quot;&gt;SzilágyiGyula&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Így van.</title>
         <link>https://www.openstreetmap.org/note/5151969#c12579356</link>
@@ -58,7 +82,7 @@
       Updated &lt;time title=&quot;11 April 2025 at 08:07&quot; datetime=&quot;2025-04-11T08:07:10Z&quot;&gt;over 1 year ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Kecsege&quot;&gt;Kecsege&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;paerlee nem szerkesztett semmit, csak lezárta a jegyzetet, ezért újranyitom. / 
-      Updated &lt;time title=&quot;11 November 2026 at 14:21&quot; datetime=&quot;2026-11-11T14:21:11Z&quot;&gt;about 1 hour ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Szil%C3%A1gyiGyula&quot;&gt;SzilágyiGyula&lt;/a&gt;
+      Updated &lt;time title=&quot;11 November 2026 at 14:21&quot; datetime=&quot;2026-11-11T14:21:11Z&quot;&gt;about 2 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Szil%C3%A1gyiGyula&quot;&gt;SzilágyiGyula&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Mi a kérdés?</title>
         <link>https://www.openstreetmap.org/note/4665707#c12579346</link>
@@ -74,7 +98,7 @@ Ez a megálló megszűnt? Ellenőrizni kellene
 
 Attached photo(s):
 https://streetcomplete.app/p/319925.jpg / 
-      Updated &lt;time title=&quot;11 November 2026 at 14:20&quot; datetime=&quot;2026-11-11T14:20:06Z&quot;&gt;about 1 hour ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Szil%C3%A1gyiGyula&quot;&gt;SzilágyiGyula&lt;/a&gt;
+      Updated &lt;time title=&quot;11 November 2026 at 14:20&quot; datetime=&quot;2026-11-11T14:20:06Z&quot;&gt;about 2 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Szil%C3%A1gyiGyula&quot;&gt;SzilágyiGyula&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Hi! Checked on-site / via Street View, the bus stop is definitely still there (with the stop sign and infrastructure intact). It should remain on the map.</title>
         <link>https://www.openstreetmap.org/note/5089620#c12579337</link>
@@ -87,7 +111,7 @@ https://streetcomplete.app/p/319925.jpg /
   &lt;div class=&quot;note-comment-text&quot;&gt;LaBor
 Klub a LaBorban
 Betongyár / 
-      Updated &lt;time title=&quot;11 November 2026 at 14:14&quot; datetime=&quot;2026-11-11T14:14:23Z&quot;&gt;about 1 hour ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Szil%C3%A1gyiGyula&quot;&gt;SzilágyiGyula&lt;/a&gt;
+      Updated &lt;time title=&quot;11 November 2026 at 14:14&quot; datetime=&quot;2026-11-11T14:14:23Z&quot;&gt;about 2 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Szil%C3%A1gyiGyula&quot;&gt;SzilágyiGyula&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Mi a kérdés?</title>
         <link>https://www.openstreetmap.org/note/4162450#c12579314</link>
@@ -98,7 +122,7 @@ Betongyár /
       Created &lt;time title=&quot; 6 October 2024 at 07:27&quot; datetime=&quot;2024-10-06T07:27:12Z&quot;&gt;about 2 years ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/vasony&quot;&gt;vasony&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Mi szerepel az utcatáblán. Külső-Zanati út vagy Külső Zanati út/utca? / 
-      Updated &lt;time title=&quot;11 November 2026 at 14:12&quot; datetime=&quot;2026-11-11T14:12:33Z&quot;&gt;about 1 hour ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Szil%C3%A1gyiGyula&quot;&gt;SzilágyiGyula&lt;/a&gt;
+      Updated &lt;time title=&quot;11 November 2026 at 14:12&quot; datetime=&quot;2026-11-11T14:12:33Z&quot;&gt;about 2 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Szil%C3%A1gyiGyula&quot;&gt;SzilágyiGyula&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Külső Zanati út</title>
         <link>https://www.openstreetmap.org/note/4466667#c12579312</link>
@@ -113,7 +137,7 @@ Betongyár /
 place=farm wiki page ( https://wiki.openstreetmap.org/wiki/Tag:place=farm ) claims that it is solely for named farms.
 
 Is this tagged incorrectly? Is it named but name is missing from OSM? Is wiki wrong? / 
-      Updated &lt;time title=&quot;11 November 2026 at 14:10&quot; datetime=&quot;2026-11-11T14:10:01Z&quot;&gt;about 1 hour ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Szil%C3%A1gyiGyula&quot;&gt;SzilágyiGyula&lt;/a&gt;
+      Updated &lt;time title=&quot;11 November 2026 at 14:10&quot; datetime=&quot;2026-11-11T14:10:01Z&quot;&gt;about 2 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Szil%C3%A1gyiGyula&quot;&gt;SzilágyiGyula&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Hi Mateusz,
 
@@ -134,7 +158,7 @@ OSM snapshot date: 2026-06-24T00:53:17Z
 POI name: Szentendre-Belváros
 POI types: amenity-ferry_terminal
  #organicmaps android 2026.06.24-16-Google / 
-      Resolved &lt;time title=&quot;10 November 2026 at 22:38&quot; datetime=&quot;2026-11-10T22:38:46Z&quot;&gt;about 17 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/gymate&quot;&gt;gymate&lt;/a&gt;
+      Resolved &lt;time title=&quot;10 November 2026 at 22:38&quot; datetime=&quot;2026-11-10T22:38:46Z&quot;&gt;about 18 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/gymate&quot;&gt;gymate&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;I don&amp;#39;t see anything to add here. Let me know if I missed something!</title>
         <link>https://www.openstreetmap.org/note/5516315#c12576340</link>
@@ -142,10 +166,10 @@ POI types: amenity-ferry_terminal
         <pubDate>Tue, 10 Nov 2026 22:38:46 +0000</pubDate>
       </item><item>
         <title>closed note 5625988 (near Biri) / 
-      Created &lt;time title=&quot;10 November 2026 at 17:36&quot; datetime=&quot;2026-11-10T17:36:09Z&quot;&gt;about 22 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Sn%C3%A9%20R%20%C3%81gi&quot;&gt;Sné R Ági&lt;/a&gt;
+      Created &lt;time title=&quot;10 November 2026 at 17:36&quot; datetime=&quot;2026-11-10T17:36:09Z&quot;&gt;about 23 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Sn%C3%A9%20R%20%C3%81gi&quot;&gt;Sné R Ági&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Kolodko szobor: gróf Kállay János Péter (a falu alapítója) miniszobra / 
-      Resolved &lt;time title=&quot;10 November 2026 at 19:19&quot; datetime=&quot;2026-11-10T19:19:00Z&quot;&gt;about 20 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/qstep&quot;&gt;qstep&lt;/a&gt;
+      Resolved &lt;time title=&quot;10 November 2026 at 19:19&quot; datetime=&quot;2026-11-10T19:19:00Z&quot;&gt;about 21 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/qstep&quot;&gt;qstep&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Fent van már: https://www.openstreetmap.org/node/11815376257</title>
         <link>https://www.openstreetmap.org/note/5625988#c12575334</link>
@@ -153,7 +177,7 @@ POI types: amenity-ferry_terminal
         <pubDate>Tue, 10 Nov 2026 19:19:00 +0000</pubDate>
       </item><item>
         <title>new note 5625988 (near Biri) / 
-      Created &lt;time title=&quot;10 November 2026 at 17:36&quot; datetime=&quot;2026-11-10T17:36:09Z&quot;&gt;about 22 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Sn%C3%A9%20R%20%C3%81gi&quot;&gt;Sné R Ági&lt;/a&gt;
+      Created &lt;time title=&quot;10 November 2026 at 17:36&quot; datetime=&quot;2026-11-10T17:36:09Z&quot;&gt;about 23 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Sn%C3%A9%20R%20%C3%81gi&quot;&gt;Sné R Ági&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;Kolodko szobor: gróf Kállay János Péter (a falu alapítója) miniszobra</title>
         <link>https://www.openstreetmap.org/note/5625988#c12574876</link>
@@ -161,7 +185,7 @@ POI types: amenity-ferry_terminal
         <pubDate>Tue, 10 Nov 2026 17:36:09 +0000</pubDate>
       </item><item>
         <title>new note 5625900 (near Vica, Beled) / 
-      Created &lt;time title=&quot;10 November 2026 at 16:22&quot; datetime=&quot;2026-11-10T16:22:12Z&quot;&gt;about 23 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/efi99&quot;&gt;efi99&lt;/a&gt;
+      Created &lt;time title=&quot;10 November 2026 at 16:22&quot; datetime=&quot;2026-11-10T16:22:12Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/efi99&quot;&gt;efi99&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;cím jó?</title>
         <link>https://www.openstreetmap.org/note/5625900#c12574659</link>
@@ -169,7 +193,7 @@ POI types: amenity-ferry_terminal
         <pubDate>Tue, 10 Nov 2026 16:22:12 +0000</pubDate>
       </item><item>
         <title>new note 5625878 (near Vica, Beled) / 
-      Created &lt;time title=&quot;10 November 2026 at 16:05&quot; datetime=&quot;2026-11-10T16:05:08Z&quot;&gt;about 23 hours ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/efi99&quot;&gt;efi99&lt;/a&gt;
+      Created &lt;time title=&quot;10 November 2026 at 16:05&quot; datetime=&quot;2026-11-10T16:05:08Z&quot;&gt;1 day ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/efi99&quot;&gt;efi99&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;note-comment-text&quot;&gt;cím?</title>
         <link>https://www.openstreetmap.org/note/5625878#c12574608</link>
@@ -518,34 +542,6 @@ https://streetcomplete.app/p/382553.jpg</title>
         <link>https://www.openstreetmap.org/note/5622692#c12567092</link>
         <guid>https://www.openstreetmap.org/note/5622692#c12567092</guid>
         <pubDate>Sun, 08 Nov 2026 20:08:31 +0000</pubDate>
-      </item><item>
-        <title>new note 5622691 (near Öregfalu, Kozármisleny) / 
-      Created &lt;time title=&quot; 8 November 2026 at 20:08&quot; datetime=&quot;2026-11-08T20:08:29Z&quot;&gt;3 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Spush&quot;&gt;Spush&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Átlós parkolók és itt egy autó töltő
-
-Attached photo(s):
-https://streetcomplete.app/p/382552.jpg</title>
-        <link>https://www.openstreetmap.org/note/5622691#c12567091</link>
-        <guid>https://www.openstreetmap.org/note/5622691#c12567091</guid>
-        <pubDate>Sun, 08 Nov 2026 20:08:29 +0000</pubDate>
-      </item><item>
-        <title>new comment 5622684 (near Újfalu, Kozármisleny) / 
-      Created &lt;time title=&quot; 8 November 2026 at 20:08&quot; datetime=&quot;2026-11-08T20:08:12Z&quot;&gt;3 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Spush&quot;&gt;Spush&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Szobor
-
-Attached photo(s):
-https://streetcomplete.app/p/382546.jpg / 
-      Updated &lt;time title=&quot; 8 November 2026 at 20:08&quot; datetime=&quot;2026-11-08T20:08:26Z&quot;&gt;3 days ago&lt;/time&gt; by &lt;a class=&quot;mw-100 d-inline-block align-bottom text-truncate text-wrap&quot; dir=&quot;auto&quot; href=&quot;https://www.openstreetmap.org/user/Spush&quot;&gt;Spush&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;note-comment-text&quot;&gt;Start date 2026
-
-Attached photo(s):
-https://streetcomplete.app/p/382551.jpg</title>
-        <link>https://www.openstreetmap.org/note/5622684#c12567090</link>
-        <guid>https://www.openstreetmap.org/note/5622684#c12567090</guid>
-        <pubDate>Sun, 08 Nov 2026 20:08:26 +0000</pubDate>
       </item>
   </channel>
 </rss>
