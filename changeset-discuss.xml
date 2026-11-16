@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: petervelosy Discussion Comment No.: 3 Comment: Ezek az etimológiák korábbi MapComplete-es szerkesztésekből származnak, én ebben a changesetben csak kihúztam őket az utcák teljes hosszára. Köszi, nagyszerű ez a geojson dataset, nem ismertem. A Corvin körutat ennek megfelelően áttageltem és Wikidatán keresztül megadtam hozzá a forrást, a Pannónia út (és a Hungária út) viszont a datasetben nem szerepel. A Pannónia útról egyelőre levettem az etimológiát, csináltam neki egy Wikidata-itemet, és tettem rá egy fixme-t, hogy az etimológiát úgy tegye rá valaki vissza, hogy Wikidatán behivatkozza a forrását. Date: 2026-11-16T00:31:55+01:00</title>
+        <title>Contributor: qstep Discussion Comment No.: 4 Comment: Köszi a javítást! Az utcák szakaszait érdemes egy https://wiki.openstreetmap.org/wiki/Relation:street vagy https://wiki.openstreetmap.org/wiki/Relation:associatedStreet (elvileg ez az újabb de itthon kevésbé használt) relációba felvenni, és azon megadni az összesre jellemző tulajdonságot (name, wikidata), valamint hozzáadni az utcához tartozó címeket. Példa: https://www.openstreetmap.org/relation/19943315 Date: 2026-11-16T09:09:40+01:00</title>
         <link>https://www.openstreetmap.org/changeset/191967047</link>
-        <guid>https://www.openstreetmap.org/changeset/191967047#comment_3</guid>
-        <pubDate>2026-11-16T00:31:55+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/191967047#comment_4</guid>
+        <pubDate>2026-11-16T09:09:40+01:00</pubDate>
       </item><item>
         <title>Contributor: balint36 Discussion Comment No.: 1 Comment: Szeretem, hogy az ideiglenes állapotokat is le akarjuk görcsösen térképezni. Még 2026-ban is az szerepel a metró bal vágányán egyes helyeken, hogy jellemző forgalom rajta a teherszállítás. Date: 2026-11-14T13:54:10+01:00</title>
         <link>https://www.openstreetmap.org/changeset/120985398</link>
