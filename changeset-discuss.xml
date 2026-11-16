@@ -3,6 +3,11 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: pitscheplatsch Discussion Comment No.: 2 Comment: Looks good. #HappyMapping Date: 2026-11-16T20:27:13+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/192049032</link>
+        <guid>https://www.openstreetmap.org/changeset/192049032#comment_2</guid>
+        <pubDate>2026-11-16T20:27:13+01:00</pubDate>
+      </item><item>
         <title>Contributor: qstep Discussion Comment No.: 6 Comment: Ettől függetlenül mindegyik way-re kell az utcanév, de pl. a wikidata taget már a kapcsolatra tenném, hogy ne kelljen a szakaszokon ismételni. A street relation inkább arra való hogy az utca szakaszait, címeit, és esetleg hozzá tartozó szobrot, emléktáblát magába foglalja. Nem hinném hogy a renderer tud ezzel bármit csinálni, inkább a Wikidata szempontjából hasznos. Date: 2026-11-16T09:55:40+01:00</title>
         <link>https://www.openstreetmap.org/changeset/191967047</link>
         <guid>https://www.openstreetmap.org/changeset/191967047#comment_6</guid>
@@ -72,16 +77,6 @@
         <link>https://www.openstreetmap.org/changeset/191732765</link>
         <guid>https://www.openstreetmap.org/changeset/191732765#comment_4</guid>
         <pubDate>2026-11-10T12:04:09+01:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Szia. Mit szeretnél jelölni pontosan? Kétszer is elmagyaráztam, mi a helyes jelölés. Ilyen alapon az ország összes útjára vegyük fel a foot=yes-t mert nincs kint ilyen tábla? https://en.wikipedia.org/wiki/Road_signs_in_Hungary#/media/File:Hungary_road_sign_C-013.svg Továbbiakban kérdés nélkül visszavonom ezeket. Date: 2026-11-09T20:34:27+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/191710289</link>
-        <guid>https://www.openstreetmap.org/changeset/191710289#comment_1</guid>
-        <pubDate>2026-11-09T20:34:27+01:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Hi. You left some irrelevant tags and did not touch the post office node: https://www.openstreetmap.org/node/9580929575 I fixed it. Date: 2026-11-09T20:31:10+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/191104127</link>
-        <guid>https://www.openstreetmap.org/changeset/191104127#comment_1</guid>
-        <pubDate>2026-11-09T20:31:10+01:00</pubDate>
       </item>
   </channel>
 </rss>
