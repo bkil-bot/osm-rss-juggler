@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: qstep Discussion Comment No.: 3 Comment: Akárhogy forgatom a KRESZ-t és a Wikit, nem áll meg amit írsz. Ebben a szerkesztésben a Sorok utca végétől a körforgalomig az úttestre állítottad be a yes-t. Szerintem az autósok nem vennék jó néven, ha a Fraknó utcától a körforgalomig az út közepén gyalogolsz, mert szerinted jogod van hozzá. De mit mond a KRESZ? &quot;21. § (1) A gyalogosnak a járdán, ahol pedig járda nincs, a leállósávon, az útpadkán vagy a kerékpárúton kell közlekednie. (2) * Ha az úton sem járda, sem leállósáv, sem útpadka, sem kerékpárút nincs – vagy az a gyalogosközlekedésre, illetőleg a kerekes székkel való közlekedésre alkalmatlan –, a gyalogosok az úttesten közlekedhetnek.&quot; Nekem utcaképről úgy tűnik, hogy majdnem végig mindkét oldalon, egy szakaszon pedig csak egyik oldalon van járda. Ez és a Wiki alapján, bár felesleges, de megadható az úttesten a foot=use_sidepath, ami ezt jelöli: &quot;In some countries it is generally mandatory for pedestrians to use a parallel compulsory sidepath where it exists. On OSM, this can be indicated by tagging the main road as foot=use_sidepath if the sidepath is mapped separately.&quot; Még szebb, ha használod mellé a https://wiki.openstreetmap.org/wiki/Key:sidewalk left/right/both = yes/no/separate címkéket. A StreetComplete app ebben nagy segítség. Abban igazad van, hogy a foot=no helytelen volt, mert gondolom nem tiltja tábla, mivel van járda. Béke! &quot;...dolgozni csak pontosan, szépen, ahogy a csillag megy az égen, ugy érdemes.&quot; Date: 2026-11-17T19:58:20+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/191710289</link>
+        <guid>https://www.openstreetmap.org/changeset/191710289#comment_3</guid>
+        <pubDate>2026-11-17T19:58:20+01:00</pubDate>
+      </item><item>
         <title>Contributor: toboz Discussion Comment No.: 6 Comment: Felveszem, köszi, hogy emlékeztetsz. Éppenséggel lehet tematikus térképet is csinálni, de azt hiszem, hogy a building:design tag panelházakon kívül máshol nincs használatban, így a legtöbb helyen nem mutatna semmit. Én amikor wekerlei házakat szerkesztek egyszerűbbnek találtam a JOSM beépített keresőjét használni, pl. így: building=* &quot;addr:postcode&quot;=1192 -&quot;building:design&quot;=* Ez pont kiemeli azokat a wekerlei lakóházakat amiken még nincs building:design tag. Date: 2026-11-17T18:30:12+01:00</title>
         <link>https://www.openstreetmap.org/changeset/192008986</link>
         <guid>https://www.openstreetmap.org/changeset/192008986#comment_6</guid>
         <pubDate>2026-11-17T18:30:12+01:00</pubDate>
-      </item><item>
-        <title>Contributor: SzilágyiGyula Discussion Comment No.: 2 Comment: A stílusod nem minősítem, magáért beszél. 1. A magyar szabályok pontosan kimondják milyen utakon tilos a gyalogos forgalom jelölés nélkül: pl autópálya, gyorsforgalmi, stb. 2. Emellett egyértelmű hogy mindenhol tilos ahol kint a tiltó tábla. 3. Az OSM is kimondja hogy csak oda lehet foot=no jelölést tenni ahol ez tiltva van. Ezekből kiindulva amit tömegesen művelsz a módosításaimmal az nem helyes. Ha pl egy városon belül a lakó útrara teszem a foot=yes-t azzal sem jogilag, sem törvényileg, sem OSM szerint nem csináltam semmi rosszat, szabálysértőt. Minden tiszteletem a tied mert Te is mint itt mindenki önként javaitgatod a térképet a saját szabadidősben. Ne arra használjuk már hogy szivassuk egymást. Pacsi Date: 2026-11-17T18:08:31+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/191710289</link>
-        <guid>https://www.openstreetmap.org/changeset/191710289#comment_2</guid>
-        <pubDate>2026-11-17T18:08:31+01:00</pubDate>
       </item><item>
         <title>Contributor: pitscheplatsch Discussion Comment No.: 2 Comment: Looks good. #HappyMapping Date: 2026-11-16T20:27:13+01:00</title>
         <link>https://www.openstreetmap.org/changeset/192049032</link>
