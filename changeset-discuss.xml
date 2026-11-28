@@ -3,15 +3,15 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
+        <title>Contributor: cortina d'ampezzo Discussion Comment No.: 2 Comment: Váci road is a complete mess. Even though the sidewalks are mapped separately on both sides, the road itself is also marked as accessible on foot. I fixed some of these sections after running this script: [out:json][timeout:90]; {{geocodeArea:Budapest}}-&gt;.a; way(area.a)[&quot;name&quot;=&quot;Váci út&quot;][&quot;highway&quot;]-&gt;.v; ( way.v[&quot;highway&quot;=&quot;footway&quot;]; way.v[&quot;foot&quot;=&quot;yes&quot;]; way.v[&quot;sidewalk&quot;~&quot;^(yes|left|right|both|separate)$&quot;]; way(around.v:30)[&quot;highway&quot;=&quot;footway&quot;]; way(around.v:30)[&quot;highway&quot;][&quot;foot&quot;=&quot;yes&quot;]; ); out geom; Date: 2026-11-28T06:28:26+01:00</title>
+        <link>https://www.openstreetmap.org/changeset/192561067</link>
+        <guid>https://www.openstreetmap.org/changeset/192561067#comment_2</guid>
+        <pubDate>2026-11-28T06:28:26+01:00</pubDate>
+      </item><item>
         <title>Contributor: osm_poi_matchmaker Discussion Comment No.: 2 Comment: Szia balint36! Köszi a visszajelzést, megnézem mi történt, mert a honlapról eltűnt az Extra megnevezés. Visszajelzek! Meg keresek Extrát meg Hipert, hogy lássam milyen néven futnak most. Date: 2026-11-28T03:32:10+01:00</title>
         <link>https://www.openstreetmap.org/changeset/189187732</link>
         <guid>https://www.openstreetmap.org/changeset/189187732#comment_2</guid>
         <pubDate>2026-11-28T03:32:10+01:00</pubDate>
-      </item><item>
-        <title>Contributor: qstep Discussion Comment No.: 1 Comment: Yes, highways marked as secondary are not footways. If they were, they would be marked as highway=footway , but they aren't. Is there any routing software that plans pedestrian route on these highways? Date: 2026-11-27T23:38:43+01:00</title>
-        <link>https://www.openstreetmap.org/changeset/192561067</link>
-        <guid>https://www.openstreetmap.org/changeset/192561067#comment_1</guid>
-        <pubDate>2026-11-27T23:38:43+01:00</pubDate>
       </item><item>
         <title>Contributor: gymate Discussion Comment No.: 7 Comment: Szia András! Szerintem itt nincs olyan, hogy helyes vagy helytelen megnevezés, mert különböző hivatalosnak mondható dokumentumokban eltérően hívják a szolgálati helyeket. Olyan viszont van, hogy mi melyik forrást tartjuk mérvadónak. Vasútvonalaknál két éve a HÜSZ-t választottuk etalonnak (https://wiki.openstreetmap.org/wiki/Hungary/Vasútvonalak#Vasútvonalak_számozása), így a szolgálati helyeknél is ezt javasoljuk Bálinttal, hogy összhangban legyen a kettő. Hozzá is adtam ezt a szabályt a Wikihez: https://wiki.openstreetmap.org/wiki/Hungary/Vasút#Vasútállomások_és_megállók Kérjük, eszerint add hozzá a továbbiakban a szolgálati helyek nevét a térképhez! Előre is köszönjük! Date: 2026-11-27T17:18:46+01:00</title>
         <link>https://www.openstreetmap.org/changeset/192285428</link>
