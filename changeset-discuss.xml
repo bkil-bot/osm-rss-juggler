@@ -3,10 +3,10 @@
   <channel>
     <title>Changeset discussion (via bkil-bot)</title>
       <item>
-        <title>Contributor: cortina d'ampezzo Discussion Comment No.: 2 Comment: Váci road is a complete mess. Even though the sidewalks are mapped separately on both sides, the road itself is also marked as accessible on foot. I fixed some of these sections after running this script: [out:json][timeout:90]; {{geocodeArea:Budapest}}-&gt;.a; way(area.a)[&quot;name&quot;=&quot;Váci út&quot;][&quot;highway&quot;]-&gt;.v; ( way.v[&quot;highway&quot;=&quot;footway&quot;]; way.v[&quot;foot&quot;=&quot;yes&quot;]; way.v[&quot;sidewalk&quot;~&quot;^(yes|left|right|both|separate)$&quot;]; way(around.v:30)[&quot;highway&quot;=&quot;footway&quot;]; way(around.v:30)[&quot;highway&quot;][&quot;foot&quot;=&quot;yes&quot;]; ); out geom; Date: 2026-11-28T06:28:26+01:00</title>
+        <title>Contributor: cortina d'ampezzo Discussion Comment No.: 4 Comment: My Overpass query might be wrong, but pedestrian access is set to yes by default in the iD editor, even without an explicit foot=yes tag. I changed this because the sidewalks are already mapped separately on both sides of the road. I understand that this change might be unnecessary, but I don't think it's incorrect. Thanks for the foot=use_sidepath suggestion, I'll use it. Date: 2026-11-28T09:58:39+01:00</title>
         <link>https://www.openstreetmap.org/changeset/192561067</link>
-        <guid>https://www.openstreetmap.org/changeset/192561067#comment_2</guid>
-        <pubDate>2026-11-28T06:28:26+01:00</pubDate>
+        <guid>https://www.openstreetmap.org/changeset/192561067#comment_4</guid>
+        <pubDate>2026-11-28T09:58:39+01:00</pubDate>
       </item><item>
         <title>Contributor: osm_poi_matchmaker Discussion Comment No.: 2 Comment: Szia balint36! Köszi a visszajelzést, megnézem mi történt, mert a honlapról eltűnt az Extra megnevezés. Visszajelzek! Meg keresek Extrát meg Hipert, hogy lássam milyen néven futnak most. Date: 2026-11-28T03:32:10+01:00</title>
         <link>https://www.openstreetmap.org/changeset/189187732</link>
